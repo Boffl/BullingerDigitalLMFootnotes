@@ -1,0 +1,2744 @@
+<letters xmlns="http://www.tei-c.org/ns/1.0">
+  <letter letter_id="1000">
+    <note xml:id="fn1" type="footnote" n="1">Hooper.</note>
+    <note xml:id="fn2" type="footnote" n="2">Caesarius an Bullinger, 24. August [Bartholom&#228;ustag] 1550 oder 1551? Z&#252;rich ZB, Ms Z II 3045.01 (Depot Evang.-ref. Kirchenrat)</note>
+  </letter>
+  <letter letter_id="10013">
+    <note xml:id="fn3" type="footnote" n="3"><persName>Wolfgang Joner, gen. R&#252;plin</persName>, Abt des Zisterzienserklosters Kappel am Albis. - Er gr&#252;ndete die Klosterschule und ernannte am 17. Januar 1523 Bullinger zu deren Schulmeister; s. <bibl>HBBW</bibl> I <ref target="file10017">[Nr. 2]</ref> 48f, Anm. 4.</note>
+    <note xml:id="fn4" type="footnote" n="4">Vgl. dazu etwa Bullingers Aufzeichnungen &#252;ber seine Lekt&#252;re w&#228;hrend seiner Schulund Studienzeit sowie als Lehrer im Kloster Kappel in <bibl>HBD</bibl> 2-8.</note>
+    <note xml:id="fn5" type="footnote" n="5">= exercites.</note>
+    <note xml:id="fn6" type="footnote" n="6">Die Rede ist hier von handschriftlichen Abhandlungen (die ersten gedruckten Schriften aus Bullingers Feder sind erst 1526 erschienen; s. <bibl>HBBibl</bibl> I 3f). In seinem Diarium listet Bullinger die von ihm in Kappel (1523-1529) verfassten Schriften auf (s. <bibl>HBD</bibl> 13-16), von denen die eine oder andere bereits in Dezember 1523 fertiggestellt worden sein k&#246;nnte, und beendet seine Aufz&#228;hlung mit folgender Angabe: &#8222;Anno Domini 1520 latine scripsimus duos dialogos adversus scholasticos theologos, duos item adversus Pipericornum [Johannes alias Josef Pfefferkorn] pro Ioanne Reuchlino, unum quoque, quem &#8222;Promotores&#8220; nuncupavimus. Hos omnes latine scripsimus.&#8220;</note>
+    <note xml:id="fn7" type="footnote" n="7">Cicero, Tusculanae disputationes, 1, 2, 4.</note>
+    <note xml:id="fn8" type="footnote" n="8">1Kor 2, 2.</note>
+    <note xml:id="fn9" type="footnote" n="9">Siehe <persName>Plinius d.&#196;.</persName>, Naturalis historia, 10, 63.</note>
+    <note xml:id="fn10" type="footnote" n="10">Vgl. Gal 2, 20.</note>
+    <note xml:id="fn11" type="footnote" n="11">Hebr 4, 12.</note>
+    <note xml:id="fn12" type="footnote" n="12">Vergil, Aeneis, 6, 743.</note>
+    <note xml:id="fn13" type="footnote" n="13">Bileam, ein Priester der Moabiter, der seinem Volk beibrachte, wie man die verfeindeten Israeliten dazu veranlassen k&#246;nnte, Gott zu verlassen, um so ihren eigenen Niedergang herbeizuf&#252;hren; s. Num 31, 16; Apok 2, 14. - Bileam steht hier f&#252;r die katholischen Priester.</note>
+    <note xml:id="fn14" type="footnote" n="14">Vgl. Joh 12, 40.</note>
+    <note xml:id="fn15" type="footnote" n="15">Zu diesem Ausdruck vgl. Horaz, Carmina, 2, 18, 34, &#252;ber den F&#228;hrmann Charon, der die Toten in das Reich des Hades bringt.</note>
+    <note xml:id="fn16" type="footnote" n="16">quid in procinctu tibi esse: was dir bevorsteht.</note>
+    <note xml:id="fn17" type="footnote" n="17">Der unten in Z. 259 namentlich genannte <persName>Hugo von Hohenlandenberg</persName> (geb. 1460, gest. 1532), Bischof der Konstanzer Di&#246;zese, welcher sowohl M&#252;ller als Bullinger angeh&#246;rten; s. <bibl>Helvetia Sacra</bibl> II/1 376-385.</note>
+    <note xml:id="fn18" type="footnote" n="18">Vgl. <bibl>Adagia</bibl> 1, 3, 41 (<bibl>ASD</bibl> II/1 354, <ref target="file10272">Nr. 241</ref>).</note>
+    <note xml:id="fn19" type="footnote" n="19">Vgl. Martial, Epigramme, 4, 5, 7f.</note>
+    <note xml:id="fn20" type="footnote" n="20">Durch die Kirchensteuern.</note>
+    <note xml:id="fn21" type="footnote" n="21">Vgl. Joh 10, 12; Apg 20, 29.</note>
+    <note xml:id="fn22" type="footnote" n="22">Des Bischofs.</note>
+    <note xml:id="fn23" type="footnote" n="23">Vgl. Lk 10, 16; 16, 31.</note>
+    <note xml:id="fn24" type="footnote" n="24">Prosodisch inkorrekt.</note>
+    <note xml:id="fn25" type="footnote" n="25">Vgl. Joh 14, 15. 23f.</note>
+    <note xml:id="fn26" type="footnote" n="26">Vgl. 1Kor 9, 26.</note>
+    <note xml:id="fn27" type="footnote" n="27">Vgl. Martial, Epigramme, 5, 39, 7.</note>
+    <note xml:id="fn28" type="footnote" n="28">Vielleicht <persName>Beatus Widmer</persName> (geb. 1487, gest. 1533), Kleriker des Bistums Konstanz und Verfasser einer Bistumschronik. Von 1507 bis 1520 &#8222;notarius collateralis&#8220; der Konstanzer Offizialatskurie. Seit dem 13. Oktober 1523 auch p&#228;pstlicher Notar; s. Peter-Johannes Schuler, Notare S&#252;dwestdeutschlands. Textband, Stuttgart 1987, S. 506f, <ref target="file11540">Nr. 1497</ref>; Pia Ulrike Eckhart, Ursprung und Gegenwart. Geschichtsschreibung in der Bischofsstadt und das Werk des Konstanzer Notars <persName>Beatus Widmer</persName> (1475-ca. 1533), Stuttgart 2016.</note>
+    <note xml:id="fn29" type="footnote" n="29">Vielleicht Johann Spreter (Spr&#228;ter), der 1520 als Fiskal der Konstanzer Kurie belegt ist und am 2. Januar 1522 auf Beschluss des Bischofs als Insiegler vorgeschlagen wurde; s. <bibl>Helvetia Sacra</bibl> II/2 607-614. 623f. Ob er dieses Amt noch 1523/24 innehatte, ist nicht klar.</note>
+    <note xml:id="fn30" type="footnote" n="30">Matho, ein reicher Anwalt, sowohl in den Satiren Juvenals als auch in den Epigrammen Martials.</note>
+    <note xml:id="fn31" type="footnote" n="31">Vermutlich Johann Fridinger, von 1510 bis 1527 Offizial unter Bischof <persName>Hugo von Hohenlandenberg</persName> und ab 1518 auch h&#228;ufig Vizegeneralvikar. Er war Dr. iur. utr. und Advokat der bisch&#246;flichen Kurie; s. <bibl>Helvetia Sacra</bibl> II/2 597.</note>
+    <note xml:id="fn32" type="footnote" n="32">Hofmeister; Verwalter. - Vermutlich Dr. iur. Georg Vergenhans, seit Juni 1520 Verwalter der Propstei. Im Januar 1523 hatte er zusammen mit <persName>Johannes Fabri</persName> an der ersten Z&#252;rcher Disputation teilgenommen. Am 10. September 1523 war er vom Kapitel zum Dekan gew&#228;hlt worden; s. <bibl>Helvetia Sacra</bibl> II/2 821f.</note>
+    <note xml:id="fn33" type="footnote" n="33">= plebano (Leutpriester, Dorfpfarrer). - Vgl. M&#252;llers Unterschrift in seinem Brief an Zwingli vom 16. August 1522: &#8222;Iodocus M&#252;ller, plebeianus in Chamm ...&#8220; (<bibl>Z</bibl> VII 560).</note>
+    <note xml:id="fn34" type="footnote" n="34">Vgl. Martial, Epigramme, 10, 37, 13f.</note>
+    <note xml:id="fn35" type="footnote" n="35">Siehe dazu vielleicht unten Anm. 92.</note>
+    <note xml:id="fn36" type="footnote" n="36">Hier als indecoris zu verstehen; s. Thesaurus linguae Latinae, Bd. VII/1 1126f.</note>
+    <note xml:id="fn37" type="footnote" n="37">Die Salier-Priester hielten j&#228;hrlich im M&#228;rz beim Marskult mit ihren Schilden einen Umzug ab und f&#252;hrten dabei Waffent&#228;nze auf.</note>
+    <note xml:id="fn38" type="footnote" n="38"><bibl>Adagia</bibl> 1, 2, 53 (<bibl>ASD</bibl> II/1 268, <ref target="file10184">Nr. 153</ref>).</note>
+    <note xml:id="fn39" type="footnote" n="39">Vgl. <bibl>Adagia</bibl> 1, 1, 40f (<bibl>ASD</bibl> II/1 154-156, Nr. 40f).</note>
+    <note xml:id="fn40" type="footnote" n="40">Vgl. <bibl>Adagia</bibl> 1, 4, 35. 37 (<bibl>ASD</bibl> II/1 434- 436, <ref target="file10367">Nr. 335</ref>. 337); 1, 7, 22 (<bibl>ASD</bibl> II/2 146, <ref target="file10660">Nr. 622</ref>).</note>
+    <note xml:id="fn41" type="footnote" n="41">Offenbar sind hier sp&#246;ttische Gesten wie Eselsohren gemeint; vgl. etwa Persius, Satiren, 1, 58f.</note>
+    <note xml:id="fn42" type="footnote" n="42">Zu verstehen: St&#252;mper-Kapl&#228;ne.</note>
+    <note xml:id="fn43" type="footnote" n="43">Bezogen auf &#8222;plebs&#8220;; vgl. <bibl>Stotz</bibl> IV 149, Nr. 74.4.</note>
+    <note xml:id="fn44" type="footnote" n="44">Hier vielleicht im Sinne von dem durch ein Testament verf&#252;gtes Erbe. Vielleicht aber liegt hier eine Verschreibung f&#252;r das Wort diaeteta (Schiedsrichter) vor, welches in diesem Zusammenhang als &#8222;Gastrokritiker&#8220; zu verstehen w&#228;re.</note>
+    <note xml:id="fn45" type="footnote" n="45">Theon, ein schm&#228;hs&#252;chtiger Neider bei Horaz, Epistulae, 1, 18, 82; vgl. <bibl>Adagia</bibl> 2, 2, 55 (<bibl>ASD</bibl> II/3 171f, <ref target="file11198">Nr. 1155</ref>).</note>
+    <note xml:id="fn46" type="footnote" n="46">Vgl. Martial, Epigramme, 6, 34, 2f, sowie Iacopo Sannazaro, Ad amicam, 5, zitiert in: Eckard Lef&#232;vre, Von Catull zu Du Bellay. Einige Gedanken zur neulateinischen Mittlerrolle zwischen antiker und neuzeitlicher Dichtung, in: Die neulateinische Dichtung in Frankreich zur Zeit der Pl&#233;iade - La Po&#233;sie n&#233;o-latine en France au temps de la Pl&#233;iade, hg. von Marie-France Guipponi-Gineste et al., T&#252;bingen 2015, S. 131.</note>
+    <note xml:id="fn47" type="footnote" n="47">Hier wohl im Sinne von Gesch&#228;fte.</note>
+    <note xml:id="fn48" type="footnote" n="48">Gemeinde; Kirchenvolk; vgl. <bibl>Stotz</bibl> II 16f, Nr. 14.8.</note>
+    <note xml:id="fn49" type="footnote" n="49">Dienstmann; vgl. <bibl>Stotz</bibl> I 406f, Nr. 29.15.</note>
+    <note xml:id="fn50" type="footnote" n="50">Attis, der Geliebte der phrygischen G&#246;ttin Kybele, der sich selbst kastrierte; s. Rosario Moreno Soldevila et al., A Prosopography to Martial&#8217;s Epigrams, Berlin/Boston 2019, S. 69f.</note>
+    <note xml:id="fn51" type="footnote" n="51">Galli hie&#223;en die Priester der Kybele.</note>
+    <note xml:id="fn52" type="footnote" n="52">Zu verstehen: phrygisch.</note>
+    <note xml:id="fn53" type="footnote" n="53">Bischof <persName>Hugo von Hohenlandenberg</persName>.</note>
+    <note xml:id="fn54" type="footnote" n="54">Gemeint ist <persName>Johannes Fabri</persName>. - Auch in der polemischen Schrift &#8222;Gyrenrupffen&#8220; (Das Geierrupfen), die einige Z&#252;rcher gegen ihn richteten, wurde er so bezeichnet; s. Artur Angst, Heigerlin oder Schmid? Der Familienname des in Leutkirch geborenen Wiener Bischofs und Kontroverstheologen Dr. <persName>Johannes Fabri</persName> (1478-1541), in: Rottenburger Jahrbuch f&#252;r Kirchengeschichte 3, 1984, S. 202.</note>
+    <note xml:id="fn55" type="footnote" n="55">Vgl. <bibl>Adagia</bibl> 1, 1, 67 (<bibl>ASD</bibl> II/1 176, Nr. 67).</note>
+    <note xml:id="fn56" type="footnote" n="56">Die Sechs als W&#252;rfelzahl.</note>
+    <note xml:id="fn57" type="footnote" n="57">= vult; s. <bibl>Stotz</bibl> IV 218f, <ref target="file10156">Nr. 125</ref>.2.</note>
+    <note xml:id="fn58" type="footnote" n="58">= toris.</note>
+    <note xml:id="fn59" type="footnote" n="59">Vgl. Persius, Satiren, 4, 17.</note>
+    <note xml:id="fn60" type="footnote" n="60">= Lyaeus: Sorgenl&#246;ser, Beiname des Bacchus und des Weins.</note>
+    <note xml:id="fn61" type="footnote" n="61">Horaz, Sermones, 1, 5, 53.</note>
+    <note xml:id="fn62" type="footnote" n="62">Hier vermutlich aus prosodischen Gr&#252;nden f&#252;r omenta (fette Eingeweide) verwendet; vgl. Thesaurus linguae Latinae, Bd. IX/2, 578.</note>
+    <note xml:id="fn63" type="footnote" n="63">Anspielung auf Martial, Epigramme, 12, 48, 11.</note>
+    <note xml:id="fn64" type="footnote" n="64">Die phrygische G&#246;ttin Kybele (Magna Mater), deren Kult von ihren Galli-Priestern im April gefeiert wurde. Letztere werden auch &#246;fters in Martials Epigrammen genannt, von denen sich M&#252;ller in der vorliegenden Dichtung immer wieder inspirieren lie&#223;.</note>
+    <note xml:id="fn65" type="footnote" n="65">Besitz; Pfr&#252;nde; s. etwa Peter Schuster, Ehre und Recht. &#220;berlegungen zu einer Begriffsund Sozialgeschichte zweier Grundbegriffe der mittelalterlichen Gesellschaft, in: Ehrkonzepte in der Fr&#252;hen Neuzeit. Identit&#228;ten und Abgrenzungen, hg. von Sibylle Bachmann et al., Berlin 1998, S. 42.</note>
+    <note xml:id="fn66" type="footnote" n="66">Vgl. Juvenal, Satiren, 5, 62.</note>
+    <note xml:id="fn67" type="footnote" n="67">Vgl. <bibl>Adagia</bibl> 2, 8, 4 (<bibl>ASD</bibl> II/4 156, <ref target="file11749">Nr. 1704</ref>).</note>
+    <note xml:id="fn68" type="footnote" n="68">= hebes.</note>
+    <note xml:id="fn69" type="footnote" n="69">Gemeint sind die Unterweltsfluten.</note>
+    <note xml:id="fn70" type="footnote" n="70">Zu diesen Versen vgl. Martial, Epigramme, 1, 78.</note>
+    <note xml:id="fn71" type="footnote" n="71">Ketzer, die behaupteten, Gott h&#228;tte menschliche Gestalt.</note>
+    <note xml:id="fn72" type="footnote" n="72">Rechnungen.</note>
+    <note xml:id="fn73" type="footnote" n="73">= caeno.</note>
+    <note xml:id="fn74" type="footnote" n="74">Eine R&#246;merin, die sich einen h&#228;sslichen Liebhaber ausgesucht hatte; vgl. <bibl>Adagia</bibl> 1, 3, 58 (<bibl>ASD</bibl> II/1 368, <ref target="file10289">Nr. 258</ref>), und Horaz, Satiren, 1, 2, 91.</note>
+    <note xml:id="fn75" type="footnote" n="75">Vgl. <bibl>Adagia</bibl> 1, 3, 55 (<bibl>ASD</bibl> II/1 366, <ref target="file10286">Nr. 255</ref>).</note>
+    <note xml:id="fn76" type="footnote" n="76"><bibl>Adagia</bibl> 2, 9, 8 (<bibl>ASD</bibl> II/4 223, <ref target="file11854">Nr. 1808</ref>). - Der Hafen von Torone in Mazedonien soll sehr still gewesen sein, weil die Hafenkais das Meeresger&#228;usch d&#228;mpften; s. Konstantin Boshnakov, Die Thraker s&#252;dlich vom Balkan in den &#8222;Geographika&#8220; Strabos. Quellenkritische Untersuchungen, Wiesbaden/Stuttgart 2003, S. 129.</note>
+    <note xml:id="fn77" type="footnote" n="77"><bibl>Adagia</bibl> 2, 6, 34 (<bibl>ASD</bibl> II/4 42-45, <ref target="file11577">Nr. 1534</ref>). - Die Kimmerier lebten im &#228;u&#223;ersten Norden und in ewiger Dunkelheit.</note>
+    <note xml:id="fn78" type="footnote" n="78">Amyntor verh&#228;ngte zornig den Fluch der Kinderlosigkeit &#252;ber seinen Sohn Phoinix, weil dieser seine Geliebte verf&#252;hrt hatte.</note>
+    <note xml:id="fn79" type="footnote" n="79">Anspielung auf den Typus des &#8222;servus callidus&#8220; in der r&#246;mischen Kom&#246;die.</note>
+    <note xml:id="fn80" type="footnote" n="80">Vgl. Martial, Epigramme, 9, 25, 2.</note>
+    <note xml:id="fn81" type="footnote" n="81">Die h&#228;sslichen Gorgonen verwandelten jeden, der sie ansah, in Stein; s. Der Neue Pauly, s.v. Gorgo (online).</note>
+    <note xml:id="fn82" type="footnote" n="82">Zu diesen Versen vgl. Martial, Epigramme, 9, 25, 3-5.</note>
+    <note xml:id="fn83" type="footnote" n="83">Der ph&#246;nizische K&#246;nigssohn Phineus wurde von den Harpyien gepeinigt, die ihm die Speisen raubten und beschmutzten, so dass er immer hungerte.</note>
+    <note xml:id="fn84" type="footnote" n="84"><persName>&#214;dipus</persName>, der unwissentlich seinen Vater t&#246;tete, seine Mutter heiratete und sich die Augen ausstach, als er es erfuhr. - Zum Vers vgl. Martial, Epigramme, 9, 25, 9f.</note>
+    <note xml:id="fn85" type="footnote" n="85">Vgl. Martial, Epigramme, 10, 48, 7.</note>
+    <note xml:id="fn86" type="footnote" n="86">= adiutor (Gehilfe). - Gemeint ist hier der Generalvikar <persName>Johannes Fabri</persName>; s. unten Z. 444.</note>
+    <note xml:id="fn87" type="footnote" n="87">zaes, ein Fisch, der lat. faber hei&#223;t. - Hier eine Anspielung auf <persName>Johannes Fabri</persName>.</note>
+    <note xml:id="fn88" type="footnote" n="88">Juvenal, Satiren, 9, 25.</note>
+    <note xml:id="fn89" type="footnote" n="89">Ein h&#228;sslicher, schm&#228;hs&#252;chtiger Grieche vor Troja.</note>
+    <note xml:id="fn90" type="footnote" n="90">D&#228;dalus, Erfinder des Labyrinths auf Kreta.</note>
+    <note xml:id="fn91" type="footnote" n="91">Gattin des K&#246;nigs Minos, die D&#228;dalus damit beauftragt hatte, ihr eine falsche Kuh zu verfertigen, um den von ihr geliebten Stier zu t&#228;uschen - sie versteckte sich in der Kuh, und der Stier zeugte mit ihr den <persName>Minotaurus</persName>, der sp&#228;ter im Labyrinth eingeschlossen wurde.</note>
+    <note xml:id="fn92" type="footnote" n="92"><persName>Johannes Fabri</persName> stammte aus Leutkirch (Oberschwaben).</note>
+    <note xml:id="fn93" type="footnote" n="93">Hercules, der gegen die Hydra k&#228;mpfte, welcher immer neue K&#246;pfe nachwuchsen.</note>
+    <note xml:id="fn94" type="footnote" n="94">Brigantino lacu: Bregenzer See (= Bodensee).</note>
+    <note xml:id="fn95" type="footnote" n="95">Hercules hatte von Apollo vergiftete Pfeile erhalten. Damit wurde der Adler erlegt.</note>
+    <note xml:id="fn96" type="footnote" n="96">zu Bacchus und zum Wein geh&#246;rend.</note>
+    <note xml:id="fn97" type="footnote" n="97">Siehe dazu oben Anm. 54.</note>
+    <note xml:id="fn98" type="footnote" n="98">Hier wohl wie bei L. Junius Moderatus Columella als aufgegrabene Erdklumpen zu verstehen.</note>
+    <note xml:id="fn99" type="footnote" n="99">Vgl. Ovid, Metamorphosen, 15, 414f; <persName>Plinius d.&#196;.</persName>, Naturalis historia, 37, 52, 5.</note>
+    <note xml:id="fn100" type="footnote" n="100">Vgl. Ovid, Metamorphosen, 15, 409f; <persName>Plinius d.&#196;.</persName>, Naturalis historia, 8, 105; 11, 177.</note>
+    <note xml:id="fn101" type="footnote" n="101">Vgl. Vergil, Eclogae, 3, 111.</note>
+    <note xml:id="fn102" type="footnote" n="102">Der Name eines Gottes, den die alten Griechen mit dem Abendstern in Verbindung brachten, ehe sie erfuhren, dass es sich dabei um den Planeten Venus, die G&#246;ttin des sexuellen Verlangens und der Sch&#246;nheit, handelte, so dass hier Hesperus als das m&#228;nnliche Pendant von Venus aufzufassen ist.</note>
+    <note xml:id="fn103" type="footnote" n="103">Vgl. Vergil, Eclogae, 10, 77.</note>
+    <note xml:id="fn104" type="footnote" n="104">M&#252;ller spricht von den in seinen Versen verwendeten W&#246;rtern und vom Inhalt (sensus) seines Gedichtes.</note>
+    <note xml:id="fn105" type="footnote" n="105">= vitilitigatores.</note>
+    <note xml:id="fn106" type="footnote" n="106">Die altgl&#228;ubigen Scholastiker.</note>
+    <note xml:id="fn107" type="footnote" n="107">Ovid, Epistulae ex Ponto, 2, 6, 38.</note>
+    <note xml:id="fn108" type="footnote" n="108">= fartus; s. <bibl>Kirsch</bibl> 1169f.</note>
+    <note xml:id="fn109" type="footnote" n="109">Apicius, ein r&#246;mischer Feinschmecker und Meister der Kochkunst.</note>
+    <note xml:id="fn110" type="footnote" n="110">Sardanapal (auch Assurbanipal), ein K&#246;nig Assyriens, ber&#252;chtigt f&#252;r seine Ausschweifungen. - Da M&#252;ller den hier von ihm angeprangerten Spitzel mit einer politischen Figur, bzw. mit Sardanapal, in Verbindung bringt, dem es m&#246;glich war, Menschen zu verhaften (s. unten Z. 511f), wird hier der seit 1489 immer wieder abwechslungsweise belegte Chamer Obervogt und Hauptmann Heinrich Sch&#246;nbrunner d.&#196;. (gest. 22. Juni 1528) gemeint sein, der nicht mit seinem gleichnamigen Sohn (gest. 6. Juni 1537), Hauptmann und Verfasser einer Chronik, und ebenfalls vehementer Gegner der Reformation, zu verwechseln ist; s. Franz Carl Stadlin, Die Geschichten der Stadtgemeinden Zug [= Topographie des Kantons Zug IV], Luzern 1824, S. 310f (zum Vater); 399 (zum Sohn), Anm. 401; Wilhelm Meyer, Der Chronist Werner Steiner (1492-1542): ein Beitrag zur Reformationsgeschichte von Zug, in: Der Geschichtsfreund. Mitteilungen des Historischen Vereins Zentralschweiz LXV, 1910, S. 91, Anm. 5; 102; 112f; 128; 129 und Anm. 5; 130 (zum Vater); <bibl>HBBW III</bibl> <ref target="file10244">[Nr. 213]</ref> 110, Anm. 4; VII 226, Anm. 9 (zum Sohn).</note>
+    <note xml:id="fn111" type="footnote" n="111">Sehr wahrscheinlich der Zuger Hauptmann Thomas Stocker (gest. 25. Mai 1528), der sehr oft in Verbindung mit Sch&#246;nbrunner d.&#196;. belegt ist, und der vermutlich erst sp&#228;ter und nur f&#252;r kurze Zeit auch Vogt des Thurgaus wurde; s. Meyer aaO, S. 72. 83. 112f. 117f. 124. 126. 128f. - Sowohl beide Sch&#246;nbrunner als auch Stocker waren Bullinger sehr wohl bekannt; s. <bibl>HBRG</bibl> Reg.; <bibl>HBBW I</bibl> und II, Reg. (Stocker); III-VII, Reg. (Sch&#246;nbrunner d.J.).</note>
+    <note xml:id="fn112" type="footnote" n="112">Horaz, Epistulae, 1, 18, 69.</note>
+    <note xml:id="fn113" type="footnote" n="113">Vgl. R&#246;m 2, 15.</note>
+    <note xml:id="fn114" type="footnote" n="114">Vgl. Joh 9, 34; 1Tim 1, 16.</note>
+  </letter>
+  <letter letter_id="1003">
+    <note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>
+    <note xml:id="fn2" type="footnote" n="2">Landsgemeinde vom 24. August 1550, s. Ratsprotokoll von diesem Tag, Glarus Landesarchiv, Altes Archiv, Abt. I, Bd. 5, S. 198 (freundliche Mitteilung von Dr. Christoph Brunner, Glarus).</note>
+    <note xml:id="fn3" type="footnote" n="3">Hauptpunkte.</note>
+    <note xml:id="fn4" type="footnote" n="4">Dionysius Bussi, Alt- Landamman, und Joachim B&#228;ldi, amtierender Landammann.</note>
+    <note xml:id="fn5" type="footnote" n="5">Jakob Vogel(?).</note>
+    <note xml:id="fn6" type="footnote" n="6">29. September.</note>
+    <note xml:id="fn7" type="footnote" n="7">die Reformation.</note>
+    <note xml:id="fn8" type="footnote" n="8">B&#228;ldi, oder Bussi(?).</note>
+    <note xml:id="fn9" type="footnote" n="9"><persName>Joachim B&#228;ldi</persName>.</note>
+    <note xml:id="fn10" type="footnote" n="10">1551.</note>
+    <note xml:id="fn11" type="footnote" n="11">Jost Pf&#228;ndler.</note>
+  </letter>
+  <letter letter_id="101">
+    <note xml:id="fn1" type="footnote" n="1">Vogler.</note>
+  </letter>
+  <letter letter_id="1012"/>
+  <letter letter_id="1019">
+    <note xml:id="fn1" type="footnote" n="1">hansest&#228;dtische.</note>
+  </letter>
+  <letter letter_id="1028">
+    <note xml:id="fn1" type="footnote" n="1">anno domini?</note>
+  </letter>
+  <letter letter_id="1048">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Titus Livius, Ab urbe condita, 7, 10, 9; 8, 13, 17.</note>
+  </letter>
+  <letter letter_id="105">
+    <note xml:id="fn1" type="footnote" n="1">Hier kommt Brief Nr. 18330</note>
+  </letter>
+  <letter letter_id="1052">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: nisum?</note>
+  </letter>
+  <letter letter_id="1058">
+    <note xml:id="fn1" type="footnote" n="1">anno domini?</note>
+    <note xml:id="fn2" type="footnote" n="2">Rhodosrittern.</note>
+  </letter>
+  <letter letter_id="1060">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="1066">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+    <note xml:id="fn2" type="footnote" n="2">Anne Ulmerin; s. ZBZ, Ms F 22a, S. 349f (Bericht aus Esslingen vom 3. Nov. 1550), auch Ms. F 13 (S. ??); <hi>Fehr,</hi> Massenkunst 92 und Tafel 30/31; Lycosthenes, Prodigiorum et ostentorum chronicon, S. 592-594; Ulinka <hi>Rublack,</hi> Pregnancy, Childbirth and the Female Body in Early Modern Germany, in: Past and Present, Nr. 150, Feb. 1996, S. 84-110, hier S. 95f mit Anm. 50: "The Deceitful Woman of Esslingen", Zentralbibliothek Zurich, Wickiana, PAS II 2/13, reproduced in The German Single Leaf Woodcut, 1500-1550, ed. M. Geisberg, rev. W. L. Strauss, 4 vols. (New York, 1974), iii, p. 1066, G. 1118; "Gruntliche antzaigung des Teufflischenn und schentlichen betrugs Mit dem gemachten Bauch von anfang biss zu end 1551", PAS II 10/19b; "Des falschen Weibs vnd Junckfrawen zu Esslingen Auss gericht" (undated), PAS 10/19; "Blut- oder Peinliches Urtelbuech", Staatsarchiv Ludwigsburg, B 169, Bu. 119 I, f. [145.sup.v]-[156.sup.r], 23 Jan. 1551.</note>
+    <note xml:id="fn3" type="footnote" n="3">Anna Laminit; s. Roper, The Holy Household 262f.</note>
+  </letter>
+  <letter letter_id="1075">
+    <note xml:id="fn1" type="footnote" n="1">Hooper.</note>
+  </letter>
+  <letter letter_id="108">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="1084">
+    <note xml:id="fn1" type="footnote" n="1">die Breslauer.</note>
+  </letter>
+  <letter letter_id="1085">
+    <note xml:id="fn1" type="footnote" n="1">Philipp Fallenberger (Vallenberger), von Stein; Basel, Matrikel II 67, Nr. 7; Bullingers Stipendiatenliste; immatr. Marburg 1550 als Philippus Vallenburgerus Helvetius (Caesar, Catalogus Teil III, S. 11); schreibt am 25. 3. 1551 aus Marburg an Gwalther (Z&#252;rich ZB, Ms F 40, 161f).</note>
+  </letter>
+  <letter letter_id="1088">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> poetica, 139.</note>
+  </letter>
+  <letter letter_id="1091"/>
+  <letter letter_id="11">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Stephen Gardiner</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="1108">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: Butler.</note>
+  </letter>
+  <letter letter_id="1114">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: inner? im(m)er?</note>
+  </letter>
+  <letter letter_id="1118">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="112">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Beat Gering</persName>.</note>
+  </letter>
+  <letter letter_id="113">
+    <note xml:id="fn1" type="footnote" n="1">Boltz.</note>
+  </letter>
+  <letter letter_id="1134">
+    <note xml:id="fn1" type="footnote" n="1">Michael Helding, Titularbischof von Sidon.</note>
+  </letter>
+  <letter letter_id="116">
+    <note xml:id="fn1" type="footnote" n="1"><persName>B&#233;at Comte</persName>.</note>
+  </letter>
+  <letter letter_id="1162"/>
+  <letter letter_id="1169">
+    <note xml:id="fn1" type="footnote" n="1">vorab.</note>
+    <note xml:id="fn2" type="footnote" n="2">Anna Keller, gest. 1. Feb. 1551; N&#228;heres im "Verzeichni&#223; des Geschlechts der Bullinger", S. 96.</note>
+  </letter>
+  <letter letter_id="1177">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="119">
+    <note xml:id="fn1" type="footnote" n="1">Joachim Forrer. Dar&#252;ber von anderer Hand: "Furerus".</note>
+  </letter>
+  <letter letter_id="1197">
+    <note xml:id="fn1" type="footnote" n="1">Michael Helding, Titularbischof von Sidon.</note>
+  </letter>
+  <letter letter_id="120">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Beat Gering</persName>.</note>
+  </letter>
+  <letter letter_id="1200">
+    <note xml:id="fn1" type="footnote" n="1">Zu Fricker s. (u.a.?) Mathias <bibl>Sulser</bibl>, Der Stadtschreiber Peter Cyro und die Bernische Kanzlei zur Zeit der Reformation, Bern 1922, S. 131-134.</note>
+  </letter>
+  <letter letter_id="1204">
+    <note xml:id="fn1" type="footnote" n="1">Michael Helding, Titularbischof von Sidon.</note>
+  </letter>
+  <letter letter_id="1211">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note>
+  </letter>
+  <letter letter_id="1214"/>
+  <letter letter_id="123">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Joachim Forrer</persName>.</note>
+  </letter>
+  <letter letter_id="1233">
+    <note xml:id="fn1" type="footnote" n="1">t'Serclaes? Evtl. konsultieren: Andr&#233; Monteyne: T'Serclaes. Une famille bruxelloise, [Br&#252;ssel] 1987.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Bullingers privates Testament!</note>
+  </letter>
+  <letter letter_id="125">
+    <note xml:id="fn1" type="footnote" n="1">Frankreich, England, Schottland</note>
+  </letter>
+  <letter letter_id="1250">
+    <note xml:id="fn1" type="footnote" n="1">Simler (Ms S 74, 184) interpretiert den Zettel, der auf E II 356a, 623 (15. Juni 1554) aufgeklebt ist, irrt&#252;mlich als Nachschrift zu diesem Brief.</note>
+  </letter>
+  <letter letter_id="1261">
+    <note xml:id="fn1" type="footnote" n="1">Vielleicht Hans Jakob (vgl. <hi>Pfarrerbuch</hi> 617).</note>
+  </letter>
+  <letter letter_id="1264">
+    <note xml:id="fn1" type="footnote" n="1">Ein Schreiben von Firmianus Dominicus von 1555 betr. Verfolgungen der Waldenser in Biel Stadtarchiv, 120, CXXX, Nr. 88. Zu F. Dominique s. auch Vi&#233;not, Hist. de la r&#233;forme dans le pays de Montb&#233;liard, Register.</note>
+  </letter>
+  <letter letter_id="1268">
+    <note xml:id="fn1" type="footnote" n="1">Adag. 1, 2, 5.</note>
+  </letter>
+  <letter letter_id="127">
+    <note xml:id="fn1" type="footnote" n="1">Ev. Clemens Lenner? Vgl. <bibl>Vadian BW</bibl> VI, Reg., und unten Nr. 18125. - Laut e-Mail von Rainer Henrich vom 15.04.2014 handelt es sich eher um den St. Galler "Lesmaister" und Musiker Clemens H&#246;r.</note>
+  </letter>
+  <letter letter_id="1287">
+    <note xml:id="fn1" type="footnote" n="1">Wustius</note>
+  </letter>
+  <letter letter_id="1288">
+    <note xml:id="fn1" type="footnote" n="1">&#220;berliefert (nicht original erhalten!) ist (anscheinend) die Antwort (mit falschem Datum): <bibl>Vadian BW V</bibl> 675-677, Nachtrag Nr. 11 = <bibl>HBBW</bibl> ...?</note>
+    <note xml:id="fn2" type="footnote" n="2">Im Matth&#228;uskommentar von 1542, S. 170, diskutiert Bullinger die drei hier erw&#228;hnten M&#252;nzen. Die Beschreibung des Schekel entspricht allerdings nicht jenem in <bibl>Vadian BW V</bibl> 676, M&#252;nze Nr. 51.</note>
+    <note xml:id="fn3" type="footnote" n="3">Vgl. den erw&#228;hnten Vadian-Brief. Die dort zitierte Erkl&#228;rung aus den <bibl>Adagia</bibl> beruht wohl auf einem Mi&#223;verst&#228;ndnis; es handelte sich kaum um eine Athener M&#252;nze, sondern um irgendeine griechische mit Ochsenbild.</note>
+  </letter>
+  <letter letter_id="1289"/>
+  <letter letter_id="130">
+    <note xml:id="fn1" type="footnote" n="1">Varnier.</note>
+  </letter>
+  <letter letter_id="1304">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="1307">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 84 (<bibl>LB</bibl> II 284).</note>
+  </letter>
+  <letter letter_id="131">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Beat Gering</persName>.</note>
+  </letter>
+  <letter letter_id="1325">
+    <note xml:id="fn1" type="footnote" n="1">Brief vom gleichen Tag an ZH im StA.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Jakob W&#252;rben</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3">Joh. Leopold Frey.</note>
+    <note xml:id="fn4" type="footnote" n="4">Hans Gerwig.</note>
+    <note xml:id="fn5" type="footnote" n="5">Auf der R&#252;ckseite lat. Notizen.</note>
+  </letter>
+  <letter letter_id="1346">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, ...</note>
+  </letter>
+  <letter letter_id="135">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Antoine Perrenot</persName> de Granvela, Bischof von Arras.</note>
+  </letter>
+  <letter letter_id="1383">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. auch Myconius, 10. Feb. 1552!</note>
+  </letter>
+  <letter letter_id="1396">
+    <note xml:id="fn1" type="footnote" n="1">... aus Breslau.</note>
+  </letter>
+  <letter letter_id="140"/>
+  <letter letter_id="1409">
+    <note xml:id="fn1" type="footnote" n="1">den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="1412">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="1419">
+    <note xml:id="fn1" type="footnote" n="1">Hinweis: <bibl>Letters of Calvin</bibl> II 307-310, Nr. CCLXXXIV, an die Pfarrer in der Eidgenossenschaft, [Okt 1551], &#252;berpr&#252;fen!</note>
+  </letter>
+  <letter letter_id="1426">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Pfarrerbuch</hi> 279 und Brief Hallers vom 10. Juli 1552.</note>
+    <note xml:id="fn2" type="footnote" n="2">? (=V&#246;lk?).</note>
+  </letter>
+  <letter letter_id="144">
+    <note xml:id="fn1" type="footnote" n="1">Michael Helding, Titularbischof von Sidon(?).</note>
+  </letter>
+  <letter letter_id="1451">
+    <note xml:id="fn1" type="footnote" n="1">Verleumder, Betr&#252;ger; <bibl>Adagia</bibl>, 2, 3, 81 (<bibl>LB</bibl> II 515f).</note>
+  </letter>
+  <letter letter_id="146">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="1474">
+    <note xml:id="fn1" type="footnote" n="1">den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="1485">
+    <note xml:id="fn1" type="footnote" n="1">Martinuzzi? Vgl. den mit Korrekturen Bullingers versehenen Bericht &#252;ber dessen Ermordung in ZBZ, Ms F 24, S. 463-468. 470.</note>
+  </letter>
+  <letter letter_id="1486">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+    <note xml:id="fn2" type="footnote" n="2">Antistes.</note>
+  </letter>
+  <letter letter_id="1491">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="1494">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+    <note xml:id="fn2" type="footnote" n="2">Innsbruck.</note>
+  </letter>
+  <letter letter_id="1497">
+    <note xml:id="fn1" type="footnote" n="1">Hooper.</note>
+  </letter>
+  <letter letter_id="1499">
+    <note xml:id="fn1" type="footnote" n="1">Ludwig von Reischach?</note>
+  </letter>
+  <letter letter_id="150">
+    <note xml:id="fn1" type="footnote" n="1">Boltz.</note>
+  </letter>
+  <letter letter_id="1500">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+  </letter>
+  <letter letter_id="154">
+    <note xml:id="fn1" type="footnote" n="1">Weihbischof Michael Helding(?).</note>
+  </letter>
+  <letter letter_id="1557">
+    <note xml:id="fn1" type="footnote" n="1">Haberer.</note>
+  </letter>
+  <letter letter_id="1581">
+    <note xml:id="fn1" type="footnote" n="1">Dieselbe Verballhornung im Brief Biblianders an Myconius vom 12. Februar!</note>
+    <note xml:id="fn2" type="footnote" n="2">Hinweis von RH: M&#246;nch J&#246;rg ist Georg Martinuzzi (biogr. Anm. in <bibl>HBBW</bibl> XII), womit die Jahreszahl des Briefes gesichert ist (laut Fabian nicht eindeutig lesbar).</note>
+    <note xml:id="fn3" type="footnote" n="3">Pfauenschwanz als Symbol &#214;sterreichs? (vgl. <bibl>SI</bibl> IX 1033f).</note>
+  </letter>
+  <letter letter_id="1588">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Sat., 1, 7, 3 (u.a.?).</note>
+  </letter>
+  <letter letter_id="161">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Stephen Gardiner</persName>.</note>
+  </letter>
+  <letter letter_id="1611">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 84 (<bibl>LB</bibl> II 284).</note>
+  </letter>
+  <letter letter_id="1624">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="1625">
+    <note xml:id="fn1" type="footnote" n="1">Pfauenschwanz als Symbol &#214;sterreichs (vgl. <bibl>SI</bibl> IX 1033f).</note>
+  </letter>
+  <letter letter_id="1627">
+    <note xml:id="fn1" type="footnote" n="1">Aff&#228;re um Pietro Manelfi</note>
+  </letter>
+  <letter letter_id="163">
+    <note xml:id="fn1" type="footnote" n="1">valentin Boltz.</note>
+  </letter>
+  <letter letter_id="1637">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 91 (<bibl>LB</bibl> II 216f).</note>
+    <note xml:id="fn2" type="footnote" n="2">Antistes.</note>
+  </letter>
+  <letter letter_id="167">
+    <note xml:id="fn1" type="footnote" n="1">Glado von May.</note>
+  </letter>
+  <letter letter_id="1691">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="1694">
+    <note xml:id="fn1" type="footnote" n="1">Taufpaten.</note>
+  </letter>
+  <letter letter_id="1725">
+    <note xml:id="fn1" type="footnote" n="1">Johannes R&#228;ber (Zofinger Njbl., 1977, 15).</note>
+    <note xml:id="fn2" type="footnote" n="2">Diebold Etter, s. Lohner.</note>
+    <note xml:id="fn3" type="footnote" n="3">Valentin Rebmann/Ampelander?</note>
+  </letter>
+  <letter letter_id="173">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Lk 3, 17.</note>
+  </letter>
+  <letter letter_id="178">
+    <note xml:id="fn1" type="footnote" n="1">Verweis: Joh. von Ulm an HB, Oxford 3. Juni 1546 (die Ascensionis domini), "Quod nihil nunc", F&#252;ssli I 243-247, Nr. 62, siehe (so Schie&#223;) recte: 10. Mai 1548 =====</note>
+  </letter>
+  <letter letter_id="1785">
+    <note xml:id="fn1" type="footnote" n="1">Jakob Keller, Sohn von Fridolin Keller (s. Z&#252;rich StA, A 272, Nr. 167).</note>
+    <note xml:id="fn2" type="footnote" n="2">d. h. bei den Bischofszellern.</note>
+  </letter>
+  <letter letter_id="1794">
+    <note xml:id="fn1" type="footnote" n="1">Jacques Dupuys/Dupuis</note>
+  </letter>
+  <letter letter_id="1812">
+    <note xml:id="fn1" type="footnote" n="1">Zu Sebastian Uriel Appenzeller (derselbe?) vgl. elektron. Notizen zum Brief vom 1.1.1539.</note>
+  </letter>
+  <letter letter_id="1816">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="182">
+    <note xml:id="fn1" type="footnote" n="1">Conradus Zviccius</note>
+  </letter>
+  <letter letter_id="1829"/>
+  <letter letter_id="183">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="1832">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23f.</note>
+  </letter>
+  <letter letter_id="184">
+    <note xml:id="fn1" type="footnote" n="1">bevoran bereit: vorab entboten.</note>
+    <note xml:id="fn2" type="footnote" n="2">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="185">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Sulpitius Haller</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Glado von May.</note>
+    <note xml:id="fn3" type="footnote" n="3">Fronfasten (Quatember).</note>
+  </letter>
+  <letter letter_id="1852">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="1853">
+    <note xml:id="fn1" type="footnote" n="1">Andreas Osiander (zur Namensform s. <bibl>Osiander GA</bibl> VIII 289f und 305, 10-13).</note>
+  </letter>
+  <letter letter_id="1855">
+    <note xml:id="fn1" type="footnote" n="1">Johannes Funck, Chronologia ..., K&#246;nigsberg (Hans Lufft) 1552 (VD 16 F 3382).</note>
+  </letter>
+  <letter letter_id="1857">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, ***.</note>
+  </letter>
+  <letter letter_id="186">
+    <note xml:id="fn1" type="footnote" n="1">Vertumnus: Gott des steten Wandels; vgl. <bibl>Adagia</bibl>, 2, 2, 74 (<bibl>LB</bibl> II 473).</note>
+  </letter>
+  <letter letter_id="1869">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Valentin Krautwald</persName>.</note>
+  </letter>
+  <letter letter_id="1870">
+    <note xml:id="fn1" type="footnote" n="1">vorab entboten.</note>
+  </letter>
+  <letter letter_id="1877">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="1885">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>HBBW X</bibl> 204, Anm. 10 (oder ist etwas anderes gemeint?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Innsbruck.</note>
+    <note xml:id="fn3" type="footnote" n="3">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="19">
+    <note xml:id="fn1" type="footnote" n="1">auch Gep&#228;l, s. <bibl>Z</bibl> IX 291, ABernerRef, Lohner. Lit.: Lavater in: Jahrbuch des Oberaargaus 1978.</note>
+  </letter>
+  <letter letter_id="191">
+    <note xml:id="fn1" type="footnote" n="1">Siehe u.a. Basel, Matr. II 69, Nr. 28.</note>
+  </letter>
+  <letter letter_id="1917">
+    <note xml:id="fn1" type="footnote" n="1">Zu diesem Brief / Zart / siehe Umschlag in Reinhards Schublade!</note>
+    <note xml:id="fn2" type="footnote" n="2">Rohr (Kt. Z&#252;rich).</note>
+    <note xml:id="fn3" type="footnote" n="3">Johannes Zart (Sardenus), laut <bibl>Blarer BW</bibl> III 202. (Dieser war 1546 Provisor in Thun; s. Adolf <hi>Schaer-Ris,</hi> Die Geschichte der Thuner Stadtschulen, Diss. phil. Bern, Bern 1919, S. 45.).</note>
+  </letter>
+  <letter letter_id="1920">
+    <note xml:id="fn1" type="footnote" n="1">Hooper.</note>
+  </letter>
+  <letter letter_id="1922">
+    <note xml:id="fn1" type="footnote" n="1">Heinrich Gasenzer, von Werdenberg, gem&#228;&#223; Besitzeintrag in einem Buch (Sammelband in der Staatl. Bibl. Neuburg/Donau), mitgeteilt 2007 durch Reinhard A. Seitz (publiziert in <bibl>Zwa</bibl> XXXIV, 2007, s. Reg.). Entlassung in der Pfalz 1564, s. Erast an HB, 29. Juli [1564].</note>
+  </letter>
+  <letter letter_id="1943">
+    <note xml:id="fn1" type="footnote" n="1">von: cunae</note>
+  </letter>
+  <letter letter_id="1950">
+    <note xml:id="fn1" type="footnote" n="1">Gadius/Gaddi.</note>
+  </letter>
+  <letter letter_id="1951">
+    <note xml:id="fn1" type="footnote" n="1">Heute in Kantonsbibliothek Chur; s. B&#252;ndner Monatsblatt 1/2006!</note>
+  </letter>
+  <letter letter_id="1961">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="1967"/>
+  <letter letter_id="1968">
+    <note xml:id="fn1" type="footnote" n="1">Gadius/Gaddi.</note>
+  </letter>
+  <letter letter_id="1976">
+    <note xml:id="fn1" type="footnote" n="1">Hans, Sohn von <persName>Johannes Bullinger</persName>, starb erst 1568; s. <hi>Egli,</hi> Analecta II 166, Anm. 3.</note>
+  </letter>
+  <letter letter_id="1985">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="199">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Hans Kaspar von Anwyl</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3">Schreiber.</note>
+  </letter>
+  <letter letter_id="1994">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Wolfgang Wissenburg</persName>.</note>
+  </letter>
+  <letter letter_id="2">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Sulpitius Haller</persName>.</note>
+  </letter>
+  <letter letter_id="2007">
+    <note xml:id="fn1" type="footnote" n="1">De iustitia regni christi capitula quatuor, 1532.</note>
+  </letter>
+  <letter letter_id="2010">
+    <note xml:id="fn1" type="footnote" n="1">Die Berufung von J&#246;rg Joachim nach Wynigen wurde widerrufen; s. Pfister, Die Pr&#228;d. d. bern. Aarg. S. 141f, Nr. 1115f (irrt&#252;ml. Joh. Georg Will; vgl. Nachtr. zu <bibl>HBBW</bibl> I-X).</note>
+  </letter>
+  <letter letter_id="2012"/>
+  <letter letter_id="202">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>CO</bibl> XII 722. Unterdessen ev. erschienen: Publikation von Elsie McKee &#252;b. Kath. Sch&#252;tz Zell</note>
+  </letter>
+  <letter letter_id="2036">
+    <note xml:id="fn1" type="footnote" n="1">Jean L'Archer, s. <bibl>HBBW</bibl> XI.</note>
+  </letter>
+  <letter letter_id="204">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4.</note>
+  </letter>
+  <letter letter_id="2044">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Samuel Wyttenbach</persName>.</note>
+  </letter>
+  <letter letter_id="2047">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+    <note xml:id="fn2" type="footnote" n="2">Bullinger an Joh. Haller, 24. Okt., s. Nr. 23290!</note>
+  </letter>
+  <letter letter_id="205">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Heroides, 1, 12.</note>
+  </letter>
+  <letter letter_id="2051">
+    <note xml:id="fn1" type="footnote" n="1">N&#238;mes.</note>
+  </letter>
+  <letter letter_id="2074">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="2080">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="2091">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Wolfgang Wissenburg</persName>.</note>
+  </letter>
+  <letter letter_id="21">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johannes Gislinger</persName>.</note>
+  </letter>
+  <letter letter_id="2101">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Von hier an ist die rechte Seite des Briefes abgerissen. Die Adresse des (aufgeklebten) Blattes ist lesbar, wenn man dieses gegen das Licht h&#228;lt.</note>
+  </letter>
+  <letter letter_id="2108"/>
+  <letter letter_id="211">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Horaz,</hi> Epistulae, 1, 18, 84.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Sulpitius Haller</persName>.</note>
+  </letter>
+  <letter letter_id="213">
+    <note xml:id="fn1" type="footnote" n="1">i. S. v. professionis.</note>
+  </letter>
+  <letter letter_id="2149">
+    <note xml:id="fn1" type="footnote" n="1">Am 15. Dez. 1553.</note>
+  </letter>
+  <letter letter_id="2150">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="2158">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Vergil,</hi> Aeneis, 4, 174f.</note>
+    <note xml:id="fn2" type="footnote" n="2">Bewohner des Rheintales, vgl. <bibl>HBBW</bibl> XII...</note>
+  </letter>
+  <letter letter_id="2160">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="2176">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. in auch Brief 26101 (Agricola/Meyer an Ottheinrich, 15. Mai 1556: "die dry gwaltigen bu&#868;cher der kriegskampffstucken"); Ludwig <hi>Rockinger,</hi> Die Pflege der Geschichte durch die Wittelsbacher. Akademische FS zur Feier des Wittelsbacher Jubil&#228;ums, M&#252;nchen [1880], Beilage I, S. (15): "Laurentij Agricolae tomus tertius rerum bellicarum, ex clarissimis romanae historiae historiographis. vngepunden[sic] vnd geschriben." (In der Liste von B&#252;chern, die Ottheinrich 1556 von Neuburg nach Heidelberg mitbrachte.).</note>
+  </letter>
+  <letter letter_id="2179">
+    <note xml:id="fn1" type="footnote" n="1">G&#246;uffi.</note>
+  </letter>
+  <letter letter_id="2182">
+    <note xml:id="fn1" type="footnote" n="1">Gervasius Schuler an Bullinger, Lenzburg, 8. Februar 1554, ist am Ende des Jahrgangs eingeordnet</note>
+  </letter>
+  <letter letter_id="2196">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="220">
+    <note xml:id="fn1" type="footnote" n="1">Ismael Buchser??</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Sulpitius Haller</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3"><bibl>Adagia</bibl>, ***.</note>
+  </letter>
+  <letter letter_id="2203">
+    <note xml:id="fn1" type="footnote" n="1">Tremellius?</note>
+  </letter>
+  <letter letter_id="2228">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="223">
+    <note xml:id="fn1" type="footnote" n="1">zur Belagerung von KN/Kner Sturm s. StA ZH, A 170.1, dort Abschrift in HBs Hand</note>
+  </letter>
+  <letter letter_id="2240">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="2244">
+    <note xml:id="fn1" type="footnote" n="1">thom Camph schrieb irrt&#252;mlich einen Kondolenzbrief an Pellikans Sohn; s. Zwey Aneckdoten zu Beleuchtung des Charackters und der Denkart etlicher ber&#252;hmter M&#228;nner des sechszehnten Jahrhunderts, in: Schweitzerisches Museum IV, 1788, Zehntes Heft, S. 791-797 (hier S. 791-794).</note>
+  </letter>
+  <letter letter_id="2254">
+    <note xml:id="fn1" type="footnote" n="1">G&#246;uffi.</note>
+  </letter>
+  <letter letter_id="2259">
+    <note xml:id="fn1" type="footnote" n="1">Jacques Dupuys/Dupuis</note>
+  </letter>
+  <letter letter_id="2261"/>
+  <letter letter_id="2281">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="2285">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3">G&#246;uffi.</note>
+    <note xml:id="fn4" type="footnote" n="4">Zur folgenden Angelegenheit s. auch Z&#252;rich StA, E II 357a, 835f (von Funklis Hand, Beilage zu diesem Brief?; Abschrift Simlers in Z&#252;rich ZB, Ms. 199, 227).</note>
+  </letter>
+  <letter letter_id="2316">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Georges</bibl> <hi>Gloor,</hi> in: Lenzburger Njbl., 1969, S. 90 (dieser?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Haberer.</note>
+  </letter>
+  <letter letter_id="2317">
+    <note xml:id="fn1" type="footnote" n="1">vorab entboten.</note>
+  </letter>
+  <letter letter_id="2330">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">G&#246;uffi.</note>
+  </letter>
+  <letter letter_id="2350">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="2377">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Sat., 1, 7, 3 (u.a.?).</note>
+  </letter>
+  <letter letter_id="239">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="241">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Michael Adam</persName>.</note>
+  </letter>
+  <letter letter_id="2419">
+    <note xml:id="fn1" type="footnote" n="1">1Kor 2, 9.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. <hi>Vergil,</hi> Aeneis, 4, 336.</note>
+  </letter>
+  <letter letter_id="2426">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="2439">
+    <note xml:id="fn1" type="footnote" n="1">Hemmann</note>
+  </letter>
+  <letter letter_id="244">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. 1Kor 3, 6f.</note>
+  </letter>
+  <letter letter_id="245">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="2455">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3">Vgl. Persius, Saturae, 4, 52.</note>
+    <note xml:id="fn4" type="footnote" n="4"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="2465">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="247">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+    <note xml:id="fn2" type="footnote" n="2">Hansest&#228;dte.</note>
+  </letter>
+  <letter letter_id="248">
+    <note xml:id="fn1" type="footnote" n="1">M&#228;nzer, Menzer, vgl. <hi>Pfarrerbuch</hi> u. Lohner.</note>
+  </letter>
+  <letter letter_id="249">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Antoine Perrenot</persName> de Granvela, Bischof von Arras.</note>
+  </letter>
+  <letter letter_id="2496">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Samuel Wyttenbach</persName>.</note>
+    <note xml:id="fn3" type="footnote" n="3">K&#252;ngold, geb. von Sch&#246;nau?</note>
+    <note xml:id="fn4" type="footnote" n="4"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="2499">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, ***.</note>
+  </letter>
+  <letter letter_id="25">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. dar&#252;ber die Diss. von Josef Schmuck (ZB: TA 6277: 22).</note>
+  </letter>
+  <letter letter_id="250">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+    <note xml:id="fn2" type="footnote" n="2">Ps 117/118?</note>
+  </letter>
+  <letter letter_id="2512">
+    <note xml:id="fn1" type="footnote" n="1">Vielleicht Tuchherr <persName>Peter Hirzel</persName> (1511-1573)? Zu diesem vgl. Katalog der Hss. der ZBZ, II: Familienarchive, Sp. 254.</note>
+  </letter>
+  <letter letter_id="253">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="2558">
+    <note xml:id="fn1" type="footnote" n="1">Fey&#233;rth&#243;y.</note>
+  </letter>
+  <letter letter_id="2561">
+    <note xml:id="fn1" type="footnote" n="1">Dieser verspricht Biel 1563 seine Dienste, um durch Kaiser Best&#228;tigung der Freiheiten zu erhalten (Biel Stadtarchiv 102, CXVII, Nr. 44); entschuldigt 1558 das Ausbleiben einer entsprechenden Best&#228;tigungsurkunde (ebd., Nr. 154). Halbbruder von Jakob Funcklin; vgl. dessen Vita von Max Schiendorfer (2006 noch unpubl.).</note>
+  </letter>
+  <letter letter_id="2563">
+    <note xml:id="fn1" type="footnote" n="1">Erasmus?</note>
+  </letter>
+  <letter letter_id="2568">
+    <note xml:id="fn1" type="footnote" n="1">Joh. Hoflius (H&#246;fflin, s. Lohner), s. auch Bern Burgerbibliothek, cod. 653 (Theologica, von Hoflius geschrieben, z.T. 1551, z.T. M&#228;rz 1555 im Haus von Guldibeck).</note>
+  </letter>
+  <letter letter_id="2580">
+    <note xml:id="fn1" type="footnote" n="1">Adag. 1, 2, 5?</note>
+  </letter>
+  <letter letter_id="2588">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Hans Vogler</persName>.</note>
+  </letter>
+  <letter letter_id="2596">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="260">
+    <note xml:id="fn1" type="footnote" n="1">Leute(?) aus den Hansest&#228;dten.</note>
+  </letter>
+  <letter letter_id="2609">
+    <note xml:id="fn1" type="footnote" n="1">vgl. <bibl>HBBW</bibl> XI, Nr. 1477/1492!</note>
+  </letter>
+  <letter letter_id="2613">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="263">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Ex 16, 3.</note>
+  </letter>
+  <letter letter_id="2630">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="2636">
+    <note xml:id="fn1" type="footnote" n="1">richtig: perendie = &#252;bermorgen - 25. Mai /Himmelfahrt 1555: 23. Mai.</note>
+  </letter>
+  <letter letter_id="264">
+    <note xml:id="fn1" type="footnote" n="1">Vielleicht der Brief an Unbekannt in Z&#252;rich ZB, Ms A 69, 319???</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="2646">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">W&#252;rben?</note>
+  </letter>
+  <letter letter_id="2653">
+    <note xml:id="fn1" type="footnote" n="1">Geh&#246;rt hierher auch Z&#252;rich StA, E II 446, 1f? Hat Andr&#233; Holenstein unterdessen etwas dazu publiziert? Siehe auch Bullingers Bericht in ZBZ, Ms A 70, 627f. Vgl. <bibl>Meyer, Locarno</bibl> II 48-53.</note>
+  </letter>
+  <letter letter_id="2660">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+    <note xml:id="fn2" type="footnote" n="2">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="2664">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">W&#252;rben?</note>
+    <note xml:id="fn3" type="footnote" n="3"><persName>K&#252;ngold von Sch&#246;nau</persName>?</note>
+  </letter>
+  <letter letter_id="2676">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">G&#246;uffi.</note>
+  </letter>
+  <letter letter_id="2693">
+    <note xml:id="fn1" type="footnote" n="1">
+      <hi>Eigenh&#228;ndig.</hi>
+    </note>
+    <note xml:id="fn2" type="footnote" n="2">
+      <hi>Eigenh&#228;ndig.</hi>
+    </note>
+  </letter>
+  <letter letter_id="270">
+    <note xml:id="fn1" type="footnote" n="1">Simprecht Vogt?</note>
+  </letter>
+  <letter letter_id="2701">
+    <note xml:id="fn1" type="footnote" n="1">Israel St&#228;heli? ...</note>
+  </letter>
+  <letter letter_id="272">
+    <note xml:id="fn1" type="footnote" n="1">Kirchheim unter Teck?</note>
+  </letter>
+  <letter letter_id="2727">
+    <note xml:id="fn1" type="footnote" n="1">liest Elze, Hinweis von Prof. Bryner, 6.11.08</note>
+  </letter>
+  <letter letter_id="2760"/>
+  <letter letter_id="2762"/>
+  <letter letter_id="2763">
+    <note xml:id="fn1" type="footnote" n="1">Johann(es) Winter/Guinterius.</note>
+    <note xml:id="fn2" type="footnote" n="2">Johann(es) Winter/Guinterius.</note>
+  </letter>
+  <letter letter_id="2776">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="2792">
+    <note xml:id="fn1" type="footnote" n="1">vgl. auch Schreiben Philipp Gallicius an Bullinger, Chur, 7. Januar 1556 mit Beilage vom 27. Dezember 1555</note>
+  </letter>
+  <letter letter_id="2801">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. den lutherischen Konkordienvorschlag von 1529: <hi>K&#246;hler,</hi> ZL II 337!</note>
+  </letter>
+  <letter letter_id="2803"/>
+  <letter letter_id="2807">
+    <note xml:id="fn1" type="footnote" n="1">Gal. 1.</note>
+    <note xml:id="fn2" type="footnote" n="2">2. Ioan. 1.</note>
+  </letter>
+  <letter letter_id="2827"/>
+  <letter letter_id="283">
+    <note xml:id="fn1" type="footnote" n="1">Bernh. Ziegler, s. VD 16 <bibl>Z</bibl> 410.</note>
+  </letter>
+  <letter letter_id="2836">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Georg Maurer</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Siehe Z&#252;rich StA, A 202/4, Memmingen Nr. 9-14 (&#252;berpr&#252;fen!).</note>
+  </letter>
+  <letter letter_id="288">
+    <note xml:id="fn1" type="footnote" n="1">Wallisellen?</note>
+  </letter>
+  <letter letter_id="2889">
+    <note xml:id="fn1" type="footnote" n="1">Livius, Ab urbe condita, 9, 19, 15.</note>
+  </letter>
+  <letter letter_id="29">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="292">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+    <note xml:id="fn2" type="footnote" n="2">Breslau.</note>
+  </letter>
+  <letter letter_id="2923">
+    <note xml:id="fn1" type="footnote" n="1">Wohl nach: Johannes Sichard (Hg.), Antidotum contra diversas omnium fere seculorum haereses, Basel 1528 (s. Griechischer Geist aus Basler Pressen ... 435; ungenau: VD 16 S 6283).</note>
+  </letter>
+  <letter letter_id="2924">
+    <note xml:id="fn1" type="footnote" n="1">Gregorius Lewerer (zog 1555 mit Meyer in die Fremde, vgl. den Vermerk auf dem Schreiben von Lauingen an Z&#252;rich vom 30. Sept. 1555 in Z&#252;rich StA, E I 1. 3b). - Lit.: <hi>Pfarrerbuch</hi>.</note>
+  </letter>
+  <letter letter_id="2928">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl>HBBW</bibl> XIV *** .</note>
+  </letter>
+  <letter letter_id="2936">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="2959">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="298">
+    <note xml:id="fn1" type="footnote" n="1">Briefe Bullingers an Jakob Fehr sind nicht erhalten.</note>
+    <note xml:id="fn2" type="footnote" n="2">
+      <persName>Karl V.</persName>
+    </note>
+    <note xml:id="fn3" type="footnote" n="3">Stra&#223;burg.</note>
+    <note xml:id="fn4" type="footnote" n="4"><persName>Theodor Bibliander</persName>.</note>
+  </letter>
+  <letter letter_id="301">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Horaz,</hi> Epistulae, 1, 18, 84.</note>
+  </letter>
+  <letter letter_id="3030">
+    <note xml:id="fn1" type="footnote" n="1">Rufach.</note>
+  </letter>
+  <letter letter_id="3034">
+    <note xml:id="fn1" type="footnote" n="1">Betschwanden.</note>
+    <note xml:id="fn2" type="footnote" n="2">im Obertoggenburg(?).</note>
+  </letter>
+  <letter letter_id="3097">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="3099">
+    <note xml:id="fn1" type="footnote" n="1">Hinweis zur Holzsparkunst: In den Instruktionen in Z&#252;rich StA bezieht sich ein Dokument auf ein Privileg f&#252;r [Konrad] Zwicks Erfindung; gefunden in: Weisses Register XXV 799, Nr. 21. Vgl. auch in den gedruckten Eidg. Abschieden, Stichwort "Erfindungen". Publikation zu diesem Thema von <persName>Hans Rudolf Lavater</persName> in FS Dellsperger!</note>
+  </letter>
+  <letter letter_id="31">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johannes Gislinger</persName>.</note>
+  </letter>
+  <letter letter_id="3112"/>
+  <letter letter_id="3118">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="3125">
+    <note xml:id="fn1" type="footnote" n="1">Krzci&#281;cice, vgl. Akta synod&#243;w, Register.</note>
+  </letter>
+  <letter letter_id="315">
+    <note xml:id="fn1" type="footnote" n="1">Thomas Wirz.</note>
+  </letter>
+  <letter letter_id="319">
+    <note xml:id="fn1" type="footnote" n="1">Bullinger an Johannes Haller, 26. Oktober 1548, am Ende der Datei!</note>
+  </letter>
+  <letter letter_id="320">
+    <note xml:id="fn1" type="footnote" n="1">Inderhalden.</note>
+  </letter>
+  <letter letter_id="321">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Adagia</bibl>, 1, 4, 99 (<bibl>LB</bibl> II 180).</note>
+  </letter>
+  <letter letter_id="322">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Persius, Saturae, 4, 52.</note>
+  </letter>
+  <letter letter_id="3268">
+    <note xml:id="fn1" type="footnote" n="1">Raphael Hofhalter.</note>
+  </letter>
+  <letter letter_id="3280">
+    <note xml:id="fn1" type="footnote" n="1">a Caesar. ist v. Bull. unterstrichen u. a. R. durch "a Gallis" verbessert. duc.quendam. ebf. v.Bull. unterstrichen u.a.R. dazu bem. "Angien."</note>
+  </letter>
+  <letter letter_id="3283">
+    <note xml:id="fn1" type="footnote" n="1">Joh. Ulrich M&#252;ller, gen. Rhellikan? Siehe Z&#252;rich StA, A 208.1, Nr. 29f. Vgl. Bern StA, Ratsmanual zum 2. Juni 1562: Rhellicans sel. Sohn ein doppelten Mushafen.</note>
+  </letter>
+  <letter letter_id="3288">
+    <note xml:id="fn1" type="footnote" n="1">Von anderer Hand dar&#252;ber der Zeile nachgetragen.</note>
+  </letter>
+  <letter letter_id="3302">
+    <note xml:id="fn1" type="footnote" n="1">Zum Lamb.</note>
+  </letter>
+  <letter letter_id="3304">
+    <note xml:id="fn1" type="footnote" n="1">Zum Lamb.</note>
+  </letter>
+  <letter letter_id="3306">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note>
+  </letter>
+  <letter letter_id="3321">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="3339">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johann Anton Tillier</persName>.</note>
+  </letter>
+  <letter letter_id="3342">
+    <note xml:id="fn1" type="footnote" n="1">Nr. 27080 fehlt!</note>
+  </letter>
+  <letter letter_id="3352">
+    <note xml:id="fn1" type="footnote" n="1">Wunderlich.</note>
+  </letter>
+  <letter letter_id="3359">
+    <note xml:id="fn1" type="footnote" n="1">von Breslau.</note>
+  </letter>
+  <letter letter_id="3362">
+    <note xml:id="fn1" type="footnote" n="1">umfassende Bildung (vgl. <bibl>Hoven</bibl> 241).</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Gwalther an HB, 15. 11. 1539, Anm. ...</note>
+  </letter>
+  <letter letter_id="3367">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <hi>Vergil,</hi> Aeneis, 1, 199.</note>
+    <note xml:id="fn2" type="footnote" n="2">Melanchthon?</note>
+  </letter>
+  <letter letter_id="3371">
+    <note xml:id="fn1" type="footnote" n="1">ein Woiwode (welcher?).</note>
+  </letter>
+  <letter letter_id="3374"/>
+  <letter letter_id="3378">
+    <note xml:id="fn1" type="footnote" n="1">Ursinus.</note>
+  </letter>
+  <letter letter_id="3389">
+    <note xml:id="fn1" type="footnote" n="1">Zur Biogr.: Empfehlung f&#252;r ihn als Hofrat in Wien: HHStA, Staatenabteilung, Schweiz, Kart. 13, fol. 95 und 214, 1559/60; Einzelheiten s. Notizen zum Besuch im HHStA (2004) im Ordner unter &#214;sterreich/Wien HHStA.</note>
+  </letter>
+  <letter letter_id="3391">
+    <note xml:id="fn1" type="footnote" n="1">Zur Abweisung des Geschenks vgl. Sal. Hess, Ursprung, Gang und Folgen ... (Gd XIII 7416), S. 102, Anm. (aufgrund welcher Quelle?).</note>
+  </letter>
+  <letter letter_id="3392">
+    <note xml:id="fn1" type="footnote" n="1">Arras.</note>
+  </letter>
+  <letter letter_id="3404">
+    <note xml:id="fn1" type="footnote" n="1">Mascezel (vgl. etwa <bibl>Pauly/Wissowa</bibl> XXVIII).</note>
+  </letter>
+  <letter letter_id="3411">
+    <note xml:id="fn1" type="footnote" n="1">bisher.</note>
+  </letter>
+  <letter letter_id="3412">
+    <note xml:id="fn1" type="footnote" n="1">Wildbad im Schwarzwald (Baden-W&#252;rttemberg).</note>
+  </letter>
+  <letter letter_id="3435">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="3438">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+  </letter>
+  <letter letter_id="3445">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Sat., 1, 7, 3 (u.a.?).</note>
+    <note xml:id="fn2" type="footnote" n="2">vgl. <bibl>Adagia</bibl>, 1, 3, 7 (<bibl>LB</bibl> II 114).</note>
+    <note xml:id="fn3" type="footnote" n="3">Vgl. R&#246;m 14, 5.</note>
+    <note xml:id="fn4" type="footnote" n="4"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="3449">
+    <note xml:id="fn1" type="footnote" n="1">Johannes Ewich. Aus H&#246;rstgen bei Kleve. Zur Biographie vgl. Gustav C. <hi>Knod,</hi> Rheinl&#228;ndische Studenten im 16. und 17. Jahrhundert auf der Universit&#228;t Padua, in: Annalen des historischen Vereins f&#252;r den Niederrhein, insbesondere die alte Erzdi&#246;zese K&#246;ln, 68, 1899, S. 168, Nr. 3. Vorhanden in ZB Z&#252;rich UN 526, 67-68.</note>
+  </letter>
+  <letter letter_id="345">
+    <note xml:id="fn1" type="footnote" n="1">= Herlinus (Haller an HB, 23.3.61) / Herlyn (Basel, Matrikel II 95) / Heerli (Lohner)? (jedenfalls ein Berner!).</note>
+  </letter>
+  <letter letter_id="3469">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="3472">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Isabella Bresegna (Brice&#241;o) Manrique</persName>; s. Dizionario biografico degli italiani XIV 189f; Graub&#252;nden, Korr.; BW Vergerio - Herzog Christoph; <bibl>Zurich Letters</bibl> I, S. 8; <bibl>Amerbach Korr.</bibl> X; A. Gordon Kinder, Spanish Protestants.</note>
+  </letter>
+  <letter letter_id="3475">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="3507"/>
+  <letter letter_id="3510">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="353">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</note>
+  </letter>
+  <letter letter_id="3531">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183) und ....</note>
+  </letter>
+  <letter letter_id="3539">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 62.</note>
+  </letter>
+  <letter letter_id="356">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="3564">
+    <note xml:id="fn1" type="footnote" n="1">"Kunst der Holzersparung".</note>
+  </letter>
+  <letter letter_id="357">
+    <note xml:id="fn1" type="footnote" n="1">Verleumder, Betr&#252;ger; <bibl>Adagia</bibl>, 2, 3, 81 (<bibl>LB</bibl> II 515f).</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="3570">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Remedium amoris 91(f?) (<bibl>Otto</bibl> 287, Nr. 1470).</note>
+  </letter>
+  <letter letter_id="3589">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> poetica, 139.</note>
+  </letter>
+  <letter letter_id="3595"/>
+  <letter letter_id="3610">
+    <note xml:id="fn1" type="footnote" n="1">Johannes Jung an Bullinger, Basel, 1. Juni (1560 oder eher 1558), eingeordnet am Ende des Jahrgangs</note>
+  </letter>
+  <letter letter_id="362">
+    <note xml:id="fn1" type="footnote" n="1">Offenbar Thomas Leymer/Argillanus; vgl. Basel, Matrikel II 54, Nr. 45; Gast an HB, 5. Mai 49.</note>
+  </letter>
+  <letter letter_id="3636">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note>
+  </letter>
+  <letter letter_id="3637">
+    <note xml:id="fn1" type="footnote" n="1">Beat Wilhelm von Bonstetten gab 1556 B&#252;rgerrecht auf (Quelle: B&#252;rgerbuch?), vgl. Z&#252;rich ZB, Ms E 16, 298r.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="3642">
+    <note xml:id="fn1" type="footnote" n="1">F&#252;r Zurzach wurde am 29. Juni 1558 Bernhard Bertschi gew&#228;hlt; s. Z&#252;rich StA, G I 179, f. 37v. - Zuvor hatte Jakob Bindschedler die Stelle, die er am 15. Juni 1558 f&#252;r B&#252;lach verlassen hatte; aaO, f. 37r. 99r.</note>
+  </letter>
+  <letter letter_id="3648">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="3653">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Anna, geb. Adlischwyler</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Kunstdenkm. d. Schweiz, Kt. AG, Bd. VI, S. 310.</note>
+  </letter>
+  <letter letter_id="3654">
+    <note xml:id="fn1" type="footnote" n="1">Kr&#228;mer, vgl. HB an Myconius, 1. Mai 1545!</note>
+    <note xml:id="fn2" type="footnote" n="2">wohl in Bremgarten</note>
+    <note xml:id="fn3" type="footnote" n="3">unterhalb von Basel oder unter Basels Herrschaft?</note>
+  </letter>
+  <letter letter_id="367">
+    <note xml:id="fn1" type="footnote" n="1"><persName>B&#233;at Comte</persName>.</note>
+  </letter>
+  <letter letter_id="3671">
+    <note xml:id="fn1" type="footnote" n="1">Paul de La Barthe, seigneur de Thermes, ...</note>
+    <note xml:id="fn2" type="footnote" n="2">Gravelines/Grevelingen.</note>
+  </letter>
+  <letter letter_id="3683">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Wilhelm Fr&#246;lich</persName> heiratete ca. 1545 <persName>Anna Rahn</persName> (vgl. <hi>Keller-Escher,</hi> Die Familie Rahn von Z&#252;rich), aber vielleicht ist jemand anderer gemeint. Schie&#223; l&#246;st Fuliginosus im Register mit "R&#246;ichli" auf. Das D&#252;rsteler-Register zu den Z&#252;rcher Kirchenb&#252;chern enth&#228;lt weder zu Fr&#246;lich noch zu R&#246;ichli einen passenden Eintrag.</note>
+  </letter>
+  <letter letter_id="3696">
+    <note xml:id="fn1" type="footnote" n="1">Rappoltstein.</note>
+  </letter>
+  <letter letter_id="3698">
+    <note xml:id="fn1" type="footnote" n="1">von Arras.</note>
+  </letter>
+  <letter letter_id="37">
+    <note xml:id="fn1" type="footnote" n="1">Varnier.</note>
+    <note xml:id="fn2" type="footnote" n="2">Urach.</note>
+  </letter>
+  <letter letter_id="3740">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Christoph Rotacher</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="3741">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="376">
+    <note xml:id="fn1" type="footnote" n="1">Albrecht Rosin, s. <bibl>HBLS</bibl>; vgl. u.a. ZBZ, Ms S 49, 8f; ein von ihm 1562 testiertes Breve Pauls III., an Bullinger adressiert: ZBZ, Ms A 84, 373 (als Brief aufnehmen??). Duri Blumenthal, Die drei B&#252;nde 1535 bis 1565, S. 158f.</note>
+  </letter>
+  <letter letter_id="378">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Sulpitius Haller</persName>.</note>
+  </letter>
+  <letter letter_id="3789">
+    <note xml:id="fn1" type="footnote" n="1">Berker; vgl. Verzeichn. d. Geschlechts d. Bullinger 1823, S. 102; <bibl>ZTB</bibl> 1920, bes. 238ff; zu Diethelm Berker: B&#228;chtold in: Bremgarter Njbl., 2005, S. 17.</note>
+  </letter>
+  <letter letter_id="379">
+    <note xml:id="fn1" type="footnote" n="1">Zitat aus einem Brief Bucers an [Myconius] (alias "M.N. Stiermacht von Lucern" vom 22. Dezember (Z&#252;rich StA, E I 441, 442-444; bzw. Simler-Abschrift in ZH ZB, Ms. S 68, 189.(von RH).</note>
+  </letter>
+  <letter letter_id="3800">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Sueton, Augustus, 85, 2.</note>
+  </letter>
+  <letter letter_id="3802">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. T&#252;bingen, Matrikel I 397; Z&#252;rich StA, E II 441, 42.</note>
+  </letter>
+  <letter letter_id="382">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Sulpitius Haller</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Sulpitius Haller</persName>.</note>
+  </letter>
+  <letter letter_id="3826">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Burkard N&#228;geli</persName>, Sohn von Hans Franz N&#228;geli, Landvogt von Ternier von 1558 bis 1562. Vgl. Berner Taschenbuch 22, 1873,S. 101f.</note>
+  </letter>
+  <letter letter_id="383">
+    <note xml:id="fn1" type="footnote" n="1">Kaspar Megander(?).</note>
+  </letter>
+  <letter letter_id="3846">
+    <note xml:id="fn1" type="footnote" n="1">Ludwig von Reischach?</note>
+  </letter>
+  <letter letter_id="3847">
+    <note xml:id="fn1" type="footnote" n="1">VD 16 F 1950.</note>
+  </letter>
+  <letter letter_id="3880">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Valentin Krautwald</persName>.</note>
+  </letter>
+  <letter letter_id="3883">
+    <note xml:id="fn1" type="footnote" n="1">Leodegar Hirsgarter(?).</note>
+  </letter>
+  <letter letter_id="3889">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 70 (<bibl>ASD</bibl> II-1 456, Nr. 370).</note>
+  </letter>
+  <letter letter_id="3897">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Peter Fuchs</persName>.</note>
+  </letter>
+  <letter letter_id="3898">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Lorenz Meyer</persName>.</note>
+  </letter>
+  <letter letter_id="3918">
+    <note xml:id="fn1" type="footnote" n="1"><persName>B&#233;at Comte</persName>.</note>
+  </letter>
+  <letter letter_id="3920">
+    <note xml:id="fn1" type="footnote" n="1">Joris. Zur Aff&#228;re ein Bericht in Z&#252;rich StA, E II 446, 3f.</note>
+  </letter>
+  <letter letter_id="3923">
+    <note xml:id="fn1" type="footnote" n="1">Simler liest "G&#246;ssmanus".</note>
+  </letter>
+  <letter letter_id="3931">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="3949">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="3965">
+    <note xml:id="fn1" type="footnote" n="1">Anklang an den aus der r&#246;mischen Messe bekannten Orationsschlu&#223; (vgl. Gwalther an HB, 3. Okt. 1538).</note>
+  </letter>
+  <letter letter_id="3972">
+    <note xml:id="fn1" type="footnote" n="1">Langenthal.</note>
+  </letter>
+  <letter letter_id="3986">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Christine Frisching, geb. Zehnder (Zehender)</persName>? Nicht in: Walther <hi>Merz,</hi> Oberrheinische Stammtafeln, Stammtafel 25 (Zehender von Arau[!]).</note>
+    <note xml:id="fn2" type="footnote" n="2">Diepold/Theobald und ... Frisching?</note>
+  </letter>
+  <letter letter_id="3994">
+    <note xml:id="fn1" type="footnote" n="1"><persName>John Hooper</persName>.</note>
+  </letter>
+  <letter letter_id="4003">
+    <note xml:id="fn1" type="footnote" n="1">Altst&#228;tten.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Gen 15, 16.</note>
+  </letter>
+  <letter letter_id="4018">
+    <note xml:id="fn1" type="footnote" n="1">vgl. Brief vom 16. Nov.</note>
+  </letter>
+  <letter letter_id="403">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Zeichnung in Ms S 67, 129.</note>
+  </letter>
+  <letter letter_id="4055">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Georg Wimpfer</persName>.</note>
+  </letter>
+  <letter letter_id="4065"/>
+  <letter letter_id="4066">
+    <note xml:id="fn1" type="footnote" n="1">Stucki?</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Persius, Saturae, 4, 52.</note>
+    <note xml:id="fn3" type="footnote" n="3">Ur-? = Besan&#231;on?</note>
+  </letter>
+  <letter letter_id="4069">
+    <note xml:id="fn1" type="footnote" n="1">Blitz.</note>
+  </letter>
+  <letter letter_id="407">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="4081">
+    <note xml:id="fn1" type="footnote" n="1">von Breslau.</note>
+  </letter>
+  <letter letter_id="4089">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="4101">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 1, 199.</note>
+  </letter>
+  <letter letter_id="4121">
+    <note xml:id="fn1" type="footnote" n="1">Lucius</note>
+  </letter>
+  <letter letter_id="4131">
+    <note xml:id="fn1" type="footnote" n="1">Eisermann.</note>
+  </letter>
+  <letter letter_id="4135">
+    <note xml:id="fn1" type="footnote" n="1">von der Tann.</note>
+  </letter>
+  <letter letter_id="4138">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="414">
+    <note xml:id="fn1" type="footnote" n="1">irgendwie.</note>
+  </letter>
+  <letter letter_id="4140">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Otto</bibl> 368, Nr. 1878.</note>
+  </letter>
+  <letter letter_id="4159">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Agathe Studler</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Katharina Gryn&#228;us</persName>; s. <bibl>Amerbach Korr.</bibl> VI</note>
+  </letter>
+  <letter letter_id="4160">
+    <note xml:id="fn1" type="footnote" n="1">Georg Keller?</note>
+  </letter>
+  <letter letter_id="4173">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Verfasserlexikon sowie Karteikarte in Basiskartei.</note>
+  </letter>
+  <letter letter_id="4178">
+    <note xml:id="fn1" type="footnote" n="1">Augustin, Epistulae, 187, 6 (<bibl>CSEL</bibl> LVII 96, ***-***).</note>
+  </letter>
+  <letter letter_id="418">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Philipp von Gundelsheim</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">
+      <persName>Karl V.</persName>
+    </note>
+    <note xml:id="fn3" type="footnote" n="3">............</note>
+    <note xml:id="fn4" type="footnote" n="4"><persName>Johann von Weeze</persName>.</note>
+    <note xml:id="fn5" type="footnote" n="5">Bern.</note>
+    <note xml:id="fn6" type="footnote" n="6">Karl III.</note>
+    <note xml:id="fn7" type="footnote" n="7">Waadt.</note>
+    <note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note>
+    <note xml:id="fn9" type="footnote" n="9"><persName>Rudolf Gwalther</persName>.</note>
+  </letter>
+  <letter letter_id="4197">
+    <note xml:id="fn1" type="footnote" n="1">Klebitz.</note>
+  </letter>
+  <letter letter_id="4201">
+    <note xml:id="fn1" type="footnote" n="1">Zum Schuldenhandel nach S&#252;lers Tod finden sich Materialien im Bestand A 369 (s. Register bei den Inventaren des StA).</note>
+  </letter>
+  <letter letter_id="4218">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Ovid (gem&#228;&#223; Proverbia sententiaeque Latinitatis medii aevi. Lateinische Sprichw&#246;rter und Sentenzen des Mittelalters in alphabetischer Anordnung, gesammelt und hg. v. Hans Walther).</note>
+    <note xml:id="fn2" type="footnote" n="2">in Breslau.</note>
+  </letter>
+  <letter letter_id="4228">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="4230">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Agathe Studler</persName>.</note>
+  </letter>
+  <letter letter_id="4278">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="428">
+    <note xml:id="fn1" type="footnote" n="1">Die Nachrichten stammen aus dem Brief von Philipp Bechi an Myconius, Z&#252;rich StA, E II 356, 29f.(von RH).</note>
+  </letter>
+  <letter letter_id="4281">
+    <note xml:id="fn1" type="footnote" n="1">Wildbad im Schwarzwald (Baden-W&#252;rttemberg).</note>
+  </letter>
+  <letter letter_id="4286">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="4287"/>
+  <letter letter_id="4295">
+    <note xml:id="fn1" type="footnote" n="1">von A. Blarer an Bullinger geschickt</note>
+  </letter>
+  <letter letter_id="43">
+    <note xml:id="fn1" type="footnote" n="1">Brittnauer? Joh. Zur M&#252;hle, Pfr. in Brittnau? - Vermutlich nicht, denn dieser Ioannem kommt aus Brittnau umd lebt (wie es die Unterschrift von Sch&#252;rmeister zu verstehen gibt) in Zofingen. Es handelt sich vermutlich nicht um einen Pfarrer!</note>
+    <note xml:id="fn2" type="footnote" n="2">R&#228;ber.</note>
+    <note xml:id="fn3" type="footnote" n="3">J&#246;rg Joachim, bei Pfister Georg Johann Will genannt (vgl. Korr. zu <bibl>HBBW</bibl> I-X; Karl Schenkel, 900 Jahr Staufberg, S. ??).</note>
+  </letter>
+  <letter letter_id="4304">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johann Anton Tillier</persName>.</note>
+  </letter>
+  <letter letter_id="4305">
+    <note xml:id="fn1" type="footnote" n="1">Gr&#252;ningen?</note>
+  </letter>
+  <letter letter_id="4314">
+    <note xml:id="fn1" type="footnote" n="1">Jetzerhandel!</note>
+    <note xml:id="fn2" type="footnote" n="2">Sinon, Vetter des Odysseus, &#252;berredet die Troer, das trojanische Pferd in die Stadt zu holen (<hi>Vergil,</hi> Aeneis, 2, 57ff).</note>
+  </letter>
+  <letter letter_id="4338">
+    <note xml:id="fn1" type="footnote" n="1">s. Manfred P. Fleischer, Sp&#228;thumanismus in Schlesien, S. 126f u. Reg.</note>
+  </letter>
+  <letter letter_id="4339">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="4348">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 91 (<bibl>LB</bibl> II 216f).</note>
+    <note xml:id="fn2" type="footnote" n="2">... ne</note>
+  </letter>
+  <letter letter_id="435">
+    <note xml:id="fn1" type="footnote" n="1">Hansestadt?</note>
+  </letter>
+  <letter letter_id="4356">
+    <note xml:id="fn1" type="footnote" n="1">Dachselhofer? Vincenz Pfister? Vgl. Leu Lexikon.</note>
+  </letter>
+  <letter letter_id="4394">
+    <note xml:id="fn1" type="footnote" n="1">Johannes Zart.</note>
+  </letter>
+  <letter letter_id="4395">
+    <note xml:id="fn1" type="footnote" n="1">Seitz?</note>
+  </letter>
+  <letter letter_id="442">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="4425">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+  </letter>
+  <letter letter_id="4426">
+    <note xml:id="fn1" type="footnote" n="1">Bewohner des Rheintales, vgl. <bibl>HBBW</bibl> XII...</note>
+  </letter>
+  <letter letter_id="444">
+    <note xml:id="fn1" type="footnote" n="1">in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="4444">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 49 (<bibl>LB</bibl> II 48).</note>
+  </letter>
+  <letter letter_id="4448">
+    <note xml:id="fn1" type="footnote" n="1">Cnipius/Kneip; s. Karl <hi>Bauer,</hi> <persName>Val&#233;rand Poullain</persName>.</note>
+  </letter>
+  <letter letter_id="4458">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="4460">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+  </letter>
+  <letter letter_id="4475">
+    <note xml:id="fn1" type="footnote" n="1">Darius Scala? (so Schie&#223;). Eher: Dario Sozzini.</note>
+  </letter>
+  <letter letter_id="4499">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="450">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="4518">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>NDBA</bibl> XXXI ....</note>
+  </letter>
+  <letter letter_id="4553">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="458">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="46"/>
+  <letter letter_id="4601">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. z.B. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4.</note>
+  </letter>
+  <letter letter_id="4613">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="4623">
+    <note xml:id="fn1" type="footnote" n="1">Hellebarden (s. Diefenbach, Glossarium Latino-Germanicum).</note>
+  </letter>
+  <letter letter_id="4635">
+    <note xml:id="fn1" type="footnote" n="1">Psalmzitat?</note>
+  </letter>
+  <letter letter_id="4655">
+    <note xml:id="fn1" type="footnote" n="1">Urach.</note>
+  </letter>
+  <letter letter_id="4690">
+    <note xml:id="fn1" type="footnote" n="1">Oxford Enc. of the Ref. II 207.</note>
+  </letter>
+  <letter letter_id="4705">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note>
+    <note xml:id="fn2" type="footnote" n="2">Eppelmann/Milander.</note>
+  </letter>
+  <letter letter_id="4707">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="4709">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. 1Kor 14, 29f[?].</note>
+  </letter>
+  <letter letter_id="4712">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 10, 25 (<bibl>LB</bibl> II 690).</note>
+  </letter>
+  <letter letter_id="4736">
+    <note xml:id="fn1" type="footnote" n="1">hiemit?</note>
+  </letter>
+  <letter letter_id="4748">
+    <note xml:id="fn1" type="footnote" n="1">in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="4754">
+    <note xml:id="fn1" type="footnote" n="1">M&#246;hr (zu M. siehe auch Campell, Hist. Raetica II 488-490; Besitzeintrag von 1556 "... &amp; nunc Johannis Meri Cur[i?]ensis" in einem Buch (Sammelband in der Staatl. Bibl. Lauingen), mitgeteilt 2007 durch Reinhard A. Seitz (Zwingliana 2007!). Joannes Merus Cruciensis von Gr&#252;sch 1555 am Basler Augustinerkolleg; s. Bonorand, B&#252;ndner Studierende S. 134 und <bibl>Amerbach Korr.</bibl> IX/2 625. Vgl. in dieser Datei Notizen zu Brief 40065.</note>
+    <note xml:id="fn2" type="footnote" n="2">Siehe Maria Papanicolaou in: Athena 82, 1997/99.</note>
+  </letter>
+  <letter letter_id="4776">
+    <note xml:id="fn1" type="footnote" n="1">Lignum Guajacum, Harz des Guajakbaums.</note>
+    <note xml:id="fn2" type="footnote" n="2">Wohl die kath. Eidgenossen (auch Erasmus vergleicht die Eidgenossen mit den Kariern, s. <bibl>Adagia</bibl>, 1, 6, 14!). Vgl. auch Brief 41103.</note>
+  </letter>
+  <letter letter_id="4809">
+    <note xml:id="fn1" type="footnote" n="1">Pannerherr Andreas Schmid.</note>
+  </letter>
+  <letter letter_id="4826"/>
+  <letter letter_id="4857">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>HBBibl</bibl> III 110!</note>
+  </letter>
+  <letter letter_id="4858">
+    <note xml:id="fn1" type="footnote" n="1">Matth. 10, 14.</note>
+  </letter>
+  <letter letter_id="486">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Tit 1, 2.</note>
+    <note xml:id="fn2" type="footnote" n="2">Johann(es) Winter/Guinterius.</note>
+  </letter>
+  <letter letter_id="4860">
+    <note xml:id="fn1" type="footnote" n="1">dunkler als sibyllinische Orakelspr&#252;che; vgl. <bibl>Adagia</bibl>, 1, 7, 91 (<bibl>LB</bibl> II 298).</note>
+  </letter>
+  <letter letter_id="4866">
+    <note xml:id="fn1" type="footnote" n="1">erstmalige Benennung als B&#252;rger von W.!</note>
+  </letter>
+  <letter letter_id="4876">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Ex 16, 3.</note>
+  </letter>
+  <letter letter_id="4878">
+    <note xml:id="fn1" type="footnote" n="1">Auch erw. von Haller, 27. Juli 1561.</note>
+  </letter>
+  <letter letter_id="4884">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="4886">
+    <note xml:id="fn1" type="footnote" n="1">Frauenfeld.</note>
+    <note xml:id="fn2" type="footnote" n="2">Johannes Karg, s. Augsburger Pfarrerbuch.</note>
+  </letter>
+  <letter letter_id="4900">
+    <note xml:id="fn1" type="footnote" n="1">Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="4909">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 1, 199.</note>
+  </letter>
+  <letter letter_id="491">
+    <note xml:id="fn1" type="footnote" n="1">Knoblauch</note>
+  </letter>
+  <letter letter_id="492">
+    <note xml:id="fn1" type="footnote" n="1">In den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="4980"/>
+  <letter letter_id="499">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="4995">
+    <note xml:id="fn1" type="footnote" n="1">Zur Redensart vgl. <bibl>Grimm</bibl> X/I 85.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="50">
+    <note xml:id="fn1" type="footnote" n="1">Dryander; s. z.B. Dry. an HB, 20.3.</note>
+  </letter>
+  <letter letter_id="5009">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 49 (<bibl>LB</bibl> II 48).</note>
+  </letter>
+  <letter letter_id="5023">
+    <note xml:id="fn1" type="footnote" n="1">Zurkinden.</note>
+  </letter>
+  <letter letter_id="5040">
+    <note xml:id="fn1" type="footnote" n="1">G&#252;ttingen.</note>
+  </letter>
+  <letter letter_id="5068"/>
+  <letter letter_id="507">
+    <note xml:id="fn1" type="footnote" n="1">Thomas Leymer/Argillanus; vgl. Basel, Matrikel II 54, Nr. 45 und Myc., 8.12.48.</note>
+  </letter>
+  <letter letter_id="5128"/>
+  <letter letter_id="513">
+    <note xml:id="fn1" type="footnote" n="1">Hinweis: Bieler Akten betr. Joh. Jung vom Dez. 1549 in Biel Stadtarchiv, 120, CXXX, Nr. 83-86.</note>
+  </letter>
+  <letter letter_id="5138">
+    <note xml:id="fn1" type="footnote" n="1">Anklang an den aus der r&#246;mischen Messe bekannten Orationsschlu&#223; (vgl. Gwalther an HB, 3. Okt. 1538).</note>
+  </letter>
+  <letter letter_id="5139">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="5150">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>SI</bibl> XI 956.</note>
+    <note xml:id="fn2" type="footnote" n="2">fertig.</note>
+  </letter>
+  <letter letter_id="5175">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="5179">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johannes Gislinger</persName>.</note>
+  </letter>
+  <letter letter_id="5192">
+    <note xml:id="fn1" type="footnote" n="1">Zurkinden.</note>
+  </letter>
+  <letter letter_id="5269">
+    <note xml:id="fn1" type="footnote" n="1">ein Woiwode (welcher?).</note>
+  </letter>
+  <letter letter_id="5275">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Otto</bibl> 320f, Nr. 1638.</note>
+  </letter>
+  <letter letter_id="5278">
+    <note xml:id="fn1" type="footnote" n="1">Zeitung von Ernst <bibl>V&#246;gelin</bibl> (1562) in Z&#252;rich StA, E II 342a, 419.</note>
+  </letter>
+  <letter letter_id="529">
+    <note xml:id="fn1" type="footnote" n="1">Andreas Sors&#233;e (Bullinger-Korrespondent; s. Personenkartei!).</note>
+  </letter>
+  <letter letter_id="5297">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Persius, Saturae, 4, 52.</note>
+  </letter>
+  <letter letter_id="5303">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 4, 336.</note>
+    <note xml:id="fn2" type="footnote" n="2">Pannerherr Andreas Schmid.</note>
+  </letter>
+  <letter letter_id="5315">
+    <note xml:id="fn1" type="footnote" n="1">Zu Voglers T&#228;tigkeit in Rappoltsweiler u. Zellenberg s. Z&#252;rich ZB, Ms S 318, S. 207 und 472; Z&#252;rich StA, A 190.1, Nr. 162ff.</note>
+    <note xml:id="fn2" type="footnote" n="2"><hi>Vergil,</hi> Aeneis, 1, 199.</note>
+  </letter>
+  <letter letter_id="5321">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Vergil, Aeneis, 4, 336.</note>
+  </letter>
+  <letter letter_id="5343">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. die Anm. bei Hospinian an HB, 25. Aug. 1557.</note>
+  </letter>
+  <letter letter_id="5353">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Gen 15, 16.</note>
+  </letter>
+  <letter letter_id="5374">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="5390">
+    <note xml:id="fn1" type="footnote" n="1">Mt 24, ...</note>
+  </letter>
+  <letter letter_id="5420">
+    <note xml:id="fn1" type="footnote" n="1">Zurkinden.</note>
+  </letter>
+  <letter letter_id="5428">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5429">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5438"/>
+  <letter letter_id="5454">
+    <note xml:id="fn1" type="footnote" n="1">Andreas Fricius Modrevius, Libri tres, Basel (Oporin) 1562.</note>
+  </letter>
+  <letter letter_id="5455"/>
+  <letter letter_id="5484">
+    <note xml:id="fn1" type="footnote" n="1">hiezu a.R. unleserlich. Bemerkung, viell.: "Oro autem, ut tuto et cito remittas omnia."</note>
+  </letter>
+  <letter letter_id="55"/>
+  <letter letter_id="5517">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</note>
+  </letter>
+  <letter letter_id="5521"/>
+  <letter letter_id="5536">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="5539">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. z.B. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4.</note>
+  </letter>
+  <letter letter_id="5569">
+    <note xml:id="fn1" type="footnote" n="1">Antwerpen.</note>
+  </letter>
+  <letter letter_id="5587">
+    <note xml:id="fn1" type="footnote" n="1">d. h. zwischen Chartres und Dreux.</note>
+  </letter>
+  <letter letter_id="5640">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5643">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5664">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+    <note xml:id="fn2" type="footnote" n="2">Siehe Bullingers Schreiben an den Rat in Z&#252;rich StA, A 211.2, Nr. 24.</note>
+  </letter>
+  <letter letter_id="5667">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+  </letter>
+  <letter letter_id="5680">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5691">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5709"/>
+  <letter letter_id="573">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="5738">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="574">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="5749">
+    <note xml:id="fn1" type="footnote" n="1">Remstal?</note>
+  </letter>
+  <letter letter_id="5750">
+    <note xml:id="fn1" type="footnote" n="1">Blasius/Blaise Marcuard.</note>
+  </letter>
+  <letter letter_id="5756">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. z. B: Titus Livius, Ab urbe condita, 7, 10, 9; 8, 13, 17 u.a.</note>
+  </letter>
+  <letter letter_id="5765">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Blasius Marcuard</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">einspannen.</note>
+    <note xml:id="fn3" type="footnote" n="3">was recht ist und wodurch Wahrheit und Recht gest&#228;rkt werden.</note>
+    <note xml:id="fn4" type="footnote" n="4">auf die Dauer.</note>
+  </letter>
+  <letter letter_id="5775">
+    <note xml:id="fn1" type="footnote" n="1">?</note>
+  </letter>
+  <letter letter_id="58"/>
+  <letter letter_id="5807">
+    <note xml:id="fn1" type="footnote" n="1">N&#238;mes.</note>
+  </letter>
+  <letter letter_id="5812"/>
+  <letter letter_id="5835">
+    <note xml:id="fn1" type="footnote" n="1">Wahrscheinlich noch nicht Bercker/Bereker; vgl. HB an B&#228;ldi, 28.1.69.</note>
+  </letter>
+  <letter letter_id="585">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="5850">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="586">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II/3 290-292, Nr. 1272).</note>
+  </letter>
+  <letter letter_id="5872">
+    <note xml:id="fn1" type="footnote" n="1">Erzberger(?).</note>
+  </letter>
+  <letter letter_id="5932">
+    <note xml:id="fn1" type="footnote" n="1">Erzberger(?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. <hi>Vergil,</hi> Aeneis, 4, 336.</note>
+  </letter>
+  <letter letter_id="5946">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="5956">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="5975">
+    <note xml:id="fn1" type="footnote" n="1">Zurkinden.</note>
+  </letter>
+  <letter letter_id="6004">
+    <note xml:id="fn1" type="footnote" n="1">Dario Scala? Eher: Dario Sozzini.</note>
+  </letter>
+  <letter letter_id="6005">
+    <note xml:id="fn1" type="footnote" n="1">Philipp Gretschmann, Gr&#228;tschmann, Gretschmer, Kretschmar o.&#228;., s. Z&#252;rich StA, B II ....; E II 350, 181; 361, 225.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. <hi>Ovid,</hi> Remedium amoris 91 (<bibl>Otto</bibl> 287, Nr. 1470).</note>
+  </letter>
+  <letter letter_id="6009">
+    <note xml:id="fn1" type="footnote" n="1">Dario Scala?</note>
+  </letter>
+  <letter letter_id="6012">
+    <note xml:id="fn1" type="footnote" n="1">Dario Sozzini?</note>
+  </letter>
+  <letter letter_id="6061">
+    <note xml:id="fn1" type="footnote" n="1">Desmasures, derzeit Pfr. in Metz; s. Basel, Matrikel II 216, Nr. 61.</note>
+  </letter>
+  <letter letter_id="6084"/>
+  <letter letter_id="6093">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 70 (<bibl>ASD</bibl> II-1 456, Nr. 370).</note>
+  </letter>
+  <letter letter_id="6096">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 70 (<bibl>ASD</bibl> II-1 456, Nr. 370).</note>
+  </letter>
+  <letter letter_id="61">
+    <note xml:id="fn1" type="footnote" n="1">Itelhans Berz; s. Sulzberger.</note>
+  </letter>
+  <letter letter_id="6103">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Brida Schmid</persName>.</note>
+  </letter>
+  <letter letter_id="6136">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="6169">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</note>
+  </letter>
+  <letter letter_id="617">
+    <note xml:id="fn1" type="footnote" n="1">Hiezu a. R.: "Das ist das best."</note>
+  </letter>
+  <letter letter_id="6188">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="6194">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="6195">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Niklaus von Graffenried</persName>.</note>
+  </letter>
+  <letter letter_id="62"/>
+  <letter letter_id="6202">
+    <note xml:id="fn1" type="footnote" n="1">Cristoforo oder Ludovico Madruzzo.</note>
+  </letter>
+  <letter letter_id="6233">
+    <note xml:id="fn1" type="footnote" n="1">Georg Obrecht, Freund Calvins, s. u.a. Beza-Korrespondenz.</note>
+  </letter>
+  <letter letter_id="624">
+    <note xml:id="fn1" type="footnote" n="1">vgl. auch 9. April 1550</note>
+    <note xml:id="fn2" type="footnote" n="2">Zu diesem vgl. Wim <bibl>Janse, Hardenberg</bibl> als Theologe, S. 383, Anm. 231.</note>
+  </letter>
+  <letter letter_id="6250"/>
+  <letter letter_id="6255">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Joh. Haller, 17. Juni 1570!</note>
+  </letter>
+  <letter letter_id="6261">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="6267">
+    <note xml:id="fn1" type="footnote" n="1">G&#252;ttingen.</note>
+  </letter>
+  <letter letter_id="627">
+    <note xml:id="fn1" type="footnote" n="1">der Brief fangt mit 694 an</note>
+    <note xml:id="fn2" type="footnote" n="2">Datum u. Unterschrift fehlen; viell. auf S. 694 abgebr&#246;ckelt</note>
+  </letter>
+  <letter letter_id="6279">
+    <note xml:id="fn1" type="footnote" n="1"><persName>&#196;gidius Tschudi</persName>.</note>
+    <note xml:id="fn2" type="footnote" n="2">Weesen?</note>
+    <note xml:id="fn3" type="footnote" n="3">Tschudi.</note>
+  </letter>
+  <letter letter_id="628">
+    <note xml:id="fn1" type="footnote" n="1">Hiezu v. A. Bl's Hd. a. R.: "Das Latin haist: were ain feine sach, wann der bischoff sein unbillich recht durch die unseren wellte behopten."</note>
+  </letter>
+  <letter letter_id="6284">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="6299">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Bernhard Lindauer</persName>.</note>
+  </letter>
+  <letter letter_id="6325">
+    <note xml:id="fn1" type="footnote" n="1">vgl. Diarium!</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Mt 11, 29-30.</note>
+    <note xml:id="fn3" type="footnote" n="3">g&#246;nnt.</note>
+  </letter>
+  <letter letter_id="6347">
+    <note xml:id="fn1" type="footnote" n="1">von Schaffhausen? (ab 1567 Beat L&#246;w, "Beatus Leo", auch sonst in Briefen an HRB erw.).</note>
+  </letter>
+  <letter letter_id="636">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="6390">
+    <note xml:id="fn1" type="footnote" n="1">Anklang an den aus der r&#246;mischen Messe bekannten Orationsschlu&#223; (vgl. Gwalther an HB, 3. Okt. 1538).</note>
+  </letter>
+  <letter letter_id="64">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Jodocus Kilchmeyer</persName>.</note>
+  </letter>
+  <letter letter_id="6416">
+    <note xml:id="fn1" type="footnote" n="1">Das gleiche Bild im selben Zusammenhang in: Vadian an HB, 11. April 1541!</note>
+  </letter>
+  <letter letter_id="6423">
+    <note xml:id="fn1" type="footnote" n="1">Hinweis: Urkunde vom 28. M&#228;rz 1565, in der best&#228;tigt wird, das der Heirat von Romanus Hu&#868;eberli von Z&#252;rich nichts im Wege steht (Heirat in Lyon); eigenh&#228;ndiger Entwurf Bullingers, in: Z&#252;rich ZB, Ms L 87, f. 92</note>
+  </letter>
+  <letter letter_id="645">
+    <note xml:id="fn1" type="footnote" n="1">vacabat-pertinebat: Zusatz am Rand</note>
+    <note xml:id="fn2" type="footnote" n="2">irgendwie.</note>
+  </letter>
+  <letter letter_id="646"/>
+  <letter letter_id="648">
+    <note xml:id="fn1" type="footnote" n="1">die Hansest&#228;dte ("Seest&#228;dte").</note>
+  </letter>
+  <letter letter_id="649">
+    <note xml:id="fn1" type="footnote" n="1">Am Rand a.H.: Vielleicht O. Werdm&#252;ller, der Ted....?</note>
+  </letter>
+  <letter letter_id="6499">
+    <note xml:id="fn1" type="footnote" n="1">vielleicht - falckn f&#252;r - falckensis</note>
+  </letter>
+  <letter letter_id="6510">
+    <note xml:id="fn1" type="footnote" n="1">Bullinger, Kr&#243;tkie opisanie ... je ein Expl. in Krakau BJ und Bibliothek Teschen (fehlt in <bibl>HBBibl</bibl> I; siehe Notiz im Handexpl. bzw. Kopie der Katalogeintr&#228;ge im Ordner mit den Erg. zu HBBibl).</note>
+  </letter>
+  <letter letter_id="6522">
+    <note xml:id="fn1" type="footnote" n="1">Schnewli?</note>
+  </letter>
+  <letter letter_id="6525">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 70 (<bibl>ASD</bibl> II-1 456, Nr. 370).</note>
+  </letter>
+  <letter letter_id="6536">
+    <note xml:id="fn1" type="footnote" n="1">Niklaus K&#246;chli?</note>
+  </letter>
+  <letter letter_id="655">
+    <note xml:id="fn1" type="footnote" n="1">Dazu a. R.: "Cornubenses populi sunt occidentalis Amgliae."</note>
+  </letter>
+  <letter letter_id="6567"/>
+  <letter letter_id="6581">
+    <note xml:id="fn1" type="footnote" n="1">Frell</note>
+  </letter>
+  <letter letter_id="6592">
+    <note xml:id="fn1" type="footnote" n="1">Frell</note>
+  </letter>
+  <letter letter_id="6603">
+    <note xml:id="fn1" type="footnote" n="1">Taufpatin.</note>
+  </letter>
+  <letter letter_id="6618">
+    <note xml:id="fn1" type="footnote" n="1">Gott des steten Wandels; vgl. <bibl>Adagia</bibl>, 2, 2, 74 (<bibl>LB</bibl> II 473).</note>
+  </letter>
+  <letter letter_id="6636">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 1, 199.</note>
+  </letter>
+  <letter letter_id="6649">
+    <note xml:id="fn1" type="footnote" n="1">Ein Estienne Toucheron ist erw. in: Livre des habitants ..., Bd. 2.</note>
+    <note xml:id="fn2" type="footnote" n="2">pl&#246;tzlichen.</note>
+  </letter>
+  <letter letter_id="6650">
+    <note xml:id="fn1" type="footnote" n="1">erneut.</note>
+  </letter>
+  <letter letter_id="6659">
+    <note xml:id="fn1" type="footnote" n="1">Beza.</note>
+    <note xml:id="fn2" type="footnote" n="2">Bullinger nennt entgegen seiner Gewohnheit den Tagesheiligen, weil Haller Pfarrer am Berner Vinzenz-M&#252;nster war.</note>
+  </letter>
+  <letter letter_id="666">
+    <note xml:id="fn1" type="footnote" n="1">de mand.- Christi ist v. Bullinders Hd. am R. beigef&#252;gt.</note>
+    <note xml:id="fn2" type="footnote" n="2">v. Bull. aus confessioni korrig.</note>
+    <note xml:id="fn3" type="footnote" n="3">quod-habemus, ein gestrichener Zus. a. Rand</note>
+  </letter>
+  <letter letter_id="6685"/>
+  <letter letter_id="6694">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Susanne Bullinger, geb. Keller</persName>.</note>
+  </letter>
+  <letter letter_id="6695"/>
+  <letter letter_id="67">
+    <note xml:id="fn1" type="footnote" n="1">Thusis (Kt. Graub&#252;nden).</note>
+    <note xml:id="fn2" type="footnote" n="2">Kaspar Seidenstricker; s. Lohner.</note>
+    <note xml:id="fn3" type="footnote" n="3">Adam Frey d.J.? Vgl. <hi>Pfarrerbuch</hi>; Basel, Matrikel.</note>
+    <note xml:id="fn4" type="footnote" n="4">Winterthurer.</note>
+    <note xml:id="fn5" type="footnote" n="5">Joachim Forrer. Zu Forrer siehe Mail von RB / Extra-Umschlag Blarer 7. Juli 1553</note>
+    <note xml:id="fn6" type="footnote" n="6"><persName>Johannes Gislinger</persName>.</note>
+    <note xml:id="fn7" type="footnote" n="7">W&#228;ber.</note>
+  </letter>
+  <letter letter_id="6709"/>
+  <letter letter_id="6750">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Wander</bibl> III 1463.</note>
+  </letter>
+  <letter letter_id="676"/>
+  <letter letter_id="6764">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="677"/>
+  <letter letter_id="6791">
+    <note xml:id="fn1" type="footnote" n="1">sich vergeblich bem&#252;hen; vgl. <bibl>Adagia</bibl>, 1, 4, 48 (<bibl>LB</bibl> II 169).</note>
+  </letter>
+  <letter letter_id="6796">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+  </letter>
+  <letter letter_id="6798">
+    <note xml:id="fn1" type="footnote" n="1">Ein Franz v. M&#246;rsberg/Morimont ist 1567 als verstorben erw., s. W. Merz, Oberrhein. Stammtafeln (Stammt. 40).</note>
+  </letter>
+  <letter letter_id="6807">
+    <note xml:id="fn1" type="footnote" n="1">Ps 77, 11 (Vulg. 76, 11.</note>
+  </letter>
+  <letter letter_id="6828">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Remedium amoris 91 (<bibl>Otto</bibl> 287, Nr. 1470).</note>
+  </letter>
+  <letter letter_id="6838"/>
+  <letter letter_id="6863">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 5, 76 (<bibl>LB</bibl> II 574).</note>
+  </letter>
+  <letter letter_id="6882">
+    <note xml:id="fn1" type="footnote" n="1">Ecebolius, Sophist, zeitweise Christ, laut Historia tripartita Lehrer von Julian (nachpr&#252;fen!).</note>
+  </letter>
+  <letter letter_id="6915">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Johann Friedrich II. der Mittlere</persName>, zu Weimar(?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Herzog Johann Wilhelm.</note>
+  </letter>
+  <letter letter_id="692">
+    <note xml:id="fn1" type="footnote" n="1">Notiz von Bull's Hand: "Hanns Zehender, radtschryber zu&#870; Bern."</note>
+  </letter>
+  <letter letter_id="6926">
+    <note xml:id="fn1" type="footnote" n="1">In Michael Baelde, De collaterale raden onder Karel V en Filips II, ist im Register kein Nonius oder Honius zu finden. Der einzige Rat mit Vornamen Albert ist anscheinend <persName>Albert van Loo</persName>, gest. 1571, ab 1551 "commis" im Finanzrat (aaO, S. 278, &#252;berpr&#252;fen!), was nicht zu dieser Briefstelle zu passen scheint.</note>
+    <note xml:id="fn2" type="footnote" n="2">Nachstellung.</note>
+  </letter>
+  <letter letter_id="6945">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Michael Schwyzer</persName>.</note>
+  </letter>
+  <letter letter_id="6951">
+    <note xml:id="fn1" type="footnote" n="1">Michael Burger?</note>
+  </letter>
+  <letter letter_id="6957">
+    <note xml:id="fn1" type="footnote" n="1">G&#228;nge einer Mahlzeit.</note>
+    <note xml:id="fn2" type="footnote" n="2">Pfauenschwanz als Symbol &#214;sterreichs (vgl. <bibl>SI</bibl> IX 1033f).</note>
+    <note xml:id="fn3" type="footnote" n="3">Gyula.</note>
+    <note xml:id="fn4" type="footnote" n="4">Anspielung auf Pfauenschwanz als Symbol &#214;sterreichs? (vgl. <bibl>SI</bibl> IX 1033f).</note>
+    <note xml:id="fn5" type="footnote" n="5">die Haut juckt.</note>
+    <note xml:id="fn6" type="footnote" n="6">Katharina von Habsburg, 1533-1572.</note>
+    <note xml:id="fn7" type="footnote" n="7">Elisabeth von Habsburg, 1526-1545.</note>
+  </letter>
+  <letter letter_id="6959">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Persius, Saturae, 4, 52.</note>
+  </letter>
+  <letter letter_id="696"/>
+  <letter letter_id="6961">
+    <note xml:id="fn1" type="footnote" n="1">S&#228;ckler, S&#228;ckelmacher o.&#228;.</note>
+  </letter>
+  <letter letter_id="6966"/>
+  <letter letter_id="6967">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="6970">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Hans Rudolf Bullinger</persName> und Familie, in Berg a. Irchel.</note>
+    <note xml:id="fn2" type="footnote" n="2">Abt von Rheinau von 1565 - 1598, Hans Diebold (Theobald Wehrli von Frauenfeld).</note>
+    <note xml:id="fn3" type="footnote" n="3">an HB's Schwager.</note>
+  </letter>
+  <letter letter_id="6971">
+    <note xml:id="fn1" type="footnote" n="1">Rechtsformel?</note>
+  </letter>
+  <letter letter_id="698">
+    <note xml:id="fn1" type="footnote" n="1">Antistes.</note>
+  </letter>
+  <letter letter_id="6981">
+    <note xml:id="fn1" type="footnote" n="1">Gott Zebaoth (vgl. <bibl>Otto</bibl> <hi>Ei&#223;feldt,</hi> in: RGG VI 1875f).</note>
+  </letter>
+  <letter letter_id="70"/>
+  <letter letter_id="7025"/>
+  <letter letter_id="703"/>
+  <letter letter_id="7037">
+    <note xml:id="fn1" type="footnote" n="1">Ein Unicornius (Einhorn) 1560 in Heidelberg als Hofprediger entlassen; s. Erast an HB, 8.10.1560. Hierzu ev. Z&#252;rich StA, E II 350, 11-20 "Ex disputatione Unicornu(?)".</note>
+  </letter>
+  <letter letter_id="7051">
+    <note xml:id="fn1" type="footnote" n="1">eine Urkunde. - Ein Lehnsrevers Christoph Bullingers vom 2. Februar 1567 findet sich im Hessischen Staatsarchiv Darmstadt, A 5 Nr. 42/2. Vgl. auch <bibl>ZTB</bibl> 1930 zu Christoph Bullinger. Nach Auskunft des HStA Marburg vom 20. Juli 2004 konnten dort keine Unterlagen &#252;ber das Lehen f&#252;r Christoph Bullinger gefunden werden, weder im Lehen- und Mannbuch des <persName>Landgrafen Philipp</persName> noch in der Sammlung der Aktivlehensreverse. Auch die Akten&#252;berlieferung Philipps II. enth&#228;lt nichts &#252;ber Chr. B.</note>
+    <note xml:id="fn2" type="footnote" n="2">R&#252;desheim.</note>
+  </letter>
+  <letter letter_id="707">
+    <note xml:id="fn1" type="footnote" n="1">Dan. v. Bullingers Hand: "Guilhelmus Plancius, Gallus."</note>
+  </letter>
+  <letter letter_id="7084">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="7109">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Heinrich Hedinger</persName>.</note>
+  </letter>
+  <letter letter_id="713"/>
+  <letter letter_id="7138">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. <hi>Vergil,</hi> Aeneis, 1, 199.</note>
+  </letter>
+  <letter letter_id="7173">
+    <note xml:id="fn1" type="footnote" n="1">wohl Bremg. b. Bern?</note>
+  </letter>
+  <letter letter_id="7191">
+    <note xml:id="fn1" type="footnote" n="1">Jos D&#252;nz von Bremgarten, s. Banholzer, Gesch. Brugg, S. 294; Urk. Brugg, Reg.</note>
+  </letter>
+  <letter letter_id="7209">
+    <note xml:id="fn1" type="footnote" n="1">Bischof von London war Edmund Grindal, von Winchester Robert Horne (von Worcester Edwin Sandys), von Norwich John Parkhurst.</note>
+  </letter>
+  <letter letter_id="721"/>
+  <letter letter_id="7214">
+    <note xml:id="fn1" type="footnote" n="1">2Thess 2, 3.</note>
+  </letter>
+  <letter letter_id="7239">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+    <note xml:id="fn2" type="footnote" n="2">Pfr. Leonhard Erni in Fehraltorf (vgl. Verzeichni&#223; des Geschlechts der Bullinger, S. 111).</note>
+  </letter>
+  <letter letter_id="724"/>
+  <letter letter_id="7241">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</note>
+  </letter>
+  <letter letter_id="7246">
+    <note xml:id="fn1" type="footnote" n="1">Adresse im Original deutsch!(?)</note>
+  </letter>
+  <letter letter_id="7248">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="726">
+    <note xml:id="fn1" type="footnote" n="1">Dazu a. R. ... anquam recentem ... vide ne ab [saluta]tione mea excludas.</note>
+    <note xml:id="fn2" type="footnote" n="2">Antistes.</note>
+  </letter>
+  <letter letter_id="7271">
+    <note xml:id="fn1" type="footnote" n="1">bei den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="729">
+    <note xml:id="fn1" type="footnote" n="1">von hier an v. Bull. geschrieben.</note>
+    <note xml:id="fn2" type="footnote" n="2">Auf der R&#252;ckseite von Bullingers Hand: "Ordnung der religion in Engelland. N&#252;w zytung."</note>
+  </letter>
+  <letter letter_id="730">
+    <note xml:id="fn1" type="footnote" n="1">Daneben von Altieris Hand:</note>
+  </letter>
+  <letter letter_id="7301">
+    <note xml:id="fn1" type="footnote" n="1">Pfauenschwanz als Symbol &#214;sterreichs (vgl. <bibl>SI</bibl> IX 1033f).</note>
+  </letter>
+  <letter letter_id="7313">
+    <note xml:id="fn1" type="footnote" n="1">Der Botaniker Joachim Camerarius d.J.? Dieser war ein Freund Gessners; s. G. Rath, Briefe G's ...).</note>
+  </letter>
+  <letter letter_id="7319">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+    <note xml:id="fn2" type="footnote" n="2">Rudolf Wyssenbach/Wy&#223;enbach.</note>
+  </letter>
+  <letter letter_id="7331">
+    <note xml:id="fn1" type="footnote" n="1">
+      <persName>Georg Grebel</persName>
+    </note>
+  </letter>
+  <letter letter_id="7347">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+    <note xml:id="fn2" type="footnote" n="2">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+    <note xml:id="fn3" type="footnote" n="3">Innsbruck.</note>
+  </letter>
+  <letter letter_id="7359">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7360">
+    <note xml:id="fn1" type="footnote" n="1">Rudolf Wyssenbach/Wy&#223;enbach.</note>
+  </letter>
+  <letter letter_id="7370">
+    <note xml:id="fn1" type="footnote" n="1">ein Churer Stadtknecht? &#8222;Minister publicus&#8220; k&#246;nnte auch auf einen Pfarrer hindeuten!</note>
+  </letter>
+  <letter letter_id="7371">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Heroides, 1, 12.</note>
+    <note xml:id="fn2" type="footnote" n="2">Erhard Battmann.</note>
+  </letter>
+  <letter letter_id="7376">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7392">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7396">
+    <note xml:id="fn1" type="footnote" n="1">Blitz.</note>
+    <note xml:id="fn2" type="footnote" n="2">im Winter!</note>
+  </letter>
+  <letter letter_id="7402">
+    <note xml:id="fn1" type="footnote" n="1">Camilla Muralta.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Missive an Pinczow in Z&#252;rich StA, B IV 30, 78r.-v. (hier Franconic/Francovic?).</note>
+  </letter>
+  <letter letter_id="7403">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="7408">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="7409">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Adagia</bibl>, 1, 4, 99 (<bibl>LB</bibl> II 180).</note>
+  </letter>
+  <letter letter_id="7419">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="744">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="7442">
+    <note xml:id="fn1" type="footnote" n="1">sich vergeblich bem&#252;hen; vgl. <bibl>Adagia</bibl>, 1, 4, 48 (<bibl>LB</bibl> II 169).</note>
+  </letter>
+  <letter letter_id="7444">
+    <note xml:id="fn1" type="footnote" n="1">Frell</note>
+  </letter>
+  <letter letter_id="7468">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="747">
+    <note xml:id="fn1" type="footnote" n="1">in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="7473">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7477">
+    <note xml:id="fn1" type="footnote" n="1">Paten.</note>
+  </letter>
+  <letter letter_id="7487">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Z&#252;rich StA, A 170.1, Nr. 73, R&#228;te der B&#252;nde an die Gemeinden, 20. Juli 1568, Beilage zu einem sp&#228;teren Brief? Vgl. Domenico <hi>Maselli,</hi> La lotta contro l'eresia nel carteggio di Borromeo, in: Umanesimo e teologia tra '400 e '500, Pistoia 1973. - Memorie Domenicane, Nuova Serie 4, S. 289-343, S. 303-305.</note>
+    <note xml:id="fn2" type="footnote" n="2">Hinweis zu: Bullinger an [E. v. Rappoltstein], [Z&#252;rich], 10. Juni 1568 (Z&#252;rich StA, E II 350, 181): Johann V. s. = Vogler senior!</note>
+  </letter>
+  <letter letter_id="7492">
+    <note xml:id="fn1" type="footnote" n="1">N&#238;mes.</note>
+  </letter>
+  <letter letter_id="7494">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Joh 17, 12; 2Thess 2, 3.</note>
+  </letter>
+  <letter letter_id="7497">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+  </letter>
+  <letter letter_id="75">
+    <note xml:id="fn1" type="footnote" n="1">Lignum Guajacum, Harz des Guajakbaums.</note>
+    <note xml:id="fn2" type="footnote" n="2">Tremellius.</note>
+  </letter>
+  <letter letter_id="7503">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="7518">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7561">
+    <note xml:id="fn1" type="footnote" n="1">von Innsbruck.</note>
+    <note xml:id="fn2" type="footnote" n="2">von Hall in Tirol.</note>
+  </letter>
+  <letter letter_id="7577">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="7606">
+    <note xml:id="fn1" type="footnote" n="1">zu erg&#228;nzen: nos.</note>
+  </letter>
+  <letter letter_id="7628">
+    <note xml:id="fn1" type="footnote" n="1">George Wither/Withers.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Phil 1, 23.</note>
+  </letter>
+  <letter letter_id="7689">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+    <note xml:id="fn2" type="footnote" n="2">Anton Klesl (Khlesl).</note>
+    <note xml:id="fn3" type="footnote" n="3">Innsbruck.</note>
+  </letter>
+  <letter letter_id="7715">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Remedium amoris 91 (<bibl>Otto</bibl> 287, Nr. 1470).</note>
+  </letter>
+  <letter letter_id="7762">
+    <note xml:id="fn1" type="footnote" n="1">Bercker/Bereker? Vgl. Verzeichn. d. Geschlechts d. Bullinger 1823, S. 102.</note>
+  </letter>
+  <letter letter_id="78">
+    <note xml:id="fn1" type="footnote" n="1">Itelhans Berz.</note>
+  </letter>
+  <letter letter_id="7820">
+    <note xml:id="fn1" type="footnote" n="1">Hans Jakob Wild (s. <bibl>Amerbach Korr.</bibl> VII 95.</note>
+  </letter>
+  <letter letter_id="7843"/>
+  <letter letter_id="7852">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. auch das Schreiben der St. Galler Pfarrer vom 28. Jan. 1570 und Kesslers vom 2. M&#228;rz 1570!</note>
+    <note xml:id="fn2" type="footnote" n="2">Muntprat.</note>
+  </letter>
+  <letter letter_id="790">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>HBBibl</bibl> I 15(16?).</note>
+  </letter>
+  <letter letter_id="7936">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 4, 174f.</note>
+  </letter>
+  <letter letter_id="7938">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="7939"/>
+  <letter letter_id="7959">
+    <note xml:id="fn1" type="footnote" n="1">Nelke.</note>
+  </letter>
+  <letter letter_id="797">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Persius, Saturae, 4, 52.</note>
+  </letter>
+  <letter letter_id="8">
+    <note xml:id="fn1" type="footnote" n="1">gestrichen: "ouch einem brieff gen Bern geh&#246;rig".</note>
+  </letter>
+  <letter letter_id="800">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Vergil, Aeneis, 4, 336.</note>
+  </letter>
+  <letter letter_id="8005">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8012">
+    <note xml:id="fn1" type="footnote" n="1">von Bull. korr. aus: seruans.</note>
+  </letter>
+  <letter letter_id="8024">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+    <note xml:id="fn2" type="footnote" n="2">Explosion des Arsenals, s. E. Concina, L'Arsenale..., ZB: GN 2282.</note>
+  </letter>
+  <letter letter_id="8035">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="805">
+    <note xml:id="fn1" type="footnote" n="1">Verleumder; <bibl>Adagia</bibl>, 2, 3, 81 (<bibl>LB</bibl> II 515f).</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="8062">
+    <note xml:id="fn1" type="footnote" n="1">Schulthess - Abschrift, am 17.6.92 von Urs Leu aus dem Zw.Ver.Archiv an <bibl>HBBW</bibl> zur&#252;ck.</note>
+  </letter>
+  <letter letter_id="8084">
+    <note xml:id="fn1" type="footnote" n="1">Laut Erb, 3. Sept. 1570, eine Tochter Voglers. Gemeint ist <persName>Anna Brennwald, geb. Vogler</persName> (geb. 1518, s. Z&#252;rich ZB, Ms S 318, 7 und 8), wohnhaft im Elsass (Rappoltsweiler?) und in Erbstreitigkeiten mit ihrer Stiefmutter verwickelt; s. Z&#252;rich StA, B V 18, Reg. (Elsass erw&#228;hnt: f. 164v.) sowie B V 19, 221r.-223v.</note>
+    <note xml:id="fn2" type="footnote" n="2">Bremgarten.</note>
+  </letter>
+  <letter letter_id="811">
+    <note xml:id="fn1" type="footnote" n="1">Andreas Sors&#233;e?? Wohl eher ein amtlicher L&#228;ufer.</note>
+  </letter>
+  <letter letter_id="8117">
+    <note xml:id="fn1" type="footnote" n="1">Teufen (Johannes von Ulm).</note>
+    <note xml:id="fn2" type="footnote" n="2"><persName>Barbara von Hinwil</persName>.</note>
+  </letter>
+  <letter letter_id="812">
+    <note xml:id="fn1" type="footnote" n="1">anno domini?</note>
+  </letter>
+  <letter letter_id="8184">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>HBBibl</bibl> I 561.</note>
+  </letter>
+  <letter letter_id="8185">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Cicero, "Videant consules, ne ...".</note>
+  </letter>
+  <letter letter_id="819">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: "gaudio".</note>
+    <note xml:id="fn2" type="footnote" n="2">a.R.: "suspitione".</note>
+    <note xml:id="fn3" type="footnote" n="3">a.R.: "isthaec".</note>
+    <note xml:id="fn4" type="footnote" n="4">a.R.: "imo".</note>
+    <note xml:id="fn5" type="footnote" n="5">a.R.: "negocia".</note>
+  </letter>
+  <letter letter_id="8207">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8208">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8244">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+    <note xml:id="fn2" type="footnote" n="2">Leonhard Erni.</note>
+    <note xml:id="fn3" type="footnote" n="3">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8248">
+    <note xml:id="fn1" type="footnote" n="1">Frell</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+    <note xml:id="fn3" type="footnote" n="3">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8250">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Otto</bibl> 188, Nr. 926.</note>
+  </letter>
+  <letter letter_id="8251">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Remedium amoris 91(f?) (<bibl>Otto</bibl> 287, Nr. 1470).</note>
+  </letter>
+  <letter letter_id="8262">
+    <note xml:id="fn1" type="footnote" n="1">Hans Sager (s. HLS).</note>
+    <note xml:id="fn2" type="footnote" n="2">Gottstatt.</note>
+  </letter>
+  <letter letter_id="8264">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8269">
+    <note xml:id="fn1" type="footnote" n="1">Genf</note>
+    <note xml:id="fn2" type="footnote" n="2">Bern</note>
+    <note xml:id="fn3" type="footnote" n="3">Vgl. <bibl>Wander</bibl> III 1716, Nr. 52.</note>
+  </letter>
+  <letter letter_id="8271">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Sat., 1, 7, 3 (u.a.?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="828">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. <bibl>Original Letters</bibl> I 189.</note>
+  </letter>
+  <letter letter_id="83">
+    <note xml:id="fn1" type="footnote" n="1">bevoran bereit: vorab entboten.</note>
+    <note xml:id="fn2" type="footnote" n="2">biederen Menschen; Ehrenm&#228;nnern.</note>
+    <note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note>
+    <note xml:id="fn4" type="footnote" n="4">eehafften = ehehaften: rechtm&#228;&#223;igen; legitimen.</note>
+    <note xml:id="fn5" type="footnote" n="5"><persName>Beat Gering</persName>.</note>
+    <note xml:id="fn6" type="footnote" n="6">Berom&#252;nster (Kt. Luzern).</note>
+    <note xml:id="fn7" type="footnote" n="7">Aargau. - Durch die Eroberung des Aargaus durch die Eidgenossen kam 1420 (Bero)m&#252;nster an Luzern.</note>
+    <note xml:id="fn8" type="footnote" n="8">gewesen.</note>
+    <note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>
+    <note xml:id="fn10" type="footnote" n="10">unehelich.</note>
+    <note xml:id="fn11" type="footnote" n="11">au&#223;erhalb der Ehe.</note>
+    <note xml:id="fn12" type="footnote" n="12">er hat dies auch hier in Z&#252;rich nicht geleugnet.</note>
+    <note xml:id="fn13" type="footnote" n="13">angeh&#228;ngt; hinzugef&#252;gt.</note>
+    <note xml:id="fn14" type="footnote" n="14">er w&#228;re noch nicht besser unterrichtet gewesen; er h&#228;tte es noch nicht besser gewusst.</note>
+    <note xml:id="fn15" type="footnote" n="15">Unbekannt.</note>
+    <note xml:id="fn16" type="footnote" n="16">Unbekannt.</note>
+    <note xml:id="fn17" type="footnote" n="17">sich vergangen.</note>
+    <note xml:id="fn18" type="footnote" n="18">ergriffen.</note>
+    <note xml:id="fn19" type="footnote" n="19">Einsiedeln.</note>
+    <note xml:id="fn20" type="footnote" n="20">Der sogenannte Finstere Wald erstreckt sich im Norden bis zu den Wollerauer und Pf&#228;ffiker H&#246;fen, im Osten an die March bis an die Ufer des oberen Z&#252;richsees, im S&#252;den bis zur Gebirgskette, die sich links durch das Tal Glarus, rechts durch die L&#228;nder Uri, Schwyz und Unterwalden zieht, und im Westen bis an die Altmatt. Vgl. P. Justus <hi>Landolt,</hi> Ursprung und erste Gestaltung des Stiftes Maria-Einsiedeln nebst einem Anhange &#252;ber die Engelweihe und die Wallfahrt, Einsiedeln 1845, S. 2.</note>
+    <note xml:id="fn21" type="footnote" n="21">Wettingen (Kt. Aargau).</note>
+    <note xml:id="fn22" type="footnote" n="22">Dietikon (Kt. Z&#252;rich), damals - zufolge der Eroberung des Aargaus - Teil der Vogtei Baden.</note>
+    <note xml:id="fn23" type="footnote" n="23">Schaffhausen.</note>
+    <note xml:id="fn24" type="footnote" n="24">Dies geschah im Mai 1533; s. <hi>Wipf,</hi> 309; <bibl>HBBW</bibl> III, Nr. 223.</note>
+    <note xml:id="fn25" type="footnote" n="25">Im Juli 1534; s. <bibl>HBBW</bibl> IV, Nr. 394. 398. 403.</note>
+    <note xml:id="fn26" type="footnote" n="26">eifrig.</note>
+    <note xml:id="fn27" type="footnote" n="27">gewesen.</note>
+    <note xml:id="fn28" type="footnote" n="28">Dienerin. - Agathe [...]; s. unten Anm. *56.</note>
+    <note xml:id="fn29" type="footnote" n="29"><persName>Sabinella Gering, geb. Buchser</persName>; vgl. unten Z. *46f. und Anm. *40.</note>
+    <note xml:id="fn30" type="footnote" n="30">Dirne.</note>
+    <note xml:id="fn31" type="footnote" n="31">ihr gedroht.</note>
+    <note xml:id="fn32" type="footnote" n="32">Ehegericht.</note>
+    <note xml:id="fn33" type="footnote" n="33">&#252;ble Taten; Frevel.</note>
+    <note xml:id="fn34" type="footnote" n="34">Am 28. Februar 1538; s. Z&#252;rich StA, YY 1.5, 1026f.</note>
+    <note xml:id="fn35" type="footnote" n="35">in den Turm.</note>
+    <note xml:id="fn36" type="footnote" n="36">Gering musste drei Tage b&#252;&#223;en und durfte ein Jahr lang nicht heiraten. Am 10. M&#228;rz 1538 wurde er entlassen. Vgl. Z&#252;rich StA, G I 1, Nr. 174.</note>
+    <note xml:id="fn37" type="footnote" n="37">Aarau.</note>
+    <note xml:id="fn38" type="footnote" n="38">Suhr (Kt. Aargau). - Dort wohnte Sabinellas Bruder, der zur Reformation &#252;bergetretene Leutpriester Johannes Buchser; s. oben <bibl>HBBW II</bibl> 126, Anm. 1; IX 111, Anm. 11.</note>
+    <note xml:id="fn39" type="footnote" n="39">amtliches oder schriftliches Zeugnis.</note>
+    <note xml:id="fn40" type="footnote" n="40">kein.</note>
+    <note xml:id="fn41" type="footnote" n="41">bisher.</note>
+    <note xml:id="fn42" type="footnote" n="42">wenn.</note>
+    <note xml:id="fn43" type="footnote" n="43">Zu erg&#228;nzen ist: versprochen.</note>
+    <note xml:id="fn44" type="footnote" n="44">Zu erg&#228;nzen ist: &#252;bel (oder: nicht).</note>
+    <note xml:id="fn45" type="footnote" n="45">nicht schon gegeben h&#228;tten.</note>
+    <note xml:id="fn46" type="footnote" n="46">Zu verstehen: Als das zuvor erw&#228;hnte Ger&#252;cht herumging (n&#228;mlich, dass er der Magd die Ehe versprochen h&#228;tte, noch ehe er geschieden war).</note>
+    <note xml:id="fn47" type="footnote" n="47">von uns allen Abschied zu nehmen.</note>
+    <note xml:id="fn48" type="footnote" n="48">nach der Lektion. - Damit ist wohl die fast allt&#228;glich gehaltene Lesung der Prophezei gemeint; s. Gottfried W. <hi>Locher,</hi> Zwingli und die schweizerische Reformation, G&#246;ttingen 1982, S. J 33.</note>
+    <note xml:id="fn49" type="footnote" n="49">die Magd.</note>
+    <note xml:id="fn50" type="footnote" n="50">Zu verstehen: er h&#228;tte sie nicht als [Ehefrau] genommen; er h&#228;tte ihr nicht die Ehe versprochen.</note>
+    <note xml:id="fn51" type="footnote" n="51">jemals.</note>
+    <note xml:id="fn52" type="footnote" n="52">Das Gasthaus "Sternen", dem damaligen Rathaus gegen&#252;ber; s. <hi>Banholzer,</hi> aaO, S. 25.</note>
+    <note xml:id="fn53" type="footnote" n="53">Zu verstehen: Wider eure und unsere Kirchenordnung.</note>
+    <note xml:id="fn54" type="footnote" n="54">Am 12. Mai 1539 in Stra&#223;burg. Vgl. <bibl>HBBW</bibl> X/A, S. 71, zu <bibl>HBBW VIII</bibl> 266, Z. 53-57. Agathe [...] war im Jahr 1541 verstorben; vgl. <bibl>HBBW</bibl> XI 347, 43.</note>
+    <note xml:id="fn55" type="footnote" n="55">g&#246;nnen.</note>
+    <note xml:id="fn56" type="footnote" n="56">Ruf, Leumund.</note>
+    <note xml:id="fn57" type="footnote" n="57">da wir nur etwas gegen seinen &#252;blen Lebenswandel haben.</note>
+    <note xml:id="fn58" type="footnote" n="58">als.</note>
+    <note xml:id="fn59" type="footnote" n="59">Ein entsprechendes Schreiben liegt nicht vor, vgl. aber die Bemerkung im Brief Bullingers an Vadian vom 1. Oktober 1541 (<bibl>Vadian BW VI</bibl> 75): "A Basilaea et Berna nihil nunc memorabile habeo, nisi quod aiunt Beatum illum, qui superiore anno propter adulterium sacerdotio et ministerio exutus est a Tigurinis, ab Argentorato Bernam vocari ad ministerium verbi, unde nonnihil turbarum metuo oriturum; est enim homo ingenii arrogantissimi ac pravi. Monui ego quosdam ex primoribus; sed fortassis in fatis est, ut talem habeant."</note>
+    <note xml:id="fn60" type="footnote" n="60">g&#246;nnen wir nicht.</note>
+    <note xml:id="fn61" type="footnote" n="61">einen solchen.</note>
+    <note xml:id="fn62" type="footnote" n="62">benachbarten.</note>
+    <note xml:id="fn63" type="footnote" n="63">hat uns zum Verdruss gereicht; ist uns zuwider.</note>
+    <note xml:id="fn64" type="footnote" n="64">Vgl. <bibl>SI</bibl> XIII 42 u., hier im Sinne von: zumal.</note>
+    <note xml:id="fn65" type="footnote" n="65">verleihe; gew&#228;hre.</note>
+    <note xml:id="fn66" type="footnote" n="66">In der Abschrift Simlers Quellenangabe "Bibliotheca clariss. prof. Breitingeri, ex autogr. Bullingeri", dazu der Vermerk "Beylag A." (zum Brief an Vadian, 1. Okt. 41).</note>
+  </letter>
+  <letter letter_id="8305">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="8317">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8330">
+    <note xml:id="fn1" type="footnote" n="1">Peloponnes.</note>
+    <note xml:id="fn2" type="footnote" n="2">Wellenberg.</note>
+    <note xml:id="fn3" type="footnote" n="3">M&#246;hr.</note>
+    <note xml:id="fn4" type="footnote" n="4">als Subdiakon 1566 (laut Wirz, Etat des Z&#252;rcher Ministeriums, S. 209; nachpr&#252;fen u.a. in StAZ, G I 179) Nach Herm. Walser, Gesch. der Laurenzen- oder Stadtkirche Winterthur, II. Teil, S. 52, wurde ihm der Schulmeisterdienst 1567 angeboten (war damals in der Pfalz). Quelle offenbar: Chronik von Ulrich Meyer, Stadtbibl. Winterthur, 4 Ms 102, 184v.-185r.: neuer Schulmeister am 19. 2. 1567, kam aus Heidelberg, stammte aber aus Graub&#252;nden (mit Details betr. Empfehlung, die er aus Frauenfeld erhielt).</note>
+  </letter>
+  <letter letter_id="8333">
+    <note xml:id="fn1" type="footnote" n="1">M&#246;hr.</note>
+  </letter>
+  <letter letter_id="8337">
+    <note xml:id="fn1" type="footnote" n="1">Wein aus Berg am Irchel??</note>
+  </letter>
+  <letter letter_id="8378">
+    <note xml:id="fn1" type="footnote" n="1">Siehe <bibl>HBBW V</bibl> 363, Anm. 13.</note>
+  </letter>
+  <letter letter_id="84">
+    <note xml:id="fn1" type="footnote" n="1">Bullinger soll Absetzung empfohlen haben; s. <bibl>Stucki</bibl> an Beza, 4. M&#228;rz 1588!</note>
+  </letter>
+  <letter letter_id="8415">
+    <note xml:id="fn1" type="footnote" n="1">Johann Weyer; s. Handw&#246;rterbuch zur deutschen Rechtsgeschichte V 1344-1346.</note>
+  </letter>
+  <letter letter_id="8422">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8426">
+    <note xml:id="fn1" type="footnote" n="1">das hei&#223;t wohl: f&#252;r das was zuletzt steht (n&#228;mlich: Dankesschuld)</note>
+    <note xml:id="fn2" type="footnote" n="2">?</note>
+    <note xml:id="fn3" type="footnote" n="3">Simler: congressu</note>
+    <note xml:id="fn4" type="footnote" n="4">Tod der Tochter Katharina (wann genau?).</note>
+    <note xml:id="fn5" type="footnote" n="5">Welche ist gemeint?</note>
+    <note xml:id="fn6" type="footnote" n="6">Verena Zwingli?</note>
+    <note xml:id="fn7" type="footnote" n="7">Das Epitaph auf Brenz stammt gem&#228;&#223; freundlicher Auskunft von Prof. Dr. Martin Brecht, Brief von 1973 liegt bei Sven-Fischer-Abschriften vom T&#252;binger Professor artium <persName>Leonhard Engelhart</persName>, der aus Schw&#228;bisch Hall stammte und 1572 P&#228;dagogarch in Stuttgart wurde. Es ist gedruckt in: Jakob <hi>Heerbrand,</hi> Oratio funebris de vita et morte reverendi viri [...] D. Ioannis Brentii, T&#252;bingen 1570, S. 84. Vgl. Wulf Segebrecht (Hg.), T&#252;binger Epicedien zum Tod des Reformators Johannes Brenz (1570), Frankfurt am Main 1999. Kommentiert von Juliane Fuchs und Veronika Marschall unter Mitwirkung von Guido Wojaczek. - Helicon. Beitr&#228;ge zur deutschen Literatur 24, S. 118-123.</note>
+    <note xml:id="fn8" type="footnote" n="8"><persName>Kaspar Wolf</persName> und Georg Keller?</note>
+    <note xml:id="fn9" type="footnote" n="9">Abraham Musculus? Abraham Hartmann (s. <hi>Pfarrerbuch</hi> 321)? ein anderer?</note>
+  </letter>
+  <letter letter_id="8437">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8448">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="8467">
+    <note xml:id="fn1" type="footnote" n="1">Bibelzitat (mehrere Stellen!).</note>
+  </letter>
+  <letter letter_id="8472">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8485"/>
+  <letter letter_id="849"/>
+  <letter letter_id="8500">
+    <note xml:id="fn1" type="footnote" n="1">Aristoteles(?).</note>
+  </letter>
+  <letter letter_id="852">
+    <note xml:id="fn1" type="footnote" n="1">Schmutz.</note>
+  </letter>
+  <letter letter_id="8564">
+    <note xml:id="fn1" type="footnote" n="1">Zu den Br&#228;uchen am Urbanstag s. Handw&#246;rterbuch des dt. Aberglaubens VIII 1497f.</note>
+  </letter>
+  <letter letter_id="8587">
+    <note xml:id="fn1" type="footnote" n="1">Siehe <hi>Senn,</hi> Wickiana 184.</note>
+  </letter>
+  <letter letter_id="859">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Ps 65, 12 (Vulg.).</note>
+  </letter>
+  <letter letter_id="8592">
+    <note xml:id="fn1" type="footnote" n="1">Darius Scala? Eher: Dario Sozzini.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Lk 3, 17.</note>
+  </letter>
+  <letter letter_id="8623">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Joh 17, 12; 2Thess 2, 3.</note>
+  </letter>
+  <letter letter_id="8625">
+    <note xml:id="fn1" type="footnote" n="1">Matr. Marburg.</note>
+  </letter>
+  <letter letter_id="864">
+    <note xml:id="fn1" type="footnote" n="1">zu den kaiserlichen Hof&#228;rzten findet sich einiges in der Vesalius-Biogr. von Moritz Roth, z.B. (au&#223;er Vesalius selbst) Cornelius Barsdorpius/Baersdorp und Nicolaus Florenas; weitere Namen dort S. 203. 206. Siehe auch Mameranus, Catalogus familiae totius aulae caesareae [...] (Stand 1547/48), K&#246;ln 1550.</note>
+  </letter>
+  <letter letter_id="8644">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8650">
+    <note xml:id="fn1" type="footnote" n="1">Vielleicht Wolfgang Z&#252;ndelin, einer der "scrittori d'avisi" in Venedig, sp&#228;ter in kurf&#252;rstl.-s&#228;chs. Diensten; s. Theodor Gustav <hi>Werner,</hi> Das kaufm&#228;nnische Nachrichtenwesen ...., in: Scripta Mercaturae 1975, S. 3-53, hier S. 26.(Hinweis von F. Mauelshagen). Angaben evtl. aus der Lit. &#252;ber die Fuggerzeitungen (Joh. Kleinpaul 1921)? Der Name kommt in Konstanzer Steuerb&#252;chern &#246;fter vor.</note>
+  </letter>
+  <letter letter_id="8655"/>
+  <letter letter_id="8656">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="867">
+    <note xml:id="fn1" type="footnote" n="1">hilflos, verlassen; vgl. <bibl>Lexer</bibl> s.v. wiselos.</note>
+  </letter>
+  <letter letter_id="868">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II/3 290-292, Nr. 1272).</note>
+    <note xml:id="fn2" type="footnote" n="2">Hooper.</note>
+    <note xml:id="fn3" type="footnote" n="3">Nach Meinung von Derek A. Scales (briefl. Mitteilung M&#228;rz 2004) sind die Vornamen falsch; es handelt sich wohl um John Willock und Ralph Skinner.</note>
+  </letter>
+  <letter letter_id="8687">
+    <note xml:id="fn1" type="footnote" n="1">Pfund?</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. Die Wickiana. <persName>Johann Jakob Wicks</persName> Nachrichtensammlung aus dem 16. Jahrhundert. Texte und Bilder zu den Jahren 1560-1571, ausgew&#228;hlt, kommentiert und eingeleitet von Matthias Senn, K&#252;snacht-Z&#252;rich 1975, S. 212 (um eine Sonnenfinsternis kann es sich zum angegebenen Zeitpunkt nicht gehandelt haben; vgl. Theodor von <hi>Oppolzer,</hi> Canon der Finsternisse, Wien 1887. - Denkschriften der Kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe 52, S. 264). (ZB: USN 111: be). 1571 in Europa sichtbare Sonnenfinsternisse: 25. Jan. (Nr. 6594); unsichtbar: 22. Juli (Nr. 6595). Vgl. auch Christoph H. Brunner, Glarner Geschichte in Geschichten, S. 174. Ders., &#171;Hindurch und wieder hindurch.&#187; Zum Briefwechsel B&#228;ldi-Bullinger (1560/71), in: Jahrbuch des Historischen Vereins des Kantons Glarus, 83, 2003, 61-79 zitiert hierzu (auf S. ??) Glarner Chronik von Joh. Heinr. Tschudi 1714.</note>
+  </letter>
+  <letter letter_id="8695">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Vergil,</hi> Aeneis, 1, 199.</note>
+    <note xml:id="fn2" type="footnote" n="2">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8698">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="87">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Sueton, Augustus, 85, 2.</note>
+  </letter>
+  <letter letter_id="8700">
+    <note xml:id="fn1" type="footnote" n="1">Tokaj? Vgl. "victoria ... Tokaica" im n&#228;chsten Brief!</note>
+  </letter>
+  <letter letter_id="8701">
+    <note xml:id="fn1" type="footnote" n="1">M&#246;hr.</note>
+    <note xml:id="fn2" type="footnote" n="2">M&#246;hr.</note>
+  </letter>
+  <letter letter_id="8713">
+    <note xml:id="fn1" type="footnote" n="1">M&#246;hr.</note>
+  </letter>
+  <letter letter_id="8716">
+    <note xml:id="fn1" type="footnote" n="1">Geilinger? Ein Hans Geilinger schrieb 1569 als Kriegsmann aus Frankreich; s. Troll, Gesch. der Stadt Winterthur I 67ff.</note>
+  </letter>
+  <letter letter_id="8730">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Joh 17, 12; 2Thess 2, 3.</note>
+  </letter>
+  <letter letter_id="8754">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="876">
+    <note xml:id="fn1" type="footnote" n="1">anno domini?</note>
+  </letter>
+  <letter letter_id="8770">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="8773">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8796">
+    <note xml:id="fn1" type="footnote" n="1">M&#252;nzmeister Hans Vogler d.J.</note>
+    <note xml:id="fn2" type="footnote" n="2">Augsburg.</note>
+  </letter>
+  <letter letter_id="880">
+    <note xml:id="fn1" type="footnote" n="1">Anno domini?</note>
+  </letter>
+  <letter letter_id="8805"/>
+  <letter letter_id="8808">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. z.B. Titus Livius, Ab urbe condita, 8, 13, 17.</note>
+  </letter>
+  <letter letter_id="882">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: [ab]legandis[...].</note>
+    <note xml:id="fn2" type="footnote" n="2">a.R.: nostri.</note>
+  </letter>
+  <letter letter_id="883"/>
+  <letter letter_id="8837">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 5, 91 (<bibl>LB</bibl> II 216f).</note>
+  </letter>
+  <letter letter_id="8848">
+    <note xml:id="fn1" type="footnote" n="1">Jakob Wyss.</note>
+  </letter>
+  <letter letter_id="8854">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Joh 17, 12; 2Thess 2, 3.</note>
+  </letter>
+  <letter letter_id="886"/>
+  <letter letter_id="887"/>
+  <letter letter_id="8873">
+    <note xml:id="fn1" type="footnote" n="1">irrt&#252;mliche Identifikation des neuen Statthalters (Lu&#237;s de Z&#250;&#241;iga y Requesens, Commendador Mayor de Castilla) mit dem (ebenfalls neuen) Gro&#223;meister des Malteserordens Jean de la Carri&#232;re?</note>
+  </letter>
+  <letter letter_id="8920">
+    <note xml:id="fn1" type="footnote" n="1">Blitz.</note>
+  </letter>
+  <letter letter_id="8921">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Epistulae, 1, 18, 84.</note>
+  </letter>
+  <letter letter_id="8925">
+    <note xml:id="fn1" type="footnote" n="1">Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="8946">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Gen 15, 16.</note>
+  </letter>
+  <letter letter_id="8951">
+    <note xml:id="fn1" type="footnote" n="1">Zu den von Robert Horne den Chorherren geschenkten 10 Kronen existiert eine Abrechnung von Bullingers Hand in Z&#252;rich ZB, Ms R 136, Nr. 2, eingeschobener Zettel bei 1568/69, Notiz dazu bei 1572.</note>
+  </letter>
+  <letter letter_id="8958">
+    <note xml:id="fn1" type="footnote" n="1">In den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+  </letter>
+  <letter letter_id="896">
+    <note xml:id="fn1" type="footnote" n="1">Boltz.</note>
+  </letter>
+  <letter letter_id="8969">
+    <note xml:id="fn1" type="footnote" n="1">Zwingli?</note>
+  </letter>
+  <letter letter_id="8980">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Sueton, Augustus, 85, 2.</note>
+  </letter>
+  <letter letter_id="8982">
+    <note xml:id="fn1" type="footnote" n="1">Zeichnung mit Gedicht in Z&#252;rich ZB, Ms F 21, 179v.-180r. (&#220;berschrift 179r.: "Eigentliche Abconterfetung de&#223; Roggenstocks zu&#870; Chur 1572"); Begleitschreiben Bullingers (Abschrift Wicks) ebd., 178v. (Druck: PAS II 9/7) [nachpr&#252;fen!].</note>
+  </letter>
+  <letter letter_id="8992">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Ovid,</hi> Heroides, 1, 12.</note>
+  </letter>
+  <letter letter_id="8997">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="8998">
+    <note xml:id="fn1" type="footnote" n="1">Zwingli.</note>
+  </letter>
+  <letter letter_id="9">
+    <note xml:id="fn1" type="footnote" n="1">Tschudi.</note>
+  </letter>
+  <letter letter_id="90">
+    <note xml:id="fn1" type="footnote" n="1">Claude d'Aliod, Claudius von Savoyen; IV 158*</note>
+    <note xml:id="fn2" type="footnote" n="2">Ein Eintrag zu seinem Schuldenhandel in: Stadtarchiv KN, H V Schuld- und Gantb&#252;cher Bd. 6, 5. Juli 1548. Kl&#228;ger: "Burckhart Schlaich als vogt Lentzen Clossmens Kinder", es geht um ausstehende Zinsen; wenn Aliodi nicht bis Konstanzer Kilchweih zahlt, wird sein Unterpfand (ein Haus) f&#228;llig. Siehe Ordner "Unterlagen zu Biographien".</note>
+  </letter>
+  <letter letter_id="9062">
+    <note xml:id="fn1" type="footnote" n="1">w&#246;rtlich; vgl. <bibl>Hoven</bibl> 378.</note>
+  </letter>
+  <letter letter_id="9065">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="9092">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+  </letter>
+  <letter letter_id="9095">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</note>
+  </letter>
+  <letter letter_id="9106">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="9108">
+    <note xml:id="fn1" type="footnote" n="1">M&#246;hr.</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 2, 5, 76 (<bibl>LB</bibl> II 574)?</note>
+  </letter>
+  <letter letter_id="9110">
+    <note xml:id="fn1" type="footnote" n="1">erneut.</note>
+  </letter>
+  <letter letter_id="9114">
+    <note xml:id="fn1" type="footnote" n="1">Werdm&#252;ller.</note>
+  </letter>
+  <letter letter_id="9128">
+    <note xml:id="fn1" type="footnote" n="1">Dazu: Z&#252;rich StA, E II 441, 6-8; Z&#252;rich ZB, Ms B 13, 161r.-162v.</note>
+    <note xml:id="fn2" type="footnote" n="2">Rapsaces Hohnsprechen und Sennacheribs Schm&#228;hschrift..., [Basel] 1573. (1 Ex. in Simler-Slg.).</note>
+  </letter>
+  <letter letter_id="9144"/>
+  <letter letter_id="9155">
+    <note xml:id="fn1" type="footnote" n="1"><hi>Horaz,</hi> Sat., 1, 7, 3 (u.a.?).</note>
+    <note xml:id="fn2" type="footnote" n="2">Innsbruck.</note>
+    <note xml:id="fn3" type="footnote" n="3">Johannes Wegmann.</note>
+    <note xml:id="fn4" type="footnote" n="4">Vgl. Kingdon, Myths about the St. Bartholomew's Day Massacres, S. 112ff.</note>
+  </letter>
+  <letter letter_id="916">
+    <note xml:id="fn1" type="footnote" n="1">Hooper.</note>
+  </letter>
+  <letter letter_id="9165">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Livius, Ab urbe condita, 9, 19, 15.</note>
+  </letter>
+  <letter letter_id="9171">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="9185">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="9187">
+    <note xml:id="fn1" type="footnote" n="1">Die Schm&#228;hung des Papstes als "hellischer vater" begegnet u.a. auch bei Luther; vgl. etwa <bibl>WA</bibl> XVIII 257, Glosse a.</note>
+    <note xml:id="fn2" type="footnote" n="2">Woiwode.</note>
+  </letter>
+  <letter letter_id="919">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: ... instar? ... loco?</note>
+  </letter>
+  <letter letter_id="9202">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Laktanz, De ira dei, 24, 10.</note>
+  </letter>
+  <letter letter_id="9208">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Sueton, Augustus, 85, 2.</note>
+    <note xml:id="fn2" type="footnote" n="2">Vgl. <bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</note>
+  </letter>
+  <letter letter_id="9243">
+    <note xml:id="fn1" type="footnote" n="1">Etienne Le Gresle.</note>
+  </letter>
+  <letter letter_id="9249">
+    <note xml:id="fn1" type="footnote" n="1">Etienne Le Gresle.</note>
+  </letter>
+  <letter letter_id="927">
+    <note xml:id="fn1" type="footnote" n="1">Boltz.</note>
+  </letter>
+  <letter letter_id="9296">
+    <note xml:id="fn1" type="footnote" n="1">Innsbruck.</note>
+  </letter>
+  <letter letter_id="93">
+    <note xml:id="fn1" type="footnote" n="1">Hansest&#228;dte.</note>
+    <note xml:id="fn2" type="footnote" n="2">Lit.: Aus der Werkstatt der Amerbach-Edition (Gd XVII 1115).</note>
+  </letter>
+  <letter letter_id="932">
+    <note xml:id="fn1" type="footnote" n="1">Gering.</note>
+  </letter>
+  <letter letter_id="9357">
+    <note xml:id="fn1" type="footnote" n="1">Lu&#237;s de Z&#250;&#241;iga y Requesens, Commendador Mayor de Castilla?</note>
+  </letter>
+  <letter letter_id="9382">
+    <note xml:id="fn1" type="footnote" n="1">Siehe ZBZ, Ms F 22, 587-592 (evtl. auch 617?); davon abh&#228;ngig Joh. Hallers Fortsetzung von Bullingers Chronik u. Scheuchzers "Naturgeschichten des Schweizerlandes". (Hinweis v. F. Mauelshagen).</note>
+  </letter>
+  <letter letter_id="942">
+    <note xml:id="fn1" type="footnote" n="1">Andreas oder Salomon Rappenstein? Vgl. Lohner 212. N&#228;heres im Berner Ratsmanual? (Ausz&#252;ge in Bern Burgerbibl., Ms. Hist. helv. XI 43).</note>
+  </letter>
+  <letter letter_id="9436">
+    <note xml:id="fn1" type="footnote" n="1">Verena Zwingli.</note>
+  </letter>
+  <letter letter_id="9451">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="9469">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="9471">
+    <note xml:id="fn1" type="footnote" n="1">Amport</note>
+  </letter>
+  <letter letter_id="948">
+    <note xml:id="fn1" type="footnote" n="1">Boltz.</note>
+  </letter>
+  <letter letter_id="9480">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="953">
+    <note xml:id="fn1" type="footnote" n="1">Gessner?</note>
+  </letter>
+  <letter letter_id="9549">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note>
+  </letter>
+  <letter letter_id="9583">
+    <note xml:id="fn1" type="footnote" n="1">Johann Hasler, Antitrinitarier, s. B&#228;hler im Neuen Berner TB 1921.</note>
+  </letter>
+  <letter letter_id="959">
+    <note xml:id="fn1" type="footnote" n="1">bevoran ... bereitt: vorab entboten.</note>
+  </letter>
+  <letter letter_id="9616">
+    <note xml:id="fn1" type="footnote" n="1">Leonhard Erni.</note>
+  </letter>
+  <letter letter_id="9630"/>
+  <letter letter_id="9631">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="964">
+    <note xml:id="fn1" type="footnote" n="1">Hieronymus Frank/Franck (Girolamo Franco).</note>
+  </letter>
+  <letter letter_id="9641">
+    <note xml:id="fn1" type="footnote" n="1">Blauner.</note>
+  </letter>
+  <letter letter_id="9660">
+    <note xml:id="fn1" type="footnote" n="1">Uff siben Klagartickel ...</note>
+    <note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="9668">
+    <note xml:id="fn1" type="footnote" n="1">Etienne Le Gresle.</note>
+  </letter>
+  <letter letter_id="9688">
+    <note xml:id="fn1" type="footnote" n="1">Lauscher; vgl. <bibl>Adagia</bibl>, 1, 2, 44 (<bibl>LB</bibl> II ...).</note>
+  </letter>
+  <letter letter_id="969">
+    <note xml:id="fn1" type="footnote" n="1">a.R.: me.</note>
+  </letter>
+  <letter letter_id="9711">
+    <note xml:id="fn1" type="footnote" n="1"><persName>Blasius Marcuard</persName>.</note>
+  </letter>
+  <letter letter_id="9736">
+    <note xml:id="fn1" type="footnote" n="1">Vertumnus: Gott des steten Wandels; vgl. <bibl>Adagia</bibl>, 2, 2, 74 (<bibl>LB</bibl> II 473).</note>
+    <note xml:id="fn2" type="footnote" n="2">Etienne Le Gresle.</note>
+  </letter>
+  <letter letter_id="977">
+    <note xml:id="fn1" type="footnote" n="1">Waldenburg (Kt. Basel-Land).</note>
+    <note xml:id="fn2" type="footnote" n="2">Wilhelm Hildtoch; s. Karl Gau&#223;, Basilea reformata, Basel 1930, S. 34.</note>
+  </letter>
+  <letter letter_id="9776">
+    <note xml:id="fn1" type="footnote" n="1">in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note>
+    <note xml:id="fn2" type="footnote" n="2">Interlaken.</note>
+  </letter>
+  <letter letter_id="9808">
+    <note xml:id="fn1" type="footnote" n="1">Etienne Le Gresle.</note>
+  </letter>
+  <letter letter_id="9833">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>ASD</bibl> II/2 396, Nr. 883).</note>
+  </letter>
+  <letter letter_id="984">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 2, 3, 72 (<bibl>ASD</bibl> II-3 290-292, Nr. 1272).</note>
+  </letter>
+  <letter letter_id="9848">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="985">
+    <note xml:id="fn1" type="footnote" n="1">Ludwig von Reischach?</note>
+  </letter>
+  <letter letter_id="9852">
+    <note xml:id="fn1" type="footnote" n="1"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note>
+  </letter>
+  <letter letter_id="986">
+    <note xml:id="fn1" type="footnote" n="1">Vgl. Spr 26, 11; 2Petr 2, 22.</note>
+  </letter>
+  <letter letter_id="9864">
+    <note xml:id="fn1" type="footnote" n="1">Albert von Belfort, Albertus Belfortis, in Lyon(?), s. auch Gessners Widmungsvorrede zu "Apparatus et delectus ..." 1542 (am Ende); Joh. Alb. Fabricius, Bibliotheca Graeca, S. 45; Jean Astruc, De morbis venereis, S. 789.</note>
+    <note xml:id="fn2" type="footnote" n="2">Lavater? m&#246;glicherweise Fehler f&#252;r: Wikius??</note>
+    <note xml:id="fn3" type="footnote" n="3">abitum? (Bonhomini war 1579 in Appenzell!).</note>
+    <note xml:id="fn4" type="footnote" n="4">Nach der Note bei &#224; Porta a.a. O. ist ein letztes Blatt mit dem Datum verloren gegangen; &#224; Porta glaubt, der Brief sei kurz vor Bullingers Tod (17. September 1575) geschrieben; jedenfalls f&#228;llt er nicht vor den August 1574, wo Campell Cur verliess, und eher erst in das Jahr 1575.</note>
+  </letter>
+  <letter letter_id="989">
+    <note xml:id="fn1" type="footnote" n="1">Horaz?</note>
+  </letter>
+  <letter letter_id="9955">
+    <note xml:id="fn1" type="footnote" n="1">Etienne Le Gresle</note>
+  </letter>
+  <letter letter_id="9990">
+    <note xml:id="fn0" type="footnote" n="0">= danach.</note>
+    <note xml:id="fn1" type="footnote" n="1">kleiner und grosser Rat.</note>
+    <note xml:id="fn1.1" type="footnote" n="1.1">= danach.</note>
+    <note xml:id="fn1.2" type="footnote" n="1.2">= Lehre.</note>
+    <note xml:id="fn2" type="footnote" n="2">Zweites Helvetisches Bekenntnis, 1566.</note>
+    <note xml:id="fn3" type="footnote" n="3">ver&#246;ffentlichten.</note>
+    <note xml:id="fn4" type="footnote" n="4">listiges R&#228;nkespiel, Intrigieren.</note>
+    <note xml:id="fn5" type="footnote" n="5">war.</note>
+    <note xml:id="fn6" type="footnote" n="6">unversch&#228;mt, dreist.</note>
+    <note xml:id="fn7" type="footnote" n="7">zudringlich, l&#228;stig.</note>
+    <note xml:id="fn8" type="footnote" n="8">streits&#252;chtig.</note>
+    <note xml:id="fn9" type="footnote" n="9">zugeneigt, wohlgesinnt.</note>
+    <note xml:id="fn10" type="footnote" n="10">herrschs&#252;chtig.</note>
+    <note xml:id="fn10.1" type="footnote" n="10.1">= die.</note>
+    <note xml:id="fn11" type="footnote" n="11">Ruhe und Unruhe, Unfriede.</note>
+    <note xml:id="fn12" type="footnote" n="12">Gwalther.</note>
+    <note xml:id="fn13" type="footnote" n="13">Buchdruck.</note>
+    <note xml:id="fn14" type="footnote" n="14">behindern.</note>
+    <note xml:id="fn15" type="footnote" n="15">rechtschaffene.</note>
+    <note xml:id="fn16" type="footnote" n="16">urteilt nicht nach dem Rang einer Person.</note>
+    <note xml:id="fn17" type="footnote" n="17">w&#252;stes Tun, Schmutz.</note>
+    <note xml:id="fn18" type="footnote" n="18">Almosen[-Amt].</note>
+    <note xml:id="fn19" type="footnote" n="19">gro&#223;es.</note>
+    <note xml:id="fn20" type="footnote" n="20">notwendigem Bedarf.</note>
+    <note xml:id="fn21" type="footnote" n="21">irgend etwas.</note>
+    <note xml:id="fn22" type="footnote" n="22">barsch abfertigen.</note>
+    <note xml:id="fn23" type="footnote" n="23">plagen.</note>
+    <note xml:id="fn24" type="footnote" n="24">Einheimischem.</note>
+    <note xml:id="fn25" type="footnote" n="25">missg&#252;nstig.</note>
+    <note xml:id="fn26" type="footnote" n="26">aufs&#228;ssig.(?)</note>
+    <note xml:id="fn27" type="footnote" n="27">wert, geachtet.</note>
+    <note xml:id="fn28" type="footnote" n="28">Einnahmen aus Reisl&#228;ufer-/S&#246;ldner-Vermittlung.</note>
+    <note xml:id="fn29" type="footnote" n="29">draussen.</note>
+    <note xml:id="fn29.1" type="footnote" n="29.1">= danach.</note>
+    <note xml:id="fn30" type="footnote" n="30">Heller, eine M&#252;nze.</note>
+    <note xml:id="fn31" type="footnote" n="31">sehr.</note>
+    <note xml:id="fn32" type="footnote" n="32">von dort.</note>
+    <note xml:id="fn33" type="footnote" n="33">oben erw&#228;hnt.</note>
+    <note xml:id="fn34" type="footnote" n="34">mir gen&#252;gt, zufrieden gestellt.</note>
+    <note xml:id="fn35" type="footnote" n="35">besser.</note>
+    <note xml:id="fn36" type="footnote" n="36">einschie&#223;en.</note>
+    <note xml:id="fn37" type="footnote" n="37">meinen [Pfarr-]Dienst f&#252;r gut erachten.</note>
+  </letter>
+</letters>
