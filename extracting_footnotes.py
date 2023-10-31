@@ -6,6 +6,8 @@ import shutil
 import csv
 
 infolder = sys.argv[1]
+if len(sys.argv)>2:
+    outfolder = sys.argv[2]
 
 def get_files_with_footnotes():
     """Copies all letters that contain footnotes into a different folder, to browse and look around"""
@@ -111,5 +113,29 @@ def put_footnotes_in_csv():
                     # write the data as a row
                     csv_writer.writerow([letter_id, n, text])
 
+def remove_footnotes(infolder, outfolder):
+    """takes files from one folder, removes footnotes and saves them in a new folder"""
+    filenames = os.listdir(infolder)
+    for filename in tqdm(filenames):
+        filepath = os.path.join(infolder, filename)
+        with open(filepath, 'r', encoding='utf-8') as infile:
+            tree = etree.parse(infile)
+        root = tree.getroot()
+        # find footnotes
+        footnotes = root.findall(".//note[@type='footnote']", root.nsmap)
+        for footnote in footnotes:
+            try:
+                float(footnote.get('n'))
+            except ValueError:
+                continue
+            parent = footnote.getparent()
+            parent.remove(footnote)
+
+        outpath = os.path.join(outfolder, filename)
+        with open(outpath, "w", encoding="utf-8") as outfile:
+            outfile.write(etree.tostring(root, pretty_print=True, with_tail=False).decode('utf-8'))
+
+
+
 if __name__ == '__main__':
-    put_footnotes_in_csv()
+    remove_footnotes(infolder, outfolder)
