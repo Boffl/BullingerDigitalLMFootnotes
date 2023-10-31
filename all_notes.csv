@@ -1,0 +1,1184 @@
+letter_id,n,text
+1000,1.0,Hooper.
+1000,2.0,"Caesarius an Bullinger, 24. August [Bartholomäustag] 1550 oder 1551? Zürich ZB, Ms Z II 3045.01 (Depot Evang.-ref. Kirchenrat)"
+10013,3.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Wolfgang Joner, gen. R&#252;plin</persName>, Abt des Zisterzienserklosters Kappel am Albis. - Er gr&#252;ndete die Klosterschule und ernannte am 17. Januar 1523 Bullinger zu deren Schulmeister; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> I <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10017"">[Nr. 2]</ref> 48f, Anm. 4."
+10013,4.0,"Vgl. dazu etwa Bullingers Aufzeichnungen über seine Lektüre während seiner Schulund Studienzeit sowie als Lehrer im Kloster Kappel in <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBD</bibl> 2-8."
+10013,5.0,= exercites.
+10013,6.0,"Die Rede ist hier von handschriftlichen Abhandlungen (die ersten gedruckten Schriften aus Bullingers Feder sind erst 1526 erschienen; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBibl</bibl> I 3f). In seinem Diarium listet Bullinger die von ihm in Kappel (1523-1529) verfassten Schriften auf (s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBD</bibl> 13-16), von denen die eine oder andere bereits in Dezember 1523 fertiggestellt worden sein k&#246;nnte, und beendet seine Aufz&#228;hlung mit folgender Angabe: &#8222;Anno Domini 1520 latine scripsimus duos dialogos adversus scholasticos theologos, duos item adversus Pipericornum [Johannes alias Josef Pfefferkorn] pro Ioanne Reuchlino, unum quoque, quem &#8222;Promotores&#8220; nuncupavimus. Hos omnes latine scripsimus.&#8220;"
+10013,7.0,"Cicero, Tusculanae disputationes, 1, 2, 4."
+10013,8.0,"1Kor 2, 2."
+10013,9.0,"Siehe <persName xmlns=""http://www.tei-c.org/ns/1.0"">Plinius d.&#196;.</persName>, Naturalis historia, 10, 63."
+10013,10.0,"Vgl. Gal 2, 20."
+10013,11.0,"Hebr 4, 12."
+10013,12.0,"Vergil, Aeneis, 6, 743."
+10013,13.0,"Bileam, ein Priester der Moabiter, der seinem Volk beibrachte, wie man die verfeindeten Israeliten dazu veranlassen könnte, Gott zu verlassen, um so ihren eigenen Niedergang herbeizuführen; s. Num 31, 16; Apok 2, 14. - Bileam steht hier für die katholischen Priester."
+10013,14.0,"Vgl. Joh 12, 40."
+10013,15.0,"Zu diesem Ausdruck vgl. Horaz, Carmina, 2, 18, 34, über den Fährmann Charon, der die Toten in das Reich des Hades bringt."
+10013,16.0,quid in procinctu tibi esse: was dir bevorsteht.
+10013,17.0,"Der unten in Z. 259 namentlich genannte <persName xmlns=""http://www.tei-c.org/ns/1.0"">Hugo von Hohenlandenberg</persName> (geb. 1460, gest. 1532), Bischof der Konstanzer Di&#246;zese, welcher sowohl M&#252;ller als Bullinger angeh&#246;rten; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Helvetia Sacra</bibl> II/1 376-385."
+10013,18.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 3, 41 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 354, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10272"">Nr. 241</ref>)."
+10013,19.0,"Vgl. Martial, Epigramme, 4, 5, 7f."
+10013,20.0,Durch die Kirchensteuern.
+10013,21.0,"Vgl. Joh 10, 12; Apg 20, 29."
+10013,22.0,Des Bischofs.
+10013,23.0,"Vgl. Lk 10, 16; 16, 31."
+10013,24.0,Prosodisch inkorrekt.
+10013,25.0,"Vgl. Joh 14, 15. 23f."
+10013,26.0,"Vgl. 1Kor 9, 26."
+10013,27.0,"Vgl. Martial, Epigramme, 5, 39, 7."
+10013,28.0,"Vielleicht <persName xmlns=""http://www.tei-c.org/ns/1.0"">Beatus Widmer</persName> (geb. 1487, gest. 1533), Kleriker des Bistums Konstanz und Verfasser einer Bistumschronik. Von 1507 bis 1520 &#8222;notarius collateralis&#8220; der Konstanzer Offizialatskurie. Seit dem 13. Oktober 1523 auch p&#228;pstlicher Notar; s. Peter-Johannes Schuler, Notare S&#252;dwestdeutschlands. Textband, Stuttgart 1987, S. 506f, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file11540"">Nr. 1497</ref>; Pia Ulrike Eckhart, Ursprung und Gegenwart. Geschichtsschreibung in der Bischofsstadt und das Werk des Konstanzer Notars <persName xmlns=""http://www.tei-c.org/ns/1.0"">Beatus Widmer</persName> (1475-ca. 1533), Stuttgart 2016."
+10013,29.0,"Vielleicht Johann Spreter (Spräter), der 1520 als Fiskal der Konstanzer Kurie belegt ist und am 2. Januar 1522 auf Beschluss des Bischofs als Insiegler vorgeschlagen wurde; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Helvetia Sacra</bibl> II/2 607-614. 623f. Ob er dieses Amt noch 1523/24 innehatte, ist nicht klar."
+10013,30.0,"Matho, ein reicher Anwalt, sowohl in den Satiren Juvenals als auch in den Epigrammen Martials."
+10013,31.0,"Vermutlich Johann Fridinger, von 1510 bis 1527 Offizial unter Bischof <persName xmlns=""http://www.tei-c.org/ns/1.0"">Hugo von Hohenlandenberg</persName> und ab 1518 auch h&#228;ufig Vizegeneralvikar. Er war Dr. iur. utr. und Advokat der bisch&#246;flichen Kurie; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Helvetia Sacra</bibl> II/2 597."
+10013,32.0,"Hofmeister; Verwalter. - Vermutlich Dr. iur. Georg Vergenhans, seit Juni 1520 Verwalter der Propstei. Im Januar 1523 hatte er zusammen mit <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName> an der ersten Z&#252;rcher Disputation teilgenommen. Am 10. September 1523 war er vom Kapitel zum Dekan gew&#228;hlt worden; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Helvetia Sacra</bibl> II/2 821f."
+10013,33.0,"= plebano (Leutpriester, Dorfpfarrer). - Vgl. Müllers Unterschrift in seinem Brief an Zwingli vom 16. August 1522: „Iodocus Müller, plebeianus in Chamm ...“ (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Z</bibl> VII 560)."
+10013,34.0,"Vgl. Martial, Epigramme, 10, 37, 13f."
+10013,35.0,Siehe dazu vielleicht unten Anm. 92.
+10013,36.0,"Hier als indecoris zu verstehen; s. Thesaurus linguae Latinae, Bd. VII/1 1126f."
+10013,37.0,Die Salier-Priester hielten jährlich im März beim Marskult mit ihren Schilden einen Umzug ab und führten dabei Waffentänze auf.
+10013,38.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 2, 53 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 268, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10184"">Nr. 153</ref>)."
+10013,39.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 1, 40f (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 154-156, Nr. 40f)."
+10013,40.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 4, 35. 37 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 434- 436, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10367"">Nr. 335</ref>. 337); 1, 7, 22 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 146, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10660"">Nr. 622</ref>)."
+10013,41.0,"Offenbar sind hier spöttische Gesten wie Eselsohren gemeint; vgl. etwa Persius, Satiren, 1, 58f."
+10013,42.0,Zu verstehen: Stümper-Kapläne.
+10013,43.0,"Bezogen auf „plebs“; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Stotz</bibl> IV 149, Nr. 74.4."
+10013,44.0,"Hier vielleicht im Sinne von dem durch ein Testament verfügtes Erbe. Vielleicht aber liegt hier eine Verschreibung für das Wort diaeteta (Schiedsrichter) vor, welches in diesem Zusammenhang als „Gastrokritiker“ zu verstehen wäre."
+10013,45.0,"Theon, ein schmähsüchtiger Neider bei Horaz, Epistulae, 1, 18, 82; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 2, 2, 55 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/3 171f, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file11198"">Nr. 1155</ref>)."
+10013,46.0,"Vgl. Martial, Epigramme, 6, 34, 2f, sowie Iacopo Sannazaro, Ad amicam, 5, zitiert in: Eckard Lefèvre, Von Catull zu Du Bellay. Einige Gedanken zur neulateinischen Mittlerrolle zwischen antiker und neuzeitlicher Dichtung, in: Die neulateinische Dichtung in Frankreich zur Zeit der Pléiade - La Poésie néo-latine en France au temps de la Pléiade, hg. von Marie-France Guipponi-Gineste et al., Tübingen 2015, S. 131."
+10013,47.0,Hier wohl im Sinne von Geschäfte.
+10013,48.0,"Gemeinde; Kirchenvolk; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Stotz</bibl> II 16f, Nr. 14.8."
+10013,49.0,"Dienstmann; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Stotz</bibl> I 406f, Nr. 29.15."
+10013,50.0,"Attis, der Geliebte der phrygischen Göttin Kybele, der sich selbst kastrierte; s. Rosario Moreno Soldevila et al., A Prosopography to Martial’s Epigrams, Berlin/Boston 2019, S. 69f."
+10013,51.0,Galli hießen die Priester der Kybele.
+10013,52.0,Zu verstehen: phrygisch.
+10013,53.0,"Bischof <persName xmlns=""http://www.tei-c.org/ns/1.0"">Hugo von Hohenlandenberg</persName>."
+10013,54.0,"Gemeint ist <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName>. - Auch in der polemischen Schrift &#8222;Gyrenrupffen&#8220; (Das Geierrupfen), die einige Z&#252;rcher gegen ihn richteten, wurde er so bezeichnet; s. Artur Angst, Heigerlin oder Schmid? Der Familienname des in Leutkirch geborenen Wiener Bischofs und Kontroverstheologen Dr. <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName> (1478-1541), in: Rottenburger Jahrbuch f&#252;r Kirchengeschichte 3, 1984, S. 202."
+10013,55.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 1, 67 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 176, Nr. 67)."
+10013,56.0,Die Sechs als Würfelzahl.
+10013,57.0,"= vult; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Stotz</bibl> IV 218f, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10156"">Nr. 125</ref>.2."
+10013,58.0,= toris.
+10013,59.0,"Vgl. Persius, Satiren, 4, 17."
+10013,60.0,"= Lyaeus: Sorgenlöser, Beiname des Bacchus und des Weins."
+10013,61.0,"Horaz, Sermones, 1, 5, 53."
+10013,62.0,"Hier vermutlich aus prosodischen Gründen für omenta (fette Eingeweide) verwendet; vgl. Thesaurus linguae Latinae, Bd. IX/2, 578."
+10013,63.0,"Anspielung auf Martial, Epigramme, 12, 48, 11."
+10013,64.0,"Die phrygische Göttin Kybele (Magna Mater), deren Kult von ihren Galli-Priestern im April gefeiert wurde. Letztere werden auch öfters in Martials Epigrammen genannt, von denen sich Müller in der vorliegenden Dichtung immer wieder inspirieren ließ."
+10013,65.0,"Besitz; Pfründe; s. etwa Peter Schuster, Ehre und Recht. Überlegungen zu einer Begriffsund Sozialgeschichte zweier Grundbegriffe der mittelalterlichen Gesellschaft, in: Ehrkonzepte in der Frühen Neuzeit. Identitäten und Abgrenzungen, hg. von Sibylle Bachmann et al., Berlin 1998, S. 42."
+10013,66.0,"Vgl. Juvenal, Satiren, 5, 62."
+10013,67.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 2, 8, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/4 156, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file11749"">Nr. 1704</ref>)."
+10013,68.0,= hebes.
+10013,69.0,Gemeint sind die Unterweltsfluten.
+10013,70.0,"Zu diesen Versen vgl. Martial, Epigramme, 1, 78."
+10013,71.0,"Ketzer, die behaupteten, Gott hätte menschliche Gestalt."
+10013,72.0,Rechnungen.
+10013,73.0,= caeno.
+10013,74.0,"Eine Römerin, die sich einen hässlichen Liebhaber ausgesucht hatte; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 3, 58 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 368, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10289"">Nr. 258</ref>), und Horaz, Satiren, 1, 2, 91."
+10013,75.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 3, 55 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/1 366, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10286"">Nr. 255</ref>)."
+10013,76.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 2, 9, 8 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/4 223, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file11854"">Nr. 1808</ref>). - Der Hafen von Torone in Mazedonien soll sehr still gewesen sein, weil die Hafenkais das Meeresger&#228;usch d&#228;mpften; s. Konstantin Boshnakov, Die Thraker s&#252;dlich vom Balkan in den &#8222;Geographika&#8220; Strabos. Quellenkritische Untersuchungen, Wiesbaden/Stuttgart 2003, S. 129."
+10013,77.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 2, 6, 34 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/4 42-45, <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file11577"">Nr. 1534</ref>). - Die Kimmerier lebten im &#228;u&#223;ersten Norden und in ewiger Dunkelheit."
+10013,78.0,"Amyntor verhängte zornig den Fluch der Kinderlosigkeit über seinen Sohn Phoinix, weil dieser seine Geliebte verführt hatte."
+10013,79.0,Anspielung auf den Typus des „servus callidus“ in der römischen Komödie.
+10013,80.0,"Vgl. Martial, Epigramme, 9, 25, 2."
+10013,81.0,"Die hässlichen Gorgonen verwandelten jeden, der sie ansah, in Stein; s. Der Neue Pauly, s.v. Gorgo (online)."
+10013,82.0,"Zu diesen Versen vgl. Martial, Epigramme, 9, 25, 3-5."
+10013,83.0,"Der phönizische Königssohn Phineus wurde von den Harpyien gepeinigt, die ihm die Speisen raubten und beschmutzten, so dass er immer hungerte."
+10013,84.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">&#214;dipus</persName>, der unwissentlich seinen Vater t&#246;tete, seine Mutter heiratete und sich die Augen ausstach, als er es erfuhr. - Zum Vers vgl. Martial, Epigramme, 9, 25, 9f."
+10013,85.0,"Vgl. Martial, Epigramme, 10, 48, 7."
+10013,86.0,"= adiutor (Gehilfe). - Gemeint ist hier der Generalvikar <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName>; s. unten Z. 444."
+10013,87.0,"zaes, ein Fisch, der lat. faber heißt. - Hier eine Anspielung auf <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName>."
+10013,88.0,"Juvenal, Satiren, 9, 25."
+10013,89.0,"Ein hässlicher, schmähsüchtiger Grieche vor Troja."
+10013,90.0,"Dädalus, Erfinder des Labyrinths auf Kreta."
+10013,91.0,"Gattin des Königs Minos, die Dädalus damit beauftragt hatte, ihr eine falsche Kuh zu verfertigen, um den von ihr geliebten Stier zu täuschen - sie versteckte sich in der Kuh, und der Stier zeugte mit ihr den <persName xmlns=""http://www.tei-c.org/ns/1.0"">Minotaurus</persName>, der sp&#228;ter im Labyrinth eingeschlossen wurde."
+10013,92.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Fabri</persName> stammte aus Leutkirch (Oberschwaben)."
+10013,93.0,"Hercules, der gegen die Hydra kämpfte, welcher immer neue Köpfe nachwuchsen."
+10013,94.0,Brigantino lacu: Bregenzer See (= Bodensee).
+10013,95.0,Hercules hatte von Apollo vergiftete Pfeile erhalten. Damit wurde der Adler erlegt.
+10013,96.0,zu Bacchus und zum Wein gehörend.
+10013,97.0,Siehe dazu oben Anm. 54.
+10013,98.0,Hier wohl wie bei L. Junius Moderatus Columella als aufgegrabene Erdklumpen zu verstehen.
+10013,99.0,"Vgl. Ovid, Metamorphosen, 15, 414f; <persName xmlns=""http://www.tei-c.org/ns/1.0"">Plinius d.&#196;.</persName>, Naturalis historia, 37, 52, 5."
+10013,100.0,"Vgl. Ovid, Metamorphosen, 15, 409f; <persName xmlns=""http://www.tei-c.org/ns/1.0"">Plinius d.&#196;.</persName>, Naturalis historia, 8, 105; 11, 177."
+10013,101.0,"Vgl. Vergil, Eclogae, 3, 111."
+10013,102.0,"Der Name eines Gottes, den die alten Griechen mit dem Abendstern in Verbindung brachten, ehe sie erfuhren, dass es sich dabei um den Planeten Venus, die Göttin des sexuellen Verlangens und der Schönheit, handelte, so dass hier Hesperus als das männliche Pendant von Venus aufzufassen ist."
+10013,103.0,"Vgl. Vergil, Eclogae, 10, 77."
+10013,104.0,Müller spricht von den in seinen Versen verwendeten Wörtern und vom Inhalt (sensus) seines Gedichtes.
+10013,105.0,= vitilitigatores.
+10013,106.0,Die altgläubigen Scholastiker.
+10013,107.0,"Ovid, Epistulae ex Ponto, 2, 6, 38."
+10013,108.0,"= fartus; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Kirsch</bibl> 1169f."
+10013,109.0,"Apicius, ein römischer Feinschmecker und Meister der Kochkunst."
+10013,110.0,"Sardanapal (auch Assurbanipal), ein König Assyriens, berüchtigt für seine Ausschweifungen. - Da Müller den hier von ihm angeprangerten Spitzel mit einer politischen Figur, bzw. mit Sardanapal, in Verbindung bringt, dem es möglich war, Menschen zu verhaften (s. unten Z. 511f), wird hier der seit 1489 immer wieder abwechslungsweise belegte Chamer Obervogt und Hauptmann Heinrich Schönbrunner d.Ä. (gest. 22. Juni 1528) gemeint sein, der nicht mit seinem gleichnamigen Sohn (gest. 6. Juni 1537), Hauptmann und Verfasser einer Chronik, und ebenfalls vehementer Gegner der Reformation, zu verwechseln ist; s. Franz Carl Stadlin, Die Geschichten der Stadtgemeinden Zug [= Topographie des Kantons Zug IV], Luzern 1824, S. 310f (zum Vater); 399 (zum Sohn), Anm. 401; Wilhelm Meyer, Der Chronist Werner Steiner (1492-1542): ein Beitrag zur Reformationsgeschichte von Zug, in: Der Geschichtsfreund. Mitteilungen des Historischen Vereins Zentralschweiz LXV, 1910, S. 91, Anm. 5; 102; 112f; 128; 129 und Anm. 5; 130 (zum Vater); <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW III</bibl> <ref xmlns=""http://www.tei-c.org/ns/1.0"" target=""file10244"">[Nr. 213]</ref> 110, Anm. 4; VII 226, Anm. 9 (zum Sohn)."
+10013,111.0,"Sehr wahrscheinlich der Zuger Hauptmann Thomas Stocker (gest. 25. Mai 1528), der sehr oft in Verbindung mit Schönbrunner d.Ä. belegt ist, und der vermutlich erst später und nur für kurze Zeit auch Vogt des Thurgaus wurde; s. Meyer aaO, S. 72. 83. 112f. 117f. 124. 126. 128f. - Sowohl beide Schönbrunner als auch Stocker waren Bullinger sehr wohl bekannt; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBRG</bibl> Reg.; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW I</bibl> und II, Reg. (Stocker); III-VII, Reg. (Sch&#246;nbrunner d.J.)."
+10013,112.0,"Horaz, Epistulae, 1, 18, 69."
+10013,113.0,"Vgl. Röm 2, 15."
+10013,114.0,"Vgl. Joh 9, 34; 1Tim 1, 16."
+1003,1.0,Nicht erhalten.
+1003,2.0,"Landsgemeinde vom 24. August 1550, s. Ratsprotokoll von diesem Tag, Glarus Landesarchiv, Altes Archiv, Abt. I, Bd. 5, S. 198 (freundliche Mitteilung von Dr. Christoph Brunner, Glarus)."
+1003,3.0,Hauptpunkte.
+1003,4.0,"Dionysius Bussi, Alt- Landamman, und Joachim Bäldi, amtierender Landammann."
+1003,5.0,Jakob Vogel(?).
+1003,6.0,29. September.
+1003,7.0,die Reformation.
+1003,8.0,"Bäldi, oder Bussi(?)."
+1003,9.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Joachim B&#228;ldi</persName>."
+1003,10.0,1551.
+1003,11.0,Jost Pfändler.
+101,1.0,Vogler.
+1019,1.0,hansestädtische.
+1028,1.0,anno domini?
+1048,1.0,"Vgl. Titus Livius, Ab urbe condita, 7, 10, 9; 8, 13, 17."
+105,1.0,Hier kommt Brief Nr. 18330
+1052,1.0,a.R.: nisum?
+1058,1.0,anno domini?
+1058,2.0,Rhodosrittern.
+1060,1.0,Antistes.
+1066,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+1066,2.0,"Anne Ulmerin; s. ZBZ, Ms F 22a, S. 349f (Bericht aus Esslingen vom 3. Nov. 1550), auch Ms. F 13 (S. ??); <hi xmlns=""http://www.tei-c.org/ns/1.0"">Fehr,</hi> Massenkunst 92 und Tafel 30/31; Lycosthenes, Prodigiorum et ostentorum chronicon, S. 592-594; Ulinka <hi xmlns=""http://www.tei-c.org/ns/1.0"">Rublack,</hi> Pregnancy, Childbirth and the Female Body in Early Modern Germany, in: Past and Present, Nr. 150, Feb. 1996, S. 84-110, hier S. 95f mit Anm. 50: ""The Deceitful Woman of Esslingen"", Zentralbibliothek Zurich, Wickiana, PAS II 2/13, reproduced in The German Single Leaf Woodcut, 1500-1550, ed. M. Geisberg, rev. W. L. Strauss, 4 vols. (New York, 1974), iii, p. 1066, G. 1118; ""Gruntliche antzaigung des Teufflischenn und schentlichen betrugs Mit dem gemachten Bauch von anfang biss zu end 1551"", PAS II 10/19b; ""Des falschen Weibs vnd Junckfrawen zu Esslingen Auss gericht"" (undated), PAS 10/19; ""Blut- oder Peinliches Urtelbuech"", Staatsarchiv Ludwigsburg, B 169, Bu. 119 I, f. [145.sup.v]-[156.sup.r], 23 Jan. 1551."
+1066,3.0,"Anna Laminit; s. Roper, The Holy Household 262f."
+1075,1.0,Hooper.
+108,1.0,Hansestädte.
+1084,1.0,die Breslauer.
+1085,1.0,"Philipp Fallenberger (Vallenberger), von Stein; Basel, Matrikel II 67, Nr. 7; Bullingers Stipendiatenliste; immatr. Marburg 1550 als Philippus Vallenburgerus Helvetius (Caesar, Catalogus Teil III, S. 11); schreibt am 25. 3. 1551 aus Marburg an Gwalther (Zürich ZB, Ms F 40, 161f)."
+1088,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> poetica, 139."
+11,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Stephen Gardiner</persName>."
+11,2.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+1108,1.0,a.R.: Butler.
+1114,1.0,a.R.: inner? im(m)er?
+1118,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+112,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Beat Gering</persName>."
+113,1.0,Boltz.
+1134,1.0,"Michael Helding, Titularbischof von Sidon."
+116,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">B&#233;at Comte</persName>."
+1169,1.0,vorab.
+1169,2.0,"Anna Keller, gest. 1. Feb. 1551; Näheres im ""Verzeichniß des Geschlechts der Bullinger"", S. 96."
+1177,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+119,1.0,"Joachim Forrer. Darüber von anderer Hand: ""Furerus""."
+1197,1.0,"Michael Helding, Titularbischof von Sidon."
+120,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Beat Gering</persName>."
+1200,1.0,"Zu Fricker s. (u.a.?) Mathias <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Sulser</bibl>, Der Stadtschreiber Peter Cyro und die Bernische Kanzlei zur Zeit der Reformation, Bern 1922, S. 131-134."
+1204,1.0,"Michael Helding, Titularbischof von Sidon."
+1211,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-3 290-292, Nr. 1272)."
+123,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Joachim Forrer</persName>."
+1233,1.0,"t'Serclaes? Evtl. konsultieren: André Monteyne: T'Serclaes. Une famille bruxelloise, [Brüssel] 1987."
+1233,2.0,Vgl. Bullingers privates Testament!
+125,1.0,"Frankreich, England, Schottland"
+1250,1.0,"Simler (Ms S 74, 184) interpretiert den Zettel, der auf E II 356a, 623 (15. Juni 1554) aufgeklebt ist, irrtümlich als Nachschrift zu diesem Brief."
+1261,1.0,"Vielleicht Hans Jakob (vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi> 617)."
+1264,1.0,"Ein Schreiben von Firmianus Dominicus von 1555 betr. Verfolgungen der Waldenser in Biel Stadtarchiv, 120, CXXX, Nr. 88. Zu F. Dominique s. auch Viénot, Hist. de la réforme dans le pays de Montbéliard, Register."
+1268,1.0,"Adag. 1, 2, 5."
+127,1.0,"Ev. Clemens Lenner? Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Vadian BW</bibl> VI, Reg., und unten Nr. 18125. - Laut e-Mail von Rainer Henrich vom 15.04.2014 handelt es sich eher um den St. Galler ""Lesmaister"" und Musiker Clemens H&#246;r."
+1287,1.0,Wustius
+1288,1.0,"Überliefert (nicht original erhalten!) ist (anscheinend) die Antwort (mit falschem Datum): <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Vadian BW V</bibl> 675-677, Nachtrag Nr. 11 = <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> ...?"
+1288,2.0,"Im Matthäuskommentar von 1542, S. 170, diskutiert Bullinger die drei hier erwähnten Münzen. Die Beschreibung des Schekel entspricht allerdings nicht jenem in <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Vadian BW V</bibl> 676, M&#252;nze Nr. 51."
+1288,3.0,"Vgl. den erwähnten Vadian-Brief. Die dort zitierte Erklärung aus den <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> beruht wohl auf einem Mi&#223;verst&#228;ndnis; es handelte sich kaum um eine Athener M&#252;nze, sondern um irgendeine griechische mit Ochsenbild."
+130,1.0,Varnier.
+1304,1.0,Hansestädte.
+1307,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 84 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 284)."
+131,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Beat Gering</persName>."
+1325,1.0,Brief vom gleichen Tag an ZH im StA.
+1325,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Jakob W&#252;rben</persName>."
+1325,3.0,Joh. Leopold Frey.
+1325,4.0,Hans Gerwig.
+1325,5.0,Auf der Rückseite lat. Notizen.
+1346,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, ..."
+135,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Antoine Perrenot</persName> de Granvela, Bischof von Arras."
+1383,1.0,"Vgl. auch Myconius, 10. Feb. 1552!"
+1396,1.0,... aus Breslau.
+1409,1.0,"den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+1412,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+1419,1.0,"Hinweis: <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Letters of Calvin</bibl> II 307-310, Nr. CCLXXXIV, an die Pfarrer in der Eidgenossenschaft, [Okt 1551], &#252;berpr&#252;fen!"
+1426,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi> 279 und Brief Hallers vom 10. Juli 1552."
+1426,2.0,? (=Völk?).
+144,1.0,"Michael Helding, Titularbischof von Sidon(?)."
+1451,1.0,"Verleumder, Betrüger; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 81 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 515f)."
+146,1.0,Hansestädte.
+1474,1.0,"den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+1485,1.0,"Martinuzzi? Vgl. den mit Korrekturen Bullingers versehenen Bericht über dessen Ermordung in ZBZ, Ms F 24, S. 463-468. 470."
+1486,1.0,Innsbruck.
+1486,2.0,Antistes.
+1491,1.0,Innsbruck.
+1494,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+1494,2.0,Innsbruck.
+1497,1.0,Hooper.
+1499,1.0,Ludwig von Reischach?
+150,1.0,Boltz.
+1500,1.0,Bibelzitat (mehrere Stellen!).
+154,1.0,Weihbischof Michael Helding(?).
+1557,1.0,Haberer.
+1581,1.0,Dieselbe Verballhornung im Brief Biblianders an Myconius vom 12. Februar!
+1581,2.0,"Hinweis von RH: Mönch Jörg ist Georg Martinuzzi (biogr. Anm. in <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XII), womit die Jahreszahl des Briefes gesichert ist (laut Fabian nicht eindeutig lesbar)."
+1581,3.0,"Pfauenschwanz als Symbol Österreichs? (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> IX 1033f)."
+1588,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Sat., 1, 7, 3 (u.a.?)."
+161,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Stephen Gardiner</persName>."
+1611,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 84 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 284)."
+1624,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+1625,1.0,"Pfauenschwanz als Symbol Österreichs (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> IX 1033f)."
+1627,1.0,Affäre um Pietro Manelfi
+163,1.0,valentin Boltz.
+1637,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 216f)."
+1637,2.0,Antistes.
+167,1.0,Glado von May.
+1691,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+1694,1.0,Taufpaten.
+1725,1.0,"Johannes Räber (Zofinger Njbl., 1977, 15)."
+1725,2.0,"Diebold Etter, s. Lohner."
+1725,3.0,Valentin Rebmann/Ampelander?
+173,1.0,"Vgl. Lk 3, 17."
+178,1.0,"Verweis: Joh. von Ulm an HB, Oxford 3. Juni 1546 (die Ascensionis domini), ""Quod nihil nunc"", Füssli I 243-247, Nr. 62, siehe (so Schieß) recte: 10. Mai 1548 ====="
+1785,1.0,"Jakob Keller, Sohn von Fridolin Keller (s. Zürich StA, A 272, Nr. 167)."
+1785,2.0,d. h. bei den Bischofszellern.
+1794,1.0,Jacques Dupuys/Dupuis
+1812,1.0,Zu Sebastian Uriel Appenzeller (derselbe?) vgl. elektron. Notizen zum Brief vom 1.1.1539.
+1816,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+182,1.0,Conradus Zviccius
+183,1.0,Hansestädte.
+1832,1.0,"Vgl. Phil 1, 23f."
+184,1.0,bevoran bereit: vorab entboten.
+184,2.0,Hansestädte.
+185,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+185,2.0,Glado von May.
+185,3.0,Fronfasten (Quatember).
+1852,1.0,Antistes.
+1853,1.0,"Andreas Osiander (zur Namensform s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Osiander GA</bibl> VIII 289f und 305, 10-13)."
+1855,1.0,"Johannes Funck, Chronologia ..., Königsberg (Hans Lufft) 1552 (VD 16 F 3382)."
+1857,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, ***."
+186,1.0,"Vertumnus: Gott des steten Wandels; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 2, 74 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 473)."
+1869,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Valentin Krautwald</persName>."
+1870,1.0,vorab entboten.
+1877,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+1885,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW X</bibl> 204, Anm. 10 (oder ist etwas anderes gemeint?)."
+1885,2.0,Innsbruck.
+1885,3.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+19,1.0,"auch Gepäl, s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Z</bibl> IX 291, ABernerRef, Lohner. Lit.: Lavater in: Jahrbuch des Oberaargaus 1978."
+191,1.0,"Siehe u.a. Basel, Matr. II 69, Nr. 28."
+1917,1.0,Zu diesem Brief / Zart / siehe Umschlag in Reinhards Schublade!
+1917,2.0,Rohr (Kt. Zürich).
+1917,3.0,"Johannes Zart (Sardenus), laut <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Blarer BW</bibl> III 202. (Dieser war 1546 Provisor in Thun; s. Adolf <hi xmlns=""http://www.tei-c.org/ns/1.0"">Schaer-Ris,</hi> Die Geschichte der Thuner Stadtschulen, Diss. phil. Bern, Bern 1919, S. 45.)."
+1920,1.0,Hooper.
+1922,1.0,"Heinrich Gasenzer, von Werdenberg, gemäß Besitzeintrag in einem Buch (Sammelband in der Staatl. Bibl. Neuburg/Donau), mitgeteilt 2007 durch Reinhard A. Seitz (publiziert in <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Zwa</bibl> XXXIV, 2007, s. Reg.). Entlassung in der Pfalz 1564, s. Erast an HB, 29. Juli [1564]."
+1943,1.0,von: cunae
+1950,1.0,Gadius/Gaddi.
+1951,1.0,Heute in Kantonsbibliothek Chur; s. Bündner Monatsblatt 1/2006!
+1961,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+1968,1.0,Gadius/Gaddi.
+1976,1.0,"Hans, Sohn von <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Bullinger</persName>, starb erst 1568; s. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Egli,</hi> Analecta II 166, Anm. 3."
+1985,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+199,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+199,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Hans Kaspar von Anwyl</persName>."
+199,3.0,Schreiber.
+1994,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Wolfgang Wissenburg</persName>."
+2,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+2007,1.0,"De iustitia regni christi capitula quatuor, 1532."
+2010,1.0,"Die Berufung von Jörg Joachim nach Wynigen wurde widerrufen; s. Pfister, Die Präd. d. bern. Aarg. S. 141f, Nr. 1115f (irrtüml. Joh. Georg Will; vgl. Nachtr. zu <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> I-X)."
+202,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">CO</bibl> XII 722. Unterdessen ev. erschienen: Publikation von Elsie McKee &#252;b. Kath. Sch&#252;tz Zell"
+2036,1.0,"Jean L'Archer, s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XI."
+204,1.0,"Vgl. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4."
+2044,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Samuel Wyttenbach</persName>."
+2047,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+2047,2.0,"Bullinger an Joh. Haller, 24. Okt., s. Nr. 23290!"
+205,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Heroides, 1, 12."
+2051,1.0,Nîmes.
+2074,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+2080,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2091,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Wolfgang Wissenburg</persName>."
+21,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Gislinger</persName>."
+2101,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2101,2.0,"Von hier an ist die rechte Seite des Briefes abgerissen. Die Adresse des (aufgeklebten) Blattes ist lesbar, wenn man dieses gegen das Licht hält."
+211,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Epistulae, 1, 18, 84."
+211,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+213,1.0,i. S. v. professionis.
+2149,1.0,Am 15. Dez. 1553.
+2150,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+2158,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 4, 174f."
+2158,2.0,"Bewohner des Rheintales, vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XII..."
+2160,1.0,Antistes.
+2176,1.0,"Vgl. in auch Brief 26101 (Agricola/Meyer an Ottheinrich, 15. Mai 1556: ""die dry gwaltigen buͤcher der kriegskampffstucken""); Ludwig <hi xmlns=""http://www.tei-c.org/ns/1.0"">Rockinger,</hi> Die Pflege der Geschichte durch die Wittelsbacher. Akademische FS zur Feier des Wittelsbacher Jubil&#228;ums, M&#252;nchen [1880], Beilage I, S. (15): ""Laurentij Agricolae tomus tertius rerum bellicarum, ex clarissimis romanae historiae historiographis. vngepunden[sic] vnd geschriben."" (In der Liste von B&#252;chern, die Ottheinrich 1556 von Neuburg nach Heidelberg mitbrachte.)."
+2179,1.0,Göuffi.
+2182,1.0,"Gervasius Schuler an Bullinger, Lenzburg, 8. Februar 1554, ist am Ende des Jahrgangs eingeordnet"
+2196,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+220,1.0,Ismael Buchser??
+220,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+220,3.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, ***."
+2203,1.0,Tremellius?
+2228,1.0,Antistes.
+223,1.0,"zur Belagerung von KN/Kner Sturm s. StA ZH, A 170.1, dort Abschrift in HBs Hand"
+2240,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+2244,1.0,"thom Camph schrieb irrtümlich einen Kondolenzbrief an Pellikans Sohn; s. Zwey Aneckdoten zu Beleuchtung des Charackters und der Denkart etlicher berühmter Männer des sechszehnten Jahrhunderts, in: Schweitzerisches Museum IV, 1788, Zehntes Heft, S. 791-797 (hier S. 791-794)."
+2254,1.0,Göuffi.
+2259,1.0,Jacques Dupuys/Dupuis
+2281,1.0,"Vgl. Phil 1, 23."
+2285,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2285,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2285,3.0,Göuffi.
+2285,4.0,"Zur folgenden Angelegenheit s. auch Zürich StA, E II 357a, 835f (von Funklis Hand, Beilage zu diesem Brief?; Abschrift Simlers in Zürich ZB, Ms. 199, 227)."
+2316,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Georges</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Gloor,</hi> in: Lenzburger Njbl., 1969, S. 90 (dieser?)."
+2316,2.0,Haberer.
+2317,1.0,vorab entboten.
+2330,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2330,2.0,Göuffi.
+2350,1.0,"Vgl. Phil 1, 23."
+2377,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Sat., 1, 7, 3 (u.a.?)."
+239,1.0,"die Hansestädte (""Seestädte"")."
+241,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Michael Adam</persName>."
+2419,1.0,"1Kor 2, 9."
+2419,2.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 4, 336."
+2426,1.0,Antistes.
+2439,1.0,Hemmann
+244,1.0,"Vgl. 1Kor 3, 6f."
+245,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2455,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2455,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2455,3.0,"Vgl. Persius, Saturae, 4, 52."
+2455,4.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2465,1.0,Antistes.
+247,1.0,Hansestädte.
+247,2.0,Hansestädte.
+248,1.0,"Mänzer, Menzer, vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi> u. Lohner."
+249,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Antoine Perrenot</persName> de Granvela, Bischof von Arras."
+2496,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2496,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Samuel Wyttenbach</persName>."
+2496,3.0,"Küngold, geb. von Schönau?"
+2496,4.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2499,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, ***."
+25,1.0,Vgl. darüber die Diss. von Josef Schmuck (ZB: TA 6277: 22).
+250,1.0,"die Hansestädte (""Seestädte"")."
+250,2.0,Ps 117/118?
+2512,1.0,"Vielleicht Tuchherr <persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Hirzel</persName> (1511-1573)? Zu diesem vgl. Katalog der Hss. der ZBZ, II: Familienarchive, Sp. 254."
+253,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+2558,1.0,Feyérthóy.
+2561,1.0,"Dieser verspricht Biel 1563 seine Dienste, um durch Kaiser Bestätigung der Freiheiten zu erhalten (Biel Stadtarchiv 102, CXVII, Nr. 44); entschuldigt 1558 das Ausbleiben einer entsprechenden Bestätigungsurkunde (ebd., Nr. 154). Halbbruder von Jakob Funcklin; vgl. dessen Vita von Max Schiendorfer (2006 noch unpubl.)."
+2563,1.0,Erasmus?
+2568,1.0,"Joh. Hoflius (Höfflin, s. Lohner), s. auch Bern Burgerbibliothek, cod. 653 (Theologica, von Hoflius geschrieben, z.T. 1551, z.T. März 1555 im Haus von Guldibeck)."
+2580,1.0,"Adag. 1, 2, 5?"
+2588,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Hans Vogler</persName>."
+2596,1.0,Antistes.
+260,1.0,Leute(?) aus den Hansestädten.
+2609,1.0,"vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XI, Nr. 1477/1492!"
+2613,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+263,1.0,"Vgl. Ex 16, 3."
+2630,1.0,Antistes.
+2636,1.0,richtig: perendie = übermorgen - 25. Mai /Himmelfahrt 1555: 23. Mai.
+264,1.0,"Vielleicht der Brief an Unbekannt in Zürich ZB, Ms A 69, 319???"
+264,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+2646,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2646,2.0,Würben?
+2653,1.0,"Gehört hierher auch Zürich StA, E II 446, 1f? Hat André Holenstein unterdessen etwas dazu publiziert? Siehe auch Bullingers Bericht in ZBZ, Ms A 70, 627f. Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Meyer, Locarno</bibl> II 48-53."
+2660,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+2660,2.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+2664,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2664,2.0,Würben?
+2664,3.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">K&#252;ngold von Sch&#246;nau</persName>?"
+2676,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+2676,2.0,Göuffi.
+2693,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Eigenh&#228;ndig.</hi>"
+2693,2.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Eigenh&#228;ndig.</hi>"
+270,1.0,Simprecht Vogt?
+2701,1.0,Israel Stäheli? ...
+272,1.0,Kirchheim unter Teck?
+2727,1.0,"liest Elze, Hinweis von Prof. Bryner, 6.11.08"
+2763,1.0,Johann(es) Winter/Guinterius.
+2763,2.0,Johann(es) Winter/Guinterius.
+2776,1.0,Antistes.
+2792,1.0,"vgl. auch Schreiben Philipp Gallicius an Bullinger, Chur, 7. Januar 1556 mit Beilage vom 27. Dezember 1555"
+2801,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+2801,2.0,"Vgl. den lutherischen Konkordienvorschlag von 1529: <hi xmlns=""http://www.tei-c.org/ns/1.0"">K&#246;hler,</hi> ZL II 337!"
+2807,1.0,Gal. 1.
+2807,2.0,2. Ioan. 1.
+283,1.0,"Bernh. Ziegler, s. VD 16 <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Z</bibl> 410."
+2836,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Georg Maurer</persName>."
+2836,2.0,"Siehe Zürich StA, A 202/4, Memmingen Nr. 9-14 (überprüfen!)."
+288,1.0,Wallisellen?
+2889,1.0,"Livius, Ab urbe condita, 9, 19, 15."
+29,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+292,1.0,"die Hansestädte (""Seestädte"")."
+292,2.0,Breslau.
+2923,1.0,"Wohl nach: Johannes Sichard (Hg.), Antidotum contra diversas omnium fere seculorum haereses, Basel 1528 (s. Griechischer Geist aus Basler Pressen ... 435; ungenau: VD 16 S 6283)."
+2924,1.0,"Gregorius Lewerer (zog 1555 mit Meyer in die Fremde, vgl. den Vermerk auf dem Schreiben von Lauingen an Zürich vom 30. Sept. 1555 in Zürich StA, E I 1. 3b). - Lit.: <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi>."
+2928,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Cicero,</hi> Orationes Philippicae, 5, 5 und s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XIV *** ."
+2936,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+2959,1.0,Antistes.
+298,1.0,Briefe Bullingers an Jakob Fehr sind nicht erhalten.
+298,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Karl V.</persName>"
+298,3.0,Straßburg.
+298,4.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Theodor Bibliander</persName>."
+301,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Epistulae, 1, 18, 84."
+3030,1.0,Rufach.
+3034,1.0,Betschwanden.
+3034,2.0,im Obertoggenburg(?).
+3097,1.0,Antistes.
+3099,1.0,"Hinweis zur Holzsparkunst: In den Instruktionen in Zürich StA bezieht sich ein Dokument auf ein Privileg für [Konrad] Zwicks Erfindung; gefunden in: Weisses Register XXV 799, Nr. 21. Vgl. auch in den gedruckten Eidg. Abschieden, Stichwort ""Erfindungen"". Publikation zu diesem Thema von <persName xmlns=""http://www.tei-c.org/ns/1.0"">Hans Rudolf Lavater</persName> in FS Dellsperger!"
+31,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Gislinger</persName>."
+3118,1.0,Antistes.
+3125,1.0,"Krzcięcice, vgl. Akta synodów, Register."
+315,1.0,Thomas Wirz.
+319,1.0,"Bullinger an Johannes Haller, 26. Oktober 1548, am Ende der Datei!"
+320,1.0,Inderhalden.
+321,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 99 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 180)."
+322,1.0,"Vgl. Persius, Saturae, 4, 52."
+3268,1.0,Raphael Hofhalter.
+3280,1.0,"a Caesar. ist v. Bull. unterstrichen u. a. R. durch ""a Gallis"" verbessert. duc.quendam. ebf. v.Bull. unterstrichen u.a.R. dazu bem. ""Angien."""
+3283,1.0,"Joh. Ulrich Müller, gen. Rhellikan? Siehe Zürich StA, A 208.1, Nr. 29f. Vgl. Bern StA, Ratsmanual zum 2. Juni 1562: Rhellicans sel. Sohn ein doppelten Mushafen."
+3288,1.0,Von anderer Hand darüber der Zeile nachgetragen.
+3302,1.0,Zum Lamb.
+3304,1.0,Zum Lamb.
+3306,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-3 290-292, Nr. 1272)."
+3321,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+3339,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johann Anton Tillier</persName>."
+3342,1.0,Nr. 27080 fehlt!
+3352,1.0,Wunderlich.
+3359,1.0,von Breslau.
+3362,1.0,"umfassende Bildung (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 241)."
+3362,2.0,"Vgl. Gwalther an HB, 15. 11. 1539, Anm. ..."
+3367,1.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+3367,2.0,Melanchthon?
+3371,1.0,ein Woiwode (welcher?).
+3378,1.0,Ursinus.
+3389,1.0,"Zur Biogr.: Empfehlung für ihn als Hofrat in Wien: HHStA, Staatenabteilung, Schweiz, Kart. 13, fol. 95 und 214, 1559/60; Einzelheiten s. Notizen zum Besuch im HHStA (2004) im Ordner unter Österreich/Wien HHStA."
+3391,1.0,"Zur Abweisung des Geschenks vgl. Sal. Hess, Ursprung, Gang und Folgen ... (Gd XIII 7416), S. 102, Anm. (aufgrund welcher Quelle?)."
+3392,1.0,Arras.
+3404,1.0,"Mascezel (vgl. etwa <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Pauly/Wissowa</bibl> XXVIII)."
+3411,1.0,bisher.
+3412,1.0,Wildbad im Schwarzwald (Baden-Württemberg).
+3435,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+3435,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+3438,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+3445,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Sat., 1, 7, 3 (u.a.?)."
+3445,2.0,"vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 3, 7 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 114)."
+3445,3.0,"Vgl. Röm 14, 5."
+3445,4.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+3449,1.0,"Johannes Ewich. Aus Hörstgen bei Kleve. Zur Biographie vgl. Gustav C. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Knod,</hi> Rheinl&#228;ndische Studenten im 16. und 17. Jahrhundert auf der Universit&#228;t Padua, in: Annalen des historischen Vereins f&#252;r den Niederrhein, insbesondere die alte Erzdi&#246;zese K&#246;ln, 68, 1899, S. 168, Nr. 3. Vorhanden in ZB Z&#252;rich UN 526, 67-68."
+345,1.0,"= Herlinus (Haller an HB, 23.3.61) / Herlyn (Basel, Matrikel II 95) / Heerli (Lohner)? (jedenfalls ein Berner!)."
+3469,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+3472,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Isabella Bresegna (Brice&#241;o) Manrique</persName>; s. Dizionario biografico degli italiani XIV 189f; Graub&#252;nden, Korr.; BW Vergerio - Herzog Christoph; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Zurich Letters</bibl> I, S. 8; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Amerbach Korr.</bibl> X; A. Gordon Kinder, Spanish Protestants."
+3475,1.0,Antistes.
+3510,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+353,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183)."
+3531,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183) und ...."
+3539,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 62."
+356,1.0,Antistes.
+3564,1.0,"""Kunst der Holzersparung""."
+357,1.0,"Verleumder, Betrüger; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 81 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 515f)."
+357,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+3570,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Remedium amoris 91(f?) (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 287, Nr. 1470)."
+3589,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> poetica, 139."
+3610,1.0,"Johannes Jung an Bullinger, Basel, 1. Juni (1560 oder eher 1558), eingeordnet am Ende des Jahrgangs"
+362,1.0,"Offenbar Thomas Leymer/Argillanus; vgl. Basel, Matrikel II 54, Nr. 45; Gast an HB, 5. Mai 49."
+3636,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-3 290-292, Nr. 1272)."
+3637,1.0,"Beat Wilhelm von Bonstetten gab 1556 Bürgerrecht auf (Quelle: Bürgerbuch?), vgl. Zürich ZB, Ms E 16, 298r."
+3637,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+3642,1.0,"Für Zurzach wurde am 29. Juni 1558 Bernhard Bertschi gewählt; s. Zürich StA, G I 179, f. 37v. - Zuvor hatte Jakob Bindschedler die Stelle, die er am 15. Juni 1558 für Bülach verlassen hatte; aaO, f. 37r. 99r."
+3648,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+3653,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Anna, geb. Adlischwyler</persName>."
+3653,2.0,"Vgl. Kunstdenkm. d. Schweiz, Kt. AG, Bd. VI, S. 310."
+3654,1.0,"Krämer, vgl. HB an Myconius, 1. Mai 1545!"
+3654,2.0,wohl in Bremgarten
+3654,3.0,unterhalb von Basel oder unter Basels Herrschaft?
+367,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">B&#233;at Comte</persName>."
+3671,1.0,"Paul de La Barthe, seigneur de Thermes, ..."
+3671,2.0,Gravelines/Grevelingen.
+3683,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Wilhelm Fr&#246;lich</persName> heiratete ca. 1545 <persName xmlns=""http://www.tei-c.org/ns/1.0"">Anna Rahn</persName> (vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Keller-Escher,</hi> Die Familie Rahn von Z&#252;rich), aber vielleicht ist jemand anderer gemeint. Schie&#223; l&#246;st Fuliginosus im Register mit ""R&#246;ichli"" auf. Das D&#252;rsteler-Register zu den Z&#252;rcher Kirchenb&#252;chern enth&#228;lt weder zu Fr&#246;lich noch zu R&#246;ichli einen passenden Eintrag."
+3696,1.0,Rappoltstein.
+3698,1.0,von Arras.
+37,1.0,Varnier.
+37,2.0,Urach.
+3740,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Christoph Rotacher</persName>."
+3740,2.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+3741,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+376,1.0,"Albrecht Rosin, s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBLS</bibl>; vgl. u.a. ZBZ, Ms S 49, 8f; ein von ihm 1562 testiertes Breve Pauls III., an Bullinger adressiert: ZBZ, Ms A 84, 373 (als Brief aufnehmen??). Duri Blumenthal, Die drei B&#252;nde 1535 bis 1565, S. 158f."
+378,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+3789,1.0,"Berker; vgl. Verzeichn. d. Geschlechts d. Bullinger 1823, S. 102; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">ZTB</bibl> 1920, bes. 238ff; zu Diethelm Berker: B&#228;chtold in: Bremgarter Njbl., 2005, S. 17."
+379,1.0,"Zitat aus einem Brief Bucers an [Myconius] (alias ""M.N. Stiermacht von Lucern"" vom 22. Dezember (Zürich StA, E I 441, 442-444; bzw. Simler-Abschrift in ZH ZB, Ms. S 68, 189.(von RH)."
+3800,1.0,"Vgl. Sueton, Augustus, 85, 2."
+3802,1.0,"Vgl. Tübingen, Matrikel I 397; Zürich StA, E II 441, 42."
+382,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+382,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sulpitius Haller</persName>."
+3826,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Burkard N&#228;geli</persName>, Sohn von Hans Franz N&#228;geli, Landvogt von Ternier von 1558 bis 1562. Vgl. Berner Taschenbuch 22, 1873,S. 101f."
+383,1.0,Kaspar Megander(?).
+3846,1.0,Ludwig von Reischach?
+3847,1.0,VD 16 F 1950.
+3880,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Valentin Krautwald</persName>."
+3883,1.0,Leodegar Hirsgarter(?).
+3889,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 70 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-1 456, Nr. 370)."
+3897,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Peter Fuchs</persName>."
+3898,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Lorenz Meyer</persName>."
+3918,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">B&#233;at Comte</persName>."
+3920,1.0,"Joris. Zur Affäre ein Bericht in Zürich StA, E II 446, 3f."
+3923,1.0,"Simler liest ""Gössmanus""."
+3931,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+3949,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+3965,1.0,"Anklang an den aus der römischen Messe bekannten Orationsschluß (vgl. Gwalther an HB, 3. Okt. 1538)."
+3972,1.0,Langenthal.
+3986,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Christine Frisching, geb. Zehnder (Zehender)</persName>? Nicht in: Walther <hi xmlns=""http://www.tei-c.org/ns/1.0"">Merz,</hi> Oberrheinische Stammtafeln, Stammtafel 25 (Zehender von Arau[!])."
+3986,2.0,Diepold/Theobald und ... Frisching?
+3994,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">John Hooper</persName>."
+4003,1.0,Altstätten.
+4003,2.0,"Vgl. Gen 15, 16."
+4018,1.0,vgl. Brief vom 16. Nov.
+403,1.0,"Vgl. Zeichnung in Ms S 67, 129."
+4055,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Georg Wimpfer</persName>."
+4066,1.0,Stucki?
+4066,2.0,"Vgl. Persius, Saturae, 4, 52."
+4066,3.0,Ur-? = Besançon?
+4069,1.0,Blitz.
+407,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+4081,1.0,von Breslau.
+4089,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+4101,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+4121,1.0,Lucius
+4131,1.0,Eisermann.
+4135,1.0,von der Tann.
+4138,1.0,Innsbruck.
+414,1.0,irgendwie.
+4140,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 368, Nr. 1878."
+4159,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Agathe Studler</persName>."
+4159,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Katharina Gryn&#228;us</persName>; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Amerbach Korr.</bibl> VI"
+4160,1.0,Georg Keller?
+4173,1.0,Vgl. Verfasserlexikon sowie Karteikarte in Basiskartei.
+4178,1.0,"Augustin, Epistulae, 187, 6 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">CSEL</bibl> LVII 96, ***-***)."
+418,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Philipp von Gundelsheim</persName>."
+418,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Karl V.</persName>"
+418,3.0,............
+418,4.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johann von Weeze</persName>."
+418,5.0,Bern.
+418,6.0,Karl III.
+418,7.0,Waadt.
+418,8.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Theodor Bibliander</persName>."
+418,9.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Rudolf Gwalther</persName>."
+4197,1.0,Klebitz.
+4201,1.0,Zum Schuldenhandel nach Sülers Tod finden sich Materialien im Bestand A 369 (s. Register bei den Inventaren des StA).
+4218,1.0,"Vgl. Ovid (gemäß Proverbia sententiaeque Latinitatis medii aevi. Lateinische Sprichwörter und Sentenzen des Mittelalters in alphabetischer Anordnung, gesammelt und hg. v. Hans Walther)."
+4218,2.0,in Breslau.
+4228,1.0,Antistes.
+4230,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Agathe Studler</persName>."
+4278,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+428,1.0,"Die Nachrichten stammen aus dem Brief von Philipp Bechi an Myconius, Zürich StA, E II 356, 29f.(von RH)."
+4281,1.0,Wildbad im Schwarzwald (Baden-Württemberg).
+4286,1.0,Antistes.
+4295,1.0,von A. Blarer an Bullinger geschickt
+43,1.0,"Brittnauer? Joh. Zur Mühle, Pfr. in Brittnau? - Vermutlich nicht, denn dieser Ioannem kommt aus Brittnau umd lebt (wie es die Unterschrift von Schürmeister zu verstehen gibt) in Zofingen. Es handelt sich vermutlich nicht um einen Pfarrer!"
+43,2.0,Räber.
+43,3.0,"Jörg Joachim, bei Pfister Georg Johann Will genannt (vgl. Korr. zu <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> I-X; Karl Schenkel, 900 Jahr Staufberg, S. ??)."
+4304,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johann Anton Tillier</persName>."
+4305,1.0,Grüningen?
+4314,1.0,Jetzerhandel!
+4314,2.0,"Sinon, Vetter des Odysseus, überredet die Troer, das trojanische Pferd in die Stadt zu holen (<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 2, 57ff)."
+4338,1.0,"s. Manfred P. Fleischer, Späthumanismus in Schlesien, S. 126f u. Reg."
+4339,1.0,Innsbruck.
+4348,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 216f)."
+4348,2.0,... ne
+435,1.0,Hansestadt?
+4356,1.0,Dachselhofer? Vincenz Pfister? Vgl. Leu Lexikon.
+4394,1.0,Johannes Zart.
+4395,1.0,Seitz?
+442,1.0,"die Hansestädte (""Seestädte"")."
+4425,1.0,Bibelzitat (mehrere Stellen!).
+4426,1.0,"Bewohner des Rheintales, vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XII..."
+444,1.0,"in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+4444,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 49 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 48)."
+4448,1.0,"Cnipius/Kneip; s. Karl <hi xmlns=""http://www.tei-c.org/ns/1.0"">Bauer,</hi> <persName xmlns=""http://www.tei-c.org/ns/1.0"">Val&#233;rand Poullain</persName>."
+4458,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+4460,1.0,Bibelzitat (mehrere Stellen!).
+4475,1.0,Darius Scala? (so Schieß). Eher: Dario Sozzini.
+4499,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+450,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+4518,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">NDBA</bibl> XXXI ...."
+4553,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+458,1.0,"die Hansestädte (""Seestädte"")."
+4601,1.0,"Vgl. z.B. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4."
+4613,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+4623,1.0,"Hellebarden (s. Diefenbach, Glossarium Latino-Germanicum)."
+4635,1.0,Psalmzitat?
+4655,1.0,Urach.
+4690,1.0,Oxford Enc. of the Ref. II 207.
+4705,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-3 290-292, Nr. 1272)."
+4705,2.0,Eppelmann/Milander.
+4707,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+4709,1.0,"Vgl. 1Kor 14, 29f[?]."
+4712,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 10, 25 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 690)."
+4736,1.0,hiemit?
+4748,1.0,"in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+4754,1.0,"Möhr (zu M. siehe auch Campell, Hist. Raetica II 488-490; Besitzeintrag von 1556 ""... & nunc Johannis Meri Cur[i?]ensis"" in einem Buch (Sammelband in der Staatl. Bibl. Lauingen), mitgeteilt 2007 durch Reinhard A. Seitz (Zwingliana 2007!). Joannes Merus Cruciensis von Grüsch 1555 am Basler Augustinerkolleg; s. Bonorand, Bündner Studierende S. 134 und <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Amerbach Korr.</bibl> IX/2 625. Vgl. in dieser Datei Notizen zu Brief 40065."
+4754,2.0,"Siehe Maria Papanicolaou in: Athena 82, 1997/99."
+4776,1.0,"Lignum Guajacum, Harz des Guajakbaums."
+4776,2.0,"Wohl die kath. Eidgenossen (auch Erasmus vergleicht die Eidgenossen mit den Kariern, s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 6, 14!). Vgl. auch Brief 41103."
+4809,1.0,Pannerherr Andreas Schmid.
+4857,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBibl</bibl> III 110!"
+4858,1.0,"Matth. 10, 14."
+486,1.0,"Vgl. Tit 1, 2."
+486,2.0,Johann(es) Winter/Guinterius.
+4860,1.0,"dunkler als sibyllinische Orakelsprüche; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 7, 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 298)."
+4866,1.0,erstmalige Benennung als Bürger von W.!
+4876,1.0,"Vgl. Ex 16, 3."
+4878,1.0,"Auch erw. von Haller, 27. Juli 1561."
+4884,1.0,"Vgl. Phil 1, 23."
+4886,1.0,Frauenfeld.
+4886,2.0,"Johannes Karg, s. Augsburger Pfarrerbuch."
+4900,1.0,"Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+4909,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+491,1.0,Knoblauch
+492,1.0,"In den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+499,1.0,"die Hansestädte (""Seestädte"")."
+4995,1.0,"Zur Redensart vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Grimm</bibl> X/I 85."
+4995,2.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+50,1.0,"Dryander; s. z.B. Dry. an HB, 20.3."
+5009,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 49 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 48)."
+5023,1.0,Zurkinden.
+5040,1.0,Güttingen.
+507,1.0,"Thomas Leymer/Argillanus; vgl. Basel, Matrikel II 54, Nr. 45 und Myc., 8.12.48."
+513,1.0,"Hinweis: Bieler Akten betr. Joh. Jung vom Dez. 1549 in Biel Stadtarchiv, 120, CXXX, Nr. 83-86."
+5138,1.0,"Anklang an den aus der römischen Messe bekannten Orationsschluß (vgl. Gwalther an HB, 3. Okt. 1538)."
+5139,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+5150,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> XI 956."
+5150,2.0,fertig.
+5175,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+5179,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Gislinger</persName>."
+5192,1.0,Zurkinden.
+5269,1.0,ein Woiwode (welcher?).
+5275,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 320f, Nr. 1638."
+5278,1.0,"Zeitung von Ernst <bibl xmlns=""http://www.tei-c.org/ns/1.0"">V&#246;gelin</bibl> (1562) in Z&#252;rich StA, E II 342a, 419."
+529,1.0,Andreas Sorsée (Bullinger-Korrespondent; s. Personenkartei!).
+5297,1.0,"Vgl. Persius, Saturae, 4, 52."
+5303,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 4, 336."
+5303,2.0,Pannerherr Andreas Schmid.
+5315,1.0,"Zu Voglers Tätigkeit in Rappoltsweiler u. Zellenberg s. Zürich ZB, Ms S 318, S. 207 und 472; Zürich StA, A 190.1, Nr. 162ff."
+5315,2.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+5321,1.0,"Vgl. Vergil, Aeneis, 4, 336."
+5343,1.0,"Vgl. die Anm. bei Hospinian an HB, 25. Aug. 1557."
+5353,1.0,"Vgl. Gen 15, 16."
+5374,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+5390,1.0,"Mt 24, ..."
+5420,1.0,Zurkinden.
+5428,1.0,Innsbruck.
+5429,1.0,Innsbruck.
+5454,1.0,"Andreas Fricius Modrevius, Libri tres, Basel (Oporin) 1562."
+5484,1.0,"hiezu a.R. unleserlich. Bemerkung, viell.: ""Oro autem, ut tuto et cito remittas omnia."""
+5517,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183)."
+5536,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+5539,1.0,"Vgl. z.B. Titus Livius, Ab urbe condita, 42, 59, 8; Sueton, Claudius, 4, 4."
+5569,1.0,Antwerpen.
+5587,1.0,d. h. zwischen Chartres und Dreux.
+5640,1.0,Innsbruck.
+5643,1.0,Innsbruck.
+5664,1.0,Innsbruck.
+5664,2.0,"Siehe Bullingers Schreiben an den Rat in Zürich StA, A 211.2, Nr. 24."
+5667,1.0,Bibelzitat (mehrere Stellen!).
+5680,1.0,Innsbruck.
+5691,1.0,Innsbruck.
+573,1.0,"die Hansestädte (""Seestädte"")."
+5738,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+574,1.0,"die Hansestädte (""Seestädte"")."
+5749,1.0,Remstal?
+5750,1.0,Blasius/Blaise Marcuard.
+5756,1.0,"Vgl. z. B: Titus Livius, Ab urbe condita, 7, 10, 9; 8, 13, 17 u.a."
+5765,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Blasius Marcuard</persName>."
+5765,2.0,einspannen.
+5765,3.0,was recht ist und wodurch Wahrheit und Recht gestärkt werden.
+5765,4.0,auf die Dauer.
+5775,1.0,?
+5807,1.0,Nîmes.
+5835,1.0,"Wahrscheinlich noch nicht Bercker/Bereker; vgl. HB an Bäldi, 28.1.69."
+585,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+5850,1.0,Innsbruck.
+586,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/3 290-292, Nr. 1272)."
+5872,1.0,Erzberger(?).
+5932,1.0,Erzberger(?).
+5932,2.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 4, 336."
+5946,1.0,Innsbruck.
+5956,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+5975,1.0,Zurkinden.
+6004,1.0,Dario Scala? Eher: Dario Sozzini.
+6005,1.0,"Philipp Gretschmann, Grätschmann, Gretschmer, Kretschmar o.ä., s. Zürich StA, B II ....; E II 350, 181; 361, 225."
+6005,2.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Remedium amoris 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 287, Nr. 1470)."
+6009,1.0,Dario Scala?
+6012,1.0,Dario Sozzini?
+6061,1.0,"Desmasures, derzeit Pfr. in Metz; s. Basel, Matrikel II 216, Nr. 61."
+6093,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 70 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-1 456, Nr. 370)."
+6096,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 70 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-1 456, Nr. 370)."
+61,1.0,Itelhans Berz; s. Sulzberger.
+6103,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Brida Schmid</persName>."
+6136,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+6136,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+6169,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183)."
+617,1.0,"Hiezu a. R.: ""Das ist das best."""
+6188,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+6194,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+6195,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Niklaus von Graffenried</persName>."
+6202,1.0,Cristoforo oder Ludovico Madruzzo.
+6233,1.0,"Georg Obrecht, Freund Calvins, s. u.a. Beza-Korrespondenz."
+624,1.0,vgl. auch 9. April 1550
+624,2.0,"Zu diesem vgl. Wim <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Janse, Hardenberg</bibl> als Theologe, S. 383, Anm. 231."
+6255,1.0,"Vgl. Joh. Haller, 17. Juni 1570!"
+6261,1.0,"Vgl. Phil 1, 23."
+6267,1.0,Güttingen.
+627,1.0,der Brief fangt mit 694 an
+627,2.0,Datum u. Unterschrift fehlen; viell. auf S. 694 abgebröckelt
+6279,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">&#196;gidius Tschudi</persName>."
+6279,2.0,Weesen?
+6279,3.0,Tschudi.
+628,1.0,"Hiezu v. A. Bl's Hd. a. R.: ""Das Latin haist: were ain feine sach, wann der bischoff sein unbillich recht durch die unseren wellte behopten."""
+6284,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+6299,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Bernhard Lindauer</persName>."
+6325,1.0,vgl. Diarium!
+6325,2.0,"Vgl. Mt 11, 29-30."
+6325,3.0,gönnt.
+6347,1.0,"von Schaffhausen? (ab 1567 Beat Löw, ""Beatus Leo"", auch sonst in Briefen an HRB erw.)."
+636,1.0,"die Hansestädte (""Seestädte"")."
+6390,1.0,"Anklang an den aus der römischen Messe bekannten Orationsschluß (vgl. Gwalther an HB, 3. Okt. 1538)."
+64,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Jodocus Kilchmeyer</persName>."
+6416,1.0,"Das gleiche Bild im selben Zusammenhang in: Vadian an HB, 11. April 1541!"
+6423,1.0,"Hinweis: Urkunde vom 28. März 1565, in der bestätigt wird, das der Heirat von Romanus Huͤeberli von Zürich nichts im Wege steht (Heirat in Lyon); eigenhändiger Entwurf Bullingers, in: Zürich ZB, Ms L 87, f. 92"
+645,1.0,vacabat-pertinebat: Zusatz am Rand
+645,2.0,irgendwie.
+648,1.0,"die Hansestädte (""Seestädte"")."
+649,1.0,"Am Rand a.H.: Vielleicht O. Werdmüller, der Ted....?"
+6499,1.0,vielleicht - falckn für - falckensis
+6510,1.0,"Bullinger, Krótkie opisanie ... je ein Expl. in Krakau BJ und Bibliothek Teschen (fehlt in <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBibl</bibl> I; siehe Notiz im Handexpl. bzw. Kopie der Katalogeintr&#228;ge im Ordner mit den Erg. zu HBBibl)."
+6522,1.0,Schnewli?
+6525,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 70 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-1 456, Nr. 370)."
+6536,1.0,Niklaus Köchli?
+655,1.0,"Dazu a. R.: ""Cornubenses populi sunt occidentalis Amgliae."""
+6581,1.0,Frell
+6592,1.0,Frell
+6603,1.0,Taufpatin.
+6618,1.0,"Gott des steten Wandels; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 2, 74 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 473)."
+6636,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+6649,1.0,"Ein Estienne Toucheron ist erw. in: Livre des habitants ..., Bd. 2."
+6649,2.0,plötzlichen.
+6650,1.0,erneut.
+6659,1.0,Beza.
+6659,2.0,"Bullinger nennt entgegen seiner Gewohnheit den Tagesheiligen, weil Haller Pfarrer am Berner Vinzenz-Münster war."
+666,1.0,de mand.- Christi ist v. Bullinders Hd. am R. beigefügt.
+666,2.0,v. Bull. aus confessioni korrig.
+666,3.0,"quod-habemus, ein gestrichener Zus. a. Rand"
+6694,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Susanne Bullinger, geb. Keller</persName>."
+67,1.0,Thusis (Kt. Graubünden).
+67,2.0,Kaspar Seidenstricker; s. Lohner.
+67,3.0,"Adam Frey d.J.? Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi>; Basel, Matrikel."
+67,4.0,Winterthurer.
+67,5.0,Joachim Forrer. Zu Forrer siehe Mail von RB / Extra-Umschlag Blarer 7. Juli 1553
+67,6.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johannes Gislinger</persName>."
+67,7.0,Wäber.
+6750,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Wander</bibl> III 1463."
+6764,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+6791,1.0,"sich vergeblich bemühen; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 48 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 169)."
+6796,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+6798,1.0,"Ein Franz v. Mörsberg/Morimont ist 1567 als verstorben erw., s. W. Merz, Oberrhein. Stammtafeln (Stammt. 40)."
+6807,1.0,"Ps 77, 11 (Vulg. 76, 11."
+6828,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Remedium amoris 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 287, Nr. 1470)."
+6863,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 5, 76 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 574)."
+6882,1.0,"Ecebolius, Sophist, zeitweise Christ, laut Historia tripartita Lehrer von Julian (nachprüfen!)."
+6915,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Johann Friedrich II. der Mittlere</persName>, zu Weimar(?)."
+6915,2.0,Herzog Johann Wilhelm.
+692,1.0,"Notiz von Bull's Hand: ""Hanns Zehender, radtschryber zuͦ Bern."""
+6926,1.0,"In Michael Baelde, De collaterale raden onder Karel V en Filips II, ist im Register kein Nonius oder Honius zu finden. Der einzige Rat mit Vornamen Albert ist anscheinend <persName xmlns=""http://www.tei-c.org/ns/1.0"">Albert van Loo</persName>, gest. 1571, ab 1551 ""commis"" im Finanzrat (aaO, S. 278, &#252;berpr&#252;fen!), was nicht zu dieser Briefstelle zu passen scheint."
+6926,2.0,Nachstellung.
+6945,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Michael Schwyzer</persName>."
+6951,1.0,Michael Burger?
+6957,1.0,Gänge einer Mahlzeit.
+6957,2.0,"Pfauenschwanz als Symbol Österreichs (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> IX 1033f)."
+6957,3.0,Gyula.
+6957,4.0,"Anspielung auf Pfauenschwanz als Symbol Österreichs? (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> IX 1033f)."
+6957,5.0,die Haut juckt.
+6957,6.0,"Katharina von Habsburg, 1533-1572."
+6957,7.0,"Elisabeth von Habsburg, 1526-1545."
+6959,1.0,"Vgl. Persius, Saturae, 4, 52."
+6961,1.0,"Säckler, Säckelmacher o.ä."
+6967,1.0,"Vgl. Phil 1, 23."
+6970,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Hans Rudolf Bullinger</persName> und Familie, in Berg a. Irchel."
+6970,2.0,"Abt von Rheinau von 1565 - 1598, Hans Diebold (Theobald Wehrli von Frauenfeld)."
+6970,3.0,an HB's Schwager.
+6971,1.0,Rechtsformel?
+698,1.0,Antistes.
+6981,1.0,"Gott Zebaoth (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> <hi xmlns=""http://www.tei-c.org/ns/1.0"">Ei&#223;feldt,</hi> in: RGG VI 1875f)."
+7037,1.0,"Ein Unicornius (Einhorn) 1560 in Heidelberg als Hofprediger entlassen; s. Erast an HB, 8.10.1560. Hierzu ev. Zürich StA, E II 350, 11-20 ""Ex disputatione Unicornu(?)""."
+7051,1.0,"eine Urkunde. - Ein Lehnsrevers Christoph Bullingers vom 2. Februar 1567 findet sich im Hessischen Staatsarchiv Darmstadt, A 5 Nr. 42/2. Vgl. auch <bibl xmlns=""http://www.tei-c.org/ns/1.0"">ZTB</bibl> 1930 zu Christoph Bullinger. Nach Auskunft des HStA Marburg vom 20. Juli 2004 konnten dort keine Unterlagen &#252;ber das Lehen f&#252;r Christoph Bullinger gefunden werden, weder im Lehen- und Mannbuch des <persName xmlns=""http://www.tei-c.org/ns/1.0"">Landgrafen Philipp</persName> noch in der Sammlung der Aktivlehensreverse. Auch die Akten&#252;berlieferung Philipps II. enth&#228;lt nichts &#252;ber Chr. B."
+7051,2.0,Rüdesheim.
+707,1.0,"Dan. v. Bullingers Hand: ""Guilhelmus Plancius, Gallus."""
+7084,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+7109,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Heinrich Hedinger</persName>."
+7138,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+7138,2.0,"Vgl. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+7173,1.0,wohl Bremg. b. Bern?
+7191,1.0,"Jos Dünz von Bremgarten, s. Banholzer, Gesch. Brugg, S. 294; Urk. Brugg, Reg."
+7209,1.0,"Bischof von London war Edmund Grindal, von Winchester Robert Horne (von Worcester Edwin Sandys), von Norwich John Parkhurst."
+7214,1.0,"2Thess 2, 3."
+7239,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+7239,2.0,"Pfr. Leonhard Erni in Fehraltorf (vgl. Verzeichniß des Geschlechts der Bullinger, S. 111)."
+7241,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183)."
+7246,1.0,Adresse im Original deutsch!(?)
+7248,1.0,Leonhard Erni.
+726,1.0,Dazu a. R. ... anquam recentem ... vide ne ab [saluta]tione mea excludas.
+726,2.0,Antistes.
+7271,1.0,"bei den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+729,1.0,von hier an v. Bull. geschrieben.
+729,2.0,"Auf der Rückseite von Bullingers Hand: ""Ordnung der religion in Engelland. Nüw zytung."""
+730,1.0,Daneben von Altieris Hand:
+7301,1.0,"Pfauenschwanz als Symbol Österreichs (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> IX 1033f)."
+7313,1.0,"Der Botaniker Joachim Camerarius d.J.? Dieser war ein Freund Gessners; s. G. Rath, Briefe G's ...)."
+7319,1.0,Innsbruck.
+7319,2.0,Rudolf Wyssenbach/Wyßenbach.
+7331,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Georg Grebel</persName>"
+7347,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+7347,2.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+7347,3.0,Innsbruck.
+7359,1.0,Leonhard Erni.
+7360,1.0,Rudolf Wyssenbach/Wyßenbach.
+7370,1.0,ein Churer Stadtknecht? „Minister publicus“ könnte auch auf einen Pfarrer hindeuten!
+7371,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Heroides, 1, 12."
+7371,2.0,Erhard Battmann.
+7376,1.0,Leonhard Erni.
+7392,1.0,Leonhard Erni.
+7396,1.0,Blitz.
+7396,2.0,im Winter!
+7402,1.0,Camilla Muralta.
+7402,2.0,"Vgl. Missive an Pinczow in Zürich StA, B IV 30, 78r.-v. (hier Franconic/Francovic?)."
+7403,1.0,Innsbruck.
+7408,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+7409,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 99 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 180)."
+7419,1.0,Leonhard Erni.
+744,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+7442,1.0,"sich vergeblich bemühen; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 48 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 169)."
+7444,1.0,Frell
+7468,1.0,Leonhard Erni.
+747,1.0,"in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+7473,1.0,Leonhard Erni.
+7477,1.0,Paten.
+7487,1.0,"Vgl. Zürich StA, A 170.1, Nr. 73, Räte der Bünde an die Gemeinden, 20. Juli 1568, Beilage zu einem späteren Brief? Vgl. Domenico <hi xmlns=""http://www.tei-c.org/ns/1.0"">Maselli,</hi> La lotta contro l'eresia nel carteggio di Borromeo, in: Umanesimo e teologia tra '400 e '500, Pistoia 1973. - Memorie Domenicane, Nuova Serie 4, S. 289-343, S. 303-305."
+7487,2.0,"Hinweis zu: Bullinger an [E. v. Rappoltstein], [Zürich], 10. Juni 1568 (Zürich StA, E II 350, 181): Johann V. s. = Vogler senior!"
+7492,1.0,Nîmes.
+7494,1.0,"Vgl. Joh 17, 12; 2Thess 2, 3."
+7497,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+75,1.0,"Lignum Guajacum, Harz des Guajakbaums."
+75,2.0,Tremellius.
+7503,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+7518,1.0,Leonhard Erni.
+7561,1.0,von Innsbruck.
+7561,2.0,von Hall in Tirol.
+7577,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+7606,1.0,zu ergänzen: nos.
+7628,1.0,George Wither/Withers.
+7628,2.0,"Vgl. Phil 1, 23."
+7689,1.0,Innsbruck.
+7689,2.0,Anton Klesl (Khlesl).
+7689,3.0,Innsbruck.
+7715,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Remedium amoris 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 287, Nr. 1470)."
+7762,1.0,"Bercker/Bereker? Vgl. Verzeichn. d. Geschlechts d. Bullinger 1823, S. 102."
+78,1.0,Itelhans Berz.
+7820,1.0,"Hans Jakob Wild (s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Amerbach Korr.</bibl> VII 95."
+7852,1.0,Vgl. auch das Schreiben der St. Galler Pfarrer vom 28. Jan. 1570 und Kesslers vom 2. März 1570!
+7852,2.0,Muntprat.
+790,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBibl</bibl> I 15(16?)."
+7936,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 4, 174f."
+7938,1.0,Leonhard Erni.
+7959,1.0,Nelke.
+797,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+797,2.0,"Vgl. Persius, Saturae, 4, 52."
+8,1.0,"gestrichen: ""ouch einem brieff gen Bern gehörig""."
+800,1.0,"Vgl. Vergil, Aeneis, 4, 336."
+8005,1.0,Leonhard Erni.
+8012,1.0,von Bull. korr. aus: seruans.
+8024,1.0,Bibelzitat (mehrere Stellen!).
+8024,2.0,"Explosion des Arsenals, s. E. Concina, L'Arsenale..., ZB: GN 2282."
+8035,1.0,Leonhard Erni.
+805,1.0,"Verleumder; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 81 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 515f)."
+805,2.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+8062,1.0,"Schulthess - Abschrift, am 17.6.92 von Urs Leu aus dem Zw.Ver.Archiv an <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> zur&#252;ck."
+8084,1.0,"Laut Erb, 3. Sept. 1570, eine Tochter Voglers. Gemeint ist <persName xmlns=""http://www.tei-c.org/ns/1.0"">Anna Brennwald, geb. Vogler</persName> (geb. 1518, s. Z&#252;rich ZB, Ms S 318, 7 und 8), wohnhaft im Elsass (Rappoltsweiler?) und in Erbstreitigkeiten mit ihrer Stiefmutter verwickelt; s. Z&#252;rich StA, B V 18, Reg. (Elsass erw&#228;hnt: f. 164v.) sowie B V 19, 221r.-223v."
+8084,2.0,Bremgarten.
+811,1.0,Andreas Sorsée?? Wohl eher ein amtlicher Läufer.
+8117,1.0,Teufen (Johannes von Ulm).
+8117,2.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Barbara von Hinwil</persName>."
+812,1.0,anno domini?
+8184,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBibl</bibl> I 561."
+8185,1.0,"Vgl. Cicero, ""Videant consules, ne ...""."
+819,1.0,"a.R.: ""gaudio""."
+819,2.0,"a.R.: ""suspitione""."
+819,3.0,"a.R.: ""isthaec""."
+819,4.0,"a.R.: ""imo""."
+819,5.0,"a.R.: ""negocia""."
+8207,1.0,Leonhard Erni.
+8208,1.0,Leonhard Erni.
+8244,1.0,Leonhard Erni.
+8244,2.0,Leonhard Erni.
+8244,3.0,Leonhard Erni.
+8248,1.0,Frell
+8248,2.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+8248,3.0,Leonhard Erni.
+8250,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 188, Nr. 926."
+8251,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Remedium amoris 91(f?) (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Otto</bibl> 287, Nr. 1470)."
+8262,1.0,Hans Sager (s. HLS).
+8262,2.0,Gottstatt.
+8264,1.0,Leonhard Erni.
+8269,1.0,Genf
+8269,2.0,Bern
+8269,3.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Wander</bibl> III 1716, Nr. 52."
+8271,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Sat., 1, 7, 3 (u.a.?)."
+8271,2.0,Leonhard Erni.
+828,1.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Original Letters</bibl> I 189."
+83,1.0,bevoran bereit: vorab entboten.
+83,2.0,biederen Menschen; Ehrenmännern.
+83,3.0,Nicht erhalten.
+83,4.0,eehafften = ehehaften: rechtmäßigen; legitimen.
+83,5.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Beat Gering</persName>."
+83,6.0,Beromünster (Kt. Luzern).
+83,7.0,Aargau. - Durch die Eroberung des Aargaus durch die Eidgenossen kam 1420 (Bero)münster an Luzern.
+83,8.0,gewesen.
+83,9.0,Unbekannt.
+83,10.0,unehelich.
+83,11.0,außerhalb der Ehe.
+83,12.0,er hat dies auch hier in Zürich nicht geleugnet.
+83,13.0,angehängt; hinzugefügt.
+83,14.0,er wäre noch nicht besser unterrichtet gewesen; er hätte es noch nicht besser gewusst.
+83,15.0,Unbekannt.
+83,16.0,Unbekannt.
+83,17.0,sich vergangen.
+83,18.0,ergriffen.
+83,19.0,Einsiedeln.
+83,20.0,"Der sogenannte Finstere Wald erstreckt sich im Norden bis zu den Wollerauer und Pfäffiker Höfen, im Osten an die March bis an die Ufer des oberen Zürichsees, im Süden bis zur Gebirgskette, die sich links durch das Tal Glarus, rechts durch die Länder Uri, Schwyz und Unterwalden zieht, und im Westen bis an die Altmatt. Vgl. P. Justus <hi xmlns=""http://www.tei-c.org/ns/1.0"">Landolt,</hi> Ursprung und erste Gestaltung des Stiftes Maria-Einsiedeln nebst einem Anhange &#252;ber die Engelweihe und die Wallfahrt, Einsiedeln 1845, S. 2."
+83,21.0,Wettingen (Kt. Aargau).
+83,22.0,"Dietikon (Kt. Zürich), damals - zufolge der Eroberung des Aargaus - Teil der Vogtei Baden."
+83,23.0,Schaffhausen.
+83,24.0,"Dies geschah im Mai 1533; s. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Wipf,</hi> 309; <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> III, Nr. 223."
+83,25.0,"Im Juli 1534; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> IV, Nr. 394. 398. 403."
+83,26.0,eifrig.
+83,27.0,gewesen.
+83,28.0,Dienerin. - Agathe [...]; s. unten Anm. *56.
+83,29.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Sabinella Gering, geb. Buchser</persName>; vgl. unten Z. *46f. und Anm. *40."
+83,30.0,Dirne.
+83,31.0,ihr gedroht.
+83,32.0,Ehegericht.
+83,33.0,üble Taten; Frevel.
+83,34.0,"Am 28. Februar 1538; s. Zürich StA, YY 1.5, 1026f."
+83,35.0,in den Turm.
+83,36.0,"Gering musste drei Tage büßen und durfte ein Jahr lang nicht heiraten. Am 10. März 1538 wurde er entlassen. Vgl. Zürich StA, G I 1, Nr. 174."
+83,37.0,Aarau.
+83,38.0,"Suhr (Kt. Aargau). - Dort wohnte Sabinellas Bruder, der zur Reformation übergetretene Leutpriester Johannes Buchser; s. oben <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW II</bibl> 126, Anm. 1; IX 111, Anm. 11."
+83,39.0,amtliches oder schriftliches Zeugnis.
+83,40.0,kein.
+83,41.0,bisher.
+83,42.0,wenn.
+83,43.0,Zu ergänzen ist: versprochen.
+83,44.0,Zu ergänzen ist: übel (oder: nicht).
+83,45.0,nicht schon gegeben hätten.
+83,46.0,"Zu verstehen: Als das zuvor erwähnte Gerücht herumging (nämlich, dass er der Magd die Ehe versprochen hätte, noch ehe er geschieden war)."
+83,47.0,von uns allen Abschied zu nehmen.
+83,48.0,"nach der Lektion. - Damit ist wohl die fast alltäglich gehaltene Lesung der Prophezei gemeint; s. Gottfried W. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Locher,</hi> Zwingli und die schweizerische Reformation, G&#246;ttingen 1982, S. J 33."
+83,49.0,die Magd.
+83,50.0,Zu verstehen: er hätte sie nicht als [Ehefrau] genommen; er hätte ihr nicht die Ehe versprochen.
+83,51.0,jemals.
+83,52.0,"Das Gasthaus ""Sternen"", dem damaligen Rathaus gegenüber; s. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Banholzer,</hi> aaO, S. 25."
+83,53.0,Zu verstehen: Wider eure und unsere Kirchenordnung.
+83,54.0,"Am 12. Mai 1539 in Straßburg. Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> X/A, S. 71, zu <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW VIII</bibl> 266, Z. 53-57. Agathe [...] war im Jahr 1541 verstorben; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW</bibl> XI 347, 43."
+83,55.0,gönnen.
+83,56.0,"Ruf, Leumund."
+83,57.0,da wir nur etwas gegen seinen üblen Lebenswandel haben.
+83,58.0,als.
+83,59.0,"Ein entsprechendes Schreiben liegt nicht vor, vgl. aber die Bemerkung im Brief Bullingers an Vadian vom 1. Oktober 1541 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Vadian BW VI</bibl> 75): ""A Basilaea et Berna nihil nunc memorabile habeo, nisi quod aiunt Beatum illum, qui superiore anno propter adulterium sacerdotio et ministerio exutus est a Tigurinis, ab Argentorato Bernam vocari ad ministerium verbi, unde nonnihil turbarum metuo oriturum; est enim homo ingenii arrogantissimi ac pravi. Monui ego quosdam ex primoribus; sed fortassis in fatis est, ut talem habeant."""
+83,60.0,gönnen wir nicht.
+83,61.0,einen solchen.
+83,62.0,benachbarten.
+83,63.0,hat uns zum Verdruss gereicht; ist uns zuwider.
+83,64.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> XIII 42 u., hier im Sinne von: zumal."
+83,65.0,verleihe; gewähre.
+83,66.0,"In der Abschrift Simlers Quellenangabe ""Bibliotheca clariss. prof. Breitingeri, ex autogr. Bullingeri"", dazu der Vermerk ""Beylag A."" (zum Brief an Vadian, 1. Okt. 41)."
+8305,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+8317,1.0,Leonhard Erni.
+8330,1.0,Peloponnes.
+8330,2.0,Wellenberg.
+8330,3.0,Möhr.
+8330,4.0,"als Subdiakon 1566 (laut Wirz, Etat des Zürcher Ministeriums, S. 209; nachprüfen u.a. in StAZ, G I 179) Nach Herm. Walser, Gesch. der Laurenzen- oder Stadtkirche Winterthur, II. Teil, S. 52, wurde ihm der Schulmeisterdienst 1567 angeboten (war damals in der Pfalz). Quelle offenbar: Chronik von Ulrich Meyer, Stadtbibl. Winterthur, 4 Ms 102, 184v.-185r.: neuer Schulmeister am 19. 2. 1567, kam aus Heidelberg, stammte aber aus Graubünden (mit Details betr. Empfehlung, die er aus Frauenfeld erhielt)."
+8333,1.0,Möhr.
+8337,1.0,Wein aus Berg am Irchel??
+8378,1.0,"Siehe <bibl xmlns=""http://www.tei-c.org/ns/1.0"">HBBW V</bibl> 363, Anm. 13."
+84,1.0,"Bullinger soll Absetzung empfohlen haben; s. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Stucki</bibl> an Beza, 4. M&#228;rz 1588!"
+8415,1.0,Johann Weyer; s. Handwörterbuch zur deutschen Rechtsgeschichte V 1344-1346.
+8422,1.0,Leonhard Erni.
+8426,1.0,das heißt wohl: für das was zuletzt steht (nämlich: Dankesschuld)
+8426,2.0,?
+8426,3.0,Simler: congressu
+8426,4.0,Tod der Tochter Katharina (wann genau?).
+8426,5.0,Welche ist gemeint?
+8426,6.0,Verena Zwingli?
+8426,7.0,"Das Epitaph auf Brenz stammt gemäß freundlicher Auskunft von Prof. Dr. Martin Brecht, Brief von 1973 liegt bei Sven-Fischer-Abschriften vom Tübinger Professor artium <persName xmlns=""http://www.tei-c.org/ns/1.0"">Leonhard Engelhart</persName>, der aus Schw&#228;bisch Hall stammte und 1572 P&#228;dagogarch in Stuttgart wurde. Es ist gedruckt in: Jakob <hi xmlns=""http://www.tei-c.org/ns/1.0"">Heerbrand,</hi> Oratio funebris de vita et morte reverendi viri [...] D. Ioannis Brentii, T&#252;bingen 1570, S. 84. Vgl. Wulf Segebrecht (Hg.), T&#252;binger Epicedien zum Tod des Reformators Johannes Brenz (1570), Frankfurt am Main 1999. Kommentiert von Juliane Fuchs und Veronika Marschall unter Mitwirkung von Guido Wojaczek. - Helicon. Beitr&#228;ge zur deutschen Literatur 24, S. 118-123."
+8426,8.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Kaspar Wolf</persName> und Georg Keller?"
+8426,9.0,"Abraham Musculus? Abraham Hartmann (s. <hi xmlns=""http://www.tei-c.org/ns/1.0"">Pfarrerbuch</hi> 321)? ein anderer?"
+8437,1.0,Leonhard Erni.
+8448,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+8467,1.0,Bibelzitat (mehrere Stellen!).
+8472,1.0,Leonhard Erni.
+8500,1.0,Aristoteles(?).
+852,1.0,Schmutz.
+8564,1.0,Zu den Bräuchen am Urbanstag s. Handwörterbuch des dt. Aberglaubens VIII 1497f.
+8587,1.0,"Siehe <hi xmlns=""http://www.tei-c.org/ns/1.0"">Senn,</hi> Wickiana 184."
+859,1.0,"Vgl. Ps 65, 12 (Vulg.)."
+8592,1.0,Darius Scala? Eher: Dario Sozzini.
+8592,2.0,"Vgl. Lk 3, 17."
+8623,1.0,"Vgl. Joh 17, 12; 2Thess 2, 3."
+8625,1.0,Matr. Marburg.
+864,1.0,"zu den kaiserlichen Hofärzten findet sich einiges in der Vesalius-Biogr. von Moritz Roth, z.B. (außer Vesalius selbst) Cornelius Barsdorpius/Baersdorp und Nicolaus Florenas; weitere Namen dort S. 203. 206. Siehe auch Mameranus, Catalogus familiae totius aulae caesareae [...] (Stand 1547/48), Köln 1550."
+8644,1.0,Leonhard Erni.
+8650,1.0,"Vielleicht Wolfgang Zündelin, einer der ""scrittori d'avisi"" in Venedig, später in kurfürstl.-sächs. Diensten; s. Theodor Gustav <hi xmlns=""http://www.tei-c.org/ns/1.0"">Werner,</hi> Das kaufm&#228;nnische Nachrichtenwesen ...., in: Scripta Mercaturae 1975, S. 3-53, hier S. 26.(Hinweis von F. Mauelshagen). Angaben evtl. aus der Lit. &#252;ber die Fuggerzeitungen (Joh. Kleinpaul 1921)? Der Name kommt in Konstanzer Steuerb&#252;chern &#246;fter vor."
+8656,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+867,1.0,"hilflos, verlassen; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Lexer</bibl> s.v. wiselos."
+868,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/3 290-292, Nr. 1272)."
+868,2.0,Hooper.
+868,3.0,Nach Meinung von Derek A. Scales (briefl. Mitteilung März 2004) sind die Vornamen falsch; es handelt sich wohl um John Willock und Ralph Skinner.
+8687,1.0,Pfund?
+8687,2.0,"Vgl. Die Wickiana. <persName xmlns=""http://www.tei-c.org/ns/1.0"">Johann Jakob Wicks</persName> Nachrichtensammlung aus dem 16. Jahrhundert. Texte und Bilder zu den Jahren 1560-1571, ausgew&#228;hlt, kommentiert und eingeleitet von Matthias Senn, K&#252;snacht-Z&#252;rich 1975, S. 212 (um eine Sonnenfinsternis kann es sich zum angegebenen Zeitpunkt nicht gehandelt haben; vgl. Theodor von <hi xmlns=""http://www.tei-c.org/ns/1.0"">Oppolzer,</hi> Canon der Finsternisse, Wien 1887. - Denkschriften der Kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe 52, S. 264). (ZB: USN 111: be). 1571 in Europa sichtbare Sonnenfinsternisse: 25. Jan. (Nr. 6594); unsichtbar: 22. Juli (Nr. 6595). Vgl. auch Christoph H. Brunner, Glarner Geschichte in Geschichten, S. 174. Ders., &#171;Hindurch und wieder hindurch.&#187; Zum Briefwechsel B&#228;ldi-Bullinger (1560/71), in: Jahrbuch des Historischen Vereins des Kantons Glarus, 83, 2003, 61-79 zitiert hierzu (auf S. ??) Glarner Chronik von Joh. Heinr. Tschudi 1714."
+8695,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Vergil,</hi> Aeneis, 1, 199."
+8695,2.0,Leonhard Erni.
+8698,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+87,1.0,"Vgl. Sueton, Augustus, 85, 2."
+8700,1.0,"Tokaj? Vgl. ""victoria ... Tokaica"" im nächsten Brief!"
+8701,1.0,Möhr.
+8701,2.0,Möhr.
+8713,1.0,Möhr.
+8716,1.0,"Geilinger? Ein Hans Geilinger schrieb 1569 als Kriegsmann aus Frankreich; s. Troll, Gesch. der Stadt Winterthur I 67ff."
+8730,1.0,"Vgl. Joh 17, 12; 2Thess 2, 3."
+8754,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+876,1.0,anno domini?
+8770,1.0,Innsbruck.
+8773,1.0,Leonhard Erni.
+8796,1.0,Münzmeister Hans Vogler d.J.
+8796,2.0,Augsburg.
+880,1.0,Anno domini?
+8808,1.0,"Vgl. z.B. Titus Livius, Ab urbe condita, 8, 13, 17."
+882,1.0,a.R.: [ab]legandis[...].
+882,2.0,a.R.: nostri.
+8837,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 91 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 216f)."
+8848,1.0,Jakob Wyss.
+8854,1.0,"Vgl. Joh 17, 12; 2Thess 2, 3."
+8873,1.0,"irrtümliche Identifikation des neuen Statthalters (Luís de Zúñiga y Requesens, Commendador Mayor de Castilla) mit dem (ebenfalls neuen) Großmeister des Malteserordens Jean de la Carrière?"
+8920,1.0,Blitz.
+8921,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Epistulae, 1, 18, 84."
+8925,1.0,"Die drei katholischen Landorte Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+8946,1.0,"Vgl. Gen 15, 16."
+8951,1.0,"Zu den von Robert Horne den Chorherren geschenkten 10 Kronen existiert eine Abrechnung von Bullingers Hand in Zürich ZB, Ms R 136, Nr. 2, eingeschobener Zettel bei 1568/69, Notiz dazu bei 1572."
+8958,1.0,"In den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+896,1.0,Boltz.
+8969,1.0,Zwingli?
+8980,1.0,"Vgl. Sueton, Augustus, 85, 2."
+8982,1.0,"Zeichnung mit Gedicht in Zürich ZB, Ms F 21, 179v.-180r. (Überschrift 179r.: ""Eigentliche Abconterfetung deß Roggenstocks zuͦ Chur 1572""); Begleitschreiben Bullingers (Abschrift Wicks) ebd., 178v. (Druck: PAS II 9/7) [nachprüfen!]."
+8992,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Ovid,</hi> Heroides, 1, 12."
+8997,1.0,Leonhard Erni.
+8998,1.0,Zwingli.
+9,1.0,Tschudi.
+90,1.0,"Claude d'Aliod, Claudius von Savoyen; IV 158*"
+90,2.0,"Ein Eintrag zu seinem Schuldenhandel in: Stadtarchiv KN, H V Schuld- und Gantbücher Bd. 6, 5. Juli 1548. Kläger: ""Burckhart Schlaich als vogt Lentzen Clossmens Kinder"", es geht um ausstehende Zinsen; wenn Aliodi nicht bis Konstanzer Kilchweih zahlt, wird sein Unterpfand (ein Haus) fällig. Siehe Ordner ""Unterlagen zu Biographien""."
+9062,1.0,"wörtlich; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Hoven</bibl> 378."
+9065,1.0,Leonhard Erni.
+9092,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+9095,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 1, 40 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 43)."
+9106,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+9108,1.0,Möhr.
+9108,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 5, 76 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 574)?"
+9110,1.0,erneut.
+9114,1.0,Werdmüller.
+9128,1.0,"Dazu: Zürich StA, E II 441, 6-8; Zürich ZB, Ms B 13, 161r.-162v."
+9128,2.0,"Rapsaces Hohnsprechen und Sennacheribs Schmähschrift..., [Basel] 1573. (1 Ex. in Simler-Slg.)."
+9155,1.0,"<hi xmlns=""http://www.tei-c.org/ns/1.0"">Horaz,</hi> Sat., 1, 7, 3 (u.a.?)."
+9155,2.0,Innsbruck.
+9155,3.0,Johannes Wegmann.
+9155,4.0,"Vgl. Kingdon, Myths about the St. Bartholomew's Day Massacres, S. 112ff."
+916,1.0,Hooper.
+9165,1.0,"Vgl. Livius, Ab urbe condita, 9, 19, 15."
+9171,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+9185,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+9187,1.0,"Die Schmähung des Papstes als ""hellischer vater"" begegnet u.a. auch bei Luther; vgl. etwa <bibl xmlns=""http://www.tei-c.org/ns/1.0"">WA</bibl> XVIII 257, Glosse a."
+9187,2.0,Woiwode.
+919,1.0,a.R.: ... instar? ... loco?
+9202,1.0,"Vgl. Laktanz, De ira dei, 24, 10."
+9208,1.0,"Vgl. Sueton, Augustus, 85, 2."
+9208,2.0,"Vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 5, 4 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 183)."
+9243,1.0,Etienne Le Gresle.
+9249,1.0,Etienne Le Gresle.
+927,1.0,Boltz.
+9296,1.0,Innsbruck.
+93,1.0,Hansestädte.
+93,2.0,Lit.: Aus der Werkstatt der Amerbach-Edition (Gd XVII 1115).
+932,1.0,Gering.
+9357,1.0,"Luís de Zúñiga y Requesens, Commendador Mayor de Castilla?"
+9382,1.0,"Siehe ZBZ, Ms F 22, 587-592 (evtl. auch 617?); davon abhängig Joh. Hallers Fortsetzung von Bullingers Chronik u. Scheuchzers ""Naturgeschichten des Schweizerlandes"". (Hinweis v. F. Mauelshagen)."
+942,1.0,"Andreas oder Salomon Rappenstein? Vgl. Lohner 212. Näheres im Berner Ratsmanual? (Auszüge in Bern Burgerbibl., Ms. Hist. helv. XI 43)."
+9436,1.0,Verena Zwingli.
+9451,1.0,Leonhard Erni.
+9469,1.0,Leonhard Erni.
+9471,1.0,Amport
+948,1.0,Boltz.
+9480,1.0,Leonhard Erni.
+953,1.0,Gessner?
+9549,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 9, 63 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 676f)."
+9583,1.0,"Johann Hasler, Antitrinitarier, s. Bähler im Neuen Berner TB 1921."
+959,1.0,bevoran ... bereitt: vorab entboten.
+9616,1.0,Leonhard Erni.
+9631,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+964,1.0,Hieronymus Frank/Franck (Girolamo Franco).
+9641,1.0,Blauner.
+9660,1.0,Uff siben Klagartickel ...
+9660,2.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+9668,1.0,Etienne Le Gresle.
+9688,1.0,"Lauscher; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 2, 44 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II ...)."
+969,1.0,a.R.: me.
+9711,1.0,"<persName xmlns=""http://www.tei-c.org/ns/1.0"">Blasius Marcuard</persName>."
+9736,1.0,"Vertumnus: Gott des steten Wandels; vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 2, 74 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 473)."
+9736,2.0,Etienne Le Gresle.
+977,1.0,Waldenburg (Kt. Basel-Land).
+977,2.0,"Wilhelm Hildtoch; s. Karl Gauß, Basilea reformata, Basel 1930, S. 34."
+9776,1.0,"in den drei katholischen Landorten Uri, Schwyz und Unterwalden (vgl. <bibl xmlns=""http://www.tei-c.org/ns/1.0"">SI</bibl> III 1298)."
+9776,2.0,Interlaken.
+9808,1.0,Etienne Le Gresle.
+9833,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl> 1, 9, 83 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II/2 396, Nr. 883)."
+984,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 2, 3, 72 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">ASD</bibl> II-3 290-292, Nr. 1272)."
+9848,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+985,1.0,Ludwig von Reischach?
+9852,1.0,"<bibl xmlns=""http://www.tei-c.org/ns/1.0"">Adagia</bibl>, 1, 4, 26 (<bibl xmlns=""http://www.tei-c.org/ns/1.0"">LB</bibl> II 160f)."
+986,1.0,"Vgl. Spr 26, 11; 2Petr 2, 22."
+9864,1.0,"Albert von Belfort, Albertus Belfortis, in Lyon(?), s. auch Gessners Widmungsvorrede zu ""Apparatus et delectus ..."" 1542 (am Ende); Joh. Alb. Fabricius, Bibliotheca Graeca, S. 45; Jean Astruc, De morbis venereis, S. 789."
+9864,2.0,Lavater? möglicherweise Fehler für: Wikius??
+9864,3.0,abitum? (Bonhomini war 1579 in Appenzell!).
+9864,4.0,"Nach der Note bei à Porta a.a. O. ist ein letztes Blatt mit dem Datum verloren gegangen; à Porta glaubt, der Brief sei kurz vor Bullingers Tod (17. September 1575) geschrieben; jedenfalls fällt er nicht vor den August 1574, wo Campell Cur verliess, und eher erst in das Jahr 1575."
+989,1.0,Horaz?
+9955,1.0,Etienne Le Gresle
+9990,0.0,= danach.
+9990,1.0,kleiner und grosser Rat.
+9990,1.1,= danach.
+9990,1.2,= Lehre.
+9990,2.0,"Zweites Helvetisches Bekenntnis, 1566."
+9990,3.0,veröffentlichten.
+9990,4.0,"listiges Ränkespiel, Intrigieren."
+9990,5.0,war.
+9990,6.0,"unverschämt, dreist."
+9990,7.0,"zudringlich, lästig."
+9990,8.0,streitsüchtig.
+9990,9.0,"zugeneigt, wohlgesinnt."
+9990,10.0,herrschsüchtig.
+9990,10.1,= die.
+9990,11.0,"Ruhe und Unruhe, Unfriede."
+9990,12.0,Gwalther.
+9990,13.0,Buchdruck.
+9990,14.0,behindern.
+9990,15.0,rechtschaffene.
+9990,16.0,urteilt nicht nach dem Rang einer Person.
+9990,17.0,"wüstes Tun, Schmutz."
+9990,18.0,Almosen[-Amt].
+9990,19.0,großes.
+9990,20.0,notwendigem Bedarf.
+9990,21.0,irgend etwas.
+9990,22.0,barsch abfertigen.
+9990,23.0,plagen.
+9990,24.0,Einheimischem.
+9990,25.0,missgünstig.
+9990,26.0,aufsässig.(?)
+9990,27.0,"wert, geachtet."
+9990,28.0,Einnahmen aus Reisläufer-/Söldner-Vermittlung.
+9990,29.0,draussen.
+9990,29.1,= danach.
+9990,30.0,"Heller, eine Münze."
+9990,31.0,sehr.
+9990,32.0,von dort.
+9990,33.0,oben erwähnt.
+9990,34.0,"mir genügt, zufrieden gestellt."
+9990,35.0,besser.
+9990,36.0,einschießen.
+9990,37.0,meinen [Pfarr-]Dienst für gut erachten.

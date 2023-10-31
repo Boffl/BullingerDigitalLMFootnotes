@@ -3,6 +3,7 @@ from tqdm import tqdm
 import os
 import sys
 import shutil
+import csv
 
 infolder = sys.argv[1]
 
@@ -24,7 +25,7 @@ def get_files_with_footnotes():
             shutil.copyfile(filepath, new_filepath)
 
 def get_all_footnotes():
-    """get all footnotes into a file"""
+    """get all footnotes into a separate xml file"""
 
     # create root element
     namespaces = {None: 'http://www.tei-c.org/ns/1.0'}
@@ -68,6 +69,47 @@ def get_all_footnotes():
 
     # print(etree.tostring(footnote_root, pretty_print=True).decode('utf-8'))
 
+def put_footnotes_in_csv():
+    """get all footnotes into a csv file, to look at them"""
+
+    # define namespace
+    namespaces = {None: 'http://www.tei-c.org/ns/1.0'}
+    # open outfile
+    with open('all_notes.csv', 'w', encoding='utf-8', newline='') as outfile:
+
+        csv_writer = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, doublequote=True)
+        csv_writer.writerow(['letter_id', 'n', 'text'])  # column names
+
+        # iterate through all files
+        filenames = os.listdir(infolder)
+        for filename in tqdm(filenames):
+            letter_id = filename.split('.')[0]
+            filepath = os.path.join(infolder, filename)
+            with open(filepath, 'r', encoding='utf-8') as f:
+                tree = etree.parse(f)
+            root = tree.getroot()
+
+            # find footnotes
+            footnotes = root.findall(".//note[@type='footnote']", namespaces)
+            if footnotes:
+                # add all the footnotes to the element (not the editorial ones)
+                for footnote in footnotes:
+                    # Note apparently there is this bug that if a closin tag is followed by a white-space char, the
+                    # following text is considered a 'tail' of the node and is included. We don't want it so we remove it
+                    footnote.tail = None
+                    # Check if the attribute n is a number, if not it is an editorial comment and we can move on
+                    try:
+                        n = float(footnote.get('n'))
+                        text = footnote.text
+                    except ValueError:
+                        continue
+                    if text:  # sometimes text will be none
+                        text += ''.join([etree.tostring(sub).decode('utf-8') for sub in footnote])
+                    else:
+                        text = ''.join([etree.tostring(sub).decode('utf-8') for sub in footnote])
+
+                    # write the data as a row
+                    csv_writer.writerow([letter_id, n, text])
 
 if __name__ == '__main__':
-    get_all_footnotes()
+    put_footnotes_in_csv()
