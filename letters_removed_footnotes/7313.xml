@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file7313" type="Brief" source="TUSTEP" n="37144">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern AN [Heinrich Bullinger], 29. November 1567</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 370,448</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Accepi heri sub noctem tuas, quibus mihi obitum praestantissimi vestri M&#252;lleri significas</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/7313">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+					<date when="1567-11-29" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file7314"/>
+					<ref type="prev_chronologically" target="file7312"/>
+					<ref type="next_correspondence" target="file7341"/>
+					<ref type="prev_correspondence" target="file7303"/>
+					<ref type="next_correspondence_request" target="file7341"/>
+					<ref type="prev_correspondence_request" target="file7303"/>
+					<ref type="next_correspondence_reaction" target="file7606"/>
+					<ref type="prev_correspondence_reaction" target="file7051"/>
+					<ref type="next_same_sender" target="file7341"/>
+					<ref type="prev_same_sender" target="file7303"/>
+					<ref type="next_same_addressee" target="file7314"/>
+					<ref type="prev_same_addressee" target="file7311"/>
+					<ref type="next_with_sender_as_addressee" target="file7341"/>
+					<ref type="prev_with_sender_as_addressee" target="file7303"/>
+					<ref type="next_with_addressee_as_sender" target="file7314"/>
+					<ref type="prev_with_addressee_as_sender" target="file7311"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/7313%2FAutograph%2F00%20E_II_370__fol__448_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">7313/Autograph/00 E_II_370__fol__448_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/7313%2FAutograph%2F01%20E_II_370__fol__448_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">7313/Autograph/01 E_II_370__fol__448_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Accepi heri sub noctem tuas, quibus mihi obitum praestantissimi consulis vestri M&#252;lleri significas, deplorandum sane non vestrae modo reipublicae, sed piis bonisque omnibus.</s>
+					<s n="3" xml:lang="la" type="auto">Valde itaque eo nuncio perculsus sum; oro autem dominum, ut pro ipso vobis det alium non minus pium et prudentem, quamvis sciam, quam raro tales contingant et quam exiguum vos quoque talium habeatis numerum.</s>
+					<s n="4" xml:lang="la" type="auto">Hodie affert mihi hic Ioachimi Camerarii filius</s>
+					<s n="5" xml:lang="la" type="auto">Bene itaque vale.</s>
+					<s n="6" xml:lang="la" type="auto">Dominus te servet et ecclesi&#281; su&#281; supra modum periclitanti clementer succurrat!</s>
+					<s n="7" xml:lang="la" type="auto">De conflictu illo Lutetiano legatus regius Salodoro senatui nostro magnifice et thrasonice admodum scripsit Condensem esse profligatum, amisisse maximas copias, conestabilem esse quidem occisum, sed ex Helvetiis, qui strenue se gesserint, ne unum quidem occubuisse.</s>
+					<s n="8" xml:lang="la" type="auto">Sed ut fides istius literis non est habita, ita veriora sunt, qu&#281; nunc ex Bezae literis intelliges.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Bene iterum vale.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Bernae penultima novembris 1567.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">I[ohannes] Hall[erus] tuus.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Clarissimo doctissimoque viro d. Heinrycho Bullingero, Tigurinae ecclesiae pastori fidelissimo, domino meo honorando et compatri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

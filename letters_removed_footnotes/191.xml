@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file191" type="Brief" source="TUSTEP" n="18156">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern AN Heinrich Bullinger / Z&#252;rich, 13. Juli 1548</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 370,73 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Lieber herr gfatter, &#252;wer beide schriben dess erschrockenlichen falss der schw&#228;bischen stetten bk&#252;mmeret mich</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 67,85</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/191">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+					<date when="1548-07-13" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file192"/>
+					<ref type="prev_chronologically" target="file190"/>
+					<ref type="next_correspondence" target="file201"/>
+					<ref type="prev_correspondence" target="file185"/>
+					<ref type="next_correspondence_request" target="file201"/>
+					<ref type="prev_correspondence_request" target="file185"/>
+					<ref type="next_correspondence_reaction" target="file320"/>
+					<ref type="prev_correspondence_reaction" target="file13018"/>
+					<ref type="next_same_sender" target="file201"/>
+					<ref type="prev_same_sender" target="file185"/>
+					<ref type="next_same_addressee" target="file196"/>
+					<ref type="prev_same_addressee" target="file190"/>
+					<ref type="next_with_sender_as_addressee" target="file201"/>
+					<ref type="prev_with_sender_as_addressee" target="file185"/>
+					<ref type="next_with_addressee_as_sender" target="file196"/>
+					<ref type="prev_with_addressee_as_sender" target="file190"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="164">Latein</language>
+				<language ident="de" usage="836">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/191%2FAutograph%2F00%20E_II_370__fol__73_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">191/Autograph/00 E_II_370__fol__73_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/191%2FAutograph%2F01%20E_II_370__fol__73_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">191/Autograph/01 E_II_370__fol__73_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/191%2FAutograph%2F02%20E_II_370__fol__74_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">191/Autograph/02 E_II_370__fol__74_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/191%2FAutograph%2F03%20E_II_370__fol__74_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">191/Autograph/03 E_II_370__fol__74_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gottes gnad zu&#870;vor!</s>
+					<s n="2" xml:lang="de" type="auto">Lieber herr gfatter, &#252;wer beide schriben de&#223; erschrockenlichen fal&#223; der schw&#228;bischen stetten bk&#252;mmeret mich und alle gu&#870;thertzigen christen nitt wenig.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Gott erbarm, das e&#223; darzu&#870; kumpt, das die frommen l&#252;t ire kilchen verla&#223;en und inn das ellend m&#252;&#223;end und alle abg&#246;ttery so gwaltig innistet.</s>
+					<s n="4" xml:lang="de" type="auto">Wir bittend gott stet, das er alle die gnediklich erhalte, die uff sin einige hilff vertr&#246;st der luge und trugnu&#223; sich widersetzend.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Wie ir aber der vertribnen br&#252;deren, sonderlich Musculi halb ernstlich schribend, das wir das best thu&#870;n und &#252;ch gu&#870;te antwort wellind w&#252;&#223;en lan, wil ich &#252;ch allen bscheid schriben, was ich gehandlet und wie es stand.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Uff &#252;wer schriben han ich die br&#252;der all zemmen gnan, mitt inen beradtschlagt, sonderlich Musculi halb, wie imm zu&#870; thu&#870;n, diewyl er nitt nun von mir, sonder auch von &#252;ch als unserm aller vatter s&#246;lich testimonium habe; sie auch gebetten, inn f&#252;r empfolen ze han, anzeigt, wie er sich allweg gegen mir ghalten.</s>
+					<s n="7" xml:lang="de" type="auto">Daruff si sich nun de&#223; bedacht, si m&#246;chting wol Musculo alles gu&#870;ts gunnen und thu&#870;n; die wyl si aber bi n&#252;wen u&#223; dem span kan und Musculi b&#252;cher verhanden syend und sonderlich by der widerpart f&#252;r gro&#223; und helig geachtet werdind, m&#246;chte sich lichtlich hie durch der span wider erheben oder zum wenigsten der gegentheil die k&#246;pf wider strecken und ein h&#252;gen han, so der, der ir meinung wer, also in kem; bsorgend auch, die widerwertigen von der burgerschafft wurdind sich an inn hencken, das bald widerumb ein zwyend&#223; gebe, es were denn sach, das er durch ein offen gschrifft imm truck sich erklerte und bekante, wie sine gschrifften zu&#870; verstan und was jetz sein meinung were, das si doch auch nitt eerlich hieltind, so er als vil al&#223; widerru&#870;ffte.</s>
+					<s n="8" xml:lang="de" type="auto">Derhalben ir meinung, da gantz still zu&#870; stand; denn es nitt wenig unruwen geberen wurde.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Welch&#223;, diewyl es ansehens gnu&#870;g hatt, han ich nitt darwider k&#246;nnen, doch si gebetten, diewyl mir nitt zwyfle auch uff &#252;wer zugnu&#223; hin, dann das er uffrecht sye, welle ich &#252;ch unser bschwerd alle zu&#870;schriben, &#252;wer&#223; rad&#223; und bscheid&#223; dar&#252;ber zu&#870; erwarten, das inen auch nitt mi&#223;fallen.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Desselben tags, nachdem wir selichs gehandlet, kumpt der ander brieff mittsampt de&#223; h(erren) N&#228;geli&#223;.</s>
+					<s n="11" xml:lang="de" type="auto">Ich bru&#870;fft si all ylend zemen, la&#223; inen &#252;wer trungenlich beger der gmeinen not und sonderlich widerumb Musculi halben, fand ettlich gu&#870;twillig, doch nitt all, die do meintind, wir s&#246;ttind uns keine Schwaben uff den hal&#223; laden; es wer nie n&#252;t gu&#870;ts u&#223; inen gfolget, und so man die ufnem, wurde der lauff gar volgen etc. mitt derglichen mer.</s>
+					<s n="12" xml:lang="de" type="auto">Ich ermannt sie zu&#870; betrachten, das inn der gmeinen not weder Schwytzer noch Schwab zu&#870; bedencken wer, sonder was christenl&#252;ten ampt wer, was barmhertzigkeit, gott gefiele und er an uns forderte.</s>
+					<s n="13" xml:lang="de" type="auto">Hett gern ghan, das sie all mitt mir werind f&#252;r radt gangen und al&#223; christenliche br&#252;der helffen f&#252;r die armen bitten inn der tringenden not.</s>
+					<s n="14" xml:lang="de" type="auto">Ich m&#246;cht e&#223; aber nitt erlangen; si woltend nitt f&#252;r sch&#252;&#223;en, minen herren ein last ufzu&#870;trucken.</s>
+					<s n="15" xml:lang="de" type="auto">Das schrib ich &#252;ch allein vertruwlich, das ir sehind, wie gar hie die gm&#252;ter '&#252;ber alle die erbitteret, die nun ushin inhin kommend, wie si joch gsinnet syend, das ich inen, al&#223; die das lang z&#228;nck erhitzget hatt, nitt zu&#870; argem rechnen.</s>
+					<s n="16" xml:lang="de" type="auto">W&#246;lt doch, si werind mansuetiores und lie&#223;ind nunme die milch nider.</s>
+					<s n="17" xml:lang="de" type="auto">Ich seit inen, ich wurde bi minen herren darumb anhalten, wie ir mich hie&#223;ind, damitt &#252;ch gu&#870;te antwort, wie ir begerend, werden m&#246;chte.</s>
+					<s n="18" xml:lang="de" type="auto">Gieng daruff zu&#870; dem h(erren) schuldthe&#223; N&#228;geli, bracht imm den brieff, zeigt imm auch Musculi halb, wie die sach st&#252;nd, was ir mir beide mal geschriben; batt, inn und andre befolchen ze haben.</s>
+					<s n="19" xml:lang="de" type="auto">Er gab mir auch sin brieff zu&#870; lesen, enbot sich vil gu&#870;ts; doch w&#246;lle er den handel an min herren langen lan.</s>
+					<s n="20" xml:lang="de" type="auto">Am donstag bracht er&#223; f&#252;r radt; erkantend min herren, man s&#246;lte mich bschicken, diewyl ich Musculi kuntschafft hette, das ich si berichtete sine&#223; w&#228;sen&#223;.</s>
+					<s n="21" xml:lang="de" type="auto">Das ist gschehen uff h&#252;tt frytag.</s>
+					<s n="22" xml:lang="de" type="auto">Darzw&#252;schend habend mich vil miner gn(&#228;digen) herren privatim Musculi halb gfraget und siner b&#252;cheren; dann schon bi inen allen das gschrei was, er hette wider unser disputation gschriben, s&#246;tt de&#223;halb n&#252;t, das er br&#252;fft wurde.</s>
+					<s n="23" xml:lang="de" type="auto">Ich berichtet <foreign xml:lang="la">si privatim</foreign> wie auch h&#252;tt publice vor rath, was kuntschafft, fr&#252;ndtschafft und einikeit ich du&#223; mitt imm ghan, wie er predget, was sin leer und l&#228;ben, auch glerte, und das auch ir imm kein ander testimonium gebind, dann ich bishar thon.</s>
+					<s n="24" xml:lang="de" type="auto">Darnach welt ich inen kein&#223;wegs verhalten han, wie er durch den Butzer auch inn die luterisch concordi gf&#252;rt und also verhofft, alles gfridet sin; habe auch nach der form diser concordi und verglichung hernach alles das gstellt, das er in sinen commentariis, auch catechismo vom nachtmal hab la&#223;en usgan, also das er sich de&#223; gfli&#223;en, also zu&#870; schreiben, das er endtwederen theil erz&#252;rnte; doch hab er nieman bnamset, gschriben oder nantlich antastet.</s>
+					<s n="25" xml:lang="de" type="auto">Darbi ich auch anzeigt, wie das uns etwas absch&#252;hen&#223; brechte, so inen imm evangelio dienetind, die wyl wir besorgen m&#252;&#223;tind, es m&#246;chte von wegen de&#223; gegentheil&#223; unrath gebenn; welte e&#223; de&#223;halb iren gnaden heimgsetzt haben.</s>
+					<s n="26" xml:lang="de" type="auto">Darnebend tru&#870;g ich f&#252;r den gmeinen handel, bat, hierinn uns etwas trosts und hoffnungs ufzu&#870;thun<note type="misc">Satz am Rande nachgetragen</note>.</s>
+					<s n="27" xml:lang="de" type="auto">Daruff min herren dise erkantnu&#223; thon: diewyl die sach mi&#223;lich und sorglich und aber wir gu&#870;ts von Musculo z&#252;getind, da doch sine b&#252;cher ander&#223; lutetind, weltend si n&#252;t endtlich&#223; bschlo&#223;en, sonder mir hieby befolhen haben, mitt &#252;ch wyteren rath zu&#870; halten und &#252;ch unser beschwerd, so wir daruff hettend, anzeigen; was ich dann raths und gu&#870;ts funde, s&#246;lt ich wider an si langen la&#223;en.</s>
+					<s n="28" xml:lang="de" type="auto">De&#223; gmeinen handel&#223; halb k&#246;nnind si nitt wol zvil zu&#870;sagen, diewyl der zu&#870;lauff zgro&#223; sin m&#246;cht; so aber gu&#870;t eerenl&#252;t, und die imm sacrament n&#252;t verschreit oder mitt irriger meinung verhafft, wellind si ir hilff und tr&#252;w nieman abgschlagen han; denn sie gsinnet gsunet syend, gegen den frommen sich al&#223; christenl&#252;t z&#252; erzeigen.</s>
+					<s n="29" xml:lang="de" type="auto">Das m&#246;g ich auch &#252;ch zu&#870; w&#252;&#223;en thu&#870;n.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="de" type="auto">Also stat der gantz handel.</s>
+					<s n="31" xml:lang="de" type="auto">Hieruff, lieber herr gfatter, bitt ich &#252;ch, ze helffen und ze rathen.</s>
+					<s n="32" xml:lang="de" type="auto">Musculi halb sorg ich, e&#223; welle hie fel sin; dann h[err] Jo&#223; und sonderlich Textorius hefftig werend.</s>
+					<s n="33" xml:lang="de" type="auto">So wett ich ungern ein unlust machen, wiewol ich Musculo das hertz imm lyb von siner glerte und frommkeit halb m&#246;cht mittheilen.</s>
+					<s n="34" xml:lang="de" type="auto">Will &#252;ch darumb umb gotts willen b&#228;tten han, ob er schon hie nitt angnan wurde, ir wellind inn von Z&#252;rich nitt lan.</s>
+					<s n="35" xml:lang="de" type="auto">Er mag auch bi &#252;ch allerbast u&#223; aller suspition kon, sonderlich so er gschrifftliche erklerung siner meinung gebe.</s>
+					<s n="36" xml:lang="de" type="auto">So das gschehn, m&#246;cht er mitt der zyt hiehar kon, so nun bewilget zyt u&#223; were; dann ich inn warlich ungern von handen lan, voru&#223; diewyl er sin zu&#870;flucht zu&#870; uns hatt.</s>
+					<s n="37" xml:lang="de" type="auto">Sine commentaria hend ir bsehen <foreign xml:lang="la">cum iudicio,</foreign> auch &#252;wer iudicium imm druff gschriben; m&#246;cht wol lyden, ir brichtetind uns &#252;wer meinung.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="de" type="auto">Der anderen br&#252;deren halb, so nitt verschreit, wend wir &#252;ch dest mee abnen.</s>
+					<s n="39" xml:lang="de" type="auto">Gervasius hatt den bry bi unseren auch versch&#252;tt.</s>
+					<s n="40" xml:lang="de" type="auto">Ra&#223;dorffer ist her Josen bkannt, gfallt imm auch nitt zum basten.</s>
+					<s n="41" xml:lang="de" type="auto">Ich hab inn allweg gh&#246;rt r&#252;men.</s>
+					<s n="42" xml:lang="de" type="auto">Am Naogeorgo</s>
+					<s n="43" xml:lang="de" type="auto">So Xystus kem, den land uns werden.</s>
+					<s n="44" xml:lang="de" type="auto">Musculo han ich allen handel zu&#870;gschriben fr&#252;ndlicher wy&#223;, bittende er welle bedenkcne da&#223; gro&#223; &#252;bel, so lang dise kilch plaget, und nitt z&#252;rnen, so er schon sehe, da&#223; man sorcklich und f&#252;rsichtiklich handle; han den brieff bi h[ern] Ott Heinrychen reutmeister gen Basel gschickt, diewyl ich acht, er seye nunmee da.</s>
+					<s n="45" xml:lang="de" type="auto">Der la&#223;t &#252;ch fast gr&#252;&#223;en; stat in einem kauff mit j[unker] Hartman von Halwyl eines sitzes halb zu&#870; Araw; wei&#223; noch nitt, wie es stat.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="de" type="auto">Der n&#252;wen zytungen halb danck ich &#252;ch tr&#252;lich, das ir uns alle ding so fly&#223;ig w&#252;&#223;end land.</s>
+					<s n="47" xml:lang="de" type="auto">Bittend, ir wellind&#223; auch f&#252;rhin thu&#870;n; dann wir sonst hie spat etwas vernemmend.</s>
+					<s n="48" xml:lang="de" type="auto">So wend wir uns auch fly&#223;en, was bi uns ist, stets zu&#870; schriben.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la" type="auto">Lausannense negotium sic pendet adhuc tum etiam scholasticum, ut in proximis scripsi literis; scholasticum absolvetur brevi.</s>
+					<s n="50" xml:lang="la" type="auto">Quod Tigurini concesserunt in formulam iurisiurandi impiam exhibendam impiis iam verum esse cognosco.</s>
+					<s n="51" xml:lang="la" type="auto">Hagius enim, qui legatus fuit Badenae, mihi retulit.</s>
+					<s n="52" xml:lang="la" type="auto">Hodie inter diacosios conclusum et decretum est, quod nullam aliam quam divinam illam iuramenti formam admittere velint.</s>
+					<s n="53" xml:lang="la" type="auto">Adversarii urgent, ut eadem ubique retineatur forma.</s>
+					<s n="54" xml:lang="la" type="auto">Quibus instantibus facile Tigurum se explicare denuo posset, atque utinam!</s>
+					<s n="55" xml:lang="la" type="auto">Nam quantum sit peccatum et quo delabamur, si per creaturas iurare aliis vel occasionem demus, nemo [non] agnoscit.</s>
+					<s n="56" xml:lang="la" type="auto">Non mirum, si illius nomen deseramus in tam sacra religione, dominum etiam deserturum nos nominisque sui destiturum auxilio.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="la" type="auto">Interim illud legi, pro quid non inveni absurdissimum, scelestissimum!</s>
+					<s n="58" xml:lang="la" type="auto">Quam tergiversatur malignus daemon in iustificationis negotio, atque nisi ungues et aures considerares, hoc est ea, quae sequuntur, non asinum, sed vere leonem esse putares.</s>
+					<s n="59" xml:lang="la" type="auto">Illud adhuc legunt amici quidam.</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="la" type="auto">Promisi Petrus Arburgensi me illi quoque per praefectum suum misurum; is ad te iterum perferet intra octiduum; nam se Tigurum profecturum aiebat.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="la" type="auto">Salutant vos fratres omnes D. Iodocus, Textorius, Eberhardus, Nicolaus.</s>
+					<s n="62" xml:lang="de" type="auto">Es gr&#252;&#223;t &#252;ch auch sonderlich min herr schuldthe&#223; N&#228;geli, inn de&#223; nammen ich zu&#870; gu&#870;tem theil schriben; dann er mir befolhen, in sinem nammen zu&#870; schriben und &#252;ch zu&#870; danken &#252;wer&#223; fr&#252;ndtlichen zu&#870; schriben&#223;; er sye bereit, &#252;ch wo er k&#246;nn, zu&#870; dienen; er habe selb nitt vyl zu&#870; schriben, zu&#870; dem er ungern schrib und inn sur ankomme.</s>
+					<s n="63" xml:lang="de" type="auto">Voru&#223; aber, diewyl ir nitt on rath beider miner gn(&#228;digen) herren burgermeisteren schribind, so s&#246;lle ich auch also in sinem nammen antworten.</s>
+				</p>
+				<p>
+					<s n="64" xml:lang="de" type="auto">Er befilcht mir auch sonderlich, si beid min herren burgermeister wider zu&#870; gr&#252;&#223;en.</s>
+					<s n="65" xml:lang="de" type="auto">Das wellend von mindtwegen usrichten und si auch in minem nammen gr&#252;&#223;en.</s>
+					<s n="66" xml:lang="de" type="auto">Hiemitt sye gott mitt &#252;ch!</s>
+					<s n="67" xml:lang="la" type="auto"><foreign xml:lang="de">Gr&#252;&#223;end mir auch die fratres alle,</foreign> D. Pelicanum, Theodorum, Gvaltherum et meum illum Hopperum, cui, si magis per ocium licuerit, rescribam.</s>
+					<s n="68" xml:lang="la" type="auto">Familiam etiam tuam meo meaeque familiae nomine.</s>
+				</p>
+				<p>
+					<s n="69" xml:lang="la" type="auto">Bernae 13. iulii 1548.</s>
+				</p>
+				<p>
+					<s n="70" xml:lang="la" type="auto">Tui semper studiosissimus Ioannes Hallerus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="71" xml:lang="la" type="auto">Clarissimo viro D. Heinrycho Bullingero, domino et patri suo perpetuo colendissimo.</s>
+					<s n="72" xml:lang="la" type="auto">M. Heinrych Bullinger.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

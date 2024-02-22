@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3898" type="Brief" source="TUSTEP" n="29047">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Georg von Stetten d.J. / Augsburg AN Heinrich Bullinger / Z&#252;rich, 20. M&#228;rz 1559</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,182</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Vereor, ne liberis meis crebrioribus molestior sim, quam par sit, tibi, domino et amico meo charissimo serioribus occupato;</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 94,112</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/3898">
+				<correspAction type="sent">
+					<persName ref="p3740" cert="high">
+						<!--
+						<surname cert="high">von Stetten d.J.</surname>
+						<forename cert="high">Georg</forename>
+						-->
+					</persName>
+					<placeName source="l18" cert="high"><orig>Augsburg</orig></placeName>
+					<date when="1559-03-20" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file3899"/>
+					<ref type="prev_chronologically" target="file3897"/>
+					<ref type="next_correspondence" target="file3923"/>
+					<ref type="prev_correspondence" target="file3886"/>
+					<ref type="next_correspondence_request" target="file3923"/>
+					<ref type="prev_correspondence_request" target="file3886"/>
+					<ref type="next_correspondence_reaction" target="file8717"/>
+					<ref type="next_same_sender" target="file3923"/>
+					<ref type="prev_same_sender" target="file3886"/>
+					<ref type="next_same_addressee" target="file3904"/>
+					<ref type="prev_same_addressee" target="file3897"/>
+					<ref type="next_with_sender_as_addressee" target="file3923"/>
+					<ref type="prev_with_sender_as_addressee" target="file3886"/>
+					<ref type="next_with_addressee_as_sender" target="file3904"/>
+					<ref type="prev_with_addressee_as_sender" target="file3897"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="42">Deutsch</language>
+				<language ident="la" usage="958">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/3898%2FAutograph%2F00%20E_II_356__fol__182_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">3898/Autograph/00 E_II_356__fol__182_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/3898%2FAutograph%2F01%20E_II_356__fol__182_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">3898/Autograph/01 E_II_356__fol__182_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Vereor, ne literis meis crebrioribus molestior sim, quam par sit, tibi, domino et amico meo charissimo serioribus occupato; attamen nunc respondere visum fuit, quo de fasciculo librorum mihi reddito certior fias.</s>
+					<s n="3" xml:lang="la" type="auto">Itaque pro libello, quem contra articulos inquisitorum quorundam &#281;didisti, gratias ago tibi maximas; placet inprimis in illo brevitas et perspicuitas.</s>
+					<s n="4" xml:lang="la" type="auto">Reliquos, qui illi adiuncti erant, tum et literas L[aurentii] Agricol&#281;</s>
+					<s n="5" xml:lang="la" type="auto">Expecto nunc d. Martyris de eucharistia et quidem avide; nam quomodo ex aliis, quos de eucharistia edidit libris, tum ex commentariis in epistolam ad Corinthios percepi, video (si quidem mihi de doctis, non dicam iudicare, sed saltem, quid sentiam, dicere fas est) virum esse pium et doctum ac in tractandis iis, quae hoc seculo in disceptationem veniunt, accuratissimum.</s>
+					<s n="6" xml:lang="la" type="auto">Audivi conscripta ab eo etiam esse commentarios in Genesim, verum conscripta, et quando &#281;denda sint, non ingratum mihi foret scitu.</s>
+					<s n="7" xml:lang="la" type="auto">Apud nos nunc omnia suo sunt in silentio, licet civile bellum certissime instare quidam asserant.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Principum null s praeter illos, de quibus nuper scripsi, advenit, nec quenquam venturum puto.</s>
+					<s n="9" xml:lang="la" type="auto">Videntur mihi nostra comitia eundem habitura exitum quem illa pharis&#281;orum Ioan. 7.: "Et profectus est", inquit evangelista, "unusquisque in domum suam."</s>
+					<s n="10" xml:lang="la" type="auto">Imperator noster inducias fecit cum Turca in triennium, cui quotannis 30 m aureorum Ungaricorum pendet, quos etiam ultra triennium illud quamdiu solverit, mali nihil ipsi metuendum a se Turca promittit.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Quantum quisque ipsorum ditionis in Ungaria tenet, servat.</s>
+					<s n="12" xml:lang="la" type="auto">H&#281;c citius vulgata sunt, quam quidam vellent, cum in auxilium pecuniarum contra Turcas ordines nondum consenserint.</s>
+					<s n="13" xml:lang="la" type="auto">16. martii legatus Galli, quae in mandatis habuit, exposuit coram imperatore et ordinibus; quaenam autem illa sint, nondum scire possum.</s>
+					<s n="14" xml:lang="la" type="auto">Principes Saxoni&#281;, Ioannis Friderici filii, confessionem fidei &#281;diderunt instigantibus theologis Ienensibus, qua mire invehuntur contra omnes, qui non, quod ipsi aiunt, aiunt et, quod negant, negant.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Mira rabies eius gentis mutuo etiam se lacerantis.</s>
+					<s n="16" xml:lang="la" type="auto">H&#281;c sunt fere, qu&#281; nunc scribenda censui.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Bene vale.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Datum August&#281; Vindelicorum 20. martii anno 59.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">T[uae] h[umanitatis] d[editissimus] Georgius a Stetten iunior.</s>
+					<s n="20" xml:lang="de" type="auto">Dem ehrwirdigen unnd gelertten herrn Heinrich Bullinger, meinem lieben herrn unnd freund zu Z&#252;rch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

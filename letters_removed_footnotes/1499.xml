@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1499" type="Brief" source="TUSTEP" n="21300">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Gabriel Arnold] / [Bern] AN Heinrich Bullinger / Z&#252;rich, 6. Dezember 1551</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 336,63 f.</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 336,50 f.</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Eur schreiben und antwort ist mir vergangner tag zu Basel geantwort worden, und so vil eurn brief gen Reinfelden</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1499">
+				<correspAction type="sent">
+					<persName ref="p182" cert="low">
+						<!--
+						<surname cert="low">Arnold</surname>
+						<forename cert="low">Gabriel</forename>
+						-->
+					</persName>
+					<placeName source="l41" cert="low"><orig>Bern</orig></placeName>
+					<date when="1551-12-06" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1500"/>
+					<ref type="prev_chronologically" target="file1498"/>
+					<ref type="next_correspondence" target="file2048"/>
+					<ref type="prev_correspondence" target="file1105"/>
+					<ref type="next_correspondence_request" target="file2048"/>
+					<ref type="prev_correspondence_request" target="file1105"/>
+					<ref type="next_same_sender" target="file2048"/>
+					<ref type="prev_same_sender" target="file1105"/>
+					<ref type="next_same_addressee" target="file1522"/>
+					<ref type="prev_same_addressee" target="file1489"/>
+					<ref type="next_with_sender_as_addressee" target="file2048"/>
+					<ref type="prev_with_sender_as_addressee" target="file1105"/>
+					<ref type="next_with_addressee_as_sender" target="file1522"/>
+					<ref type="prev_with_addressee_as_sender" target="file1489"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1499%2FAutograph%2F00%20E_II_336__fol__63_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1499/Autograph/00 E_II_336__fol__63_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1499%2FAutograph%2F01%20E_II_336__fol__63_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1499/Autograph/01 E_II_336__fol__63_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1499%2FAutograph%2F02%20E_II_336__fol__64_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1499/Autograph/02 E_II_336__fol__64_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1499%2FAutograph%2F03%20E_II_336__fol__64_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1499/Autograph/03 E_II_336__fol__64_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">G&#252;nstier und vertrauter, lieber her und fr&#252;ndt.</s>
+					<s n="2" xml:lang="de" type="auto">Eur schreiben und anntwort ist mir verganngner tag zu&#870; Basel geanntwort worden, und sovil eurn brief gen Reinfelden geh&#246;rig belanngt, kan ich eu wol mit warheit schreiben, das derselbig brief ordenlich geanntwort und durch den herrn von Reischach</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Was euch von Maidenburg gesagt worden ist vermuetung&#223;weis, und wie ich auch geh&#246;rt han beschehen etc. doch wie dem allen, so sollt ir in vertraulicheit wi&#223;en, das Maidenburg gelediget, cristenlich wol und derma&#223;en vertragen ist, das sy unnser religion und dem vaterlannd treffenlich und sambt anndernn vil guts tun m&#246;gen und werden.</s>
+					<s n="4" xml:lang="de" type="auto">Das solt ir zu ben&#252;gen annemen und di&#223;mals weiter nit fragen, allain gedenngkhen f&#252;rderung zu&#870; thun, damit wir gegen got neben pe&#223;erung unnsers lebenns danngkhperlich erfunden und mit dem feur cristenlicher und bruederlicher lieb und treu angez&#252;ndt w&#252;dent.</s>
+					<s n="5" xml:lang="de" type="auto">Den armen crissten zu Magdenburg, denen ire heuser, sunderlich in den vorsteten, verprenndt, in der rechten stat erscho&#223;en sind, darzu all ir verm&#246;gen pis uff das eu&#223;erst ersaigett und beslie&#223;lich dergestalt ersaigett ist, das die crisstenlichen, redlichen, dapfern weiber iren mannen nit allain manlich zu sein und wider gottes willen und wort kein vertrag anzunemen zugesprochen, sunder ire keten, ring, klaineter und silber geschier erstlich zum halben tail uff das rathaus getragen und sich dabey erpoten haben, den anndern tail auch zu erlegen und ir leben darzusetzen etc. zu trost und hilff zu kumen und inen zu steuren etc.</s>
+					<s n="6" xml:lang="de" type="auto">Vor jaren haben wir an glagkhen, kirchen, gepeu, g&#246;tzen und teufels zier anzurichten ainem dollen m&#252;nich vil gelts dahin zu pringen angehenngkht.</s>
+					<s n="7" xml:lang="de" type="auto">Ytzt sind wir so gelert und des euangelions so vol oder urdr&#252;tz worden, das wir teuflischer und muetwillier weis sagen d&#252;rffen, was gat unns Magenburg an, wie mit Costentz auch beschehen ist.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Es ist ain gro&#223; geschray von ainem Hanns Gutschigkh, burger von Zell am Unndersee, wie derselb als ain kundtschaft oder verreter uber der cron Franngkhreich diener und in sunderheit herrn S[ebastian] Schertlin zu erm&#246;rden bestellt und mit gellt abgericht sey von dem gewalt zu Costentz... P. Welher Gutschigkh durch die von Basel nidergeworffen und der sachen bekhanntlich ist, wie das auch die brief, so bey ime funden sind, verm&#246;gen sollen.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Zerreist disen brief; es will sich ytzo weiter davon zu schreiben nit gep&#252;ren.</s>
+					<s n="10" xml:lang="de" type="auto">Got will und wirdet noch wunderbarlich ding ann tag geben la&#223;en.</s>
+					<s n="11" xml:lang="de" type="auto">Datum Bernn den 6. decembris anno etc. 51.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">G[abriel] A[rnold].</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Gr&#252;st mir herrn Jacoben, den herrn statschr[eiber] von Lindaw, eur und ire hau&#223;frawen, und m&#246;cht leiden, der statschreiber het sich aus ursachen uff montag schiristen gewi&#223;lich zu mir gen Aro zum Wilden Mann verfuegt; dann ich het mit im zu reden, das sich nit schreiben la&#223;en will, schigkh de&#223;halb disen aigen poten.</s>
+					<s n="14" xml:lang="de" type="auto">Sagt im, das er nit au&#223;beleib; ich reit morgen suntags gen Aro, will montag sein alda warten.</s>
+					<s n="15" xml:lang="de" type="auto">Von dann wird ich gen Brugkh reiten, hab daselbs auch ain tag mit m. D.<note type="margin">a.R.: Dietrich [Schankwitz</note>?] zu verzeren.</s>
+				</p>
+				<p>
+					<note>[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

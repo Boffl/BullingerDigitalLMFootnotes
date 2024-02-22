@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1264" type="Brief" source="TUSTEP" n="21104">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Jakob F&#252;nkli] / [Biel] AN [Heinrich Bullinger] / [Z&#252;rich], nach April-Juni 1551</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 441,741 ff.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Es habend mine Herren von Biel ein pfarr, welche die gr&#246;ste in irem land ist, mit nammen Gorsemont (= Corg&#233;mont)</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 75,168</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Pellikan, Johannes</author>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1264">
+				<correspAction type="sent">
+					<persName ref="p1229" cert="low">
+						<!--
+						<surname cert="low">F&#252;nkli</surname>
+						<forename cert="low">Jakob</forename>
+						-->
+					</persName>
+					<placeName source="l49" cert="low"><orig>Biel</orig></placeName>
+					<date when="1551-04-11" cert="low">nach April-Juni 1551</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="low"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1242"/>
+					<ref type="prev_chronologically" target="file1241"/>
+					<ref type="next_same_addressee" target="file1259"/>
+					<ref type="prev_same_addressee" target="file1232"/>
+					<ref type="next_with_addressee_as_sender" target="file1259"/>
+					<ref type="prev_with_addressee_as_sender" target="file1232"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1264%2FAutograph%2F00%20E_II_441__S__741_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1264/Autograph/00 E_II_441__S__741_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1264%2FAutograph%2F01%20E_II_441__S__742_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1264/Autograph/01 E_II_441__S__742_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1264%2FAutograph%2F02%20E_II_441__S__743_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1264/Autograph/02 E_II_441__S__743_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1264%2FAutograph%2F03%20E_II_441__S__744_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1264/Autograph/03 E_II_441__S__744_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Es habend mine herren von Biel ein pfarr, welche die gr&#246;ste in irem land ist, mitt nammen Gorsemont<note type="margin">a.R.: Corge &#769;mont.</note>, welche pfarr itz vil jar her ist versehen worden durch einen sonst frommen und tr&#252;wen, aber doch unglerten und ungschickten mann, dess namm Philippus N.</s>
+					<s n="2" xml:lang="de" type="auto">Nun habent aber die puren itz by 3 oder mer dann 4 jaren her einen treffenlichen grossen unwillen uff disen iren pfarrher geworffen von wegen sines liederlichen ungschickten predigens und desshalb f&#252;r und f&#252;r begert, mine herren wellend sy doch mitt einem gschickten mann versehen, weder der seie, sich och erbotten, welchen inen mine herren gebind under all iren predigern im land, mit dem wellend sy sich vernu&#868;gen lassen.</s>
+					<s n="3" xml:lang="de" type="auto">Sind also eim e. rath on underlass nach gloffen, also das der rath verursacht, mitt uns davon ze reden; hatts uns manche mal anzeigt, uns gebetten, darzu&#870; ze thu&#870;n, das doch der kirchen geholffen m&#246;ge werden.</s>
+					<s n="4" xml:lang="de" type="auto">Wir aber bed prediger habend nichts darzu&#870; thon.</s>
+					<s n="5" xml:lang="de" type="auto">Ich hab darum nichts wellen darzu&#870; reden, diewyl ich gemerckt, das min lieber mittbru&#870;der herr Michel inn aeben da wellen haben, desshalb ich hette m&#252;ssen mit im uneinig werden, hett ich mich wellen darwider setzen.</s>
+					<s n="6" xml:lang="de" type="auto">Ist derwegen also immerdar uffzogen und anghenckt worden.</s>
+					<s n="7" xml:lang="de" type="auto">Herr Michels ursachen, die er f&#252;rgewent hat herr Philippen halb, sind gsin, so vil ich von im verstanden, sye er schon nit glert, so sye er doch fromm und desshalb nit dannen ze stossen, item er hab vil klener kind, und seie die ander pfarr, daruff inn mine herren verordnet, im zu&#870; gering zu&#870; siner underhaltung; item wann mans itz zu&#870;lasse mitt dem, so kommint die puren morn an ein anderen, weltind inn och dannen han, letstlich komme es an uns prediger inn der statt.</s>
+					<s n="8" xml:lang="de" type="auto">Hindennach, als mine herren nichts wellen zu&#870;r sach tu&#870;n und wir prediger och nitt, habend sich die puren erbotten, man solle iren prediger ind'statt bschicken, inn h&#246;ren predigen, und wann ein rath dann erkenn, das er gu&#870;t sy f&#252;r ir kirchen, so wellind sy inn bhalten, wo nitt, das sy dann irem begeren statt th&#252;ynd.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">S&#246;lliche meinung ward und von einem e. rath anzeigt.</s>
+					<s n="10" xml:lang="de" type="auto">Ich redet och sonders davon mit h. Micheln und vermeint, es were gu&#870;t, das mans thete; aber er wolts nitt, anttwurtet mir, es were on not; man hette inn lengst geh&#246;rt.</s>
+					<s n="11" xml:lang="de" type="auto">Es trowtend och nebend zu&#870; die puren, f&#252;r den bischoff zu&#870; kern, wo sy je sehen wurdint, das inen mine herren nitt dess manns abhelffen welltind.</s>
+					<s n="12" xml:lang="de" type="auto">Nachdem nun mine herren den &#252;berlof mer nit erliden und aber doch wol sehen mochtend, das wir bed prediger nitt woltend darzu&#870; thu&#870;n, habend minem herr meier befolhen, diewyl er eben sonst ins thal hinin rythen wolt, das er herr Philippen solte anzeigen, es were eins raths befelch, das er uff die nechst byligend pfarr genant Sumpon<note type="margin">a.R.: Sombeval.</note> ziehen soltte und der ander pfarrer genant Firmianus</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Uff s&#246;llichs habend die prediger all in miner herren biet uff dess obgenanten herr Philips anstifftung einen conventum angsehen on min vorwissen und och on herr Michels, als ich von im verstanden, sind gen Biel kommen, habend uns zu&#870; inen ber&#252;ft, anzeigt ir beschwerd, das man den nitt well uff siner alten pfarr bliben lon, und hilff und rath von uns beden predigern begert, och hat herr Philipp gsagt, es sy im nun umb das, die puren zu&#870; Sumpoa wellind sinen nitt und sagend, sye er disen zu&#870; Gorsemont nit gu&#870;t gnu&#870;g gsin, so seie et inen ouch nitt gu&#870;t, das aber die unwarheit gsin, wie sich hernach funden.</s>
+					<s n="14" xml:lang="de" type="auto">Dann wiewol die puren zu&#870; Sumpoa herr Philippen anfangs nit gar willig sind gsin, dann sy sin ungschicklicheit wol gew&#252;&#223;t habend, nichts dester weniger habend sy wellen thu&#870;n als ghorsam undertonen und sich willig ergen inn anzu&#870;nemmen.</s>
+					<s n="15" xml:lang="de" type="auto">Als wir nun im conventu vonn sachen redtend, wardent sy all eins, f&#252;r rath zkern und zu&#870; bitten, das man her Philippen lie&#223; lenger da pliben; wo mans nitt welte tu&#870;n, das man rath anderschwo su&#870;chte, und wo es alles nichts hulffe, das sy all zsammen st&#252;ndint und in gmein och urlob nemmind und das uss denen ursachen: Herr Michel la&#223; einen articel, der statt in den sinodalibus constitutionibus; der lut also, das weder bischof, apt noch propst on eins e. raths und unser der prediger wissen und willen einchem pfarrer sollend urlob gen.</s>
+					<s n="16" xml:lang="de" type="auto">Zum anderen habend sy einn articel in der ordnung der colloquien, wenn ein rath ein prediger on billiche ursach urlobe, so sollend die anderen all in statt und land ee mit im wellen urlob han, ee sy das zu&#870;gebind.</s>
+					<s n="17" xml:lang="de" type="auto">Nun diewyl sy all dess entschlossen, woltt ich mich nit s&#252;nderen und trennen, lie&#223; mirs gfallen, das man f&#252;r rath kemme und mit minen herren vonn sachen rette: urlob wurde ich aber nitt haben helffen nemmen uss nachvolgenden ursachen, damitt sich ein rath och hat entschuldiget, al&#223; das der Philipp ungschickt und gar nichts kan und aber das die gr&#246;st pfarr ist, item das mans uns offt anzeigt hat, ob man uns schon zletst nit gschickt f&#252;r rath, als man inn geendert hat, item das der articel oben gmeldet nun uff den bischof, propst und apt stat, nitt uff mine herren, item das der articel vom urlobnen unser aller, so man einen well urloben, nitt ist von eim rath bstetigt, stat och nit in den sinodalibus statutis; sy habends under einanderen selb vor jaren also gmacht, diente nun zu&#870; unru&#870;w der kirchen und enb&#246;rung etc.</s>
+					<s n="18" xml:lang="de" type="auto">Item diewyl sich durch gu&#870;te kuntschaft funden hat, das herr Philipp glogen in dem, das er sagt, die puren wellind sinen nitt, dann er hatt die puren ob 6 malen uff h&#246;chst betten, das sy inn nit annemmind, dann er welle nitt zu&#870; inen, daby man wol sp&#252;rt, was er f&#252;r ein gsell ist.</s>
+					<s n="19" xml:lang="de" type="auto">Al&#223; nun die prediger all eins, f&#252;r rath ze kern, begerend wir einen tag vom rath, uff den es im gelegen.</s>
+					<s n="20" xml:lang="de" type="auto">Den kund man uns die selben wochen nitt geben, ursach min herr meier was nit anheimsch.</s>
+					<s n="21" xml:lang="de" type="auto">Die andere wochen ordnet man uns einen tag, den sam&#223;tag, und zeigt uns solchen gsetzten tag der meier an, daruff h. Michel anwortet, er d&#246;rfte keins tags, diewyl mine herren doch her Philippen verendert; fu&#870;r damitt dahin.</s>
+					<s n="22" xml:lang="de" type="auto">Ein rath aber entschlo&#223; sich, diewyl in der statt reden umbgiengend, man welte dprediger nit f&#252;rlon, mir m&#252;&#223;tind erschinen uff den tag, diewyl wirs doch einmal begert hettend, und liessend also allen predigern den tag ansagen und inen bieten ze kommen.</s>
+					<s n="23" xml:lang="de" type="auto">Am frytag, als wir am sam&#223;tag all f&#252;r rath solten, embot h. Michel dem meier oder sagts im selb, er begerte, das man inn mornde&#223; allein f&#252;r rath bschicken welte; er hab ettwas sonders ze handlen.</s>
+					<s n="24" xml:lang="de" type="auto">Also mornde&#223; am sam&#223;tag kamend all prediger zu&#870; herr Michel und woltend mitt im f&#252;r rath gon; dann ich was kranck, mocht nitt hinuff gon.</s>
+					<s n="25" xml:lang="de" type="auto">Da sagt er zu&#870; inen: "Ich w&#252;rd nit mit euch f&#252;r rath; ich hab ettwas sonders vor den herren zschaffen."</s>
+					<s n="26" xml:lang="de" type="auto">Also kammend sy zu&#870; mir, fragtend, wie sy iren sachen tu&#870;n solten.</s>
+					<s n="27" xml:lang="de" type="auto">Ich riet, sy soltend hin gon f&#252;r rath und h&#246;ren, was man inen f&#252;rhielte.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de" type="auto">Das thettend sy.</s>
+					<s n="29" xml:lang="de" type="auto">Also lie&#223; der rath h. Michel allein f&#252;r.</s>
+					<s n="30" xml:lang="de" type="auto">Da zeigt er inen an, wie sich vor jaren begeben, da sy och ettwas hettend eins anderen predigers halb uff die wy&#223; ghandlet, wie itz och mit h. Philippen; da habe er do zumal vor eerenl&#252;ten ein gott gschworen, wans mer gschehe, so welle er nit mer by inn sin.</s>
+					<s n="31" xml:lang="de" type="auto">Diewyl sy nun itz das geton und den prediger also geendert, so welle er sin mul nit zu&#870; einer teschen machen, sonder urlob haben.</s>
+					<s n="32" xml:lang="de" type="auto">Daby wasend das och nebend ursachen: es sagtind vil l&#252;t, er predigete nun, was im hin und wider alte wiber sagtind, item er redte vil ding, das er nit k&#252;nd war machen; zu&#870; dem so were er anfangs nit gern gen Biel kommen, als er von Z&#252;rch hinin gsent worden; dann er vor nie in keiner statt predigt habe; aber jedoch, diewyl er vyl klener kind do hab ghept, habe er die wyd ann hal&#223; gnommen und sy gen Biel zogen; nun aber, so sine kinder ufkommen seiend und vast alle hin und wider zu&#870; hanttwerckern verdingt, sy im nummen glegen also zu&#870; predigen; er befinde sich also, das ers nit mee erz&#252;gen k&#252;nde.</s>
+					<s n="33" xml:lang="de" type="auto">Hieruff hatt inn ein rath zum 3. oder 4. mal uffs ernstlichst betten, das er blibe, mitt vil worten, on not zu&#870; erzellen, och daby gsagt: hab im nei&#223;mar ettwas zu&#870;gerett, wie er gmeldet, er solls anzeigen, wer sy seiend, so m&#252;&#223; er sehen, dass ein rath straffen werd, wie billich.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="de" type="auto">Aber er ist beharret, dissmal wyter inen nit zu&#870; dienen.</s>
+					<s n="35" xml:lang="de" type="auto">So habend och usserthalb dem rat mit im grett, gu&#870;t l&#252;t inn betten, der alt herr Jakob selb morgens, ee er urlob gnommen.</s>
+					<s n="36" xml:lang="de" type="auto">Aber es ist als vergebens gsin, und wie er am sam&#223;tag urlob gnommen, also ist er glich am montag darvon gfaren gen Bern, hat weder mir noch einche[m] miner herren kein wort gsagt, wiewol er mir zu&#870; gset hat, am zin&#223;tag f&#252;r mich zu&#870; predigen, diewyl ich noch nit verm&#246;glich was.</s>
+					<s n="37" xml:lang="de" type="auto">Hett ichs nit angfert erfaren, das er darvon were, so were die kirch am zin&#223;tag ledig gstanden.</s>
+					<s n="38" xml:lang="de" type="auto">Uff das hatt man am zin&#223;tag grossen rath ghan; dann es schier ein uffru&#870;r hett gen inn der statt, diewyl etlich burger vil b&#246;ser reden triben widern rath, und als der gro&#223; rath ordenlich aller ding bericht ist worden, hat er einhellig beschlossen, das man herr Micheln solle sin urlob lassen und on verzug nach eim anderen trachten.</s>
+					<s n="39" xml:lang="de" type="auto">Also bschickt mich en e. rath am mittwoch und zeigt mir an (warrlich on min angeben und f&#252;rtragen, wie dann der gantz rath wei&#223;t), das ein rath wurde versuchen, ob inen m. Ambrosius m&#246;chte werden, und mich darzu&#870; sampt dem anderen ratsbotten zu&#870; im schicken.</s>
+					<s n="40" xml:lang="de" type="auto">Mu&#870;&#223;tend desshalb am donstag glich verryten.</s>
+					<s n="41" xml:lang="de" type="auto">Als wir aber hinweg rittend, was h. Michel noch nitt widerkon.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="de" type="auto">Das ist der gantz handel, und ist hierinn nichts gemeldet, dann was ein rath gewelt, das wirs euch hie anzeigind, dessglichen was sich mitts gantzen raths kuntschaft warhafftig sin in allen stucken entlich erfinden wirt.</s>
+					<s n="43" xml:lang="de" type="auto">Gott welte, man hette dess alles m&#246;gen &#252;ber sin.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="de" type="auto">Hie ist zu&#870; mercken: Die clag herr Michels, die er ton, das man inn zyhe, er rede vil uff der canztel uss alter wiber f&#252;rgen, kompt daher: vor anderthalbem jar stalt man inn im sinodo och u&#223;, wie der bruch, und als er wider hinin kam, sagtend im mine herren fr&#252;ntlich, inen gfiel sin leer und leben; allein eins baeten sy inn, das er welte ettwan welte ein ding bas erfaren, ee ers uff der cantzel meldete; dann es kemmind ettwan alte wyber zu&#870; im, sagtind im vil, da ettwan nienen so vil an were, wann man eigentlich nache fragte.</s>
+					<s n="45" xml:lang="de" type="auto">Das sagt man im imm besten.</s>
+				</p>
+				<p>
+					<note type="date">[Datum, Unterschrift und Adressen fehlen.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

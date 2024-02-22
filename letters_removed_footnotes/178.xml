@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file178" type="Brief" source="TUSTEP" n="18121">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger / Z&#252;rich, zwischen Ende Juni 1548 und 2. Juli 1548</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 351,142 + E II 351,75 + E II 351,143</idno>
+						<idno subtype="Hinweis">Scanreihenfolge gem&#228;ss Transkription</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Tua omnia, quae ad me dabas, ..., magna cum gratiarum actione remitto. Arbitror autem, et a me data nonnulla ad te pervenisse</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Vadian BW VI, S. 735-738, Nr. 1616</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Jb. f&#252;r Schweiz. Gesch., 31, 1906, 48, 51</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 67,68</idno>
+						<idno subtype="Hinweis">der datierte Teil</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/178">
+				<correspAction type="sent">
+					<persName ref="p8049" cert="high">
+						<!--
+						<surname cert="high">Vadian (von Watt)</surname>
+						<forename cert="high">Joachim</forename>
+						<graphic type="portrait" url="portraits/3306_Vadian_Joachim.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Joachim_Vadian"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118625780"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11425832"/>
+						-->
+					</persName>
+					<placeName source="l474" cert="high"><orig>St. Gallen</orig></placeName>
+					<date notBefore="1548-06-01" notAfter="1548-07-02" cert="low">zwischen Ende Juni 1548 und 2. Juli 1548</date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file142"/>
+					<ref type="prev_chronologically" target="file141"/>
+					<ref type="next_correspondence" target="file154"/>
+					<ref type="prev_correspondence" target="file139"/>
+					<ref type="next_correspondence_request" target="file154"/>
+					<ref type="prev_correspondence_request" target="file139"/>
+					<ref type="next_correspondence_reaction" target="file454"/>
+					<ref type="prev_correspondence_reaction" target="file11"/>
+					<ref type="next_same_sender" target="file154"/>
+					<ref type="prev_same_sender" target="file139"/>
+					<ref type="next_same_addressee" target="file162"/>
+					<ref type="prev_same_addressee" target="file135"/>
+					<ref type="next_with_sender_as_addressee" target="file154"/>
+					<ref type="prev_with_sender_as_addressee" target="file139"/>
+					<ref type="next_with_addressee_as_sender" target="file162"/>
+					<ref type="prev_with_addressee_as_sender" target="file135"/>
+					<ref type="child" target="file179"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="193">Latein</language>
+				<language ident="de" usage="807">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F00%20E_II_351__fol__142_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">178/Autograph/00 E_II_351__fol__142_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F01%20E_II_351__fol__142_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">178/Autograph/01 E_II_351__fol__142_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F02%20E_II_351__fol__75_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">178/Autograph/02 E_II_351__fol__75_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F03%20E_II_351__fol__75_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">178/Autograph/03 E_II_351__fol__75_v_.tif</desc></graphic>
+		<graphic xml:id="img5" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F04%20E_II_351__fol__143_r_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">178/Autograph/04 E_II_351__fol__143_r_.tif</desc></graphic>
+		<graphic xml:id="img6" url="https://iiif.bullinger-digital.ch/iiif/3/178%2FAutograph%2F05%20E_II_351__fol__143_v_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">178/Autograph/05 E_II_351__fol__143_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. P. D.</s>
+					<s n="2" xml:lang="la" type="auto">Tua omnia, quae ad me dabas, clarissime D. Bullingere, magna cum gratiarum actione remitto.</s>
+					<s n="3" xml:lang="la" type="auto">Arbitror autem, et a me data nonnulla ad te pervenisse, quibus, ubi sat usus fueris, ut et ego uti queam, curare velis.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vixdum enim resignatas literas quasdam ad te illico mire festinanti tabellioni dare cogebar, quo certius citiusque perferrentur.</s>
+					<s n="5" xml:lang="la" type="auto">In Praesentia vero non habebam novi quicquam, quam quod e Norimberga scribitur nostris: Mauritium electorem quibusdam se apud Hasfurdiam, quae Franciae Germanicae urbs est, principum et urbium legatis iunxisse, consultandi gratia de mitigando Caesare exorandoque, ut, quod magna fide in religionis caussa et urbibus et principibus quibusdam praestaturum sese promisit, sancte etiam et candide praestet.</s>
+					<s n="6" xml:lang="la" type="auto">Creditur autem, incendium futurum ex hoc uno libello INTERIM tantum in Germania, quantum ab initio relucentis evangelii hunc usque ad diem nullo loco fuerit.</s>
+					<s n="7" xml:lang="la" type="auto">Dominus suos tueri et conservari pergat.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Es wil ouch ain Interim in unser a[i]dgnoschaft endtston layder, wie ich das von meiner herren botten vernomen hab, dess ayds schwerens halb.</s>
+					<s n="9" xml:lang="de" type="auto">Khan nit glouben, das s&#246;llich hertn&#228;kig anmu&#870;ten on ain wytl&#246;uffige prattik (got geb, wo der bron harfliesse) vorhanden sein m&#246;ge.</s>
+					<s n="10" xml:lang="de" type="auto">Hab ouch das christenlich mittel meiner g[n&#228;digen] herren von Z&#252;rich und Bern wol vernomen, daran man aber nit khomen, und ettlich ordt unserer religion umb desse willen, das sy die 7 ordt inen zu&#870; schweren anbringind, ir f&#252;rgeschlagen mittel, den aydt nach den worten in den pundtsbriefen begriffen f&#252;rzehalten la&#223;en, gu&#870;tz tayls willig oder doch, so e&#223; nit besser fonden noch erlangt werden mag, geschechen ze la&#223;en nit unschnitzig sind.</s>
+					<s n="11" xml:lang="de" type="auto">So wirt in diesem fall gar ernstlich zu&#870; bedenken sein, was den zwayen obersten ordten, die den ayd zu&#870; geben gwon sind, gegen gott verantwortlich sein welle, damit man die eere und hochhait desselben umb zeytlich fridens oder gniessen willen nit &#252;bergebe noch versch&#228;tze; dan bey solichem wurdend wir gew&#252;sser plag und straf zu&#870; erwarten haben.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">Zu&#870;gegen bed&#246;rffte man ouch die zeytlich regierung unsers vatterlandtz derma&#223;en nit dem pondtschweren zu&#870; ainikhait und vertrauwenlichem zu&#870;sammensetzen bringen, das in so schw&#228;ren, ufs&#228;tzlichen zeyten der feind sich khainer hoffnung uss unserer zwytracht getr&#246;sten m&#246;chte etc.; dan unainikhait dess g&#228;gentayls denn feind da&#223; gr&#246;st hertz m&#228;cht, seinen gegentayl zu&#870; besigen, wie ir wissend.</s>
+					<s n="13" xml:lang="de" type="auto">Wellichs aber gew&#252;sslich uss dem endtspringen wirt, das die Schweytzer ire p&#246;ndt zu&#870;samm[en] zu&#870; schweren sich nit verainbaren k&#246;nind noch wellind, und demnach sich wol zu&#870; versechen sey, das man derma&#223;en nit zu&#870;sammen setzen werde, als vormals von inen geschechen seyge.</s>
+					<s n="14" xml:lang="de" type="auto">Daruf sy nun ir f&#252;rnemen, uns ouch in das bokshorn ze sto&#223;en, bevestnen und sterken werdend.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Wo ich nun seche und endtlich erfu&#868;r, das unser aydgno&#223;en von den 7 ordten (mit denen Glari&#223; und Appenzell ouch ettwas mitstimmen s&#246;llend) ie nit anderst daran weltend, und aber unser pfortail ist, das uns von inen geschworen werd, zu&#870; welchen sy sich (wie ich h&#246;r) willig erbotten und die &#252;berigen ordt zu&#870; dem schweren vermandt habend, so wurd ich in zeytlicher gwaltsamen (gewaltsamme?) umb g&#246;ttlicher eeren willen in dissem span, doch meinen gerechtikhaiten onsch&#228;dlich, ettwas nachla&#223;en.</s>
+					<s n="16" xml:lang="de" type="auto">Dann ain creatur imm schweren n&#228;bend den scheppfer ze stellen und also got den prey&#223; seiner volmechtikhait ze nemen, mir ain ongezweyfelt gotzelesterung ist, in die ich mich nimermer begebe, weder ze schweren, noch andern furzehalten etc., damit ich demm befelch gottes, der e&#223; durch seinen namen geschworen haben wil, zu&#870;gegen nit handlette.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Und wurd also das vorgeend ort under den 9 orten, namlich Lucern, den pondtzayd verbis conceptis angeben la&#223;en, weyl sy nit anderst wellend, und alle unsers gloubens verwandten bey got unserm scheppfer schweren und die f&#252;rgehaltnen hayligen dahinden la&#223;en, denen e&#223; ain jomer were, das wir in irem namen n&#228;bend got iemer schweren solten.</s>
+					<s n="18" xml:lang="de" type="auto">So wurde also &#252;ns von den 9 orten geschworen und schu&#868;rend wir bey unserm ainig allmechtigen got, inen in erhaltung unserer zeytlichen gwaltsamenen und alles fridstands wider allen gwalt hilf mit lyb und gu&#870;t zu thu&#870;n etc.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Das hab ich &#252;[wer] Erwird, <foreign xml:lang="la">mi domine Bullingere,</foreign> in so &#228;ngstiger zeyten einfall nit wellen mein&#223; gu&#870;tbedunkhes bergen; dann Caesari nichtz zu&#870; vertrauwen.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Wie ich h&#246;r, so spert er sich, dem churf&#252;rsten von Brandenburg auch gegebne brief und sigel, in bey seiner religion bleyben zu&#870; la&#223;en, zu&#870; halten, und halt also das teufels&#252;chtig gespenst dess papstz noch seinen gang, das man den k&#228;tzern khainen glauben zu&#870; halten schuldig sey; und aber noch nit lauter und bewisen ist, ob der papst sampt seinem anhang k&#228;tzer seyge oder ob diejenigen, die seinem argen leben und leeren umb liebe willen der warhait widerstand thu&#870;nd, darf&#252;r zu&#870; halten seygend oder nit?</s>
+					<s n="21" xml:lang="de" type="auto">wiewol e&#223; bey mir wenig zweyfels hat.</s>
+					<s n="22" xml:lang="de" type="auto">Das wirt aber alles die zeyt und aber gew&#252;sslich die letzste zeyt der zu&#870;khunfft unsers haylands <foreign xml:lang="la">Iesu Christi</foreign> gew&#252;sslich lauter zu&#870; erkennen geben.</s>
+					<s n="23" xml:lang="la" type="auto">Vale in domino et me semper ama.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto">Unser abt hat das liedlin, &#252;ns der z&#246;pllen halber und veld- und walchgeltz, so wir von seinen gotzhu&#223;leuten empfachend, au&#223;zu&#870;singen, widerum on alles &#252;nser gedenken zu&#870; Baden und &#252;ns hinderruggs angefangen und aber vergangens jars die seinen alles das zalen la&#223;en, dess er sich gegen &#252;ns beschwerdt hatt.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Da wirt ouch ain neuwer teufel inn steken.</s>
+					<s n="26" xml:lang="de" type="auto">Unser begeren ist aber allain, das wir bey demm gehandthabt werdind, darzu&#870; wir hayter, lauter und offenbar recht habend, laut und verm&#246;g briefen und siglen und eerlichs, grondtlichs und redlichs berichtz, und werdend dabey (weyl man ie gehadert haben wil) dem abt sagen, woran er den hu&#870;sten gessen hat; wiewol ich meins tayls endtlich achten, der abt were nit b&#246;&#223;, wo in andere gu&#870;t bleyben liessind.</s>
+					<s n="27" xml:lang="de" type="auto">in summa: so s&#228;chind ettlich gern, das wir die m&#252;ly mit allen kosten in gebeuw und eeren hieltind und alle welt den kernen [ver]gebens darau&#223; fu&#870;rte und un&#223; der spr&#252;well f&#252;r den lon blybe.</s>
+					<s n="28" xml:lang="de" type="auto">Es wil viler leuten todt sein, das uns die sonn anscheindt.</s>
+					<s n="29" xml:lang="la" type="auto">Commenda me consulibus.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Sangalli, postridie calendarum Iulii, anno MDXLVIII.</s>
+					<s n="31" xml:lang="la" type="auto">Ioachimus Vadianus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="32" xml:lang="la" type="auto">Praestantissimo viro D. Henrycho Bullingero, celeberrimae ecclesiae Tigurinae episcopo, domino suo amantissimo.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Ich schiken &#252;[wer] Wirde hiemit zwo copien - sind mir von Augspurg zu&#870;khommen -, in welchen das bewerben der gotlosen, tru&#868;ben stenden der praelaten und der f&#252;rsten etc. auf die proposition ettlicher mittelartikul dess kaysers etc. vergriffen ist.</s>
+					<s n="34" xml:lang="de" type="auto">Wann man inen zu&#870;la&#223;t, wess sy begerend, so stadt die religion recht, und thu&#870;nd imm gleych, samm sy lieber t&#252;rkisch dann evangelisch sein wellind, wann ire&#223; thu&#870;ns und la&#223;ens verenderung mit ainiche[r] reformation geschechen solte.</s>
+					<s n="35" xml:lang="la" type="auto">Ita sese obfirmat postremis hisce temporibus abominatio, stans in loco sancto, et regnum illud Antichristi, quod unico ore domini profligabitur.</s>
+					<s n="36" xml:lang="de" type="auto">Das ist amm hochsten zu&#870; bedauren und zu&#870; klagen, da&#223; sy ir neuw eingefu&#868;rte leeren und ierthumb sich nit schemend mit demm tittel war&#223; und altz glaubens zu&#870; besch&#246;nen, und sich selbs catholicos nemmend, <foreign xml:lang="la">hoc est orthodoxos</foreign> (also verstond sy e&#223;), die in der warhait in allen spennigen artiklen nit orthodoxi, sondern cacodoxi erfonden werdend.</s>
+					<s n="37" xml:lang="de" type="auto">Die sag ist, der k[aiser] habe ain leydenlich mittel getroffen; ich vernimm aber, da&#223; e&#223; ain mischmasch ist, das f&#252;rnemlich n&#252;tzit ander&#223;, dann ain wonderbarlich papstthumb in sich haltet.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="de" type="auto">Pfaltzgraf und churf&#252;rst zu&#870; Brandenburg sin noch in allem reychstag nie zu&#870; ainicher mess khomen.</s>
+					<s n="39" xml:lang="de" type="auto">Ietz zu&#870;letzst hat sye der kaiyser bewerben la&#223;en, das sy doch imme zu&#870;n eeren mithetschen wellind etc.; wellichs ouch geschechen.</s>
+					<s n="40" xml:lang="de" type="auto">In summa creditur: womit er den papst zu&#870; erwerben und von dem Frantzosen und den Venedigern abzeschrentzen kondt und m&#246;cht, dess wurde er sich begeben; dann sein furnemst hofgesind aller dingen pepstisch ist.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Hi sunt arbitri (arbitrij) honorarii doctrinae Christi.</s>
+					<s n="42" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="43" xml:lang="la" type="auto">Domino Henrycho Bullingero, longe spectatissimo amico.</s>
+					<s n="44" xml:lang="la" type="auto">Tiguri</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

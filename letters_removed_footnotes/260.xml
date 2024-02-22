@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file260" type="Brief" source="TUSTEP" n="18222">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Griesenberg AN Heinrich Bullinger / Z&#252;rich, 10. September 1548</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 357,289 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>ich wollt euch gern zytung schreiben, weiss ich doch warlich nichts, das ich nitt achte euch vorhin ain wissen haben. Uff gestert</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Blarer BW II, S. 735f R.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 68,14</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/260">
+				<correspAction type="sent">
+					<persName ref="p8055" cert="high">
+						<!--
+						<surname cert="high">Blarer (Blaurer)</surname>
+						<forename cert="high">Ambrosius</forename>
+						<graphic type="portrait" url="portraits/392_Blarer_Ambrosius.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Ambrosius_Blarer"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118663763"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11445074"/>
+						-->
+					</persName>
+					<placeName source="l184" cert="high"><orig>Griesenberg</orig></placeName>
+					<date when="1548-09-10" cert="low"><note>1. Brief; 2. Brief = ID 261</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file261"/>
+					<ref type="prev_chronologically" target="file259"/>
+					<ref type="next_correspondence" target="file261"/>
+					<ref type="prev_correspondence" target="file255"/>
+					<ref type="next_correspondence_request" target="file261"/>
+					<ref type="prev_correspondence_request" target="file255"/>
+					<ref type="next_correspondence_reaction" target="file311"/>
+					<ref type="prev_correspondence_reaction" target="file13134"/>
+					<ref type="next_same_sender" target="file261"/>
+					<ref type="prev_same_sender" target="file255"/>
+					<ref type="next_same_addressee" target="file273"/>
+					<ref type="prev_same_addressee" target="file257"/>
+					<ref type="next_with_sender_as_addressee" target="file261"/>
+					<ref type="prev_with_sender_as_addressee" target="file255"/>
+					<ref type="next_with_addressee_as_sender" target="file273"/>
+					<ref type="prev_with_addressee_as_sender" target="file257"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="22">Latein</language>
+				<language ident="de" usage="978">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/260%2FAutograph%2F00%20E_II_357__S__289_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">260/Autograph/00 E_II_357__S__289_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/260%2FAutograph%2F01%20E_II_357__S__290_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">260/Autograph/01 E_II_357__S__290_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Lieber herr und bru&#870;der, ich wollt euch gern zytung schreiben, wai&#223; ich doch warlich nichts, da ich nitt achte euch vorhin ain wissen haben.</s>
+					<s n="2" xml:lang="de" type="auto">Uff gestert, sontag, hat man fru&#868; zu&#870; Costentz anfachen schiessen, und sind der schutz vyl gewesen, die man hussen geh&#246;rt hat; ist aber nieman kommen, der uns ychzit anz&#246;gt hab; nit wissen wir, was oder warum es beschechen ist.</s>
+					<s n="3" xml:lang="de" type="auto">Gott erbarm sich der sinen!</s>
+					<s n="4" xml:lang="de" type="auto">Ist ubel zu&#870; besorgen, der kaiser werde sich underston, die statt gar in sein hand ze bringen, damitt er den platz inhab und den aidgnossen allda allweg leut an die thu&#868;r setzen konne, damitt sy anhaim blyben und hu&#868;ten mu&#868;ssind und dem k&#246;nig nitt on grosse fahr zu&#870;ziechen m&#246;gind.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Der schriber von Pfin, gar ain gu&#870;ter, frommer man, ist die nechsten tag zu&#870; Zell am Undersee, ouch zu&#870; Messkirch gewesen, hat meinem schwager Gorius von Ulm, ouch myner lieben [schwester] (mynem l[ieben] sch[wager]) ettlich zins inzogen.</s>
+					<s n="6" xml:lang="de" type="auto">Der hat un&#223; sampstag nechst anz&#246;gt, das im gantz glouplich zu&#870; Messkirch und Zell gesagt seye, das der kaiser von Spyr auff C&#246;ln verruckt seye.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Aber ain frisch volck, alles welsch, dreu regiment fu&#870;ssvolck, sye zu&#870; Ulm gewesen, nitt in die statt kommen, sonder habe uber die Tonauw gepruckt; seyen ouch 500 gantz wolgeruster raisiger gewesen; die seyen all uff Duttlingen und in dieselbigen gegne gezogen; nitt wisse man, was sy im synn habind, dann das ettlich mainind, sy werdind weyter sich um Costentz annemmen.</s>
+					<s n="8" xml:lang="de" type="auto">Das macht mich ouch etwas angsthafft, das ich sorgen, es m&#246;chte uff gestert morgens etwas gehandelt sein worden.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Gott verlyche den sinen den zytlichen und ewigen friden, las&#223; un&#223; ainmal us&#223; sorgen in im gefellige sicherhait, das wir inn weyter in der gemaind siner hailgen loben und prysen mogind!</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Der verzug mitt der aidgnossen botten, das der nitt widerkompt will nichts gu&#870;ts bedeuten, diewyl der kaiser on zwyfel bericht, das sy daruff handlen wellen, das kain fr&#246;mbd volck in die statt gelegt werde, und ime aber dasselbig nitt gelegen, wirt er vorhin sechen, das er desshalb sinen willen machen und, eh man in handlung komme, er schon gehandelt habe.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Hertzog von Sophoy soll ain truchsesen by euch gehapt und begert haben, ain allte ainigung widerum zu&#870; erneuweren; sollend dieselbigen brieff in des kaisers cantzley gemacht sein worden und er gantz willens sein, Sophoy anzu&#870;fechten, darinn sich weder Zurich noch die andern der Berner annemmen wellen.</s>
+					<s n="12" xml:lang="de" type="auto">Ist etwas daran, wellt mich berichten.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Was myner herren gesandten nechermal fu&#868;r antwurt von ewern herren widerum gebracht habind, hab ich noch von Costentz nitt vernommen.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto">Item es sollend Seestetter</s>
+					<s n="15" xml:lang="de" type="auto">Werden ir wol wissen, ob etwas daran seye.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Ich vernym, das der kaiser verruckter tag ewern herren und andern ain entschuldigung thon habe, wie im mitt unwarhait uffgereddt werde das er den Stetten verhaissen sollt haben, sy by ir religion belyben ze lassen; sonder seye s&#246;lichs von seinen r&#228;then on seinen bevelch beschechen, dem ich doch nitt glouben geben kan; denck, ir hetten mir etwas davon geschriben.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Der Frechtus ist mitt vier andern predigern gefencklich hinweggefu&#868;rt von dem churf&#252;rsten; ist gro&#223; bitt fu&#868;r sy beschechen, hat aber nichts m&#246;gen verfachen.</s>
+					<s n="18" xml:lang="de" type="auto">Wahin sy kommen seyen oder was man mitt inen handlen werde, waist man nitt, wie man ouch nienen erfaren kan, wa Brentius hinkommen seye.</s>
+					<s n="19" xml:lang="de" type="auto">Gott verlich inen allen ain bestendig hertz und fraidigen gaist, sinen namen zu&#870; bekennen <foreign xml:lang="la">in conspectu regum.</foreign></s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Thomas Naogeorgus ist zu&#870; Ulm gewesen, alls Frechtus und die anderen hinweggefu&#868;rt sind worden.</s>
+					<s n="21" xml:lang="de" type="auto">Der hat mir die tag geschriben, kompt von Koofb&#252;ren hinweg, wisste gern etwan ain underschloff, ist ain sehr glerter man, hat vor aus&#223; Sachsen mu&#868;ssen von des sacraments wegen, ist mir sonst seines wesens onbekant.</s>
+					<s n="22" xml:lang="de" type="auto">Haltend mir min ylend, unfleyssig schreiben zu&#870; gu&#870;t.</s>
+					<s n="23" xml:lang="de" type="auto">Gru&#868;tzend all gu&#870;t herren und fr&#252;nd und z[uvor] ewer gantz hau&#223;gesind.</s>
+					<s n="24" xml:lang="de" type="auto">Min hertzliebe schwester empeut euch all ir christelich truw und lieb.</s>
+					<s n="25" xml:lang="de" type="auto">Ach las&#223;t uns ru&#870;ffen und schreyen, das un&#223; der starck, lieb herr gott doch mitt gnaden anseche und un&#223; den finden nitt zu&#870; sp[ott] setze, verschone seines grossen nammens und sich unser erbarme.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="de" type="auto">Datum Griessenberg den 10. Septembris 1548.</s>
+					<s n="27" xml:lang="la" type="auto">Tuus A[mbrosius] Bl[aurerus].</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="28" xml:lang="la" type="auto">Domino Heinricho Bullingero suo.</s>
+					<s n="29" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

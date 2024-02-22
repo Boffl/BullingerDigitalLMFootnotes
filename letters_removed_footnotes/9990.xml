@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9990" type="Testament" source="TUSTEP" n="42221">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] AN s.n. / [Z&#252;rich], 2. August 1575</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Testament" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E I 1.72, Nr. 4</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E I 1.4</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Ich bitten u.w. sy w&#246;lle di&#223; min schriben willig erh&#246;ren, gnediglich uffn&#228;men und wolbed&#228;ncken</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a6">
+							<name>Basel UB</name>
+							<ref target="https://ub.unibas.ch/de"/>
+						</repository>
+						<settlement ref="l28">Basel</settlement>
+						<institution>Universit&#228;tsbibliothek</institution>
+						-->
+						<repository ref="a6"/>
+						<idno subtype="Kopie">Ms Ki Ar 22a, fo 528</idno>
+						<idno subtype="Hinweis">irrt. dat. (Jahr): &#171;1578&#187; Aug. 2.</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms H 164,187-190r</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 381,1390-1399</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 358, 407-410</idno>
+						<idno subtype="Hinweis">von C. Pestalozzi, 618-622, benutzt</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Simler, Josias</author>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms A 96, 498r-499v</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Gwalther, Rudolf</author>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Testament" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a12">
+							<name>Bern BB</name>
+							<ref target="https://www.burgerbib.ch/de"/>
+						</repository>
+						<settlement ref="l41">Bern</settlement>
+						<institution>Burgerbibliothek</institution>
+						-->
+						<repository ref="a12"/>
+						<idno subtype="Kopie">M&#252;l. 519, Nr. 13, p. 471-479</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/9990">
+				<correspAction type="sent">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<date when="1575-08-02" cert="low"><note>Testament (kein Brief) (HB schrieb sein Testament Ende August 1572 und erg&#228;nzte und datierte es neu am 2. August 1575)  Begleitbrief dazu siehe: 1575 August .., ID 9988</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<roleName ref="g14" type="pl" role="B&#252;rgermeister" cert="low"/>
+					<roleName ref="g59" type="pl" role="R&#228;te" cert="low"/>
+					<placeName source="l587" cert="low"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file9991"/>
+					<ref type="prev_chronologically" target="file9989"/>
+					<ref type="prev_correspondence" target="file9275"/>
+					<ref type="prev_correspondence_request" target="file9275"/>
+					<ref type="prev_correspondence_reaction" target="file9141"/>
+					<ref type="prev_same_sender" target="file9988"/>
+					<ref type="prev_same_addressee" target="file9141"/>
+					<ref type="prev_with_sender_as_addressee" target="file9988"/>
+					<ref type="prev_with_addressee_as_sender" target="file9141"/>
+					<ref type="child" target="file9988"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="7">Latein</language>
+				<language ident="de" usage="993">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F00%20E_I_1_72__Nr__4__S__1_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">9990/Autograph/00 E_I_1_72__Nr__4__S__1_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F01%20E_I_1_72__Nr__4__S__2_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">9990/Autograph/01 E_I_1_72__Nr__4__S__2_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F02%20E_I_1_72__Nr__4__S__3_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">9990/Autograph/02 E_I_1_72__Nr__4__S__3_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F03%20E_I_1_72__Nr__4__S__4_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">9990/Autograph/03 E_I_1_72__Nr__4__S__4_.tif</desc></graphic>
+		<graphic xml:id="img5" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F04%20E_I_1_72__Nr__4__S__5_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">9990/Autograph/04 E_I_1_72__Nr__4__S__5_.tif</desc></graphic>
+		<graphic xml:id="img6" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F05%20E_I_1_72__Nr__4__S__6_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">9990/Autograph/05 E_I_1_72__Nr__4__S__6_.tif</desc></graphic>
+		<graphic xml:id="img7" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F06%20E_I_1_72__Nr__4__S__7_.tif/full/max/0/default.jpg" n="7"><desc subtype="path">9990/Autograph/06 E_I_1_72__Nr__4__S__7_.tif</desc></graphic>
+		<graphic xml:id="img8" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F07%20E_I_1_72__Nr__4__S__8_.tif/full/max/0/default.jpg" n="8"><desc subtype="path">9990/Autograph/07 E_I_1_72__Nr__4__S__8_.tif</desc></graphic>
+		<graphic xml:id="img9" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FAutograph%2F08%20E_I_1_72__Nr__4__S__9_.tif/full/max/0/default.jpg" n="9"><desc subtype="path">9990/Autograph/08 E_I_1_72__Nr__4__S__9_.tif</desc></graphic>
+		<graphic xml:id="img10" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F00%20E_II_381__fol__1390_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">9990/Kopie/00 E_II_381__fol__1390_r_.tif</desc></graphic>
+		<graphic xml:id="img11" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F01%20E_II_381__fol__1390_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">9990/Kopie/01 E_II_381__fol__1390_v_.tif</desc></graphic>
+		<graphic xml:id="img12" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F02%20E_II_381__fol__1391_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">9990/Kopie/02 E_II_381__fol__1391_r_.tif</desc></graphic>
+		<graphic xml:id="img13" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F03%20E_II_381__fol__1391_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">9990/Kopie/03 E_II_381__fol__1391_v_.tif</desc></graphic>
+		<graphic xml:id="img14" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F04%20E_II_381__fol__1392_r_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">9990/Kopie/04 E_II_381__fol__1392_r_.tif</desc></graphic>
+		<graphic xml:id="img15" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F05%20E_II_381__fol__1392_v_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">9990/Kopie/05 E_II_381__fol__1392_v_.tif</desc></graphic>
+		<graphic xml:id="img16" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F06%20E_II_381__fol__1393_r_.tif/full/max/0/default.jpg" n="7"><desc subtype="path">9990/Kopie/06 E_II_381__fol__1393_r_.tif</desc></graphic>
+		<graphic xml:id="img17" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F07%20E_II_381__fol__1393_v_.tif/full/max/0/default.jpg" n="8"><desc subtype="path">9990/Kopie/07 E_II_381__fol__1393_v_.tif</desc></graphic>
+		<graphic xml:id="img18" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F08%20E_II_381__fol__1394_r_.tif/full/max/0/default.jpg" n="9"><desc subtype="path">9990/Kopie/08 E_II_381__fol__1394_r_.tif</desc></graphic>
+		<graphic xml:id="img19" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F09%20E_II_381__fol__1394_v_.tif/full/max/0/default.jpg" n="10"><desc subtype="path">9990/Kopie/09 E_II_381__fol__1394_v_.tif</desc></graphic>
+		<graphic xml:id="img20" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F10%20E_II_381__fol__1395_r_.tif/full/max/0/default.jpg" n="11"><desc subtype="path">9990/Kopie/10 E_II_381__fol__1395_r_.tif</desc></graphic>
+		<graphic xml:id="img21" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F11%20E_II_381__fol__1395_v_.tif/full/max/0/default.jpg" n="12"><desc subtype="path">9990/Kopie/11 E_II_381__fol__1395_v_.tif</desc></graphic>
+		<graphic xml:id="img22" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F12%20E_II_381__fol__1396_r_.tif/full/max/0/default.jpg" n="13"><desc subtype="path">9990/Kopie/12 E_II_381__fol__1396_r_.tif</desc></graphic>
+		<graphic xml:id="img23" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F13%20E_II_381__fol__1396_v_.tif/full/max/0/default.jpg" n="14"><desc subtype="path">9990/Kopie/13 E_II_381__fol__1396_v_.tif</desc></graphic>
+		<graphic xml:id="img24" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F14%20E_II_381__fol__1397_r_.tif/full/max/0/default.jpg" n="15"><desc subtype="path">9990/Kopie/14 E_II_381__fol__1397_r_.tif</desc></graphic>
+		<graphic xml:id="img25" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F15%20E_II_381__fol__1397_v_.tif/full/max/0/default.jpg" n="16"><desc subtype="path">9990/Kopie/15 E_II_381__fol__1397_v_.tif</desc></graphic>
+		<graphic xml:id="img26" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F16%20E_II_381__fol__1398_r_.tif/full/max/0/default.jpg" n="17"><desc subtype="path">9990/Kopie/16 E_II_381__fol__1398_r_.tif</desc></graphic>
+		<graphic xml:id="img27" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F17%20E_II_381__fol__1398_v_.tif/full/max/0/default.jpg" n="18"><desc subtype="path">9990/Kopie/17 E_II_381__fol__1398_v_.tif</desc></graphic>
+		<graphic xml:id="img28" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F18%20E_II_381__fol__1399_r_.tif/full/max/0/default.jpg" n="19"><desc subtype="path">9990/Kopie/18 E_II_381__fol__1399_r_.tif</desc></graphic>
+		<graphic xml:id="img29" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F19%20E_II_381__fol__1399_v_.tif/full/max/0/default.jpg" n="20"><desc subtype="path">9990/Kopie/19 E_II_381__fol__1399_v_.tif</desc></graphic>
+		<graphic xml:id="img30" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F00%20E_II_358__fol__407_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">9990/Kopie/00 E_II_358__fol__407_r_.tif</desc></graphic>
+		<graphic xml:id="img31" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F01%20E_II_358__fol__407_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">9990/Kopie/01 E_II_358__fol__407_v_.tif</desc></graphic>
+		<graphic xml:id="img32" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F02%20E_II_358__fol__408_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">9990/Kopie/02 E_II_358__fol__408_r_.tif</desc></graphic>
+		<graphic xml:id="img33" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F03%20E_II_358__fol__408_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">9990/Kopie/03 E_II_358__fol__408_v_.tif</desc></graphic>
+		<graphic xml:id="img34" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F04%20E_II_358__fol__409_r_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">9990/Kopie/04 E_II_358__fol__409_r_.tif</desc></graphic>
+		<graphic xml:id="img35" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F05%20E_II_358__fol__410_r_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">9990/Kopie/05 E_II_358__fol__410_r_.tif</desc></graphic>
+		<graphic xml:id="img36" url="https://iiif.bullinger-digital.ch/iiif/3/9990%2FKopie%2F06%20E_II_358__fol__410_v_.tif/full/max/0/default.jpg" n="7"><desc subtype="path">9990/Kopie/06 E_II_358__fol__410_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Fromm, vest, ersamm, f&#252;rsichtig und wyse herr burgermeister und gn&#228;dig lieb herren.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Ich bitten u[wer] w[y&#223;heit], sy w&#246;lle di&#223; min schryben willig verh&#246;ren, gn&#228;dicklich uffnemmen und wol bed&#228;ncken, dann ich es gar gu&#870;ter christenlicher meynung zu&#870;r letze geschriben hab.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">[1.] Und f&#252;r das erst dancken ich &#252;ch minen gn&#228;digen herren umm alles das gu&#870;t, das ir mir und den minem ye bewisen habend.</s>
+					<s n="4" xml:lang="de" type="auto">Der allm&#228;chtig Gott w&#246;lle &#252;ch das alles verg&#228;llten und &#252;ch, ouch &#252;wer statt und land, sinen s&#228;gen verlyhen.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">[2.] Demnach<note xml:id="fna" type="footnote" n="a">korrigiert aus 40.</note> jar vers&#228;hen (dann ich den 9. decembris imm 1531. iar von &#252;ch, minen gn&#228;digen herren den r&#228;dten und burgeren</s>
+					<s n="6" xml:lang="de" type="auto">Wo ich anders und besser gem&#246;gen, h&#228;tte ichs gar gern und willig gethan.</s>
+					<s n="7" xml:lang="de" type="auto">Bitten aber underth&#228;nig, man w&#246;lle an minem dienst f&#252;r gu&#870;t haben.</s>
+					<s n="8" xml:lang="de" type="auto">Und bez&#252;gen hiemitt vor Gott und &#252;ch, sinen dienern und von imm geordneter oberkeit, das die leer</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Dagegen bekenn ich heyter und klar, da&#223; des babsts leer, die der unseren zu&#870; wider ist, die falsch, verfu&#868;risch leer ist, die von heyligen apostlen verworffen und under des Antichristen namen verdampt ist.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Wie das alles in unser confession</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Unnd in disem waren christenlichen glouben scheyden ich ab, zu&#870; unserem herren Christo, welchen ich f&#252;r minen einigen heyland, l&#228;ben, erl&#246;ser und trost erckennen; welchen ich pry&#223; und loben in eewikeit.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">[3.] Zum dritten, sol u[wer] w[y&#223;heit] eigentlich w&#252;ssen, und &#252;ch anders nun nitt ynbilden lassen, dann da&#223; das Trientisch concilium<pb type="scan" next="2"/> und alle andere b&#228;pstische concilia, die ye angerichtet sind, und noch in k&#252;nfftigem m&#246;chtend angericht werden, alein dahin dienend, das der war gloub verd&#252;ncklet und undertruckt werde, und ir all widerum in die pf&#228;ffisch dienstbarkeit kummind.</s>
+					<s n="13" xml:lang="de" type="auto">Dorumm willigend in deren keines.</s>
+					<s n="14" xml:lang="de" type="auto">Blibend by erkanter warheit, und verlassend &#252;ch allw&#228;g und alein uff die biblische geschrifft.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Mu&#868;ssend ir dann glich wol dorum lyden, so ged&#228;nckend, was ir an seel, eer, lib und gu&#870;t lyden mu&#868;ssend, wenn ir der mu&#870;twilligen, stoltzen pfaffen und gytigen, unreynen m&#252;nchen fu&#870;&#223;lumpen gar werdint, und die war selikeit verlierend.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">[4.] Zum fierten bitten ich tr&#252;wlich, das ir, min g[n&#228;dige] h[erren], unverzogenlich ein anderen pfarrer und diener an min statt erw&#246;llen und setzen w&#246;llind, und das uffr&#228;cht und redlich, mitt gotzforcht, und one alles practizieren</s>
+					<s n="17" xml:lang="de" type="auto">Dann by dem practizieren ist und was</s>
+					<s n="18" xml:lang="de" type="auto">Lassend es aber nach der verschribnen g&#246;ttlichen ordnung gan, das[dass] wenn &#252;ch ettliche r&#228;chtgeschaffne personen f&#252;rgeschlagen werdint, ir einen u&#223; der selben zaal n&#228;mind, der gotzf&#246;rchtig, fromm, tr&#252;w, gelert, und demu&#868;tig, dappffer und fridlich sye, nitt ungelert, stoltz, hochtragen, fr&#228;ch, fr&#228;ffen</s>
+					<s n="19" xml:lang="de" type="auto">Es mu&#870;&#223; der pfarrer vern&#252;nfftig, arbeitsam und gedultig, gu&#868;tig, doch redlich, ernsthafft sin, der der statt und dem land tr&#252;w und hold<note xml:id="fnb" type="footnote" n="b">=Parteien</note> an ich h&#228;ncke und mache.</s>
+					<s n="20" xml:lang="de" type="auto">Dann wenn die predicanten nitt wol zamen ziehend und heymlichen, nydigen willen g&#228;gen andern tragend, bricht s&#246;mliche u&#223; in zwytracht, der</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de" type="auto">Und ich hab die zyt mines diensts offt erfaren, was ru&#870;wen und unru&#870;wen</s>
+					<s n="22" xml:lang="de" type="auto">Gott hatt uns in einikeit behallten.</s>
+					<s n="23" xml:lang="de" type="auto">Den bittend ouch ietzund ernstlich und lassend f&#252;rpitt in kylchen hallten<note xml:id="fnc" type="footnote" n="c">und lassend f&#252;rpitt in kylchen hallten <hi>am Rande nachgetragen.</hi></note>, das er &#252;ch einen pfarrer<pb type="scan" next="3"/> g&#228;be, denselben ouch mitt sinen gnaden leyte und beware, das[s] ir by der warheit und in r&#228;chter einikeit in friden<note xml:id="fnd" type="footnote" n="d">in friden <hi>&#252;ber der Zeile nachgetragen.</hi></note> und r&#228;chtem wolstand blyben m&#246;gind.</s>
+					<s n="24" xml:lang="de" type="auto">Amen.</s>
+				</p>
+				<p>
+					<note>[Nachtrag von 1575 am Rande:]</note>
+					<s n="25" xml:lang="de" type="auto">Und gib ich hie imm namen Gottes min stimm h[erren] Rodolffen Waltharten</s>
+					<s n="26" xml:lang="de" type="auto">Das g&#228;be Gott.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="de" type="auto">[5.] Zum f&#252;nfften weist mencklichen, durch die erfarung, das Gott der allm&#228;chtig durch den Truck</s>
+					<s n="28" xml:lang="de" type="auto">Dorumm ouch vil b&#246;ser l&#252;then dem Truck gar uffsetzig und find sind, woltend inn gern verstricken</s>
+					<s n="29" xml:lang="de" type="auto">Und wirt aber wol so vil gu&#870;ts geschafft mitt dem trucken, alls mitt dem muntlichen predigen, welchs nitt an alle ort, wie der truck, kummen mag.</s>
+					<s n="30" xml:lang="de" type="auto">Dorum lasse sich &#252;wer wy&#223;heit nimmer mer dahin bringen, das ir ein s&#246;mlich Gottes herrlichs kleinot w&#246;llind verhinderen und vern&#252;ten.</s>
+					<s n="31" xml:lang="de" type="auto">Dann hiemitt wurde ouch die unru&#868;wig s&#252;ndig w&#228;llt, deren man es zu&#870; lieb th&#228;te, weder gestillet noch gebesseret, und aber grosse ungnad Gottes uffgeladen.</s>
+					<s n="32" xml:lang="de" type="auto">Herwiderum versorge man den Truck dermassen ouch, das n&#252;t args noch unredlichs und uffru&#868;rigs getruckt werde.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">[6.] Zum s&#228;chsten bitten ich &#252;ch, min gnedig herren, umm Gottes und &#252;wers heyls willen, das ir f&#252;rohin geflissner gangind zum wort Gottes, und zum gmeinen geb&#228;tt in die kylch<note xml:id="fne" type="footnote" n="e">in die kylch <hi>&#252;ber der Zeile nachgetragen.</hi></note>, dann es bi&#223;har von uwer meerteyl besch&#228;hen ist.</s>
+					<s n="34" xml:lang="de" type="auto">Ru&#868;ffend Gott ernstlich an, das er &#252;ch gnad und krafft verlihe, wol und nach sinem willen zu&#870; regieren.</s>
+					<s n="35" xml:lang="de" type="auto">Lassend &#252;ch ein fromme gemeind, alls v&#228;ttern des volcks, tr&#252;wlich befolhen sin.</s>
+					<s n="36" xml:lang="de" type="auto">Halltend yederman gu&#870;t gricht und r&#228;cht.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="de" type="auto">H&#228;lffend den armen, dem fr&#246;mbdling, den wyttwen und weysen.</s>
+					<s n="38" xml:lang="de" type="auto">Straffend die &#252;belth&#228;ter, wie sich geb&#252;rt.</s>
+					<s n="39" xml:lang="de" type="auto">Schirmend das gu&#870;t, und fromm, biderb</s>
+					<s n="40" xml:lang="de" type="auto">S&#228;hend kein person an</s>
+					<s n="41" xml:lang="de" type="auto">N&#228;mend keine gaaben, das r&#228;cht zu&#870; verkeren.</s>
+					<s n="42" xml:lang="de" type="auto">Handlend n&#252;t u&#223; gunst und ungunst usw.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="de" type="auto">Lassend &#252;ch ouch gn&#228;dicklich alle tr&#252;we predicanten befolhen sin.</s>
+					<s n="44" xml:lang="de" type="auto">Dann s&#246;ltend ir die schm&#228;chlich und untr&#252;wlich hallten, wurdent ir Gottes zorn wider &#252;ch reitzen.</s>
+					<s n="45" xml:lang="de" type="auto">Herwiderum straafend die, one alles schonen, die untr&#252;w, gytig, versoffen, uppig, schantlich und gottlo&#223; sind.</s>
+					<s n="46" xml:lang="de" type="auto">Dann ir wu&#870;st<pb type="scan" next="4"/> befleckt und ergeret vil in der gmeind.</s>
+					<s n="47" xml:lang="de" type="auto">Die r&#228;cht armen lassend lassend &#252;ch ouch befolhen sin.</s>
+					<s n="48" xml:lang="de" type="auto">Und was gu&#870;ter ordnungen mitt den armen und dem allmu&#870;sen</s>
+					<s n="49" xml:lang="de" type="auto">Insonderheit stellend ab und werend, das der b&#228;ttel nitt zum gwerb werde.</s>
+					<s n="50" xml:lang="de" type="auto">Den spittal und siechenh&#252;ser vers&#228;hend tr&#252;wlich und &#252;bersetzend sy nitt<note xml:id="fnf" type="footnote" n="f">und &#252;bersetzend sy nitt <hi>am Rande nachgetragen.</hi></note><note xml:id="fng" type="footnote" n="g">&#252;berf&#252;llt sie nicht.</note>.</s>
+					<s n="51" xml:lang="de" type="auto">Dann wer sich der armen erbarmbt, de&#223; erbarmpt sich Gott.</s>
+					<s n="52" xml:lang="de" type="auto">Und wer sin angesicht von r&#228;cht armen wendt, den erh&#246;rt Gott ouch nitt.</s>
+					<s n="53" xml:lang="de" type="auto">Ir, min gn&#228;dig herren, habend ein zimlich</s>
+					<s n="54" xml:lang="de" type="auto">Wenn ir das nitt r&#228;cht bruchend, fu&#868;rrend ir den zorn Gottes &#252;ber &#252;ch und &#252;ber alles volck.</s>
+					<s n="55" xml:lang="de" type="auto">Dorumm ist s&#246;mlich gu&#870;t gestifft oder von biderben luthen gest&#252;rt, das Gott darmitt geeret, und die r&#228;chten armen versorget, ouch die leer [Lehre], die schu&#870;len und was da dienet zum dienst der kilchen, nach notturfft</s>
+				</p>
+				<p>
+					<s n="56" xml:lang="de" type="auto">So das alles versorget und danachin noch ettwas &#252;berig w&#235;re, sol man dasselb nitt verg&#252;den und liederlich zerstr&#246;wen, sunder sparen oder zu&#870; gemeiner ynfallender nodt bewaren.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="de" type="auto">Und dorum, was gu&#870;ter ordnungen sind amm gestifft zum Grossen und zu&#870; dem Frowenm&#252;nster, und in beiden schu&#870;len daselbs, da sind umm Gotts willen vermanet, die selben nitt nun nitt zu&#870; zerst&#246;ren, sunder zu&#870; schirmen und zu erhalten.</s>
+					<s n="58" xml:lang="de" type="auto">S&#246;mlichs dienet zu&#870; gmeinem gu&#870;t der statt und dem land, insonders so man alle zyt gottsf&#246;rchtige gelerte personen hat, die alle kylchen versorgen, biderbe l&#252;th leeren [lehren] und r&#228;cht tr&#246;sten k&#246;nnend.</s>
+				</p>
+				<p>
+					<s n="59" xml:lang="de" type="auto">S&#246;llte da nei&#223;was</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="de" type="auto">Da so wirt gar notwendig sin, das ir alle zyt ordnind amptl&#252;th und schaffner, die nitt das iren, sunder den nutz der kylchen und &#228;mpteren schaffind.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="de" type="auto">Nitt s&#246;mliche, die vorhin verthan und unhu&#223;lich<note xml:id="fnh" type="footnote" n="h">un <hi>&#252;ber der Zeile nachgetragen.</hi></note>, ietzund aber gytig und untr&#252;w in 6 iaren w&#246;llind rych werden, sunder die hu&#223;lich und tr&#252;w, uch, unsern herren, wol husind und yederman nach geb&#252;r halltind, yerderman fr&#252;ntlich, was sy schuldig, g&#228;bind, nitt die l&#252;th anschnertzind</s>
+					<s n="62" xml:lang="de" type="auto">Dann somlichs der statt grossen unwillen gebirt, by fr&#246;mbdem und heymschem<pb type="scan" next="5"/> [7.] Zum sibenden bitten ich &#252;ch, min gnedig herren, das ir all wol w&#246;llind mitteinandren eins sin, und von einandren f&#252;r gu&#870;t haben, einandern lieben, und eer und gu&#870;ts gonnen, und nitt einandern von w&#228;gen der eeren und emptern willen nyden, verb&#252;nstig</s>
+				</p>
+				<p>
+					<s n="63" xml:lang="de" type="auto">Ir, min herren die r&#228;dt und zunfftmeister von der Constaffel und von den z&#252;nfften sampt den burgern<note xml:id="fni" type="footnote" n="i">sampt den burgern <hi>am Rande nachgetragen.</hi></note> sind ein einigs houpt, des einigen libs der gmeind.</s>
+					<s n="64" xml:lang="de" type="auto">Dorumm s&#246;llend ir all zamen ziehen und eins sin, einandern lieb und w&#228;rd</s>
+				</p>
+				<p>
+					<s n="65" xml:lang="de" type="auto">Alle &#252;were lobliche satzungen wider die laster gemachet, insonders wider die blu&#870;tigen pensionen</s>
+					<s n="66" xml:lang="de" type="auto">Hu&#868;tend &#252;ch vor fr&#246;mbden f&#252;rsten- und herren-p&#252;ntnussen, und das blu&#870;t &#252;wer biderben l&#252;then verkouffend nitt.</s>
+				</p>
+				<p>
+					<s n="67" xml:lang="de" type="auto">Stellend uff friden und ru&#870;w daheym und dau&#223;</s>
+					<s n="68" xml:lang="de" type="auto">Dann fliehend ir unn&#246;tige und mu&#870;twillige krieg, su&#870;chend ir frid und ru&#870;w von gantzem hertzen, so wirt &#252;ch gott friden und ru&#870;w verlyhen.</s>
+					<s n="69" xml:lang="de" type="auto">Wo nitt, wirt &#252;ch gott so gnu&#870;g zu&#870; kriegen g&#228;ben, dass ir nitt w&#252;ssind wo das end.</s>
+				</p>
+				<p>
+					<s n="70" xml:lang="de" type="auto">[8.] Und zum beschlu&#223;, alls ich hinder mir verla&#223;en, ettliche mine liebe kind und kindts kind, befilch ich sy vorab in Gottes, demnach</s>
+				</p>
+				<p>
+					<s n="71" xml:lang="de" type="auto">Bitten &#252;ch zum tr&#252;wlichisten, ir w&#246;llind irer aller tr&#252;we v&#228;tter in allem dem sin, da sy uwers radts, uwer hilff und tr&#246;stens bed&#246;rfftend.</s>
+				</p>
+				<p>
+					<s n="72" xml:lang="de" type="auto">Und w&#246;llind hierinn ans&#228;hen mine tr&#252;we und langwirige dienst, dann ich &#252;ch, minen gn&#228;digen herren, an einanderen ietzund in dem 52.<note xml:id="fnj" type="footnote" n="j"><hi>Am Rand f&#252;r im Text gestrichenes</hi> 49.</note> iar dienen.</s>
+					<s n="73" xml:lang="de" type="auto">Dann ich imm anfang des 1523. iars, uff Anthony, schu&#870;lmeister zu&#870; Cappell und bald darnach [1528] ouch predicant zu&#870; Husen worden bin.</s>
+					<s n="74" xml:lang="de" type="auto">Und da hab ich gedient in das 7. iar, das mir nie kein bestimpter lhon oder sold, wie hernach andern, mir nachvolgenden dienern, worden ist; alein verhie&#223; man mir an min arbeit, ich s&#246;llte alls einer des convents angenommen sin und<note xml:id="fnk" type="footnote" n="k">ich s&#246;llte alls einer des convents angenommen sin und <hi>am Rande nachgetragen f&#252;r im Text gestrichenens</hi> mir.</note> s&#246;llte mir<note xml:id="fnl" type="footnote" n="l">mir <hi>&#252;ber der Zeile nachgetragen.</hi></note> werden in lybding oder in anderen gefell, was einem anderen Cappeler<note xml:id="fnm" type="footnote" n="m">Cappeler <hi>&#252;ber der Zeile nachgetragen.</hi></note> conventherren gesprochen und geg&#228;ben wurde.</s>
+					<s n="75" xml:lang="de" type="auto">Hab aber<pb type="scan" next="6"/> bi&#223;har nie n&#252;t beg&#228;rt noch geh&#246;uschen, ist mir ouch f&#252;r dise ansprach nie hallers</s>
+				</p>
+				<p>
+					<s n="76" xml:lang="de" type="auto">In dem 1529. iar, im Meyen, thatend ir, min herren, mich von Cappel in min heymadt, gen Bremgarten, zum predicanten in fast</s>
+					<s n="77" xml:lang="de" type="auto">Dannen</s>
+					<s n="78" xml:lang="de" type="auto">Daruff grad ir min gnedig herren mich<note xml:id="fnn" type="footnote" n="n">mich <hi>&#252;ber der Zeile nachgetragen.</hi></note> annemnd an M[eister] U&#870;lrichen Zwinglis seligen<note xml:id="fno" type="footnote" n="o">seligen <hi>&#252;ber der Zeile nachgetragen.</hi></note> stadt, alls ouch obgemelt<note xml:id="fnp" type="footnote" n="p">43. <hi>am Rande f&#252;r im Text gestrichenes</hi> 40.</note> iar, hievor &#252;ch gedienet hab 9 iar, &#252;beral imm 52.<note xml:id="fnq" type="footnote" n="q">52. <hi>am Rande f&#252;r im Text gestrichenes</hi> 49.</note> iar.</s>
+				</p>
+				<p>
+					<s n="79" xml:lang="de" type="auto">Darzw&#252;schen h&#228;tte ich andere und richere st&#228;nd &#252;berkummen m&#246;gen, hab aber von minen vordern, den Bullingeren<note xml:id="fnr" type="footnote" n="r"><hi>Es folgt ein verblichenes, unlesbare Wort.</hi></note> ein besonder hertz zu&#870; &#252;ch, minen gn&#228;digen herren, und der statt Z&#252;rych gehept, deren ich mitt gu&#870;ten willen und gern, ouch wol vernu&#868;gt</s>
+				</p>
+				<p>
+					<s n="80" xml:lang="de" type="auto">Gott w&#246;llte, ich h&#228;tte noch baa&#223;</s>
+					<s n="81" xml:lang="de" type="auto">Wiewol<note xml:id="fns" type="footnote" n="s"><hi>Von</hi> Wiewol <hi>bis</hi> ynb&#252;chsen mu&#868;ssen <hi>am Rande nachgetragen.</hi></note>.</s>
+					<s n="82" xml:lang="de" type="auto">Wiewol ich in minem Testament den minen verlassen, bericht g&#228;ben, dass ich mich nitt alle zyt der besoldung und pfrund beh&#228;lffen m&#246;gen, denn dass ich ouch min eigen gu&#870;t ettwan<note xml:id="fnt" type="footnote" n="t">ettwan <hi>&#252;ber der Zeile nachgetragen.</hi></note> ynb&#252;chsen</s>
+					<s n="83" xml:lang="de" type="auto">Bitten aber, wie ouch von anfang, ir, min gnedig herren, w&#246;llind an minen willigen diensten f&#252;r gu&#870;t haben</s>
+				</p>
+				<p>
+					<s n="84" xml:lang="de" type="auto">Und ob ich yemandts under &#252;ch, minen gn&#228;digen herren, ye erz&#252;rnt h&#228;tte, bitten ich umm Gotts willen, das er mir verzyhe, wie ich dann ouch g&#228;ntzlich und yederman verzigen hab.</s>
+					<s n="85" xml:lang="de" type="auto">Und scheyden ab mitt friden und r&#228;chten fr&#246;uden.</s>
+				</p>
+				<p>
+					<s n="86" xml:lang="de" type="auto">Hoff zu&#870; Gott, durch unsern herren Jesum Christum, das wir<note xml:id="fnu" type="footnote" n="u"><hi>Folgt gestrichenes</hi> einandren.</note> mitt den gr&#246;sten fr&#246;uden, gw&#252;&#223;lich, in hymlen, widerumm einanderen s&#228;hen und Gott in eewikeit loben und prysen werdint.</s>
+				</p>
+				<p>
+					<s n="87" xml:lang="de" type="auto">Und hiemitt gnade &#252;ch Gott der allm&#228;chtig.</s>
+					<s n="88" xml:lang="de" type="auto">Die gnad Gott des vatters, und der s&#228;gen <foreign xml:lang="la">Iesu Christi,</foreign> sampt dem trost und sterckung des heyligen geistes, sye &#252;ber &#252;ch.</s>
+					<s n="89" xml:lang="de" type="auto">Der einig Gott w&#246;lle &#252;ch, uwer statt und land, &#252;wer aller eer, lib und gu&#870;t, in sinem g&#246;ttlichen schutz und schirm gn&#228;diklichen bewaren und vor allem b&#246;sen tr&#252;wlich behu&#868;ten.</s>
+					<s n="90" xml:lang="de" type="auto">Amen.</s>
+					<s n="91" xml:lang="de" type="auto">Amen.</s>
+				</p>
+				<p>
+					<s n="92" xml:lang="la" type="auto">Imm 2. augusti anno 1575<note xml:id="fnv" type="footnote" n="v"><hi>nachgetragen unter gestrichenem</hi> u&#223;genden augsten anno 1572.</note>.</s>
+				</p>
+				<p>
+					<s n="93" xml:lang="la" type="auto">Heinrich Bullinger der ellter [subscripsit].</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf S. 8:]</note>
+					<s n="94" xml:lang="de" type="auto">Den frommen, eerenvesten, f&#252;rsichtigen, ersammen und wysen herren Burgermeisteren, r&#228;dten und burgern der statt Z&#252;rych, minen gnedigen, lieben herren<note xml:id="fnw" type="footnote" n="w"><hi>Darauf auch Kanzlei- und Archivarenvermerke; S. 7 unbeschrieben.</hi></note></s>
+				</p>
+				<p>
+					<note>[Auf dem Umschlag Siegelspuren und Notiz des Stadtschreibers:]</note>
+					<s n="95" xml:lang="de" type="auto">M[eister] Heinrich Bullingers, pfarrer zum Gro&#223;en m&#252;nster seligen, abscheid, so er mynen herren glych uff syn t&#246;dlichs hinscheiden ze &#252;berantworten bevolchen; weliches vor reth und burgern, als man herr Ru&#870;dolf Walthern an syn statt gewelt, verl&#228;sen worden, sambstags, den 1. octobris anno 1575.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

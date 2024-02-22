@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3642" type="Brief" source="TUSTEP" n="28095">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN Johannes Fabricius Montanus (Schmid) / Chur, 8. Juli 1558</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 373,53 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Uewer ernstlich schryben und bet&#252;ren hab ich sins ynhallts gel&#228;sen und verstanden und w&#228;re gar willig in dem und der glychen</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. II, S. 89, Nr. 101 R.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 92,147</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/3642">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1558-07-08" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8009" cert="high">
+						<!--
+						<surname cert="high">Fabricius Montanus (Schmid)</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1075_Fabricius_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Fabricius_Montanus"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/104045698"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11414870"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="high"><orig>Chur</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file3643"/>
+					<ref type="prev_chronologically" target="file3641"/>
+					<ref type="next_correspondence" target="file3654"/>
+					<ref type="prev_correspondence" target="file3639"/>
+					<ref type="next_correspondence_request" target="file3654"/>
+					<ref type="prev_correspondence_request" target="file3625"/>
+					<ref type="next_correspondence_reaction" target="file3669"/>
+					<ref type="prev_correspondence_reaction" target="file3639"/>
+					<ref type="next_same_sender" target="file3647"/>
+					<ref type="prev_same_sender" target="file3637"/>
+					<ref type="next_same_addressee" target="file3669"/>
+					<ref type="prev_same_addressee" target="file3639"/>
+					<ref type="next_with_sender_as_addressee" target="file3647"/>
+					<ref type="prev_with_sender_as_addressee" target="file3637"/>
+					<ref type="next_with_addressee_as_sender" target="file3669"/>
+					<ref type="prev_with_addressee_as_sender" target="file3639"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/3642%2FAutograph%2F00%20E_II_373__S__53_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">3642/Autograph/00 E_II_373__S__53_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/3642%2FAutograph%2F01%20E_II_373__S__54_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">3642/Autograph/01 E_II_373__S__54_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Hoch- und wolgelerten, insonders g&#252;nstigen, lieben herren und br&#252;dern, min willig dienst und alles gu&#870;ts sye &#252;ch bevoran von mir alle zyt bereit.</s>
+					<s n="2" xml:lang="de" type="auto">&#220;wer ernstlich schryben und bet&#252;ren hab ich sins ynhallts gel&#228;sen und verstanden und w&#228;re gar willig in dem und der glychen h&#228;ndlen zu&#870; radten und zu&#870; h&#228;lffen, ja so es mir m&#246;glich were.</s>
+					<s n="3" xml:lang="de" type="auto">Ir dingend so vil an und w&#246;llend, das man &#252;ch ein so gelerten, ernsthafften, langge&#252;pten und bew&#228;rten zu&#870;schicke, das ich warlich nitt wey&#223;, wie oder wo man ein s&#246;mlichen finden k&#246;nde.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto">Ich hab nun me in die 35 jar der kylchen Christi gedienet; das ich mich aber f&#252;r ein s&#246;mlichen uu&#223;gebe, das thu&#870;n ich nitt, kan aber mitthinzu&#870; wol erckennen, was der selig apostel von den dienern forderet 1. Timotheon 3., und das wir alls menschen praesthafft sind.</s>
+					<s n="5" xml:lang="de" type="auto">Ich hallt es &#252;ch ouch zu&#870; gu&#870;tem, das ir so sorgfeltig sind f&#252;r die fromme kylch und eerenl&#252;t uff Dafas, die ir gern w&#246;lltind wol und f&#252;rus wol vers&#228;hen; ich acht aber, ir lassind &#252;ch danocht ouch eins zymlichen, geb&#252;rlichen vern&#252;gen in ans&#228;hen, das man ye zu&#870; den zyten thu&#870;n mu&#870;&#223;, wie man mag, und gott immerdar gnad gipt sinen dienern, das ettwan die, so rings ans&#228;hens sind, by den kylchen mee nutzes schaffend, dann die man f&#252;r hochgelert und wey&#223; ich worf&#252;r hat.</s>
+					<s n="6" xml:lang="de" type="auto">Das kan ich &#252;ch, lieben br&#252;dern in der warheit berichten, wie ir, lieber herr gevatter, wol w&#252;ssend, das, ob wir glych hie ein gu&#870;te schu&#870;l habend, doch uns ouch m&#252;ssend mitt l&#252;ten vern&#252;gen lassen, wie uns ye gott und die zyt gipt.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">So habend wir hie sid dem herpst in die 16 stend vers&#228;hen und erst diser tagen predicanten gen Alltstetten in das Rhyntaal, gen Zurzach</s>
+					<s n="8" xml:lang="de" type="auto">Ir redent wol th&#252;wr und hoch und vermanend, wie man &#252;ch mitt l&#252;ten vers&#228;hen s&#246;lle, ja wo mans h&#228;tte oder so min herren zu&#870; iren so grosser landtschafft nitt selbs vil bed&#246;rfftend, da sy mitt tr&#228;ff lichen kosten l&#252;t uffziehend und denocht schier nitt so vil, alls nodtwendig were, gehaben m&#246;gend.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Dorumb m&#252;ssend ir ouch bescheydenheit hallten und uns nitt zu&#870; vil zu&#870;mu&#870;ten; das w&#246;llend von mir in allem gu&#870;ten verstan.</s>
+					<s n="10" xml:lang="de" type="auto">H. Rodolff H&#252;&#223;li versicht Zollikon, hat vil kinden; h. Josue Fin&#223;ler versicht Ottelfingen und in der graffschafft Baden W&#252;renlo&#223;; h. Glast ist kummen in die grossen gmeind Sulgen ins Durg&#246;w etc.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Damitt ir aber s&#228;hind, das ich gern den eerenl&#252;ten uff Dafaas und ouch &#252;ch, minen eerenden, lieben br&#252;dern, gern dienen w&#246;llte, hab ich verm&#246;gen minen lieben gevattern h. Samuelen Kolmarn, der hie miner herren stipendiarius ist, geexaminiert und im predigampt ist, verm&#246;gen, das er zu&#870; &#252;ch hinuff reyset, die kylch uff Dafaas bes&#228;hen und sich da s&#228;hen und h&#246;ren lassen wil.</s>
+					<s n="12" xml:lang="de" type="auto">Er ist ein frommer, redlicher, tr&#252;wer man, hatt vor jaren in Toggenburg geprediget, da inn [imm?] der me&#223;pfaff uffgesetzt und inn davon triben hat.</s>
+					<s n="13" xml:lang="de" type="auto">Ir w&#252;ssend vilicht, wie und was min herren darinn gehandlet, doch wenig schaffen m&#246;gen.</s>
+					<s n="14" xml:lang="de" type="auto">Er emb&#252;t sich, so er &#252;ch und den biderben l&#252;ten gefallen m&#246;chte, das er erbar l&#228;ben, sin bests thu&#870;n, redlich studieren und sich tr&#252;wlich hallten wil.</s>
+					<s n="15" xml:lang="de" type="auto">Ob im aber begegnete, das imm zu&#870; schwerr, oder die biderben l&#252;t nitt gefallens an imm h&#228;ttend, so mag er widerumb heimm an sinen stand ziehen.</s>
+					<s n="16" xml:lang="de" type="auto">Doch bitten ich &#252;ch fr&#252;ntlich, ir w&#246;llind an den eerenl&#252;ten verm&#246;gen, das imm an sin m&#252;y, arbeit, kosten oder zeerung denocht ein zymlichs werde, diewyl er doch in irem dienst dise rey&#223; f&#252;rgenommen und gethan hat.</s>
+					<s n="17" xml:lang="de" type="auto">Hiemitt verstand min schryben im besten; dann ich alle zyt der &#252;wer bin und lieben &#252;ch im herren, bin &#252;ch zu&#870; dienen alle zyt bereit.</s>
+					<s n="18" xml:lang="de" type="auto">Sind alle zyt tr&#252;w; dann unsere sach vor gott uffr&#228;cht ist und wil, das wir uffr&#228;cht handlind.</s>
+					<s n="19" xml:lang="de" type="auto">Bittend alle zyt den herren f&#252;r mich.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Ich h&#228;tte gern mee geschriben, hab ich nitt vor gsch&#228;fften gem&#246;gen.</s>
+					<s n="21" xml:lang="de" type="auto">Gott mitt &#252;ch.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="de" type="auto">Datum Z&#252;rych 8. iulii 1558.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto">Heinrych Bullinger, &#252;wer bru&#870;der.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

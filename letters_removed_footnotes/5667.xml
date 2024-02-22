@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5667" type="Brief" source="TUSTEP" n="33036">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Fridolin Brunner (Fonteius)] / [Glarus] AN [Heinrich Bullinger], 28. M&#228;rz 1563</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 377,2392</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Pacem et gratian ... Accepi literas Marcii die 20. una cum libello, quem mihi dono misisti</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Maschinenschriftliche__Transkription">
+								<title>Martin Brunner, Fridolin Brunner 92-93, Nr. 31.</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>G. Heer, F. Brunner 53 f. Nr. 9</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/5667">
+				<correspAction type="sent">
+					<persName ref="p8303" cert="low">
+						<!--
+						<surname cert="low">Brunner (Fonteius)</surname>
+						<forename cert="low">Fridolin</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Fridolin_Brunner"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/108009265X"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11414501"/>
+						-->
+					</persName>
+					<placeName source="l176" cert="low"><orig>Glarus</orig></placeName>
+					<date when="1563-03-28" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file5668"/>
+					<ref type="prev_chronologically" target="file5666"/>
+					<ref type="next_correspondence" target="file5698"/>
+					<ref type="prev_correspondence" target="file5485"/>
+					<ref type="next_correspondence_request" target="file5698"/>
+					<ref type="prev_correspondence_request" target="file5485"/>
+					<ref type="next_correspondence_reaction" target="file5846"/>
+					<ref type="prev_correspondence_reaction" target="file4363"/>
+					<ref type="next_same_sender" target="file5698"/>
+					<ref type="prev_same_sender" target="file5485"/>
+					<ref type="next_same_addressee" target="file5684"/>
+					<ref type="prev_same_addressee" target="file5664"/>
+					<ref type="next_with_sender_as_addressee" target="file5698"/>
+					<ref type="prev_with_sender_as_addressee" target="file5485"/>
+					<ref type="next_with_addressee_as_sender" target="file5684"/>
+					<ref type="prev_with_addressee_as_sender" target="file5664"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/5667%2FAutograph%2F00%20E_II_377__fol__2392_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5667/Autograph/00 E_II_377__fol__2392_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/5667%2FAutograph%2F01%20E_II_377__fol__2392_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">5667/Autograph/01 E_II_377__fol__2392_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Pacem et gratiam a domino etc.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Accepi literas marcii die 20. una cum libello, quem mihi dono misisti, pro quo tibi ingentes gratias ago, et orabo dominum, ut brevi beneficium recompensandi occasionem praebeat.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Huic munusculo et multis tuis beneficiis me tibi cordi esse et memorem mei semper plus satis intelligo et in amicorum tuorum albo non ultimum esse.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Literarum tuarum ad me raritatem excusare non necessarium erat, dum singulis septimanis scripta tua consuli Beldio missa legere solo; omnia enim tua mihi communicat.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ex literis tuis 27. marcii ad nos missis magno perfusus sum gaudio, ex quibus percepi in Gallia pacem restitutam et iam omnia secura et tuta esse.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Utinam h&#281;c omnia in gloriam dei recidant.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Deo grati&#281; sunt agend&#281; immortales, qui preces piorum non spernit, verum suo tempore ipsos e tyrannorum potestate redimit et hostes in foveam cadere facit, quam piis foderunt</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Huic sit laus, gloria et potentia in s&#281;culum, amen.</s>
+					<s n="9" xml:lang="la" type="auto">Res nostras, qualiter sese habeant non dubito tibi ex Beldio notum; ob id supervacaneum foret de his multa scribere.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Hoc unum nunc abs te peto et te volo oratum, ut quam primum nobis mittas verbi ministrum fidelem, qui doctrina et pietate sit praeclarus, cuius fidei ecclesia Bethswandensis committatur.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Periculosum est apud nos Christi negotium tractare inter tot hostes; ob id oportet ministrum non solum docterina, verum eciam honesta vit&#281; conversatione ecclesi&#281; praelucere; pietas enim si defuerit, bene docta prophana vita destruet.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Annuatim habebit ex aerario ecclesiastico 80 aureos; amplius stipendium nec ego habeo, sed maximum vectigal parsimonia.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Si quem miseris, fac, ne absque tua et magistratus commendatione ad nos veniat; oportet ipsum habere de doctrina et vi[t]a literas testimoniales; alias in ministrum ab ecclesia non susciperetur.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale feliciter, et dominus tibi Nestoreos concedat annos, ut possis diu ecclesi&#281; su&#281; prodesse, ut hactenus factum est.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Huic sit laus et gloria in perpetuum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Dat&#281; 28. marcii 1563.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Fridolinus Fonteius tuus, Claronensis ecclesi&#281; minister, tui observantissimus.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Amplissimo et venerando viro d. Henricho Bullingero, Tiguri verbi minister, domino suo observandissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

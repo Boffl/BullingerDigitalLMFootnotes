@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file959" type="Brief" source="TUSTEP" n="20157">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / Z&#252;rich AN s.n. / St. Gallen, 4. Juli 1550</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 337,469 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Unser willige... Uewer fr&#252;ntlich schryben, belangend den sp&#228;nigen ehehandel Ludwigen Haga und Rosina Zollickofferin</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 72,227</idno>
+						<idno subtype="Hinweis">Hinweis</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 72,234</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/959">
+				<correspAction type="sent">
+					<roleName ref="g26" type="pl" role="Geistliche" cert="high"/>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1550-07-04" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<roleName ref="g26" type="pl" role="Geistliche" cert="high"/>
+					<placeName source="l474" cert="high"><orig>St. Gallen</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file960"/>
+					<ref type="prev_chronologically" target="file958"/>
+					<ref type="next_correspondence" target="file1483"/>
+					<ref type="prev_correspondence" target="file933"/>
+					<ref type="next_correspondence_request" target="file1483"/>
+					<ref type="prev_correspondence_request" target="file933"/>
+					<ref type="next_correspondence_reaction" target="file1483"/>
+					<ref type="prev_correspondence_reaction" target="file933"/>
+					<ref type="next_same_sender" target="file1483"/>
+					<ref type="prev_same_sender" target="file933"/>
+					<ref type="next_same_addressee" target="file1483"/>
+					<ref type="prev_same_addressee" target="file933"/>
+					<ref type="next_with_sender_as_addressee" target="file1483"/>
+					<ref type="prev_with_sender_as_addressee" target="file933"/>
+					<ref type="next_with_addressee_as_sender" target="file1483"/>
+					<ref type="prev_with_addressee_as_sender" target="file933"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="10">Latein</language>
+				<language ident="de" usage="990">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/959%2FAutograph%2F00%20E_II_337__fol__469_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">959/Autograph/00 E_II_337__fol__469_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/959%2FAutograph%2F01%20E_II_337__fol__469_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">959/Autograph/01 E_II_337__fol__469_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/959%2FAutograph%2F02%20E_II_337__fol__470_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">959/Autograph/02 E_II_337__fol__470_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/959%2FAutograph%2F03%20E_II_337__fol__470_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">959/Autograph/03 E_II_337__fol__470_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Unnser willige diennst, fr&#252;nntlicher gru&#870;&#223;, und was wir &#252;ch eeren, liebs und gu&#870;tts verm&#246;gennd, sye &#252;ch bevoran alle zytt bereitt</s>
+					<s n="2" xml:lang="de" type="auto">&#220;wer fr&#252;nntlich schrybenn, belanngennd denn sp&#228;nnigen ehehanndel Ludwigen Haga unnd Rosina Zollickofferin<note type="misc">vgl. <bibl>N&#228;f, Vadian</bibl> II 525-527!</note> habend wir sines ynhalts sampt allem dem, das ir uff unnser vorgend schryben geanntwort, unnd ouch des hanndels wyteren berycht gethonn, wol verstanndenn.</s>
+					<s n="3" xml:lang="de" type="auto">Und wiewol wir unns dises unnd anderen derglichenn h&#228;nndlenn vil lieber w&#246;lltennd entschlahenn, yedoch so wir vormals an &#252;ch unnser lieb heerren unnd bru&#868;der u&#223; besonderbarer liebe geschribenn, zu&#870; versu&#870;chenn, ob wir die uneinigkeitt oder mis&#223;f&#228;l, die sich (als wir bericht warennd) zw&#252;schendt einer ersamen oberkeitt zu&#870; Sanngallen unnd &#252;ch denn dienern der kilchenn daselbs zu&#870;tragenn, gu&#868;tlich verrichtenn m&#246;chtennd, habennd wir ouch jetzunnd us&#223; derselben liebe, &#252;ch uff &#252;wer so fr&#252;nntlich und trunngenlich bitt unnd beg&#228;ren &#252;ch unverzogennlich ze antworten, di&#223; unnser nach volgende meinung zu&#870;schryben w&#246;llenn, mitt ganntz flyssiger bitt, ir w&#246;llennd die von unns als &#252;weren g&#252;nnstigen zu&#870; gu&#870;t uffnemen.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto">Des erstenn sinnd wir wol zefridenn, das ir mitt uns in dem geh&#228;llennd, das ein christennliche oberkeyt u&#223; notwenndigen ursachen satzungen, gott unnd sinem wort nitt zewider, in eesachen setzen moge, das ouch die unnderthonen somlichen satzunngen gehorsam ze sin pflichtig unnd schuldig sinnd.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Dann wir unns anges&#228;hen die gep&#252;r unnd billikeitt keines anderen zu&#870; &#252;ch vers&#228;hen habend<note type="margin">a.R.: "habend" korrigiert von Bullingers Hand f&#252;r urspr&#252;nglich "m&#246;gend".</note>.</s>
+					<s n="6" xml:lang="de" type="auto">Dem nach h&#246;rennd wir gern, das die sach unnd der verdacht des obgemeltenn zwytrachts unns tr&#228;ffenlicher angebildet worden, dan er aber am im selbs ist, unnd habennd also gern gel&#228;&#223;en, das ir schribennd, &#252;ch sye nitt wissend, das ir mitt &#252;weren liebenn heerren unnd oberen ye kein spaan noch mis&#223;h&#228;ll by&#223;har gehept habynnd.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Dann in denn kilchen Christi stadt es gar wol, wen die oberen unnd diener der kilchenn mitt gott in gu&#870;tem unnd r&#228;chtem wol mitt einanderen ziehennd.</s>
+					<s n="8" xml:lang="de" type="auto">Dargegen gebirt es vil zerst&#246;runng unnd b&#246;ses in den gmeinden, wenn sye one nott u&#223; anf&#228;chtungen g&#228;gen andern verbittert f&#228;chtendt.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Das ir unns aber berichtennd, wie &#252;wre herrenn und obern nu die verbottnen grad unnd sonderlich in die anderen unnd dritten linien der blu&#870;ttfr&#252;nntschafften des dryundrissigesten jars der mindern zal von unnsern gn&#228;digen herrenn von Z&#252;rich sampt anderen oberkeitten der christenlichen stetten angenommen, gar nit gewilliget, sunder die inen mit etwas anhangs vorbehept, habent wir bi&#223;har nitt gewu&#870;st, sinnd ouch keins anderen bericht gsin, das das die eesatzungen by &#252;ch unnd unns glych angenommen syend unnd glych gebrucht werdent.</s>
+					<s n="10" xml:lang="de" type="auto">Nimpt uns vast wunder, das ir oder die &#252;weren in einer so billichenn unnd di&#223;er zyt notwendigen sach, zu&#870; derend doch die &#252;weren des jetzt ergangnen n&#252;nundvierzigesten jars ouch getr&#228;tten sind, mitler zyt har ein besonders gehept habennd.</s>
+					<s n="11" xml:lang="de" type="auto">Doch las&#223;end wir das selb in allem gu&#870;tem beru&#870;wen.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">Und kumend jetzund an den houptpuncten, da ir un&#223;ers raths beg&#228;rent, wie doch den sachen zu&#870; thu&#870;nd sye, alls wen die vor ernempten personen, die ir ehe domals bezogen habennd, do noch das verbott des dritten grads by &#252;ch nitt angenomen oder uffgelegt gsin, zu&#870; rechtlicher erkantnus kumend, allein ir gw&#252;s&#223;ne zu&#870; erledigen, was dann je inen mitt gott unnd gu&#870;ter gw&#252;&#223;ne &#252;wer unnd der iren seelen sollind unnd m&#246;gind zu&#870; antwort gebenn etc.</s>
+					<s n="13" xml:lang="de" type="auto">Da achtend wir, diewyl die sach in ein zwyffel, spann und frag komen ist, s&#246;lle sy nieman billicher konen, ouch nieman baas dan vor gricht unnd rhat erl&#252;thert u&#223;gesprochen unnd vollendet werdenn, diewyl doch gott s&#246;lliche sp&#228;nnige sachen an gericht unnd r&#228;cht in sinem wort gewi&#223;en hat.</s>
+					<s n="14" xml:lang="de" type="auto">Ist deshalb unn&#223;er rhaat, das ir die personen dahyn wy&#223;innt.</s>
+					<s n="15" xml:lang="de" type="auto">Da wirt aber der christlich richter (ob gott wil) wol w&#252;s&#223;en, was by&#223;har by &#252;ch verbotten oder nitt verbottenn, ob di&#223;e sach unnder dem verboth besch&#228;hen sye oder nitt, was ouch anderen nachgelas&#223;en sye oder nit oder worumb oder ob di&#223;e sach denn vorgennden glich sye oder was die g&#228;genwirtig zytt erfordere etc.</s>
+					<s n="16" xml:lang="de" type="auto">Dann wir hierinn gar nit richten weder w&#246;llennd noch s&#246;llennd.</s>
+					<s n="17" xml:lang="de" type="auto">Das ist aber by unns gebrucht: was one gffar unnd vor der angenomen satzung besch&#228;hen ist, hat man unzertrendt blyben las&#223;en.</s>
+					<s n="18" xml:lang="de" type="auto">Da werdent ouch &#252;were richter wol erm&#228;ssen, was zimlich sye oder nitt etc.</s>
+					<s n="19" xml:lang="de" type="auto">Unnd ob es sich aber beg&#228;be, das durch ein urtheil der vilgedachten oberkeitt der vorgenempt Haga der Zollikofferin abgesprochen wurde, als das die oberkeitt von des dritten grads und von wegen anderer eehaften ursachenn, das verspr&#228;chen irer beiden uffl&#246;&#223;en unnd n&#252;t w&#246;lt gelten las&#223;en, halten wir nitt, das sy beide inen in dem ein gw&#252;&#223;ne machen s&#246;llind, das sy der erl&#252;therung irer ordenlichenn oberkeit, deren sy doch sy sich erg&#228;benn habend, volgend unnd sich in ander weg vereelichend.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">So werdent ouch ir, unn&#223;er f&#252;rgeliepte herren und bru&#868;der, unn&#223;ers verstannds wenig fu&#870;g habenn, &#252;ch der erganngnen urtheil ze widersetzen unnd den zweyen personen ein gw&#252;s&#223;ne inzebilden, als ob sy sich anderschwo mit gott nit vereelichen m&#246;gind.</s>
+					<s n="21" xml:lang="de" type="auto">Dann so ir des vergangnen jars der oberkeit nit unbillich gestattet habent, f&#252;rohin den dritten grad der blu&#870;ttfr&#252;ntschafft mengklichen ze verbieten, worumb w&#246;ltennt ir &#252;ch dann in di&#223;em ffal wider ir urtheil wyter inlas&#223;en?</s>
+					<s n="22" xml:lang="de" type="auto">Insonderheit diewil die oberkeitt (als wir bericht) by gu&#870;ter zyt und in anfang ernstlich mit warnen und verbott gen disen zweyen personen gehandleth unnd inen heiter anzeigt hat, das man s&#246;lliche ires verspr&#228;chen nit werde gelten las&#223;en, unnd ob dann glichwol der ander oder dritt graad der blu&#870;tfr&#252;nndschafft imm gsatzt Mo&#223;is nit u&#223;getr&#252;ckt wirdt, w&#252;&#223;ent ir doch wol, 1 das Mo&#223;es insonderheit uff sin folch ges&#228;hen hat, 2 ouch wie vil wir christen den iudicialibus verbunden sind.</s>
+					<s n="23" xml:lang="de" type="manual">3 Ir w&#252;s&#223;ennd, das <foreign xml:lang="la">lex publicae honestatis</foreign> mit dem wort gottes nit strytet.</s>
+					<s n="24" xml:lang="de" type="auto">4 Ir w&#252;s&#223;end, wie feher das wort Pauly reicht:</s>
+					<s n="25" xml:lang="la" type="auto">"Omnia mihi licent, sed non omnia conducunt" etc.</s>
+					<s n="26" xml:lang="de" type="auto">Es mochte villicht zu&#870; disem ffall ouch das komenn (als wir ouch nebend zu&#870; bericht werdent), das die tochter, als sy sich anfangs versprochen hat, nit ire jar gehept, das sy sich hinder denen unnd wider die, denen sy von gottlichen unnd naturlichen rechten zu&#870; versprechen stath, versprochen h&#228;te, da ir aber wol w&#252;s&#223;end, was hie die billigkeitt erh&#246;uscht.</s>
+					<s n="27" xml:lang="de" type="auto">Ist deshalb unn&#223;er aller einh&#228;lliger, bru&#868;derlicher rhat, das ir die personen in di&#223;em ffal, so sy von einanderen gewi&#223;en wurdint, gu&#868;ttigklichen abredint und inen inbyldint, das sy in s&#246;llicher irer ehe, die &#228;ben in schw&#228;rem span unnd verdacht gelanngt, nit f&#252;rnemind ze ffaren, so doch doorus mochte vil mee ergernus und schaden dann gu&#870;ten nutzes erwachsen, das sy die sach gott heimstellind unnd diewyl doch ein urtheil ergangen, ir hertz zu&#870; ru&#870;wen setzen s&#246;llind.</s>
+					<s n="28" xml:lang="de" type="auto">Hiemitt hoffennd wir, werdint weder ir noch sy gott erz&#252;rnen.</s>
+					<s n="29" xml:lang="de" type="auto">Gott mitt &#252;ch; der welle &#252;ch in sinen gnaden erhalten, unnd vers&#228;hend &#252;ch zu&#870; unns jederzyt aller diensten, liebe unnd fr&#252;nndschafft.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="de" type="auto">Wir danncken &#252;ch ouch aller liebe unnd fr&#252;ndtlichen erbietenns.</s>
+					<s n="31" xml:lang="de" type="auto">Datum Z&#252;rich des vierdten tags im h&#246;wmonat anno 1550.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="de" type="auto">Uwer alle zyt willige pfarrer unnd l&#228;&#223;er der heilligen gschrifft, diener der kilchen Z&#252;rich.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

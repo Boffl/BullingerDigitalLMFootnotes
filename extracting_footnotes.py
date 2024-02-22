@@ -11,7 +11,7 @@ if len(sys.argv)>2:
 
 def get_files_with_footnotes():
     """Copies all letters that contain footnotes into a different folder, to browse and look around"""
-    filenames = [f'{i}.xml' for i in range(1, 10014)]  # first 10'013 letters are edited
+    filenames = [f'{i}.xml' for i in range(10013, 13160)]  # edited letters
     # filenames = [f'{i}.xml' for i in range(1, 11)]  # for debugging
     # filenames = ['247.xml']
     footnote_query = ".//note[@type='footnote']"
@@ -71,28 +71,42 @@ def get_all_footnotes():
 
     # print(etree.tostring(footnote_root, pretty_print=True).decode('utf-8'))
 
+def get_node_text(node):
+    """get the string of the xml in a node"""
+    text = node.text
+    if text:  # sometimes text will be none
+        text += ''.join([etree.tostring(sub).decode('utf-8') for sub in node])
+    else:
+        text = ''.join([etree.tostring(sub).decode('utf-8') for sub in node])
+
+    return text
+
 def put_footnotes_in_csv():
     """get all footnotes into a csv file, to look at them"""
 
     # define namespace
-    namespaces = {None: 'http://www.tei-c.org/ns/1.0'}
+    namespaces_none = {None: 'http://www.tei-c.org/ns/1.0'}  # works well with findall, but not with .xpath
+    namespaces_tei = {'tei': 'http://www.tei-c.org/ns/1.0'}  # when using .xpath
     # open outfile
     with open('all_notes.csv', 'w', encoding='utf-8', newline='') as outfile:
 
         csv_writer = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, doublequote=True)
-        csv_writer.writerow(['letter_id', 'n', 'text'])  # column names
+        csv_writer.writerow(['letter_id', 'n_footnote', "n_sentence", 'text_footnote', 'text_sentence'])  # column names
 
         # iterate through all files
         filenames = os.listdir(infolder)
         for filename in tqdm(filenames):
             letter_id = filename.split('.')[0]
+            if int(letter_id)<10013:
+                continue
             filepath = os.path.join(infolder, filename)
             with open(filepath, 'r', encoding='utf-8') as f:
                 tree = etree.parse(f)
             root = tree.getroot()
 
             # find footnotes
-            footnotes = root.findall(".//note[@type='footnote']", namespaces)
+            # todo: does not find all?
+            footnotes = root.findall(".//note[@type='footnote']", namespaces_none)
             if footnotes:
                 # add all the footnotes to the element (not the editorial ones)
                 for footnote in footnotes:
@@ -101,17 +115,22 @@ def put_footnotes_in_csv():
                     footnote.tail = None
                     # Check if the attribute n is a number, if not it is an editorial comment and we can move on
                     try:
-                        n = float(footnote.get('n'))
-                        text = footnote.text
+                        n_footnote = int(footnote.get('n'))
+                        text_footnote = get_node_text(footnote)
                     except ValueError:
                         continue
-                    if text:  # sometimes text will be none
-                        text += ''.join([etree.tostring(sub).decode('utf-8') for sub in footnote])
-                    else:
-                        text = ''.join([etree.tostring(sub).decode('utf-8') for sub in footnote])
+
+                    # get the sentence
+                    try:
+                        sentence = root.xpath(f".//tei:s[descendant::tei:note[@n='{n_footnote}']]", namespaces=namespaces_tei)[0]
+                    except IndexError:  # no ancestor is a sentence, in this case let's ignore for now
+                        continue
+                    n_sentence = sentence.xpath("./@n", namespaces=namespaces_tei)[0]
+                    text_sentence = get_node_text(sentence)
+
 
                     # write the data as a row
-                    csv_writer.writerow([letter_id, n, text])
+                    csv_writer.writerow([letter_id, n_footnote, n_sentence, text_footnote, text_sentence])
 
 def remove_footnotes(infolder, outfolder):
     """takes files from one folder, removes footnotes and saves them in a new folder"""
@@ -138,4 +157,4 @@ def remove_footnotes(infolder, outfolder):
 
 
 if __name__ == '__main__':
-    remove_footnotes(infolder, outfolder)
+    put_footnotes_in_csv()

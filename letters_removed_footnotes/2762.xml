@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2762" type="Brief" source="TUSTEP" n="25180">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Giulio (Julius) della Rovere da Milano (von Mailand) / Puschlav AN Heinrich Bullinger / Z&#252;rich, 4. November 1555</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 335,2284</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Superiori mense Iunii cum essem Sondrii, quod est primarium Vallis Tel(l)ine oppidum</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. I, S. 419-422, Nr. 296</title>
+							</bibl>
+							<bibl type="Gedruckt">
+								<title>F&#252;slin, Cent. I, 81, S. 353-359, Nr. 81</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>de Porta I, 2, 86-87</title>
+							</bibl>
+							<bibl type="Gedruckt">
+								<title>Mus. Helv. XIV, 289</title>
+							</bibl>
+							<bibl type="Gedruckt">
+								<title>Ott, Annales Anabapt. 120f</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>Illgen, Vita L. Sozzini 55-57</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>C. Renato, Opere (A. Rotond&#242;) 259ff, 526 (Doc. 73)</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Ferd. Meyer, Die evangelische Gemeinde in Locarno, II, 166</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Fr. Trechsel, Prot. Antitrinitarier II 189</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>E. Comba, Protestanti II 165</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>P. Dalbert 85</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Teil&#252;bersetzung">
+								<title>G.H. Williams, Renato 179</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 86,3</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/2762">
+				<correspAction type="sent">
+					<persName ref="p8079" cert="high">
+						<!--
+						<surname cert="high">della Rovere da Milano (von Mailand)</surname>
+						<forename cert="high">Giulio (Julius)</forename>
+						<graphic type="portrait" url="portraits/790_della_Rovere_Giulio.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Giulio_della_Rovere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/132847817"/>
+						-->
+					</persName>
+					<placeName source="l399" cert="high"><orig>Puschlav</orig></placeName>
+					<date when="1555-11-04" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file2763"/>
+					<ref type="prev_chronologically" target="file2761"/>
+					<ref type="prev_correspondence" target="file2663"/>
+					<ref type="prev_correspondence_request" target="file1664"/>
+					<ref type="prev_correspondence_reaction" target="file2663"/>
+					<ref type="prev_same_sender" target="file1664"/>
+					<ref type="next_same_addressee" target="file2765"/>
+					<ref type="prev_same_addressee" target="file2760"/>
+					<ref type="prev_with_sender_as_addressee" target="file1664"/>
+					<ref type="next_with_addressee_as_sender" target="file2765"/>
+					<ref type="prev_with_addressee_as_sender" target="file2760"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/2762%2FAutograph%2F00%20E_II_335__fol__2284_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">2762/Autograph/00 E_II_335__fol__2284_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/2762%2FAutograph%2F01%20E_II_335__fol__2284_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">2762/Autograph/01 E_II_335__fol__2284_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/2762%2FAutograph%2F02%20E_II_335__fol__2284_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">2762/Autograph/02 E_II_335__fol__2284_a_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/2762%2FAutograph%2F03%20E_II_335__fol__2284_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">2762/Autograph/03 E_II_335__fol__2284_a_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vit&#281; innocentiam Domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Superiori mense Iunii cum essem Sondrii, quod est primarium Vallis Tel(l)in&#281; oppidum, accepi tuas suavissimas literas, mi frater colende ac domine plurimum suspiciende, qu&#281; mirifice sublevarunt animum innumeris molestiis propter nonnullos seditiosos et contumaces perculsum et consternatum.</s>
+					<s n="3" xml:lang="la" type="auto">Ea enim est, ut scis, pastorum conditio, ne dicam fatalis qu&#281;dam sors, ut in dies et in horas multos cogantur subire labores ad hoc, ut ecclesi&#281; communio conservetur.</s>
+					<s n="4" xml:lang="la" type="auto">Cum autem in tantis molestiis positus essem tuasque dulcissimas literas toto cordem lectitarem, non mediocriter gavisus fui, idque duplici nomine.</s>
+					<s n="5" xml:lang="la" type="auto">Primum quod a te amari video<note xml:id="fna" type="footnote" n="a">dazu Steno-Notiz in der Schie&#223;-Abschr.</note> et ex animo, qualisqualis ego sim, in confratrem et consymmistan amplecti, deinde quod Locarneses propter Christum exules tam benigne tuo consilia et opera excepti sunt hospicio ab amplissimo senatu Tigurino.</s>
+					<s n="6" xml:lang="la" type="auto">Gratulor igitur et tibi, piissime Bullingere, et tu&#281; sanct&#281; ecclesi&#281;, quod, etsi hoc nostro corruptissimo magis quam pio s&#281;culo misericordia pene sit obliterata, tamen pater misericordiarum tanto vos dignatus est favore, quod Christum exulem collegistis.</s>
+					<s n="7" xml:lang="la" type="auto">Nam et nos adven&#281; fuimus; verum suscepit nos Deus in Christo, filio suo, ut iam non simus peregrini, sed cives sanctorum et domnestici Dei.</s>
+					<s n="8" xml:lang="la" type="auto">Eadem ergo misericordia nos invicem affectos esse decet, quum ea dilectione nobis ambulandum sit, qua et Christus dilexit nos.</s>
+					<s n="9" xml:lang="la" type="auto">In hanc sententiam scriberem plura, nosi cognoscerem, quam prompta sit tua voluntas inserviendi omnibus Christi fidelibus et illis maxime, qui evangelii causa exulant.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Ad h&#281;c cum postea Sondrio reversus essem Tiranum, hoc mense Octobris allat&#281; mihi fuerunt secund&#281; tu&#281; liter&#281;, refert&#281; quidem et fraterna dilectione et ecclesiastica disciplina, quibus significabas L&#281;lium Senensem iam pridem a nobis suspectum et a multis bonis fratribus habitum pro manifesto anabaptista coram te non tantum professum fuisse bonam confessionem, sed et propria manu subscripsisse san&#281; doctrin&#281;, quae semper fuit in catholica ecclesia.</s>
+					<s n="11" xml:lang="la" type="auto">Ob id fraterne me hortabaris, ut non tantum L&#281;lium apud me purgatum habeam ab omni mala suspitione, sed et apud alios de ipsius fide suspicantes hominem excusem.</s>
+					<s n="12" xml:lang="la" type="auto">Agnosco, mi ornatissime Bullingere, et exo(s)culor in te zelum dominus Dei cum non vulgari charitate coniunctum.</s>
+					<s n="13" xml:lang="la" type="auto">Animadverto enim in tuis literis, quantum tibi sit cordi, ne L&#281;lius infametur, quantumve cupias L&#281;lii salutem et quanti facias individuam ecclesi&#281; concordiam.</s>
+					<s n="14" xml:lang="la" type="auto">Enimvero tanti ponderis et merito quidem est apud nos ecclesiastica tua authoritas, ut nobis in hac te abunde satisfactum sit, sitibi satisfactum est.</s>
+					<s n="15" xml:lang="la" type="auto">Quare tuo fretus consilio et iudicio curabo, ut ecclesi&#281; nostr&#281; posthac pro fratre L&#281;lium agnoscant, et sinon tam cito potuero diluere maculam tam violent&#281; suspitionis; oro tamen dominum Iesum, ut L&#281;lius toto corde credat, qu&#281; coram te confessus est, ut in vera fidei confessione confirmetur.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Nolebam, sed ut cautior fias, cogor referre L&#281;lium <persName>Camillo Renato</persName> dedisse manus ita, ut deserta catholica veritate publice non eruberit Genev&#281;, Calven(n)&#281; et alibi stare a parte anabaptistarum, qu&#281; res apud nos tanti est momenti, ut nullus relinquatur excusationi pr&#281;textus.</s>
+					<s n="17" xml:lang="la" type="auto">Arbitror enim te non ignorare callidi et tortuosi Camilli ingenium et mores.</s>
+					<s n="18" xml:lang="la" type="auto">Ea igitur de causa si de L&#281;lii confessione aliquantisper suspicatus sum, ne miraberis, qu&#281;so, cum plus satis experiamur Servetanos et anababtistas non facile deponere, quod semel imbiberunt; quod in dies magis ac magis deprehendimus in uno Camillo.</s>
+					<s n="19" xml:lang="la" type="auto">Vix enim credi potest, quam flexibilis sit h&#281;retici vafricies et quam obliquo et volubili flexu iste anguis effugiat, nisi fortiter prematur.</s>
+					<s n="20" xml:lang="la" type="auto">Sed quid dico de Camillo?</s>
+					<s n="21" xml:lang="la" type="auto">Namomnes anabaptist&#281;ea sunt perfidia, ut non vereantur efflare modo calidum et modo frigidum.</s>
+					<s n="22" xml:lang="la" type="auto">Quare, piissime Bullingere, neque arroganti&#281; mihi adscribas, rogo, si libere tecum tantummodo id, quod sentiam, dico.</s>
+					<s n="23" xml:lang="la" type="auto">Redarguendi sunt severiter languentes circapugnas san&#281; doctrin&#281;, qu&#281; scandala multa et dissidia pr&#281;bent magis quam aedificationem Dei, qu&#281; est per fidem.</s>
+					<s n="24" xml:lang="la" type="auto">Devitande sunt qu&#281;stiones falso nominat&#281; scient&#281; et accedendum sanis sermonibus domini nostri Iesu Christi et ei, Qu&#281; secundum pietatem est, doctrin&#281;, qua repulsa Camillus et assecl&#281; circa fidem naufragium fecerunt.</s>
+					<s n="25" xml:lang="la" type="auto">De&#281;[t]rahenda<note xml:id="fnb" type="footnote" n="b">dazu Steno-Notiz in der Schie&#223;-Abschr.</note> est igitur larva versipellibus h&#281;reticis; alioqui actum est de salute ecclesi&#281;.</s>
+					<s n="26" xml:lang="la" type="auto">Nam amicus hypocrita publico hoste est nocentior.</s>
+					<s n="27" xml:lang="la" type="auto">Valeant igitur, qui continuo dissidia q&#281;runt in ecclesia.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Non potui autem mihi temperare, optime Bullingere (quando propter Domini gloriam et ecclesi&#281; aedificationem dignum admonitione videbatur), quin ingenue tibi significarem, quid fratres nostri de L&#281;lio sentiant.</s>
+					<s n="29" xml:lang="la" type="auto">Tu&#281; nunc erit prudenti&#281; propter onus tibi divinitus commissum sic vigilare et excubare supra gregem tu&#281; fidei concreditum et maxime supra Locarnenses, ne lupi ovilla pelle tecti devorent Christi oves.</s>
+					<s n="30" xml:lang="la" type="auto">Hoc enim exigit ratio Christiani pastoris; nam et Dominus admonuit cavendos esse, qui veniunt ad nos in vestimentis ovium, quum intrinsecus sint lupi rapaces non parcentes gregi.</s>
+					<s n="31" xml:lang="la" type="auto">Et quia mendacia non diu fallunt, ideo ex fructibus eorum cognoscemus eos.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">C&#281;terum ecclesi&#281; nostr&#281; Vallis Tel(l)in&#281;, qu&#281; sunt Pesclavii, Tirani, Tilii et Sondrii, pergunt concordes in veteri et simplicissima doctrina, quae ab aetate apostolorum apud omnes ecclesias recepta fuit et hodie Dei gratia sine controversia docteur in vestr&#281; Helveti&#281; et nostre Rheti&#281; ecclesiis.</s>
+					<s n="33" xml:lang="la" type="auto">Oremus igitur dominum Iesum, ver&#281; concordie authorem, ut nos omnes conservet in unitate spiritus per vinculum pacis.</s>
+					<s n="34" xml:lang="la" type="auto">Salvere te iussit frater et consymmista noster Paulus Gadius Cremonensis.</s>
+					<s n="35" xml:lang="la" type="auto">Salutabis nobis eruditissimum Rudolphum Gvalterum, piissimum Bibliandrum et sanctissimum senem Pel(l)icanum.</s>
+					<s n="36" xml:lang="la" type="auto">Dominus Iesus Christus cum spiritu tuo.</s>
+					<s n="37" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Ex Pesclavio, 4. Novembris, anno a Christo servatore nato 1555.</s>
+					<s n="39" xml:lang="la" type="auto">Tuus ex animo Iulius Mediolanensis.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf...:]</note>
+					<s n="40" xml:lang="la" type="auto">Insigni pietate et eruditione viro d. Henricho Bullingero, [am]plissim&#281; ecclesi&#281; Tigurin&#281; epis[copo], domino meo modis omnibus [se]mper observandissimo.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

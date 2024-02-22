@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file7347" type="Brief" source="TUSTEP" n="37160">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Tobias Egli (Iconius, G&#246;tz) / Chur AN [Heinrich Bullinger], 29. Dezember 1567</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 376,133 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Ad postremas tuas ... nunciorum inopia ac festorum crebritate</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. III, S. 61-63 E, Nr. 60</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>de Porta I, 2, 461f</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Ferd. Meyer, Die evang. Gemeinde in Locarno, II, 296-297 A.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/7347">
+				<correspAction type="sent">
+					<persName ref="p8016" cert="high">
+						<!--
+						<surname cert="high">Egli (Iconius, G&#246;tz)</surname>
+						<forename cert="high">Tobias</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Tobias_Egli"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/1089466366"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="high"><orig>Chur</orig></placeName>
+					<date when="1567-12-29" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file7348"/>
+					<ref type="prev_chronologically" target="file7346"/>
+					<ref type="next_correspondence" target="file7359"/>
+					<ref type="prev_correspondence" target="file7337"/>
+					<ref type="next_correspondence_request" target="file7359"/>
+					<ref type="prev_correspondence_request" target="file7330"/>
+					<ref type="next_correspondence_reaction" target="file7365"/>
+					<ref type="prev_correspondence_reaction" target="file7337"/>
+					<ref type="next_same_sender" target="file7359"/>
+					<ref type="prev_same_sender" target="file7330"/>
+					<ref type="next_same_addressee" target="file7352"/>
+					<ref type="prev_same_addressee" target="file7345"/>
+					<ref type="next_with_sender_as_addressee" target="file7359"/>
+					<ref type="prev_with_sender_as_addressee" target="file7330"/>
+					<ref type="next_with_addressee_as_sender" target="file7352"/>
+					<ref type="prev_with_addressee_as_sender" target="file7345"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="117">Deutsch</language>
+				<language ident="la" usage="883">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/7347%2FAutograph%2F00%20E_II_376__fol__133_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">7347/Autograph/00 E_II_376__fol__133_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/7347%2FAutograph%2F01%20E_II_376__fol__133_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">7347/Autograph/01 E_II_376__fol__133_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/7347%2FAutograph%2F02%20E_II_376__fol__134_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">7347/Autograph/02 E_II_376__fol__134_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/7347%2FAutograph%2F03%20E_II_376__fol__134_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">7347/Autograph/03 E_II_376__fol__134_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ad postremas tuas, vir amplissime, nunciorum inopia ac festorum crebritate impeditus respondere non potui.</s>
+					<s n="3" xml:lang="la" type="auto">Nunc, spero, repetent itinera mercatores nostri, qui festis hisce sacris aliquantulum requieverunt.</s>
+					<s n="4" xml:lang="la" type="auto">Scribam ergo frustulatim, quae ex variis hominum rumusculis hisce diebus venati sumus.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Matisconam se regiis dedidisse, non parum exploratum esse capitanei nostri asseverant; at iure belli militario posthabito omnes isthic<note type="margin">a.R.: istihc!</note> esse trucidatos, circiter nempe 8000, cum vero (ut supra scribebatur et antea) 2000 tantum praesidiarii Condaei adfuerint; promiscue in omnes saevitum esse creditur sexus.</s>
+					<s n="6" xml:lang="la" type="auto">In parato esse 7000 equites Germanos alios et novos, utpote imperiales, usibus Condaeis rettulit d. Carolus ex adversariis Ramschwagiis, unde pactionem quandam clandestinam inter Condensem et imperium esse multi augurantur; episcopos ternos, Coloniensem, Moguntinensem, Treverensem, 10000 mittere regi; principem Navarrae cum 10000 equitibus et 3000 ped[it]ibus Condaeis accedere legatus noster per Diet&#228;gium ef[f]utiit.</s>
+					<s n="7" xml:lang="la" type="auto">Legatus diffidens nescio quibus aut iam discessit aut singulis noctibus discedere cogitat, submonitus nimirum a d. Bellievre.</s>
+					<s n="8" xml:lang="la" type="auto">- Quid fiat in Italia ex d. Zancho praetereunte nimirum audivistis.</s>
+					<s n="9" xml:lang="la" type="auto">Certum est multos monachos emissarios Clavennae et Plurii atque aliis iis locis finitimis circumvagari conductos et missos nomine et stipendio pontificio tanquam speculatores ac Corycaei</s>
+					<s n="10" xml:lang="la" type="auto">Et si unquam Hispanica, imo nebulonica illa inquisitio cruenta fuit, nunc maxime est.</s>
+					<s n="11" xml:lang="la" type="auto">Nemini enim fere ex mercatoribus tutum est Mediolanum (ubi suspecti summa crudelitate aut occiduntur aut triremibus adiudicantur aut denique vinculis domesticis, utpote optimates, illiberalissime retinentur) proficisci.</s>
+					<s n="12" xml:lang="la" type="auto">Statim enim aut per literas aut certos dispositos ubique exploratores inquisitoribus et eius farinae pontificiis officialibus produntur, denique ad papam Luter[an]ismi nomine deferuntur.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Nuper etiam Iacobum quendam Seravalensem, natione Venetum, qui Clavennae hactenus evangelium professus est, euntem in Italiam negociorum suorum causa Cremae, in oppido Venetorum, comprehenderent manibusque post terga ligatis ceu omnium nebulonum antesignanum Venetias post multas iniurias, quibus illum affecerunt, tandem duxerunt, ad triremes vero damnarunt vel, ut multorum est opinio, in mare praecipitarunt.</s>
+					<s n="14" xml:lang="la" type="auto">Eadem laniena Bononiae et quidem longe crudelius exercetur.</s>
+					<s n="15" xml:lang="la" type="auto">Summis et infimis eadem mors, paria vincula, idem cruciatus impendet.</s>
+					<s n="16" xml:lang="la" type="auto">Plurii prope Clavennam monachus quidam agit; is oppidanorum papistarum benevolentia et pontificis liberalitate confisus literas scripsit proditorias, quibus (cum nobilioribus eius loci conspiratione facta) potestatem adipisceretur in praecones et evangelii fautores saeviendi.</s>
+					<s n="17" xml:lang="la" type="auto">Has Romam deferre voluit, quo pontifex videat potestatem factam et liberalissime pecunias profundat, quibus multorum etiam aliorum animos corrumpat atque in sua vota trahat.</s>
+					<s n="18" xml:lang="la" type="auto">Cum vero consul eius loci literas obsignare detrectaret, res prodita est ab ipso parocho papistico.</s>
+					<s n="19" xml:lang="la" type="auto">Monachus incarceratus 200 coronatorum mulcta iterum evasit.</s>
+					<s n="20" xml:lang="la" type="auto">Sed puto haec omnia d. Zanchum apperuisse; si vero oblitus esset, mittat rei summam, prout d. Hieronymus Turrianus, Pluriensis concionator per d. Z[anchum] Italice mihi reliquit et d. consulis Ambrosii filius in nostram linguam (nescio quam bene) verbotim</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">D. Voglerus, qui litem monetariis nostris intendit, Oeniponte</s>
+					<s n="22" xml:lang="la" type="auto">Necarunt inedia reginam, sororem Ferdinandi, eamque canonizantes in numerum dearum retulerunt.</s>
+					<s n="23" xml:lang="la" type="auto">Non ita pridem ad capitis supplicium honestum quendam virum adegerunt sub praetextu anabaptismi erroris, cum tamen verus fuerit christianus.</s>
+					<s n="24" xml:lang="la" type="auto">Kernten, Krayn, St&#252;rmark atque eius coeli mortales ita perculsos esse asseveratur, ut ne cogitent quidem Turcico terrori resistere; sed dedere se omnes in animo habere, ne furor iste inimicus illis sit anniversarius et quotidie formidulosus.</s>
+					<s n="25" xml:lang="la" type="auto">De imperatore Turcico nuper retulit d. Diet&#228;gius, quod praeter morem cum poculis certat atque inebrietur, usum quoque et cultum omnibus suis et concedere et imperare.</s>
+					<s n="26" xml:lang="la" type="auto">Multum hinc orbi christiano accessum gloriabatur; at ego diversum statuebam, cum in hoc certaminis genere a christianis longe superetur Turca etc.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Restat ut discessum ex hac vita abbatis Wingartensis adiiciam.</s>
+					<s n="28" xml:lang="la" type="auto">D. Carolus, d. Diet&#228;gius exploratissimum esse retulerunt ex iis, <foreign xml:lang="de">dies vons abts hofmeister gh&#246;rt habend;</foreign> sed vix audeo scribere, praefator tamen honore.</s>
+					<s n="29" xml:lang="de" type="auto">Es ist dem apt grad vor simm tod ein k&#252;ssle uffs angsiht gfallen, wie den etwan gschicht; er hatt sich letz gstelt und zu&#870; sinen, die imm gwacht, grett, es heige im neiswar uf die nasen gehofiert.</s>
+					<s n="30" xml:lang="de" type="auto"><foreign xml:lang="la">Minister dixit:</foreign> G[n&#228;diger] herr, &#252;[wer] g[naden] ist n&#246;st.</s>
+					<s n="31" xml:lang="de" type="auto">Respondit: Nein, nein, es hett mir neiswar ufs antlit ghofiert; thu&#868;nd mirs dannen; ich mags n&#252;mmen habenn.</s>
+					<s n="32" xml:lang="de" type="auto">Sy habend inn m&#252;sen uf dem won lassen, es syge also, und nach langem fechten habend si mitt ein nassen schwumm ims antlit und d'nasen griben und do gseitt: Jetz, g[n&#228;diger] herr, ist &#252;[wer] g[nad] suber.</s>
+					<s n="33" xml:lang="de" type="auto">Mox hatt er treffenlich gfochten und under jederman grett: O ich f&#252;rcht, ich m&#252;s ein scheiss in dhell thu&#870;n oder in der hell lassenn.</s>
+					<s n="34" xml:lang="la" type="auto">Hoc verissimum nostri affirmant.</s>
+					<s n="35" xml:lang="la" type="auto">Sed ignoscat reverentia tua mihi, qui talia tam impudenter audeam scribere.</s>
+					<s n="36" xml:lang="la" type="auto">Praeterea, quod ego sciam, nihil est, nisi ut vobis piissimum hunc consulem ex animo gratulor; faxit deus optimus maximus, ut una quam diutissime magno cum patriae fructu et salute omnium ad gubernacula sedeatis.</s>
+					<s n="37" xml:lang="la" type="manual">Amen.</s>
+					<s n="38" xml:lang="la" type="auto">Tuae dignitati subiectissimus Th[obias] Eg[lius].</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Ocyus Curiae 29. decembris 67.</s>
+					<s n="40" xml:lang="la" type="auto">Resalutant vos omnes salutati.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Amplissimo viro d. m. Heynrico Bullingero, ecclesiae Tigurinae antistiti primario, domino suo per[pe]tua fide colendissimo.</s>
+					<s n="42" xml:lang="de" type="auto">Z&#252;rch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

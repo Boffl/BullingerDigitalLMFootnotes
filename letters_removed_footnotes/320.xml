@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file320" type="Brief" source="TUSTEP" n="18329">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN Johannes Haller d.J. / Bern, 26. Oktober 1548</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 68,103</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Auf Sontag sind von wegen der 7. Orten allhie Z&#252;rich erschinen</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms F 46,597</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/320">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1548-10-26" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file321"/>
+					<ref type="prev_chronologically" target="file319"/>
+					<ref type="next_correspondence" target="file326"/>
+					<ref type="prev_correspondence" target="file316"/>
+					<ref type="next_correspondence_request" target="file417"/>
+					<ref type="prev_correspondence_request" target="file13018"/>
+					<ref type="next_correspondence_reaction" target="file326"/>
+					<ref type="prev_correspondence_reaction" target="file316"/>
+					<ref type="next_same_sender" target="file332"/>
+					<ref type="prev_same_sender" target="file317"/>
+					<ref type="next_same_addressee" target="file326"/>
+					<ref type="prev_same_addressee" target="file316"/>
+					<ref type="next_with_sender_as_addressee" target="file332"/>
+					<ref type="prev_with_sender_as_addressee" target="file317"/>
+					<ref type="next_with_addressee_as_sender" target="file326"/>
+					<ref type="prev_with_addressee_as_sender" target="file316"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gott mit uns allen, der stercke uns in allem guten.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Auf sontag sind von wegen der 7 orten allhie Z&#252;r(i)ch erschinen Amandus Niderhoffen, aman zu&#870; Ury, Dietrych an der Halden</s>
+					<s n="3" xml:lang="de" type="auto">Die habend an burgermeister begert, da&#223; man ihnen halte r&#228;th und burger.</s>
+					<s n="4" xml:lang="de" type="auto">Hat er w&#252;ssen w&#246;llen, was sie f&#252;rbringen willens seyen.</s>
+					<s n="5" xml:lang="de" type="auto">Dann du den bruch wol weist, da&#223; ein burgermeister gar niemand f&#252;rlassen darf, er w&#252;sse dann warumb.</s>
+					<s n="6" xml:lang="de" type="auto">Dann wenn etwas were wider unser geschworen satzung, darf er nit f&#252;rlassen.</s>
+					<s n="7" xml:lang="de" type="auto">Da haben die botten drey artickel anzeigt: 1. vom consilio, 2. von schmachworten, 3. von r&#228;cht m&#228;nnern.</s>
+					<s n="8" xml:lang="de" type="auto">Und als der burgermeister mit ihnen arguiert, was ihnen an dem consilio, das noch nienen seye, so grosses gelegen, antwort: "Der keyser gibt uns viel gute wort, ist uns aber nit hold, wirt[?] ursach su&#870;chen, uns zu&#870; bekriegen und allerley einziehen.</s>
+					<s n="9" xml:lang="de" type="auto">Wann er uns dann auch das Interim anmu&#870;ten wolte, das nie[?] nit annemmen, auch wol achten, ihr w&#246;llend sis[?] auch nit, da&#223; man dann ein allgemeine antwurt gen k&#246;ntind.</s>
+					<s n="10" xml:lang="de" type="auto">Wann man hielte ein general, frey, unpartheyisch, christlich consilium, wollend wir uns dann underwerffen.</s>
+					<s n="11" xml:lang="de" type="auto">Dadurch m&#246;gind wir bleiben zu beiden theilen lut de&#223; fridens bey unserem glauben" etc., mit vil der rechten und gu&#870;ten worten.</s>
+					<s n="12" xml:lang="de" type="auto">Als man ihnen nun auf montag r&#228;ht und burger gehalten hat, haben sie f&#252;rtragen, wie gut seye einigkeit etc.</s>
+					<s n="13" xml:lang="de" type="auto">[?], wie umb einigkeit willen die 7 ort diesen f&#252;rtrag angesehen.</s>
+					<s n="14" xml:lang="de" type="auto">Und dieweil man imm glauben zwytr&#228;chtig, welche das reich dem keyser underworffen, da&#223; uns nit gleichs beschehe, bedencken die 7 ort by zeit und ehe dann wir vom keyser angestrengt werdind, uns zu&#870;vereinigen.</s>
+					<s n="15" xml:lang="de" type="auto">Und bedencke/beduncke(?) sy das komlichste mitel, so man sich vereinige in ein allgemein consili ze willigen, was da erkant, angenommen etc.</s>
+					<s n="16" xml:lang="de" type="auto">[?] 2. Demnach so herr Gvalthart ein schm&#228;chlich bu&#868;chli wider sy geschriben, da&#223; man darvor seye, da&#223; man an kantzlen und dar&#252;ber einandren nit also schende.</s>
+					<s n="17" xml:lang="de" type="auto">Insonders werden sie geschulten gelt genommen haben vom keyser, da begerind sy, da&#223; man das anzeige, welche die syend, die gelt genommen; die w&#246;llind sie straffen und das angelt nemmen.</s>
+					<s n="18" xml:lang="de" type="auto">Wo sy nit zeigen m&#246;gind, solle man sy straffen von ihr zu&#870;red wegen.</s>
+					<s n="19" xml:lang="de" type="auto">Damit haben sy benamset 2 wyber, Heinrich Gesners frawen, auch Trini[?] Lyindineri, die haben die 5 ort geschm&#228;cht etc.</s>
+					<s n="20" xml:lang="de" type="auto">3. Da&#223; man sich nit w&#246;lle widern eines p&#252;rlichen, zimlichen rechtens gegen mencklichen, dann recht versagen bringe gro&#223; unrath[?] etc.</s>
+					<s n="21" xml:lang="de" type="auto">Das ist der f&#252;rtrag gewesen in summa und nit mer, onet da&#223; sy vil und tr&#252;wlich zu&#870;gesagt, lyb und gu&#870;t zu&#870; uns zu&#870; setzen und zu&#870; allen eidgnossen.</s>
+					<s n="22" xml:lang="de" type="auto">Das ist nun vil xin.</s>
+					<s n="23" xml:lang="de" type="auto">Und hat der aman von Ury, der sonst wol beredt ist, geredt.</s>
+					<s n="24" xml:lang="de" type="auto">R&#228;th und burger sind von den gnaden gottes gar dapfer, best&#228;ndig und redlich, ist allerley dazu&#870; geredt, doch entlich ist beschlossen, 8 man darzu&#870; zeordnen, die sollend f&#252;rderlich dar&#252;ber sitzen, ein antwurt stellen und den r&#228;then und burgeren wider f&#252;rbringen.</s>
+					<s n="25" xml:lang="de" type="auto">Den boten ist die antwurt worden, mine herren werdind dar&#252;ber sitzen und f&#252;rderlich ihnen ein antwurt geben.</s>
+					<s n="26" xml:lang="de" type="auto">Zu&#870; nacht am montag hat man ihnen zum Schneggen geschenckt; morndes sind sy gen Schaffhausen griten.</s>
+					<s n="27" xml:lang="de" type="auto">N&#228;cht sind sy wider von Schaffhausen kommen; h&#252;tt rittend sy widerumb heim<note xml:id="fna" type="footnote" n="a"><hi>Am Schluss Vermerk des Abschreibers:</hi> Plura non extant.</note>.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]<note xml:id="fnb" type="footnote" n="b"><hi>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:</hi> Idem eidem. Tiguro Bernam. 26. octobris 1548.</note></note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

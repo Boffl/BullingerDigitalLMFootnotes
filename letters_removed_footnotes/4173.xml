@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4173" type="Brief" source="TUSTEP" n="30244">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Joachim B&#228;ldi] / [Glarus] AN [Heinrich Bullinger] / [Z&#252;rich], zwischen s.d. s.d. [1560] und s.d. s.d. [1569]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 441,227</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>es sind uff necht spat ettlich unser landl&#252;t u&#223; Franckrich heimkomen, bi denen ich</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/4173">
+				<correspAction type="sent">
+					<persName ref="p252" cert="low">
+						<!--
+						<surname cert="low">B&#228;ldi</surname>
+						<forename cert="low">Joachim</forename>
+						<graphic type="portrait" url="portraits/252_Baeldi_Joachim.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Joachim_B%C3%A4ldi"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11078816"/>
+						-->
+					</persName>
+					<placeName source="l176" cert="low"><orig>Glarus</orig></placeName>
+					<date notBefore="1560-01-01" notAfter="1569-12-12" cert="low"><note>Datum unsicher  s.d. (Fr&#252;hestens 1560, m&#246;glicherweise 1569)</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="low"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file4174"/>
+					<ref type="prev_chronologically" target="file4170"/>
+					<ref type="next_correspondence" target="file4311"/>
+					<ref type="next_correspondence_request" target="file4311"/>
+					<ref type="next_correspondence_reaction" target="file4521"/>
+					<ref type="next_same_sender" target="file4311"/>
+					<ref type="next_same_addressee" target="file4184"/>
+					<ref type="prev_same_addressee" target="file4170"/>
+					<ref type="next_with_sender_as_addressee" target="file4311"/>
+					<ref type="next_with_addressee_as_sender" target="file4184"/>
+					<ref type="prev_with_addressee_as_sender" target="file4170"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/4173%2FAutograph%2F00%20E_II_441__fol__227_b_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">4173/Autograph/00 E_II_441__fol__227_b_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/4173%2FAutograph%2F01%20E_II_441__fol__227_b_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">4173/Autograph/01 E_II_441__fol__227_b_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">G&#252;nstiger, lieber herr, es sind uff necht spat ettlich unser landtl&#252;t u&#223; Franckrich heimkomen, by denen ich aber nit selbs gesin; aber ich h&#246;rt, sy zeigen wunderbare ding und praticken an.</s>
+					<s n="2" xml:lang="de" type="auto">Aber min veter Adam z&#246;iger wirt &#252;ch, was sy sagen, muntlichen anzeigen.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Es sollen vyl Nyderlender hinin ziechen dem Conde zu&#870;, und sagen ouch, man solle nun keins fridens hoffen etc.</s>
+					<s n="4" xml:lang="de" type="auto">Ich gedencken jetz offten an die wyssagung des Liechtenbergers</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Es wirt ouch zu&#870; der selbigen zit der adler ubel berupft werden und die besten fedren verlieren etc.</s>
+					<s n="6" xml:lang="de" type="auto">Nach disem allem hat man anzeigt, min sun Cu&#870;nrat komme ouch, da ich verhofft, er wurde mir doch zum wenigesten schriben.</s>
+					<s n="7" xml:lang="de" type="auto">Aber mir ist n&#252;t worden anders, dann di&#223; zedeli schribt mir Bartlome Oschwald; das schicken mir wider.</s>
+					<s n="8" xml:lang="de" type="auto">Ich acht, es gang dermassen zu, das min sun n&#252;t schriben welle.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Das hor ich aber, das er und ander unser landtl&#252;t, so unser religion, zu&#870; dem houptman gangen und umb pa&#223;porten gebetten, hat im aber n&#252;t werden m&#246;gen.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Was die ursach, wirt die zit offnen.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">In summa, es hatt der unsern khein brieff m&#246;gen heru&#223; bringen; aber es sind den yrren alle wuchen heru&#223; komen; ist ein anzeigung eines betrugs, das man gefercht, man werde innen, wie es by inen stande; aber der hinckend bott wirt die recht warheit bringen etc.</s>
+				</p>
+				<p>
+					<note type="signature">[Unterschrift, Datum u. Adresse fehlen.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

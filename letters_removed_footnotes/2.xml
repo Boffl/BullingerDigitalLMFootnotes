@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2" type="Beilage" source="TUSTEP" n="18328">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Haller d.J.] / [Bern] AN Heinrich Bullinger / Z&#252;rich, s.d. s.d. [1548]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Beilage" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 370,544</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Nachdem ich schon geschriben, ist so vil noch zwegen bracht, das min Herren antwortend</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 199,21</idno>
+						<idno subtype="Hinweis">vgl. 20</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/2">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="low">
+						<!--
+						<surname cert="low">Haller d.J.</surname>
+						<forename cert="low">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="low"><orig>Bern</orig></placeName>
+					<date notBefore="1548-01-01" notAfter="1548-12-12" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file278"/>
+					<ref type="prev_chronologically" target="file1"/>
+					<ref type="next_correspondence" target="file116"/>
+					<ref type="prev_correspondence" target="file13066"/>
+					<ref type="next_correspondence_request" target="file116"/>
+					<ref type="prev_correspondence_request" target="file13066"/>
+					<ref type="next_correspondence_reaction" target="file320"/>
+					<ref type="prev_correspondence_reaction" target="file13018"/>
+					<ref type="next_same_sender" target="file116"/>
+					<ref type="prev_same_sender" target="file13066"/>
+					<ref type="next_same_addressee" target="file3"/>
+					<ref type="prev_same_addressee" target="file13145"/>
+					<ref type="next_with_sender_as_addressee" target="file116"/>
+					<ref type="prev_with_sender_as_addressee" target="file13066"/>
+					<ref type="next_with_addressee_as_sender" target="file3"/>
+					<ref type="prev_with_addressee_as_sender" target="file13145"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="7">Latein</language>
+				<language ident="de" usage="993">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="unklar">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/2%2FAutograph%2F00%20E_II_370__fol__544_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">2/Autograph/00 E_II_370__fol__544_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/2%2FAutograph%2F01%20E_II_370__fol__544_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">2/Autograph/01 E_II_370__fol__544_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="de" type="auto">Lieber her gfatter, nachdem ich schon gschriben, ist so vil noch zwegen bracht, das min herren antwortend und schribend an klein und gro&#223; r&#228;th gen Z&#252;rich.</s>
+					<s n="3" xml:lang="de" type="auto">Das hab ich welle darzu&#870; thu&#870;n, damitt ir w&#252;&#223;tind, worum[b] ich imm vorigen brieff u&#223; angeben de&#223; seckelmeisters</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="4" xml:lang="de" type="auto">M. Heinrych Bullinger zu&#870; Z&#252;rich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

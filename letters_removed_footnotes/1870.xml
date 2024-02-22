@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1870" type="Brief" source="TUSTEP" n="23070">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / Z&#252;rich AN [Johannes Wilhelm von Laubenberg] / [Baden], 15. Mai 1553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Kopie__(Entwurf)" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Kopie__(Entwurf)">E II 337,569</idno>
+						<idno subtype="Hinweis">von HBs Hand</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Bullinger, Heinrich</author>
+							<incipit>Uewer schryben sampt den &#252;berschickten buechern habend wir empfangen und den brieff sines ynhallts verstanden</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 79,113</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1870">
+				<correspAction type="sent">
+					<roleName ref="g26" type="pl" role="Geistliche" cert="high"/>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1553-05-15" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p3641" cert="low">
+						<!--
+						<surname cert="low">von Laubenberg</surname>
+						<forename cert="low">Johannes Wilhelm</forename>
+						-->
+					</persName>
+					<placeName source="l21" cert="low"><orig>Baden</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1871"/>
+					<ref type="prev_chronologically" target="file1869"/>
+					<ref type="next_same_sender" target="file2435"/>
+					<ref type="prev_same_sender" target="file1490"/>
+					<ref type="next_same_addressee" target="file3741"/>
+					<ref type="prev_same_addressee" target="file1869"/>
+					<ref type="next_with_sender_as_addressee" target="file2435"/>
+					<ref type="prev_with_sender_as_addressee" target="file1490"/>
+					<ref type="next_with_addressee_as_sender" target="file3741"/>
+					<ref type="prev_with_addressee_as_sender" target="file1869"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="18">Latein</language>
+				<language ident="de" usage="982">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1870%2FKopie%20(Entwurf)%2F00%20E_II_337__fol__569_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1870/Kopie (Entwurf)/00 E_II_337__fol__569_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1870%2FKopie%20(Entwurf)%2F01%20E_II_337__fol__569_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1870/Kopie (Entwurf)/01 E_II_337__fol__569_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Edler, vester, insonders g&#252;nstiger junckherr, unser willig dienst und alles gu&#870;ts sye &#252;ch bevoran bereidt</s>
+					<s n="2" xml:lang="de" type="auto">&#220;wer schryben sampt den &#252;berschickten bu&#868;chern habend wir empfangen und den brieff sines ynhallts verstanden, bittend aber &#252;ch hinwiderumb uff das allerfr&#252;mtlichist, ir w&#246;llind uns nitt f&#252;r &#252;bel hallten, das wir &#252;ch hiemitt die bu&#868;cher, wie wir sy von &#252;ch empfangen, widerumb &#252;berschickend; dann deren vast vil sind, unser gel&#228;genheit aber dermaassen gestalltet, das wir sy nitt habend konnen annemmen zu&#870; l&#228;sen noch vil minder zu&#870; iudicieren.</s>
+					<s n="3" xml:lang="de" type="auto">[So w&#252;ssend wir eigentlich wol, das die trucker alhie diser zyt nitt vast lustig sind, derley zu&#870; trucken.]</s>
+					<s n="4" xml:lang="de" type="auto">[Wir]<note type="margin">a.R.: - gestrichen.</note> habend unsers ampts und gesch&#228;fften halben ettliche mitt t&#228;glichen <foreign xml:lang="la">ordinariis lectionibus,</foreign> ettliche in ander w&#228;g mitt bestimpten predigen und sunst ouch in ander w&#228;g mitt kylchendiensten und schu&#870;lgesch&#228;fften zu&#870; thu&#870;n, und wachst unser arbeit t&#228;glich dermaassen, das wir uns [deren und derglychen] der n&#228;bendgesch&#228;fften billich entschlahend.</s>
+					<s n="5" xml:lang="de" type="auto">Gotte g&#228;be, das wir unser ampt wol gewarten k&#246;nnind und das tr&#252;wlich uu&#223;richten, das uns notwendiger gesch&#228;fften uffligt und wir von pflichten w&#228;gen uu&#223;zu&#870;richten schuldig sind.</s>
+					<s n="6" xml:lang="de" type="auto">S&#246;liche unser antwurt w&#246;llind im besten von uns uffnemmen.</s>
+					<s n="7" xml:lang="de" type="auto">Gott mitt &#252;ch.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Datum Z&#252;rych 15. maij anno 1553.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Pfarrer, prediger und l&#228;ser, diener der kylchen Z&#252;rych.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1922" type="Brief" source="TUSTEP" n="23114">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Philipp Gallicius (Saluz) / Chur AN Heinrich Bullinger / Z&#252;rich, 10. Juli 1553</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 365,505</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Accepimus literas tuas et quas Heinricho fratri ad nos scripsisti et quas siliginario.</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. I, S. 305, Nr. 213</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>de Porta, Hist. Ref. Raet. I 2, 256 Anm. e</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Ferd. Meyer, Die evang. Gemeinde in Locarno, I, 84</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 79,174</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1922">
+				<correspAction type="sent">
+					<persName ref="p8359" cert="high">
+						<!--
+						<surname cert="high">Gallicius (Saluz)</surname>
+						<forename cert="high">Philipp</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Philipp_Gallicius"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/134007832"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11415068"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="high"><orig>Chur</orig></placeName>
+					<date when="1553-07-10" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1923"/>
+					<ref type="prev_chronologically" target="file1921"/>
+					<ref type="next_correspondence" target="file1942"/>
+					<ref type="prev_correspondence" target="file1915"/>
+					<ref type="next_correspondence_request" target="file1942"/>
+					<ref type="prev_correspondence_request" target="file1915"/>
+					<ref type="next_same_sender" target="file1942"/>
+					<ref type="prev_same_sender" target="file1915"/>
+					<ref type="next_same_addressee" target="file1925"/>
+					<ref type="prev_same_addressee" target="file1919"/>
+					<ref type="next_with_sender_as_addressee" target="file1942"/>
+					<ref type="prev_with_sender_as_addressee" target="file1915"/>
+					<ref type="next_with_addressee_as_sender" target="file1925"/>
+					<ref type="prev_with_addressee_as_sender" target="file1919"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1922%2FAutograph%2F00%20E_II_365__fol__505_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1922/Autograph/00 E_II_365__fol__505_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1922%2FAutograph%2F01%20E_II_365__fol__505_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1922/Autograph/01 E_II_365__fol__505_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Accepimus literas tuas, vir observandissime, et quas Heinricho fratri ad nos scripsisti et quas siliginario.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Communitas illum amplius retinere noluit.</s>
+					<s n="4" xml:lang="la" type="auto">Venit ad nos; aliam ei ecclesiam ostendemus, cui praesit quaeque recipiat eum.</s>
+					<s n="5" xml:lang="la" type="auto">Recte fecisti, quod ad nos remiseris illum; multae enim ecclesiae apud nos carent concionatore.</s>
+					<s n="6" xml:lang="la" type="auto">Agimus autem gratias ingentes tibi, quod scribere ad nos non desinis alioqui satis occupatus, sed nihilominus nos omnium facis cerciores.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Videntur appetere tempora illa, de quibus olim <persName>Lactantius</persName> ille scripsit, quibus nemo quicquam habebit nisi violencia manuque armata partum conservatumque.</s>
+					<s n="8" xml:lang="la" type="auto">Deus misereatur nostri, ut scribis.</s>
+					<s n="9" xml:lang="la" type="auto">D. Baionensis misit ad me heri has literas, quas curem tibi reddi.</s>
+					<s n="10" xml:lang="la" type="auto">Hoc scio cum doctis conservatum esse diu et doctos benevolencia prosequi, te eciam cum primis diligere, nisi me fallant, qui ipsi sunt familiarissimi.</s>
+					<s n="11" xml:lang="la" type="auto">Sed hoc nominatim me tibi scribere iussit sese scripsisse nunc ad te maxima cum festinatione, cum esset iam paratus abire et ocreis indutus.</s>
+					<s n="12" xml:lang="la" type="auto">In Foederibus nostris sunt, quibus minus placeat, quod Luteranum suspicentur esse, forsan ob hoc, quod nulla convicia eructet in Luteranos, imo honorifice ubique de illis loquatur, pessime autem semper de Eccio.</s>
+					<s n="13" xml:lang="la" type="auto">Ex Italia novi adfertur prorsus nihil.</s>
+					<s n="14" xml:lang="la" type="auto">Quod dictum fuerat Turcam venisse in Italiam, nihil est, neque audimus venire.</s>
+					<s n="15" xml:lang="la" type="auto">His vale, vir humanissime, et nos redamare perge.</s>
+					<s n="16" xml:lang="la" type="auto">Salutant te Comander, Ponticella et Heinrichus tuus Gassenser</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Tuus totus Philippus Gallicius.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vere magno viro d. Heinrycho Bullingero, domino suo colendissimo, ecclesiae ministro fidissimo.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

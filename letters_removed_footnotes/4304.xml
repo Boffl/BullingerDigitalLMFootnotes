@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4304" type="Brief" source="TUSTEP" n="30095">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern AN Heinrich Bullinger / Z&#252;rich, 5. Juni 1560</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 359,2999</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Tuas per Polonos nobiles atque item alteras per Albertum Austriacum missas eadem die accepi;</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Eduard B&#228;hler, Dekan J. Haller, in: NBT 31, (1926), 45</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 97,76</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/4304">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+					<date when="1560-06-05" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file4305"/>
+					<ref type="prev_chronologically" target="file4303"/>
+					<ref type="next_correspondence" target="file4310"/>
+					<ref type="prev_correspondence" target="file4287"/>
+					<ref type="next_correspondence_request" target="file4310"/>
+					<ref type="prev_correspondence_request" target="file4283"/>
+					<ref type="next_correspondence_reaction" target="file4826"/>
+					<ref type="prev_correspondence_reaction" target="file4287"/>
+					<ref type="next_same_sender" target="file4310"/>
+					<ref type="prev_same_sender" target="file4283"/>
+					<ref type="next_same_addressee" target="file4305"/>
+					<ref type="prev_same_addressee" target="file4297"/>
+					<ref type="next_with_sender_as_addressee" target="file4310"/>
+					<ref type="prev_with_sender_as_addressee" target="file4283"/>
+					<ref type="next_with_addressee_as_sender" target="file4305"/>
+					<ref type="prev_with_addressee_as_sender" target="file4297"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="339">Latein</language>
+				<language ident="de" usage="661">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/4304%2FAutograph%2F00%20E_II_359__fol__2999_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">4304/Autograph/00 E_II_359__fol__2999_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/4304%2FAutograph%2F01%20E_II_359__fol__2999_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">4304/Autograph/01 E_II_359__fol__2999_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Tuas per Polonos nobiles atque item alteras per Albertum Austriacum missas eadem die accepi; praestitimus singulis, quod potuimus.</s>
+					<s n="3" xml:lang="la" type="auto">Ad Polonorum literas nondum est responsum; fiet tamen id propediem, ut spero.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Albertus adhuc haeret hic, quando discessurus sit, ignoro; iuvi illum, quantum potui; sed receptus non est.</s>
+					<s n="5" xml:lang="la" type="auto">Nescit, quo se vertat; fortassis ad vos revertetur, si vel apud Turgavos, Toggios, Glaronenses aut Rhetos conditionem invenire possit.</s>
+					<s n="6" xml:lang="la" type="auto">Quod res nostras attinet, pacatiora nunc sunt omnia per domini gratiam quam ante aliquot dies; <foreign xml:lang="de">es lie&#223; sich ansehen, es m&#252;&#223;t eins mals sin.</foreign></s>
+					<s n="7" xml:lang="de" type="auto">Aber es ist das krieg&#223;volk, so sich umb Lyon gsammlet, dadannen verruckt; man sagt, es werde alles uff Engelland und Schotten zu&#870;gf&#252;rt werden.</s>
+					<s n="8" xml:lang="de" type="auto">Mitthin vernemmend wir, das dem k&#252;nig u&#223; Hispanien vil schiff uff dem meer von den T&#252;rggen genomen und hingef&#252;rt sigind mit gro&#223;en verlurst an l&#252;ten und gu&#870;t.</s>
+					<s n="9" xml:lang="de" type="auto">Gen Genff hatt man nieman gleit; si habend sin auch nie beg&#228;rt; si sind so wol an m[inen] h[erren], das ich sorg, si n&#228;mind eh ander hinin dann die unseren.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Si habend vorgester aber ein bottschafft hie ghan, bringend immerdar n&#252;w sachen, darin sich nieman richten kan.</s>
+					<s n="11" xml:lang="de" type="auto">Gott geb, das es eins mals be&#223;er werd und das bald.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto"><foreign xml:lang="de">Wie es in Franckrych stand, acht ich, habind ir von Hanns Liner von S. Gallen verstanden,</foreign> qui, cum his diebus hic esset, recta se ad vos Tigurum profecturum dicebat.</s>
+					<s n="13" xml:lang="de" type="auto">Mitt Friburg und Wallis habend min h[erren] in dem z&#228;ssel ein tag ghalten von des safoischen handels wegen, die sich zallen syten erl&#252;teret, gu&#870;t und blu&#870;t zu&#870; m[inen] h[erren] zu&#870; setzen.</s>
+					<s n="14" xml:lang="de" type="auto">Daruff auch die v[on] Friburg ein uszug thon 4000 starck, wiewol wir uns der ungl&#246;ubigen hilff nitt seer tr&#246;stend.</s>
+					<s n="15" xml:lang="de" type="auto">In Wallis ist etwas unru&#870;w gsin.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Zu&#870; Sitten hatt der schu&#870;lmeister amm ostertag (als ich w&#228;n) in der kilchen offenlich mitt sinen schu&#870;leren in gegenwirtikeit auch des bischoffs psalmen gsungen, welcher n&#252;t darwider thon, sonder es f&#252;r kindending ghalten; aber ettliche unr&#252;wige pfaffen habend den Gomser Zenden (ist der oberist imm land glegen) ufbracht; die sind mit der matzen (die doch vor jaren von den eidgnossen abgstellt) ufgsin und habend herab wellen.</s>
+					<s n="17" xml:lang="de" type="auto">Aber inen ist von den anderen Zenden so vil gseit, das si daheim bliben.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Die erkantnus Christi nimpt bi inen von gotts gnaden vast zu&#870;.</s>
+					<s n="19" xml:lang="de" type="auto">Was wyters ist, werdend it von h[ern] Niclausen von Die&#223;bach und h[erren] Simon Wurstenberger (der an h[erren] Ambrosi imm Hoffs statt geordnet ist zun eidgnossen zu&#870; ryten) vernemmen; die sind h&#252;tt verritten.</s>
+					<s n="20" xml:lang="de" type="auto">Achten doch wol, glegenheit der stra&#223; nach werdind si zletst gen Z&#252;rich kon; dann si willens, dadannen uff die jarr&#228;chnung gen Baden.</s>
+					<s n="21" xml:lang="de" type="auto">Sy rytend in ettliche Ort, und m[in] h[err] seckelmeister Dillger</s>
+					<s n="22" xml:lang="de" type="auto">H[err] von Die&#223;bach understat &#252;ch noch einmal har zu&#870; bringen.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto">Gott welle, das es gsch&#228;ch.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">De obitu consulis Wattenwilii iam prius nimirum ex fratre meo cognovisti.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Mater mea ad vos redit, per quam has ad te mitto; eam tibi commendo.</s>
+					<s n="26" xml:lang="la" type="auto">Musculus te salutat, quem tamen ipsum ad te literas una cum exemplari suorum Locorum missurum arbitror.</s>
+					<s n="27" xml:lang="la" type="auto">Bene vale et salutem dic tuis omnibus meo nomine.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Salutat te socer meus, Hallerus, Hagius et multi alii.</s>
+					<s n="29" xml:lang="la" type="auto">Bernae 5. iunii 1560.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">I[ohannes] H[allerus] tuus.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, Tigurinae ecclesiae pastori fidelissimo, domino suo honorando et compatri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

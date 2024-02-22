@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2609" type="Brief" source="TUSTEP" n="25056">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hieronymus Zum Lamb (Agninus) / Frankfurt am Main AN Heinrich Bullinger / Z&#252;rich, 12. April 1555</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,149 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Ewer schreiben de dato den 22. Martij j&#252;ngst habe ich in disser mess enpfangen und daruss gern vernommen</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 84,163</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/2609">
+				<correspAction type="sent">
+					<persName ref="p9697" cert="high">
+						<!--
+						<surname cert="high">Zum Lamb (Agninus)</surname>
+						<forename cert="high">Hieronymus</forename>
+						-->
+					</persName>
+					<placeName source="l157" cert="high"><orig>Frankfurt am Main</orig></placeName>
+					<date when="1555-04-12" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file2610"/>
+					<ref type="prev_chronologically" target="file2608"/>
+					<ref type="next_correspondence" target="file2729"/>
+					<ref type="prev_correspondence" target="file2234"/>
+					<ref type="next_correspondence_request" target="file2729"/>
+					<ref type="prev_correspondence_request" target="file2234"/>
+					<ref type="next_same_sender" target="file2729"/>
+					<ref type="prev_same_sender" target="file2234"/>
+					<ref type="next_same_addressee" target="file2610"/>
+					<ref type="prev_same_addressee" target="file2602"/>
+					<ref type="next_with_sender_as_addressee" target="file2729"/>
+					<ref type="prev_with_sender_as_addressee" target="file2234"/>
+					<ref type="next_with_addressee_as_sender" target="file2610"/>
+					<ref type="prev_with_addressee_as_sender" target="file2602"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="33">Latein</language>
+				<language ident="de" usage="967">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/2609%2FAutograph%2F00%20E_II_356__S__149_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">2609/Autograph/00 E_II_356__S__149_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/2609%2FAutograph%2F01%20E_II_356__S__150_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">2609/Autograph/01 E_II_356__S__150_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/2609%2FAutograph%2F02%20E_II_356__fol__150_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">2609/Autograph/02 E_II_356__fol__150_a_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/2609%2FAutograph%2F03%20E_II_356__fol__150_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">2609/Autograph/03 E_II_356__fol__150_a_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">W&#252;rdiger, hochgelerter, &#252;ch sey mein freuntlich, gutwillig dinst zuvor, insonders g&#252;nstiger, lieber her und freundt.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Ewer schreiben de dato den 22. martij jungst habe ich in di&#223;er me&#223; entpfangen und daru&#223; gern vernommen, das &#252;ch der index meorum numismatum recht zukhommen, daran ich dan etwa&#223; gezweyfelt gehabt, dieweyl mir der her Froschouer keinen brieff von &#252;ch pracht.</s>
+					<s n="3" xml:lang="de" type="auto">E&#223; ist mir aber da&#223; ber&#252;rt ewer schreiben bald nach Froschoffers ankhunfft <foreign xml:lang="la">per dominum</foreign> Vuldernium gelieffert worden.</s>
+					<s n="4" xml:lang="de" type="auto">E&#223; hatt ouch gedachter Froschouer mir au&#223; ewerm bevelch zugestelt ein exemplar ewerer sermon <foreign xml:lang="la">De extremo iuditio,</foreign> de&#223;en ich mich gegen &#252;ch gantz freuntlich thun bedancken mit erpietung, solichs euch hiewider, wo ich khan, zu verdienen.</s>
+					<s n="5" xml:lang="de" type="auto">Wa ir in meinem indice etwa&#223; findet, da&#223; ir zuvor nit und ich duppel hette, bin ich unbeschwert, &#252;ch dasselbig mitzutheilen.</s>
+					<s n="6" xml:lang="de" type="auto">Ewern siclum H&#281;br&#281;um,</s>
+					<s n="7" xml:lang="de" type="auto">Ich habe gleichwol auch einen; aber ich halte den nit f&#252;r rechtgeschaffen, sonder f&#252;r gegossen, darumb ich inn auch in den indicem nit gesetzt; ist fast eines halben thalers gro&#223;.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Bith fruntlich, so ir mir etwan einmahl on da&#223; wider umbschreibt, ir wellent mir das <foreign xml:lang="la">pondus iam dicti tui</foreign> sicli anzeigen, und ob &#252;ch mit der zeyt etwa&#223; einfiele uff die qu&#281;stion, so ich &#252;ch mehrmahls movieret, mir da&#223;elbig zu ewer gelegenheit zu communicieren unbeschwert sein.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Die romisch kon[iglich] m[ajesta]t ist vorhabens und, wie ich versthe, albereyt im werck, ire numismata im truck au&#223;gehn zu laasen, und soll dominus Woffgangus Lazius annotationes oder etwa&#223; dergleichen darzu machen; da&#223; mochte etwa&#223; sonderlichs werden.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Der her doctor Wolffgang Waidner ist, wie ich berichtet werde, di&#223;er zeyt etwa&#223; schwach und dermassen geschaffen, da&#223; er veleicht daruff gohn mochte.</s>
+					<s n="11" xml:lang="de" type="auto">Den, wie man mich berichtet, soll er hydropisi laborieren; da&#223; mocht ime die sach au&#223;machen.</s>
+					<s n="12" xml:lang="de" type="auto">Der almechtig welle ine trosten und in seiner erkhentnu&#223; erhalten.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Ioannem Baptistam Wy&#223;amerum betreffen habe ich de&#223;elbigen halber Jost Glu&#223;ern gesterigs tags wider angesprochen, der mir angezeigt, ime sey noch von gedachtem Wy&#223;amern nichts zukhommen; er wisse aber anders nit, dan da&#223; er noch in leben sey und halte sich nit lang an einem ort.</s>
+					<s n="14" xml:lang="de" type="auto">Er, Jost, habe di&#223;e me&#223; brieff an ine entpfangen und dieselben gegen Hamburg geschickt, da sey er etwan zu erfragen.</s>
+					<s n="15" xml:lang="de" type="auto">Ob ir nun f&#252;r rhatsam hielten, ime Wy&#223;amero noch einmahl schrifftlich zu ersuchen, hetten ir mir solich schreiben zuzuordnen, wolte ichs Jost Glu&#223;ern zustellen, da&#223;elbig <foreign xml:lang="la">per occasionem</foreign> ferner gehn Hamburg haben zu ubersenden.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Da&#223; wolte ich uch freuntlicher meinung uff das ber&#252;rt ewer schreiben nit verhalten, und habt mich zu ewern diensten yederzeyt bereit und willig.</s>
+					<s n="17" xml:lang="de" type="auto">Ir m&#252;&#223;t mit di&#223;er bo&#223;en und unle&#223;licher schrifft f&#252;r gut haben; ich habe uff di&#223; mahl kein amanuensem gehabt.</s>
+					<s n="18" xml:lang="de" type="auto">Her Clau&#223; Brom, Jost Glu&#223;er und m. Heinrich Lautensack lassen uch iren gru&#223; und dinst sagen.</s>
+					<s n="19" xml:lang="de" type="auto">Datum Franckfurt den 12. aprilis anno etc. 55.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Tuus Hieronymus zum Lamb doctor etc.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de" type="auto">Dem w&#252;rdigen und hochgelerten hern Hainrichen Bullingern, der hail.</s>
+					<s n="22" xml:lang="de" type="auto">geschrifft lehrern und f&#252;rstehern der christlichen gemeinde zu Zurich, meinem besondern g&#252;nstigen, lieben hern und freundt.</s>
+					<s n="23" xml:lang="de" type="auto">Zurich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

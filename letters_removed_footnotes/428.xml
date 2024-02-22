@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file428" type="Brief" source="TUSTEP" n="19027">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Gast] / [Basel] AN Heinrich Bullinger / Z&#252;rich, 6. Februar 1549</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,81</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Ex Lipsia 4. Januarii 1549: Timemus bellum in futuram aestatem gravissimum</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Gast, Tagebuch, 88 257</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/428">
+				<correspAction type="sent">
+					<persName ref="p1278" cert="low">
+						<!--
+						<surname cert="low">Gast</surname>
+						<forename cert="low">Johannes</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Gast"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/122090284"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11415086"/>
+						-->
+					</persName>
+					<placeName source="l28" cert="low"><orig>Basel</orig></placeName>
+					<date when="1549-02-06" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file429"/>
+					<ref type="prev_chronologically" target="file427"/>
+					<ref type="next_correspondence" target="file436"/>
+					<ref type="prev_correspondence" target="file425"/>
+					<ref type="next_correspondence_request" target="file436"/>
+					<ref type="prev_correspondence_request" target="file425"/>
+					<ref type="next_correspondence_reaction" target="file1220"/>
+					<ref type="prev_correspondence_reaction" target="file12899"/>
+					<ref type="next_same_sender" target="file436"/>
+					<ref type="prev_same_sender" target="file425"/>
+					<ref type="next_same_addressee" target="file448"/>
+					<ref type="prev_same_addressee" target="file415"/>
+					<ref type="next_with_sender_as_addressee" target="file436"/>
+					<ref type="prev_with_sender_as_addressee" target="file425"/>
+					<ref type="next_with_addressee_as_sender" target="file448"/>
+					<ref type="prev_with_addressee_as_sender" target="file415"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="48">Deutsch</language>
+				<language ident="la" usage="952">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/428%2FAutograph%2F00%20E_II_356__fol__81_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">428/Autograph/00 E_II_356__fol__81_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/428%2FAutograph%2F01%20E_II_356__fol__81_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">428/Autograph/01 E_II_356__fol__81_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Ex Lipsia 4. Ianuarii 1549:</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">"Timemus bellum in futuram aestatem gravissimum fore in Saxonia propter Magdeburgenses, qui a Caesare sunt proclamati et proscripti.</s>
+					<s n="3" xml:lang="la" type="auto">Brema urbs illis adh&#281;ret; reliqui omnes hostes sunt tam principes quam civitates.</s>
+					<s n="4" xml:lang="la" type="auto">Melanchthon Lipsi&#281; fuit, qui scabie supra modum vexatur, excruciatur et exulceratur, cum quo coenavi; qui si posset, in Saxonia non maneret.</s>
+					<s n="5" xml:lang="la" type="auto">Habita sunt comitia Lipsi&#281;, qu&#281; calendis Ianuarii dissipata sunt post discessum Mauritii.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Interim C&#281;sareum equites et civitates noluerunt recipere; docti tamen, inter quos praecipui fuere doctor Belgeranus, Melanchthon et Ioachimus Camerarius, quaedam propter communem concordiam admiserunt, utpote confirmationem, unctionem, ieiunium et dies quosdam profestos sanctorum.</s>
+					<s n="7" xml:lang="la" type="auto">Interfuit comitiis Erasmus Sa[r]cerius, qui in exilium pulsus propter evangelium ac Amerbergi haeret apud nobilem nomine Wolfgangum a Linderauw, et cum eo 24 concionatores eiecti ex comitatu comitum a Nassauw.</s>
+					<s n="8" xml:lang="la" type="auto">Hic omnes concionatores sunt proscripti, et populus iam sine pastores misere agit.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Secundus articulus de expeditione facienda contra Magdeburgenses et Bremenses; emporium Magdeburgense in Marchiam est translatum atque reliqui census Caesaris mandato omnes illis abrepti sunt.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Ioachimus elector Interim recepit cum aliis principibus Saxoni&#281;.</s>
+					<s n="11" xml:lang="la" type="auto">Miss&#281; papistic&#281; in tota Marchia habentur.</s>
+					<s n="12" xml:lang="la" type="auto">Frater marchionis, Ioannes a Costrin, omnino illi repugnat et graviter est iratus, quod relicto verbo dei in Interim papisticum consensum suum dederit; se velle mori cum ministris verbi dixit, praecipue cum evangelio Christi Iesu.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Tertius articulus de reddendo tributo.</s>
+					<s n="14" xml:lang="la" type="auto">Cupit C&#281;sar pro corona C&#281;sarea ab electoribus Mauritio et Augusto 8 thonen goldt, quam pecuni&#281; summam pap&#281; dare vult et papam ab eo petere.</s>
+					<s n="15" xml:lang="la" type="auto">2. Ferdinandus petit V donellos auri propter civitates, in quibus minera invenitur.</s>
+					<s n="16" xml:lang="de" type="auto">Item Mauricius hat win und bier gesteigt, dorvon er j&#228;rlich mag innemen 10 donen goldts... inkommen.</s>
+					<s n="17" xml:lang="la" type="auto">Sic luxus principum debet perdere regna."</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">H&#281;c ex Lipsia ad me et Myconium, qui graviter decumbit, scripta sunt.</s>
+					<s n="19" xml:lang="la" type="auto">1549. 6. Februarii.</s>
+				</p>
+				<p>
+					<note type="signature">[Unterschrift fehlt.]</note>
+					<note type="address">[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

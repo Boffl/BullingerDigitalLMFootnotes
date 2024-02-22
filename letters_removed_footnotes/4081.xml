@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4081" type="Brief" source="TUSTEP" n="29148">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN [Johannes Calvin], 17. September 1559</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 346,425</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Multo tempore nullas ad te literas dedi. Quum enim multo tempore febri quartana conflictatus sis</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XVII, S. 639ff, Nr. 3115</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>Hen&#223; 172 + A 87</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>Bouvier 174</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>E. Sturm, Ursinus 41</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 95,166</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/4081">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1559-09-17" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p540" cert="low">
+						<!--
+						<surname cert="low">Calvin</surname>
+						<forename cert="low">Johannes</forename>
+						<graphic type="portrait" url="portraits/540_Calvin_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Calvin"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118518534"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11418245"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file4082"/>
+					<ref type="prev_chronologically" target="file4080"/>
+					<ref type="next_correspondence" target="file4096"/>
+					<ref type="prev_correspondence" target="file3767"/>
+					<ref type="next_correspondence_request" target="file4114"/>
+					<ref type="prev_correspondence_request" target="file3617"/>
+					<ref type="next_correspondence_reaction" target="file4096"/>
+					<ref type="prev_correspondence_reaction" target="file3767"/>
+					<ref type="next_same_sender" target="file4087"/>
+					<ref type="prev_same_sender" target="file4076"/>
+					<ref type="next_same_addressee" target="file4096"/>
+					<ref type="prev_same_addressee" target="file3767"/>
+					<ref type="next_with_sender_as_addressee" target="file4087"/>
+					<ref type="prev_with_sender_as_addressee" target="file4076"/>
+					<ref type="next_with_addressee_as_sender" target="file4096"/>
+					<ref type="prev_with_addressee_as_sender" target="file3767"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/4081%2FAutograph%2F00%20E_II_346__fol__425_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">4081/Autograph/00 E_II_346__fol__425_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/4081%2FAutograph%2F01%20E_II_346__fol__425_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">4081/Autograph/01 E_II_346__fol__425_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Multo tempore nullas ad te, domine colendissime et frater charissime, literas dedi.</s>
+					<s n="3" xml:lang="la" type="auto">Quum enim multo tempore febri quartana conflictatus sis, nolui molestiam addere molestiae; nihil ergo scripsi, amicis autem hinc ad vos com[m]eantibus subinde nuncia et salutes imposui.</s>
+					<s n="4" xml:lang="la" type="auto">Iam vero cum intelligam te ex gratia domini revaluisse, incipio iam scribendi repetere officium.</s>
+					<s n="5" xml:lang="la" type="auto">De rebus nostris non est quod scribam, cum non ignores nos recte valere et in pristina per dei gratiam tranquillitate vivere.</s>
+					<s n="6" xml:lang="la" type="auto">Audimus et vos bene valere et progredi in pietate, periclitari quidem ex restitutione principis Sabaudi, sed optime sperare in misericordiam domini.</s>
+					<s n="7" xml:lang="la" type="auto">Hic ut regem Gallorum potentissimum in pios grandia molientem per lusum opprimere potuit, idem poterit Genevensem servare ecclesiam invitis etiam aliis potentatibus.</s>
+					<s n="8" xml:lang="la" type="auto">Orandus est autem dominus, ut perpetuo nobis adsit et nos servet a malo.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ex Polonia modo nihil habemus, ex Anglia vero eadem, quae vos etiam accepisse nihil dubitamus.</s>
+					<s n="10" xml:lang="la" type="auto">Quid fiat in Saxonia, narrabit hic d. Maternus Eccilius Vratislaviensis</s>
+					<s n="11" xml:lang="la" type="auto">Commendo tuae pietati hunc Maternum; videtur is mihi esse valde bonus et pietatis amans.</s>
+					<s n="12" xml:lang="la" type="auto">Idem a ministro quodam Heydelbergensi literas attulit, quibus is mihi significat contentionem gravem inter doctos esse excitatam de coena domini, et comitem ab Erbach Georgium, qui electoris vicem gerit, dum is est aut fuit apud imperatorem Augustae, coram doctis suam fecisse confessionem de hac re, quod non credat panem esse corpus domini neque hoc edi vel ore corporis vel ab impiis ac probasse hanc confessionem ex doctis plerosque, singulariter vero refragatum esse d. d. Tilomannum Hesohusium ac inter alia dixisse se non posse vel cum Calvino vel cum Bullingero communicare, respondisse vero comitem: ergo, si hi duo viri sint in coelo, video te ipsorum odio coelum ingredi nolle.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Ego tuam non curo excommunicationem; potior mihi est veritas etc.</s>
+					<s n="14" xml:lang="la" type="auto">Sed ea de re copiosiora referet hic noster Maternus.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Scis finita esse comitia Augustana, neque quicquam impetratum per nostros ab imperatore.</s>
+					<s n="16" xml:lang="la" type="auto">Quinimo aperuit hic pectus suum latius quam hactenus in ullis fecerit comitiis, protestatus se esse religionis, ut vocant, catholicae, et hanc religionem nolle mutare, neque quicquam dare quod ei sit contrarium, multo minus se authorem futurum ut ordines catholici quicquam mutent de sua religione.</s>
+					<s n="17" xml:lang="la" type="auto">Interim tamen ait, se stare velle semel datis Passoviae et in comitiis Augustanis 55 anno celebratis etc.</s>
+					<s n="18" xml:lang="la" type="auto">Impetrarunt catholici, ut liceat eis eiicere ex suis ditionibus syncerae religionis cultores: ita tamen, ne suis ipsos facultatibus spolient.</s>
+					<s n="19" xml:lang="la" type="auto">Mihi vero satis spoliati videntur suis opibus, qui ex patria eiiciuntur, ubi honeste vivere poterant, alibi vero ita non possunt, aut magna cum iactura possunt.</s>
+					<s n="20" xml:lang="la" type="auto">Impetrarunt ergo cacolyci plus quam eis hactenus licuerit etc.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Inde factum ut principes evangelici infensissimis ab Augusta animis discesserint.</s>
+					<s n="22" xml:lang="la" type="auto">Imperator cum Bavaro 21 augusti discessit.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Sed haec forte prius audisti.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Quanto vero princeps huius saeculi sese Christo audacius opponit, tanto magis invalescunt vires Christi in suis membris.</s>
+					<s n="25" xml:lang="la" type="auto">Simus ergo fortes in periculis omnibus, supplicantes domino, ne is unquam nos deserat.</s>
+					<s n="26" xml:lang="la" type="auto">Sic enim satis instructi et robusti erimus.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">In hoc vale, frater venerande et mihi semper colende atque amande.</s>
+					<s n="28" xml:lang="la" type="auto">Dominus benedicat tibi tuaeque familiae.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Saluta meo nomine colendissimos dominos et fratres, d. Theodorum Baezam, d. Petrum Viretum, ministros et symmystas alios, singulares quoque amicos nostros d. Ionvilleum, d. Budaeum, d. Normandium, d. Badium et alios.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Salutant te imprimis et omnes fratres symmystae nostri.</s>
+					<s n="31" xml:lang="la" type="auto">Vale iterum atque iterum.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Tiguri 17. septembris 1559.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Bullingerus ex animo tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse fehlt, vor 428 herausgerissen?]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

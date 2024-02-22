@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4394" type="Brief" source="TUSTEP" n="30143">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN Ambrosius Blarer (Blaurer) / Winterthur, 19. August 1560</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a78">
+							<name>St. Gallen KB</name>
+							<ref target="https://www.sg.ch/kultur/kantonsbibliothek-vadiana.html"/>
+						</repository>
+						<settlement ref="l474">St. Gallen</settlement>
+						<institution>Kantonsbibliothek Vadiana</institution>
+						-->
+						<repository ref="a78"/>
+						<idno subtype="Autograph">Ms 37, 341-342</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">VIII, 341</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Remitto tibi scriptum D. Matthiae Schenckii, pro quo et maximas ago gratias. Deo quoque gratias ago, qui suum spiritum</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Blarer BW III, S. 533ff</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>Possa, Ref' im Wallis 161, 172, 175</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms F 43,98r-99r</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 97,187</idno>
+						<idno subtype="Quelle">https://swisscollections.ch/Record/991170490637305501/Holdings?openHierarchy=true#tabnav</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/4394">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1560-08-19" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8055" cert="high">
+						<!--
+						<surname cert="high">Blarer (Blaurer)</surname>
+						<forename cert="high">Ambrosius</forename>
+						<graphic type="portrait" url="portraits/392_Blarer_Ambrosius.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Ambrosius_Blarer"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118663763"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11445074"/>
+						-->
+					</persName>
+					<placeName source="l555" cert="high"><orig>Winterthur</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file4395"/>
+					<ref type="prev_chronologically" target="file4393"/>
+					<ref type="next_correspondence" target="file4402"/>
+					<ref type="prev_correspondence" target="file4392"/>
+					<ref type="next_correspondence_request" target="file4496"/>
+					<ref type="prev_correspondence_request" target="file4392"/>
+					<ref type="next_correspondence_reaction" target="file4402"/>
+					<ref type="prev_correspondence_reaction" target="file4381"/>
+					<ref type="next_same_sender" target="file4395"/>
+					<ref type="prev_same_sender" target="file4392"/>
+					<ref type="next_same_addressee" target="file4402"/>
+					<ref type="prev_same_addressee" target="file4381"/>
+					<ref type="next_with_sender_as_addressee" target="file4395"/>
+					<ref type="prev_with_sender_as_addressee" target="file4392"/>
+					<ref type="next_with_addressee_as_sender" target="file4402"/>
+					<ref type="prev_with_addressee_as_sender" target="file4381"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="300">Latein</language>
+				<language ident="de" usage="700">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Remitto tibi, optime frater, scriptum d. Matthiae Schenckii, pro quo et maximas ago gratias.</s>
+					<s n="3" xml:lang="la" type="auto">Deo quoque gratias ago, qui suum spiritum tanta copia huic viro donare dignatus est, oroque eundem, ut donis suis recte utatur ac constans in domino permaneat.</s>
+					<s n="4" xml:lang="la" type="auto">Quales vero sunt epistolae illae coetus Augustani?</s>
+					<s n="5" xml:lang="la" type="auto">Maiorem in eo coetu charitatem et moderationem expectavissem.</s>
+					<s n="6" xml:lang="la" type="auto">Quam periculose, o deus, laborat tua ecclesia, quae a talibus gubernatur ingeniis!</s>
+					<s n="7" xml:lang="la" type="auto">Huiusmodi epistolas expectavissem non a pastoribus ecclesiarum gravibus, sed a levibus beanorum depositoribus.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quam corrupta est facta lingua annunciantium evangelium pacis!</s>
+					<s n="9" xml:lang="la" type="auto">Domine deus noster, miserere nostri et temperato linguas annunciantium veritatem tuam.</s>
+					<s n="10" xml:lang="la" type="manual">Amen.</s>
+					<s n="11" xml:lang="la" type="auto">Miseram ad te supplicationem Ihenensium et coniuratorum impressam.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Filiae meae una cum literis ad te dedi curanda; tradidit ea uxori fratris nostri d. Sardeni</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Cum autem aliud exemplum non habeam, isto diutius carere non possum neque solus ego potestatem eius habeo; nam symmystarum quoque est, et nunc eo uti necesse erit.</s>
+					<s n="14" xml:lang="la" type="auto">Proinde te oro, ut restituas mature; cum tu eum libellum saltem inspicere postulares et ideo ad te mitto orares, non existimavi eo me tam diu cariturum.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">In Wallis nimpt das evangelium tr&#228;fflich zu&#870;; das w&#246;lltend die 7 Ort gern schwellen.</s>
+					<s n="16" xml:lang="de" type="auto">Zu&#870; Baden uff dem lettsten tag habend die 13 Ort ein vermanung geschriben, das sy eins syend und n&#252;t gwalltigs anhebind etc.</s>
+					<s n="17" xml:lang="de" type="auto">Da habend die 7 Ort, die f&#252;nffe namlich mitt Friburg und Solenthurn, den andern 6 Orten (wie aber geb&#252;rlich und br&#252;chlich) n&#252;t irs f&#252;rnemmens anzeigt; sind hinder den andern Orten heymlich hinyn boten gesandt in Wallis.</s>
+					<s n="18" xml:lang="de" type="auto">Die 5 Ort sind kummen &#252;ber die Furcken, die andern 2 Ort heymlich durchs land, und sind zum ersten in zenden Gomms kummen, habend da (da die uffr&#252;rigisten sind) ein gmeind gehallten hinder dem bischoff, landthauptman und landtr&#228;ten eigens gwallts und da vil wider unsern glouben u&#223;gestossen etc., beg&#228;rt, das sy w&#246;llind blyben by dem allten glouben und, die sich an den n&#252;wen beg&#228;ben, w&#246;llind straaffen an lyb und gu&#870;t, das sy die lutherischen b&#252;cher abw&#228;g thu&#870;n und keine mee w&#246;llind imm land leyben, das sy ire kind nitt w&#246;llind in andere schu&#870;len denn b&#228;pstisch senden; und wiewol die matzen abgestellt, noch, wenn die oberkeit nitt w&#246;lle werren dem n&#252;wen glouben, sye inen nitt widerig, wenn sy schon mitt der matzen uffbr&#228;chind; sy w&#246;llind inen bystan mitt gu&#870;t, lyb und blu&#870;t.</s>
+					<s n="19" xml:lang="de" type="auto">Die unr&#252;wigen puren in den zenden habend hinder der oberkeit und den anderen 6 zenden das angenommen und daruff (inde) geschworen und den 7 Orten ein gschrifft darumb mitt des meyers sigel g&#228;ben.</s>
+					<s n="20" xml:lang="de" type="auto">Und wye sy w&#246;llen f&#252;rfaren, glychs im andern zenden ouch f&#252;rzenemmen, sind sy an meyer von M&#246;ryll kummen und beg&#228;rt, das man inen hallte den Briger zenden; das hatt der meyer nitt thu&#870;n w&#246;llen und sich inen mitt h&#228;fftigen worten widersetzt.</s>
+					<s n="21" xml:lang="de" type="auto">Indem ist der bischoff, landthouptman und landtr&#228;t der sachen innen worden, sind fast &#252;bel zu&#870;friden xin, habend die botten gen L&#246;&#252;ck bescheyden: da w&#246;llind sis h&#246;ren.</s>
+					<s n="22" xml:lang="de" type="auto">Und da habend sy f&#252;rtragen die meynung wie vor dem Gomser zenden mitt beg&#228;r, die des n&#252;wen gloubens sind, zu&#870; straaffen, insonders so ettlich funden, die n&#252;werung f&#252;rgenommen, mitt vil scharppffen reden etc.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto">Der bischoff, lanthouptman und r&#228;t habend inen geantwort: sy w&#246;llind n&#252;t lassen handlen wider den christenen glouben; ettlich syend gestrafft imm land umb ire fr&#228;fen; diewyl aber sy imm land ein gmeine geschrifft von Baden empfangen, die sy in allen zenden l&#228;sen lassen, und yederman deren zu&#870;friden und man eins sye, h&#228;ttend sy die bottschafft wol ersparen m&#246;gen; sy k&#246;nind und w&#246;llind innen ouch keine gmeinden mer hallten; es sye nitt der bruch, dorumb sy wol m&#246;gind widerumb heym faren.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto">Und wiewol inen diese antwort nitt wol geschmeckt, habend sy die doch in geschrifft beg&#228;rt, das inen begegnet.</s>
+					<s n="25" xml:lang="de" type="auto">N&#228;bendzu&#870; ist von ettlichen der r&#228;dten geredt, sy werind wol daheym blyben; wer nach inen gschickt habe?</s>
+					<s n="26" xml:lang="de" type="auto">sy s&#246;llind ir land regieren und Wallis r&#252;wig lassen.</s>
+					<s n="27" xml:lang="de" type="auto">Also sind sy, die 7 boten, verritten, und sind die Walliser &#252;bel zu&#870;friden, das sy also hinder inen gmeindet etc.</s>
+					<s n="28" xml:lang="de" type="auto">Wie der 7 Orten botten hinw&#228;g xin, sind 2 radtsbotten, der schuldheiys und Nic[olaus] von Die&#223;bach, von Bernn ouch kummen, habend anzeigt, wie sy vernommen, das der 7 Orten botten ins landt kummen, zwytracht zu&#870; richten; dorumb kummind ouch sy im gu&#870;ten, mitt vil fr&#252;ntlicher worten und embieten etc.</s>
+					<s n="29" xml:lang="de" type="auto">Man hat inen gedanckt, sy tr&#228;ffenlich eerlich und fr&#252;ntlich gehallten und gelassen.</s>
+					<s n="30" xml:lang="de" type="auto">Und verstan in summa wol, das gu&#870;te hoffnung von disem land ist, die 7 Ort nitt grossen willen gemachet etc.</s>
+					<s n="31" xml:lang="la" type="auto">Et quid non audent homines isti?</s>
+					<s n="32" xml:lang="la" type="auto">Sed tu, domine, usque quo?</s>
+					<s n="33" xml:lang="la" type="auto">Domini viae iustae sunt, et omnia gubernat prudentissime; ipse misereatur nostri!</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Tiguri 19. augusti 1560.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Vix ista scribere potui.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="de" type="auto">Sinem f&#252;rgeliepten herren und bru&#870;der m. Ambrosien Blaureren zu&#870; Wintherdur.</s>
+				</p>
+				<p>
+					<note>[Vermerk von A. Blaurers Hand:]</note>
+					<s n="39" xml:lang="de" type="auto">Walliser historia.</s>
+					<s n="40" xml:lang="la" type="auto">Remitte has.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

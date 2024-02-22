@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8700" type="Brief" source="TUSTEP" n="41098">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Z&#252;rich] AN Hans Rudolf Bullinger / Berg am Irchel, 2. November 1571</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich ZB</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Autograph">Ms F 37,431</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>&#252;ber min villfalltig schryben, und schwerren burdinen, die ich tragen mu&#223;, leist mir du erst noch me uff mitt dinem Baltassar</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/8700">
+				<correspAction type="sent">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="low"><orig>Z&#252;rich</orig></placeName>
+					<date when="1571-11-02" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p477" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Hans Rudolf</forename>
+						<ref type="gnd" target="https://d-nb.info/gnd/1089431538"/>
+						-->
+					</persName>
+					<placeName source="l35" cert="high"><orig>Berg am Irchel</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file8701"/>
+					<ref type="prev_chronologically" target="file8699"/>
+					<ref type="next_correspondence" target="file8720"/>
+					<ref type="prev_correspondence" target="file8675"/>
+					<ref type="next_correspondence_request" target="file8720"/>
+					<ref type="prev_correspondence_request" target="file8675"/>
+					<ref type="next_correspondence_reaction" target="file8753"/>
+					<ref type="prev_correspondence_reaction" target="file8520"/>
+					<ref type="next_same_sender" target="file8701"/>
+					<ref type="prev_same_sender" target="file8695"/>
+					<ref type="next_same_addressee" target="file8753"/>
+					<ref type="prev_same_addressee" target="file8520"/>
+					<ref type="next_with_sender_as_addressee" target="file8701"/>
+					<ref type="prev_with_sender_as_addressee" target="file8695"/>
+					<ref type="next_with_addressee_as_sender" target="file8753"/>
+					<ref type="prev_with_addressee_as_sender" target="file8520"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="66">Latein</language>
+				<language ident="de" usage="934">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/8700%2FAutograph%2F00%20Ms%20F%2037%20(431)_00001.tif/full/max/0/default.jpg" n="1"><desc subtype="path">8700/Autograph/00 Ms F 37 (431)_00001.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/8700%2FAutograph%2F01%20Ms%20F%2037%20(431)_00002.tif/full/max/0/default.jpg" n="2"><desc subtype="path">8700/Autograph/01 Ms F 37 (431)_00002.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gott mitt dir.</s>
+					<s n="2" xml:lang="de" type="auto">F&#252;rgeliepter sun, &#252;ber min villfalltig schryben und schwerren burdinen, die ich tragen mu&#870;&#223;, leist mir du erst noch me uff mitt dinem Baltassar, von de&#223; w&#228;gen ich hievor zum andern mal flyssig gen Glaris geschriben hab.</s>
+					<s n="3" xml:lang="de" type="auto">Jetzund sol ich aber 3 brieff schryben, der an M[ichael] B&#228;ldi, F. Schu&#870;ler und h. Hansen Hugen.</s>
+					<s n="4" xml:lang="la" type="auto">Quis unus omnia haec sustinuerit?</s>
+					<s n="5" xml:lang="de" type="auto">Doch wil ich arthu&#870;n nach minem verm&#252;gen.</s>
+					<s n="6" xml:lang="la" type="auto">Utinam grati homines illi essent et agnoscerent ipsos collata beneficia.</s>
+					<s n="7" xml:lang="de" type="auto">Was mir h&#252;tt von Chur worden ist, das schicken ich dir hie mitt eigner hand abzeichnet; m&#246;chte wol lyden, wenn du es komlich zu&#870; w&#228;gen bringen m&#246;chtist, du zeigtists oder schicktists m. Hans Conradt Ulmer zu&#870; Schaffhusen, doch das er dirs wider zu&#870;stellte; gru'&#223; mir inn.</s>
+					<s n="8" xml:lang="de" type="auto">Kanst es aber nitt fu&#870;glich, so sy n&#252;t; ligt och nitt so vil daran.</s>
+					<s n="9" xml:lang="de" type="auto">Ich gloub nitt, das es aller dingen also richtig zu&#870;gangen und der syg so gro&#223; sye; ists aber, so werdent wir Tockey</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Gott g&#228;be gu&#870;te zyt.</s>
+					<s n="11" xml:lang="de" type="auto">Das schrib ich in h&#246;chster yl.</s>
+					<s n="12" xml:lang="de" type="auto">Es ist sunst ouch minen herren zu&#870;kummen, wie es in Franckrych stande, fast wol, und was der k&#246;nig an hertzog von Saffoy geschriben, das er beredt die evangelischen syend des k&#252;nigrychs find; jetzund befind er anders, vermane inn, das er g&#228;gen den evangelischen fr&#252;ntlich sye und sich nitt wider sy verhetzen lasse etc.</s>
+					<s n="13" xml:lang="de" type="auto">Acht, es werde erst morn vor radt verl&#228;sen werden.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto">Gott mitt dir und dinem hu&#223;.</s>
+					<s n="15" xml:lang="de" type="auto">Gru&#868;&#223; mir Susannam und Lisenbethli, j. Hansen Peyer, h. Hu&#223;... etc.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Datum in yl 2. novembris 1571.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">H[einrych] Bullinger der elter.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Minem lieben sun Han&#223;rodolffen Bullinger, pfarreren zu&#870; Berg.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

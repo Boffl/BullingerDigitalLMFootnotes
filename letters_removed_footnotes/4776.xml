@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file4776" type="Brief" source="TUSTEP" n="31078">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jakob R&#252;eger / Schaffhausen AN Heinrich Bullinger / Z&#252;rich, 30. April 1561</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 377,2355</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Has tuae humanitati literas offerens filius est senis et fidelis apud nostratium ecclesias ministri</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 100,48</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/4776">
+				<correspAction type="sent">
+					<persName ref="p2757" cert="high">
+						<!--
+						<surname cert="high">R&#252;eger</surname>
+						<forename cert="high">Jakob</forename>
+						<graphic type="portrait" url="portraits/2742_Rueeger_Johann_Jakob.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johann_Jakob_R%C3%BCeger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/101891865"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11468609"/>
+						-->
+					</persName>
+					<placeName source="l441" cert="high"><orig>Schaffhausen</orig></placeName>
+					<date when="1561-04-30" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file4777"/>
+					<ref type="prev_chronologically" target="file4775"/>
+					<ref type="next_correspondence" target="file4819"/>
+					<ref type="prev_correspondence" target="file4731"/>
+					<ref type="next_correspondence_request" target="file4819"/>
+					<ref type="prev_correspondence_request" target="file4731"/>
+					<ref type="next_correspondence_reaction" target="file5294"/>
+					<ref type="prev_correspondence_reaction" target="file4455"/>
+					<ref type="next_same_sender" target="file4819"/>
+					<ref type="prev_same_sender" target="file4731"/>
+					<ref type="next_same_addressee" target="file4778"/>
+					<ref type="prev_same_addressee" target="file4760"/>
+					<ref type="next_with_sender_as_addressee" target="file4819"/>
+					<ref type="prev_with_sender_as_addressee" target="file4731"/>
+					<ref type="next_with_addressee_as_sender" target="file4778"/>
+					<ref type="prev_with_addressee_as_sender" target="file4760"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/4776%2FAutograph%2F00%20E_II_377__fol__2355_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">4776/Autograph/00 E_II_377__fol__2355_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/4776%2FAutograph%2F01%20E_II_377__fol__2355_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">4776/Autograph/01 E_II_377__fol__2355_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Has tuae humanitati, clarissime vir, literas offerens filius est senis et fidelis apud nostratium ecclesias ministri, qui hunc suum filium a iuventute, ut bonas artes literasque disceret, institui curavit.</s>
+					<s n="3" xml:lang="la" type="auto">Sed quia citius, quam debebat, uxorem duxit, minus in literis profecit, et licet ei adhuc sit uxor liberique, tamen senex et parens bono zelo motus consyderans filii aetatem, cupiens item, ut Ioannes ille suus aliquando reipublicae vel in ecclesia vel in schola prodesse queat neve in vacuum abeant, quae in illum contulit hactenus, periculum adhuc semel facturus apud se constituit, quamquam non multis id suadentibus se eum ad vos Tigurum missurum, ut ibi sedulo audiat conciones, d. d. Martyrem, d. Simlerum et alios professores per anni spatium.</s>
+					<s n="4" xml:lang="la" type="auto">Inde sperat bonus senex filium evasurum in hominem, qui alicuius sit frugi futurus.</s>
+					<s n="5" xml:lang="la" type="auto">Rogabat autem obnixe, ut doctis ecclesiae Tigurinae illum commendarem.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">At quia tua humanitas est omnibus cogni[ti]ssima et authoritas apud quosvis maxima, benevolentia singularis erga Schaphusianos non obscura, te, doctissime d. Bullingere, iterum atque iterum rogo, consilio opeque huic adsis, ut queat esse convictor alicuius ex tuis generis vel d. Gvaltheri aut, si nulli horum coniungi potest, alteri cuidam ex doctis, quo maior illi studendi et in theologia praesertim proficiendi sit occasio; aetas eius etiam adhuc disciplinam aliquam requirit.</s>
+					<s n="7" xml:lang="la" type="auto">Sed non dubito, quin iam pro tua prudentia sis, ut decet, acturus.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">De precio hic nemo omnino sit solicitus, ut pactus fueris vel tu cum ipso cum aliquo, certo certius omnia solventur.</s>
+					<s n="9" xml:lang="la" type="auto">Ita subinde non tantum obtundo te meis literis, sed etiam alias ad te relego, qui tuae humanitati negocium facessant.</s>
+					<s n="10" xml:lang="la" type="auto">Caeterum, quantum ad Simpertum nostrum, bene de illo et ipsemet de se speramus; potus Guaiaicus</s>
+					<s n="11" xml:lang="la" type="auto">De colloquio Erfurdiano nimirum scripta ad te sunt perlata, quod testatur studiosus noster ex Marpurgo ad nos rediens, convenerunt vel adhuc conveniunt principum theologi de concordia inter ipsosmet tractaturi et alia etiam composituri, de quibus audiemus suo tempore.</s>
+					<s n="12" xml:lang="la" type="auto">Neque dubito, quin certior factus sis ex Argentina de dissidio inter Zanchum et Marpachium in articulo providentiae exortum.</s>
+					<s n="13" xml:lang="la" type="auto">Induxit Zanchus argumenta Buceri suamque iis probavit sententiam eaque admodum extulit.</s>
+					<s n="14" xml:lang="la" type="auto">Quidam commensalium Marpachii, cum in aedibus eius de eodem articulo disputaretur, protulit Zanchicum argumentum, quod statim animadvertens Marpachius, unde hoc habeat argumentum, quaerit; respondet: ex Zancho.</s>
+					<s n="15" xml:lang="la" type="auto">Ille tacens sequenti septimana diluit argumenta Zanchica; tertia deinde Zanchus sua dilatat septimana irrefragabiliter.</s>
+					<s n="16" xml:lang="la" type="auto">Marpachius se ingenii viribus Zancho minime parem animadvertens rem ad senatum detulit Zanchum graviter accusans, inter alia addens ex ipsius dogmate sequi neque resurectionem mortuorum neque extremum etiam iudicium esse.</s>
+					<s n="17" xml:lang="la" type="auto">Senatus vocat et audit Zanchum.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Petit hic disputationem publicam.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Marpachius congredi cum suis asseclis non vult.</s>
+					<s n="20" xml:lang="la" type="auto">Decernit senatus, ut scriptis senatui oblatis negocium tractent, uterque interim profiteri theologiam desinat.</s>
+					<s n="21" xml:lang="la" type="auto">Quid futurum sit, audiemus.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Senatus favet Zancho, sic etiam plerique ex doctioribus, Herlinus, Sturmius, qui Marpachium alloquens dixit: "Conaris expellere Zanchum; si expuleris illum, efficiam, ut et tu eiiciaris, vel ego expulsionem expectabo."</s>
+					<s n="23" xml:lang="la" type="auto">Sed ista primas habent apud senatores.</s>
+					<s n="24" xml:lang="la" type="auto">Conscribit Sturmius libellum de eucharistia, quem colligit ex multivariis scriptis; qualis sit futurus, videbimus, cum prodierit in lucem; mirus erit nimirum.</s>
+					<s n="25" xml:lang="la" type="auto">Speramus bene, quod Cares</s>
+					<s n="26" xml:lang="la" type="auto">Cuperem tamen hac in re tuum audire iudicium; legati nostri nullum bellum timendum asserunt.</s>
+					<s n="27" xml:lang="la" type="auto">Sed iam desino.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Vale in domino cum omnibus doctis, quos meo nomine, si vacat, salvere digneris.</s>
+					<s n="29" xml:lang="la" type="auto">Salutat te Simpertus noster.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Salvum et incolumem te optant omnes alii ecclesiae nostrae ministri.</s>
+					<s n="31" xml:lang="la" type="auto">Scaphusiae pridie calendas maii 1561.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Tuae humanitati deditissimus Iacobus R&#252;ger.</s>
+					<s n="33" xml:lang="la" type="auto">Clarissimo et doctissimo viro d. Heinrycho Bullingero, antistiti ecclesiae Tigurinae fidelissimo, d. et fratri suo in Christo plurimum observando.</s>
+					<s n="34" xml:lang="la" type="auto">Tigurum.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

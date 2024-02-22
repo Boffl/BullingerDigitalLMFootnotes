@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2316" type="Brief" source="TUSTEP" n="24138">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gervasius Schuler (Scholasticus) / Lenzburg AN Heinrich Bullinger / Z&#252;rich, 19. Juni 1554</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 361,356</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Tantum convalui, ut muneri michi gratissimo, licet egre, preesse possim; alias nondum cessavit</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 82,76</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/2316">
+				<correspAction type="sent">
+					<persName ref="p8440" cert="high">
+						<!--
+						<surname cert="high">Schuler (Scholasticus)</surname>
+						<forename cert="high">Gervasius</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Gervasius_Schuler"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/130955264"/>
+						-->
+					</persName>
+					<placeName source="l285" cert="high"><orig>Lenzburg</orig></placeName>
+					<date when="1554-06-19" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file2317"/>
+					<ref type="prev_chronologically" target="file2315"/>
+					<ref type="next_correspondence" target="file2439"/>
+					<ref type="prev_correspondence" target="file2183"/>
+					<ref type="next_correspondence_request" target="file2439"/>
+					<ref type="prev_correspondence_request" target="file2183"/>
+					<ref type="prev_correspondence_reaction" target="file1887"/>
+					<ref type="next_same_sender" target="file2439"/>
+					<ref type="prev_same_sender" target="file2183"/>
+					<ref type="next_same_addressee" target="file2317"/>
+					<ref type="prev_same_addressee" target="file2308"/>
+					<ref type="next_with_sender_as_addressee" target="file2439"/>
+					<ref type="prev_with_sender_as_addressee" target="file2183"/>
+					<ref type="next_with_addressee_as_sender" target="file2317"/>
+					<ref type="prev_with_addressee_as_sender" target="file2308"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="38">Deutsch</language>
+				<language ident="la" usage="962">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/2316%2FAutograph%2F00%20E_II_361__fol__356_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">2316/Autograph/00 E_II_361__fol__356_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/2316%2FAutograph%2F01%20E_II_361__fol__356_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">2316/Autograph/01 E_II_361__fol__356_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino per Iesum Christum etc.</s>
+					<s n="2" xml:lang="la" type="auto">Tantum convalui, ut muneri michi gratissimo, licet egre, preesse possim; alias nondum cessavit capitis dolor per omnia; sed sic corporis incom[m]oda pro hac mea aetate ferre cogor, donec domino aliud visum fuerit.</s>
+					<s n="3" xml:lang="la" type="auto">Quod me domesticis doloribus confectum putas, charissime frater, mire in te erga me sollicitudinis argumentum est, qui egritudinis mee causam usque adeo diligenter expendis.</s>
+					<s n="4" xml:lang="la" type="auto">Verum est, graviter egrotabam, dum esses apud nos Lentzburgi; sed ita agitavit me amor in te meus, ut viderer michi a doloribus pene liberatus.</s>
+					<s n="5" xml:lang="la" type="auto">Ceterum quod egritudinis causam infoelix coniugium putas fili&#281;, erras, mi frater.</s>
+					<s n="6" xml:lang="la" type="auto">Torquebat me quidem a initio inf&#281;lix casus; sed post reconciliationem ita totum negotium coelesti patri commisi, ut usque in hoc tempus nichil minus me torqueat.</s>
+					<s n="7" xml:lang="la" type="auto">Scis, mi Bullingere, quam candido sim in te animo, ut nichil horum, qu&#281; me anxium reddere possent, te velim latere.</s>
+					<s n="8" xml:lang="la" type="auto">Rogavi dominum, ut meam et filiae causam ad se susciperet meque inani sollicitudine liberet; per gratiam dei ita voti compos factus sum, ut pro hoc dono domino nunquam condignam gratiarum actiones agere queam.</s>
+					<s n="9" xml:lang="la" type="auto">Torquet me magis domesticarum rerum cura, qu&#281; me cogit in hac senectute mea tenuiori victu vitam transigere, quam h&#281;c &#281;tas ferre potest; aut enim cogor tenuiter victitare aut alieno aere ligari, quod ita abominor, ut magis elegerim alterum, licet non sine magno periculo vit&#281;.</s>
+					<s n="10" xml:lang="la" type="auto">Constitui apud me, ubi adiuvante domino plenius convaluerim, Bernensem senatum adire (quod non praeter bonorum virorum consilia tento) illum rogare, ut mei uberiorem rationem habeat.</s>
+					<s n="11" xml:lang="la" type="auto">Dominus det f&#281;licem successum.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Cetera omnia apud me in bono sunt statu, et hilaris sum in officio et indefesso animo.</s>
+					<s n="13" xml:lang="la" type="auto">Bene michi cum Christo servatore nostro convenit; is animum meum solus refocillat, conscientiam pacat, illius auxilio et gratia nitor et paratus sum pro gloria nominis illius quequam patienter ferre.</s>
+					<s n="14" xml:lang="la" type="auto">Non ego, sed qui in me fortior est, Christus, ne quid meis tribuam viribus.</s>
+					<s n="15" xml:lang="la" type="auto">Libellum, quem miseras, domino praefecto tradidi, qui gratissimo illum suscepit animo; illi es, crede michi, commendatissimus; non est opus mea opera; dominus te illi commendavit.</s>
+					<s n="16" xml:lang="la" type="auto">Quod salvi domum redieritis, valde michi gratum est, quod habitam iucunditatem vestram maiore cura et sollicitudine recompensare cogimini, sors est filiorum dei; sic tristia l&#281;tis dominus commiscere solet in salutem electorum suorum, ne caducis assuescentes, coelestibus priventur bonis.</s>
+					<s n="17" xml:lang="de" type="auto">Hab vergut, min lieber pruder; es ist kein spys so wol kocht, e&#223; felt ein fliegen drin.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Solus deus anim&#281; gaudium est nunquam interiturum.</s>
+					<s n="19" xml:lang="la" type="auto">Salutat te plurimum praefectus... Ioannes Delspergerus</s>
+					<s n="20" xml:lang="la" type="auto">Quod ego nichil humanitatis exhibuerim tibi, obsecro egritudini mee acceptum referas.</s>
+					<s n="21" xml:lang="la" type="auto">Dabit forte deus erratum hoc<note type="margin">a.R.: errorem hunc?</note> resarciendi modum.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Vale, amice incomparabilis, mi charissime Bullingere.</s>
+					<s n="23" xml:lang="la" type="auto">Salutabis nomine me d. Gvalterum, Frisium, uxorem tuam una cum tota familia; pergare amare veterem tuum amicum.</s>
+					<s n="24" xml:lang="la" type="auto">Dat&#281; Lentzburgi ipso die Gervasii, qui est 19. iunii, anno 1554.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Din lieber und alter frund Gervasius etc.</s>
+					<s n="26" xml:lang="la" type="auto">Veteri suo amico et fratri charissimo d. Heynricho Bullingero, Tygurin&#281; antistiti ecclesiae, amico inquam et fratri incomparabili etc.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

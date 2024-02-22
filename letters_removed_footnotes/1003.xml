@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1003" type="Brief" source="TUSTEP" n="20303">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Lorenz Meyer (Agricola) / Schwanden AN Heinrich Bullinger / Z&#252;rich, [26. August 1550]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 441,483 ff.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Die landsgmeind, wie ich &#252;ch jungst anzeigtt, uff den 24. augusti zu Glarus</incipit>
+							<textLang>el</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 71,36</idno>
+						<idno subtype="Hinweis">dat.: [1549]</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1003">
+				<correspAction type="sent">
+					<persName ref="p8130" cert="high">
+						<!--
+						<surname cert="high">Meyer (Agricola)</surname>
+						<forename cert="high">Lorenz</forename>
+						-->
+					</persName>
+					<placeName source="l458" cert="high"><orig>Schwanden</orig></placeName>
+					<date when="1550-08-26" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1004"/>
+					<ref type="prev_chronologically" target="file1002"/>
+					<ref type="next_correspondence" target="file2823"/>
+					<ref type="prev_correspondence" target="file423"/>
+					<ref type="next_correspondence_request" target="file2823"/>
+					<ref type="prev_correspondence_request" target="file423"/>
+					<ref type="prev_correspondence_reaction" target="file11081"/>
+					<ref type="next_same_sender" target="file2823"/>
+					<ref type="prev_same_sender" target="file423"/>
+					<ref type="next_same_addressee" target="file1009"/>
+					<ref type="prev_same_addressee" target="file996"/>
+					<ref type="next_with_sender_as_addressee" target="file2823"/>
+					<ref type="prev_with_sender_as_addressee" target="file423"/>
+					<ref type="next_with_addressee_as_sender" target="file1009"/>
+					<ref type="prev_with_addressee_as_sender" target="file996"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="el" usage="1">Griechisch</language>
+				<language ident="la" usage="57">Latein</language>
+				<language ident="de" usage="942">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1003%2FAutograph%2F00%20E_II_441__S__483_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1003/Autograph/00 E_II_441__S__483_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1003%2FAutograph%2F01%20E_II_441__S__484_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1003/Autograph/01 E_II_441__S__484_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1003%2FAutograph%2F02%20E_II_441__S__485_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1003/Autograph/02 E_II_441__S__485_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1003%2FAutograph%2F03%20E_II_441__S__485_a_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1003/Autograph/03 E_II_441__S__485_a_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="de" type="auto">Die landsgmeind, wie ich &#252;ch, allerliebster h[err] und bru&#870;der, jungst anzeigtt</s>
+					<s n="3" xml:lang="de" type="auto">Nun merkend, was ghandlet; wil &#252;ch die f&#252;rn&#228;mbsten hobstuk</s>
+					<s n="4" xml:lang="de" type="auto">Die ursach diser landsgmeind ist entsprungen u&#223; der Meyengmeind, namlich das do ward anzogen, es werind ettlich, die hettind gepraticiertt, den gantzen winter gelt u&#223;gen, ouch vil andre verheissungen gesch&#228;hen, das hilff und bistand inen gethan, damitt sy zu&#870; vogtyen und andren gewaltigen &#228;mpteren khommen m&#246;chtind, und das w&#252;stind ettliche miner herren imm ratht[!] etc.</s>
+					<s n="5" xml:lang="de" type="auto">Uff di&#223; ward grathen und ermeret, das mencklicher von den landl&#252;ten, dem solches begegnett w&#228;re, das solte anzeigen by sinem eyd.</s>
+					<s n="6" xml:lang="de" type="auto">Ist gsch&#228;hen, das ettliche eerenl&#252;t habend kuntschafft gseytt by iren eeren und eyd, w&#228;r und wie hette lassen an sy langen, dem und dem ze h&#228;lffen zu disem und zu&#870; yehenem, und hatt dise kuntschafft allermeist gseytt wider beyd amman<foreign xml:lang="la">Avienum quondam nostrum</foreign> und den landsweybel etc.</s>
+					<s n="7" xml:lang="de" type="auto">Do nun uff den vorgenanten tag die gmeind zu&#870;samen khommen, sind die kuntschafften durch den landschriber St&#252;ssin offentlich verl&#228;sen worden wider die obgenanten personen.</s>
+					<s n="8" xml:lang="de" type="auto">Da hatt sich der erst putsch erhebt, das ettliche offentlich lug gstrafft habend die, so wider sy gseytt habend, und heiter gseytt: Du hersth erlogen."</s>
+					<s n="9" xml:lang="de" type="auto">Hatt grossen unwillen gmachett, also das man sich angfangen parthyen und dermassen paren, das man gnu&#870;g ze schaffen ghan ze bietten frid by eer, eyd und der grossen bu&#870;&#223; etc.</s>
+					<s n="10" xml:lang="de" type="auto">Jetz wend die nitt glogen han, die gseit hand; die andren wend die nitt syn, wie von inen gseitt ist etc.</s>
+					<s n="11" xml:lang="de" type="auto">Was daru&#223; werde, mag ein schl&#228;chter wol ermessen, jamer und nott etc<note xml:id="fna" type="footnote" n="a"><hi>Hiezu am Rande:</hi> Das wirt grosse und schw&#228;re r&#228;chthu&#868;bungen geben. Ist schon uff der ban.</note>.</s>
+					<s n="12" xml:lang="de" type="auto">Die ancklagten habend zimlich, al&#223; die ammani, antwortt gen: finde es sich, das sy gf&#228;lt habind, so s&#246;lle man inen n&#252;tt verschonen, sy darum straffen etc.</s>
+					<s n="13" xml:lang="de" type="auto">Uff dises ist von eim andren graten, man s&#246;lle die beyd amman, den weybel, den Avienum dannen ghyen <foreign xml:lang="la">(parce; sic enim dictum perhibetur).</foreign></s>
+					<s n="14" xml:lang="de" type="auto">Da hatt sich der weybel gar wild und mit wu&#868;sten, zornigen worten und geb&#228;rden erzeigtt und gsagtt: "Hey, du stichling, das dich gotz lyden und macht angangen, sant Veltys und sant K&#252;ri&#223; rach etc.</s>
+					<s n="15" xml:lang="de" type="auto">Worum solte man mich dannen ghyen?"</s>
+					<s n="16" xml:lang="de" type="auto">Ist ein solche unru&#870;w worden, das wenig gf&#228;lt, man w&#228;re zu&#870; grossem t&#246;dtlichen schlahen kommen; ist gar kum gstillet und gfridet.</s>
+					<s n="17" xml:lang="de" type="auto">Inn dem hatt sich ein gmein und gro&#223; gschrey erhebt von mecklichem, namlich: "Hey, das sy botz wunden schend; der, diser etc. habend uns so vil, so vil verheissen und kum gwunnen, das wir inen h&#228;lffind mit der vereinigung das meer machen, und habend uns n&#252;t gen, n&#252;t ghalten" etc<note xml:id="fnb" type="footnote" n="b"><hi>Hiezu am Rande:</hi> Da h&#246;rtt man, wo den &#252;brigen wee ist gsin. Si etiam illi habuissent buccellulam auri, hanc non movissent Camarinam.</note>..</s>
+					<s n="18" xml:lang="de" type="auto">Und das gschrey ist gro&#223; gsin, hatt ouch lange gw&#228;rtt, bi&#223; zu&#870;ledst ist durch ein andren graten, das gmeine landtl&#252;tt s&#246;llind verordnen 30 man, die unparthygisch sigind; die s&#246;llind nach der lut der kuntschafft einen jeden straffen, er sige, w&#228;r er w&#246;lle, niemanth verschonen<note xml:id="fnc" type="footnote" n="c"><hi>Hiezu am Rande:</hi> Puniet Catalina Cethegum?.</note>, mitt h&#246;chstem und grossestem ernst, so inen m&#252;glich.</s>
+					<s n="19" xml:lang="de" type="auto">Und das ist ermeret, s&#246;lle also sin und gsch&#228;hen; darby so s&#246;lle mencklich bi&#223; sant Michelstag</s>
+					<s n="20" xml:lang="de" type="auto">Die pensionarii habend der landsgmeind zugmu&#870;ttet, man s&#246;lle di&#223;en artikel u&#223; dem landsbu&#870;ch thu&#870;n, namlich das niemanth by sinem eid s&#246;lle praticieren ze khommen zu&#870; disem oder anderem amptt etc.</s>
+					<s n="21" xml:lang="de" type="auto">Das ist inen &#252;bell ufgnommen und grad das widerspil gsch&#228;hen, das der artikel erst uff ein n&#252;ws sterker bekrefftigett dann vor ye.</s>
+					<s n="22" xml:lang="de" type="auto">Das nun betrifft das aurum Tholosanum<note xml:id="fnd" type="footnote" n="d"><hi>Hiezu am Rande:</hi> Cerbona [Corbona?].</note>, ist ermeert, das es nun f&#252;rhin s&#246;lle dienen und geleytt werden inn den gmeinen landseckel, damitt das land ledig gmacht werde etc.</s>
+					<s n="23" xml:lang="de" type="auto">(Es ist versetzt und verschriben von wegen der heerschafft, die sy koufft, Werdenberg halben) etc.</s>
+					<s n="24" xml:lang="de" type="auto">Es hatt sich ouch uff disen tag der gloub mu&#868;ssen lyden; denn er nitt nun einmal ist anzogen worden uff die meinung: syd der gloub</s>
+					<s n="25" xml:lang="de" type="auto">Das b&#228;llen hatt n&#252;tt ghulffen.</s>
+					<s n="26" xml:lang="de" type="auto">Witer hatt man angfangen rathtschlagen, wie imm ze thu&#870;n, das nun f&#252;rhin niemanth kein heimlich gelt mer im land nemme.</s>
+					<s n="27" xml:lang="de" type="auto">Ist gerathten, das nun f&#252;rhin by verlierung libs und l&#228;bens niemantz kein heimlich gelt von keim h[erren] und k[&#252;nig] noch f&#252;rsten etc. empfahe.</s>
+					<s n="28" xml:lang="de" type="auto">Sind inn disem die pensionarii huff&#228;chtig ab offner landsgmeind hinzogen, ettliche heim, die andren inn die wirtzh&#252;ser &#252;ber des ammans</s>
+					<s n="29" xml:lang="de" type="auto">Ist alles umbsunst gsin etc.</s>
+					<s n="30" xml:lang="de" type="auto">Darab ein gros&#223; duren empfangen die gmeind etc.</s>
+					<s n="31" xml:lang="de" type="auto">Hatt sich inn disem Beldius</s>
+					<s n="32" xml:lang="de" type="auto">Und ist mitt grosser arbeytt das landvolk gstillett und ungw&#252;&#223;, ob es das meer sige oder nitt, das niemantz f&#252;rhin kein heimlich gelt s&#246;lle nemmen.</s>
+					<s n="33" xml:lang="de" type="auto">A[mmann] Bussius sol under andrem gseit han: "Lieben landtl&#252;tt, ich sich und spu&#868;r, das under uns das heimlichgelt vil und schw&#228;r unru&#870;w bringtt.</s>
+					<s n="34" xml:lang="de" type="auto">Ist min ratht und meinung, das wir sy mu&#868;ssig gangind etc.</s>
+					<s n="35" xml:lang="de" type="auto">Darzu&#870; wil ich h&#228;lffen" etc.</s>
+					<s n="36" xml:lang="de" type="auto">Inn diser zerr&#252;ttung, das ettlich sind hingloffen, die andren blyben und ein gros&#223; get&#252;mmel gsin, ist ein gar impius <foreign xml:lang="el">g&#233;loios</foreign> harf&#252;r tr&#228;tten und anzogen, man s&#246;lle der jungen w&#228;lt erlouben ze dantzen, das sy ouch fr&#246;ud habe etc.</s>
+					<s n="37" xml:lang="de" type="auto">Ist erlupfft, wiewol vil alter erlicher l&#252;tt gar tr&#228;ffenlich darwider gredt und gschruwen, hatt es n&#252;t ghulffen.</s>
+					<s n="38" xml:lang="de" type="auto">Schafft der jungen luten vile, hat den ernstlicheren und kleineren hufen &#252;berwunden und hat so bald nitt m&#246;gen das meer werden.</s>
+					<s n="39" xml:lang="de" type="auto">Es sind die spill&#252;t gr&#252;st gsin, und ein unvers&#228;chner grosser dantz worden, derhalben also, das sich mencklicher nitt gnu&#870;g hatt k&#246;nnen verwundren, ist diser schw&#228;r handell mitt eim s&#246;lichen lichtferigen und l&#228;chrigen end beschlossen.</s>
+					<s n="40" xml:lang="de" type="auto">Die erberkeytt ist gar trurig und dusam, die Catilinarii und Clodii fr&#246;lich.</s>
+					<s n="41" xml:lang="de" type="auto">Sy hand ouch ettwas dr&#246;uwwortt lassen fallen, sy wellind inen der tagen eins ein anders sagen und sy leeren &#252;ber sy also meeren; das ist schw&#228;r.</s>
+					<s n="42" xml:lang="de" type="auto">Also habend ir die summ, was f&#252;rn&#228;ms by uns sich zu&#870;tragen hat.</s>
+					<s n="43" xml:lang="la" type="auto">Summa: Quoque te vertas, omnia plena malis.</s>
+					<s n="44" xml:lang="la" type="auto">H&#281;c tibi, mi Bull[ingere].</s>
+					<s n="45" xml:lang="la" type="auto">Perturbata h&#281;c scripsi turbato et dolente animo.</s>
+					<s n="46" xml:lang="la" type="auto">Quid mihi sperandum?</s>
+					<s n="47" xml:lang="la" type="auto">Timendum, ne Clodiani tandem atrocius malum moliantur, ut pessum dare possint meliorem patri&#281; partem, ut soli regnent.</s>
+					<s n="48" xml:lang="la" type="auto">Dominus adsit suis.</s>
+					<s n="49" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la" type="auto">Festinanter, 26. augusti, Schwanden.</s>
+				</p>
+				<p>
+					<s n="51" xml:lang="la" type="auto">Tuus L. ex animo.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse auf der R&#252;ckseite der Vermerk:]</note>
+					<s n="52" xml:lang="de" type="auto">Disen brieff han ich dem vogt Pf&#228;ndler</s>
+					<s n="53" xml:lang="de" type="auto">Er zert zum Schwertt.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

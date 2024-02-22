@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8426" type="Brief" source="TUSTEP" n="40101">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Hartung / Freiburg i.Br. AN [Heinrich Bullinger], 16. November 1570</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Beilage" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,318</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Quod res partas, quae meae esse deberent</incipit>
+							<textLang>el</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 123,25</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Beilage" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Beilage">E II 441,568</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/8426">
+				<correspAction type="sent">
+					<persName ref="p1509" cert="high">
+						<!--
+						<surname cert="high">Hartung</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1509_Hartung_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Hartung"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/119506858"/>
+						-->
+					</persName>
+					<placeName source="l922" cert="high"><orig>Freiburg i.Br.</orig></placeName>
+					<date when="1570-11-16" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file8427"/>
+					<ref type="prev_chronologically" target="file8425"/>
+					<ref type="next_correspondence" target="file8427"/>
+					<ref type="next_correspondence_request" target="file8427"/>
+					<ref type="next_same_sender" target="file8427"/>
+					<ref type="next_same_addressee" target="file8428"/>
+					<ref type="prev_same_addressee" target="file8424"/>
+					<ref type="next_with_sender_as_addressee" target="file8427"/>
+					<ref type="next_with_addressee_as_sender" target="file8428"/>
+					<ref type="prev_with_addressee_as_sender" target="file8424"/>
+					<ref type="child" target="file8427"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="el" usage="4">Griechisch</language>
+				<language ident="la" usage="996">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/8426%2FAutograph%2F00%20E_II_356__fol__318_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">8426/Autograph/00 E_II_356__fol__318_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/8426%2FAutograph%2F01%20E_II_356__fol__318_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">8426/Autograph/01 E_II_356__fol__318_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/8426%2FBeilage%2F00%20E_II_441__fol__568_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">8426/Beilage/00 E_II_441__fol__568_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/8426%2FBeilage%2F01%20E_II_441__fol__568_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">8426/Beilage/01 E_II_441__fol__568_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. P.</s>
+					<s n="2" xml:lang="la" type="auto">Quod eas partes, qu&#281; meae esse debuerant, tibi prius usurpandas duxeris compellando literis<note xml:id="fna" type="footnote" n="a">compellando literis <hi>am Rande nachgetragen.</hi></note>, venerande senex, vir multo clarissimus idemque patris loco perpetua observantia colende domine Henriche Bullingere, ita gratum fuit, ut me immortalitate donatum prorsus existimem.</s>
+					<s n="3" xml:lang="la" type="auto">Quamobrem, quum mihi gratulandum non modo, sed etiam gratiae, pro eo ac debeo, nunquam intermoriturae cum agend&#281; tum referend&#281; sint, superest, ut huius, quod<note xml:id="fnb" type="footnote" n="b">huius, quod <hi>am Rande nachgetragen (gefolgt von gestrichenem</hi> post<hi>); ersetzt gestrichenes hoc.</hi></note> postremum,<note xml:id="fnc" type="footnote" n="c">ac fidele nomen[?] <hi>(gefolgt von einer unleserlich radierten Stelle) &#252;ber der Zeile nachgetragen.</hi></note>, illa vero in praesentia ex animo absolvam.</s>
+					<s n="4" xml:lang="la" type="auto">Utinam vero meae literae, ad quas scribendas invitasti, eius generis etiam essent, ut te vel minimum oblectare possent!</s>
+					<s n="5" xml:lang="la" type="auto">Quia vero ea aetate sum, ut hoc officii genus non magnopere me amplius iuvet, sive id senectutis meae grandioris tedio seu ingenii infelicitate adcidat<note xml:id="fnd" type="footnote" n="d">adcidat <hi>am Rande nachgetragen.</hi></note>, roganda mihi etiam atque etiam erit tua veneranda humanitas, ut inconditas et ieiunas literas meas percurrere saltem patienter non dedigneris cogitareque in epistola ad amicum etiam negligentiam (ut ille dixit</s>
+					<s n="6" xml:lang="la" type="auto">Ego enim te, ne quid dissimulem, clarissime vir, quo die primum lucubrationes tuas<note xml:id="fne" type="footnote" n="e">tuas <hi>am Rande nachgetragen.</hi></note> vidi legique, unice amare ac suspicere etiam coepi semperque ex eo tempore occasionem spectare ineundae tecum amicitiae, adeoque iucundissimo etiam conspectu frui, quod quia mihi tuo concessu<foreign xml:lang="el">[griechisch]</foreign>, non in f&#281;licitatis<note xml:id="fnf" type="footnote" n="f"><hi>Vor</hi> f&#281;licitatis <hi>ein gestrichenes Wort.</hi></note> vulgaris parte numero.</s>
+					<s n="7" xml:lang="la" type="auto">Habes me totum.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quod mens sentit, scribo, non<note xml:id="fng" type="footnote" n="g"><hi>Vor</hi> non <hi>m&#246;glicherweise Radierung.</hi></note> adsentat, a quo perpetuo abhorrui.</s>
+					<s n="9" xml:lang="la" type="auto">Hec ad literas tuas humanissimas.</s>
+					<s n="10" xml:lang="la" type="auto">Quod scribis conspectum fuisse aditumque, cuius mihi copiam fecisti, tibi iucundum, amplector adcipioque in eam partem, quam debeo.</s>
+					<s n="11" xml:lang="la" type="auto">Quod vero laudibus quibusdam me exornas et prosequeris, quanquam non meritus sum, imo indignus etiam a lauto viro laudari, tamen studium et voluntas tua quam gratissima est.</s>
+					<s n="12" xml:lang="la" type="auto">Nam quod ea mihi tribuis, qu&#281; in me non agnosco, quia<note xml:id="fnh" type="footnote" n="h">qu&#281; in me non agnosco, quia <hi>am Rande nachgetragen.</hi></note> censeo non mihi, sed literis, sed virtutibus esse tributa, quorum me amatorem et sectatorem plerique cum arbitrantur tum praedicant, facile feram amplectorque ex animo.</s>
+					<s n="13" xml:lang="la" type="auto">Nec defuturus nosse<note xml:id="fni" type="footnote" n="i">?? Simler: unquam, beides ist wohl falsch; rursum?</note> officio meo, sicubi occasio oblata fuerit, ut gratum animum declarare non solum, sed etiam ad<note xml:id="fnj" type="footnote" n="j">ad <hi>&#252;ber gestrichenem</hi> ad[?] <hi>nachgetragen.</hi></note> ea contendisse pro mea virili videar<note xml:id="fnk" type="footnote" n="k"><hi>Vor</hi> videar <hi>gestrichenes</hi> vid[?].</note>, quibus me<note xml:id="fnl" type="footnote" n="l">me <hi>&#252;ber undeutlich korrigiertem</hi> me <hi>wiederholt.</hi></note> tua dignitas depingit.</s>
+					<s n="14" xml:lang="la" type="auto">Atque hec pauca pro tempore.</s>
+					<s n="15" xml:lang="la" type="auto">Plura luctus quidam fatalis<note xml:id="fnm" type="footnote" n="m">me <hi>am Rande nachgetragen.</hi></note> acerbissime, vetat.</s>
+					<s n="16" xml:lang="la" type="auto">Tuam reverendam pietatem dominus noster Iesus Christus et salvator unicus sospitare, prosperare et tueri perpetuo dignetur.</s>
+					<s n="17" xml:lang="la" type="auto">Vale et salve aeternum una cum filia</s>
+					<s n="18" xml:lang="la" type="auto">Dat&#281; Friburgi, diluculo 16. novembris anno etc. [?] 70.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Tu&#281; dignitatis ac tuorum<note xml:id="fnn" type="footnote" n="n">ac tuorum <hi>unter der Zeile nachgetragen.</hi></note> ex animo purus putus Io[ann]es Hartungus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der R&#252;ckseite:]</note>
+					<s n="20" xml:lang="la" type="auto">Praestantissimo viro cum eruditione tum sanctimonia vitae [...?] domino Henrico Bullingero etc. [?] coelestisque doctrinae ecclesiastae in republica Tigurina [...?], suo domino, fratri ac pro patre perpetuo observando amico.</s>
+				</p>
+				<p>
+					<note type="attachment">[Beilage:]</note>
+					<s n="21" xml:lang="la" type="auto">D. Ioannes Brentius Stutgardiae 11. septembris nuper diem suum obiit anno aetatis 71., de quo tale carmen Tubingensis quidam professor ad me dedit</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Illius in mundo semper pia scripta manebunt, Sed bonus in coelo spiritus arce sedet.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Optarem meis verbis per occasionem clarissimos viros istic, medicinae doctores</s>
+					<s n="24" xml:lang="la" type="auto">Io[annes] Hartungus.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Ignoscat tua humanitas meam tumultuariam scriptionem, rogo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

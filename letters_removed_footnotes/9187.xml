@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9187" type="Brief" source="TUSTEP" n="43017">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gabriel Schl&#252;sselberger / N&#252;rnberg AN Heinrich Bullinger / Z&#252;rich, 27. Januar 1573</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 441,352-357 und E II 356,370</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>[E II 441,352 ff:] Von gott dem Herrn durch Jhesum Christum w&#252;nsch ich euch und den eurn ein gl&#252;ckseliges neues jahr ... Eur tr&#246;stliches an mich gethan schreiben de&#223; datum 15. Novembris durch Johan Babtista M&#252;ller ist mir gleichwol etwa&#223; langsams, namentlich den 13. di&#223; monats worden ... haben die Pollen wenig lust zu im und nit unbillich ... [E II 356,370:] Auch ist ein geschrey, wie der Weyda in Sybenb&#252;rgen denn Pollen zimblich angenem soll sein</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/9187">
+				<correspAction type="sent">
+					<persName ref="p2923" cert="high">
+						<!--
+						<surname cert="high">Schl&#252;sselberger</surname>
+						<forename cert="high">Gabriel</forename>
+						-->
+					</persName>
+					<placeName source="l361" cert="high"><orig>N&#252;rnberg</orig></placeName>
+					<date when="1573-01-27" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file9188"/>
+					<ref type="prev_chronologically" target="file9186"/>
+					<ref type="next_correspondence" target="file9248"/>
+					<ref type="prev_correspondence" target="file9083"/>
+					<ref type="next_correspondence_request" target="file9248"/>
+					<ref type="prev_correspondence_request" target="file9083"/>
+					<ref type="next_same_sender" target="file9248"/>
+					<ref type="prev_same_sender" target="file9083"/>
+					<ref type="next_same_addressee" target="file9190"/>
+					<ref type="prev_same_addressee" target="file9186"/>
+					<ref type="next_with_sender_as_addressee" target="file9248"/>
+					<ref type="prev_with_sender_as_addressee" target="file9083"/>
+					<ref type="next_with_addressee_as_sender" target="file9190"/>
+					<ref type="prev_with_addressee_as_sender" target="file9186"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F00%20E_II_441__S__352_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">9187/Autograph/00 E_II_441__S__352_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F01%20E_II_441__S__353_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">9187/Autograph/01 E_II_441__S__353_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F02%20E_II_441__S__354_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">9187/Autograph/02 E_II_441__S__354_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F03%20E_II_441__S__355_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">9187/Autograph/03 E_II_441__S__355_.tif</desc></graphic>
+		<graphic xml:id="img5" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F04%20E_II_441__S__356_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">9187/Autograph/04 E_II_441__S__356_.tif</desc></graphic>
+		<graphic xml:id="img6" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F05%20E_II_441__S__357_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">9187/Autograph/05 E_II_441__S__357_.tif</desc></graphic>
+		<graphic xml:id="img7" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F06%20E_II_356__fol__370_r_.tif/full/max/0/default.jpg" n="7"><desc subtype="path">9187/Autograph/06 E_II_356__fol__370_r_.tif</desc></graphic>
+		<graphic xml:id="img8" url="https://iiif.bullinger-digital.ch/iiif/3/9187%2FAutograph%2F07%20E_II_356__fol__370_v_.tif/full/max/0/default.jpg" n="8"><desc subtype="path">9187/Autograph/07 E_II_356__fol__370_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<note>[Anfang fehlt?]</note>
+				</p>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Von gott dem herrn durch Jhesum Christum wunsch ich euch und den eurn ein gluckseliges newes jhar.</s>
+					<s n="2" xml:lang="de" type="auto">Der welle uns seinen hailligen gaist mit thailn, da&#223; wir es in aller gottselikait, friden und be&#223;erung unsers leben volbringenn m&#246;gen.</s>
+					<s n="3" xml:lang="de" type="auto">Amen.</s>
+					<s n="4" xml:lang="de" type="auto">Ehrwurdiger, furgeliebter und insonders gonstiger herr, eur tr&#246;stliches an mich gethan schreiben, de&#223; datum 15. novembris durch Johan Baptista Muller ist mir gleichwol etwa&#223; langsams, namblich den 13. di&#223; monats worden unnd die brief, so in Pollandt gehoerren, die hab ich als&#223;baldt meinem guten freundt dem Gutetter uberantwort, und wie er mir verhaisen, woel er sy mit erstem nach Cracau verschaffen.</s>
+					<s n="5" xml:lang="de" type="auto">Ich hab euch gleichwol bi&#223;her nichts geschriben; dan ich zum thail etwas mit geschefften beladen, wie ir one zweivel erachten khonnet, bei denn geverlichen leufen.</s>
+					<s n="6" xml:lang="de" type="auto">Unnd nachdem ich euch am nehern vermeldet, in wa&#223; grosser gefahr wir mit unserm gut in Franckreich stunden, ist unns gleich wol bi&#223; her noch kain gro&#223;er schad widerfahrn; dann man uns Teutschenn noch nit angriffen; aber zu besorgen, wan ein hauffen reuter den armen betrangten christen zu hilf solte khomen, man wurde unser nit verschonen; dann der gemaine poefel uns gar he&#223;ig und begerten nit mehr dann ein ursach und anla&#223; zu haben, uns alles zu nemen und plundern.</s>
+					<s n="7" xml:lang="de" type="auto">Derohalben ich bi&#223; her alle mitel gesucht und auf da&#223; beste mich aus dem landt zu thon, wie ich dann zum thail schonn etwas heraus gebracht.</s>
+					<s n="8" xml:lang="de" type="auto">Aber weil wir viel schulden, auch viel wahren, die an kainem andern dan am selben ort verschli&#223;en moegen werden, mussen wir also gedult haben und der zeit erwarten, wie es der liebe gott schickt.</s>
+					<s n="9" xml:lang="de" type="auto">Wie woll andere unsere mitburger, die auch hinein handlen, sich kainer sundern gefahr besorgen unnd haben allerlei bedencken.</s>
+					<s n="10" xml:lang="de" type="auto">Aber f&#252;r mein person wil mich beduncken, weil bei dem morderischen konig kain thrauen, glauben, auch kain justicia im gantzen lanndt erfunden, wird es ein mall alles uber und uber ghan.</s>
+					<s n="11" xml:lang="de" type="auto">Dann denen leuten so gott und ehr verge&#223;en nichtig zu viel ist; dan da&#223; gantze landt mehr einer mordtgruben dan anderm gleich sihet, und weil es dann ein labyrinth de&#223; ubels ist, hab ich sorg, got werde greulich straffen.</s>
+					<s n="12" xml:lang="de" type="auto">Ist derhalben mein freuntliche bitt, ir wollet mir eurn threuen rath und gutbed&#252;ncken mitthaillen, we&#223; ich mich doch inn den sachen verhalten solle.</s>
+					<s n="13" xml:lang="de" type="auto">Unnd ist nit weniger, da&#223; ich gott wol zu loben und zu danckhen hab, da&#223; er mich bi&#223;hero so gneidiglich erhalten hatt, da hergegen andere umb leib und gut khomen sindt, unnd wil noch nit ufh&#246;ren.</s>
+					<s n="14" xml:lang="de" type="auto">Dan, wie man von Paris schreibt, soll der konig vor disem in seinem gehaimen rath beschlossen haben, da&#223; er die Hugenotten, wie er sie nennet, in seinem gantzen landt w&#246;lle ausrotten und kainen leben lassen.</s>
+					<s n="15" xml:lang="de" type="auto">Aber der in himel oben khan solche ratschleg wol zu nichtig machenn; ime seie lob, ehr und preis in ewikhait.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Die von Roschella sollen sich gar mannlich halten, sind usgefallen, dem Strossi sein volck geschlagen, ine gefangen und viel geschutz erobert, de&#223;glichen thon die vonn Nymes, Montoban, unnd also diser mainaidige konig noch gnug zu schaffen wurdt haben.</s>
+					<s n="17" xml:lang="de" type="auto">So ist die sag, er begerre viel Schweitzer; weil ir aber meldet, das die 4 Ort den iren bei leibs straf verbotten zu ziehen, hoffet ich, er solte so gar viel von den andern Orthen nit bekhomen.</s>
+					<s n="18" xml:lang="de" type="auto">Yedoch findt man yederzeit hailose leut, die gelt nemen, wie dann laider bei unns auch beschicht, und ob gleich woll diser k[onig] noch so boese that gethan, wann er geltt, findt er leut gnug, wie dann bei uns die sag, er stehe in grosser werbung, da&#223; er m&#246;g reutter bekhomen.</s>
+					<s n="19" xml:lang="de" type="auto">Auch haben die reuter, so im jungsten krieg dem herrn admiral gedienet, ein botschafft zum konig geschickt, weil er innen verschrieben dasselbe zu zallen, unnd wie sie heraus schreiben, hab er inen verhaissen, die gantze zallong zu&#870; thon, wie er inen dann ein thail die konftig Franckforter me&#223; erlegenn will.</s>
+					<s n="20" xml:lang="de" type="auto">Aber viel wollen, er sage alles zu und halte wenig; beschicht es, so verblendet er damit den Teutschen die augen.</s>
+					<s n="21" xml:lang="de" type="auto">Was Franckreich belanngt, habt ir von allem bessern beschaidt dan wir.</s>
+					<s n="22" xml:lang="de" type="auto">Unnd nachdem ir vermeldet, da&#223; ein tag bei euch zu Baden auf 7. decembris gehaltten worden, haben wir gleichwol vorlengst vernumen, aber nit erfahrn m&#246;gen, wa&#223; zum thail da ausgericht.</s>
+					<s n="23" xml:lang="de" type="auto">Allain wie bei unns die sag, sol es auff ein andern tag, so uf trium regum gehalten werden, ufgeschoben worden, unnd sindt viel der mainung, der hellische vatter</s>
+					<s n="24" xml:lang="de" type="auto">Mitt freuntlicher bit, ir wollet uns etwas von solchen tagen mitthailn, so viel sich zu schreiben leiden wil.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Aus dem Niderlanndt haben wir ander&#223; nichts, dan da&#223; der printz von Uranien noch in Hollandt mit etlichem volck sich halte, unnd alweil da&#223; mehr also gesperret, die Niderlandt grossen schaden und mangel an allerlei proviandt leiden, da&#223; also die theurung im gantzen landt gro&#223; ist.</s>
+					<s n="26" xml:lang="de" type="auto">Unnd wirdt da&#223; gute landt durch disen krieg jemerlich verderbt; dan da gat alle handlung zu grundt, viel gewaltiger leut mussen entlauffen, wie dan laider viel bancquerota bescheen unnd also einer den andern mit sich reisset und ein algemain verderben daraus ervolgt.</s>
+					<s n="27" xml:lang="de" type="auto">Wie dann auch hie bei unns ein furnemer handel&#223;man, welches eltern und er in langen jaren in treffenlichem ansehen gewest, bi&#223; in 300 tausent gulden gefallirt und also hie in der burgerschafft und andern orten viel leut angesetzt, welches diser gmain stat grosser schadt ist.</s>
+					<s n="28" xml:lang="de" type="auto">Sy haissen mit namen Melchor, Caspar und Balthasar Neumair, unnd ist wol zu erachten, es werde sich bei den geverlichen zeiten an viel orten zutragen.</s>
+					<s n="29" xml:lang="de" type="auto">Got sei lob, ich bin bei gmelten nichts interresirt, aber viel meiner freundt; got verleihe inen gedult.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="de" type="auto">Es wirdt bei den negsten Anntorfer briefen vermeldet, wie de&#223; duca d'Alba hauffen ein stat mit namen Harlem in Hollandt belegert und darvor 2 sturm gethann, aber nichts ausrichten m&#246;gen und bei 1500 mann sambt vielen spanischen haubtleuten darvor verlohrn.</s>
+					<s n="31" xml:lang="de" type="auto">Albanus aber habe aus Antorf und andern beiligenden fleckhen viel volcks aus der besatzung genumen, wolle nit ablassen, bi&#223; er dise stat erobere.</s>
+					<s n="32" xml:lang="de" type="auto">Gott geb, da&#223; er n&#252;tt schaffe.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Bei unns hier au&#223;en ist es gar still; allain wa&#223; der margraff J&#246;rg Friederich all seine mannschafft hatt mustern la&#223;en.</s>
+					<s n="34" xml:lang="de" type="auto">Sonst hoert man noch von kainer reuterei; allain ist die sag, graff Ludwig habe etliche pferdt in bestallong; die sollen teglich antziehen.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="de" type="auto">Unnser kayser ist ein zeit long her sehr schwacht gwe&#223;t, und wie etlich wollen, in gefahr seines leben gestanden, aber sol sich wider ein wenig gebessert haben.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="de" type="auto">Yedoch, wie seine leib artzt f&#252;rgeben, werde er khain allter erlangen.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="de" type="auto">Aus Pollandt haben wir kaine andere zeitungen, dann die sachen mit erwehlung des konigs seie uf trium regum ufgeschoben; wa&#223; alda au&#223;gericht, gibt die zeit zu vernemen.</s>
+					<s n="38" xml:lang="de" type="auto">Der konig aus Franckreich hat ain gewaltige botschafft in Pollen, vermaint seinen bruder Aniou, den blutgirigen tyrannen dahin zu promovirn; thut uber die massen gro&#223;e verhaisung, soll auch treffliche f&#252;rschrifften von dem Turggen haben, da&#223; man ine zum konig erwehln w&#246;lle.</s>
+					<s n="39" xml:lang="de" type="auto">Aber weil seine b&#246;sse thaten offenbar, haben die Pollen wenig lust zu im und nit unbillich.</s>
+				</p>
+				<p>
+					<note>[Schluss des Briefes, E II 356, 370:]</note>
+					<s n="40" xml:lang="de" type="auto">Auch ist ein geschrey, wie der Weyda</s>
+					<s n="41" xml:lang="de" type="auto">Wollen also der zeit erwarten, was auf dem tag au&#223;gerichtet wurdet.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="de" type="auto">Es wurdt von Wien alher geschriben, da&#223; ein botschafft vom konig aus Franckreich alda zum khaiser ankhomen, monsr de Mirabeau genannt, welcher sich hefftig entschuldigen thut, da&#223; sein will und mainung nie sey gewest, da&#223; sein bruder Anjou umb k&#246;nig in Polen zu werden habe so sehr angehalten; habe aber solches seines brudern furnemen nit ablainen m&#246;gen.</s>
+					<s n="43" xml:lang="de" type="auto">In summa: Die verruchten Frantzhosen schemen sich kainer lugen.</s>
+					<s n="44" xml:lang="de" type="auto">Sonnst wais ich auf di&#223;mal nichts zu schreiben; habt ir was bei euch, bitt ich ganntz freunntlich, mir das selbe mitzuthallen.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="de" type="auto">Wollet mir auch eur gantzes hausgesindt sambt allen meinen gunstigen herrn und guthen freunden meine willige dienst und freuntlichen grues antzaigen, und thue euch in schutz und schirm des allerhochsten bevelhen.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="de" type="auto">Datum Nurnberg den 27. januarij anno 1573.</s>
+					<s n="47" xml:lang="de" type="auto">E[wer] E[rwirdi] dienstwilliger Gabriel Schlusselberger.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="de" type="auto">Hiemit ain brief an euch von dem herrn Durnhoffer; hat mir in gleichwol vor etlichen tagen zugestellt, aber aus mangel botschafft nit ehr fertigen m&#246;gen.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="de" type="auto">Dem ehrw&#252;rdigen unnd hochgelerten herrn Hainrich Bullinger dem eltern, meinem insonders gunstigen herrn, zu handen zu Zurich.</s>
+				</p>
+				<p>
+					<note type="remark">[Bemerkung von andrer, nicht von Bullingers Hand:]</note>
+					<s n="50" xml:lang="de" type="auto">Literae di. <persName>Gabriel Schl&#252;sselberger</persName>, von zeitungen et altere cose.</s>
+				</p>
+				<p>
+					<note>[Schluss: E II 356,370.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

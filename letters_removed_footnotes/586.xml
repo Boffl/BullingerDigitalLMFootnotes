@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file586" type="Brief" source="TUSTEP" n="19171">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Griesenberg] AN Heinrich Bullinger / Z&#252;rich, 11. Juli 1549</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 357,352 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Fuit hic mecum nudiusquartus Sangallensis ille concionator Fortmillerus</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Blarer III, S. 46f</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Th. W. B&#228;tscher, Kirchen- und Schulgeschichte der Stadt St. Gallen I 145 (Anm. 55)</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 70,174</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/586">
+				<correspAction type="sent">
+					<persName ref="p8055" cert="low">
+						<!--
+						<surname cert="low">Blarer (Blaurer)</surname>
+						<forename cert="low">Ambrosius</forename>
+						<graphic type="portrait" url="portraits/392_Blarer_Ambrosius.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Ambrosius_Blarer"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118663763"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11445074"/>
+						-->
+					</persName>
+					<placeName source="l184" cert="low"><orig>Griesenberg</orig></placeName>
+					<date when="1549-07-11" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file587"/>
+					<ref type="prev_chronologically" target="file585"/>
+					<ref type="next_correspondence" target="file587"/>
+					<ref type="prev_correspondence" target="file577"/>
+					<ref type="next_correspondence_request" target="file608"/>
+					<ref type="prev_correspondence_request" target="file577"/>
+					<ref type="next_correspondence_reaction" target="file587"/>
+					<ref type="prev_correspondence_reaction" target="file528"/>
+					<ref type="next_same_sender" target="file608"/>
+					<ref type="prev_same_sender" target="file577"/>
+					<ref type="next_same_addressee" target="file587"/>
+					<ref type="prev_same_addressee" target="file572"/>
+					<ref type="next_with_sender_as_addressee" target="file608"/>
+					<ref type="prev_with_sender_as_addressee" target="file577"/>
+					<ref type="next_with_addressee_as_sender" target="file587"/>
+					<ref type="prev_with_addressee_as_sender" target="file572"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="482">Latein</language>
+				<language ident="de" usage="518">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/586%2FAutograph%2F00%20E_II_357__S__352_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">586/Autograph/00 E_II_357__S__352_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/586%2FAutograph%2F01%20E_II_357__S__353_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">586/Autograph/01 E_II_357__S__353_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Fuit hic mecum nudiusquartus Sangallensis ille concionator Fortmillerus, qui suorum turpissimum lapsum ita apud me deploravit, ut lachrymas easque largissimas mihi elicuerit hocque magis, quod Vadianum nostrum praecipuum authorem mali istius, quod uni tibi dictum puta, constanter affirmabat; plebeios miro quodam dolo circumventos ab astutulis quibusdam, quin etiam bonam senatus partem rem plane non intelexisse ac nunc vehementer dolere, quod frenum istud miserrim&#281; ac execrand&#281; servitutis imprudentes momorderint.</s>
+					<s n="3" xml:lang="la" type="auto">Deinde se et alios symmystas sic rei istius indignitate perculsos, ut nihil malint quam rersignato ministerio ecclesiam deserere ac alio demigrare, id quod ipse tamen modis omnibus dissuasi etc.</s>
+					<s n="4" xml:lang="la" type="auto">Obnixe vero me suo suorumque administrorum nomine rogavit, ut istuc tibi quam primum significem, quo praesentissimo tuo consilio, quid ipsis faciendum existimes, quid apud senatum, quid vero pro concione docendum sit, indices<note type="misc">gestr., daf&#252;r a. R.: ...</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Ipse te convenisset, nisi in pessimam partem acceptum olim fuisset a senatu, quod in nescio quo negocio vestro usi erant consilio ipsi ad vos profecti.</s>
+					<s n="6" xml:lang="la" type="auto"><foreign xml:lang="de">Der gu&#870;t, lieb mann gehept sich so gar ubel, das er mich hertzlich erbarmt;</foreign> natura enim impotentioribus est affectibus et vehementiore zelo correptus.</s>
+					<s n="7" xml:lang="la" type="auto">in miserandas ferebatur exclamationes; <foreign xml:lang="de">er jomert uber die ma&#223;.</foreign></s>
+					<s n="8" xml:lang="de" type="auto">Hat ain bru&#870;der, ist 19 jar elter dann er, nitt weyt von Stain; ist ouch ain messpfaff, aber gar ains frommen unstrefflichen lebens.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Hat denselbigen zu&#870;m wort genommen; er mu&#868;sse zu&#870; im, seye alt und schwach, wie er dann ouch zu&#870; im ist, und aber under disem schin gedacht zu&#870; mir ze kommen und mich ze bitten, euch ze schriben, wie gantz ubel und schentlich sine S. Galler in das <foreign xml:lang="la">f&#281;dus cum Gallo</foreign> kommen seyen mitt grosser gschwindikait.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Die brieff seyen schon gemacht und aller ding uffgericht gewesen, das man allain die besiglung urgiert hat; ist vergangens sontags acht tag gewesen.</s>
+					<s n="11" xml:lang="de" type="auto">Habend die prediger kain wort davon gewisst, sonder das widerspyl vermu&#870;tet; ain s&#246;lichen sch&#246;nbart hat man inen geflochten.</s>
+					<s n="12" xml:lang="de" type="auto">Die prediger sind gar bestanden; Zyle begert hinweg; er, Fortmyller, were noch vyl lieber hinweg; der schu&#870;lmaister Sattler oder Kessler, ain sehr frommer und geschickter mann, ist uber die ma&#223; betru&#868;bt, kan die sach zum besten ermessen, was es alles uff im tragt; wissend nitt, wa u&#223; oder an.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><foreign xml:lang="de">Ich hab hefftig gerathen,</foreign> ne ecclesiam deserant multas ob caussas, quandoquidem factum infectum esse nequeat,</s>
+					<s n="14" xml:lang="la" type="auto">Recepi autem sanctissime me primo quoque nucio ist&#281;c tibi significaturum.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Lasts euch anglegen; dann es wirt von n&#246;ten sin.</s>
+					<s n="16" xml:lang="de" type="auto"><foreign xml:lang="de">Die prediger sind hefftig,</foreign> etiam post factum.</s>
+					<s n="17" xml:lang="de" type="auto">Es hat (main, es seye Zyle) ainer di&#223; tag gepredigt, das der burgermaister (w&#228;n, es seye der Schlumpf) <foreign xml:lang="la">magno stomacho</foreign> u&#223; der kirchen geloffen ist und die thu&#868;r nach im hefftig ingeschlagen, das es widerbupfft hat, und ist grosse unru&#870; in der gmaind, ouch ettlichen ratsherren.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Et ego vehementer metuo, ne ommodestia ista et immodico zelo plus offecturi sint ecclesiae Christi quam rempublicam iis rationibus a servitute vindicaturi.</s>
+					<s n="19" xml:lang="de" type="auto">Er hat mir in vertruwen er&#246;ffnet, Vadianus seye die gr&#246;st ursach, hab ettlich ander, die des gmu&#868;ts nie gewesen seyen, persuadiert, das sy ouch bewilliget.</s>
+					<s n="20" xml:lang="de" type="auto">Ists halb, wie Fortmyller furgibt, den ich doch williget.</s>
+					<s n="21" xml:lang="de" type="auto">Ists halb, wie Fortmyller furgibt, den ich doch fu&#868;r from und redlich halt, dann das er offt hytzig und zu&#870; vyl angefochten ist, so ists doch ain grosser jomer, wiewol <foreign xml:lang="la">res ipsa clamat horrendum designatum facinus.</foreign></s>
+					<s n="22" xml:lang="de" type="auto">Gott erbarm sich ir!</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto">Schreibt um gottes willen den lieben mennern zu un[ver]zug; dann sy hertzlich begerend ewers raths und trosts.</s>
+					<s n="24" xml:lang="de" type="auto">Ach gott, ach gott, des ellenden jomers, das man um jerlicher 400 fl. willen s&#246;llichs bewilligt, wie er anzogt; wanns 40000 werend, noch sollten sy sich zu&#870; tod schemen.</s>
+					<s n="25" xml:lang="de" type="auto">Der truw, lieb gott erbarme sich uber sy und un&#223; alle.</s>
+					<s n="26" xml:lang="de" type="auto">Ich kan nitt mehr, hab ongefar erfaren, das diser tagen Gotgab St&#252;ltzer gen Zurich will uff morn von Costentz; ist sein husfrauw hinacht hie, und hab ich so vyl ze thain, das ungl&#246;plich.</s>
+					<s n="27" xml:lang="de" type="auto">Habend fur gu&#870;t; ir werdt nunmehr des handels on das bericht sin nach aller noturfft.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de" type="auto">Ewere brieffle sind mir worden; sag euch ewigen danck.</s>
+					<s n="29" xml:lang="de" type="auto">Hapt sorg und wacht, alls mir nitt zweyfellt.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto"><foreign xml:lang="de">Ich were gen Winterthur zogen;</foreign> sed multa me retinent atque inter illa etiam non ex&#281;dificat&#281; Hieronymi &#281;des, [in] quas mihi demigrandum erit, quoniam<note type="misc">qu?</note> null&#281; ali&#281; mihi meisque commod&#281; illic conduci potuerunt.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Plura nulla ratione possum temporis spacio exclusus.</s>
+					<s n="32" xml:lang="la" type="auto">Tu ora pro nobis diligenter et saluta amicos, praecipue tuam [domum].</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Neuwer zeytung hab ich nitt ain wort; man wartet des obersten uff hutt widerum zu&#870; Costentz; soll vyl gu&#870;te m&#228;hr bringen, ja vyllicht, wie sy es gu&#870;t haissend.</s>
+					<s n="34" xml:lang="la" type="auto">Vale mortalium omnium charissime.</s>
+					<s n="35" xml:lang="la" type="auto">11. iulii 1549.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Calvini scriptum ita placet, ut sanctum illud pectus supra modum in Christo Iesu venerer et adorem atque hunc spiritum et sanctissimum dei zelum omnibus iis optem, quos dominus ecclesi&#281; su&#281; presbyteros et pastores dedit.</s>
+					<s n="37" xml:lang="la" type="auto">Ah quantum abest ille ab istorum quorundam pudendo metu, qui omnia sua iudicia et consilia sic moderantur, ut mundum sibi propicium vel etiam irato deo habeant.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse fehlt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

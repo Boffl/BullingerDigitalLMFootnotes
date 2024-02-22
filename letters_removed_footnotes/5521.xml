@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5521" type="Brief" source="TUSTEP" n="32193">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN Johannes Haller d.J., 27. November 1562</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich ZB</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Autograph">Ms F 46,603</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Dominus affligia, dum ex senatu iam alilquanto temppore sustulit senes et pius</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 106,9</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/5521">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1562-11-27" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file5522"/>
+					<ref type="prev_chronologically" target="file5520"/>
+					<ref type="next_correspondence" target="file5530"/>
+					<ref type="prev_correspondence" target="file5438"/>
+					<ref type="next_correspondence_request" target="file5765"/>
+					<ref type="prev_correspondence_request" target="file5438"/>
+					<ref type="next_correspondence_reaction" target="file5530"/>
+					<ref type="prev_correspondence_reaction" target="file5427"/>
+					<ref type="next_same_sender" target="file5533"/>
+					<ref type="prev_same_sender" target="file5520"/>
+					<ref type="next_same_addressee" target="file5530"/>
+					<ref type="prev_same_addressee" target="file5427"/>
+					<ref type="next_with_sender_as_addressee" target="file5533"/>
+					<ref type="prev_with_sender_as_addressee" target="file5520"/>
+					<ref type="next_with_addressee_as_sender" target="file5530"/>
+					<ref type="prev_with_addressee_as_sender" target="file5427"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="233">Deutsch</language>
+				<language ident="la" usage="767">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/5521%2FAutograph%2F00%20Ms_F_46_603_0001.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5521/Autograph/00 Ms_F_46_603_0001.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Dominus affligit, dum ex senatu iam aliquanto tempore sustulit senes et pios prudentesque viros plurimos; nunc etiam a nobis avocavit Martyrem, virum incomparabilem.</s>
+					<s n="3" xml:lang="la" type="auto">Migravit hic in vera fide huius mensis 12., cum vix aliquot decubuisset dies.</s>
+					<s n="4" xml:lang="la" type="auto">Vehementer me turbant mortes tot virorum, quorum donis vehementer iuvari potuisset ecclesia, quam vereor abducendam in fluctus graves.</s>
+					<s n="5" xml:lang="la" type="auto">Utinam d. Musculus susciperet munus respondendi Brentio pro Martyre in causa unionis personalis et duarum in Christo naturarum permanentium.</s>
+					<s n="6" xml:lang="la" type="auto">Concilium Tridenti egregie procedit.</s>
+					<s n="7" xml:lang="la" type="auto">Venit eo Lothar[ingus] card[inalis] cum praelatis Galliae.</s>
+					<s n="8" xml:lang="de" type="auto">Sy w&#246;llend die sach u&#223;machen, und sind wunderbar rathschleg; das alles glaubend wir nit.</s>
+					<s n="9" xml:lang="de" type="auto">Gott thu&#868;ye[?] uns die ougen auf.</s>
+					<s n="10" xml:lang="de" type="auto">Sunst f&#252;rcht ich eines grossen falls etc.</s>
+					<s n="11" xml:lang="de" type="auto">Die von Glari&#223; sind aber gestillet bi&#223; auf den tag zu&#870; Baden 3. ianuarii, dahin sy aufzogen.</s>
+					<s n="12" xml:lang="de" type="auto">Tschudi ist von inen zogen gen Rapperschwil.</s>
+					<s n="13" xml:lang="la" type="auto">Non bonum praesagium.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Insuavem vivo vitam; sed quia domino ita placet, propter dominum sustineo.</s>
+					<s n="15" xml:lang="la" type="auto">Inservivi iam ecclesiae ad 40 fere annos, coepi enim in mense ianuario anni 1523.</s>
+					<s n="16" xml:lang="la" type="auto">Cuperem itaque ex animo, ut dominus liberaret me et ad se in regnum eius evocaret.</s>
+					<s n="17" xml:lang="la" type="auto">Sequerer vocantem animo laetissimo.</s>
+					<s n="18" xml:lang="la" type="auto">Sed fiat voluntas domini.</s>
+					<s n="19" xml:lang="la" type="auto">In hoc vale.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]<note xml:id="fna" type="footnote" n="a"><hi>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:</hi> Idem eidem. Tiguro Bernam. 27. novembris 1562.</note></note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

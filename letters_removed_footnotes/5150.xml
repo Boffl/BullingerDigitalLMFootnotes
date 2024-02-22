@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5150" type="Brief" source="TUSTEP" n="32191">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN [Johannes Haller d.J.], 25. Januar 1562</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph__(Kopie)" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph__(Kopie)">E II 437a, f. 458v-460, Nr. 53</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Bullinger, Heinrich</author>
+							<incipit>... es habend &#252;wer herren Rethen unser herren gar ein fryen wolgesetzten brieff zuogeschickt, uns darinn angezeigt, dass sy willens, 1. Martii ein Synodum zu halten.</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 358,323</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 103,4</idno>
+						<idno subtype="Hinweis">Anfang Januar 1562 eingereiht</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms B 80, 730 f., Nr. 102</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms F 46, 600-601</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms A 51, Fo 79, Nr. 40</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a12">
+							<name>Bern BB</name>
+							<ref target="https://www.burgerbib.ch/de"/>
+						</repository>
+						<settlement ref="l41">Bern</settlement>
+						<institution>Burgerbibliothek</institution>
+						-->
+						<repository ref="a12"/>
+						<idno subtype="Kopie">Cod. 122, f. 56-57r, Nr. 24</idno>
+						<idno subtype="Mikrofilm">IRG</idno>
+						<idno subtype="Hinweis">Mus. hist. helv. III 47 Nr. 9; undatiert; alle sig. T XXX; irrt. an Berchtold Haller</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a12">
+							<name>Bern BB</name>
+							<ref target="https://www.burgerbib.ch/de"/>
+						</repository>
+						<settlement ref="l41">Bern</settlement>
+						<institution>Burgerbibliothek</institution>
+						-->
+						<repository ref="a12"/>
+						<idno subtype="Kopie">Cod. 122, f. 56-57r, Nr. 24</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/5150">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1562-01-25" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8018" cert="low">
+						<!--
+						<surname cert="low">Haller d.J.</surname>
+						<forename cert="low">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file5151"/>
+					<ref type="prev_chronologically" target="file5149"/>
+					<ref type="next_correspondence" target="file5162"/>
+					<ref type="prev_correspondence" target="file5145"/>
+					<ref type="next_correspondence_request" target="file5296"/>
+					<ref type="prev_correspondence_request" target="file5128"/>
+					<ref type="next_correspondence_reaction" target="file5162"/>
+					<ref type="prev_correspondence_reaction" target="file5145"/>
+					<ref type="next_same_sender" target="file5163"/>
+					<ref type="prev_same_sender" target="file5146"/>
+					<ref type="next_same_addressee" target="file5162"/>
+					<ref type="prev_same_addressee" target="file5145"/>
+					<ref type="next_with_sender_as_addressee" target="file5163"/>
+					<ref type="prev_with_sender_as_addressee" target="file5146"/>
+					<ref type="next_with_addressee_as_sender" target="file5162"/>
+					<ref type="prev_with_addressee_as_sender" target="file5145"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FAutograph%20(Kopie)%2F00%20E_II_437__fol__458_v_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5150/Autograph (Kopie)/00 E_II_437__fol__458_v_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FAutograph%20(Kopie)%2F01%20E_II_437__fol__459_r_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">5150/Autograph (Kopie)/01 E_II_437__fol__459_r_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FAutograph%20(Kopie)%2F02%20E_II_437__fol__459_v_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">5150/Autograph (Kopie)/02 E_II_437__fol__459_v_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FAutograph%20(Kopie)%2F03%20E_II_437__fol__460_r_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">5150/Autograph (Kopie)/03 E_II_437__fol__460_r_.tif</desc></graphic>
+		<graphic xml:id="img5" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FKopie%2F00%20E_II_358__fol__323_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5150/Kopie/00 E_II_358__fol__323_r_.tif</desc></graphic>
+		<graphic xml:id="img6" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FKopie%2F01%20E_II_358__fol__323_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">5150/Kopie/01 E_II_358__fol__323_v_.tif</desc></graphic>
+		<graphic xml:id="img7" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FKopie%2F00%20Ms%20A%2051%20(79)_00001.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5150/Kopie/00 Ms A 51 (79)_00001.tif</desc></graphic>
+		<graphic xml:id="img8" url="https://iiif.bullinger-digital.ch/iiif/3/5150%2FKopie%2F01%20Ms%20A%2051%20(79)_00002.tif/full/max/0/default.jpg" n="2"><desc subtype="path">5150/Kopie/01 Ms A 51 (79)_00002.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Sinem f&#252;rgeliepten herren und bru&#870;der h. Johansen Hallern zu&#870; Bernn.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">S. F&#252;rgeliepter herr und bru&#870;der, es habend &#252;were herren unseren herren gar ein finen, wolgesetzten brieff zu&#870;geschickt und darinn anzeigt, das sy willens, 1. martii ein synodum zu&#870; hallten; bege(&#228;?) rend, das man mich und noch einen der minen herren gefellig, hinuff schicke; erzellend ouch, u&#223; was ursach sy hiezu&#870; bewegt und wie es umb 3 artickel ze thu&#870;n: umb<note xml:id="fna" type="footnote" n="a"><hi>In Bullingers Abschrift irrt&#252;mlich:</hi> und.</note> das examen, die gefatterschafft und bann, was in diesem die welschen f&#252;rwenden und was imm selbigen beschwarlichs etc.</s>
+					<s n="3" xml:lang="de" type="auto">Min herren habend uns den brieff g&#228;ben, das wir uns daruf[?] bendencken s&#246;llind; das wir gethan.</s>
+					<s n="4" xml:lang="de" type="auto">Und so der synodus in denen unru&#868;wigen zyten wurde ein f&#252;rgang haben, sind wir der meynung, das man[?] schicken s&#246;lle.</s>
+					<s n="5" xml:lang="de" type="auto">Das wirt man inen anzeigen.</s>
+					<s n="6" xml:lang="de" type="auto"><pb type="scan" next="459r."/>Demnach kan man n&#252;t jetzund beschliessen; man mag nitt ynw&#252;ssen, was ynfallt.</s>
+					<s n="7" xml:lang="de" type="auto">Und wie die w&#228;llt jetzund verb&#246;seret ist, mu&#870;&#223; man bes&#228;hen, wie man thu&#868;ye, das besserung volge.</s>
+					<s n="8" xml:lang="de" type="auto">Und bedunckt vil, die w&#228;lschen predicanten habind nitt kleinen fu&#870;g zu&#870; ir klag, diewyl doch alles der maassen verderpt ist, wie es ist.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">In diser sach irrt mich nitt wenig, dass ir w&#252;ssind, wie meerteyls die synodi u&#223;geschlagen alein von de&#223; w&#228;gen, das h&#228;fftige, st&#252;nige</s>
+					<s n="10" xml:lang="de" type="auto">Hatt man nun ye h&#228;fftige gmu&#868;t gehept, so hat man sy jetzund.</s>
+					<s n="11" xml:lang="de" type="auto">Und vil sind wunderbarlich zu&#870; reden und zu&#870; zanggen ger&#252;st.</s>
+					<s n="12" xml:lang="de" type="auto">Wo denen anla&#223; und platz wirt, ist wol zu&#870; gedencken, das da kein end zu&#870; hoffen, man thu&#868;ye dann grad, was sy w&#246;llend.</s>
+					<s n="13" xml:lang="de" type="auto">Thu&#870;t man es nitt, so ist es so vil b&#246;ser by inen, das sy vermeinend, die wyl man ire gr&#252;ndt geh&#246;rt und nitt volge, setze man sich wider die warheit.</s>
+					<s n="14" xml:lang="de" type="auto">Sol man nun zamen kummen und nitt eins werden, so wirt schier das b&#246;ser werden dan das gu&#870;ts bringe, so man glich joch ettwas zamen zuge.</s>
+					<s n="15" xml:lang="de" type="auto">Dann scheidet man von einanderen ungeschaffeter sach, so ru&#868;mend die b&#228;pstler (die sunst sagend, wir mu&#868;ssend immerdar an unserem glouben bu&#868;tzen), sy syind r&#228;cht daran, wir syind verirret; die Lutherischen werdent erst jubilieren und sagen, wir syend zertrent; die in Franckrych, die erst amm angang und anfang sind, werdent sich ergeren, und so vil me, so vil h&#228;fftiger sy uff die kylchen zu&#870; Genff s&#228;hend.</s>
+					<s n="16" xml:lang="de" type="auto">Da sorgen ich ouch jetzund das, da&#223;, diewyl ich vor langist gesp&#252;r, das h. Calvinus by vilen under &#252;ch wenig gunsts hat, so er kumme, das er nitt zu&#870;gelassen werde, und ouch das selb vil klag, unwillens und ergernu&#223; bringe.</s>
+					<s n="17" xml:lang="de" type="auto"><pb type="scan" next="459v."/>So er dan zu&#870;gelassen wirt, ist dann das zu&#870; sorgen, das ettlich dem gantzen handel dister ung&#252;nstiger und die sach aber nienanhin gange und hernach b&#246;ser werde, dann sy vor was.</s>
+					<s n="18" xml:lang="de" type="auto">Uber das alles w&#252;ssend ir, wie so vil s&#228;ltzamer wh&#246;nen und meinungen by vilen sind.</s>
+					<s n="19" xml:lang="de" type="auto">Sol man den selben ouch gestatten, in synodo darumb[?] anzug ze thu&#870;n und zu&#870; losen, wenn wirt man gr&#228;ch</s>
+					<s n="20" xml:lang="de" type="auto">Wie wirt es ein gez&#228;nck g&#228;ben!</s>
+					<s n="21" xml:lang="de" type="auto">Sol man mit einen[m?] yeden reden lassen, wie er wil, w&#252;ssend ir aber, was klagen volgend.</s>
+					<s n="22" xml:lang="de" type="auto">Und wer sol jetzund in diser sach handlen?</s>
+					<s n="23" xml:lang="de" type="auto">Beru&#868;ffend ir vil anderschwo har, so bed&#246;rffend wol ettliche ouch s&#228;ltzame k&#246;pff sin.</s>
+					<s n="24" xml:lang="de" type="auto">Underwindent dann wenig sich der dingen, so ist es ein untraglicher last etc.</s>
+					<s n="25" xml:lang="de" type="auto">Dorumb were vor allen dingen nodtwendig, da&#223;, so man doch jetzund in disen unru&#868;wigen zyten furfaren[?] w&#246;llte mitt dem synodo, das man zu&#870;vor alle ding wol vers&#228;he, w&#228;n man beru&#868;ffen w&#246;llte oder nitt, was und worumb man inn beru&#868;ffen, das ouch gesetzt werdint leges und presidenten und anders, das man weist nodtwendig sin und in der disputation by &#252;ch gar fin gebrucht etc.</s>
+					<s n="26" xml:lang="de" type="auto">Wo man dann findt, das sich die sach nitt schicken, dann das gfaaren mitlauffen etc., so m&#246;chtind ir dann &#252;were radtschleg (dann ich verstan, das [ir?] ein ordenlich bed&#228;ncken gestellt by &#252;ch, davon j. Niclaus mitt mir geredt) ettliche zu&#870;schicken alls har und in andere &#252;ch gefellige stett, ire urteyl dar&#252;ber zu&#870;forderen, und so ir die h&#228;ttind, darus das machtind, das zu&#870; erbawung, friden und ru&#870;wen[ru&#868;wen?] dienete.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="de" type="auto">Das alles hab ich &#252;ch in yl kurtz w&#246;llen verzeychnen, was mich gu&#870;t duncke diser handlung halben.</s>
+					<s n="28" xml:lang="de" type="auto">So vil mich belangt, wil ich gern thu&#870;n, was ich kan, gern zu&#870; &#252;ch hinuff kummen und alles<pb type="scan" next="460r."/> das<note xml:id="fnb" type="footnote" n="b"><hi>Der Schluss der Briefabschrift ab</hi>das<hi>ist unterhalb des Titels der n&#228;chstfolgenden Schrift eingef&#252;gt.</hi></note> h&#228;lffen versu&#870;chen, das man vermeint das best sin.</s>
+					<s n="29" xml:lang="de" type="auto">Kan wol ged&#228;ncken, das ir das und anders selbs vil eigentlicher erm&#228;ssend zu&#870; gu&#870;tem der sach; n&#252;te&#223;minder hab ich es nitt underlassen m&#246;gen, &#252;ch anlass zu&#870; g&#228;ben, der sach wyter nach zu&#870; sinnen.</s>
+					<s n="30" xml:lang="de" type="auto">Und verstand es von mir imm besten.</s>
+					<s n="31" xml:lang="de" type="auto">Dann ich beg&#228;ren hie n&#252;t me, dann das es alles geradte zur besserung.</s>
+					<s n="32" xml:lang="de" type="auto">Dorumb ist gott tr&#252;wlich zu&#870; bitten, das er wy&#223;heit, krafft und ein gu&#870;t end diser sach g&#228;be zu&#870; sinen eeren und sines worts f&#252;rderung und unserem heyl.</s>
+					<s n="33" xml:lang="de" type="auto">Amen.</s>
+					<s n="34" xml:lang="de" type="auto">Gott mitt &#252;ch.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="de" type="auto">Datum Z&#252;rych, 25. ianuarii 1562.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="de" type="auto">Der uwer H. Bullinger.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

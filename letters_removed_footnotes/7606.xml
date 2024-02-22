@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file7606" type="Brief" source="TUSTEP" n="38148">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN [Johannes Haller d.J.], 21. September 1568</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms F 46,611-612</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Hodie adferuntur litterae Heidelberga a D. Christophoro Ehemio</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/7606">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1568-09-21" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8018" cert="low">
+						<!--
+						<surname cert="low">Haller d.J.</surname>
+						<forename cert="low">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file7607"/>
+					<ref type="prev_chronologically" target="file7605"/>
+					<ref type="next_correspondence" target="file7617"/>
+					<ref type="prev_correspondence" target="file7589"/>
+					<ref type="next_correspondence_request" target="file7628"/>
+					<ref type="prev_correspondence_request" target="file7051"/>
+					<ref type="next_correspondence_reaction" target="file7617"/>
+					<ref type="prev_correspondence_reaction" target="file7589"/>
+					<ref type="next_same_sender" target="file7613"/>
+					<ref type="prev_same_sender" target="file7604"/>
+					<ref type="next_same_addressee" target="file7617"/>
+					<ref type="prev_same_addressee" target="file7589"/>
+					<ref type="next_with_sender_as_addressee" target="file7613"/>
+					<ref type="prev_with_sender_as_addressee" target="file7604"/>
+					<ref type="next_with_addressee_as_sender" target="file7617"/>
+					<ref type="prev_with_addressee_as_sender" target="file7589"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="137">Deutsch</language>
+				<language ident="la" usage="863">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Hodie adferuntur literae Heidelberga a d. Christophoro Ehemio, praecipuo Palatini electoris consiliario, qui res exponit, quos te nolo latere.</s>
+					<s n="3" xml:lang="la" type="auto">Principio significat principi certissimo nuntio indicatum Angusolam venturum in Helvetiam et curaturum, ut legio Helvetica praetextu praesidii collocetur in comitatum Burgundiae, ea tamen inserviat, si necesse sit, Albani usibus in Brabantia.</s>
+					<s n="4" xml:lang="la" type="auto">Eam ob causam<note xml:id="fna" type="footnote" n="a">Eam ob causam <hi>vom Abschreiber irrt&#252;mlich wiederholt.</hi></note> advecta esse gubernatori<note xml:id="fnb" type="footnote" n="b"><hi>Vom Abschreiber korrigiert aus</hi> liberatori.</note> Burgundiae multa coronatorum millia.</s>
+					<s n="5" xml:lang="la" type="auto">Admonet ergo Ehemius, vigilemus et obsistamus, ne concedatur ei miles.</s>
+					<s n="6" xml:lang="la" type="auto">Eum enim nosmet ipsos oppugnaturum.</s>
+					<s n="7" xml:lang="la" type="auto">Omnia enim illos instituisse ad nostri omniumque fidelium oppressionem atque excidium.</s>
+					<s n="8" xml:lang="la" type="auto">Et ecce, dum haec admonitio huc mittitur, biduo praevenit eam Angusola.</s>
+					<s n="9" xml:lang="la" type="auto">Nam nebulo pridie huc anhelus venit.</s>
+					<s n="10" xml:lang="la" type="auto">Heri auditus est a senatu.</s>
+					<s n="11" xml:lang="de" type="auto"><foreign xml:lang="la">In eo proposuit:</foreign> die weil die erbeynigung verm&#246;g, da&#223; man uf einanderen ein tr&#252;w ufsehen haben solle, und Burgund, das in der erbeynigung ist, in gfahren stande, ob dann die erbeynigung nit den verstand habe, da&#223; man ein zu&#870;satz in Burgund lege etc.</s>
+					<s n="12" xml:lang="de" type="auto"><pb type="scan" next="612"/>Daruf ihm n&#252;t zur antwurt worden, denn auf dem tag zu&#870; Baden werde man sich mit anderen underreden etc.</s>
+					<s n="13" xml:lang="de" type="auto">Also fahrt er grad von hinnen auf Lucern, da er erst die rechten charten u&#223;legen wirt.</s>
+					<s n="14" xml:lang="la" type="auto">Est vir ille omnium pessimus, a quo singulariter sibi Helvetia, si saperet, caveret.</s>
+					<s n="15" xml:lang="la" type="auto">Nam hic futurus est dux Italici et Hispanici exercitus, si quando debellandi sumus.</s>
+					<s n="16" xml:lang="la" type="auto">Is interea omnia observat itinera, omnium mores discit, quomodo supplantandi simus, cognoscit.</s>
+					<s n="17" xml:lang="la" type="auto">Vipera et hydra, quae fovetur in sinu nostro.</s>
+					<s n="18" xml:lang="la" type="auto">Sed haec omnia abscondita sunt ab oculis nostris.</s>
+					<s n="19" xml:lang="la" type="auto">Nam instare vereor diem visitationis nostrae acerbissimae, qui benignam visitationem vilipendimus.</s>
+					<s n="20" xml:lang="la" type="auto">Dum ergo nunc literae istae admonitoriae adferuntur, dum nebulo adhuc est in urbe nostra, divina hoc factum puto providentia deo vigilante pro nobis.</s>
+					<s n="21" xml:lang="la" type="auto">Utinam agnoscamus!</s>
+					<s n="22" xml:lang="la" type="auto">Scietis haec priusquam ille ad vos perveniat.</s>
+					<s n="23" xml:lang="la" type="auto">Ac nominatim iubet in suis literis Ehemius, ut Bernensibus eadem suggeram, id quod nunc facio.</s>
+					<s n="24" xml:lang="la" type="auto">Pergit ille palam indicare omnia in Gallia, Italia, Hispania et parte Germaniae eo institui, ut nostra religio vera opprimatur et excindatur.</s>
+					<s n="25" xml:lang="la" type="auto">Caesarem quidem Maximilianum dissimulare se conscium esse, colligere ipsum grandem pecuniam, forte in illud ipsum institutum.</s>
+					<s n="26" xml:lang="la" type="auto">Omnes ergo prudentes in Gallia, Anglia, Germania nostrae religionis homines concorditer sentire res nostras non fore tutas, nisi omnes, qui eiusdem religionis sumus in Helvetia, Gallia, Germania, Anglia, uno connectamur foedere inter nos pro assertione religionis verae et libertatis nostrae.</s>
+					<s n="27" xml:lang="la" type="auto">Quod si aliqua eius rei spes sit, principem missurum legationem ad nos.</s>
+					<s n="28" xml:lang="la" type="auto">Eundem principem scripsisse nunc per eundem tabellionem ad senatum nostrum[vestrum?] ea de re.</s>
+					<s n="29" xml:lang="la" type="auto">Et quamvis de nostris (quod tibi soli dico) parum sperem, nolo tamen ea, quae ad</s>
+					<s n="30" xml:lang="la" type="auto">Vale una cum domo tua.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]<note xml:id="fnc" type="footnote" n="c"><hi>Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt:</hi> Idem eidem. Tiguro Bernam. 21. septembris 1568.</note></note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

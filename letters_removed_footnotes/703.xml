@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file703" type="Brief" source="TUSTEP" n="19275">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Gei&#223;h&#252;sler) / Basel AN Heinrich Bullinger / Z&#252;rich, 9. Oktober 1549</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 336,322</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 336,307</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Gratissimae fuerunt mihi litere tue quantumvis rare. Omnes excusationes tuas recipio</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>J. Gast, Tagebuch 46; 45</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 71,108</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/703">
+				<correspAction type="sent">
+					<persName ref="p8418" cert="high">
+						<!--
+						<surname cert="high">Myconius (Gei&#223;h&#252;sler)</surname>
+						<forename cert="high">Oswald</forename>
+						<graphic type="portrait" url="portraits/2234_Myconius_Oswald.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Oswald_Myconius"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118735462"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11436560"/>
+						-->
+					</persName>
+					<placeName source="l28" cert="high"><orig>Basel</orig></placeName>
+					<date when="1549-10-09" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file704"/>
+					<ref type="prev_chronologically" target="file702"/>
+					<ref type="next_correspondence" target="file731"/>
+					<ref type="prev_correspondence" target="file700"/>
+					<ref type="next_correspondence_request" target="file750"/>
+					<ref type="prev_correspondence_request" target="file681"/>
+					<ref type="next_correspondence_reaction" target="file731"/>
+					<ref type="prev_correspondence_reaction" target="file700"/>
+					<ref type="next_same_sender" target="file750"/>
+					<ref type="prev_same_sender" target="file681"/>
+					<ref type="next_same_addressee" target="file725"/>
+					<ref type="prev_same_addressee" target="file700"/>
+					<ref type="next_with_sender_as_addressee" target="file750"/>
+					<ref type="prev_with_sender_as_addressee" target="file681"/>
+					<ref type="next_with_addressee_as_sender" target="file725"/>
+					<ref type="prev_with_addressee_as_sender" target="file700"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/703%2FAutograph%2F00%20E_II_336__fol__322_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">703/Autograph/00 E_II_336__fol__322_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/703%2FAutograph%2F01%20E_II_336__fol__322_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">703/Autograph/01 E_II_336__fol__322_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Gratissimae fuerunt mihi liter&#281; tu&#281;, quantumvis rar&#281;.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Omnes excusationes tuas recipio, ut qui eas qualescunque nunquam non apud me cogito; scio enim, quam sis negociis immersus.</s>
+					<s n="4" xml:lang="la" type="auto">Cur autem hortatus sim ad scribendum, h&#281;c est causa: Scribunt impune hostes Christi, quicquid libet; habentur, qu&#281; expuunt contra cominum, ubique venalia, leguntur, repetuntur, ediscuntur a multis, nec est, qui contra faciat aliquid; unde gloriantur se vicisse, mutos enim nos omnes factos a veritate ipsorum.</s>
+					<s n="5" xml:lang="la" type="auto">Hoc est, quod mihi dolet.</s>
+					<s n="6" xml:lang="la" type="auto">Inter hos autem, qui scribunt, est Wicelius apostata, homo, qui palam Christum abnegavit; est et amicus tuus et Calvini Cochleus mendacissimus, qui librum scripsit, cui titulus: Acta Lutheri; huic li[bro] inseruit bellum inter nos infelicissimum adeo mendaciter, ut, nisi quis respondeat, apud posteros simus male audituri, et nunc, quocunque liber pervenerit.</s>
+					<s n="7" xml:lang="la" type="auto">Et quamvis, qu&#281; scribit uterque, talia sint, ut se ipsi confutent a bonis lecta, quia tamen malorum infinitus est numerus, oper&#281; precium fuerit propter ipsos, ne ad tam foeda mendacia taceatur.</s>
+					<s n="8" xml:lang="la" type="auto">D. Michael Constantiensis tomum primum habet; obtulit, si legere velim; ego vero respondebam: "Ne quidem, si quis donaret."</s>
+					<s n="9" xml:lang="la" type="auto">Addidit mox suum iudicium de toto libro; "Parturiunt montes," inquiens, "nascitur ridiculus mus."</s>
+					<s n="10" xml:lang="la" type="auto">"Interim tamen," ego, "mendacia manent in contumeliam patri&#281;."</s>
+					<s n="11" xml:lang="la" type="auto">Habes, cur sic hortatus sim.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">De magistratu dixit mihi Tigurinus, ad quem res spectabat, ipsum prohibuisse aeque ut nostrum, ne quid publice diceretur contra Interim, ne quid scriberetur, ne quid haberetur venale etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Reliqua sunt: Communicavit Georgius comes his diebus mihi, qu&#281; sequuntur: sacrificos in Anglia suspendi, qui non confugiant ad Scotos.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">In Ungaria minas esse belli.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">In Saxonia et Misnia mori incipere Interim; C&#281;sarem id parum curare; hic vero latere malum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Discordiam esse inter doctos Saxones et alios quosdam propter Interim, quod quidam putant aliqua parte recipiendum, alii recusant in totum.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">C&#281;sarem permisisse, ut Ertfordi&#281; papist&#281; et Lutherani docti inter se congrediantur; verum hoc vanum esse putat comes.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">In alia scheda h&#281;c inerant: venisse nuper Landauviam et Wissenburgam speculatores palam missi, qui pararent militibus C&#281;s[aris] mansiones, cibum et potum, ac C&#281;sarem conventurum Spiram in mensis spacio; militum numerum censeri sex millium.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Audiet C&#281;sar principes et dominos, cum quibus nondum est transactum.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Habet in aula 3 cardinales, quos misit papa, ut una cum episcopo Maguntino reforment ecclesias Germanicas.</s>
+					<s n="21" xml:lang="la" type="auto">Qua quidem in re planam habent adeo suo potestatem, inquirendi quoque in singulares personas, qui adhuc Lutheranismo sint devoti cuiuscunque conditionis.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Huic postremo ex alteris addo: legati cardinales habent libellum satis brevem, in quo continentur articuli, iuxta quos debet fieri reformatio.</s>
+					<s n="23" xml:lang="la" type="auto">Articuli sunt antichristiani adeo atque stulti, ut prodesset publicatos esse.</s>
+					<s n="24" xml:lang="la" type="auto">C&#281;sar, qu&#281; isti transigere nequeunt, exequutor erit violentus.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Ex articulis unus est talis: sanctissimus es corde mere paterno, quem habet erga Germaniam, permittit concionatoribus, qui redeunt ad ecclesiam catholicam, ut in parochis permaneant, modo ungantur, si non sunt uncti, radantur, si non sunt rasi, et dimittant uxores, si quas habent.</s>
+					<s n="26" xml:lang="la" type="auto">En gratiam et amorem paternum.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Dominus Iesus perdat antichristum una cum suo artifice<note xml:id="fna" type="footnote" n="a">Hierzu am Rand:</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Hoc est concilium, quousque Interim perdurare debebat; h&#281;c est sublatio Interim facta a C&#281;sare.</s>
+					<s n="29" xml:lang="la" type="auto">Patet C&#281;sarem hominem esse talem, ut dignus sit, quo abutatur deus ad persequendum Christum suum.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Foedus contra Caesarem est, quod initum est cum Gallo.</s>
+					<s n="31" xml:lang="la" type="auto">Pensiones non habebunt locum; hoc mihi consul vetus, nec libertatem nostram nec iusticiam evangelii Gallus invasurus est, qu&#281; ambo violare, imo adimere conabitur C&#281;sar.</s>
+					<s n="32" xml:lang="la" type="auto">H&#281;c nostros valde moverunt, ut Confoederatis obs&#281;cundarint.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Tu vale in Christo Iesu cum omnibus bonis.</s>
+					<s n="34" xml:lang="la" type="auto">Basile&#281; 9. octobris anno 1549.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">T[uus] Os[valdus] Myconius.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Sunt rumores hic Mussensem latronem tentare aliquid contra Vallem Tellinam et Clevam; si quid veri est, qu&#281;so, ne nos celes etc.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="37" xml:lang="la" type="auto">D. Heinricho Bullingero, viro doctissimo, in domino suo.</s>
+					<s n="38" xml:lang="la" type="auto">Tig[uri].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

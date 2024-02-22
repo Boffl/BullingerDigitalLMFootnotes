@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file367" type="Brief" source="TUSTEP" n="18311">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern AN Heinrich Bullinger / Z&#252;rich, [13. Dezember 1548]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 359,2832 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Uewer schriben mitt sampt Blarers brieff und Declaration hab ich empfangen 11. Decembris.</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>C.O. XIII, S. 127ff, Nr. 1108</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Zitat">
+								<title>B&#228;hler, Dekan J. Haller, in: NBT 28 (1923), 33</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Bouvier 132</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 68,171</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/367">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+					<date when="1548-12-13" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file368"/>
+					<ref type="prev_chronologically" target="file366"/>
+					<ref type="next_correspondence" target="file368"/>
+					<ref type="prev_correspondence" target="file340"/>
+					<ref type="next_correspondence_request" target="file368"/>
+					<ref type="prev_correspondence_request" target="file340"/>
+					<ref type="next_correspondence_reaction" target="file417"/>
+					<ref type="prev_correspondence_reaction" target="file320"/>
+					<ref type="next_same_sender" target="file368"/>
+					<ref type="prev_same_sender" target="file340"/>
+					<ref type="next_same_addressee" target="file386"/>
+					<ref type="prev_same_addressee" target="file359"/>
+					<ref type="next_with_sender_as_addressee" target="file368"/>
+					<ref type="prev_with_sender_as_addressee" target="file340"/>
+					<ref type="next_with_addressee_as_sender" target="file386"/>
+					<ref type="prev_with_addressee_as_sender" target="file359"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="95">Latein</language>
+				<language ident="de" usage="905">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/367%2FAutograph%2F00%20E_II_359__fol__2832_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">367/Autograph/00 E_II_359__fol__2832_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/367%2FAutograph%2F01%20E_II_359__fol__2832_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">367/Autograph/01 E_II_359__fol__2832_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/367%2FAutograph%2F02%20E_II_359__fol__2833_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">367/Autograph/02 E_II_359__fol__2833_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/367%2FAutograph%2F03%20E_II_359__fol__2833_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">367/Autograph/03 E_II_359__fol__2833_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gottes gnad und min willige dienst zu&#870;vor, lieber herr gfatter.</s>
+					<s n="2" xml:lang="de" type="auto">&#220;wer schriben mitt sampt Blarers brieff undt declaration habe ich empfangen 11. Decembris.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Darinn mich f&#252;rs erst nitt minder dann &#252;ch iglet und bek&#252;mmeret das ich verstan wie Calvino &#252;wer brieff durch mich &#252;berschickt nitt &#252;berantwortet syend: hett mich auch ee de&#223; tods versehen dann das der dem ichs so mitt sonderen tr&#252;wen befolhen nitt hett usgricht, nammlich <foreign xml:lang="la">Beatus Comes</foreign></s>
+					<s n="4" xml:lang="de" type="auto">Daran hab ich mich gla&#223;en und bin btrogen.</s>
+					<s n="5" xml:lang="de" type="auto">Nun wil ich hie uff inn halten wo ich mag, und nitt nachlan bis ich den briefen an ein end komm.</s>
+					<s n="6" xml:lang="de" type="auto">Ich vernimm erst sidhar das sitt er sich de&#223; predigampts abthon und beschempt sye nitt vil sonderer tr&#252;w noch redlikeit mee hinder imm.</s>
+					<s n="7" xml:lang="de" type="auto">Ich bitt &#252;ch aber umb gotts willen mich hierinn entschuldiget zu&#870; haben.</s>
+					<s n="8" xml:lang="de" type="auto">So ich min tr&#252;w hett k&#246;nnen schicken, ich hett gemeint, er wer bi disem versehen gsin.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Demnach denkend ir noch eins anderen schribens, das ir mir thon, sidhar ich von &#252;ch kain bin; das ich mir aber noch diser zyt nitt worden.</s>
+					<s n="10" xml:lang="de" type="auto">Ist mir worden.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Blarers halb schribend ir ernstlich, das ich mitt der antwurt yle und on verzug &#252;ch alles wider zu&#870; schicke.</s>
+					<s n="12" xml:lang="de" type="auto">Nun hab ich ee nitt k&#246;nnen noch m&#246;gen bottschafft han, das mir selbs angst ist, das es sich die tag verzogen.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Nun wellend ir, das ich nieman davon sage; das wil ich thu&#870;n; er bitt ouch &#252;ch, das irs bi &#252;ch bhaltind.</s>
+					<s n="14" xml:lang="de" type="auto"><foreign xml:lang="de">Nun habend ir mirs aber vertruwter meinung zu&#870; w&#252;&#223;en thon und schribend darby:</foreign> "Responde fideliter et libere, quid tibi videatur; vide autem, ut summam responsionis tuae etiam ego intelligam", <foreign xml:lang="de">u&#223; welchem ich abnimm, das &#252;wer meinung sye, das ich nitt nun &#252;ch, sonder auch Blareren antworte.</foreign></s>
+					<s n="15" xml:lang="de" type="auto">Nun wei&#223; ich nitt, ob es zu&#870; thu&#870;n, sitt mal er vilicht nitt gern haben w&#252;rde, so er vernem, das ir mir es alles zu&#870;gschickt.</s>
+					<s n="16" xml:lang="de" type="auto">De&#223;halb ich imm uff di&#223; mal n&#252;t antworten, wil &#252;ch hiemitt min theil befolhen han; ir werdend gw&#252;&#223;lich hierinn n&#252;t verh&#246;nen.</s>
+					<s n="17" xml:lang="de" type="auto">&#220;ch aber zu&#870; antworten, danck ich &#252;ch erstlich gantz tr&#252;lich, das ir mir hierinn n&#252;t verhaltend.</s>
+					<s n="18" xml:lang="de" type="auto">Dann wiewol mich nitt wol fr&#246;wt der handel selb, fr&#246;wt mich doch &#252;wer tr&#252;w fly&#223; und arbeit.</s>
+					<s n="19" xml:lang="de" type="auto">So vyl aber den handel blangt, turet mich &#252;bel, das es also als &#252;ber einen leist gmacht und der gu&#870;t Blarer auch an die kettinen kommen.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Den handel des nachtmals wie er inn erl&#252;teret m&#246;chte ich in gu&#870;tem verstand, wie ich auch achten das es Blarer alles gut meine, wol lassen bliben.</s>
+					<s n="21" xml:lang="de" type="auto">Dann je wir selb nitt haltend noch leerend das die zeichen win und brott von ir selbs wegen da, sonder das si uns anleitend und zeigend Christum desz (das ist alles desz das er uns erworben) wir durch den einigen glauben vehig und theilhafftig werdend.</s>
+					<s n="22" xml:lang="de" type="auto">Dorumb ouch frilich die gl&#246;ubig und danckbar betrachtung <foreign xml:lang="la">Christi Iesu</foreign> und sins lydens imm nachtmal das obrist und f&#252;rnempst sin sol und ob allen dingen getriben werden, dann wir sonst unwirdig davon e&#223;ind.</s>
+					<s n="23" xml:lang="de" type="auto">Durch welchen glauben sich uns Christus alweg mitteilt, und in uns zu&#870;nimpt vor, inn und noch dem nachtmal, und n&#252;t wyters darinn in dem nachtmal auch den gl&#246;ubigen, dann so vil die u&#223;er bed&#252;tlich action darzu&#870; kumpt, die unseren augen seliche gheimnu&#223; de&#223; tods Christi inbildet und f&#252;rtreit.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto">Denn ie kein ander mittel Christum und die gnad durch inn erworben zu&#870; erlangen und zu&#870; ergriffen dann der einig glaub und vertruwen in den hingebnen lyb und vergo&#223;en blu&#870;t, das auch Blarer selb bekennt.</s>
+					<s n="25" xml:lang="de" type="auto">Selche gmeinsamme schlie&#223;end wir nitt usz dem nachtmal der gl&#246;ubigen, gebends aber dem glauben allein, und nitt dem nachtmal zu&#870;.</s>
+					<s n="26" xml:lang="de" type="auto">Deszhalb mich das beduret und in unserer kilchen nitt luten wird, das wie er im anderen [...?] rett win und brot im nachtmal Christi sind nit l&#228;re nichtige zeichen sonder wirt damitt warlich, wo si mitt glauben gebrucht werdend, geben und geno&#223;en dasjhenig so dardurch zeichnet und angebildet wirt, nammlich der war lyb und blu&#870;t Christi.</s>
+					<s n="27" xml:lang="de" type="auto">Dise wort m&#246;gend schlechtlich an inen selbs on usgelegt mitt verletzung viler hertzen nit gebrucht werden, de&#223;halb er wol selcher embure und bruchte die so hernach von imm in der uslegung gesetzt werden.</s>
+					<s n="28" xml:lang="de" type="auto">Item auch das das er seit: Derhalben man nitt sagen soll das imm nachtmal nichts dann schlecht wyn und brot sye, geben und genommen werden, denn also w&#228;re kein underscheid zw&#252;schend dem nachtmal Christi und einer anderen z&#228;ch oder wyn &#252;rten etc.</s>
+					<s n="29" xml:lang="de" type="auto">Das treit auch sin suspition uff dem ruggen wo kein andere uslegung darzu&#870; kem, und bed&#246;rfft mins sinns der krummen rencken n&#252;t.</s>
+					<s n="30" xml:lang="de" type="auto">Man wei&#223;t wol das der gl&#246;ubig sich nitt uff brodt und win lendet sonder uff Christum.</s>
+					<s n="31" xml:lang="de" type="auto">Man wei&#223;t aber auch das ja so vil die u&#223;er action blanget ja n&#252;t anders dann brot und win da ist, und ist drumb kein purenzech sonder ein helige gheimnu&#223; des heilmachenden tods Christi.</s>
+					<s n="32" xml:lang="de" type="auto">Dorumb man wol als bald gseit hette der mensch sol nitt uff brot und win hafften sonder das lyden mit warem glauben ergriffen, als das man seit imm nachtmal sye nitt schlecht brott und wyn etc.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Nun der anderen volgenden stucken bin ich also zu&#870; friden das obwol si alle zu&#870; betrachtung de&#223; nachtmals geh&#246;rend das doch in keim allein der gantz bruch des nachtmals ustruckt werde.</s>
+					<s n="34" xml:lang="de" type="auto">La&#223; auch gern zu&#870; das der glaub in den tod Jesu das f&#252;rnempst sye das hiebi erforderet wirt, durch welchen wir in die gmeinsamme Christi und siner gu&#868;teren k&#246;mend.</s>
+					<s n="35" xml:lang="de" type="auto">Doch das die gemeinsamme dem nachtmal nitt angebunden oder etwas mer zu&#870;geben werde, dann auch dem glauben u&#223;ert dem nachtmal.</s>
+					<s n="36" xml:lang="de" type="auto">Acht auch nitt das selichs weder zu&#870; kurtz noch zu&#870; stumpf von dem nachtmal gerett oder gehalten sye.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="de" type="auto">Das es auch das nachtmal Christi dorumb genempt werde das uns Christus etwas darinn gebe, hatt nitt vil grundts.</s>
+					<s n="38" xml:lang="de" type="auto">Er hatt sich einmal uns allen gen amm cr&#252;tz.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">De&#223; gebens gedechtnu&#223; ist das nachtmal und umb der gedechtnu&#223; willen der einmal geben schencke hei&#223;t es das nachtmal Christi.</s>
+					<s n="40" xml:lang="de" type="auto">Denn so es das nachtmal Christi hie&#223;e darumb wie er seit, so volgte das er etwas anders gebe, mer dann dem gl&#246;ubigen u&#223;ert dem nachtmal.</s>
+					<s n="41" xml:lang="de" type="auto">Zu&#870; dem do es der Herr insetzt seit er uns worumb und was wir thu&#870;n s&#246;llind, seit nitt vil das er sich uns da mer geben und mitteilen welle anders dann durch den glauben alle zyt.</s>
+					<s n="42" xml:lang="de" type="auto">Dorumb es mich ouch zu&#870; scharpf und spitz, diewyl er meint das ander sye stumpf, dunckt das das nachtmal Christi nachtmal dorumb gnempt werd das Christus da uns ETWAS thu&#868; und gebe, er uns spys und trenck nitt allein mitt wyn und brot sonder mitt sinem selbs eignen lyb und blu&#870;t zum ewigen l&#228;ben, wie er dann seit: nemmend e&#223;end das ist min lyb etc.</s>
+					<s n="43" xml:lang="la" type="auto">Quod EST dicit pro significat accipi posse, merito quidem facit.</s>
+					<s n="44" xml:lang="de" type="auto">Das er Irenaeum anz&#252;cht, thu&#868;nd alle Bucerani, aber gw&#252;&#223; anderer meinung dann es Irenaeus grett.</s>
+					<s n="45" xml:lang="de" type="auto">Zu&#870; dem so ist das wr&#246;tli: &#252;berreicht so gar argw&#246;nig, denn wenn man nitt dardurch verston wil das &#252;berreichen das der diener thu&#870;t, sonder die mitteilung der gnaden gottes den gl&#246;ubigen, so allweg nitt nun imm nachtmal gschicht, m&#246;cht man imm wol ein bequemer w&#246;rtli finden, dann das &#252;bereichen nun zvil uff den diener luten wil.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="de" type="auto">Das das w&#246;rtli DAS dem glouben uff das himmlisch zeige lasz ich nach.</s>
+					<s n="47" xml:lang="de" type="auto">Das by&#223;t mich aber auch das darbi stat: welche himmlische ding den gl&#246;ubigen nitt minder gegenwirtig sind, auch geben und von inen empfangen werden, dann das irrdisch win und brot dem liplichen gesicht henden und mund.</s>
+					<s n="48" xml:lang="de" type="auto">Ja dise hohe himmelische ding werdend in disem nachtmal F&#220;RNEMLICH gereicht und empfangen.</s>
+					<s n="49" xml:lang="la" type="auto">In summa, videntur aliam et pleniorem in coena statuere exhibitionem quam extra coenam fidelibus.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="de" type="auto">DE MODO turet mich das er auch wie andere immerdar seit wie man menschliche fantasyen u&#223;schlahen m&#252;&#223;, als ob wir selb nitt w&#252;&#223;ind, das der war glaub nitt u&#223; fleisch und blu&#870;t komm.</s>
+					<s n="51" xml:lang="de" type="auto">Ir w&#252;&#223;t aber, das man mitt dem u&#223;schlie&#223;en der vernunfft vil ein anders usgschlo&#223;en hatt und ja f&#252;r ein fleischliche vernunfft uns zu&#870; grechnet was wir je zu&#870; erhaltung der waren menscheit Christi gerett, das mag sich under dem auch noch verbergen.</s>
+				</p>
+				<p>
+					<s n="52" xml:lang="de" type="auto">Vom wort hand Sultzer und Batt vil wunder gmacht, alwegen das wort verstanden: <foreign xml:lang="la">hoc est corpus meum.</foreign></s>
+					<s n="53" xml:lang="de" type="auto">Ich verstan aber durch das wort die predig de&#223; evangelii.</s>
+				</p>
+				<p>
+					<s n="54" xml:lang="de" type="auto">Vom miraculo bin ich auch zu&#870;friden, und de&#223;e sunderlich das er zum letsten bkennt u&#223; Ioan[nis] 6. das e&#223;en anders n&#252;t sye dann glauben.</s>
+				</p>
+				<p>
+					<s n="55" xml:lang="de" type="auto">In summa ich gsich wol das er den handel wol verstat, allein neis was gremplens macht de&#223; er mit sampt anderen wol enb&#252;re.</s>
+					<s n="56" xml:lang="de" type="auto">Sin bscheidenheit aber gfallt mir.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="de" type="auto">Von Calvino la&#223; ich imm sin urtheil, ich hab inn auch glesen und sag f&#252;r mich, das ich in vil orten perplexus bin worden bi im<note type="misc">2833b</note>.</s>
+					<s n="58" xml:lang="de" type="auto">Bucers halb bschwert mich fa&#223;t.</s>
+					<s n="59" xml:lang="de" type="auto">Ich la&#223; inn sin der er ist.</s>
+					<s n="60" xml:lang="de" type="auto">Schilt inn nitt temere wei&#223; aber zgu&#870;tem theil was er ghandelt.</s>
+					<s n="61" xml:lang="de" type="auto">Hie gillt er gar n&#252;t und billich.</s>
+					<s n="62" xml:lang="de" type="auto">So er inn vil schirmen wett wurd n&#252;t s&#246;llen.</s>
+					<s n="63" xml:lang="de" type="auto">Ich h&#246;r imm so offt der ma&#223; zwahen, das mich selbs dunckt, es gang ettwan gnu&#870;g grob ab.</s>
+				</p>
+				<p>
+					<s n="64" xml:lang="de" type="auto">Und dorumb min herr gvatter, uff das alles was soll ich rathen?</s>
+					<s n="65" xml:lang="de" type="auto">Ich bin in der sach selbs bstanden.</s>
+					<s n="66" xml:lang="de" type="auto">Der leer halb versehe ich mich er wurd sich bgen wie er selbs schript: <foreign xml:lang="la">Loquendi formulas scimus apud alios alias esse.</foreign></s>
+					<s n="67" xml:lang="la" type="auto">Hic vero singulis ecclesiis suam permittamus libertatem, sic omnia moderantes ut neminem, quoad eius fieri potest, offendamus.</s>
+					<s n="68" xml:lang="de" type="auto">So er das hie thet, st&#252;nd es dest bas.</s>
+					<s n="69" xml:lang="de" type="auto">Aber, das er also amm Bucer (de&#223; anhang hie usbutzt ist) hanget, bschwert mich &#252;ber d'ma&#223;.</s>
+					<s n="70" xml:lang="la" type="auto"><foreign xml:lang="de">Wenn er uns denn vil mitt der communion plagen wett und imm die</foreign> contemplatio fidei <foreign xml:lang="de">nitt gnu&#870;gsam wer und die</foreign> exhibitio, quae soli semper fit fidei tam extra quam intra coenae usum, nam (non?) qui hic externum accedit symbolum, <foreign xml:lang="de">so kem man einanderen lichtlich ins har.</foreign></s>
+					<s n="71" xml:lang="de" type="auto">Allein sin moderatio tr&#246;st mich hierinn, da&#223; ich hoffe, er wurde kein zanck machen und auch mitt uns als wol zu&#870; friden sin als wir mitt imm.</s>
+					<s n="72" xml:lang="de" type="auto">De&#223;halb ich f&#252;r mich weder ja noch nein sagen kan.</s>
+					<s n="73" xml:lang="de" type="auto">Ich hett inn gern; truckt mich doch der knopf, und wei&#223; ich wol, so ich minen symmistis das offnete, so wer kein gnad nienen da.</s>
+					<s n="74" xml:lang="de" type="auto">Dorumb ich &#252;ch, mim lieben herren und vatter den gantzen handel befilch als dem verstendigeren.</s>
+					<s n="75" xml:lang="de" type="auto">Ach gott, ich bin hierinn noch ein kind, dorumb ich auch dest bschwerlicher die burdi diser kilchen trag; glaub auch alweg lieber das be&#223;er, f&#252;rcht doch immer, ich werd btrogen.</s>
+				</p>
+				<p>
+					<s n="76" xml:lang="de" type="auto">Dorumb antwortend imm &#252;wers gfallens, dem ich mich gentzlichen underwirffen.</s>
+					<s n="77" xml:lang="de" type="auto">So er sich aller ding me&#223;igen mag und nitt nun der 4. schlu&#223;red, sonder auch dem, so zu&#870; erhaltung derselben disput[at]ion ist, zu&#870;stan mag, imm namen gotts so hoff ich gu&#870;ts; wo nitt, so ist weger, wir plibind r&#252;wig, damitt er auch r&#252;wig sye; wend n&#252;t dest minder in aller fr&#252;ntschafft ungetheilt sin.</s>
+					<s n="78" xml:lang="de" type="auto">Ich bitt &#252;ch auch fr&#252;ntlich, ir wellind mir di&#223; min ungerimpt schriben und antwort nitt f&#252;r &#252;bel han.</s>
+					<s n="79" xml:lang="de" type="auto">Es ist h&#252;tt jarmarckt, und hab ich wol hundert pfarrer umb mich, machend mich schier taub.</s>
+					<s n="80" xml:lang="la" type="auto">Illi fecerunt etiam, ut ita tumultuarie omnia congesserim; tua pro humanitate tua singulari boni consule et me tuum fore perpetuo certo scias.</s>
+				</p>
+				<p>
+					<s n="81" xml:lang="la" type="auto">Bernae 13. Decembris.</s>
+					<s n="82" xml:lang="la" type="manual"><foreign xml:lang="de">Gru&#868;tzend mir und miner husfrawen &#252;wer gantz hus und D. Musculum,</foreign> cui iam propter occupationes nimias scribere non possum; excusa me, non immemor ero illius.</s>
+				</p>
+				<p>
+					<s n="83" xml:lang="la" type="auto">Tuus ex animo Ioannes Hallerus.</s>
+				</p>
+				<p>
+					<note>[Z&#252;rich StA, E II 370a, 542 Bern, wohl Schluss mit Adresse v. 13. Dez. 1548]</note>
+					<s n="84" xml:lang="de" type="auto">Min herren, beid seckelmeister und venner im Hag, sind zu&#870; Basell; wil &#252;wer gru&#868;tz usrichten, so si wider kommind.</s>
+				</p>
+				<p>
+					<s n="85" xml:lang="de" type="auto">Minendthalb sind si nitt wol zfriden, das inen undt mir ungliche antwort zu&#870; Z&#252;rich geben.</s>
+					<s n="86" xml:lang="de" type="auto">Burgermeister Hab hatt inen zu&#870; antwort gen, min herren habend mich inen vergunnt, wie si gebetten; so hatt mir der underschriber Bygel die antwort gen, min herren habind mich nach luth mins brieff noch bis uff Joannis vergunnt.</s>
+					<s n="87" xml:lang="de" type="auto">De&#223; hab ich ein gschrifftlich urkund gnommen.</s>
+					<s n="88" xml:lang="de" type="auto">Verdr&#252;&#223;t min herren, das inen nun her burgermeister anders geantwort, denn aber von minen herren gerathen.</s>
+					<s n="89" xml:lang="de" type="auto">Ich glaub schier, er wett mich gern gar hiehar stecken.</s>
+				</p>
+				<p>
+					<s n="90" xml:lang="de" type="auto">Musculi sach stat noch an also, das min herren bedunckt, gu&#870;t zu&#870; sin zu&#870; warten, ob Blarer komm oder nitt; komm er, so werd er auch helffen, das es dest ee gange; komme er nitt, so hab man dest mer anla&#223;, inn zu&#870; beru&#868;ffen.</s>
+					<s n="91" xml:lang="de" type="auto">Ich wil n&#252;t versumen, mu&#870;&#223; jetz warten, bis si von Basel kommend.</s>
+					<s n="92" xml:lang="de" type="auto">Herr Jos und Waeberus hand mir mitt keim wort nie dacht, was ir inen gschriben.</s>
+					<s n="93" xml:lang="de" type="auto"><foreign xml:lang="de">Ich han obiter anzogen, was ir Musculi halb mitt mir grett;</foreign> sed illi videntur antiquum obtinere.</s>
+					<s n="94" xml:lang="la" type="auto">Bonus Eberhardus suspicatur et metuit, ne ipse vocato Musculo degradetur; quod tamen non fiet, modo non sibi nimium metueret.</s>
+				</p>
+				<p>
+					<s n="95" xml:lang="de" type="auto">Indem ich di&#223; schriben, kumpt mir diser brieff von Farello mittsampt einem anderen an mich.</s>
+					<s n="96" xml:lang="de" type="auto">Si schleicktend sich gern in synodum; aber es bschicht nitt.</s>
+				</p>
+				<p>
+					<s n="97" xml:lang="de" type="auto">Es ist auch in disem schriben kommen Hans Mangold und mir den anderen brieff bracht mitt sampt dem bimenzelten und beden zuckerhu&#868;tli.</s>
+					<s n="98" xml:lang="de" type="auto">Min husfraw und ich danckend &#252;ch, &#252;wer husfrawen und gfatter Elsbet zum h&#246;chsten.</s>
+					<s n="99" xml:lang="de" type="auto">Gott gebe &#252;ch allein ein seligs jar und benedye &#252;ch an lyb und seel!</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="100" xml:lang="la" type="auto">Excellentissimo viro D. Heinrycho Bullingero, Tigurinae ecclesiae antistiti fidelissimo, domino et compatri suo venerando.</s>
+					<s n="101" xml:lang="de" type="auto">M. Heinrych Bullinger zu&#870; Z&#252;rich in yl zu&#870; &#252;berantworten.</s>
+				</p>
+				<p>
+					<note>[Am Schluss des Textes ist von anderer Hand "1550" beigesetzt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

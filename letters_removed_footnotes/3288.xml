@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3288" type="Beilage" source="TUSTEP" n="27183">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / [Chur] AN [Heinrich Herzog von Guise (de Lorraine)] / [Chur], 31. August 1557</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Beilage" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Kopie">E II 375,501b</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<author>Fabricius, Johannes</author>
+							<incipit>Insignis tua erga deum pietas et praeclara erga rempublicam christiana merita, quae multorum quidem celebrantur laudibus</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>de Porta, Hist. Ref. eccl. Raet. I, 2, S. 330f</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 90,88a-b</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Regest" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 90,88c</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/3288">
+				<correspAction type="sent">
+					<roleName ref="g26" type="pl" role="Geistliche" cert="low"/>
+					<placeName source="l98" cert="low"><orig>Chur</orig></placeName>
+					<date when="1557-08-31" cert="low"><note>Beilage  (zu 1557 August 31.) (= ID 3287)  (Fabricius)</note></date>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8621" cert="low">
+						<!--
+						<surname cert="low">Herzog von Guise (de Lorraine)</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/8621_von_Guise_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Henri_I._de_Lorraine,_duc_de_Guise"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/102478996"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="low"><orig>Chur</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file3289"/>
+					<ref type="prev_chronologically" target="file3287"/>
+					<ref type="next_same_sender" target="file3435"/>
+					<ref type="prev_same_sender" target="file2799"/>
+					<ref type="next_with_sender_as_addressee" target="file3435"/>
+					<ref type="prev_with_sender_as_addressee" target="file2799"/>
+					<ref type="parent" target="file3287"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="9">Deutsch</language>
+				<language ident="la" usage="991">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/3288%2FKopie%2F00%20E_II_375__fol__501_b_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">3288/Kopie/00 E_II_375__fol__501_b_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/3288%2FKopie%2F01%20E_II_375__fol__501_b_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">3288/Kopie/01 E_II_375__fol__501_b_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Insignis tua erga deum pietas (illustrissime princeps) et praeclara erga rempublicam christiana merita, quae multorum quidem celebrantur laudibus, inprimis autem clarissimi viri Mathaei Cogneti nobis innotuerunt praeconiis, fecerunt, ut celsitudinem tuam nos ministri, qui evangelium Christi in Rhetia praedicamus, non veriti simus supplices accedere demisse rogantes, ut postulati nostri summam quandam ex scripto, quod coram exhibemus, clementer cognoscere minime gravetur</s>
+					<s n="2" xml:lang="la" type="auto">Quanta regibus galliae cum gente nostra necessitas et consuetudo iam inde a maiorum nostrorum memoria intercedat, nemo est, illustrissime princeps, qui ignoret.</s>
+					<s n="3" xml:lang="la" type="auto">Sed quam hactenus in nostros per totam Galliam crudeliter saevitum, quam nullum supplici(i) genus sit praetermissum, quo in discrimine etiam nunc versentur, qui sententiis et voluntate nobis coniuncti sunt, res (proh dolor) loquitur ipsa.</s>
+					<s n="4" xml:lang="la" type="auto">Hinc factum est, quod vetus regum Galliae cum gente nostra amicitia languere quasi et frigere incipiat.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Quid enim mirum est, si nostri remissius agunt, si nos quoque ministri evangelii in Rhetia regis causam deserimus, quem tam male erga causam nostram affectum esse non sine magno animi dolore experimus?</s>
+					<s n="6" xml:lang="la" type="auto">Scimus equidem, quo nomine quidam male propitii doctrinam nostram apud christianissimum regem infamare et invisam reddere conentur.</s>
+					<s n="7" xml:lang="la" type="auto">Hanc aiunt regnis et imperiis exitiosam esse et propterea ex regnis profligandam et exterminandam.</s>
+					<s n="8" xml:lang="la" type="auto">Haec et alia aeque dira plures in nos odii acerbitate, sed immerito tamen confingunt contorquentque; sed experientia ipsa docet et scripta nostrorum hominum abunde testantur doctrinam nostram magistratus divinitus ordinatos non modo non tollere aut evertere, sed etiam stabilire et confirmare.</s>
+					<s n="9" xml:lang="la" type="auto">Non honores, non opes, non regna appetimus; afflicto et pauperi Christo tectum et hospitium apud christianissimum Galliae regem supplices quaerimus et te, illustrissime princeps obtestamur et rogamus per eundem dominum nostrum Iesum Christum, qui venturus est iudicare vivos et mortuos, ut pro ea, qua apud regem polles, authoritate et gratia, nostri, imo exulantis Christi et totius ecclesiae patrocinium suscipere non graveris, praesertim cum haec doctrina nostra tam longe lateque disseminata et propagata sit, ut non ferro amplius, non igni deleri aut exuri possit, quae ut martyrum sanguine plantata est, ita quotidie eorundem sanguine foecundioribus pullulescit incrementis.</s>
+					<s n="10" xml:lang="la" type="auto">Testatur id inprimis Gallia testatur Germania, testatur ipsa experientia.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Cum ergo hactenus minis et terroribus nihil effectum sit, credibile est religionis dissidia non ferro et igni, sed ex praescripto verbi divini concilianda esse et componenda, cuius hactenus securissimus contemptus utinam non causa sit maximarum calamitatum, quae catervatim non in Galliam modo, sed totum christianum orbem incumbunt.</s>
+					<s n="12" xml:lang="la" type="auto">Cum ergo nihil sit illustrius, nihil principe dignius quam oppressos sublevare, ad tuam opem, illustrissime princeps confugimus et enixe abs te precibus nostris demisseque contendimus, ut, quam primum potes, has humiles nostras et pias preces christianissimo regi innotescere patiaris, cui et nos et ecclesiam Christi, qua potes, diligentia commendabis etc.</s>
+					<s n="13" xml:lang="la" type="auto">Clementiae tuae deditissimi ministri evangelium Christi praedicantes in Tribus Foederibus Rhetiae.</s>
+				</p>
+				<p>
+					<note>[Zusatz von Fabricius:]</note>
+					<s n="14" xml:lang="la" type="auto">Rogarem te, reverende pater, ut corrigeres, sed timeo, ne denuo ad me perferri queat ante ducis adventum.</s>
+					<s n="15" xml:lang="la" type="auto">Clarissimo viro eruditione et pietate excellenti d. Heinrycho Bullingero, ecclesiae Tigurinae antistiti fidelissimo, domino et mecoenati suo.</s>
+					<s n="16" xml:lang="de" type="auto">An herren Bullingern.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Z&#252;rich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

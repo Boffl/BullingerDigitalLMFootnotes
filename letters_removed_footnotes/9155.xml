@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file9155" type="Brief" source="TUSTEP" n="43001">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Tobias Egli (Iconius, G&#246;tz)] / [Chur] AN Heinrich Bullinger / Z&#252;rich, 5. Januar 1573</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 377,2555</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Nondum, cum haec scriberem, mercatores ad nos nostri reversi erant; idcirco intelligere non potuimus</incipit>
+							<textLang>el</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. III, S. 394f Exc., Nr. 345</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/9155">
+				<correspAction type="sent">
+					<persName ref="p8016" cert="low">
+						<!--
+						<surname cert="low">Egli (Iconius, G&#246;tz)</surname>
+						<forename cert="low">Tobias</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Tobias_Egli"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/1089466366"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="low"><orig>Chur</orig></placeName>
+					<date when="1573-01-05" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file9156"/>
+					<ref type="prev_chronologically" target="file9154"/>
+					<ref type="next_correspondence" target="file9158"/>
+					<ref type="prev_correspondence" target="file9154"/>
+					<ref type="next_correspondence_request" target="file9165"/>
+					<ref type="prev_correspondence_request" target="file9143"/>
+					<ref type="next_correspondence_reaction" target="file9158"/>
+					<ref type="prev_correspondence_reaction" target="file9154"/>
+					<ref type="next_same_sender" target="file9165"/>
+					<ref type="prev_same_sender" target="file9143"/>
+					<ref type="next_same_addressee" target="file9157"/>
+					<ref type="prev_same_addressee" target="file9154"/>
+					<ref type="next_with_sender_as_addressee" target="file9165"/>
+					<ref type="prev_with_sender_as_addressee" target="file9143"/>
+					<ref type="next_with_addressee_as_sender" target="file9157"/>
+					<ref type="prev_with_addressee_as_sender" target="file9154"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="el" usage="3">Griechisch</language>
+				<language ident="de" usage="15">Deutsch</language>
+				<language ident="la" usage="982">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/9155%2FAutograph%2F00%20E_II_377__fol__2555_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">9155/Autograph/00 E_II_377__fol__2555_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/9155%2FAutograph%2F01%20E_II_377__fol__2555_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">9155/Autograph/01 E_II_377__fol__2555_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/9155%2FAutograph%2F02%20E_II_377__fol__2555_a_v_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">9155/Autograph/02 E_II_377__fol__2555_a_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Nondum, reverendissime d. pater, cum haec scriberem, mercatores ad nos nostri reversi erant; idcirco intelligere non potuimus, quid ex comitiis Helveticis inauspicati perceperitis.</s>
+					<s n="3" xml:lang="la" type="auto">Gravissimus autem apud nostros rumor percrebuit Evangelicas etiam ex Helvetico foedere Urbes regis approbare amicitiam, quam optimi quique sartam tectam minime volunt, puto propter scelus regia maiestate indignissimum.</s>
+					<s n="4" xml:lang="la" type="auto">Ego autem vehementer doleo literas ad Rhaetos esse missas nomine Pagorum Tredecim, quibus non modo suspicionibus pravis involvuntur innocentes, sed et foederi cum Gallo ineundo et confirmando prodest et ad militem, quamprimum confirmata haec amicitia fuerit, evocandum singulare adiumentum erit.</s>
+					<s n="5" xml:lang="la" type="auto">In quem usum vero miles Rhaetus cum Pagano milite evocetur, tandem lippis et tonsoribus notum est</s>
+					<s n="6" xml:lang="la" type="auto">Sic metuo, ne minimam occasionem praebeant evangelici seque suamque patriam et ecclesiam debellandi.</s>
+					<s n="7" xml:lang="la" type="auto">Nunquam cum immanissimo isto latrone roboraretur amicitia nostra, nisi Helvetiorum literae supervenissent, quibus simplicioribus deum immortalem quantum imponatur, vix fidem meretur.</s>
+					<s n="8" xml:lang="la" type="auto">Potuissent bonorum iudicio hii, quibus laniena Gallica displicet, protestari, sibi nullam partem in Rhaetis armandis futuram pro Gallo perfido latrone et truculentissima bestia.</s>
+					<s n="9" xml:lang="la" type="auto">20. decembris reversus est amplissimus d. consul Willius noster Oeniponte</s>
+					<s n="10" xml:lang="la" type="auto">Is mihi retulit, postquam divertissent illic ad Cervum, simul abbatem quendam de Monte Mariae Virginis<note type="margin">dazu a.R.: non procul ab Oeniponte</note>, cuiusdam monasterii huius nominis, eodem usum hospicio, cum Helvetios nostros illos crederet esse, dixisse: 'Quaeso, viri Helvetii, nostisne Wegmannum</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Tigurinum, quem domi meae sive in monasterio <foreign xml:lang="de">(unser Frouwen berg)</foreign> meo foveo et summopere diligo et observo, utpote virum catholicissimum et valde industrium?</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Spem ille mihi aperuit fore brevi, ut Tigurini, sapientissimi domini, reiecto evangelio papismum reducant, ad quem erigendum plurimorum invigilent animi.'</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Exhorrui, cum haec narrantem audirem, et facile olfeci, sub quo vellere perfidus ille sese tegeret.</s>
+					<s n="14" xml:lang="la" type="auto">Utinam istuc gaudium abbatis et spes omnes tenues scribantur in aquas!</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Miror, num videris libellum Latinum sub nomine Petri Carpenterii iurisconsulti foras datum, in quo sub epistolae forma ad Franciscum Portum Cretensem exaratae docetur persecutiones ecclesiarum Galliae non culpa eorum, qui religionem profitebantur, sed eorum, qui factionem et conspirationem (quae causa appellabatur) fovebant, accidisse</s>
+					<s n="16" xml:lang="la" type="auto">Est illa venenata epistola et, ut Gallus quidam doctissimus (qui hic Curiae delitescit exque incendio vix evasit perque manus A. hunc libellum mihi legendum obtulit) iudicat, non Carpenterii calamum, sed Balduini Andeq. potius, apostatae illius, esse, qui doctissimum et piissimum virum d. Theodorum Bezam, quem ille conviciator Iulianus Sebam seditiosum vocat, data opera magnaque, imo singulari cum voluptate ita laceret, eo quod correctiones et reprehensiones illius ferre olim noluerit et potius in castra pontificia sive papistica transierit, quam disciplinae christianae patiens esse voluerit.</s>
+					<s n="17" xml:lang="la" type="auto">Mirifice simulat professionem religionis, a qua pontificem, ut vocat, furiamque Bezam <foreign xml:lang="el">&#948;&#953;&#963; &#948;&#953;&#945; &#960;&#945;&#963;&#962;&#957;</foreign> abesse improbe calumniatur.</s>
+					<s n="18" xml:lang="la" type="auto">Optandum esset, ut sub eodem causariorum titulo haec tela quam acerrime in ipsos latrones retorquerentur.</s>
+					<s n="19" xml:lang="la" type="auto">Plura repperit falsissima in illa historia Gallus ille, quae notata brevi mecum communicabit.</s>
+					<s n="20" xml:lang="la" type="auto">Fuit autem Ferrariensis dominae sive ducissae aulae non infimus etc.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Haec ad te nunc habui et quam ocyssime exaravi.</s>
+					<s n="22" xml:lang="la" type="auto">Ignoscat mihi reverentia tua.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Salutant tuam reverentiam d. consul, d. Campellus, d. Carolus etc.</s>
+					<s n="24" xml:lang="la" type="manual">1573.</s>
+					<s n="25" xml:lang="la" type="auto">5. ianuarii.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Tuae praestantiae addictissimus Th[obias] Ic[onius].</s>
+					<s n="27" xml:lang="la" type="auto">Salutem, quaeso, et tuis omnibus et d. Hallero, affini meo charissimo, ascribas nostro nomine.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Amplissimo viro d. d. Heinrycho Bullingero, Tigurinae ecclesiae antistiti praeclarissimo, d. suo singulari observantia colendissimo.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de" type="auto">Z&#252;rich an h. pfarrer zum Grosen M&#252;nster.</s>
+				</p>
+				<p>
+					<note type="remark">[Bemerkung von Bullingers Hand:]</note>
+					<s n="30" xml:lang="la" type="auto">De Wegmanno consulis Willii relatio.</s>
+					<s n="31" xml:lang="la" type="auto">De Carpenterio ianuario mense 1573.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

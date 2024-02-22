@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1426" type="Brief" source="TUSTEP" n="21232">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Bern AN Heinrich Bullinger / Z&#252;rich, 8. Oktober 1551</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 370,151 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Principio congratulor tibi et filie tuae Elizabethe plurimum de novis nuptis</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>B&#228;hler, Haller, in: NBT 29, 40 f.</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 76,28</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1426">
+				<correspAction type="sent">
+					<persName ref="p8018" cert="high">
+						<!--
+						<surname cert="high">Haller d.J.</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1430_Haller_dJ_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Haller_der_J%C3%BCngere"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/136925588"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413871"/>
+						-->
+					</persName>
+					<placeName source="l41" cert="high"><orig>Bern</orig></placeName>
+					<date when="1551-10-08" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1427"/>
+					<ref type="prev_chronologically" target="file1425"/>
+					<ref type="next_correspondence" target="file1445"/>
+					<ref type="prev_correspondence" target="file1416"/>
+					<ref type="next_correspondence_request" target="file1445"/>
+					<ref type="prev_correspondence_request" target="file1416"/>
+					<ref type="next_correspondence_reaction" target="file1829"/>
+					<ref type="prev_correspondence_reaction" target="file417"/>
+					<ref type="next_same_sender" target="file1445"/>
+					<ref type="prev_same_sender" target="file1416"/>
+					<ref type="next_same_addressee" target="file1432"/>
+					<ref type="prev_same_addressee" target="file1423"/>
+					<ref type="next_with_sender_as_addressee" target="file1445"/>
+					<ref type="prev_with_sender_as_addressee" target="file1416"/>
+					<ref type="next_with_addressee_as_sender" target="file1432"/>
+					<ref type="prev_with_addressee_as_sender" target="file1423"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="2">Deutsch</language>
+				<language ident="la" usage="998">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1426%2FAutograph%2F00%20E_II_370__fol__151_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1426/Autograph/00 E_II_370__fol__151_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1426%2FAutograph%2F01%20E_II_370__fol__151_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1426/Autograph/01 E_II_370__fol__151_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1426%2FAutograph%2F02%20E_II_370__fol__152_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1426/Autograph/02 E_II_370__fol__152_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1426%2FAutograph%2F03%20E_II_370__fol__152_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1426/Autograph/03 E_II_370__fol__152_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Principio congratulor tibi et fili&#281; tuae Elizabeth&#281; plurimum de novis nuptiis, et ut foelix faustumque sit coniugium, mitto illi munnulum hunc nomine filiol&#281; meae, qu m ipsa suscepit, testem nostrorum super illius foelicitate votorum.</s>
+					<s n="3" xml:lang="la" type="auto">Quod alia attinet, multa et varia occurrunt scribenda.</s>
+					<s n="4" xml:lang="la" type="auto">Ago tib gratias pro consilio vestro senatui Tigurino super consilii propositione dato.</s>
+					<s n="5" xml:lang="la" type="auto">Nondum descriptum est totum; alioqui per hunc misissem, remittam tamen proxime.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Deinde quod petis, ut de Adamo Fry</s>
+					<s n="7" xml:lang="la" type="auto">Quali sit alias capite praedic[?]tus, nosti, unde ludibrio omnibus studiosis, nec video spem esse aliquam illi alicuius conditionis; nam etsi mentis esset compos et cerebri defecati, tamen facies prorsus morionem refert.</s>
+					<s n="8" xml:lang="la" type="auto">Discessit tamen hinc ante mensem profecturus Tigurum ad festum illud civicum Felicis et Regul&#281;; interea non vidi eum; forte apud vos est, ubi eum manere vellem.</s>
+					<s n="9" xml:lang="la" type="auto">Alter, Fry videlicet, quod studia attinet, ab illo altero parum differt; quia tamen de suo vivit nec aliquid ambit, minor illius habetur ratio.</s>
+					<s n="10" xml:lang="la" type="auto">Nihil tamen inhonesti de utroque praedicare possum.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Fryo ante duos menses 2 fl. dedi mutuo, quos pollicebatur se mihi intra mensem redditurum; sed nihildum dedit dicens a patre suo se interea nihil accepisse, cum tamen pater eius me Tiguri, cum illic essem, convenisset et promitteret brevi se illi missurum pecunias.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">De Eberhardo scripsi copiose omnem historiam ad Frisium, qui hoc abs me flagitavit quoque; ab eo petes, si velis plura.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Dominus inspexit et composuit omnia illumque, ne in deteriora rueret, praevenit simulque suum in illo iudicium non obscure declaravit, siquidem 4. octobris apud S. Urbanum ex peste decessit, pacifice quidem, ut audio, sine tamen ulla ullius fidei confessione.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Es Thermis nihildum audimus; rogo, ut, ubi habueris aliquid, cito scribas.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Obiit in Gallia dux de Longa Villa, comes Neocomensis, puer adhuc vel adolescens 16, ut audio, annorum.</s>
+					<s n="16" xml:lang="la" type="auto">Duo sunt heredipetae.</s>
+					<s n="17" xml:lang="la" type="auto">Prudentiores metuunt hinc quoque aliquid turbarum, Caesarem quoque comitatum Neocomensem appetiturum, cum feudum sit domus Burgundi&#281; et dux ille sine liberis decesserit.</s>
+					<s n="18" xml:lang="la" type="auto">In Gallia certum est exhibitum fuisse regi Gallo catalogo(!) omnium nobilium Lutheranorum seu potius christianorum; invenit ibi primarios proceres et consiliariorum aliquos, ad quingentos usque, ita ut valde exterritus dixerit: "Quid agam?</s>
+					<s n="19" xml:lang="la" type="auto">hosne comburam?</s>
+					<s n="20" xml:lang="la" type="auto">Nunquam faciam, praesertim cum ipsorum opera mihi hoc tempore tam sit necessaria."</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">De Negelini filio scripsi proxime.</s>
+					<s n="22" xml:lang="la" type="auto">Nunc de alterius consulis filio, scilicet a Wattenwyl, qui fuit apud Caesarem; fertur, quod et ipse Caesareana castra sequens a Gallis sit spoliatus multis suis comitibus interemptis et quod vix ipse sit fuga elapsus; nondum tamen h&#281;c tam sunt certa quam ea de Negelino.</s>
+					<s n="23" xml:lang="la" type="auto">Ita utrinque dominus admonet eos, cum nostrae monitiones nihil proficiant.</s>
+					<s n="24" xml:lang="la" type="auto">De Caesaris apparatu feruntur mira; illum Augusta discessisse negant, quotquot recta inde veniunt, sed Mariam equis citatis venisse ex Brabantia ad illum Augustam.</s>
+					<s n="25" xml:lang="la" type="auto">Fertur conscribi milites Lauffenburgi in vicinia nostra et passim in Germania, solutam obsidionem Magdeburgi.</s>
+					<s n="26" xml:lang="la" type="auto">Sed tu de his certiora habebis.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Quod Trahernum nostrum attinet, redit ad vos; hic enim nihil vacat, et multi sunt expectantes.</s>
+					<s n="28" xml:lang="la" type="auto">Spero per vos fieri posse, ut aut in Rhetia, Glarona, Turgavia aut circa considere possit aut ut aliquantisper, sicut in tuis ad me literis illi spem fecisti, apud vos foveatur.</s>
+					<s n="29" xml:lang="la" type="auto">Reliqui, licet Basileam concesserint, tamen ad nos redibunt; illos nos fovebimus et, ut prospiciatur illis, curabimus.</s>
+					<s n="30" xml:lang="la" type="auto">Tibi hunc commendamus; pauper est et fuit semper.</s>
+					<s n="31" xml:lang="la" type="auto">Bene faceres, si posses illi quantulumcunque heptomadarium stipendium impetrare; parvo est contentus.</s>
+					<s n="32" xml:lang="la" type="auto">Nostri pro viatico duos ei dedere coronatos; plura quidem sperassem; sed sic sors cecidit.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Mitto deinceps alia adhuc exemplaria Vergerii de concilio fugiendo, quod puto bello praesenti magis quam ullis scriptis disturbandum fore.</s>
+					<s n="34" xml:lang="la" type="auto">Mitto et historiam Alexandri IV(?).</s>
+					<s n="35" xml:lang="la" type="auto">Picturam ad nos miserat Vergerius et simul quoddam scriptum, quod iuxta picturam cupiebat impressum; sed cum non videretur esse magni momenti et plausibile admodum, maluimus puram historiam subnectere.</s>
+					<s n="36" xml:lang="la" type="auto">Vale cum omnibus fratribus, uxore, liberis et domesticis, quos ex me salutabis plurimum et meis quoque.</s>
+					<s n="37" xml:lang="la" type="auto">Salutat vos Musculus cum tota domo sua, qui tamen et ipse ad vos scribit.</s>
+					<s n="38" xml:lang="la" type="auto">Bernae 8. octobris 1551.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Tuus Io[annes] Hallerus.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Nostris studiosis literas hasce tradi curato sive domino praeposito.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, Tigurinae ecclesiae fidelissimo antistiti, domino et compatri suo venerando.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="de" type="auto">Z&#252;rich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file19" type="Brief" source="TUSTEP" n="18014">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Peter Schnyder (Sartorius, Frick) / Aarburg AN Heinrich Bullinger / Z&#252;rich, 21. Januar 1548</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 347,327-329</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>... Quomodo contentio illa, de qua super tibi scripseram, inter me (et) Zoffingenses ortam, iamiam transacta sit coram magnifico senatu Bernensi breviter et inveritate quidem sic accipe.</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 66,25</idno>
+					</msIdentifier>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 347,330f.</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/19">
+				<correspAction type="sent">
+					<persName ref="p8014" cert="high">
+						<!--
+						<surname cert="high">Schnyder (Sartorius, Frick)</surname>
+						<forename cert="high">Peter</forename>
+						-->
+					</persName>
+					<placeName source="l3" cert="high"><orig>Aarburg</orig></placeName>
+					<date when="1548-01-21" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file20"/>
+					<ref type="prev_chronologically" target="file29"/>
+					<ref type="next_correspondence" target="file1943"/>
+					<ref type="prev_correspondence" target="file11219"/>
+					<ref type="next_correspondence_request" target="file1943"/>
+					<ref type="prev_correspondence_request" target="file11219"/>
+					<ref type="next_same_sender" target="file1943"/>
+					<ref type="prev_same_sender" target="file11219"/>
+					<ref type="next_same_addressee" target="file34"/>
+					<ref type="prev_same_addressee" target="file29"/>
+					<ref type="next_with_sender_as_addressee" target="file1943"/>
+					<ref type="prev_with_sender_as_addressee" target="file11219"/>
+					<ref type="next_with_addressee_as_sender" target="file34"/>
+					<ref type="prev_with_addressee_as_sender" target="file29"/>
+					<ref type="child" target="file393"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="171">Latein</language>
+				<language ident="de" usage="829">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/19%2FAutograph%2F00%20E_II_347__S__327_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">19/Autograph/00 E_II_347__S__327_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/19%2FAutograph%2F01%20E_II_347__S__328_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">19/Autograph/01 E_II_347__S__328_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/19%2FAutograph%2F02%20E_II_347__fol__329_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">19/Autograph/02 E_II_347__fol__329_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/19%2FAutograph%2F03%20E_II_347__fol__329_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">19/Autograph/03 E_II_347__fol__329_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Pacem veritattemque diligere donet ille, qui est pax et veritas ipsa, in domino observandissime et colendissime.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quomodo contentio illa, de qua nuper tibi scripseram, inter me [et] Zoffingenses ortam, iamiam transacta sit coram magnifico senatu Bernensi breviter et in veritate quidem sic accipe.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Erstlich uff gehaltne colloquia zuo Zoffingen in gegenwurtigkeit mines her vogts gehalten von wegen einer predig, so G&#246;ppelius</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto">Uff das ist ingefallen die Winechten, das min herr vogt (u&#223; sonderbarem befelch) herr Benedict und demnach G&#246;ppeln geh&#246;rt predigen von dem handel.</s>
+					<s n="5" xml:lang="de" type="auto">Da hatt G&#246;ppel sich abermals referiert uff sine vorigen predigen und ouch als f&#252;rgefaren wie von alter haar.</s>
+					<s n="6" xml:lang="de" type="auto">Nachgendigen sontag, da sy abermals (nach irem bruch) das nachtmal begond, hatt Benedictus predigett, aber ewer vermanung nit gevolgt in dem artickel ewerer antt[wort] anfahend: <foreign xml:lang="la">"Video, charissime mi Benedicte",</foreign> etc. und also nit allein <foreign xml:lang="la">adversariam partem</foreign> oppugniert, <foreign xml:lang="la">sed potius ut veritatem asseruit communicando cum G&#246;ppelio etc.</foreign></s>
+					<s n="7" xml:lang="la" type="auto">Quo multi scandalizati.</s>
+					<s n="8" xml:lang="de" type="auto">Zuo dem anderen ist Benedictus by G&#246;ppelio gestanden vor chorgericht Zoffinge uff fritag vor Winechten, und wa&#223; Nicolaus Huober, <foreign xml:lang="la">ordinis senatorii apud Zoffingam,</foreign> si vermant, das sy lerind vom nachtmal lut gehaltner disputation, so habend sy im kein heytteren bescheyd geben; dan den hand sy ouch gott und der oberkeit befolet, wie ander meer, sind ouch also uff ir wy&#223; f&#252;rgefaren und nachtmal begangen zwey mal <foreign xml:lang="la">absque ullo ordine etc.</foreign></s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Nachdem hand min herren mir geschriben, sy ze berichten obgedachter dingen, das ich nun thuon und nagends ouch her Benedicten; der hatt sich gantz gefangen geben und mit euch und euwerer responsion sich wellen entschuldigen und f&#252;rhin das best thuon und der glichen ding meer, und mit herr Batten in einen newen zang komen (unnodt yetz ze melden), also das er ouch f&#252;r radtt darumb ist beschickt wuorden.</s>
+					<s n="10" xml:lang="de" type="auto">Und nachdem herr Benedict 3 mal vor radt erschinen und die 4 schydmenner ouch, ist er uff witeren bescheyd wider geheyssen heym gon.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Daruff ist beschriben G&#246;ppel, min herr vogt, Niclaus Huober und ich uff 16. dises monetz und am 17. tag verh&#246;rt, darzuo ouch beruoffen die 4 schydmenner.</s>
+					<s n="12" xml:lang="de" type="auto">Da hat der processus gewert von achten an by&#223; uff zw&#252;&#246;lffin.</s>
+					<s n="13" xml:lang="de" type="auto">Erstlich sind verlaesen die geschrifften mines herr vogts, darinnen er ordenlich allen urhab di&#223; spans in einer kirchen Zoffingen erzelt, mit meldung aller unkomligkeiten hiru&#223; gevolgtt und zum letzsten min herren vermant, das sy den lasterstein wellind werffen ab einer ach&#223;len, den sy lang gnuog der luten halber tragen, gotz straff ze vergoumen, die uber die richstett gangen, unzwyffel der unglichen leer halber vom nachtmal etc.</s>
+					<s n="14" xml:lang="de" type="auto">Zuo dem anderen ist gelesen min brieff uf glicher meinung lutende.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Zuo dem dritten ist anzogen G&#246;ppel, das er die zween brieff verantworte.</s>
+					<s n="16" xml:lang="de" type="auto">Ob nun das beschaehen, hatt min herr vogt begertt ze verh&#246;ren den uffgerichten vertrag.</s>
+					<s n="17" xml:lang="de" type="auto">Den hatt gelesen Eberhardus a Ru&#870;mlang.</s>
+					<s n="18" xml:lang="de" type="auto">Daruff herr Jo&#223; G&#246;ppelium gefragt, ob er den vertrag f&#252;r christelich und recht gebe? etc.</s>
+					<s n="19" xml:lang="de" type="auto">Daruff er geantwortet: jaa etc.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Zuo dem 4. hatt G&#246;ppel begertt ze verlesen und ze verantworten sin predig am Winechttag thuon, das im vergunt.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de" type="auto">Daruff herr Jo&#223; geredt sampt sinem bystand.</s>
+					<s n="22" xml:lang="de" type="auto">Es verwunderet uns, ob gemandt habe m&#246;gen die dunckele predig verston, die wir ze ermessen gebent euch uneren herren; zum anderen so h&#246;rend ir unser herren, das er die wuort vom nachtmal nit ein mal anzogen und die nit u&#223;legt nach inhalt de&#223; verle&#223;nen vertrags etc.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto">Zuo dem 5. hatt sich eine lange entschuldigung mit listiger u&#223;rede zuotragen mit G&#246;ppelio, daruff im der vogtt so manlich widerstand thuon und sonderlich mit der exhibition, das ein wunderbar werck gotz ist; der G&#246;ppel hatt ouch dem vogtt n&#252;t unverwyssen glon, dan vil gew&#252;&#223;t, ma&#223; da, dort gredt, <foreign xml:lang="la">sed per falsos fratres et delatores,</foreign> und inn als ein saecher anzogen.</s>
+					<s n="24" xml:lang="de" type="auto">Uff das zuo im gestanden sine schwager, venner Dorrman und venner Steyger, und habend min herren darumb mu&#246;ssen erkennen, ob der vogt ein secher oder nit.</s>
+					<s n="25" xml:lang="de" type="auto">Da ist erkent, das er ein amptman und das thuon, das im min herren empfelet etc. und nit ein secher.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="de" type="auto">Zuo dem 6. habind die vier menner mit sampt dem vogt G&#246;ppelium mit siner eygnen hand geschrifften m&#252;&#246;ssen bez&#252;gen der lugen und unwarheit, die er prediget Zoffingen.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="de" type="auto">Also schwarlich gatt es zuo, sin schwey... luterschen und butzerschen schriben ze convincieren etc.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de" type="auto">Zuo dem 7. ists komen an den Huober.</s>
+					<s n="29" xml:lang="de" type="auto">Das hatt ein langen handel geben.</s>
+					<s n="30" xml:lang="de" type="manual"><foreign xml:lang="la">In summa:</foreign> er ist ein mexger und min vogt ein schnider, und han den f&#252;r ein wunderbarlich werck[z&#252;g] gottes, der, <foreign xml:lang="la">quod multorum predicatorum labia muta sint facta et tam disserta labia (ut vocant) laicorum in deffendendo agnitam veritatem contra disputationem Berna.</foreign></s>
+				</p>
+				<p>
+					<s n="31" xml:lang="de" type="auto">Soll mir gott helffen, es ist <foreign xml:lang="la">in disputatione Bernensi</foreign> s&#246;lcher herrlicher kampff und syg nit erh&#246;rt als vor an dem ort (ein wuort han ich nit g..., bin ouch nit gefragt, <foreign xml:lang="la">sed scripte litere loquuti sunt</foreign>).</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="de" type="auto">Zu dem 8. sind wir f&#252;r gestelt.</s>
+					<s n="33" xml:lang="la" type="auto">Senatus frequens aderat et totus exceptis schultheto a Wattwil, venera a Gravenreyd, venero Dillger, Ru&#870;dolpho a Erlach.</s>
+					<s n="34" xml:lang="de" type="manual">Die antwort ist also gefallen <foreign xml:lang="la">in magna contione populi assistentium schulthetum more Bernatum.</foreign></s>
+					<s n="35" xml:lang="de" type="auto">Also hat Na[gelius] geredet: Herly, herly (ad G&#246;ppelium), min herren hand eweren span und zang nunmeer lange zit gnuog geh&#246;rtt, was der sey und wie er sich zuotragen.</s>
+					<s n="36" xml:lang="de" type="auto">Unlang hand ir geschworn und vertrag uffgricht und nit gehalten, sonder ir farend f&#252;r mit ewerer predig und leren, die ir heut anzogen und min herren verstanden, das dem nit ist glept, dem aber ir soltind glept han.</s>
+					<s n="37" xml:lang="de" type="auto">So ist uff das miner herren wil und meynung, das sy di&#223; zangs und spans in ir statt noch landen nit meer dulden wellend und ewers kempffen n&#252;t und darum euch beyde, Benedictum et G&#246;ppelium geurluobet haben; das ist f&#252;r eim.</s>
+					<s n="38" xml:lang="de" type="auto">Zuo dem anderen sond ir beyd dem vogtt, her Petern und dem Huober geben iren erlittnen costen.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">Und das ist, das ich uff das kurtzest in einem s&#246;lchen langen handel euch und ander mine lieben herren vaetter und bru&#246;der in yle berichten.</s>
+					<s n="40" xml:lang="de" type="auto">Wette gott, das meng byderber man geh&#246;rt die geschwinden reden, list und renck G&#246;ppelii (fuchs &#252;ber fuchs) und das handtlch abhaeben derer zween meneren, <foreign xml:lang="la">hii laureo digni, quia spiritus veritatis eorum linguas fecit dissertas ad asserendam veritatem semel acquisitam etc.</foreign></s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Vale, mi charissime domine, cum onmibus piis.</s>
+					<s n="42" xml:lang="la" type="auto">Ex Aroburgo nostri 21. ianuarii 1548.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Petrus Sartoris.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="44" xml:lang="de" type="auto">Minem insonders vertrawten lieben herren und bruoder in Christo unserem herren meister Heynrichen Bullinger, prediger zuo Z&#252;rich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

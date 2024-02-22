@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1066" type="Brief" source="TUSTEP" n="20245">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Joachim Aberlin / G&#246;ppingen AN Heinrich Bullinger / Z&#252;rich, 3. November 1550</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,93</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Non clam te est omnes angulos momis, coriceis et vitilitigatoribus esse refertissimos;</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 73,147</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1066">
+				<correspAction type="sent">
+					<persName ref="p8" cert="high">
+						<!--
+						<surname cert="high">Aberlin</surname>
+						<forename cert="high">Joachim</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Joachim_Aberlin"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/119600153"/>
+						-->
+					</persName>
+					<placeName source="l195" cert="high"><orig>G&#246;ppingen</orig></placeName>
+					<date when="1550-11-03" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1067"/>
+					<ref type="prev_chronologically" target="file1065"/>
+					<ref type="prev_correspondence" target="file188"/>
+					<ref type="prev_correspondence_request" target="file188"/>
+					<ref type="prev_same_sender" target="file188"/>
+					<ref type="next_same_addressee" target="file1069"/>
+					<ref type="prev_same_addressee" target="file1062"/>
+					<ref type="prev_with_sender_as_addressee" target="file188"/>
+					<ref type="next_with_addressee_as_sender" target="file1069"/>
+					<ref type="prev_with_addressee_as_sender" target="file1062"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1066%2FAutograph%2F00%20E_II_356__fol__93_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1066/Autograph/00 E_II_356__fol__93_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1066%2FAutograph%2F01%20E_II_356__fol__93_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1066/Autograph/01 E_II_356__fol__93_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Non clam te est omnes angulos Momis, Coriceis</s>
+					<s n="2" xml:lang="la" type="auto">Virgo, quae Esslingae per quinquennium nescio quid habuit in utero, 30. die octobris a senatu in captivitatem cum parentibus, sorore et custodibus coniecta est</s>
+					<s n="3" xml:lang="la" type="auto">Totam fere Germaniam, quemadmodum Laminitle</s>
+					<s n="4" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Geping&#281; ex phrontisterio nostro 3. die novembris anno 1550.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Ioachim Aberlin.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Eximio theologo Heynricho Bullingero S.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

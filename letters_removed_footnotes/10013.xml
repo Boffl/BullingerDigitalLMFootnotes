@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10013" type="Brief" source="HBBW" n="0">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jost M&#252;ller / [Cham] AN Heinrich Bullinger, 21. Dezember 1523</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 20 (Anhang), Bearb. von Reinhard Bodenmann, Yvonne H&#228;fner und Judith Steiniger, Z&#252;rich 2022, 808 S., ISBN 978-3-290-18354-7.</bibl>
+				<bibl type="regest">Heinrich Bullinger Werke, Briefwechsel Band 20 (Anhang), Bearb. von Reinhard Bodenmann, Yvonne H&#228;fner und Judith Steiniger, Z&#252;rich 2022, 808 S., ISBN 978-3-290-18354-7.</bibl>				<bibl type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 20 (Anhang), Bearb. von Reinhard Bodenmann, Yvonne H&#228;fner und Judith Steiniger, Z&#252;rich 2022, 808 S., ISBN 978-3-290-18354-7.</bibl>
+				<msDesc type="Brief" subtype="Autograph__(Entwurf)" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a13">
+							<name>Bern StA</name>
+							<ref target="https://www.staatsarchiv.sta.be.ch/de/start.html"/>
+						</repository>
+						<settlement ref="l41">Bern</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a13"/>
+						<idno subtype="Autograph__(Entwurf)">B III 43, 1&#8211;3</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p xml:id="regest1">
+								[1] Friede und insbesondere Gnade dem belesenen und frommen, so herausragenden Bullinger, der durch sein
+								Streben nach der g&#246;ttlichen Lehre ein ganz besonderer Bruder ist! Was Besseres h&#228;tte denn in dieser f&#252;r die
+								Literatur- und Sprachwissenschaften so g&#252;nstigen Zeit dem Abt Wolfgang Joner [des Klosters Kappel], seinen
+								Br&#252;dern und jedem einzelnen seiner Gemeinschaft passieren k&#246;nnen als [die Ernennung] des jungen Bullinger
+								[zum Schulmeister der Klosterschule]? Doch ist dies nichts im Vergleich zu der Tatsache, dass Bullinger
+								[nun] Zugang zu unz&#228;hligen B&#252;chern aus der Feder der bedeutendsten Autoren hat, mit deren Hilfe er seine ihm
+								zur Verf&#252;gung stehenden geistigen F&#228;higkeiten steigern kann, um nichts (und dies ohne jeglichen b&#246;sen
+								Hintergedanken) &#252;ber seine anderen au&#223;ergew&#246;hnlichen Begabungen zu sagen! All seine Abhandlungen, die in die
+								H&#228;nde von Gelehrten kamen, sind nicht nur Zeugen seines Studiums, sondern auch seiner im Dienste der
+								Fr&#246;mmigkeit stehenden Gelehrsamkeit. Sagte denn nicht schon Cicero, dass die Menschen durch ihr Bed&#252;rfnis,
+								geehrt zu werden, zum Studium angeregt werden? Doch auch wenn Bullinger schon fast alles wei&#223;, r&#252;hmt er sich
+								nicht, au&#223;er dass er Christus, den Gekreuzigten, kennt. Seine Bescheidenheit steht im Dienste von Gottes
+								Ruhm, was ihm und den Frommen ohnehin zur Ehre gereicht. Denn f&#252;r die, die der evangelischen Wahrheit
+								nachgehen, gibt es nichts Gl&#252;cklicheres, als ein solches Kreuz auf<pb type="edition" next="732"/> sich zu
+								nehmen, und niemand bezweifelt, dass sie dabei durch die Anregung des Heiligen Geistes die besten Ergebnisse
+								erzielen werden. Bullinger soll also nur so fortfahren, und Gott wird jede Stunde, die er mit dessen Hilfe
+								dem Studium widmet, ertragreich machen. Gott gebe, dass einst aus Bullingers Arbeitsstube etwas Eloquenteres
+								als der Schwanengesang hervorgehe, da laut <persName>Plinius [d.&#196;</persName>.] die Schw&#228;ne beim Sterben ein Klagelied aussto&#223;en
+								(wie M&#252;ller es selbst erlebt hat). So m&#246;ge auch Bullinger bei Gelegenheit die gegenw&#228;rtigen und schon seit
+								l&#228;ngerem gef&#228;hrlichen Zeiten in Versform oder in Prosa beweinen. Diesen Zeiten aber trauert M&#252;ller nicht
+								nach, zumal Christus, dem er sich v&#246;llig ergeben hat, in ihm lebt. Doch braucht man dies Bullinger nicht zu
+								erkl&#228;ren.
+								</p>
+								<p xml:id="regest2">
+								[2] M&#252;ller m&#246;chte nun kurz darstellen, was er von seinen Zeitgenossen erdulden muss, wenn er &#246;ffentlich
+								&#252;ber den Glauben an Christus predigt und dabei Zitate aus den Paulusbriefen anf&#252;hrt, die, weil sie
+								zutreffend sind, dem Volk immer wieder eingepr&#228;gt werden m&#252;ssen. Denn wenn diese Bibelverse verinnerlicht
+								werden, f&#252;hren sie zur Reue und zu einem besseren Leben. Gottes Wort ist lebenspendend und wirksam, weil es
+								die Gesinnung des S&#252;nders neu ausrichtet und diesen mit Gott auss&#246;hnt. Doch auch so entkommt der Mensch
+								seinen Plagegeistern nicht. Dies trifft auch auf M&#252;ller zu. Er bekommt es mit den Bileampriestern zu tun,
+								jenen Priestern, die sich gegenseitig erstechen und ihr Vertrauen in die &#228;u&#223;erlichen guten Werke setzen! Er
+								w&#252;rde sie gerne ihrer Ignoranz entrei&#223;en und sie von der Verachtung, die sie Gott entgegenbringen,
+								abbringen. Doch ist dies nicht m&#246;glich, da Gott beschlossen hat, die Gottlosen zu verblenden und zu
+								verstocken, damit diese Helfershelfer der Unterwelt zu Fall kommen und zerschmettert werden. Vorerst einiges
+								&#252;ber die sogenannten Bisch&#246;fe, um Bullinger &#252;ber den ihm von diesen bevorstehenden Widerstand aufzukl&#228;ren.
+								</p>
+								<p xml:id="regest3">
+								[3] [Es folgen 436 Verse oder 218 elegische Distichen (Doppelverse), bestehend aus je einem Hexameter und
+								einem Pentameter. Dabei werden im Wesentlichen die Verfehlungen und Laster der Geistlichen am Konstanzer
+								Bischofshof angeprangert, v.a. die Habgier, die Bestechlichkeit, die Vernachl&#228;ssigung der Amtspflichten, die
+								Hurerei sowie auch die Ess- und Trunksucht. Dazu bedient sich M&#252;ller Figuren aus der antiken Mythologie,
+								hinter denen reale Personen stehen, und spielt auf damalige Ereignisse an, die, um gedeutet werden zu
+								k&#246;nnen, langwierige und ausf&#252;hrliche archivalische Recherchen erfordern w&#252;rden, die im Rahmen einer
+								Briefwechseledition nicht durchgef&#252;hrt werden k&#246;nnen. Angeprangert wird zuerst Bischof <persName>Hugo von Hohenlandenberg</persName>, danach der bisch&#246;fliche Notar (Beatus Widmer?) und der Fiskal (Johann Spreter?),
+								anschlie&#223;end der Offizial (Johann Fridinger) und der Verwalter (Georg Vergenhans), danach die Nachbarschaft,
+								die Kapl&#228;ne (sacellani), die Hurer (scortatores - gemeint sind wohl die Priester) und schlie&#223;lich der
+								Gehilfe (sinergos), n&#228;mlich der Generalvikar <persName>Johannes Fabri</persName>, der u.a.
+								auch als &#8222;<persName>Zes</persName>&#8220; (zaes = faber) und
+								&#8222;<persName>Polyphemus</persName>&#8220; bezeichnet wird.]
+								</p>
+								<p xml:id="regest4">
+								[4] Genug davon! Und um einen Schluss zu finden, will M&#252;ller sich folgender Worte Vergils aus dessen
+								bukolischen Dichtungen bedienen: &#8222;Kinder, schlie&#223;t nun die Irrigationskan&#228;le! Die Wiesen sind gen&#252;gend
+								bew&#228;ssert!&#8220; und &#8222;Geht heim, meine satten Zicklein! Geht! Denn Hesperus kommt!&#8220; (aus dem ersichtlich wird,
+								warum in den Sprichw&#246;rtern die &#8222;Zicklein&#8220; f&#252;r Unkeuschheit stehen). Bullinger soll M&#252;ller verzeihen, dass
+								die W&#246;rter seines so oft revidierten Gedichtes weder immer den gew&#252;nschten Sinn treffen noch gut ins Versma&#223;
+								passen. Es gelang M&#252;ller auch nicht, die N&#246;rgler, die bei den anderen stets etwas auszusetzen haben, ganz
+								zutreffend zu beschreiben. Bullinger wei&#223; aber ohnehin besser, wie diese Ankl&#228;ger und Betr&#252;ger in
+								theologischen Angelegenheiten vergebens streiten k&#246;nnen, wie sehr die erbitterte, von diesen Sophisten
+								bekundete Feindseligkeit denjenigen schadet, die am Wort Gottes zweifeln, und wie weit diese kl&#228;ffenden
+								F&#252;chse ihren Schwindel treiben! Es f&#228;llt diesen leicht, einem Hinterfragenden durch Schlupfl&#246;cher zu
+								entkommen, es sei denn, dass dieser mit dem Schild des Glaubens und mit den bew&#228;hrten, aus der Heiligen
+								Schrift entnommenen Waffen gut ausger&#252;stet ist. Bullinger verf&#252;gt schon &#252;ber eine gro&#223;e Kenntnis der
+								Heiligen Schrift und hat es nicht n&#246;tig, von irgendeinem Gelehrten zum Gebrauch dieser Waffen angehalten zu
+								werden, obgleich &#8222;es nicht schadet - wie es schon Ovid bemerkte - ein galoppierendes Pferd anzuspornen&#8220;.
+								</p>
+								<p xml:id="regest5">
+								[5] Er soll sich schlie&#223;lich nicht dar&#252;ber &#228;rgern, dass M&#252;ller ihn mit seinem Klagelied vom Studium der
+								Heiligen Schrift abgebracht und ihn w&#228;hrend etwa einer Stunde mit Spielereien aufgehalten hat. Es machte ihm
+								Spa&#223;, Bullingers anstrengendes Studium durch diese unterhaltsamen Verse zu unterbrechen. Denn aus diesen
+								wird er m&#252;helos<pb type="edition" next="733"/> entnehmen k&#246;nnen, was f&#252;r Gefahren denjenigen bevorstehen, die
+								sich um das Wohlergehen ihres Kirchenvolkes k&#252;mmern, und dies inmitten von so vielen Kritikern und
+								Heuchlern, die sowohl die evangelische Wahrheit als auch die mit dem von den Aposteln propagierten Glauben
+								erf&#252;llten Menschen verabscheuen. Gru&#223;.
+								</p>
+								<p xml:id="regest6">
+								[6] [P.S.:] Bullinger wisse, dass die obigen Verse eine etwas &#228;hnliche Lage vor Augen f&#252;hren, wie jene, mit
+								der M&#252;ller konfrontiert ist. Im Zuger Gebiet hat man es n&#228;mlich mit einem gewissen Mann [Heinrich
+								Sch&#246;nbrunner d.&#196;.], eine Art &#8222;Apicius&#8220; oder besser gesagt &#8222;Sardanapal&#8220;, zu tun, der mit einem Gef&#228;hrten
+								[Thomas Stocker] die Leute in den Wirtsh&#228;usern ausspioniert (schon Horaz sagte &#252;ber solche Menschen: &#8222;Man
+								meide den Ausfragenden, denn er ist auch ein Schw&#228;tzer!&#8220;). Von einem will er erfahren, wie viele S&#246;hne die
+								Jungfrau Maria hatte, vom anderen, in welchen Punkten er es nicht mit der lutherischen Lehre h&#228;lt, und so
+								gelingt es diesem gottlosen Denunzianten, alles auszuforschen! Was f&#252;r ein Mensch er ist, geht aus der
+								Gestalt seines K&#246;rpers, seinem Lebenswandel und seinen Sitten hervor. Doch wozu soll M&#252;ller ausf&#252;hrlicher
+								&#252;ber diesen Luchs berichten, der die Macht hat, sowohl Einf&#228;ltige als auch Scharfsinnige in eine
+								Gef&#228;ngniszelle zu stecken, der Gottes Gebote weder kennt noch befolgt, der sozusagen von Christus und der
+								Lehre der Apostel abgekommen ist, geschweige denn die Heilige Schrift liest? Jeder ehrenvolle Schweinehirt
+								mit einem durchschnittlich reinen Glauben w&#252;rde ihn besiegen k&#246;nnen! Dieser Mann sch&#228;tzt es &#252;ber alles,
+								seinen Wein sowohl tags als auch nachts zu trinken! Im ganzen Zuger Gebiet gibt es kaum ein &#220;bel, das
+								angsteinfl&#246;&#223;ender ist! Gott m&#246;ge diesem verzeihen, obwohl er selbst niemanden mit seinem Hass, Neid und
+								kranken Gem&#252;t verschont. Bei einem Gespr&#228;ch unter vier Augen wird M&#252;ller erz&#228;hlen, was diesen Verdammten
+								dazu antreibt, ein solches Unheil anzurichten. Erneuter Gru&#223;.
+								</p>
+								<p xml:id="regest7">
+								[7] M&#252;ller h&#228;tte dem vorliegenden Brief andere, erbaulichere Verse aus seinen Dichtungsversuchen beilegen
+								k&#246;nnen, doch will er diese f&#252;r eine passendere Gelegenheit aufsparen. Bullinger verzeihe M&#252;llers Aufregung
+								und Anma&#223;ung. Er ist nichts anderes als ein S&#252;nder.
+							</p>
+						</summary>
+						<msItem>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 20A, Nr. 0, S. 733</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/10013">
+				<correspAction type="sent">
+					<persName ref="p2269" cert="high">
+						<!--
+						<surname cert="high">M&#252;ller</surname>
+						<forename cert="high">Jost</forename>
+						-->
+					</persName>
+					<placeName source="l90" cert="low"><orig>Cham</orig></placeName>
+					<date when="1523-12-21" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file10016"/>
+					<ref type="prev_chronologically" target="file10015"/>
+					<ref type="next_same_addressee" target="file10016"/>
+					<ref type="prev_same_addressee" target="file9401"/>
+					<ref type="next_with_addressee_as_sender" target="file10016"/>
+					<ref type="prev_with_addressee_as_sender" target="file9401"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Viro litterarum scientia, tum ver&#281; pietatis studio per pol eminenti m. Henrico Bullinger, fratri suo theologi&#281; candidatu sacratissimo, pacem et adeo gratiam precatur.</s>
+					<s n="2" xml:lang="la" type="auto">Quid in hoc &#281;vo litteratissimo te iuvene venerando patri Volffgango Ru&#868;ppli</s>
+					<s n="3" xml:lang="la" type="auto">Est profecto nihil, cui in promptu sint tot volumina a summis autoribus &#281;dita,</s>
+					<s n="4" xml:lang="la" type="auto">Quicquid etiam lucubrationum tuarum<pb type="edition" next="734"/> copia resplendet.</s>
+					<s n="5" xml:lang="la" type="auto">Unde et illud Ciceronis in primo Tusculanarum qu&#281;stionum: &#8222;Honos alit artes, omnesque accenduntur ad studia gloria.</s>
+					<s n="6" xml:lang="la" type="auto">Iacentque ea semper, qu&#281; apud quosque improbantur.&#8220;</s>
+					<s n="7" xml:lang="la" type="auto">Sis evectus licet pene ad culmen doctrinarum, nil tamen arrogas tibi iactabundus, pr&#281;terquam scire Christum et hunc cruci suffixum.</s>
+					<s n="8" xml:lang="la" type="auto">H&#281;c tua deiectio ob dei gloriam facit, ut sponte sua accedat tibi encomium, quod piis est decori.</s>
+					<s n="9" xml:lang="la" type="auto">Hac crucis forma nihil iucundius unquam potuit iniungi veritatis evangelic&#281; studiosis, quos ferri impetu spiritus ad optima qu&#281;que, nemo est, qui dubitet.</s>
+					<s n="10" xml:lang="la" type="auto">Tu interim perge, quo coepisti, et deus hanc tibi fortunaverit horam, qua bonis auspiciis non sine c&#281;lesti numine ad musas tuum appuleris animum.</s>
+					<s n="11" xml:lang="la" type="auto">Et faxit deus, ut e mus&#281;o tuo prodeant aliquando camoen&#281; cygnis argutiores.</s>
+					<s n="12" xml:lang="la" type="auto">De quibus ipse periculum feci Plinium vera scripsisse, dum illos in morte flebilem cantum emittere subindicavit.</s>
+					<s n="13" xml:lang="la" type="auto">Ita et tu nacta occasione defleas elegiaco carmine aut soluta oratione tempora, qu&#281; durant, periculosa, qu&#281; quidem ipse nihil moror, si vivat in me Christus,</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Paucis admodum certiorem te facio, quid a s&#281;culi hominibus perpetiar, dum in contionibus publicis verba facio de fide in Christum et alia ex Paulinis litteris documenta, qu&#281; pro sua puritate sunt inculcanda populo frequenter, qu&#281;, si avide complexa fuerint intra sinum tenacis memori&#281;, quid nisi viam parant resipiscendi, hoc est, mutandi vitam in melius.</s>
+					<s n="15" xml:lang="la" type="auto">Vivax est enim verbum dei et efficax,</s>
+					<s n="16" xml:lang="la" type="auto">Quisque suos patimur manes.</s>
+					<s n="17" xml:lang="la" type="auto">Ita enim mihi s&#281;pe usu venit a sacerdotibus Balaam</s>
+					<s n="18" xml:lang="la" type="auto">De his me ita accipias, quod velim ab eis avelli et ignorantiam ac dei contemptum, qui impios in c&#281;citatem et ab illa in obstinatam mentem longius abducit,</s>
+					<s n="19" xml:lang="la" type="auto">Et primum de iis, qui nomine episcopi censentur, minutula qu&#281;dam interseri iuvat, ut quid in procinctu videas tibi esse<pb type="edition" next="735"/></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Episcopus.<note xml:id="fnb" type="footnote" n="b">Am Rand angebracht.</note></s>
+					<s n="21" xml:lang="la" type="auto">Vendere non didici vanos miser undique fumos,</s>
+					<s n="22" xml:lang="la" type="auto">Num cupidus vetito spoliabit episcopus ausu?</s>
+					<s n="23" xml:lang="la" type="auto">Subsidio</s>
+					<s n="24" xml:lang="la" type="auto">Perdidit impensa quoties immunis ab omni, Qu&#281; bona pastori sollicitudo parit?</s>
+					<s n="25" xml:lang="la" type="auto">Postulet interdum; fuerit, qum forte opus illi, Si propriis careat, sed nisi corde pio.</s>
+					<s n="26" xml:lang="la" type="auto">Poscere formidet repetens sine fine tributum, Si semel extorsit, iam satis esse putet.</s>
+					<s n="27" xml:lang="la" type="auto">Qum semel abripuit vel ovem lupus indigus esca,</s>
+					<s n="28" xml:lang="la" type="auto">Nulla sed hunc cur&#281; vigilem penuria cogit, Et tamen exhaustas qu&#281;rit avarus opes.</s>
+					<s n="29" xml:lang="la" type="auto">Nonne fugare lupos baculo, defendat ut agnos Fas erit ignavos in pia vota regi?</s>
+					<s n="30" xml:lang="la" type="auto">Vix bene venisti, pateat, si curia nobis Dicitur, at vincit nobilitatis honor.</s>
+					<s n="31" xml:lang="la" type="auto">Divitibus mox vasa meri funduntur opimi, Iisque culina suas fert pr&#281;tiosa dapes.</s>
+					<s n="32" xml:lang="la" type="auto">Munere cum magno (nihil est acceptius illic) Et cito causa viris expedienda patet.</s>
+					<s n="33" xml:lang="la" type="auto">Damna reportantis senioris causa modesti Negligitur, potum pr&#281;sidis</s>
+					<s n="34" xml:lang="la" type="auto">Disserit opportuna satis prudenter ad omnes, Qui tamen illusus tabuit ante fores.</s>
+					<s n="35" xml:lang="la" type="auto">Devovet hunc odio tollens alimenta vasallus, Rupta sit a carie parrochiana domus.</s>
+					<s n="36" xml:lang="la" type="auto">Vim facit, exiguos aut proventus alienat Pr&#281;sbyteris atrox fata minando piis.</s>
+					<s n="37" xml:lang="la" type="auto">Clericus immerito tanquam latro ducitur ingens, Captivus duro vapulat ense caput.</s>
+					<s n="38" xml:lang="la" type="auto">Qur geris, o pr&#281;ses, baculum, venerande, minacem, Nulla sit in s&#281;vos si tibi cura lupos?<pb type="edition" next="736"/></s>
+					<s n="39" xml:lang="la" type="auto">Macte, vaces opera, comedis cum lacte butyrum Dotibus aut quorum pinguior esse potes.</s>
+					<s n="40" xml:lang="la" type="auto">Qui vos non audit, nunquam mihi porrigat aures.</s>
+					<s n="41" xml:lang="la" type="auto">Non obedit</s>
+					<s n="42" xml:lang="la" type="auto">Nunc inopes rigid&#281; facit insectatio litis.</s>
+					<s n="43" xml:lang="la" type="auto">Syngrapha delator curat obesse rapax.</s>
+					<s n="44" xml:lang="la" type="auto">Vendidit eventus pretio, qui pr&#281;sidis aul&#281; Exhibet officium non sine fraude petax.</s>
+					<s n="45" xml:lang="la" type="auto">Implicitos visco tenet irritamine multo, &#280;re quidem vacuos cogit abire domum.</s>
+					<s n="46" xml:lang="la" type="auto">Haud secus exardet venienti pronus ad iras, Quam solet infido ringere dente canis.</s>
+					<s n="47" xml:lang="la" type="auto">Aera tum pulsat</s>
+					<s n="48" xml:lang="la" type="auto">Intulit insonti quandoque indigna relatu, Excussit loculos</s>
+					<s n="49" xml:lang="la" type="auto">Vult precium vocis, vini modo quinque lagoenas Causidici fastus, sint rata vota tibi!</s>
+					<s n="50" xml:lang="la" type="auto">Semodius farris movet hunc piperisque selibra, Ut sale condito de petasone voret.</s>
+					<s n="51" xml:lang="la" type="auto">Pelamydes in vase docent faba, caseus, alec, Quid sit opus facto caprea, cervus, aper, Cistula porro capax argenti pondus et auri, Aut figuli ducta vasa polita rota.</s>
+					<s n="52" xml:lang="la" type="auto">Iudicis exoculat si forte pecunia mentem Compromissa mali, tunc perit &#281;qua salus.<pb type="scan" next="1v."/></s>
+					<s n="53" xml:lang="la" type="auto">Notarius</s>
+					<s n="54" xml:lang="la" type="auto">Te vel inhumanus deferre notarius astu, Prodere te codex sive libellus habet.<pb type="edition" next="737"/></s>
+					<s n="55" xml:lang="la" type="auto">Causidici ob qu&#281;stum levitas inhibetur iniqui, Munere ni palpes, te volet esse reum.</s>
+					<s n="56" xml:lang="la" type="auto">Causa inopis torpet, peram ditare Mathonis</s>
+					<s n="57" xml:lang="la" type="auto">Est temere dictum vexes quod abunde loquacem, Arte cavillandi cui maledicta patent.</s>
+					<s n="58" xml:lang="la" type="auto">Rem parat in qu&#281;stu quo non mihi avarior ullus Si dabit hic poenas, vicit utrunque malum.</s>
+					<s n="59" xml:lang="la" type="auto">Somniat hic gazam, numerand&#281; summa crumen&#281;, Prodiga pupillo dissipat &#281;ra manus.</s>
+					<s n="60" xml:lang="la" type="auto">Novit et immani deferre calumnia fisco, Pars sibi quod cedat contribuentis heri.</s>
+					<s n="61" xml:lang="la" type="auto">Evacuare solet loculos fiscale numisma.</s>
+					<s n="62" xml:lang="la" type="auto">Confiscare ideo nititur asse tenax.</s>
+					<s n="63" xml:lang="la" type="auto">Si tibi defuerint nummi, in<note xml:id="fnc" type="footnote" n="c">&#220;ber der Zeile nachgetragen.</note> vadimonia fisco Est opus assignes qu&#281; tibi parta manent.</s>
+					<s n="64" xml:lang="la" type="auto">Invigilat penui gaza, quo dives abundet, Anxius accumulat, sed sine honore dei.</s>
+					<s n="65" xml:lang="la" type="auto">Lautior ut vivat, facit elanguescere cistas, Non sine collectas fraude resarcit opes.</s>
+					<s n="66" xml:lang="la" type="auto">Nunquid agi causas sine lucro displicet aucto?</s>
+					<s n="67" xml:lang="la" type="auto">Ius civile suum collocat &#281;re forum.</s>
+					<s n="68" xml:lang="la" type="auto">Quicquid habes vicii, cupient<note xml:id="fnd" type="footnote" n="d">Am Rand ist satagunt als Alternative f&#252;r cupient angebracht.</note> vel in acta referri.</s>
+					<s n="69" xml:lang="la" type="auto">Causidici, que palam turpia facta notant.</s>
+					<s n="70" xml:lang="la" type="auto">Vendere iudicium scelus est enorme profecto, Si parit ambitus foeda libido nefas.</s>
+					<s n="71" xml:lang="la" type="auto">Congruit hoc etenim pr&#281;textu opus improbitati Quin avidis lucri nil superesse potest.</s>
+					<s n="72" xml:lang="la" type="auto">Officialis</s>
+					<s n="73" xml:lang="la" type="auto">Plebeiano<pb type="edition" next="738"/></s>
+					<s n="74" xml:lang="la" type="auto">Circuit accipiter timidas laniare columbas, Hic inopes iuris sub ditione tenet.<note xml:id="fne" type="footnote" n="e">Danach folgt premit, das offenbar als Korrektur oder Variante f&#252;r tenet gedacht war.</note></s>
+					<s n="75" xml:lang="la" type="auto">Ingluvies milvi pullos deplumat inermes, Sic explorat opes impiger ipse tuas.</s>
+					<s n="76" xml:lang="la" type="auto">Deinde sacerdotes quoties irritat honestos!</s>
+					<s n="77" xml:lang="la" type="auto">Importuna quid h&#281;c iussa tirannus agit!</s>
+					<s n="78" xml:lang="la" type="auto">Sollicitum faciet, quicquid mandare negoti Constituet, causas posthabet ille pias.</s>
+					<s n="79" xml:lang="la" type="auto">At neque compensat duros iniuria passus, Quas insumpsisti non reparabit opes.</s>
+					<s n="80" xml:lang="la" type="auto">Instat et obnixe vetitos inducere mores, Mordeat utque suos anxia pr&#281;da canes.</s>
+					<s n="81" xml:lang="la" type="auto">Comparere tibi gravis indignatio dictat, Ocyus accusat criminis esse reum.</s>
+					<s n="82" xml:lang="la" type="auto">Quod nisi baubatus compescas pane Molossi, Clamosi terrent impetuosa canis.</s>
+					<s n="83" xml:lang="la" type="auto">Sic, quia non auri recipit segmenta corusci, Assiduo latrat tot vastus ab ore lupus.</s>
+					<s n="84" xml:lang="la" type="auto">Qualiter, ohe, rapax miseros, patrone, clientes Protegis, in dubio est, quin tibi ficta salus!</s>
+					<s n="85" xml:lang="la" type="auto">Iugiter infestat, iusti nec causa tuetur, Nec scelus illati vindicat ille mali.</s>
+					<s n="86" xml:lang="la" type="auto">Multa quidem cur&#281; nocuisse pericula pando, Villicus obsistit, si moniturus ades.</s>
+					<s n="87" xml:lang="la" type="auto">Infamare pios repetit fiscalis alumnos, Liber et indemnis s&#281;pe Suevus</s>
+					<s n="88" xml:lang="la" type="auto">Nos faciunt nummi Veneris doluisse pal&#281;stram, Nobilium tolerat non sine fraude procos.</s>
+					<s n="89" xml:lang="la" type="auto">Quod nisi placatum statuas de munere sollers Dedecus in lucem grande venire facit.</s>
+					<s n="90" xml:lang="la" type="auto">Iam citat, inde monet, simul excommunicat, urget.</s>
+					<s n="91" xml:lang="la" type="auto">Aggravat, indicit, triste relaxat opus.</s>
+					<s n="92" xml:lang="la" type="auto">Qu&#281;rit amore sui, non qu&#281; sit gloria c&#281;li.</s>
+					<s n="93" xml:lang="la" type="auto">Ne sit honos inopi, pervigilare sapit.</s>
+					<s n="94" xml:lang="la" type="auto">Tota vicinia Mordicus arripiat quia nos vicinia pugnax, Sedibus indigenos<note xml:id="fnf" type="footnote" n="f">In der Vorlage indigenas (vermutlich stand zun&#228;chst das prosodisch unm&#246;gliche Wort vires, das dann in viros korrigiert worden zu sein scheint).</note> exigit illa viros.<pb type="edition" next="739"/></s>
+					<s n="95" xml:lang="la" type="auto">Advena finitimos pepulit violentus et audax, Indecus</s>
+					<s n="96" xml:lang="la" type="auto">Se magis attollit populi rumore secundo, Doctrin&#281; modulis gloria nacta placet.</s>
+					<s n="97" xml:lang="la" type="auto">Seminat exicium plebi, si contio fiat, In diversa pios s&#281;pe tumultus agit.</s>
+					<s n="98" xml:lang="la" type="auto">Quid Salius Marti gladiis ancilia pulsat,</s>
+					<s n="99" xml:lang="la" type="auto">Unde nefas tantum cupidis pastoribus auctum, Nacta voluptati causa repente fluat?</s>
+					<s n="100" xml:lang="la" type="auto">Sermo fit, ut capsas oblata pecunia denset, Attrahat ut populos in sua dicta rudes.</s>
+					<s n="101" xml:lang="la" type="auto">Turpe erit, exoptet levis assentator haberi.</s>
+					<s n="102" xml:lang="la" type="auto">Quo sibi succedant prospera cuncta modo.</s>
+					<s n="103" xml:lang="la" type="auto">Pandere non audet qu&#281; sint malefacta popelli, At sinit in mores luxuriare malos.</s>
+					<s n="104" xml:lang="la" type="auto">Foedius in terris nihil est quam parcere vero, Peccantum facili credulitate capi.</s>
+					<s n="105" xml:lang="la" type="auto">Libera sit lingu&#281; verum dicendo potestas, Dedecus ob lucrum subticuisse dolos.</s>
+					<s n="106" xml:lang="la" type="auto">Sancta quod enucleant habiles pr&#281;cepta camaen&#281; Planius h&#281;c vates explicuere sacri.</s>
+					<s n="107" xml:lang="la" type="auto">Litterulis eadem culti exposuere magistri Qu&#281; neque tormentis deseruere dati.</s>
+					<s n="108" xml:lang="la" type="auto">Luctari<note xml:id="fng" type="footnote" n="g">Am Rand ist certare als Variante oder Korrektur f&#252;r luctari angebracht.</note> ingenuo nihil est indignius ore, Cum larvis lapides,</s>
+					<s n="109" xml:lang="la" type="auto">Quis memorare potest verbos&#281; et acumina lingu&#281; Et quoties pugnis aera cedat iners?</s>
+					<s n="110" xml:lang="la" type="auto">Sus quid et unde potest ignava docere Minervam?</s>
+					<s n="111" xml:lang="la" type="auto">Qur asini musas, gracculus atque lyram?</s>
+					<s n="112" xml:lang="la" type="auto">Fronte quid attrita populo divulgat in aures, Schysmatis h&#281;reseos insimulatque palam?</s>
+					<s n="113" xml:lang="la" type="auto">Quin odium pariant, magni cecinere poet&#281;, Verba dei, at pudor est conticuisse piis.</s>
+					<s n="114" xml:lang="la" type="auto">Propositi tedere monent convicia multos, Atque tacere viros cogit amara lues.<pb type="edition" next="740"/></s>
+					<s n="115" xml:lang="la" type="auto">Despicit a tergo, manibus dum format apertis, Auriculas nebulo, quas malesanus agit.</s>
+					<s n="116" xml:lang="la" type="auto">Derogat hic fidei nescit quam turpis agaso, Divinam temerat seditiosus opem.</s>
+					<s n="117" xml:lang="la" type="auto">Sacellani idiot&#281;</s>
+					<s n="118" xml:lang="la" type="auto">Non legit aut cantat nec agit solennia miss&#281;, Si nihil officio commoditatis habet.</s>
+					<s n="119" xml:lang="la" type="auto">Vix requiem mugit, timor est offensio plebis, Hunc</s>
+					<s n="120" xml:lang="la" type="auto">Dentibus infrendit culpans te sive culinam, Si non usque tuas contigit esse dapes.<pb type="scan" next="2r."/></s>
+					<s n="121" xml:lang="la" type="auto">Et quia dissentit, coeptos non pr&#281;stat honores, Invidus obsequio dissidet ipse tuo.</s>
+					<s n="122" xml:lang="la" type="auto">Ebrius in mensa, crudo stomacho hic aliena Nunc epulis comedo vel diatheca</s>
+					<s n="123" xml:lang="la" type="auto">Seminat hic rixas, verbo contendit inerti, Cogitat unde suum palliet ore nefas.</s>
+					<s n="124" xml:lang="la" type="auto">Lingitur inde sacra iam somnolentus in &#281;de, Dum bona fortunae cedere obesa dolet.</s>
+					<s n="125" xml:lang="la" type="auto">Haustus adhuc bibuli media de nocte phalerni Dormitare suo collocat ossa thoro.<note xml:id="fnh" type="footnote" n="h">Am Rand ist concipit angebracht.</note></s>
+					<s n="126" xml:lang="la" type="auto">Debita non solvit maturo tempore vota, Putidulo erumpit foedus ab ore vapor.</s>
+					<s n="127" xml:lang="la" type="auto">Invehit, accusat, lacerat, defertque susurro Impedit, obgannit, dissimulatque mala.</s>
+					<s n="128" xml:lang="la" type="auto">Vanus et applaudit, dum ficta referre licebit,<note xml:id="fni" type="footnote" n="i">Am Rand ist futilis angebracht.</note> Ut placeat nugas scit recitare leves.</s>
+					<s n="129" xml:lang="la" type="auto">Splendidulo semper vel init sollennia cultu.<note xml:id="fnj" type="footnote" n="j">Am Rand ist celebrat mysteria angebracht.</note></s>
+					<s n="130" xml:lang="la" type="auto">Sacra ministerii vota superbus agit.</s>
+					<s n="131" xml:lang="la" type="auto">O quoties auras populi venatur inanes!</s>
+					<s n="132" xml:lang="la" type="auto">Nonne dei laudes posthabet usque pias?<pb type="edition" next="741"/></s>
+					<s n="133" xml:lang="la" type="auto">Credito sacrificos habitu gestire nitenti, Labilis ambitu surripiatur honos.</s>
+					<s n="134" xml:lang="la" type="auto">Invidet hinc domui nugax odiosus opim&#281;, Arguat ut vicii quod notat, absque mora.</s>
+					<s n="135" xml:lang="la" type="auto">Ingemit ha quoties non audet dicere contra, Dumque Theonino dente</s>
+					<s n="136" xml:lang="la" type="auto">Quot maris &#280;g&#281;i tenues numerabis harenas,</s>
+					<s n="137" xml:lang="la" type="auto">Non domini gessisse vices</s>
+					<s n="138" xml:lang="la" type="auto">Credere non assem, vetito sed perdere luxu Cuncta volet, tota stertere nocte salax.</s>
+					<s n="139" xml:lang="la" type="auto">Enthea cui mater deposcit Atyn<note xml:id="fnk" type="footnote" n="k">Von M&#252;ller aus Cel&#281;neo korrigiert.</note></s>
+					<s n="140" xml:lang="la" type="auto">Dulciter h&#281;dino pactus contexit amictu, Debile pellicea qui sibi veste caput.</s>
+					<s n="141" xml:lang="la" type="auto">Qui modo difficilis, iucundus redditur idem, Cui nec idem sapuit, posset acerba pati.</s>
+					<s n="142" xml:lang="la" type="auto">Ferreus est animo, facilis delator amici, Qui studet Hugoni</s>
+					<s n="143" xml:lang="la" type="auto">Tu potes erecti statuas &#281;quare colossi, Tantus es, at magni nomen habere pudet.</s>
+					<s n="144" xml:lang="la" type="auto">Exitus invidi&#281; est, ramo suspendere colla, Perstrepit, expungit, rumpitur atque furit.</s>
+					<s n="145" xml:lang="la" type="auto">O <persName>Polypheme</persName><note xml:id="fnl" type="footnote" n="l">Am Rand ist patet intu vermutlich f&#252;r ein geplantes patet intus angebracht.</note> Quales esse velit cruda puella sibi.<pb type="edition" next="742"/></s>
+					<s n="146" xml:lang="la" type="auto">Non epulum regis cibat hunc, tenuis vel ofella,<note xml:id="fnm" type="footnote" n="m">Am Rand ist sed angebracht.</note> Convivas modici turbida vappa cadi.</s>
+					<s n="147" xml:lang="la" type="auto">Invidi&#281; pestem fugito, quod corpore gibbo Vix humeris coelum sustinuisset Atlas.</s>
+					<s n="148" xml:lang="la" type="auto">Non mea vobiscum sit commessatio tanti, Coena sacerdotis lauta sit ipsa licet.</s>
+					<s n="149" xml:lang="la" type="auto">Protinus obscoenos renovant ientacula mores Quorum nos pigeat de levitate loqui.</s>
+					<s n="150" xml:lang="la" type="auto">Talus adaptabit vetiti contamina ludi, Senio</s>
+					<s n="151" xml:lang="la" type="auto">Hinc tenues longo chart&#281; lacerantur abusu, Rerum avidi loculos evacuare solent.</s>
+					<s n="152" xml:lang="la" type="auto">Blasphemus repetisse volet</s>
+					<s n="153" xml:lang="la" type="auto">Nemo recensebit spurci ludibria coetus.</s>
+					<s n="154" xml:lang="la" type="auto">Verba iocis miscent luxuriosa piis.</s>
+					<s n="155" xml:lang="la" type="auto">Scilicet oblectat tot et hic movisse cachinnos, Vota quod exemplo prostituere malo.</s>
+					<s n="156" xml:lang="la" type="auto">Profususque sui, multo consumere luxu Divicias<note xml:id="fnn" type="footnote" n="n">Von M&#252;ller aus delicias korrigiert.</note> semper nanque gulosus amat.</s>
+					<s n="157" xml:lang="la" type="auto">Turpiter absumpsit ganeis duo milia nummum, Quod levior quisquam non sit ubique nepos.</s>
+					<s n="158" xml:lang="la" type="auto">Quas non scurra vorax epulas glutisse palato Gestiet immenso discubuisse thoris!</s>
+					<s n="159" xml:lang="la" type="auto">Supprimit hic animo tacitis absurda labellis, Ferre potest quicquid sustinuisse voles.</s>
+					<s n="160" xml:lang="la" type="auto">Hic male coniectat bili super omnia ductus.</s>
+					<s n="161" xml:lang="la" type="auto">Incutiet colaphos suspitione levi.</s>
+					<s n="162" xml:lang="la" type="auto">Laude tumet ficta, patinis absumit in unctis</s>
+					<s n="163" xml:lang="la" type="auto">Hic nimio segnis carmen nequit addere pingui Pieridum sinui, dulce profecto melos.</s>
+					<s n="164" xml:lang="la" type="auto">&#280;stuat hic vis&#281; tentatus amore puell&#281;, Condere non veritus mentis in arce dolos.</s>
+					<s n="165" xml:lang="la" type="auto">Crapula deinde calet, media sub nocte Li&#281;um<pb type="edition" next="743"/></s>
+					<s n="166" xml:lang="la" type="auto">Propositi pudeat comites si forte salaces, Musa velim memores</s>
+					<s n="167" xml:lang="la" type="auto">Scis in eos recte iaciendum vel scelus omne, Natio quos misit nunc aliena viros.</s>
+					<s n="168" xml:lang="la" type="auto">Quid rerum faciant alii, delator ad aures Ingerat heroum, pervidet usque sagax.</s>
+					<s n="169" xml:lang="la" type="auto">Panis et hic frusto tenui conducitur ales, Pr&#281;sulis ad pensum turpe loquatur opus.<note xml:id="fno" type="footnote" n="o">Am Rand ist censum angebracht.</note></s>
+					<s n="170" xml:lang="la" type="auto">Hic decus obfuscat nativum lividus author, &#280;mulus indigenis cui stat obesse viris.</s>
+					<s n="171" xml:lang="la" type="auto">Omnia perturbat, nullo discrimine pensat, Ne simul officiat, quod struit ipse, malum.</s>
+					<s n="172" xml:lang="la" type="auto">Sedulus ad nugas, hic et artibus obstat honestis, Polluit insontes flagitiosa cohors.</s>
+					<s n="173" xml:lang="la" type="auto">Mole coloss&#281;a caput hic super extulit omnes, A statua ingenti vile resignat opus.</s>
+					<s n="174" xml:lang="la" type="auto">Corporis hic vasti curvo tegit omina</s>
+					<s n="175" xml:lang="la" type="auto">Nullius hic precii non arte perinde polita, Omnibus est odio, venter obesus olet.</s>
+					<s n="176" xml:lang="la" type="auto">Hic nihil omittit scelus inculcare pudendum Assolet hic nihili ducere quosque pios.</s>
+					<s n="177" xml:lang="la" type="auto">Diffluit hic risu, lacero despectus amictu, Quem rugosa tulit naris in exilium, Deteriore nota fastidit ubique disertos, Gloria cui belli decidit ampla seni.</s>
+					<s n="178" xml:lang="la" type="auto">Iugiter amplecti saliares et undique coenas, Flaminis antistes quam recreare sapit.</s>
+					<s n="179" xml:lang="la" type="auto">Nullus inest verbis pudor aut reverentia mens&#281;, Dicat ut Albanas quisque vorasse dapes.</s>
+					<s n="180" xml:lang="la" type="auto">Pascit ineptarum quid tanta licentia vocum?</s>
+					<s n="181" xml:lang="la" type="auto">Quid Cybeles</s>
+					<s n="182" xml:lang="la" type="auto">Hunc simul excussisse viden memorabile signum, Turgidus ingluvie cui sapit offa ducum?<pb type="edition" next="744"/></s>
+					<s n="183" xml:lang="la" type="auto">Omine non fausto piget occurisse gygantem, Limus in aspectu calvus et ipse caput.<note xml:id="fnp" type="footnote" n="p">Am Rand ist torvus angebracht.</note><pb type="scan" next="2v."/></s>
+					<s n="184" xml:lang="la" type="auto">Vis honor</s>
+					<s n="185" xml:lang="la" type="auto">Quid iuvat insipid&#281; nimio lingu&#281; modo fastu, Te simul immodice quid placuisse mihi?</s>
+					<s n="186" xml:lang="la" type="auto">Ne videare volens satis accuratus haberi, De tabula vel adhuc anxie tolle manum.</s>
+					<s n="187" xml:lang="la" type="auto">Nunc adeo intumuit tibi pectus honore secundo, Ut nequeat fastus ferre puella tuos.</s>
+					<s n="188" xml:lang="la" type="auto">Digna supercilio</s>
+					<s n="189" xml:lang="la" type="auto">Nescio mentiri, nihil assentabor iniquus, Laus ea demulcet pendere vota deo.</s>
+					<s n="190" xml:lang="la" type="auto">Non ego sum numen, quid me immortalibus &#281;quas?</s>
+					<s n="191" xml:lang="la" type="auto">Nunquid adulanti vis habeatur honos?</s>
+					<s n="192" xml:lang="la" type="auto">Simus in&#281;quales odium facit et labor ingens, Altero et inferior neuter ut esse velit.</s>
+					<s n="193" xml:lang="la" type="auto">Sique bovem nequeas, modo sis agitator aselli,</s>
+					<s n="194" xml:lang="la" type="auto">Quicquid adesse boni videas, amplectere ut &#281;quum, Infima sors faciet te meminisse tui.</s>
+					<s n="195" xml:lang="la" type="auto">Est animal, camuros quod ferre cameleon ungues.<note xml:id="fnq" type="footnote" n="q">Am Rand ist Cameleon angebracht.</note></s>
+					<s n="196" xml:lang="la" type="auto">Huic color est varius, quod fovet aura levis.</s>
+					<s n="197" xml:lang="la" type="auto">Eminet huic rostrum, simile est parvoque suillo, Desinit in longos turgida costa pedes.</s>
+					<s n="198" xml:lang="la" type="auto">Tardior huic motus sed hianti noxius ore, Sanguis inest cordi non sine felle rigens.</s>
+					<s n="199" xml:lang="la" type="auto">Supplicio affecti scelus est immane gulosi<note xml:id="fnr" type="footnote" n="r">F&#252;r ein gestrichenes profecto.</note>, Compressis natibus caverit usque licet.</s>
+					<s n="200" xml:lang="la" type="auto">A crepitu ventris licet abstinuisse pudicos, Pedendi vicio quisque laborat ebes.</s>
+					<s n="201" xml:lang="la" type="auto">In scaphio lotium puer importabit agellis, Condecorent flavas florea serta comas.</s>
+					<s n="202" xml:lang="la" type="auto">Risu hic et alludit consumat edulia mens&#281; Spe simulat lucri, ferre molesta petax, <pb type="edition" next="745"/> Ut canis e Nilo bibit et fugit, invidus artes Sic leviter gustat, nec nisi suave cubat.</s>
+					<s n="203" xml:lang="la" type="auto">Lurida mentagr&#281; sotios contagio morbi, Atra lues Stygios cogit adire lacus.</s>
+					<s n="204" xml:lang="la" type="auto">Faucibus oppressi pia polluit ora veneno</s>
+					<s n="205" xml:lang="la" type="auto">Invidia premitur si re foeliciter acta Cesserit in melius parta labore quies.</s>
+					<s n="206" xml:lang="la" type="auto">Quod fortuna negat sumptu capit hic alieno, Elicit ex parvo multa repente bona.</s>
+					<s n="207" xml:lang="la" type="auto">Decolor ac tenuis macie suspectus adulter, Anthropomorphitas</s>
+					<s n="208" xml:lang="la" type="auto">Creditor exhausto, squaloribus obsita vestis Et facit usura sit macilenta cutis.</s>
+					<s n="209" xml:lang="la" type="auto">Sit quod ob&#281;rato famulatus ob &#281;s alienum, Mutui ut et ratio carnificina foret.</s>
+					<s n="210" xml:lang="la" type="auto">Fraude agit, eludat, quod inexuperabilis ardor Pestifera velut hac corpora tabe necet.</s>
+					<s n="211" xml:lang="la" type="auto">Quid vel ubi eroget hic rationibus</s>
+					<s n="212" xml:lang="la" type="auto">Dum repetit sera conductos nocte penates, Ad lapidem impingit corpore fusus humi.</s>
+					<s n="213" xml:lang="la" type="auto">Gallus olet Cybeles in coeno</s>
+					<s n="214" xml:lang="la" type="auto">Scortatores Desipit &#281;tatis vicio pers&#281;pe sacerdos, Deliramentis occupat ora senex.</s>
+					<s n="215" xml:lang="la" type="auto">C&#281;cior Hyps&#281;a</s>
+					<s n="216" xml:lang="la" type="auto">Viribus et succo destituatur ebes.</s>
+					<s n="217" xml:lang="la" type="auto">Pectus inest c&#281;co stolidum vel inane tumenti, Ut tegat hoc animi pestis acerba malum.<pb type="edition" next="746"/></s>
+					<s n="218" xml:lang="la" type="auto">Ecce, Toron&#281;i portu qui surdior ipso,</s>
+					<s n="219" xml:lang="la" type="auto">Cimmeriis animum tenebris</s>
+					<s n="220" xml:lang="la" type="auto">Non adeo vehemens rigido nec Amyntoris &#281;stu</s>
+					<s n="221" xml:lang="la" type="auto">E trivio coenum legitur, dum vilis adulter, Quem facis et nauci, fungitur officio.</s>
+					<s n="222" xml:lang="la" type="auto">Illusisse cliens infami callidus</s>
+					<s n="223" xml:lang="la" type="auto">Tu male morato nimium neque fide sodali<note xml:id="fns" type="footnote" n="s">F&#252;r ein gestrichenes crudeli.</note>, Non adeo parvi remque valere puta.</s>
+					<s n="224" xml:lang="la" type="auto">Ingruit immodicis odiique molestia rebus, Et cadit a lusu res malegesta suo.</s>
+					<s n="225" xml:lang="la" type="auto">Ipse tuo vel adh&#281;rebit lateri comes impar, Ne sibi defuerit coenula parta iocis.</s>
+					<s n="226" xml:lang="la" type="auto">Nonne meretricis capiti ferus incutit orbes, Qu&#281; levis improperat non sine felle dolos?</s>
+					<s n="227" xml:lang="la" type="auto">Quod stupidus moech&#281; scelus excusavit apert&#281; Quam stropha subsannans inveterata capit.</s>
+					<s n="228" xml:lang="la" type="auto">In scaphio m&#281;ch&#281; lotium deferre cacantis<note xml:id="fnt" type="footnote" n="t">Am Rand ist sub technis angebracht.</note> Est opus imbellem stercus olere suum.</s>
+					<s n="229" xml:lang="la" type="auto">Hoc nihil esse putas senior, quod pellice lena Uteris, et ventri servit amica manus.</s>
+					<s n="230" xml:lang="la" type="auto">Natur&#281; vitium scelus est (mihi crede) vel ingens, Quantum vix animo concipis ipse tuo.</s>
+					<s n="231" xml:lang="la" type="auto">Turpe quidem dictu si masturbatus ineptit, Intereant digitis gaudia fota suis.</s>
+					<s n="232" xml:lang="la" type="auto">Cominus astantem quoties aspeximus illam, Lumine convivas turbidiore notas.</s>
+					<s n="233" xml:lang="la" type="auto">Dic, rogo, quod scelus est moecham spectare salacem?</s>
+					<s n="234" xml:lang="la" type="auto">Aspicimus solem, sydera, templa dei.<pb type="edition" next="747"/></s>
+					<s n="235" xml:lang="la" type="auto">Avertam vultus tanquam mihi pocula Gorgon</s>
+					<s n="236" xml:lang="la" type="auto">Si non vis cupidam spectet conviva novercam, Phinea</s>
+					<s n="237" xml:lang="la" type="auto">Exoneratur&#281; ventrem</s>
+					<s n="238" xml:lang="la" type="auto">Sinergos</s>
+					<s n="239" xml:lang="la" type="auto">Zes</s>
+					<s n="240" xml:lang="la" type="auto">Comptus adest quem nulla rei sibi causa gerend&#281; Detinuit, moecho notior Aufidio.</s>
+					<s n="241" xml:lang="la" type="auto">Nescio quid moech&#281; nebulo suspirat in aures, Procuratorem se cupit esse domus.</s>
+					<s n="242" xml:lang="la" type="auto">Thersit&#281;<pb type="scan" next="3r."/></s>
+					<s n="243" xml:lang="la" type="auto">Pignora quis dubitat desecta parente Suevo</s>
+					<s n="244" xml:lang="la" type="auto">Victus ab Alcide<pb type="edition" next="748"/></s>
+					<s n="245" xml:lang="la" type="auto">Belliger hunc domuit duros per mille labores, Icta<note xml:id="fnu" type="footnote" n="u">Von M&#252;ller aus Plana korrigiert.</note> Brigantino colluit ossa lacu.</s>
+					<s n="246" xml:lang="la" type="auto">Quin aquilam dicunt iecur exedisse Promethei; Herculis hic toelo</s>
+					<s n="247" xml:lang="la" type="auto">Pocula Len&#281;i<persName>Polyphemus</persName></s>
+					<s n="248" xml:lang="la" type="auto">Devorat hic avido cyclops et obesa palato, Alvo ut onocrotali laxior esse queat.</s>
+					<s n="249" xml:lang="la" type="auto">S&#281;vior Harpyis torv&#281;que simillima pesti, Quin alienatus mente regesta</s>
+					<s n="250" xml:lang="la" type="auto">Plenior est multo distentis ubere vaccis, Nec Cybeles Gallo barba virilis inest.</s>
+					<s n="251" xml:lang="la" type="auto">Hospes at exosus maculos&#281; terga videndi Apta magis clarum lyncis acumen habet.<note xml:id="fnv" type="footnote" n="v">Am Rand ist lynx angebracht.</note></s>
+					<s n="252" xml:lang="la" type="auto">Hac liquor intectus cumulo lapidescit haren&#281;, Urin&#281; viciis huncque valere dolet.</s>
+					<s n="253" xml:lang="la" type="auto">Nec nisi cum toto, modo mas, modo foemina nexu, S&#281;va rigens collo flectit hyena caput.<note xml:id="fnw" type="footnote" n="w">Am Rand ist hyena angebracht.</note></s>
+					<s n="254" xml:lang="la" type="auto">Exprimit h&#281;c hominis (petiit quem) callida nomen, Enecet accitum nocte silente foras.</s>
+					<s n="255" xml:lang="la" type="auto">Castoreum medici variis simul usibus addunt, Amputat hinc testes ponticus ore fiber.</s>
+					<s n="256" xml:lang="la" type="auto">Dentibus infixi non est dissolvere nodos, Fracta nisi a morsu fortiter ossa crepent.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="257" xml:lang="la" type="auto">At de his in pr&#281;sentiarum satis, quo illud Vergilii in Buccolicis mihi suffragetur ad calcem quandoque perveniendi: &#8222;Claudite iam rivos, pueri!</s>
+					<s n="258" xml:lang="la" type="auto">Sat prata biberunt.&#8220;<note xml:id="fnx" type="footnote" n="x">Klammern erg&#228;nzt.</note></s>
+					<s n="259" xml:lang="la" type="auto">Quod si h&#281;c non per omnia quadrant<pb type="edition" next="749"/> aut male coh&#281;rent tot repetita vicibus et verba et sensus</s>
+					<s n="260" xml:lang="la" type="auto">Tu ipse melius nosti, quid in re theologica velitent incassum sycophant&#281;, quantumve pertinax rebellio sophistarum</s>
+					<s n="261" xml:lang="la" type="auto">Sacrarum litterarum cognitio ubertim tibi suppetit, quod supervacaneum sit a quovis etiam doctissimo ad illas te adhortari, at verum est illud Ovidii: &#8222;Non nocet admisso subdere calcar equo.&#8220;</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="262" xml:lang="la" type="auto">Demum, quod his meis n&#281;niis ab illarum te studio abduxi ad ludicra, quibus hanc impendisti horam, ne velis &#281;gre ferre.</s>
+					<s n="263" xml:lang="la" type="auto">Ita enim collubitum fuit animo meo te seria tractantem his intercipere lusibus, quo sit facile visu, quid immineat malorum plebis curam agenti inter tot criticos ac mal&#281; fidei possessores, apud quos male audit cum evangelica veritas, tum quicunque sit farctus</s>
+					<s n="264" xml:lang="la" type="auto">Interim vale et me ama!</s>
+					<s n="265" xml:lang="la" type="auto">Dat&#281; sunt in festo divi Thom&#281; apostoli anno 1523 ex vico, etc.</s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="266" xml:lang="la" type="auto">Sed ut capere possis, quid per h&#281;c similia significaverim, est quidam apud nos Apitius<pb type="edition" next="750"/> fugito, nam garrulus idem est.&#8220;</s>
+					<s n="267" xml:lang="la" type="auto">Unum qu&#281;rit, quot habuerit filios diva Maria virgo, alterum, quid sentiat aliud in re Luterana, ut nihil ininvestigatum relinquat delator impiissimus.</s>
+					<s n="268" xml:lang="la" type="auto">Et quod istiusmodi sit homo, apparet ex totius corporis lineamentis, vita et moribus.</s>
+					<s n="269" xml:lang="la" type="auto">Sed quid ultra de hoc Lynceo dicam, cui facta est potestas, ut<note xml:id="fny" type="footnote" n="y">&#220;ber der Zeile nachgetragen.</note> homines, qui sunt<note xml:id="fnz" type="footnote" n="z">&#220;ber der Zeile nachgetragen.</note> in fidei simplicitate sane quam perspicaces, ergasculis tradat, cui nec lex ipsa divina nec illius opera cordi sunt,<note xml:id="fnaa" type="footnote" n="aa">&#220;ber der Zeile nachgeund II, Reg. (Stocker); III-VII, Reg. (Sch&#246;nbrunner d.J.).</note> doctrina apostolorum, cui nec est lectio sacrarum litterarum, quem posset vincere subulcus quispiam integra fide satis superque suspiciendus.</s>
+					<s n="270" xml:lang="la" type="auto">Sed vino ingurgitari die noctuque esset apud illum in magno pretio!</s>
+					<s n="271" xml:lang="la" type="auto">Inquietius malum non est inventu facile in territorio Tuginorum, sed parcat ei deus, qui alias parcit nemini homo perditissimus et odio et invidia, tum aliis animorum cladibus.</s>
+					<s n="272" xml:lang="la" type="auto">Quid denique pr&#281; se ferat et cuius pr&#281;textu h&#281;c struat mala, possum tibi recensere, dum soli fuerimus a colloquio.</s>
+					<s n="273" xml:lang="la" type="auto">Iterum bene vale.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="274" xml:lang="la" type="auto">Potuissem plura ab his rudimentis in re poetica saniora immiscuisse, sed a consilio fuit ea omittere ad tempus, quo magis se accommodabunt.</s>
+					<s n="275" xml:lang="la" type="auto">Iterum parce fervori et iactanti&#281;, qum nihil ex me sit nisi peccatum.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

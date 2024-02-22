@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file2924" type="Beilage" source="TUSTEP" n="26103">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Lorenz Meyer (Agricola) / Lauingen AN Heinrich Bullinger / Z&#252;rich, 19. Mai 1556</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Beilage" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 356,151</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Uff den 15. Maij bin ich uss gottes hilff durch das verrucht gsind des kriegsvolks widerumb heimkhommen</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 87,140</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/2924">
+				<correspAction type="sent">
+					<persName ref="p8130" cert="high">
+						<!--
+						<surname cert="high">Meyer (Agricola)</surname>
+						<forename cert="high">Lorenz</forename>
+						-->
+					</persName>
+					<placeName source="l279" cert="high"><orig>Lauingen</orig></placeName>
+					<date when="1556-05-19" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file2925"/>
+					<ref type="prev_chronologically" target="file2922"/>
+					<ref type="next_correspondence" target="file5327"/>
+					<ref type="prev_correspondence" target="file2923"/>
+					<ref type="next_correspondence_request" target="file5327"/>
+					<ref type="prev_correspondence_request" target="file2923"/>
+					<ref type="prev_correspondence_reaction" target="file11081"/>
+					<ref type="next_same_sender" target="file5327"/>
+					<ref type="prev_same_sender" target="file2923"/>
+					<ref type="next_same_addressee" target="file2937"/>
+					<ref type="prev_same_addressee" target="file2921"/>
+					<ref type="next_with_sender_as_addressee" target="file5327"/>
+					<ref type="prev_with_sender_as_addressee" target="file2923"/>
+					<ref type="next_with_addressee_as_sender" target="file2937"/>
+					<ref type="prev_with_addressee_as_sender" target="file2921"/>
+					<ref type="child" target="file2923"/>
+					<ref type="parent" target="file2923"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="8">Latein</language>
+				<language ident="de" usage="992">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/2924%2FAutograph%2F00%20E_II_356__fol__151_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">2924/Autograph/00 E_II_356__fol__151_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/2924%2FAutograph%2F01%20E_II_356__fol__151_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">2924/Autograph/01 E_II_356__fol__151_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="de" type="auto">Uff den 15. maij, vilgeliebter h. gfatter und christlicher bru&#870;der, min[?].</s>
+					<s n="3" xml:lang="de" type="auto">Heinrich, bin ich u&#223; gottes hilff durch das verru&#870;cht gsind des kriegsvolks widerumb heimkhommen und hab &#252;wer schriben an h. Grego. Lowerern</s>
+					<s n="4" xml:lang="de" type="auto">Man sage, ee dann die ernd khomm, werd unser ding ein end haben.</s>
+					<s n="5" xml:lang="de" type="auto">Bittet, man solle noch ein kleine zit gedult haben, bi&#223; er sine sachen ko&#868;nne richten.</s>
+					<s n="6" xml:lang="de" type="auto">D. L&#281;tus schribt &#252;ch, wie es stande by uns und anderstwo; darby la&#223; ich es ouch belyben.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Es habend sich inn di&#223;em gr&#252;mppel viler hertzen uffgethon und zeigtt, wo sy daheimen sind, sich mer gf&#252;rchtet by gott denn by dem tufel, gruwen, das sy sich des evangelions bladen und nitt by dem babst belyben, wunderreden und grusamme lugen und lesterung usgossen, das sich einer mo&#868;cht wunderen, wie doch inn de&#223; menschen hertzen ko&#868;nne ein so&#868;licher t&#252;fel verborgen ligen etc.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Herren Caspar zu&#870; Ta&#868;llikon hab ich geb&#228;tten und befolhen, das er mir das min in tr&#252;wen verhandle, wie er wol wei&#223;t, hab alle sachen verricht, nitt anderst wei&#223; ich, in hoffnung, man werde mir das min mitt friden lassen bliben.</s>
+					<s n="9" xml:lang="de" type="auto">So aber die invidia oder sunst andere gschwinde l&#252;tt weltind ettwas handlen, desse mich doch nitt versich, begeren ich rachth/rechtz antwortt ze geben etc.</s>
+					<s n="10" xml:lang="de" type="auto">Das man mich nitt &#252;beryl, angesehen das ich also inn verren landen in miner g. h. dienst bin mitt minem gros&#223;en schaden etc.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">In yl zu&#870; Lauwingen 19. maij 56.</s>
+					<s n="12" xml:lang="de" type="auto">Gru&#868;&#223;end mir all gu&#870;tti l&#252;tt etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Laurentius.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="14" xml:lang="de" type="auto">Dem frommen, wi&#223;en und hochgelerten h. m. Heinrichen Bullingern, praedicanten zu&#870; Z&#252;rich, minem geliebten gfatteren und alten gu&#870;ten frund zu&#870; handen etc.</s>
+					<s n="15" xml:lang="de" type="auto">Z&#252;rich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

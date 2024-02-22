@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file6136" type="Brief" source="TUSTEP" n="34073">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Fabricius Montanus (Schmid) / Chur AN [Heinrich Bullinger], 15. Mai 1564</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 376,121 f.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Nisi mihi ..semel hanc legem dixiesses, ut nullam omnino scribendi occasionem praetermitterem</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Graub&#252;nden, Korr. II, S. 507-209 E, Nr. 606</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 378,1680</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/6136">
+				<correspAction type="sent">
+					<persName ref="p8009" cert="high">
+						<!--
+						<surname cert="high">Fabricius Montanus (Schmid)</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/1075_Fabricius_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Fabricius_Montanus"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/104045698"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11414870"/>
+						-->
+					</persName>
+					<placeName source="l98" cert="high"><orig>Chur</orig></placeName>
+					<date when="1564-05-15" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file6137"/>
+					<ref type="prev_chronologically" target="file6135"/>
+					<ref type="next_correspondence" target="file6141"/>
+					<ref type="prev_correspondence" target="file6133"/>
+					<ref type="next_correspondence_request" target="file6153"/>
+					<ref type="prev_correspondence_request" target="file6129"/>
+					<ref type="next_correspondence_reaction" target="file6141"/>
+					<ref type="prev_correspondence_reaction" target="file6133"/>
+					<ref type="next_same_sender" target="file6153"/>
+					<ref type="prev_same_sender" target="file6129"/>
+					<ref type="next_same_addressee" target="file6141"/>
+					<ref type="prev_same_addressee" target="file6133"/>
+					<ref type="next_with_sender_as_addressee" target="file6153"/>
+					<ref type="prev_with_sender_as_addressee" target="file6129"/>
+					<ref type="next_with_addressee_as_sender" target="file6141"/>
+					<ref type="prev_with_addressee_as_sender" target="file6133"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="450">Deutsch</language>
+				<language ident="la" usage="550">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F00%20E_II_376__fol__121_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">6136/Autograph/00 E_II_376__fol__121_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F01%20E_II_376__fol__121_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">6136/Autograph/01 E_II_376__fol__121_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F02%20E_II_376__fol__122_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">6136/Autograph/02 E_II_376__fol__122_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F03%20E_II_376__fol__122_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">6136/Autograph/03 E_II_376__fol__122_v_.tif</desc></graphic>
+		<graphic xml:id="img5" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F04%20E_II_378__fol__1680_r_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">6136/Autograph/04 E_II_378__fol__1680_r_.tif</desc></graphic>
+		<graphic xml:id="img6" url="https://iiif.bullinger-digital.ch/iiif/3/6136%2FAutograph%2F05%20E_II_378__fol__1680_v_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">6136/Autograph/05 E_II_378__fol__1680_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Nisi mihi, reverende pater, semel hanc legem dixisses, ut nullam omnino scribendi occasionem praetermitterem, pluries sane dubitarem, an sanctissimae tuae occupationes in tanta negotiorum varietate nugis meis essent interpellandae.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Maxime, quod non semel temporis angustia exclusus festinantissime scribere cogar, quae acceleratio meam apud te negligentiam redarguere poterat.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Sed, quod dixi, incredibilis tua humanitas facit, ut familiariter tecum nimis agam, ita ut non semel tibi illius Augusti Caesaris dicti in mentem venire poterat te nescisse, quod tam mihi esses familiaris.</s>
+					<s n="5" xml:lang="la" type="auto">Veterem ergo scribendi morem servo, quoniam ita te velle intelligo.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Et quod ad tua attinet, permagnas tibi gratias ago, qui singularium amicorum literas mihi legendas miseris.</s>
+					<s n="7" xml:lang="la" type="auto">Cohorresco toto pectore</s>
+					<s n="8" xml:lang="la" type="auto">Sed adversario mascule omnino respondendum puto, ut ferocia eius tandem plene retundatur.</s>
+					<s n="9" xml:lang="la" type="auto">Tua singularis modestia omnibus piis est nota; sed tamen fuerunt non mali viri, qui in ultimo responso tuo plusculum acrimoniae desiderarunt.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Scio consilii tui sanctos illos fines; sed cogitare debes, in quos homines incideris.</s>
+					<s n="11" xml:lang="la" type="auto">Sed quid sus Minervam</s>
+					<s n="12" xml:lang="la" type="auto">Si quando ad d. d. Erastum scribis, quaeso digneris meis verbis eum officiose salutare; ipse non semel familiarissime ad me scribit, quare non est, ut metuas te ei salutem ab ignoto denunciare etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quod ad tuum consilium attinet de foedere inter Helvetios instaurando, plane tecum sentio per omnia et iam ante quaedam super his cum Carlino et aliis magnis apud nos viris contuleram.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Nam ita se res habent Rheti&#281;, ut optio inter Gallum et Hispanum sit accipienda potius quam uterque repellendus; eo nunc excrevit largitio et omnium corruptio.</s>
+					<s n="15" xml:lang="la" type="auto">Quod si tecum essem per unam saltem horam, haec tibi prolixe probarem, sic ut abunde satisfacerem.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ego vero operam dabo, ut, siquidem in foedus nostri incumbant, quod futurum tandem puto, seorsim a 7 Pagis et separatim iis capitibus ineatur, quae et religioni et reipublicae non sint adversae.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Spero me opera magnorum virorum uti posse, quibus meum consilium non displicet.</s>
+					<s n="18" xml:lang="la" type="auto">Sed tamen in re tam dubia et varia nihil promittere possum.</s>
+					<s n="19" xml:lang="la" type="auto">- Legatus alias etsi doctus est vir, tamen, quantum ex primo congressu intellexi, in legationibus minime est exercitus.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Quid de religione mihi pollicear, nondum video.</s>
+					<s n="21" xml:lang="la" type="auto">Guisian&#281; factionis eum esse sunt, qui constanter affirment.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Humanus alioquim satis est.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Sed quod venerit nulla pecunia instructus, quod verbis existimet se omnia perficere posse, iam praevideo rem in longum producendam.</s>
+					<s n="24" xml:lang="la" type="auto">Nostri enim Gallis doctoribus didicerunt nihil gratis facere.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Des &#252;brigen halb bin ich bestanden; wei&#223; noch nit, was ich predigen sol.</s>
+					<s n="26" xml:lang="la" type="auto">Pro concionibus tracto primum librum Samuelis diebus profestis; absolvi 18. caput, quod mihi amplissimam suppeditavit materiam de regum et aulicorum moribus.</s>
+					<s n="27" xml:lang="la" type="auto">Multa dixi, quae illuc pertinent, ut nostri essent sua sorte contenti; sed Curia tantum tricesima pars est communitatum Rheti&#281;.</s>
+					<s n="28" xml:lang="de" type="auto">Ich kan nit gar offentlich u&#223;har sagen, sy s&#246;llind aller herren m&#252;&#223;ig gaan.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de" type="auto">Dan ich han ouch der ungeschikten zu&#870;h&#246;rer; die sind dan unr&#252;wig mit worten und w&#228;rchen.</s>
+					<s n="30" xml:lang="de" type="auto">Hyemit so tribend die potentiores ir pratick f&#252;r sich; der gemein man aber ist unbestendig.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="de" type="auto">Hyemit so wird ich von allen raadtschlegen u&#223;beschlo&#223;en, und macht man nachmalen ettwas fuler th&#228;dig.</s>
+					<s n="32" xml:lang="de" type="auto">Ich w&#246;lt[s] sonst hye in der statt und ouch mit hilff der predicanten uff dem land an vyl orten dahin bringen, das einmal erweert wurde und man dem legaten die u&#223;wysung g&#228;be.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Ich zwyfel aber, ob es nutz sye; ursach, es bestaat nit, und wirt dan das letst b&#246;ser dan das erst.</s>
+					<s n="34" xml:lang="de" type="auto">So bitt ich gott tag und nacht, das er mir in dem schw&#228;ren handel wy&#223;heit und verstand verlyche; dan, was ich red, wie i[ch]s mach, so f&#252;rcht ich f&#252;r und f&#252;r, ich th&#252;ye der sach ze vyl oder ze wenig.</s>
+					<s n="35" xml:lang="de" type="auto">Ich wil's inen nit radten, aber ouch mich fr&#228;fenlich darwider nit setzen; dan fart der darvon, so kompt Philippi bottschafft an die statt.</s>
+					<s n="36" xml:lang="de" type="auto">Ist myn bitt an &#252;ch, ir w&#246;llind articulieren, wie man m&#246;chte ein p&#252;ndtnus mit gott und zu&#870; gu&#870;tt der religion machen; wil ich mich derma&#223;en bruchen, das ich verhoff, &#252;wer arbeit nit unfruchtbar syn werde.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="de" type="auto">Yetz wirt m&#228;rckt; kommen die fratres; m&#246;gind wir uns mitt einander underreden.</s>
+					<s n="38" xml:lang="de" type="auto">N&#252;wer zytung halb w&#252;ssind also, das Hannibal von Em&#223; kompt den n&#228;chsten von Rom: zeigt an, der baapst sye gesund und uffrecht, er aber sye von Philippo abgefertiget umb ein regiment landtskn&#228;cht, die s&#246;ll er wider den T&#252;rcken durch die Etsch ynhin f&#252;ren; dan sich in die 70 vela nit wyt von Genua erzeigt habind und ettlich hinw&#228;g gef&#252;rt etc.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">Cornelius, ein genuesischer houptman, ist ouch mit im hye durch gefaren.</s>
+					<s n="40" xml:lang="de" type="auto">Hannibal zeigt an, Philippus habe ime die 3 Pleve (di&#223; land stost ans Veltlyn) geschenckt f&#252;r syn eigenthumb; darumb er yetz der P&#252;ndten nachpur sye unden und oben.</s>
+					<s n="41" xml:lang="de" type="auto">Hatt sich vyl gu&#870;tts erbotten, anders dan sonst syn bruch; dan er vornacher nit ein gu&#870;ter pundtsman gesyn und sonst ein rouwer mensch; yetz aber ist er gar glatt gesyn, hatt ouch ein starckhen gesellen hye zu&#870; einem trabanten angenommen und gesagt, er habe befelch, das, wo eerlich pundtsl&#252;tt sygind, die dienst beg&#228;rind, er denselben sold und dienst g&#228;ben s&#246;lle, und so das ein handel w&#228;re, die religion belangend, so w&#246;lte er die pundtsl&#252;tt dahin nit gebruchen; es sye aber ze thu&#870;n wider den algemeinen erbfind, den T&#252;rcken.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Haec ille.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="de" type="auto">Sonst scribt man d. Ambrosio consuli von Genua, 6000 Spanier s&#246;llind daa ankommen in einem port, ouch umb glycher ursach willen; dan die turckischen pyraten habind sich starck erzeigt, und besorge man, es sye ein gro&#223;e armaden nach vorhanden etc.</s>
+					<s n="44" xml:lang="la" type="auto">H&#281;c ita Hannibal, et simul aliunde scribuntur; sed multis est res suspecta et etiam legato regio, cui consul h&#281;c in mensa me praesente, sicut ex Hannibale audierat.</s>
+					<s n="45" xml:lang="la" type="auto">Desino, quia charta desinit.</s>
+				</p>
+				<p>
+					<note>[Schluss E II 378, 1680]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

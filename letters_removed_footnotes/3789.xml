@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file3789" type="Brief" source="TUSTEP" n="28157">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN Friedrich von Salis (a Salize, de Salicibus) / Samaden, 9. Dezember 1558</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">StAGR</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a24">
+							<name>StAGR</name>
+							<ref target="https://www.gr.ch/DE/institutionen/verwaltung/ekud/afk/sag/Seiten/start.aspx"/>
+						</repository>
+						<settlement ref="l98">Chur</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a24"/>
+						<idno subtype="Autograph">B 1818</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">Ms B 1818 f., 16-17</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Venit Tigurum filius noster Joannes Traversus a Salice, sed non nisi altera demum die, cum huc venisset</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc><p>besch&#228;digt</p></objectDesc>
+					</physDesc>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Regest">
+								<title>Graub&#252;nden, Korr. II, S. 114 R., Nr. 134</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>Schiess, in: ZTB 24, 1901, S. 137-141</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>A. M&#252;hling, HB's europ. Kirchenpolitik 170</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/3789">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date when="1558-12-09" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p8432" cert="high">
+						<!--
+						<surname cert="high">von Salis (a Salize, de Salicibus)</surname>
+						<forename cert="high">Friedrich</forename>
+						<graphic type="portrait" url="portraits/3704_Salis_Wappen.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Salis_%28Adelsgeschlecht%29"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/119041782"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11456135"/>
+						-->
+					</persName>
+					<placeName source="l439" cert="high"><orig>Samaden</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file3790"/>
+					<ref type="prev_chronologically" target="file3788"/>
+					<ref type="next_correspondence" target="file3823"/>
+					<ref type="prev_correspondence" target="file3787"/>
+					<ref type="next_correspondence_request" target="file3830"/>
+					<ref type="prev_correspondence_request" target="file3763"/>
+					<ref type="next_correspondence_reaction" target="file3823"/>
+					<ref type="prev_correspondence_reaction" target="file3787"/>
+					<ref type="next_same_sender" target="file3797"/>
+					<ref type="prev_same_sender" target="file3779"/>
+					<ref type="next_same_addressee" target="file3823"/>
+					<ref type="prev_same_addressee" target="file3787"/>
+					<ref type="next_with_sender_as_addressee" target="file3797"/>
+					<ref type="prev_with_sender_as_addressee" target="file3779"/>
+					<ref type="next_with_addressee_as_sender" target="file3823"/>
+					<ref type="prev_with_addressee_as_sender" target="file3787"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="475">Latein</language>
+				<language ident="de" usage="525">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/3789%2FAutograph%2F00%20StAGR_B-1818_Bullinger_039.tif/full/max/0/default.jpg" n="1"><desc subtype="path">3789/Autograph/00 StAGR_B-1818_Bullinger_039.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/3789%2FAutograph%2F01%20StAGR_B-1818_Bullinger_040.tif/full/max/0/default.jpg" n="2"><desc subtype="path">3789/Autograph/01 StAGR_B-1818_Bullinger_040.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/3789%2FAutograph%2F02%20StAGR_B-1818_Bullinger_041.tif/full/max/0/default.jpg" n="3"><desc subtype="path">3789/Autograph/02 StAGR_B-1818_Bullinger_041.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/3789%2FAutograph%2F03%20StAGR_B-1818_Bullinger_042.tif/full/max/0/default.jpg" n="4"><desc subtype="path">3789/Autograph/03 StAGR_B-1818_Bullinger_042.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Venit Tigurum filius noster Ioannes Traversus a Salice, sed non nisi altera demum die, cum huc venisset, ad me venit et literas tuas obtulit, quando etiam indicabat se cras Basileam abiturum cum sodalibus.</s>
+					<s n="3" xml:lang="la" type="auto">Invitatus a me ad coenam venturum se dixit; sub vesperam nunciat se venire non posse.</s>
+					<s n="4" xml:lang="la" type="auto">Crastina ergo die redit, colligit res suas et accipit a me pecunias, quas mihi servandas tradiderat, ac valedicit.</s>
+					<s n="5" xml:lang="la" type="auto">Ego literas illi do commendaticias ad ornatissimum virum d. Ioannem Iungium, ad S. Petri pastorem; ab hoc peto, ut vel ipse filium tuum velut meum una cum sodali suo recipiat aut, si non possit, d. Ioanni Hospiniano alendum et formandum tradat.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">His illum commendavi, quibus proprios meos filios, siquidem Basileam mittere voluissem, commendassem.</s>
+					<s n="7" xml:lang="la" type="auto">Scribebas tu quidem velle te meum quoque in hanc profectionem consensum.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Cum autem vidissem et experirer re ipsa filium ita sese obvinxisse sodalibus, ut nihil aliud quam Basileam vellet neque verbo meum consilium peteret, feci, quod potui, et optimis fidelissimisque viris commendavi.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Quid autem profecerim aut num isti literas obtulerint tanquam ipsis necessarias in hac re, nescio; nam isti, quibus scripsi, nihil responderunt, nihil rescripsit Ioannes.</s>
+					<s n="10" xml:lang="la" type="auto">Audio autem a d. Ioanne Fabritio agere illos in hospitio cuiusdam civis, qui aliquando fuerit hospes meritorius, cui tuus in annum solvat coronatos viginti duos et quidem pro victu, unde coniicio vel non petiisse illos hospicium ab iis, quibus commendaveram, vel si oblatis literis petierunt, illos non recepisse.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Cupio autem, ut felix et faustum illis sit, quod instituerunt.</s>
+					<s n="12" xml:lang="la" type="auto">Discedentem hortatus sum Ioannem, ut aliquando scribat, si quid velit aut ulla re indigeat, mihi significet et de me sibi polliceatur quod de patre.</s>
+					<s n="13" xml:lang="la" type="auto">Adieci me libenter eius literas curaturum tibi inscriptas.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Adhortatus sum, sibi ab iis caveat, quae hic experti sumus non profuisse quibusdam studiosis <placeName>Basileae</placeName> agentibus etc.</s>
+					<s n="15" xml:lang="la" type="auto">Iam vero rationem accepti et dati tibi nunc subiiciam et Germanice quidem, ut, si velis, parenti quoque tuo, viro mihi venerando, commonstrare possis.</s>
+					<s n="16" xml:lang="de" type="auto">Dise nachvolgende r&#228;chnung hab ich Johansen Traversen von Salis f&#252;rgel&#228;sen; der was ouch iren wol zu&#870; friden.</s>
+					<s n="17" xml:lang="de" type="auto">Johans von Salis ist zu&#870; mir kummen des 8. februarij und ist by mir xin bi&#223; an den 10. iunii; sind 18 wuchen, 3 tag.</s>
+					<s n="18" xml:lang="de" type="auto">Das verding was umb spys, dranck, geliger, herberig, w&#228;schen etc.</s>
+					<s n="19" xml:lang="de" type="auto">16 kronen und 6 gu&#870;t batzen oder 26 fl., 15 Constantzer batzen f&#252;r den guldin.</s>
+					<s n="20" xml:lang="de" type="auto">Die 18 wuchen machend 9 guldin oder 18 unser lib., das pfund verr&#228;chnet f&#252;r 8 Constantzer batzen.</s>
+					<s n="21" xml:lang="de" type="auto">So hab ich imm g&#228;ben 10. februarij 2b 2h. umb ein kleinen catechi&#223;mum von Heinrich Spr&#252;ngli genommen.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="de" type="auto">Des 17. februarij umb g&#252;tterli und dinten 6h.</s>
+					<s n="23" xml:lang="de" type="auto">2. martij 6h umb schn&#252;r.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto">Alls er gen Embrach gieng, 1b.</s>
+					<s n="25" xml:lang="de" type="auto">28. martij 15b umb ein testament e regione latin und griechisch.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="de" type="auto">Ultima martij 6h. f&#228;den und aber 6h.</s>
+					<s n="27" xml:lang="de" type="auto">1. aprilis 6h. in schergaden.</s>
+					<s n="28" xml:lang="de" type="auto">3. aprilis 1b 3h.; gab er dem Elsy von Uster.</s>
+					<s n="29" xml:lang="de" type="auto">14. aprilis 2b 8h. umb papyr by dem Baltassar.</s>
+					<s n="30" xml:lang="de" type="auto">25. aprilis 2b 4h. umb nestel und schrybmesser.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="de" type="auto">Ultima aprilis 6h. schergaden, 3h dinten, seypffen 8h.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="de" type="auto">Dem schu&#870;macher Walder lut sinder geschribnen r&#228;chnung 3. maij 13b.</s>
+					<s n="33" xml:lang="de" type="auto">6. maij umb f&#228;den 6h.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Umb Salustium dem Baltissar 17b 6h.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="de" type="auto">Fronfasteng&#228;llt in die schu&#870;l 6h.</s>
+					<s n="36" xml:lang="de" type="auto">6. iunii 1b 3h. umb seyten zur luten.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="de" type="auto">Aber 6h.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="de" type="auto">Alls et mitt Dosy und sinen xellen in die milch gieng 1b.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">Dem wirt zum Salmen Heinrychen Berckern</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="de" type="auto">Summa alles dises uu&#223;g&#228;bens ist 13 fl. 2b 1h.</s>
+					<s n="41" xml:lang="de" type="auto">Daruff aber hat mir anfangs Fridrych, min lieber junckher, geben 10 fl.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="de" type="auto">Darnach minem sun Heinrychen gelihen vier Italiener kronen, da eine gillt 23 batzen Constantzer, und Stofflen, minem sun, ein rynschen guldin, gillt 18 Constantzer batzen.</s>
+					<s n="43" xml:lang="de" type="auto">Bringt alles 7 gl. 13b 4h.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="de" type="auto">Alle summen zamen getragen machend 17 fl. 13b und 4h.</s>
+					<s n="45" xml:lang="de" type="auto">So aber abzogen wirt die obgemeldet schuld, die 13fl.</s>
+					<s n="46" xml:lang="de" type="auto">2b 1h., so blib ich schuldig junckher Fridrychen 5 fl. 11b 3h.</s>
+					<s n="47" xml:lang="de" type="auto">Hector von Salis ist so lang by mir xin wie Hans.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="de" type="auto">Dorum ist er ouch schuldig mir 8 fl.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="de" type="auto">So hab ich dem wirt zum Salmen von lutenschlahens w&#228;gen glych wie von Hansen w&#228;gen g&#228;ben 2 fl.</s>
+					<s n="50" xml:lang="de" type="auto">Wyter hab ich imm g&#228;ben 10. februarij 6h. papyr. 17. februarij 6h. g&#252;tterli und dinten; 6h. in schergaden; 15b umb b&#252;cher vom Baltassar, yngebunden.</s>
+					<s n="51" xml:lang="de" type="auto">4. martij 6h. umb wachs; schrybz&#252;g 5b 4h.</s>
+					<s n="52" xml:lang="de" type="auto">23. martij.</s>
+					<s n="53" xml:lang="de" type="auto">1. aprilis 6h. schergaden.</s>
+					<s n="54" xml:lang="de" type="auto">3. aprilis 1b 3h; gab er dem Elswy von Uster.</s>
+					<s n="55" xml:lang="de" type="auto">6. aprilis 1b umb ein scheyden; 3 h. dinten.</s>
+				</p>
+				<p>
+					<s n="56" xml:lang="de" type="auto">Ultima aprilis 6h. schergaden; aber 8h. umb lutenbu&#870;ch.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="de" type="auto">M. Waldern lut siner r&#228;chnung umb schu&#870;ch 1 lb. 2b.</s>
+					<s n="58" xml:lang="de" type="auto">Umb zwylchen zu&#870; eim kleyd 2pf. 17. maij 1b 4h umb Cathonem.</s>
+				</p>
+				<p>
+					<s n="59" xml:lang="de" type="auto">Der fronfasten in die schu&#870;l 6h. 6. iunii 1b 3h. umb seyten; 6h. f&#228;dern.</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="de" type="auto">Die zwylch zu&#870; sechten, pleicken und r&#252;sten 2b.</s>
+					<s n="61" xml:lang="de" type="auto">Umb hafften zu&#870; hosen 1b 8h.</s>
+				</p>
+				<p>
+					<s n="62" xml:lang="la" type="auto">Umb colloquia und argumenta 6b.</s>
+				</p>
+				<p>
+					<s n="63" xml:lang="de" type="auto">Aber dem Walder lut sines z&#228;dels 2b zu&#870; b&#252;tzen.</s>
+				</p>
+				<p>
+					<s n="64" xml:lang="de" type="auto">Summa alles dises u&#223;g&#228;bens ist 13fl. 18b 3h.</s>
+					<s n="65" xml:lang="de" type="auto">Daruff hatt mir junckher Fridenrych g&#228;ben 10 fl.</s>
+				</p>
+				<p>
+					<s n="66" xml:lang="de" type="auto">Die so sy abzogen werdent, blipt man mir schuldig 3 gl. 18b 3h.</s>
+					<s n="67" xml:lang="de" type="auto">Wyter hab ich u&#223;g&#228;ben von Hansen w&#228;gen Matthe Rollenbutzen umb ein parreth und tu&#870;ch luth siner handgeschrifft 1 lb. 3b 4h.</s>
+					<s n="68" xml:lang="de" type="auto">So man dise schuld, die man mir zu&#870; thu&#870;n ist, summiert, bringts 4 gl. 1b 7h.</s>
+				</p>
+				<p>
+					<s n="69" xml:lang="de" type="auto">Dise abzogen von junckher Fridrychen schuld, so blib ich noch schuldig 11 gu&#870;t batzen und 4 h. Ich hab das alles in yl ger&#228;chnet; r&#228;chnendts nach.</s>
+				</p>
+				<p>
+					<s n="70" xml:lang="de" type="auto">Ists nitt r&#228;cht, so werde noch r&#228;cht.</s>
+				</p>
+				<p>
+					<s n="71" xml:lang="de" type="auto">Die rest wil ich an Hectorn abziehen oder Hansen gen Basel schicken, weders ir w&#246;llend.</s>
+					<s n="72" xml:lang="la" type="auto">Molestum est mihi valde huiusmodi minutias scribere, deinde etiam supputare.</s>
+				</p>
+				<p>
+					<s n="73" xml:lang="la" type="auto">Proinde proba ista; si quid erratum fuerit, sarciatur ex utraque parte.</s>
+					<s n="74" xml:lang="la" type="auto">Vale et haec boni consule.</s>
+				</p>
+				<p>
+					<s n="75" xml:lang="la" type="auto">Plura non potui negotiis me urgentibus; alias forte plura.</s>
+					<s n="76" xml:lang="la" type="auto">Tiguri 9. decembris 1558.</s>
+				</p>
+				<p>
+					<s n="77" xml:lang="la" type="auto">Salvi sint d. Traversus senex, d. Rodolphus parens et reliqui viri boni, maxime ministri Samadeni.</s>
+					<s n="78" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="79" xml:lang="la" type="auto">Nunciatur nobis per dispositos equos ex Anglia 16. novembris mortuam esse Mariam, Angliae reginam, postera creatam esse Elizabetham istius sororem, magn&#281; spei virginem, doctam, piam et prudentem.</s>
+					<s n="80" xml:lang="la" type="auto">Dominus servet ipsam et adiuvet etc.</s>
+				</p>
+				<p>
+					<s n="81" xml:lang="la" type="auto">Festinantissime.</s>
+				</p>
+				<p>
+					<s n="82" xml:lang="la" type="auto">Clarissimo viro d. Friderycho a Salice, Clavennensi commissario designato, domino suo colendissimo et fratri charissimo.</s>
+					<s n="83" xml:lang="la" type="auto">Samada.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

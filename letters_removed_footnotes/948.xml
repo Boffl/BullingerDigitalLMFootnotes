@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file948" type="Brief" source="TUSTEP" n="20147">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel AN Heinrich Bullinger / Z&#252;rich, 27. Juni 1550</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 366,159</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Binas a te accepi literas his diebus, ad quas nihil habeo, quod respondeam. Misissem exemplare de spectaculo Valentiniano;</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 72,264</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/948">
+				<correspAction type="sent">
+					<persName ref="p1278" cert="high">
+						<!--
+						<surname cert="high">Gast</surname>
+						<forename cert="high">Johannes</forename>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Gast"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/122090284"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11415086"/>
+						-->
+					</persName>
+					<placeName source="l28" cert="high"><orig>Basel</orig></placeName>
+					<date when="1550-06-27" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file949"/>
+					<ref type="prev_chronologically" target="file947"/>
+					<ref type="next_correspondence" target="file976"/>
+					<ref type="prev_correspondence" target="file943"/>
+					<ref type="next_correspondence_request" target="file976"/>
+					<ref type="prev_correspondence_request" target="file943"/>
+					<ref type="next_correspondence_reaction" target="file1220"/>
+					<ref type="prev_correspondence_reaction" target="file12899"/>
+					<ref type="next_same_sender" target="file976"/>
+					<ref type="prev_same_sender" target="file943"/>
+					<ref type="next_same_addressee" target="file958"/>
+					<ref type="prev_same_addressee" target="file936"/>
+					<ref type="next_with_sender_as_addressee" target="file976"/>
+					<ref type="prev_with_sender_as_addressee" target="file943"/>
+					<ref type="next_with_addressee_as_sender" target="file958"/>
+					<ref type="prev_with_addressee_as_sender" target="file936"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="3">Deutsch</language>
+				<language ident="la" usage="997">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/948%2FAutograph%2F00%20E_II_366__fol__159_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">948/Autograph/00 E_II_366__fol__159_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/948%2FAutograph%2F01%20E_II_366__fol__159_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">948/Autograph/01 E_II_366__fol__159_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. in domino.</s>
+					<s n="2" xml:lang="la" type="auto">Binas a te accepi literas his diebus, ad quas nihil habeo, quod respondeam.</s>
+					<s n="3" xml:lang="la" type="auto">Misissem exemplar de spectaculo Valentiniano</s>
+					<s n="4" xml:lang="la" type="auto">Rithmi multi adiecti sunt, quidam emendati; non credis, quam bonus sit liber; sed multitudo exemplorum indicat utilitatem libri; de iis alias.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Caesar est Spirae illicque h&#281;rebit ad hebdomadas aliquot.</s>
+					<s n="6" xml:lang="la" type="auto">Palatinum ad se vocavit et episcopum Moguntinum et vult eos componere; habent enim dissidium quoddam ob leviculam rem certam, et episcopi nunc sunt ferociores, quam unquam fuere, ob Caesaris potentiam et victoriam.</s>
+					<s n="7" xml:lang="la" type="auto">Fortassis rebus illis compositis Argentinam immigrabit eamque civitatem ita opprimet, ut se erigere nunquam posset.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Gandavorum exemplum me terret, concutit; sed nolunt sapere nisi icti.</s>
+					<s n="9" xml:lang="la" type="auto">Augustani expectant Caesaris adventum, et quidam etiam papam ad concilia illa venturum aiunt.</s>
+					<s n="10" xml:lang="la" type="auto">Quam mirabilis res futura est in diebus nostris nunquam audita.</s>
+					<s n="11" xml:lang="la" type="auto">Iam Germania tota subiicietur capite praesente, imo conculcabitur pedibus serpentum et draconum, ni dominus succurrerit.</s>
+					<s n="12" xml:lang="la" type="auto">Civitates Saxoni&#281; cum rege Danorum novum f&#281;dus instituerunt pro defendendo evangelio et pro libertate ab antiquis imperatoribus donata servanda.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quod f&#281;dus Caesarem omnino terret, et iam novum aliquid instituere conatur.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Caesari conveniens res dissentio principum et civitatum, et nollet illos esse concordes; habet multas rationes, quas nemini facile aperiet, idque dixit d. Granvella ad amicum quendam.</s>
+					<s n="15" xml:lang="la" type="auto">Verum heus tu, quid dices ad hoc?</s>
+					<s n="16" xml:lang="la" type="auto">Dominus nobis medicam mulierem misit ex Monte Veneris, qu&#281; habet duos genios apud se, quorum opera utitur ad medicandum, qui herba adpetunt; nam noctu solent discedere ab illa et mane reveniunt.</s>
+					<s n="17" xml:lang="la" type="auto">Ita narrant quidam.</s>
+					<s n="18" xml:lang="la" type="auto">Est paupercula mulier et multa promittit, sed hactenus nihil praestitit.</s>
+					<s n="19" xml:lang="la" type="auto">Audio senatum nostrum prudentissimum eam expulsurum; habent certas causas.</s>
+					<s n="20" xml:lang="la" type="auto">Vide, quid Satan instituat.</s>
+					<s n="21" xml:lang="la" type="auto">Novit urinam expendere allatam et novit etiam divinare.</s>
+					<s n="22" xml:lang="la" type="auto">Si vos Tigurini vultis eam amplecti, curabo, ut ad vos veniat.</s>
+					<s n="23" xml:lang="la" type="auto">Vale in domino.</s>
+					<s n="24" xml:lang="la" type="auto">Dic d. Theodoro me brevi ad illum literas daturum longissimas variis de rebus, quem meo nomine salutabis.</s>
+					<s n="25" xml:lang="la" type="auto">Basile&#281; 27. iunii 1550.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">T[uus] Gastius ex animo.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Doctissimo viro d. Henrycho Bullingero, pastori Tigurinae ecclesiae vigilantissimo, domino suo perpetuo colendo.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de" type="auto">Zurich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file83" type="Brief" source="TUSTEP" n="18330">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Z&#252;rich AN [(Pfarrer) Heinrich Ragor] / Brugg, zwischen s.d. [Mai] 1548 und s.d. [Juni 1548]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich ZB</bibl>
+				<msDesc type="Brief" subtype="Autograph__(Entwurf)" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Autograph__(Entwurf)">Ms F 154,28r-29v, Nr. 5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Zusammenfassende &#220;bersetzung; Urs Lengwiller usw, Dietikon-Stadtluft und Dorfgeist ... Z&#220; 2003, S. 61-65</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/83">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+					<date notBefore="1548-05-01" notAfter="1548-06-12" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p2680" cert="low">
+						<!--
+						<surname cert="low">Ragor</surname>
+						<forename cert="low">Heinrich</forename>
+						-->
+						<roleName ref="g49" type="sg" role="Pfarrer" cert="low"/>
+					</persName>
+					<roleName ref="g60" type="sg" role="Ratsherr" cert="low"/>
+					<placeName source="l69" cert="high"><orig>Brugg</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file107"/>
+					<ref type="prev_chronologically" target="file106"/>
+					<ref type="next_correspondence" target="file107"/>
+					<ref type="prev_correspondence" target="file10732"/>
+					<ref type="next_correspondence_request" target="file107"/>
+					<ref type="prev_correspondence_request" target="file10064"/>
+					<ref type="prev_correspondence_reaction" target="file10732"/>
+					<ref type="next_same_sender" target="file107"/>
+					<ref type="prev_same_sender" target="file104"/>
+					<ref type="next_same_addressee" target="file4399"/>
+					<ref type="prev_same_addressee" target="file12794"/>
+					<ref type="next_with_sender_as_addressee" target="file107"/>
+					<ref type="prev_with_sender_as_addressee" target="file104"/>
+					<ref type="next_with_addressee_as_sender" target="file4399"/>
+					<ref type="prev_with_addressee_as_sender" target="file12794"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1000">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/83%2FAutograph%20(Entwurf)%2F00%20Ms_F_154_28r_29v_00001.tif/full/max/0/default.jpg" n="1"><desc subtype="path">83/Autograph (Entwurf)/00 Ms_F_154_28r_29v_00001.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/83%2FAutograph%20(Entwurf)%2F01%20Ms_F_154_28r_29v_00002.tif/full/max/0/default.jpg" n="2"><desc subtype="path">83/Autograph (Entwurf)/01 Ms_F_154_28r_29v_00002.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/83%2FAutograph%20(Entwurf)%2F02%20Ms_F_154_28r_29v_00003.tif/full/max/0/default.jpg" n="3"><desc subtype="path">83/Autograph (Entwurf)/02 Ms_F_154_28r_29v_00003.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/83%2FAutograph%20(Entwurf)%2F03%20Ms_F_154_28r_29v_00004.tif/full/max/0/default.jpg" n="4"><desc subtype="path">83/Autograph (Entwurf)/03 Ms_F_154_28r_29v_00004.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<note type="regest">Bullinger antwortet auf das wohlbegr&#252;ndete, schriftliche Gesuch um Auskunft &#252;ber Herkunft und Werdegang Beat Gerings sowie dessen Weggang aus [Bero-]M&#252;nster, aus dem Aargau und aus Z&#252;rich: Gerings Eltern und deren Namen sind nicht bekannt, er selbst gab an, in [Bero-] M&#252;nster bzw. in Luzern geboren worden zu sein; als seine Mutter einmal in Z&#252;rich war, erfuhr man, dass er ein uneheliches Kind sei, was [die Adressaten] vielleicht schon aus [Bero-] M&#252;nster selbst erfahren haben. In [Bero-] M&#252;nster ist Gering eine Zeitlang Pfarrer gewesen, vertrat aber die papistische und lutherische Abendmahlsauffassung, angeblich, weil er es nicht besser gewusst habe; &#252;ber seinen Abgang von dort gibt es keine [offizielle] Nachricht, wohl aber ein Ger&#252;cht, er habe dort in der Karwoche Ehebruch begangen und sei zur Strafe in den Finsteren Wald bei Einsiedeln geschickt worden. Anschlie&#223;end kam er nach Wettingen und Dietikon und danach als Pr&#228;dikant nach Schaffhausen durch Vermittlung M[artin] Bucers; danach durch F&#252;rsprache guter, befreundeter Menschen nach Z&#252;rich, wo er eifrig predigte und sich der rechten Abendmahlslehre beflei&#223;igte; doch zuletzt beging er Ehebruch mit der Dienstmagd [Agathe...] in seinem Haus; woraufhin seine Ehefrau <persName>Sabinella, geb. Buchser</persName>, die Scheidung verlangte und durchsetzte; Gering wurde deshalb inhaftiert und von seinem Dienst suspendiert; auf sein Verlangen wurde ihm ein Zeugnis ausgestellt; bevor er nach Basel abreiste, verabschiedete er sich nach einer Lesung [in der Prophezei] in Anwesenheit von 30 bis 40 Personen, bat um Verzeihung und versicherte, er h&#228;tte [der Magd] nicht die Ehe versprochen und wolle sie auch nicht [als Ehefrau] nehmen; doch kaum in Brugg, traf er bereits mit ihr als seiner Ehefrau im Gasthaus "Sternen" ein und heiratete sie auch danach in der Fremde [in Stra&#223;burg]. Bullinger w&#252;nschte, Besseres &#252;ber ihn sagen zu k&#246;nnen, dessen Lebenswandel allein der Grund f&#252;r Bullingers Abneigung ist; [die Z&#252;rcher] hatten die Stadt Bern gewarnt, als diese einen Pr&#228;dikanten suchte; man sollte nicht sagen k&#246;nnen, dass in Bern Prediger angestellt werden, die in Luzern und Z&#252;rich wegen Ehebruchs abgelehnt worden sind; dies schadet nur dem Evangelium und dem Ruf Berns.</note>
+					<s n="1" xml:lang="de" type="auto">Frommer, eerenvester, f&#252;rsichtiger und wyse[r]<note xml:id="fna" type="footnote" n="a"><hi>Randtext besch&#228;digt.</hi></note>, g&#252;nstiger, f&#252;rgeliepter herr und bru&#870;der, uns[er]<note xml:id="fnb" type="footnote" n="b"><hi>Die Endung scheint zu fehlen, m&#246;glicherweise wegen des besch&#228;digten Randes.</hi></note> fr&#252;ntlicher gru&#870;&#223;, williger dienst, fr&#252;ntschafft, liebe und was<note xml:id="fnc" type="footnote" n="c">was <hi>korrigiert aus einem anderen Wort.</hi></note> wir eeren und &#252;ch gefelligs w&#252;stend<note xml:id="fnd" type="footnote" n="d"><hi>Vielleicht als</hi> w&#252;&#223;tend <hi>zu lesen (Rand besch&#228;digt).</hi></note>, sye &#252;ch<note xml:id="fne" type="footnote" n="e">sye &#252;ch <hi>&#252;ber der Zeile nachgetragen.</hi></note> bevoran bereidt</s>
+					<s n="2" xml:lang="de" type="auto">Es langt gl&#246;upcklich durch eeren biderberl&#252;ten</s>
+					<s n="3" xml:lang="de" type="auto">Diewyl wir dann &#252;ch gar geneigt sind in disem und noch vil gr&#246;sserm ze dienen, w&#246;llend wir &#252;ch, was un&#223;<note xml:id="fnf" type="footnote" n="f"><hi>In der Vorlage irrt&#252;mlich</hi> &#252;n&#223;.</note> hiervon ze w&#252;ssen ist, kundtthu&#870;n; dem ist also: Wer sin vatter und mu&#870;ter xin<note xml:id="fng" type="footnote" n="g">ledig <hi>&#252;ber gestrichenem</hi> uneelich.</note><note xml:id="fnh" type="footnote" n="h">usset der ee <hi>am Rande nachgetragen (dar&#252;ber verwischtes</hi>n&#228;bend).</note><note xml:id="fni" type="footnote" n="i">etc. <hi>&#252;ber gestrichenem</hi> und.</note>.</s>
+					<s n="4" xml:lang="de" type="auto">Des<note xml:id="fnj" type="footnote" n="j"><hi>Von</hi> Des <hi>bis</hi> haben <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> alles m&#246;chtend ir gruntlichern bericht und kundtschafft von M&#252;nster haben<note xml:id="fnk" type="footnote" n="k"><hi>Von</hi> Des <hi>bis</hi> haben <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note>.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Zu&#870; M&#252;nster imm Erg&#246;w ist er ettlich zyt pfarrer gew&#228;sen.</s>
+					<s n="6" xml:lang="de" type="auto">Da hatt er h&#228;fftig den<note xml:id="fnl" type="footnote" n="l"><hi>Vor</hi> den <hi>gestrichen:</hi> u&#223; dem Luther wider die Z[winglischen].</note> artickel von g&#228;genwirtickeit des fleischs und blu&#870;ts imm brot des herren mitt dem bapst<note xml:id="fnm" type="footnote" n="m">mitt dem bapst <hi>&#252;ber der Zeile nachgetragen.</hi></note> und Luther<note xml:id="fnn" type="footnote" n="n">und Luther <hi>am Rande nachgetragen.</hi></note> wider unser leer und glouben triben, des man noch<note xml:id="fno" type="footnote" n="o"><hi>Vor</hi> noch <hi>gestrichenes</hi> vilicht.</note> kundtschafft zu&#870; M&#252;nster funde, er ouch hie Z&#252;rych nitt abred gew&#228;sen<pb type="scan" next="28v."/> noch nitt bericht gew&#228;sen</s>
+					<s n="7" xml:lang="de" type="auto">Wie er aber von M&#252;nster abgescheiden sye, habend wir ghein muntliche kundschafft, achtend aber, zu&#870; M&#252;nster wurde mans gruntlich finden uff dise meynung, wie die gmein sag an uns gelangt, namlich das er mitt schantlichem eebruch, den er mitt eins armen bidermans<note xml:id="fnp" type="footnote" n="p">Wald <hi>&#252;ber gestrichenem</hi> meryen <hi>oder</hi> margen.</note></s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Wie er nun nitt mee platz siner unthaaten halb by den sinen gehept, ist er gen Wettingen</s>
+					<s n="9" xml:lang="de" type="auto">Und alls er sich des orts beschwaret und becklagt, habend imm gu&#870;t herren und fr&#252;nd gen Z&#252;rych geholffen</s>
+					<s n="10" xml:lang="de" type="auto">Da hatt er ein zyt gepredigt und glychf&#246;rmig mitt uns geleert in all w&#228;g, insonders des sacraments halb; ist nun h&#228;fftig</s>
+					<s n="11" xml:lang="de" type="auto">Wie<note xml:id="fnq" type="footnote" n="q"><hi>Von</hi> Wie <hi>bis</hi> nitt <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> er jetzund ist, w&#252;ssend wir nitt<note xml:id="fnr" type="footnote" n="r"><hi>Von</hi> Wie <hi>bis</hi> nitt <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note>.</s>
+					<s n="12" xml:lang="de" type="auto">Ze letst aber hatt<note xml:id="fns" type="footnote" n="s"><hi>Nach</hi> hatt <hi>gestrichenes</hi> er <hi>oder</hi> es.</note> sich ein schantlicher, gantz ergerlicher handel beg&#228;ben, namlich das er ein magt oder dienst<pb type="scan" next="29r."/> und mitt ir die ee gebrochen; hatt das so lang getriben, bi&#223; die magt mitt dem kin[d]<note xml:id="fnt" type="footnote" n="t"><hi>Randtext besch&#228;digt.</hi></note> gangen ist.</s>
+					<s n="13" xml:lang="de" type="auto">Darzw&#252;schen hatt er gantz schantlich und bo&#223;lich mitt siner frommen eefrowen<note xml:id="fnu" type="footnote" n="u"><hi>Randtext besch&#228;digt.</hi></note> bo&#223;lich gehandlet etc.</s>
+					<s n="14" xml:lang="de" type="auto">Alls nun di&#223; an unserm korrgrycht</s>
+					<s n="15" xml:lang="de" type="auto">Sin<note xml:id="fnv" type="footnote" n="v"><hi>Von</hi> Sin <hi>bis</hi> g&#228;ben <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> eefrow l&#228;pt noch zu&#870; Aarow<persName>Sabinella Buchserin</persName>, m&#246;cht selbs kundtschafft g&#228;ben<note xml:id="fnw" type="footnote" n="w"><hi>Von</hi> Sin <hi>bis</hi> g&#228;ben <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note>.</s>
+					<s n="16" xml:lang="de" type="auto">Alls er nun u&#223; dem thurn kamm, beg&#228;rt er von uns kundtschafft</s>
+					<s n="17" xml:lang="de" type="auto">Die gaabend wir imm, das er sich by uns untzhar</s>
+					<s n="18" xml:lang="de" type="auto">Demnach vernamend wir, wie sin metz, die eebr&#228;cherin, sich mercken liesse, der pfaff mu&#868;st ir halten, was er iro zu&#870;gesagt, und er h&#228;tte iro die ee zu&#870;gesagt<note xml:id="fnx" type="footnote" n="x"><hi>&#220;ber</hi> ee zu&#870;gesagt <hi>sowie am Rande ausgewischte, nicht mehr lesbare Korrekturen.</hi></note> etc.</s>
+					<s n="19" xml:lang="de" type="auto">Dorumb wir inn ernstlich ansprachend, so<note xml:id="fny" type="footnote" n="y"><hi>Von</hi> und <hi>bis</hi> gescheiden <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> iro ettwas<note xml:id="fnz" type="footnote" n="z"><hi>Von</hi> und <hi>bis</hi> gescheiden <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note>, wer es noch schantlicher etc.; verlougnet er h&#228;fftig.</s>
+					<s n="20" xml:lang="de" type="auto">Doch gefiel uns die sach</s>
+					<s n="21" xml:lang="de" type="auto">Alls er nun den unwillen spurt<pb type="scan" next="29v."/> und obgemelte red h&#228;fftig gieng,<note xml:id="fnaa" type="footnote" n="aa"><hi>Vor</hi> mitt <hi>gestrichenes</hi> in sinem abscheid.</note> allen bru&#868;dern zu&#870; reden und uns allen ze gnaden</s>
+					<s n="22" xml:lang="de" type="auto">Alls es nun nach der letzgen</s>
+					<s n="23" xml:lang="de" type="auto">Hu&#870;b da wyter an, sich obgemelter red ze entschuldigen, ze protestieren<note xml:id="fnab" type="footnote" n="ab">ze protestieren <hi>&#252;ber der Zeile nachgetragen.</hi></note>, und sagt, er h&#228;tte sy<note xml:id="fnac" type="footnote" n="ac"><hi>Von</hi> und <hi>bis</hi> w&#246;lte etc. <hi>mit Einf&#252;gungen &#252;ber der Zeile korrigiert aus</hi> und ouch sy nimmer mee nemmen etc. <hi>Von-Bis-Anmerkung.</hi></note> gott w&#246;lte inn die schand nimmer erl&#228;ben lassen, dass er sy immer<note xml:id="fnad" type="footnote" n="ad"><hi>Undeutlich korrigiert aus</hi> nimmer.</note> mee<note xml:id="fnae" type="footnote" n="ae"><hi>Von</hi> und <hi>bis</hi> w&#246;lte etc. <hi>mit Einf&#252;gungen &#252;ber der Zeile korrigiert aus</hi> und ouch sy nimmer mee nemmen etc. <hi>Von-Bis-Anmerkung.</hi></note>.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto">Daruff zog er hinw&#228;g, und<note xml:id="fnaf" type="footnote" n="af"><hi>Von</hi> und <hi>bis</hi> gfu&#868;rt <hi>am Rande nachgetragen, ersetzt gestrichenes</hi> Gadt aber grad; <hi>Anfang des Nachtrags korrigiert aus</hi> Daruff ist er.<hi>Von-Bis-Anmerkung.</hi></note> ist nitt wyter dan[n]<note xml:id="fnag" type="footnote" n="ag"><hi>Randtext besch&#228;digt.</hi></note> gen Brugg, in &#252;wer statt<note xml:id="fnah" type="footnote" n="ah">in &#252;wer statt <hi>&#252;ber der Zeile nachgetragen.</hi></note>, zum Sternen<note xml:id="fnai" type="footnote" n="ai"><hi>Von</hi> und <hi>bis</hi> gfu&#868;rt <hi>am Rande nachgetragen, ersetzt gestrichenes</hi> Gadt aber grad; <hi>Anfang des Nachtrags korrigiert aus</hi> Daruff ist er.<hi>Von-Bis-Anmerkung.</hi></note> an der fr&#246;mbde<note xml:id="fnaj" type="footnote" n="aj"><hi>Von</hi> aber <hi>bis</hi> ergerlich <hi>&#252;ber der Zeile nachgetragen, ersetzt gestrichenes</hi> hin und nimpt sy zur ee, hatt sy ouch zu&#870; vor nie von imm thon und gar ergerlich.<hi>Von-Bis-Anmerkung.</hi></note> wider &#252;wer und unser reformation, und hatt darinn gar ergerlich<note xml:id="fnak" type="footnote" n="ak"><hi>Von</hi> aber <hi>bis</hi> ergerlich <hi>&#252;ber der Zeile nachgetragen, ersetzt gestrichenes</hi> hin und nimpt sy zur ee, hatt sy ouch zu&#870; vor nie von imm thon und gar ergerlich.<hi>Von-Bis-Anmerkung.</hi></note> gehandlet.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">So vil in der kurtze ist uns von h. Batten ze w&#252;ssen, dem wir wol gonnen<note xml:id="fnal" type="footnote" n="al"><hi>Von</hi> dann <hi>bis</hi> xin <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> wir imm nie dann alein in sinem b&#246;sen wandel ze wider xin<note xml:id="fnam" type="footnote" n="am"><hi>Von</hi> dann <hi>bis</hi> xin <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note></s>
+					<s n="26" xml:lang="de" type="auto">Das ist wol war, alls man darvon sagt, wie<note xml:id="fnan" type="footnote" n="an"><hi>Von</hi> ouch <hi>bis</hi> tr&#252;we <hi>&#252;ber der Zeile nachgetragen. Von-Bis-Anmerkung.</hi></note> gen Bernn geschryben<note xml:id="fnao" type="footnote" n="ao"><hi>Von</hi> ouch <hi>bis</hi> tr&#252;we <hi>&#252;ber der Zeile nachgetragen. Von-Bis-Anmerkung.</hi></note> und gesagt, das verkonnend wir<note xml:id="fnap" type="footnote" n="ap">predicanten <hi>&#252;ber der Zeile nachgetragen.</hi></note> finde<note xml:id="fnaq" type="footnote" n="aq"><hi>Endung undeutlich korrigiert</hi> (findt?).</note> dann eben ein s&#246;mlichen<note xml:id="fnar" type="footnote" n="ar">eben ein s&#246;mlichen <hi>&#252;ber der Zeile nachgetragen.</hi></note><note xml:id="fnas" type="footnote" n="as">und andere <hi>&#252;ber der Zeile nachgetragen.</hi></note> reden werdent, die kylch ze Bern n&#228;me<note xml:id="fnat" type="footnote" n="at">die kylch ze Bern n&#228;me <hi>korrigiert aus</hi> Berner n&#228;mend.</note> zu&#870; predicanten uff, die w&#228;der by den Lutzerneren<note xml:id="fnau" type="footnote" n="au">by den Lutzerneren <hi>&#252;ber gestrichenem</hi> by uns.</note> noch Z&#252;rychern schantlichs<note xml:id="fnav" type="footnote" n="av"><hi>Vor</hi> schantlichs <hi>gestrichenes</hi> bl[yben].</note> eebruchs halben habend blyben m&#246;gen etc., damitt<note xml:id="fnaw" type="footnote" n="aw"><hi>Von</hi> damitt <hi>bis</hi> wirt <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note> das evangelium verhasset und ein eeren statt ze Bern geschmutzt wirt<note xml:id="fnax" type="footnote" n="ax"><hi>Von</hi> damitt <hi>bis</hi> wirt <hi>am Rande nachgetragen. Von-Bis-Anmerkung.</hi></note>.</s>
+					<s n="27" xml:lang="de" type="auto">Das ist uns leyd xin</s>
+					<s n="28" xml:lang="de" type="auto">Die verlych</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

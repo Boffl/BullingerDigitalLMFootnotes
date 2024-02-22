@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file713" type="Brief" source="TUSTEP" n="19284">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Pierre Viret / Lausanne AN Heinrich Bullinger / Z&#252;rich, 19. Oktober 1549</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 338,1484</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Etsi urgente tabellario parum mihi ad scribendum temporis conceditur, nolui tamen hunc veterem nostrum amicum Robertum Stephanum</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XIII, S. 429ff, Nr. 1292</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="&#220;bersetzung">
+								<title>Pierre Viret d'apr&#232;s lui-m&#234;me (Hg. Schnetzler, Vuillemier, Schroeder) p. 97-100, Nr. 23</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 71,127</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/713">
+				<correspAction type="sent">
+					<persName ref="p3429" cert="high">
+						<!--
+						<surname cert="high">Viret</surname>
+						<forename cert="high">Pierre</forename>
+						<graphic type="portrait" url="portraits/3429_Viret_Pierre.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Pierre_Viret"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118873954"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11419865"/>
+						-->
+					</persName>
+					<placeName source="l280" cert="high"><orig>Lausanne</orig></placeName>
+					<date when="1549-10-19" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file714"/>
+					<ref type="prev_chronologically" target="file712"/>
+					<ref type="next_correspondence" target="file790"/>
+					<ref type="prev_correspondence" target="file641"/>
+					<ref type="next_correspondence_request" target="file790"/>
+					<ref type="prev_correspondence_request" target="file641"/>
+					<ref type="next_correspondence_reaction" target="file3881"/>
+					<ref type="next_same_sender" target="file746"/>
+					<ref type="prev_same_sender" target="file641"/>
+					<ref type="next_same_addressee" target="file725"/>
+					<ref type="prev_same_addressee" target="file700"/>
+					<ref type="next_with_sender_as_addressee" target="file746"/>
+					<ref type="prev_with_sender_as_addressee" target="file641"/>
+					<ref type="next_with_addressee_as_sender" target="file725"/>
+					<ref type="prev_with_addressee_as_sender" target="file700"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/713%2FAutograph%2F00%20E_II_338__fol__1484_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">713/Autograph/00 E_II_338__fol__1484_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/713%2FAutograph%2F01%20E_II_338__fol__1484_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">713/Autograph/01 E_II_338__fol__1484_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Etsi urgente tabellario parum mihi ad scribendum temporis conceditur, nolui tamen hunc veterem nostrum amicum Robertum Stephanum sine literis ad te a me dimittere.</s>
+					<s n="3" xml:lang="la" type="auto">Fasciculum literarum quem nuper ad me misisti sedulo et tuto curavi ad Calvinum perferendum, quibus eum etiam respondisse per hunc tabelarium non dubito.</s>
+					<s n="4" xml:lang="la" type="auto">Gratissimus et fructuosissimus omnibus ecclesiis futurus est iste vester labor et studium ad mutuam consensionem, et ecclesiarum pacem et conciliationem.</s>
+					<s n="5" xml:lang="la" type="auto">Vix credas quam apud nos gaudio exiliant pii viri omnes, et quam contundat malleus hic nostr&#281; omnium concordi&#281; adversariorum capita.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Dominus vos diu conservet su&#281; ecclesi&#281; incolumes, et feliciorem subinde det exitum piis vestris laboribus et successum conatibus.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Quam me recrearint et omnes fratres meos liter&#281; tu&#281; vix credibile est.</s>
+					<s n="8" xml:lang="la" type="auto">Illi te et omnes tuos symmystas officiosissime salutant.</s>
+					<s n="9" xml:lang="la" type="auto">Vestri iuvenes nobis cur&#281; erunt.</s>
+					<s n="10" xml:lang="la" type="auto">Non praestitimus quod apud vos testati sunt.</s>
+					<s n="11" xml:lang="la" type="auto">Sed indies, quod hactenus defuit sarcire studebimus.</s>
+					<s n="12" xml:lang="la" type="auto">Schol&#281; nostr&#281; augentur indies, doctorum virorum et scholasticorum numero.</s>
+					<s n="13" xml:lang="la" type="auto">Maxima undique affulget spes profectus deinceps uberioris.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Unum superest solum quod nobis maximam gaudii quod conceperamus partem deflorat ac etiam consternat in mediis voluptatibus, quarum iam nobis gustum suavissimum pr&#281;buerat spes h&#281;c nostra futur&#281; inter ecclesias concordi&#281;.</s>
+					<s n="15" xml:lang="la" type="auto">Atque utinam id ipsum eius esset generis, merito ut dolere et conqueri frustra videri possemus.</s>
+					<s n="16" xml:lang="la" type="auto">Sed res tnti est momenti ut, si persistatur in hac sententia, maximum sit moerorem piis omnibus et rerum peritis in ecclesiarum administratione apud nos allatura.</s>
+					<s n="17" xml:lang="la" type="auto">Ecce dum vires pene fractas et collapsas ex tam acerbo ecclesie!</s>
+					<s n="18" xml:lang="la" type="auto">luctu recolligere incipimus, et accingere studiosius nos ad ecclesi&#281; &#281;dificium, aufertur id ipsum nobis quod pene solum relictum fuerat, quod aliquam habere videretur veteris ecclesi&#281; formam, et ilud exercitationis genus, quo nihil potuit utilius aut magis necessarium nostris ecclesiis excogitari<note xml:id="fna" type="footnote" n="a">tarij</note>, quidquid alii iudicent.</s>
+					<s n="19" xml:lang="la" type="auto">Nos loquimur quod sumus experti.</s>
+					<s n="20" xml:lang="la" type="auto">Alii videant ne de re ignota iudicent.</s>
+					<s n="21" xml:lang="la" type="auto">Non videntur fuisse facile tollenda paucorum consilio qu&#281; gravissimas ob causas fuerant pridem instituta, et confirmata hactenus omnium synodorum autoritate et magistratus consensu.</s>
+					<s n="22" xml:lang="la" type="auto">Si qui inventi sunt qui optimo sunt abusi instituto, corrigantur et ent poenas su&#281; protervi&#281;, non tota ecclesia.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Quod si sunt tollenda omnia quibus improbi homines interdum abutuntur, quid erit tam sanctum quod non abrogare sit necesse?</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Res certe postulabat gravem et seriam totius ecclesi&#281; consultationem.</s>
+					<s n="25" xml:lang="la" type="auto">Quo animo putas fratres omnes hanc agendi rationem ferre posse?</s>
+					<s n="26" xml:lang="la" type="auto">Necessitati non reluctabuntur praefractius, sed viderint quam sint Deo rationem reddituri huius consilii autores.</s>
+					<s n="27" xml:lang="la" type="auto">Non dubitamus quin pius senatus solam Die gloriam spectarit, et ecclesiarum pacem et concordiam: sed cum de omnibus ageretur ecclesiis, et pridem recepta et tamdiu approbata sancta consuetudine, non debuerunt contemni, ab iis qui sunt consulti, aliorum consilia, quorum res agebatur, qui versantur quotidie in re pr&#281;senti.</s>
+					<s n="28" xml:lang="la" type="auto">non enim dubito quin aliud longe visum fuisset si audit&#281; fuissent rationes quas proferre vere et bona conscientia possumus.</s>
+					<s n="29" xml:lang="la" type="auto">Sed quia de his alias sumus copiosius scripturi, et hanc causam acturi diligentius, nunc plura non addam.</s>
+					<s n="30" xml:lang="la" type="auto">Hoc solum te oratum velim in pr&#281;sentia, ut fratrum nomine apud Bernensis ecclesi&#281; ministros intercedas, studiis nostris ne adversentur sed faveant.</s>
+					<s n="31" xml:lang="la" type="auto">Spero enim futurum ut classes intercedant suo quamque nomine, nisi valde fallor, quia boni omnes valde commoti sunt.</s>
+					<s n="32" xml:lang="la" type="auto">Sed agentur omnia summa moderatione ex verbo Die, cui non suspicamur reluctaturos qui ei hactenus semper faverunt impenissime.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Nostri te omnes salutant.</s>
+					<s n="34" xml:lang="la" type="auto">Hic pius vir qui cum Roberto Stephano est me rogavit ut duos hosce iuvenes quos istic habet secum tibi commendarem.</s>
+					<s n="35" xml:lang="la" type="auto">Quod profecto facerem diligenter, nisi satis tibi esse commendatos existimarem a domino Calvino.</s>
+					<s n="36" xml:lang="la" type="auto">Interea mihi ignoscas, oro, si liberius scripserim, et familiarius egerim tecum, in cuius sinum me totum effundo.</s>
+					<s n="37" xml:lang="la" type="auto">Ubi cognoveris exactius nostrarum querelarum causas, sat scio, non mirabere nos conqueri, sed potius si secus factum esset.</s>
+					<s n="38" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Lausann&#281; 19. octob. 1549.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Tuus deditissimus Petrus Viretus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="41" xml:lang="la" type="auto">Clarissimo viro D. Henricho Bullingero Tigurin&#281; ecclesi&#281; antistiti fratri et symmyst&#281; plurimum observando.</s>
+					<s n="42" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

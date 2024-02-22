@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file319" type="Brief" source="TUSTEP" n="18272">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Griesenberg] AN Heinrich Bullinger / Z&#252;rich, [26. Oktober 1548]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 357,545</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Es stat zu Costentz ymmer ye lenger ye erger mitt aller lichtfertikait in fressen, suffen, spylen, gotzlesteren</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Blarer BW II, S. 751f</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="de">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 68,86</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/319">
+				<correspAction type="sent">
+					<persName ref="p8055" cert="low">
+						<!--
+						<surname cert="low">Blarer (Blaurer)</surname>
+						<forename cert="low">Ambrosius</forename>
+						<graphic type="portrait" url="portraits/392_Blarer_Ambrosius.png"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Ambrosius_Blarer"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118663763"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11445074"/>
+						-->
+					</persName>
+					<placeName source="l184" cert="low"><orig>Griesenberg</orig></placeName>
+					<date when="1548-10-26" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file320"/>
+					<ref type="prev_chronologically" target="file318"/>
+					<ref type="next_correspondence" target="file322"/>
+					<ref type="prev_correspondence" target="file313"/>
+					<ref type="next_correspondence_request" target="file322"/>
+					<ref type="prev_correspondence_request" target="file313"/>
+					<ref type="next_correspondence_reaction" target="file526"/>
+					<ref type="prev_correspondence_reaction" target="file311"/>
+					<ref type="next_same_sender" target="file322"/>
+					<ref type="prev_same_sender" target="file313"/>
+					<ref type="next_same_addressee" target="file320"/>
+					<ref type="prev_same_addressee" target="file317"/>
+					<ref type="next_with_sender_as_addressee" target="file322"/>
+					<ref type="prev_with_sender_as_addressee" target="file313"/>
+					<ref type="next_with_addressee_as_sender" target="file320"/>
+					<ref type="prev_with_addressee_as_sender" target="file317"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="35">Latein</language>
+				<language ident="de" usage="965">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/319%2FAutograph%2F00%20E_II_357__fol__545_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">319/Autograph/00 E_II_357__fol__545_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/319%2FAutograph%2F01%20E_II_357__fol__545_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">319/Autograph/01 E_II_357__fol__545_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="de">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="de" type="auto">Es stat zu&#870; Costentz ymmer ye lenger ye erger mitt aller lichtfertikait in fressen, suffen, spylen, gotzlesteren, hurerey, tantzen, in welch laster und lichtfertikait ain grosser tail der burger ouch gerathen, und nympt alles t&#228;glich zu&#870;, nitt anderst dann samm man alles erstatten welle, was by&#223;anher durch gu&#870;te zuchtordnung versumpt worden.</s>
+					<s n="2" xml:lang="de" type="auto">Dem herren gott im hochsten himel seye es geklagt etc.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Man nympt ettlich burger ouch zu&#870; s&#246;ldner an; aber doch, welche schwytzerland, sollend darzu&#870; nitt zu&#870;gelassen werden us&#223; bevelch des obersten.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto">Der oberst, Niclau&#223; von Bolwyl, vom adel, hat ain gr&#228;ffin zu&#870; aim wyb, und ist er ouch zu&#870; aim freyherren gemacht, etwan franz&#246;sisch gewesen, ain gar wundergschwynder kopff, der schon alle glegenhait gantzer statt mitt allem inkommen und ussgab von minsten by&#223; auff das maist in kopff gefasset, ouch der burger und sonderer personen sachen und wesen wunderbarlich durchfumtelet, davon ain bu&#870;ch ze schriben.</s>
+					<s n="5" xml:lang="de" type="auto">Ist schier uber den Julium C[aesarem], dictatorem etc., aber ain grymmer mann; trinckt von des&#223;wegen gar kain wyn, das er nitt gar unsynnig werde.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Uff morn wirt ain ratsbottschafft, doch nun ain person, namlich Hans Muntprot, zum k&#246;nig ryten etc. sampt ainem schriber; soll werben um relaxierung der arrest, um uffhebung der acht, und das der konig die statt vertretten welle gegen pfaffen unnd allen, die ansprach an sy habind, mitt ettlich andern derglichen articuln.</s>
+					<s n="7" xml:lang="de" type="auto">Aber der frommen us&#223;getrettnen gedenckend sy nienen, begerend ouch kainer predig noch ychtzit, so die religion belangt.</s>
+					<s n="8" xml:lang="de" type="auto">Ach gott vom himel, des grossen jomers!</s>
+					<s n="9" xml:lang="de" type="auto">Und der gmain mann ist bereddt, man werd inen ain prediger lassen, und habe man darum angesu&#870;cht.</s>
+					<s n="10" xml:lang="de" type="auto">Diser gesandt ist ain gantz ungebruchter mann, der doch gar nitt zu&#870; s&#246;lichen sachen tougt etc.</s>
+					<s n="11" xml:lang="de" type="auto">Aber da ist nieman dahaim.</s>
+					<s n="12" xml:lang="de" type="auto">Der oberst hat nitt ainen noch ersechen k&#246;nnen im rath, den er disem dorffte zu&#870;geben, und ist diser ouch dem handel kainswegs gem&#228;s&#223;.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto">Ach, wie offt mu&#870;s&#223; di&#223; regiment noch schamrot werden!</s>
+					<s n="14" xml:lang="de" type="auto">Aber allso soll und mu&#870;s&#223; es gohn; ist gottes gerecht urtail.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto"><foreign xml:lang="la">Capita praecipua iuramenti:</foreign> den k&#246;nig fu&#868;r ain erbherren zu&#870; haben und erkennen in ewigkait; was ir majestat in der alten christlichen religion fu&#868;rnemen werde, demselbigen zu&#870; geleben; kaine pundtnus&#223; mitt yeman ze machen; allen mandaten des konigs fu&#868;rohin gehorsam ze sein; sich in die kriegsz&#252;ge geprauchen ze lassen.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Vyl thaimherren und pfaffen sind in der statt gewesen, ire heuser und h&#246;f besichtiget.</s>
+					<s n="17" xml:lang="de" type="auto">Ich wai&#223; von fu&#868;rnemen under inen, das sy all &#252;bel zefriden, das die stat kongisch.</s>
+					<s n="18" xml:lang="de" type="auto">Ettlich under inen sagend: da die von Costentz den pfaffen wyter nitt haben wyssen zu&#870; laid ze thain, seyen sy konigisch worden; habind inen selbs und den pfaffen ain ru&#870;ten uber den hindern gemacht, die sy zu&#870; baiden tailen nitt fr&#246;wen werden.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Man hat allen ustrettnen ire gu&#868;tter arrestiert, inventiert, yederman by dem aid gebotten, alles anzu&#870;z&#246;gen.</s>
+					<s n="20" xml:lang="de" type="auto">Man nympt inen allerlay us&#223; den h&#252;sern, und versicht man sich, sy mu&#868;ssind komen um alles, das sy in der statt und uff dem andern boden habind, und ist kain truw gegen den frommen leuten, die doch nichts gehandelt, dann das inen bevolchen gewesen, ja vyl minder dann vyl ander, die es yetz gu&#870;t habend.</s>
+					<s n="21" xml:lang="de" type="auto">Gott erbarme sich der lieben, gu&#870;ten leut hie und ewigklich!</s>
+				</p>
+				<p>
+					<note type="signature">[Unterschrift fehlt.]</note>
+					<note type="address">[Adresse:]</note>
+					<s n="22" xml:lang="la" type="auto">Praestantissimo viro D. Heinricho Bullingero, venerando charissimoque fratri suo</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

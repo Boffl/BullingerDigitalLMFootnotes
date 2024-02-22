@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1637" type="Brief" source="TUSTEP" n="22106">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Georg Fr&#246;lich (Laetus) / Augsburg AN Heinrich Bullinger / Z&#252;rich, 10. Mai 1552</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 346,274</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Que presagivi, cum proxime apud te essem, nunc in propatulo sunt. Perstringerem lubens omnia ad unguem</incipit>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 77,164</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1637">
+				<correspAction type="sent">
+					<persName ref="p8354" cert="high">
+						<!--
+						<surname cert="high">Fr&#246;lich (Laetus)</surname>
+						<forename cert="high">Georg</forename>
+						<ref type="gnd" target="https://d-nb.info/gnd/129465291"/>
+						-->
+					</persName>
+					<placeName source="l18" cert="high"><orig>Augsburg</orig></placeName>
+					<date when="1552-05-10" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1638"/>
+					<ref type="prev_chronologically" target="file1636"/>
+					<ref type="next_correspondence" target="file1852"/>
+					<ref type="prev_correspondence" target="file1486"/>
+					<ref type="next_correspondence_request" target="file1852"/>
+					<ref type="prev_correspondence_request" target="file1486"/>
+					<ref type="prev_correspondence_reaction" target="file12511"/>
+					<ref type="next_same_sender" target="file1852"/>
+					<ref type="prev_same_sender" target="file1486"/>
+					<ref type="next_same_addressee" target="file1654"/>
+					<ref type="prev_same_addressee" target="file1604"/>
+					<ref type="next_with_sender_as_addressee" target="file1852"/>
+					<ref type="prev_with_sender_as_addressee" target="file1486"/>
+					<ref type="next_with_addressee_as_sender" target="file1654"/>
+					<ref type="prev_with_addressee_as_sender" target="file1604"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="32">Deutsch</language>
+				<language ident="la" usage="968">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1637%2FAutograph%2F00%20E_II_346__fol__274_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1637/Autograph/00 E_II_346__fol__274_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1637%2FAutograph%2F01%20E_II_346__fol__274_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1637/Autograph/01 E_II_346__fol__274_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1637%2FAutograph%2F02%20E_II_346__fol__274_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1637/Autograph/02 E_II_346__fol__274_a_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1637%2FAutograph%2F03%20E_II_346__fol__274_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1637/Autograph/03 E_II_346__fol__274_a_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Qu&#281; pr&#281;sagivi, cum proxime apud te essem, nunc in propatulo sunt.</s>
+					<s n="3" xml:lang="la" type="auto">Perstringerem lubens omnia ad unguem</s>
+					<s n="4" xml:lang="la" type="auto">Augustana respublica cum principibus conf&#281;deratis facile pepigit.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ulmenses tam religionem puram quam maiorum suorum privilegia penitus respuunt; propterea ipsis tantum cum papistis convenit.</s>
+					<s n="6" xml:lang="la" type="auto">Hauserunt fortassis spem et consolacionem nunquam apparituram.</s>
+					<s n="7" xml:lang="la" type="auto">Ego quidem valde timeo, ne intra paucos dies misere obruantur.</s>
+					<s n="8" xml:lang="la" type="auto">Territorio et possessionibus suis sunt omnino privati; quodsi insuper expugnabuntur ex civitate, vix pagus erunt, ita iuraverunt principes.</s>
+					<s n="9" xml:lang="la" type="auto">Rex Galli&#281; ad Rhenum belligerat, nescio autem quibus avibus.</s>
+					<s n="10" xml:lang="la" type="auto">Dux Mauricius Saxo Lyntzii tractavit de pace cum rege Ferdinando, qui omnem movet lapidem, ut negotium componatur; iam se contulit ad C&#281;sarem condiciones pacis in triduo ad principes rescripturus, qu&#281;, ut quidam principum mihi retulit, eiusmodi sunt, ut Germanis neutiquam sint detrectand&#281;.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Consistit ergo pax et bellum post deum in arbitrio Galli, qui haud dubie longe repetiturus est, quatenus fidendum et concedendum sit; priores enim compositiones faciunt eum cautum.</s>
+					<s n="12" xml:lang="la" type="auto">Quantum ego coniectura adsequi possum, fere universi Germani&#281; principes exceptis episcopis (quibus meo iudicio titulus principalis brevi decedet) unanimes sunt, non tamen aperte.</s>
+					<s n="13" xml:lang="la" type="auto">Magna profecto recuperand&#281; libertatis oportunitas nobis offertur, si ea uti velimus; cum vero tot papist&#281; aliquot annis hactenus recens emerserint, inter quos perdita Ulma non minima est, nescitur, quid deo visum fuerit.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Magistratus Augustanus pristino ordini restitutus est, sed per inscitiam aut potius oscitantiam accidit, ut pessimi papales in senatum recepti sint, ita ut piis ne verbum quidem contra Sathan&#281; regnum vel hiscere queant, quod non adversariis reveletur.</s>
+					<s n="15" xml:lang="la" type="auto">Putant porro fore, ut aliquando eiiciantur, o calculum fallibilem.</s>
+					<s n="16" xml:lang="la" type="auto">Audio pr&#281;terea revocatos esse nonnullos ex prioribus &#281;cclesiasticis nostris; cur autem nondum adsint, ignoro.</s>
+					<s n="17" xml:lang="la" type="auto">Malevoli valde disputant de iuramento ipsorum de non redeundo in urbem facto; si potuerunt senatus C&#281;sariani iuramenta solvi, poterunt etiam me iudice dissolvi, qu&#281; nonnisi coacte contra pietatem et contra ius facta sunt.</s>
+					<s n="18" xml:lang="la" type="auto">Ego sum et ero in hoc totus, ut primum qu&#281;ratur regnum dei, inconsyderato quid deinde subsecuturum sit.</s>
+					<s n="19" xml:lang="la" type="auto">Cum itaque tanta rerum immutatio hic facta esset et in dubium veniret, an ego ab omni civitatis functione et sacramento liber essem, pecii liberationis beneficium instantissime, quod autem impetrare non potui; obtulerunt ergo mihi functionem pristinam, a qua ita abhorreo, ut mallem durissima qu&#281;que pati quam iterum sic implicari.</s>
+					<s n="20" xml:lang="la" type="auto">Causa hac mea diu multumque hincinde ventilata tandem eo deventum est, ut ego functionem advocati... et consiliarii senatus susceperim, essetque bene mecum actum, nisi diuturni bellorum motus obstarent et nisi... Augustana confessio nimirum semipapismus nos olim non divexaret.</s>
+					<s n="21" xml:lang="la" type="auto">Constitueram sane prorsus apud me propter sanam religionem me ad Helvetios conferre; sed patulus mihi locus fere nusquam ibi erat.</s>
+					<s n="22" xml:lang="la" type="auto">Non parum certe s&#281;pius admiratus sum, cur Letus exulans usque adeo derelictus fuerit, qui tamen extraneis benefacere tantopere studuerit.</s>
+					<s n="23" xml:lang="la" type="auto">Fiat ergo adhuc, quod bonum est in oculis domini.</s>
+					<s n="24" xml:lang="la" type="auto">Te oro efflictim, ut aliquando ad me scribas; nunc scribere non adeo periculosum est, ut fuit.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Respublica Norinbergensis cum liberatoribus patri&#281; iamdudum, licet clam, accordavit.</s>
+					<s n="26" xml:lang="la" type="auto">Quomodo se Arg[ent]inenses gesturi sint, pauci dies declarabunt; mihi quidem refertur illos Augustanis cito similes futuros.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vos, pro quibus nunc etiam pugnatur, orate dominum pro f&#281;lici et salutari harum rerum progressu, ut, si qui manum non adhibent, adhibeant animum.</s>
+					<s n="28" xml:lang="la" type="auto">Nescio profecto, quam tuti fuissetis aliquando, nisi nostra calamitas vestrum fuisset propugnaculum.</s>
+					<s n="29" xml:lang="la" type="auto">Vale, vir clarissime atque ex intimis chare.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Dic ex me salutem cunctis bonis, precipue dominis consulibus, Gvaltero, Hallero, Gessnero, Bibliandro, Pellicano, Gvolffio, Frisio etc.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Raptim ex Augusta 10. maii 1552.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Tuus Georgius L&#281;tus reipublic&#281; Augustan&#281; a consiliis.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto">Dem erwirdigen unnd hochgelerten herren Heinrichen Bullinger, vorgeern</s>
+					<s n="34" xml:lang="de" type="auto">Zu[rch].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

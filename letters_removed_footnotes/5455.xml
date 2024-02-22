@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file5455" type="Brief" source="TUSTEP" n="32148">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Z&#252;rich] AN Johannes Calvin, 7. September 1562</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 342,441</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Quod mense Aprili et Maio futurum timui</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>C.O. XIX, S. 517f, Nr. 3848</title>
+							</bibl>
+							<bibl type="Literatur" subtype="Erw&#228;hnung">
+								<title>Bouvier 294</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 105,96</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/5455">
+				<correspAction type="sent">
+					<persName ref="p495" cert="low">
+						<!--
+						<surname cert="low">Bullinger</surname>
+						<forename cert="low">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="low"><orig>Z&#252;rich</orig></placeName>
+					<date when="1562-09-07" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p540" cert="high">
+						<!--
+						<surname cert="high">Calvin</surname>
+						<forename cert="high">Johannes</forename>
+						<graphic type="portrait" url="portraits/540_Calvin_Johannes.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Johannes_Calvin"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118518534"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11418245"/>
+						-->
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file5456"/>
+					<ref type="prev_chronologically" target="file5454"/>
+					<ref type="next_correspondence" target="file5457"/>
+					<ref type="prev_correspondence" target="file5424"/>
+					<ref type="next_correspondence_request" target="file5459"/>
+					<ref type="prev_correspondence_request" target="file5416"/>
+					<ref type="next_correspondence_reaction" target="file5457"/>
+					<ref type="prev_correspondence_reaction" target="file5424"/>
+					<ref type="next_same_sender" target="file5459"/>
+					<ref type="prev_same_sender" target="file5452"/>
+					<ref type="next_same_addressee" target="file5457"/>
+					<ref type="prev_same_addressee" target="file5424"/>
+					<ref type="next_with_sender_as_addressee" target="file5459"/>
+					<ref type="prev_with_sender_as_addressee" target="file5452"/>
+					<ref type="next_with_addressee_as_sender" target="file5457"/>
+					<ref type="prev_with_addressee_as_sender" target="file5424"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/5455%2FAutograph%2F00%20E_II_342__fol__441_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">5455/Autograph/00 E_II_342__fol__441_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/5455%2FAutograph%2F01%20E_II_342__fol__441_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">5455/Autograph/01 E_II_342__fol__441_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Quod mense aprili et maio futurum timui, cunctationem illustrissimi principis perdituram et ipsum et ecclesias non modo Galliae, sed et aliorum regnorum aut saltem in discrimen coniectur m maximum, id nunc factum esse ex tuis literis intelligo ingenti meo cum dolore.</s>
+					<s n="3" xml:lang="la" type="auto">Noluit bonus princeps videri cupidus et sitiens sanguinis humani.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">At quantus interea innoxius effusus est sanguis!</s>
+					<s n="5" xml:lang="la" type="auto">Quis vero finis erit?</s>
+					<s n="6" xml:lang="la" type="auto">Et quanquam nihil fiat, quod non ita futurum praeviderim, cum mores impiorum Galliae ex moribus nostrorum, qui in Helvetia et Germania hostium nostrae religionis sunt, optime mihi sint perspecti et artes mirificae ipsorum cognitae, attamen nescio, si unquam, licet intra hos mei ministerii annos quadraginta varios sim expertus labores et dolores senserim vehementissimos, tanta affectus maestitia indoluerim gravius.</s>
+					<s n="7" xml:lang="la" type="auto">Interim recurro ad thronum gratiae et supplex a clementissimo patre misericordiam imploro et ecclesiam meae fidei creditam subinde urgeo ac confido dominum pro sua gratia et potentia nobis et afflictissimis ecclesiis suis non defuturum.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Debemus nos illi omnia nostra ac scimus prudentissime et aequissime illum sancta sua providentia gubernare omnia.</s>
+					<s n="9" xml:lang="la" type="auto">Subiiciamus ergo nos illi deprecantes culpam, et ne nobis rependat pro nostris meritis.</s>
+					<s n="10" xml:lang="la" type="auto">Oro, ut vel per te vel per Ionvilleum vel per alium fratrem ad nos semper scribas, quid fiat in Gallia, sive hoc bonum sive denique malum sit.</s>
+					<s n="11" xml:lang="la" type="auto">Accepi Basilea literas a d. Beza scriptas; dubito tamen, an Genevam an in Galliam redierit.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ubiubi sit, cupio illum bene valere et oro dominum, ut eius ministerio utatur, sicuti hucusque fecit, ad profectum ecclesiarum.</s>
+					<s n="13" xml:lang="la" type="auto">Quaeso, salutare illum digneris amicissime.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Misi ad te librum a Stancaro scriptum contra te, Martyrem et me;<note xml:id="fna" type="footnote" n="a">De Trinitate et Mediatore Domino Nostro Jesu Christo, adversus Hericum Bullingerum, Petrum Mertyrem et Joannem Calvinum, et reliquos Tigurinae ac Geneuesis ecclesiae Ministros ecclesiare Dei perturbatores. Ad Magnificos et Generoosos Nobiles Polonos, ac eorum Ministros &#224; variis Pseudoeuangelicis seductos Krak&#243;w, Haered. Marek Szarfenberg, 1562 (<bibl>USTC</bibl> 241799).</note> dubito, an receperis etc.</s>
+					<s n="15" xml:lang="la" type="auto">Optime vale, domine colendissime et frater charissime.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Dominus Iesus benedicat tibi!</s>
+					<s n="17" xml:lang="la" type="auto">Salutant te fratres; salutato etiam tu amicos et fratres.</s>
+					<s n="18" xml:lang="la" type="auto">7. septembris 1562.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Clarissimo viro d. Ioanni Calvino, Genevensis ecclesiae pastori fidelissimo, domino honorando et fratri charissimo suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file8623" type="Brief" source="TUSTEP" n="41057">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Odoardus de Thienes (Thyen&#228;us) / Heidelberg AN Heinrich Bullinger / Z&#252;rich, [2. August 1571]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 367,258</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Quando ad nos venit piissimus vir, D. Benedictus Aretius...</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/8623">
+				<correspAction type="sent">
+					<persName ref="p8510" cert="high">
+						<!--
+						<surname cert="high">de Thienes (Thyen&#228;us)</surname>
+						<forename cert="high">Odoardus</forename>
+						-->
+					</persName>
+					<placeName source="l210" cert="high"><orig>Heidelberg</orig></placeName>
+					<date when="1571-08-02" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file8624"/>
+					<ref type="prev_chronologically" target="file8622"/>
+					<ref type="next_correspondence" target="file9396"/>
+					<ref type="prev_correspondence" target="file8169"/>
+					<ref type="next_correspondence_request" target="file9396"/>
+					<ref type="prev_correspondence_request" target="file8169"/>
+					<ref type="next_same_sender" target="file9396"/>
+					<ref type="prev_same_sender" target="file8169"/>
+					<ref type="next_same_addressee" target="file8625"/>
+					<ref type="prev_same_addressee" target="file8622"/>
+					<ref type="next_with_sender_as_addressee" target="file9396"/>
+					<ref type="prev_with_sender_as_addressee" target="file8169"/>
+					<ref type="next_with_addressee_as_sender" target="file8625"/>
+					<ref type="prev_with_addressee_as_sender" target="file8622"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/8623%2FAutograph%2F00%20E_II_367__fol__258_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">8623/Autograph/00 E_II_367__fol__258_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/8623%2FAutograph%2F01%20E_II_367__fol__258_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">8623/Autograph/01 E_II_367__fol__258_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Observande in Christo pater.</s>
+					<s n="2" xml:lang="la" type="auto">Quando ad vos venit piissimus vir d. Benedictus Aretius, purissimam istam ecclesiam invisurus, his te literis salutare visum est, quo certior fias me grata semper memoria probitatem et humanitatem erga me tuam prosequi ac etiam, ut si qua in re opera mea uti libitum fuerit, omne meum tibi offeram studium.</s>
+					<s n="3" xml:lang="la" type="auto">Insuper volui pro mea erga te observantia tibi indicare singulare dei optimi maximi erga me beneficium, quo me dignum duxit, qui propter nomen suum a communi hoste antichristo persecutionem patiar.</s>
+					<s n="4" xml:lang="la" type="auto">Is enim dum mihi dixit, ut me ad suum inquisitionis tribunal sistam et publicam me&#281; fidei edam confessionem.</s>
+					<s n="5" xml:lang="la" type="auto">Ego vero, quamvis eum pro meo domino aut iudice nec agnoscam nec agnoscere debeam, sed potius pro Christi hoste ac membrum suorum tyranno acer[r]imo, volui tamen summam doctrinae, quam profiteor, omnibus patefacere, tum quia dei verbum ita nos admonet, tum etiam ut, si ulterius progredi et me condemnare velit, quemadmodum non dubito eum pro sua immani rabie non esse facturum, pateat, quam inique id agat, et ita omnibus magis ac magis se ipsum prodat, nempe se esse filium illum perditionis</s>
+					<s n="6" xml:lang="la" type="auto">Iccirco autem hanc professionem lingua nostra vernacula scriptam edidi, quia hac ratione fratribus nostris, qui degunt in Italia, utiliorem fore duxi.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Nihilominus ad te mittendam censui, ut scias, quod te semper debita reverentia prosecutus sum.</s>
+					<s n="8" xml:lang="la" type="auto">Commendo me tuis apud deum nostrum precibus; nam quod ad me attinet, donorum spiritus sancti, quae large tibi ad aedificationem ecclesiae communicata sunt, summum a deo incrementum et opto et assidue peto.</s>
+					<s n="9" xml:lang="la" type="auto">Salutem plurimam meo nomine dicas velim symmystis tuis doctissimis piissimisque viris.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Datum Heidelberghiae quarto nonas augusti.</s>
+					<s n="11" xml:lang="la" type="auto">Tuus in Christo filius Odoardus Thyenaeus, Cyconiae comes.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Clarissimo ac piissimo theologo ac Iesu Christi ministro domino Henrico Bullinghero, patri in Christo honorando etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

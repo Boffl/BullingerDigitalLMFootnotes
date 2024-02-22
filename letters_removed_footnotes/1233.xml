@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file1233" type="Brief" source="TUSTEP" n="21076">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Anne Hooper (geb./verw.? t'Serclaes) / London AN Heinrich Bullinger / Z&#252;rich, [3. April 1551]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Z&#252;rich</pubPlace>
+				<address>
+					<addrLine>Institut f&#252;r Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Z&#252;rich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universit&#228;t Z&#252;rich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2023"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="transcription">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="footnotes">Vorl&#228;ufige Transkription der HBBW-EditorInnen</bibl>
+				<bibl type="scan">Z&#252;rich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a94">
+							<name>Z&#252;rich StA</name>
+							<ref target="https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Staatsarchiv</institution>
+						-->
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 369,203</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>Accepi literas tuas, quibus veluti in speculo, quantum pro nobis sis sollicitus, conspexi.</incipit>
+							<textLang>la</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt">
+								<title>Ep. Tig. III, S. 68f, Nr. 49</title>
+							</bibl>
+							<bibl type="Gedruckt">
+								<title>Zurich Letters III, S. 107f, Nr. 49</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>West, A study of Hooper 74</title>
+							</bibl>
+							<bibl type="Literatur">
+								<title>D.A. Scales 18 (Anm. 2), 23, 24, 27, 28</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Brief" subtype="Kopie" xml:lang="la">
+					<msIdentifier>
+						<!--
+						<repository ref="a96">
+							<name>Z&#252;rich ZB</name>
+							<ref target="https://www.zb.uzh.ch/de/"/>
+						</repository>
+						<settlement ref="l587">Z&#252;rich</settlement>
+						<institution>Zentralbibliothek</institution>
+						-->
+						<repository ref="a96"/>
+						<idno subtype="Kopie">Ms S 74,150</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/1233">
+				<correspAction type="sent">
+					<persName ref="p8473" cert="high">
+						<!--
+						<surname cert="high">Hooper (geb./verw.? t'Serclaes)</surname>
+						<forename cert="high">Anne</forename>
+						<note type="person">geb. de Tscerlas</note>
+						-->
+					</persName>
+					<placeName source="l296" cert="high"><orig>London</orig></placeName>
+					<date when="1551-04-03" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						<!--
+						<surname cert="high">Bullinger</surname>
+						<forename cert="high">Heinrich</forename>
+						<graphic type="portrait" url="portraits/495_Bullinger_Heinrich.jpg"/>
+						<ref type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
+						<ref type="gnd" target="https://d-nb.info/gnd/118517384"/>
+						<ref type="histhub" target="https://data.histhub.ch/person/11413754"/>
+						-->
+					</persName>
+					<placeName source="l587" cert="high"><orig>Z&#252;rich</orig></placeName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file1234"/>
+					<ref type="prev_chronologically" target="file1232"/>
+					<ref type="next_correspondence" target="file1447"/>
+					<ref type="next_correspondence_request" target="file1447"/>
+					<ref type="next_same_sender" target="file1447"/>
+					<ref type="next_same_addressee" target="file1259"/>
+					<ref type="prev_same_addressee" target="file1232"/>
+					<ref type="next_with_sender_as_addressee" target="file1447"/>
+					<ref type="next_with_addressee_as_sender" target="file1259"/>
+					<ref type="prev_with_addressee_as_sender" target="file1232"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="la" usage="1000">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="img1" url="https://iiif.bullinger-digital.ch/iiif/3/1233%2FAutograph%2F00%20E_II_369__fol__203_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">1233/Autograph/00 E_II_369__fol__203_r_.tif</desc></graphic>
+		<graphic xml:id="img2" url="https://iiif.bullinger-digital.ch/iiif/3/1233%2FAutograph%2F01%20E_II_369__fol__203_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">1233/Autograph/01 E_II_369__fol__203_v_.tif</desc></graphic>
+		<graphic xml:id="img3" url="https://iiif.bullinger-digital.ch/iiif/3/1233%2FAutograph%2F02%20E_II_369__fol__203_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">1233/Autograph/02 E_II_369__fol__203_a_r_.tif</desc></graphic>
+		<graphic xml:id="img4" url="https://iiif.bullinger-digital.ch/iiif/3/1233%2FAutograph%2F03%20E_II_369__fol__203_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">1233/Autograph/03 E_II_369__fol__203_a_v_.tif</desc></graphic>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div>
+				<p>
+					<s n="1" xml:lang="la" type="auto">Viro doctrina ac pietate insigni domino Henrico Bullingero, Tigurinorum ecclesie pastori vigillantissimo, Anne de Tserclas</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Accepi literas tuas, vir christianissime, quibus veluti in speculo, quantum pro nobis sis sollicitus, conspexi.</s>
+					<s n="3" xml:lang="la" type="auto">Etsi vero me tu&#281; tam singulari in nos amiciti&#281; gratiis persolvendis longe inparem agnosco, agere tamen non desistam immortales deum ac patrem domini nostri Iesu Christi precata ex animo, ut, quod hac in parte praestare non possum, habundantissime penset.</s>
+					<s n="4" xml:lang="la" type="auto">Causam vinculorum domini Hoperi tantisper per me non rescies, donec illi tuas litteras communicavero, quod nunc minime licet; abiit enim mox, ubi solutus fuit, in suum episcopatum.</s>
+					<s n="5" xml:lang="la" type="auto">Non dubito, quin ipsemet tuo desiderio sit satisfacturus, postquam illud compertum habuerit, atque id quidem mihi valde commodius videtur, quam si eo inconsulto hoc tentarem.</s>
+					<s n="6" xml:lang="la" type="auto">Quia vero percontaris, quomodo Rachel filia mea adolescat, officii mei esse iudicavi nonnihil de illa scribere.</s>
+					<s n="7" xml:lang="la" type="auto">Inprimis scito illam esse Anglici ydiomatis peritam, tresque iam menses effluxisse, ex quibus formulam actionis gratiarum edocta, decem precepta, orationem dominicam, symbolum apostolicum, una cum primo atque secundo Davidis psalmo memoria tenet.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Iam quia fere omnium litterarum characteres agnoscit, instituitur in cathechismo.</s>
+					<s n="9" xml:lang="la" type="auto">Si Germanice scribere scirem, manum calamo admoverem frequentius.</s>
+					<s n="10" xml:lang="la" type="auto">Verum si filium tuum in angliam venire contingat, maior dabitur copia cum scribendi, tum paternum tuum in nos animum (quem pluris facio quam locupletissimos auri vel argenti thesauros) aliqua ex parte pensandi.</s>
+					<s n="11" xml:lang="la" type="auto">De Hibernia nihil habeo quod scribam, preterquam quod Gal[l]orum regem classem aliquam, qua illam invaderet submitteretque suo sceptro, instruxisse dicunt, sed cuiusdam fidelis Gal[l]i diligentia illius consilia detecta sunt.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Mitto tibi nummulum aureum, in quo regis Anglorum effigies satis eleganter descripta est,</s>
+					<s n="13" xml:lang="la" type="auto">Obtestor te ut dominum Hoperum quo suos labores temperet permoneas: nam quotidie quattuor vel ad minimum tres conciones habet; vereor autem ne immature plus satis vigilie morbum illi concili[a]bunt, quo et doctore et doctrina orbentur complures divini verbi anime admodum esurientes, quarum nota est esuries ex crebra ipsius audiendi propensione.</s>
+					<s n="14" xml:lang="la" type="auto">Plurimum nos hic divexat turbarum timor; nam periculum est, ne proxime ingentes tumultus excitentur propter annone ceterarumque rerum caritatem, quamquam fromenti atque aliorum ingens sit copia; sed in quos reiicienda sit culpa, ipse me melius nosti.</s>
+					<s n="15" xml:lang="la" type="auto">Misi litteras tuas domino Hopero, quibus cum responderit, curabo ut tibi reddantur litere sue.</s>
+					<s n="16" xml:lang="la" type="auto">Vale.</s>
+					<s n="17" xml:lang="la" type="auto">Saluta dominum Bibliandrum et eius coniugem, dominum Gvalterum, dominum Pel[l]icanum, una cum ipsorum uxoribus, dominum Zvinglium, et eius uxorem, ad quam etiam mitto nummulum aureum regia effigie insculptum.</s>
+					<s n="18" xml:lang="la" type="auto">Londini, 3&#176; die aprilis.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Tui observandissima, Anne de Tserclas dict.</s>
+					<s n="20" xml:lang="la" type="auto">Hoper[a].</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Salutat te Iohanna ancilla mea, eiusque maritus Gal[l]orum ecclesie minister.</s>
+					<s n="22" xml:lang="la" type="auto">Si ad dominum Hoperum vel ad me scripseris, omni diligentia literas tuas obsignari cura; nam curiosuli quidam solent illas aperire ac p[er]legere<note type="margin">a.R.: ... [prae</note>], si quo pacto eas aperire possint.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Viro doctrina ac pietate insigni, domino Henrico Bul[l]ingero, Tigurinorum ecclesi&#281; pastori vigilantissimo.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
