@@ -185,5 +185,4 @@ fabric.properties
 .idea
 
 # tests and stuff
-junk.txt
-junk.xml
+junk.*
