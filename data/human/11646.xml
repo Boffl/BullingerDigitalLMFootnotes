@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11646" type="Brief" source="HBBW" n="1603">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / Konstanz AN Heinrich Bullinger, 18. Februar 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus et pax Christi.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Nescio, notus ne tibi sit <persName ref="p6713">Martinus Mötelinus</persName>, parrochus ecclesiae <placeName>Winfeldensis</placeName> in <placeName>Turgoia</placeName>, vir multis modis commendandus.</s>
+					<s n="3" xml:lang="la" type="auto">Is in periculo esse videtur propter destructa idola a puella quadam, quae illis praepostero zelo manum intulit.</s>
+					<s n="4" xml:lang="la" type="auto">Sed in proximis comitiis <placeName>Badensibus</placeName> cogitur accusatoribus respondere, id quod faciet vere et constanter<note xml:id="fn2" type="footnote" n="2">Im Abschied der <placeName>Badener</placeName> Tagsatzung vom 20. März (<bibl>EA</bibl> IV/1d 116-127) ist darüber nichts zu finden.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Tu vero scis, quid nonnunquam timendum sit apud eos, quibus religio nostra non sapit, et sunt, qui ea suspitione bonum et innocentem virum gravant, quasi ipsius hortatu puella patrarit facinus istud.</s>
+					<s n="6" xml:lang="la" type="auto">Sed tam est innocens quam tu.</s>
+					<s n="7" xml:lang="la" type="auto">Cumque homo sit eruditus et pius, rogamus te omnes, quotquot hic ministri dei sunt, ut legatis tuis<note xml:id="fn3" type="footnote" n="3">Zürich wurde an der erwähnten Tagsatzung durch <persName>Johannes Haab</persName> vertreten; s. LA IV/1d 116.</note> optimum illum virum diligentissime commendes.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Scripsisset ad te quoque <persName>Ambrosius</persName><note xml:id="fn4" type="footnote" n="4"><persName>Ambrosius Blarer</persName>.</note>, sed impeditur contionibus cras faciendis.</s>
+					<s n="9" xml:lang="la" type="auto">Salutat autem te cum omnibus fratribus studiosissime.</s>
+					<s n="10" xml:lang="la" type="auto">Et sint hae primae literae [a]d te post resurrectionem a mortuis<note xml:id="fn5" type="footnote" n="5">Zu <persName>Zwicks</persName> schwerer Erkrankung vgl. auch oben <ref target="file11638">Nr. 1595</ref>, 26-30 mit Anm. 13.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Utinam vicisset mors corporis, ad vitam animae!</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 18. februarii 1542.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Tuus <persName>Io. Zvic.</persName><pb type="edition" next="41"/></s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Frater <persName>Cuͦnradus</persName><note xml:id="fn6" type="footnote" n="6"><persName>Konrad Zwick</persName>.</note> quęrit iuvenem aliquem instituendis pueris idoneum, non summe, sed mediocriter in Gręcis et Latinis doctum, caeterum honestum et pium.</s>
+					<s n="16" xml:lang="la" type="auto">Si talem scires, posses me de hoc paucis certiorem facere.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Saluta totam domum tuam.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="de" type="auto">An Maister Hainrich Bullinger, prediger zuͦ Zürch, zuͦ handen.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

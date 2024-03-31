@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12993" type="Brief" source="GR" n="81">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Camillo Renato / Chiavenna AN Heinrich Bullinger, 6. Juli 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Camillus Renatus Henrico Bullingero, optimo viro, S. P. D. a Domino.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quid tu ad meas cogitaris hactenus, quas superioribus diebus ad te adolescenti cuidam nostrati dederam, nihil plane scio.</s>
+					<s n="3" xml:lang="la" type="auto">Gratissimum te nobis facturum scribebam, si et tibi adolescentem, quem magis ex animo quam verbis tibi commendabamus, intelligeremus commendatum, et quidnam ad tenuem et fortassis etiam, ut videri posset, curiosam quaestionem sentires.</s>
+					<s n="4" xml:lang="la" type="auto">Dubitatum enim erat inter nos, utrum necesse omnino videretur esse, cum puer vel alius quisvis in baptissando abluitur, inter abluendum ea praescripto Christi verba addere: “Ego te baptisso in nomine patris et filii et spiritus sancti“.</s>
+					<s n="5" xml:lang="la" type="auto">His demptis aut quavis ratione omissis plerique, ut hactenus, baptismum nullum esse et dixerunt et scripserunt.</s>
+					<s n="6" xml:lang="la" type="auto">Id itane rectene habeat an secus, si ad nos per otium perscripseris, quam gratissimum fore intelliges.</s>
+					<s n="7" xml:lang="la" type="auto">Nec sententiam modo siccam requirimus, sed, quo absoluta etiam sit et minime suspensa, vel ratione vel etiam ex scripturis sanctis testimonio confirmatam.</s>
+					<s n="8" xml:lang="la" type="auto">Id te tanto libentius commodiusque facturum scimus, quanto res ipsa tenuior et disputatio facilior potest videri, neque velim arbitrere nos tibi, gravioribus videlicet occupato, aliquid, ut in aliis saepe, ita nunc in hac maxime molestiae afferre.</s>
+					<s n="9" xml:lang="la" type="auto">Nostra studia et tua facilitas amorque erga nos spectatus iam satis in causa est.</s>
+					<s n="10" xml:lang="la" type="auto">Itaque si molestiam velis effugere, ut nostris studiis frenum iniicias, te posthac difficilem praestes, necesse est.</s>
+					<s n="11" xml:lang="la" type="auto">Id autem quomodo possis efficere, tu ipse videris.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Caeterum, quo res fatumque horum temporum modo se habeat, quid sentias, quid metuendum sperandumve sit, et si quid aliud est, quod nos scire opus putes, pro tua humanitate nostraque necessitudine facias nos quam primum certiores.</s>
+					<s n="13" xml:lang="la" type="auto">Hic nihil habemus, quod literis mandandum putemus, praeter metum; a spe tamen non iam prorsus excidimus.</s>
+					<s n="14" xml:lang="la" type="auto">Quod reliquum est, salutant te Augustinus Mainardus, Franciscus Niger, qui abhinc quatriduo aegrotat graviter, et omnes ad unum fratres, quorum nomine salutabis, idque in Domino, collegas tuos et universam ecclesiam Tigurinam.</s>
+					<s n="15" xml:lang="la" type="auto">Valete.</s>
+					<s n="16" xml:lang="la" type="auto">Clavenna, ad VI. Iulii 1547.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Has literas, si commodum certumque est, ad Caelium Secundum, qui nunc <placeName>Basileae</placeName> commoratur, perferendas cures, etiam atque etiam rogo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

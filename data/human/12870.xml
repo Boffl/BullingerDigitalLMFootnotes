@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12870" type="Brief" source="HBBW" n="2821">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Augsburg AN Heinrich Bullinger, 21. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et pax per dominum nostrum Iesum Christum.</s>
+					<s n="2" xml:lang="la" type="auto">Ex quo postremas<note xml:id="fn1" type="footnote" n="1">Brief <ref target="file12854">Nr. 2805</ref> vom 9. Februar.</note> ad te dedi per publicum illum Tigurini senatus tabellarium<note xml:id="fn2" type="footnote" n="2"><persName>Hans Zingg</persName>; s. <ref target="file12854">Nr. 2805</ref>. Anm. 1.</note>, binas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note> a te accepi, quas tamen diu in itinere retentas esse ex dato comprehendi, ad quas (quia iam dudum animum tibi meum aperui et sufficienter) satis me a suspicione, <pb type="edition" next="338"/> qua me suspectum habes et prorsus concidisse animo dicis, purgavi meo iudicio.</s>
+					<s n="3" xml:lang="la" type="auto">Spero etiam te meliora tibi posthac de me persuasurum, ideoque ad illas nunc respondere supervacaneum.</s>
+					<s n="4" xml:lang="la" type="auto">Feci, quod vidi optimos quosque facere, et profecto non metu, sed rei indignitate motus discedere cupivi.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Iam evenit nobis, quod diu metuimus, et quod in aliis hactenus spectavimus, nunc sentimus ipsi.</s>
+					<s n="6" xml:lang="de" type="auto">Uff hütt datum koͤmmend 6 fennli keiserscher inn dstatt.</s>
+					<s n="7" xml:lang="de" type="auto">Der obrist ist graff von Schramberg.<note xml:id="fn4" type="footnote" n="4">Richtig ist <persName>Bernhard von Schaumburg</persName>; vgl. <ref target="file12840">Nr. 2791</ref>, Anm. 42; <ref target="file12861">Nr. 2812</ref>,22f.</note></s>
+					<s n="8" xml:lang="de" type="auto">Ist vor 4 tagen hie gsin, ins <persName>Fuggers</persName> hus, nach<note xml:id="fn5" type="footnote" n="5">nahe.</note> bi miner herberg, ingfuriert.<note xml:id="fn6" type="footnote" n="6">logiert (worden).</note></s>
+					<s n="9" xml:lang="de" type="auto">Die knecht sind allein in die rychsten hüser inglusiert.</s>
+					<s n="10" xml:lang="de" type="auto">Den armen und waͤberen<note xml:id="fn7" type="footnote" n="7">Weber. die zur ärmsten sozialen Schicht gehörten; s. <bibl>SI</bibl> XV 100.</note> hatt man verschonet, damitt si nitt ufruͤrig syend.</s>
+					<s n="11" xml:lang="de" type="auto">Si<note xml:id="fn8" type="footnote" n="8">Die Kriegsleute.</note> habend auch bi keinem armen wellen liggen, sonder wo es inen gfalt.</s>
+					<s n="12" xml:lang="de" type="auto">Man hatt in ettliche kloͤster vil wellen leggen, damitt die burgerschafft dest minder beschwert wurd.</s>
+					<s n="13" xml:lang="de" type="auto">Und habend die burger bett darin gen<note xml:id="fn9" type="footnote" n="9">gegeben.</note>, aber si wellend nitt darinn liggen.</s>
+					<s n="14" xml:lang="de" type="auto">Der obrist hatt gsagt, es wer ein schand, das man die eerlichen lüt, mitt denen man land und lüt gwunnen hatt, also<note xml:id="fn10" type="footnote" n="10">derart.</note> soͤlt uff einander legen als<note xml:id="fn11" type="footnote" n="11">wie.</note> imm spital!</s>
+					<s n="15" xml:lang="de" type="auto">In summa: Si sind herren.</s>
+					<s n="16" xml:lang="de" type="auto">Man muͦß thuͦn, was si wend.<note xml:id="fn12" type="footnote" n="12">wollen.</note></s>
+					<s n="17" xml:lang="de" type="auto">Etlich habend hinnen zecht<note xml:id="fn13" type="footnote" n="13">hinnen zecht: hier drinnen (in <placeName>Augsburg</placeName>) gegessen und getrunken.</note> und hingangen.<note xml:id="fn14" type="footnote" n="14">fortgegangen.</note></s>
+					<s n="18" xml:lang="de" type="auto">Gsagt, der keiser<note xml:id="fn15" type="footnote" n="15"><persName>Karl V.</persName></note> koͤmm bald; werde die ürten<note xml:id="fn16" type="footnote" n="16">den Betrag für ihre Speisung.</note> zalen.</s>
+					<s n="19" xml:lang="de" type="auto">Hept sich der muͦtwill schon an.</s>
+					<s n="20" xml:lang="de" type="auto">Gott erbarms!</s>
+					<s n="21" xml:lang="de" type="auto">Die burgerschafft ist unwillig und hitzig.</s>
+					<s n="22" xml:lang="de" type="auto">Ist eines großen übels zuͦ besorgen, dann<note xml:id="fn17" type="footnote" n="17">denn.</note> si werdend sich nitt mitt einander vertragen koͤnnen.</s>
+					<s n="23" xml:lang="de" type="auto">Die statt laufft schon voll roter binden, das eims hertz brechen moͤchte.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="24" xml:lang="de" type="auto">Predig gat noch starck von statt.<note xml:id="fn19" type="footnote" n="19">gat noch starck von statt: läuft noch gut; vgl. <hi>SI XI</hi> 1689.</note></s>
+					<s n="25" xml:lang="de" type="auto">Die frommen sind yferig.</s>
+					<s n="26" xml:lang="de" type="auto">Gott erhalts!</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="27" xml:lang="de" type="auto"><persName>Zollern</persName><note xml:id="fn20" type="footnote" n="20"><persName>Hans Wilpert Zoller</persName>. - Er war nicht geneigt, nach Zürich zurückzukehren; s. <ref target="file12857">Nr. 2808</ref>,30-36.</note> welt ich raten, das er hinzug.<note xml:id="fn21" type="footnote" n="21">Nach Zürich.</note></s>
+					<s n="28" xml:lang="de" type="auto">Glaub auch, er werde es thuͦn, dann er wirt großen ufsatz<note xml:id="fn22" type="footnote" n="22">Angriffe.</note> von inn<note xml:id="fn23" type="footnote" n="23">Mit "inn" (ihnen) sind die Kaiserlichen gemeint.</note> han.<note xml:id="fn24" type="footnote" n="24">haben.</note></s>
+					<s n="29" xml:lang="la" type="auto">Vereor, ne aere alieno prematur, <pb type="edition" next="339"/> quamvis nihil mihi dixerit.</s>
+					<s n="30" xml:lang="la" type="auto">Nimium semper (quantumvis fideliter monuerim) voluit esse sumptuosus.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="31" xml:lang="la" type="auto">Fratres duo, <persName>Laurentius</persName><note xml:id="fn25" type="footnote" n="25"><persName>Lorenz Meyer (Agricola)</persName>.</note> et <persName>Rodolphus</persName><note xml:id="fn26" type="footnote" n="26"><persName>Rudolf Schwyzer d.Ä.</persName></note>, expectant angariae imminentis stipendium.<note xml:id="fn27" type="footnote" n="27">Zu verstehen: Sie warten auf das Reisegeld für ihre bevorstehende (in Kriegszeiten nicht ungefährliche) Rückreise. Zu dieser s. <ref target="file12852">Nr. 2803</ref>, Anm. 6.</note></s>
+					<s n="32" xml:lang="la" type="auto">Tunc discedent.</s>
+					<s n="33" xml:lang="la" type="auto"><persName>Romanus</persName><note xml:id="fn28" type="footnote" n="28"><persName>(Haus) Thoman Ruman (Römer)</persName>.</note> libenter cum eis abiret, sed, quoniam senatui gratus, nolunt eum dimittere, ut proximus scripsi.<note xml:id="fn29" type="footnote" n="29">Vgl. <ref target="file12854">Nr. 2805</ref>,14f.</note></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="34" xml:lang="la" type="auto">Dabitur fortassis omnibus tandem discedendi occasio, si caesar, ut cępit, pergat.</s>
+					<s n="35" xml:lang="de" type="auto"><foreign xml:lang="la">Quantum<pb type="scan" next="569v."/> enim iudicare possum,</foreign> wirt man uns bald ein ingriff thuͦn.<note xml:id="fn30" type="footnote" n="30">uns ein ingriff thün: uns eine Regelung aufdrängen.</note></s>
+					<s n="36" xml:lang="la" type="auto">Iam volunt, ut nominemus caesarem et regiam maiestatem<note xml:id="fn31" type="footnote" n="31"><persName>König Ferdinand I.</persName></note> in suggestu et pro his hortemur ecclesiam orare!</s>
+					<s n="37" xml:lang="la" type="auto">Magna hinc inter fratres orta contentio.</s>
+					<s n="38" xml:lang="la" type="auto">Pro eo et omnibus hostibus orandum nemo negavit, imo facimus hoc omnes,<note xml:id="fn32" type="footnote" n="32">In Anlehnung an Mt 5, 44.</note> sed, an debeat iam nominari, tam repentina mutatione facta paucis placuit.</s>
+					<s n="39" xml:lang="la" type="auto">Nominavimus hactenus electorem<note xml:id="fn33" type="footnote" n="33"><persName>Johann Friedrich I. von Sachsen</persName>.</note>, principes et status imperii.</s>
+					<s n="40" xml:lang="la" type="auto">Si iam his omissis alios nominemus, erit offendiculosum ecclesiae.</s>
+					<s n="41" xml:lang="la" type="auto">Nam mirum, quantae calumniae sint ortae, quod Heldius<note xml:id="fn34" type="footnote" n="34"><persName>Johann Heinrich Held von Tiefenau</persName>. - Vgl. auch <ref target="file12919">Nr. 2870</ref>,5.</note>, unus ex ministris, statim, ut audivit nostros se caesari dedisse, iussit ecclesiam pro illo clementissimo caesare orare.</s>
+					<s n="42" xml:lang="la" type="auto">Liberum itaque nobis permissum vel implicite vel explicite pro eo orare.</s>
+					<s n="43" xml:lang="la" type="auto">Si e re ecclesiae viderem esse, non vellem detrectare etiam ipsum nominare, quantum autem intelligo, mox etiam aliquem modum praescribent, ne acrius invehamur contra missam et impios evangelii hostes (quamvis hoc a publicis nondum, a privatis multum audivi personis), et, si non faciamus, iam omnis culpa in nos convertetur.</s>
+					<s n="44" xml:lang="la" type="auto">Iam enim quidam dicunt nos nostris concionibus irritare caesarem, cum monemus ecclesiam, ne impii offendatur successu.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="45" xml:lang="de" type="auto"><foreign xml:lang="la">Non ergo dubito,</foreign> das uns deß tüfels vil begegnen werde.</s>
+					<s n="46" xml:lang="la" type="auto">Periculum etiam est, ne accidat, quod et <placeName>Ulmae</placeName>.</s>
+					<s n="47" xml:lang="la" type="auto">Delegit<note xml:id="fn35" type="footnote" n="35">Subjekt ist der Kaiser.</note> illic sibi templum peculiare, in quo singulis diebus missam audit.<note xml:id="fn36" type="footnote" n="36">Siehe Nr. 28 12.7-10.</note></s>
+					<s n="48" xml:lang="la" type="auto">Postulabunt<note xml:id="fn37" type="footnote" n="37">Subjekt sind die Kaiserlichen.</note> forte etiam hic sibi dari templum.</s>
+					<s n="49" xml:lang="la" type="auto">Ego, qui Christi servus sum, antichristo locum dare bona conscientia non possum!</s>
+					<s n="50" xml:lang="la" type="auto">Sed, quoniam haec adhuc dubia sunt omnia, tuum in tempore peto consilium.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="51" xml:lang="la" type="auto">Conditiones pacis nostrae describere non possum certo omnes.</s>
+					<s n="52" xml:lang="la" type="auto">Audivi nuper quendam<note xml:id="fn38" type="footnote" n="38">Unbekannt.</note> ex scheda recitare.</s>
+					<s n="53" xml:lang="la" type="auto">Quantum ergo memoria comprehendere valui, statim domum reversus, ne exciderent, antequam tibi scriberem, annotavi.</s>
+					<s n="54" xml:lang="la" type="auto">Eiusmodi autem percepi:</s>
+					<s n="55" xml:lang="de" type="manual"><pb type="edition" next="340"/>1. Si soͤllend sich ergeben uff gnad und ungnad.</s>
+					<s n="56" xml:lang="la" type="auto">N[ota] B[ene]!</s>
+					<s n="57" xml:lang="de" type="auto">2. Was er inen für volk in die statt legge, soͤllend si ufnemmen und versehen.</s>
+					<s n="58" xml:lang="de" type="auto">Ist kein zal gmeldet.</s>
+					<s n="59" xml:lang="de" type="auto">3. Sind usgnon<note xml:id="fn39" type="footnote" n="39">entgegengenommen (hier rechtlich); s. <bibl>SI</bibl> IV 741f.</note> alle ansprach<note xml:id="fn40" type="footnote" n="40">Ansprüche; Forderungsklagen.</note>, so küng[liche] m[a]j[esta]t<note xml:id="fn41" type="footnote" n="41"><persName>Ferdinand I.</persName></note> und der cardinal von <placeName>Augspurg</placeName><note xml:id="fn42" type="footnote" n="42"><persName>Otto Truchsess von Waldburg</persName>.</note>, auch andere, an si<note xml:id="fn43" type="footnote" n="43">die <placeName>Augsburger</placeName> Ratsherren.</note> und die iren habend.</s>
+					<s n="60" xml:lang="de" type="auto">Darumb si sich mitt inen vertragen soͤllind; darzuͦer gnedigst mittlen welle.</s>
+					<s n="61" xml:lang="de" type="auto">Das darff uns wol ein nüwen krieg machen!</s>
+					<s n="62" xml:lang="de" type="auto">Man kan nitt mitt inn<note xml:id="fn44" type="footnote" n="44">ihnen (den Kaiserlichen).</note> nahen kan.<note xml:id="fn45" type="footnote" n="45">nahen kan: verhandeln. - Gemeint ist: Man kann sie rechtlich nicht belangen.</note></s>
+					<s n="63" xml:lang="de" type="auto">Si wend onzal vil gaͤlt han.</s>
+					<s n="64" xml:lang="de" type="auto">Statt<note xml:id="fn46" type="footnote" n="46">Steht.</note> man noch in teglicher handlung.<note xml:id="fn47" type="footnote" n="47">Siehe dazu <ref target="file12818">Nr. 2769</ref>, Anm. 7.</note></s>
+					<s n="65" xml:lang="de" type="auto">Die seckel muͤßend einmal<note xml:id="fn48" type="footnote" n="48">freilich; sicherlich; s. <bibl>SI</bibl> IV 146.</note> suber grumpt<note xml:id="fn49" type="footnote" n="49">geleert.</note> werden.</s>
+					<s n="66" xml:lang="de" type="auto">4. Alle, so uß der statt sind,<note xml:id="fn50" type="footnote" n="50">Gemeint sind die Katholiken, die aus der Stadt weichen mussten oder wollten, nachdem 1537 die Messfeiern in <placeName>Augsburg</placeName> verboten wurden.</note> one engeltnuß bin<note xml:id="fn51" type="footnote" n="51">bei.</note> alten eeren, one verletzung,<pb type="scan" next="570r."/> wider hinin laßen ungeacht ir<note xml:id="fn52" type="footnote" n="52">Jener der Stadt.</note> burgerlichen constitution und ordnungen.</s>
+					<s n="67" xml:lang="de" type="auto">Der artickel wirt uns die pfaffen wider inhin bringen!</s>
+					<s n="68" xml:lang="de" type="auto">Dann si dorumb uß der statt zogen, das<note xml:id="fn53" type="footnote" n="53">weil.</note> si nitt woltend der ordnungen gleben<note xml:id="fn54" type="footnote" n="54">der ordnungen gleben: nach den [neuen] Regelungen leben.</note> wie ander burger in stür und umbgaͤlt.<note xml:id="fn55" type="footnote" n="55">Abgaben.</note></s>
+					<s n="69" xml:lang="de" type="auto">5. Die meßigung<note xml:id="fn56" type="footnote" n="56">Hier im Sinne von der Geldbuße, über die man sich geeinigt hat; vgl. <hi>FNHDW</hi> IX/1 1969.</note> (also nemmend<note xml:id="fn57" type="footnote" n="57">nennen; s. <bibl>SI</bibl> IV 747.</note> si das gaͤlt, so er<note xml:id="fn58" type="footnote" n="58">Der Kaiser.</note> vorderet, mitt eim nüwen termino) erlegen nach glegenheit der statt.</s>
+					<s n="70" xml:lang="de" type="auto">N[ota]: Er wil si wol strecken<note xml:id="fn59" type="footnote" n="59">mit Steuern und Abgaben ausbeuten; s. <hi>SI XI</hi> 2161.</note>; meint, si habend es wol.</s>
+					<s n="71" xml:lang="de" type="auto">6. Die justitien deß camergrichts, so ir mjt. ordnen<note xml:id="fn60" type="footnote" n="60">anordnen (wird).</note>, soͤllend si halten.</s>
+					<s n="72" xml:lang="la" type="auto">Quid hac in causa hactenus actum sit, non ignoras.</s>
+					<s n="73" xml:lang="de" type="auto">7. Die pündtnuß mitt Sachßen, Heßen, auch allen ir mjt. widerwertigen, verlaßen<note xml:id="fn61" type="footnote" n="61">aufgeben.</note> und in keine wider ir mjt. und das hus Oͤsterrych niemermeer bewilligen.</s>
+					<s n="74" xml:lang="de" type="auto">Da wirt er guͦt mitt inn machen han!<note xml:id="fn62" type="footnote" n="62">güt mitt inn machen han: leicht mit ihnen einig werden.</note></s>
+					<s n="75" xml:lang="de" type="auto">8. Den eid<note xml:id="fn63" type="footnote" n="63">Den dem Kaiser zu leistenden Eid.</note> wie andere stett uff ein nüws wider thuͦn.<pb type="edition" next="341"/></s>
+					<s n="76" xml:lang="de" type="auto">N.: D. <persName>Naves</persName><note xml:id="fn64" type="footnote" n="64">Reichsvizekanzler <persName>Johann von Naves</persName>.</note> ist usgritten zuͦ <placeName>Ulm</placeName>.</s>
+					<s n="77" xml:lang="de" type="auto">Hatt soͤllen den eid von <placeName>Augspurg</placeName> innen.<note xml:id="fn65" type="footnote" n="65">entgegennehmen (einnehmen).</note></s>
+					<s n="78" xml:lang="de" type="auto">Und als er gen Gintzpurg<note xml:id="fn66" type="footnote" n="66"><placeName>Günzburg (Bayern, D)</placeName>, etwa 25 km östlich von <placeName>Ulm</placeName> und 50 km westlich von <placeName>Augsburg</placeName>.</note> kommen, ist inn ain wee ankan<note xml:id="fn67" type="footnote" n="67">ist inn ain wee ankan: wurde er von einem Schmerz überfallen.</note> (etlich sagend der schlag<note xml:id="fn68" type="footnote" n="68">Schlaganfall. - Vielleicht ist hier auch ein von Gott ausgehender "Schlag" gemeint.</note>), das er wider gen <placeName>Ulm</placeName> sich hatt muͤßen fuͤren laßen.<note xml:id="fn69" type="footnote" n="69">Vgl. auch <bibl>Moritz von Sachsen PK</bibl> III 247, Nr. 333. - <persName>Johann von Naves</persName> starb am 20. Februar; s. <ref target="file12873">Nr. 2824</ref>, Anm. 5.</note></s>
+					<s n="79" xml:lang="de" type="auto">9. Allem dem, so ir k[eiserliche] m[ajestat] fürhin imm rych zuͦ friden deßelben und einikeit ordnen werd, gehorchen.</s>
+					<s n="80" xml:lang="de" type="auto">Darin<note xml:id="fn70" type="footnote" n="70">In den Anordnungen des Kaisers.</note> mag der glaub und alles das gschloßen werden, so in anficht.<note xml:id="fn71" type="footnote" n="71">und alles das gschloßen werden, so in anficht: und all das einbegriffen sein, das ihm einfällt.</note></s>
+					<s n="81" xml:lang="la" type="auto">Haec ego memoria retinens annotavi.</s>
+					<s n="82" xml:lang="la" type="auto">Pauca puto me intermisisse.</s>
+					<s n="83" xml:lang="la" type="auto">Vides, qualis pax!</s>
+					<s n="84" xml:lang="la" type="auto">Quid nobis expectandum!</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="85" xml:lang="la" type="auto"><placeName>Ulmenses</placeName> magis turpes recepere<note xml:id="fn72" type="footnote" n="72">=receperunt.</note> conditiones vastato quamvis eorum tantumnon funditus agro ipsisque caesaris praesentia pressis.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="86" xml:lang="de" type="auto"><placeName>Wirtenberg</placeName> nach<note xml:id="fn73" type="footnote" n="73">noch. - Zum württembergischen Frieden s. <ref target="file12795">Nr. 2746</ref>, Anm. 21.</note> schandtlicher!</s>
+					<s n="87" xml:lang="la" type="auto">Illas descriptas habeo ex quodam viro bono.<note xml:id="fn74" type="footnote" n="74">Unbekannt.</note></s>
+					<s n="88" xml:lang="de" type="auto">1. Erstlich soͤllend siner h[ertzoglichen] g[nade]n gesandten den fuͦßfal thuͦn und umb gnadt bitten.</s>
+					<s n="89" xml:lang="de" type="auto">2. Sol in 6 wuchen eigner person den fuͦßfal thuͦn und bekennen, das er wider ir mjt. gehandlet.</s>
+					<s n="90" xml:lang="de" type="auto">3. Sol ir mt. für iren rechten, natürlichen herren erkennen.</s>
+					<s n="91" xml:lang="de" type="auto">4. Den justitien, so ir mt. ordnen werden, soll er die gebürlich underhaltung<note xml:id="fn75" type="footnote" n="75">Versorgung (Beiträge).</note> leisten.</s>
+					<s n="92" xml:lang="de" type="auto">5. Sol hertzog <persName>Hanns Fridrichen</persName>, etwan<note xml:id="fn76" type="footnote" n="76">einst. - Eine Pointe gegen den Kurfürsten.</note> hertzogen zuͦ <persName>Sachsen</persName>, und <persName>Philipsen von Heßen</persName> kein bistand thuͦn, noch den anderen deß pundts, sonder ir mjt. helffen vermoͤg der acht<note xml:id="fn77" type="footnote" n="77">vermag der acht: aufgrund der [kaiserlichen] Acht.</note> wider jetzige oder andere.<note xml:id="fn78" type="footnote" n="78">Feinde.</note></s>
+					<s n="93" xml:lang="de" type="auto">6. Soll kein handtierung, irer maj[estat] widerwertig, gestatten.</s>
+					<s n="94" xml:lang="de" type="auto">7. Alle pündtnuß wider ir mjt. und Oͤsterrych uffsagen und nimmermeer in keine kommen.<pb type="scan" next="570v."/></s>
+					<s n="95" xml:lang="de" type="auto">[9.] Soll ir mjt. und Oͤsterrych, so offt si es begeren, paß durchs landt und offnung<note xml:id="fn79" type="footnote" n="79">Zugang.</note> aller irer bevestigung geben.<ptr target="fne" type="footnote" n="e"/><pb type="edition" next="342"/></s>
+					<s n="96" xml:lang="de" type="auto">Huͤt dich, Eidtgnoschafft!</s>
+					<s n="97" xml:lang="de" type="auto">[10.] Alles gschütz und munition, so imm land bliben, den feinden gehoͤrig, sol ir mjt. überandtwort werden.</s>
+					<s n="98" xml:lang="la" type="auto">Aiunt maximum esse thesaurum.</s>
+					<s n="99" xml:lang="la" type="auto">Omnes enim status aliquot illic reliquerunt tormenta.</s>
+					<s n="100" xml:lang="de" type="auto">[11.] Sol der k[üniglichen] mjt. zalen 300000 fl. rynisch zuͦ 15 batzen<note xml:id="fn80" type="footnote" n="80">Zum Wechselkurs vgl. <bibl>HBBW</bibl> XVIII 342, Anm. 15.</note> (halb<note xml:id="fn81" type="footnote" n="81">die Hälfte.</note> in 15 tagen und den rest inn 25 tagen nechst darnach) zuͦ <placeName>Ulm</placeName> erlegen.</s>
+					<s n="101" xml:lang="de" type="auto">[12.] <placeName>Schorndorff</placeName>, Hohen Asperg und Kirchen an der Egg<note xml:id="fn82" type="footnote" n="82">Gemeint ist <placeName>Kirchheim unter Teck</placeName>.</note> sollend ir mjt. ingeben<note xml:id="fn83" type="footnote" n="83">übergeben.</note> werden zuͦ versicherung und volziehung deß vertrags.</s>
+					<s n="102" xml:lang="de" type="auto">[13.] Ir mjt. behaltend aller deren sprüch<note xml:id="fn84" type="footnote" n="84">Ansprüche.</note> und vorderung bevor<note xml:id="fn85" type="footnote" n="85">behaltend bevor: vorbehält.</note>, so v[on] imm schaden genommen.<note xml:id="fn86" type="footnote" n="86">so von imm schaden genommen: die von ihm [<persName>Ulrich</persName>] Schaden erlitten (haben).</note></s>
+					<s n="103" xml:lang="de" type="auto">Sol sich mitt inen vertragen<note xml:id="fn87" type="footnote" n="87">sich mitt inen vertragen: mit ihnen übereinkommen.</note> oder irer m[ajesta]t erkanntnuß geleben.<note xml:id="fn88" type="footnote" n="88">erkanntnuß geleben: die Beschlüsse (ihrer Majestät) befolgen.</note></s>
+					<s n="104" xml:lang="de" type="auto">[14.] Desglichen soͤllend sich verzihen beide hertzogen, <persName>Ulrich</persName> und Christoff, alle[r] gerechtikeit<note xml:id="fn89" type="footnote" n="89">sich verzihen alle[r] gerechtikeit: alle Rechtsansprüche aufgeben.</note>, so si haben moͤchtend in der graffschafft Burgun[d], es sye<note xml:id="fn90" type="footnote" n="90">sei.</note> wider wen es well.</s>
+					<s n="105" xml:lang="de" type="auto">Soͤllend si anderst nitt dann <ptr target="fni" type="footnote" n="i"/>vor dem landrechten recht nemmen, wie ander underthonen.</s>
+					<s n="106" xml:lang="de" type="auto">Das hatt h[erzog] Christoff nitt thuͦn wellen und darumb (wie m[an] sagt) Mümpelgart dem küng in Franckrych<note xml:id="fn91" type="footnote" n="91"><persName>Franz I.</persName> - Siehe dazu <ref target="file12802">Nr. 2753</ref>,14-16; <ref target="file12866">Nr. 2817</ref>.</note> zkauffen gen, die<note xml:id="fn92" type="footnote" n="92">Gemeint ist <placeName>Frankreich</placeName>.</note> das lehen vom hus <placeName>Burgund</placeName> hatt.</s>
+					<s n="107" xml:lang="de" type="auto">[15.] Für dise guͦthat, so imm beschehen, sol der k[eiserlichen] und kön[iglichen] mjt. vorbeh[alten] sin alle ir gerechtikeit, so si zuͦ dem fürstenthumb <placeName>Wirtenberg</placeName> habend.</s>
+					<s n="108" xml:lang="la" type="auto">NB!</s>
+					<s n="109" xml:lang="de" type="auto">[16.] Der cadawisch vertrag soll bi krefften bliben.</s>
+					<s n="110" xml:lang="de" type="auto">[17.] So er<note xml:id="fn94" type="footnote" n="94"><persName>Ulrich</persName>.</note> das alles, in dem vertrag begriffen, halten, so verzicht ir mjt. imm alles, so er wider si gehandlet.<pb type="edition" next="343"/></s>
+					<s n="111" xml:lang="de" type="auto">[18.] Graff <persName>Georg von Wirtenberg</persName>, ir f[ürstlich] gn[aden] bruͦder, als der<note xml:id="fn95" type="footnote" n="95">als der: da er.</note> so offendt[lich] rebelliert, sol ußgeschlossen sin; auch ander all ir f. gn. und[er]thonen, so jetzund imm dienst wider ir mjt. sind.</s>
+					<s n="112" xml:lang="de" type="auto">Die soll er a[ll] für fyend halten.</s>
+					<s n="113" xml:lang="de" type="auto">Derselbigen guͤter soͤllend ir mjt. confisc[iert] sin und bliben.</s>
+					<s n="114" xml:lang="de" type="auto">[19.] Soll den vertrag in 4 tagen ratificieren, und hertzog Christoff sol den in 6 wuchen ratificieren und auch alles, so darinn begriffen, halten.</s>
+					<s n="115" xml:lang="de" type="auto">Sol in 6 wuchen irer landtschafft den vertrag ratificieren laßen.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="116" xml:lang="de" type="auto">Selich vertraͤg anzuͦnemmen, wirt Tütschland ein ewige scha[nd] sin!</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="117" xml:lang="de" type="auto"><pb type="scan" next="EII__370,__52r."/>Von der religion statt nüt, dann er<note xml:id="fn96" type="footnote" n="96">Der Kaiser.</note> hatt nitt wellen, das man si gedenck, diewyl er von der religion wegen den krieg nitt angfangen!<note xml:id="fn97" type="footnote" n="97">Vgl. <bibl>HBBW</bibl> XVIII 436,1 201.</note></s>
+					<s n="118" xml:lang="la" type="auto">Quid secuturum sit, ipse iudicare facile potes.</s>
+					<s n="119" xml:lang="la" type="auto">Orandus est dominus, ut ecclesiam suam ab hac tyrannide liberet.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="120" xml:lang="la" type="auto">De electore nihil audimus, quam quod magnas habeat copias et strenue rem gerat.</s>
+					<s n="121" xml:lang="la" type="auto">Dominus confortet illum!</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="122" xml:lang="la" type="auto">Langrafium<note xml:id="fn98" type="footnote" n="98"><persName>Philipp von Hessen</persName>.</note> multi clamant proditorem esse omnisque huius negotii prius fuisse conscium.<note xml:id="fn99" type="footnote" n="99">Vgl. <ref target="file12854">Nr. 2805</ref>,36f.</note></s>
+					<s n="123" xml:lang="la" type="auto">Ego meliora spero.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="124" xml:lang="de" type="auto">Der keiser richt drü regimennt uf zuͦ <placeName>Nuremberg</placeName> wider den churfürsten.</s>
+					<s n="125" xml:lang="de" type="auto">Dennmarck<note xml:id="fn100" type="footnote" n="100"><persName>König Christian III. von Dänemark</persName>.</note> halt sich wol an imm.<note xml:id="fn101" type="footnote" n="101">An den Kaiser.</note></s>
+					<s n="126" xml:lang="de" type="auto">Die Seestett sond<note xml:id="fn102" type="footnote" n="102">sind.</note> auch nüt, wie man sagt.<note xml:id="fn103" type="footnote" n="103">Zu irreführenden Nachrichten über <placeName>Dänemark</placeName> und die Hansestädte s. <bibl>HBBW</bibl> XVIII 327,15-18; 339; 426,60f; 439,36f; 452,2; <ref target="file12785">Nr. 2736</ref>; <ref target="file12810">Nr. 2761</ref>,48f. 54-57; <ref target="file12823">Nr. 2774</ref>,31f; <ref target="file12835">Nr. 2786</ref>.71-73.</note></s>
+					<s n="127" xml:lang="de" type="auto"><placeName>Polen</placeName> sol <persName>Ferdinando</persName> abgsagt han.</s>
+					<s n="128" xml:lang="de" type="auto">Behem<note xml:id="fn104" type="footnote" n="104"><placeName>Böhmen</placeName>. - Siehe dazu schon <ref target="file12846">Nr. 2797</ref>, Anm. 32. Siehe ferner <bibl>Moritz von Sachsen PK</bibl> III 261, <ref target="file10389">Nr. 357</ref>.</note> wellend imm nitt helffen, anders dann ir land schirmen.</s>
+					<s n="129" xml:lang="la" type="auto"><persName>Ferdinandi</persName> uxor<note xml:id="fn105" type="footnote" n="105"><persName>Anna Jagiello</persName>, Königin von <placeName>Böhmen</placeName> und Ungarn. - Zu ihrem Tod s. <ref target="file12861">Nr. 2812</ref>, Anm. 9.</note> 27. ianuarii obiit.</s>
+					<s n="130" xml:lang="la" type="auto">Aiunt etiam regem <placeName>Angliae</placeName> defunctum esse.<note xml:id="fn106" type="footnote" n="106"><persName>Heinrich VIII.</persName> war am 28. Januar 1547 gestorben.</note></s>
+					<s n="131" xml:lang="la" type="auto">Quid Gallus moliatur, incertum: tam varii sparguntur rumores, ut, quoniam omnes veri esse non possunt, pigeat scribere ullos.</s>
+					<s n="132" xml:lang="la" type="auto">Cupio ex te discere aliquid.</s>
+					<s n="133" xml:lang="la" type="auto"><persName>Granvellam</persName><note xml:id="fn107" type="footnote" n="107"><persName>Nicolas Perrenot</persName>, Herr von Granvelle. - Vgl. aber <ref target="file12861">Nr. 2812</ref>,50-54; <ref target="file12871">Nr. 2822</ref>,7f.</note> dicunt apud Helvetiorum esse comitia.<note xml:id="fn108" type="footnote" n="108">Gemeint ist die für den 28. Februar geplante Tagsatzung; s. <ref target="file12866">Nr. 2817</ref>, Anm. 4.</note></s>
+					<s n="134" xml:lang="la" type="auto">Cuperem scire.</s>
+				</p>
+			</div>
+			<div xml:id="div16" corresp="regest16">
+				<p>
+					<s n="135" xml:lang="la" type="auto">Sic, sic implentur scripturae!</s>
+					<s n="136" xml:lang="la" type="auto">Tempus est, ut levemus capita nostra, quoniam liberatio nostra appropinquat.<note xml:id="fn109" type="footnote" n="109">Lk 21, 28.</note></s>
+					<s n="137" xml:lang="la" type="auto">Vale meque commendatum tibi habeto.</s>
+				</p>
+			</div>
+			<div xml:id="div17" corresp="regest17">
+				<p>
+					<s n="138" xml:lang="la" type="auto">Posteriorem ad <persName>Timotheum</persName> fere finivi.<note xml:id="fn110" type="footnote" n="110">Siehe dazu <bibl>HBBW</bibl> XVIII 308, Anm. 67, und die dort angeführten Verweise.</note></s>
+					<s n="139" xml:lang="la" type="auto">Statueram Ioannis evangelium (quod tamen et <persName>Musculus</persName><note xml:id="fn111" type="footnote" n="111"><persName>Wolfgang Musculus</persName>.</note>, sed alio hora et alio loco,<note xml:id="fn112" type="footnote" n="112"><persName>Musculus</persName> predigte im Dom, <persName>Haller</persName> in der St. Moritz-Kirche.</note> tractat) sumere.<note xml:id="fn113" type="footnote" n="113">Vgl. nämlich <bibl>HBBW</bibl> XVIII 308,98-101.</note></s>
+					<s n="140" xml:lang="la" type="auto">Sed ecclesia ita fluctuante videntur commodius tractari et applicari<note xml:id="fn114" type="footnote" n="114">Hier im Sinne von anwenden auf die damalige Kirchgemeinde.</note> posse <pb type="edition" next="344"/> Actus apostolorum.</s>
+					<s n="141" xml:lang="la" type="auto">Habeo tua commentaria.<note xml:id="fn115" type="footnote" n="115">Gemeint ist eine der Ausgaben von <hi>Bullinger,</hi> Commentarius in Acta apostolorum, Zürich 1533, 1535 oder 1540 <hi>(HBBib I</hi> I 43-45).</note></s>
+					<s n="142" xml:lang="la" type="auto">Si haberes memorialia, vellem, ut ex studiosis iuvenibus pauperibus alicui describenda dares.</s>
+					<s n="143" xml:lang="la" type="auto">Ego precium persolvam.</s>
+				</p>
+			</div>
+			<div xml:id="div18" corresp="regest18">
+				<p>
+					<s n="144" xml:lang="la" type="auto">Salvos cupio fratres omnes, uxorem<note xml:id="fn117" type="footnote" n="117"><persName>Anna. geb. Adlischwyler</persName>.</note> et liberos.<note xml:id="fn118" type="footnote" n="118">Zu deren Namen s. <ref target="file12784">Nr. 2735</ref>, Anm. 10.</note></s>
+					<s n="145" xml:lang="la" type="auto">Salutant te fratres nostri 3<note xml:id="fn119" type="footnote" n="119"><persName>Meyer</persName>, <persName>Schwyzer</persName> und <persName>Ruman</persName>.</note>, <persName>Musculus</persName> item, Cellarius<note xml:id="fn120" type="footnote" n="120"><persName>Michael Keller</persName>.</note> et d. <persName>Laetus</persName><note xml:id="fn121" type="footnote" n="121"><persName>Georg Frölich</persName>.</note>, <persName>Lepusculus</persName><note xml:id="fn122" type="footnote" n="122">Der von den Baslern an die <placeName>Augsburger</placeName> geliehene <persName>Sebastian Lepusculus</persName>.</note> quoque et, qui hoc mihi semper commendat, <persName>Xystus</persName>.<note xml:id="fn123" type="footnote" n="123"><persName>Sixt Birck</persName>.</note></s>
+					<s n="146" xml:lang="la" type="auto"><placeName>Augustae Vindelicorum</placeName>, 21. februarii 1547.</s>
+					<s n="147" xml:lang="la" type="auto"><persName>Hallerus</persName> tuus perpetuo.</s>
+				</p>
+			</div>
+			<div xml:id="div19" corresp="regest19">
+				<p>
+					<s n="148" xml:lang="de" type="auto">Ich bitt, wellind den herren von <placeName>Kyburg</placeName><note xml:id="fn124" type="footnote" n="124"><persName>Bernhard von Cham</persName>, Landvogt (proconsul; vgl. unten Z. 185) von <placeName>Kyburg</placeName>.</note> diser vertraͤgen berichten.</s>
+					<s n="149" xml:lang="de" type="auto">Hab nitt wyl<note xml:id="fn125" type="footnote" n="125">Zeit (Weile).</note> ghept, es imm als<note xml:id="fn126" type="footnote" n="126">alles.</note> zuͦschriben.</s>
+				</p>
+			</div>
+			<div xml:id="div20" corresp="regest20">
+				<p>
+					<s n="150" xml:lang="la" type="auto"><persName>Zollerus</persName> te salvere iubet, qui, dum haec scribo, me convenit.</s>
+					<s n="151" xml:lang="la" type="auto">Et dum legimus literas a proconsule Kyburgensi scriptas, ecce adsunt 6 illa vexilla, de quibus superius:<note xml:id="fn127" type="footnote" n="127">Nämlich oben in Z. 10f.</note> Vix 1200 continent milites!</s>
+					<s n="152" xml:lang="la" type="auto">Dicunt totidem adhuc ventura intra aliquot dies.</s>
+				</p>
+			</div>
+			<div xml:id="div21" corresp="regest21">
+				<p>
+					<s n="153" xml:lang="de" type="auto"><pb type="scan" next="52v."/><ptr target="fnj" type="footnote" n="j"/> Deß churfürsten [zuͦ <persName>Sachsen</persName>] kriegßvolck, so er diser zyt bi einanderen hatt: 2 regiment ghoͤrend imm zuͦ, 2000 starck.</s>
+					<s n="154" xml:lang="de" type="auto">1 regiment fuͤrt sin bruͦder hertzog <persName>Hans Ernst</persName>.<note xml:id="fn128" type="footnote" n="128">Herzog <persName>Johann Ernst von Sachsen-Coburg</persName>, Halbbruder des Kurfürsten.</note></s>
+					<s n="155" xml:lang="de" type="auto">1 regiment hertzog <persName>Heinrych von Mechelburg</persName>.<pb type="edition" next="345"/></s>
+					<s n="156" xml:lang="de" type="auto">1 regiment hertzog Frantz von Lünenburg.<note xml:id="fn130" type="footnote" n="130">Herzog <persName>Franz von Braunschweig-Lüneburg-Gifhorn</persName>.</note></s>
+					<s n="157" xml:lang="de" type="auto">1 regiment hertzog <persName>Philips von Brunschwig</persName>.<note xml:id="fn131" type="footnote" n="131">Herzog <persName>Philipp I. von Braunschweig-Grubenhagen</persName>.</note></s>
+					<s n="158" xml:lang="de" type="auto">1 regiment graff von Altenburg.</s>
+					<s n="159" xml:lang="de" type="auto">1 regiment graff von Biechlingen.<note xml:id="fn133" type="footnote" n="133">Graf <persName>Hubert von Beichlingen</persName>, erst hessischer, dann kursächsischer Oberst; s. <hi><persName>Mameranus</persName>, Rebel,</hi> f. A8r.; <bibl>Gerber, Kriegsrechnungen</bibl> III 273.</note></s>
+					<s n="160" xml:lang="de" type="auto">1 regiment herr Joͤrg von Reckenrott, 10000 starck.</s>
+					<s n="161" xml:lang="de" type="auto">Und ist ins<note xml:id="fn135" type="footnote" n="135">in des.</note> churfürsten land noch nieman uszogen.</s>
+					<s n="162" xml:lang="de" type="auto">Künig uß <placeName>Polen</placeName><note xml:id="fn136" type="footnote" n="136">Vermutlich ist hier <persName>Sigismund II. August</persName> gemeint und nicht dessen Vater <persName>Sigismund I.</persName></note> und hertzog <persName>Albrecht</persName> uß Prüßen habend dem künig in Behem<note xml:id="fn137" type="footnote" n="137"><persName>Ferdinand I.</persName>, König von Böhmen.</note> sunderlich abgsagt.</s>
+					<s n="163" xml:lang="la" type="auto">Haec senatui nostro scripta esse modo accepi, cum iam clausurus essem literas.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse daneben:]</note>
+					<s n="164" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, Tigurinae ecclesiae antistiti summo, domino et patri suo venerando.</s>
+					<s n="165" xml:lang="de" type="auto">Zürich, an m. Heinrych Bullinger.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

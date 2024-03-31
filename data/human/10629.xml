@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10629" type="Brief" source="HBBW" n="591">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Stumpf, 11. Juni 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Heinricus Bullingerus <persName>Ioanni Stumpfio</persName> suo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gratiam et pacem etc.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Recte valet <persName>Füeßlius</persName><note xml:id="fn1" type="footnote" n="1"><persName>Hans Füßli</persName>.</note>, charissimus frater, sequundana modo febri obnoxius nonnihil laborat.</s>
+					<s n="4" xml:lang="la" type="auto">De vita non est periculum.</s>
+					<s n="5" xml:lang="la" type="auto">Ac si vocaretur a domino, memor ero literarum tuarum<note xml:id="fn2" type="footnote" n="2"><persName>Johannes Stumpf</persName> an Bullinger, 9. Juni 1535 (oben <ref target="file10628">Nr. 590</ref>).</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Georgius Ottelius scriptam historiam<note xml:id="fn3" type="footnote" n="3">Zu <persName>Georg Ottlis</persName> Bericht über die Schlacht am <placeName>Gubel</placeName> vgl. ebd., Z. 14-17 und Anm. 10.</note> mihi ante mensem propemodum tradidit.</s>
+					<s n="7" xml:lang="la" type="auto">Perscrutatus sum etiam ipse quaedam a parte adversa.</s>
+					<s n="8" xml:lang="la" type="auto">Conor ipse tibi faciem eius pugnae delineare.</s>
+					<s n="9" xml:lang="la" type="auto">Negotia hactenus prohibuere.</s>
+					<s n="10" xml:lang="la" type="auto">Ubi non potero brevi absolvere, fragmenta mittam, ex quibus tu sarcias omnia.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Valebis, charissime frater.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">11. iunii 1535.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

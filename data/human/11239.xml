@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11239" type="Brief" source="HBBW" n="1196">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 9. November 1538</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Exhilarasti me valde literis tuis proximis<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file11233">Nr. 1190</ref>.</note>, charissime Bullingere, quod ostenderunt pristinum tuum erga me animum, de quo fere coeperam dubitare, mutatusne forsitan esset.</s>
+					<s n="3" xml:lang="la" type="auto">Omnia nempe sunt hodie tam suspecta, ut sępius precer a domino malorum finem.</s>
+					<s n="4" xml:lang="la" type="auto">Venit rumor isthinc, quam quidam de me pessime loquantur privatim et publice, tanquam defecerim a fide.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Dolet ea res mihi, non certe mea gratia, sed quod hominum iudicia tam sunt vana.</s>
+					<s n="6" xml:lang="la" type="auto">In domino iudicari debebant omnia, non in vanitate sensus nostri.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Equidem pro Christo patior tam multa et dicor defecisse?</s>
+					<s n="8" xml:lang="la" type="auto">Fide sola sustineor; hinc mihi solatium fortissimum.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Pręter cętera de novo me petunt universitatenses hoc conatu, ut ministerium sanctum ecclesię sibi subiectum habeant.</s>
+					<s n="10" xml:lang="la" type="auto">Qualem tu putas hic superbire satanam?</s>
+					<s n="11" xml:lang="la" type="auto">Prętexunt unum corpus se velle suum et ministrorum.</s>
+					<s n="12" xml:lang="la" type="auto">Ergo, inquio, iam non sunt de corpore Christi, hoc est ecclesię; nos enim eius membra sumus<note xml:id="fn3" type="footnote" n="3">Vgl. 1 Kor 12, 12-27.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Quid igitur?</s>
+					<s n="14" xml:lang="la" type="auto">Aliquid sint oportet ab ecclesia diversum.</s>
+					<s n="15" xml:lang="la" type="auto">Accedant ad nos, et unum efficietur corpus.</s>
+					<s n="16" xml:lang="la" type="auto">Sed aliud volunt, esse nempe caput non alio, quantum adparet, animo, quam universalis ecclesię papa se scribit esse caput.</s>
+					<s n="17" xml:lang="la" type="auto">Dolent mihi nugę.</s>
+					<s n="18" xml:lang="la" type="auto">Tu, quęso per dominum, mecum ista feras; non est enim alia causa, quur ea tibi exponam.</s>
+					<s n="19" xml:lang="la" type="auto">Interim volo tamen in sinum hęc tuum recondita.</s>
+					<s n="20" xml:lang="la" type="auto">Condole et consolator.<pb type="edition" next="262"/></s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">In fasciculo literarum invenies literas<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note>, in quibus inclusa est pecunia.</s>
+					<s n="22" xml:lang="la" type="auto">Ex <placeName>Berna</placeName> venit et <persName>Stephano Willio</persName> pertinet; quęso, reddas.</s>
+					<s n="23" xml:lang="la" type="auto">Arbitror esse apud <persName>Pellicanum</persName><note xml:id="fn5" type="footnote" n="5"><persName>Willi</persName> war im Winter 1538 Kostgänger <persName>Pellikans</persName>; s. <persName>Pellikan</persName>, Chronikon 149.</note>.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Vale per Christum cum tuis et me semper ama.</s>
+					<s n="25" xml:lang="la" type="auto">Raptim, <placeName>Basileę</placeName>, 9. novembris anno 38.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Tuus <persName>Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="27" xml:lang="la" type="auto">Domino Heinricho Bullingero, episcopo Tigurino, fratri in domino observando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

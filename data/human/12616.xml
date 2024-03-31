@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12616" type="Brief" source="TUSTEP" n="2569">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Philipp von Hessen d.Ä., 6. September 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Durchlüchtiger, hochgeborner fürst, gnediger herr, uwer fürstlich gnad sye min gantz willig dienst bevoran bereit<note xml:id="fn1" type="footnote" n="1">bevoran bereit: vorab entboten.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="de" type="auto">Gnediger herr, das zuͦ churfürstlichen und ouch u[wer] f[ürstlichen] gnaden<note xml:id="fn2" type="footnote" n="2"><persName>Johann Friedrich I. von Sachsen</persName> und <persName>Philipp von Hessen</persName>.</note>, min gnedig herren, zöugern diß brieffs, <persName>Heinrychen Thomman</persName>, iren burger und des grossen radts gesandt habend, ist in höchstem vertruwen und gar früntlicher meinung beschähen.</s>
+					<s n="3" xml:lang="de" type="auto">Dann diewyl diser gägenwirtig krieg von dem keyser<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> und babst<note xml:id="fn4" type="footnote" n="4"><persName>Paul III.</persName></note> keiner andern ursach fürgenommen, dann das sy die waren religion (deren wir nun vil iar angehanget, und iren mitt der hilff des allmächtigen fürer anzehangen gedenckend) uußrütind, ia so ferr inen sölichs von gott zuͦgelassen, kan mencklich by uns wol ermässen, das u[wer] f[ürstlich] g[naden] wolfart unser aller wolfart, und u. f. g. unfal, den gott eewig wende, unser aller unfal ist.</s>
+					<s n="4" xml:lang="de" type="auto">Dorumb min gnedig herren und alles volck u. f. g. wolfart seer groß verlangen habend.</s>
+					<s n="5" xml:lang="de" type="auto">Truw ouch gott und allen redlichen, das sy sich zur zyt der nodt dappffer stellen wurdint.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="6" xml:lang="de" type="auto">So mag u. f. g. wol wüssen, weß sich unsere nachpurn und verpündeten untz har gehalten, und wie groß werben von dem keyser und dem babst täglich an sy beschicht.</s>
+					<s n="7" xml:lang="de" type="auto">Dargägen aber min gnedig herren, zuͦ guͦtem und fürdernuß gemeiner sach sy gar häfftig abgewendt und noch abwendent; welchs ouch vil nutzes geschafft hat.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="8" xml:lang="de" type="auto">Damitt sy dann fürohin dister gewarsammer und gruntlicher ir bests thuͦn und baaß wüssen mögind, wie die sachen gestalltet, habend sy disen getruwen zuͦ u. f. g. gesandt, ungezwyfflet, u. f. g. werde sich gnedig und guͦtwillig hierinn erzeigen.</s>
+					<s n="9" xml:lang="de" type="auto">Were deßhalb der sach gar dienstlich, wenn u. f. g. zöugern under keinen hoptman wise und verordnete, sunder by<pb type="scan" next="48v."/> und ander u. f. g. dienern blyben liesse, doch one u. f. g., in miner gnedigen herren kostung.</s>
+					<s n="10" xml:lang="de" type="auto">Dorumb u. f. g. ich demuͤtig und früntlich wil gebätten haben.</s>
+					<s n="11" xml:lang="de" type="auto">Er ist ein gottsförchtiger, züchtiger und eerlicher mann, zuͦ dem sich aller trüwen zuͦ versähen.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">Hiemitt u. f. g. ze dienen, embüt ich mich willig alle zyt.</s>
+					<s n="13" xml:lang="de" type="auto">Und bittend hie alle gott den herren, das er u. f. g. langwirig in sig und wolfart zuͦ wolstand siner kyrchen gnedicklich fürdere und erhallte.</s>
+					<s n="14" xml:lang="de" type="auto">U. f. g. embüt sinen gruͦß min gunstiger herr <persName ref="p6155">Johanns Rodolff Lavater</persName>, Burgermeister, sampt sinen willigen diensten.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Datum Zürych, des 6. septembris anno 1546.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">U. f. g. gantz underthäniger, williger</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Heinrich Bullinger, diener der kyrchen Zürych.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 49v.:]</note>
+					<s n="18" xml:lang="de" type="auto">Dem durchlüchtigen hochgebornen christlichen fürsten und herren, herren <persName>Philipsen</persName> lantgraven zuͦ Hessen, graven zuͦ Catzenelnbogen etc., sinem gnedigen fürsten unnd herren.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11537" type="Brief" source="HBBW" n="1494">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Wolf / Frankfurt am Main AN Heinrich Bullinger, 10. April 1541</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Omnis amor tuus ex omnibus partibus se ostendit in his litteris<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, quas a te proxime, <placeName>Francfordiam</placeName> cum venissem, accepi; non ille mihi quidem ignotus, sed tamen gratus et optatus, neque enim puto maiore me voluptate affici posse quam ea, quam ex tua bonitate singulari propensaque in me et socios<note xml:id="fn2" type="footnote" n="2"><persName>Johannes Haller</persName>, <persName>Johann Jakob Wick</persName> und <persName>Rudolf Gwalther</persName>.</note> voluntate capio.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Porro non dubium est, quin nova expectes plurima, ex quibus (quoniam ea rerum est perturbatio tantaque novarum rerum copia, ut ex omnibus, quid tibi scribi oporteat, non intelligam) ea, quae partim vidi et cognovi, partim ex iis etiam, qui praesentes rebus affuerunt, didici, scribenda existimo.</s>
+					<s n="3" xml:lang="la" type="auto">Primum: <persName>Hessorum</persName> princeps<note xml:id="fn3" type="footnote" n="3">Landgraf <persName>Philipp von Hessen</persName>.</note> hac fere tota hyeme <placeName>Marpurgi</placeName> fuit et filiam suam<note xml:id="fn4" type="footnote" n="4"><persName>Landgräfin Agnes von Hessen</persName>.</note> ducis <persName>Heinrichi</persName> <persName>Saxoniae</persName>, Mysiae etc<note xml:id="fn5" type="footnote" n="5"><persName>Herzog Heinrich der Fromme von Sachsen</persName>.</note>., qui Lypsiam occupat, filio, principi ditissimo, nuptum dedit,<note xml:id="fn6" type="footnote" n="6">Die Hochzeit fand am 9. Januar 1541 statt; vgl. Detlev <hi>Schwennicke,</hi> Europäische Stammtafeln, NF I/2, <placeName>Frankfurt</placeName> a. M. 1999, Tafel 98.</note> et illic nuptiis celebratis iunior dux <persName>Mauricius</persName> sponsus domum rediit.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Inde cum lantgravius in Walckenstorff<note xml:id="fn8" type="footnote" n="8">Gemeint ist wohl <placeName>Wolkersdorf</placeName> bei Frankenberg/Eder. Kreis Waldeck-Frankenberg, wo die hessischen Landgrafen seit 1477 ein Jagdschloss besaßen; vgl. <hi>Kuhaupt,</hi> Kirchenpolitik 266, Anm. 25.</note> esset, redditus est illi libellus alter a duce <persName>Heinricho Brunswicensi</persName> conscriptus,<note xml:id="fn9" type="footnote" n="9">Gemeint ist wohl Herzog <persName>Heinrichs von Braunschweig-Wolfenbüttel</persName> "Dritte Antwort auf des Landgrafen Lästerschrift" vom 22. Juli 1540; vgl. oben <ref target="file11516">Nr. 1473</ref>, Anm. 5.</note> quo illum calumniis miris laceravit et conviciis.</s>
+					<s n="5" xml:lang="la" type="auto">Huic ille statim ante profectionem diesque noctesque<pb type="edition" next="133"/> laboravit, ut responderet, ut, si <placeName>Ratisponę</placeName><note xml:id="fn10" type="footnote" n="10">In <placeName>Regensburg</placeName> fand zu dieser Zeit der Reichstag statt.</note> pactum fieret, ille postremam suam defensionem vulgo emisisse videretur et conviciis in eum factis ultimus respondisset;<note xml:id="fn11" type="footnote" n="11">Dies bezieht sich wohl auf Philipps "Dritte wahrhaftige Verantwortung gegen <persName>Heinrich von Braunschweig</persName>"; vgl. oben <ref target="file11536">Nr. 1493</ref>, Anm. 13.</note> nam et a quibusdam aulicis audivi eum ipsum quoque in hoc opere plurimum laborasse.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Hoc confecto una cum duce <persName>Albrechto</persName> a Grawenhagen, qui est exul in aula principis <persName>Philip[pi]</persName>, et comitibus, ni fallor, octo aulicis suis et 150 equitibus ex <placeName>Marpurgo</placeName> profectus est, sed cum terminos suae regionis egressurus esset, 300 ferunt habuisse equites et una cum iis 6. calendas april[is] pervenisse <placeName>Ratisponam</placeName><note xml:id="fn13" type="footnote" n="13">Vgl. den Bericht <persName>Rudolf Gwalthers</persName> zur Reise Philipps von Hessen nach <placeName>Regensburg</placeName>, unten <ref target="file11540">Nr. 1497</ref>, 12-24.</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Pervenit deinde ad nos rumor <placeName>Marpurgam</placeName> <persName>Heinrichum ducem Brunsvicensem</persName> audito lantgravii adventu sese quamprimum contulisse ad principes Bavariae<note xml:id="fn14" type="footnote" n="14">Herzöge <persName>Wilhelm IV.</persName> und <persName>Ludwig X. von Bayern</persName>.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Alii aiunt eum lantgravii hospitium pretereuntem clamorem magnum edidisse.</s>
+					<s n="9" xml:lang="la" type="auto">Hoc, quicquid est, verum ne sit, parvi refert.</s>
+					<s n="10" xml:lang="la" type="auto">Illud certe scio, lantgravium habere aliquot incendiarios latrones, qui sese a ministris ducis <persName>Heinrychi</persName> conductos esse ad hanc cladem Germaniae inferendam<note xml:id="fn15" type="footnote" n="15">Vgl. <bibl>PC</bibl> III 102. 105-107.</note> fatentur, pręter hęc etiam comitem a Plös, qui una cum lantgravio<pb type="edition" next="134"/> <placeName>Ratisponam</placeName> profectus est, habere idem confessos; huic enim comiti non solum insidiati sunt, ut ditionem illius igne perderent, sed ut eum ipsum quoque in ignem et lamentabile incendium coniicerent.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Auditur et illud tacendum quidem in Hessia noviciam principis coniugem<note xml:id="fn18" type="footnote" n="18"><persName>Margarethe von der Saale</persName>.</note> - non coniugem, sed prellicem - peperisse filiam<note xml:id="fn19" type="footnote" n="19">Margarethe brachte am 12. März 1541 ihr erstes Kind von <persName>Philipp</persName> von <placeName>Hessen</placeName> zur Welt, den späteren Grafen <persName>Philipp von Dietz</persName>; vgl. <bibl>Rockwell</bibl> 46, Anm. 7, S. 55, Anm. 3.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Alteram<note xml:id="fn20" type="footnote" n="20"><persName>Landgräfin Christine von Hessen</persName>.</note> vidi gravidam, et mox quoque parituram aut iamiam peperisse arbitror<note xml:id="fn21" type="footnote" n="21"><persName>Philipp II. von Hessen</persName> wurde am 22. April 1541 geboren; vgl. <hi>Schwennicke,</hi> aaO, NF I/2, Tafel 98.</note>.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Habes hactenus, Bullingere pater, ea, quę avaritiam, scortationem, adulterium, rapinas et incendia attinet; accipe nunc ea, quae ad ebrietatem spectant: Audivi profecto ab hominibus spectatae fidei, comitem a Lüningen<note xml:id="fn22" type="footnote" n="22">Ein Graf <persName>Emich IX.</persName> (X.) von Leiningen-Dagsburg geb. 1498) starb 1541, das genaue Todesdatum sowie die Todesumstände scheinen unbekannt zu sein; vgl. Genealogisches Handbuch des Adels, Bd. 97 (Adelslexikon, Bd. VII), Limburg an der Lahn 1989, S. 247.</note> potando suffocatum et studiosum<note xml:id="fn23" type="footnote" n="23">Unbekannt.</note> (ni fallor) <placeName>Marpurgensem</placeName> ebrium ab equo precipitem in lutum incidisse atque ibidem mortem sursum versis pedibus inventum.</s>
+					<s n="14" xml:lang="la" type="auto"><placeName>Marpurgi</placeName> etiam plura haberem, quae facta sunt, exempla ebrietatis vitandę, sed neque id tempus patitur neque longiorem epistolam meam videtur humanitas tua expectare.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Quod ad me attinet studiaque mea, cupio te, quod soles, de me non aliter sperare quam de iuvene, qui maiorum suorum de se existimatione pro virili conetur satisfacere, namque <placeName>Marpurgum</placeName> proficiscor iam et ad studia cepta redeo.</s>
+					<s n="16" xml:lang="la" type="auto">Ibi in Hebraicis d. <persName>Ioanne Lonicero</persName> utor pręceptore, sicut et in Gręcis.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">In philosophiam iam emi <persName>Themistium</persName><note xml:id="fn24" type="footnote" n="24">Das Werk des griechischen Rhetorikers, Philosophen und Staatsmannes <persName>Themistios</persName> (ca. 317-385) erschien erstmals 1534 in <placeName>Venedig</placeName>; s. <bibl>DNP</bibl> XII/1 303-305.</note> et <persName ref="p6490">Philippi</persName> in ethica et physica compendia<note xml:id="fn25" type="footnote" n="25">Gemeint sind wohl <persName>Philipp Melanchthon</persName>s "Moralis philosophiae epitome" und der "Commentarius de anima", der allerdings nur einen Teil der Physik, nämlich die Anthropologie, behandelt; vgl. Karl <hi>Hartfelder,</hi> <persName>Philipp Melanchthon</persName> als Praeceptor Germaniae, Berlin 1889, S. 238.</note>, in logicis <persName>Rodolphum</persName><note xml:id="fn26" type="footnote" n="26">Gemeint ist "De inventione dialectica" des Humanisten <persName>Rudolf Agricola</persName> (1443/44-1485).</note> et <persName>Hermogenem</persName><note xml:id="fn27" type="footnote" n="27">Der griechische Rhetoriker und Philosoph <persName>Hermogenes von Tharsos</persName> (ca. 160-230) erfreute sich großer Beliebtheit am Anfang des 16. Jahrhunderts; seine Werke wurden v. a. in Paris, Lyon und <placeName>Venedig</placeName> gedruckt; s. <bibl>DNP</bibl> V 444-446.</note>, quem mater<note xml:id="fn28" type="footnote" n="28"><persName>Margaretha Wolf, geb. Leu</persName>.</note> iam misit<pb type="edition" next="135"/> e mea bibliotheca, habeo.</s>
+					<s n="18" xml:lang="la" type="auto">Curabo autem, ut quemadmodum tuo hortatu incepi, in Hebraicis non mediocriter proficiam, id quod ego mihi utilissimum spero fore<note xml:id="fn29" type="footnote" n="29">Zu <persName>Wolfs</persName> hebraistischen Studien vgl. unten <ref target="file11571">Nr. 1528</ref>, 11-17, sowie die von <persName>Wolf</persName> 1541 in <placeName>Marburg</placeName> notierten "Elementa linguae Hebraicae" (Zürich ZB, Ms D 59, f. 80-89).</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Tu autem pro tua mirifica erga me promptaque benevolentia conaberis me spe cepta non frustrare, neque enim dubito te virum tam integrum, tam constantem tamque amicum studiosis omnibus id ommissurum, quod mihi futurum sit et utili et honesto excellens.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto"><persName>Rodolphus</persName><note xml:id="fn30" type="footnote" n="30"><persName>Rudolf Gwalther</persName>.</note> noster rogatus una cum d. <persName>Draconite</persName> famulus <placeName>Ratisponam</placeName> profectus.</s>
+					<s n="21" xml:lang="la" type="auto">Literas ad te scriptas illius<note xml:id="fn31" type="footnote" n="31">Gemeint ist wohl <persName>Gwalthers</persName> Brief vom 11. März, oben <ref target="file11519">Nr. 1476</ref>.</note> <persName ref="p5295">Froschouero</persName> dedi; huius ego certe gratia potissimum <placeName>Francfordiam</placeName> me contuli, quo lucubrationes suas<note xml:id="fn32" type="footnote" n="32"><persName>Gwalthers</persName> "Monomachia" und "Epistolae herionae"; vgl. oben <ref target="file11519">Nr. 1476</ref>, 36f.</note> <persName ref="p5295">Froschouero</persName> commendarem et d. <persName>Ioanni Pollio</persName> illius nomine missa exemplaria<note xml:id="fn33" type="footnote" n="33">Zur Übersendung der "Opuscula" von <persName>Johannes Pollius</persName> vgl. oben <ref target="file11519">Nr. 1476</ref>, Anm. g.</note> significarem, denique, quod maximum est, curarem debita cuique sua persolverentur.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Tu iam, mi Bullingere, pater omnibus nominibus maxime observande, valebis quam felicissime studiosis superstes in annum.</s>
+					<s n="23" xml:lang="la" type="auto">Salutabis, obsecro, familiam tuam, in primis coniugem<note xml:id="fn34" type="footnote" n="34"><persName>Anna, geb. Adlischwyler</persName>.</note> tuam et matrem<note xml:id="fn35" type="footnote" n="35"><persName>Anna, geb. Wiederkehr</persName>.</note>, quas ego mihi quam optime velle hactenus semper sum expertus.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><placeName>Francforti</placeName> ad Moenum, anno 1541, 4. id[ibus] april[is].</s>
+					<s n="25" xml:lang="la" type="auto">Tuus <persName>Iohannes Wolffius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="26" xml:lang="la" type="auto">Clarissimo viro domino Heinricho Bullingero, Tigurinae ecclesiae antistiti, patri suo unice observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

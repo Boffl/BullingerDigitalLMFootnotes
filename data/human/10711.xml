@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10711" type="Brief" source="HBBW" n="673">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 9. November 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Sexcenties<note xml:id="fn1" type="footnote" n="1">vielmal (<bibl>Georges</bibl> II 2636).</note> scripsissem diebus elapsis, nisi <persName>Capitones</persName> et <persName ref="p18198">Buceri</persName> me tam reddidissent perpiexum, ut quod volueram te maxime scire, scribere non possem ob prolixitatem.</s>
+					<s n="3" xml:lang="la" type="auto">Adeo nos vexarunt isti propter <persName>Grynęum</persName> dimittendum.</s>
+					<s n="4" xml:lang="la" type="auto">Sed deo gratia, tandem olfecerunt sagacissimi quique consilium istorum non ita syncerum, quamvis iurent ipsi per omnia sacra nihil latere impuritatis.</s>
+					<s n="5" xml:lang="la" type="auto">Adeo difficile est proprios adfectus cognoscere, aeque item difficile coram oculatis contegere.</s>
+					<s n="6" xml:lang="la" type="auto"><persName ref="p18198">Bucerum</persName> vereor non favere nobis.</s>
+					<s n="7" xml:lang="la" type="auto">Contempturus esset, si perirent ecclesię Helvetiorum omnes, tantum ut quę sunt sub imperio, manerent.</s>
+					<s n="8" xml:lang="la" type="auto">Effutivit verbis et scriptis, unde coniecturam hanc confirmare possem.</s>
+					<s n="9" xml:lang="la" type="auto"><persName>Capito</persName> syncerus et simplex nimium videtur huic tribuere.</s>
+					<s n="10" xml:lang="la" type="auto">Fuit hic nec me accessit, postquam in quartum usque diem moratus erat.</s>
+					<s n="11" xml:lang="la" type="auto">Equidem non bene interpretor, sed apud me, palam vix ausim.</s>
+					<s n="12" xml:lang="la" type="auto">Nisi concedamus in concordiam Buceranam, sacramentariis minatur bellum.</s>
+					<s n="13" xml:lang="la" type="auto">Conatus est, dum hic fuit, sic movere senatum nostrum oratione satis longa, ut <persName>Grynęum</persName> dimitteret, tanquam hic, si esset <placeName>Tubingae</placeName>, bellum instans posset removere.</s>
+					<s n="14" xml:lang="la" type="auto">Nos propterea<pb type="edition" next="417"/> dedimus operam, ut retineremus, ut si bellum qualecunque exoriatur, sit, qui pugnet in acie.</s>
+					<s n="15" xml:lang="la" type="auto">Hoc quidem scientes illi tam anxie contendunt, ut <persName>Grynęum</persName> a nobis abstrahant.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ad literas <persName>Capitonis</persName>, quas nuper cum libellis duobus ad te misi<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10701">Nr. 663</ref>.</note>, venio; nam eas legi, quemadmodum commiserat.</s>
+					<s n="17" xml:lang="la" type="auto">Iubet, ut defendas scripta Melancht[honis], <persName ref="p18198">Buceri</persName><note xml:id="fn4" type="footnote" n="4">Siehe ebd., Z. 7-20.</note> etc.</s>
+					<s n="18" xml:lang="la" type="auto">Itidem suadeo.</s>
+					<s n="19" xml:lang="la" type="auto">Verum quęnam imprudentia visis scriptis <persName ref="p6490">Melanch[thonis]</persName> addere, quę non per omnia essent his conformia, et ita mittere ad exteros, etiamsi fuissent amicissimi?</s>
+					<s n="20" xml:lang="la" type="auto">Sinere item, ut, qui hactenus est proclamatus antichristus esse, in sua maneat sede et divitiis et potestate?</s>
+					<s n="21" xml:lang="la" type="auto">An non recte dicunt hostes:</s>
+					<s n="22" xml:lang="de" type="auto">"Si hand das lied ze hoch angfangen"<note xml:id="fn5" type="footnote" n="5">Zur Redensart vgl. <bibl>Wander</bibl> III 182, Nr. 31f; <bibl>Grimm</bibl> IV/II 1598.</note>?</s>
+					<s n="23" xml:lang="la" type="auto">- quocunque consilio scripserint (nam apud me facilem inveniunt excusationem).</s>
+					<s n="24" xml:lang="la" type="auto">An non recte Gallus mitigata dicit esse dogmata<note xml:id="fn6" type="footnote" n="6">Vgl. oben <ref target="file10701">Nr. 663</ref>, Anm. 5.</note>?</s>
+					<s n="25" xml:lang="la" type="auto">Pessimum titulum nobis imposuerunt et, ni deus caveat, periculosissimum.</s>
+					<s n="26" xml:lang="la" type="auto">Verum apologias scribent.</s>
+					<s n="27" xml:lang="la" type="auto">Scribant libros ferreos, nunquam efficient tamen, ut ex hostium animis exculpent, quod est conceptum semel.</s>
+					<s n="28" xml:lang="la" type="auto">Attamen, si omnes erunt, qualem unam ego vidi, <persName ref="p18198">Buceri</persName> videlicet ad Constantienses<note xml:id="fn7" type="footnote" n="7">Gemeint ist wohl <persName>Bucers</persName> Brief an <persName>Thomas Blarer</persName> und <persName>Johannes Zwick</persName> vom 3. Februar 1535; vgl. oben <ref target="file10562">Nr. 526</ref>, 2f mit Anm. 1.</note>, malim, ut in totum tacerent.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Petit <persName>Capito</persName> conventum, qua de re scripsi <persName>Theodoro</persName><note xml:id="fn8" type="footnote" n="8">Dieser Brief von <persName>Myconius</persName> an <persName>Theodor Bibliander</persName> ist nicht erhalten.</note>.</s>
+					<s n="30" xml:lang="la" type="auto">Non displicet, inprimis placeret tamen, ut nos, qui confessionem simul edidimus<note xml:id="fn9" type="footnote" n="9">Gemeint ist das Zürcher Abendmahlsbekenntnis vom Dezember 1534 (<bibl>HBBW</bibl> IV, <ref target="file10518">Nr. 482</ref>).</note>, una cum <placeName>Constantiensibus</placeName> conveniremus, si commode posset fieri.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">De concilio, quo de scribit, et de cęsaris erga papam obedientia nil dico nisi hoc: nullum concilium futurum tam probum, quod christianismum restituat in integrum.</s>
+					<s n="32" xml:lang="la" type="auto">Quid faceret igitur, quod molitur impietas?</s>
+					<s n="33" xml:lang="la" type="auto">Nostrum est omnia committere deo, agere vero interim pro talento concredito<note xml:id="fn10" type="footnote" n="10">Vgl. Mt 25, 14-30.</note>.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Quod enim dicit persecutionum meditari exordium, causa videtur esse, cur tantopere laborent pro concordia qualicunque.</s>
+					<s n="35" xml:lang="la" type="auto">Nam solidam hac tempestate non quęrunt, quod <persName>Capito</persName> verbis disertis hic inter fratres eloquutus est<note xml:id="fn11" type="footnote" n="11">Vgl. oben <ref target="file10690">Nr. 652</ref>, 21-24.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Optamus et nos concordiam eam redempturi, si sic visum esset domino, re non facile credibili, sed solidae veritatis, qualis non videtur, in quam articuli, quos misit <persName>Theodorus</persName>, intendunt.</s>
+					<s n="37" xml:lang="la" type="auto">Dic, mi frater, si non<pb type="scan" next="||145v."/> recte sentio.</s>
+					<s n="38" xml:lang="la" type="auto">Videntur articuli secundus et tertius dissentire praeter hoc, quod veritatem Iaedunt.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto"><pb type="edition" next="418"/>Prior dicit, intricatissimis verbis quivis, fidem edere corpus Christi, posterior admittit etiam infideles.</s>
+					<s n="40" xml:lang="la" type="auto">Tum videntur omnino ficti esse, tametsi sapiunt <persName ref="p18198">Bucerum</persName>.</s>
+					<s n="41" xml:lang="la" type="auto">De his breviter dico: Non placent, nisi non capiam, quod continent.</s>
+					<s n="42" xml:lang="la" type="auto">Contuli cum domino <persName>Grynaeo</persName>.</s>
+					<s n="43" xml:lang="la" type="auto">Complodebat is manus inquiens: Ah miseri, nesciunt virtutem fidei adhuc!</s>
+					<s n="44" xml:lang="la" type="auto">Hoc in sinum tibi.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Sed illud minim: <persName>Bonifacius Wolfhartus</persName> ex <placeName>Augusta</placeName> rogat per literas<note xml:id="fn13" type="footnote" n="13">Nicht erhalten.</note>, quid de concordia sentiam instituta.</s>
+					<s n="46" xml:lang="la" type="auto">Sibi enim ait non placere, quod speciem tantum prae se ferat concordiae.</s>
+					<s n="47" xml:lang="la" type="auto">Ideo vero minim, quod ex <placeName>Augusta</placeName> nuper agi coepit res<note xml:id="fn14" type="footnote" n="14">Vgl. oben <ref target="file10671">Nr. 633</ref>, Anm. 2.</note>.</s>
+					<s n="48" xml:lang="la" type="auto">Tum quaerit <persName>Thomas Blaurerus</persName> ex <persName>Oporino</persName> per literas<note xml:id="fn15" type="footnote" n="15"><persName>Thomas Blarer</persName> an <persName>Johannes Oporin</persName>, 1. November 1535 (<bibl>Blarer BW</bibl> I 752f).</note>, an <placeName>Basilienses</placeName> "aliquid aut quatenus concesserint in concordia"; nam <placeName>Argentinenses</placeName> conqueri "se Tigurinenses non posse adducere, cęterum <placeName>Basilienses</placeName> accessisse".</s>
+					<s n="49" xml:lang="la" type="auto">Et hoc certe minim, cum hactenus nihil sit actum aliud, quam quod actum est pariter vobiscum, neque nos aliter unquam respondimus, quam vos respondistis, imo pro nobis per confessionem communem vos veluti respondistis.</s>
+					<s n="50" xml:lang="la" type="auto">Quid est igitur, quod illi mentiuntur de nobis?</s>
+					<s n="51" xml:lang="la" type="auto">Commendastis, inquiunt, libellum Ad Monasterienses.</s>
+					<s n="52" xml:lang="la" type="auto">Commendavimus sic, si nihil contineat contra confessionem nostram, atque id ore<note xml:id="fn16" type="footnote" n="16">Vgl. oben <ref target="file10557">Nr. 521</ref>, 27-29.</note>, cum Bullingerus idem fecerit scripto.</s>
+					<s n="53" xml:lang="la" type="auto">Ita enim <persName>Capito</persName> literis ad me significavit olim.</s>
+					<s n="54" xml:lang="la" type="auto">Neque de nobis ita scribunt aut dicunt ex dilectione; nam nescio, si sit, qui nos vilipendat magis.</s>
+					<s n="55" xml:lang="la" type="auto">Sed valeant ista.</s>
+					<s n="56" xml:lang="la" type="auto">Boni consule, quę apud te effundo.</s>
+					<s n="57" xml:lang="la" type="auto">Apud alios non utor eadem libertate; scio nanque tecum confabulans, quo cum confabuler.</s>
+				</p>
+				<p>
+					<s n="58" xml:lang="la" type="auto">Vale per dominum cum tuis et <persName>Utingero</persName>, amico venerando mihi.</s>
+					<s n="59" xml:lang="la" type="auto">Dominus te diu nobis servet.</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 9. novembris anno 35.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="la" type="auto">Gallum dicunt infirmari graviter<note xml:id="fn18" type="footnote" n="18">Zur Erkrankung von <persName>Franz I.</persName> vgl. Correspondance des nonces en France Carpi et Ferreiro 1535-1540, hg. v. Jean Lestocquoy, <placeName>Rom</placeName>-Paris 1961. - Acta nuntiaturae Gallicae 1, S. 78ff (passim); Corr. des réformateurs III 364f.</note> caesarem esse Romę cum papa<note xml:id="fn19" type="footnote" n="19">In Wirklichkeit hielt sich <persName>Karl V.</persName> zu diesem Zeitpunkt noch in Unteritalien auf, vgl. <bibl>Stälin</bibl> 573.</note> etc.</s>
+				</p>
+				<p>
+					<s n="62" xml:lang="la" type="auto"><pb type="edition" next="419"/>De libellis <persName ref="p6490">Melanch[thonis]</persName><note xml:id="fn20" type="footnote" n="20">Siehe oben <ref target="file10701">Nr. 663</ref>, 46 mit Anm. 19.</note> fac sciam, quid sentias etc.</s>
+				</p>
+				<p>
+					<s n="63" xml:lang="la" type="auto">Os. Myc. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="64" xml:lang="la" type="auto">Domino Heinricho Bullingero, Tigurino praesuli, fratri in domino charissimo suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

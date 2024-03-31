@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10242" type="Brief" source="HBBW" n="211">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 16. April [1533]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Binas a te accepi literas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> nuncio<note xml:id="fn3" type="footnote" n="3">Unbekannt, vgl. oben S. 102, 1f.</note> meo, charissime Heinrice, alteras senatui, reliquas mihi gratissimas.</s>
+					<s n="3" xml:lang="la" type="auto">Non quod senatus omnia audiverit, quae tu sancto zelo monueras, sed quae comitia Heremitana<note xml:id="fn4" type="footnote" n="4">Zur Tagung der X Orte in <placeName>Einsiedeln</placeName> am 2. April 1533, an welcher Zürich als einziger evangelischer Ort teilgenommen hatte, und zur Reaktion darauf in <placeName>Bern</placeName> s. oben <ref target="file10239">[Nr. 208]</ref> S. 102, Anm. 4.</note> pertingebant.</s>
+					<s n="4" xml:lang="la" type="auto">Nec rescivit senatus a te esse scripta.</s>
+					<s n="5" xml:lang="la" type="auto">Questor<note xml:id="fn5" type="footnote" n="5">Seckelmeister <persName>Bernhard Tillmann</persName>.</note> hoc noverat cum secretario<note xml:id="fn6" type="footnote" n="6">Stadtschreiber <persName>Peter Cyro</persName>.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Sub compendio tamen multorum ora tam fęliciter obturasti, quod te laboris illius nunquam pęnitere debeat<note xml:id="fn7" type="footnote" n="7">Offenbar hatte sich Bullinger in seinem Schreiben bemüht, den <placeName>Berner</placeName> Rat zu beruhigen und den Alleingang Zürichs zu erklären.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Inculcatum est multis Tigurinos proprie ore confessos Immontanos<note xml:id="fn8" type="footnote" n="8"><placeName>Die V Orte</placeName>.</note> habere «fidem veram et indubitatam»<note xml:id="fn9" type="footnote" n="9">Vgl. den Wortlaut des Zweiten Landfriedens, <bibl>EA</bibl> IV/1b 1568.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Cui cum contradicerent pii, a piis creditum est, ab impiis minus.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ceterum domino laborasti sumptibus in nuncium additis<note xml:id="fn10" type="footnote" n="10">Vgl. oben S. 102, 7f.</note> (non enim satis commendare potuit liberalitatem tuam).</s>
+					<s n="10" xml:lang="la" type="auto">Is omnia refundet<note xml:id="fn11" type="footnote" n="11">Vgl. Mt 16, 27.</note>.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">His diebus magistratus noster creatus est felicissimis, ut sperant omnes, auspiciis.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">In consulem creatus <persName ref="p18594">Iacobus a Wattenwil</persName> - id honoris expectabat consul a Diesbach -, in pandaretum <persName>Wolfgangus Wingarter</persName>.</s>
+					<s n="13" xml:lang="la" type="auto">Additus est et alius senatui, viri omnes<pb type="edition" next="107"/> optimę spei.</s>
+					<s n="14" xml:lang="la" type="auto">Tales additi sunt diacosii<note xml:id="fn13" type="footnote" n="13">Die Ratsherren des Rats der «Zweihundert».</note>, amandati vero papistę et lanii, nec unquam hactenus a multis annis pro voto piorum successit ut hoc pascate<note xml:id="fn14" type="footnote" n="14">Ostern 1533 war am 13. April.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Ad comitia futura num nostrates nuncium sint missuri necne, nihildum constat<note xml:id="fn15" type="footnote" n="15"><placeName>Bern</placeName>, einer der Schiedorte im Mandatstreit, wollte sein Mißfallen offenbar damit zum Ausdruck bringen, daß es sein Fernbleiben von den weiteren Verhandlungen erwog. Allerdings nahm es dann am zweiten Richtstag zu <placeName>Einsiedeln</placeName> am 22. und 23. April 1533 doch teil, s. <bibl>EA</bibl> IV/1c 63-66.</note>.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto"><persName>Megandri</persName> commentationes<note xml:id="fn16" type="footnote" n="16">Sicherlich <persName>Meganders</persName> Kommentar zum Galaterbrief, der im März 1533 erschien, s. oben <ref target="file10230">[Nr. 199]</ref> S. 84, Anm. 18.</note> accępi dono illius.</s>
+					<s n="17" xml:lang="la" type="auto">Quod vero de sinodo Capitonica<note xml:id="fn17" type="footnote" n="17">Zum <placeName>Berner</placeName> Synodus 1532 und zu <persName>Capitos</persName> Mitwirkung bei seiner Entstehung s. <bibl>HBBW</bibl> II <ref target="file10085">[Nr. 56]</ref> 30, Anm. 2; <persName>Hallers</persName> wiederholte Anfragen s. oben <ref target="file10219">[Nr. 188]</ref> S. 63, 29f und Anm. 22.</note> scribis, nescio, quid respondeam.</s>
+					<s n="18" xml:lang="la" type="auto">Ignorantiam meam perpetuo fateor, et cum ad doctos quosque eruditionis gratia me contulero, tantam in vobis invenio iudiciorum diversitatem, simul et linguarum versionem tam variam, ut sępius rapiar in vulgi proverbium:</s> 
+					<s n="19" xml:lang="de" type="manual">«Die gelerten die verkerten»<note xml:id="fn18" type="footnote" n="18">Siehe <bibl>Wander</bibl> I 1534, Nr. 21.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Alienum videbatur, dum <persName>Capito</persName> iudicaret, in Christo pęnitentiam praedicandam<note xml:id="fn19" type="footnote" n="19"><placeName>Berner</placeName> Synodus, Kap. 6.7 und 15, s. <bibl>BS</bibl> 52-56.64f.</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Firmabat sua apostolorum contionibus, quibus aliter cum Iudęis, aliter cum gentibus agebant<note xml:id="fn20" type="footnote" n="20">Ebenda, Kap. 12, s. <bibl>BS</bibl> 60f.</note>.</s>
+					<s n="22" xml:lang="la" type="auto">Interim tamen propter novum hunc docendi modum, cum nec fidei nec charitati derogaret, nolui ab homine<note xml:id="fn21" type="footnote" n="21"><persName>Capito</persName>.</note> dissentire.</s>
+					<s n="23" xml:lang="la" type="auto">De modo corripiendi et docendi praescripto apud nos erat opus.</s>
+					<s n="24" xml:lang="la" type="auto">Docent siquidem hęc tempora, mores et ecclesiarum necessitas.</s>
+					<s n="25" xml:lang="la" type="auto">Sed ita apud nos redditum erat politicum evangelium<note xml:id="fn22" type="footnote" n="22">Gemeint ist sicherlich die kriegerische Agitation <persName>Meganders</persName> in seinen Predigten nach dem Zweiten Kappelerkrieg und sein Streit mit dem <placeName>Berner</placeName> Rat, s. <bibl>HBBW</bibl> II <ref target="file10085">[Nr. 56]</ref> 30, Anm. 3.</note> satyricum et tyrannicum, ut absque ignominia non licebat apostolicum docere illud 10. 3 [16]: «Sic deus dilexit mundum».</s>
+					<s n="26" xml:lang="la" type="auto">Id quod palam quidam pro suggestu asserebant, sannis, scommatis et dicteriis ita addicti atque calumniis, e quibus non resipiscentia, sed odium oriebatur et evangelio et ministris, quod pro pseudofratribus haberentur, qui Christum adnunciarent et non illorum contumeliis accederent.</s>
+					<s n="27" xml:lang="la" type="auto">Sed quid plura?</s>
+					<s n="28" xml:lang="de" type="auto">Es ist nitt möglich, daß ich der kilchen und pfarrer, min und anderer mangel schribe, nisi ori adfuerim tuo.</s>
+					<s n="29" xml:lang="la" type="auto">Utinam ad sinodum nostram venires.</s>
+					<s n="30" xml:lang="la" type="auto">Cui nondum est indicta dies, indicabo tamen eam, quam citissime potero.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Tandem nuncius ille consistorii scriba est, homo tua familiaritate dignissimus.</s>
+					<s n="32" xml:lang="la" type="auto">Is, si quae alia voles, narrabit.</s>
+					<s n="33" xml:lang="la" type="auto">Hunc tibi cum parocho<note xml:id="fn24" type="footnote" n="24">Unbekannt.</note> comite non secus ac me ipsum commendo.</s>
+					<s n="34" xml:lang="la" type="auto">Musicus est et patriam petit.</s>
+					<s n="35" xml:lang="la" type="auto">Obsecro ne desis illi societate.</s>
+					<s n="36" xml:lang="la" type="auto">Nam mire gaudet doctorum consortio.</s>
+					<s n="37" xml:lang="la" type="auto">Novit te in <placeName>Premgarten</placeName><note xml:id="fn25" type="footnote" n="25"><placeName>Bremgarten</placeName> (Kt. Aargau), Bullingers Heimatstadt, wo er 1529-1531 als Pfarrer gewirkt hatte.</note>.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Vale, et quae ocius scribo, tu feliciter digeras.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto"><pb type="edition" next="108"/>Vale.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">16. aprilis.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Tuus semper B. H.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="42" xml:lang="la" type="auto">Heinrico Bullingero, apud Tigurinos ecclesiastę, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

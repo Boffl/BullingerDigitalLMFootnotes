@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11648" type="Brief" source="GR" n="30">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Blasius, Johannes Comander / [Chur] AN Heinrich Bullinger, 21. Februar 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a Domino.</s>
+					<s n="2" xml:lang="la" type="auto">Non est, ut multis tecum verbis agam, charissime Bullingere.</s>
+					<s n="3" xml:lang="la" type="auto">In magna sumus conturbatione.</s>
+					<s n="4" xml:lang="la" type="auto">Coeptum est agi contra pensionarios, ut corrigantur et in ordinem redigantur; illorum tamen impudentia per multitudinem et sublimitatem personatorum hominum tantas nacta est vires, ut iuri stare renuant.</s>
+					<s n="5" xml:lang="la" type="auto">Interea omnem culpam in nos, qui verbum Dei annuntiamus, reiiciunt, eo quod pro contionibus huic sceleri semper restiterimus.</s>
+					<s n="6" xml:lang="la" type="auto">Affingunt nobis mendatia foeda, sermones invertunt, ita ut in maiori periculo quam nunc fuerimus nunquam.</s>
+					<s n="7" xml:lang="la" type="auto">Hoc tantum a te et fratribus exoratum volumus, ut cum ecclesia vestra pro nobis orare ad Dominum velitis, quatenus ex bis turbis liberati ad vitae tranquillitatem commode perveniamus.</s>
+					<s n="8" xml:lang="la" type="auto">Vale una cum fratribus omnibus.</s>
+					<s n="9" xml:lang="la" type="auto">21. Februarii 42.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Tui Ioannes Blasius, Ioannes Comander.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Praesentium lator Stephanus omnem rem melius indicabit, quam scribere potuerimus; hunc et tibi commendatum fore rogamus.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Pietate et doctrina ornatissimo viro magistro Heinrico Bullingero, Tigurinae ecclesiae episcopo, amico ac in Christo fratri primario.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

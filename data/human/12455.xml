@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12455" type="Brief" source="HBBW" n="2408">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN [Heinrich Bullinger], 2. April 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Accepi heri literas istas ab Herbrotio<note xml:id="fn1" type="footnote" n="1">Der Brief <persName>Jakob Herbrots</persName> vom 24. März (<ref target="file12439">Nr. 2392</ref>).</note>, <placeName>Augustanorum</placeName> consule, quas ad te mitto nihil praeterea addens, quod verear, ne tui<note xml:id="fn2" type="footnote" n="2">Unbekannte Zürcher.</note>, de quorum praesentia certior nunc sim factus, mihi elabantur.</s>
+					<s n="3" xml:lang="la" type="auto">Ad alias literas tuas<note xml:id="fn3" type="footnote" n="3">Bullingers Briefe vom 22. (<ref target="file12434">Nr. 2387</ref>) und 29. März (<ref target="file12443">Nr. 2396</ref>).</note> alias.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vale.</s>
+					<s n="5" xml:lang="la" type="auto">2. aprilis 1546.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Tuus Ambr. Bl.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

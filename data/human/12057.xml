@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12057" type="Brief" source="HBBW" n="2010">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Ambrosius Blarer (Blaurer), 10. Oktober 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gaudeo valde, frater amantissime et domine in Christo colende, et tibi usqueadeo probari potuisse d. d. <persName>Alberti</persName><note xml:id="fn5" type="footnote" n="5"><persName>Albert Hardenberg</persName>. - Bullinger beantwortet <persName>Blarers</persName> Brief vom 8. Oktober; vgl. oben <ref target="file12054">Nr. 2007</ref>, 5-21.</note> ingenium, nam revera Christum diligit et quaerit ex animo; hic illum servet in finem usque ad gloriam nominis divini et ecclesiarum incolumitatem!<pb type="edition" next="459"/></s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Relegi praefacionem d. <persName>Gvaltheri</persName> in opera <persName>Zvinglii</persName>,<note xml:id="fn6" type="footnote" n="6">Die von <persName>Rudolf Gwalther</persName> herausgegebene Neuausgabe von <persName>Zwinglis</persName> Werken; s. oben <ref target="file11919">Nr. 1873</ref>, Anm. 4.</note> postquam ille discessisset, et revera video <persName>Gvalterum</persName> negotium hoc non immodeste tractasse, adeoque nihil prorsus de hac re oportere dici, si haec necesse sit expungi aut mutare; nihil itaque mutandum esse videtur.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">In describenda <persName>Zvinglii</persName> vita summam adhibebo diligentiam dei invocato auxilio, ne quid in laudem aut odium cuiusquam ullo ex privato affectu dicam, sed ut omnia vere et prudenter, moderate et recte dicam ad aedificationem bonorum.</s>
+					<s n="5" xml:lang="la" type="auto">Tu ora dominum, ut adsit nobis et moderetur et ingenium et calamum.</s>
+					<s n="6" xml:lang="la" type="auto">Ago tuae charitati gratias pro fraterna admonitione<note xml:id="fn7" type="footnote" n="7">Vgl. oben <ref target="file12054">Nr. 2007</ref>, 26-33. - Schließlich verfasste Bullinger doch keine Vita <persName>Zwinglis</persName> für die Neuausgabe von dessen Werken.</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">De authore Speculi illius infoelicissimi<note xml:id="fn8" type="footnote" n="8"><persName>Georg Frölich</persName>; s. oben <ref target="file12037">Nr. 1990</ref>, Anm. 8.</note> secretum concreditum et apud me sepultum fore credas.</s>
+					<s n="8" xml:lang="la" type="auto">Scribit d. <persName>Musculus</persName> eius Coniecturas<note xml:id="fn9" type="footnote" n="9">Gemeint sind <persName>Andreas Osianders</persName> "Coniecturae de ultimis temporibus ac de fine mundi"; s. oben <ref target="file12010">Nr. 1963</ref>, Anm. 5.</note> Witenbergae cum risu esse explosas<note xml:id="fn10" type="footnote" n="10">Vgl. oben <ref target="file12038">Nr. 1991</ref>, 21f.</note>.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Nec est, ut ores, ne te celem, quae <persName ref="p6490">Philippus</persName><note xml:id="fn11" type="footnote" n="11"><persName>Philipp Melanchthon</persName>.</note> ad nos dederit;<note xml:id="fn12" type="footnote" n="12">Vgl. oben <ref target="file12054">Nr. 2007</ref>, 44.</note> nihil enim mihi tam secretum est, quod non sim fratri tibi charissimo et intimo revelaturus.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Describo ergo epistolam<note xml:id="fn13" type="footnote" n="13">Oben <ref target="file12013">Nr. 1966</ref>.</note>, sed ea lege, ut tibi et fidis tuis serves: [...<pb type="scan" next="5/1v."/>...]<note xml:id="fn14" type="footnote" n="14">Es folgt Bullingers wortgetreue Abschrift des gesamten Briefes von <persName>Melanchthon</persName> vom 31. August, oben <ref target="file12013">Nr. 1966</ref>.</note></s>
+					<s n="11" xml:lang="la" type="manual">Habes <persName ref="p6490">Philippi</persName> epistolam, ex qua facile licet colligere, quo animo sit <persName ref="p6490">Philippus</persName>; dominus servet illum!</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p18889">Lutherus</persName> vero non pacem, sed bellum perpetuo quaerit, quo pugnet pro sua, non Christi gloria.</s>
+					<s n="13" xml:lang="la" type="auto">Saulino enim spiritum rapitur et multos viros bonos <persName>Davidis</persName> filium benedictum sequentes eiicit in exilium et persequitur, sed concidet tandem proprio (proh dolor) gladio superbum illud ingenium.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Dominus misereatur eius!</s>
+					<s n="15" xml:lang="la" type="auto">Nihil moderati habet hic vir; non curat infirmos<note xml:id="fn16" type="footnote" n="16">Vgl. z.B. 1Kor 8, 9; 9, 22; 1Thess 5, 14.</note>, non curat ecclesiarum aedificationem<note xml:id="fn17" type="footnote" n="17">Röm 14, 19; 15, 2; 1Kor 14, 5. 12. 26; Eph 4, 12. 29.</note>, totus furiis agitatur.</s>
+					<s n="16" xml:lang="la" type="auto">Rem autem facies gratam, si, quae huius acceperis, mihi miseris, quae videlicet ille contra nos dedit;<note xml:id="fn18" type="footnote" n="18">Gemeint ist <persName>Luthers</persName> "Kurtz bekentnis"; s. oben <ref target="file12018">Nr. 1971</ref>, Anm. 20. <persName>Blarer</persName> übersandte die Schrift am 13. Dezember; s. unten <ref target="file12095">Nr. 2048</ref>, 1-3.</note> nam <persName>Iusti Menii</persName> librum dumtaxat cum praefacione <persName ref="p18889">Lutheri</persName> habemus, scriptum contra nos praetextu nominis anabaptistici<note xml:id="fn19" type="footnote" n="19"><persName>Justus Menius</persName>, "Von dem Geist der Widerteuffer", <placeName>Wittenberg</placeName>, <persName>Nickel Schirlentz</persName>, 1544 (VD 16 M 4587); die Vorrede von <persName>Luther</persName> auch in <bibl>WA</bibl> LIV 116-118.</note>.<pb type="edition" next="460"/></s>
+					<s n="17" xml:lang="la" type="auto">Nosti et <persName>Cochleum</persName> Replicam<note xml:id="fn20" type="footnote" n="20">Vgl. dazu oben <ref target="file12046">Nr. 1999</ref>, Anm. 12.</note> (sic enim appellat) Responsioni meae<note xml:id="fn21" type="footnote" n="21">Bullingers erste Schrift gegen <persName>Cochläus</persName>; s. oben <ref target="file11885">Nr. 1839</ref>, Anm. 3.</note> opposuisse non indoctam modo, sed egregie impudentem.</s>
+					<s n="18" xml:lang="la" type="auto">Paucis respondebo, ubi ocium fuero nactus.</s>
+					<s n="19" xml:lang="la" type="auto">Undique et ubique bella et pugnae; sed alacres et tranquilla mente sumus in Christo Iesu, domino nostro, cui laus et gloria semper.</s>
+					<s n="20" xml:lang="la" type="auto">Scripsit idem ille meus adversarius librum contra <persName>Musculum</persName>, amicum nostrum.</s>
+					<s n="21" xml:lang="la" type="auto">In eo mire suggillat artes et nescio quae occulta consilia et acta a legatis ad <persName ref="p18889">Lutherum</persName> missis <placeName>Francfordiae</placeName> conscripta.</s>
+					<s n="22" xml:lang="la" type="auto">Ego profecto doleo, si fraudulenter egerunt negotium concordiae profecto infelicissimę.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Utinam quievisset <persName ref="p18198">Bucerus</persName>!</s>
+					<s n="24" xml:lang="la" type="auto">Obiicit <persName>Musculo</persName> <persName>Cochleus</persName>, quae de eucharistia dedit in Matthaeum<note xml:id="fn25" type="footnote" n="25"><persName>Musculus</persName>' Matthäuskommentar von 1544; s. oben <ref target="file12010">Nr. 1963</ref>, Anm. 3.</note>, ac me permovit, ut legerem et ego.</s>
+					<s n="25" xml:lang="la" type="auto">Sed, o deus, quam vellem illum purius et circumspectius scripsisse!<pb type="scan" next="5/2r."/></s>
+					<s n="26" xml:lang="la" type="auto">Totus bucerisat et nescio quae profert, quae nunquam ullis docebit scripturis.</s>
+					<s n="27" xml:lang="la" type="auto">Quam frigide confutat orthodoxum et a temporibus apostolorum hucusque servatum verborum domini sensum et expositionem simplicissimam et tutissimam: „Hoc est corpus meum“<note xml:id="fn26" type="footnote" n="26">Mt 26, 26 par.</note> id est: est signum corporis mei, memoria corporis, significat<pb type="edition" next="461"/> corpus.</s>
+					<s n="28" xml:lang="la" type="auto">Unde nobis profert alia quidem signa exhibitiva alia esse significativa<note xml:id="fn27" type="footnote" n="27">Siehe unten <ref target="file12094">Nr. 2047</ref>, Anm. 8.</note>?</s>
+					<s n="29" xml:lang="la" type="auto">Quis veterum unquam exhibitivorum meminit signorum<note xml:id="fn28" type="footnote" n="28">Vgl. unten <ref target="file12094">Nr. 2047</ref>, 30-39.</note>?</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Neotericum <persName ref="p18198">Buceri</persName> inventum est.</s>
+					<s n="31" xml:lang="la" type="auto"><persName ref="p18889">Lutheri</persName> expositio non veteris ecclesiae est: „Cum pane datur tibi corpus Christi verum et essentiale.“</s>
+					<s n="32" xml:lang="la" type="auto">At bonus ille vir<note xml:id="fn29" type="footnote" n="29">Gemeint ist <persName>Musculus</persName>.</note> haec omnia habet in commentariis suis, quae malignus et maliciosus ille senex<note xml:id="fn30" type="footnote" n="30">Gemeint ist <persName>Cochläus</persName>; s. oben <ref target="file12051">Nr. 2004</ref>, 2.</note> valde exagitat.</s>
+					<s n="33" xml:lang="la" type="auto">Quaedam ego de his dabo ad <persName>Musculum</persName>,<note xml:id="fn31" type="footnote" n="31">Im nicht erhaltenen Brief Bullingers vom 10. Oktober 1544; s. unten <ref target="file12094">Nr. 2047</ref>, 1.</note> quem quo amo tenerius, eo magis doleo negotium illud simplex tractasse tam obscure et ancipiti quadam ratione in quibusdam sequendo <persName ref="p18889">Lutherum</persName>, in quibusdam <persName ref="p18198">Bucerum</persName>.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto"><persName ref="p6490">Philippus</persName><note xml:id="fn32" type="footnote" n="32"><persName>Philipp Melanchthon</persName>; vgl. oben <ref target="file12054">Nr. 2007</ref>, 44-49.</note> autem cuperem ex hyenis et bestiis illis truculentissimis liberatum tutiore aliquo hęrere posse loco.</s>
+					<s n="35" xml:lang="la" type="auto">Dominus illum eripiat!</s>
+					<s n="36" xml:lang="la" type="auto">Pro eo oremus, quaeso, fideliter.</s>
+					<s n="37" xml:lang="la" type="auto">Educetur aliquando Loth, ut superbia et fastus quorundam puniatur<note xml:id="fn33" type="footnote" n="33">Vgl. Gen. 19.</note>.</s>
+					<s n="38" xml:lang="la" type="auto">Nescio, an <placeName>Heidelbergae</placeName> optimo viro sit consultum; sed dominus non deerit suis; ego tantum pusilanimitati eius metuo.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Nepotem ex fratre<note xml:id="fn34" type="footnote" n="34"><persName>Josua Bullinger</persName>; vgl. oben <ref target="file12054">Nr. 2007</ref>, 50-52.</note> cures, obsecro; adolescens est, qui admonitionibus eget et obiurgationibus, nisi animum mutarit.</s>
+					<s n="40" xml:lang="la" type="auto">Ego me tibi et tuis vicissim obstringo ad paria officia.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto"><persName>Schenkius</persName> vester<note xml:id="fn35" type="footnote" n="35"><persName>Matthias Schenk</persName>; vgl. oben <ref target="file12054">Nr. 2007</ref>, 53f.</note> est homo doctus, pius et modestus, quem amo ex animo.</s>
+					<s n="42" xml:lang="la" type="auto">Salutabis illum et habebis commendatum.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto"><persName>Amsladorff</persName> episcopus factus est, ergo episcopalia munera exercet.</s>
+					<s n="44" xml:lang="de" type="auto">Alle bischöff müssend besässen sin mitt tüfflen; dorumb ist ers ouch.</s>
+					<s n="45" xml:lang="la" type="auto">Multorum malorum author est in ecclesia; deus rependat ei!</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="de" type="auto"><pb type="scan" next="5/2v."/>Fridens halben hatt der künig<note xml:id="fn37" type="footnote" n="37"><persName>Franz I.</persName></note> sine botten mitt credentz<note xml:id="fn38" type="footnote" n="38">Kredenz-, Kreditivschreiben.</note> an die von <placeName>Lutzern</placeName> alls die obristen, die imm die knächt gelassen, geschickt und lassen verkünden, das imm ein guͦter frid gemachet.</s>
+					<s n="47" xml:lang="de" type="auto">Der könig sol dem hertzog von Saffoy<note xml:id="fn40" type="footnote" n="40"><persName>Herzog Karl III. von Savoyen</persName>.</note> sin land wider lassen, sich by läben des keysers<note xml:id="fn41" type="footnote" n="41"><persName>Karl V.</persName></note> <placeName>Meylandts</placeName><pb type="edition" next="462"/> entziehen, fürohin ein fründ und gsel des keyssers sin, alle gfangnen ledig lassen und sine panyten<note xml:id="fn42" type="footnote" n="42">Verbannten.</note> ynlassen; der keysser sol das ouch thuͦn, des königs fründ sin, die gfangnen ledig lassen, die panyten ynlassen und sin dochter<note xml:id="fn43" type="footnote" n="43">Maria, Infantin von Spanien; vgl. oben <ref target="file12035">Nr. 1988</ref> mit Anm. 29.</note> gäben dem hertzog von Orlientz mitt sampt den <placeName>Niderlanden</placeName> untz<note xml:id="fn45" type="footnote" n="45">bis.</note> an Rhyn.</s>
+					<s n="48" xml:lang="de" type="auto">So sy fürsten<note xml:id="fn46" type="footnote" n="46">Zu verstehen: männliche Nachkommen[?].</note> by einandren habend, sol <placeName>Meyland</placeName> und graffschafft <placeName>Burgund</placeName> iro sin nach des keyssers todt etc.</s>
+					<s n="49" xml:lang="de" type="auto">Das aber der Engellender<note xml:id="fn47" type="footnote" n="47"><persName>König Heinrich VIII.</persName></note> nitt in fryden gewölt, zücht der könig hinab mitt allem sinem züg uff <placeName>Buloniam</placeName><note xml:id="fn48" type="footnote" n="48"><placeName>Boulogne-sur-Mer</placeName> (Dép. Pas-de-Calais).</note>, inn mitt schlahen, oder wie er mag, abzetriben; da wirts noch schnuffen gällten<note xml:id="fn49" type="footnote" n="49">Zu verstehen: Atemnot verursachen, Anstrengung kosten. - Die diplomatischen und kriegerischen Auseinandersetzungen um <placeName>Boulogne</placeName> zogen sich noch bis ins Jahr 1546 hin; s. <hi>Knecht,</hi> aaO, S. 501-503.</note>.</s>
+					<s n="50" xml:lang="la" type="auto">Quid si?</s>
+					<s n="51" xml:lang="la" type="auto">Caetera intelligis<note xml:id="fn50" type="footnote" n="50">Siehe dazu unten <ref target="file12063">Nr. 2016</ref>, 26-29.</note>.</s>
+				</p>
+				<p>
+					<s n="52" xml:lang="la" type="auto">Vale et <persName>Welserum</persName><note xml:id="fn51" type="footnote" n="51"><persName>Hans Welser</persName>.</note> saluta, cuius fragmentum<note xml:id="fn52" type="footnote" n="52">Vgl. oben <ref target="file12054">Nr. 2007</ref>, 68-71.</note> hic una mitto; gratias ago.</s>
+					<s n="53" xml:lang="la" type="auto">10. octobris, pridie quam ante 13 annos Tigurini caederentur a Quinquepagicis,<note xml:id="fn53" type="footnote" n="53">Die katholischen Fünf Orte der Innerschweiz.</note> 1544.<note xml:id="fn54" type="footnote" n="54">Bullinger spielt auf den Zweiten <placeName>Kappeler</placeName> Krieg an; <persName>Zwingli</persName> war am 11. Oktober 1531 gefallen.</note></s>
+				</p>
+				<p>
+					<s n="54" xml:lang="la" type="auto">Salutabis omnes fratres.</s>
+				</p>
+				<p>
+					<s n="55" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="56" xml:lang="la" type="auto">Clarissimo viro d. <persName>Ambrosio Blaurero</persName>, fratri incomparabili suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

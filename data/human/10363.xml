@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10363" type="Brief" source="HBBW" n="331">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 28. Februar 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Duo sunt, quę non potui diutius continere, quantumvis ocium desit.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Alterum, quod nuper ex me<note xml:id="fn1" type="footnote" n="1">Siehe oben S. 60, 49-51.</note>, nunc ex capite illo nostro<note xml:id="fn2" type="footnote" n="2">Gemeint ist möglicherweise die Ansicht von Bürgermeister <persName>Jakob Meyer</persName>.</note> scribo de senatu clanculario<note xml:id="fn3" type="footnote" n="3">Der nach dem Zweiten Kappelerkrieg abgeschaffte Geheime Rat von Zürich, s. <bibl>HBBW</bibl> III 243.</note>, ut ita vocem.</s>
+					<s n="4" xml:lang="la" type="auto">Audio flanque, quod dum hoc carueritis, nihil boni potest agi vobiscum a quoquam.</s>
+					<s n="5" xml:lang="la" type="auto">Si haberetis, innumera esse, quae ultro citroque acta non possent non prodesse plurimum.</s>
+					<s n="6" xml:lang="la" type="auto">Quamobrem si ratio posset inveniri, ut ille restitueretur, video, quantum rebus nostris provideretur.</s>
+					<s n="7" xml:lang="la" type="auto">Illud compertum habeo, malis nihil esse magis adversum.</s>
+					<s n="8" xml:lang="la" type="auto">Audivi, dum isthic commorarer, qui<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> dicebat: «Abeant in malam crucem<note xml:id="fn5" type="footnote" n="5">«Sollen zum Henker...!», vgl. <bibl>Otto</bibl> 95, Nr. 447.</note> primores nostri cum senatu isto.</s>
+					<s n="9" xml:lang="la" type="auto">Vir bonus non est securus in propriis aedibus.»</s>
+					<s n="10" xml:lang="la" type="auto">Expende, quid hic dixerit.</s>
+					<s n="11" xml:lang="la" type="auto">Cum <persName ref="p6155">Lavatero</persName> sunt haec conferenda, cum quo prius etiam collata sunt, si queat inveniri, quod reipublicae vestrae commodet.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Alterum est de rege Gallorum<note xml:id="fn6" type="footnote" n="6"><persName>Franz I.</persName></note>.</s>
+					<s n="13" xml:lang="la" type="auto">Pridie quam haec scriberem, colloquutus sum cum viro<note xml:id="fn7" type="footnote" n="7">Unbekannt; möglicherweise handelt es sich um Antoine Morelet de Museau.</note> nobilitate generis et professionis evangelicae praestante.</s>
+					<s n="14" xml:lang="la" type="auto">Inter alia de Gallo fecimus mentionem.</s>
+					<s n="15" xml:lang="la" type="auto">Tum is fere ad hunc modum: «Quae rex agit, non omnes norunt.</s>
+					<s n="16" xml:lang="la" type="auto">Illud certum est apud me, ipsum non male velle evangelio et hoc, dum dissimulat, non ob aliud dissimulare, quam quod aliter nequit propter regni sui pontifices.</s>
+					<s n="17" xml:lang="la" type="auto">Sine vero, ut obtineat <placeName>Italiae</placeName> partes, quas cupit.</s>
+					<s n="18" xml:lang="la" type="auto">Videbis, quid amiciciae sit remansurum cum papa<note xml:id="fn8" type="footnote" n="8"><persName>Clemens VII.</persName></note> et papistis.</s>
+					<s n="19" xml:lang="la" type="auto">Quod dico, probavit abunde iam in quatuor iis, quos apud Parrhisios captivos tenuerunt et adhuc tenent propter evangelium<note xml:id="fn9" type="footnote" n="9">Von den hier erwähnten vier eingekerkerten Evangelischen sind drei bekannt: <persName>Gérard Roussel</persName>, <persName>Elie Coraud</persName> und <persName>Bertaut</persName>, s. Corr. des réformateurs III 146, Anm. 2.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Nam hos, dum <persName>Beda</persName> vellet incendio tradere, hactenus servavit.</s>
+					<s n="21" xml:lang="la" type="auto">Tum coegit <persName>Bedam</persName>, ut privatim cum eis congredi oporteret et insciciam suam ostendere, quod et ei cessit in magnam ignominiam.</s>
+					<s n="22" xml:lang="la" type="auto">Pessime enim nugas suas ad scripturas dei adhibuit.»</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto"><pb type="edition" next="75"/>Tum et libelli, quos pridem misit ad Foederatorum comitia rex, impune habentur et leguntur in Galliis, quod nudiustertius dixit famulus<note xml:id="fn12" type="footnote" n="12">Unbekannt.</note> Conhardi Restii, bibliopolae, ex Parrhisiis veniens.</s>
+					<s n="24" xml:lang="la" type="auto">Iudica, mi amantissime Bullingere, quid hoc sit, an fides rei sit habenda necne.</s>
+					<s n="25" xml:lang="la" type="auto">Putant quidam hac de causa Hesso et quibusdam civitatibus, quae hactenus fovent evangelium, cum rege convenire<note xml:id="fn14" type="footnote" n="14"><persName>Philipp von Hessen</persName> traf sich Ende Januar 1534 insgeheim mit <persName>Franz I.</persName>, wie <persName>Myconius</persName> Bullinger bereits mitgeteilt hat, s. oben <ref target="file10354">[Nr. 323]</ref> S. 60, 63. 64, 5-7; zu den Kriegsvorbereitungen vor der Wiedereinsetzung Herzog <persName>Ulrichs von Württemberg</persName> s. <bibl>Wille</bibl> 145-171.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Nolui, ut hoc nescires.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vale et fratres omnes saluta in domino.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto"><placeName>Basileae</placeName>, pridie kalendas martii anno 34.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Domino Heinricho Bullingero, apud Tigurinos primario, fratri observando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

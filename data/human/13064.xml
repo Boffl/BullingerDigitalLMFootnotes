@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13064" type="Brief" source="TUSTEP" n="3015">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 19. September 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Iam pręteriit sextus mensis, ex quo librum tuum tibi remisi cum meis annotationibus, quales a me postulaveras.</s>
+					<s n="3" xml:lang="la" type="auto">Ab eo tempore nihil abs te responsi allatum esse miror.</s>
+					<s n="4" xml:lang="la" type="auto">Admonebas, cum istic essem, frequentandum inter nos esse scribendi officium.</s>
+					<s n="5" xml:lang="la" type="auto">Aliquoties interea audivi hac transiisse aliquos ex vestris civibus; neminem, qui vos adiret, habui, quod meminerim.</s>
+					<s n="6" xml:lang="la" type="auto">Si quando dabitur scribendi occasio, te maxime rogatum velim, ne eam elabi sinas.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">De Germanię calamitate plura audire cogor, quam vellem, et tamen, quomodo se habeat <placeName>Constantia</placeName>, quę animo meo penitus insidet, non dicitur.</s>
+					<s n="8" xml:lang="la" type="auto">Magna fuit <placeName>Argentinę</placeName> trepidatio, cum putarent imperatorem illic hyematurum; quin etiam hodie quoque apertas illi fore portas negant, si aliunde fulciantur.</s>
+					<s n="9" xml:lang="la" type="auto">Quid Helveticę civitates cogitent, nescio; paululum quidem de bello illis inferendo conticuerunt rumores propter Italicos motus.</s>
+					<s n="10" xml:lang="la" type="auto">Sed quid, si eius terrore illic omnes perculsi nihil movere audeant!</s>
+					<s n="11" xml:lang="la" type="auto">Iam Placentiam <note xml:id="fn10" type="footnote" n="10">Piacenza.</note> et Parmam occiso, ut quidam aiunt, vel certe profligato Petro Loysio<note xml:id="fn11" type="footnote" n="11"><persName>Pièr Luigi Farnese</persName>.</note> occupat, et fieri potest, ut Italiam in hunc annum tanto successu sibi pacaverit.</s>
+					<s n="12" xml:lang="la" type="auto">Si <placeName>Argentinam</placeName> ingressus fuerit, castra occupari vides, unde vos invadat.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Nunc, mi Bullingere, tempus esset vobis consulendi.</s>
+					<s n="14" xml:lang="la" type="auto">Nam silendo nonne quasi iugulum porrigetis!</s>
+					<s n="15" xml:lang="la" type="auto">Quanquam frustra hic te appello.</s>
+					<s n="16" xml:lang="la" type="auto">Scio enim cives tuos adeo cordatos fore, ut adhibitum remedium cupiant.</s>
+					<s n="17" xml:lang="la" type="auto">Vicini plane desipiunt, qui nullas admittere rationes sustinent compescendae huius bestię.</s>
+					<s n="18" xml:lang="la" type="auto">Quando tamen illi sponte perire appetant, regat dominus electos suos spiritu consilii, ut mature periculis occurrant.</s>
+					<s n="19" xml:lang="la" type="auto">Multa sunt, quae merito vos deterreant a societate francica.</s>
+					<s n="20" xml:lang="la" type="auto">Sed quemadmodum vos cum illo penitus implicari minime expedit, ita cur omnem coniunctionem refugiatis, non video.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="21" xml:lang="la" type="auto">Cęterum hic puer, qui meas tibi literas reddidit, filius est senatoris cuiusdam, quocum mihi plurimum est familiaritas.</s>
+					<s n="22" xml:lang="la" type="auto">Is me per nostram amicitiam rogavit, ut commendationem illi darem.</s>
+					<s n="23" xml:lang="la" type="auto">Aget apud quaestorem vestrum<note xml:id="fn12" type="footnote" n="12"><persName>Jakob Werdmüller</persName>.</note>, quantum intelligo.</s>
+					<s n="24" xml:lang="la" type="auto">Sed consilium patris est, ut in literis proficiat, quarum iam habet initia.</s>
+					<s n="25" xml:lang="la" type="auto">Et est ingenio docili nec alieno a musis.</s>
+					<s n="26" xml:lang="la" type="auto">Peto igitur abs te, ut scholę vestrę magistris, tuo simul ac meo nomine, non vulgariter eum commendes, ut maior eius habeatur ratio quam ignoti.</s>
+					<s n="27" xml:lang="la" type="auto">Hoc officium mihi vehementer gratum erit.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Vale, ornatissime vir et amice plurimum in domino colende, una cum symmystis et fratribus, quos nomine meo salutabis omnes, et fratrum meorum.</s>
+					<s n="29" xml:lang="la" type="auto">Dominus vobis adsit perpetuo vestrisque laboribus benedicat.</s>
+					<s n="30" xml:lang="la" type="auto">Uxori etiam tuę<note xml:id="fn13" type="footnote" n="13"><persName>Anna, geb. Adlischwyler</persName>.</note> plurimam salutem precor ac liberis.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto"><placeName>Genevę</placeName>, 13. cal. octobr. 1547.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto"><persName>Ioannes Calvinus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="33" xml:lang="la" type="auto">Eximię pietatis et doctrinę viro d. Heinricho Bullingero, Tigurinę ecclesię pastori, fratri et symmystę colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

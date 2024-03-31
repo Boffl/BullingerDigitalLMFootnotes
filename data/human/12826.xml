@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12826" type="Brief" source="HBBW" n="2777">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Baldassare Altieri / Venedig AN Heinrich Bullinger, Konrad Geßner, 29. Januar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Viri pręstantissimi.</s>
+					<s n="2" xml:lang="la" type="auto">Scripsi hisce superioribus diebus utrique vestrum unis literis,<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> quę an redditę sint nondum scio; eas autem <placeName>Basileam</placeName> transmiseram isthuc<note xml:id="fn2" type="footnote" n="2">d.h. nach Zürich.</note> perferendas atque hoc unum inter cętera continebant, ut hanc causam, quam habent Germani adversum cęsarem<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note>, veluti communem susciperetis et, quoquo modo possetis, foveretis.</s>
+					<s n="3" xml:lang="la" type="auto">Nam cęsar oppressis Germanis vos quoque sub iugum mittet et exploso Christo ex Germania numquid patietur, ut inter Helvetios habitet?</s>
+					<s n="4" xml:lang="la" type="auto">Ponite igitur ante oculos huius belli causas eo tendere, ut eadem vos pericula maneant, quę modo Germanis iminent, et fortasse graviora, ni prospiciatur.</s>
+					<s n="5" xml:lang="la" type="auto">Neque enim cęsar minus odit Helvetios (quos tanquam patrimonium <placeName>Austrię</placeName> vendicat, ut vos scitis) quam Germanos, quos veluti sacri Romani imperii consortes retinet ac tractat.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Sed esto, quod ex hoc bello nihil iacturę vobis inferatur; annon graviter erratum fuerit, si, ubi possis ab aliquo propulsare iniuriam, non feceris, <pb type="edition" next="213"/> neque curaveris, insonsne opprimatur?</s>
+					<s n="7" xml:lang="la" type="auto">Sed nihil hęc, si conferantur, ad sanctissimum illud ęternę necessitudinis ius atque vinculum, quo cum Germanis iuncti estis in Christo Iesu!</s>
+					<s n="8" xml:lang="la" type="auto">Id autem ut utrinque retineatur ac servetur, neque facultatibus neque vitę parcendum est.</s>
+					<s n="9" xml:lang="la" type="auto">Quod a vobis factum iri, non vereor; nam apud nos vulgo fertur in Helvetiis colligi multorum militum suppetias in Germaniam mittendas.</s>
+					<s n="10" xml:lang="la" type="auto">Id, si ita est, extollimus charitatem vestram summis laudibus; sin minus, sedulo rogamus vos atque in domino hortamur, ut omnino pręstetis neque expectetis, ut cęteri, qui nunc salvi sunt, ad defectionem sollicitentur atque cogantur.</s>
+					<s n="11" xml:lang="la" type="auto">Quod omnino futurum suspicor, ni rebus eorum sic afflictis illico succuratur.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vobis autem, qui gratia et auctoritate isthic plurimum potestis, ea cura incumbit, et, quorum pectora deus spiritu suo inflammavit, ut in aliorum salutem die noctuque advigiletis!</s>
+					<s n="13" xml:lang="la" type="auto">Neque enim necesse est hortari pios, qui in hoc positi sunt, ut prosint, quibus possunt, ac nemini noceant.</s>
+					<s n="14" xml:lang="la" type="auto">Quod si hęc Germanorum, imo Christi causa ac totius ecclesię, ut spero, a vobis suscipietur defendenda, nobis <placeName>Italis</placeName> inprimis, qui vestra et ipsorum opera, si res bene successerint, futuram libertatem auspicamur, ab hac, qua opprimimur, spiritus captivitate summę erit consolationi, deinde cęteris, qui Christum non agnoscunt, sed cęsarem maximo prosequuntur odio,<pb type="scan" next="450"/> rem facietis valde gratam.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Si quid autem fuerit, facite, amabo, certiorem.</s>
+					<s n="16" xml:lang="la" type="auto">Cęterum si qua in re pręstare vobis possum operam meam, me uti frui potestis ęque familiariter ac vobis ipsis.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Interim in domino valete meque mutuo diligatis, ac salutate reliquam ecclesiam non tam meo quam omnium fidelium nomine.</s>
+					<s n="18" xml:lang="la" type="auto">Datum <placeName>Venetiis</placeName>, quarto kalendas februarias 1547.</s>
+					<s n="19" xml:lang="la" type="auto">Vestrarum excellentiarum studiosissimus <persName>Balthasar Alterius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 446a,v.:]</note>
+					<s n="20" xml:lang="la" type="auto">[Claris]simis ac eruditissimis viris domino [H]enrico Bulingero et domino <persName>Conrado Gisnero</persName>, medico, dominis ac fratribus honorandis.</s>
+					<s n="21" xml:lang="la" type="auto">Tigurum.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

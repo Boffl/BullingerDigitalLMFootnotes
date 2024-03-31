@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10085" type="Brief" source="HBBW" n="56">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / Bern AN Heinrich Bullinger, 16. Januar [1532]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quam sancte et fęliciter apud nos per dominum <persName>Capitonem</persName> sint acta, charissime frater, tam sinodi quam <persName>Megandri</persName> negocia<note xml:id="fn3" type="footnote" n="3"><persName>Kaspar Meganders</persName> Streit mit der Obrigkeit, entstanden durch seine erbitterte Kritik an der Haltung <placeName>Berns</placeName> im Zweiten Kappelerkrieg, konnte an der Synode mit <persName>Capitos</persName> Hilfe beigelegt werden, <hi>s. Straßer 77-81.</hi></note>, ipse referet coram<note xml:id="fn4" type="footnote" n="4">Auf der Reise von <placeName>Bern</placeName> nach <placeName>Konstanz</placeName> hielt sich <persName>Capito</persName> eine Zeitlang in Zürich auf, s. <bibl>Baum</bibl> 487; <hi>Straßer</hi> 83.176; unten S. 66, Anm. 6.</note> et paucis diebus excusa videbis.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Interim velim te obnixius precari, quatenus literae meae, quas innumeras ad <persName>Zuinglium</persName> scripsi, <persName>Capitonis</persName> opera tibi redderentur<note xml:id="fn6" type="footnote" n="6"><persName>Hallers</persName> an <persName>Zwingli</persName> gerichtete Briefe befinden sich noch heute in Zürich, vgl. <bibl>Z</bibl> XI, Reg.</note>, quemadmodum et Constantiensibus<pb type="edition" next="31"/> suas esse redditas <persName>Zuickii</persName> frater indicavit<note xml:id="fn8" type="footnote" n="8">Wie <persName>Haller</persName> dies erfuhr, ist nicht bekannt. Nach <bibl>Z</bibl> XI, Reg. müssen die beiden Brüder <persName>Zwick</persName> ihre an <persName>Zwingli</persName> gerichteten Briefe mit einer Ausnahme zurückerhalten haben.</note>.</s>
+					<s n="4" xml:lang="la" type="manual">Multa enim scripsi, que ab iniquo lectore in pessimam verti possent partem.</s>
+					<s n="5" xml:lang="la" type="auto">Proinde miseram ad eum sanctiones, quibus magistratus noster pensiones abrogavit<note xml:id="fn9" type="footnote" n="9">Das bernische Mandat gegen das Pensionenwesen vom 24. August 1528 (<bibl>ABernerRef</bibl> 1847) wurde in zahlreichen Kopien verbreitet (vgl. <bibl>ABernerRef</bibl> 1856; s. noch <bibl>Guggisberg</bibl> 137).</note>, quas identidem, si superessent, restitui vellem.</s>
+					<s n="6" xml:lang="la" type="auto">Sed interim verba deficerent, si tibi depingere deberem, quam optime omnia cesserint.</s>
+					<s n="7" xml:lang="la" type="auto"><persName>Capitonem</persName> nunquam novimus nisi nunc.</s>
+					<s n="8" xml:lang="la" type="auto">220 fuimus fratres congregati ad quadriduum<note xml:id="fn10" type="footnote" n="10">Siehe oben Anm. 2; zur Teilnehmerzahl vgl. Straßer 79.</note>.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Tandem quae restant de proxima epistola dissolvenda, nempe rationem studii mei<note xml:id="fn11" type="footnote" n="11">Siehe unten Nr. 83.</note>, et quemadmodum locus ille in Exo[do] de obduratione pharaonis<note xml:id="fn12" type="footnote" n="12">Ex 7,1-11,10. -Bullingers Antwort auf diese Frage ist nicht erhalten.</note> coram plebe tractandus sit, mittas<note xml:id="fn13" type="footnote" n="13">Der vorausgegangene Brief <persName>Hallers</persName>, in welchem diese Wünsche anscheinend ausführlicher erörtert wurden, ist nicht erhalten.</note>.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Mittunt et fratres totius sinodi collectam<note xml:id="fn14" type="footnote" n="14">Vgl. <hi>Billeter,</hi> aaO, S. 109.</note>, quam tibi et <persName ref="p2305">Leoni</persName> fratribus verbi ministris dividendam comittimus, iis scilicet, qui in Waggental<note xml:id="fn15" type="footnote" n="15">Ältere Bezeichnung für das aargauische <placeName>Freiamt</placeName>, <bibl>HBLS</bibl> III 248; vgl. auch <bibl>HBRG</bibl> III 276.</note> aliisque locis proscripti sunt<note xml:id="fn16" type="footnote" n="16">Zur Flucht der Prediger nach Zürich s. <bibl>HBRG</bibl> III 259-261.306f; <bibl>Pestalozzi</bibl> 82f.</note>.</s>
+					<s n="11" xml:lang="la" type="manual">Modo vos certiores nos reddatis, qui, quot et quantę familię sint, ut dum amplius egent, si quid possemus, erogaremus.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="manual">Quod autem acta<note xml:id="fn17" type="footnote" n="17">Die Synodalakten, s. oben Anm. 5.</note> non mittuntur ad Cristophorum excudenda<note xml:id="fn19" type="footnote" n="19"><persName>Froschauer</persName> war sonst der von <placeName>Bern</placeName> bei der Veröffentlichung amtlicher Erlasse bevorzugte Drucker, s. <bibl>ABernerRef</bibl> 1546.1552.2189.2734; <hi>Leemann-van Elck,</hi> aaO, S. 46; <hi>Staedtke,</hi> aaO, S. 16.</note>, hinc est: quidam,<pb type="edition" next="32"/> ut sunt apud omnes, <foreign xml:lang="de">habend imm das wort thon<note xml:id="fn20" type="footnote" n="20">haben von ihm gesagt.</note>, es syind bären truckt, die habind keini kräwel an den tapen,</foreign> et nescio quae alia, <foreign xml:lang="de">da ich wol weisß, Cristoffeln so frumm und redlich ouch unschuldig in diser sach</foreign> velut ovinus<note xml:id="fn21" type="footnote" n="21">Vgl. Adagia, 3,1,95 (<bibl>LB</bibl> II 742 B); <bibl>Otto</bibl> 261, Nr. 1317.</note>, rumor ille tantum obfuit.</s>
+					<s n="13" xml:lang="la" type="manual">Mone igitur hominem mihi charissimum.</s>
+					<s n="14" xml:lang="la" type="auto"><persName>Capito</persName> tamen commode literis erga senatum nostrum ipsum excusare poterit<note xml:id="fn23" type="footnote" n="23">Briefe von <persName>Capito</persName> in dieser Angelegenheit sind nicht bekannt.</note>.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Cęterum experientia didici, quam integer, fidelis et sincęrus erga me sit animus tuus, cum tam exacte ad omnia responderis.</s>
+					<s n="16" xml:lang="la" type="auto">Unum hoc perpetuo a te velim, quę de <persName>Megandri</persName> causa scripsi, comburas.</s>
+					<s n="17" xml:lang="la" type="manual">Postremo indicabis, num quędam supersint <persName>Zuinglii</persName> annotationum, ut excuderentur.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vale et hoc nuncio nostro<note xml:id="fn26" type="footnote" n="26">Nicht bekannt, möglicherweise ein Ratsbote von <placeName>Bern</placeName> oder einer von <persName>Capitos</persName> <placeName>Berner</placeName> Begleitern, vgl. <bibl>Baum</bibl> 487; <hi>Straßer 82.</hi></note> rescribe<note xml:id="fn27" type="footnote" n="27">Bullingers Antwort ist nicht erhalten.</note>.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">16. ianuarii, <placeName>Bernę</placeName>.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Tuus <persName>B. Hallerus</persName>.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Audio Rellicanum apud vos ambire provinciam.</s>
+					<s n="22" xml:lang="la" type="auto">Quod si acceptus fuerit, scribe.</s>
+					<s n="23" xml:lang="la" type="auto">Nam ego timeo ipsum non posse hac provincia diucius servari apud nos<note xml:id="fn28" type="footnote" n="28">Siehe oben S. 29, Anm. 4.</note>.</s>
+					<s n="24" xml:lang="la" type="manual">Ad restituendam utriusque civitatis amiciciam<note xml:id="fn29" type="footnote" n="29">Für die Wiederherstellung der Beziehungen zwischen Zürich und <placeName>Bern</placeName>, die nach dem Zweiten Kappelerkrieg auf einem Tiefpunkt angelangt waren, setzte sich <persName>Haller</persName> wiederholt ein.</note> nemo nobis gratior, immo et aptior erit Röstio, qui si semel ad nos mitteretur, multa posset.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">Charissimo fratri Heinrico Bullingero, apud Tigurinos ecclesiaste doctissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12594" type="Brief" source="HBBW" n="2547">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johann Leopold (Lüpold) Frey / Biel AN Heinrich Bullinger, 24. August 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam atque securam a deo pacem per dominum nostrum.</s>
+					<s n="2" xml:lang="la" type="auto">Diu quidem in animo scribendi ad te cupido fuit, observandissime pater, semper autem imaginatio tuorum negotiorum scripturientem cohibuit.</s>
+					<s n="3" xml:lang="la" type="auto">Qua sola de causa nunc etiam brevior ero.</s>
+					<s n="4" xml:lang="la" type="auto">Valemus recte omnes.</s>
+					<s n="5" xml:lang="la" type="auto">Bis in septimana publice preces deo funduntur.</s>
+					<s n="6" xml:lang="la" type="auto">Ex nostris heri enim pauci discesserunt gratia militandi sub protestantibus<note xml:id="fn2" type="footnote" n="2">Siehe dazu <ref target="file12595">Nr. 2548</ref>, Anm. 40.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Vidimus Latinas antichristi<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName>Papst Paul III.</persName></note> literas et apostatici legati<note xml:id="fn4" type="footnote" n="4"><persName>Girolamo Franco</persName>. - Apostaticus legatus: ironisches Wortspiel mit der sonst üblichen Bezeichnung apostolicus legatus (oder nuntius).</note> Germanicas.</s>
+					<s n="8" xml:lang="la" type="auto">Legimus crudelia cęsaris<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> consilia.</s>
+					<s n="9" xml:lang="la" type="auto">Habuimus quoque vestram apologiam<note xml:id="fn8" type="footnote" n="8">Die "Antwort der Predigeren zu Zürich uff des Papsts Laden in das Concilium zu <placeName>Trient</placeName>" vom 1. August 1546; s. dazu <ref target="file12577">Nr. 2530</ref>, Anm. 27.</note>, cur non veniatis ad simulatum concilium.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Audivimus ducem <persName>Schertlinum</persName>, sub quo militant Svizeri nostri, cessisse vi<placeName>Hispanorum</placeName><note xml:id="fn9" type="footnote" n="9">Falsche Meldung, die wohl auf die Nachricht über den Abzug der Truppen Schertlins aus Füssen zurückzuführen ist; s. <ref target="file12576">Nr. 2529</ref>, Anm. 13.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Nostros autem per deditionem coepisse civitatem Rayn<note xml:id="fn10" type="footnote" n="10">Siehe dazu <ref target="file12580">Nr. 2533</ref>, Anm. 16; <ref target="file12584">Nr. 2537</ref>,8-10.</note>.<pb type="edition" next="340"/></s>
+					<s n="12" xml:lang="la" type="auto">Quid porro factum sit, nondum rescivimus.</s>
+					<s n="13" xml:lang="la" type="auto">Quęso autem, ut, quae certissima habes, commodum nactus nuncium ad nos perscribas, ut, si sint prospera, animati deo gratias agamus, sin (quod deus avertat) adversa, contriti veniam deprecemur ardentius.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Salutant te nostri.</s>
+					<s n="15" xml:lang="la" type="auto">Saluta meo nomine coniugem tuam<note xml:id="fn11" type="footnote" n="11"><persName>Anna Bullinger, geb. Adlischwyler</persName>.</note> familiamque et d. <persName>Rodolphum Gvaltherum</persName>.</s>
+					<s n="16" xml:lang="la" type="auto">Vale et me ama.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName>Biellnis</placeName>, ipsa Bartholomęi 1546.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Tuus ex animo totus <persName>Io. Leopoldus Fry</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Doctissimo piissimoque viro, Tigurinę ecclesię fidelissimo pastori d. Heinrycho Bullingero, patri suo colendissimo.</s>
+					<s n="20" xml:lang="de" type="auto">Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

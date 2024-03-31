@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10090" type="Brief" source="HBBW" n="61">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN s.n. / [Zürich], 28. Januar 1532</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Omnibus verbi ministris per Tigurinum agrum evangelium anunciantibus gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Accipite, charissimi fratres et symmistae, exhortationem sive institutionem hanc nostram, quam scripto ad vos transmittere suaserunt ex fratribus plurimi, quando temporis iniuria obstiterit, quo minus ea pro solenni ritu viva ad vos voce<note xml:id="fn2" type="footnote" n="2">Vgl. Adagia, 1,2,17 (<bibl>LB</bibl> II 76f); <bibl>Otto</bibl> 378, Nr. 1936.</note> potuerit pronunciari.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Ex Tiguro, Caroli die anno 1532.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Heinrychus Bullingerus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

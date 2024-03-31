@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11587" type="Brief" source="HBBW" n="1544">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wolfgang Köpffel / Straßburg AN Heinrich Bullinger, 10. Juli 1541</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto"><persName>Franciscus Niger</persName>, homo <placeName>Italus</placeName>, apud nos uxorem<note xml:id="fn2" type="footnote" n="2">Als Ehefrau <persName>Negris</persName> wird 1538 <persName>Chinigonda (Kunigunde) Fessi</persName> aus <placeName>Straßburg</placeName> und 1539 Regina genannt, wobei es sich um dieselbe Person zu handeln scheint; s. Giovanni <hi>Giorgetta,</hi> <persName>Francesco Negri</persName> a <placeName>Chiavenna</placeName>. Note inedite, in: Clavenna 14, 1975, S. 38-46 (hier S. 38 bzw. 40f).</note> duxit, ex qua hunc adulescentem<note xml:id="fn3" type="footnote" n="3">Gemeint ist vielleicht <persName>Negris</persName> Sohn Giorgio; vgl. <bibl>Graubünden, Korr.</bibl> I, S. LXIII. Allerdings hatte <persName>Negri</persName> bereits 1538 mehrere Söhne; s. <hi>Zonta,</hi> aaO, Bd. 67, S. 291.</note> suscepit, quem <placeName>Clavennam</placeName> abiens hic reliquit commendatum<pb type="edition" next="242"/> amico<note xml:id="fn4" type="footnote" n="4">Im oben Anm. 2 erwähnten Dokument von 1538 ist von einem Stiefvater namens Hermann (Armanno) die Rede, bei dem <persName>Negris</persName> Frau einen Teil ihres Besitzes zurückgelassen hatte; s. <hi>Giorgetta,</hi> aaO, S. 38.</note>, qui nunc illius pertesus ad patrem eum remittit satis impotem tanto itineri.</s>
+					<s n="3" xml:lang="la" type="auto">Eum tibi, mi Bullingere, commendo, et optimo viro parenti eius propter Christum id officii facias, ut opera tua ad <placeName>Curiam</placeName> perveniat; ibi <persName ref="p4564">Comander</persName> acceptum patri intra biduum restituet.</s>
+					<s n="4" xml:lang="la" type="auto">Si quid iusseris vel effectu difficilius, experieris in hoc senili et fetulescente[?] corpore animum non impigrum inesse.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">De <placeName>Ratispona</placeName> ad <persName>Bibliandrum</persName> Geringius noster<note xml:id="fn5" type="footnote" n="5">Ein entsprechender Bericht von <persName>Beat Gering</persName> an <persName>Theodor Bibliander</persName> ist nicht erhalten.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Summa est, quod multis artibus papistę effecerint, ut et ipsorum castra posthac intelligant causam suam esse inferiorem.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Fratres et dominos omnes saluta, <persName>Bibliandrum</persName> et <persName>Pellicanum</persName> praecipue.</s>
+					<s n="8" xml:lang="la" type="auto">Argen[torati], 10. iulii anno 1541.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto"><persName>V. Capito</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="10" xml:lang="la" type="auto">Doctissimo viro d. Henrico Bullingero, pastori ecclesię Tigurinę, fratri sibi in Christo dilecto.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

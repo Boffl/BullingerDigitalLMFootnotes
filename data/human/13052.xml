@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13052" type="Brief" source="HBBW" n="3003">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 30. August 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Tuas 23. augusti datas<note xml:id="fn1" type="footnote" n="1">Brief <ref target="file13046">Nr. 2997</ref>.</note> recepi, sed <persName>Persium</persName><note xml:id="fn2" type="footnote" n="2">Eine bei <persName>Johannes Gast</persName> bestellte Satiren-Ausgabe des <persName>Persius</persName>; s. <ref target="file13033">Nr. 2984</ref>,<ptr target="qvzl17249-6" type="qv"/>.</note>, quem a <persName ref="p18518">Gastio</persName> postularem, nuspiam vidi.</s>
+					<s n="3" xml:lang="la" type="auto">Oro igitur, ut adhuc comparet mihi talem <persName>Persium</persName>, qualem postulavi.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">Caesaris<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> legatio 24. augusti <placeName>Tiguri</placeName> coram senatu amicitiam caesaris obtulit et foedus, quod ille cupiat cum omnibus Helvetiis<note xml:id="fn5" type="footnote" n="5">Vgl. <ref target="file13053">Nr. 3004</ref>,<ptr target="qvzl17271-1" type="qv"/>.</note> et cum ducatu Mediolarum, imo omnibus aliis in Italia ditionibus caesareanis connectere.</s>
+					<s n="5" xml:lang="la" type="auto">Quid multis?</s>
+					<s n="6" xml:lang="la" type="auto">Polliciti sunt homines isti tantum non aureos montes!</s>
+					<s n="7" xml:lang="la" type="auto">Nostri responderunt hoc negotium pertinere ad omnes Helvetios, cum quibus suo loco et tempore consultare velint.<note xml:id="fn6" type="footnote" n="6">Die Akten der folgenden, am 22. November 1547 in <placeName>Baden</placeName> begonnenen Tagsatzung (veröffentlicht in <bibl>EA</bibl> VI/1d 885-891) enthalten nichts Entsprechendes.</note><pb type="edition" next="446"/></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Milites isti impii et nepharii his diebus venerunt Cambodunum<note xml:id="fn7" type="footnote" n="7"><placeName>Kempten</placeName>.</note>, Isnam, Memmingam et <placeName>Ravenspurgam</placeName>.<note xml:id="fn8" type="footnote" n="8">Vgl. <ref target="file13050">Nr. 3001</ref>,<ptr target="qvzl17268-1" type="qv"/>. - Nach <placeName>Ravensburg</placeName> kam erst Anfang November 1547 spanisches Kriegsvolk, das zuvor in <placeName>Biberach</placeName> gelegen hatte; s. <ref target="file13089">Nr. 3040</ref>, <ptr target="qvfn17309-7" type="qv"/>.<ptr target="zfnfn17270-3" type="zfn"/></note></s>
+					<s n="9" xml:lang="la" type="auto">Expectamus in horas querelas miserorum.</s>
+					<s n="10" xml:lang="la" type="auto">Cogitur caesar in has urbes sua illa praesidia collocare.</s>
+					<s n="11" xml:lang="la" type="auto">Circum <placeName>Augustam</placeName> omnia carissimo sunt precio, nec habet miles, quod sufficiat alendis ventribus.</s>
+					<s n="12" xml:lang="la" type="auto">Deinde arbitror etiam latere mysterium.<note xml:id="fn9" type="footnote" n="9">Da der Kaiser die Truppen näher an <placeName>Konstanz</placeName> und an die Schweiz rücken will.</note></s>
+					<s n="13" xml:lang="la" type="auto">Tu divina.</s>
+					<s n="14" xml:lang="la" type="auto">Quae scribis de eo, qui<note xml:id="fn10" type="footnote" n="10">Der unbekannte Bote, der von <placeName>Wien</placeName> nach <placeName>Basel</placeName> zurückkehrte; s. <ref target="file13046">Nr. 2997</ref>,<ptr target="qvzl17263-4" type="qv"/>.</note> fuit <placeName>Viennae</placeName>, pridem audivi, nam magistratus vester nostro omnia perscripsit.</s>
+					<s n="15" xml:lang="la" type="auto">Ea legi.</s>
+					<s n="16" xml:lang="la" type="auto">Ago tamen tuae diligentiae magnas gratias.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Elementa illa Hebraica non satis recte agnoscimus.</s>
+					<s n="18" xml:lang="la" type="auto"><persName>Theodorus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Theodor Bibliander</persName>.</note> nondum vidit.</s>
+					<s n="19" xml:lang="la" type="auto">Astrologi fausta <persName>Maximiliano</persName> praedixerant, dum conserent manus Helvetii cum caesareanis ad <placeName>Dornachum</placeName>.</s>
+					<s n="20" xml:lang="la" type="auto">Ego itaque iudicia astrologorum tanti facio, quanti vanissimorum et vilissimorum nugivendorum.</s>
+					<s n="21" xml:lang="la" type="auto">Festinanter haec scribo.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Mitto duo carmina Germanica, quae ex Ulma accepi.</s>
+					<s n="23" xml:lang="la" type="auto">Tu lege et vide, quam virulentus sit nebulo monachus ille Colmariensis Ioannes Hoffmais-<pb type="edition" next="447"/>terus<note xml:id="fn15" type="footnote" n="15">Damals in Ulm; s. <ref target="file12934">Nr. 2885</ref>, <ptr target="qvfn17152-4" type="qv"/>.</note>, singularis amicus meus!</s>
+					<s n="24" xml:lang="la" type="auto">Amicitiam enim suam, qua me complectitur, libris ineptissimis aeditis testatus est.</s>
+					<s n="25" xml:lang="la" type="auto">Sed merito nebulonem contemno vanissimum.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="26" xml:lang="la" type="auto">Vale et saluta fratres omnes.</s>
+					<s n="27" xml:lang="la" type="auto">Te salutant fratres omnes.</s>
+					<s n="28" xml:lang="la" type="auto">Tiguri, 30. augusti 1547.</s>
+					<s n="29" xml:lang="la" type="auto">Bullingerus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Praestantissimo viro d. Osvaldo Myconio, fratri suo longe charissimo.</s>
+					<s n="31" xml:lang="de" type="auto">Basel.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

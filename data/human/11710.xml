@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11710" type="Brief" source="HBBW" n="1667">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 29. September 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Miror, qui fiat, <persName>Ambrosi</persName> dulcissime idemque mihi colendissime frater, quod tanto tempore nullas a te recipio literas<note xml:id="fn1" type="footnote" n="1">Der letzte erhaltene Brief <persName>Blarers</persName> datiert vom 9. August; s. oben <ref target="file11693">Nr. 1650</ref>.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Fortassis negotiorum turba interturbaris.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Misi hunc ad te nuncium<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note>, qui parare iubeat aliquid litterarum, ut, dum redierit, inveniat scriptas<note xml:id="fn3" type="footnote" n="3">Vgl. <persName>Blarers</persName> Antwort vom 4. Oktober, unten <ref target="file11717">Nr. 1673</ref>.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Abit ille Memmingam; causam intelliges ex affixo apographo<note xml:id="fn4" type="footnote" n="4">Unten <ref target="file11711">Nr. 1668</ref>.</note>, quod ubi legeris, clausum mittes per hunc eundem nuncium <persName>Gervasio</persName> nostro<note xml:id="fn5" type="footnote" n="5"><persName>Gervasius Schuler</persName>.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Cuperem autem, ut tuas quoque literas adiungeres vel<pb type="edition" next="193"/> d. <persName>Gervasio</persName> vel consuli Funckio<note xml:id="fn6" type="footnote" n="6"><persName>Balthasar Funk</persName>.</note> inscriptas, quibus animos ipsorum incitares, quo sedulo causam nostram agant<note xml:id="fn7" type="footnote" n="7">In seiner Antwort, unten <ref target="file11717">Nr. 1673</ref>, 28f, berichtet <persName>Blarer</persName>, an <persName>Schuler</persName> und <persName>Funk</persName> geschrieben zu haben; diese Briefe sind jedoch nicht vorhanden.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Vide autem, ne quis de hac re quicquam resciat.</s>
+					<s n="8" xml:lang="la" type="auto">Hoc certum est calumniam innocuo strui ex malitia et arte sathanica.</s>
+					<s n="9" xml:lang="la" type="auto">Fuit quaedam inter <persName>Conzenum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Peter Kunz</persName>.</note> et <persName>Erasmum</persName><note xml:id="fn9" type="footnote" n="9"><persName>Erasmus Ritter</persName>.</note> disceptatio super re sacramentaria; verum senatus prudentia populique <placeName>Bernatis</placeName> constantia factum est, ut pulchre compositum sit dissidium et probe conveniat ministris.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Excitat ergo sathan novam turbam; nam conviciator ille<note xml:id="fn11" type="footnote" n="11"><persName>Adam Heinricher</persName>, vgl. oben <ref target="file11708">Nr. 1665</ref>, 4 mit Anm. 2.</note> convictor est <persName>Conzeni</persName>; unde sunt, qui suspicantur non inscio <persName>Conzeno</persName> calumniam illam <persName>Erasmo</persName> a convictore esse intentatam.</s>
+					<s n="11" xml:lang="la" type="auto">Ego <persName>Erasmum</persName> persuadere conor<note xml:id="fn12" type="footnote" n="12">Ein entsprechendes Schreiben an <persName>Erasmus Ritter</persName> liegt nicht vor.</note> <persName>Conzenum</persName> insontem esse, ne videlicet animi vix conciliati resiliant.</s>
+					<s n="12" xml:lang="la" type="auto">Sententiam super controversia eorum pronunciatam habes affixam his meis literis, sed cura, ut per hunc eundem tabellionem remittas<note xml:id="fn13" type="footnote" n="13">Die Beilage, eine Abschrift der Übereinkunft vom 15. August 1542, findet sich in Zürich StA, E II 337a, 352r.-353v.</note>.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quod si quid certi habes de comitiis Nerobergensibus<note xml:id="fn14" type="footnote" n="14">Der Reichstag zu <placeName>Nürnberg</placeName> vom 1. bis 29. August 1542, vgl. oben <ref target="file11662">Nr. 1619</ref>, Anm. 7.</note>, <placeName>Ulmensibus</placeName><note xml:id="fn15" type="footnote" n="15">Der Städtetag zu <placeName>Ulm</placeName> vom 4. September 1542, vgl. <bibl>PC</bibl> III 291.</note>, de exercitu militante in Pannonia contra Turcas<note xml:id="fn16" type="footnote" n="16">Vgl. unten <ref target="file11714">Nr. 1671</ref>, 22-25.</note> aut de rebus caesaris<note xml:id="fn17" type="footnote" n="17"><persName>Karl V.</persName></note> atque Galli<note xml:id="fn18" type="footnote" n="18"><persName>Franz I.</persName></note>, fac, sciam.</s>
+					<s n="14" xml:lang="la" type="auto">Nos de militibus <placeName>Helveticis</placeName><note xml:id="fn19" type="footnote" n="19">Gemeint sind die Söldner in französischen Diensten, vgl. unten <ref target="file11719">Nr. 1675</ref>, 7f.</note> ne verbum quidem audimus.</s>
+					<s n="15" xml:lang="de" type="auto">Uff montag nach Michaelis<note xml:id="fn20" type="footnote" n="20">Am 2. Oktober.</note> wirt aber<note xml:id="fn21" type="footnote" n="21">erneut.</note> ein tag zuͦ <placeName>Baden</placeName>; habend min herren beschriben<note xml:id="fn22" type="footnote" n="22">ausgeschrieben.</note>, abermols mit den eydgnossen zuͦ handlen, das sy abstandint etc.</s>
+					<s n="16" xml:lang="de" type="auto">Uns sind von den gnaden gottes in allen 3 zügen<note xml:id="fn24" type="footnote" n="24">Gedacht ist vermutlich an den Zug zum französischen König sowie jene gegen <placeName>Braunschweig</placeName> und nach <placeName>Ungarn</placeName>.</note> minder lüten hingelouffen, dann yemandts glouben mög.</s>
+					<s n="17" xml:lang="de" type="auto">Unser volck überal ist des<pb type="edition" next="194"/> kriegens der eydgnossen vast übel zefriden<note xml:id="fn25" type="footnote" n="25">sehr unzufrieden.</note>.</s>
+					<s n="18" xml:lang="de" type="manual">Gott kumb uns ze hilff <foreign xml:lang="la">et liberet nos ab omni malo<note xml:id="fn26" type="footnote" n="26">Vgl. Mt 6, 13.</note>.</foreign></s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Vale cum omnibus tuis.</s>
+					<s n="20" xml:lang="la" type="auto">Salutat te officiosissime <persName>Bibliander</persName>, <persName>Megander</persName>, <persName>Gvaltherus</persName>, <persName>Erasmus Fabritius</persName><note xml:id="fn27" type="footnote" n="27"><persName>Erasmus Schmid</persName>.</note>, <persName>Pellicanus</persName> ac reliqui.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Tiguri, 29. septembris anno 1542.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 221a v.:]</note>
+					<s n="23" xml:lang="la" type="auto">Suo <persName>Ambrosio Blaurero</persName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

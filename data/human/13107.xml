@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13107" type="Brief" source="HBBW" n="3058">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 27. Oktober 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ignosce, precor, quod Apologiam in collegio recitatam diutius retinuimus.</s>
+					<s n="3" xml:lang="la" type="auto">Comodaram eam ministris nostris primum, deinde amiculis nonnullis, qui eam magna voluptate nec minori cum fructu legerunt.</s>
+					<s n="4" xml:lang="la" type="auto">Tractantur loci sane memorabiles et qui populariter eruditis raro obvii sint.</s>
+					<s n="5" xml:lang="la" type="auto">Dignus igitur esset libellus, quem multi legerent.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Contra ego tibi mitto Epitome reformationis Anglicae, cui sane insunt plurima, quibus de libenter cognosces, quamquam nonnulla etiam praetermissa video, de quibus: Statueritne<note xml:id="fn13" type="footnote" n="13">Subjekt ist der englische König <persName>Eduard VI.</persName></note> quicquam, an hodiernos ritus sequatur Anglia, equidem libenter intellexissem.</s>
+					<s n="7" xml:lang="la" type="auto">Res fortasse illis<note xml:id="fn14" type="footnote" n="14">Anglis.</note> tales esse videntur, de quibus aliis ecclesiis inconsultis nihil decernendum mutandumve decrerint.</s>
+					<s n="8" xml:lang="la" type="auto">Sed et fieri potuit, ut, qui conscripsit<note xml:id="fn15" type="footnote" n="15">Gemeint ist vielmehr <hi>transtulit.</hi></note> Epitomen, pluscula in transcursu omiserit.</s>
+					<s n="9" xml:lang="la" type="auto">Erasmum illis vehementer probari video.</s>
+					<s n="10" xml:lang="la" type="auto">Si aliunde accepisti, oro, remitte.</s>
+					<s n="11" xml:lang="la" type="auto">Sin hactenus caruisti, utere ipso ex animi sententia, ita tamen, ut exemplum aliquando remittas.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ex <placeName>Augusta</placeName> accepimus, nihildum ad finem perductum in comitiis, electores reliquos iniquo animo Saxonis ferre acceptam ignominiam, nec licere, caesarem<note xml:id="fn16" type="footnote" n="16"><persName>Karl V.</persName></note> quenquam de suo ordine locove deturbare citra electorum exactam cognitionem, quando caesar ab electoribus, electores ipsi a caesare non legantur, etc.</s>
+					<s n="13" xml:lang="la" type="auto">Dicitur et foedus illud ab Hispanis tentatum omnibus ita suspectum et captiosum videri, ut de eius successu propemodum sit desperatum.</s>
+					<s n="14" xml:lang="la" type="auto">Nihil mallet caesar, quam ut Germania tota sese suis cupiditatibus captiva subderet.</s>
+					<s n="15" xml:lang="la" type="auto">Verum sunt, qui renuunt, quorum constantię multi bene precantur.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="16" xml:lang="la" type="auto">De Scotis magna clade ab Anglico exercitu oppressis et ignominiose fugatis fortasse accepisti.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName>Augustani</placeName> scribunt 15 milia <pb type="scan" next="v."/> Scotorum desiderari.</s>
+					<s n="18" xml:lang="la" type="auto">Reliqui sex tantum milium quae ceciderint, meminerunt.</s>
+					<s n="19" xml:lang="la" type="auto">Duo milia capta esse confirmant.</s>
+					<s n="20" xml:lang="la" type="auto">Mali totius fontem esse papam<note xml:id="fn17" type="footnote" n="17"><persName>Paul III.</persName></note> ferunt, qui incendio per cardinalem suum Polum<note xml:id="fn18" type="footnote" n="18"><persName>Reginald Pole</persName>.</note> inter has gentes excitato id est assecutus, ut turpiter occubuerint; quibus ipse certam victoriam pollicebatur.</s>
+					<s n="21" xml:lang="la" type="auto">Similem cladem nobis olim Sedunensis<note xml:id="fn19" type="footnote" n="19">Kardinal Matthäus Schiner, Bischof von Sitten, während der Schlacht von Marignano 1515.</note> conflarat, qui Gallicis armis iuxta Mediolanum catervatim trucidarentur nostri.</s>
+					<s n="22" xml:lang="la" type="auto">Sic solent pontifices Romani sua frui pietate atque haec ipsorum fraterna est charitas, ut pacem omnem principum, quibus possint modis, interturbent!</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="23" xml:lang="de" type="auto">Hoptman Schnabel<note xml:id="fn20" type="footnote" n="20"><persName>Hans Schnabel von Schönstein</persName>.</note> von Bregantz sol oberster über 6000 mann in das Pemont verorndt sein, marchiß von Müß<note xml:id="fn21" type="footnote" n="21">Gian Giacomo de' Medici, Kastellan von Musso.</note> oberster über ettlich tausend pferdt.</s>
+					<s n="24" xml:lang="de" type="auto">Sollend bayd schon über daß gebirg verritten sein.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Videbis nostros petitum iri a caesare, nisi agros<note xml:id="fn22" type="footnote" n="22">Das Waadtland.</note> suos et urbes Sabaudo<note xml:id="fn23" type="footnote" n="23">Karl III. von Savoyen.</note> reddiderint, quę res mox totam Helvetiam bello implicabit.</s>
+					<s n="26" xml:lang="la" type="auto">Proinde enitendum modis omnibus, ne intestinis dissidiis nostri dilabantur.</s>
+					<s n="27" xml:lang="la" type="auto">Haec enim praecipua sunt hostilium animorum consilia, ut nobis quibuscumque artibus divisis ipsi potiri Helvetia universa possint.</s>
+					<s n="28" xml:lang="la" type="auto">Sed de iis satis.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="29" xml:lang="la" type="auto">Vale.</s>
+					<s n="30" xml:lang="la" type="auto">Sangalli, cel[e]riter, 6. calendas novembris anno 1547.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Vadianus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="32" xml:lang="la" type="auto">[Domino Hein]rycho Bullingero, vir[o opt]imo suo.</s>
+					<s n="33" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10107" type="Brief" source="HBBW" n="78">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Erasmus Ritter / Schaffhausen AN Heinrich Bullinger, 19. März 1532</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gracia et pax a deo per Iesum Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gratias tibi ago, charissime frater, pro eximio dono<note xml:id="fn1" type="footnote" n="1">Wahrscheinlich handelt es sich um Bullingers Ende Januar gehaltene Rede «De prophetae officio», s. oben <ref target="file10090">[Nr. 61]</ref> S. 41, Anm. 1.</note>, quod michi per <persName>Petrum</persName>, qui apud cataractas Reni Tigurinorum Christi evangelium adnunctiat, redditum est.</s>
+					<s n="3" xml:lang="la" type="auto">Gratissimum michi crede munus, non solum ob id, quod eruditionem et solidam pietatem exhibet, sed quod sit certissimum testimonium mirifici illius erga me amoris tui.</s>
+					<s n="4" xml:lang="la" type="auto">Quamobrem nolim tibi assentari quitquam, sed te adhortor, ut cępto ne desistas, quin pro accepto dono pro virili incumbas, ut citius ea, quae in epistolam ad Hebreos meditatus es, in lucem prodeant<note xml:id="fn3" type="footnote" n="3">Siehe unten S. 167, Anm. 6.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Qua in re facies rem nobis omnibus non solum gratam, verum eciam rei christiane summe utilem.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">De Carlostadio agemus hiisce diebus, ut aliquo pacto fieri posset, ut vir tantus locum sibi dignum acquireret<note xml:id="fn4" type="footnote" n="4"><persName>Andreas Karlstadt</persName> wirkte bis zum Sommer 1534 in Zürich.</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Ex <placeName>Scaphusia</placeName>, 19. martii 1532.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto"><persName>Erasmus Ritter</persName> ex animo tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="10" xml:lang="la" type="auto">Henrico Bullingero, apud Tigurum evangelium Christi constanter adnunctianti, charissimo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

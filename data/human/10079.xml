@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10079" type="Brief" source="HBBW" n="51">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gervasius Schuler (Scholasticus) / [Basel] AN Heinrich Bullinger, 18. Dezember 1531</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto"><placeName>Basileam</placeName> misisti, charissime frater, sicque litteris tractasti, ut plane non peregrinari, sed in animi delitiis michi vivere videar, tametsi nondum ex voto michi successerit iuxtaque id, quod magno desiderio tu quoque michi eventurum speras.</s>
+					<s n="3" xml:lang="la" type="auto">Sic tamen spe fruor, ut indotatus abire neutiquam verear.</s>
+					<s n="4" xml:lang="la" type="auto">Quod vero iam tibi quid certi significem, non habeo.</s>
+					<s n="5" xml:lang="la" type="auto">Interim sese michi obtulit nuncius<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> quem nolui vacuum abire; si per occasionem liberiorem licuerit, scribam.</s>
+					<s n="6" xml:lang="la" type="auto">Tu interim perge, ut coepisti, atque uxorem meam<note xml:id="fn4" type="footnote" n="4">Siehe oben, S. 222, Anm. 4.</note> satis ampliter adflictam consolare; brevi me non absque foenore uberioris fortunae rediturum nuncia nomine meo.</s>
+					<s n="7" xml:lang="la" type="auto">Dominus faxit, ut omnia interim aequo animo feramus, strenui in offitio atque suscepta provintia, bonam militiam deferentes<note xml:id="fn5" type="footnote" n="5">Vgl. 1 Tim 1,18.</note> usque in diem expeditionis nostre.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Nichil habeo novarum, que scribam rerum.</s>
+					<s n="9" xml:lang="la" type="auto"><placeName>Basilienses</placeName> pridie <placeName>Argentinam</placeName> perrexerunt, letum nuncium deferentes votique plane compotes facti, quemadmodum Ruͤdolphus Fry, vir pius, retulit fratribus.</s>
+					<s n="10" xml:lang="la" type="auto">Speramus propediem omnium rerum conditorem tam lamentabilem casum magno potentie sue foenore reparaturum.</s>
+					<s n="11" xml:lang="la" type="auto">Cuius causa negotii et tu quoque omnes conatus animi accomodare ne desinas neque formides.</s>
+					<s n="12" xml:lang="la" type="auto">Ego pro mei spiritus dono orationibus tam sanctis conatibus numquam deero.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><pb type="edition" next="241"/>Vale, delitie mee [!], charissime frater, mearum adflictionum in orationibus tuis ne obliviscaris.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="manual">Datum 18. die decembris anno 1531.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><persName>Gervasius Scolasticus</persName>, ex animo tuus.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Saluta fratres in Christo, maxime <persName>Erasmum</persName> meum, qui miris conatibus animi adflictiones meas onere liberavit.</s>
+					<s n="17" xml:lang="la" type="auto">Salutat te <persName>Marcus Berzius</persName><note xml:id="fn9" type="footnote" n="9">Siehe oben, S. 219, Anm. 1.</note> fratrum studiosus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Heinricho Bullingero plane meo in domino.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

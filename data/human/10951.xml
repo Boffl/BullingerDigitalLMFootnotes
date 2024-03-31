@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10951" type="Brief" source="HBBW" n="909">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), Simon Grynäus, 4. November 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Qui fit, fratres, ut tempore tanto non scribatis vel litteram?</s>
+					<s n="3" xml:lang="la" type="auto">Nostrumne obliti estis?</s>
+					<s n="4" xml:lang="la" type="auto">Ubi amor ille vester in nos quondam ardentissimus?</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Habetis hic responsionem nostram, quam ad <persName ref="p18889">Lutheri</persName> articulos oblatos dabit proximis comitiis senatus et ecclesia nostra.</s>
+					<s n="6" xml:lang="la" type="auto">Hanc vobis mittimus sperantes nostram vobis non displicituram.</s>
+					<s n="7" xml:lang="la" type="auto">Hanc si nobiscum recipere potestis aut diversum ab hac non fueritis sequti, convenit probe omnibus.</s>
+					<s n="8" xml:lang="la" type="auto">Certe nobis convenit cum <placeName>Bernatibus</placeName>, quorum responsionem<note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file10945">Nr. 903</ref>, Anm. 6.</note> vidistis, opinor.</s>
+					<s n="9" xml:lang="la" type="auto">Non prodesset ecclesiis Helveticis, si scinderemur,, qui hactenus summa cohaesimus concordia.</s>
+					<s n="10" xml:lang="la" type="auto">Atqui meliora speramus.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> optimam concordiae causam apud nostros fecit suspectissimam sua ista (mea quidem sententia) imprudenti Retractation<note xml:id="fn3" type="footnote" n="3">Zu <persName>Bucers</persName> Retraktationen s. oben <ref target="file10906">Nr. 866</ref>, Anm. 12.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Magnam sane apud nostros plerosque invidiam sibi concitavit.</s>
+					<s n="13" xml:lang="la" type="auto">Quantum animi dederit papistis, quantas calumniandi et blasphemandi ansas praebuerit tam infirmis quam malevolis, ipsi nostis melius.</s>
+					<s n="14" xml:lang="la" type="auto">Ego hoc retractandi studium a vobis impeditum vellem et ratione aliqua commodiori coeptum optarem.</s>
+					<s n="15" xml:lang="la" type="auto">Iam diversum evenit.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Responsionem autem hanc nostram vobis sous communicatam putate.</s>
+					<s n="17" xml:lang="la" type="auto">Nolumus hanc ante comitia exhiberi <placeName>Argentinensibus</placeName>.</s>
+					<s n="18" xml:lang="la" type="auto">Expectamus enim adhuc aliorum iuditia.</s>
+					<s n="19" xml:lang="la" type="auto">Addemus itaque nonnihil fortassis aut adimemus.</s>
+					<s n="20" xml:lang="la" type="auto">Stabimus et iuditio vestro.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><pb type="edition" next="463"/>Tiguri, 4. novembris anno 1536.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">H. Bullingerus vester.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="24" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName> et d. <persName>Simoni Grynaeo</persName>, <placeName>Basileien[sium]</placeName> ecclesiae antistitibus ornatissimis, charissimis fratribus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11626" type="Brief" source="HBBW" n="1583">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, Theodor Bibliander (Buchmann), 12. November 1541</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Satis nos dominus adfligit, dum optimum quenque tollit e medio et vix relinquit, quos in locum recte substituamus.</s>
+					<s n="3" xml:lang="la" type="auto">Facies misera, si diligenter intuearis.</s>
+					<s n="4" xml:lang="la" type="auto">Et nisi ex lapidibus nosset filios Abrahami facere<note xml:id="fn1" type="footnote" n="1">Zu ergänzen ist: "deus"; vgl. Mt 3, 9; Lk 3, 8.</note>, quę spes nos sustinet nonnihil, de his, qui supersunt et illis substitui posse videntur, valde solliciti essemus.</s>
+					<s n="5" xml:lang="la" type="auto">Adeo pius avis est rara<note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 2, 1, 21 (<bibl>LB</bibl> II 414); <bibl>Otto</bibl> 51f, Nr. 232.</note> inter primates.</s>
+					<s n="6" xml:lang="la" type="auto">Placet quidem evangelium et displicet papatus, sed utrunque alia, quam decet, ratione.</s>
+					<s n="7" xml:lang="la" type="auto">Nam illud suave est, amoenum, iucundum, si poenitentiam secluseris.</s>
+					<s n="8" xml:lang="la" type="auto">Papatus<pb type="edition" next="346"/> omni amoenitate vacat sublata carnis licentia.</s>
+					<s n="9" xml:lang="la" type="auto">Ergo, qui recto itinere velint incedere, hoc est evangelium recipere cum poenitentia et papatum contemnere propter solum Christum, paucissimi sunt.</s>
+					<s n="10" xml:lang="la" type="auto">Futurum igitur quid putatis, si illiusmodi ingenia gubernaculo adposueris?</s>
+					<s n="11" xml:lang="la" type="auto">Sument sibi dubio procul ius mandandi, ut doceas evangelium pro suo palato.</s>
+					<s n="12" xml:lang="la" type="auto">Hic itaque si obsecundantes invenerint, actum est de sana doctrina domini, actum est de salute.</s>
+					<s n="13" xml:lang="la" type="auto">Et vereor certe, ne obsecundantes inveniant; nam possem quosdam indicare nominatim ex vetulis gubernatoribus ecclesiarum, qui vel hodie frigidam veluti suffundunt<note xml:id="fn3" type="footnote" n="3">Im Sinne von: schmackhaft machen; Adagia, 1, 10, 51 (<bibl>LB</bibl> II 382).</note> magistratibus, ut iura ecclesiastica ad se rapiant.</s>
+					<s n="14" xml:lang="la" type="auto">Ex iuvenibus autem rari sunt, qui saltem literas prope discant, taceo Christum, quo resistere possent olim viris temerariis et pro pietate ponere animam.</s>
+					<s n="15" xml:lang="la" type="auto">Interim educantur profecto petulantius, quam ut illa secus, quam fit, possint imbibere.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Cibus et potus, qui dantur, neque Christum neque disciplinam facile admittunt, et tamen sic a teneris fere adsuescunt, ut adulteriores facti nihil, nisi quod didicerunt, agere valeant.</s>
+					<s n="17" xml:lang="la" type="auto">Faciem dictam utcunque adumbravi.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Valde igitur timeo, ne sit aliquid futurum, quod doceat, quam ingratitudo nostra domino sit ingrata.</s>
+					<s n="19" xml:lang="la" type="auto">Verbum evangelii tam misericorditer nobis dedit et arcana eius aperuit, ut a gratiarum actione linguę nostrę nunquam deberent cessare, vita nostra a bonis operibus nunquam inanis esse.</s>
+					<s n="20" xml:lang="la" type="auto">Nos autem pro dono vix agnoscimus, quod datum est, vitam vero tam foede transigimus, ut ea nobis etiam a foedissimis scortatoribus sacrificis obiiciatur.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Unde mihi videor timendi causas satis habere graves, quamvis in his (deo gratia) plane non destituar.</s>
+					<s n="22" xml:lang="la" type="auto">Scio, quod deus novit suos; attamen, quoties ita mecum cogito, non possum non horrere, et vehementer quidem.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Ut hoc modo vobiscum colloquar, mors d. <persName>Grynęi</persName>, deinde consulis<note xml:id="fn4" type="footnote" n="4"><persName>Jakob Meyer</persName>.</note> et <persName>Capitonis</persName> et tandem <persName>Gulielmi Zvinglii</persName>, <persName>Eusebii Oecolampadii</persName> et aliorum adolescentium certe multorum (numerantur ab <placeName>Argentinensibus</placeName> decem et octo, de quibus summa fuit expectatio)<note xml:id="fn5" type="footnote" n="5">Vgl. oben <ref target="file11622">Nr. 1579</ref>, 31-34.</note> me movit.</s>
+					<s n="24" xml:lang="la" type="auto">Aliter enim, atque scripsi, cogitare vix possum.</s>
+					<s n="25" xml:lang="la" type="auto">Perdidit <placeName>Argentina</placeName> thesaurum valde magnum ac preciosum.</s>
+					<s n="26" xml:lang="la" type="auto">Iugiter curavit ecclesiam, etiam dum alii abfuerunt,<note xml:id="fn6" type="footnote" n="6"><persName>Myconius</persName> denkt zweifellos an die vielen Reisen <persName>Bucers</persName>.</note> <persName>Capito</persName>.</s>
+					<s n="27" xml:lang="la" type="auto">In instituenda disciplina ecclesiastica, sine qua verbum fere frustra praedicatur, nemo fuit eo magis sedulus.</s>
+					<s n="28" xml:lang="la" type="auto">Fuit multis modis magnus, ut breviter dicam.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Superest <persName ref="p18198">Bucerus</persName> sanus adhuc, mirabiliter in rebus ecclesiasticis exercitatus.</s>
+					<s n="30" xml:lang="la" type="auto">Oremus dominum, ut is saltem maneat salvus.</s>
+					<s n="31" xml:lang="la" type="auto">Amisit uxorem et duas filias<note xml:id="fn7" type="footnote" n="7"><persName>Bucers</persName> Frau <persName>Elisabeth, geb. Silbereisen</persName>, starb kurz nach <persName>Capitos</persName> Tod, ihre Töchter Anastasia und Sara etwa zwei Tage vorher bzw. am 7. November, und in den folgenden Wochen verlor <persName>Bucer</persName> noch drei weitere Kinder; s. Ioan. Sturmii, et gymnasii Argentoratensis luctus ad Ioachimum Camerarium [...], <placeName>Straßburg</placeName> 1542, f. B2v.-B4r.</note> his diebus; igitur opus habet domino protegente, ne ipse et inficiatur.</s>
+					<s n="32" xml:lang="la" type="auto">Et<pb type="edition" next="347"/> <persName>Beati Geringii</persName> uxor<note xml:id="fn8" type="footnote" n="8">Agathe [...]; s. <bibl>HBBW</bibl> A, S. 71 (Nachtrag zu <bibl>HBBW VIII</bibl> 266).</note> - iam tertia, puto - cum <persName>Capitone</persName> elata est.</s>
+					<s n="33" xml:lang="la" type="auto">Oremus dominum, ut a malo nos defendat, non a peste, nisi sic profuerit ecclesię.</s>
+					<s n="34" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 12. novembris 1541 post coenam praeter morem.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Valete in Christo cum vestris.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto"><persName>Os. Myconius</persName> vester.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto"><persName>Joswaldum</persName>, filium Barbarę<note xml:id="fn9" type="footnote" n="9">Weder <persName>Joswald</persName> noch seine Mutter Barbara ist näher bekannt.</note>, quę has reddit, patrinum<note xml:id="fn10" type="footnote" n="10">"Patrinus" bezeichnet eigentlich den Paten; hier stellt sich allerdings die Frage, ob nicht eher ein Patensohn gemeint ist.</note> meum, quęso habeatis commendatum vel nomine meo.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="38" xml:lang="la" type="auto">D[ominis] Heinricho Bullingero et <persName>Theodoro Bibliandro</persName>, suis in domino fratribus admodum venerandis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

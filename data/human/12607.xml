@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12607" type="Brief" source="HBBW" n="2560">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Augsburg AN Heinrich Bullinger, 1. September 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et pax a deo patre et domino nostro Iesu Christo.</s>
+					<s n="2" xml:lang="la" type="auto">Cum iamiam has literas scribere incepturus essem, advenit <persName>Voglerus</persName><note xml:id="fn1" type="footnote" n="1"><persName>Hans Vogler d.Ä.</persName></note> tuas mihi una cum libro d. <persName>Theodori</persName><note xml:id="fn2" type="footnote" n="2"><persName>Theodor Biblianders</persName> "Relatio fidelis", um die <persName>Haller</persName> gebeten hatte; s. dazu <ref target="file12571">Nr. 2524</ref>,91-94.</note> afferens literas<note xml:id="fn3" type="footnote" n="3">Brief <ref target="file12590">Nr. 2543</ref> vom 24. August. Dieser Brief ist in einer Abschrift aus dem 17. Jh. erhalten, das zugehörige Postskriptum ist jedoch verloren.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Ad illas ergo primo respondebo.</s>
+					<s n="4" xml:lang="la" type="auto">Deinde, quae alias scripturus eram, subiiciam.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Mones a margine<note xml:id="fn4" type="footnote" n="4">D.h. in dem nicht erhaltenen Postskript des Briefes <ref target="file12590">Nr. 2543</ref>.</note> tuarum literarum, quod imprudenter egerim, qui non rogarim d. <persName>Laetum</persName><note xml:id="fn5" type="footnote" n="5"><persName>Georg Frölich</persName>.</note>, ut ex fonte sacro susciperet filium meum<note xml:id="fn6" type="footnote" n="6">Johannes d.J.; s. <ref target="file12509">Nr. 2462</ref>, Anm. 21.</note>; sed hunc mihi compararim compatrem!</s>
+					<s n="6" xml:lang="la" type="auto">Atqui sic feci: Dominus <persName>Laetus</persName> suscepit una cum alia quadam honesta matrona<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note>, quae mihi plurimum benefacit.</s>
+					<s n="7" xml:lang="la" type="auto">Quia vero eodem die supervenit post baptizatum infantem <persName>Voglerus</persName>, voluit et ipse hoc habere nomen, licet baptismo non interfuerit.</s>
+					<s n="8" xml:lang="la" type="auto">Non itaque verus, sed adoptatus est compater.</s>
+					<s n="9" xml:lang="la" type="auto">Rem se sic habere testatur carmen, quod mihi d. <persName>Laetus</persName> cum aureo misit Rhenensi<note xml:id="fn8" type="footnote" n="8">cum aureo ... Rhenensi: mit einem rheinischen Gulden.</note>: Quod tibi promisi penes baptismatis undas, Huius sit testis aureus ille rei.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Ne igitur hic quicquam putes inconveniens admissum!<pb type="edition" next="377"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Quid de Helveticis rebus scripseris <persName>Laeto</persName>,<note xml:id="fn9" type="footnote" n="9">Im nicht erhaltenen und ebenfalls von <persName>Vogler</persName> übermittelten Brief Bullingers an <persName>Frölich</persName>; s. <ref target="file12608">Nr. 2561</ref>,46f.</note> adhuc nescio.</s>
+					<s n="12" xml:lang="la" type="auto">Non dubito, quin dominus etiam inter illos<note xml:id="fn10" type="footnote" n="10">Gemeint sind die katholischen Orte der Schweiz.</note> sibi reservavit aliquos, qui genua non incurvarint ante <persName>Baal</persName><note xml:id="fn11" type="footnote" n="11">1Kön 19, 18; Röm 11, 2-5.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Interim tamen video corruptissimum statum eorum reipublicae.</s>
+					<s n="14" xml:lang="la" type="auto">Plurimi ex 5 Pagicis sunt in urbe nostra.</s>
+					<s n="15" xml:lang="la" type="auto">Heri quidam Urensis<note xml:id="fn12" type="footnote" n="12">Unbekannter Urner.</note> nuptias hic celebravit, ad quas etiam me vocavit, 2 Svitenses, Glaronenses, <placeName>Bernenses</placeName>, Sangallenses et duo etiam Tigurini, <ptr target="fna" type="footnote" n="a"/>Tugianus unus, Toggienses quidam, qui serviunt praesidio urbis, non inhonesti iuvenes.</s>
+					<s n="16" xml:lang="la" type="auto">Ego ipsos fortiter ad pietatem veram hortor et, ut agnoscant, in quanta detineantur coecitate.</s>
+					<s n="17" xml:lang="la" type="auto">Resipiscant tandem, qui iam nobis non verentur contra suam ipsorum religionem opem ferre.</s>
+					<s n="18" xml:lang="la" type="auto">Illi benevoli (nisi simulent) erga religionem nostram sperant mox adducendos etiam reliquos et nullam aliam praetendunt causam quam bellum illud intestinum<note xml:id="fn13" type="footnote" n="13">Der Zweite <placeName>Kappeler</placeName> Krieg von Oktober 1531.</note> patrum nostrorum sanguine confectum.</s>
+					<s n="19" xml:lang="la" type="auto">Hoc solum ipsos tam pertinaces fecisse fatentur.</s>
+					<s n="20" xml:lang="la" type="auto">Interim tamen se paratos esse summis viribus nostram promovere religionem.</s>
+					<s n="21" xml:lang="la" type="auto">Dominus det, ut possim adhuc videre Helvetiam circa veram religionem esse concordem!</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Quod librum d. <persName>Theodori</persName><note xml:id="fn14" type="footnote" n="14">Siehe oben Anm. 2.</note> miseris, ago gratias.</s>
+					<s n="23" xml:lang="la" type="auto">Sunt enim multi cives, qui legere cupiunt.</s>
+					<s n="24" xml:lang="la" type="auto">Quicquid constiterit, ex 2 coronatis accipe, si illi<note xml:id="fn15" type="footnote" n="15">Die Zürcher <persName>Hans Hug</persName> und <persName>Meinrat Oggenfuß</persName>, denen <persName>Haller</persName> zwei Kronen geborgt hatte; s. <ref target="file12573">Nr. 2526</ref>,8-13.</note> reddiderint.</s>
+					<s n="25" xml:lang="la" type="auto">Si nil dabunt, ego solvam.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="26" xml:lang="la" type="auto">Praefationem in Lucam, sicut petis, reddam Germanicam.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="27" xml:lang="la" type="auto">De <persName>Zolleri</persName><note xml:id="fn17" type="footnote" n="17"><persName>Hans Wilpert Zoller</persName>.</note> negotio scripsi in superioribus literis<note xml:id="fn18" type="footnote" n="18">Siehe <ref target="file12595">Nr. 2548</ref>,53-55.</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Vivit et valet.</s>
+					<s n="29" xml:lang="de" type="auto">Ist sidhar<note xml:id="fn19" type="footnote" n="19">Nämlich seit seiner Genesung.</note> bin etlichen scharmützlen gsin<note xml:id="fn20" type="footnote" n="20">Belegt ist z.B. seine Teilnahme am Gefecht vom 2. September; s. Christoph von <hi>Rommel,</hi> Philipp der Großmüthige, Bd. 3: Urkunden, Gießen 1830, Nr. 38, S. 144.</note>.</s>
+					<s n="30" xml:lang="la" type="auto">Non ita se habet res, ut multi in invidiam eius praedicarant.</s>
+					<s n="31" xml:lang="la" type="auto">Fuit scortum quoddam dissidii causa, sed quomodo aut qua ratione, non potui hactenus resciscere, nisi quod audio eum domino suo<note xml:id="fn21" type="footnote" n="21"><persName>Sebastian Schertlin</persName>, der <persName>Zoller</persName> angestellt hatte; s. dazu <bibl>HBBW</bibl> XVI 153,156-170, u.ö.</note> valde gratum esse valdeque eum propter illius doluisse casum.</s>
+					<s n="32" xml:lang="la" type="auto">Scripsi ante octiduum praetori Kyburgensi de hoc negotio.</s>
+					<s n="33" xml:lang="la" type="auto">Puto literas a te perlatas esse, ne et hic meam desyderes diligentiam.<pb type="edition" next="378"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="34" xml:lang="la" type="auto"><pb type="scan" next="21v."/>Quod minus frequenter superiori mense scripsi, unica <persName>Voglerus</persName> causa fuit, qui omnia tam diligenter annotabat,<note xml:id="fn23" type="footnote" n="23">Gemeint ist u.a. <persName>Voglers</persName> Bericht in <ref target="file12578">Nr. 2531</ref>.</note> ut supervacaneum videretur his quicquam addere.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="35" xml:lang="la" type="auto">Caeterum quid nunc agatur, plenius forte scribet <persName>Laetus</persName><note xml:id="fn24" type="footnote" n="24">Mit Brief <ref target="file12608">Nr. 2561</ref>.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Ne tamen ego negligentior esse videar, quae habeo, haec sunt: Postquam exercitus noster mirabili caesaris<note xml:id="fn25" type="footnote" n="25"><persName>Karl V.</persName>, der überraschend aus <placeName>Regensburg</placeName> gewichen war.</note> dolo circumventus, mirabiliore autem virtute dei, licet magnis laboribus cum maxima inedia exhaustus<note xml:id="fn26" type="footnote" n="26">Vgl. <ref target="file12602">Nr. 2555</ref>. 10f und Anm. 12.</note> ipsi<note xml:id="fn27" type="footnote" n="27">Gemeint ist der Kaiser. - Im klassischen Latein wäre "ipso" zu erwarten.</note> iterum superior redditus sit (sicut in proximis depinxi literis, quarum alteras 24., ni fallor, augusti,<note xml:id="fn28" type="footnote" n="28">Siehe <ref target="file12595">Nr. 2548</ref>,8-44.</note> alteras 26.<note xml:id="fn29" type="footnote" n="29">Siehe <ref target="file12598">Nr. 2551</ref>,22-31.</note> scripsi, quas etiam tibi redditas spero).</s>
+					<s n="37" xml:lang="la" type="auto">Nunc caesari imminet totus.</s>
+					<s n="38" xml:lang="la" type="auto">4 fecerunt globos: Elector<note xml:id="fn30" type="footnote" n="30">Kurfürst <persName>Johann Friedrich von Sachsen</persName>.</note> habet unum, langrafius<note xml:id="fn31" type="footnote" n="31">Landgraf <persName>Philipp von Hessen</persName>.</note> secundum, <persName>Schertlin</persName> tertium, ille ab Heidegk<note xml:id="fn32" type="footnote" n="32"><persName>Johann Freiherr von Heideck</persName>, seit 2. Juli 1546 Oberbefehlshaber der württembergischen Truppen unter Herzog Ulrich; s. <hi><persName>Mameranus</persName>, Rebel.</hi> 7r.; <bibl>ADB</bibl> XI 294.</note> quartum.</s>
+					<s n="39" xml:lang="la" type="auto">26. augusti hora coenae aliquot centum equitum <placeName>Hispanorum</placeName> et <placeName>Italorum</placeName> progressi visique sunt.</s>
+					<s n="40" xml:lang="la" type="auto">In quos circiter 300 equites ex castris Hessi egressi impetum fecerunt et 60 ephippiis<note xml:id="fn34" type="footnote" n="34">ephippium: Sattel, Satteldecke; s. <bibl>Kirsch</bibl> 1042.</note> (ut dicitur) nudatis, 15 captis reliquos in fugam verterunt.</s>
+					<s n="41" xml:lang="la" type="auto">Inter captivos magnus quidam capitaneus bysso super arma indutus in aurea manica argenteum ferens clavem servatur.</s>
+					<s n="42" xml:lang="la" type="auto">Varia est de ipso fama.</s>
+					<s n="43" xml:lang="la" type="auto">Quidam dicunt pontificis<note xml:id="fn36" type="footnote" n="36"><persName>Paul III.</persName></note> nepotem, ducem de Camerina<note xml:id="fn37" type="footnote" n="37"><persName>Ottavio Farnese</persName>, Herzog von Camerino. - Er wurde damals nicht gefangen. Sein Leutnant aber, <persName>Alessandro Vitelli</persName>, wurde am 29. August verletzt; s. <ref target="file12608">Nr. 2561</ref> und Anm. 23.</note>; alii ex patritiis eum dicunt esse <persName>Romanis</persName><note xml:id="fn38" type="footnote" n="38">Was auf <persName>Aurelio Ruffino</persName> zutrifft, da dieser in der zuvor erwähnten Gefangenenliste als "Romanus" bezeichnet wird.</note>.</s>
+					<s n="44" xml:lang="la" type="auto">Confessi sunt caesarem nolle praelium inire, donec exercitus ex Inferiori Germania sibi iunctus fuerit.</s>
+					<s n="45" xml:lang="la" type="auto">Itaque castris vallo et<pb type="edition" next="379"/> fossis firmatis ad pugnam progredi differt.</s>
+					<s n="46" xml:lang="la" type="auto">Nostri instant castris eius<ptr target="fnc" type="footnote" n="c"/>.</s>
+					<s n="47" xml:lang="la" type="auto">Ex Hessis unus tantum nobilis<note xml:id="fn40" type="footnote" n="40"><persName>Christof von Bodenhausen</persName>, hessischer Adliger; s. <ref target="file12608">Nr. 2561</ref> und Anm. 27.</note> desideratus est; 9 equi vulnerati.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="48" xml:lang="la" type="auto">Quottidie decertatur.</s>
+					<s n="49" xml:lang="la" type="auto">28. augusti <placeName>Itali</placeName> sive <placeName>Hispani</placeName> (nostri enim ignorant distinctionem) nostras invaserunt vigilias et circiter 20 trucidarunt ex nostris,<note xml:id="fn41" type="footnote" n="41">Vgl. dazu den von der landgräflichen Kanzlei ausgehenden Bericht in <ref target="file12628">Nr. 2581</ref>,21-33.</note> signiferum<note xml:id="fn42" type="footnote" n="42">Unbekannt.</note> etiam capitanei ab Heidegg.</s>
+					<s n="50" xml:lang="la" type="auto">Turba facta in exercitu repressi sunt et in vicum quendam<note xml:id="fn43" type="footnote" n="43"><placeName>Gerolfing</placeName>; s. <ref target="file12608">Nr. 2561</ref>, Anm. 21.</note> se receperunt.</s>
+					<s n="51" xml:lang="la" type="auto">Crastina<note xml:id="fn44" type="footnote" n="44">Zum Gefecht vom 29. August vgl. <persName>Frölichs</persName> Bericht in <ref target="file12608">Nr. 2561</ref>,22-28; und den von der landgräflichen Kanzlei ausgehenden Bericht in <ref target="file12628">Nr. 2581</ref>,35-41.</note> ergo Schertlius cum suis vicum illum cinxit provocans eos ad certamen.</s>
+					<s n="52" xml:lang="la" type="auto">Illis vero progredi nolentibus vicum 4 plagis incendit et tanquam vulpeculas fumo progredi coegit.</s>
+					<s n="53" xml:lang="la" type="auto">Erumpentes ergo non sine nostrorum aliquot interitu<note xml:id="fn45" type="footnote" n="45">In <ref target="file12608">Nr. 2561</ref>,26-28, ist die Zahl auf zwei angesetzt, in <ref target="file12628">Nr. 2581</ref>,39f, werden zwei Namen aus dem Adel angeführt.</note>, ipsorum tamen 200 et plures interfecti sunt.</s>
+					<s n="54" xml:lang="la" type="auto">In hoc certamine Schertlii equus globo bombardae traiectus est, ipse tamen, praecipitatus licet, salvus evasit.</s>
+					<s n="55" xml:lang="la" type="auto">Expectamus in dies, quid amplius agatur.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="56" xml:lang="la" type="auto">Caeterum ne nostri videantur in hoc bello ditiones tantum querere alienas, non Christum et propagationem evangelii, iccirco ecclesias in episcopatu <placeName>Augustensi</placeName> reformare incipiunt.</s>
+					<s n="57" xml:lang="la" type="auto">Quia autem magna ministrorum penuria (nostrum quippe non plures sunt amplius 8, quorum etiam quidam dimittentur ad reformandas ecclesias), iccirco domini nostri suppliciter<pb type="scan" next="22r."/> ad vos mittunt per hunc nuncium<note xml:id="fn47" type="footnote" n="47">Unbekannt; s. unten Anm. 83.</note> literas, ut hac in parte nobis auxilia feratis.</s>
+					<s n="58" xml:lang="la" type="auto">Commendo ergo tibi atque committo hoc negotium, ne negetis aliquot eis mittere.</s>
+					<s n="59" xml:lang="la" type="auto">Vellem unum atque alterum doctum<note xml:id="fn49" type="footnote" n="49">Vgl. jedoch <persName>Hallers</persName> weniger anspruchsvolle Erwartung unten Z. 101f.</note> habere mecum et facile efficiam, si miseritis aliquem doctum, ut mecum maneat in urbe; sic enim tandem superior erit numerus noster<note xml:id="fn50" type="footnote" n="50">Die Anzahl der zwinglisch gesinnten Pfarrer in <placeName>Augsburg</placeName>.</note>, ut forma illa<note xml:id="fn51" type="footnote" n="51">Die <placeName>Augsburger</placeName> Kirchenordnung; s. <ref target="file12595">Nr. 2548</ref>, Anm. 68.</note> reformari tandem possit.</s>
+					<s n="60" xml:lang="la" type="auto">Da itaque operam: Insta, urge!</s>
+					<s n="61" xml:lang="la" type="auto">Hoc est officium nostrum providere diligenter ecclesiis; hoc denique est episcopum esse.</s>
+					<s n="62" xml:lang="la" type="auto">Sic puritas doctrinae conservari poterit.</s>
+					<s n="63" xml:lang="la" type="auto">Curabimus nos, ut honeste et liberaliter eis provideatur.<pb type="edition" next="380"/></s>
+					<s n="64" xml:lang="la" type="auto">Poterunt aliquando subnascentibus aliis et ipsi in patriam redire, sicut et ego spero<note xml:id="fn52" type="footnote" n="52"><persName>Haller</persName> kehrte im Oktober 1547 nach Zürich zurück; s. <persName>Oswald Myconius</persName>' Brief an Bullinger vom 20. Oktober 1547 (Zürich StA, E II 336a, 278).</note>.</s>
+					<s n="65" xml:lang="la" type="auto">Tantum, ne nunc<note xml:id="fn53" type="footnote" n="53">D.h. in der jetzigen Kriegsnot.</note> miserae (imo foelices, quae liberentur ab antichristo<note xml:id="fn54" type="footnote" n="54">Gemeint ist der Papst.</note>) destituantur ecclesiae!</s>
+					<s n="66" xml:lang="la" type="auto">Puto ego his vos posse carere: Eggstein<note xml:id="fn55" type="footnote" n="55"><persName>Utz Eckstein</persName>; s. <ref target="file12598">Nr. 2551</ref>, Anm. 24.</note>, H[ans] von Dietiken<note xml:id="fn56" type="footnote" n="56"><persName>Hans Kopf</persName>, Pfarrer in <placeName>Dietikon</placeName>; s. <hi>Pf-Zürich</hi> 20.</note>, affinis consulis <persName ref="p5543">Habii</persName><note xml:id="fn57" type="footnote" n="57"><persName>Johannes Haab</persName> war <persName>Kopfs</persName> Schwager; s. <bibl>HBBW</bibl> VII 71, Anm. 3.</note>.</s>
+					<s n="67" xml:lang="la" type="auto">Horum alterum suaderem promovendum Kauffbüram.</s>
+					<s n="68" xml:lang="la" type="auto">Wilbergensis<note xml:id="fn58" type="footnote" n="58"><persName>Johannes Ramp</persName>, Pfarrer in <placeName>Wildberg</placeName>; s. <hi>Pf-Zürich</hi> 107. 476.</note> natus Kauffbüranus, sed non convenit.</s>
+					<s n="69" xml:lang="la" type="auto">Adhaec <persName>Iacobus Sarctor</persName><note xml:id="fn59" type="footnote" n="59"><persName>Jakob Schnyder</persName>, Pfarrer in <placeName>Wangen</placeName>; s. <hi>Pf-Zürich</hi> 100. 512.</note> Wangensis claudicans pedibus, sed revera doctrina minime, et qui, cum magnam patitur paupertatem, posset huc promoveri.</s>
+					<s n="70" xml:lang="la" type="auto">Praeterea <persName>Gallus</persName><note xml:id="fn60" type="footnote" n="60"><persName>Gallus Glatthaar</persName>, Pfarrer in <placeName>Bubikon</placeName>; s. <hi>Pf-Zürich</hi> 13. 298.</note>, parochus apud Buͦbicken, qui fuit in monasterio <placeName>Ochsenhausen</placeName><note xml:id="fn61" type="footnote" n="61">Die Benediktiner-Reichsabtei <placeName>Ochsenhausen</placeName> (Lkr. Biberach, Oberschwaben).</note>; ex iuvenibus Ber[nardum] Lindoverum<note xml:id="fn62" type="footnote" n="62"><persName>Bernhard Lindauer</persName>, ein Studiengenosse von <persName>Wolfgang Haller</persName>, <persName>Johannes Hallers</persName> Bruder; s. <bibl>HBBW</bibl> XIV, <ref target="file12027">Nr. 1980</ref>. <placeName>Lindauer</placeName> war damals Schulmeister in <placeName>Stein am Rhein</placeName>; s. <bibl>HBBW</bibl> XVI, <ref target="file12386">Nr. 2339</ref>.</note>, <persName>Iningerum</persName><note xml:id="fn63" type="footnote" n="63">Unbekannt.</note>.</s>
+					<s n="71" xml:lang="la" type="auto">Hunc rogo promoveas, nisi de eo dubites.</s>
+					<s n="72" xml:lang="la" type="auto">Miseret me eius, licet non magna mihi cum eo sit familiaritas.</s>
+					<s n="73" xml:lang="la" type="auto">Habet et praecessor meus Illnoensis, qui nunc est apud Richtischwyl<note xml:id="fn65" type="footnote" n="65"><placeName>Richterswil</placeName> (Kt. Zürich).</note>, filium.</s>
+					<s n="74" xml:lang="de" type="auto">Die möcht man all bruchen<note xml:id="fn67" type="footnote" n="67">Von den hier Genannten wurde allein <persName>Rudolf Schwyzer d.J.</persName> (neben zwei anderen) entsandt; s. Zürich StA, B IV 16, f. 67v. (29. Oktober 1546); s. <ref target="file12620">Nr. 2573</ref>, Anm. 21.</note>.</s>
+					<s n="75" xml:lang="la" type="auto">Ego vellem eis adesse, ne quid perperam ab initio fieret, <foreign xml:lang="de">dann man wirt inen das reformieren nitt vertruwen</foreign>.</s>
+					<s n="76" xml:lang="la" type="auto">Curio<note xml:id="fn68" type="footnote" n="68"><persName>Konrad Hofherr</persName>, der unterdessen wieder in <placeName>Konstanz</placeName> war.</note> etiam vocabitur a domino <persName ref="p8087">Herbroto</persName><note xml:id="fn69" type="footnote" n="69"><persName>Jakob Herbrot</persName>, der das Stipendium <persName>Hofherrs</persName> finanziert hatte; s. den Verweis in <ref target="file12515">Nr. 2468</ref>, Anm. 39.</note>, suo mecoenati.</s>
+					<s n="77" xml:lang="la" type="auto"><persName>Cervinus</persName><note xml:id="fn70" type="footnote" n="70"><persName>Johannes Cervinus (Hirz)</persName>, damals Pfarrer in <placeName>Weiningen</placeName> (Kt. Zürich).</note> posset etiam praestare gregarium.</s>
+					<s n="78" xml:lang="la" type="auto">Sunt et alii.</s>
+					<s n="79" xml:lang="la" type="auto">Ex quibus rogo deligatis aliquos.</s>
+					<s n="80" xml:lang="la" type="auto">Non opus, ut sint admodum eruditi, si modo sint pii, et solide doceant vitaeque inculpatae.</s>
+					<s n="81" xml:lang="de" type="auto">Ich hoff, d’sach well gan!</s>
+					<s n="82" xml:lang="la" type="auto">Ego totus laboro, ut scholae et studia informentur, ut et ipsi<note xml:id="fn71" type="footnote" n="71">die <placeName>Augsburger</placeName>.</note> habeant iuvenes, quos ad ecclesiastica instruant et ordinent officia.<pb type="edition" next="381"/></s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="83" xml:lang="la" type="auto">Cellarius<note xml:id="fn72" type="footnote" n="72"><persName>Michael Keller</persName>.</note> vir bonus, sed studiorum parum studiosus.</s>
+					<s n="84" xml:lang="de" type="auto"><persName>Musculus</persName><note xml:id="fn73" type="footnote" n="73"><persName>Wolfgang Musculus</persName>.</note> hatt all plagen mitt den meßpfaffen<note xml:id="fn74" type="footnote" n="74">Gemeint sind die lutherisch gesinnten Kollegen.</note>, eb ers ins greiß bring<note xml:id="fn75" type="footnote" n="75">eb ers ins greiß bring: bis (s. <bibl>SI</bibl> I 53) er es in die rechte Ordnung zu bringen vermag; s. <bibl>SI</bibl> VI 1299 s.v. Gereis.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="85" xml:lang="de" type="auto">Thuͦnds best.</s>
+					<s n="86" xml:lang="de" type="auto">Es wirt zuͦ vil dingen guͦt sin.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="87" xml:lang="la" type="auto">Haec raptim omnia; ignosce, quaeso.</s>
+					<s n="88" xml:lang="la" type="auto">Festino enim ad <persName>Laetum</persName>, ut legam, quid ei scripseris<note xml:id="fn76" type="footnote" n="76">Mit einem nicht mehr erhaltenen, aber belegten Brief Bullingers; s. <ref target="file12590">Nr. 2543</ref>,1; <ref target="file12608">Nr. 2561</ref>,46f.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="89" xml:lang="la" type="auto">Scripsit iam aliquoties ad me <persName>Vadianus</persName> amicissime<note xml:id="fn77" type="footnote" n="77">Ein Schreiben <persName>Vadians</persName> bezeugt <persName>Haller</persName> in seiner Antwort an diesen vom 10. August 1546 <hi>(<persName>Vadian</persName> BW</hi> VI 556f, <ref target="file11530">Nr. 1487</ref>).</note>.</s>
+					<s n="90" xml:lang="la" type="auto">Item <persName>Blaurerus</persName><note xml:id="fn78" type="footnote" n="78"><persName>Ambrosius Blarer</persName>.</note> et alii.</s>
+				</p>
+				<p>
+					<s n="91" xml:lang="la" type="auto">Vale.</s>
+					<s n="92" xml:lang="la" type="auto">Saluta d. <persName>Pellicanum</persName>, <persName>Theodorum</persName><note xml:id="fn79" type="footnote" n="79"><persName>Theodor Bibliander</persName>.</note>, <persName>Gvaltherum</persName> (a quo expecto imaginem <persName>Zvinglii</persName>) et familiam tuam omnem.</s>
+					<s n="93" xml:lang="la" type="auto"><placeName>Augustae Vindelicorum</placeName>.</s>
+					<s n="94" xml:lang="la" type="auto">Salutat vos <persName>Xystus</persName><note xml:id="fn81" type="footnote" n="81"><persName>Sixt Birck</persName>.</note>, author huius pasquilli, quem mittit <persName>Laetus</persName>.</s>
+					<s n="95" xml:lang="la" type="auto">Calendis septembris 1546.</s>
+				</p>
+				<p>
+					<s n="96" xml:lang="la" type="auto">Tuus, quantus quantus est, <persName>Ioannes Hallerus</persName>.<pb type="edition" next="382"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="97" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, fidelissimo ecclesiae Tigurinae pastori, domino ac patri suo venerando.</s>
+					<s n="98" xml:lang="de" type="auto">Zürich<note xml:id="fn83" type="footnote" n="83">Vorliegender Brief wurde zusammen mit Brief <ref target="file12608">Nr. 2561</ref> durch einen <placeName>Augsburger</placeName> Ratsboten übermittelt; s. <ref target="file12608">Nr. 2561</ref>, Anm. 4 und Anm. 67.</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

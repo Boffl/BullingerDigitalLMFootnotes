@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12986" type="Brief" source="HBBW" n="2937">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jodocus Kilchmeyer / Bern AN Heinrich Bullinger, 2. Juli 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">En iam iterum<note xml:id="fn1" type="footnote" n="1">Siehe dazu unten <ptr target="qvfn17204-1" type="qv"/>.</note> vobis mittuntur adolescentes duo,<note xml:id="fn2" type="footnote" n="2">Vgl. <ref target="file12980">Nr. 2931</ref>,<ptr target="qvzl17199-2" type="qv"/>.</note> quorum unius<note xml:id="fn3" type="footnote" n="3"><persName>Ismael Buchser</persName>; s. <ref target="file12980">Nr. 2931</ref>, <ptr target="qvfn17199-3" type="qv"/>.</note> pater fuit M. <persName ref="p4107">Ioannes Buchser</persName><note xml:id="fn4" type="footnote" n="4"><persName>Johannes Buchser</persName> war 1541 gestorben; s. <bibl>HBBW</bibl> II 126, Anm. 1.</note>, olim in Sur<note xml:id="fn5" type="footnote" n="5"><placeName>Suhr</placeName> (Kt. Aargau).</note> pastor dominici gregis, alterius<note xml:id="fn6" type="footnote" n="6"><persName>Samuel Schneuwlin</persName>; s. <ref target="file12980">Nr. 2931</ref>, <ptr target="qvfn17199-2" type="qv"/>.</note> vero d. <persName>Heinrichus Schneewly</persName><note xml:id="fn7" type="footnote" n="7"><persName>Heinrich Schneuwlin</persName> war Bauer in <placeName>Ried bei Fraubrunnen</placeName> (Kt. Bern) gewesen; s. <bibl>LL</bibl> XVI 416. Der vorliegenden Stelle zufolge stammte er aus <placeName>Sursee</placeName> (Kt. Luzern).</note> ex <placeName>Sursee</placeName>, in agro Bernatium sepultus.</s>
+					<s n="3" xml:lang="la" type="auto">Illos, rogo atque obsecro, commendatos habeatis, sicque eorum curam geratis, ne me pęniteat laboris, quo promoti sunt, ut ad vos mitterentur, et magnificus senatus noster et me et vos <placeName>Tiguri</placeName> agnoscat diligentissimos patres horum omnium, qui publico aerario nutriuntur in gloriam dei, ecclesiae suae ac patriae salutem.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">Magnus certe apud nos rumor est parum apud vos curari illos, qui pręterito anno<note xml:id="fn9" type="footnote" n="9">Als Schuljahr zu verstehen.</note> ad vos missi sunt, sed esse in libertate nimia, dissolutam agere vitam, inter ępulas et pocula inveniri, idque noctu et in publicis tabernis, scorta potius sectari, quam libros volvere et perlegere!</s>
+					<s n="5" xml:lang="la" type="auto">Quod senatus non sine magna molestia audit mihique non semel exprobratum est.</s>
+					<s n="6" xml:lang="la" type="auto">Curabis igitur summo studio, ne iuventus nostra misere apud vos pereat, sed formetur ac instituatur diligentia, qua certe opus est et nos<note xml:id="fn11" type="footnote" n="11">Zu verstehen: quam nos.</note> de vobis speramus.</s>
+					<s n="7" xml:lang="la" type="auto">Bestię ac adversarii nostri immo Christi<note xml:id="fn12" type="footnote" n="12">Die lutherischen Parteigänger in Bern; s. dazu <bibl>HBBW</bibl> XIV 17f; XV 30.</note> non solum gaudent, ubi nostros apud vos negligi audiunt, sed eciam maledica lingua rumorem augent, quęrentes, ut Christo rapti rursus <placeName>Argentoratum</placeName><note xml:id="fn13" type="footnote" n="13">Die vier oben in <ptr target="qvfn17204-1" type="qv"/> genannten Studenten hatten nämlich zunächst in <placeName>Straßburg</placeName> studiert, ehe sie von Bern nach <placeName>Zürich</placeName> gesandt wurden.</note> mittantur, quo regnum <persName ref="p18198">Buceri</persName> amplietur et apud nos resurgat - quod iam per dei gratiam magna ex parte sudoribusque multis demolitum est et pene extinctum.</s>
+					<s n="8" xml:lang="la" type="auto">De qua re tibi plura scribere supervacuum est.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Habes enim coram ingenuos adolescentes, qui tibi, quid apud nos agatur, abunde satis explicare noverint, quos <persName ref="p7518">Euandro</persName><note xml:id="fn14" type="footnote" n="14"><persName>Benedikt Euander</persName>, Lehrer am Fraumünster seit etwa Herbst 1546 (s. <bibl>HBBW</bibl> XVIII 343, Anm. 27; XIX 173, Anm. 18), bei dem auch schon im Januar zwei Berner untergebracht wurden; s. <bibl>HBBW</bibl> XIX 173,13.</note> apud Abbatiam<note xml:id="fn15" type="footnote" n="15">Gemeint ist die Fraumünsterschule.</note> tradas committasque, ut in fingendo illos summam adhibeat curam et sedulitatem, quo anno dimidio exacto, si opus fuerit, revocari atque ecclesiis pręfici possint.</s>
+					<s n="10" xml:lang="la" type="auto">Egemus enim subinde magis pastoribus bonis ac synceris.<pb type="edition" next="270"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Veniet ad te fęmina quędam Schvyttensis<note xml:id="fn16" type="footnote" n="16">Aus <placeName>Schwyz</placeName>. Ihr Name ist unbekannt.</note>, iam apud nos in urbe agens, cognata d. ammani <foreign xml:lang="de">Dietrichs Under der Halden,</foreign> cui nomine meo operam tuam impendas velim adiuncto tibi iunckherr <persName>Iacoben Rordorf</persName><note xml:id="fn18" type="footnote" n="18"><persName>Jakob Rordorf</persName>, Zürcher Ratsherr, von 1540 bis 1545 Schaffner in <placeName>Küsnacht</placeName>. Kilchmeyer wird ihn von seiner <placeName>Küsnachter</placeName> Zeit her gut gekannt haben; vgl. <bibl>HBBW</bibl> III 137, Anm. 1.</note> in negotio, quod ipsa tibi declarabit.</s>
+					<s n="12" xml:lang="la" type="auto">Honesta est, pudica tantęque laudis, ut, si res eius vel parum successerint foeliciter, recipiatur in coniugium honesti civis<note xml:id="fn19" type="footnote" n="19">Unbekannt.</note>, qui et magnę apud nos autoritatis est.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Superioribus diebus, quibus in perlustrandis classibus unam cum nobili viro <persName>Claudio a Maiis</persName><note xml:id="fn20" type="footnote" n="20"><persName>Glado May</persName>, Ratsherr in Bern.</note> legatum egi, scripsi ex Brugis ad venerabilem virum scholiarcham, compatrem meum, dominum <persName ref="p8423">Ioanem Iacobum Ammianum</persName><note xml:id="fn23" type="footnote" n="23"><persName>Johann Jakob Ammann</persName>, Zürcher Schulherr.</note>, ut maior cura post hac adhibeatur in nostros studiosos missis 12 coronatis.<note xml:id="fn24" type="footnote" n="24">Vermutlich für die Pensionen der Berner Studenten.</note></s>
+					<s n="14" xml:lang="la" type="auto">An literę cum coronatis ad eum pervenerint, hactenus me latuit.</s>
+					<s n="15" xml:lang="la" type="auto">Fac igitur me cerciorem de hoc et aliis novis, quorum me scis cupidum quam qui maxime, et vide, ne in oblivionem abeam dominorum nostrorum <placeName>Tigurinorum</placeName>.</s>
+					<s n="16" xml:lang="la" type="auto"><placeName>Bernę</placeName> enim, ni deo aliud fuerit visum, nusquam moriar, tuumque erit curare, ut d. <persName>Ioannes Hallerus</persName> in locum meum restituatur!<pb type="edition" next="271"/></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Vale in domino semper cum uxore<note xml:id="fn26" type="footnote" n="26"><persName>Anna, geb. Adlischwyler</persName>.</note> et familia omni, meque ut fratrem tuum ama semper pręcibusque tuis domino deo commenda.</s>
+					<s n="18" xml:lang="la" type="auto">Valere iubeo d. <persName>Rudolfum Gwaltherum</persName>, a quo nuper et literas<note xml:id="fn27" type="footnote" n="27">Laut <bibl>Rüetschi, <persName>Gwalthers</persName> BW</bibl> I/1 nicht erhalten. - Vielleicht wurden bei Kilchmeyer Zürcher Knaben untergebracht, die in <placeName>Bern</placeName> zur Schule gingen; vgl. nämlich <bibl>HBBW</bibl> XIX 219,43-48.</note> et pecunias accepi.</s>
+					<s n="19" xml:lang="la" type="auto">Salutabisque nomine meo d. <persName>Bibliandrum</persName>, <persName>Pellicanum</persName>, <persName ref="p4321">Buchterum</persName><note xml:id="fn28" type="footnote" n="28"><persName>Heinrich Buchter</persName>.</note>, Ammianum, <persName>Frysium</persName><note xml:id="fn29" type="footnote" n="29"><persName>Johannes Fries</persName>.</note> atque collegium Christi universum.</s>
+					<s n="20" xml:lang="la" type="auto">Iterum vale!</s>
+					<s n="21" xml:lang="de" type="auto"><placeName>Bernę</placeName>, 2. iulii anno 1547.</s>
+					<s n="22" xml:lang="la" type="auto">Iodocus Kilchmeyerus totus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="23" xml:lang="la" type="auto">Ornatissimo viro domino m. Heynricho Bullingero, <placeName>Tiguri</placeName> apud pręposituram<note xml:id="fn30" type="footnote" n="30">Das Großmünsterstift.</note> concionatori vigilantissimo fratrique suo modis omnibus observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

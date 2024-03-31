@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10573" type="Brief" source="HBBW" n="537">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, 27. [Februar] 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus et pax Christi.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Iterum atque etiam experiris, mi Bullingere, suavissime frater, quam sim stupido et oblivioso ingenio: quorsum enim, quod nuper tam constanter scripsi me tibi remittere consilia<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file10570">Nr. 534</ref>, 11.</note>, cum ipsa servaverim domi?</s>
+					<s n="3" xml:lang="la" type="auto">Ergo si tibet, mendacii me accusa, quanquam mendatium purgaturus sim ignorantia, quę innata est mihi homini misero.</s>
+					<s n="4" xml:lang="la" type="auto">Sed iam praesto, quod pollicebar nuper, nisi iterum excidat, quominus addam literis consilia.</s>
+					<s n="5" xml:lang="la" type="auto">Hoc ne fiat, e naso nodum faciam<note xml:id="fn3" type="footnote" n="3">scherzhaft für: sich etwas merken (wofür sonst der Knoten im Taschentuch üblich ist), vgl. <bibl>Wander</bibl> II 1441: <bibl>Röhrich</bibl> II 677. I 521.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto"><pb type="edition" next="120"/>Deinde ad te mitto responsionem <persName ref="p18198">Buceri</persName> ad nos priorem<note xml:id="fn4" type="footnote" n="4">Gemeint ist <persName>Bucers</persName> Brief vom 3. Februar an <persName>Thomas Blarer</persName> und <persName>Johannes Zwick</persName>, vgl. oben <ref target="file10570">Nr. 534</ref>, 7f. Die Abschrift (vgl. unten Z. 33-35) scheint nicht mehr erhalten zu sein.</note>, sed nosti, qua lege, scilicet bonę fidei.</s>
+					<s n="7" xml:lang="la" type="auto">Nob enim, quisquam alius legat, cum non omnes sint aequo animo neque irritanda sunt magis atque magis ingenia quorundam.</s>
+					<s n="8" xml:lang="la" type="auto">Fingendum esset quid potius, quo placarentur.</s>
+					<s n="9" xml:lang="la" type="auto">Proinde non omnes cauti sunt in scribendis literis ad amicos.</s>
+					<s n="10" xml:lang="la" type="auto">Hinc miscentur vel odiosissima, quaeque non nisi in sinum effusa sunt.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><persName>Thomas</persName><note xml:id="fn5" type="footnote" n="5"><persName>Thomas Blarer</persName>.</note> noster <persName ref="p18198">Bucerum</persName> deprehendit apud <persName>Ambrosium</persName><note xml:id="fn6" type="footnote" n="6"><persName>Ambrosius Blarer</persName>. Zur Begegnung von <persName>Thomas Blarer</persName> und <persName>Bucer</persName> in <placeName>Tübingen</placeName> vgl. oben <ref target="file10562">Nr. 526</ref>, Anm. 8.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Egit cum illo multis et strenue.</s>
+					<s n="13" xml:lang="la" type="auto">Quid responsi adtulerit nobis, uno verbo dicam: Dolet hoc unum <persName ref="p18198">Bucero</persName> nos <placeName>Constantienses</placeName> tam offensos esse consilio suo.</s>
+					<s n="14" xml:lang="la" type="auto"><pb type="scan" next="||20"/>Verum an persuasum sit optimo viro huius modi conatus esse periculosos et parum solidos, non intelligo.</s>
+					<s n="15" xml:lang="la" type="auto">Omnino putat se nihil dedisse a scriptura alienum.</s>
+					<s n="16" xml:lang="la" type="auto">Sed quid dicam?</s>
+					<s n="17" xml:lang="la" type="auto">Articulorum summa circumfertur typis excusa<note xml:id="fn7" type="footnote" n="7">Ein solcher Druck ließ sich bisher nicht nachweisen. Vgl. unten <ref target="file10661">Nr. 623</ref>, Anm. 57.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Quidam blandiuntur, quidam frendunt, et nemo est, qui non summę levitatis nos insimulet.</s>
+					<s n="19" xml:lang="la" type="auto">Egregie confirmabuntur sectę; <persName>Schwenckfeldio</persName> duplex cor nascetur, si modo non multi quoque Monasteriensibus accessuri sunt.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Tuum consilium iuncto <persName>Pellicani</persName> summe placet nostris omnibus.</s>
+					<s n="21" xml:lang="la" type="auto">Quodsi vobis non ingratam rem fecissem, certe misissem <persName>Ambrosio</persName>, sed nolui sine venia.</s>
+					<s n="22" xml:lang="la" type="auto">Unum vero optaremus, ut per vos quoque scriberetur <persName ref="p18198">Bucero</persName> negotium fieri a vestris propter consilia Gallo data<note xml:id="fn8" type="footnote" n="8">Bullinger äußerte seine Kritik an den Gutachten von <persName>Bucer</persName> und <persName>Melanchthon</persName> in seinem Brief an <persName>Bucer</persName> vom 28. März, s. unten <ref target="file10598">Nr. 562</ref>, 104-138.</note>, ne putaret bonus vir nobis tantum<placeName>Constantiensibus</placeName> hęc minime probari.</s>
+					<s n="23" xml:lang="la" type="auto">Cavendum vero, ne ex vestris literis - quas communi nomine scribendas censemus - quicquam suspicari posset de monitione nostra.</s>
+					<s n="24" xml:lang="la" type="auto">Abstinendum esset ab omni mentione nostrarum literarum, imo nominis nostri.</s>
+					<s n="25" xml:lang="la" type="auto">Possent quoque mitti consilia vestra, quo magis intelligeret, quae vestra in hisce concordiis sententia, atque hinc forte minus pergeret in instituto.</s>
+					<s n="26" xml:lang="la" type="auto">Speramus vos ita facturos.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto"><pb type="scan" next="||21"/>Responsio, quam mitto, per pueros descripta parum cohaeret, sed litterae A B C etc. indicabunt ordinem.</s>
+					<s n="28" xml:lang="la" type="auto">Aliis quoque erroribus dabis veniam, neque enim relegi neque cum archetypo contuli.</s>
+					<s n="29" xml:lang="la" type="auto">Facile deprehendetis mentem.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Quicquid vero tibi boni incident ad hanc concordiam confutandam, cave, ne me lateat.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Servet te servator cum tota familia omnibusque fratribus.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="de" type="auto">27. septembris 1535.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Tuus atque iterum tuus Io. Z.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf S. 22:]</note>
+					<s n="34" xml:lang="la" type="auto">Domino Hainricho Bullingero, selectissimo meo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

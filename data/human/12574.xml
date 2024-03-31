@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12574" type="Brief" source="HBBW" n="2527">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Leonhard Serin (Soerinus) / Ulm AN Heinrich Bullinger, 5. August 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem in domino.</s>
+					<s n="2" xml:lang="la" type="auto">Literas ad me 18. iunii datas<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, doctissime Bullingere, per Vilhelmum<note xml:id="fn2" type="footnote" n="2"><persName>Wilhelm Reublin</persName>, der als Täufer Zürich im Jahr 1525 verlassen musste und seit 1531 in Znaim nachgewiesen ist; s. <hi>HBBWV</hi> 316, Anm. 1; XV 458, Anm. 16 (mit neuer Lit.).</note> accepi non sine magna admiratione, quod ad tam tumultuarium aspernandumque epistolium<note xml:id="fn3" type="footnote" n="3"><persName>Serins</persName> Brief an Bullinger vom 13. Mai 1546 <hi>(HBBW</hi> XVI, <ref target="file12494">Nr. 2447</ref>).</note> tam graviter dignatus sis rescribere.</s>
+					<s n="3" xml:lang="la" type="auto">Sed ita oportuit, quo certius charitatis et humilitatis in te argumentum haberem.</s>
+					<s n="4" xml:lang="la" type="auto">Quod autem mentionem facis meę gratitudinis, quam ego non agnosco, visus mihi es studio pręoccupare voluisse, ne quando (quas debeo) gratias agerem.</s>
+					<s n="5" xml:lang="la" type="auto">Si vero tibi hac in re satisfeci, certe mihi minime satisfeci.</s>
+					<s n="6" xml:lang="la" type="auto">Non adulor, Bullingere!</s>
+					<s n="7" xml:lang="la" type="auto">Non enim, ut ipse recte iudicasti, numarium pretium doni tui estimavi, sed donantis animum et rem ipsam, quam exiguum illud donum secum fert, pręterea etiam suspiciendam in te, viro tanto (absit verbo foeda palpatio), facilitatem, qua me in tuorum gregem recepto mox ita familiariter mecum agere cępisti idque ita profecto, ut tradito epistolio<note xml:id="fn5" type="footnote" n="5"><persName>Serins</persName> Brief vom 13. Mai.</note> facti me poenituerit, quod tam leviter attigissem, quę sine magno dedecore omitti<pb type="edition" next="283"/> non poterant in ea epistola, quam tibi proxime post tuam primam<note xml:id="fn6" type="footnote" n="6">Bullingers Brief vom 18. September <hi>1545 (HBBW</hi> XV, <ref target="file12293">Nr. 2246</ref>).</note> acceptam rescripsi.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Sed postquam huc ventum est, eiusmodi nunc missa<note xml:id="fn7" type="footnote" n="7">Den vorliegenden Brief.</note> faciam.</s>
+					<s n="9" xml:lang="la" type="auto">Nec enim epistola illa tua prima (quod valde doleo) ad manus tum<note xml:id="fn8" type="footnote" n="8">Als <persName>Serin</persName> seinen Brief vom 13. Mai schrieb.</note> fuit, nec adhuc est, ut ordine ad singula rescribere possem.</s>
+					<s n="10" xml:lang="la" type="auto">Oportuit enim eam me persecutum cum reliqua suppellectile aliis relinquere, nec scio, an unquam sim recepturus.</s>
+					<s n="11" xml:lang="la" type="auto">Porro, inter cętera hoc etiam nomine doleo epistolam tuam mihi esse interceptam, quod singulorum nomina<note xml:id="fn9" type="footnote" n="9">Siehe dazu <bibl>HBBW</bibl> XV 534,68-71.</note>, qui me singuli salutarunt, non teneo, ut nominatim a me resalutarentur.</s>
+					<s n="12" xml:lang="la" type="auto">Deinde miror, Bullingere, quid tibi velis, quod pro beneficio habere te scribis<note xml:id="fn10" type="footnote" n="10">Im nicht erhaltenen Brief Bullingers vom 18. Juni.</note> ad tuas<note xml:id="fn11" type="footnote" n="11">Bullingers Brief vom 18. September 1545.</note> me respondisse<note xml:id="fn12" type="footnote" n="12">Mit <persName>Serins</persName> Brief vom 13. Mai 1546.</note>, quasi vero non potius ego pro beneficio ducere debeam, quod tu meas ita benigne excipis audaciamque meam, qua te compello, imo et sancta eximiaque tua negotia interpello, boni consulis.</s>
+					<s n="13" xml:lang="la" type="auto">Non debeas ita me antevertere, nisi voluisses hac ratione me mei admonere officii ac ad debitum pręstandum sic civiliter provocare.</s>
+					<s n="14" xml:lang="la" type="auto">Sed scio te id genus nihil querere.</s>
+					<s n="15" xml:lang="la" type="auto">Malo igitur tibi habere quam agere gratias pręsertim pro sponte oblata tua opera studioque mihi commodandi professo.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="16" xml:lang="la" type="auto">De rebus meis, ut se habeant, adhuc nihil peculiare habeo tibi, ut cupis, significandum, nisi quod hic non satis quidem idoneus et dignus in ministerium verbi et eorum, quae hoc habet annexa, id est sacramentorum, etc., inauguratus mihi concredito<pb type="scan" next="58"/> talento<note xml:id="fn13" type="footnote" n="13">Anspielung auf das Gleichnis in Mt 25, 14-30.</note> nonnihil domino lucrari studeo pro mea tenuitate.</s>
+					<s n="17" xml:lang="la" type="auto">Dominus laboribus aspiret et omnes suos ab opinionibus frivolis et novis pręservet, sicut tu pie recteque adnitendum mones et precari videris mihi, ob id tibi gratias agenti.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Hęc ad tuam proximam<note xml:id="fn14" type="footnote" n="14">Bullingers nicht erhaltener Brief.</note> rescribenda duxi, quandoquidem ita vis, ut mutuo sibi iunctis animis non desinamus porro amicis invicem literis salutare, licet ego ex animo me hac vicissitudine cum imparem tum indignum ingenue iudicem et agnoscam.</s>
+					<s n="19" xml:lang="la" type="auto">Hęc<note xml:id="fn15" type="footnote" n="15">Vorliegender Brief.</note> igitur eo tantum dare libuit, ne parum gratam et iucundam mihi fuisse hanc tuam humanissimam provocationem putares.</s>
+					<s n="20" xml:lang="la" type="auto">Sed nunc ad alia.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="21" xml:lang="la" type="auto">Cives vestri duo,<note xml:id="fn16" type="footnote" n="16"><persName>Meinrat Oggenfuß</persName> und <persName>Hans Hug</persName>; s. <ref target="file12573">Nr. 2526</ref>, Anm. 2.</note> quos secum adduxit Vilhelmus, dies aliquot hic hęserunt propter improvisos illos tumultus imminentiaque pericula,<note xml:id="fn17" type="footnote" n="17">Gemeint sind die Gefahren vor Ausbruch des Schmalkaldischen Kriegs.</note> deliberantes de peregrinatione in <placeName>Moraviam</placeName> suscepta.</s>
+					<s n="22" xml:lang="la" type="auto">Tandem navi conscensa<pb type="edition" next="284"/> perrexerunt.</s>
+					<s n="23" xml:lang="la" type="auto">Dominus eos feliciter reducat!</s>
+					<s n="24" xml:lang="la" type="auto">Ego 14. iulii Znoymam<note xml:id="fn18" type="footnote" n="18">Znaim (Znoimo), <placeName>Mähren (CZ)</placeName>.</note> scripsi Vilhelmo per illius civitatis accolam quendam<note xml:id="fn19" type="footnote" n="19">Unbekannter Einwohner von Znaim.</note> (cui amplius navigio descendere eo non licuit), illos moneret, ne redirent, nisi prius ex tabellario illo didicissent, quam tutus esset ubique transitus et qua via quam securissime possent redire.</s>
+					<s n="25" xml:lang="la" type="auto">Quinta huius<note xml:id="fn20" type="footnote" n="20">Am 5. August. -Ausgerechnet an diesem Tag aber waren die zwei Zürcher bereits in <placeName>Augsburg</placeName>, was <persName>Serin</persName> nicht wissen konnte; s. <persName>Johannes Hallers</persName> Brief <ref target="file12573">Nr. 2526</ref>,1f.</note> iterum Znoymam scripsi meis, inter cętera et de his bonis viris mihi rescribi iubens, et circiter huius mensis finem responsum me habiturum non dubito.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="26" xml:lang="la" type="auto">Si quando scribis ad <persName>Hallerum</persName> vestrum nunc <placeName>Augustę</placeName> agentem, huic me sedulo commendes, amanter oro, ac ut deinceps me illi commendatum esse tua authoritate intelligam; id quoquo velit modo, eum curare iube.</s>
+					<s n="27" xml:lang="la" type="auto">Deinde etiam fratribus omnibus, qui tecum sunt, me diligenter commendare singulisque quam officiosissime ex me salutem dicere velis, plurimum rogo.</s>
+					<s n="28" xml:lang="la" type="auto">Imprimis autem d. <persName>Chunrado Pellicano</persName>, viro spectabilissimo, nunciabis me etiam in eorum esse numero, magno profecto, qui gratias illi agunt ingentes pro susceptis pręclaris arduisque laboribus in concinnandis in biblia sacra commentariis.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="29" xml:lang="la" type="auto">Libellum<note xml:id="fn22" type="footnote" n="22">Siehe dazu oben Anm. 4.</note> (de quo in capite huius epistolę) in Bohemica <placeName>Moravia</placeName> piis doctisque obnixe flagitantibus aliquot fratribus reliqui, qui magna gratulatione mox coeperunt eum quam plurimis diligentissime commendare et quam latissime evulgare.</s>
+					<s n="30" xml:lang="la" type="auto">Et, ut spero, curabunt optimi illi fratres, precipue <persName>Benedictus Optatus</persName> inter reliquos ob donorum gratiam primas tenens, parochus Pratensis <foreign xml:lang="de">(zur Wyß)<note xml:id="fn24" type="footnote" n="24">Wiese (<placeName>Luka nad Jihiavou</placeName>, CZ).</note></foreign> prope civitatem Tryglau<note xml:id="fn25" type="footnote" n="25">Iglau (Jihlava, CZ).</note> sub ditione baronis de <placeName>Trebitsch</placeName><note xml:id="fn26" type="footnote" n="26"><persName>Jan z Pernstejna (Johann von Pernstein)</persName>, geb. 1487, gest. 1548, Besitzer der Herrschaft Trebitsch, Landeshauptmann von <placeName>Mähren</placeName> und Pfandherr der Grafschaft Glatz.</note>, ut in Bohemicam etiam vertatur linguam, quę nimium favet antilogiis<note xml:id="fn27" type="footnote" n="27">Gemeint ist, dass die Übersetzung und Veröffentlichung der "Orthodoxa confessio" für die Widerlegung falscher Lehren (sowohl der Katholiken als auch der Lutheraner) nützlich wäre.</note>; nam et Bohemicam et Germanicam perinde illi apprimeque callent.<pb type="edition" next="285"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="31" xml:lang="la" type="auto">Bene vale in domino Iesu cum fratribus omnibus, symmystis precipue, quos ex animo salvere iubeo.</s>
+					<s n="32" xml:lang="la" type="auto">Dominus vos confirmet et quam fortissimos reddat in sanctis pręclarisque vestris laboribus!<pb type="scan" next="59"/></s>
+					<s n="33" xml:lang="la" type="auto">Huius auxilio freti inconcussi pergite!</s>
+					<s n="34" xml:lang="la" type="auto">Ego eum sedulo deprecor, ne unquam frustraneos<note xml:id="fn28" type="footnote" n="28">vergeblich; s. <bibl>König</bibl> 480.</note> esse patiatur vestros pios conatus, sed ubique illis et locum et effectum concedat.</s>
+					<s n="35" xml:lang="la" type="auto">Pręterea typographo vestro <persName ref="p5295">Christophoro Froschauer</persName> significabis eum apud me merita dignaque sua laude et gratia haudquaquam frustrari propter adhibitam curam in excudendis bibliis sacris, etc.</s>
+					<s n="36" xml:lang="la" type="auto">Deinde, quoniam et ego <placeName>Bavariam</placeName> patriam agnosco diligoque, eum etiam ut conterraneum salutabis mihi, cui Neapolis castellum<note xml:id="fn29" type="footnote" n="29"><placeName>Kastl</placeName>, etwa 2 km südlich von Altötting; s. dazu Heinrich <hi>Nuber,</hi> Um <persName>Christoph Froschauers</persName> des Älteren Geburtsort, in: <bibl>Zwa</bibl> 7/4, 1940, 266-270.</note>, unde oriundus ille, bene notum est, quoniam propinquum Veteri Öttingę, ubi ego quondam hypodidascalum aliquando egi<note xml:id="fn30" type="footnote" n="30">Siehe schon <bibl>HBBW</bibl> XV 455, Anm. 1.</note>, matrem<note xml:id="fn31" type="footnote" n="31">Unbekannt.</note> habens Landeshutam.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="37" xml:lang="la" type="auto">Valete iterum omnes mei in orationibus memores.</s>
+					<s n="38" xml:lang="la" type="auto">In tumultibus illis gravissimis et periculosissimis non dubito, quin hoc argumento quasi nunc primario ad pęnitentia dignos fructus, ad orationem et divini auxilii invocationem ecclesias hortemini<note xml:id="fn32" type="footnote" n="32">Dies wurde tatsächlich in Zürich getan; s. <persName>Rudolf Gwalther</persName> an <persName>Oswald Myconius</persName>, 3. August 1546 (St. Gallen Kantonsbibliothek Vadiana, Ms 35, 171).</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="39" xml:lang="la" type="auto"><placeName>Ulmę</placeName>, 5. augusti anno, etc., 46.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="40" xml:lang="la" type="auto">Leonhartus Söerinus.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="41" xml:lang="de" type="auto">Nova.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="42" xml:lang="la" type="auto">Etiamsi de rebus ecclesiasticis et theologicis nos scribere magis deceat plusque delectet quam de bellicis et id genus aliis, me tamen gratificaturum tibi putavi propter amicos, quos procul dubio habes non paucos, si et de hisce nonnihil adderem.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="43" xml:lang="la" type="auto">Habes hic Somnium fictum <persName>Ioannis Schradini</persName><note xml:id="fn33" type="footnote" n="33"><persName>Johannes Schradin</persName> aus <placeName>Reutlingen</placeName>, der seit 1534 Stadtpfarrer seiner Heimatstadt war.</note>, ecclesię <placeName>Reutlingensis</placeName> in verbo ministri.</s>
+					<s n="44" xml:lang="la" type="auto">Titulum <persName>Piscatorius</persName><note xml:id="fn35" type="footnote" n="35">Gemeint ist <persName>Johannes Piscatorius (Fischer)</persName> aus Stein am Rhein (geb. ca. 1485, gest. 24. Juni 1565), wie aus einem Brief Martin Frechts an Vadian von Mitte Juli <hi>(Vadian BW</hi> VI 5441) hervorgeht.</note> noster fecit.</s>
+					<s n="45" xml:lang="la" type="auto">Adnotationes marginarię<pb type="edition" next="286"/> sunt doctoris Nicolai Francisci <persName>Statii</persName><note xml:id="fn36" type="footnote" n="36"><persName>Nikolaus Franz Statius</persName>. - Näheres nicht ermittelt.</note>, syndici Monasteriensis, etc., legati electoris Coloniensis<note xml:id="fn37" type="footnote" n="37"><persName>Hermann von Wied</persName>.</note>, etc., in comitia hęc <placeName>Ratisponensia</placeName>.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="46" xml:lang="la" type="auto">Hisce diebus ex officina nostra Varnyriana<note xml:id="fn38" type="footnote" n="38">Die Druckeroffizin des <persName>Hans Varnier d.Ä.</persName>s. <bibl>Reske</bibl> 934f.</note> prodibit Apologia electoris Saxonis<note xml:id="fn39" type="footnote" n="39"><persName>Johann Friedrich I. von Sachsen</persName>.</note> et <placeName>Cattorum</placeName> principis <persName>Philippi</persName><note xml:id="fn40" type="footnote" n="40">Landgraf <persName>Philipp von Hessen</persName>.</note>, qua perduellionis crimen falso sibi obiici testantur et demonstrant, etc.</s>
+					<s n="47" xml:lang="la" type="auto">Sed quum hęc secundo iam sint ędita, volui expectare putans te pridem fortasse iam vidisse vel ipso <persName>Hallero</persName> procurante.</s>
+				</p>
+			</div>
+			<div xml:id="div16" corresp="regest16">
+				<p>
+					<s n="48" xml:lang="la" type="auto"><persName ref="p5074">Frechtus</persName> noster Dillingam et ad alia diocesis <placeName>Augustanę</placeName> loca ad predicandum evangelium et instituendas ecclesias a magistratu nostro missus est.</s>
+				</p>
+			</div>
+			<div xml:id="div17" corresp="regest17">
+				<p>
+					<s n="49" xml:lang="la" type="auto"><persName>Ioannes Piscatorius</persName> concionator castrensis<note xml:id="fn43" type="footnote" n="43">concionator castrensis: Feldprediger.</note> factus est et ad salarium (quod amplum profecto habet de conditione, cui in urbe<note xml:id="fn44" type="footnote" n="44">Im Februar 1546 wurde <persName>Piscatorius</persName> in <placeName>Ulm</placeName> angestellt; s. Friedrich <hi>Keidel,</hi> Johannes Piskatorius, in: <bibl>BWKG</bibl> 6, 1902, 166-168.</note> pręfectus est et cui gratis satisfacere nos oportebit, donec ille foelix, quod deus faxit, redierit) singulis mensibus aurei Rhenani addentur 24.</s>
+					<s n="50" xml:lang="la" type="auto">Filio<note xml:id="fn45" type="footnote" n="45">Unbekannt.</note>, quem famuli loco secum duxit, dabuntur 4, et uterque pedes est.</s>
+				</p>
+				<p>
+					<s n="51" xml:lang="la" type="auto">Hoc die aut certe crastino Saxo elector et Cattus simul in propria, ut dicitur, persona ad exercitum nostrum Suevicum in <placeName>Donauwert</placeName> collectum<note xml:id="fn46" type="footnote" n="46">Siehe dazu die Beschreibung des Augenzeugen <persName>Hans Vogler</persName> im Brief <ref target="file12578">Nr. 2531</ref>.</note> (qui 55 vexilla habere fertur) venient sequentibus militibus 24000 peditibus et 6000 equitibus, inter<pb type="scan" next="60"/> quos certo scribunt esse 24 comites principes <foreign xml:lang="de">(gefürst grafen)</foreign> preter reliquos comites et barones multos canos et quam<pb type="edition" next="287"/> gravissimos<note xml:id="fn47" type="footnote" n="47">Zu den Namen einiger dieser Fürsten und Feldherren s. <ref target="file12571">Nr. 2524</ref>,35-40; <ref target="file12578">Nr. 2531</ref>,10-16; <ref target="file12580">Nr. 2533</ref>,6-11; <ref target="file12585">Nr. 2538</ref>,91-97.</note>.</s>
+					<s n="52" xml:lang="la" type="auto">Hos omnes ibidem excipiet dux <persName>Wirtembergensis</persName>.</s>
+					<s n="53" xml:lang="la" type="auto">Sunt, qui etiam mox adfuturum dicunt comitem Palatinum electorem<note xml:id="fn49" type="footnote" n="49"><persName>Friedrich II. von der Pfalz</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="54" xml:lang="la" type="auto">Aiunt caesarem<note xml:id="fn50" type="footnote" n="50"><persName>Karl V.</persName></note> secum habere <placeName>Ratisponę</placeName> 4 vexilla militum Germanorum, quos sacramento adigere non potest, quandoquidem contra patriam Germaniam bellum institutum esse intellexerunt.</s>
+					<s n="55" xml:lang="la" type="auto">Idem etiam de multis aliis ferunt.</s>
+				</p>
+				<p>
+					<s n="56" xml:lang="la" type="auto">Dirimat dominus Sebaoth<note xml:id="fn51" type="footnote" n="51">Siehe dazu <ref target="file12552">Nr. 2505</ref>, Anm. 41.</note> pręlia, ne tam multa ledantur corpora et animę intereant.</s>
+					<s n="57" xml:lang="de" type="auto">Amen, amen.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="58" xml:lang="la" type="auto">Clarissimo viro d. Heynrycho Bullingero, Tigurinorum ecclesię episcopo dignissimo ac de omnibus theologię candidatis optime merito, preceptori ac fratri suo in Christo domino dilecto plurimumque observando.</s>
+					<s n="59" xml:lang="de" type="auto">Zürch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

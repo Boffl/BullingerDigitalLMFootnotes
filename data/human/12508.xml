@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12508" type="Brief" source="HBBW" n="2461">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Felix Schmid AN Heinrich Bullinger, 14. Juli 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnäd und frid duͦrch Christum Jhesum, unsernn herenn.</s>
+					<s n="2" xml:lang="de" type="auto">Amen.</s>
+					<s n="3" xml:lang="de" type="auto">Würdiger, wol und höchgelerter her maister Hainrich, min schriben nit sunders, dann<note xml:id="fn2" type="footnote" n="2">nit sunders, dann: nur um [mitzuteilen], dass.</note> ich hab üwer schriben empfangen und getrüw gemütt vernommen, und kan<pb type="edition" next="90"/> gedencken, das im also ist,<note xml:id="fn4" type="footnote" n="4">das im also ist: dass es sich so verhält.</note> wie ier schribend.</s>
+					<s n="4" xml:lang="de" type="auto">Dann es laider hür zuͦ jar<note xml:id="fn5" type="footnote" n="5">Die Bedeutung von "hür zu jar" ist ungewiss. Vielleicht im Sinne von: heutzutage.</note> schier allenthalb<note xml:id="fn6" type="footnote" n="6">schier allenthalb: fast überall.</note> die mainüg hät<note xml:id="fn7" type="footnote" n="7">die mainüg hät: die Ansicht herrscht.</note>, und der mangel ist, wie ier schribend.</s>
+					<s n="5" xml:lang="de" type="auto">Gott, der well es duͦrch sin hilff und gnäd bald besserenn.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="de" type="auto">Nüt dest weniger sag ich uich<note xml:id="fn8" type="footnote" n="8">euch.</note> früntlichen flissigen danck üwers günstigen, genaigten und guͦtten willens mit begär, semlichs<note xml:id="fn9" type="footnote" n="9">dies.</note> zuͦ verdienen<note xml:id="fn10" type="footnote" n="10">erwidern.</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Damit sind demm trüwen gott zuͦ gnaden befolhen.</s>
+					<s n="8" xml:lang="de" type="auto">In yl, uff 14. iunii 1546.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Uwer williger diener <persName>Felix Schmid</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="10" xml:lang="de" type="auto">Dem würdigen, wolgelertten heren maister Hainrich Bullinger, predicant Zürich, minem gnädigen herenn zuͦ handen.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

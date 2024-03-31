@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10344" type="Brief" source="HBBW" n="313">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 3. Januar 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Scripsi non multis ante diebus<note xml:id="fn1" type="footnote" n="1">Ein vor wenigen Tagen verfaßtes Schreiben Bullingers an <persName>Vadian</persName> ist nicht erhalten; der letzte vorangehende Brief ist vom 21. September 1533 (<bibl>HBBW</bibl> III, <ref target="file10294">Nr. 263</ref>).</note> <placeName>Constantiam</placeName> nos adiisse<note xml:id="fn2" type="footnote" n="2">Bullinger weilte mit <persName>Konrad Pellikan</persName>, <persName>Heinrich Utinger</persName> und <persName>Werner Steiner</persName> zwischen dem 5. und 11. Oktober 1533 in <placeName>Konstanz</placeName>, wo er sich mit <persName>Ambrosius Blarer</persName> und andern <placeName>Konstanzer</placeName> Geistlichen beriet, s. <bibl>HBBW</bibl> III <ref target="file10310">[Nr. 279]</ref> 220, Anm. 15.18 und 238, Anm. 7.</note> consultandi de unitate ecclesiae contra schismaticos gratia.</s>
+					<s n="3" xml:lang="la" type="auto">Periculum enim esse, ne brevi incendium per Germaniae ecclesias maximum a schismaticis quibusdam suscitetur, qui Donatistarum et Novati [!] revocantes haeresim ecclesiae alias afflictae satis multum sint incommodaturi.</s>
+					<s n="4" xml:lang="la" type="auto">Nec fefellit opinio.</s>
+					<s n="5" xml:lang="la" type="auto">Nam superiore prioris anni mense scribit <persName ref="p18198">Bucerus</persName> Monasterium Westphaliae, quod pulchre evangelicum receperat dogma, misere nunc tumultari[!].</s>
+					<s n="6" xml:lang="la" type="manual">Omnia<pb type="edition" next="34"/> enim urbis templa esse claussa excepto uno, in quo VI populi fretus declamet insignis quidam Hoffmannicae sectae<note xml:id="fn5" type="footnote" n="5">Die nach <persName>Melchior Hoffman</persName> «Melchioriten» benannte Partei der Täufer.</note> discipulus<note xml:id="fn6" type="footnote" n="6">Gemeint ist <persName>Bernhard Rothmann</persName>, s. Robert <hi>Stupperich,</hi> in: RGG V 1200; Die Schriften <persName>Bernhard Rothmanns</persName>, bearb. v. Robert Stupperich, <placeName>Münster in Westfalen</placeName> 1970. - Veröffentlichungen der Historischen Kommission Westfalens XXXII, s. bes. Einleitung S. XIX. 46f, Anm. 2; <bibl>Deppermann</bibl> 296-302 (Kapitel: «<persName>Hoffmans</persName> Bedeutung für die Theologie <persName>Bernhard Rothmanns</persName>»).</note> adversus sancti senatus et omnium piorum consensum, esseque huius turbae authorem<note xml:id="fn7" type="footnote" n="7">Vgl. <persName>Bucer</persName> an <persName>Ambrosius Blarer</persName>, 16.November 1533 (<bibl>Blarer BW</bibl> I 442f) und oben Anm. 4.</note> Svenckfeldium, qui primus hoc virus, sed clanculo, quibusdam propinavit, qui nunc omnia simulans et dissimulans <placeName>Augustae</placeName> agat.</s>
+					<s n="7" xml:lang="la" type="auto">Vereor autem, ne et ibi aliquid monstri alat.</s>
+					<s n="8" xml:lang="la" type="auto">Certe <persName>Blaurerus</persName> admodum conquaeritur<note xml:id="fn9" type="footnote" n="9">Vgl. <persName>Ambrosius Blarer</persName> an Bullinger, 2. Dezember 1533 (<bibl>HBBW III</bibl> <ref target="file10322">[Nr. 291]</ref> 238f, 17-44).</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Dogmata hominis forsan nosti, evangelium hactenus non esse praedicatum vere, hactenus nullam esse collectam ecclesiam, ecclesiam nostram nihil aliud esse quam tyrannidem, ut quae armis et aedictis senatorum nitatur, in ecclesia nullum esse gladium, populum enim ecclesiasticum esse spontaneum, sectas non esse extinguendas.</s>
+					<s n="10" xml:lang="la" type="auto">Catabaptizmum et catabaptistas non omnino improbat.</s>
+					<s n="11" xml:lang="la" type="auto"><persName>Hoffmanni</persName> dogma de carne Christi coelitus delata primus invenit, etsi iam dissimulet<note xml:id="fn10" type="footnote" n="10">Vgl. <bibl>Deppermann</bibl> 186-191 (Kapitel «<persName>Schwenckfeld</persName> und <persName>Hoffman</persName>»).</note>.</s>
+					<s n="12" xml:lang="la" type="auto"><pb type="edition" next="35"/>Vidi tamen literas <persName ref="p2305">Leoni</persName> nostro scriptas<note xml:id="fn11" type="footnote" n="11"><persName>Kaspar Schwenckfeld</persName> an <persName ref="p6796">Leo Jud</persName>, 3. März 1533 (<bibl>CSch</bibl> IV 747-771), 5. Juli 1533 (<bibl>CSch</bibl> IV 801-811) und 10. September 1533 (<bibl>CSch</bibl> IV 824-843); vgl. <bibl>HBBW</bibl> III <ref target="file10331">Nr. 300</ref> und <ref target="file10332">301</ref>; <bibl>Fast</bibl> 33f. 44.</note>, in quibus asserit.</s>
+					<s n="13" xml:lang="la" type="auto">Multa sunt illius hominis impia et seditiosa dogmata, quibus <persName ref="p2305">Leonem</persName> - tibi dictum putato - adeo turbarat, ut et illa non modica causa fuerit, quod <placeName>Constantiam</placeName> ierim.</s>
+					<s n="14" xml:lang="la" type="auto">Sed sibi, deo laus, restitutus <persName ref="p2305">Leo</persName>.</s>
+					<s n="15" xml:lang="la" type="auto">Post acerrimam <persName>Schvenckfeldi</persName> increpationem ad finem epistolae tandem adiecit: «Quia te spiritu Satanae agi video, iam tibi extremum vale dico»<note xml:id="fn12" type="footnote" n="12">Zitiert aus <persName ref="p6796">Leo Juds</persName> Brief an <persName>Kaspar Schwenckfeld</persName> vom 25. Dezember 1533, der nicht erhalten ist, vgl. <bibl>CSch</bibl> V 4-6 sowie unten S. 82, 21-23.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Miror ego, quomodo versutus ille daemon se magnorum amicitiis virorum insinuare possit.</s>
+					<s n="17" xml:lang="la" type="auto">Hominem ex facie non novi.</s>
+					<s n="18" xml:lang="la" type="auto">Multas eius epistolas ad<pb type="scan" next="||23v."/> <persName ref="p2305">Leonem</persName> et <persName>Carolstadium</persName> legi<note xml:id="fn13" type="footnote" n="13">Die Briefe <persName>Schwenckfelds</persName> an <persName>Andreas Karlstadt</persName> sind verloren, s. <bibl>CSch</bibl> IV 899.</note>, quem utinam sibi non tam haberet familiarem!</s>
+					<s n="19" xml:lang="la" type="auto">Saepe me salutavit literis<note xml:id="fn14" type="footnote" n="14">In den Briefen an <persName ref="p6796">Leo Jud</persName> (Anm. 11) finden sich nur allgemeine Grüße an die Mitbrüder, namentliche an Bullinger müßten demnach in jenen an <persName>Karlstadt</persName> (Anm. 13) gestanden haben.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Ego vero hominis, utpote cuius ingenium mihi semper fuit suspectissimum, detrectavi amicitiam, quam semper timui exitialem fore aliquando viris bonis.</s>
+					<s n="21" xml:lang="la" type="auto">Nec video, quid vel <persName>Zieglero</persName> vel <persName>Ioanni Sapido</persName> contulerit.</s>
+					<s n="22" xml:lang="la" type="auto">Certe si<pb type="edition" next="36"/> verum est, quod audio, profecto doleo tantos viros tam turpiter et foede commaculari.</s>
+					<s n="23" xml:lang="la" type="auto">Nec <persName>Sebast[ianus] Francus</persName> hanc picem nisi probe commaculatus deseret.</s>
+					<s n="24" xml:lang="la" type="auto">Haec vero maximo cum dolore scribo.</s>
+					<s n="25" xml:lang="la" type="auto">Misere alias quatitur tentationibus ecclesia, ut hoc dissidio careret, nisi quosdam spiritus ageret factionis et superbiae.</s>
+					<s n="26" xml:lang="la" type="auto">Verum ita nobis vivis exemplis ob oculos revocat dominus veterem ecclesiae historiam, qui et tentationi procul dubio faelicem dabit eventum.</s>
+					<s n="27" xml:lang="la" type="auto">Tu curaveris, <persName>Vadiane</persName> vigilantissime, ne <persName>Dominicus</persName> noster,<pb type="edition" next="37"/> ad factiones natus et caput intricatissimum, hisce gerris et impostorum tricis prorsus illaqueetur.</s>
+					<s n="28" xml:lang="la" type="auto">Periculum timeo, nihil certi scio.</s>
+					<s n="29" xml:lang="la" type="auto">Svenckfeldius frequens et impudens est in scribendis literis et amicitia ambienda, maxime ubi sperat se aliquid impetraturum<note xml:id="fn19" type="footnote" n="19">Entgegen Bullingers Aussage ergriff <persName>Schwenckfeld</persName> selten solche Initiativen, sondern hielt sich an den Grundsatz, nur auf an ihn gerichtete Briefe zu antworten, s. <bibl>CSch</bibl> IV 749. V 5.</note>.</s>
+					<s n="30" xml:lang="la" type="auto">O miserum et hac parte pestiferum <placeName>Argentoratum</placeName>, quo nobis tam inauspicatae provolant aves<note xml:id="fn20" type="footnote" n="20"><placeName>Straßburgs</placeName> liberale Politik gegen Täufer und Freigeister endete mit der Juni-Synode 1533, s. <bibl>HBBW</bibl> III <ref target="file10268">[Nr. 237]</ref> 145, Anm. 8; <bibl>Fast</bibl> 43f.</note>!</s>
+					<s n="31" xml:lang="la" type="auto">Sed satis dolori indultum hactenus.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Iam quid in concordia triadis<note xml:id="fn21" type="footnote" n="21">Um die Einigkeit der drei Städte Zürich, <placeName>Bern</placeName> und <placeName>Basel</placeName> bemühten sich vor allem <persName>Oswald Myconius</persName> und der Basler Bürgermeister <persName>Jakob Meyer</persName>, s. <hi>Rudolf,</hi> Aussöhnungsversuch; <bibl>HBBW III</bibl> <ref target="file10335">Nr. 304</ref>, <ref target="file10337">306</ref> und <ref target="file10341">310</ref>.</note> sarcienda actum sit, paucis sic accipe.</s>
+					<s n="33" xml:lang="la" type="auto">Consul <placeName>Basileiensis</placeName><note xml:id="fn22" type="footnote" n="22"><persName>Jakob Meyer</persName>, s. <bibl>HBBW</bibl> III <ref target="file10335">[Nr. 304]</ref> 263, Anm. 5 und 277, Anm. 1.</note> inpraesentiarum nihil aliud postulavit, quam ut Tigurini condonent <placeName>Bernatibus</placeName>, si quid noxae aut negligentiae designarint.</s>
+					<s n="34" xml:lang="la" type="auto">Deinde comes et faciles sint, si de concordia christiana offeratur consilium.</s>
+					<s n="35" xml:lang="la" type="auto">Responsum est unanimi diacosiorum consensu: <placeName>Bernam</placeName> amamus, nec ullum nobis in eos odium.</s>
+					<s n="36" xml:lang="la" type="auto">Quodsi illi negligentius quicquam egere, condonamus facile nec recusamus audire, si quid nobis offeratur consilii etc.</s>
+					<s n="37" xml:lang="la" type="auto">Speramus ergo facile coalituros animos.</s>
+					<s n="38" xml:lang="la" type="auto">Instigavimus praeterea consulem, ne caussae foeliciter coeptae desint <placeName>Basileienses</placeName><note xml:id="fn23" type="footnote" n="23">Die wohl gegen Ende 1533 erfolgte, nicht mehr erhaltene Antwort der Zürcher an die Basler ist in einem Schreiben <placeName>Basels</placeName> an <placeName>Bern</placeName> vom 5. Januar 1534 zusammengefaßt, s. <bibl>ABaslerRef</bibl> VI 397; <bibl>EA</bibl> IV/IC 236f; s. noch <bibl>HBBW III</bibl> <ref target="file10341">Nr. 310</ref>.</note>.</s>
+					<s n="39" xml:lang="la" type="auto">Scripsimus <placeName>Bernam</placeName> per omnia sacra quosdam obtestati<note xml:id="fn24" type="footnote" n="24">Die gleichzeitige Antwort der Zürcher an die <placeName>Berner</placeName> läßt sich nicht mehr nachweisen, vgl. <bibl>HBBW</bibl> III 250, 24f und Anm. 8.</note>.</s>
+					<s n="40" xml:lang="la" type="auto">Breviter, pii quique ominantur faustissime.</s>
+					<s n="41" xml:lang="la" type="auto">Praecor ergo dominum, ut fessis rebus dexter et maturae[!] auxiliares manus admoveat.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto"><pb type="scan" next="||24r."/>De <placeName>Solodorensibus</placeName> 23. decembris sic scripsit <persName>Berchtoldus</persName><note xml:id="fn25" type="footnote" n="25"><persName>Berchtold Haller</persName> an Bullinger, 23. Dezember 1533, woraus Bullinger zusammenfassend zitiert, s. <bibl>HBBW</bibl> III 271f, 27-47.</note>: «Miseramus 4 legatos, qui caussam 8 exulum agerent et de verbi dei libertate, quemadmodum<pb type="edition" next="38"/> ipsi <placeName>Solodorenses</placeName> Helvetiorum legatis polliciti fuerant.</s>
+					<s n="43" xml:lang="la" type="auto">Sed quod liberam verbi e dei praedicationem attinebat, ne verbum quidem ex nostris audire dignabantur.</s>
+					<s n="44" xml:lang="la" type="auto">Unde legati nostri re infecta redierunt.</s>
+					<s n="45" xml:lang="la" type="auto">Interim monebamur, <placeName>Solodorenses</placeName> 14. decembris sacrificulum nephandis sacris praefecturos parrochiae <placeName>Kriegstetten</placeName><note xml:id="fn26" type="footnote" n="26">Die Ortsangabe ist ein erläuternder Zusatz Bullingers. In <placeName>Kriegstetten</placeName> (Kt. <placeName>Solothurn</placeName>) besaß <placeName>Bern</placeName> bis 1665 die hohe Gerichtsbarkeit, s. <bibl>HBLS</bibl> IV 546.</note>.</s>
+					<s n="46" xml:lang="la" type="auto"><foreign xml:lang="de">Da aber die ohren grycht dero vonn Bernn sind, und die von Solothurn selbs den handel deß gloubens malefitzisch halltend,</foreign> ilico monebantur a senatu <placeName>Solodorenses</placeName>, a <placeName>Bernatibus</placeName>, ne facerent; sed et 300 viri in agro <placeName>Bernensi</placeName> ordinati, qui armata manu resisterent temeraiis ausis, si secus fieri non posset.</s>
+					<s n="47" xml:lang="la" type="auto">Id ubi <placeName>Solodorenses</placeName> resciverunt, legatum ablegant <placeName>Lucernam</placeName>.</s>
+					<s n="48" xml:lang="la" type="auto">Quid is impetrarit, nescio.</s>
+					<s n="49" xml:lang="la" type="auto">Hoc unum scio, quod 18. decembris <placeName>Solodorenses</placeName> 4 legatos <placeName>Bernam</placeName> miserunt, qui verbis blandissimis coram senatu comparuerunt.</s>
+					<s n="50" xml:lang="la" type="auto">Qui prius <placeName>Bernensium</placeName> legatos audire dedignabantur ultro offerentes se permissuros, ut caussa exulum dirimatur.</s>
+					<s n="51" xml:lang="la" type="auto">Interim verbi dei nullam mentionem habuerunt.</s>
+					<s n="52" xml:lang="la" type="auto">Respondere nostri se nolle quicquam agere in caussa exulum, nisi et fidei negotium immisceatur.</s>
+					<s n="53" xml:lang="la" type="auto">Quod si fieri nequeat, iam nihil se acturos, maxime cum ita fieri flagitent ipsi exules, homines pii et constantes.</s>
+					<s n="54" xml:lang="la" type="auto">Addidit senatus se palam conquesturum proximis Badenis comitiis, quod fidem violent et pacta rescindant.»</s>
+					<s n="55" xml:lang="la" type="manual">28. decembris idem sic scribit<note xml:id="fn27" type="footnote" n="27">Das Folgende ist frei zitiert aus <persName>Berchtold Haller</persName> an Bullinger, 30. (nicht: 28.!) Dezember 1533, s. <bibl>HBBW</bibl> III 276, 49-53. 57-61.</note>: «Misit nunc denuo senatus noster legationem ad <placeName>Solodorenses</placeName> propter exules et verbi libertatem.</s>
+					<s n="56" xml:lang="la" type="auto">Non credis nec describi potest aut dici populi huius insania et impius furor.</s>
+					<s n="57" xml:lang="la" type="auto">25 pastores et verbi praecones amandarunt.</s>
+					<s n="58" xml:lang="la" type="auto">Ex Alsatia et Brisgauvia turmatim advolant sacrificuli.</s>
+					<s n="59" xml:lang="la" type="auto">Nulla est apud istos vel aequitatis vel veritatis ratio.</s>
+					<s n="60" xml:lang="la" type="auto">Scribam brevi, quid actum sit.</s>
+					<s n="61" xml:lang="la" type="auto">57 cives iam ex <placeName>Solodoro</placeName> migrarunt.</s>
+					<s n="62" xml:lang="de" type="auto">Jetzt fahend sy an und verbietents inn der statt, und so einer ye daruß will, heyssend sy inn sin guͦt werden und schetzen.</s>
+					<s n="63" xml:lang="de" type="auto">Schetzt ers ze wolfeyl, so mag imms der nächst nach gelegtem pfandtschilling abzühen.</s>
+					<s n="64" xml:lang="de" type="auto">Will er aber ye hinweg, so muͦß er ye von 10 gl. I gäben.</s>
+					<s n="65" xml:lang="de" type="auto">Ich zeygs, wie es mir anzeygt ist.</s>
+					<s n="66" xml:lang="de" type="auto">Sy bollwerckend häfftig inn [iro] statt.»</s>
+					<s n="67" xml:lang="la" type="auto">Hactenus <persName>Berchtoldus</persName>.</s>
+					<s n="68" xml:lang="la" type="auto">Addidit et illud<note xml:id="fn28" type="footnote" n="28">Aus demselben Brief, s. <bibl>HBBW</bibl> III 276, 62f.</note>: «Tilom[ann]us a questurae offitio semotus est, surrogatus v[e]ro<persName ref="p6796">Franciscus Nägeli</persName>.»</s>
+				</p>
+				<p>
+					<s n="69" xml:lang="la" type="auto"><pb type="scan" next="||24v."/>Quae de instituto regis Gallorum et pactis cum papa divinas, tam vera sunt, ut nihil unquam verius dictum sit, nempe quod ille <placeName>Mediolanum</placeName> ambit<note xml:id="fn29" type="footnote" n="29">Eine diesbezügliche schriftliche Vermutung <persName>Vadians</persName> ist nicht erhalten, doch sahen auch die Habsburger hinter den Marseiller Absprachen zwischen <persName>Papst Clemens VII.</persName> und <persName>König Franz I.</persName> den Plan, <placeName>Frankreich</placeName> freie Hand für Eroberungen in <placeName>Italien</placeName> zu geben, s. <bibl>Müller</bibl> 249. 252. 257.</note>.</s>
+					<s n="70" xml:lang="la" type="auto">Huius enim gratia Germaniae proceres in <persName>Ferdinandum</persName> pro <placeName>Wirtembergensi</placeName><pb type="edition" next="39"/> principe armat<note xml:id="fn30" type="footnote" n="30"><placeName>Frankreich</placeName> war schon im Dezember 1533 bereit, einen Drittel der Kriegskosten zur Eroberung <placeName>Württembergs</placeName> durch <persName>Herzog Ulrich</persName> und <persName>Philipp von Hessen</persName> zu zahlen, s. <bibl>Wille</bibl> 131. 145. 147.</note>, ut Germanus miles Germanico bello impeditus Gallis <placeName>Mediolanum</placeName> diripiendum capiendumque libere cedat<note xml:id="fn31" type="footnote" n="31">Von diesen Verhandlungen und den Kriegsgefahren erfuhr Bullinger vom 22. November 1533 an, s. <bibl>HBBW</bibl> III 234, 43-49. 237, 12. 248, 11-15. 250, 8f. 252f, 3-10.</note>.</s>
+					<s n="71" xml:lang="la" type="auto">De Helvetiis nulla illi cura maior, ni adversa illi ferant arma.</s>
+					<s n="72" xml:lang="la" type="auto">Satis illi nos inter nos dissere.</s>
+					<s n="73" xml:lang="la" type="auto">Quamquam non dubitem, pensionarios<note xml:id="fn32" type="footnote" n="32">Pensionsherren, «Pensiöner», Bezüger von Pensionen, d. h. von Sold für Truppen und Truppenwerbungen (<bibl>SI</bibl> IV 1394).</note> nihil non tentaturos.</s>
+					<s n="74" xml:lang="la" type="auto">Fortassis abutentur famis occasione et misera maleque suada vulgi pauperie.</s>
+					<s n="75" xml:lang="la" type="auto">Nos tamen non cessabimus nostros dechortari, nec senatus noster cessabit.</s>
+					<s n="76" xml:lang="la" type="auto">Quodsi omnino exercitus educatur, fortassis in fatis est, ut iustissimus deus et impium pontificem et fastu luxuque perditum regem una cum avarissimis sceleratissimisque satellitibus semel fundere funditusque delere velit<note xml:id="fn33" type="footnote" n="33">Anfang Dezember 1533 überwog die Furcht, daß sich die politische Lage für die Eidgenossenschaft unheilvoll auswirke, s. <bibl>HBBW</bibl> III <ref target="file10324">[Nr. 293]</ref> 243f, 22-48.</note>.</s>
+					<s n="77" xml:lang="la" type="auto">Dominus non sinet inultum iam tot annis effusum sanguinem innoxium.</s>
+				</p>
+				<p>
+					<s n="78" xml:lang="la" type="auto">Verum audi, quod mirabere: <placeName>Bernates</placeName> legationem amandarunt ad Gallorum regem, consulem a <persName ref="p18594">Wattenwyl</persName> et Wingarterum<note xml:id="fn34" type="footnote" n="34">Zur bernischen Gesandtschaft, die im Dezember 1533 zum französischen König ging, gehörten Schultheiß <persName>Hans Jakob von Wattenwyl</persName> und Bannerhauptmann <persName>Wolfgang von Wingarten</persName>, s. <bibl>HBBW</bibl> III <ref target="file10338">[Nr. 307]</ref> 271, Anm. 9 und 10.</note>.</s>
+					<s n="79" xml:lang="la" type="manual">De ea legatione sic scripsit <persName>Berchtoldus</persName><note xml:id="fn35" type="footnote" n="35">Die folgenden Angaben sind den Briefen <persName>Berchtold Haller</persName>s an Bullinger vom 23. und 30. Dezember 1533 entnommen, vgl. <bibl>HBBW</bibl> III 271, 19-22 und 275f, 38-45.</note>: «Rediit consul a rege.</s>
+					<s n="80" xml:lang="la" type="auto">Non autem petimus auxilium ab Assyriorum rege, sed pacem iam dudum pactam servari volumus.</s>
+					<s n="81" xml:lang="la" type="auto">Defertur fides nostra perfidiae et seditionis, maxime nunc exemplo <placeName>Solodorensium</placeName>.</s>
+					<s n="82" xml:lang="la" type="auto">Ne ergo hostes sentiremus, quos amicos credebamus, missa est legatio.</s>
+					<s n="83" xml:lang="la" type="auto">Legationis occasionem silebo.</s>
+					<s n="84" xml:lang="la" type="auto">Caussam habes, et quod petitum est, impetratum audio.</s>
+					<s n="85" xml:lang="la" type="auto">Plura non licet.</s>
+					<s n="86" xml:lang="la" type="auto">Haec autem soli tibi scripserim.»</s>
+					<s n="87" xml:lang="la" type="auto">Hactenus <persName>Berchtoldus</persName>.</s>
+					<s n="88" xml:lang="la" type="auto">Nec ego plura nunc potui.</s>
+				</p>
+				<p>
+					<s n="89" xml:lang="la" type="auto">Tu si quid ex <placeName>Augusta</placeName><note xml:id="fn36" type="footnote" n="36">Zur letzten Tagung des Schwäbischen Bundes in <placeName>Augsburg</placeName> vom Dezember 1533 bis 8. Februar 1534 s. unten <ref target="file10348">[Nr. 317]</ref> S. 44f, Anm. 9. 12f; S. 65, Anm. 8. In den erhaltenen Briefen <persName>Vadians</persName> an Bullinger finden sich keine diesbezüglichen Angaben.</note> habes, indica.</s>
+					<s n="90" xml:lang="la" type="auto">In coepto opere<note xml:id="fn37" type="footnote" n="37">Gemeint ist <persName>Vadians</persName> Schrift «Epitome trium terrae partium» (s. <bibl>HBBW III</bibl> <ref target="file10260">[Nr. 229]</ref> 134, Anm. 18 und unten S. 92, 13-15. 146, 8. 177, 69), welche im September 1534 erschien und Bullinger gewidmet ist (Widmungsbrief unten <ref target="file10454">Nr. 419</ref>, s. <bibl>S</bibl>. 267, Anm. 70).</note> labora et me tibi commendatum habe.</s>
+				</p>
+				<p>
+					<s n="91" xml:lang="la" type="auto">Vive et vale.</s>
+				</p>
+				<p>
+					<s n="92" xml:lang="la" type="auto">3. ianuarii, hora noctis 10., 1534.</s>
+				</p>
+				<p>
+					<s n="93" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="94" xml:lang="la" type="auto">Clarissimo viro D. <persName>Ioachimo Vadiano</persName>, amico imprimis charo et syncero.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

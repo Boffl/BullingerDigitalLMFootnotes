@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12721" type="Brief" source="HBBW" n="2674">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Thomann (Domman), Simon Bing / [Giengen] AN Heinrich Bullinger, 13. November 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Erwirdiger, wolgelerter, sonders gunstiger, lieber herr, üch syen min unverdrossen, willig dienst allzyt zuvor.</s>
+					<s n="2" xml:lang="de" type="auto">Uff üwer schryben, <persName>Simon Bingen</persName>, landtgrevischem<note xml:id="fn1" type="footnote" n="1">Philipps von Hessen.</note> secretari, gethon, hatt er mir hüt dato byligende schrifften, <pb type="edition" next="273"/> was bisher verloffen, üch zu antwurten<note xml:id="fn4" type="footnote" n="4">übermitteln.</note>, zugstelt.</s>
+					<s n="3" xml:lang="de" type="auto">Zeygt an, das sollichs nehermals von im vergessen worden.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="de" type="auto">Das wöllen also empfahen und mich allweg inn üwerm bevelch haben<note xml:id="fn6" type="footnote" n="6">mich allweg inn üwerm bevelch haben: möge ich Euch stets empfohlen sein.</note>, dann, üch jederzyt willige dienst zu bewysen, ich gantz bereyt bin.</s>
+					<s n="5" xml:lang="de" type="auto">Ich han mich dis tags beflissen, ewern brieff dem lanndtgraven selbs zu antwurten, aber ich han noch nit zu im komen mögen.</s>
+					<s n="6" xml:lang="de" type="auto">Datum den 13. novembris anno 36.</s>
+					<s n="7" xml:lang="de" type="manual">Üwer allzit williger <persName>Heynrich Domman</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="8" xml:lang="de" type="auto">Dem erwirdigen, wolgelerten hern Heynrich Bullinger zuͦ Zurich, minem sonders gunstigen lieben herren.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

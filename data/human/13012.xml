@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13012" type="Brief" source="HBBW" n="2963">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz AN Heinrich Bullinger, 23. Juli [1547]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> accepi, quibus rursum per adulescentem Ambrosium<note xml:id="fn3" type="footnote" n="3">Der schon in <ref target="file12994">Nr. 2945</ref>,<ptr target="qvzl17217-6" type="qv"/>, und <ref target="file13004">Nr. 2955</ref>,<ptr target="qvzl17221-3" type="qv"/>, erwähnte Angestellte (vermutlich <persName>Froschauers</persName>), dessen Nachname unbekannt ist.</note> respondi,<note xml:id="fn4" type="footnote" n="4">Nämlich mit seinem Brief vom 18. Juli (<ref target="file13004">Nr. 2955</ref>).</note> qui 5 bazones<note xml:id="fn5" type="footnote" n="5">Batzen.</note> epistolę nostrę insinuatos, ni fallor, reddidit.</s>
+					<s n="3" xml:lang="la" type="auto">Scribes quamprimum, num eas literas cum bazonibus acceperis.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">In <persName>Schöneri</persName><note xml:id="fn6" type="footnote" n="6"><persName>Hans Schöner</persName>.</note> caussa quid efficere istis rerum turbis possimus, plane dubito.</s>
+					<s n="5" xml:lang="la" type="auto">Ego literas nostras nondum misi Augustam cum ob alias incommoditates tum vero praecipue, quod <persName>Welserus</persName><note xml:id="fn8" type="footnote" n="8"><persName>Hans Welser</persName>. - Vgl. <ref target="file12994">Nr. 2945</ref>,<ptr target="qvzl17217-5" type="qv"/>.</note> etiamnum in termis, quibus <placeName>Pfeffers</placeName><note xml:id="fn9" type="footnote" n="9">Bad <placeName>Pfäfers</placeName>; s. <ref target="file12999">Nr. 2950</ref>, <ptr target="qvfn17215-1" type="qv"/>.</note> nomen est, agat.</s>
+					<s n="6" xml:lang="la" type="auto">Mittam tamen quamprimum, praesertim ubi <persName>Welserum</persName> <pb type="edition" next="338"/> <placeName>Augustę</placeName> esse intellexero.</s>
+					<s n="7" xml:lang="la" type="auto">Si dominus <persName>Schönero</persName> nostro faverit, nihil incommodabunt reliqua omnia.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="8" xml:lang="la" type="auto">De Maximiliano<note xml:id="fn10" type="footnote" n="10">Maximilian Seemann; s. <ref target="file12984">Nr. 2935</ref>, <ptr target="qvfn17193-2" type="qv"/> und <ptr target="qvfn17193-5" type="qv"/>.</note> gratiam habeo et rursus tibi puerum commendo.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Episcopus noster<note xml:id="fn11" type="footnote" n="11"><persName>Johann V. von Weeze</persName>. - Zur Angelegenheit s. <ref target="file12994">Nr. 2945</ref>,<ptr target="qvzl17217-8" type="qv"/>.</note>, quas glorias efflat, sibi habeat.</s>
+					<s n="10" xml:lang="la" type="auto">Non desunt neque ex vestris neque ex nostris, qui bestiam istam prae Christo adorent!</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Vestrorum in nostros officiositas immodica prorsus fuit!</s>
+					<s n="12" xml:lang="la" type="auto">Tantum abest, ut quicquam in ista desiderarint.</s>
+					<s n="13" xml:lang="la" type="auto">Dominus omnia benigne reponat.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Iudicium vestrum in caussa matrimonali<note xml:id="fn13" type="footnote" n="13">Siehe dazu die Briefe <ref target="file12987">Nr. 2938</ref> und <ref target="file12989">Nr. 2940</ref>, wie auch Bullingers Antwort darauf (<ref target="file12990">Nr. 2941</ref>).</note> probavit noster senatus, a quo etiam maritus<note xml:id="fn14" type="footnote" n="14"><persName>Jakob Kundigmann</persName>.</note> divortium impetravit.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Remitto caesaris literas cum vestrorum epistola et gratiam habeo.</s>
+					<s n="16" xml:lang="la" type="auto">Vehementer mirabor, si omnia dominus c[aesaris] in manus dederit.</s>
+					<s n="17" xml:lang="la" type="auto">Blanda sunt scripta, sed non iniuria vos terrent vestigia,<note xml:id="fn16" type="footnote" n="16">Zu verstehen: nicht zu Unrecht werdet ihr durch den Schaden anderer furchtsam; vgl. <hi><persName>Horaz</persName>,</hi> Epistulae, 1, 1, 74.</note> etc.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Incendium hic nudiustertius sex domos voraci flamma absumpsit atque inter has etiam <persName>Theodori</persName><note xml:id="fn18" type="footnote" n="18"><persName>Theodor Bibliander</persName>.</note> nostri, insignis amici, fratris<note xml:id="fn19" type="footnote" n="19"><persName>Thomas Buchmann</persName>, ein Bruder von <persName>Theodor Bibliander</persName>. Er war Konstanzer Bürger; s. <bibl>Egli, Analecta</bibl> II 3; <bibl>Bucer BW</bibl> X 53f; 56 mit Anm. 13.</note> ędes propemodum totas exussit.</s>
+					<s n="19" xml:lang="la" type="auto">Scribo hic igitur coniugi meę<note xml:id="fn20" type="footnote" n="20"><persName>Katharina, geb. Ryff</persName>.</note>, ne vanis rumoribus excrucietur, sed sciat nostra omnia, deo gratia, salva esse.</s>
+					<s n="20" xml:lang="la" type="auto">Eas literas, rogo, ut, ubi primum licebit, Badenum mittas.<pb type="edition" next="339"/></s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="21" xml:lang="la" type="auto">Bene vale, mi charissime et optime frater, nosque in Christo Iesu ęternum ama.</s>
+					<s n="22" xml:lang="la" type="auto">Salveat tua domus cum omnibus fratribus et amicis.</s>
+					<s n="23" xml:lang="la" type="auto">Salutant te nostri, frater<note xml:id="fn22" type="footnote" n="22"><persName>Thomas Blarer</persName>.</note> et C[onradus] Z[viccius].</s>
+					<s n="24" xml:lang="la" type="auto">Etiam atque etiam vale.</s>
+					<s n="25" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 23. iulii.</s>
+					<s n="26" xml:lang="la" type="auto">Commenda nos domino.</s>
+					<s n="27" xml:lang="la" type="auto">T[uus] A. Bl.</s>
+				</p>
+				<p>
+					<note>[Adresse auf der Rückseite:]</note>
+					<s n="28" xml:lang="de" type="auto">D. H[einricho].</s>
+					<s n="29" xml:lang="la" type="auto">Bullingero suo.</s>
+					<s n="30" xml:lang="la" type="auto">Tiguri.<note xml:id="fn23" type="footnote" n="23">Der vorliegende Brief wurde vom jungen Maximilian Seemann nach Zürich befördert; s. oben Z. <ptr target="qvzl17228-2" type="qv"/>.</note></s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

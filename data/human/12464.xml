@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12464" type="Brief" source="TUSTEP" n="2417">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Caesarius / Köln AN Heinrich Bullinger, 8. April [1546 oder 1547]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem in Christo Iesu, domino et servatore nostro.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="la" type="auto">Non est dubium mihi, vir ornatissime, quin solicite scire cupias, vivam adhuc necne, hac pręsertim tempestate, qua ubique pestilentię vis viget ac grassatur, quę certe iam duobus annis continuis <placeName>Colonię</placeName> multos et senes et iuvenes pręter spem abstulit.</s>
+					<s n="3" xml:lang="la" type="auto">Ego interim <placeName>Colonia</placeName> abesse malui quam in illo tum vehementi incendio manere atque periculum expectare, non tamen aufugissem, nisi comes<note xml:id="fn2" type="footnote" n="2">Graf <persName>Hermann d.J. von Neuenahr</persName>.</note> quidam apud nos, iuvenis egregie doctus, utpote Gręce et Latine non mediocriter institutus, me ad se evocasset, ubi mansi superiori ęstate mensibus septem ad initium usque quadragesimę.</s>
+					<s n="4" xml:lang="la" type="auto">Itaque tandem <placeName>Coloniam</placeName> redii fortassis non diu illic mansurus, siquidem idem comes plane optat et vult me posthac apud se diversari commorarique perpetuo.</s>
+					<s n="5" xml:lang="la" type="auto">Cui ego illud responsum dedi me per aestatem lubentem apud ipsum demorari, sed hyeme <placeName>Colonię</placeName> potius idque propter [causas] quas in praesentia narrare supersedo, quod non magni refert, scias an nescias.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Diu est, mi Bullingeri, quod nihil abs te lucubrationum tuarum quicquam aut accepi aut etiam legi.</s>
+					<s n="7" xml:lang="la" type="auto">Proinde, si quas proxime transactis nundinis aedi[di]sti, earum, quęso te, me participem facere velis pro tuo more, imo pro tua in me benevolentia.</s>
+					<s n="8" xml:lang="la" type="auto">Cęterum, quod vices tibi non reddo, in hoc non voluntas, sed facultas defit, nec certo scio, qua in re tibi vicissim gratificari possim.</s>
+					<s n="9" xml:lang="la" type="auto">Iam superest, ut et tu mihi quoque rescribas, qua sis valetudine et quo pacto evangelica doctrina isthic vigeat ac procedat.</s>
+					<s n="10" xml:lang="la" type="auto">Utinam tam valido essem corpore, uti isthuc ad vos mihi concedere aliquando daretur!</s>
+					<s n="11" xml:lang="la" type="auto">Viderer sane non parum felicior.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Bene vale.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><placeName>Colonię</placeName> ex ędibus meis quinta feria post Letare Hierusalem.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p4423">Ioannes Cęsarius</persName>, ex animo tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Ornatissimo ac mira humanitate prędito viro Henrico Bullingero, amico suo optimo et incomparabili.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Francofordię ad manum Froschouii typographum apud Tigurum in Elvetiis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

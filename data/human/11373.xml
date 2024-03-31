@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11373" type="Brief" source="GR" n="16">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Nikolaus Pfister (Artopoeus, Baling) / Chur AN Heinrich Bullinger, 18. November [1539]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Nicolaus Artopoeus Balingius Henrico Bullingero, viro clarissimo S. D.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">En remitto articulos regis Angliae, qui, Domino sit gratia, heic non admodum multos movent; omnes dicunt, quod tu cum scriptura dicis: „Nolite confidere in principibus“, etc.</s>
+					<s n="3" xml:lang="la" type="auto">Meo iuditio rex ille rex est Angliae et nihil aliud, quamcunque personam induxerit.</s>
+					<s n="4" xml:lang="la" type="auto">Velim pluribus tecum agere, sed negotia non sinunt.</s>
+					<s n="5" xml:lang="la" type="auto">Crede mihi, nunquam fui occupatior; adeo fervet et gratiosum est nostrae scholae initium etiam iis, quibus putaram abominationem fore.</s>
+					<s n="6" xml:lang="la" type="auto">Ex omnibus Foederibus huc advolant, et quod mire nos afficit, magnatum atque procerum filii.</s>
+					<s n="7" xml:lang="la" type="auto">Faxit optimus maximus, ut semper felicibus auspiciis sic procedat.</s>
+					<s n="8" xml:lang="la" type="auto">Hactenus illa.</s>
+					<s n="9" xml:lang="la" type="auto">Caeterum quod attinet ad universam nostram rempublicam: pacate satis agimus, nisi quod latrones nobis negotium facessunt, quorum plures sunt capti, plures affecti supplicio et plures, ut ferunt, adhuc latent incogniti, quemadmodum a Goethardo, si vacat, liquido cognosces.</s>
+					<s n="10" xml:lang="la" type="auto">Mihi si vacaret, certe mira scriberem, quae mihi nescio quid portendere videntur; Dominus novit.</s>
+					<s n="11" xml:lang="la" type="auto">Ad Larium lacum aiunt sex domos subsidisse ex improviso et aquis obrutas esse, quarum iam nullum plane extet vestigium neque ullae usquam apparent reliquiae.</s>
+					<s n="12" xml:lang="la" type="auto">Machinis ac anchoris quaesitum est diu, sed frustra.</s>
+					<s n="13" xml:lang="la" type="auto">Mitto epistolam nostri Trawersi.</s>
+					<s n="14" xml:lang="la" type="auto">Cui si responderis, ad me mittito; ego facili opera transmittam ei.</s>
+					<s n="15" xml:lang="la" type="auto">Alo aliquot pueros Zucianos et Trawerso cognatos.</s>
+					<s n="16" xml:lang="la" type="auto">Tu vale, vir doctissime, et indoctam epistolam boni aequique consulito.</s>
+					<s n="17" xml:lang="la" type="auto">Leonem, Bibliandrum, Megandrum, Ammianum, Rhellicanum meo nomine salutabis.</s>
+					<s n="18" xml:lang="la" type="auto">Curiae, 18. Novembris.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Henrico Bullingero, viro et eruditione et prudentia conspicuo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

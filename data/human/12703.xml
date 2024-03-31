@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12703" type="Brief" source="TUSTEP" n="2656">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 3. November 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">In postremis literis meis te oravi, Bullingere doctissime, ut tres illas primas sessiones concilii <placeName>Tridentini</placeName>, quas apud te vidi, ad nos transmitteres.</s>
+					<s n="3" xml:lang="la" type="auto">Iam autem eo perventum est in libello eiusdem argumenti, quem imprimit <persName>Oporinus</persName>, ut haec tantum brevia scripta desideremus.</s>
+					<s n="4" xml:lang="la" type="auto">Proinde te oro, ut primo nuncio ea mittas, etiam si meo sumptu ab aliquo studioso describantur[/transcribantur].</s>
+					<s n="5" xml:lang="la" type="auto">Ignosce, quaeso, audaciae meae, qui istiusmodi rebus nullius momenti sum tibi molestus; cuperem enim gratificari <persName>Oporino</persName>, viro optimo atque hospiti meo, quem a te quoque amari non dubito.</s>
+					<s n="6" xml:lang="la" type="auto">Atque utinam aliqua in re graviore eum animum, quem erga totam ecclesiam vestram, tum vero erga te habeo, possem declarare!</s>
+					<s n="7" xml:lang="la" type="auto">Sentiretis profecto omnes fratres quidvis potius in me desiderari posse quam diligentiam et integritatem.</s>
+					<s n="8" xml:lang="la" type="auto">Itaque fretus ego vicissim humanitate tua, cuius animum nostro esse per omnia congruentem mihi persuadeo, hac in parva re tibi molestus esse non dubitavi.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Scis etiam illud: Qui semel fines pudoris praetergressus est, eum gnaviter impudentem esse oportere.</s>
+					<s n="10" xml:lang="la" type="auto">A domino etiam <persName>Theodoro</persName><note xml:id="fn3" type="footnote" n="3"><persName>Theodor Bibliander</persName>.</note> postulabis summa(m?) confessionis fidei <persName>Diazii</persName> Latinam, quam ipse fecit Germanicam<note xml:id="fn4" type="footnote" n="4"><bibl>BZD</bibl> 360.</note>; nam hoc breve scriptum cuperem adiungi historiae, quae nunc sub praelo est et propediem absolvetur, quod alioqui nec in hac urbe inveniri potest nec ex <placeName>Argentina</placeName> tempestive mitti posse arbitror.</s>
+					<s n="11" xml:lang="la" type="auto">Haec ut brevi abs te mittantur, et meo et <persName>Oporino</persName> nomine oro.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Mitto quoque literas Lindavium et <placeName>Constantiam</placeName>, quas rogo ut diligenter ac fideliter transmittas.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Vale.</s>
+					<s n="14" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 3. die novembris 1546.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="la" type="auto">Clarissimo viro d. Henrico Bullingero, ecclesiae Tigurinae ministro fidelissimo.</s>
+					<s n="17" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10143" type="Brief" source="HBBW" n="113">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Michael Schlatter / Fischingen AN Heinrich Bullinger, [nach dem 19. Juli 1532]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Pluribus tecum egissem, integerrime vir, nisi temporis angustia exclusus fuissem, siquidem fortuna in eo temporis articulo inopinantem me subvertit, ut neque tantum spacii mihi datum sit, quo vel apud te meam infoelicitatem conqueri vel prae dolore tibi significare potuerim.</s>
+					<s n="3" xml:lang="la" type="auto">Ne autem prolixius te immorer, quam possum brevissime, statum fortunae meae exponam: Helvetii<note xml:id="fn3" type="footnote" n="3">Die VII alten Orte, unter denen die katholische Partei die Mehrheit hatte.</note> in coenobio nostro <placeName>Fischingen</placeName> papisticas ceremonias restaurantes me loco moverunt<note xml:id="fn4" type="footnote" n="4">Vgl. oben Anm. 2; die Art der Anstellung <persName>Schlatters</persName> durch das Kloster <placeName>Fischingen</placeName> ist nicht bekannt.</note>, unde mihi non mediocris iactura cum fortunae secundioris tum boni temporis fuit facienda.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Iamque adeo mihi fortiter esuriendum est aut amicorum auxilium implorandum, quo imminenti inopiae occurere liceat.</s>
+					<s n="5" xml:lang="la" type="auto">Quod sane non commodius praecaveri posse arbitror, quam si in mea miseria tu mihi patronus<note xml:id="fn5" type="footnote" n="5">Bullinger wurde schon am 31. Dezember 1531 durch <persName>Heinrich Lüthi</persName> über die bedrängte Lage <persName>Schlatters</persName> informiert, <bibl>HBBW I</bibl> 246,1-21.</note> contigeris.</s>
+					<s n="6" xml:lang="la" type="auto">Habebis procul dubio viros non vulgariter probos, qui una tecum sedulam operam navabunt, ut mihi apud vos quam commodissime prospiciatur, modo ratio temporis conficiendi negotii satis idonea offeratur.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto"><pb type="edition" next="165"/>Vale et me ama, quoniam te odisse non possum<note xml:id="fn7" type="footnote" n="7">Vgl. Adagia, 2,1,72 (<bibl>LB</bibl> II 434 D).</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Caetera ex tabellario<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> cognosces.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Datum e coenobio <placeName>Fischingen</placeName>.</s>
+					<s n="10" xml:lang="la" type="auto">Raptim ut omnia.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><persName>Michael Schlatterus</persName> tuus ut suus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="12" xml:lang="la" type="auto">Eximio theologo Henricho Bulingero, celeberrimae urbis Tigurinae episcopo, domino suo incomparabili.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

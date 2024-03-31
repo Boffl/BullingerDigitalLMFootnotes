@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11786" type="Brief" source="BBW" n="1003">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 11. April [1543]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="manual">Auff leisten Mertzen sind die stend zu Nürnberg gar zerfallen; dann die unsern by dem könig kain lutem bstendigen friden noch recht erlangen mögen, und stat die sach gantz farlich, wa man allso in sölcher spaltung bliben solt, und farend aber die andern stend für in beratschlagung der Turckenhilf on die unsern.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ηęο magno brachii dolore; nihil nam scripsi totos 14 dies, quibus nescio quę mali humoris vis vehementer dextrum mihi brachium torquet.</s>
+					<s n="3" xml:lang="la" type="auto">XI. Aprilis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11856" type="Brief" source="VBS" n="78">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Zürich AN [Joachim Vadian (von Watt)], [Ambrosius Blarer (Blaurer)], 6. November [1543]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">J(unker) Niclaus Wittenbach, venner ze <placeName>Biel</placeName>, hatt 5. Novembris hochzyt Zürych gehallten.</s>
+					<s n="2" xml:lang="de" type="auto">Hatt sinem son <persName>Hansen von Schönow</persName>, burgers Zürych, dochter vermächlet, derhalben vil eerenlit von <placeName>Bern</placeName>, <placeName>Byel</placeName> und <placeName>Nüwenburg</placeName> och zuͦ uns herab kummen, under welichen xin <persName>Hanns Wunderlich</persName>, des Frantzosen factor.</s>
+					<s n="3" xml:lang="de" type="auto">Dem ist hüt frü uff der post zuͦkummen, das 30. Octobris by nacht der keysser mit sinem züg flüchtig uß dem veld abzogen.</s>
+					<s n="4" xml:lang="de" type="auto">Die post ist gefertigt Sampstags uß <placeName>Lyon</placeName> und ylt uff <placeName>Venedig</placeName>.</s>
+					<s n="5" xml:lang="de" type="auto">Uff morn wartet er ouch anderer post, die vollkommer und eigentlicher die sach zeige.</s>
+					<s n="6" xml:lang="la" type="auto">Quid, si simulata sit fuga?</s>
+					<s n="7" xml:lang="la" type="auto">Deus servet nos ab Hispanis.</s>
+					<s n="8" xml:lang="la" type="auto">Vale.</s>
+					<s n="9" xml:lang="de" type="auto">Datum Zcinstags, 6. Novembris.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

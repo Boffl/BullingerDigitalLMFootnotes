@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10516" type="Brief" source="HBBW" n="480">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / Basel AN s.n. / [Zürich], 26. November 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et pacem per dominum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Hanc vestram confessionem<note xml:id="fn1" type="footnote" n="1">Das Zürcher Abendmahlsbekenntnis vom 22. Oktober 1534 zuhanden von <persName>Blarer</persName> (oben <ref target="file10498">Nr. 463</ref>; vgl. <bibl>S</bibl>. 413, Anm. 1 und ferner <ref target="file10512">Nr. 476</ref>, bes. S. 407. Anm. 1) ist gemeint.</note> diligenter, quamvis tempus breve esset, lectam non nunc primum adprobamus, sed olim quoque confessi sumus et deo<pb type="edition" next="415"/> et libello in hoc ędito Germanice, mundo et ante dies non multos fratribus <placeName>Argentinensibus</placeName>, qui scriptis literis<note xml:id="fn2" type="footnote" n="2">Siehe oben S. 397, Anm. 2.</note> eam ipsam elicuerunt hoc potissimum verbo, quo scripserant illud per Germaniam pene ferri de nobis, habere coenam sine Christo.</s>
+					<s n="3" xml:lang="la" type="auto">Hoc itaque pati nequeuntes coacti sumus ad confessionem super eucharistię sacramento faciendam veluti de novo<note xml:id="fn3" type="footnote" n="3">Es handelt sich um eine dem gedruckten Ersten Basler Bekenntnis vom 21. Januar 1534 (<bibl>ABaslerRef</bibl> VI 400; <bibl>BSRK</bibl> 95-100) zugefügte neue Abendmahlserklärung (s. oben <ref target="file10509">[Nr. 473]</ref> S. 398, 21-27 und Anm. 9).</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Par est per omnia, quod adtinet ad mentem, vestrae.</s>
+					<s n="5" xml:lang="la" type="auto">Brevior est expositio, interim a vestra tamen nihil poenitus dissonans.</s>
+					<s n="6" xml:lang="la" type="auto">Iam<placeName>Argentinenses</placeName> et nostram sententiam de praesentia domini in coena deque toto coenę probarunt negocio literis<note xml:id="fn4" type="footnote" n="4">Der Brief ist nicht erhalten.</note> et proprię manus cuiusque subscriptione excepto <persName ref="p18198">Bucero</persName>, ut qui domi, sicut scitis, non fuerit<note xml:id="fn5" type="footnote" n="5">Zu <persName>Bucers</persName> Reisen durch  <placeName>Süddeutschland</placeName> im Herbst 1534 siehe oben S. 386, Anm. 32 sowie unten S. 440, Anm.6 und S. 455, Anm. 8.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Cui vero non constat, pio saltem, quod ubi fides existit, ibi et Christum vere esse?</s>
+					<s n="8" xml:lang="la" type="auto">Contra ubi fides nulla, nullum etiam Christum esse?</s>
+					<s n="9" xml:lang="la" type="auto">Quamobrem si coenam agentes fideles fuerimus, necesse est, ut Christum habeamus praesentem edamusque, dum panem sumimus et vinum bibimus<note xml:id="fn6" type="footnote" n="6">Auch <persName>Zwingli</persName> hat die Gegenwart Christi im Abendmahl streng auf den Glauben bezogen. Zur Abendmahlslehre <persName>Zwinglis</persName> vgl. <hi>Locher,</hi> Grundzüge 582-590.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Istud quidem ex dicto verbo satis superque notavimus, adversarios in hac causa nostros fidem Christi poenitus negare nobis.</s>
+					<s n="11" xml:lang="la" type="auto">Nam alioqui de coena nostra tam improbe iudicare non possent.</s>
+					<s n="12" xml:lang="la" type="auto">Verum quęnam hęc malignitas negare, fidem eis, qui Christum docent tam synceriter, imo qui gloriari audent cum <persName>Paulo</persName> se «nihil scire prorsus nisi Iesum Christum et hunc crucifixum» [1 Kor 2, 2]?</s>
+					<s n="13" xml:lang="la" type="auto">Videntur contemnere libros, qui scripti sunt quique scribuntur a nostris.</s>
+					<s n="14" xml:lang="la" type="auto">Hos etenim non legunt, interim tamen credunt delatoribus, et quicquid hi deferunt, arripientes firmant.</s>
+					<s n="15" xml:lang="la" type="auto">Quocirca quid deinde aliud quam meras calumnias dicerent?</s>
+					<s n="16" xml:lang="la" type="auto">Iudicabit istos olim dominus<note xml:id="fn7" type="footnote" n="7">Vgl. 1 Petr 4, 5.</note> procul dubio.</s>
+					<s n="17" xml:lang="la" type="auto">Nostrum est unanimiter rogare deum per dominum nostrum Iesum Christum, ut mentis sanitatem largiatur, qui carent<note xml:id="fn8" type="footnote" n="8">Vgl. Jak 1, 5.</note>, defendat, qui habent.</s>
+					<s n="18" xml:lang="la" type="auto">Tum enim nemini dubium esse potest quin concordia consequatur in ecclesia talis, qualem iam diu bono quidem zelo quęsierunt fratres Argentinenses<note xml:id="fn9" type="footnote" n="9">Zu den Konkordienbemühungen <persName>Bucers</persName>, <persName>Capitos</persName> und <persName>Jakob Sturms</persName> im November/Dezember 1534 s. <hi>Köhler,</hi> ZL II 361-378.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Dominus nos omnes conservet in ęternum!</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto"><pb type="edition" next="416"/>Valete semper fide salva et inconcussa.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, 26. novembris anno 1534.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><persName>Telamonius Limpergius</persName>, <persName>Osvaldus Myconius</persName>, <persName>Paulus Phrygio</persName>, <persName>Andreas Carolostadius</persName>, Volffgangus Wisenburgius, <persName>Marcus Bersius</persName>, <persName>Benedictus Widman</persName>, Johannes Luitthardus, <persName>Thomas Gyrfalckonius</persName>, <persName ref="p18518">Ioannes Gastius</persName>, <persName>Michael Glasser</persName>, <persName>Michael Capitarius</persName>, diaconus Leonardi, <persName>Burckardus Rottpletz</persName></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="23" xml:lang="la" type="auto">Domino <persName>Heinricho Engelharto</persName>, d. Heinricho Bullingero cęterisque fratribus Christum Tiguri docentibus, dominis et fratribus in Christo charissimis suis.<pb type="edition" next="417"/></s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

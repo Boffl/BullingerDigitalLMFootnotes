@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12835" type="Brief" source="HBBW" n="2786">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / Augsburg AN Heinrich Bullinger, 1. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Attulerunt mihi affines mei<note xml:id="fn1" type="footnote" n="1">Darunter <persName>Konrad Kambli</persName>; s. <ref target="file12801">Nr. 2752</ref>, Anm. 5; <ref target="file12829">Nr. 2780</ref>, Anm. 5. - Die "affines" verließen <placeName>Augsburg</placeName> am 2. Februar; vgl. <ref target="file12840">Nr. 2791</ref>,1-4.</note> tuas 22. ianuarii datas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> eiusdem mensis 27., et quas 14. ianuarii scripsisti<note xml:id="fn3" type="footnote" n="3">Nr. 2752.</note>, 28. demum accepi.</s>
+					<s n="3" xml:lang="la" type="auto">Suades <placeName>Augustae</placeName> manendum, quoad salva possimus conscientia et citra vitae discrimen.<note xml:id="fn4" type="footnote" n="4">Siehe <ref target="file12801">Nr. 2752</ref>,5-8.</note></s>
+					<s n="4" xml:lang="la" type="auto">Interim tamen te puto alias a d. <persName>Laeto</persName><note xml:id="fn5" type="footnote" n="5"><persName>Georg Frölich</persName>. - Gemeint ist hier dessen nicht erhaltener Brief, der in <ref target="file12827">Nr. 2778</ref>,8f, bezeugt ist.</note> et me<note xml:id="fn6" type="footnote" n="6"><persName>Hallers</persName> Brief vom 25. Januar (<ref target="file12818">Nr. 2769</ref>).</note> te accepisse, ad quas et tuum<note xml:id="fn7" type="footnote" n="7">Bullinger antwortete am 30. Januar (<ref target="file12829">Nr. 2780</ref>) auf <persName>Hallers</persName> Brief vom 25. Januar.</note> et amplissimi senatus <placeName>Tigurini</placeName> expectamus responsum.</s>
+					<s n="5" xml:lang="la" type="auto">In quibus, quis sit rerum praesentium status, exposuimus.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Subiecerunt se nostri caesari<note xml:id="fn9" type="footnote" n="9"><persName>Karl V.</persName></note> sicque cum ipso pacti, ut Schertlius (quem, puto, brevi <placeName>Tiguri</placeName> videbitis)<note xml:id="fn10" type="footnote" n="10">Zu <persName>Sebastian Schertlins</persName> Wegzug aus <placeName>Augsburg</placeName> s. <ref target="file12818">Nr. 2769</ref>,10f und Anm. 18.</note> dimittatur milesque caesareanus pro praesidio in urbem admittatur.<note xml:id="fn11" type="footnote" n="11">Siehe dazu auch schon <ref target="file12834">Nr. 2785</ref>,18-27.</note></s>
+					<s n="7" xml:lang="la" type="auto">Petiit et <persName ref="p6843">Bernhardinum</persName><note xml:id="fn12" type="footnote" n="12"><persName>Bernardino Ochino</persName>.</note> caesar, quem senatus clam una cum d. Stanggaro<note xml:id="fn13" type="footnote" n="13"><persName>Francesco Stancaro</persName>.</note> dimisit.</s>
+					<s n="8" xml:lang="la" type="auto">His ita discedentibus nobisque militem expectantibus<note xml:id="fn15" type="footnote" n="15">Siehe oben Z. 8f.</note> quid faciundum erat aliud, quam ut senatui scriberemus <placeName>Tigurino</placeName>, quam quod veniam peteremus et liberam abeundi copiam?</s>
+					<s n="9" xml:lang="la" type="auto">Commovebatur etiam plebs, ita ut per duas integras noctes armati consulum<note xml:id="fn16" type="footnote" n="16"><persName>Hans Welser</persName> und <persName>Jakob Herbrot</persName>.</note> <pb type="edition" next="234"/> aedes sint tutati.</s>
+					<s n="10" xml:lang="la" type="auto">Huius nos tragoediae, nisi dominus avertisset, authores habiti fuissemus,<note xml:id="fn17" type="footnote" n="17">Subjekt sind die Pfarrer von <placeName>Augsburg</placeName>.</note> qui semper hortati sumus ad constantiam et perseverantiam.<note xml:id="fn18" type="footnote" n="18">Vgl. etwa auch <ref target="file12808">Nr. 2759</ref>,41; <ref target="file12818">Nr. 2769</ref>,16- 18.</note></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Commode vero sic se rebus habentibus adveniunt affines mei<note xml:id="fn19" type="footnote" n="19">Siehe dazu oben Anm. 1.</note> soceri<note xml:id="fn20" type="footnote" n="20"><persName>Ulrich Kambli</persName>.</note> nomine uxorem<note xml:id="fn21" type="footnote" n="21"><persName>Elsbeth, geb. Kambli</persName>.</note> et liberos<note xml:id="fn22" type="footnote" n="22">Agnes und Johannes d.J.</note> abducturi.</s>
+					<s n="12" xml:lang="la" type="auto">Consulibus ego rem indicavi: Non potui impetrare.<note xml:id="fn23" type="footnote" n="23">Vgl. <ref target="file12840">Nr. 2791</ref>,22-24.</note></s>
+					<s n="13" xml:lang="la" type="auto">Sed me suppliciter promissis et pollicitis rogarunt, ne deseram eos, ne magis commotam reddam plebem.</s>
+					<s n="14" xml:lang="la" type="auto">Me enim discedente maius futurum hoc incendium omnesque vociferaturos se proditos esse et venundatos, si discedant concionatores.</s>
+					<s n="15" xml:lang="la" type="auto">Adhaec exposuerunt causas pacis iustas et aequas: Liberam illis permitti religionem et talem, qualem modo habeant, nullis additis ceremoniis, donec communis in regno Germanico fiat reformatio.<note xml:id="fn24" type="footnote" n="24">Siehe auch <ref target="file12834">Nr. 2785</ref>,13-16 und 35-37, und die anderen dort angeführten Stellen.</note></s>
+					<s n="16" xml:lang="la" type="auto">Omnes etiam concionatores nominatim securatos<note xml:id="fn25" type="footnote" n="25">sicher (vor dem Kaiser).</note> esse a caesarea maiestate.</s>
+					<s n="17" xml:lang="la" type="auto">Se etiam omnem lapidem movere,<note xml:id="fn26" type="footnote" n="26"><hi>Adagia,</hi> 1, 4, 30 <hi>(ASD</hi> II/1 429f, Nr. 330).</note> ne ullus miles intromittatur, et tamen, si recipere cogantur, tantum 3 vexilla Germanorum militum esse recipienda ad mensem unum hoc saltem nomine, ut superbus caesaris animus suam conservet authoritatem nomenque habeat apud alias nationes, quod teneat <placeName>Augustam</placeName>, exponentes praeterea, quae calamitates fuissent secuturę, si repugnare (qui soli iam in <placeName>Superiore Germania</placeName> reliqui simus) pergamus.</s>
+					<s n="18" xml:lang="la" type="auto">Nos nihil aliud quaerere quam religionem salvam.</s>
+					<s n="19" xml:lang="la" type="auto">Hac promissa in caeteris aequum esse parere imperatori.</s>
+					<s n="20" xml:lang="la" type="auto">Langrafium<note xml:id="fn27" type="footnote" n="27"><persName>Philipp von Hessen</persName>. - Vgl. auch <ref target="file12802">Nr. 2753</ref>,20f.</note> item et <placeName>Argentoratenses</placeName><note xml:id="fn28" type="footnote" n="28">Siehe auch schon <ref target="file12793">Nr. 2744</ref>,10f; <ref target="file12802">Nr. 2753</ref>,19f.</note> <pb type="scan" next="53v."/> iamiam agere etiam de pace cum caesare.</s>
+					<s n="21" xml:lang="la" type="auto">Haec et alia plura exposuerunt et mihi privatim et publice per consules ad conventum ministrorum missi.</s>
+					<s n="22" xml:lang="la" type="auto">Publice item ad plebem haec coloratis proclamarunt verbis.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="23" xml:lang="la" type="auto">Ideo me non habere ullam rationem honestam vel ipse discedendi vel familiam dimittendi, quam proculdubio mox etiam essem secuturus.</s>
+					<s n="24" xml:lang="la" type="auto">His rationibus etiam aliquantum lenitus et persuasus, archigrammataeus noster<note xml:id="fn29" type="footnote" n="29"><persName>Georg Frölich</persName>.</note> destitit urgere, quam petierat, discedendi veniam,<note xml:id="fn30" type="footnote" n="30">Siehe dazu <ref target="file12808">Nr. 2759</ref>,63-72.</note> isque omnibus mihi modis dissuadet, ut liberos et uxorem dimittam.</s>
+					<s n="25" xml:lang="la" type="auto">Promiserunt etiam consules splendida: Se nolle me in ullum constituere periculum; si hoc videant imminere, se me clam cum manu forti dimissuros.</s>
+					<s n="26" xml:lang="la" type="auto">Dederunt praeterea affinibus meis duodecim coronatos pro viatico, publicoque eos honorarunt vino, saltem ut discederent nobis relictis.<pb type="edition" next="235"/></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="27" xml:lang="la" type="auto">Ego, quid mihi sit agendum, haereo prorsus.</s>
+					<s n="28" xml:lang="la" type="auto">Hinc me tenent illi.<note xml:id="fn31" type="footnote" n="31">Gemeint sind die Bürgermeister.</note></s>
+					<s n="29" xml:lang="la" type="auto">Illinc expecto et a dominis <placeName>Tigurinis</placeName> revocari; hinc caesaris metuo iugum et perfidiam; hinc dominorum me movet fides.</s>
+					<s n="30" xml:lang="la" type="auto">Suadent multi, ut discedam, qui me libenter carerent; hortantur, ut maneam, qui me libenter haberent.</s>
+					<s n="31" xml:lang="la" type="auto">Vellem, hoc unum a dominis <placeName>Tigurinis</placeName> impetrarem, ut liberum fieret mihi discedere, quando bona conscientia manere non liceret.</s>
+					<s n="32" xml:lang="la" type="auto">Dum enim semper ipsorum cogor expectare responsum et interim, dum pericula aliqua significo, in timiditatis suspitionem trahi, nimium res nostrae procrastinantur.</s>
+					<s n="33" xml:lang="la" type="auto">Quia ergo dubiae adhuc sunt res omnes, certi nondum quicquam constitui, sed consilium tempus resque locusque dabunt.<note xml:id="fn32" type="footnote" n="32"><hi><persName>Ovid</persName>,</hi> Amores, 1, 4, 54.</note></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="34" xml:lang="la" type="auto">Tres alii, praesertim <persName>Laurentius</persName><note xml:id="fn33" type="footnote" n="33"><persName>Lorenz Meyer (Agricola)</persName>.</note> et <persName>Rodolphus</persName><note xml:id="fn34" type="footnote" n="34"><persName>Rudolf Schwyzer d.Ä.</persName> - Der Dritte war <persName>Thoman Ruman</persName>.</note>, nihil nisi abitum meditantur et quaerunt.</s>
+					<s n="35" xml:lang="la" type="auto">Fuerunt apud consules, apud quos tam praefractis usi sunt verbis et contumacibus, ut ex illis<note xml:id="fn35" type="footnote" n="35">consulibus.</note> ego audierim dominos eos duos non retenturos, si discedere velint.</s>
+					<s n="36" xml:lang="la" type="auto">Hoc si ipsis indicarem, extemplo discederent.</s>
+					<s n="37" xml:lang="la" type="auto">Sed expectamus tuum et amplissimi senatus <placeName>Tigurini</placeName> consilium.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="38" xml:lang="la" type="auto">Ego profecto nullum detrecto periculum, quod ad gloriam Christi cedat, sed ea, quae ad ecclesiae perniciem faciunt.</s>
+					<s n="39" xml:lang="la" type="auto">Non tam cupio domi mihi bene esse cum scandalo aliquo quam inter peregrinos male cum aliorum aedificatione.</s>
+					<s n="40" xml:lang="la" type="auto">Sed utrum hoc tempore sit faciendum et ecclesiae magis salubre et nomini <placeName>Tigurino</placeName> honestum, te iudicem appello.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="41" xml:lang="la" type="auto">Legati ad caesarem missi 29. ianuarii caesari se dederunt.<note xml:id="fn36" type="footnote" n="36">Zu den Namen der Gesandten s. <ref target="file12818">Nr. 2769</ref>, Anm. 12. Zur Ergebung s. <ref target="file12834">Nr. 2785</ref>,41-43.</note></s>
+					<s n="42" xml:lang="la" type="auto">Nunc agunt de milite non recipiendo et rebus aliis.</s>
+					<s n="43" xml:lang="la" type="auto">Scribunt clementissimum se exhibuisse caesarem et splendida pollicitum; quibus, qui velit, fidat!</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="44" xml:lang="la" type="auto"><pb type="scan" next="54r."/>De electore<note xml:id="fn37" type="footnote" n="37">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> aiunt, quod <placeName>Silesiam</placeName> iam vastet.<note xml:id="fn38" type="footnote" n="38">Man erwartete damals unter anderem, dass der Kurfürst gegen die Oberlausitz und <placeName>Schlesien</placeName> ziehen würde; s. <hi>Voigt, <persName>Moritz</persName></hi> 264; <ref target="file12859">Nr. 2810</ref>, Anm. 37.</note></s>
+					<s n="45" xml:lang="la" type="auto">Lypsiam captam,<note xml:id="fn39" type="footnote" n="39">Ein Gerücht; s. Nr. 2757, Anm. 76.</note> ducem Mauritium aufugisse in Bohemiam.<note xml:id="fn40" type="footnote" n="40">Zu diesem Gerücht vgl. auch Nr. 2757,79f.</note></s>
+					<s n="46" xml:lang="la" type="auto">Convenit innumerabilis exercitus Danorum, Holsteinensium, Lünenburgensium, <placeName>Brandenburgensium</placeName> et civitatum maritimarum<note xml:id="fn41" type="footnote" n="41">die Hansestädte ("Seestädte").</note>, quorum dux est Ernestus, frater electoris.</s>
+					<s n="47" xml:lang="la" type="auto">Aiunt et caesarem in Africa portum quendam fortissimum amississe per <persName>Barbarossam</persName>.<note xml:id="fn43" type="footnote" n="43"><persName>Cheireddin Barbarossa</persName>. - Er war bereits am 4. Juli 1546 gestorben. Es könnte sich hier um eine überholte Nachricht handeln, die bereits in <bibl>HBBW</bibl> XVI 205,8-10, vorkommt.</note><pb type="edition" next="236"/></s>
+					<s n="48" xml:lang="la" type="auto">Langrafium quidam, sed falso, Franckfurtum obsidere aiunt.</s>
+					<s n="49" xml:lang="la" type="auto">Caesar multos dimittit milites, qui undique discurrentes iter facientibus sunt periculosi.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="50" xml:lang="la" type="auto">Metellus<note xml:id="fn45" type="footnote" n="45"><persName>Pankraz Mötteli vom Rappenstein</persName>. - Vgl. aber <ref target="file12792">Nr. 2743</ref>,35-38.</note> a dominis dimissus at stipendio privatus, dum hac septimana a <placeName>Mindelheima</placeName><note xml:id="fn46" type="footnote" n="46"><placeName>Mindelheim</placeName> (Lkr. Unterallgäu, Bayern).</note> <placeName>Augustam</placeName> versus proficiscitur, apud Angelberg<note xml:id="fn47" type="footnote" n="47">Angelberg (heute Ortsteil von <placeName>Tussenhausen</placeName>, Lkr. Unterallgäu, Bayern).</note> ab <placeName>Italis</placeName> captus est.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="51" xml:lang="la" type="auto">Claudius ille pseudopropheta, nebulo pestilentissimus, revocavit errorem suum, sed infecit alios, qui nondum revocare voluerunt.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="52" xml:lang="la" type="auto">De his, quod mihi succenses propter imprudentiam, quod scribam socero meo<note xml:id="fn49" type="footnote" n="49"><persName>Ulrich Kambli</persName>. - In einem nicht mehr erhaltenen Brief. -Bullinger hatte <persName>Haller</persName> bereits früher eine ähnliche Ermahnung erteilt; s. <bibl>HBBW</bibl> XVII 188f.</note>, quae ille deinceps diffundat, unde mihi timiditatis oboriatur nomen, pauca respondi <persName>Gvalthero</persName> nostro, qui idem significavit.</s>
+					<s n="53" xml:lang="la" type="auto">Si quid peccatum, soceri, non mea est culpa.</s>
+					<s n="54" xml:lang="la" type="auto">Facio ego meum officium: Scribo illi rarissime et simplicissime, quia scio eum propter senium<note xml:id="fn51" type="footnote" n="51">Er war damals etwa 60 Jahre alt und starb am 7. Oktober 1547; s. <hi>Schnvder, Ratslisten</hi> 586.</note> aliquantum delirare.</s>
+					<s n="55" xml:lang="la" type="auto">Qui vero ita mihi interpretantur, ut hinc me colligant esse pusillanimem, illi vel nullius sunt iudicii vel alias mihi et omnibus pfaffis<note xml:id="fn52" type="footnote" n="52">Damit sind die protestantischen Pfarrer generell gemeint; vgl. <ref target="file12828">Nr. 2779</ref>,45.</note> (ut ipsi vocant) iniqui.</s>
+					<s n="56" xml:lang="la" type="auto">Parum curo Momos<note xml:id="fn53" type="footnote" n="53">Spottgeister.</note> illos impios.</s>
+					<s n="57" xml:lang="la" type="auto">Novit dominus, qualis sim.</s>
+					<s n="58" xml:lang="la" type="auto">Testabitur ecclesia, qualem me praestiterim.</s>
+					<s n="59" xml:lang="la" type="auto">Non volo nec possum falsa scribere, nisi forte ipsi falsis magis quam veris delectantur!</s>
+					<s n="60" xml:lang="la" type="auto">Sed de his paucula ad <persName>Gvaltherum</persName>.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="61" xml:lang="la" type="auto">Vale.</s>
+					<s n="62" xml:lang="la" type="auto">Salutant te fratres nostri tres,<note xml:id="fn54" type="footnote" n="54"><persName>Meyer</persName>, <persName>Schwyzer</persName> und <persName>Ruman</persName>.</note> <persName>Musculus</persName><note xml:id="fn55" type="footnote" n="55"><persName>Wolfgang Musculus</persName>.</note> et Cellarius<note xml:id="fn56" type="footnote" n="56"><persName>Michael Keller</persName>.</note> et <persName>Xystus</persName><note xml:id="fn57" type="footnote" n="57"><persName>Sixt Birck</persName>.</note> meus.</s>
+					<s n="63" xml:lang="la" type="auto">Saluta tu quoque fratres omnes, uxorem<note xml:id="fn58" type="footnote" n="58"><persName>Anna, geb. Adlischwyler</persName>.</note> et liberos<note xml:id="fn59" type="footnote" n="59">Siehe <ref target="file12784">Nr. 2735</ref>, Anm. 10.</note> charissimos.<pb type="edition" next="237"/></s>
+					<s n="64" xml:lang="la" type="auto"><placeName>Augustae Vindelicorum</placeName>, calendis februarii 1547.</s>
+					<s n="65" xml:lang="la" type="auto"><persName>Ioan. Hallerus</persName>, perpetuo tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="66" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, fidelissimo Tigurinae ecclesiae pastori, domino suo et patri venerando.</s>
+					<s n="67" xml:lang="la" type="auto">M. Heinrych Bullinger.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

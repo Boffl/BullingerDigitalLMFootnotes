@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10611" type="Brief" source="HBBW" n="573">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Zwick] / Konstanz AN Heinrich Bullinger, Konrad Pellikan (Kürschner), [12. April 1535]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">"Bullingero pręterea scribe<note xml:id="fn1" type="footnote" n="1">Diese Bitte <persName>Ambrosius Blarers</persName> (vgl. Z. 12) ist einem nicht erhaltenen, wahrscheinlich gleichzeitig mit zwei weiteren Briefen am 8. April geschriebenen und am 12. April in <placeName>Konstanz</placeName> eingetroffenen Schreiben entnommen; vgl. <bibl>Blarer BW</bibl> I 679f.</note>, ut <persName>Conradum Luthardum</persName>, quem semel atque iterum commendavit<note xml:id="fn2" type="footnote" n="2">Bullingers Empfehlungsbriefe sind nicht erhalten, vgl. aber oben <ref target="file10566">Nr. 530</ref>, 4-6.</note>, mittat indicans, quid hominis sit et qualis sibi ecclesia credi merito debeat.</s>
+					<s n="3" xml:lang="la" type="auto"><persName>Pellicano</persName> meis verbis gratias age pro epistola ad <placeName>Pfullingenses</placeName><note xml:id="fn3" type="footnote" n="3"><persName>Blarer</persName> hatte vergeblich versucht, <persName>Pellikan</persName> als Seelsorger für das Klarissenkloster <placeName>Pfullingen</placeName> (Kr. Reutlingen, Baden-Württemberg) zu gewinnen. <persName>Pellikan</persName> sandte stattdessen gegen Ende März eine Trostschrift für die Nonnen, vgl. <persName>Blarer</persName> BW I 659. 677.</note>; nam spero vehementer commodaturam muliercularum istarum ingenio.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto"><pb type="edition" next="201"/>Caeterum, quando in praelegendis hic hebreis vel non potest vel non vult perpetuam operam suam polliceri<note xml:id="fn4" type="footnote" n="4"><persName>Pellikan</persName> war am 17. Februar 1535 von <persName>Blarer</persName> gebeten worden, einer Berufung als Hebräischlehrer zu folgen. Am 22. Februar hatte er für einige Zeit zugesagt, doch ließen ihn die Zürcher nicht ziehen; vgl. <persName>Blarer</persName> BW 1659. 662. 676f.</note> et Bullingerus scribit<note xml:id="fn5" type="footnote" n="5">Bullingers Brief ist nicht erhalten.</note> istuc nos a Tigurinis impetrare non posse, non erimus porro molesti viro tam modis omnibus sancto, cui me quam potes diligenter, pariter et Bullingero, quod non scribo, excusabis.</s>
+					<s n="5" xml:lang="la" type="auto">Supra vires et modum divexant me tot ecclesiarum negotia, ut nihil sit tempusculi reliquum, quod amicis tam insignibus salutandis dedicare valeam."</s>
+					<s n="6" xml:lang="la" type="auto">Haec <persName>Ambrosius</persName>, quibus descriptis officium fecisse volo.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Valete perpetuo.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 12. aprilis 1535.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Pręsentium literarum latori<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> non nihil negotii est apud vestros, quod ex ipso intelliges.</s>
+					<s n="10" xml:lang="la" type="auto">Est autem vere bonus et pius vir, qui magis deo quam hominibus serviens aliquandiu apud nos exulem egit.</s>
+					<s n="11" xml:lang="la" type="auto">Si manum porrexeritis, non indigno aut ingrato feceritis.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Iterum vale.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Sanctissimis viris d[ominis] Hainricho Bullingero et <persName>Chuͦnrado Pellicano</persName>, summo studio observandis, Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

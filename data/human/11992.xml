@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11992" type="Brief" source="HBBW" n="1945">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 22. Juli 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">De damno dixi,<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file11982">Nr. 1935</ref>, 14f.</note> non quod ab aliis nova requiras, sed quod a me non requiras et, quę ipse significo, non credas.</s>
+					<s n="3" xml:lang="la" type="auto">Verum hac de re non est, ut quis divexetur.</s>
+					<s n="4" xml:lang="la" type="auto">Ago tibi gratias, quod, ex <placeName>Italia</placeName> quę sunt scripta, miseris;<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11988">Nr. 1941</ref>, 25-30.</note> non longe post tuas eadem et ex aliis intellexi.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Hentzius<note xml:id="fn3" type="footnote" n="3"><persName>Martin Hentius</persName>.</note> Transylvanus viam indicavit mittendi,<note xml:id="fn4" type="footnote" n="4">Bullinger hatte sich danach erkundigt; s. oben <ref target="file11988">Nr. 1941</ref>, 3-5.</note> quam velim ad se; qua, si et tu volueris uti, poteris omnia tua committere mihi, et ego curabo.</s>
+					<s n="6" xml:lang="la" type="auto">Per Vitenbergam certo reddentur, quęcunque voluerimus; sunt enim illic Coronenses adhuc quidam, qui iidem ad me scripserunt<note xml:id="fn6" type="footnote" n="6">Entsprechende Briefe liegen nicht vor.</note> et de reddendis meis operam suam sunt polliciti.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">De <placeName>Coloniensi</placeName><note xml:id="fn7" type="footnote" n="7"><persName>Hermann von Wied</persName>, Erzbischof und Kurfürst von <placeName>Köln</placeName>.</note> quia libenter audis, non possum continere, quę audivi pro certo.</s>
+					<s n="8" xml:lang="la" type="auto">Magnis de causis motus cum equis aliquot venit <placeName>Coloniam</placeName>; vocavit senatum et rogavit, num se agnoscant pro domino.</s>
+					<s n="9" xml:lang="la" type="auto">Illum oblatis clavibus et aliis nescio quibus signis, ut morem habent, agnoverunt.</s>
+					<s n="10" xml:lang="la" type="auto">Tum petiit hac agnitione facta, ut totam civitatem in armis sibi sistant.</s>
+					<s n="11" xml:lang="la" type="auto">Et hoc quoque obtinuit.</s>
+					<s n="12" xml:lang="la" type="auto">Civibus ergo congregatis et in orbem collectis in medium intrat et ex equo orationem habet, qua de religione mutata reddidit rationem hoc adpendice: Si quis velit a se stare atque adeo a domino deo et pati, quęcunque dominus propterea immittat, declinet in hoc latus; qui id non velit, in alterum latus declinet sine omni iactura.</s>
+					<s n="13" xml:lang="la" type="auto">Quibus auditis omnes ad unum steterunt ab ipso.</s>
+					<s n="14" xml:lang="la" type="auto">Vir gavisus est et tota civitas<note xml:id="fn8" type="footnote" n="8">Hierbei handelt es sich wohl um ein Gerücht. Weder in den Beständen des Historischen Archivs der Stadt <placeName>Köln</placeName> (vor dessen Einsturz am 3. März 2009) noch in der Literatur ist ein derartiges Ereignis belegt. - Vgl. unten <ref target="file12006">Nr. 1959</ref>, 5-17.</note>.</s>
+					<s n="15" xml:lang="la" type="auto"><persName>Paulo</persName> post etiam misit ad<pb type="edition" next="313"/> canonicos, quid vel ipsis in animo.</s>
+					<s n="16" xml:lang="la" type="auto">Responderunt mansuros se hoc tempore in veteri sua religione.</s>
+					<s n="17" xml:lang="la" type="auto">De hoc responso quid consilii capturus sit, adhuc latet<note xml:id="fn9" type="footnote" n="9">Auch für dieses Ereignis ließ sich kein Beleg finden.</note>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Est mihi sententia ultima de pace religionis,<note xml:id="fn10" type="footnote" n="10">Gemeint sind wohl die Bestimmungen über Religion, Friede und Recht im Reichstagsabschied vom 10. Juni 1544 (RTA JR XV/4 2244-2285, <ref target="file10601">Nr. 565</ref>, bes. Abschn. V, 2269-2274).</note> contra quam agere conatur Brunsvicensis; si nossem te non vidisse vel desyderare, lubens mitterem.</s>
+					<s n="19" xml:lang="la" type="auto">Talis est, qualis esse solet, ubi iudex conatur iusticia neglecta partibus diversissimis satisfacere, ut videas tamen, in quam partem ille magis inclinet.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Et certa et incerta multa mihi sunt; verum ocium ea scribendi deficit.</s>
+					<s n="21" xml:lang="la" type="auto">Vale cum tuis in domino Iesu.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Basileę, 22. iulii anno 1544.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Dominum <persName>Pellicanum</persName><note xml:id="fn12" type="footnote" n="12"><persName>Konrad Pellikan</persName>.</note> nomine meo salutabis.</s>
+					<s n="25" xml:lang="la" type="auto">Vellem, imo vellet uxor<note xml:id="fn13" type="footnote" n="13">Elsbeth [...]; s. <bibl>Zwa</bibl> 8/2, 1946, 333.</note> f[ratris] Ioannis<note xml:id="fn14" type="footnote" n="14"><persName>Johannes Lüthard</persName>, gest. am 8. Juli 1542; s. <hi><persName>Pellikan</persName>,</hi> Chronikon 155.</note> defuncti, ut ad postremas meas<note xml:id="fn15" type="footnote" n="15">Nicht erhalten.</note> respondere dignaretur.</s>
+					<s n="26" xml:lang="la" type="auto"><persName>Theodorus</persName><note xml:id="fn16" type="footnote" n="16"><persName>Theodor Bibliander</persName>.</note> item salvus sit cum familia.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="27" xml:lang="la" type="auto">D. Heinricho Bullingero, Tigurinorum antistiti dignissimo, fratri observandissimo suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

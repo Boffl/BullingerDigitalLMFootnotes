@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12905" type="Brief" source="HBBW" n="2856">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 23. März 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salve.</s>
+					<s n="2" xml:lang="la" type="auto">Recepi tuas<note xml:id="fn1" type="footnote" n="1">Brief Nr. 2855 vom 21. März.</note>, <persName>Myconi</persName> colendissime, et ago tibi gratias pro fide et labore.</s>
+					<s n="3" xml:lang="la" type="auto">Quae habui, scripsi<note xml:id="fn2" type="footnote" n="2">Nämlich mit Brief <ref target="file12899">Nr. 2850</ref> vom 19. März.</note> per <persName ref="p5295">Froschoverum</persName>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">D. <persName>Dryandro</persName> dices me recepisse omnia et agere gratias.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Certum est <placeName>Bohemos</placeName> coniurasse, quod nolint arma ferre extra suam ditionem.<note xml:id="fn4" type="footnote" n="4">Siehe dazu schon <ref target="file12870">Nr. 2821</ref>,162f; <ref target="file12890">Nr. 2841</ref>,69-71; <ref target="file12897">Nr. 2848</ref>,38-40; <ref target="file12907">Nr. 2858</ref>,30-37; <hi>MBW-T XVI</hi> 201, Nr. 4654.</note></s>
+					<s n="6" xml:lang="la" type="auto">Coniurationem conscriptam vidi et legi.</s>
+					<s n="7" xml:lang="la" type="auto">Unde non est, quod ea parte sibi metuat elector.<note xml:id="fn6" type="footnote" n="6"><persName>Johann Friedrich I.</persName>, Kurfürst von Sachsen.</note><pb type="edition" next="440"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Literas has protinus reddi curabis d. <persName>Munstero</persName>,<note xml:id="fn7" type="footnote" n="7">Den von <persName>Blarer</persName> an Bullinger übermittelten Brief für <persName>Sebastian Münster</persName>, der vermutlich von <persName>Erasmus Oswald Schreckenfuchs</persName> verfasst war; s. <ref target="file12902">Nr. 2853</ref>,49-56.</note> ut is pecunias ad me per certum hunc nuncium perferendas tradat.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="9" xml:lang="la" type="auto"><persName ref="p18518">Gastium</persName> amice salutabis et ages gratias pro literis<note xml:id="fn9" type="footnote" n="9">Brief <ref target="file12897">Nr. 2848</ref> vom 17. März.</note> diligentissimis.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Vale.</s>
+					<s n="11" xml:lang="la" type="auto">Salutabis fratres et amicos.</s>
+					<s n="12" xml:lang="de" type="auto">23. martii 1547.</s>
+					<s n="13" xml:lang="la" type="auto">Festinantissime.</s>
+					<s n="14" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Ornatissimo viro d. <persName>Osvaldo Myconio</persName>, domino et fratri colendissimo.</s>
+					<s n="16" xml:lang="de" type="auto"><placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10397" type="Brief" source="HBBW" n="365">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Bucer / Strassburg AN Heinrich Bullinger, 24. April [1534]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia domini, mi Heylryche.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Hunc accipe pro tua pietate et illa rara humanitate.</s>
+					<s n="3" xml:lang="la" type="auto">Sunt ista consilia, ut scribis<note xml:id="fn3" type="footnote" n="3">Da aus dieser Zeit keine Briefe Bullingers an <persName>Bucer</persName> erhalten sind (vgl. oben S. 138, Anm. 8), bleibt ungewiß, wie weit seine Ratschläge im Zusammenhang stehen mit den nachfolgenden Bemerkungen über gerechte Beurteilung und <persName>Luthers</persName> Angriff auf Erasmus.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Tamen nobis iudicandum est secundum ea, quae homines profitentur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto"><pb type="edition" next="147"/>Ex ore tuo te iudico<note xml:id="fn4" type="footnote" n="4">Lk 19, 22.</note> Iudicandum dico de aliis.</s>
+					<s n="6" xml:lang="la" type="auto">Nos in nostra re cauti simus pro ea cognitione, quam donaverit dominus.</s>
+					<s n="7" xml:lang="la" type="auto">Pacem orare debemus omnes<note xml:id="fn5" type="footnote" n="5">Angesichts der Kriegsvorbereitungen Schlimmes befürchtend (vgl. oben <ref target="file10383">Nr. 351</ref> und S. 125, 15-18), bat <persName>Bucer</persName> ähnlich wie hier auch in seinen Briefen an <persName>Ambrosius Blarer</persName> vom 30. April und 9. Mai 1534 (<bibl>Blarer BW</bibl> I 494) um Frieden.</note>, et utinam haec olim sententia illic sedisset omnibus.</s>
+					<s n="8" xml:lang="la" type="auto">Sed hoc ampliores deo agendae gratiae, quod isto animo vos donavit.</s>
+					<s n="9" xml:lang="la" type="auto">Quatenus igitur hi pacem quęsierint, officiosi in eos esse studebitis.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Princeps<note xml:id="fn6" type="footnote" n="6">Gemeint ist wohl <persName>Philipp von Hessen</persName> (vgl. <ref target="file10400">Nr. 368</ref>), vielleicht auch, wie Simler (Zürich ZB, Ms S 35, 130) vermutet, <persName>Ulrich von Württemberg</persName>. Vgl. noch Anm. 2.</note> hic videtur timere deum.</s>
+					<s n="11" xml:lang="la" type="auto">Hactenus faveamus ei.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Homo<note xml:id="fn7" type="footnote" n="7">Siehe Anm. 2.</note> hic, qui ad vos venit, Pius et plane eruditus est, tum noster.</s>
+					<s n="13" xml:lang="la" type="auto">Verum hoc.</s>
+					<s n="14" xml:lang="la" type="auto">De omnibus agetis cum eo gravius et candidius, ne quis id, quod in <persName ref="p18889">Luthero</persName> merito damnamus, in nobis notet, inaudita scilicet et incognita condemnari<note xml:id="fn8" type="footnote" n="8">Vgl. etwa oben S. 122, 20-24 und 138, 35-39.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Ut igitur soles, sis erga hunc Bullingerus.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Saluta symmystas et adsis huic ita, ut videat nos vere invicem fratres esse prae eo, quod apud Lutheranos conspicitur.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><placeName>Argentorati</placeName>, 24. aprilis.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto"><persName ref="p18198">M. Bucerus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Vere pio et docto Christi ministro Heylrycho Bullingero, fratri summe charo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

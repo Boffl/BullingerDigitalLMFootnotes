@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10612" type="Brief" source="HBBW" n="574">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Zwick] / [Konstanz] AN [Heinrich Bullinger], [Konrad Pellikan (Kürschner)], [12. April 1535]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Servet vos Christus.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Sicut in gravissimis persequutionibus fortiter orandum est ad dominum pro pace ecclesiae, ita nunc quoque omnes vires extendendae sunt, domini, patres, praeceptores, fratres omnium dilectissimi, ad invocandum nomen Christi altissimum contra pacem ecclesiae, quam vereor satanam angeli personatum agentem<note xml:id="fn4" type="footnote" n="4">Vgl. 2Kor 11, 14.</note> tali ratione meditari, ut magna ignominia nostra pariter et ecclesiae perditione visuri et sensuri simus exitum.</s>
+					<s n="3" xml:lang="la" type="auto">Tinniunt aures mihi non solum propter consilia a quibusdam data, quae scitis<note xml:id="fn5" type="footnote" n="5">Gemeint sind die Gutachten deutscher Theologen, die <persName>Ulrich Chelius</persName> eingeholt hatte; vgl. oben <ref target="file10549">Nr. 513</ref>, Anm. 4.</note>, sed quod audiam<note xml:id="fn6" type="footnote" n="6">Siehe Anm. 2.</note> hoc iam quosdam non infimi nominis agere, nempe Cattum<note xml:id="fn7" type="footnote" n="7"><persName>Philipp von Hessen</persName>.</note>, ut negotium concordiae ecclesiasticae<note xml:id="fn8" type="footnote" n="8">Vgl. oben <ref target="file10610">Nr. 572</ref>, Anm. 10.</note> committatur<persName>Sturmio</persName> <placeName>Argentoratensi</placeName> 9,<note xml:id="fn9" type="footnote" n="9"><persName>Jakob Sturm</persName> von <placeName>Straßburg</placeName>.</note>, <persName>Besserero</persName> <placeName>Ulmensi</placeName> consuli, <persName ref="p18198">Bucero</persName><pb type="edition" next="203"/> et <persName ref="p6490">Philippo</persName><note xml:id="fn11" type="footnote" n="11"><persName>Philipp Melanchthon</persName>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Sic crescimus in verbo veritatis, ut quod haud ita pridem condemnavimus plenis buccis<note xml:id="fn12" type="footnote" n="12">Vgl. Adagia, 3, 5, 71 (<bibl>LB</bibl> II 844).</note>, hoc iam amplectemur pedibus et manibus<note xml:id="fn13" type="footnote" n="13">Siehe oben <ref target="file10610">Nr. 572</ref>, Anm. 12.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Vach<note xml:id="fn14" type="footnote" n="14">Ausruf des Unwillens (<bibl>Georges</bibl> II 3352).</note>, quam contendimus de Christi praesentia in caena!</s>
+					<s n="6" xml:lang="la" type="auto">Et ubi est praesentia Christi in ecclesia, an adeo evanuit spiritus illius?</s>
+					<s n="7" xml:lang="la" type="auto">An adeo invaluerunt tenebrę, ut hominum iuditium sit invocandum et expectandum, quid privatus<pb type="scan" next="||580v."/> quisque in apertissimo Christi negotio statuat?</s>
+					<s n="8" xml:lang="la" type="auto">Ego non crediderim etiam cordatissimis quibuslibet tantum deferendum, ne dicam iis, in quibus plus animi et prudentiae desyderandum.</s>
+					<s n="9" xml:lang="la" type="auto">"Non veni mittere pacem", inquit Christus [Mt 10, 34].</s>
+					<s n="10" xml:lang="la" type="auto">Ea est ecclesiae concordia!</s>
+					<s n="11" xml:lang="la" type="auto">Sed hoc in sinum vestrum effudi, ut vehementissime oretis pro igne et gladio.</s>
+					<s n="12" xml:lang="la" type="auto">Nostis enim, quo ordine crescat regnum Christi.</s>
+					<s n="13" xml:lang="de" type="auto">Ey ja, man muͤst uns wider uff kusse<note xml:id="fn15" type="footnote" n="15">Kissen.</note> setzen <foreign xml:lang="la">et parare pulvillos sub omni cubito<note xml:id="fn16" type="footnote" n="16">Vgl. Ez 13, 18; <bibl>Grimm</bibl> V 851f. 854; <bibl>Wander</bibl> II 1356.</note></foreign>!</s>
+					<s n="14" xml:lang="la" type="auto">Caeterum ne spargatis hoc, mi fratres.</s>
+					<s n="15" xml:lang="la" type="auto">Apud vosmet ipsos invocate nomen dilectissimi domini nostri Jesu Christi.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Deinde, ut omnia vobis concredam, mitto ad vos mentem <persName ref="p18889">Lutheri</persName> in causa eucharistiae.</s>
+					<s n="17" xml:lang="la" type="auto">Sed remittendum est; non enim tantum ocii fuit, ut describerem, et iamiam expectat tabellio<note xml:id="fn18" type="footnote" n="18">Unbekannt, vgl. oben <ref target="file10611">Nr. 573</ref>, 15-18.</note>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Surnma: Cavete ab omni indignatione.</s>
+					<s n="19" xml:lang="la" type="auto">Non vulgate huiusmodi, quae mortuis scripta volo<note xml:id="fn19" type="footnote" n="19">im Sinne von: unter der Bedingung von Verschwiegenheit; vgl. <bibl>Adagia</bibl>, 1, 4, 86 (<bibl>LB</bibl> II 178).</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Expedit huiuscemodi per nos non venire in lucem.</s>
+					<s n="21" xml:lang="la" type="auto">Orate vero, ne in lucem veniant et ut dominus, dominus ipse se nobis deum praestet <foreign xml:lang="de">und welle dem schantlichen concordieren wider ston.</foreign></s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift und Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

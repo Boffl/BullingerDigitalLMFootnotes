@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10781" type="Brief" source="HBBW" n="743">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / Basel AN s.n. / [Appenzell], 5. Februar 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et pacem per Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Charissimi fratres, conventum ab aliquanto tempore per nos institutum et hisce nunc tandem diebus celebratum vos latere noluimus.</s>
+					<s n="3" xml:lang="la" type="auto">Convenimus enim circiter ianuarii diem tricesimum ex civitatibus Helveticis, quae per dei gratiam et auxilium vel post cladem gravissimam<note xml:id="fn2" type="footnote" n="2">Gemeint ist die Niederlage der Protestanten im Zweiten <placeName>Kappeler</placeName> Krieg.</note> evangelium adhuc fovent, <placeName>Basileam</placeName> et ea, quae spectant ad domini gloriam atque communem ecclesiarum Germanię concordiam, tam suaviter et unanimiter tractavimus et ad felicem, uti spes est, finem perduximus, ut nemo videre non valuerit deum inter eos, qui nomine ipsius fuerunt congregati, medium interfuisse<note xml:id="fn3" type="footnote" n="3">Vgl. Mt 18, 20.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Haec ipsa vero quęnam et qualia sint, e fratribus potestis cognoscere Sanctogallensibus.</s>
+					<s n="5" xml:lang="la" type="auto">Tempus enim fuit brevius, quam ut transcripta nunc ad vos dare licuerit.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Quod autem vos, fratres in domino charissimos, non adcersivimus, non subest alia quam magistratus vestri ratio.</s>
+					<s n="7" xml:lang="la" type="auto">Is enim, etsi hactenus contra veritatem evangelicam non sęviit, tepidius egit tamen, quam ut in praesentiarum ad nos ipsum ut reliquarum civitatum primores vocare fuerimus ausi.</s>
+					<s n="8" xml:lang="la" type="auto">Hoc certe nisi obstitisset, non sumus adeo vestri immemores, ut pręteriissemus.</s>
+					<s n="9" xml:lang="la" type="auto">Nam eandem ob causam neque Glareanos neque Durgeanos<note xml:id="fn4" type="footnote" n="4"><placeName>Thurgauer</placeName>.</note> advocavimus, quos in domino diligimus tamen ex animo.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Cęterum, ne quid hic fictum aut simulatum putetis, paucis conventus ac negocii totius rationem accipite.</s>
+					<s n="11" xml:lang="la" type="auto">Concordia inter nos primo, deinde quoque erga Lutheranos quos vocant, synodum coegit.</s>
+					<s n="12" xml:lang="la" type="auto">Optaremus etenim, ut par est, animos omnium, ut institutio iubet evangelica, consentire in domino, si quo modo fieri queat, ut nomen dei rite nobis glorificetur.</s>
+					<s n="13" xml:lang="la" type="auto">Inter agendum igitur in<pb type="edition" next="119"/> hoc unum intendimus, ut doctrina n[ostra] sit eadem veritate domini servata cum <persName ref="p18889">Luthero</persName> et eius complicibus.</s>
+					<s n="14" xml:lang="la" type="auto">Unde res est huc perducta, ut articulis positis<note xml:id="fn5" type="footnote" n="5">Zum Ersten Helvetischen Bekenntnis s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1.</note> ne tantillum quidem ab hactenus tradendi formula declinantes moderatis verbis Argentinens[ium] rogatu uteremur in gratiam <persName ref="p18889">Lutheri</persName> suorumque.</s>
+					<s n="15" xml:lang="la" type="auto">Quod vel ideo non fuit grave, quia et Christus et Paulus iisdem sunt usi, et nos, dum ita cecidit, nunquam vitavimus.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ea sunt autem, ut baptisma regenerationis lavacrum<note xml:id="fn7" type="footnote" n="7">Siehe Art. XXII des Bekenntnisses (lateinischer Text in: <bibl>Schaff</bibl> III 224). Siehe Art. XXIII des Bekenntnisses (<bibl>Schaff</bibl> III 225).</note>, sacramentum coenae vocemus corpus Christi sanguinemque<note xml:id="fn8" type="footnote" n="8">Siehe Art. XXIII des Bekenntnisses (<bibl>Schaff</bibl> III 225).</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Id tamen non nisi cum declaratione, quę nobis est usque adhuc usurpata.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Quod postquam ab <placeName>Argentinensibus</placeName> fratribus petitum recusare non licebat, nisi recantare, quod hactenus docueram[us], sustinuissemus, morem gessimus.</s>
+					<s n="19" xml:lang="la" type="auto">Id quod ex articulis visis et probe consyderatis clare cognoscere dabitur.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Quamobrem, fratres dilectissimi, obnixe contendimus, si quando futurum, ut de concordia pergatur et res ad vos quoque fuerit perlata, illud prosequamini, quod erit in primis dei, tum vero et concordię ecclesiasticę, ut tandem etiam hoc consequatur olim, ut papismus pravus et noxius dei cultus cum satana cedere et in barathrum abire cogatur perpetuum ad dei et domini nostri Iesu gloriam at animarum salutem.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Valete per Christum semper et pro nobis orate mutuiter.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 5. februarii 1536.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Fratres conventus <placeName>Basiliens[is]</placeName> vestr[i].</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="24" xml:lang="la" type="auto">Eruditis piisque Christi ministris Abbacellanis, fratribus in domino charissimis suis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

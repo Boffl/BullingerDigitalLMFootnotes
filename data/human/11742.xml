@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11742" type="Brief" source="HBBW" n="1697">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Gast] / [Basel] AN Heinrich Bullinger, [November/Dezember 1542]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Mitto tibi hic talerum et dimidium, etsi velim omnia expressius esse efficta, sed nullos alios potui nancisci; ob id grato animo meum studium et diligentiam accipe.</s>
+					<s n="3" xml:lang="la" type="auto">Accepi etiam 14 batziones pro libris.</s>
+					<s n="4" xml:lang="la" type="auto">Timeo, ne plus miseris, quam ego adsignaverim;<note xml:id="fn2" type="footnote" n="2">Der vorausgegangene Briefwechsel ist nicht erhalten.</note> excidit enim, quid nam exposuerim.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">De Alcorano<note xml:id="fn3" type="footnote" n="3">Vgl. oben Anm. 1.</note> ne sis sollicitus; dominus forte dabit feliciora tempora futuro anno, ut manumittatur Alcoranum invitis inferorum portis.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Regnant iam nostri graduati,<note xml:id="fn4" type="footnote" n="4"><persName>Gast</persName> war einer der schärfsten Kritiker der in <placeName>Basel</placeName> sehr umstrittenen akademischen Grade und polemisierte mit Vorliebe gegen seinen 1540 zum Doktor der Theologie promovierten Kollegen <persName>Wolfgang Wissenburg</persName>; vgl. <persName>Gast</persName>, Tagebuch 63-65.</note> etsi nihil promoveant.</s>
+					<s n="7" xml:lang="la" type="auto">Scholae nostrae quotidie aliquid detrimenti accedit; auditores pauci, doctorum multitudo.</s>
+					<s n="8" xml:lang="la" type="auto">Quicunque eleemosynam petit, illum mox adiurant, ut nomen det universitati, quo possent gloriari se habere saltem aliquos auditores.</s>
+					<s n="9" xml:lang="la" type="auto">Theologica lectio omnino friget pro dolor.</s>
+					<s n="10" xml:lang="la" type="auto">Revocarunt nostri omnia fere, quę in papatu hactenus fuerunt, sed non video ullum fructum inde oriri.</s>
+					<s n="11" xml:lang="la" type="auto">Dominus illis det mentem meliorem.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">A Turcica clade<note xml:id="fn6" type="footnote" n="6">Vgl. oben Anm. 1.</note> nostri non potuere cavere, quia dominus nobiscum pugnat.</s>
+					<s n="13" xml:lang="la" type="auto">Id enim iam olim praedixit <persName>Oecolampadius</persName>, quum Threnos Hieremię interpretaretur.</s>
+					<s n="14" xml:lang="la" type="auto">Video vaticinium verum fuisse.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Vale in domino.</s>
+					<s n="16" xml:lang="la" type="auto">Dominum Th[eodorum<note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note> nom]ine meo salutabis et <persName>Pellicanum</persName>.</s>
+					<s n="17" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Domino Heinricho Bullingero, ecclesiae Tigurinae pastori vigilantissimo.</s>
+					<s n="19" xml:lang="de" type="auto">Zurich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

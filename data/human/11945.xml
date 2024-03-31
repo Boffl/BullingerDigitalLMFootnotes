@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11945" type="Brief" source="HBBW" n="1899">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] AN Heinrich Bullinger, 24. April [1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ad quartumdecimum calendas maii<note xml:id="fn2" type="footnote" n="2">18. April.</note> <placeName>Isnam</placeName> profectus in publicis ecclesię nostrę negociis hoc lubentius reditum, mi Bullingere, maturavi, quod non dubitabam te mihi propediem de communibus rebus rursus scripturum.</s>
+					<s n="3" xml:lang="la" type="auto">Nec me fefellit praesumpta persuasio; nam domum heri reversus tua scripta<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note> repperi, pro quibus tibi etiam praeter vulgarem modum agerem gratias, nisi nihil istis inter me et te opus esse viderem.</s>
+					<s n="4" xml:lang="la" type="auto">Proinde missis istis visum est huncce rursum ad vos nuncium<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> abmandare, quo tibi, quę scitu vobis necessaria videntur, significarem.</s>
+					<s n="5" xml:lang="la" type="auto">Dominus omnia nobis bene vertat, cui te tuosque omnes quam possum diligenter commendo, utque vicissim a vobis illi commendemur, vehementer exopto.<pb type="edition" next="213"/></s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto"><persName ref="p6490">Philippi</persName><note xml:id="fn6" type="footnote" n="6"><persName>Melanchthon</persName>.</note> ad te literę<note xml:id="fn7" type="footnote" n="7">Oben <ref target="file11927">Nr. 1881</ref>. -Bullinger hatte auch <persName>Vadian</persName> am 19. April eine Abschrift dieses Briefes geschickt (s. oben <ref target="file11942">Nr. 1896</ref>).</note> sic me exhilararunt, ut diu iam nihil ęque.</s>
+					<s n="7" xml:lang="la" type="auto">Valet hic homo non tam pietate et eruditione, sed iudicii acrimonia et animi singulari modestia, ut minus futurum sit turbarum, si demortuo Luthero ille nobis superstes aliquamdiu vixerit.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quę de thesauro Rhome reperto<note xml:id="fn8" type="footnote" n="8">Gemeint ist der Fund des Grabes von Kaiser <persName>Honorius</persName>; s. oben <ref target="file11939">Nr. 1893</ref>.</note> describenda misisti,<note xml:id="fn9" type="footnote" n="9">Hier handelt es sich sicherlich um den ausführlichen, auch an <persName>Vadian</persName> gesandten Bericht Bullingers; s. oben <ref target="file11942">Nr. 1896</ref> (Beilage).</note> gratissima fuerunt, praesertim quę tua diligentia de <persName>Stilico Wandalo</persName> adnotanda curavit<note xml:id="fn11" type="footnote" n="11"><persName>Blarer</persName> bezieht sich auf ein Zitat aus dem "Chronicon" des <persName>Burchard von Ursberg</persName>, das Bullinger auch dem nach St. Gallen gesandten Exemplar beifügte (s. <persName>Vadian</persName> BW VI 308).</note>.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ah, mi venerande pariter et charissime Bullingere, quam esset omnibus modis omnium rerum deploratissimus status hocce nostro sęculo, nisi nos optimus et benignissimus pater in tantis tenebris et omnium rerum turbinibus evangelio Christi, filii sui, illustraret et velut in tranquillissimum quendam portum reciperet, quo sane bono satis nobis felices videri merito debemus, etiamsi mundi princeps<note xml:id="fn12" type="footnote" n="12">der Teufel (vgl. Joh 14, 30).</note> omnia sursum ac deorsum rotet ac terrę misceat cęlum<note xml:id="fn13" type="footnote" n="13">Vgl. Adagia, 1, 3, 81 (<bibl>ASD</bibl> II/1 384f, <ref target="file10312">Nr. 281</ref>).</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Tu illum pro nobis sedulo interpella, ut hoc una velut sacra ancora<note xml:id="fn14" type="footnote" n="14">Vgl. Adagia, 1, 1, 24 (<bibl>ASD</bibl> II/1 136, Nr. 24).</note> nixi omnes mundi procellas velut ex alto rideamus.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Iterum atque iterum vale cum tuis omnibus.</s>
+					<s n="12" xml:lang="la" type="auto">Commenda me domino <persName>Röstio</persName><note xml:id="fn15" type="footnote" n="15"><persName>Diethelm Röist</persName>.</note> et cęteris venerandis mihi fratribus.</s>
+					<s n="13" xml:lang="la" type="auto">24. aprilis.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Iam hunc tertium nuncium ad vos abmando; duobus prioribus 24 bazones<note xml:id="fn16" type="footnote" n="16"><placeName>Konstanzer</placeName> Batzen.</note> numeravi huic quoque 12 numeraturus, nisi remoris istic iniectis ultra quartum diem reditum differre cogatur.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11911" type="Brief" source="HBBW" n="1865">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hermann Aquilomontanus / [Oldersum] AN Heinrich Bullinger, 12. März 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Postquam hee litere diutius nuntii penuria delituerant, eas reseravi et hanc appendicem adieci<note xml:id="fn1" type="footnote" n="1">Das hier edierte Schreiben ist eine Nachschrift, die <persName>Aquilomontanus</persName> unter seinen Brief vom 14. August 1543 (<bibl>HBBW</bibl> XIII, <ref target="file11818">Nr. 1772</ref>) setzte.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Nosti per cesarem Gelriam devictam et a Clivensi redemptam, civitatem illam a Gelris ultro relictam cesari, interim pacem compositam cum Clivensi,<note xml:id="fn3" type="footnote" n="3">Zum Friedensschluss zwischen dem Kaiser und <persName>Herzog Wilhelm von Jülich</persName> s. bes. <bibl>HBBW XIII</bibl> <ref target="file11831">[Nr. 1785]</ref> 256, Anm. 23.</note> sed cum Franco ac Gallo<note xml:id="fn4" type="footnote" n="4"><persName>König Franz I.</persName></note> bellum continuari nec quicquam boni a comitiis<note xml:id="fn5" type="footnote" n="5">Gemeint ist der Reichstag zu <placeName>Speyer</placeName>, der am 20. Februar 1544 eröffnet worden war (s. RTA JR XV/1 118).</note> sperari.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Utinam consilium mihi perscriberes de restitutione, quam hic respuunt quidem, qui bona ecclesie sub evangelii initio sibi usurparunt!</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vale, me ama, quod quidem sentiam, si sepius paucis in nundinis scripseris et valetudinem tuam custodieris.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Raptim, Gregorii anno 1544.</s>
+				</p>
+				<p>
+					<note>[Ohne eigene Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11609" type="Brief" source="HBBW" n="1566">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Christian Hochholzer / Frankfurt am Main AN Heinrich Bullinger, 15. September 1541</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Si vales recte cum omni tua familia, pater colendissime, pervolupe est.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Socius quidem meus<note xml:id="fn1" type="footnote" n="1">Gemeint ist <persName>Johannes Pontisella</persName>; vgl. oben <ref target="file11604">Nr. 1561</ref>, 30.</note> et ego valemus.</s>
+					<s n="4" xml:lang="la" type="auto">Frankfordiam pervenimus satis faeliciter, postquam diu in itinere moram traximus.</s>
+					<s n="5" xml:lang="la" type="auto">Adivimus <placeName>Basileę</placeName> et <placeName>Argentorati</placeName> doctos singulos, qui omnes nos humaniter tractarunt, polliciti sunt suam operam promptam, in primis <placeName>Basilienses</placeName>, nec minus d. <persName>Capito</persName> et <persName>Bedrottus</persName> <placeName>Argentoratenses</placeName> (<persName>Sturmius</persName><note xml:id="fn2" type="footnote" n="2"><persName>Johannes Sturm</persName>.</note> enim aberat) magnam prae se ferebant benevolentiam, excepto <persName ref="p18198">Bucero</persName>, quem ante aedes stantem, cum d. <persName>Bedrotto</persName> accessimus, salutavimus; tum <persName>Bedrotto</persName> dicente nos esse Tigurinos, et nobis idem affirmantibus, salutantes quam fieri potuit officiosissime vix resalutabat, in aedes ingrediebatur, forsan occupatus quibusdam negotiis, relinquens nos, quos vix uno atque altero verbulo resalutaverat.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Iam ad nostra revertor: <persName>Christophorus Rotacher</persName> nobiscum proficiscitur ex consilio <persName>Myconii</persName>, liberatus ab ea prorsus, quam viciavit; infantem forsan alere cogetur, ipsi tamen non est iure matrimonii obstrictus, nam non fidem dederat puellę<note xml:id="fn3" type="footnote" n="3">Zum Ehegerichtsurteil betreffend <persName>Rotachers</persName> Affäre mit <persName>Barbel Esslisperg</persName> vgl. oben <ref target="file11604">Nr. 1561</ref>, Anm. 12.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Praeter hanc non aliam duxit, ut fama Tigurum pertulerat<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11606">Nr. 1563</ref>, 28-30.</note>.</s>
+					<s n="8" xml:lang="la" type="auto"><placeName>Marpurgum</placeName> iam una petimus, inde diligenter brevi, quo pacto res nostrę sese habeant, cognosces.</s>
+					<s n="9" xml:lang="la" type="auto">Nunc enim ipse quoque nescio, quo pacto sese hinc habiturę, bene tamen, nisi me spes fallit.</s>
+					<s n="10" xml:lang="la" type="auto"><placeName>Marpurgi</placeName> per hyemem mansuros decrevimus, nisi et illic pestis sevire caeperit.</s>
+					<s n="11" xml:lang="la" type="auto">In omnibus enim locis per tractum Rheni, ad quę hactenus devenimus, aliquas vires exercet.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p5295">Christophorus Froschouer</persName> mihi dedit 14 aureos, quos a te vel a d. <persName ref="p8423">Ammiano</persName> scolarcha<note xml:id="fn5" type="footnote" n="5">Schulherr <persName>Johann Jakob Ammann</persName>.</note> recipiet.</s>
+					<s n="13" xml:lang="la" type="auto">Ni enim fallor, facile ei pro his satis fiet, si triticum, quod ad me pertinet, vendatur atque stipendio addatur.</s>
+					<s n="14" xml:lang="la" type="auto">Frugi nos erimus, quoad mentis compotes fuerimus.</s>
+					<s n="15" xml:lang="la" type="auto">Videmus enim etiam nunc in primo limine, quam multis sit opus.</s>
+					<s n="16" xml:lang="la" type="auto">De me id habeo polliceri in omnibus me ita acturum, ut tu, pater observande, et alii velle videmini.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Vale in domino et me ex patrocinio tuo nunquam repellas.</s>
+					<s n="18" xml:lang="la" type="auto">Salutabis meo nomine quam officiosissime uxorem<note xml:id="fn6" type="footnote" n="6"><persName>Anna, geb. Adlischwyler</persName>.</note> tuam de me optime meritam et sobolem<note xml:id="fn7" type="footnote" n="7">Zu Bullingers Kindern s. oben <ref target="file11503">Nr. 1460</ref>, Anm. 121.</note> omnem tuam faelicem.</s>
+					<s n="19" xml:lang="la" type="auto">Fratrem item tuum, d. Ioannem, mihi amicissimum, eiusque uxorem<note xml:id="fn8" type="footnote" n="8"><persName>Margaretha, geb. Berker</persName>.</note>, famulam tuam Brygitam<note xml:id="fn9" type="footnote" n="9"><persName>Brida Schmid</persName>, vgl. <bibl>HBBW</bibl> IV <ref target="file10416">[Nr. 382]</ref>, S. 192, Anm. 35.</note>, in primis <persName>Annam Kellerin</persName><note xml:id="fn10" type="footnote" n="10">Ob die gleichnamige Tante Bullingers gemeint ist (s. Heinrich Bullinger, Verzeichniß des Geschlechts der Bullinger [...], in: Helvetia. Denkwürdigkeiten für die XXII Freistaaten der Schweizerischen Eidgenossenschaft, hg. v. Joseph Anton Balthasar, Bd. I, Zürich 1823, S. 96), bleibt unsicher.</note>.<pb type="edition" next="313"/></s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Frankfordię, 15. septembris 1541.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p5708">Christianus Hochholzer</persName>, tui observantissimus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="la" type="auto">Doctissimo nec minus pio viro d. Heinricho Bullingero, Tigurinę ecclesiae antistiti, domino suo ac patri colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

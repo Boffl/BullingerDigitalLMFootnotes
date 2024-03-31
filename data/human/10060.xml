@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10060" type="Brief" source="HBBW" n="33">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Bremgarten] AN Huldrych Zwingli, 24. November 1529</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Fovet hic miserandus senex filium domi (quem nosti <persName>Ioannem Gingium</persName>) paralisi deiectum, cum interim ab hoc exigatur docendi offitium.</s>
+					<s n="3" xml:lang="la" type="auto">Ceterum cum non ignoret, quanti referat, quem suis praefitiat, nemini arduum hoc negotium citius concredidit, atque tibi, <persName>Zuingli</persName> doctissime, quippe qui pro ista tua vigilanti ecclesiarum cura et possis et velis adminiculari.</s>
+					<s n="4" xml:lang="la" type="auto">Sunt enim illic apud vos plurimi ad hasce res eidonei.</s>
+					<s n="5" xml:lang="la" type="auto">Obsecramus itaque, ut te nobis, imprimis vero ovibus Christi hac in re impendas, denique boni consulas temeritatem nostram, qua severiora tua audemus interturbare studia<note xml:id="fn4" type="footnote" n="4">Vom weiteren Verlauf dieser Angelegenheit ist nichts bekannt.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Dominus Jesus te nobis diu servet incolumem.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">24. novembris 1529.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Tuus H. Bullingerus</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="9" xml:lang="la" type="auto"><persName>Huldrycho Zuinglio</persName>, fratri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

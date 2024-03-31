@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12451" type="Brief" source="TUSTEP" n="2404">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Philipp Melanchthon, 1. April 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p6490">Philippo Melanchtoni</persName> suo Bullingerus.</s>
+					<s n="2" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+					<s n="3" xml:lang="la" type="auto">Abstinui sesquianno iam a salutandi scribendique offitio, <persName ref="p6490">Philippe</persName> doctissime idemque colendissime domine et frater charissime, non quod te amare desierim aut odire coeperim, sed quod infoelix illa contentio inter d[octorem] <persName ref="p18889">Lutherum</persName> beatae memoriae et nos intercesserit.</s>
+					<s n="4" xml:lang="la" type="auto">Timui valde, ne, si pergerem, uti coeperam, familiarius te salutare et epistolas ac libros mittere, d. <persName ref="p18889">Lutherum</persName> in te concitarem magnamque tibi apud multos mororsiores suspitionem excitarem, quasi nobiscum colluderes.</s>
+					<s n="5" xml:lang="la" type="auto">Neque enim ignorabam vel ex ultimis illis ad me tuis edoctus, quae passus fueras non ita pridem a fratribus quibusdam inquietioribus.</s>
+					<s n="6" xml:lang="la" type="auto">Iam vero, cum d. <persName ref="p18889">Lutherus</persName> migraverit ad dominum nec sit ullum periculum amplius exacerbationis inter te et illum, quod suggestionibus provocent, quibus concordia inter fratres non fit, quanti merito fieri deberet, repeto scribendi offitium ac pergam in eo diligenter, nisi tu nolis ac tibi ne nunc quidem integra et grata sit mea familiaritas.</s>
+					<s n="7" xml:lang="la" type="auto">Nolo tibi, colendissime mi <persName ref="p6490">Philippi</persName>, oneri esse, nolo tibi incommodare; si non bona cum gratia tua scribere licet, ego tacebo libens; interim vero nihilominus colam te et amabo.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="8" xml:lang="la" type="auto">D[octorem] <persName ref="p18889">Lutherum</persName> virum doctum et de ecclesia optime meritum gaudeo migrasse ad dominum non propter causam, quam cum illo habuimus litigandam, dominus novit, sed quod malis liberatus maximis futurisque ereptus calamitatibus cursum suum feliciter absolvit et nunc cum domino nostro, cui servivit, laetatur in gloria.</s>
+					<s n="9" xml:lang="la" type="auto">Interim non mediocriter doleo illo nos viro destitutos, cuius ope et consilio in communi religionis causa poteramus iuvari.</s>
+					<s n="10" xml:lang="la" type="auto">Tametsi enim pro carnis humanae ingenio sua habuerit vitia, insigne tamen constantię donum consequutus fortis et tenax fuit in relinenda synceritate doctrinę contra papistas, quibus nihil concedi voluit per compositiones et colloquia.</s>
+					<s n="11" xml:lang="la" type="auto">Vidit haud dubie pro singulari sua prudentia homines istos artibus et insyncere, imo maligne omnia agere; vidit parum aut nihil de iis reliquum esse spei.</s>
+					<s n="12" xml:lang="la" type="auto">Dicit enim salvator noster in evangelio: "Quomodo potestis vos credere, qui gloriam a vobis invicem accipitis et gloriam, quae a solo deo proficiscitur, non queritis?"</s>
+					<s n="13" xml:lang="la" type="auto">Expendit ille, quod <persName>Paulus</persName>, electionis vas, de istis loquens hominibus dixit: "Hi sunt homines mente corrupti, resistentes veritati et reprobi circa fidem, et hos aversare."</s>
+					<s n="14" xml:lang="la" type="auto">Speramus autem te quoque per gratia tibi concessam a domino pari constantia et robore spiritus doctrinę veritatem et simplicitatem adversus corruptores asserturum.</s>
+					<s n="15" xml:lang="la" type="auto">Quodsi ad eam rem feliciter perficiendam quid consilii et auxilii praestare possumus, omnem nostram operam et nos totos tibi et piis offerimus ac pollicemur.</s>
+					<s n="16" xml:lang="la" type="auto">Non abhorret a nobis, opinor, ut impuris tua pietas, <persName ref="p6490">Philippe</persName>.</s>
+					<s n="17" xml:lang="la" type="auto">Respondimus quidem confessioni brevi d. <persName ref="p18889">Lutheri</persName> contra nos editae; neque enim dissimulare potuimus, quod ille nobis, inprimis autem praeceptoribus nostris piae memoriae et ecclesiis nostris impegit.</s>
+					<s n="18" xml:lang="la" type="auto">Simul autem confessionem fidei ac doctrinę nostrae vulgavimus; quam cum congruere cum omnium sanctorum confessionibus sciamus, speramus illam tuae pietati non displicere.</s>
+					<s n="19" xml:lang="la" type="auto">De coena domini nisi contra fidem et conscientiam nostram loqui voluissemus, aliter loqui non potuimus, praesertim urgentibus nos fidei apostolicae articulis et negotio iustificationis.</s>
+					<s n="20" xml:lang="la" type="auto">Nam articuli fidei, quid de corpore Christi etiam calrificato sentiamus, edocent; iustificationis vero doctrina pura et syncera docet non sacramentis, non ullis rebus externis, sed sola dei misericordia per Christum nos acceptos fieri patri sive recipi nos in gratiam dei et exhiberi nobis dona coelestia vitae, recipi autem per nos fide syncera, ita ut ab ipso solo deo gratuito conferantur et exhibeantur dona vitae, recipiantur a nobis fide duntaxat, annuncientur autem verbo et obsignentur sacramentis.</s>
+					<s n="21" xml:lang="la" type="auto">Nosti apostolum <persName>Paulum</persName> sic docere ad Romanos 4., ubi ostendit <persName>Abrahamum</persName> primo quidem iustificatum fide, deinde vero iustificatum iam percepisse sacramenta, non illa quidem vana et inutilia, licet iustificatus esset.</s>
+					<s n="22" xml:lang="la" type="auto">Accepit enim circumcisionem sacramentum, signaculum seu obsignationem iustitiae fidei, quae fuerat in praeputio.</s>
+					<s n="23" xml:lang="la" type="auto">Nosti autem parem esse sacramentorum rationem, maxime cum apostolus idem dicat: "Probet se ipsum homo et sic de pane edat et de poculo bibat."</s>
+					<s n="24" xml:lang="la" type="auto">Necesse est ergo coena domini legitime communicantes prius esse iustificatos et participes Christi factos, participare autem coena, ut accipiant obsignationem iustitiae fidei, sigillum inquam et testimonium visibile ab ipso domino institutum et testificans fideles tradito corpore et fuso sanguine Christi iustificatos et lotos a peccatis membra Christi et hęredes omnium bonorum Christi esse factos.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Caeterum non institui iam de coena domini aut de sacramentis dissere; tantum haec ex occasione dixi.</s>
+					<s n="26" xml:lang="la" type="auto">Si autem in confessione illa nostra quaedam nondum clare et explicate satis dicta aut expensa videbuntur, plenius nos admoniti exponemus; si vero errare videmur, libenter erudiri sustinebimus.</s>
+					<s n="27" xml:lang="la" type="auto">Agnoscimus coenam domini symbolum esse consensionis et concordiae, vinculum denique pacis et unitatis, ideoque dolet nobis valde id rapi a Sathana et hominibus quibusdam plus satis pugnacibus ad bellorum et discordiarum materiam.</s>
+					<s n="28" xml:lang="la" type="auto">Cupimus autem ex animo intimisque visceribus nostris cum omnibus Christum in veritate invocantibus manus et copias nostras coniungere ac pro ecclesia Christi contra antichristianos bella domini gerere suppetiasque sanctis ferre.</s>
+					<s n="29" xml:lang="la" type="auto">Id quod tibi praecipuo duci exercitus domini fraterna mente indicamus obsecrantes per Christum regem nostrum et per charitatem fraternam, ut huc unice omnia tua consilia et vires omnes intendas, quo nos, qui Christum recepimus, antichristo contradicimus, sepositis simultatibus comopsitisque bellis civilibus et intestinis unanimes in Christo efficiamur et simus unique principi Christi militemus.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="30" xml:lang="la" type="auto">Mitto tuae humanitati libellos aliquot Graecos quidem, sed a nostris Latinitati donatos et hic praeterita hyeme excusos, nempe <persName>Theodoreti</persName> libros de providentia, <persName ref="p4149">Tatiani</persName> orationem et Theophyli, <placeName>Antiochensis</placeName> episcopi libros 3 contra gentes, et alios quosdam libellos illis coniunctos, quos muneris loco oro a me accipias.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="31" xml:lang="la" type="auto">Vale colendissime mi <persName ref="p6490">Philippe</persName>, ac fraterna mente haec mea accipe iterumque vale.</s>
+					<s n="32" xml:lang="la" type="auto">Salutant te fratres et symmistae omnes, <persName>Pellicanus</persName>, <persName>Gvaltherus</persName>, <persName>Bibliander</persName>, <persName ref="p4321">Buchterus</persName>, professores item d. <persName>Conradus Gessnerus</persName>, <persName ref="p8423">Ammianus</persName>, <persName>Collinus</persName>, <persName>Werdmullerus</persName> et reliqui.</s>
+					<s n="33" xml:lang="la" type="auto">Salutabis tu nobis d. <persName>Jonam</persName>, <persName>Crucigerum</persName>, d. <persName>Pomeranum</persName> et reliquos dominos et fratres nostros colendissimos.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="34" xml:lang="la" type="auto">Tiguri, 1. aprilis anno 1546.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse in der Abschrift vorangesetzt.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12412" type="Brief" source="HBBW" n="2365">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 2. März 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+					<s n="2" xml:lang="la" type="auto">Paucula haec ad te, vir colendissime et frater in domino charissime, scribo, cum quod tu nondum ad meas<note xml:id="fn1" type="footnote" n="1">Bullingers Brief vom 4. Februar 1546 (<ref target="file12392">Nr. 2345</ref>).</note> respondisti<note xml:id="fn2" type="footnote" n="2"><persName>Myconius</persName> hatte am 27. Februar eine Antwort (<ref target="file12410">Nr. 2363</ref>) verfasst, die Bullinger bei der Abfassung dieses Briefes offenbar noch nicht erhalten hatte.</note> rarissimeque scribas, tum maxime, quod vivam habeas hic epistolam, charissimum filium et symmistam d. <persName>Gvaltherum</persName>, quem tuae humanitati tanquam me ipsum commendo.</s>
+					<s n="3" xml:lang="la" type="auto">Referet ille tibi res nostras, d. <persName>Erasmi Fabritii</persName>, viri optimi et fidelissimi Christi ministri, migrationem ad dominum<note xml:id="fn4" type="footnote" n="4"><persName>Erasmus Schmid</persName> war am 23. Februar 1546 gestorben; s. <ref target="file12407">Nr. 2360</ref>, Anm. 43.</note> et alia quaedam, inter quae et Agathae Stuͦdlerae, Circes<note xml:id="fn5" type="footnote" n="5">Circe: Synonym für "Zauberin"; vgl. <bibl>DNP</bibl> VI 487.</note> famosissimae, supplicium.</s>
+					<s n="4" xml:lang="la" type="auto">Fuit ea uxor <persName>Adami Frygii</persName><note xml:id="fn7" type="footnote" n="7"><persName>Adam Frey</persName>. Er war <persName>Agathe Studlers</persName> erster Mann; s. <bibl>HBBW</bibl> IX 106, Anm. 3.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Recte valeo gratia domino cum universa domo mea.</s>
+					<s n="6" xml:lang="la" type="auto">Vale et tu cum tuis.</s>
+					<s n="7" xml:lang="la" type="auto">Tiguri, 2. martii anno 1546.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quid, obsecro, habes a <placeName>Francfordia</placeName><note xml:id="fn8" type="footnote" n="8">Vom Schmalkaldischen Bundestag in <placeName>Frankfurt</placeName>, der am 8. Februar zu Ende gegangen war.</note> et <placeName>Ratisbona</placeName><note xml:id="fn9" type="footnote" n="9">Vom Zweiten <placeName>Regensburger</placeName> Religionsgespräch.</note>?</s>
+					<s n="9" xml:lang="la" type="auto">Qui fit, quod tot occurrentibus argumentis iisque foecundissimis tam raro scribis?</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="la" type="auto">Praestantissimo viro d. <persName>Osvaldo Myconio</persName>, <placeName>Basiliensis</placeName> ecclesiae pastori vigilantissimo, suo in domino dilecto fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

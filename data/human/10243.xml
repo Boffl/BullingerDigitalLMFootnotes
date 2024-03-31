@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10243" type="Brief" source="HBBW" n="212">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 16. April 1533</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quomodo consensu de eucharistiae causa convenerimus, non opus est ut multis scribam.</s>
+					<s n="3" xml:lang="la" type="auto">Abunde audietis ex <persName ref="p18198">Bucero</persName> et comite eius D. Barptolomeo.</s>
+					<s n="4" xml:lang="la" type="auto">Illud unum tamen dicam: Nec illi petierunt quod a sententia nostra, quam hactenus tenuimus de pane et vino domini, abhorruerit, nec nos recepimus, quod prius non tenuerimus.</s>
+					<s n="5" xml:lang="la" type="auto">Tantum itaque sublata est suspitio, qua putavimus <placeName>Argentinenses</placeName> a nobis discessisse ad <persName ref="p18889">Lutherum</persName> quodammodo, et apertius clariore instructione factum est, quod nos vere et pie tenuimus ante.<pb type="edition" next="109"/></s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Reliquum est igitur, ut dicam, quis et qualis sit comes ille <persName ref="p18198">Buceri</persName>: <persName>Venetus</persName> est patria, minorita olim et doctor theologus, nunc exul et Christi famulus, doctus profecto, pius, mire facundus et talis, ut ego non per omnia describere tibi nunc velim, utpote quem sis auditurus palam.</s>
+					<s n="7" xml:lang="la" type="auto">Praeterea vero postquam venit in Germaniam probe iam instructus in evangelio, non satis habuit nosse, quae papistae contra verbum de novo nunc hominibus restitutum iactant, sed Lutheranam quoque factionem perquisivit admodum diligenter.</s>
+					<s n="8" xml:lang="la" type="auto">Ubi postquam reperit, quae iudicio spiritus ipsius non satisfacerent, divertit <placeName>Argentinam</placeName> atque ibi rerum divinarum peritus omnibus modis usque adhuc haesit.</s>
+					<s n="9" xml:lang="la" type="auto">Haec non dico, nisi ut hominem tractes, prout dignus est.</s>
+					<s n="10" xml:lang="la" type="auto">Dedit ansam mihi de multis cogitandi et adserendi facilius et certius.</s>
+					<s n="11" xml:lang="la" type="auto">Tam est meo quidem iudicio dexter ad inveniendum et docendum, etiam quae sunt alioqui magis abstrusa.</s>
+					<s n="12" xml:lang="la" type="auto">Te itaque rogo et fratres omnes, ut sic agatis erga hunc, ut intelligat me non frustra virum commendasse.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quid de <persName ref="p18198">Bucero</persName>, inquis, num et hunc nobis commendas?</s>
+					<s n="14" xml:lang="la" type="auto">Commendarem profecto, nisi scirem prius esse vobis quam commendatissimum.</s>
+					<s n="15" xml:lang="la" type="auto">Equidem ante virum non novi nisi ex scriptis.</s>
+					<s n="16" xml:lang="la" type="auto">Nunc pro fratre pio et docto colo et veneror cognitum et venerabor, donec talis fuerit, qualem<pb type="scan" next="||329v."/> nunc sum expertus.</s>
+					<s n="17" xml:lang="la" type="auto">Diligite viros bonos et iustos et facite, ut cum gaudio redeant propediem ad nos, id quod fiet, si tales fueritis erga ipsos, pietate videlicet et charitatis beneficiis, quales vos futuros nihil certe dubitamus.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">De rebus nostris alias, quamvis illud non queam tacere, nihil nunquam te nobis fecisse gratius, quam quod fecisti.</s>
+					<s n="19" xml:lang="la" type="auto">Salutabis fratres omnes in domino.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 16. aprilis anno 1533.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse von Myconius' Hand darunter:]</note>
+					<s n="22" xml:lang="la" type="auto">Ad Bullingerum, maxime pro D. <persName>Barptolomaeo Veneto</persName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

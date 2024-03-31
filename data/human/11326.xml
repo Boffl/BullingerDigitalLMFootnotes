@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11326" type="Brief" source="HBBW" n="1283">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes (Gian) Travers, s.d. Juli 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Domino <persName>Ioanni Traverso</persName>, Rhetiae primae clarissimo senatori, domino colendissimo, Heinrychus Bullingerus gratiam et vitae innocentiam optat a deo patre per dominum et servatorem nostrum Iesum Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Queruntur hodie multi de erroribus et concertationibus indies magis magisque adolescentibus; paucissimi de errorum conflictationumque causis tollendis solliciti sunt, cum tamen sublatis mali causis aut saltem recte cognitis minus serpat malum et pauciores involvat.</s>
+					<s n="3" xml:lang="la" type="auto">At philautia<note xml:id="fn2" type="footnote" n="2">Vgl. Adagia, 1, 3, 92 (<bibl>LB</bibl> II 147).</note> et studium affectuum caecum et ardens, quod in hominum ferme omnium pectoribus imperitat, aegre sinit nos ad veras mali causas pervenire ipsasque introspicere et examinare penitius.</s>
+					<s n="4" xml:lang="la" type="auto">Hinc ergo est, quod sine fine modoque conflictantur inter sese hominum ingenia.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Constat omnino eos, qui primum hodie locum occupant in ecclesia, episcopi et pastores populorum, pro animi sententia atque libidine imperitare adhibitis in consilium avaritia, ambitione et luxuria consultoribus pessimis.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">His enim seducti et occaecati verbum dei, unicam recte gubernandi vivendique regulam, audire con-<pb type="scan" next="2v."/>temnunt, imo et Bosorides Balaamitas quosdam mercede iniquitatis conducunt<note xml:id="fn3" type="footnote" n="3">Anspielung auf den durch reichen Lohn verführten Propheten Bileam; vgl. 2Petr 2, 15.</note>, qui syncerae veritati maledicant et doctrinam et mores suos corruptissimos defendant contra evangelicae doctrinae assertores.</s>
+					<s n="7" xml:lang="la" type="auto">Iccirco, cum adeo non avertantur a via sua mala, ut et malitiam suam tueri cupiant et seipsos malefaciendo superent, intonat contra ipsos magis magisque tuba verbi dei et saevius incrudescit pugna.</s>
+					<s n="8" xml:lang="la" type="auto">Quodsi isti darent gloriam deo, si verbum dei audirent et ab erroribus ac malitia sua converterentur ad veritatem et synceritatem, minus esset in ecclesia concertationis et plus sacrosanctae pacis; nunc autem per illorum impoenitentiam et pugna et scandala reparantur.</s>
+					<s n="9" xml:lang="la" type="auto">Vae autem illis, per quos offendicula veniunt<note xml:id="fn4" type="footnote" n="4">Vgl. Mt 18, 7; Lk 17, 1.</note>!</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Sunt alii, qui verbum dei quidem audiunt, sed affectibus suis interim renuntiare nolunt nescientes se praedicatione evangelica vocatos esse ad sanctimoniam, non ad immunditiam<note xml:id="fn5" type="footnote" n="5">Vgl. 1Thess 4, 7.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Hi impatienter ferunt increpationem servorum dei, accusant ferociam ecclesiastarum et queruntur de petulantia linguarum ipsorum<note xml:id="fn6" type="footnote" n="6">über deren harte Schelte (vgl. <persName>Properz</persName>, Elegiae, 1, 16, 37).</note>.</s>
+					<s n="12" xml:lang="la" type="manual">„Non displicet nobis evangelium Christi“, inquiunt, „displicet autem illa obiurgandi constantia et improbitas; lenitatem evangelicam<note xml:id="fn7" type="footnote" n="7">Vgl. etwa Lk 17, 3f; Gal 6, 1.</note> in illis requirimus“.</s>
+					<s n="13" xml:lang="la" type="auto">Contra vero concionatores sacri illud domini ex ore Isaiae intonant ac dicunt: „Populus iste est rebellis et filii mendaces, filii qui renuunt audire legem domini.</s>
+					<s n="14" xml:lang="la" type="auto">Nam dicunt pro-<pb type="scan" next="3r."/>phetis: ’Nolite videre’, et episcopis: ’Nolite nobis recta prospicere, sed loquimini nobis blanda, videte errores.</s>
+					<s n="15" xml:lang="la" type="auto">Recedite a via, declinate a semita ista et amovete a<pb type="edition" next="165"/> facie nostra sanctum Israelis’“ [Jes 30, 9-11].</s>
+					<s n="16" xml:lang="la" type="auto">Incrudescit ergo pugna, quae facile dirimeretur, si scelerata cohors illud intelligeret: primum, venisse filium dei in mundum, ut opera diaboli dissolvat<note xml:id="fn8" type="footnote" n="8">Vgl. hob 3, 8.</note>, deinde, prophetis a domino in haec verba praescriptum esse: „Clama intentissime, ne cessaveris, exalta vocem tuam sicuti tubam et annuncia populo meo iniquitatem eorum et domui Iacob peccatum eorum“ [Jes 58, 1].</s>
+					<s n="17" xml:lang="la" type="auto">Quia vero mundum et carnem quaerimus omnes et nemo aequius fert, si durius contrectes ulcera sua, concionatores interim nec velint nec debeant scabiem saniosam palpare, ideo certamen per malitiam nostram gliscit quottidie, et manet pugna manebitque, donec dominus vel fideles doctores ad se vocarit, ut rebelles nos propediem totos excindat, vel a via sua mala avertantur mali, erubescant de malo et faciant bonum.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Sunt rursus inter maxime evangelicos non pauci, qui sua levitate et inconstantia conflictationibus praemodum divitem et copiosam suppeditant materiam, dum de religione nunc sic, iam vero aliter et sentiunt et loquuntur, non tam quod confessae veritatis poeniteat aut quod sibi pravam opinionem prius tenuisse videantur, quam quod versibilitate illa sua eos ita deme-<pb type="scan" next="3v."/>reri studeant, quos vel metuunt vel nimis reverenter ac stolide suspiciunt et adorant.</s>
+					<s n="19" xml:lang="la" type="auto">Quodsi posito metu et nimia hominum observatione ipsum deum et puram veritatem respicerent, utique clamarent cum apostolo<note xml:id="fn10" type="footnote" n="10">Vgl. 1Thess 2, 4-6.</note>: „Fidem nostram profitemur, non ut hominibus, sed deo placeamus, neque quaerentes ex hominibus gloriam aut commodum, sed ut deo nos probemus, qui vocavit nos in synceritate et veritate.“</s>
+					<s n="20" xml:lang="la" type="auto">Atque ita quoque plus esset pacis in ecclesia et minus scandalorum.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Videri volunt alii quidam nova se nescio quae reperisse vidisseque, quae nullus ante ipsos viderit.</s>
+					<s n="22" xml:lang="la" type="auto">Hos quia gloria vexat inanis, mirum quam alios omnes prae se contemnant, mirum quanti sua venditent et quam de rebus aliorum calumniose, de suis vero gloriose et Thrasonice<note xml:id="fn11" type="footnote" n="11">Nach Thraso, einem prahlerischen Soldaten im "Eunuchus" des <persName>Terenz</persName>.</note> loquantur.</s>
+					<s n="23" xml:lang="la" type="auto">Nolunt hi cum aliis quicquam habere commune, sua volunt omnibus obtrudere.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Ergo quamvis alii non male sentiant vel idem loquantur quod illi, alia interim figura dicendi utentes, hi tamen peculiare quiddam habere et sequi diversum omnino videri gaudent, homines ad schismata fovenda nati.</s>
+					<s n="25" xml:lang="la" type="auto">His, si rediret apostolus, magno spiritu acclamaret: „Si qua igitur consolatio in Christo Iesu, si quod solatium dilectionis, si qua communio spiritus, si qua<pb type="edition" next="166"/> viscera et commiserationes, complete meum gaudium, ut similiter affecti sitis, eandem caritatem habentes, unanimes, idem sentientes, ne quid fiat per<pb type="scan" next="4r."/> contentionem aut per inanem gloriam, sed per humilitatem animi alium quisque se praestantiorem existimet, ne sua quisque spectetis, sed unusquisque, quae sunt aliorum“ [Phil 2, 1-4].</s>
+					<s n="26" xml:lang="la" type="auto">Posset itaque et his restitui pax, si acerbis et ulcerosis affectibus suis renunciarent et minus essent obstinaces, arrogantes et cervicosi.</s>
+					<s n="27" xml:lang="la" type="auto">Frustra vero de pace et concordia vel querela vel sermo instituitur, frustra denique convenitur, nisi et pravi huiusmodi affectus in animo compescantur.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Ex eodem fonte superbiae, invidentiae et inanis arrogantisque ostentationis illud quoque erumpit, quod nonnulli hodie simplicitatis apostolicae obliti supercilium sibi sumunt philosophicum, aut si mavis pneumaticum, et novum quoddam inducunt genus dicendi docendive de Christo domino<note xml:id="fn12" type="footnote" n="12">Bullinger spielt auf <persName>Schwenckfeld</persName> an, gegen den diese Publikation vor allem gerichtet ist (vgl. etwa <bibl>HBBW VIII</bibl> <ref target="file11197">[Nr. 1154]</ref>, S. 185f, 29-55).</note>.</s>
+					<s n="29" xml:lang="la" type="auto">Spiritum enim sibi arrogant principalem, expolitum, altum, intensum et profundum, nec aliud sibi quam mera oracula loqui videntur.</s>
+					<s n="30" xml:lang="la" type="auto">Et reperit quidem suum patella cooperculum<note xml:id="fn13" type="footnote" n="13">Vgl. <bibl>Otto</bibl> 2671, Nr. 1355.</note>, homines leves et curiosos, qui ad metaphysica et pneumatica illorum phantasmata tanquam ad doctrinam e tertio coelo allatam<note xml:id="fn14" type="footnote" n="14">Vgl. 2Kor 12, 2-4.</note> obstupescunt.</s>
+					<s n="31" xml:lang="la" type="auto">His si quis praedicet Iesum Christum verum deum et hominem, sicut praedicarunt apostoli, incarnatum, passum, crucifixum, mortuum et sepultum, tertia die resuscitatum et in coelos post quadraginta dies receptum esse<note xml:id="fn15" type="footnote" n="15">Vgl. das apostolische Glaubenbekenntnis (<bibl>BSLK</bibl> 21, 10-15).</note> atque ibi illum retinere depositum carnis nostrae aliquando in gloriam<pb type="scan" next="4v."/> quoque resuscitandae<note xml:id="fn16" type="footnote" n="16">Vgl. <persName>Tertullian</persName>, De resurrectione mortuorum, 51, 2 (CChr II 994, 11-16).</note>, cum ille sit frater noster, vita et resurrectio nostra, sacerdos et intercessor noster apud patrem in coelis, non videberis loquutus satis alte, intense, subtiliter et spiritualiter de Christi mysterio.</s>
+					<s n="32" xml:lang="la" type="auto">Habent enim illi magis deifica et involuta arcana de carne Christi, quibus interim stolidos auditores non explicant, sed involvunt, ut tandem, quid Christus sit aut quae spes nostra sit, nesciant, amittentes Christum in suis illis subtilitatibus vanis.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Atque ex his maxime et similibus causis, ne omnes persequar, oriuntur hodie schismata et dissensiones in ecclesia, nec spes est fore, ut componantur, nisi prius affectus illi pravi et petulantes sopiantur.</s>
+					<s n="34" xml:lang="la" type="auto">In primis autem obturbant simpliciores, officiunt veritati et paci postremi illius generis pneumatici.</s>
+					<s n="35" xml:lang="la" type="auto">Nam ignorantia et stulta rerum admiratio imponit simplicioribus.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Non vident id, quod isti tanta hypocrisi et testificatione proferunt, antiquum esse diaboli praestigium, quo olim quoque multorum oculos fascinavit.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Ignorant historias, non legunt scripta veterum, qui et ipsi non infeliciter tractarunt sacras literas, praesertim contra haereses; at hos illi imo contumaciter<pb type="edition" next="167"/> contemnunt, imo hoc se credunt perfectiores, quo constantius et praefractius contemnunt.</s>
+					<s n="38" xml:lang="la" type="auto">Et ut sint maxime, qui non contemnant omnia, libris tamen carent nec otii sibi tantum temporisque sumunt, ut veterum quaedam cognoscant vel per-<pb type="scan" next="5r."/>functorie; praeterea ignorant, qui nam in tanta turba maxime sint legendi.</s>
+					<s n="39" xml:lang="la" type="auto">Et sunt quidem, quos legisse non admodum profuerit.</s>
+					<s n="40" xml:lang="la" type="auto">Ergo, ut causae dissidiorum errorumque vel hac in re nonnihil tollantur reddanturque, qui sibi consuli volunt, cautiores porro et rectius iudicent de huiusmodi Sibyllae foliis<note xml:id="fn17" type="footnote" n="17">Vgl. oben <ref target="file11297">Nr. 1254</ref>, Anm. 25.</note>, quae non intelligentes stolide admirantur, aedidi orthodoxam illam doctoris <persName>Ioachimi Vadiani</persName> epistolam, qua hanc explicat quaestionem, an corpus Christi propter coniunctionem cum verbo inseparabilem alienas a corpore conditiones sibi sumat.</s>
+					<s n="41" xml:lang="la" type="auto">In hac enim breviter tractat, quicquid de incarnationis dominicae mysterio scire refert.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Ac primum de coniunctione illa disserit, quae ex duarum naturarum veritate personam Christi constituit.</s>
+					<s n="43" xml:lang="la" type="auto">Deinde de conditionibus disputat, quas sustinuit assumptio illa in Christo ante resurrectionem.</s>
+					<s n="44" xml:lang="la" type="auto">Postremo de conditionibus scribit, quas sibi sumpsit corpus Christi post resurrectionem.</s>
+					<s n="45" xml:lang="la" type="auto">Intertexuit his praeterea, quae de hisce capitibus prodiderunt tam orthodoxi veteres quam haeretici male sentientes.</s>
+					<s n="46" xml:lang="la" type="auto">Adiunxi huic epistolae quinque libros divi <persName>Vigilii</persName>, martyris et episcopi <persName>Tridentini</persName><note xml:id="fn18" type="footnote" n="18">Vgl. oben <ref target="file11313">Nr. 1270</ref>, Anm. 4.</note>, quos contra Eutychen in primis, deinde adversus alios quoque haereticos impie de Christo domino sentientes conscripsit, et mirifice superiori argumento consonant.</s>
+					<s n="47" xml:lang="la" type="auto">Polliceor autem mihi certo multo simplicius et purius de Christo domino et carne eius clarificata loquuturos, qui hactenus subtili-<pb type="scan" next="5v."/>tates nescio quas nexuerunt, postquam ista nostra diligentius cognoverint.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="la" type="auto">Non est autem, ut quis hic expectet encomia et commendationem authorum.</s>
+					<s n="49" xml:lang="la" type="auto">Uterque orbi notissimus est.</s>
+					<s n="50" xml:lang="la" type="auto">Utriusque pietas et eruditio libris aeditis testatissima est.</s>
+					<s n="51" xml:lang="la" type="auto">Satius ergo esse videbatur de viris omnino maximis silere quam pauca dicere.</s>
+					<s n="52" xml:lang="la" type="auto">Scripsit ille<note xml:id="fn19" type="footnote" n="19"><persName>Vadian</persName>.</note> ad postulationem meam, pro incredibili illa humanitate sua et studio erga me officiosissimo, epistolam, quam exhibeo et quam ego solus, thesaurum videlicet maximum, possidere atque occupare nolui.</s>
+					<s n="53" xml:lang="la" type="auto"><persName>Vigilius</persName> vero ante mille annos suos illos contra Eutychen libros aedidit, mira brevitate et perspicuitate exponens et subvertens, quicquid huius erat haereseos.</s>
+					<s n="54" xml:lang="la" type="auto">Scripsere contra Eutychen <persName>Leo</persName><note xml:id="fn20" type="footnote" n="20"><persName>Leo I. der Große</persName>, römischer Papst von 440-461, verfaßte 449 ein Schreiben gegen die monophysitische Lehre des <persName>Eutyches</persName> (Epistola 28, <bibl>MPL</bibl> LIV 755-782). - Lit.: Herbert <hi>Arens,</hi> in: LThK<note type="sup">3</note> VI 820-822.</note>, antistes <placeName>Romanus</placeName>, et <persName>Gelasius</persName><note xml:id="fn21" type="footnote" n="21"><persName>Gelasius I.</persName>, römischer Papst von 492- 496, schrieb gegen <persName>Eutyches</persName> u. a. den Traktat "De duabus naturis in Christo adversus Eutychen et Nestorium" (MPL, Supplementum III 763-787). - Lit.: Mario <hi>Spinelli,</hi> in: LThK<note type="sup">3</note> IV 401f.</note>, eiusdem ecclesiae episcopus, item in 3. libro ad Trasimundum<pb type="edition" next="168"/> regem <persName>Fulgentius Apher</persName>, vir in divinis et humanis literis doctissimus; sed nemo, quod mihi videtur, succinctius et melius scripsit <persName>Vigilio</persName> nostro, qui et erroneum <persName>Nestorii</persName> dogma non raro attingit et confutat, sed perfunctorie modo et in transcursu.</s>
+					<s n="55" xml:lang="la" type="auto">Copiosiora, ut interim <persName>Cyrillum</persName> non commemorem, quem alii in hac causa nimis acerbum fuisse credunt<note xml:id="fn23" type="footnote" n="23">In einem Brief an <persName>Grynäus</persName> vom 26. Juli 1541 schreibt Bullinger unter Hinweis auf Vigilius, <persName>Cyrill von Alexandrien</persName> habe durch seine Übertreibungen ungewollt die eutychianische Irrlehre gefördert (s. Zürich ZB, Ms Car I 108b, 1r.).</note>, dedit <persName>Maxentius Ioannes</persName><note xml:id="fn24" type="footnote" n="24"><persName>Johannes Maxentius</persName> war der Anführer einer Gruppe skythischer Mönche, die sich 519/20 in <placeName>Konstantinopel</placeName> und <placeName>Rom</placeName> für die Annahme einer theopaschitischen Formel einsetzten. - Lit.: Franz-Bernhard <hi>Stammkötter,</hi> in: LThK<note type="sup">3</note> V 935.</note> servus dei, cuius extant ad <persName>Theophilum</persName> contra <persName>Nestorium</persName> duo Dialogorum libri<note xml:id="fn25" type="footnote" n="25">Dialogus Maxentii Ioannis servi dei contra Nestorianos, CChr LXXX Va 49-110.</note> non ineruditi.</s>
+					<s n="56" xml:lang="la" type="auto">At Vigilii huius nostri opus ante annos decem <placeName>Tubingae</placeName> im-<pb type="scan" next="6r."/>pressum est<note xml:id="fn26" type="footnote" n="26">Bullinger bezieht sich auf die im März 1528 bei <persName>Ulrich Morhart</persName> erschienene Ausgabe (VD 16, V 1185).</note>, sed, ne quid dissimulem, parum diligenter et emendate.</s>
+					<s n="57" xml:lang="la" type="auto">Diligentiam maiorem in hac nostra aeditione commendabunt, qui ipsam contulerint cum aeditione prima.</s>
+					<s n="58" xml:lang="la" type="auto">Conscripsi praeterea Vigilii vitam et singulis libris singula argumenta praefixi, annotatis simul rerum indicibus et capitibus ubique, ut, quid spectaret lector, facilius pateret.</s>
+				</p>
+				<p>
+					<s n="59" xml:lang="la" type="auto">Tibi vero, <persName>Traverse</persName> clarissime, hoc opus hoc nomine inscribo ac dedico, quod tua virtus meretur celebrari commendarique insigni aliquo scripto, nedum meo, apud posteros, qui ab optimis quibusque praedicaris numinis et religionis observantissimus, iudicii et iustitiae cultor aequus et diligens atque literarum ac studiosorum esse patronus unicus atque fidelissimus.</s>
+					<s n="60" xml:lang="la" type="auto">Dominus, omnium populorum rex, voluit te una cum aliis bonis, piis ac prudentibus viris praeesse genti generosae et fortissimae et per vos veluti per patres patriae Rhetiam illam liberam, antiquissimam et potentissimam servare incolumem.</s>
+					<s n="61" xml:lang="la" type="auto">Vocationis ergo voluntatisque dei memores scitote non aliter servari regna et gentes quam diligenti cultu religionis et iustitiae.</s>
+				</p>
+				<p>
+					<s n="62" xml:lang="la" type="auto">Caeterum ut sine legibus iustitia periclitatur, ita sine scholis trepidat religio.</s>
+					<s n="63" xml:lang="la" type="auto">Vestrum ergo fuerit et leges sanctas tueri et scholas promovere, ut dominus sit vobiscum.</s>
+					<s n="64" xml:lang="la" type="auto">Et fuit quidem hactenus vobiscum dominus, qui lumen verbi sui apud vos accendit et tedas papisticas fumosque<pb type="scan" next="6v."/> vanitatis extinxit ac dissipavit.</s>
+					<s n="65" xml:lang="la" type="auto">Dedit vobis doctores fideles, qui Christum docuerunt pure et synceriter.</s>
+					<s n="66" xml:lang="la" type="auto">Disturbavit consilia improba<note xml:id="fn27" type="footnote" n="27">Vgl. Ps 33, 10 (32, 10 Vu!g.).</note> et e manu inimicorum liberavit<pb type="edition" next="169"/> vos<note xml:id="fn28" type="footnote" n="28">Vgl. Ps 31, 16 (30, 16 Vulg.).</note>.</s>
+					<s n="67" xml:lang="la" type="auto">Quodsi perrexeritis in pietate, si iustitiam colueritis et sacra bonaque studia promoveritis, ut coepistis, augebit vobis dona sua dominus, et felicissime habebit posteritas vestra Rhetica laudabitque maiorum suorum, id est vestram fidem et diligentiam, qui labore et studio magno purgatam ipsis religionem dederitis.</s>
+				</p>
+				<p>
+					<s n="68" xml:lang="la" type="auto">Dominus Iesus servet te nobis, imo totam illam Rhetiam semper beatam et incolumem.</s>
+					<s n="69" xml:lang="la" type="auto">Salvum te volunt symistae mei <persName ref="p2305">Leo</persName><note xml:id="fn29" type="footnote" n="29"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Megander</persName>, <persName>Erasmus Fabritius</persName><note xml:id="fn30" type="footnote" n="30"><persName>Erasmus Schmid</persName>.</note>, <persName>Pellicanus</persName>, <persName>Bibliander</persName> ac reliqui fratres.</s>
+					<s n="70" xml:lang="la" type="auto">Salutabis tu nobis d. <persName>Antonium Traversum</persName> et totam illam clarissimam familiam, in primis autem fidelissimos illos verbi dominici ministros ac fratres, d. <persName ref="p4564">Ioannem Comandrum</persName>, <persName ref="p4253">Ioannem Blasium</persName>, <persName ref="p7181">Nicolaum Balingium</persName><note xml:id="fn32" type="footnote" n="32"><persName>Nikolaus Pfister, gen. Baling</persName>.</note>, Rodulphum Salicem, <persName>Philippum Gallicium</persName> et alios viros bonos.</s>
+				</p>
+				<p>
+					<s n="71" xml:lang="la" type="auto">Tiguri, mense iulio, anno 1539.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

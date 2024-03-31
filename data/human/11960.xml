@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11960" type="Brief" source="BBW" n="1089">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN [Heinrich Bullinger], [Mitte Mai 1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Von Spyr schreibt man unß gar nichts gůts.</s>
+					<s n="2" xml:lang="de" type="auto">Die stett gedenckt man gar in servitut ze bringen, darzů sy dann inen selbs gantz getreulich helffend.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Zwen gůt menner, so ouch der gesandten seind von den stetten, ainer von Memingen, der ander von <placeName>Augspurg</placeName>, schreibend, ainer: "Die Aidgnossen habend ain gůt schreiben geschickt den stenden, das nitt von kindern gemacht, dann das es vom schreiber nitt gantz formlich zůsamengefügt seye, daran aber die verstendigen kain mangel, ettlich ander aber gelacht haben"; er sorge aber ubel, es sölte dem gelechter werde(n) wainen nachfolgen.</s>
+					<s n="4" xml:lang="de" type="auto">Der ander schreibt also: "Die Schweytzer haben fürwar den stenden ain schreiben hergesandt, in dem ich vyl mehr verstands befind, dann derhalb allhie gehandelt worden.</s>
+					<s n="5" xml:lang="de" type="auto">Wir haben unß wider Franckreich seinen halb unverhort zů fynden erklert, welchs doch wider alle pillichait und recht ist, welchs ouch by mir dahin bedacht, das unß im reych aller bystand, den wir zu gutem haben möchten, abgestellt werde.</s>
+					<s n="6" xml:lang="de" type="auto">Der religion wirt nitt gedacht, und gleych wie man mitt gott handelt, also ist er by unß hie im reychsrath.</s>
+					<s n="7" xml:lang="de" type="auto">Frid und recht ist yetz in handlung; kan man nitt gnůg spytzen, das man inn dermassen geben, damitt man widerum ain loch darin prechen möge, so es die glegenhait gybt“.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto"><foreign xml:lang="la">Hęc ille</foreign> mitt vyl Worten.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10639" type="Brief" source="HBBW" n="601">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 24. Juni 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quod etiam mysteria, ut ita vocem, tua talia non vis esse mihi<note xml:id="fn1" type="footnote" n="1">Bullinger hatte <persName>Myconius</persName> eine Abschrift seines Briefes an <persName>Bucer</persName> anvertraut, s. oben <ref target="file10632">Nr. 594</ref>, 27-30.</note>, intelligo animum tuum erga me.</s>
+					<s n="3" xml:lang="la" type="auto">Gaudeo, ut magis nequeam.</s>
+					<s n="4" xml:lang="la" type="auto">Dolet deinde tot esse ubique terrores, verum deus ut hactenus tuebitur suos, atque id est, unde dolor omnis absumitur.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Duo vero sunt, quę scribere cogor ob temporis angustiam, unum de <persName>Erasmo</persName>, alterum de Blattero meo.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto"><pb type="edition" next="251"/>Ecclesiastes <persName>Erasmi</persName><note xml:id="fn3" type="footnote" n="3"><persName>Erasmus</persName>, Ecclesiastae sive de ratione concionandi libri IV (<bibl>LB</bibl> V 767-1100).</note>, qui clam, nondum quidem perfectus ad me venit, inter caetera sic habet post commendationem sacerdotii novi testamenti tandem ex collatione sacerdotii Aaronis et filiorum eius: "Quanta vero dignitas decet novi testamenti ministros, qui quotidie immolant illam coelestem hostiam angelicis quoque spiritibus adorandam, qui contrectant manibus carnem agni immaculati?"<note xml:id="fn4" type="footnote" n="4"><bibl>LB</bibl> V 797.</note></s>
+					<s n="7" xml:lang="la" type="manual">Non videtur permittendum, ut tale quidpiam in urbe christiana imprimatur<note xml:id="fn5" type="footnote" n="5">Obwohl <persName>Myconius</persName> den Druck zu verhindern suchte (vgl. unten <ref target="file10645">Nr. 607</ref>, 6-21 sowie Amerbach, Korr. IV 360-363; <bibl>Capito, Corr.</bibl> 189-191; <hi>Pollet,</hi> Bucer II 366f), konnte das Buch Ende August 1535 bei <persName>Froben</persName> erscheinen (vgl. <persName>Erasmus</persName>, Corr. XI 189f).</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Fac sciam sententiam tuam.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Blatterum autem novum impressorem tibi commendatum volo, ut si quid possis illi mox praeter offensionem <persName ref="p5295">Froschoweri</persName> commodare, ne detrectes.</s>
+					<s n="10" xml:lang="la" type="auto">Quae scribis, chara sunt atque adeo vendibilia.</s>
+					<s n="11" xml:lang="la" type="auto">Potes igitur promovere tuis scriptis illius usum.</s>
+					<s n="12" xml:lang="la" type="auto">Quod breviter dico, ne videar non confidere tibi.</s>
+					<s n="13" xml:lang="la" type="auto">Spero aliquid esse, quo subveniatur huic.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Tua<note xml:id="fn6" type="footnote" n="6">Siehe oben Anm. 1.</note> tibi remitto.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Vale per Christum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 24. iunii anno 1535.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Os. Myc. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Domino Heinricho Bullingero, pręsidi verbi apud Tigurinos primo, suo inprimis charo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

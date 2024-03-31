@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10692" type="Brief" source="HBBW" n="654">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jakob Meyer (Maior) / Basel AN Heinrich Bullinger, 30. September 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Die gnad des herren und merung des gloubens sampt minen willigen diensten wünsch ich euch zuͦvor, geliepter herr und bruͦder.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Wie die sachen des gloubens in der Eidgnoschaft mit der zyt ston werden, zöigen die wunderbaren<note xml:id="fn1" type="footnote" n="1">merkwürdigen, befremdlichen (<bibl>Grimm</bibl> XIV/II 1846).</note>, seltzamen sachen zuͦ diser zyt wol an, die yetz in der Eidgnoschaft furgond.</s>
+					<s n="3" xml:lang="de" type="auto">Wo unß der guetig herr und vatter nit bewart, besorg ich, wir werdens bald mit grossem jamer erfaren.</s>
+					<s n="4" xml:lang="de" type="auto">Nun erkenn<note xml:id="fn3" type="footnote" n="3">kenne (<bibl>SI</bibl> III 313).</note> ich euch, wie ir umm solichs sampt euweren brüedern und viler frommen nit wenig sorg tragen, mögens aber alles mit den solichen frommen leider nit wenden.</s>
+					<s n="5" xml:lang="de" type="auto">Von welchen dingen, so ich by euch wäre, vil mit euch ze reden hette, das ich uff diß mol der feder nit habe können bevelhen; hab aber disem zöiger<note xml:id="fn4" type="footnote" n="4">Der Briefüberbringer ist unbekannt.</note>, minem guͦten fründ (der sonst in sinen geschefften hatt gon Zürich müssen)<pb type="edition" next="375"/> etwas (solicher sachen), doch nit alles, angehengt<note xml:id="fn5" type="footnote" n="5">aufgebürdet, als Pflicht überbunden (<bibl>SI</bibl> II 1459).</note>, mit euch zereden, welchem ir glouben geben sollen.</s>
+					<s n="6" xml:lang="de" type="auto">Er würt vertrüwlich mit euch reden.</s>
+					<s n="7" xml:lang="de" type="auto">Das mögen ir mit im (als ob ich selbs do were) ouch thuͦn und euch das selbig und die sachen des ewangeli trüwlich lassen bevolhen sin, wie ich weiß, ir selbs zethuͦnd vast willig und geneigt sind.</s>
+					<s n="8" xml:lang="de" type="auto">Bevilch euch hiemit dem herren.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Gruessen mir<persName ref="p2305">Leonem Jud</persName>, Pellicanum und die brueder gemeinlich, den alten abt von <placeName>Wettingen</placeName>, den <persName>Steiner</persName><note xml:id="fn7" type="footnote" n="7"><persName>Werner Steiner</persName>.</note> von <placeName>Zug</placeName>, ouch alle, so den herren von hertzen lieben, und, ists möglich, den Laveter<note xml:id="fn8" type="footnote" n="8"><persName>Hans Rudolf Lavater</persName>.</note> ouch.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Datum <placeName>Basel</placeName>, den letsten september anno etc. 35.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">U[wer] williger <persName>Jacob Meyger</persName>, alt burgermeister zu <placeName>Basel</placeName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="12" xml:lang="de" type="auto">Dem ersamen und vor gott wolgelerten Meister Heinrich Bullinger, diener des herren wort zuͦ Zürich, minem lieben und im herren brüderlichen freund, zuͦ sin selbs handen.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

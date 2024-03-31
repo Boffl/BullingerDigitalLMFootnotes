@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10365" type="Brief" source="HBBW" n="333">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jakob Bedrot / Strassburg AN Heinrich Bullinger, 3. März [1534]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto"><persName>Lavaterum</persName><note xml:id="fn2" type="footnote" n="2"><persName>Heinrich Lavater</persName>; er kam erst im Laufe des Sommers nach <placeName>Straßburg</placeName>, s. unten <ref target="file10471">[Nr. 436]</ref> S. 312, 61 mit Anm. 25.</note> lubens ad me recipiam vel tua inprimis commendatione<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note> adductus, modo idem ipse boni consulere tenuitatem meam velit.</s>
+					<s n="3" xml:lang="la" type="auto">Est mihi domus angustior.</s>
+					<s n="4" xml:lang="la" type="auto">At cum ampliorem nunc habere minus liceat, hac me contentum esse oportet.</s>
+					<s n="5" xml:lang="la" type="auto">Annui victus precium erit 25 floren. nostrae monetae.</s>
+					<s n="6" xml:lang="la" type="auto">Tantundem enim et alii minores etiam natu numerant.</s>
+					<s n="7" xml:lang="la" type="auto"><persName>Otho</persName><note xml:id="fn4" type="footnote" n="4"><persName>Otto Werdmüller</persName>.</note> spem de se pręsumptam fallet minime.</s>
+					<s n="8" xml:lang="la" type="auto">Stylum luxu diffluentem sobrie castigat, et iudicium expoliet rerum usus.</s>
+					<s n="9" xml:lang="la" type="auto">Quantum opere precium faciat, brevi, opinor, gustum tibi exhibebit.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Quod tardius tibi respondeo, nuncii penuria in causa est, sed et serius mihi tuae sunt redditae.</s>
+					<s n="11" xml:lang="la" type="auto">Omnia hic sat commode nunc habent, et ecclesiam commodius spero habituram, posteaquam magistratus serio magis officio suo fungitur.</s>
+					<s n="12" xml:lang="la" type="auto">Exautoravit is nuper, si nescis, <persName>Antonium</persName> suffraganeum <placeName>Spirensem</placeName> quondam, octo annos aut plures hic concionatorem, hominem sane ad nihil minus quam concordiae ecclesiarum tuendae factum.</s>
+					<s n="13" xml:lang="la" type="auto">Sed et <persName>Zieglerus</persName> monstrum aluit hactenus.</s>
+					<s n="14" xml:lang="la" type="auto">Quod quale sit, nunc sese exerit.</s>
+					<s n="15" xml:lang="la" type="auto">O ingratitudinem fustuario dignam.</s>
+					<s n="16" xml:lang="la" type="auto">Verum ex aliis malo haec intelligas, si nondum per <persName ref="p18198">Bucerum</persName> nostrum, quicquid id est, rescivisti.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="manual">Miror ego neminem vestratium <persName>Zvinglii</persName> vitam posteritati commendare vel <foreign xml:lang="el">κεφαλαιωδῶς καὶ διὰ βραχέων, ἵνα μή οἱ ἐπίτριπτοι κακήγοροι τοσαύτην τοῦ</foreign><pb type="edition" next="79"/> <foreign xml:lang="el">βλασφημεῖν ἀφορμὴν ἔχωσιν</foreign><note xml:id="fn8" type="footnote" n="8">Anklänge an <persName>Aristoteles</persName>, <persName>Aristophanes</persName> und 1Tim 5, 14.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Posset id commode fieri in pręfatione aliqua, quemadmodum nunc <persName>Oecolampadii</persName> vita per <persName>Grynaeum</persName><note xml:id="fn10" type="footnote" n="10">Dem von <persName>Wolfgang Capito</persName> herausgegebenen Kommentar <persName>Oekolampads</persName> zum Propheten Ezechiel, 1534 in <placeName>Straßburg</placeName> von <persName>Matthias Apiarius</persName> gedruckt, sind u. a. der Brief des <persName>Simon Grynäus</persName> an Capito über den Tod <persName>Oekolampads</persName> und dessen von Capito verfaßte Biographie beigefügt, s. <persName>Oekolampad</persName>-Bibliographie 173.</note> Ezechielem non tantum vendibiliorem reddet.</s>
+					<s n="19" xml:lang="la" type="auto">Sed et a calumniis beatissimam animam hanc vindicabit.</s>
+					<s n="20" xml:lang="la" type="auto">Ignosce, vir optime, nugis meis.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName>Otho</persName> se tuae fidei commendat.</s>
+					<s n="22" xml:lang="la" type="auto">Tu meo nomine diligenter <persName>Collinum</persName> et <persName>Theodorum</persName><note xml:id="fn11" type="footnote" n="11"><persName>Theodor Bibliander</persName>.</note> saluta atque in domino vale.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto"><placeName>Argentorati</placeName>, 3. martii.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><persName>Bedrotus</persName>.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">De <persName ref="p6155">Lavatero</persName>, quamprimum fieri potest, fieri certior cupio, ne si huic venire minus integrum sit, aliis forsan mecum habitare cupientibus frustra denegam.</s>
+					<s n="26" xml:lang="la" type="auto">Per Froschow[erum] mihi significare potes omnia.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="27" xml:lang="la" type="auto">Domino Henricho Bullingero, ecclesiastae Tigurinorum fidelissimo, domino et amico suo incomparabili, Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12119" type="Brief" source="HBBW" n="2072">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wigand Happel / Straßburg AN Heinrich Bullinger, 21. Januar 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Superioribus meis ad te literis<note xml:id="fn2" type="footnote" n="2"><persName>Happel</persName> bezieht sich auf seinen Brief an Bullinger vom 13. September 1544 (<bibl>HBBW</bibl> XIV, <ref target="file12031">Nr. 1984</ref>).</note> exposui res et studia mea, quae, ut tuae humanitati probentur, vehementer scire cupio<note xml:id="fn3" type="footnote" n="3">Aus diesen Worten wird deutlich, dass Bullinger nicht auf <persName>Happels</persName> Brief vom 13. September 1544 geantwortet hatte.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Quamobrem humiliter et obnixe te obtestor, tuum iudicium et consilium super iis per otium brevibus mihi perscribere digneris.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Deinde etiam, etiam atque etiam vehementer oro, fretus tua erga me benevolentia et singulari erga omnes humanitate et fide, ut me illustrissimo principi nostro<note xml:id="fn4" type="footnote" n="4"><persName>Philipp von Hessen</persName>.</note> diligenter commendare velis ac obiter ei ostendere, quod cum in aliis tum vel maxime in professione linguae sanctae<note xml:id="fn5" type="footnote" n="5">D. h. Hebräisch.</note> opera mea uti possit universitas sua, si sit opus.</s>
+					<s n="5" xml:lang="la" type="auto">Quid in ea profecerim, ex d. <persName>Pellicano</persName>, viro optimo, poteris cognoscere; et d. <persName>Pauli Fagii</persName> et d. <persName ref="p18198">Buceri</persName> literae comendatitiae ad eundem optimum principem nostrum testabuntur.</s>
+					<s n="6" xml:lang="la" type="auto">Quare non<pb type="edition" next="103"/> est, vir humanissime, quod verearis, ne de re ignota vel incerta testimonium perhibeas.</s>
+					<s n="7" xml:lang="la" type="auto">Preterea scripta eiusmodi ita temperari possunt, ne cui fraudi sint, et ego talem semper me pręstare in animum induxi (ut mihi hactenus fecisse videor), ne vestram de me expectationem fallam utque dignissimus vestris literis iudicer.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Opus iis<note xml:id="fn7" type="footnote" n="7">literis commendaticiis.</note> nequaquam foret, si me ęquis intueri oculis<note xml:id="fn8" type="footnote" n="8">aequis intueri oculis: mit freundlichen Augen ansehen.</note> quidam invidi homines et superstitiosi theologi et superciliosi sustinerent, qui, cum nihil habeant, quod mihi inurant, quo me in invidiam adducant, mihi noceant, hereticum me Zwinglianum esse acerrimum prędicant<note xml:id="fn9" type="footnote" n="9">Siehe <bibl>HBBW XIV</bibl> 396, 9-11.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Si opprimere me nequeant aut convertere, saltem non promovendum et modis omnibus impediendum cursum meum, quo minus emergam, censent.</s>
+					<s n="10" xml:lang="la" type="auto">Ac interim nec respondere scripto meo<note xml:id="fn10" type="footnote" n="10">Eine Schrift <persName>Happels</persName> aus dieser Zeit ist nicht bekannt. Es könnte sich dabei um ein theologisches Gutachten gehandelt haben, das <persName>Happel</persName> seinen Gegnern bei den privaten Verhandlungen unterbreitete; s. unten Z. 31f.</note> nec solvere aut confutare meae possunt, et (ut uno verbo dicam) suum imitantur hac in parte pręceptorem aut papam Germanum<note xml:id="fn11" type="footnote" n="11"><persName>Luther</persName>.</note>, nisi autoritate pii principis moverentur et plebis absterrerentur scandalo et commotione.</s>
+					<s n="11" xml:lang="la" type="auto">Credo mihi et mei similibus unicam saltem ob causam illam, nec publice sed intra privatos hactenus parietes cum illis agitatam, aqua et igni forte interdicturos<note xml:id="fn12" type="footnote" n="12">aqua et igni interdicere alicui: jemanden ächten.</note> esse.</s>
+					<s n="12" xml:lang="la" type="auto">Norunt vestri iuvenes, qualem me prestiterim in causa illa; ab illis te cognoscere omnia velim, si cordi id sit.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Nunquam publice neque etiam in conviviis (ut solent multi) eam<note xml:id="fn14" type="footnote" n="14">eam causam.</note> movi aut iactitavi, sed privatim cum iis contuli, qui aut vos publice traducerent aut etiam meam famam arroderent, me morderent non obscure; et demum eo rem perduxi, ut publicis maledictis contra vos abstinerent, nisi vellent me ad publicam defensionem provocare, quod etiam facturus adhuc sum, nisi ex illa acerbitate demum ad aliquam maturitatem ac sanitatem mentis redire velint.</s>
+					<s n="14" xml:lang="la" type="auto">Quamquam sim pacis studiosissimus et concordiae, quam<pb type="scan" next="940"/> si fovere et conservare - volui prius dicere, revocare, erigere et paulatim confirmare - pote[ro], totis viribus id faciam; sin minus, ope divina et quorundam<pb type="edition" next="104"/> magnorum virorum consilio et auxilio hoc saltem curabo apud illustrissimum principem nostrum, ut, quos hereseos au[t] erroris convincere non queant, eos non accusent, calumnientur, exosos reddant.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Se[d] longius provehor indignitate rei, quam animus erat.</s>
+					<s n="16" xml:lang="la" type="auto">Hoc unum adiiciam: Me totum vestr[um] esse, vestrum honorem, nomen, famam mihi esse longe commendatissima, et quicquid in me contuleris beneficii, id te in hominem tui studiosissimum et gratissimum collocaturum.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Bene vale cum tota domo tua, ac mihi praecipe et manda quidvis, et factum puta.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Dat[um] ex <placeName>Argentina</placeName>, 21. ianuarii anno 1545.<note xml:id="fn15" type="footnote" n="15">Dem Überbringer dieses Briefes wurde wohl auch <persName>Bucers</persName> Brief vom gleichen Tag (oben <ref target="file12118">Nr. 2071</ref>) anvertraut.</note></s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Tuus ex animo Vigandus Hap.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="20" xml:lang="la" type="auto">[Clarissimo vi]ro domino [Heynrico B]ullingero, [ecclesiae Ti]gurinae [episcopo] vigilantissimo, [domino et] praeceptori [vero si]bi sanctissime [colen]do.</s>
+					<s n="21" xml:lang="de" type="auto">Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

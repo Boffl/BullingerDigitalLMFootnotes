@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12160" type="Brief" source="HBBW" n="2113">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Caesarius / Köln AN Heinrich Bullinger, 16. März [1545]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem in Christo Iesu, domino et servatore nostro.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Repperi nuper in taberna cuiusdam apud nos bibliopolę<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> libellum <persName>Cochlei</persName>,<note xml:id="fn3" type="footnote" n="3"><hi><persName>Cochläus</persName>,</hi> "Replica brevis"; s. <bibl>HBBW</bibl> XIV <ref target="file12046">[Nr. 1999]</ref> 429, Anm. 12.</note> quo ad tuum<note xml:id="fn4" type="footnote" n="4"><hi>Bullinger,</hi> "Ad Ioannis Cochlei De canonicae scripturae et catholicae ecclesiae authoritate libellum ... responsio"; s. <bibl>HBBW</bibl> XIV <ref target="file11885">[Nr. 1839]</ref> 66f, Anm. 3.</note> adversus ipsum De authoritate scripturę<note xml:id="fn5" type="footnote" n="5"><hi><persName>Cochläus</persName>,</hi> "De canonicae scripturae et Catholicae ecclesiae autoritate"; s. <bibl>HBBW</bibl> XIV <ref target="file11885">[Nr. 1839]</ref> 66, Anm. 2.</note> respondit; verum nondum legi, sed reservavi hactenus, donec tuam ad illum responsionem<note xml:id="fn6" type="footnote" n="6"><hi>Bullinger,</hi> "Brevis <foreign xml:lang="el">ἀντιβολή</foreign>" s. <bibl>HBBW</bibl> XIV <ref target="file12057">[Nr. 2010]</ref> 460, Anm. 22.</note> accipiam, vir optime et eruditissime.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Multi ex me pene quotidie sciscitantur, num tua in Lucam commentaria prodierint aut, si nondum in lucem prodierint, an non aliquando prodibunt;<note xml:id="fn7" type="footnote" n="7">Bullingers Lukaskommentar erschien 1546 (<bibl>HBBibl</bibl> 1173). - <persName>Caesarius</persName> wartete darauf schon seit März 1543; s. <bibl>HBBW</bibl> XIII 96, 12-14.</note> quibus ego respondere soleo et me quoque ea avide expectare in dies; sed<pb type="edition" next="195"/> vereor, ne labor nimius oneret atque gravet te plus aequo.</s>
+					<s n="4" xml:lang="la" type="auto">At non dubito, quin his nundinis quadragesimalibus<note xml:id="fn8" type="footnote" n="8">An der Frühjahrsbuchmesse in <placeName>Frankfurt</placeName>. Zu ihrem Termin s. oben <ref target="file12137">Nr. 2090</ref>, Anm. 9.</note> aliquid tuarum lucubrationum expectaturi simus.</s>
+					<s n="5" xml:lang="la" type="auto">Ingens labor est atque opus in eos scribere authores eosque commentariis explanare, qui idem fere argumentum tractant, cuiusmodi sunt quatuor evangeliste<note xml:id="fn9" type="footnote" n="9">Matthäus, Markus, Lukas, Johannes.</note> cumprimis.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Cęterum dominus reverendissimus <placeName>Coloniensis</placeName><note xml:id="fn10" type="footnote" n="10"><persName>Hermann von Wied</persName>, Erzbischof von <placeName>Köln</placeName>.</note> nondum causam suam plane destituit aut deserit, imo constantissime perseverat, et, ut ex magnis viris audivi, illum tam constanter suo inhęrere proposito, ut mori malit quam sinere causam cadere.</s>
+					<s n="7" xml:lang="la" type="auto">Deus optimus maximus illius animum confortet atque confirmet!</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">De cęsare<note xml:id="fn11" type="footnote" n="11"><persName>Karl V.</persName></note> vehementer demiror, quod tam severiter Lutheranos, quos vocant, [minist]ris suarum ditionum prosequatur,<note xml:id="fn12" type="footnote" n="12">Zu den Verfolgungen s. <bibl>HBBW</bibl> XIV 205, 91f; 296 und Anm. 6; 556 und Anm. 10; 576 und Anm. 6.</note> adeoque ut complures ex illis, qui persecutionem iam experiuntur, patriam relinquunt cum uxoribus et liberis.</s>
+					<s n="9" xml:lang="la" type="auto">Idem deus ac dominus illius animum in melius mutet, orandum est.</s>
+					<s n="10" xml:lang="la" type="auto">Demiror autem, inquam, cur cęsar id faciat, pręsertim cum concilium<note xml:id="fn13" type="footnote" n="13">Das nach <placeName>Trient</placeName> einberufene Konzil; s. oben <ref target="file12118">Nr. 2071</ref>, Anm. 24.</note> iamiam [in]stare dicatur, ad quod ipse, ut ferunt, venturus est, ubi speratur fore, ut res ista, quę hactenus inter magnos et doctissimos viros controversa est, componatur et ad unionem redigatur.</s>
+					<s n="11" xml:lang="la" type="auto">Det Christus pro sua gloria principibus et viris illis, qui ad rem illam tractandam delegentur, sanam et piam mentem, uti iudicio, non ex affectu res examinetur et decidatur.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><placeName>Colonie</placeName> hisce diebus prodiit in lucem libellus <persName>Latomi</persName> contra <persName ref="p18198">Bucerum</persName>.</s>
+					<s n="13" xml:lang="la" type="auto">Non multo post prodibit quoque liber prioris Carmelitarum apud<pb type="edition" next="196"/> nos, continens arcus papyri quinquaginta, ut ex ipso excusore<note xml:id="fn17" type="footnote" n="17"><persName>Jaspar von Gennep</persName>.</note> audivi.</s>
+					<s n="14" xml:lang="la" type="auto">Agit autem in eo libro contra <persName ref="p18198">Bucerum</persName>, <persName ref="p6490">Philippum</persName><note xml:id="fn18" type="footnote" n="18"><persName>Philipp Melanchthon</persName>.</note> et Aldendorpium<note xml:id="fn19" type="footnote" n="19"><persName>Johann Oldendorp</persName>.</note> iurisconsultum.</s>
+					<s n="15" xml:lang="la" type="auto">Dixit mihi comes apud nos quidam non indoctus<note xml:id="fn20" type="footnote" n="20">Unbekannt.</note> se vidisse illius operis aliquot quaterniones seque inter legendum non potuisse a risu abstinere.</s>
+					<s n="16" xml:lang="la" type="auto">Quid hoc sibi velit, utcumque coniicere possum; [im]o idem monachus [ad] mensam decani [no]stri in summo templo [ap]ud nos dixit se [oste]nsurum in eo opere [Lut]herum, <persName ref="p6490">Philippum</persName>, Bu[ce]rum et cęteros nondum [in]tellexisse scripturam; unde cum Horatio dicere possum aut potius exclamare: „Quid dignum tanto feret hic promissor hiatu?“<note xml:id="fn22" type="footnote" n="22"><hi><persName>Horaz</persName>,</hi> De arte poetica, 138.</note></s>
+					<s n="17" xml:lang="la" type="auto">Unde idem protinus subiungit: „Parturiunt montes; nascetur ridiculus mus.“<note xml:id="fn23" type="footnote" n="23"><hi><persName>Horaz</persName>,</hi> De arte poetica, 139; Adagia, 1, 9, 14 (<bibl>ASD</bibl> II/2 336-338, <ref target="file10853">Nr. 814</ref>).</note></s>
+					<s n="18" xml:lang="la" type="auto">Saluta meis verbis Gvalterum meum, cuius vidi nuperrime versionem cuiusdam authoris contra Mahometicam sectam.</s>
+					<s n="19" xml:lang="la" type="auto">Bene vale.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto"><placeName>Colonię</placeName>, feria secunda post lętare.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p4423">Ioannes Cęsarius</persName> totus tuus.<pb type="edition" next="197"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="la" type="auto">Clarissimo viro domino Henrico Bullyngero, in sacris literis exercitatissimo necnon et in politioribus literis peritissimo amico suo optimo et prope incomparabili.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

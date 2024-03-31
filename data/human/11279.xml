@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11279" type="Brief" source="VBS" n="1047">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 7. März 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid von gott durch unsern herren Jesum.</s>
+					<s n="2" xml:lang="de" type="auto">Hochgelerter, eerender und fürgeliepter herr, wüssend, das zuͦ Baden üwerthalb nüt besonders usserthalb dem, das man üch zuͦschrypt, fürtragen ist, dann das üwere widersächer widerumb geäffret habend zwen artickel: namlich das inen der zoll beschwerlich uffgelegt sye und die güllt mitt pfand ynzeziehen etc.; wie ir baaß verstand und nitt nodt, mitt vil worten ze melden.</s>
+					<s n="3" xml:lang="de" type="auto">Das hat man nun also ein red sin lassen etc.</s>
+					<s n="4" xml:lang="de" type="auto">Wyter habends erzellt, was sy habind mit Büchelern verhandlet.</s>
+					<s n="5" xml:lang="de" type="auto">Üwer red die paner und fendli betraͤffend ist nitt gedacht anders dann obiter.</s>
+					<s n="6" xml:lang="de" type="auto">Sy hoffind nitt, das sich finden werde, das sy ye habind ire paner verloren.</s>
+					<s n="7" xml:lang="de" type="auto">Und verston wol, näbendsyt geredt werden, sy syend des fendlis beckantlich und das zuͦ Pregetz sye ein fendli, und nitt ein paner etc.</s>
+					<s n="8" xml:lang="de" type="auto">Nun wäre eins guͦten erenfründts radt: diewyl ir nachpuren und sich wol ze vermuͦten, wo man uff dem rächtspruch und der rühy ligen, werde sich vil unwilles zuͦtragen, der sich in vil jaren nitt werde widerumb abässen, und bedüchte deßhalb den eerenman guͦt und nütz sin, wenn ir beyd Sachen, die gemein statt und üwer person beträffend mitt dem paner und fendlinen, guͤtlich liessend vertädingen; doch das ir üch immerdar der guͤtickeyt wideritind, biß schidartickel gestellt, die üch traglich und angnäm.</s>
+					<s n="9" xml:lang="de" type="auto">Wurdint vilicht die üwern widersächer nitt anemmen; so ir sy dann annämind, wer üwer sach aber besser etc.</s>
+					<s n="10" xml:lang="de" type="auto">Lassend mich wüssen, was üwer gmuͤt und fürnemmen sye.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Des pundts halben, der sich täglich meeret, bin ich in sorgen und kumber.</s>
+					<s n="12" xml:lang="de" type="auto">Mitt üch geredt: ich fürcht, es sye nitt alles <foreign xml:lang="la">purum putum</foreign> und werdint ettwan angenommen, die nitt uffrächt.</s>
+					<s n="13" xml:lang="de" type="auto">So schreckt mich unser exempel.</s>
+					<s n="14" xml:lang="de" type="auto">Ye mee wir in unserm burgrächt wuͦchsend, ye schwecher wir wurdint.</s>
+					<s n="15" xml:lang="de" type="auto">Ich besorg, sy vertruwind uff menschen krafft wie wir, und werde gott wie by uns erzeygen, das sin wort nitt <foreign xml:lang="la">in armis, sed in gratia et robore suo</foreign> erhalten wirt.</s>
+					<s n="16" xml:lang="de" type="auto">Mich erschreckend ouch unser groß sünd.</s>
+					<s n="17" xml:lang="de" type="auto">Ich besorg, die rach sye vor der thür.</s>
+					<s n="18" xml:lang="la" type="auto">Dominus misereatur nostri propter gloriam nominis sui.</s>
+					<s n="19" xml:lang="de" type="auto">Ich weiß dißmols nüt besonders nüwer zytung; dancken üch früntlich umb üwer zuͦschriben und bitt, ir wöllind mir fürohin wie bißhar zuͦschryben.</s>
+					<s n="20" xml:lang="de" type="auto">Wo ich üch dann gedienen könde, wölt ich trüwlich thuͦn und der üwer sin.</s>
+					<s n="21" xml:lang="de" type="auto">Datum Zürych, 7. Martii 1539.</s>
+					<s n="22" xml:lang="de" type="auto">Heinrych Bullinger der üwer.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Clarissimo viro D. Ioachimo Vadiano, consuli Sangallensi, domino colendissimo.</s>
+				</p>
+				<p>
+					<note type="comment">Auf der Rückseite:</note> 
+					<s n="24" xml:lang="la" type="auto">Munusculum, quod tibi offero, boni consulas, quęso.</s>
+					<s n="25" xml:lang="la" type="auto">Fateor, me tibi maiora debere.</s>
+					<s n="26" xml:lang="la" type="auto">Lege, quaeso, et si quid videbitur imprudentius dictum aut non satis diligenter aut periculose tractatum, significa.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

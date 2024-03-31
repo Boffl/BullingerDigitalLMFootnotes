@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11049" type="Brief" source="Kessler, Sabbata" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), [Mitte Juni 1537]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">XIIII. maji.</s>
+					<s n="2" xml:lang="la" type="auto"><placeName>Lauzanae</placeName> synodus concelebrata est.</s>
+					<s n="3" xml:lang="la" type="auto">Convenere in ea Bernatium primarii ministri et omnes nuper occupatę terrae presbyteri.</s>
+					<s n="4" xml:lang="la" type="auto">In hac revocavit recantavitque Arianismum resuscitatum <persName>Claudius ille Sabaudus</persName>.</s>
+					<s n="5" xml:lang="la" type="auto">Idem Tigurum hisce diebus venit et errorem suum confessus coram fratribus veniam precatus.</s>
+					<s n="6" xml:lang="la" type="auto">VIII. junii veniunt ex Anglia adolescens ille meus una cum d.</s>
+					<s n="7" xml:lang="la" type="auto"><persName>Nicolao Partrigio</persName>, Anglo, qui in januario ex aedibus meis visendae patriae gratia abiierant.</s>
+					<s n="8" xml:lang="la" type="auto">Ducunt secum adhuc tres Anglos, sunt enim nunc VI Tiguri honesto loco nati et opulenti iuvenes literis incumbentes.</s>
+					<s n="9" xml:lang="la" type="auto">Hi multa retulere iucunda et leta.</s>
+					<s n="10" xml:lang="la" type="auto">De his autem cum in pręsenti scribere non liceret, placuit autem communicare archiepiscopi Cantuarensis epistolam, ex qua licebit, totum aestimes negocium, utut res gerantur in <placeName>Anglia</placeName>.</s>
+					<s n="11" xml:lang="la" type="auto">Adversariorum animus pro(r)sus concidit, seditionis authores plus 30 dissecti et suspensi sunt.</s>
+					<s n="12" xml:lang="la" type="auto">In his interiit venerabilis abbas, quem pulla, cuculla monachicaque veste redimitum suspendit.</s>
+					<s n="13" xml:lang="la" type="auto">Capti servantur in vinculis barones, nobiles, pręlati 40 propemodum, pauci evadent.</s>
+					<s n="14" xml:lang="de" type="auto">Es wirt denen blůts gnůg, diewil sy imerdar uf blůt trungen etc.</s>
+					<s n="15" xml:lang="la" type="auto">Vale</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

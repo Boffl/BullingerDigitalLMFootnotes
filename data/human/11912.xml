@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11912" type="Brief" source="HBBW" n="1866">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 12. März 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Scripsisti literas ad me, mi Bullingere, 12. februarii datas<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file11892">Nr. 1846</ref>.</note> non quidem ut antehac, sed forma nova, qua hactenus non es usus, et scripsisti ministrorum et fratrum omnium nomine.</s>
+					<s n="3" xml:lang="la" type="auto">Ego vero subscriptionem haud curans, quod ignoro, quinam ministri quive fratres, tibi uni respondeo, ut cum quo loqui et seria et ludicra in hunc usque diem adsuevi, sperans omnia te mea in partem meliorem interpretaturum; id quod non possem expectare de omnibus, qui apud vos docent de suggestu.</s>
+					<s n="4" xml:lang="la" type="auto">Putabam me habere isthic et filios;<pb type="edition" next="128"/> nescio, an ex eis sint facti fratres metamorphosi aliqua.</s>
+					<s n="5" xml:lang="la" type="auto">Nec dubium, quin et quosdam habeam non sane amicos<note xml:id="fn2" type="footnote" n="2">Auf wen <persName>Myconius</persName> anspielt, ist nicht bekannt. <persName>Myconius</persName> scheint allenfalls an ehemalige Schüler ("filios") wie auch an einige ihm nicht sehr zugeneigte Personen aus Zürich gedacht zu haben, die unterdessen der Reformation beigetreten waren und somit "fratres" geworden sind.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Num et hi fratres facti?</s>
+					<s n="7" xml:lang="la" type="auto">Gauderem.</s>
+					<s n="8" xml:lang="la" type="auto">His itaque omissis ad rem.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Agnosco conciones habitas non solum diebus, quos tu nominas, sed per annos iam 12 pluribus de eucharistia, quas nemo reprehendit unquam exceptis anabaptistis vel horum similibus.</s>
+					<s n="10" xml:lang="la" type="auto">Sed hę non fuerunt, quales tu pingis, sed qualiter dominus me per verbum suum docuit, qualiter item apostoli et evangelistae, <persName>Paulus</persName> item, confessio nostra communis,<note xml:id="fn3" type="footnote" n="3">Das Erste Helvetische Bekenntnis von 1536 (<bibl>RBS</bibl> I/2 33-68, Nr. 20; lateinische Fassung: <bibl>Schaff</bibl> III 211-231).</note> <persName ref="p18198">Bucerus</persName> in libro ad Monasterienses,<note xml:id="fn4" type="footnote" n="4">Siehe <bibl>HBBW IV</bibl> <ref target="file10387">[Nr. 355]</ref> 124, Anm. 3.</note> quem et tu commendasti aliquando, maxime in negocio coenae, qualiter item ego adnotavi in Marcum evangelistam<note xml:id="fn6" type="footnote" n="6"><persName>Myconius</persName>' Werk "In evangelium Marci docta et pia Oswaldi Myconii Lucernani iam primum in lucem edita expositio", erschienen in Basel bei <persName>Thomas Platter</persName> im März 1538 (VD 16 G 830), f. 149r.-155v. (zu Mk 14, 22-24).</note> et, si recte memini, qualiter tu confessionem scripsisti <placeName>Scoto</placeName> cuidam, qui sic a te petierat,<note xml:id="fn8" type="footnote" n="8">Ein entsprechender Brief von <persName>George Wishart</persName> fehlt; die Bitte wurde vielleicht mündlich geäußert.</note> et <placeName>Araugiae</placeName>, qualiter nos simul scripsimus in haec verba: „In coena domini mystica corpus Christi, quod pro nobis in mortem traditum est, et sanguis eius, qui in remissionem peccatorum nostrorum fusus est, a fidelibus vere manducatur et bibitur in memoriam eius ad vigorem animae et vitae spiritualis incrementum.“<note xml:id="fn10" type="footnote" n="10">"Confessio ecclesiae Tigurinae et Basileiensis", Zürich StA, E II 337, 116v., gedruckt in: <hi>Bizer,</hi> Abendmahlsstreit 90, Anm. 5.</note></s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><pb type="edition" next="129"/>Ex his omnibus loqui didici de coena domini, quod Christus in panegyri hac cum pane nos pascat suo corpore et cum vino potet suo sanguine, non quidem ratione crassa et ut Capernaitę<note xml:id="fn12" type="footnote" n="12">Siehe <bibl>HBBW XI</bibl> <ref target="file11600">[Nr. 1557]</ref> 297, Anm. 15.</note> putabant, sed ratione coelesti et spirituali, interim tamen vera, et hanc quidem veritatem credendam esse, non inquirendam, imo credibilem, non inquisibilem, id quod dico de modo ineffabili, quo Christus in dextera patris sedens<note xml:id="fn13" type="footnote" n="13">Vgl. das nizänische Glaubensbekenntnis (<bibl>BSLK</bibl> 26).</note> suos in s[acra] coena corpore et sanguine suo reficit ad vitam.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Habes paucis, quonam modo populum mihi commissum de negocio coenae soleam instituere neminem interim vituperans, neminem commendans pręterquam anabaptistas et qui ex meis nonnihil cum istis colludunt.</s>
+					<s n="13" xml:lang="la" type="auto">Dum enim se movent, ut sunt irrequieti, nec mihi tacere licet.</s>
+					<s n="14" xml:lang="la" type="auto">Abigam enim lupum, qui meis ovibus adpropinquare nititur; opus est officii.</s>
+					<s n="15" xml:lang="la" type="auto">Doceo igitur simplex simpliciter et iuxta dominum et apostolos, a quorum verbis et sensu non discedo.</s>
+					<s n="16" xml:lang="la" type="auto">Arbitror autem, quod hi sint loquuti forma optima, nedum simplicissima, et qui eos sequuntur, nequeant aberrare.</s>
+					<s n="17" xml:lang="la" type="auto">Docet quoque me experientia tranquillitatem conscientiae secus comparari non posse quam hoc modo.</s>
+					<s n="18" xml:lang="la" type="auto">Humana legi de coena usque ad satietatem<note xml:id="fn14" type="footnote" n="14"><bibl>Adagia</bibl>, 2, 8, 73 (<bibl>ASD</bibl> II/4 196, <ref target="file11819">Nr. 1773</ref>).</note>, imo usque ad nauseam, verum nihil inde quietis conscientiae.</s>
+					<s n="19" xml:lang="la" type="auto">Divina legi et pacem adeptus sum contra insultus et hominum et satanę; precor dominum meum Iesum, ut sic me servet, stabiliat et usque dum satis augeat.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Auditores, quos dicis, aiunt aliter olim me docuisse ecclesiam Tigurinam, quam nunc doceam Basiliensem<note xml:id="fn15" type="footnote" n="15">Vgl. oben <ref target="file11892">Nr. 1846</ref>, 2-9.</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Valent certe memoria, si norunt, quid ego tum docuerim, praesertim de coena.</s>
+					<s n="22" xml:lang="la" type="auto">Equidem non memini sępius illud argumentum me tractasse.</s>
+					<s n="23" xml:lang="la" type="auto">Ludimagister eram, quamobrem scholaria magis quam theologica curabam.</s>
+					<s n="24" xml:lang="la" type="auto">Quod publice autem praelegebam, senatus decreto factum est;<note xml:id="fn16" type="footnote" n="16"><persName>Myconius</persName> meint seine (nicht erhaltenen) neutestamentlichen deutschen Vorlesungen, die er auf Geheiß des Rates hielt; s. <bibl>AZürcherRef</bibl> 901f, <ref target="file10614">Nr. 576</ref>b; <bibl>HBRG</bibl> I 291.</note> in hoc enim et stipendium auxerant nonnihil.</s>
+					<s n="25" xml:lang="la" type="auto">Matthaeum et Acta habebam in manibus, ubi semel atque iterum materia ista incidit.</s>
+					<s n="26" xml:lang="la" type="auto">Scripsi, quę tum docui, et servavi, atque ita invenio praeeuntem piae memorię <persName>Zvinglium</persName> nostrum me sequutum contendentem non adversus quempiam pręter papam et papistas.</s>
+					<s n="27" xml:lang="la" type="auto">Et ut is tunc<pb type="scan" next="280"/> „est“ pro „significat“ exposuit, ita<pb type="edition" next="130"/> et ego, verumtamen ut oculos in praesentem Christum semper intenderem.</s>
+					<s n="28" xml:lang="la" type="auto">Pręsentem dico suo modo, non absentem nisi ratione carnali.</s>
+					<s n="29" xml:lang="la" type="auto">Interea nunquam cum anabaptistis signa nuda tenui in coena et Christum abesse a suis sacramentis.</s>
+					<s n="30" xml:lang="la" type="auto">Nunc si secus doceo, non difficulter iudicabis ex confessione paulo ante dicta.</s>
+					<s n="31" xml:lang="la" type="auto">Clarius forsitan in praesens, quod eo tempore dixi obscurius.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Discrimen itaque si est, hoc est; pręterea nullum.</s>
+					<s n="33" xml:lang="la" type="auto">Lubens autem condono istis auditoribus, dum praeter verum dicunt enunciasse me Christum corporaliter adesse et sumi in coena; modo tu mihi credas mei moris non esse sic loqui.</s>
+					<s n="34" xml:lang="la" type="auto">Sed, quemadmodum audisti, verbis innitor Christi et discipulorum eius sic docens, ut nemo cum fide me audiens queat vel paululum offendi, nisi prius, ut memini, vel anabaptistam audierit vel formulam aliquam, quę verbis, etiamsi non sensu, a mea dissonet.</s>
+					<s n="35" xml:lang="la" type="auto">Quales omnino videntur, qui priori meae concioni interfuerunt.</s>
+					<s n="36" xml:lang="la" type="auto">Parco igitur ex animo illis, non digladior.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Qui vero in natali domini fuerunt praesentes, „fratres non leves aut futiles“, ut tu vocas,<note xml:id="fn19" type="footnote" n="19">Oben <ref target="file11892">Nr. 1846</ref>, 10f.</note> si dicunt aliud quam locum <persName>Pauli</persName> de communicatione corporis et sanguinis Christi in coena<note xml:id="fn20" type="footnote" n="20">1Kor 11, 24-26.</note> diligentius me explicasse, dein duo hęc intulisse: quod duplicem coenam habentes non sint de corpore Christi, et praesentes, si non communicent absque iusta causa, modo coenę mysteria cognoscant, probare se non esse membra ecclesię domini, et pluma leviores et dolio pertuso<note xml:id="fn22" type="footnote" n="22">Vgl. Adagia, 1, 10, 33 (<bibl>ASD</bibl> II/2 438-440. <ref target="file10975">Nr. 933</ref>).</note> futiliores sunt.</s>
+					<s n="38" xml:lang="la" type="auto">De <persName>Oecolampadio</persName> vero quę adieci, hanc causam habuerunt: Homuncio quidam loquacitate notus in tota civitate<pb type="edition" next="131"/> sparserat <persName>Myconium</persName> crassius quid docuisse de praesentia Christi in coena, quam ipse didicisset ab initio, nimirum <persName>Oecolampadio</persName> doctore.</s>
+					<s n="39" xml:lang="la" type="auto">Mendacium istud me coegit, ut famam tuerer.</s>
+					<s n="40" xml:lang="la" type="auto">Adduxi igitur locum illius ex epistola quadam libri 3. farraginis ad anonymum scripta, ex qua facile patet non contentioso, quidnam in coena praecipue quęsierit, nempe corpus et sanguinem Christi, non vel corporis vel sanguinis figuram.</s>
+					<s n="41" xml:lang="la" type="auto">Addidi: „Consonat hoc loco <persName>Oecolampadius</persName> cum <persName ref="p18889">Lutheri</persName> (quem tum praeter consuetudinem pro suggestu nominavi) epistola, quam annis superioribus misit ad civitates nostras evangelio donatas pro concordia.“<note xml:id="fn26" type="footnote" n="26"><persName>Luther</persName> an die eidgenössischen Städte; s. oben <ref target="file11892">Nr. 1846</ref> mit Anm. 10; 1848, 12-16.</note></s>
+					<s n="42" xml:lang="la" type="auto">An, mi Bullingere, dixi perperam?</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Quid igitur permisisti <persName ref="p18198">Bucero</persName> loqui ad hunc modum:<note xml:id="fn27" type="footnote" n="27">Das Folgende entspricht dem von <persName>Bucer</persName> verfassten deutschen Titel zur <placeName>Wittenberger</placeName> Konkordie; s. <bibl>BucerDS</bibl> VI/1 209; <bibl>HBBW VI</bibl> 368, 8-12.</note> „Confessio <placeName>Witembergensis</placeName><note xml:id="fn28" type="footnote" n="28">Die <placeName>Wittenberger</placeName> Konkordie aus dem Jahr 1536; s. <bibl>BucerDS</bibl> VI/1 114-134, Nr. 10; <bibl>WA</bibl> Briefwechsel XII 200-212, Beilage I zu Nr. 4261; MBW, Texte VII 131-148, <ref target="file11790">Nr. 1744</ref>.</note> nihil habet novi, sed est in <persName>Oecolampadii</persName> et <persName>Zvinglii</persName> scriptis,<note xml:id="fn29" type="footnote" n="29">Vgl. unten <ref target="file12096">Nr. 2049</ref>.</note> in quatuor item civitatum confessione<note xml:id="fn30" type="footnote" n="30">Das von <placeName>Straßburg</placeName>, <placeName>Konstanz</placeName>, <placeName>Memmingen</placeName> und <placeName>Lindau</placeName> unterzeichnete Vierstädtebekenntnis (Confessio Tetrapolitana) aus dem Jahr 1530 (<bibl>BucerDS</bibl> III 13-185).</note> Augustae oblata comprehensa et alias publice contestata, praesertim autem incorporata confessioni Basiliensi<note xml:id="fn31" type="footnote" n="31">Vgl. oben Anm. 3.</note> per legatos et praedicatores civitatum evangelicarum composita anno 36“?</s>
+					<s n="44" xml:lang="la" type="auto">Confer, obsecro, locos ipse, et a mendacio vel tuo patrocinio liberabor non difficulter.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Hic, ut de <persName>Oecolampadio</persName>, decessore meo sancto et venerando viro, pluribus paulo dicam, opus videtur.</s>
+					<s n="46" xml:lang="la" type="auto">Non sum adeo stupidus, ut, quae is aliquando scripserit, non intelligam, neque tam negligens, ut libros eius pręteream.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto">Hoc igitur adsevero invenire me duplicem eum virum in negocio coenae, contentiosum et placidum.</s>
+					<s n="48" xml:lang="la" type="auto">Contentiosus fertur admodum vehementer in papistas et in <persName ref="p18889">Lutherum</persName>, ubi putat aliquid papisticum inesse, qualiter sentit fere in epistolis et libris omnibus contentiosis, etiam in Dialogo<note xml:id="fn32" type="footnote" n="32"><persName>Johannes <hi>Oekolampad</hi></persName>, Quid de eucharistia veteres tum Graeci, tum Latini senserint, dialogus, Basel, Hieronymus Froben, 1530 (<persName>Oekolampad</persName>-Bibliographie, <ref target="file10195">Nr. 164</ref>).</note>, quanquam is tersissimus est et sententiam meam per omnia confirmans.</s>
+					<s n="49" xml:lang="la" type="auto">Placidus (ut passim<pb type="edition" next="132"/> ad amicos) docet, quemadmodum ex epistola dicta<note xml:id="fn33" type="footnote" n="33">Siehe oben Anm. 25.</note> demonstravi, ut item hic confessus est in synodo prima publice his verbis: „In his“, inquit, „quę ad sacramentum pertinent coenae, confiteor animas nostras - per fidem in mortem Iesu - Christi carne et sanguine pasci et potari idque pane et vino dominico sancte commendari, non autem corpus Christi nunc vel localiter vel dimensive, sed sacramentaliter adesse et sic Christum vere credentibus vere adesse.“</s>
+					<s n="50" xml:lang="la" type="auto">Igitur dum ego adserui inter illos duos convenire, de placido dixi <persName>Oecolampadio</persName>, non de contendente, de altero quoque non certe ut, dum sua impellitur vehementia, sermonibusque utitur hyperbolicis contra hostes suos, sed uti confessus est ad nos omnes in <placeName>Helvetiis</placeName>.</s>
+					<s n="51" xml:lang="la" type="auto">Et haec dixi tam diserte (nam rabulis satisfacere volebam), ut satis videam, quales<pb type="scan" next="281"/> habuerim auditores, postquam tibi persuaserunt, ut pro mendaci me iudices.</s>
+				</p>
+				<p>
+					<s n="52" xml:lang="la" type="auto">Non sum mentitus nec mentiar in loco sacerrimo.</s>
+					<s n="53" xml:lang="la" type="auto">De suggestu nanque nihil debet dici, nisi cuius et coram domino te non pudeat.</s>
+					<s n="54" xml:lang="la" type="auto">Cogitandum diu, quod inde doceas; nam olim deo reddenda ratio.</s>
+					<s n="55" xml:lang="la" type="auto">Dedit mihi dominus in praesentem usque diem, ut loquar publice magno cum timore eius, et hactenus non sum confusus, quamvis impetitus sępe graviter a doctis et indoctis.</s>
+					<s n="56" xml:lang="la" type="auto">Eundem precor, ut deinceps sicut hactenus me tueatur ac protegat.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="la" type="auto">Paucis igitur his causam meam defensam apud te volo.</s>
+					<s n="58" xml:lang="la" type="auto">Rogo autem per dominum Iesum, mea omnia sic accipias, ut decet amicum.</s>
+					<s n="59" xml:lang="la" type="auto">Equidem in hoc negocio libenter inhęreo simplicitati scripturę propter dissidia confessionique nostrę communi.</s>
+					<s n="60" xml:lang="la" type="auto">A quibus quidem si discessissem, recte et amice fecisses meam pręvaricationem increpando.</s>
+					<s n="61" xml:lang="la" type="auto">At postquam totis viribus illis innitor, consultius forsitan fuisset et amicius meo videre, si tu prius de rei veritate quęsivisses ex me.</s>
+					<s n="62" xml:lang="la" type="auto">Quamvis, quod factum est, ingratum non sit, fuisset tamen illud gratissimum, quia amicissimum.</s>
+					<s n="63" xml:lang="la" type="auto">Sunt et aliae causae, cur simplicitati illi perseveranter insistam; nam video quandam energiam, qua vacat omne temporis huius acumen et omnis mundi dictio, imo haec ad illam nihil.</s>
+					<s n="64" xml:lang="la" type="auto">Sentio robur item, ut vel in gravissimis contentionibus metu caream.</s>
+					<s n="65" xml:lang="la" type="auto">Et satan cedere compellitur, quotiescunque simplici fide in verbum simpliciter acceptum pugnam capesso.</s>
+					<s n="66" xml:lang="la" type="auto">Credo et in mortis articulo nihil aliud subvenire posse.</s>
+					<s n="67" xml:lang="la" type="auto">Quamobrem dictum illud Solo[monis] iuge est et in corde et in ore meo: „Qui ambulat simpliciter, ambulat confidenter“ [Spr 10, 9].</s>
+				</p>
+				<p>
+					<s n="68" xml:lang="la" type="auto">Nam ex eo, quo sententiam illam recte concepi, quicquid de rebus divinis<pb type="edition" next="133"/> adfectatum, quęsitum, proprium, ab humano confictum ingenio sine certis scripturis fugi, nec hactenus me paenituit.</s>
+				</p>
+				<p>
+					<s n="69" xml:lang="la" type="auto">Sunt quaedam alia in tuis literis, quae, quia nihil ad rem, sciens praetereo, utpote quę scripsisti non ex te, sed ex aliorum ore et stomacho, atque id quidem, ne quid scribam ineptius, et quod lędat amicum immerentem.</s>
+				</p>
+				<p>
+					<s n="70" xml:lang="la" type="auto">Unum illud tamen tacere non possum: ex hominibus me non facere mihi deos, qualiter tu forsitan putas<note xml:id="fn36" type="footnote" n="36">Vgl. oben <ref target="file11892">Nr. 1846</ref>, 39-41.</note>.</s>
+					<s n="71" xml:lang="la" type="auto">Et utinam omnes hac in re tam forent cauti!</s>
+					<s n="72" xml:lang="la" type="auto">Nam contentionum non essent strepitus isti; qui nisi desierint, evangelium non ita multum abest ab internecione vel a perpetuo contemptu saltem.</s>
+				</p>
+				<p>
+					<s n="73" xml:lang="la" type="auto">Non dici potest enim, quid inter papistas mali foveatur per scandalosas istas pugnas magnorum in religione virorum.</s>
+					<s n="74" xml:lang="la" type="auto">Et scio bona et proba ingenia taliter inde moveri, ut timor sit, ne tandem prorsus ab omni bonitate atque adeo a salute propter contentiones istas removeantur.</s>
+					<s n="75" xml:lang="la" type="auto">Tales sumus ministri Christi et ecclesię, quibus dum exędificare commissum est, nil nisi demolimur.</s>
+				</p>
+				<p>
+					<s n="76" xml:lang="la" type="auto">Dominus lumen gratiae suae, quod tam splendide in cordibus multorum accenderat et nunc ob spiritum superbiae non parum incipit deficere, benignitate sua restituat et conservet ad sanctificationem nominis sui et ad nostram salutem.</s>
+					<s n="77" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="78" xml:lang="la" type="auto">Quęso te per dominum, ut haec mea velis interpretari, sicut ego vestra, et me posthac ut hactenus habere commendatum.</s>
+					<s n="79" xml:lang="la" type="auto">Cum <persName>Pellicano</persName> et <persName>Theodoro</persName><note xml:id="fn37" type="footnote" n="37"><persName>Theodor Bibliander</persName>.</note>, quos doctores ecclesiae vestrae, non fratres seu ministros dico, hęc sint communia.</s>
+					<s n="80" xml:lang="la" type="auto">Vale in Christo et illi tecum semper.</s>
+				</p>
+				<p>
+					<s n="81" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 12. martii anno 1544.</s>
+				</p>
+				<p>
+					<s n="82" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="83" xml:lang="la" type="auto">D. Heinricho Bullingero, viro doctissimo, ecclesiae Tigurinae antistiti, fratri in domino observando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

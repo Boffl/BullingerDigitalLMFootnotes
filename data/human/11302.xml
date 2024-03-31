@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11302" type="Brief" source="HBBW" n="1259">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 24. April 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Commodum nactus tabellionem<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>, <persName>Myconi</persName> colendissime, hisce te salutare volui ac felicitatem precari.</s>
+					<s n="3" xml:lang="la" type="auto">Alioqui in praesentiarum, quod scribam, non habeo.</s>
+					<s n="4" xml:lang="la" type="auto">Paucis enim ante diebus, quae habui, scripsi<note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file11299">Nr. 1256</ref>.</note> per <persName>Ioannem Buttlerum</persName>.</s>
+					<s n="5" xml:lang="la" type="auto">Recte valemus omnes; utinam et tu recte valeas cum tuis omnibus.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Caussam, cur hic tabellio missus sit, non plane novi; disces id haud dubie ex tuis<note xml:id="fn3" type="footnote" n="3">d. h. von Vertrauensleuten im Rat.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Ego suspicor missum propter comitia Francfordiana<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11273">Nr. 1230</ref>, Anm. 4.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Vale et me semper ama.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Tiguri, 24. aprilis 1539.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Salutabis d. <persName>Grynaeum</persName>, <persName ref="p18518">Gastium</persName>, <persName>Buttlerum</persName>, Ryffenstein, <persName>Gvaltherum</persName> meum ac reliquos amicos et fratres.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">H. Bullingerus tuus.<pb type="edition" next="118"/></s>
+					<s n="12" xml:lang="la" type="auto">Obsecro, si quid certi a comitiis <placeName>Francfordianis</placeName> habes, communica.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, domino et fratri colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

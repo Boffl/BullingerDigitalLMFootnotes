@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11210" type="Brief" source="HBBW" n="1167">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Grynäus / [Basel] AN s.n. / [Zürich], [September 1538]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ego, fratres charissimi ac colendissimi semper mihi, ad vos de communibus ecclesiae negotiis scribens scio me officium meum facere, quod quidem neque vos ignoratis.</s>
+					<s n="3" xml:lang="la" type="auto">Utinam modo sic faceremus nos omnes, qualiter qui studio, fide, industria, vigilantia summa in summam rem incumbunt.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Scio, si concordia haec in discordiam nobis exit, fratres, operam suam in ludificandis nobis sathanam non lusisse.</s>
+					<s n="5" xml:lang="la" type="auto">Fateor vobis: Cura esse summa tenacissimaque, veritas ut retineatur, debet; at ut ecclesiae concordia restituatur, aeque debet esse summa cura, fratres.</s>
+					<s n="6" xml:lang="la" type="auto">Itaque, quicquid ad vos tam sollicite interpellans, iurgans scribo, per dominum vos oro, ut neque me aliquem neque nullum esse putetis, qui id scribo.</s>
+					<s n="7" xml:lang="la" type="auto">Scio, quis mihi pectus, quis linguam moveat; scio, quis sit, qui in me vobiscum rixatur.</s>
+					<s n="8" xml:lang="la" type="auto">Certe, si maligne quicquam instituo aut molior, scio, dominus omnia consilia nostra mox in lucem palam perducta non solum risum exponet, sed disperdet etiam.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">De eo, quod scripsi nuper<note xml:id="fn2" type="footnote" n="2">Der vorausgegangene Brief ist nicht erhalten.</note>, non obscuro ex angulo prodiit.</s>
+					<s n="10" xml:lang="la" type="auto">Scripsit enim <persName>Vadianus</persName><note xml:id="fn3" type="footnote" n="3">Vermutlich handelt es sich um jenen verlorenen Brief <persName>Vadians</persName>, auf den <persName>Myconius</persName> am 22. August, <persName>Capito</persName> und <persName>Bucer</persName> am 5. September antworteten (s. <persName>Vadian</persName> BW V 502-504, <ref target="file11062">Nr. 1020</ref>, bzw. VII 74-83, Nr. 57).</note>, communis utique noster, communis utique patriae suae et religionis amicus idem summusque, se sentire incendium novum, offensionem novam, iterum in discrimen fidem eorum, qui nobiscum agunt, apud vos<pb type="edition" next="207"/> venire, nisi scriptae a <persName ref="p18889">Luthero</persName> epistolae interpretem apud vos aequum sint nactae.</s>
+					<s n="11" xml:lang="la" type="auto">Scire igitur cupiebam, in hiis quid offenderet, ut eo, quod offendit, sublato adversus artes sathanae communire nos melius possemus.</s>
+					<s n="12" xml:lang="la" type="auto">Habetis causam proximae meae epistolae.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">De offensa vero, quae orta ex ultima <persName ref="p18889">Lutheri</persName> epistola<note xml:id="fn4" type="footnote" n="4">Gemeint ist der Brief vom 27. Juni an die Ratsboten der reformierten Städte der Eidgenossenschaft (<bibl>WA</bibl> Briefwechsel VIII 241f, Nr. 3240).</note> est, verbis paucis dicam.</s>
+					<s n="14" xml:lang="la" type="auto">Mihi certe - ut ingenue profitear, quod sentio -, quod facit <persName ref="p18889">Lutherus</persName>, facere necessario videtur.</s>
+					<s n="15" xml:lang="la" type="auto">Quid enim nos in hac tota concordiae pactione aliud unquam egimus, quam ut <persName ref="p18889">Luthero</persName> parum fidentes mille nobis modis adversus ipsum caverimus?</s>
+					<s n="16" xml:lang="la" type="auto">Propositum sarciendę concordiae medium confessio nostra<note xml:id="fn5" type="footnote" n="5">Das Erste Helvetische Bekenntnis von 1536 (<bibl>BSRK</bibl> 101-109).</note> fuit.</s>
+					<s n="17" xml:lang="la" type="auto">Eam quando ad illum unquam sine copiosissima ac circumspectissima interpretatione misimus<note xml:id="fn6" type="footnote" n="6"><persName>Grynäus</persName> bezieht sich auf die ausführliche Erläuterung des Bekenntnisses im Schreiben der reformierten Städte vom 12. Januar 1537 (<bibl>WA</bibl> Briefwechsel XII 241-275, Nr. 4268).</note>?</s>
+					<s n="18" xml:lang="la" type="auto">Recte fuit hoc factum principio, quod ut fieret, ipse quoque operam diligentissime dedi.</s>
+					<s n="19" xml:lang="la" type="auto">At cum id semper in ipsaque postrema concordiae coitione fit, quid aliud <persName ref="p18889">Lutherus</persName> cogitet quam exceptionibus perpetuo utentes ad ipsam concordiam vere inclinatos non esse?</s>
+					<s n="20" xml:lang="la" type="auto">Quid mirum igitur, cum in cavendo nobis ab illo toti quidem simus, si vicissim ipse quoque cavendum sibi a nobis esse putavit.</s>
+					<s n="21" xml:lang="la" type="auto">An vero superior eius epistola<note xml:id="fn7" type="footnote" n="7">Nämlich im Schreiben an <persName>Luther</persName> vom 4. Mai (<bibl>WA</bibl> Briefwechsel VIII 211-214, Nr. 3224), das an der Zürcher Tagung vom 28. April bis 3. Mai entworfen worden war.</note> non simplex, non clara, non amica, non sancta satis fuit?</s>
+					<s n="22" xml:lang="la" type="auto">Quid, fratres, quod adhuc in vestris concionibus publice non solum dicitur, sed ingeminatur Christum in coena non esse, hic, hic non esse, si modo id est, quod hic ab hominibus gravissimis audimus?</s>
+					<s n="23" xml:lang="la" type="auto">Itaque debemus, fratres, diligenter agere, et positis suspicionibus de fratribus fraterne sentiemus.</s>
+					<s n="24" xml:lang="la" type="auto">Iuro per dominum, si id fecerimus, sine ulla veritatis offensa concordiam cęptam non amittemus.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Oro vos per amorem Christi Iesu, ut me feratis fratrem vestrum, qui dividere vobiscum animam suam paratus est.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Valete in domino.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto"><persName>Simon Grynęus</persName> vester.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="28" xml:lang="la" type="auto">Clarissimis viris fratribus Tyguri dominum profitentibus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12134" type="Brief" source="CO" n="615">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Guillaume Farel / Neuenburg AN s.n. / [Zürich], 21. Februar 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Facile potestis intelligere, viri tum doctrina tum pietate suspiciendi, quam studiose fratres, qui hic docent Christum, incumbant paci et concordiae, in uno qui inter nos agit ferendo, qui iam annos aliquot obstrepit, dum censurae mentio fit, et licet omnes eam admittant, et fructum fateantur ex ea se percipere, solus tamen eam damnat et contrariam verbo Dei affirmat.</s>
+					<s n="3" xml:lang="la" type="auto">Exspectatum fuit diu, et multis actum et scripturis et exemplis, quae a nobis proposita fuerunt, et nonnunquam ab aliis qui in coetu nostro cum repugnante egerunt, sed nihil profectum fuit.</s>
+					<s n="4" xml:lang="la" type="auto">Demum, ne quid omitteretur intentatum quin ad veram concordiam adduceremus ultro resilientem, rogatus fuit an ecclesiarum iudicio stare vellet.</s>
+					<s n="5" xml:lang="la" type="auto">Quod ubi admisit se facturum, magnas Deo gratias egimus.</s>
+					<s n="6" xml:lang="la" type="auto">Rogatae fuerunt aliquot ecclesiae, prout vestram quoque rogavimus, literis ad Megandrum datis, qui hic per Domini spiritum autor nobis fuit censurae.</s>
+					<s n="7" xml:lang="la" type="auto">Scriptum itidem fuit ad Bullingerum, magnum cum <persName>Caspare</persName> pastorem istius ecclesiae.</s>
+					<s n="8" xml:lang="la" type="auto">Quum ab aliis responsum acceperimus, a vobis non item.</s>
+					<s n="9" xml:lang="la" type="auto">Unde fit ut vereamur ne redditae vobis nostrae fuerint, aut, si forte rescribere duxeritis, vestrae interceptae fuerint literae.</s>
+					<s n="10" xml:lang="la" type="auto">Quare iusserunt me fratres ut ad vos scriberem, et censuram qua utimur paucis explicatam mitterem, una cum positis repugnantis quibus putat censuram nostram eversum iri, si ea posita steterint.</s>
+					<s n="11" xml:lang="la" type="auto">Rogamus itaque vos in Domino et per Christum obtestamur, ne vobis molestum sit vestrum de re hac iudicium proferre, et ea demum facere quae ad conservandam inter nos veram pacem et concordiam utilia iudicaveritis.</s>
+					<s n="12" xml:lang="la" type="auto">Modo salva sit pietas et conserventur ecclesiae, parati sunt fratres agere omnia ne quid dissidii gliscat et regnet inter nos.</s>
+					<s n="13" xml:lang="la" type="auto">Si nos a vobis multa quum acceperimus, nihil praestemus, ne quaeso putetis id ab ingratitudine esse profectum, neque deesse animum nobis bene merendi de vobis studiosum: sed non fuisse pares votis nostris vires et occasionem defuisse.</s>
+					<s n="14" xml:lang="la" type="auto">Et quum omnes ecclesias Domino commendemus, vestrorum officiorum memores vos inter postremos non habemus, exoptantes ut Christus vos omnibus locupletet donis spiritualibus, quo possitis magis et magis hoc tam perverso saeculo gloriam Christi et evangelii illustrare, et quam plurimos ab errore in viam veritatis revocare, non tantum sancto hortatu omnes ad meliora ut invitetis, verum etiam exemplo vere christiano trahatis.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Valete felicissime cum ecclesiis vobis commissis, quibus omnia fausta precamur.</s>
+					<s n="16" xml:lang="la" type="auto">Neocomi 22. Februarii 1545.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Vester totus Farellus suo et fratrum nomine.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Clarissimis viris pastoribus et doctoribus ecclesiae Tigurinae ut doctissimis ita valde piis Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11986" type="Brief" source="GR" n="54">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Camillo Renato / Caspano AN Heinrich Bullinger, 6. Juli 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Heinricho Bullingero Camillus Renatus S. P. D. a Domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Nihil sane est, quod de te mihi non videar posse polliceri, homine ut Christianissimo, ita nostri amantissimo; neque tamen abs te id petendum, ubi opus sit, putes, quod vel ego petere non debeam vel tu praestare non possis.</s>
+					<s n="3" xml:lang="la" type="auto">Noster hic adolescens, et ipse, quod vobis quidem gratissimum esse debet, ea praesertim aetate, Christi studiosissimus et verae pietatis, ad vos profectus est, ut loqui et scribere Germanice disceret idque nullo vestro impendio; quare pro vestra tuaque maxime charitate in Christianos peto atque contendo, ut studio, diligentia, opera consilioque tuo adolescentem, quibuscunque rebus opus est, iuves.</s>
+					<s n="4" xml:lang="la" type="auto">Hoc certe non solum nobis, sed omnibus etiam <placeName>Italis</placeName> inprimisque Christianae disciplinae studiosis gratissimum erit et iucundissimum.</s>
+					<s n="5" xml:lang="la" type="auto">De reliquo speramus, ut hac in Valle Tel(l)ina, ut vocant, ita in universa <placeName>Italia</placeName> Christum Iesum, dominum nostrum, Antichristo profligato aliquando triumphaturum, quod facile impetrabimus, si et vos idem comprecemini.</s>
+					<s n="6" xml:lang="la" type="auto">Vale in Domino.</s>
+					<s n="7" xml:lang="la" type="auto">Salutabis nobis ministros Christi et ecclesiam, quae isthic agit, in Domino.</s>
+					<s n="8" xml:lang="la" type="auto">Tu vero, ubi ocium sit, ad nos aliquando scribas, etiam atque etiam rogo; id erit gratissimum.</s>
+					<s n="9" xml:lang="la" type="auto">Ex Valle Tel(l)ina, 6. Iulii MDXXXXIIII.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Optimo viro et evangelii fidissimo ministro D. Henricho Bullingero suo.</s>
+					<s n="11" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

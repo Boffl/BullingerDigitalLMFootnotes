@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11882" type="Brief" source="HBBW" n="1836">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] AN Heinrich Bullinger, 5. Januar 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Summam erga nos fidem et charitatem tuam, venerande et observandissime Bullingere, ut magis atque magis clarissimis argumentis colligo, sic venerabundior subinde omnibus visceribus meis complector et exosculor.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Teneo vero nunc sententiam tuam<note xml:id="fn1" type="footnote" n="1">Bullingers Antwort auf <persName>Blarers</persName> Brief vom 22. Dezember [1543] (<bibl>HBBW</bibl> XIII, <ref target="file11875">Nr. 1829</ref>) ist nicht erhalten.</note>, quid in utraque censura<note xml:id="fn2" type="footnote" n="2">Ende Dezember 1542 berichtete <persName>Blarer</persName> vom Vorhaben <placeName>Konstanz</placeName>', eine doppelte (geistliche und weltliche) Zensur einzuführen; vgl. <bibl>HBBW</bibl> XIII <ref target="file11875">[Nr. 1829]</ref> 345-347, 22-84 mit Anm. 16.</note> statuendum, tenendum, ferendum et sequendum putes, et dominum precabor, quam possum, fidelibus votis, ut ne hic a suae voluntatis beneplacito vel latum unguem<note xml:id="fn3" type="footnote" n="3">Vgl. Adagia, 1, 5, 6 (<bibl>ASD</bibl> II/1 482-484, <ref target="file10441">Nr. 406</ref>).</note> aberrare nos ferat.</s>
+					<s n="4" xml:lang="la" type="auto">Variant hic summorum virorum etiam hac nostra ętate iudicia, et aliis civitatibus et ecclesiis alia conveniunt, et quod aliis immodicum est, aliis vix est satis, ut opus plane videam exactissimo iudicio et divinę sapientię spiritu, quem una nobiscum impetrare nostris nunquam cessabis.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto"><persName>Theodori</persName> nostri<note xml:id="fn4" type="footnote" n="4"><persName>Theodor Bibliander</persName>.</note> conatus adeo non improbo, ut adiutos omnibus modis cupiam, postquam <persName ref="p18889">Lutheri</persName> nomen suppressum audio; hoc enim solum metuebam, ut incommodare multis nominibus posset<note xml:id="fn5" type="footnote" n="5">Zum Gerücht von einer Schrift <persName>Biblianders</persName> gegen <persName>Luther</persName> s. <bibl>HBBW</bibl> XIII <ref target="file11875">[Nr. 1829]</ref> 347, Anm. 24.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Quę in <persName>Cochlaeum</persName> parturis, Christum precor, ut felicissime parias.<pb type="edition" next="59"/></s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Consilium de luculentissimis tuis in Lucam commentariis <persName>Ioanni Welsero</persName> dedicandis maximopere placet,<note xml:id="fn7" type="footnote" n="7">Bullingers Lukaskommentar (<bibl>HBBibl</bibl> I 173) mit der Widmung an den <placeName>Augsburger</placeName> Bürgermeister <persName>Hans Welser</persName> erschien im August 1546.</note> nec dubito, quin magnam apud vere pium virum gratiam hac causa initurus sis, quantumvis non intelligat Latine.</s>
+					<s n="8" xml:lang="la" type="auto">Rhelingeri apud <placeName>Augustam</placeName><note xml:id="fn8" type="footnote" n="8">in <placeName>Augsburg</placeName>.</note> multi sunt, verum <persName>Wolfgangus Rhelingerus</persName>, qui anno ab hinc tertio consulem egit quemque tecum fuisse puto,<note xml:id="fn9" type="footnote" n="9"><persName>Rehlinger</persName> hatte 1537 einen Brief <persName>Jakob Meyers</persName> an Bullinger überbracht; s. <bibl>HBBW</bibl> VII, <ref target="file11042">Nr. 1000</ref>, 3-15, sowie <ref target="file11039">Nr. 997</ref>, 1-5 mit Anm. 2.</note> Latine mediocriter doctus, sed astutissima vulpecula est nec Christum syncere quaerere a plęrisque bonis putatur et iam alio demigrare, si potestas sibi fiat, statuit.</s>
+					<s n="9" xml:lang="la" type="auto">Proinde nullum operęprecium te ista inscriptione facturum existimarim.</s>
+					<s n="10" xml:lang="la" type="auto"><persName>Welserus</persName> autem, Christi caussę faventissimus, dignus plane vir est, quem boni omnes venerentur.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><pb type="scan" next="60"/>Bene vale, anime mi, in Christo Iesu, aeterno patris verbo, qui tibi tuęque coniugi<note xml:id="fn11" type="footnote" n="11"><persName>Anna, geb. Adlischwyler</persName>.</note> cęterisque omnibus charis tuis nominibus ineuntis anni auspicia felicissima omnique cęlesti benedictione refertissima esse velit, id quod omnes mei vobis optant, quos nostris verbis amantissime salutabis, inprimis consulem Röstium<note xml:id="fn12" type="footnote" n="12"><persName>Diethelm Röist</persName>.</note> cum filio<note xml:id="fn13" type="footnote" n="13"><persName>Jakob Röist</persName>.</note> etc.</s>
+					<s n="12" xml:lang="la" type="auto">Iterum iterumque vale.</s>
+					<s n="13" xml:lang="la" type="auto">5. ianuarii anno 1544.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="14" xml:lang="la" type="auto">Praestantissima pietate erud[itioneque] viro d. Heinricho Bullin[gero, Tiguri]censis ecclesiae antistiti [vigilantissimo], d. et fratri suo [colendo].</s>
+					<s n="15" xml:lang="de" type="auto">Zürich.<pb type="scan" next="61"/></s>
+				</p>
+				<p>
+					<note type="attachment">[Beilage:]</note>
+					<s n="16" xml:lang="de" type="auto">Ewer schreiben am letsten blatt<note xml:id="fn14" type="footnote" n="14">Vgl. oben Anm. 1.</note> hab ich meinem lieben vetter<note xml:id="fn15" type="footnote" n="15"><persName>Konrad Zwick</persName>.</note> gelesen; der hat sich ab dem, das euch die sach<note xml:id="fn16" type="footnote" n="16">Die von <persName>Zwick</persName> erfundene "Kriegsrüstung"; s. <bibl>HBBW</bibl> XIII, <ref target="file11875">Nr. 1829</ref>, 104-198, bes. Anm. 32.</note> fürkommen, sehr verwundert, wellte ye gern wissen, durch wen euch sölichs angelangt; hab ich alles dissimuliert.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Am andern hat er bewilliget euch anzuͦzögen, das ain söliche kunst hie zuͦ <placeName>Costentz</placeName> vorhanden und das die selbig durch ettlich kriegserfarnen besichtiget<pb type="edition" next="60"/> und für gantz gewisß und gerecht<note xml:id="fn17" type="footnote" n="17">zuverlässig und geeignet.</note> erkennt worden sey, wie ich dann selbs auß treffelichen ursachen wol glauben mag.</s>
+					<s n="18" xml:lang="de" type="auto">Daneben aber hat er mich gebetten, noch zur zyt seinen nammen nitt zuͦ melden; darum, so ir mir desshalb weyter schreiben wurden, wellend seines nammens gschwigen.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Ferrer vernym ich, das wir baid in dem allem ainhellig seind, namlich das die sach gefarlich, das gott ze bitten und vor augen ze haben, das diß sach weder kais[er]<note xml:id="fn18" type="footnote" n="18"><persName>Karl V.</persName></note>, konig<note xml:id="fn19" type="footnote" n="19"><persName>Ferdinand I.</persName></note> noch fursten oder andern zuͦ offnen, das iren guͦten worten und zuͦsagen nitt zuͦ glouben, sonder zuͦ warten seye, bys gott etwan durch ain gmaine oder sondere<note xml:id="fn20" type="footnote" n="20">alle oder einzelne betreffende.</note> not der seinen (deren wir uns teglich zuͦ versechen) dise sach an tag bringen welle.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Und diewyl aber an dem, das die kunst nitt offenbar werde, vyl gelegen, so wellt ich doch warlich gern helffen, mittel und weg suͦchen, dardurch die eroffnung verhindert werden möchte.</s>
+					<s n="21" xml:lang="de" type="auto">Derhalben hab ich ouch ewern rath und guͦt beduncken vernemen wellen.</s>
+					<s n="22" xml:lang="de" type="auto">Dann wiewol ich meinem vetter billich alles guͦts vertrauwen mag, noch danecht<note xml:id="fn21" type="footnote" n="21">dennoch.</note> ist er und wir alle menschen, und die weyl dann der konig und landt[grauff]<note xml:id="fn22" type="footnote" n="22"><persName>Philipp von Hessen</persName>.</note> mitt im in handlung kommen,<note xml:id="fn23" type="footnote" n="23">Im Falle Philipps ist vielleicht an <persName>Sebastian Aitinger</persName> zu denken; vgl. <bibl>HBBW</bibl> XIII <ref target="file11875">[Nr. 1829]</ref> 348f, 119-126 mit Anm. 42.</note> muͦß ich sorgen usß ettlichen ursachen, er möchte etwan irrsgen<note xml:id="fn24" type="footnote" n="24">in die Irre gehen.</note> und (wie manchem mehr beschechen) verfürt werden.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="de" type="auto"><pb type="scan" next="62"/>Darum hab ich gedacht, sölichs zuͦfürkommen, das guͦt sein möchte, wa weg funden wurden, das sich myn vetter verpflichte, dise kunst dem kaiser und konig <persName>Ferdinando</persName> zum wenigsten etlich jar lang nitt zuͦ eroffnen; dann wa diß by im erlangt, wurde er als dann all ander handlungen abschlachen und die sach ersytzen<note xml:id="fn25" type="footnote" n="25">liegen, ruhen.</note> lassen, das sonst mitt bitten unnd vermanen schwarlich bescheche.</s>
+					<s n="24" xml:lang="de" type="auto">So waiß ich aber warlich niemands, von des wegen fruchtbarlicher gehandelt möchte werden, dann denn Frantzosen<note xml:id="fn26" type="footnote" n="26"><persName>König Franz I.</persName></note> oder etwan ain comun<note xml:id="fn27" type="footnote" n="27">ein Ort.</note> in der aidgnoschafft.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Dann dieweyl am tag, was der kaiser gegen dem Frantzosen vorhat, und wie mir yetz geschriben worden,<note xml:id="fn28" type="footnote" n="28">Nicht in <persName>Blarer</persName> BW.</note> das er annemme<note xml:id="fn29" type="footnote" n="29">anwerbe, in den Dienst nehme.</note> alles, was kriegen welle, und das er gedenck, den Frantzosen mitt vier hauffen gwaltiklich, und alls starck er seye, anzuͦgreyffen und mittler zeyt all hendel anzuͦstellen<note xml:id="fn30" type="footnote" n="30">auszusetzen.</note> mitt schönen, glatten worten, byß er den Frantzosen ausmache<note xml:id="fn31" type="footnote" n="31">besiege.</note>, und aber daneben wol zuͦvermuͦten, wa ime gelingen<note xml:id="fn32" type="footnote" n="32">falls ihm dies gelingen sollte.</note>, was er gegen ainer aidgnoschafft fürnemmen wurde, so gedüchte mich, es were dem Frantzosen vyl<pb type="edition" next="61"/> mehr von nöten zuͦverhüten, das seine widerwertige<note xml:id="fn33" type="footnote" n="33">Gegner.</note> ain söliche kunst nitt in ir hend brechten, dann mitt grossem guͦt und gellt dem kaiser seine hoptleut absetzen und ansich bringen, mitt anderm dergleichen etc.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="de" type="auto">So hab ich nun gedacht, wann min vetter durch ain sölichen weg im selbs nutz schaffen und aber die kunst nichts dest weniger in gehaym blyben, möchte er durch sölichen weg als den aller besten, diß sach zuͦ verhalten zevermögen sein<note xml:id="fn34" type="footnote" n="34">zu bewegen sein, diese Sache geheim zu halten.</note>.<pb type="scan" next="63"/></s>
+					<s n="27" xml:lang="de" type="auto">Wa nun ir ouch vermainten, das guͦt were, der gstallt handlung fürzenemmen, und ir darinn by den Frantzösischen oder sunst etwas furderen und erfaren köndten, das möchten ir thain<note xml:id="fn35" type="footnote" n="35">tun.</note> und mich sölichs, oder ob ir sonst uff ander weg oder durch andere personen achtetend zuͦhandlen sein, fürderlich wissen lassen, damitt nichts versumpt werde.</s>
+					<s n="28" xml:lang="de" type="auto">Gott geb gnad und gunst, das alle ratschleg zuͦ seinen ehren dienen!</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de" type="auto">Wa aber diser sach halber an den Frantzosen etwas gelangen sollte, müste es in aller still und gehaim behalten werden; dann sollte es die kaiserischen fürkomen, das der Frantzoß der sachen wissen hette, wurden sy, wie gantzlich zuͦvermuͦten, mitt meinem vetter dest ylender handlen und den andern fürkommen.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="de" type="auto">Item so sind zum höchsten gebetten, wann ir diß sach by yemand schrifftlich oder mundtlich handlend oder anzögen wellend, das ir weder meines vetters noch meinen namen darinn vermärind<note xml:id="fn36" type="footnote" n="36">erwähnt.</note>.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="de" type="auto">Trachtend der sach mitt fleyß und anruffung gottes gnad und gaist nach; dann es würt gewiss etwas grosses daran gelegen sein.</s>
+					<s n="32" xml:lang="de" type="auto">Ich waiß, das darinn nitt gefyret<note xml:id="fn37" type="footnote" n="37">geruht.</note> würt und nunmehr alltag weyter nachstrengen<note xml:id="fn38" type="footnote" n="38">Gegnerschaft, Anschläge, Feindseligkeit.</note> und handlung sich zuͦtragen würt; dann ich waiß ainen nammhafften<note xml:id="fn39" type="footnote" n="39">Unbekannt.</note> an des königs hof, der gar hytzig in diser sach ist und hofft ouch für sein person groß gnad und danck zuͦbeholen.</s>
+					<s n="33" xml:lang="de" type="auto">Derhalb mir sehr angst hinder der sach, wünsch etwa, das ich gar nichts drum wisste.</s>
+					<s n="34" xml:lang="de" type="auto">Bitten gott hertzlich für meinen vetter, das er inn erhalte und nitt verfaren<note xml:id="fn40" type="footnote" n="40">verirren.</note> lasse; dann diß seind warlich meines erachtends schwär und häl<note xml:id="fn41" type="footnote" n="41">glatte, schlüpfrige.</note> sachen.</s>
+					<s n="35" xml:lang="de" type="auto">Ich halt inn für ain mann gottes und ains grossen verstands; aber groß leut thaind ouch etwan groß unschick<note xml:id="fn42" type="footnote" n="42">Vgl. <bibl>Wander</bibl> III 76, <ref target="file10732">Nr. 694</ref>: Grosse Leute, grosse Fehler; kleine Leute, kleine Fehler.</note>, wie wol ich inn gewisß des geyts<note xml:id="fn43" type="footnote" n="43">Habsucht.</note> unschuldig waiß, und hett er hundert tunnen gold,<pb type="scan" next="64"/> so zweyfelt mir nitt, er wurds zuͦ gemainem nutz und fürderung guͦter sachen in gemain alles<note xml:id="fn44" type="footnote" n="44">alles zusammen.</note> verwenden.</s>
+					<s n="36" xml:lang="de" type="auto">Aber damitt möcht er nun dest eh verfürt werden, so er sich in seinem gewissen unschuldig und allso gesinnet findt, das er nitt das sein, sonder gemaine wolfart suͦcht.</s>
+					<s n="37" xml:lang="de" type="auto">Ich darff nitt alles schreiben, was ich waiß.</s>
+					<s n="38" xml:lang="de" type="auto">Gott behüt inn und unß alle, lasß unß nitt in versuͦchung gefürt<pb type="edition" next="62"/> werden; grosse anbieten und verhaissungen seind vorhanden um diß sach, und ist bluͦt und flaisch ain schalck<note xml:id="fn45" type="footnote" n="45">Verführer.</note>.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">Der from <persName>Gryneus</persName><note xml:id="fn46" type="footnote" n="46">Gemeint ist wohl <persName>Simon Grynäus</persName>.</note> hat ouch etwas dergleichen köndt; ist, hoff ich, mitt im abgestorben;<note xml:id="fn47" type="footnote" n="47"><persName>Grynäus</persName> verstarb am 1. August 1541; von einer von ihm erfundenen Kriegskunst ist nichts bekannt.</note> sagt zuͦ mir, er trauwte der fürsten muͦtwillen nicht, aber ainer reychstatt were er bedacht, sölichs zuͦ eroffnen; dann die selbigen fiengen kain krieg an, sonder gedechten sich und die iren allain vor unbillichem gewallt zuͦ entschütten<note xml:id="fn48" type="footnote" n="48">schützen.</note>.</s>
+					<s n="40" xml:lang="de" type="auto">Nitt waiß ich, ob diß kunst der seinen gleich ist oder daher kompt oder nitt; es ist ain grausam sach.</s>
+					<s n="41" xml:lang="de" type="auto">Der truw gott fügs alles nach gnaden.</s>
+					<s n="42" xml:lang="de" type="auto">Amen.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="de" type="auto">Ir sollt von disem brieff kain trinckgelt noch bottenlon geben; ich habs aussgericht.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="de" type="auto">Dem theuren christlichen herrn <persName>Rösten</persName><note xml:id="fn49" type="footnote" n="49"><persName>Diethelm Röist</persName>.</note> und seinem sun<note xml:id="fn50" type="footnote" n="50"><persName>Jakob Röist</persName>.</note>, ouch des<note xml:id="fn51" type="footnote" n="51">dessen.</note> hausfrauwen<note xml:id="fn52" type="footnote" n="52"><persName>Barbara, geb. von Ulm</persName>.</note>, wellt von mir vyl dienst, guͦtz und gruͦtz sagen mitt wunschung vyl gnadrycher, gloubreycher und dultreycher jar mitt allem guͦtem; ich beger ir aller getruw, glöbig fürpitt.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="de" type="auto">Datum den funfften jenners anno 1544.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

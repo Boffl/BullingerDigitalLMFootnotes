@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12934" type="Brief" source="HBBW" n="2885">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gervasius Schuler (Scholasticus) / Memmingen AN Heinrich Bullinger, 19. April 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino per Iesum Christum, servatorem nostrum.</s>
+					<s n="2" xml:lang="la" type="manual">Amen.</s>
+					<s n="3" xml:lang="la" type="auto">Res nostrae,<note xml:id="fn1" type="footnote" n="1">Gemeint ist die Lage der deutschen Protestanten während des ausgehenden Schmalkaldischen Krieges.</note> frater in domino venerande, in declivi sunt.</s>
+					<s n="4" xml:lang="la" type="auto">In dies expectamus manum domini gravem neque inmerito.</s>
+					<s n="5" xml:lang="la" type="auto">Hęc enim peccata nostra, contemptus oblati beneficii et ingens ingratitudo exposcunt.</s>
+					<s n="6" xml:lang="la" type="auto">Moliuntur pontificii cum brachio suo nobis extrema minando horrenda.</s>
+					<s n="7" xml:lang="la" type="auto">Nichil nobis reliquum est, quam ut ferventi oratione praecemur dominum, quo magna animi patientia feramus manum illius.</s>
+					<s n="8" xml:lang="la" type="auto">Urbis nostrae legati<note xml:id="fn2" type="footnote" n="2">Zu diesen Verhandlungen s. <ref target="file12940">Nr. 2891</ref>,<ptr target="qvzl17158-1" type="qv"/>; Peer <hi>Frieß</hi>, Die Außenpolitik der Reichsstadt Memmingen in der Reformationszeit (1517-1555), Memmingen 1993, S. 205, Anm. 7; 206-210.<ptr target="zfnfn17152-2" type="zfn"/></note> apud cesarem<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> sunt Egre<note xml:id="fn4" type="footnote" n="4">Eger (<placeName>Cheb</placeName>, Tschechien). - Siehe dazu <ref target="file12929">Nr. 2880</ref>, <ptr target="qvfn17146-1" type="qv"/>.</note>, prope Boemię Silvam, deprecantes nobis gravissimam pecuniar<pb type="edition" next="149"/> iam mulctam.</s>
+					<s n="9" xml:lang="la" type="auto">Dominus faxit, ut apud cęsarem gratiam inveniant; qua non inventa actum est plane de Memminga.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Crede michi, tam deplumat<note xml:id="fn6" type="footnote" n="6">rupft; s. <bibl>Kirsch</bibl> 851.</note> urbes imperii semper augustus ille<note xml:id="fn7" type="footnote" n="7">"Semper augustus ille" ist ironisch gemeint. Statt ein "Mehrer" (augere) der Reichsstädte zu sein, nimmt er sie aus.</note>, ut vix repant.</s>
+					<s n="11" xml:lang="la" type="auto">Vereor actum esse de libertate Germanica, nam hanc unam cupiunt pontificii deperditam, modo ipsis scilicet bene sit et liceat illis libere vitulari, ne quid impudentius dicam.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto"><placeName>Ulmę</placeName> cristas erigit<note xml:id="fn8" type="footnote" n="8">cristas erigere: großtun; vgl. <bibl>Adagia</bibl> 1, 8, 69 (<bibl>ASD</bibl> II/2 294, <ref target="file10807">Nr. 769</ref>); <bibl>Kirsch</bibl> 752.</note> antichristus<note xml:id="fn9" type="footnote" n="9">Gemeint ist der Papst (damals <persName>Paul III.</persName>).</note>: Missatur strenue (mussitatur in templo dominicastro<note xml:id="fn11" type="footnote" n="11">Abwertend für Dominikaner. - Zu dieser Kirche s. <bibl>HBBW</bibl> XIX 306f,7-13.</note>).</s>
+					<s n="13" xml:lang="la" type="auto">Potior urbis pars civium inquam post <persName>Belial</persName><note xml:id="fn12" type="footnote" n="12">Teufel.</note> ambulat!</s>
+					<s n="14" xml:lang="la" type="auto">Hypochritis omnia illic plena sunt, ita quod milites non sine magnis convitiis illorum inpudentiam et inconstantiam (<placeName>Ulmensium</placeName> dico) mirentur et graviter persequantur.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Nos Memminge adhuc pure praedicamus Christum confortante nos spiritu Christi.<note xml:id="fn13" type="footnote" n="13">Vgl. aber <bibl>HBBW</bibl> XIX 97,27-30!</note></s>
+					<s n="16" xml:lang="la" type="auto">Carthusiani prope urbem nostram<note xml:id="fn14" type="footnote" n="14">Die Kartause <placeName>Buxheim</placeName>; s. <bibl>HBBW</bibl> XIX 92,[9]; Monasticon Cartusiense, Bd. 2, hg. v. Gerhard Schlegel und James Hogg, Salzburg 2004, S. 374f.</note> revixerunt magno nostri offendiculo.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Anceps bellum geritur inter caesarem et electorem Saxonie<note xml:id="fn15" type="footnote" n="15"><persName>Johann Friedrich I. von Sachsen</persName>.</note>, quanquam fortuna magis hactenus duci<note xml:id="fn16" type="footnote" n="16">Gemeint ist der Kurfürst mit seinem Kriegserfolg vor <placeName>Rochlitz</placeName>; s. <ref target="file12921">Nr. 2872</ref>, <ptr target="qvfn17139-1" type="qv"/>.</note> faverit.</s>
+					<s n="18" xml:lang="la" type="auto">Caesar hisce diebus apud nos et circumiacentes urbes militem colligere voluit, sed nichil efficere potuit invitis hominum cordibus.<note xml:id="fn17" type="footnote" n="17">Vgl. <bibl>HBBW</bibl> XIX 453f,70f.</note></s>
+					<s n="19" xml:lang="la" type="auto">Nobiles Suevie totius ciere in bellum ausus est, a quibus etiam magnam pecunie partem postulat.</s>
+					<s n="20" xml:lang="la" type="auto">In summa: Non est furiarum exactionum modus.</s>
+					<s n="21" xml:lang="la" type="auto">Aiunt ad hęc Turcam<note xml:id="fn18" type="footnote" n="18"><persName>Sultan Suleiman I.</persName> - Siehe zuletzt <ref target="file12924">Nr. 2875</ref>,[5]; <ref target="file12930">Nr. 2881</ref>,<ptr target="qvzl17147-8" type="qv"/>. Vgl. ferner <bibl>Austro-Turcica</bibl> 150-152, Nr. 42. Siehe aber <ref target="file12998">Nr. 2949</ref>, <ptr target="qvfn17214-1" type="qv"/>.</note> in magno esse aparatu bellico adversus nos.</s>
+					<s n="22" xml:lang="la" type="auto">Romanorum rex<note xml:id="fn19" type="footnote" n="19"><persName>König Ferdinand I.</persName></note> interim sitit sanguinem confessorum veritatis.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="23" xml:lang="la" type="auto">Bone deus, quis et quando erumnarum finis est?<note xml:id="fn20" type="footnote" n="20">Vgl. z.B. Ps 74 (Vulg. 73), 10; Apk 6, 10.</note></s>
+					<s n="24" xml:lang="la" type="auto">Omnia spirant<note xml:id="fn21" type="footnote" n="21">Zu verstehen: Alles sieht danach aus, (dass).</note> ardere iram in nos iusti iudicis dei.</s>
+					<s n="25" xml:lang="la" type="auto">Dominus hiis finem faciat et donet nobis magnam animi constantiam, ut in sancto timore perseveremus!<pb type="edition" next="150"/></s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="26" xml:lang="la" type="auto">Ego cum meis optime alias valeo per dominum.</s>
+					<s n="27" xml:lang="la" type="auto">Ora pro me, dilecte frater, et pro michi commissa ecclesia.</s>
+					<s n="28" xml:lang="la" type="auto">Tuam coniugem<note xml:id="fn22" type="footnote" n="22"><persName>Anna, geb. Adlischwyler</persName>.</note> cum liberis ex me plurimum saluta.</s>
+					<s n="29" xml:lang="la" type="auto">Vale in domino, amice incomparabilis!</s>
+					<s n="30" xml:lang="la" type="auto">Date Memminge, 19. apprilis anno 1547.</s>
+					<s n="31" xml:lang="la" type="auto">Si fieri posset sine periculo, plura darem.</s>
+					<s n="32" xml:lang="la" type="auto">Tuus ex animo G. S.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="33" xml:lang="la" type="auto">Ornatissimo viro Heynricho Bullingero, domino, fratri et veteri amico charissimo.</s>
+					<s n="34" xml:lang="de" type="auto">Zurch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

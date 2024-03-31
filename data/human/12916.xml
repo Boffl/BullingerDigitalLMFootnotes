@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12916" type="Brief" source="HBBW" n="2867">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / [Augsburg] AN Heinrich Bullinger, 30. März 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. P.</s>
+					<s n="2" xml:lang="la" type="auto">Quod ad res novas attinet, omnia habebis ex d. <persName>Laeto</persName>.<note xml:id="fn1" type="footnote" n="1"><persName>Georg Frölich</persName>, der vorhatte, bis nach Zürich zu reiten; s. <ref target="file12914">Nr. 2865</ref>,1f. Doch dazu kam es nicht.</note></s>
+					<s n="3" xml:lang="la" type="auto">Plura enim sunt et scitu memorabilia, quae Saxo<note xml:id="fn2" type="footnote" n="2"><persName>Johann Friedrich</persName> Ï. von Sachsen. - Anspielung u.a. auf dessen Sieg bei <placeName>Rochlitz</placeName>; s. <ref target="file12881">Nr. 2832</ref>, Anm. 35.</note> agit.</s>
+					<s n="4" xml:lang="la" type="auto">Res nostrae tam sunt incertae, ut in crastinum vix, quid futurum sit, iudicari possit.</s>
+					<s n="5" xml:lang="la" type="auto">Pfaffi cum suo caesare<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> non cessabunt, donec crucifigatur Christus!</s>
+					<s n="6" xml:lang="la" type="auto">Dominus ecclesiae suae succurrat!</s>
+					<s n="7" xml:lang="la" type="auto">Video enim eos, qui ipsius columnae<note xml:id="fn4" type="footnote" n="4">Gemeint sind die <placeName>Augsburger</placeName> Ratsherren (s. dazu unten Anm. 12), die die Friedensbedingungen des Kaisers akzeptiert hatten; s. <ref target="file12818">Nr. 2769</ref>, Anm. 7.</note> esse aliquando sunt visi, minari ruinam.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Tu dominum <persName>Laetum</persName> conforta et mone, ne ecclesiae causam deserat.</s>
+					<s n="9" xml:lang="la" type="auto">Nescio enim, quam sit intra mensem unum et alterum factus alius, sive muneribus sit lenitus (quod non libenter credo), sive nos<note xml:id="fn6" type="footnote" n="6">Gemeint sind die <placeName>Augsburger</placeName> Pfarrer.</note> consolandi gratia hoc facit.</s>
+					<s n="10" xml:lang="la" type="auto">Videt forsan ita omnia esse corrupta, ut facilis non sit curatio.</s>
+					<s n="11" xml:lang="la" type="auto">Non frustra moneo.<pb type="edition" next="463"/></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ideo etiam scribit Cellarius.</s>
+					<s n="13" xml:lang="la" type="auto">Scribet aliquando <persName>Musculus</persName> etiam (nam promisit)<note xml:id="fn8" type="footnote" n="8"><persName>Wolfgang Musculus</persName>' nächsterhaltener Brief an Bullinger datiert vom 14. Juli 1547 (Zürich StA, E II 359, 2821).</note>, ne putes nos esse vel meticulosos vel sine causis affectare abitum.<note xml:id="fn9" type="footnote" n="9">Vgl. <ref target="file12819">Nr. 2770</ref>; <ref target="file12840">Nr. 2791</ref>,5-16. 31-37. 48-54; <ref target="file12870">Nr. 2821</ref>,1-8.</note></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Non possum nunc plura, nam nescivi ipsum<note xml:id="fn10" type="footnote" n="10">Gemeint ist <persName>Frölich</persName>; s. oben Anm. 1.</note> discessurum esse, quam cum iamiam ocreatus<note xml:id="fn11" type="footnote" n="11">gestiefelt; s. <bibl>Kirsch</bibl> 1946.</note> vellet conscendere equum.</s>
+					<s n="15" xml:lang="la" type="auto">Rogavi, ut expectet me vel unam lineam scribentem.</s>
+					<s n="16" xml:lang="la" type="auto">Interim Cellarium etiam rogavi, <ptr target="fnc" type="footnote" n="c"/>ut scriberet vel unum verbum, cui etiam multi sunt suspecti, de quibus vos, quoniam procul estis, bene sentitis.</s>
+					<s n="17" xml:lang="la" type="auto">Non libenter scribo multa.</s>
+					<s n="18" xml:lang="la" type="auto">Dicam tamen aliquando, si dominus dederit, ut conveniamus, omnia.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Vale et ora pro nobis dominum.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Romanum<note xml:id="fn13" type="footnote" n="13"><persName>(Hans) Thoman Ruman (Römer)</persName>.</note> vix mecum retineo.</s>
+					<s n="21" xml:lang="la" type="auto">Est aliquantulum impatientior.</s>
+					<s n="22" xml:lang="la" type="auto">Rogo ergo, ut in proximis literis ipsum confortes.</s>
+					<s n="23" xml:lang="de" type="auto">Wo <persName>Zoller</persName><note xml:id="fn14" type="footnote" n="14"><persName>Hans Wilpert Zoller</persName>. - Vgl. <ref target="file12907">Nr. 2858</ref>,3f.</note> blib, nimpt mich wunder.</s>
+					<s n="24" xml:lang="la" type="auto">Fratrem meum<note xml:id="fn15" type="footnote" n="15"><persName>Wolfgang Haller</persName>.</note> mone, ut, si quae in Acta descripsit, mittat.</s>
+					<s n="25" xml:lang="la" type="auto">Iam enim post pascha<note xml:id="fn16" type="footnote" n="16">Im Jahre 1547 fiel der Ostersonntag auf den 10. April. -Zur Angelegenheit s. <ref target="file12870">Nr. 2821</ref>,170-175 und Anm. 116.</note> ordiar.</s>
+					<s n="26" xml:lang="la" type="auto">Migro in aedes d. <persName ref="p6843">Bernardini</persName>.</s>
+					<s n="27" xml:lang="la" type="auto"><persName>Lepusculus</persName><note xml:id="fn18" type="footnote" n="18">Der aus <placeName>Basel</placeName> herangezogene <persName>Sebastian Lepusculus (Häslin)</persName>.</note> aut Romanus mihi succedet.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Vale.</s>
+					<s n="29" xml:lang="la" type="auto">Salvos cupio fratres omnes una cum familia tua.</s>
+					<s n="30" xml:lang="la" type="auto">Festinanter omnino.</s>
+					<s n="31" xml:lang="la" type="auto">30. martii 1547.</s>
+					<s n="32" xml:lang="la" type="auto">I. <persName ref="p7614">Hallerus</persName>, perpetuo tuus.<pb type="edition" next="464"/></s>
+				</p>
+				<p>
+					<note>[Adresse auf der Rückseite:]</note>
+					<s n="33" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, fidelissimo Tigurinae ecclesiae antistiti, domino suo plurimum colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

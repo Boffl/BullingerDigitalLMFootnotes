@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11700" type="Brief" source="HBBW" n="1657">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 4. September 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Expectavi ad has nundinas<note xml:id="fn1" type="footnote" n="1">Zum Termin der <placeName>Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <ref target="file10925">[Nr. 884]</ref>, S. 406, Anm. 5.</note> aliquid novi, maxime quod rumores volant confoederatis a Gallo<note xml:id="fn2" type="footnote" n="2"><persName>König Franz I. von Frankreich</persName>.</note> quibusdam grande malum inflictum.</s>
+					<s n="3" xml:lang="la" type="auto">Equidem non lubens credo quibuslibet.</s>
+					<s n="4" xml:lang="la" type="auto">Quia vero tu taces, rumores esse permitto, quod sunt.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto"><persName>Oporini</persName> infortunium ex aliis te nosse oportet; nos<note xml:id="fn4" type="footnote" n="4">Gemeint sind die Befürworter des Korandrucks (<persName>Myconius</persName>, <persName>Markus Bertschi</persName>, <persName>Martin Borrhaus</persName> und <persName>Jakob Imeli</persName>).</note> etenim ne os quidem aperire audemus.</s>
+					<s n="6" xml:lang="la" type="auto">Et non dubium est, etiamsi per alios intellexeris, quid acciderit, quin, postquam id fuerit cognitum, de me suspicentur quidam, tanquam ego prodiderim.</s>
+					<s n="7" xml:lang="la" type="auto">Dixeram in communi colloquio, imo consultatione,<note xml:id="fn5" type="footnote" n="5">Die Rede ist von einer Konsultation mit Vertretern der Universität; vgl. auch unten <ref target="file11705">Nr. 1662</ref>, 69-71.</note> quo vel maius haberent pondus verba vel exire me iuberent: „Equidem <persName>Theodori</persName><note xml:id="fn6" type="footnote" n="6"><persName>Theodor Bibliander</persName>.</note> sum, et <persName>Theodorus</persName> est meus; dicam tamen interim veritatem, qualitercunque de me iudicaturis sitis.“</s>
+					<s n="8" xml:lang="la" type="auto">Longum esset narrare, quid hęc verba mihi et rei adtulerint mali.</s>
+					<s n="9" xml:lang="la" type="auto">Sed quicquid sit, ego tolero et per dominum<pb type="edition" next="175"/> supero sicut et multa hactenus alia.</s>
+					<s n="10" xml:lang="la" type="auto">Manemus privilegium cęsarianum, quod si concessum fuerit, Alcoranus liberabitur<note xml:id="fn7" type="footnote" n="7">Gemäß Titelblatt wurde ein kaiserliches Privileg auf fünf Jahre (gemäß späteren Druckvarianten auf sieben Jahre) erteilt; vgl. <hi>Bobzin,</hi> Koran 211.</note>.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Gręcos<note xml:id="fn8" type="footnote" n="8">Gemeint sind zweifellos Türken; vgl. die folgende Anmerkung.</note> milites 50000 portum habere concessum a rege e <placeName>Berna</placeName> nunciatur et timere <placeName>Massil[i]enses</placeName>, ne ad se quoque venturi sint; quod si factum fuerit, de se ut de Ungaris esse actum.</s>
+					<s n="12" xml:lang="la" type="auto">Narravit hęc nobilis Germanus<note xml:id="fn10" type="footnote" n="10">Unbekannt.</note> apud <placeName>Bernenses</placeName>, qui stipendia facit in aula regis.</s>
+					<s n="13" xml:lang="la" type="auto">Eo quod patria nostra ex foedere longo cum Gallo mores hausit Gallicanos, quid arbitraris futurum, [si] Galli foedus cum Turca<note xml:id="fn11" type="footnote" n="11">Zur Allianz der französischen Krone mit dem türkischen Sultan vgl. <bibl>HBBW</bibl> XI <ref target="file11538">[Nr. 1495]</ref>, S. 137, Anm. 11.</note> diutius paulo duraverit?</s>
+					<s n="14" xml:lang="la" type="auto">An tum opus esset cognitione legis Machometicę?</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Si Gallus usus est fortuna usque huc, qua ab initio, non mirum, si nunc tandem potitus esset toto ducatu Lutzelburgensi<note xml:id="fn12" type="footnote" n="12">Die französischen Truppen hatten zwar die Festungen des Herzogtums außer Thionville eingenommen; <placeName>Luxemburg</placeName> selbst verloren sie allerdings nach wenigen Tagen wieder. Vgl. <bibl>Du Bellay, Mémoires</bibl> IV 69-75; <bibl>Henne</bibl> VIII 19-21. 29.</note>.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ad hunc usque diem laboramus <persName>Marcus</persName><note xml:id="fn13" type="footnote" n="13"><persName>Markus Bertschi</persName>.</note> et ego de eleemosyna eis, quos commendasti, conferenda.</s>
+					<s n="17" xml:lang="la" type="auto">Hęc est authoritas nostra apud etc<note xml:id="fn15" type="footnote" n="15"><persName>Myconius</persName> spielt auf seinen geringen Einfluss bei der Obrigkeit an.</note>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Tam conqueruntur milites de ducibus, qui exercitibus <placeName>Helveticis</placeName> praesunt, ut cędem multi minent[ur], sicubi oblata fuerit occasio.</s>
+					<s n="19" xml:lang="la" type="auto">Nunquam sic audivi, ita furantur, rapiunt, fallunt, et milites in[te]rim esuriunt.</s>
+					<s n="20" xml:lang="la" type="auto">Miror, quid dominus noster consilii in nos conceperit.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Vale cum tuis in domino.</s>
+					<s n="22" xml:lang="la" type="auto"><persName>Theodorum</persName> salutabis diligenter et esse iubeto ęquo animo.</s>
+					<s n="23" xml:lang="la" type="auto">Sunt enim, qui nescio quid timent de eius calam[o], verum speramus nos meliora.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 4. septembris anno 42.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="26" xml:lang="la" type="auto">Domino Heinricho Bullingero doctissimo in domino suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

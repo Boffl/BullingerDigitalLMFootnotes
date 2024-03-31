@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11823" type="Brief" source="HBBW" n="1777">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Zürich AN Martin Bucer, [kurz vor 28. August 1543]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">D. <persName ref="p18198">Martino Bucero</persName>, Christi Iesu ministro, fratri dilecto.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Literas tuas 21. iulii Bonae scriptas<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file11809">Nr. 1763</ref>.</note> augusti 6. accepi, ex quibus intellexi optimi senis<note xml:id="fn3" type="footnote" n="3">Erzbischof <persName>Hermann von Wied</persName>.</note> periculum grande, quod valde me reddidit solicitum non tam propter optimum senem quam propter scandalum ingens et sanctorum deiectionem,<pb type="edition" next="232"/> quam non sine causa metuebas<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11809">Nr. 1763</ref>, 8-15.</note> futuram, siquidem comites, nobiles et oppidani archipraesulis dorsum vertissent veritati.</s>
+					<s n="3" xml:lang="la" type="auto">Sed gratia deo, qui corda horum impulit ad obsequium veritatis!</s>
+					<s n="4" xml:lang="la" type="auto">Nam 14. augusti scribit <persName>Myconius</persName> in comitiis illis posteris uno ore consensum esse in reformationem praescriptam et additum, quicquid dominus propterea sustinendum imposuerit, fortiter subituros<note xml:id="fn5" type="footnote" n="5">Fast wörtliches Zitat aus <persName>Myconius</persName>' Brief, oben <ref target="file11819">Nr. 1773</ref>, 3f.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Non credas, quanto ad hoc nuntium gaudio omnes nostri exultarint collaudantes misericordiam domini, quoniam bonus, quoniam in saeculum misericordia eius<note xml:id="fn6" type="footnote" n="6">Vgl. Ps 106 (Vulg. 105), 1; 107 Vulg. 106), 1; 118 (Vulg. 117), 1.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Faxit hic, ut reformationi promptis animis receptae sancte et constanter etiam per omnia tentationum pericula inhaereant.</s>
+					<s n="7" xml:lang="la" type="auto">Nondum tamen quicquam eius reformationis vidi; proinde oratum te velim, ne ea me destituas.</s>
+					<s n="8" xml:lang="la" type="auto">Valde enim illam videre cupimus omnes.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ego continuis mensibus novem non sine labore gravi 10 commentariorum libros in evangelium Ioannis<note xml:id="fn7" type="footnote" n="7">Bullingers Johanneskommentar (<bibl>HBBibl</bibl> I 153).</note> inter publica et domestica negotia nec pauca nec levia et scripsi et ędidi, quibus contextum orationis, id est sensum studui reddere apostoli et usum vindicare evangelii.</s>
+					<s n="10" xml:lang="la" type="auto">Ubi per occasionem licuit, oppugnavi Schwenk[feldii] dogma novum et noxium, maxime in cap. 1., 2., 3., 9., 16., 17. et 20., ubi de veritate redivivi corporis dissero.</s>
+					<s n="11" xml:lang="la" type="auto">Sed et magna cura et diligentia tractavi adorandam Christi domini divinitatem veramque eius humanitatem in una indivisibili persona unitas, quo erroribus veteribus subinde in curiosis quibusdam maleque firmis ingeniis quotidie satis ubere proventu pullulantibus et scripturis et sanctorum patrum orthodoxis interpretationibus in tempore praevenirem.</s>
+					<s n="12" xml:lang="la" type="auto">Non enim ignoras, quid seminis in multorum animis <persName>Servetus</persName>, Campensis<note xml:id="fn8" type="footnote" n="8"><persName>Johannes Campanus</persName>.</note>, Claudius<note xml:id="fn9" type="footnote" n="9"><persName>Claude d'Aliod</persName>.</note> et secta anabapt[istarum] venenatissima reliquerit.<note xml:id="fn10" type="footnote" n="10">Vgl. die ähnliche Aufzählung im ungefähr gleichzeitig entstandenen Brief an <persName>Melanchthon</persName>, unten <ref target="file11825">Nr. 1779</ref>.</note></s>
+					<s n="13" xml:lang="la" type="manual">Ego certe omnibus sanctis, quod dominus Iesus, omnium cordium scrutator<note xml:id="fn11" type="footnote" n="11">Vgl. 1Chr 28, 9 u. ö.</note>, novit, his meis sudoribus inservire et prodesse volui ac spero me piis et gratis rem fecisse non ingratam.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Commendo me tuae charitati ac tuis precibus.</s>
+					<s n="15" xml:lang="la" type="auto">Dominus Iesus servet te una cum ecclesia et schola sanctissima <placeName>Argentinensi</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

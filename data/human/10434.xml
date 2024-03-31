@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10434" type="Brief" source="HBBW" n="399">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 27. Juni 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Audio, vir clarissime, animum tuum nonnihil mutatum erga Wolphgangi<note xml:id="fn1" type="footnote" n="1"><persName>Wolfgang Kuchimeister</persName>.</note> filium<note xml:id="fn2" type="footnote" n="2">Wohl <persName>Balthasar Kuchimeister</persName>, s. oben <ref target="file10391">[Nr. 359]</ref> S. 134, Anm. 27.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Verum ne an falsum audierim ignoro.</s>
+					<s n="4" xml:lang="la" type="auto">Caeterum unice te oro, ut adulescentulum tibi habeas commendatum.</s>
+					<s n="5" xml:lang="la" type="auto">Viri enim optimi filius est, puer, quod spero, non omnino malus<note xml:id="fn3" type="footnote" n="3">Die Schwierigkeiten mit seinem Kostgänger beschreibt <persName>Myconius</persName> zu Beginn von <ref target="file10446">Nr. 411</ref>.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Vale et haec nostra boni consule.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Tiguri, iunii 27, 1534.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Salvum volo <persName>Carolostadium</persName> nostrum.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="10" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

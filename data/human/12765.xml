@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12765" type="Brief" source="TUSTEP" n="2718">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 17. Dezember 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Fuissem tuis literis delinitus, nisi nota mihi esset mea tenuitas.</s>
+					<s n="3" xml:lang="la" type="auto">Voluntas mihi non defuit, si parem habuissem dicendi facultatem.</s>
+					<s n="4" xml:lang="la" type="auto">Sed iuvabit extare quomodocunque scriptam istius exempli memoriam.</s>
+					<s n="5" xml:lang="la" type="auto">Si vita longior contingat, non negligam aliam oportunitatem.</s>
+					<s n="6" xml:lang="la" type="auto">Sed vereor, ne prius opprimamur omnes vel cladibus ecclesiae confecti vel crudelitate perditissimi tyranni<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> laniati.</s>
+					<s n="7" xml:lang="la" type="auto">Audio illum occupare praecipu[a]s imperii civitates, accipere nova auxilia ex Italia, moliri denique crudelissima.</s>
+					<s n="8" xml:lang="la" type="auto">Victoria nobis erit expectanda de coelo, alioqui viribus humanis nimium sumus labefactati.</s>
+					<s n="9" xml:lang="la" type="auto">Nuper accepi ex Sancto Gallo tyrannum ipsum esse vita defunctum, quod quia non video postea alicuius gravioris sententiae autoritate confirmatum, arbitror fuisse vanum rumorem.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="10" xml:lang="la" type="auto">De Mauricii perfidia audimus hic quoque crudelia.</s>
+					<s n="11" xml:lang="la" type="auto">Si quid habes vel de caesare vel de Saxonia, quaeso, ut communices.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Veniam ad vos, uti spero, intra mensem, equidem maluissem ad festum natalitium, sed detineor hic invitus propter quaedam negocia.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Literas ad Sangallum mittes et ignosce, quaeso, meae audatiae, qui te onerem perpetua importunitate.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 17. decembris 1546.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="17" xml:lang="la" type="auto"><ptr target="zzlzl16407-1A" type="zzl"/>Literas, quas mitto, accepi ex Venetiis ad te a quodam Italo, de quo plura coram deo volente<ptr target="zzlzl16407-1E" type="zzl"/>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Clarissimo viro domino Henrico Bullingero, fratri carissimo.</s>
+					<s n="19" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

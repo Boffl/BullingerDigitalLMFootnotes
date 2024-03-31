@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10269" type="Brief" source="HBBW" n="238">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Bucer / Strassburg AN Heinrich Bullinger, Leo Jud, Konrad Pellikan (Kürschner), Theodor Bibliander (Buchmann), 11. Juli [1533]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salvete, fratres observandi.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Audistis forsan de nostra synodo<note xml:id="fn2" type="footnote" n="2">Zur <placeName>Straßburger</placeName> Synode s. oben S. 145, 12-15 und Anm. 8.</note>, quam impulsi sectarum improbitate nostri tandem indixerunt.</s>
+					<s n="3" xml:lang="la" type="auto">Datus locus est aliquot praecipuis ex hęreticis, inter quos perniciosissimus est <persName>Melchior Hofman</persName>, qui innumeros in Germania inferiori dementavit, quorum caussa confutationem errorum eius, imo blasphemiarum ędidimus.</s>
+					<s n="4" xml:lang="la" type="auto"><persName ref="p2305">Leo</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p6796">Leo Jud</persName>.</note> noster stomachi est fortioris, ut legere possit, quae non admodum oblectant.</s>
+					<s n="5" xml:lang="la" type="auto">Si is animum suum curiosum inducet, ut has nostras commentationes legat, maxime partem ultimam<note xml:id="fn6" type="footnote" n="6">Das vierte und letzte Kapitel von <persName>Bucers</persName> Schrift handelt «Vom kindertauff, wie der christlich gebraucht werde».</note>, valde cupio scribat de ea ultima parte suum iudicium.</s>
+					<s n="6" xml:lang="la" type="auto">Ipse novit caussam, tractationem liberi arbitrii et mysterii electionis<note xml:id="fn7" type="footnote" n="7">Die erwähnten Themen werden von <persName>Bucer</persName> im zweiten Kapitel erörtert unter dem Titel «Von der wale gottes, erlösung unsers heylands Jesu Christi, unfreyem willen, oder unvermögen unser natur zum guten».</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Quia omnino congruit cum iis, quae hac de re docuit communis praeceptor noster sanctae memoriae <persName>Zuinglius</persName>, vobis facile approbavero.</s>
+					<s n="8" xml:lang="la" type="auto">Attamen de peccato in spiritum sanctum si satisfecero vobis, scire velim.</s>
+					<s n="9" xml:lang="la" type="auto">Reliqua catholica sunt.</s>
+					<s n="10" xml:lang="la" type="auto">Spero deinceps, quantum<pb type="scan" next="||51v."/> in ista Babylone<note xml:id="fn9" type="footnote" n="9"><persName>Bucer</persName> denkt wohl an die babylonische Sprachverwirrung, Gen 11, 9, oder an die sündhafte Welt im allgemeinen.</note> fieri poterit, rem ecclesiasticam rectius constituendam.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Pontificem nostis, arbitror, suos legatos cum caesareis ad nostri foederis principes<pb type="edition" next="147"/> misisse, qui consensum in concilium generale requirant his conditionibus<note xml:id="fn11" type="footnote" n="11"><persName>Rangoni</persName> trug gemäß der ihm mitgegebenen Instruktion insgesamt acht Punkte vor (s. <bibl>CT</bibl> IV LXXXVIIf und XCI). Die daraus ausgewählten fünf Punkte sind im folgenden sinngemäß richtig, wenn auch nicht wortgetreu wiedergegeben.</note>:</s>
+					<s n="12" xml:lang="la" type="manual">Ut concilium celebretur liberum, sed more hactenus observato<note xml:id="fn12" type="footnote" n="12">Vgl. Punkt 1 der Instruktion.</note>; ut promittamus antea staturos nos iis, quae in illo per maiorem partem fuerint decreta<note xml:id="fn13" type="footnote" n="13">Vgl. Punkt 2 der Instruktion.</note>; ut si qui non adveniant per se vel legatos, reliquis, qui convenerint, ius sit pergendi in omnibus, quae concilii<note xml:id="fn14" type="footnote" n="14">Vgl. Punkt 6 der Instruktion.</note> sunt; ut si qui parere decretis concilii nollent aut pontifici postea aliquo modo adversari auderent, reliqui pontifici adsint, ut huiusmodi compescantur<note xml:id="fn15" type="footnote" n="15">Vgl. Punkt 7 der Instruktion.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Locum <placeName>Bononiam</placeName> aut <placeName>Placentiam</placeName> aut <placeName>Mantuam</placeName> nominat, quod quaelibet harum urbium nobis Germanis vicinior sit quam ullis aliis ultraalpinis<pb type="scan" next="||52r."/> populis<note xml:id="fn16" type="footnote" n="16">Vgl. Punkt 5 der Instruktion.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Videtis sanctissimum animum concilio cogendo deditum.</s>
+					<s n="15" xml:lang="la" type="auto">O caesar, quam ludit de te pater tuus<note xml:id="fn17" type="footnote" n="17">der heilige Vater, der Papst; <persName>Bucer</persName> will sagen: O Kaiser, wie springt der Papst mit dir um!</note>.</s>
+					<s n="16" xml:lang="la" type="auto">In nullis comitiis, quibus actum de concilio et a caesare promissum est, non libertas et ut in Germania celebretur, et postulatum et promissum est.</s>
+					<s n="17" xml:lang="la" type="auto">Nunc exigit pontifex, ut antea, quam caussae excutiantur, antequam sciamus, qui in concilio conventuri sint, recipiamus nos staturos iis, quae illic maior pars decreverit<note xml:id="fn19" type="footnote" n="19">Dieselbe Kritik ist enthalten in der Antwort <persName>Johann Friedrichs von Sachsen</persName> und seiner Verbündeten an <persName>Ugo Rangoni</persName> vom 30. Juni 1533 (s. <bibl>CT</bibl> IV XCVII-CI) sowie im <placeName>Straßburger</placeName> Gutachten vom 27. Juni (s. <bibl>PC</bibl> II 191-193).</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Sed isto pacto detrectantibus nobis has conditiones fuco aliquo eludet pontifex caesarem, cui constiturum se concilium policitus est.</s>
+					<s n="19" xml:lang="la" type="auto">Etsi enim sciat facile se nostri damnationem obtenturum in concilio, non dubitat tamen simul suam etiam tyrannidem circumscribendam idque ferre aut huius subire discrimen non potest.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Miror, quod nihil ad nos his nundinis scripseritis.</s>
+					<s n="21" xml:lang="la" type="auto">Ut adsitis miseris illic, quos contra omnes leges foederum premunt Immontani, opto scire.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><pb type="edition" next="148"/>Optime valete, fratres charissimi.</s>
+					<s n="23" xml:lang="la" type="auto">Salutant vos <persName>Capito</persName>, <persName>Hedio</persName>, meus comes<note xml:id="fn21" type="footnote" n="21"><persName>Bartolomeo Fonzio</persName>.</note> ac reliqui omnes.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><placeName>Argentorati</placeName>, 11. iulii.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto"><persName ref="p18198">M. Bucerus</persName><pb type="scan" next="||52v."/>.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto"><persName ref="p2305">Leo</persName> optime, etiam <persName>Schvenckfeld</persName> congressus est nobis.</s>
+					<s n="27" xml:lang="la" type="auto">De qua re alias.</s>
+					<s n="28" xml:lang="la" type="auto">Hic abunde hostium habemus ecclesiae Christi, etsi quidem plus quam Christi esse velint.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="29" xml:lang="la" type="auto">Vere piis et vigilantibus episcopis [ecc]lesiae Tigurinae [H. Bu]llingero, <persName ref="p2305">L. [Iud]</persName>, <persName>C. Pellicano</persName>, <persName>[Th.] Bibliandro</persName>, maioribus suis observandis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

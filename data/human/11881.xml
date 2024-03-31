@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11881" type="Brief" source="HBBW" n="1835">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 3. Januar 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Commisit has d. <persName ref="p18198">Bucerus</persName>, ut curarem ad te perferendas.</s>
+					<s n="3" xml:lang="la" type="auto">Id quod vel eo placuit, ut aliquando libereris a dubio<note xml:id="fn2" type="footnote" n="2">Bullinger hatte <persName>Oswald Myconius</persName> um Nachrichten gebeten; s. Brief vom 27. Dezember 1543 in <bibl>HBBW XIII</bibl> 352, 10f.</note> de comitiis.</s>
+					<s n="4" xml:lang="la" type="auto">Significavit enim mihi paucissimis ea de re se scripsisse<note xml:id="fn4" type="footnote" n="4">Siehe <bibl>HBBW XIII</bibl> <ref target="file11877">[Nr. 1831]</ref> 359f, 150-176.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Ex meis<note xml:id="fn5" type="footnote" n="5">Dieser Brief von <persName>Martin Bucer</persName> an <persName>Myconius</persName> ist nicht erhalten.</note> facile intelligo de Germania <persName ref="p18198">Bucerum</persName> desperasse, nisi dominus adfuerit.</s>
+					<s n="6" xml:lang="la" type="auto">Errarunt <persName>Germani</persName>, quod cęsarem permiserunt contra iusiurandum, quod cogitur dare initio principibus electoribus, Germaniam intrare sine ipsorum consensu cum alieno exercitu<note xml:id="fn7" type="footnote" n="7">Gemeint sind die im Frühjahr und Sommer 1543 angeworbenen Spanier, Italiener und deutschen Landsknechte, mit denen <persName>Kaiser Karl V.</persName> am 20. August 1543 von Bonn aus gegen das Herzogtum Jülich aufbrach; s. <bibl>Cardauns</bibl> 294.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Quamobrem si poenę sunt luendę, in quam causam reiicient?</s>
+					<s n="8" xml:lang="la" type="auto">Hoc est<pb type="edition" next="56"/> igitur, quod olim conquestus sum,<note xml:id="fn8" type="footnote" n="8">Siehe <bibl>HBBW XIII</bibl> 77, 76f.</note> deum a Germanis abstulisse consilia.</s>
+					<s n="9" xml:lang="la" type="auto">Age, quos dominus donavit evangelio suo, si recte cogitarint de poenitentia, non deserentur.</s>
+					<s n="10" xml:lang="la" type="auto">Videamus igitur, qui verbo domini praesumus, ut deum habeamus amicum, et eos, qui nostrę sunt fidei commissi, dirigamus, quod in nobis est, in via pacis et reliqua commendemus domino.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Scribit praeterea d. <persName>Hedio</persName> ex Marchia<note xml:id="fn9" type="footnote" n="9">Dieser Brief ist nicht überliefert. - ex Marchia: Aus der <placeName>Markgrafschaft Baden</placeName>. Markgraf Ernst von Baden-Durlach hatte <persName>Hedio</persName> dorthin eingeladen (s. <bibl>HBBW XIII</bibl> 328, 8-17).</note> perscripta diebus superioribus hęc: Danum videlicet agere pyratam, nam abstulisse multas naves onerarias <placeName>Hamburgensibus</placeName>, <placeName>Bremensibus</placeName> et <placeName>Hollandis</placeName>.</s>
+					<s n="12" xml:lang="la" type="auto">Bohemos item et <placeName>Silesios</placeName> domum e finibus Ungaricis reversos expeditionem adornare denuo ad prima tempora veris.</s>
+					<s n="13" xml:lang="la" type="auto">Pestem grassari vehementer in <placeName>Sarmatia</placeName>.</s>
+					<s n="14" xml:lang="la" type="auto">Walachum<note xml:id="fn13" type="footnote" n="13"><persName>Radu Paisie</persName>.</note> et Moldavum<note xml:id="fn14" type="footnote" n="14">Petru Rares.</note> multum negocii facere potuisse in Thracia<note xml:id="fn15" type="footnote" n="15"><placeName>Bulgarien</placeName>, zum Osmanischen Reich gehörig.</note>, si <persName>Ferdinandus</persName><note xml:id="fn16" type="footnote" n="16"><persName>König Ferdinand I.</persName></note> in Pannonia ipsum<note xml:id="fn17" type="footnote" n="17">Der Schreiber scheint die Türken zu meinen.</note> ursisset.</s>
+					<s n="15" xml:lang="la" type="auto">Tartaros Pręcopiensis Thauricę <placeName>Chersonesi</placeName> incolę<note xml:id="fn18" type="footnote" n="18">D.h. die Krimtataren.</note> Polonis, imo ipsis Roxis, quos <placeName>Russos</placeName> vocamus, molestissimi sunt.</s>
+					<s n="16" xml:lang="la" type="auto"><pb type="edition" next="57"/>Turcam<note xml:id="fn20" type="footnote" n="20"><persName>Sultan Suleiman I.</persName></note> heroas Pannonicos velle, ut desertis arcibus, quorum ingens ibi copia, casas alicubi extructas inhabitare<note xml:id="fn21" type="footnote" n="21">Nicht belegt.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Hęc ille.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Miramur omnes, quid causę impellat cardinalem illum<note xml:id="fn22" type="footnote" n="22">Person nicht ermittelt; vgl. auch <persName>Myconius</persName>' Brief an Bullinger vom 1. Dezember 1543, <bibl>HBBW XIII</bibl> 329, 18-23.</note>, ut tot libros et hic et apud vos emat.</s>
+					<s n="19" xml:lang="la" type="auto">Si combusturus est, videtur stultus, si lecturus et confutaturus, rem nimis adgreditur sero, si lecturus, ut inde discat, dominus adsit.</s>
+					<s n="20" xml:lang="la" type="auto">Ad d. <persName ref="p8422">Amorbachium</persName> scriptum est<note xml:id="fn23" type="footnote" n="23">Brief von Unbekannt an <persName>Bonifacius Amerbach</persName>, fehlt (Amerbach, Korr. VI, S. 7, Anm. 1).</note> papam<note xml:id="fn24" type="footnote" n="24"><persName>Papst Paul III.</persName></note> cardinales aliquot ad mensam, credo, suam invitatos veneno ad unum sustulisse<note xml:id="fn25" type="footnote" n="25">Vgl. <persName>Oswald Myconius</persName> an <persName>Calvin</persName>, 16. Januar 1544, in Corr. des réformateurs IX, 151, <ref target="file11369">Nr. 1326</ref>. -Es handelt sich dabei um eine Falschmeldung.</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Hęc potui per tempus.</s>
+					<s n="22" xml:lang="la" type="auto">Vale per Christum cum tuis et <persName>Theodoro</persName><note xml:id="fn26" type="footnote" n="26"><persName>Theodor Bibliander</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, 3. ianuarii anno 1544.</s>
+					<s n="24" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">D. Heinricho Bullingero doctissimo suo.</s>
+					<s n="26" xml:lang="de" type="auto">Z[üric]h.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

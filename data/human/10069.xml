@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10069" type="Brief" source="HBBW" n="41">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Markus (Marx) Bertschi (Bersius) / [Basel] AN Heinrich Bullinger, 27. November 1531</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Pacem et gratiam per Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Cunctis nostris afflictionibus accedit adhuc alia omnium tristissima simul et perniciosissima; nam <persName>Oecolampadius</persName> noster, totius pietatis ac eruditionis unica columna et omnium ecclesiarum vigilantissimus pastor, mortem oppetiit 24. novembris, quem dolorem si iustis ac dignis lachrymis persequi vellem, omnes me mee deficerent vires.</s>
+					<s n="3" xml:lang="la" type="auto">Sed quid aliud fidelibus aut cogitandum vel loquendum quam id lobi: «Dominus dedit, dominus abstulit, sicut domino» etc. [Hi 1,21].</s>
+					<s n="4" xml:lang="la" type="auto">Nec te latere potest piissimi et studiosissimi Hyronymi [!] nostri Potani [!] miserabilis interitus, quo factum est, ut ecclesia nostra duobus nunquam satis poenitendis, episcopo et ministro, sit orbata.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">In his doloribus constituti, tui potiss[imum], eruditissime Heinrice, meminimus, ut quibus nedum tua eruditio, verumetiam et pietas, fervor spiritus, modestia ac dexteritas spectata sint; gratiss[imum]itaque nobis foret, si quamprimum advolares, ut si forte animo tuo collibitum fuerit ecclesie nostre inservire, ut coram de ea re conferre ac dispicere liceret<note xml:id="fn4" type="footnote" n="4">Zur Geschichte von Bullingers Berufung nach <placeName>Basel</placeName> s. <bibl>Rudolf</bibl> und <bibl>Zsindely</bibl> 669 ff.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Ne te offendat, optime vir, nomen meum<pb type="edition" next="220"/> tibi fortasse incognitum aut nullius neccessitudinis [!] familiaritas; satis amici sunt et famili[a], quos Christi spiritus et eadem studia conglutinant.</s>
+					<s n="7" xml:lang="la" type="auto">Hac fiducia ingenue fretus [?] inprimis ędes meas invisere poteris ac fratris hospiciolo frui; fac tamen, ut interea animum tuum cognoscamus.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">27. novembris anno 31.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Tuus <persName>Marcus Bersius</persName>, ecclesię apud Divum Leonardum minister.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="la" type="auto">Eruditione et integritate spectato viro domino Heinrico Bullingero, fratri suo dilecto etc.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

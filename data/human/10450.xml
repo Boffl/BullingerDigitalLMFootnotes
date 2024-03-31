@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10450" type="Brief" source="HBBW" n="415">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hans Jakob von Wattenwyl / Bern AN Heinrich Bullinger, 11. Juli 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid von got durch unsren heren Jesum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Wolglerter, ersamer, wiser, guinstiger, lieber her, ich hab üwren brieff<note xml:id="fn1" type="footnote" n="1">Es sind keine Briefe Bullingers an <persName>von Wattenwyl</persName> erhalten.</note> empfangen antreffend meister <persName>Ruͦdolf Webern</persName> und bin guͦtz, geneigtz willens, im mines vermögens in ansechung siner kunst<note xml:id="fn3" type="footnote" n="3">mit Rücksicht auf seine Arznei-Kenntnisse (<bibl>SI</bibl> VII 554f. III 368).</note>, fromkeit und uwers beger zuͦ helfen.</s>
+					<s n="3" xml:lang="de" type="auto">Aber es het sich bishär nit konnen schicken<note xml:id="fn4" type="footnote" n="4">fügen, bisher ergab sich keine Gelegenheit (<bibl>SI</bibl> VIII 507).</note> von file<note xml:id="fn5" type="footnote" n="5">Vielheit, Menge (<bibl>SI</bibl> I 777f).</note> der<pb type="edition" next="252"/> gescheften, der min heren<note xml:id="fn6" type="footnote" n="6">Der Rat von <placeName>Bern</placeName>.</note> bißher beladen sind gwesen und noch sind.</s>
+					<s n="4" xml:lang="de" type="auto">Aber sobald es gesin mag, wil ich luͦgen, das in dem handel<note xml:id="fn7" type="footnote" n="7">Angelegenheit, Unterhandlung (<bibl>SI</bibl> II 1397f).</note> gearbeit werd, darmit er mög wuissen, waran<note xml:id="fn8" type="footnote" n="8">woran (<bibl>Grimm</bibl> XIII 1983).</note> er sich lassend söll.</s>
+					<s n="5" xml:lang="de" type="auto">Deß wellend guͦter meinung von mier verstan.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Gott syg mit üch.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Gruͤsend mier Meister <persName>Werny Steiner</persName> und ander guͦt heren und gsellen.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Zuͦ <placeName>Bern</placeName> uff 11. tag juli 1534.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Uwer guͦtwilliger H. Jacob von Watenwil.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="10" xml:lang="de" type="auto">Dem wolgelerten, fromen, ersamen Meister Heinrich Bullinger, minem guinstigen, lieben hern.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10617" type="Brief" source="HBBW" n="579">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Bartholomäus Bertlin / Waltenhofen AN Heinrich Bullinger, 6. Mai 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et christiani studii profectum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Tam repentinus adeoque inopinatus huius nostri tabellionis<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> fuit abitus, Bullingere eruditissime simul et integerrime, ut nec vel calamum adparare, tantum abest ut tibi pro exhibito beneficio tum et responsione<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> humanissima gratias agere ac, ut dignum esset, ad hanc respondere licuerit.</s>
+					<s n="3" xml:lang="la" type="auto">At alibi conabor, si dominus faverit.</s>
+					<s n="4" xml:lang="la" type="auto">Interim hanc inconditam cartulam pro mei memoria et beneficii recognitione habe.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ea quae <persName>Chuͦnradus Pellicanus</persName> bibliis adiecit, quae scilicet aliis apocripha censentur<note xml:id="fn3" type="footnote" n="3"><persName>Konrad Pellikan</persName>, Commentaria Bibliorum, Bd. V, Zürich (<persName>Christoph Froschauer</persName>) 1535; dieser Band, der den Apokryphen-Kommentar enthält, war im Frühjahr erschienen (vgl. Christoph <hi>Zürcher,</hi> <persName>Konrad Pellikans</persName> Wirken in Zürich 1526-1556, Zürich 1975. - <bibl>ZBRG</bibl> IV, S. 9. 118f.</note>, age ut per hunc accipiam.</s>
+					<s n="6" xml:lang="la" type="auto">Tum et tua, que inestimabiliter tum indicibiliter<pb type="edition" next="210"/> sitio, presertim in epistolam ad Hebreos<note xml:id="fn4" type="footnote" n="4">Bullingers Kommentar zum Hebräerbrief war im August 1532 erschienen (<bibl>HBBibl</bibl> I 38); <persName>Bertlin</persName> hatte schon am 2. Nov. 1534 darum gebeten (vgl. <bibl>HBBW IV</bibl> <ref target="file10507">[Nr. 471]</ref>, S. 394).</note>, et si que alia olim vel nuper a te aedita<note xml:id="fn5" type="footnote" n="5">Seit <persName>Bertlins</persName> letztem Brief vom 2. Nov. 1534 hatte Bullinger an Kommentaren nur denjenigen zum zweiten Korintherbrief, im März 1535, herausgegeben (<bibl>HBBibl</bibl> I 71).</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Video multorum fratrum hic animum in Christum tuis sanctis, eruditis elaboratisque lucubrationibus non solum incęndi, sed prorsus infiammari adeoque consumi.</s>
+					<s n="8" xml:lang="la" type="auto">Gratias agimus domino, qui per te nobis errantibus constanti veritate et pura ac vere christiana modestia sua sacrosancta mysteria communicat.</s>
+					<s n="9" xml:lang="la" type="auto">Si que extant pii et docti <persName>Zwinglii</persName>, sanctę memorię viri, annotata in Leviticum ac reliquos Mosi libros, tum et Pauli epistolas<note xml:id="fn6" type="footnote" n="6">Von den gewünschten <persName>Zwingli</persName>-Schriften waren nur die Annotationen zu Genesis (1527), Exodus (1527), zu den beiden Korintherbriefen (1528) und zum Philipperbrief (1531) im Druck erschienen (vgl. Finsler 58f, Nr. 80. 61, Nr. 84. 63f, Nr. 88. 71, Nr. 98).</note>, obsecro cura ut accipiam.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Spero, immo in domino confido mox futurum Christum et hic in nostro frigido Alpium angulo regnaturum.</s>
+					<s n="11" xml:lang="la" type="auto">Tu ora deum pro errantibus, attamen viam veram dei per te tuique similes beneficio agnoscentibus ac hanc currere laborantibus, ni carnis gravi sarcina onerati inpedirentur.</s>
+					<s n="12" xml:lang="la" type="auto">At deo duce mox lumbos succincti ambulabimus lucemamque verbi divini in manibus portantes Christum sequemur<note xml:id="fn7" type="footnote" n="7">Vgl. Lk 12, 35.</note> relegato antichristo cum omni sua pompa et tyrannide.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Ad autumnum sequens accipies cum hoc tabellione linum pro munere<note xml:id="fn8" type="footnote" n="8">Vgl. <persName>Bertlins</persName> Brief vom 14. Nov. 1535, unten <ref target="file10715">Nr. 677</ref>, 14-19.</note>, ut pergas errantem Barptolomaeum sui officii admonere, ad Christum inhortari, breviter id facere, quod nunquam non facis, hoc est ad patriam celestem reiecto mundano regno ducere.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale in Christo, integerrime Bullingere, qui te in suo negotio confortet.</s>
+					<s n="15" xml:lang="la" type="auto">Fortiter et adsiduo oramus pro te, ut perficiat id, quod in te cepit in reipublice christiane commodum et profectum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Walnhofen, non procul a Fuessen, ascensionis domini anno 1535.</s>
+					<s n="17" xml:lang="la" type="auto">Profunda nocte dictata et missa.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto"><persName ref="p17793">Barptolomaeus Bertlinus</persName>, ibidem minister ecclesie, tuus et vere tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Vere pio ac eruditissimo viro domino Heinricho Bullingero, Tigurinę ecclesiae in verbo ministro, fideli tum prudenti, suo in Christo honorando preceptori ac domino.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

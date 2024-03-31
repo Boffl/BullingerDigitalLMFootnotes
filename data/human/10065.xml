@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10065" type="Brief" source="HBBW" n="37">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Bremgarten AN [Werner Steiner (Lithonius)], 31. Oktober 1530</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">- - - qui, si pollicitationem suam stultam et incogitatam aut vino inscripsisset<note xml:id="fn2" type="footnote" n="2">«In den Schornstein schreiben»; vgl. <bibl>Adagia</bibl> 1, 7, 1 (<bibl>LB</bibl> II 262 E).</note> aut remisisset, posteaquam cerneret voti atrocitatem, minus peccasset et venia dignus erat; nunc vero cum atrocem etiam pollicitationem opere, iam non nescius quid ageret, crudeliter perficit, scelus etiam designavit.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Verum equidem esse fateor id omnino opere complendum esse, quod semel voveris, idem enim suadet veritatis honestas et decus, mendatii item et inconstantiae infamia, sed si interim votum eiusmodi sit, ut opere perfectum in nephas non abeat aut infamiam inurat.</s>
+					<s n="3" xml:lang="la" type="auto">Quod si aut infamat aut scelus est, praestat quidem verbis tantum peccasse, quam male sana facta malis iungere verbis.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Habemus autem huius rei typum in sacris fortissimum illum et prudentissimum Hebręorum imperatorem Iephthae.</s>
+					<s n="5" xml:lang="la" type="auto">Is enim deo vovebat parricidium, sed nescius, quod rem usqueadeo funestam voveret.</s>
+					<s n="6" xml:lang="la" type="auto">At ubi depraehendit, an non prudentius et melius egisset, si a parricidio sibi temperasset?</s>
+					<s n="7" xml:lang="la" type="auto">Nemo negat, cum etiam <persName>Iosephus Judaeus</persName> alias factum Iephthae plurimum accuset, quod eius sacrifitium sive votum deo non fuerit charum neque legitimum, quin et apud omnes ecclesiasticos inolevit Iephthae quidem in vovendo fuisse stultum, sed in solvendo etiam impium.</s>
+					<s n="8" xml:lang="la" type="auto">Notissima enim omnibus est ista <persName>Hieronymi</persName> sententia<note xml:id="fn4" type="footnote" n="4"><persName>Hieronymus</persName>, Adversus Jovinianum, I, 23 (<bibl>MPL</bibl> XXIII 252f).</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Hic vero audi, quam constanter in voto pergat Iephthae: «Aperui», inquit, «os meum ad dominum, et aliud facere non potero» [Ri 11,35].</s>
+					<s n="10" xml:lang="la" type="auto">Sic enim sibi persuaserat nullo alio argumento nisi quod vovisset, non secus atque tu iam iam obiecisti te omnino vovisse, unde etiam incunctanter preastandum sit.</s>
+					<s n="11" xml:lang="la" type="auto">Interim rectius fecisset Iephthae, si hoc, quod per votum fecit, non fecisset.</s>
+					<s n="12" xml:lang="la" type="auto">Iccirco velimus nolimus conditionem admittunt haec legis verba: Quicquid voveris verbo, facto adimplebis<note xml:id="fn5" type="footnote" n="5">Siehe Num 30,3; Dtn 23,21.</note>; hanc videlicet: si iuste, sancte et legitime voveris.</s>
+					<s n="13" xml:lang="la" type="auto">Neque enim frustra additur: «Si voveris domino deo tuo» [Dtn 23,21].</s>
+					<s n="14" xml:lang="la" type="auto">Nam quod impium est vel illegitimum, deo gratum non est, ergo votum non est; proinde melius fuerit ab impio facto abstinere, quam stulta verba seu vota impie perficere.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><pb type="edition" next="201"/>Iam vero quod attinet locum Psal. 75: «Vovete et reddite» [Ps 76,12] mutile citatur a plerisque, corrupto etiam sensu.</s>
+					<s n="16" xml:lang="la" type="auto">Palam enim loquitur propheta de muneribus deo offerendis, quae res externarum est et ceremoniarum.</s>
+					<s n="17" xml:lang="la" type="auto">Sic enim hortatur propheta ad offerendum sacrifitia: «Vovete et reddite domino deo vestro, omnes, qui in circuitu eius sunt, afferte munera» [Ps 76,12].</s>
+					<s n="18" xml:lang="la" type="auto"><pb type="scan" next="||237v."/>Et sane frequens est hoc verbum in scripturis: «votum reddere», quod significat pendere et solvere quod promisimus rerum videlicet externarum.</s>
+					<s n="19" xml:lang="la" type="auto">Votum enim veterum obligabat ad res externas, quae tota vovendi ratio abrogata est.</s>
+					<s n="20" xml:lang="la" type="auto">Non quod vovere non possimus eo quo supra diximus modo, sed quod votis nemo suffragari amplius potest iis scripturis, quibus solent.</s>
+					<s n="21" xml:lang="la" type="auto">Nam omnes legis victimae, hostiae, oblationes et sacrifitia terminata sunt in Christo, porro veterum vota maxime in iis inerant oblationibus, una ergo cum ipsis abolita.</s>
+					<s n="22" xml:lang="la" type="auto">Christianorum oblatio est innocentia, beneficentia et oratio: Rom. 12 [1], Heb. 13 [15f].</s>
+					<s n="23" xml:lang="la" type="auto">Quod si syncerius lustres veterum prophetarum libros, comperies vota plerumque pro iis rebus accipi et non pro externis perpetuo ritibus.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">De Nazaraeis vero vel alii ex eruditioribus et pientioribus sic responderunt, dominum multa praecepisse filiis Izrael, quibus ipse nec egebat nec delectabatur, sed fieri sibi iubebat, ne demoniis fierent, sed et eum ritum non minus esse abolitum quam omnem vovendi rationem.</s>
+					<s n="25" xml:lang="la" type="auto">Quod autem Paulus votum<note xml:id="fn7" type="footnote" n="7">Siehe Apg 18,18.</note> suscipit, id quidem charitatem magis docet quam vovendi ritum, testamur Acta apostolorum [21,23 ff] et simile pene factum: circumcisionem Timothei<note xml:id="fn8" type="footnote" n="8">Bullinger irrt sich, in Gal 2 wird von Titus gesprochen.</note>, de qua et in Galatis cap. 2 [3].</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Ceterum locus 1. Timoth. 5 [3ff] pro nobis, nihil contra nos facit.</s>
+					<s n="27" xml:lang="la" type="auto">Praecipit enim Paulus Timotheo, ne cito aut temere suscipiat eas, quae per stultitiam simulant adeoque vovent castimoniam; scire enim se, quod multa mendaciter polliceantur neque vero ipsas praestare quod polliceantur.</s>
+					<s n="28" xml:lang="la" type="auto">Unde postmodum, cum vivendi statum immutent, enascatur <foreign xml:lang="el">κρίμα</foreign><note xml:id="fn9" type="footnote" n="9">Siehe 1 Tim 5,12.</note>, iuditium sive condemnatio <foreign xml:lang="de">(ein fürzug<note xml:id="fn10" type="footnote" n="10">das Ziehen vor Gericht, Anschuldigung (<bibl>Grimm</bibl> IV/I, 1 959).</note>),</foreign> quod primae isti pollicitationi non fecerint satis.</s>
+					<s n="29" xml:lang="la" type="auto">Prius itaque quam polliceantur, ab instituto stulto arcendas tradit; unde nos liquido intelligimus condemnationem hoc loco non accipi pro condemnatione animae, sed pro infamiae macula.</s>
+					<s n="30" xml:lang="la" type="auto">Legatur ex integro locus Pauli, et aparebit, quibus suffragetur!</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Haec sunt, Vernhere, frater dilectissime, quae in praesentiarum de votis habuimus eaque tibi - qualiacunque tandem sint, si non compta, certe non prorsus impia - dedicamus et oramus, ut haec paucula boni consulas.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Vale et <persName>Pellicanum</persName>, praeceptorem nostrum, plurimum salvere iubebis.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Pridie calendas novemb. 1530.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Tuus Heinrychus Bullingerus, Bremgarti.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

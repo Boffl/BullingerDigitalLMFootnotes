@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13130" type="Brief" source="HBBW" n="3081">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Gast] / Basel AN Heinrich Bullinger, 21. November 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. in domino.</s>
+					<s n="2" xml:lang="la" type="auto">Cogor et hęc adiicere meis literis: Passim rumor est caesarem<note xml:id="fn2" type="footnote" n="2"><persName>Kaiser Karl V.</persName></note> velle expugnare Helvetiam.<note xml:id="fn3" type="footnote" n="3">Siehe zuletzt <ref target="file13127">Nr. 3078</ref>, <ptr target="qvfn17344-3" type="qv"/>; und unten Z. <ptr target="qvzl17347-4" type="qv"/>.</note></s>
+					<s n="3" xml:lang="la" type="auto">Indicia non fallunt.</s>
+					<s n="4" xml:lang="de" type="auto">Spargunt nobiles, der <persName>Carle</persName> werde bald mit den eidgnossen thuͦn wie den Schmalckaldischen.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Aiunt praeterea Albertum, marchionem Brandenburgensem, ambire viduam ducissam Lothringensem.</s>
+					<s n="6" xml:lang="la" type="auto"><persName>Maximilianus</persName><note xml:id="fn5" type="footnote" n="5">Der spätere Kaiser <persName>Maximilian II</persName>., Sohn <persName>König Ferdinands I.</persName> - Erneut ein falsches Gerücht: <persName>Maria von Ungarn</persName> (die Schwester des Kaisers) sollte bis 1555 Statthalterin der spanischen <placeName>Niederlande</placeName> bleiben.</note>, <persName>Ferdinandi</persName> filius, gubernator erit Inferioris Germanię, cui dabunt in uxorem primogenitam<note xml:id="fn6" type="footnote" n="6"><persName>Maria von Spanien</persName> (geb. 1528), die ihren Cousin Maximilian am 13. September 1548 heiratete.</note> caesaris.</s>
+					<s n="7" xml:lang="la" type="auto">Polonum<note xml:id="fn7" type="footnote" n="7"><persName>König Sigismund II. August</persName> von Polen. - Gast hatte dieses falsche Gerücht schon am 17. März 1547 mitgeteilt; s. <bibl>HBBW</bibl> XIX 421,7-12. Siehe aber oben <ptr target="qvfn17347-1" type="qv"/>.</note> aiunt procari filiam Turcę.<note xml:id="fn8" type="footnote" n="8"><persName>Sultan Suleiman I.</persName> - An welche Tochter damals gedacht war, ist unbekannt.</note></s>
+					<s n="8" xml:lang="la" type="auto">Lantgravius<note xml:id="fn9" type="footnote" n="9">Der in Gefangenschaft liegende <persName>Philipp von Hessen</persName>.</note> deceptus ab omnibus derelictus excepto Brunswicensi duce, qui omnibus modis laborat pro illius redemptione et libera liberatione.</s>
+					<s n="9" xml:lang="la" type="auto">Arcem <placeName>Cassel</placeName> caesareani demoliuntur.<pb type="edition" next="673"/></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Quid, si caesar obtinere posset arcem Hohenwiel in perniciem totius Helvetie?</s>
+					<s n="11" xml:lang="la" type="auto">Nam dux <persName>Ulricus</persName> caesaris captivus et cogitur ad nutum caesaris amen dicere, quia aliter non voluit agere, habens secum fortissimum exercitum.<note xml:id="fn13" type="footnote" n="13"><persName>Herzog Ulrich</persName> hatte zu Beginn des Schmalkaldischen Krieges starke Truppen ausgehoben; s. <bibl>HBBW</bibl> XVII 148,10f; 191,90f; 208,14-16; 228,25-27.</note></s>
+					<s n="12" xml:lang="la" type="auto">Timuit, ne perdat certatum, et perdidit sua timiditate totum suum principatum!<note xml:id="fn14" type="footnote" n="14">Bezugnahme auf die zögerliche Haltung <persName>Herzog Ulrichs</persName> im Schmalkaldischen Krieg; s. dazu <hi>Brendle,</hi> aaO, S. 300-308; <bibl>HBBW</bibl> XVIII 446,48.</note></s>
+					<s n="13" xml:lang="la" type="auto">Quid, si sensim occuparent caesareani Brisgoiam, Alsatiam, civitates Hercinię Sylvę<note xml:id="fn15" type="footnote" n="15">Hercinię Sylvę: des Schwarzwaldes.</note>, et demum totis viribus irrumperent in Helvetios?</s>
+					<s n="14" xml:lang="la" type="auto">Habet<note xml:id="fn16" type="footnote" n="16">Subjekt ist der Kaiser.</note> etiam sua praesidia <placeName>Mediolani</placeName>, in Pedemontana regione, in Suevia, in <persName>Burgundia</persName>.</s>
+					<s n="15" xml:lang="la" type="auto">Sed nolumus sapere nisi icti, et fortassis tardius quam nobis commodum fuerit.</s>
+					<s n="16" xml:lang="la" type="auto">Dominus nos custodiat ab iis adversariis, quę libertati nostrę officere possunt aut omnino pessundare.</s>
+					<s n="17" xml:lang="la" type="auto">Caesari quis malediceret, si quid institueret contra nos?<note xml:id="fn17" type="footnote" n="17">Vgl. <ref target="file13120">Nr. 3071</ref>,<ptr target="qvzl17337-5" type="qv"/>; <ref target="file13128">Nr. 3079</ref>,<ptr target="qvzl17345-1" type="qv"/>.</note></s>
+					<s n="18" xml:lang="la" type="auto">Proavos suos ulcisci vult et patrię terrę partem ad se iterum trahere cogitat.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Quid Veneti<note xml:id="fn19" type="footnote" n="19">Von einer solchen Gesandtschaft ist schon in <ref target="file13100">Nr. 3051</ref>, <ptr target="qvfn17320-3" type="qv"/>, die Rede. - Vielleicht liegt hier eine Verwechslung mit <placeName>Mailand</placeName> vor; s. <bibl>EA</bibl> IV/1d 887 n.<ptr target="zfnfn17347-5" type="zfn"/></note>, quid pontificii<note xml:id="fn20" type="footnote" n="20"><persName>Girolamo Franco</persName> und <persName>Albert Rosin</persName>; s. <ref target="file13095">Nr. 3046</ref>, <ptr target="qvfn17315-1" type="qv"/>.</note> acturi sunt, mirum, in Badenis comitiis.<note xml:id="fn21" type="footnote" n="21">Diese Tagsatzung begann am 22. November in <placeName>Baden</placeName>; s. <ref target="file13114">Nr. 3065</ref>, <ptr target="qvfn17331-2" type="qv"/>.</note></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Francofordię iterum pestis recrudescere incipit, et mirum, quum vacua sit militibus istis impiis.<pb type="edition" next="674"/></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="21" xml:lang="la" type="auto">Soror<note xml:id="fn23" type="footnote" n="23">Königin <persName>Maria von Ungarn</persName>. Sie blieb dennoch bis zum 3. Februar 1548 in <placeName>Augsburg</placeName>; s. <ref target="file13080">Nr. 3031</ref>, <ptr target="qvfn17300-2" type="qv"/>. - Zur dort grassierenden Pest s. zuletzt <ref target="file13119">Nr. 3070</ref>,<ptr target="qvzl17336-5" type="qv"/>; <ref target="file13125">Nr. 3076</ref>,[6].</note> caesaris redit domum admonita a caesare, ne peste corripiatur <placeName>Augustę</placeName>.</s>
+					<s n="22" xml:lang="la" type="auto">Utinam caesar cogitaret pestem grassantem omni in loco, in quem ille cum suo exercitu venerit, sequi, hoc est, <ptr target="fnb" type="footnote" n="b"/>dein admonere etiam suos consiliarios, quo optima quęque consulant, quę tranquillitat[i] tum fidei christianę tum Germanię, imo totius Europę profutura essent, quo tandem coniunctis viribus Turcę resisterent.</s>
+					<s n="23" xml:lang="la" type="auto">Si vult unicus esse caesar,<note xml:id="fn24" type="footnote" n="24">Zu verstehen: Will er der Kaiser der Endzeit sein.</note> necesse erit, papa[m]<note xml:id="fn25" type="footnote" n="25">Damals <persName>Paul III.</persName></note> e sede sua deiiciat, episcopos ad reformationem iuxta verbum dei cogat, ecclesi[am] ab harpiis istis<note xml:id="fn26" type="footnote" n="26">Die verdorbenen Geistlichen.</note> defendat, ministros pios et doctos passim in Germania et aliis in locis constituat, quo Christi verbum, hoc est, unica illa fides in Christum, filium dei, praedicetur solide, pure, syncere absque omni fuco.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="24" xml:lang="la" type="auto"><placeName>Constantiam</placeName> in gratiam caesaris redituram non dubito,<note xml:id="fn27" type="footnote" n="27">Zur Aussöhnungsbereitschaft der Konstanzer s. zuletzt <ref target="file13122">Nr. 3073</ref>,<ptr target="qvzl17339-1" type="qv"/>.</note> quum capitaneus <persName>Schertlin</persName><note xml:id="fn28" type="footnote" n="28"><persName>Sebastian Schertlin</persName>. - Siehe dazu schon <ref target="file13122">Nr. 3073</ref>, <ptr target="qvfn17339-2" type="qv"/>.</note> ad nos venerit die 19. novembris et apud bovem hospitio<note xml:id="fn29" type="footnote" n="29">Der Gasthof "Zum Roten Ochsen" in Kleinbasel.</note> sit receptus.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Fędus constituet caesar in tota Germania, antequam quicquam concludatur de concilio.<note xml:id="fn31" type="footnote" n="31">Über die Weiterführung des Konzils von Trient. - Siehe dazu <ref target="file13054">Nr. 3005</ref>, <ptr target="qvfn17272-4" type="qv"/>; <ref target="file13070">Nr. 3021</ref>, <ptr target="qvfn17289-4" type="qv"/>.</note></s>
+					<s n="26" xml:lang="la" type="auto">Consentiunt omnes imperii status<note xml:id="fn32" type="footnote" n="32">Dies stimmt nicht; s. oben <ptr target="qvfn17347-2" type="qv"/>.</note> neque audent hiscere contra pręscripta caesareana.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vale iterum.<note xml:id="fn33" type="footnote" n="33">Siehe dazu oben <ptr target="qvfn17347-3" type="qv"/>.</note></s>
+					<s n="28" xml:lang="de" type="auto">21. novembris 1547.</s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="29" xml:lang="la" type="auto">Domino Heinrycho Bullingero suo.</s>
+					<s n="30" xml:lang="de" type="auto">Zurich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

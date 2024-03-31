@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10369" type="Brief" source="HBBW" n="337">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 12. März 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Duo monuisti in postrema illa tua epistola<note xml:id="fn1" type="footnote" n="1">Oben Nr. 33 I.</note>, prius, ut non omnino desperem de Gallo<note xml:id="fn2" type="footnote" n="2"><persName>Franz I.</persName>, König von <placeName>Frankreich</placeName>.</note>, posterius, ut de senatu clanculario<note xml:id="fn3" type="footnote" n="3">Zu dem nach 1531 abgeschafften Geheimen Rat von Zürich s. oben <ref target="file10363">[Nr. 331]</ref>, S. 74, Anm. 3, und S. 60, Anm. 19.</note> restituendo cogitem.</s>
+					<s n="4" xml:lang="la" type="auto">De utroque quid respondeam, ignoro.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Nam de Gallo, homine impuro, prophano et ambitioso quid boni mihi pollicear, nescio.</s>
+					<s n="6" xml:lang="la" type="auto">Si quid simulat, non Christi et veritatis nomine, sed ambitionis gratia simulat.</s>
+					<s n="7" xml:lang="la" type="auto">Recte enim tu dicis<note xml:id="fn4" type="footnote" n="4">Oben S. 74, Z. 17.</note>, quod <placeName>Italiae</placeName> cupiat esse dominus.</s>
+					<s n="8" xml:lang="la" type="auto">Id sane ambit, interim neque Christum neque Germaniam tanti facit.</s>
+					<s n="9" xml:lang="la" type="auto">Insignis ille veterator<note xml:id="fn5" type="footnote" n="5">Gemeint ist <persName>Christian Schreiber</persName>, s. oben <ref target="file10353">[Nr. 322]</ref> S. 57,10-19.</note>, qui nuper multa mecum commentabatur de regis instituto nec dubito quin ex primorum Galliae mandato, tandem adiiciebat:</s>
+					<s n="10" xml:lang="de" type="manual">«Der kunig möcht lyden, was gloubens man hette, nun<note xml:id="fn6" type="footnote" n="6">nur.</note> das er herr inn <placeName>Italia</placeName> were.»</s>
+					<s n="11" xml:lang="la" type="auto">Hanc mihi sententiam expende.</s>
+					<s n="12" xml:lang="la" type="auto">Senties, quam impius sit, qui pro insatiabili illa sua imperitandi libidine quidvis et pati et facere paratus est.</s>
+					<s n="13" xml:lang="la" type="auto">Sed quid hic nobis sentiendum, ipsa docebit res.</s>
+					<s n="14" xml:lang="la" type="auto">Interim ne quid temere approbemus vel improbemus.</s>
+					<s n="15" xml:lang="la" type="auto">Grata sunt, quae tu mihi in diem super hisce rebus scribis.</s>
+					<s n="16" xml:lang="la" type="auto">Nam et imprudentiorem efficiunt circumspectiorem.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">De senatu clanculario restituendo nihil mihi polliceri ausim, cum quod non uni, sed multis sit adversum, tum quod post infaustam illam cladem nostram ager noster a civitate impetrarit tabulas<note xml:id="fn7" type="footnote" n="7">Gemeint ist das obrigkeitliche Zugeständnis, den Geheimen Rat abzuschaffen, das nach der Niederlage im Zweiten <placeName>Kappeler</placeName> Krieg 1531 der zürcherischen Landschaft im 2. Artikel des «<placeName>Meilener</placeName> Abkommens» gemacht wurde, s. <bibl>Blanke</bibl> 138 und <bibl>AZürcherRef</bibl> 1797, S. 768.</note>, quibus haec illi stipulata est posthac se nullum constituturam senatum clancularium.</s>
+					<s n="18" xml:lang="la" type="auto">Sed novimus, unde<pb type="edition" next="85"/> istud emerserit consilii.</s>
+					<s n="19" xml:lang="la" type="auto">Infregimus hactenus nonnulla, quae eadem pactione erant ultro citroque recepta Forsan deo duce et hanc impiam pactionem rumpemus, tum maxime, cum dominus nobis consulem<note xml:id="fn10" type="footnote" n="10">Nämlich <persName>Hans Rudolf Lavater</persName>, der allerdings erst 1544 zum Bürgermeister gewählt wurde; s. <hi>Stucki,</hi> Lavater 145f und 198f.</note> propediem dederit, quem omnes pene pii maximis optant votis.</s>
+					<s n="20" xml:lang="la" type="auto">Nihil certe perinde velim nec quicquam nobis vel utilius vel magis necessarium crediderim quam senatum clancularium, sed hodie nihil hac in re promoverimus.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Mitto tibi commentarios nostros in utramque epistolam Petri<note xml:id="fn11" type="footnote" n="11">Bullingers «Commentarius in Petri epistolam utramque» erschien im März 1534 (s. <bibl>HBBibl</bibl> I 52).</note>, in quibus si quid desyderaveris, indica.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Praefecti <placeName>Bernenses</placeName>, Lentzburgius, Küngsfeldius, Arburgius et Schenckenburgius<note xml:id="fn12" type="footnote" n="12">Zu dieser Zeit waren folgende <placeName>Berner</placeName> Vögte in den betreffenden Vogteien im Amt: <persName>Sulpitius Haller</persName> auf <placeName>Lenzburg</placeName>, <persName>Hans Ulrich Zehender</persName> zu <placeName>Königsfelden</placeName>, <persName>Gilg Schöni</persName> in <placeName>Aarburg</placeName> und <persName>Ulrich Megger</persName> zu Schenkenberg; s. <placeName>Bern</placeName> StA, Register 65b, 74-81. 84-86 und A I 665.</note> hisce diebus Tiguri fuerunt, ut amicitiam inirent cum<pb type="scan" next="||30v."/> viris aliquot bonis.</s>
+					<s n="23" xml:lang="la" type="auto">Illos senatus noster et delectus optimorum virorum triduo quam familiarissime tractav[erunt]<note xml:id="fn13" type="footnote" n="13">Zum Freundschaftsbesuch der <placeName>Berner</placeName> Landvögte s. <bibl>Pestalozzi</bibl> 121 und <hi>Stucki,</hi> <persName>Lavater</persName> 147.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Deus faxit, ut propediem toti coalescamus.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Tiguri, 12. martii 1534.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Salvum te vult <persName>Utingerus</persName>, Steinerius, <persName>Theodorus</persName><note xml:id="fn14" type="footnote" n="14"><persName>Theodor Bibliander</persName>.</note> etc.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de" type="auto">Was die unßernn<note xml:id="fn15" type="footnote" n="15">Die Zürcher Obrigkeit.</note> inn dem kouff der kernen güllten<note xml:id="fn16" type="footnote" n="16">Kernen-Gült: Gekaufte Rente (auf Grundstück), bestehend in jährlicher Lieferung von Getreide- statt Geldzins (s. <bibl>SI</bibl> II 285-287).</note> nachgelassen<note xml:id="fn17" type="footnote" n="17">zugelassen (<bibl>SI</bibl> III 14 10f). - D. h. die Zürcher Obrigkeit erlaubte den Rückkauf (die Ablösung) der Kernengülten durch die Schuldner zum Preis von 20 Gulden pro Mütt.</note> <foreign xml:lang="la">reclamantibus nobis<note xml:id="fn18" type="footnote" n="18">Die Zürcher Pfarrer und Gelehrten hatten Ende Februar 1534 für die Obrigkeit ein Gutachten zum Problem des Zinskaufes und der Geldumrechnung verfaßt; s. Zürich StA, E II 102, 335-341 (Aut. Bullingers).</note>,</foreign> wüssend ir.</s>
+					<s n="30" xml:lang="de" type="auto">Uff anruͤffen und ernstlich pitt der armen inn stadt unnd land habend sy na[ch]gelassen ein müt kernen gällts mitt 20 guten guldin ze kouf[fen].<pb type="edition" next="86"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="31" xml:lang="la" type="auto">Clarissimo viro d. <persName>Oswaldo Myconio</persName>, <placeName>Basileiensis</placeName> ecclesiae antistiti primario, suo in domino charissimo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11079" type="Brief" source="HBBW" n="1037">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 1. September 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ingentes tibi ago gratias, honorande <persName>Myconi</persName>, quod tam scribis frequenter et diligenter ad me de rebus omnino omnibus.</s>
+					<s n="3" xml:lang="la" type="auto">Suaves mihi sunt literae tuae, imo suaviores, quam forte credas ipse.</s>
+					<s n="4" xml:lang="la" type="auto">Quod ego rarius scribo, ne, oro, interpreteris sinistre.</s>
+					<s n="5" xml:lang="la" type="auto">Nam careo et materia et tabellionibus.</s>
+					<s n="6" xml:lang="la" type="auto">Nosti, quam curta sit mihi suppellex, interim quot divexer et negotiis et contionibus.</s>
+					<s n="7" xml:lang="la" type="auto">Proinde noli quicquam suspicari infaustius.</s>
+					<s n="8" xml:lang="la" type="auto">Ego bona fide in pacta tecum amicitia perseverabo.</s>
+					<s n="9" xml:lang="la" type="auto">Tu me, quod facis, amare perge.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Quem commendasti nuperis literis<note xml:id="fn1" type="footnote" n="1"><persName>Wolfgang Steyrer</persName>, s. oben <ref target="file11075">Nr. 1033</ref>, 12-20.</note>, iuvi pro virili.</s>
+					<s n="11" xml:lang="la" type="auto">Sed nunc nulla erat conditio, nulla denique ratio, qua illi potuisset consuli melius.</s>
+					<s n="12" xml:lang="la" type="auto">Ergo pecuniola instructum dimisimus.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quae scripsisti de <persName>Megandro</persName><note xml:id="fn2" type="footnote" n="2">Siehe ebd., Z. 21-28.</note>, <persName ref="p2305">Leoni</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p6796">Leo Jud</persName>.</note> et mihi dolent admodum.</s>
+					<s n="14" xml:lang="la" type="auto">Putamus autem omnino tibi illusum esse vanis suspitionibus.</s>
+					<s n="15" xml:lang="la" type="auto">Hactenus enim <persName>Megander</persName> de te sensit optime.</s>
+					<s n="16" xml:lang="la" type="auto">Videtur nobis grave virum bonum haberi pro perfido.</s>
+					<s n="17" xml:lang="la" type="auto">Proinde a te peto, mi frater, ut ex integro totam mihi exponas causam.</s>
+					<s n="18" xml:lang="la" type="auto">Videbo, quid commode fieri possit.</s>
+					<s n="19" xml:lang="la" type="auto">Et te et <persName>Megandrum</persName> amo ut animam meam.</s>
+					<s n="20" xml:lang="la" type="auto">Ferre ergo non possum ullam inter optimos et delectissimos viros simultatem.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Quod nos attinet, res nostrae habent optime, domino gratia.</s>
+					<s n="22" xml:lang="la" type="auto">Ex <placeName>Italia</placeName> missae literae nescio quid de Turcarum imperatore referant<note xml:id="fn4" type="footnote" n="4">Nachrichten über die Bedrohung <placeName>Italiens</placeName> durch <persName>Suleiman I.</persName> hatte auch <persName>Myconius</persName> zu Gesicht bekommen; s. oben <ref target="file11076">Nr. 1034</ref>, 13f mit Anm. 7.</note>.</s>
+					<s n="23" xml:lang="la" type="auto">Aiunt illum Apolloniae in Epiro mille velis instructum nescio quam operiri occasionem.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><pb type="edition" next="230"/>Sed et Axaxbassam, ducem Turcicum, movere ex <placeName>Illyrico</placeName><note xml:id="fn7" type="footnote" n="7">Am 29. August landete <persName>Ayas Pascha</persName> auf <placeName>Korfu</placeName>, wo er sich am türkischen Eroberungsversuch beteiligte; s. <hi>von Hammer [-Purgstall],</hi> aaO, <hi>S.</hi> 186.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Metuunt alii <placeName>Siciliae</placeName>, alii <placeName>Apuliae</placeName><note xml:id="fn8" type="footnote" n="8">Tatsächlich fielen türkische Truppen Ende Juli in <placeName>Apulien</placeName> ein, doch kam es nicht zum befürchteten Vorstoß auf Rom; s. <bibl>Pastor</bibl> V 190f.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Quid rerum sit, nescio.</s>
+					<s n="27" xml:lang="la" type="auto">Dominus orandus est, ut nostri misereatur.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Salvum volo amicum et fratrem nostrum integerrimum <persName>Gryneum</persName>.</s>
+					<s n="29" xml:lang="la" type="auto">Miror, an is vivat, tam raro scribit.</s>
+					<s n="30" xml:lang="la" type="auto">Non curarem adeo cacographiam<note xml:id="fn9" type="footnote" n="9">Vgl. <bibl>HBBW VI</bibl> <ref target="file10965">[Nr. 923]</ref>, S. 485, 1-16; <hi>Pollet,</hi> Bucer II 371, Anm. 5.</note> modo aliquid, scriberet.</s>
+					<s n="31" xml:lang="la" type="auto">Valete una omnes.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Tiguri, calendis septembris 1537.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Heinrychus Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="de" type="auto">Ich bitt üch früntlich, ir wöllind schicken in <persName ref="p6756">Heinrych Wyncklis</persName> huß und vragen lassen, wie es doch umb min buͤchlin stande<note xml:id="fn10" type="footnote" n="10">Gemeint ist die Schrift "Der alte Glaube" (<bibl>HBBibl</bibl> I 99), die Bullinger <persName>Hans Heinrich Winkeli</persName> gewidmet hatte (s. oben <ref target="file11000">Nr. 958</ref>) und die Anfang Juni von <persName>Wolfgang Fries</persName> in <placeName>Basel</placeName> gedruckt worden war. 11 mitteilt.</note>, das er mir doch so gar nüt embüt<note xml:id="fn11" type="footnote" n="11">mitteilt.</note> und ich noch ghein exemplar gesähen hab, da ich aber wol gedenck, er habs langist truckt.</s>
+					<s n="35" xml:lang="de" type="auto">Grützend mir inn.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="36" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, ecclesiastae <placeName>Basileiensi</placeName>, fratri honorando.</s>
+					<s n="37" xml:lang="de" type="auto"><placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

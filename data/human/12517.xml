@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12517" type="Brief" source="HBBW" n="2470">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 22. Juni 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">S. „Wie ich üch zuͦgeschriben vergangner nacht, also kummend hütt“,<note xml:id="fn1" type="footnote" n="1">Zitat aus einem nicht erhaltenen Brief Bullingers an <persName>Myconius</persName>, der einen weiteren, am Abend zuvor verfassten und ebenfalls nicht erhaltenen Brief Bullingers an denselben voraussetzt.</note> etc.</s>
+					<s n="2" xml:lang="la" type="auto">Hęc tua non capio, quia tuarum nihil tam brevi accepi.</s>
+					<s n="3" xml:lang="la" type="auto">Quamobrem anxius sum, quid velis.</s>
+					<s n="4" xml:lang="la" type="auto">Video tumultum exortum, praeterea nihil.</s>
+					<s n="5" xml:lang="la" type="auto">Ex domino de Rischach<note xml:id="fn2" type="footnote" n="2"><persName>Ludwig von Reischach</persName>.</note> audivi nudiustertius evolare militum copiam a lacu <placeName>Brigantino</placeName><note xml:id="fn3" type="footnote" n="3">Der obere Teil des <placeName>Bodensees</placeName>, bei <placeName>Bregenz</placeName>.</note> et Suevicis civitatibus.</s>
+					<s n="6" xml:lang="la" type="auto">Hodie accipio cęsarem<note xml:id="fn4" type="footnote" n="4"><persName>Karl V.</persName></note> evocasse duces suos hactenus sustentatos<note xml:id="fn5" type="footnote" n="5">Zu deren Namen s. <hi><persName>Mameranus</persName>, Exerc.</hi> 8-24. Für die Musterung in <placeName>Füssen</placeName> war Marchese <persName>Gian Giacomo de' Medici</persName> di' Marignano, Kastellan von Musso, zuständig; s. <hi>Paulus, Schertlin 52.</hi></note> apud oppidum Fuͤßen, ubi delectus habebitur<note xml:id="fn6" type="footnote" n="6">ubi delectus habebitur: wo gemustert werden wird; s. <hi><persName>Dasypodius</persName>, Dic.</hi> 11 0r.</note>, in ultimum huius mensis diem,<note xml:id="fn7" type="footnote" n="7">Vgl. <bibl><persName>Viglius van Zwichem</persName></bibl> 25. 33f, Anm. <hi>7; PCIV/1</hi> 141, <ref target="file10136">Nr. 107</ref>, Anm. 1.</note> et dixisse bellum profuturum esse toti Germanię.</s>
+					<s n="7" xml:lang="la" type="auto">Contendit Rischachius suo more cęsarem esse sanctum atque adeo virum adorandum neque quicquam tentaturum contra Germaniam.</s>
+					<s n="8" xml:lang="la" type="auto">Hęc scribo, quod nescio, quid tuę contineant.</s>
+					<s n="9" xml:lang="la" type="auto">Age vero, speret <placeName>Israel</placeName> in domino, quia apud dominum misericordia et copiosa apud eum redemptio<note xml:id="fn8" type="footnote" n="8">Ps 130, 7 (Vulg. 129, 6f).</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Quid acciderit Brunswicensi<note xml:id="fn9" type="footnote" n="9"><persName>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>, der von den Protestanten besiegt worden war; s. <ref target="file12499">Nr. 2452</ref>, Anm. 2.</note>, novimus omnes.</s>
+					<s n="11" xml:lang="la" type="auto">Quid, si idem accidat et cęsari?</s>
+					<s n="12" xml:lang="la" type="auto">Scio ingratitudinem nostram commereri mala.</s>
+					<s n="13" xml:lang="la" type="auto">Sed et illud scio, misericordiam domini peccatis nostris esse multo maiorem<note xml:id="fn10" type="footnote" n="10">Vgl. z.B. Ex 20, 5f. 34, 6f.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Tantum ab invocando fideliter nos non cessemus,<note xml:id="fn11" type="footnote" n="11">Vgl. 1 Thess 5, 17.</note> et auxilium accipiemus a domino<note xml:id="fn12" type="footnote" n="12">Vgl. Mt 21, 22; Joh 16, 24.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Pręter hęc pacem esse factam inter Gallum<note xml:id="fn13" type="footnote" n="13"><persName>König Franz I.</persName></note> et Anglum<note xml:id="fn14" type="footnote" n="14"><persName>König Heinrich VIII.</persName></note> ferunt,<note xml:id="fn15" type="footnote" n="15">Am 7. Juni wurde bei <placeName>Ardres</placeName> (Pas-de-Calals, <placeName>Frankreich</placeName>) ein Friedensabkommen ("Admiral's Peace") zwischen <placeName>England</placeName> und <placeName>Frankreich</placeName> geschlossen; s. <bibl>Potter</bibl> 427-461. - Text des Vertrages in <hi>LP XXIII.</hi> <ref target="file11056">Nr. 1014</ref>.</note> et caesarem id ferre iniquissime.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Octo ex theologis esse institutos, qui concordes faciant articulos pugnantes in religione, verum de missa, purgatorio et divorum intercessione<pb type="edition" next="110"/> nihil mutetur.</s>
+					<s n="17" xml:lang="la" type="auto">Hoc est, quod cęsar dixit haud semel: Pacem facturum se in Germania, priusquam discedat.</s>
+					<s n="18" xml:lang="la" type="auto">Dominus nobiscum.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Vale cum domo tua in domino.</s>
+					<s n="20" xml:lang="la" type="auto"><persName>Gvalthero</persName> scripsi ante paucos dies per scholasticum Tigurinum.</s>
+					<s n="21" xml:lang="la" type="auto">Timeo, ne non acceperit, quod nollem.</s>
+					<s n="22" xml:lang="la" type="auto">Salutabis ipsum cum uxore<note xml:id="fn19" type="footnote" n="19"><persName>Regula, geb. Zwingli</persName>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="23" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 22. iunii anno 1546.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">D. Heinricho Bullingero, viro praestantissimo, ministro Christi fidelissimo, fratri in domino venerando suo.</s>
+					<s n="26" xml:lang="de" type="auto">Zu[rich].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

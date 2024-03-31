@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12559" type="Brief" source="HBBW" n="2512">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 24. Juli 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quę dixi<note xml:id="fn1" type="footnote" n="1">In <ref target="file12556">Nr. 2509</ref>,30-40.</note> de Schertlio et occupato auro papę<note xml:id="fn2" type="footnote" n="2"><persName>Paul III.</persName></note>, vanum esse intelligo; quod mihi dolet.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="3" xml:lang="la" type="auto">Hoc certum: Fuit nobilis de <persName>Mülinen</persName> in itinere ad Campidunum<note xml:id="fn4" type="footnote" n="4"><placeName>Kempten</placeName>.</note>, cui ut cognato dominus de Rischach<note xml:id="fn5" type="footnote" n="5"><persName>Ludwig von Reischach</persName>.</note> et equos et famulum<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> dederat.</s>
+					<s n="4" xml:lang="la" type="auto">Illo tamen penetrare non poterat<note xml:id="fn7" type="footnote" n="7">Vgl. <ref target="file12539">Nr. 2492</ref>,28-30. - <persName>Ludwig von Reischach</persName> war ein Anhänger des Kaisers; s. <bibl>HBBW</bibl> XIII 271,14f; und oben <ref target="file12517">Nr. 2470</ref>,7-9.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Venit ergo ad monasterium Salmerschwilam<note xml:id="fn8" type="footnote" n="8">Die Reichsabtei <placeName>Salem (Salmansweiler)</placeName> am <placeName>Bodensee</placeName>, von wo sich die kaiserlichen Truppen kurz zuvor zurückgezogen hatten; vgl. <ref target="file12552">Nr. 2505</ref>, Anm. 84.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Reperit milites ad ducentos egregie bibentes et monachos iuvenes fortiter et fundentes<note xml:id="fn9" type="footnote" n="9">Wein einschenkend.</note> et potantes.</s>
+					<s n="7" xml:lang="la" type="auto">Adiit ibi nobiles, quos norat, qui omnes uno ore hoc modo fatebantur:</s> 
+					<s n="8" xml:lang="de" type="manual">„Wenn uns der keyser<note xml:id="fn10" type="footnote" n="10"><persName>Karl V.</persName></note> in <placeName>Ungarn</placeName> fuͦrte, werend wir allsamen fruͦtig<note xml:id="fn11" type="footnote" n="11">munter.</note> und froͤlich.</s>
+					<s n="9" xml:lang="de" type="auto">Wenn wir aber gedenckenn, wider wän er uns fuͤren wil, ist uns hertz und muͦt empfallen.“</s>
+					<s n="10" xml:lang="la" type="auto">Expende, quid hęc verba significent!</s>
+					<s n="11" xml:lang="la" type="auto">Oremus nos, ut sit mens sana in corpore sano<note xml:id="fn12" type="footnote" n="12">Vgl. <hi><persName>Juvenal</persName>,</hi> Satiren, 10, 356.</note> ac forti.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">De Quinquepagicis equidem vehementer ringor.</s>
+					<s n="13" xml:lang="la" type="auto">Vellem, quod olim volui,<note xml:id="fn13" type="footnote" n="13">Vgl. <ref target="file12555">Nr. 2508</ref>,14-19.</note> si foret occasio.</s>
+					<s n="14" xml:lang="la" type="auto">Aiunt eos simul esse in Beggenried<note xml:id="fn14" type="footnote" n="14"><placeName>Beckenried</placeName> (Kt. Nidwalden); vgl. <bibl>EA</bibl> IV/ld 652 1 (ohne Angabe des Treffpunktes).</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Si quid rescieris, exponito.<pb type="edition" next="235"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Heri intellexi ex <placeName>Argentina</placeName> exercitum 25000 venire contra nos ex <placeName>Belgico</placeName>.</s>
+					<s n="17" xml:lang="la" type="auto">Quod si verum, miror, cur Hessus a patria discedat tam procul, nisi forte post tergum omnia sic habeat munita,<note xml:id="fn17" type="footnote" n="17">Vgl. <ref target="file12545">Nr. 2498</ref>,138-140; <ref target="file12563">Nr. 2516</ref>,25.</note> ut timere nequeat.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Est hic Monbelgardensis, qui milites conscribit,<note xml:id="fn18" type="footnote" n="18">Unbekannt.</note> non <placeName>Basilienses</placeName>, sed extraneos.</s>
+					<s n="19" xml:lang="la" type="auto">Mittit eos <placeName>Argentinam</placeName>, credo ad comitem fratrem<note xml:id="fn19" type="footnote" n="19"><persName>Georg von Württemberg-Mömpelgard</persName>.</note> ducis Wirtenbergensis<note xml:id="fn20" type="footnote" n="20"><persName>Ulrich von Württemberg</persName>.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Gulielmus comes Furstenbergensis laborat melancholia,<note xml:id="fn21" type="footnote" n="21">Zur Depression des Grafen <persName>Wilhelm von Fürstenberg</persName> s. <bibl>Wagner, Fürstenberg</bibl> 2671.</note> nimirum quod nihil processerit ex animo.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="21" xml:lang="la" type="auto">Qui has reddit, aditurus est d. Cunhardum Gesnerum.</s>
+					<s n="22" xml:lang="la" type="auto">Ei, quęso, hominem commendes.</s>
+					<s n="23" xml:lang="la" type="auto">Et iube, ut fidem solvat; novit enim, quid mihi sit pollicitus.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="24" xml:lang="la" type="auto">Eundem salutabis.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Timent boni, ne dilationes, quibus nostri utuntur, cessurę sint nobis in malum.</s>
+					<s n="26" xml:lang="la" type="auto">Ego tamen spero, quia dominum habent in oculis, consiliis non aberraturos.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vale cum tuis in domino.</s>
+					<s n="28" xml:lang="de" type="auto">Ich sott studieren, so<note xml:id="fn24" type="footnote" n="24">jedoch.</note> tribt min anfechtung<note xml:id="fn25" type="footnote" n="25">Affekt, Betroffenheit; s. <bibl>SI</bibl> I 666.</note> zuͦ schriben.</s>
+					<s n="29" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 24. iulii anno 1546.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Tuus Os. Myco.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="31" xml:lang="la" type="auto">D. Heinricho Bullingero, viro doctissimo, ecclesię Tigurinę pastori fidelissimo, fratri in domino observando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

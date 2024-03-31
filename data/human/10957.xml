@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10957" type="Brief" source="HBBW" n="915">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Zwick] / [Konstanz] AN [Heinrich Bullinger], [Leo Jud], [Konrad Pellikan (Kürschner)], [Theodor Bibliander (Buchmann)], 24. November [1636]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Tigurinis, 24. novembris.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">En, observandissimi et charissimi omnium fratres, magistratus nostri assensu proprio tabellario isto<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> ad vos mittimus, quicquid tandem ecclesia nostra <persName ref="p18889">Luthero</persName> scribere et respondere statuit.</s>
+					<s n="3" xml:lang="la" type="auto">Petimus autem a vobis coniunctissimis nobis fratribus, hoc ipsum responsum nostrum diligenter legatis et relegatis, deinde significetis, quid fatiendum videatur.</s>
+					<s n="4" xml:lang="la" type="auto">Sic enim nos urget conscientia nostra, ne scilicet quid temere a nobis.</s>
+					<s n="5" xml:lang="la" type="auto">Cavete vero, ne quid sinistri in mentem vobis veniat.</s>
+					<s n="6" xml:lang="la" type="auto">Testamur enim dominum coram vobis vestrum iuditium<pb type="edition" next="473"/> non nisi conscientiis nostris usui futurum.</s>
+					<s n="7" xml:lang="la" type="auto">Et plane nichil aliud cause est, cur istud extorqueamus, quam ut bonorum iuditio intelligamus, certane sint et vera, que daturi simus semel, ut semper data sint.</s>
+					<s n="8" xml:lang="la" type="auto">Nos satis dilucide expressimus nostram mentem.</s>
+					<s n="9" xml:lang="la" type="auto">Ceterum, curia hec non nobis, sed aliis sit exprimenda, cupimus charitatis intuitu nichil negligere.</s>
+					<s n="10" xml:lang="la" type="auto">Cum autem veritati et Christo primas debeamus, obstruendum est, ne quid cum illius offensa demus.</s>
+					<s n="11" xml:lang="la" type="auto">Itaque dedimus operam, ut quam proxime imitaremur <persName ref="p18889">Luthero</persName> acceptas locutiones, id quod extorsit concordie desyderium.</s>
+					<s n="12" xml:lang="la" type="auto">Rursus obstitit veritas, quo minus dederimus omnino.</s>
+					<s n="13" xml:lang="la" type="auto">Sed, o deus, quam dolet nobis in tam miseram infelicitatem nos incedisse, ut, cum verba propter exprimendam mentem sint inventa, iam vix satis mentis sit ad exprimenda verba.</s>
+					<s n="14" xml:lang="la" type="auto">Atque utinam non piaculum sit apertum esse!</s>
+					<s n="15" xml:lang="la" type="auto">Et certe, quicquid in nostra responsione non est clarum, nostra culpa non accidit.</s>
+					<s n="16" xml:lang="la" type="auto">Nam studuimus dicere quedam obscurius et coegimus nos ipsos preter morem nostrum ad obscuritatem quandam, idque, ne videamur pro charitatis et concordię praesentis rationibus parum propitii.</s>
+					<s n="17" xml:lang="la" type="auto">Observate vos singula et sententias et verba, ut, siquid uspiam occurrat dignum, quod vel addatur vel tollatur, moneatis libere.</s>
+					<s n="18" xml:lang="la" type="auto">Apud nos stat sententia firma, salvo semper spiritus dei calculo.</s>
+					<s n="19" xml:lang="la" type="auto">Quo minus autem fallamur nostro iuditio, subiicimus hec nostra etiam vestrę censurae.</s>
+					<s n="20" xml:lang="la" type="auto">Et scimus vos pro summa vestra benevolentia nobis non defuturos.</s>
+					<s n="21" xml:lang="la" type="auto">Crescet autem spes nostra vestro opitulatu.</s>
+					<s n="22" xml:lang="la" type="auto">Conciliavit nos hactenus amor Christi.</s>
+					<s n="23" xml:lang="la" type="auto">Itaque optamus, ut hec amicitia non sit temporaria, sed perpetua.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

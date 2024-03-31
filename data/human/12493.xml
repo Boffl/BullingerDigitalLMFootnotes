@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12493" type="Brief" source="HBBW" n="2446">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 13. Mai 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+					<s n="2" xml:lang="la" type="auto">Examen illud publicum nostrarum scholarum cogit me esse brevissimum, <persName>Ambrosi</persName> suavissime.</s>
+					<s n="3" xml:lang="la" type="auto">Binis tuis respondeo<note xml:id="fn2" type="footnote" n="2"><persName>Blarers</persName> Briefe vom 28. April (<ref target="file12484">Nr. 2437</ref>) und 11. Mai (<ref target="file12491">Nr. 2444</ref>).</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Doleo te nullo cum fructu contulisse cum <persName>Schwencfeldii</persName> discipulo<note xml:id="fn3" type="footnote" n="3"><persName>Hans Wilhelm von Laubenberg zu Wagegg</persName>, der auf Besuch in <placeName>Konstanz</placeName> war; s. <ref target="file12484">Nr. 2437</ref>,1-9.</note>, quamvis videam illius discipulos omnes fere incurabiles esse.</s>
+					<s n="5" xml:lang="la" type="auto">Grave enim est mysterium incarnationis filii dei impetere et ad animi nostri sensum retorquere.</s>
+					<s n="6" xml:lang="la" type="auto">Dominus misereatur illorum!</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Curio<note xml:id="fn4" type="footnote" n="4">Zu <persName>Konrad Hofherr</persName> s. zuletzt <ref target="file12484">Nr. 2437</ref>,10-18. 29-37.</note>, si sapit, cristas ponet<note xml:id="fn5" type="footnote" n="5"><bibl>Adagia</bibl> 1, 7, 69 <hi>(ASD</hi> II/2 294, <ref target="file10807">Nr. 769</ref>).</note> et diligentius porro res suas curabit magisque beneficium te reverebitur.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Nihil dubito de caesaris<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> infesto in foedus evangelicum<note xml:id="fn7" type="footnote" n="7">Der Schmalkaldische Bund.</note> animo.</s>
+					<s n="9" xml:lang="la" type="auto">Audi, quid his designarit diebus!</s>
+					<s n="10" xml:lang="la" type="auto">Animadvertit animos Helvetiorum propendere ad Germanos.</s>
+					<s n="11" xml:lang="la" type="auto">Sunt enim et nobis homines proditores, qui ea, quae apud nos aguntur, caesari nunciant.</s>
+					<s n="12" xml:lang="de" type="auto">Da hat er ein botten gen Zürych gesandt mitt befaͤlch und geschrifften<note xml:id="fn9" type="footnote" n="9">Der erhalten gebliebene Brief des Kaisers datiert von <placeName>Luxemburg</placeName>, 12. März 1546 (Zürich StA, A 176.2, <ref target="file10183">Nr. 152</ref>). - Der Name des "uberanntworters ditz Briefs" ist im Schreiben nicht genannt.</note>.</s>
+					<s n="13" xml:lang="de" type="auto">Die sind nun uß der massen schnitzig<note xml:id="fn10" type="footnote" n="10">gut gewillt.</note>.</s>
+					<s n="14" xml:lang="de" type="auto">Man weist ouch nitt, das er ye gen Zürych und gemeinen eydgnossen habe früntlicher geschriben.</s>
+					<s n="15" xml:lang="de" type="auto">Und ist die meynung, er werde den eydgnossen yngebildet<note xml:id="fn11" type="footnote" n="11">dargestellt.</note>, alls ob er unfrüntlichs und dückischs gen inen fürnemme, etc.</s>
+					<s n="16" xml:lang="de" type="auto">Das sye gar nitt!</s>
+					<s n="17" xml:lang="de" type="auto">Er sye mitt inen wol zefriden, etc., und sy soͤllind niemants glouben, der anders fürgaͤbe, etc.</s>
+					<s n="18" xml:lang="la" type="auto">Intelligis, quo haec pertineant.</s>
+					<s n="19" xml:lang="la" type="auto">Quidam his blanditiis credunt, alii fucum intelligunt.</s>
+					<s n="20" xml:lang="de" type="auto">Moͤgend ir wüssen, in was haffen<note xml:id="fn12" type="footnote" n="12">Topf.</note> und wo diser pry<note xml:id="fn13" type="footnote" n="13">Brei.</note> kochet,<note xml:id="fn14" type="footnote" n="14">in was haffen und wo diser pry kochet: wer hinter der Sache steckt.</note> lassend uns wüssen.</s>
+					<s n="21" xml:lang="de" type="auto">Der bott was ein Burgundier und ist mentags vergangen vor radt xin.<pb type="edition" next="408"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Si quid habes de foedere reparato<note xml:id="fn15" type="footnote" n="15">Die Verlängerung des Schmalkaldischen Bundes.</note>, de comitiis vel Francfordiensibus<note xml:id="fn16" type="footnote" n="16">Der Schmalkaldische Bundestag zu <placeName>Frankfurt</placeName>, der allerdings im April seine Tagung in <placeName>Worms</placeName> fortsetzte; s. <ref target="file12398">Nr. 2351</ref>, Anm. 67.</note> vel <placeName>Ratisbonensibus</placeName><note xml:id="fn17" type="footnote" n="17">Der Reichstag zu <placeName>Regensburg</placeName>, der noch nicht begonnen hatte; s. <ref target="file12378">Nr. 2331</ref>, Anm. 3.</note>, fac sciam.</s>
+					<s n="23" xml:lang="la" type="auto">Quidam putant <placeName>Argentinenses</placeName> et <placeName>Ulmenses</placeName> missionem petituros<note xml:id="fn18" type="footnote" n="18">Vgl. nämlich <ref target="file12469">Nr. 2422</ref>,14-16.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Quid?</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="25" xml:lang="de" type="auto">Ob das waar sye, das man von <placeName>Lucern</placeName> sagt,<note xml:id="fn19" type="footnote" n="19">Zur Erscheinung in <placeName>Nebikon</placeName>, Kt. <placeName>Luzern</placeName>, s. <ref target="file12484">Nr. 2437</ref>,67-81.</note> weiß ich nitt.</s>
+					<s n="26" xml:lang="de" type="auto">Es ist hie ouch also ein gassenmaͤr<note xml:id="fn20" type="footnote" n="20">Gerücht.</note> xin.</s>
+					<s n="27" xml:lang="de" type="auto">Niemandts gipt imm glouben.</s>
+					<s n="28" xml:lang="de" type="auto">Dann wenn gott durch zeichen ein volck schrecken und warnen wil, last er die zeichen nitt einem alein oder zwen winiger xellen<note xml:id="fn21" type="footnote" n="21">winiger xellen: betrunkener Gesellen.</note> saͤhen, sunder, etc.</s>
+					<s n="29" xml:lang="de" type="auto">Das zuͦ Cappel funden syend unverwaͤßne lüt, ist offentlich<note xml:id="fn22" type="footnote" n="22">offenbar.</note> erdicht,<note xml:id="fn23" type="footnote" n="23">Zum angeblichen Fund bei <placeName>Kappel</placeName> s. <ref target="file12484">Nr. 2437</ref>,85-91.</note> dann den herren von Cappel<note xml:id="fn24" type="footnote" n="24">Damit meint Bullinger wohl <persName>Hans Steinbrüchel</persName>, Schaffner in <placeName>Kappel</placeName> (s. <hi>Bächtold, Rat</hi> 207), und <persName>Peter Simler</persName>, Dekan des Kapitels Freiamt.</note> hab ich drumb selbs gevragt, diewyl das gschrey ouch by uns was.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="30" xml:lang="la" type="auto">Iam ad postremas<note xml:id="fn25" type="footnote" n="25">Nr. 2444 vom 11. Mai.</note>, quas heri mihi tulit lanius<note xml:id="fn26" type="footnote" n="26">Unbekannt; vgl. schon <ref target="file12377">Nr. 2330</ref>,1f: <ref target="file12401">Nr. 2354</ref>,24; und <ref target="file12413">Nr. 2366</ref>,9f.</note> (quem tamen non vidi) respondeo.</s>
+					<s n="31" xml:lang="la" type="auto">Recepi literas d. <persName ref="p6490">Melanchtoni</persName> inscriptas,<note xml:id="fn27" type="footnote" n="27">Die Abschrift von Bullingers Brief an <persName>Melanchthon</persName> vom 1. April (<ref target="file12451">Nr. 2404</ref>); vgl. <ref target="file12491">Nr. 2444</ref>,1.</note> et oro dominum tecum, ut bene cadant.</s>
+					<s n="32" xml:lang="la" type="auto">Non enim delector dissidio.</s>
+					<s n="33" xml:lang="la" type="auto">Literas Ruͤfio<note xml:id="fn28" type="footnote" n="28"><persName>Jakob Ruf</persName>.</note> et <persName>Gvalthero</persName>, <persName ref="p7518">Benedicto</persName><note xml:id="fn29" type="footnote" n="29"><persName>Benedikt Euander</persName>, Schulmeister der Lateinschule am Großmünster.</note> item inscriptas tradidi<pb type="scan" next="142v."/> singulas singulis<note xml:id="fn30" type="footnote" n="30">Zu den von <persName>Blarer</persName> zur Übermittlung an Bullinger gesandten Briefen an <persName>Ruf</persName> und <persName>Gwalther</persName> s. <ref target="file12491">Nr. 2444</ref>,18-21. Der Brief an <persName>Euander</persName> ist dort nicht erwähnt.</note>.</s>
+					<s n="34" xml:lang="la" type="auto">Chirurgum,<note xml:id="fn31" type="footnote" n="31"><persName>Jakob Ruf</persName>.</note> alioqui familiarem, mihi nondum conveni.</s>
+					<s n="35" xml:lang="la" type="auto">Plura iam non possum, nam vocor in examen.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="36" xml:lang="la" type="auto">Vale ergo cum tuis omnibus.</s>
+					<s n="37" xml:lang="la" type="auto">Tiguri, 13. maii anno 1546.</s>
+					<s n="38" xml:lang="la" type="auto">Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="39" xml:lang="la" type="auto">Fidelissimo Christi servo d. <persName>Ambrosio Blaurero</persName>, fratri longe charissimo et plane suo.</s>
+					<s n="40" xml:lang="la" type="auto"><placeName>Constantz</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12956" type="Brief" source="TUSTEP" n="2907">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 23. Mai 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Dedit mihi et legit literas tuas <persName>Myconius</persName>, ad quas nihil ego nunc quidem respondebo, ne argumentum ingrediar nimis longum et odiosum.</s>
+					<s n="3" xml:lang="la" type="auto">Illud tantum dico fuisse mihi gratam hominis amici admonitionem.</s>
+					<s n="4" xml:lang="la" type="auto">Si vitam dominus concedet atque erit oportunum, ero vobiscum istis feriis<note xml:id="fn2" type="footnote" n="2">Pfingsten, 29. Mai.</note>; nam et te videre cupio tecunque de multis rebus conferre, et aliquantulum cum fratribus recreari in tanta confusione reipublicae esset mihi valde necessarium; tum etiam interesse coenae domini, quam nondum in vestra ecclesia vidi celebrari, vehementer desidero.</s>
+					<s n="5" xml:lang="la" type="auto">Ea est infoelicitas rerum humanarum, ut homini multa contingant in vita morte ipsa duriora.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Hic audimus quotidie desperata omnia, ut, nisi deus quispiam<foreign xml:lang="el">ἀπὸ μηχανῆϛ</foreign> perturbatae fabulae latam addat <foreign xml:lang="el">καταστροφήν</foreign>, arbitremur instare ruinam atque inclinationem omnium imperiorum.</s>
+					<s n="7" xml:lang="la" type="auto">Praesidia hominum sunt infirma seu potius nulla.</s>
+					<s n="8" xml:lang="la" type="auto">Itaque non alia re quam assiduis precibus iuvare possumus labantem rempublicam, et tamen, qui in tantis cladibus ecclesiae non vehementer afficiatur, eum equidem non hominem humanum, sed potius marmoreum putabo.</s>
+					<s n="9" xml:lang="la" type="auto">Ingemisco toto pectore<note xml:id="fn3" type="footnote" n="3"><bibl>Adagia</bibl> 1, 4, 26 (<bibl>ASD</bibl> II/1 428, <ref target="file10357">Nr. 326</ref>).</note> et a deo postulo ardentibus votis tantorum malorum liberationem.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="10" xml:lang="la" type="auto">Bene vale cum omnibus fratribus.</s>
+					<s n="11" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 23. maii 1547.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Tuus totuis Franciscus Dryander.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Clarissimo viro domino Henrico Bullingero.</s>
+					<s n="14" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

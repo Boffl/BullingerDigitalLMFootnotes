@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13074" type="Brief" source="HBBW" n="3025">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jean de Hotot / Bern AN Heinrich Bullinger, 1. Oktober 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Visi heri dominum <persName ref="p6051">Jodocum</persName><note xml:id="fn2" type="footnote" n="2"><persName>Jodocus Kilchmeyer</persName>.</note>, qui mihi literas tuas ad se scriptas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note> ostendit, et quia iis nullę ad me adiunctę erant, metui, ne quid antea scripseris, quod mihi redditum non sit.</s>
+					<s n="2" xml:lang="la" type="auto">Hic nempe tertiam hebdomadam hęreo<note xml:id="fn4" type="footnote" n="4">In <placeName>Bern</placeName> hatte er sich laut dem oben in <ptr target="qvfn17294-1" type="qv"/> erwähnten Brief an <persName>Gwalther</persName> im Gasthaus "Zum Falken" einquartiert.<ptr target="zfnfn17294-2" type="zfn"/></note> in expectatione tum maxime literarum tuarum, tum etiam sarcinarum mearum, quas me Tiguro discedente hospiti meo<note xml:id="fn5" type="footnote" n="5"><persName>Georg Rubli</persName>; s. <ref target="file13105">Nr. 3056</ref>,<ptr target="qvzl17329-2" type="qv"/>. - Das Gepäck von Hotot wurde nach <placeName>Solothurn</placeName> versandt, wo es mehr als 14 Tage stecken blieb; s. <ref target="file13105">Nr. 3056</ref>,<ptr target="qvzl17329-3" type="qv"/>.</note> huc transmitendas commiseram.</s>
+					<s n="3" xml:lang="la" type="auto">Quocirca si ad me prius scripsisti, peto a te, ne hunc laborem rursus suscipere dedigneris, et ut illa dubitatione exolvar, simul et literarum tuarum optatissima fruitione delecter.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">Utinam vera essent, quę de cęsare<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName> - Aus dem hier Folgenden wird deutlich, dass Bullinger in seinem Brief an <persName>Kilchmeyer</persName> u.a. über die angeschlagene Gesundheit des Kaisers (s. dazu <ref target="file13032">Nr. 2983</ref>, <ptr target="qvfn17248-1" type="qv"/>) berichtet haben wird.</note> ad <persName ref="p6051">Iodocum</persName> scribis!</s>
+					<s n="5" xml:lang="la" type="auto">Sed longe contraria audio, siquidem et valere et omnia pro arbitrio gerere in comitiis inceptis<note xml:id="fn7" type="footnote" n="7">Der am 1. September begonnene <placeName>Augsburger</placeName> Reichstag; s. <ref target="file13001">Nr. 2952</ref>, <ptr target="qvfn17218-1" type="qv"/>.</note> ad me certus homo<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> detulit, quę, quia domino <persName>Bibliandro</persName> scribo<note xml:id="fn9" type="footnote" n="9">Nicht erhalten.</note>, ut ingrata tibi repetere nolui.</s>
+					<s n="6" xml:lang="la" type="auto">Quicquid est (quod certum est), ab eo accipies.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Egi tibi gratias coram pro tuis beneficiis mihi ultro et immerito collatis.</s>
+					<s n="8" xml:lang="la" type="auto">Rursus cogitaram hanc epistolam totam iisdem implere.</s>
+					<s n="9" xml:lang="la" type="auto">Sed cum reputarem magnitudinem tuorum in me meritorum, extemplo restiti.</s>
+					<s n="10" xml:lang="la" type="auto">Ea enim sunt, quę nullis beneficiis recte reponi possunt, nedum aut literis aut oratione conari debeo.</s>
+					<s n="11" xml:lang="la" type="auto">Sed dispitiam aliquando, re ipsa qui referre possim; quodsi minus <pb type="edition" next="509"/> erga te (cui opera mea nequaquam prodesse posse arbitror) hanc gratiam experientur hi, quos, si ita usu veniet, mihi tu commendatos voles.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Bene vale.</s>
+					<s n="13" xml:lang="la" type="auto">Apud Bernam, kalendis octobris 1547.</s>
+					<s n="14" xml:lang="la" type="auto">Tui studiosissimus Ioa. de Hotot.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Clarissimo viro doctrina et virtute pręstanti, domino Henrico Bulingero, <placeName>Tigurinę</placeName> ecclesię ministro.</s>
+					<s n="16" xml:lang="la" type="auto"><placeName>Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

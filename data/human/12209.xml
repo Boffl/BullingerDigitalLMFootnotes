@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12209" type="Brief" source="HBBW" n="2162">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gerhard thom Camph / [Zürich] AN Konrad Pellikan (Kürschner), Heinrich Bullinger, zwischen 15. Mai 1545 und [15.] Mai [1545]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem, quae est in domino Iesu,<note xml:id="fn1" type="footnote" n="1">Vgl. 2Tim 2, 10.</note> vobis omnibus ut fratribus germanis opto ac precor a deo patre nostro omnis misericordiae ac consolationis<note xml:id="fn2" type="footnote" n="2">2Kor 1, 3.</note> et filio eius unico, domino ac fratre nostro.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Non possum, mi pater,<note xml:id="fn3" type="footnote" n="3">Während seines Zürcher Aufenthalts hatte der junge <persName>thom Camph</persName> bei <persName>Pellikan</persName> gewohnt; s. <hi>Pelikan,</hi> Chronikon 167; und unten Z. 88.</note> utut etiam res meae habent, quin tibi et per te omnibus vobis (cum nuncii<note xml:id="fn4" type="footnote" n="4">Siehe unten Anm. 32.</note> detur facultas) conditionem mearum rerum perscribam.</s>
+					<s n="3" xml:lang="la" type="auto">Scias ergo me cum variis hominum generibus eisdem uti thermis, cum Tigurinis, Suevis, etc., et - quid hos nomino?</s>
+					<s n="4" xml:lang="la" type="auto">- cum Lutheranis, Swinglianis et papistis, monachis et prępositis, ut vocant, et iam, qui omnium optimi amici erant, Constancienses<note xml:id="fn5" type="footnote" n="5">Unbekannte.</note> discessisse, et loco illorum praepositum ex <placeName>Uri</placeName> recepisse, quem quoque non inexpertem omisimus.</s>
+					<s n="5" xml:lang="la" type="auto">Agnosco bonum et doctum virum esse, sed in scripturis non admodum peritum, quantum ad iudicium spiritus attinet, attamen cui non omnia papistica placeant.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Ille me bono animo secum et rursum ego ipsum mecum eodem animo agere cognovi.</s>
+					<s n="7" xml:lang="la" type="auto">Tandem dolens dixit se nunquam cum quoquam Lutheranorum egisse, quem convertere potuerit, non ergo mirari, si nihil apud me efficiat.</s>
+					<s n="8" xml:lang="la" type="auto">Summa ille mihi bonam, ego contra eandem illi dari optavimus.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Tantum de illo.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Porro, cum saepius colloquor cum lavantibus de verbo domini et ipso die assensionis Christi<note xml:id="fn7" type="footnote" n="7">Am 14. Mai 1545.</note> quaedam de assensione domini locutus essem devenissemusque tandem, ut colloqueremur de peccatis sanctorum et contra conscientiam hancque <persName>Pauli</persName> sententiam in medium adduxissem, neque scortatores neque adulteri neque ebriosi et avari, etc., regni dei heredes erunt,<note xml:id="fn8" type="footnote" n="8">1Kor 6, 9f.</note><pb type="edition" next="329"/> tum quidam Campidonensis<note xml:id="fn9" type="footnote" n="9">Ein Unbekannter aus <placeName>Kempten</placeName>.</note>, addictissimus <persName ref="p18889">Luthero</persName>, respondit neque hos solum, sed inprimis, qui falsa docerent et homines seducerent<note xml:id="fn10" type="footnote" n="10">Vgl. Mt 24, 11; Röm 16, 17f; 2Thess 2, 3; 1Tim 6,3-11.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Me autem annuente subiecit, an non putarem id in me competere, eo quod concionatorem agerem et homines seducerem.</s>
+					<s n="12" xml:lang="la" type="auto">Ego vero nec concionatorem me esse nec homines seducere respondi.</s>
+					<s n="13" xml:lang="la" type="auto">Ille contra inquit: Cur quotidie in balneis concionaris?</s>
+					<s n="14" xml:lang="la" type="auto">Tum dixi me cum nullo de verbo domini loqui, quam qui expeteret, et unicuique mandatum esse de proximo suo<note xml:id="fn11" type="footnote" n="11">Vgl. Ez 3, 18-21; 33,7-9; Sach 8, 16;Eph 4, 25.</note> meque credere, ideo loqui<note xml:id="fn12" type="footnote" n="12">2Kor 4, 13.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Summa agnovi inique illum ferre se non posse apud lavantes obtinere, quod cuperet, nempe cum nemo esset, qui sibi disputanti occurreret, ut inferior veritas videri, aliosque hoc modo in suam sententiam attrahere posset<note xml:id="fn13" type="footnote" n="13">Zu verstehen: cum nemo esset, qui sibi occurreret, ut veritas sua inferior videri posset, et cum nemo esset, qui sibi occurreret, ut alios in suam sententiam attrahere posset.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Et video me oportune a domino missum, eo quod nemo ex Tigurinis<note xml:id="fn14" type="footnote" n="14">Vgl. oben Z. 7 und unten Z. 75.</note> adsit, qui aut causam veritatis, ut video, aperte defendere velit aut possit.</s>
+					<s n="17" xml:lang="la" type="auto">Disputatio autem ita conclusa est me sane repugnante nec assentiente se malle adulterum et scortatorem esse<note xml:id="fn15" type="footnote" n="15">Vgl. Mt 21, 31.</note> quam meae fidei, hoc est Swinglianum.</s>
+					<s n="18" xml:lang="la" type="auto">Respondi me nec Swinglianum nec Lutheranum, sed christianum esse et me Christo in hac re fidere<note xml:id="fn16" type="footnote" n="16">Vgl. Phil 3, 3.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Roges, quaeso, dominum, ut horum misereri non dedignetur, sed meliorem mentem det et nos in veritate sua confirmet,<note xml:id="fn17" type="footnote" n="17">2Petr 1, 12.</note> ne horum hominum perverso zelo<note xml:id="fn18" type="footnote" n="18">Vgl. Röm 10,2; Gall, 14;4, 17; Phil 3, 6.</note> a via veritatis declinemus, largiaturque nobis suum spiritum, quo ita loquamur verbum domini, ut oportet loqui, et in conspectu omnium hominum,<note xml:id="fn19" type="footnote" n="19">Vgl. Mt 28, 19par.; Lk 21, 15;Joh 15,27; Apg 17, 30.</note> et hanc gratiam addat, ne propter nos sermo dei ac veritatis male audiat, nosque liberet ex omni errore.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Reliquos duos, <placeName>Friburgensem</placeName> ac monachum priorem, eo perduxi, ut nihil de nugis suis dicant et vos visendi ac vobiscum colloquendi gratia<pb type="edition" next="330"/> accedere cupiant, die sabbati proxima credo.</s>
+					<s n="22" xml:lang="la" type="auto">Hos velim a vobis omnibus pro vestra humanitate non solum convivio excipi, sed etiam pro vestra pietate horum animas opiparis ferculis verbi divini pasci ac saturari; opus enim habent pro se et aliis.</s>
+					<s n="23" xml:lang="la" type="auto">Nam etsi non procul absint a regno dei<note xml:id="fn23" type="footnote" n="23">Mk 12, 34.</note> neque omnia antichristi probent, ac in summo articulo fidei de iustificatione nobiscum sentiant, tamen nescio aut superstitione aut commodi gratia - quod inde<note xml:id="fn24" type="footnote" n="24">Von der Abhaltung von Messen.</note> non parvum credo habent - missas defendunt et nostrae sententiae verae de sacramentis adversantur et in doctrina nos non minora quam papistas errata habere putant.</s>
+					<s n="24" xml:lang="la" type="auto">Hos velim vestra authoritate, doctrina ac pietate eo perduceretis, ut vel abnegata impietate veritati prorsus accederent vel non repugnare viderentur.</s>
+					<s n="25" xml:lang="la" type="auto">Alios Friburgensis non novit praeter te, cuius commentaria<note xml:id="fn25" type="footnote" n="25">Bullingers Bibelkommentare; s. oben <ref target="file12117">Nr. 2070</ref>, Anm. 4.</note> diligenter legit.</s>
+					<s n="26" xml:lang="la" type="auto">Monachus, quoniam iuvenis est et ex Bavaria, nihil de vobis audivit nisi pessimos haereticos esse.</s>
+					<s n="27" xml:lang="la" type="auto">Hos, inquam, eo perducatis, ut<pb type="edition" next="331"/> se et alios errasse agnoscant vosque pro fratribus habeant; quod vos gratia dei, si studueritis, posse non diffido.<pb type="scan" next="115v."/></s>
+					<s n="28" xml:lang="la" type="auto">Quantum autem fructum hinc deo ac ecclesiae facietis, hinc facile apparebit, quod Friburgensis pastor sit Friburgi, nescio in quo templo, deinde publicus lector, doctus et magnae authoritatis, monachus vero prior in monasterio quodam Cistercien[sium].</s>
+					<s n="29" xml:lang="la" type="auto">Hii domum reversi multos Christo lucrifacere possent.</s>
+					<s n="30" xml:lang="la" type="auto">Christi ergo et ecclesiae no[mine] facite, ut vestra humanitas, pietas ac eruditio erga hos abundet.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Sed quid opus equo currenti addere calcaria<note xml:id="fn26" type="footnote" n="26"><bibl>Walther</bibl> II/1, Nr. 26; 11/7, <ref target="file10602">Nr. 566</ref>b. - Vgl. auch Adagia, 1, 2, 47 (<bibl>ASD</bibl> II/1 364, <ref target="file10178">Nr. 147</ref>).</note>?</s>
+					<s n="32" xml:lang="la" type="auto">Quod ad me attinet, valeo atque lavo strenue sing[ulis] diebus per 7 vel 8 horas<note xml:id="fn27" type="footnote" n="27">In seiner Antwort vom 18. Mai (s. oben Anm. 22) empfahl Pelikan, nicht länger als sechs Stunden am Tag zu baden.</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Dominus det, ut et corpus et anima melius habeat e[t me] conservet ab omni malo<note xml:id="fn28" type="footnote" n="28">Ps 121 (Vulg. 120),7.</note>.</s>
+					<s n="34" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Quoniam te iam in itinere esse sensi, has lite[ras te] absente meo Bullingero, semper observando fratri ac amico, inscripsi<note xml:id="fn29" type="footnote" n="29">Pelikan empfing den Brief selbst (s. unten Z. 91-95) und beantwortete ihn am 18. Mai (s. oben Anm. 22).</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Valebitis, tu cum uxore<note xml:id="fn30" type="footnote" n="30"><persName>Elisabeth, geb. Kalb</persName>.</note>, filio<note xml:id="fn31" type="footnote" n="31">Samuel Pelikan.</note> et tota denique familia, quos velim meo nomine dilig[entissime] salutes una cum praeceptoribus semper observandis.</s>
+					<s n="37" xml:lang="la" type="auto">Valebitis iterum atque [iterum] in domino.</s>
+					<s n="38" xml:lang="la" type="auto">Haec summo mane consule<note xml:id="fn32" type="footnote" n="32"><persName>Hans Rudolf Lavater</persName>.</note> iter urgente et me ex pectore lab[orante] congessi; quare erratis ignosce, pater.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">An aquam Thermarum bibam, rursum Gesn[erum] consulas, velim, et quid praeterea mihi faciundum sentiat.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Tertio va[le in] Christo domino.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Ex Thermis Badensium Helveticis postridie assentionis domini 1545.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Gerardus zum Camp[h, tuus] filius semper obsequen[tissimus].</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">D. Henrichum Bullingerum mihi munus gratissimum, num[mum] argenteum divi Traiani, misisse,<note xml:id="fn33" type="footnote" n="33">Siehe oben <ref target="file12199">Nr. 2152</ref>, Anm. 2.</note> non opus est, ut scribam; tamen, cum dubitem, [an] te lateat, omittere non potui.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="44" xml:lang="la" type="auto">Singulari eruditione et pietate d. <persName>Conrado Pellicano</persName>, sacrae linguae professori Tigurinae ecclesiae doctissimo ac fidelissimo, suo patri ac hospiti semper observando.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Si absens sit, tradantur Henrico Bullingero, meo amico ac fratri semper charissimo observandissimoque.<pb type="edition" next="332"/></s>
+				</p>
+				<p>
+					<note type="PS">[Darunter von Pellikans Hand:]</note>
+					<s n="46" xml:lang="la" type="auto">Oro, mi compater Bullingere, lege hanc quoque epistolam et vide argumentosam apiculam mella congerentem divinę sedulitatis ex sordidis quoque flosculis in prato thopheth<note xml:id="fn34" type="footnote" n="34">Jer 7, 31: ein Ort, an dem Götzenopfer dargebracht wurden hier eine Anspielung auf das Messopfer.</note> et nuspiam non servientem Christo, quem amat et cupit ab omnibus coli.</s>
+					<s n="47" xml:lang="la" type="auto">Aliquando hanc reddes epistolam<note xml:id="fn35" type="footnote" n="35">Aus dem vom 23. Juni 1545 datierten Brief <persName>Konrad Pellikans</persName> an seinen Sohn Samuel (Zürich ZB, Ms F 47, 119) geht hervor, dass das Wappen thom Camphs aus einer Blume bestand, "cui insident apicula et araneum".</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

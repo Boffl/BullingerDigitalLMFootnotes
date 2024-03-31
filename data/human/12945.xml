@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12945" type="Brief" source="HBBW" n="2896">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Vulteius (Will) / [Zürich] AN Heinrich Bullinger, [zwischen 7. Mai 1547 und Winter 1547/48]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="el">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="el" type="manual">Τῷ θειοτάτῳ καὶ εὐσεβεστάτῳ ἀνδρὶ Ἡνρίκῳ Βουλλιγχέρῳ εὐ πράττειν Ἰωάννης ὁ Ἐθελοντής<note xml:id="fn3" type="footnote" n="3">Wollender. - Gräzisierung von <persName>Vulteius</persName>' Namen, der ursprünglich <persName>Will (bzw. Wöll oder Wöhl)</persName> lautete.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="el" type="manual">Ἐπειδήπερ, ὦ πάντων ἐμοὶ φιλέστατε διδάσκαλε, τῇ χθὲς ἡμέρᾳ τοὺς συνόντας ἡμῖν παρεκάλεσας καὶ περί τινων ἀδικημάτων ὡς εἰκὸς πρὸς ἐκείνους διείλεξαι, γλίχομαι κἀγὼ τούτων ἀκηκοέναι.</s>
+					<s n="3" xml:lang="el" type="manual">Πολλὰ θαυμάζω τῶν τοιούτων ἀνθρώπων μοχθερίαν καὶ φαυλότητα ἀεὶ χαιρόντων καὶ ἡσθέντων τῇ τῶν ἄλλων δυστυχίᾳ.</s>
+					<s n="4" xml:lang="el" type="manual">Ἔγωγε νὴ τὸν ∆ία οὕτω διάκειμαι· εἰ πικρῶς τινι ἔχω, οὐ τούτου καταψεύδομαι, ἀλλά, εἰ παρὰ τοὺς νόμους τι πράττειν ὁρῶ, χωρὶς τῷ παρόντι εἰς τὸ πρόσωπον λέγω.</s>
+					<s n="5" xml:lang="el" type="manual">Τοιαῦτα πέπρακταί σοι, εἰ μὴ βούλει ἀπέχεσθαι τούτων· τῇ βουλῇ ἢ τῷ διδασκάλῳ διασαφηνίσαι δεῖ.</s>
+					<s n="6" xml:lang="el" type="manual">Ἀξιῶ δὲ καὶ δέομαί σου μετ' εὐνοίας θεωρεῖν, οὐ γὰρ μεμφόμενός σε ταῦτα λέγω.</s>
+					<s n="7" xml:lang="el" type="manual">Καὶ πειθαρχεῖν τοῖς διδασκάλοις καί, ὡς συνελόντι ἁπλῶς εἰπεῖν, ποιεῖν τὰ καθήκοντα· τοῦτο καλῷ κἀγαθῷ ἀνδρὶ πρέπειν οἶμαι καὶ μὴ ὑμῖν ψευδῆ γράφειν καθ' ἡμῶν καὶ ἀσχολίαν σοι παρέχεσθαι.</s>
+					<s n="8" xml:lang="el" type="manual">Ἤδη δέ τινες τούτων τὰ ἐναντία πράττουσιν, κρυφίως καὶ λάθρα αἰτιώμενοι ἡμῶν καὶ τὸ μέγιστον περὶ οὐδένων ψευδομένους κατηγοροῦντες ὡς οἱ παῖδες.</s>
+					<s n="9" xml:lang="el" type="manual">Βδελυροῦ καὶ ἐξαγίστου ἀνδρὸς ἔργον ἐστὶν ἀληθῶς, ὡς ἐγὼ κρίνω, καὶ τὸ παροίμιον μάρτυρα παρέχομαι· κλέπτης τὸν ἥλιον φεύγει καὶ<pb type="edition" next="185"/> τὴν νύκτα ἀγαπᾷ.</s>
+					<s n="10" xml:lang="el" type="manual">Ἐκ τούτων τινῶν δῆλον, ὅτι δύο ἐστὶ γένη ἀνθρώπων.</s>
+					<s n="11" xml:lang="el" type="manual">Ἓν μὲν εὐφραίνει τῶν ἄλλων συμφορᾷ καὶ δυσπραξίᾳ καὶ ἐπὶ ταύτῃ ὡς μάλιστα ἐπιγαυροῦται τοὺς φίλους πρὸς ἀλλήλους εἰς ἔχθραν καταστῆσαι.</s>
+					<s n="12" xml:lang="el" type="manual">Τοιούτων ἔργον τυγχάνει ὄν, οὓς φύσει μισῶν ὑπάρχω καὶ πάντες ὀλίγου δεῖν φθονοῦσιν καὶ εἰκότως.</s>
+					<s n="13" xml:lang="el" type="manual">Εἰσὶ γὰρ ὡς σφήν· τῶν κακῶν αἴτιοι τὰς πόλεις κατασκάπτουσιν, προδόται τῆς πατρίδος γίγνονται, δῶρα δέχοντα[ι] καὶ τὸν θεὸν ἀρνοῦσιν.</s>
+					<s n="14" xml:lang="el" type="manual">Θάττερον δ' ἡ ἀρετὴ προτρέπει πράττειν τὰ δέοντα, καὶ φύσει εὐλαβεῖται κακὰ ποιεῖν.</s>
+					<s n="15" xml:lang="el" type="manual">Τοιούτους ὄντας ἐπαινῶ καὶ ἐγκομιάζομαι.</s>
+					<s n="16" xml:lang="el" type="manual">Ὁποτέροις οὖν ἂν αἰσθάνῃ τὰ πραχθέντα συνενεγκόντα, ταῦτα δὴ αἱρούμενος ὀρθῶς βουλεύοις ἄν<note xml:id="fn4" type="footnote" n="4"><hi><persName>Xenophon</persName>,</hi> Cyri institutio, 8, 7, 24.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="17" xml:lang="el" type="manual"><pb type="scan" next="197v."/>Ὁμολογῶ μὲν ἐξ ἐμφανοῦς πολλὰ πεποιῆσθαι ὑφ' ἐμοῦ μὴ προσήκοντα.</s>
+					<s n="18" xml:lang="el" type="manual">Πάντες ἁμαρτάνομεν, καὶ χωρὶς ἁμαρτίας οὐδείς.</s>
+					<s n="19" xml:lang="el" type="manual">Ἀλλ' ἴσως λογίσαιτο ἄν τις παρ' ἑαυτῷ, ὅτι χρῶνται παραδείγματι καὶ ὑποδείγματι τῶν ἀλλοδαπῶν καὶ ὡς ἡμεῖς εἰς ἀλλοτριότητα κατέστημεν ἐκείνους, ἢν τάχα ἀλλοτριοπραγῶσιν.</s>
+					<s n="20" xml:lang="el" type="manual">Πρὸς τοῦτο τοιαῦτα ἀποκρίνομαι, ὅτ' οὐδέποτε εἰς τὸν νοῦν τοιοῦτό τι ἐκπαρέστημεν καὶ ἐπὶ τούτῳ οὐκ ἀφικόμην, ἀλλὰ ζῆν μετὰ τῶν ἄλλων βούλομαι, ὡς οἱ νόμοι κελεύουσιν οἱ ὑμέτεροι.</s>
+					<s n="21" xml:lang="el" type="manual">Εἰ δὲ μή, δίκην δώσω.</s>
+					<s n="22" xml:lang="el" type="manual">Τέλος δὲ πολλὰ δεηθῆναί σου βούλομαι δεικνῦναι ἡμῖν συκοφάντην ἐκείνον, καὶ εὑρήσεις πολλὰ ἐψευσμένον καὶ μὴ τολμήσοντα παρόντων ἡμῶν λέγειν.</s>
+					<s n="23" xml:lang="el" type="manual">Πολλὰ ἔτ' ἔχω εἰπεῖν, ἀλλὰ μετὰ ταῦτα περὶ πάντων διαρρήδην πρὸς σὲ διαλέξομαι.</s>
+					<s n="24" xml:lang="el" type="manual">Ἀξιῶ σε ταῦτα μετ' εὐνοίας θεωρεῖν.</s>
+					<s n="25" xml:lang="el" type="manual">Ἔρρωσο καὶ διατέλει εὐ διάγων.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="26" xml:lang="la" type="manual"><persName>Ioannes Vulteius</persName> Hessus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="27" xml:lang="la" type="manual">Doctissimo atque pientissimo viro Henrico Bullingero, praeceptori suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

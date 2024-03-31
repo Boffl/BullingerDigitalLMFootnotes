@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10625" type="Brief" source="HBBW" n="587">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 5. Juni 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quandoquidem fratres illi ex nostris patrios suos lares invisere et te praeterire statuerunt, nolui eos absque testimonio ad te venire, quod digni sint et iam multis annis in ministerio probati, qui tibi commendentur.</s>
+					<s n="3" xml:lang="la" type="auto">Alter, <persName>Conradus</persName><note xml:id="fn1" type="footnote" n="1"><persName>Konrad Hermann</persName>, s. unten <ref target="file10659">Nr. 621</ref>, 19-37. Zur Reise Hermanns nach <placeName>Württemberg</placeName> vgl. <persName>Vadian</persName> BW V 234f und unten <ref target="file10637">Nr. 599</ref>, 27f.</note> scilicet, iam pridem tibi cognitus est, alter vero, olim ordinis Teuthonicorum<pb type="edition" next="225"/> prope urbem nostram in Cönitz, cum primis mecum evangelium Christi confessus est.</s>
+					<s n="4" xml:lang="la" type="auto">Quodsi quid in gratiam illorum feceris, mihi factum esse non dubites.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Cęterum, quod novissimis ad te scripsi<note xml:id="fn3" type="footnote" n="3">Siehe oben <ref target="file10620">Nr. 582</ref>, 37-55.</note>, serius perpendas; nam ecclesiae nostrę calamitatem magnam imminere non possum non vereri, quod hi, qui primi fuerunt tam in senatu quam ab evangelio veluti Sepianus<note xml:id="fn4" type="footnote" n="4"><persName>Peter Im Haag</persName>.</note> noster, primi sint omnium ministrorum persecutores, maximo etiam personarum respectu, ut qui Svevus fuerit, etiam in ministerio et conversatione integer, vix inter bubulcos numeretur.</s>
+					<s n="6" xml:lang="la" type="auto">Interim <persName>Franciscus</persName><note xml:id="fn5" type="footnote" n="5"><persName>Franz Kolb</persName>.</note> silet, ego propter sinistram valetudinem silentio proximus, cęteri vero passim in agro omnibus exosi habentur.</s>
+					<s n="7" xml:lang="la" type="auto">Quid aliud hic dicerem quam deum immissurum famem iis, qui nunc sibi saturi videntur.</s>
+					<s n="8" xml:lang="la" type="auto">Obsecro itaque, charissime Heinrice, mihi tuo amico consilio non desis, quantocius potes.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto"><persName>Megander</persName>, Rellicanus et <persName>Simon</persName><note xml:id="fn6" type="footnote" n="6"><persName>Simon Sulzer</persName>.</note> satis valent.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Si quid rerum novarum apud te fuerit, adiunge epistolae tuae: de <placeName>Wirtenberga</placeName>, Monasteriensibus, <persName ref="p18198">Bucero</persName>, concordia cum Lutero atque aliis, subinde etiam, num sub prelo sint tua in Galatas, Ephesios, Colossenses, Philippenses<note xml:id="fn7" type="footnote" n="7">Bullingers "Commentarii in epistolas Pauli ad Galatas, Ephesios, Philippenses et Colossenses" (<bibl>HBBibl</bibl> I 72) erschienen im Juli/August 1535, vgl. unten <ref target="file10642">Nr. 604</ref>, Anm. 1.</note>.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Alioqui secreta nostra nobis sunto.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">5. iunii anno 35.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Tuus <persName>B. Hallerus</persName>.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Apographum<note xml:id="fn8" type="footnote" n="8">Siehe unten <ref target="file10647">Nr. 609</ref>, 4.</note> optime reconditum remittam suo nuncio et tempore.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Paravit ad prelum <persName>Megander</persName> in utranque ad Timotheum commentarios<note xml:id="fn9" type="footnote" n="9"><persName>Kaspar Megander</persName>, In divi Pauli epistolas tres, ad Timotheum et Titum... diligens ac brevis expositio, Basel 1535 (Kolophon: März 1536).</note>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="17" xml:lang="la" type="auto">Heinrico Bullingero, ecclesię Tigurinę ministro verbi, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

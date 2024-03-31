@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12629" type="Brief" source="HBBW" n="2582">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN [Heinrich Bullinger], 13. September 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Dolet mihi vehementer fauces<note xml:id="fn1" type="footnote" n="1">Die Klause Ehrenberg. - Am 5. September wurde sie von dem italienischen Heer, das unter der Führung <persName>Francesco di Castellaltos</persName> stand, zurückerobert; s. <ref target="file12619">Nr. 2572</ref>,44-46; <ref target="file12621">Nr. 2574</ref>,52-54; <ref target="file12623">Nr. 2576</ref>, 42-44; <ref target="file12624">Nr. 2577</ref>,35f.</note> iterum amissas per negligentiam, ut multis videtur.</s>
+					<s n="3" xml:lang="la" type="auto">Patet via <placeName>Italico</placeName> exercitui ad Svevos.</s>
+					<s n="4" xml:lang="la" type="auto">Maiori itaque cura debebat locus ille defensus esse.</s>
+					<s n="5" xml:lang="la" type="auto">Spes data cęsarianis de omnibus locis hactenus amissis, ea videlicet restitutum iri.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Aiunt cęsaris<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> castra relicta ab Hesso<note xml:id="fn3" type="footnote" n="3">Landgraf <persName>Philipp von Hessen</persName>. - Das schmalkaldische Lager um <placeName>Ingolstadt</placeName> wurde am 4. September aufgehoben; s. <ref target="file12621">Nr. 2574</ref>,37-42; <ref target="file12623">Nr. 2576</ref>,33f; <ref target="file12628">Nr. 2581</ref>, 105-108.</note> et exercitum divisum.</s>
+					<s n="7" xml:lang="la" type="auto">Unam partem mansuram, alteram ituram obviam Burensi.</s>
+					<s n="8" xml:lang="la" type="auto">Nescio, quid hic cogitandum.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl>NBD</bibl> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso...".</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Hoc placeret, modo cauti sint nostri.</s>
+					<s n="11" xml:lang="la" type="auto">Scis enim consilium famis<note xml:id="fn6" type="footnote" n="6">consilium famis; vgl. <bibl>Wander</bibl> II 913, Nr. 84: "Hunger ist ein schlimmer (harter) Rathgeber".</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="12" xml:lang="la" type="auto">De Mechlinia a domino fere perdita audisti.</s>
+					<s n="13" xml:lang="la" type="auto">Narrantur crudeliora ex <placeName>Sicilia</placeName><note xml:id="fn8" type="footnote" n="8">Zum Unwetter in <placeName>Lecce</placeName> (Königreich <placeName>Neapel</placeName> und <placeName>Sizilien</placeName>) s. <ref target="file12619">Nr. 2572</ref>, Anm. 11.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Arbitror et hęc tibi cognita.</s>
+					<s n="15" xml:lang="la" type="auto">A Bohemis fertur captus <persName>Ferdinandus</persName><note xml:id="fn9" type="footnote" n="9"><persName>König Ferdinand I.</persName> - Ein Gerücht, das auf eine Entstellung der in <ref target="file12619">Nr. 2572</ref>,60- 66, überlieferten Nachricht zurückzuführen sein wird.</note>.<pb type="edition" next="456"/></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Quare nos inter hęc ita desidemus?</s>
+					<s n="17" xml:lang="la" type="auto">Domine Iesu, adesto ecclesiaę tuę<note xml:id="fn10" type="footnote" n="10">Vgl. <ref target="file12610">Nr. 2563</ref>,50f.</note>!</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Intoxicatores fontium mendicos aiunt esse, missos a papa<note xml:id="fn11" type="footnote" n="11"><persName>Paul III.</persName>, im Folgenden als Antichrist bezeichnet.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">De incendiariis novis patet.</s>
+					<s n="20" xml:lang="la" type="auto">Artes antichristi!</s>
+					<s n="21" xml:lang="la" type="auto">Dominus respiciat nos contemptos propter nomen eius et sua virtute efficiat, ne falsum reddatur, quod tanto tempore veritatem retinuit adagium, quo dicitur: Consilium malum consultori pessimum<note xml:id="fn13" type="footnote" n="13"><bibl>Adagia</bibl> 1, 2, 14 <hi>(ASD</hi> II/1 226-228, <ref target="file10144">Nr. 114</ref>).</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Vale in Christo cum tuis et <persName>Gvalthero</persName>.</s>
+					<s n="23" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 13. septembris anno 1546.</s>
+					<s n="24" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">D. Heinricho Bullingero, doctissimo fratri in domino venerando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

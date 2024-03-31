@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12503" type="Brief" source="HBBW" n="2456">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johann Leopold (Lüpold) Frey / Biel AN Heinrich Bullinger, 6. Juni 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem a deo per Iesum Christum.</s>
+					<s n="2" xml:lang="la" type="auto">Mitto tandem (pater charissime) libellum hunc a me versum, sed non mitto, sicut volebam, quippe mendis ubique<pb type="edition" next="78"/> scatentem, et nuncius hic<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> mihi serius, quam optarim, optigit.</s>
+					<s n="3" xml:lang="la" type="auto">Quę citantur ex scripturis, non verti, sed sicut iam olim versa fuerunt (paucis exceptis) descripsi, ut calumniandi ansam papistis eriperem.</s>
+					<s n="4" xml:lang="la" type="auto">Libellum, qua diligentia potui, recognovi, ut, si videatur operę precium, Tiguri tersior exeat<note xml:id="fn3" type="footnote" n="3">Dazu kam es nicht.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Huius etiam rei gratia brevem hanc praeliminarem<note xml:id="fn4" type="footnote" n="4">vorangestellten.</note> epistolam<note xml:id="fn5" type="footnote" n="5">In <placeName>Bern</placeName> war die Schrift ohne Einleitung oder Widmungsepistel erschienen.</note> adieci, consilium meum satis explicantem.</s>
+					<s n="6" xml:lang="la" type="auto">Eam ostendi fratribus, qui non improbant quidem, sed aiunt <placeName>Bernatem</placeName><note xml:id="fn6" type="footnote" n="6">Gemeint ist: senatum Bernatem.</note> de me conqueri posse, si viderit me instigante Tiguri impressum.</s>
+					<s n="7" xml:lang="la" type="auto">Quare melius esse, ut sine mei nominis additione <persName ref="p5295">Froschouerus</persName><note xml:id="fn7" type="footnote" n="7">Der Zürcher Drucker <persName>Christoph Froschauer</persName>. - Diese Übersetzung wurde in Zürich nicht nachgedruckt.</note> tanquam ex sese prelis mandet.</s>
+					<s n="8" xml:lang="la" type="auto">Tu, quod videbitur, facito.</s>
+					<s n="9" xml:lang="la" type="auto">Ego non curo quicquam.</s>
+					<s n="10" xml:lang="la" type="auto">Cur enim aliis commandem, facile videbunt, quicunque contulerint exemplaria vetera cum novis.</s>
+					<s n="11" xml:lang="la" type="auto">Proinde meam epistolam vel emenda vel muta vel etiam reiice omnino.</s>
+					<s n="12" xml:lang="la" type="auto">Scio, quod hoc meo labore oleum fundam in ignem<note xml:id="fn8" type="footnote" n="8">Vgl. Lk 12, 49.</note> dudum Badenę accensum, sed deus mihi murus aheneus<note xml:id="fn10" type="footnote" n="10"><bibl>Adagia</bibl> 2, 10, 25 <hi>(ASD</hi> II/4 2921, <ref target="file11972">Nr. 1925</ref>). Vgl. Sach 2, 5.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Statueram singulis singula mitte exemplaria, sed non ausus sum tam impura.</s>
+					<s n="14" xml:lang="la" type="auto">Quo nomine me excusabis apud amicos atque parentes meos.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Mitto calendarium, quod pollicitus eram<note xml:id="fn12" type="footnote" n="12">Mit einem nicht erhaltenen Brief.</note>.</s>
+					<s n="16" xml:lang="de" type="auto">Phaltend<note xml:id="fn13" type="footnote" n="13">"Behaltet" im Sinne von bewahrt.</note> den edlen schatz wol.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Expectamus vestrum [iudi]cium de <persName>Calvini</persName>, quam misi, dissertatione super eucharistię negocio.</s>
+					<s n="18" xml:lang="la" type="auto">Pergunt scilicet <foreign xml:lang="el">σαρκόϕαγοι</foreign><note xml:id="fn15" type="footnote" n="15">Die Fleischfresser.</note> nostri, suumque in dies numerum augent.</s>
+					<s n="19" xml:lang="la" type="auto"><persName>Farellus</persName> totus illorum, qui nunc in reditu de <persName>Vireto</persName> dixit (nam cum ipso propter Gallicam persequutionem <placeName>Argentoratum</placeName> missus<pb type="edition" next="79"/> sine illo per nos transiit), quod is hactenus in ea qua nos sententia fuerit, sed audito <persName ref="p18198">Bucero</persName> deo summas egisse gratias, quod rem antea sibi absurdissimam visam nunc tam clare videat.</s>
+					<s n="20" xml:lang="la" type="auto">Multa cum illo contulit <persName>Michael</persName> noster<note xml:id="fn17" type="footnote" n="17"><persName>Michael Schlatter</persName>, der seit 1541/42 als Pfarrer in <placeName>Biel</placeName> wirkte.</note>, sed frustra.</s>
+					<s n="21" xml:lang="la" type="auto">Ait nos non capere negocium et orandum esse, ut deus illud nobis aperiat; sese enim, quoties celebrat coenam, plus alimenti sentire, quam olim fide infirmior senserit; item si <persName>Zvinglius</persName> viveret, nos in hoc omnes consensuros esse quidem corpus domini localiter in coelo, sed tamen supra omnem humanę rationis captum nos praesenti sua carne et sanguine alere, sicut dixerit Ioann. 6.<note xml:id="fn18" type="footnote" n="18">Joh 6,26-71.</note> et verba coenae<note xml:id="fn19" type="footnote" n="19">Mt 26, 26-28 par.</note> habeant.</s>
+					<s n="22" xml:lang="la" type="auto">Et quoniam non ludificatur nos dominus, efficiente spiritu sancto Christi corpus sibi magis esse praesens quam nostra licet iunctissima corpora.</s>
+					<s n="23" xml:lang="la" type="auto">Det nobis deus, ut in vera fide persistentes omnes omnium imponentium strophas effugiamus!</s>
+					<s n="24" xml:lang="la" type="manual">Amen.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Salutant te nostri, praesertim uxor mea<note xml:id="fn21" type="footnote" n="21">Unbekannt.</note> te tuosque omnes, quibus etiam omnibus pro exhibitis beneficiis summas gratias agit.</s>
+					<s n="26" xml:lang="la" type="auto">Salutabis meo nomine tuos, item dominum <persName>Theodorum</persName><note xml:id="fn22" type="footnote" n="22"><persName>Theodor Bibliander</persName>.</note>, <persName>Gvaltherum</persName>, etc.</s>
+					<s n="27" xml:lang="la" type="auto">Vale.</s>
+					<s n="28" xml:lang="la" type="auto"><placeName>Biellnis</placeName>, 6. iunii 1546.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Tuus ex animo Io. Leop. Fry.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Piissimo doctissimoque viro d. Heinrycho Bullingero, patri suo charissimo.</s>
+					<s n="31" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

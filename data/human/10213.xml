@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10213" type="Brief" source="HBBW" n="182">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Seger (Säger) / [Maienfeld] AN Heinrich Bullinger, 27. Januar 1533</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">A[nno] d[ominicae] i[ncarnationis] 27. ianuarii 33.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Erwirdiger, wolgelerter, günstiger, lieber her unnd fründt, üch sygennd min<pb type="edition" next="54"/> diennst ungesparts flys allezit gantz willig zuͦvoran, etc.</s>
+					<s n="3" xml:lang="de" type="auto">Dise gschrifft, von mir an üch als an minen lieben herren und unbekantenn fründ langent, wellend ir guͦter unnd früntlicher mainig von mir annemen und verstan unnd als Maister Uͦrich<note xml:id="fn2" type="footnote" n="2"><persName>Huldrych Zwingli</persName>.</note>, der fromm und one zwyfell by gott zuͦ der zit wolgeacht, mir vornaher in sinem leben fil günstigenn willen bewysen und ertzaigt<note xml:id="fn3" type="footnote" n="3">Siehe die Briefe <persName>Segers</persName> an <persName>Zwingli</persName> in <bibl>Z</bibl> IX, X und XI.</note>, so wellend ir, als der uß gottes ordnug an sin statt bestellt und kommen, min schriben unnd begär ouch solicher gestallt in fruͦntschafftt erkennen unnd, ob ettwas nüwes im truck vorhanden, mir by disem zaiger<note xml:id="fn4" type="footnote" n="4">Der Überbringer von <persName>Segers</persName> Brief ist unbekannt.</note> zuͦschicken, wil ich üch, was das costen würd, zuͦsampt hocher danckparkait fürderlichen ouch mit betzallung erstatten.</s>
+					<s n="4" xml:lang="de" type="auto">Unnd so ir nüwer zittung halb ettwas berichts hettind, mir dasselbig, so vil üch userthalb zuͦ thuͦnt gebürt, ouch kundpar machen wellend.</s>
+					<s n="5" xml:lang="de" type="auto">Dan üch hinwiderumb günstigen willen zuͦ bewysen, bin ich genaigt.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Dattum ut supra.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto"><persName>Marti Seger</persName>, stattvogt zuͦ Mayenfeldt.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="8" xml:lang="de" type="auto">Dem erwirdigen, wolgelerten Maister Hainrichen Bullinge[r], predicannt zuͦ dem münster Zürich, minem insonndren lieben herren und fründt.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

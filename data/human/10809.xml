@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10809" type="Brief" source="HBBW" n="771">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), Markus (Marx) Bertschi (Bersius), 22. März 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Commendamus vobis, charissimi fratres, optimi viri huius caussam, quam ipse vobis exponet<note xml:id="fn1" type="footnote" n="1">Zum Anliegen des <placeName>Winterthurer</placeName> Stadtschreibers (vgl. Z. 3f) <persName>Gebhart Hegner</persName> s. dessen Brief an Bullinger vom 22. September 1536 (unten <ref target="file10938">Nr. 896</ref>).</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Dignus autem est, cui beneficium conferatur.</s>
+					<s n="4" xml:lang="la" type="auto">Scriba est <placeName>Vitudurensis</placeName>, Pius et bonis amicus.</s>
+					<s n="5" xml:lang="la" type="auto">Caussam habet justam et bonam.</s>
+					<s n="6" xml:lang="la" type="auto">Quicquid autem huic feceritis, mihi putabo factum.</s>
+					<s n="7" xml:lang="la" type="auto">Amo enim hominem ob singularem integritatem ex animo.</s>
+					<s n="8" xml:lang="la" type="auto">Habetis senatores vobis notos; his caussam eius commendabitis.</s>
+					<s n="9" xml:lang="la" type="auto">Quodsi qua in re vices rependere licebit, totus vester sum.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Tiguri, 22. martii 1536.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">H. Bullingerus vester.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Dominis <persName>Osvaldo Myconio</persName> et <persName>Marco Bersio</persName>, <placeName>Basileiensis</placeName> ecclesiae doctoribus, charissimis fratribus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

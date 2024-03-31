@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11908" type="Brief" source="HBBW" n="1862">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel AN Heinrich Bullinger, 11. März 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. 6. martii ad me scripta hęc sunt: „<persName>Caesar</persName> iam secessit <placeName>Spira</placeName> in <placeName>Germersheim</placeName>,<note xml:id="fn2" type="footnote" n="2"><persName>Kaiser Karl V.</persName> brach am 28. Februar zur Jagd nach <placeName>Germersheim</placeName> auf und kehrte am 1. März nach <placeName>Speyer</placeName> zurück; s. RTA JR XV/2 762f.</note> oppidum Palatini<note xml:id="fn3" type="footnote" n="3">Pfalzgraf <persName>Ludwig V.</persName></note> circiter duo miliaria inde distans, idque propter obitum sui sacellani sive confessoris<note xml:id="fn4" type="footnote" n="4">Anscheinend ein bloßes Gerücht; jedenfalls kann es sich beim Verstorbenen nicht um den Beichtvaters des Kaisers, <persName>Pedro de Soto</persName>, gehandelt haben. Vgl. auch unten <ref target="file11919">Nr. 1873</ref>, 24-26.</note> (qui insignis nebulo fuit ac adversarius veritatis) et quorundam militum ad corporis sui tutelam conductorum.</s>
+					<s n="2" xml:lang="la" type="auto">Morbum autem, quo perierunt, eum dicunt esse, quo iam homines vel cito auferuntur, hoc est subitanea<note xml:id="fn5" type="footnote" n="5">Zu ergänzen: morte.</note>, vel ad insaniam rediguntur.</s>
+					<s n="3" xml:lang="la" type="auto">Pręterea pro certo dicunt multi caesarem iam undequaque sibi corradere pecunias et a mercatoribus <placeName>Augustanis</placeName> potissimum, tamen accepisse partim, partim vero expectare, supra 70 centenaria<note xml:id="fn7" type="footnote" n="7">Zentner.</note> pondo talerorum, quorum centenarium pondo contineat 1600 florenos, et pro sorte 100 talerorum eum dare usuram 16 fl.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Omnia ista in usum bellicum contra Gallum<note xml:id="fn8" type="footnote" n="8"><persName>König Franz I.</persName></note>, cuius ipse iam fecialem captum tenet,<note xml:id="fn9" type="footnote" n="9">Zur Festnahme und Ausweisung des französischen Herolds <persName>François Maillart</persName> s. oben <ref target="file11902">Nr. 1856</ref>, 27 mit Anm. 16.</note> sed sua ipsius culpa et perfidia.</s>
+					<s n="5" xml:lang="la" type="auto">In religionis negotio promovendo<pb type="edition" next="123"/> nihil nobis ab hominibus praesertim divinorum contemptoribus polliceri audemus.</s>
+					<s n="6" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> contra <persName>Latomum</persName> scribit libellum, qui habiturus est circiter 25 folia“, etc.</s>
+					<s n="7" xml:lang="la" type="auto">Reliqua <persName>Myconius</persName><note xml:id="fn11" type="footnote" n="11">Vgl. <persName>Myconius</persName>' Brief vom folgenden Tag, unten <ref target="file11912">Nr. 1866</ref>.</note>.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Mitto hic carmen<note xml:id="fn12" type="footnote" n="12">Gemeint ist wohl das sapphische Gedicht von <persName>Johannes Winter</persName>, das <persName>Ambrosius Blarer</persName> am 26. März an Bullinger zurücksandte; s. unten <ref target="file11929">Nr. 1883</ref>, 26-28.</note>, quod communicabis bonis amicis et fratribus et postea remitte; nam aliud apud nos non est.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName>.</s>
+					<s n="10" xml:lang="la" type="auto">11. martii 1544, <placeName>Basileę</placeName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="de" type="auto">Dem wurdigen und wolgelerten hernn Meister Heinrich Bullinger, pfarhernn zuͦ Zurich, mynem lieben herrnn.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

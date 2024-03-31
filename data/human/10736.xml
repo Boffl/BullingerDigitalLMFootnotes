@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10736" type="Brief" source="HBBW" n="698">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 12. Dezember 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Te, te inquam, expectabamus d. <persName>Grynęus</persName> et ego <placeName>Araugiae</placeName><note xml:id="fn1" type="footnote" n="1">Zum <placeName>Aarauer</placeName> Theologenkonvent vom 1. Dezember 1535 s. oben <ref target="file10728">Nr. 690</ref>, Anm. 3.</note>, non quidem quod reliquos simus aversati, sed quod totum, cuius causa convenimus, ad te non inter postremos pertinebat.</s>
+					<s n="3" xml:lang="la" type="auto">Verum quia res aliter cecidit, scire percupio, quid tibi videatur de confessione, quam verbis tam brevibus tamque claris ac simplicibus statuimus<note xml:id="fn2" type="footnote" n="2">"Confessio ecclesiae Tigurinae et Basileiensis", Zürich StA, E II 337, 116v., gedruckt in: Ernst <hi>Bizer,</hi> Studien zur Geschichte des Abendmahlsstreits im 16. Jahrhundert, Gütersloh 1940 (Nachdruck: Darmstadt 1962), S. 90, Anm. 5.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Nihil hic video mutatum de sententia, quam usque adhuc servavimus, nisi quod verba decurtavimus, hoc ipsum tamen non sine ratione, quam expositam vidisti<note xml:id="fn3" type="footnote" n="3">Der Abendmahlsformel ist eine "expositio aut ratio confessionis" angefügt (s. ebd.).</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Adversarii sunt callidi, quibus visum est simplicitate contraeundum.</s>
+					<s n="6" xml:lang="la" type="auto">Concordiae authores a quibusdam notantur inconstantiae, quamobrem et cum his per veritatis claritatem agendum esse, dum deus dederit, putavimus.</s>
+					<s n="7" xml:lang="la" type="auto">Igitur melius et verius quidpiam condere nobis non licuit.</s>
+					<s n="8" xml:lang="la" type="auto">Equidem dum rem magis magisque repeto, magis ac magis placet, et mirari incipio, an habenti fidem possit displicere, quisquis ille tandem sit.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Caeterum de conventu communi superiorum ecclesiarum urget nos <persName>Capito</persName><note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file10701">Nr. 663</ref>, 22-25 und <ref target="file10711">Nr. 673</ref>, 33; ein jüngeres Schreiben <persName>Capitos</persName> (s. unten Z. 28) ist verloren.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Ego quidem illud video, rem facile confectum iri, modo tui et <placeName>Bernenses</placeName> consentiant.</s>
+					<s n="11" xml:lang="la" type="auto">Non eucharistiam, sed utilitatem ecclesiarum communem causari oportet atque illam non excludere tamen.</s>
+					<s n="12" xml:lang="la" type="auto">Aderunt enim ex laicis, si convenerimus, sine dubio, coram quibus nihil non tractabitur.</s>
+					<s n="13" xml:lang="la" type="auto">Quocirca dispiciendum mox ab initio, ut caute cum eis agamus, ne moti reddantur magis.</s>
+					<s n="14" xml:lang="la" type="auto">Quod sunt, hoc est meticulosi.</s>
+					<s n="15" xml:lang="la" type="auto">Si vera sunt, quae dicuntur de <placeName>Mediolano</placeName><note xml:id="fn5" type="footnote" n="5">Am 1. November war der Herzog von <placeName>Mailand</placeName>, <persName>Francesco II. Sforza</persName>, gestorben; vgl. Thomas B. <hi>Deutscher,</hi> in: <bibl>Contemporaries</bibl> III 243f.</note>, tempus esset profecto conveniendi nunc.</s>
+					<s n="16" xml:lang="la" type="auto">Post natalem domini nanque, levitas aeris ubi fuerit percepta, volabunt milites sursum deorsum, ut itinera non sint omnibus pervia<pb type="edition" next="466"/> sine periculo.</s>
+					<s n="17" xml:lang="la" type="auto">Festinandum igitur videtur.</s>
+					<s n="18" xml:lang="la" type="auto">Propediem sciemus etiam de magistratu, quid rei sit.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Reliqua sunt: Qui has tibi reddit, <persName>Lamberti</persName> illius dicit se fratrem fuisse.</s>
+					<s n="20" xml:lang="la" type="auto">Videtur bonus vir esse; an sit, nescio.</s>
+					<s n="21" xml:lang="la" type="auto">Effeci, ut duobus aureis sit hic donatus.</s>
+					<s n="22" xml:lang="la" type="auto">Polliciti sumus autem, si redierit ad nos, hominem nos [ad]tempus non deserturos.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Pręterea scribit <persName>Capito</persName> in postremis ad me literis<note xml:id="fn8" type="footnote" n="8">Nicht erhalten.</note> Anglum in hoc esse praecipua legatione, ut Gallum (quem audio a domino horrende visitatum<note xml:id="fn10" type="footnote" n="10">Zur Erkrankung des französischen <persName>Königs Franz I.</persName> vgl. oben <ref target="file10711">Nr. 673</ref>, Anm. 17.</note>) in nassam compellat evangelicam.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto"><pb type="edition" next="467"/>Smalcaldi regum ut minimum trium legationes sunt: <persName>Angli</persName><note xml:id="fn11" type="footnote" n="11">Zu dieser Gesandtschaft, der <persName>Edward Fox</persName>, <persName>Nicholas Heath</persName> und <persName>Robert Barnes</persName> angehörten, vgl. Friedrich <hi>Prüser,</hi> England und die <placeName>Schmalkaldener</placeName> 1535-1540, Leipzig 1929. -QFRG XI, S. 19-38.</note>, Scoti<note xml:id="fn12" type="footnote" n="12">Von einer Gesandtschaft König Jakobs V. zum Bundestag von <placeName>Schmalkalden</placeName> ist nichts bekannt. Vielleicht handelt es sich um eine Verwechslung; zu erwarten wäre an dieser Stelle eine Erwähnung des französischen Gesandten <persName>Guillaume du Bellay</persName>.</note> et Dani<note xml:id="fn13" type="footnote" n="13">Als Unterhändler Christians III. hielten sich <persName>Melchior Rantzau</persName> und <persName>Peter Schwabe (Suave)</persName> in <placeName>Schmalkalden</placeName> auf, vgl. <hi>Waitz,</hi> Lübeck III 221. 269f.</note>, pręter principes evangelio faventes valde multos.</s>
+					<s n="25" xml:lang="la" type="auto">Res serias tractare feruntur, inter prima vero de proscriptione Francfordensium<note xml:id="fn14" type="footnote" n="14">Neben Maßnahmen gegen die Kammergerichtsprozesse beschloß der Bundestag die Aufnahme von Beitrittsverhandlungen mit <placeName>Frankfurt</placeName>, vgl. <hi>Jahns</hi> 317-382.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Expectandum, quid novus annus nobis laturum [!] sit.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vale et diu vive cum tuis et cum observandissimo <persName>Utingero</persName> nostro.</s>
+					<s n="28" xml:lang="la" type="auto">Salutabis fratres omnes diligenter.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 12. decembris anno 35.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="31" xml:lang="la" type="auto">Domino Heinricho Bullingero, Tigurinorum ecclesiastae primo, fratri in domino charissimo suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

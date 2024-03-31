@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11936" type="Brief" source="HBBW" n="1890">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 9. April [1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Lieber und guͦter freund, es ist nächt<note xml:id="fn2" type="footnote" n="2">gestern Abend, letzte Nacht.</note> widerumb bottschafft von <placeName>Spyr</placeName><note xml:id="fn3" type="footnote" n="3">Vom Reichstag zu <placeName>Speyer</placeName>.</note> kummen, und stadt die sach gantz gefarlich.</s>
+					<s n="2" xml:lang="de" type="auto">Die chur- und fürsten habend k. m.<note xml:id="fn4" type="footnote" n="4"><persName>Karl V.</persName></note> bewilligt 24000 zuͦ fuͦß und 4000 zuͦ roß in iren kosten zuͦ erhalten<note xml:id="fn5" type="footnote" n="5">Vgl. <ref target="file11932">Nr. 1886</ref>, 43.</note>.</s>
+					<s n="3" xml:lang="de" type="auto">Die sölle sin maiestat und der römisch könig<note xml:id="fn6" type="footnote" n="6"><persName>Ferdinand I.</persName></note> teylen uff den Franzosen<note xml:id="fn7" type="footnote" n="7"><persName>Franz I.</persName></note> und die Türggen, wie es inen amm gelägnisten ist.</s>
+					<s n="4" xml:lang="de" type="auto">Daruff ist ouch die teylung beschähen, das der keysser nemmen wirt 16000 ze fuͦß und 3000 zuͦ roß; die überigen 8000 zuͦ fuͦß und 1000 ze roß wirt der könig in besatzung wider die Türggen nemmen<note xml:id="fn8" type="footnote" n="8">Siehe dazu die oben Anm. a erwähnte Triplik; s. RTA JR XV/3, <ref target="file10142">Nr. 112</ref>, S. 1018-1020, bes. 1019. Das entsprechende kaiserliche Mandat an <placeName>Konstanz</placeName> vom 24. Juni findet sich im dortigen Stadtarchiv, Ref. A. Fasc. 23, f. 250.</note>.</s>
+					<s n="5" xml:lang="de" type="auto">So wöllend genampt ständ und fürsten den Franzosen, von wägen das er sich zum Türggen<note xml:id="fn9" type="footnote" n="9"><persName>Sultan Suleiman I.</persName></note> xellet<note xml:id="fn10" type="footnote" n="10">gesellt hat.</note>, declarieren und uußschryben alls iren und gemeiner christenheyt vind<note xml:id="fn11" type="footnote" n="11">Feind.</note>.</s>
+					<s n="6" xml:lang="de" type="auto">So wirt man ylendts üch eydgnossen ouch vomm rych zuͦschryben und üch abmanen vomm Franzosen, wie ir wol verston werdent etc<note xml:id="fn12" type="footnote" n="12">Das Schreiben der in <placeName>Speyer</placeName> versammelten Reichsstände an die Eidgenossen wurde bereits am 2. April abgefasst; s. RTA JR XV/3 1020-1023, <ref target="file10143">Nr. 113</ref>.</note>.</s>
+					<s n="7" xml:lang="de" type="auto">Dorumb luͦgend, wie ir wyslich<note xml:id="fn13" type="footnote" n="13">weise.</note><pb type="scan" next="189v."/> handlind.</s>
+					<s n="8" xml:lang="de" type="auto">Dann an üwer antwurt wirt vast<note xml:id="fn14" type="footnote" n="14">sehr.</note> vil gelägen sin<note xml:id="fn15" type="footnote" n="15">Zur Antwort der Eidgenossen vom 29. April s. unten Anm. 25.</note>.</s>
+					<s n="9" xml:lang="de" type="auto">Gut eeren lüt im rych und günstig der eydgnoschafft redent gar vil darvon, das, so ir da nitt fürsichticklich handlend, das es vil anlassens<note xml:id="fn16" type="footnote" n="16">Gelegenheit, Grund (zu Auseinandersetzung).</note> bringen wirt.</s>
+					<s n="10" xml:lang="de" type="auto">Söllend ir eydgnossen üch von einanderen trännen und gespalltene antwurt gäben, so sterckend ir üwere mißgünstigen gar häfftig.</s>
+					<s n="11" xml:lang="de" type="auto">Söllend sich dann die ort in glyche fuͦßstapfen stellen, da die stond, die gällt genommen und vil iamers angericht, wirt vor gott und aller erbarckeit imm rych übel luten.</s>
+					<s n="12" xml:lang="de" type="auto">Und were vilicht das fuͦgcklichest, man gäbe ein allgemeine antwurt unvergriffenlich<note xml:id="fn17" type="footnote" n="17">unverbindlich, ohne den Rechten anderer vorzugreifen.</note> uff beide teyl.</s>
+					<s n="13" xml:lang="de" type="auto">Darvon ich wyter üch wyser und verständiger lüten gedancken und reden mitteylen wil etc.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto"><pb type="scan" next="E__II__357a-663"/>Wellt mir meinem günstigen her Rösten<note xml:id="fn18" type="footnote" n="18"><persName>Diethelm Röist</persName>.</note> vyl vyl dienst, guͦts und gruͦtz sagen.</s>
+					<s n="15" xml:lang="de" type="auto">Hapt mich allzeyt bruͤderlich für bevolchen.<pb type="edition" next="188"/></s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Ir wisst und gloubt nitt, wie ich mich wider meinen brauch reysß<note xml:id="fn19" type="footnote" n="19">bemühe.</note> und uͤb, unverzug dise ding zuͦerfaren und verstendiger leut guͦt beduncken darinn zuͦvernemmen.</s>
+					<s n="17" xml:lang="de" type="auto">Der treuw gott verleich zytlichen unnd ewigen friden durch Christum Jesum.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Ir söllt gewisß und ungezwyfellt sein, das ich mich kains wegs sparen will in erfarung<note xml:id="fn20" type="footnote" n="20">Ermittlung.</note>, ouch in zuͦschreibung alles des jhenigen, daran ich achten mag euch etwas gelegen sein.</s>
+					<s n="19" xml:lang="de" type="auto">Doch das mir sölichs nitt zuͦ nachtail raiche.</s>
+					<s n="20" xml:lang="de" type="auto">Des herr Laveters<note xml:id="fn21" type="footnote" n="21"><persName>Hans Rudolf Lavater</persName>.</note> seckelmaister halber, diewyl ir mir anzögen, das im nit weniger dann dem h. R[östen] zetrauwen,<note xml:id="fn22" type="footnote" n="22">Ein Brief Bullingers mit dieser Mitteilung ist nicht erhalten.</note> lasß ichs ouch geschechen, dann ich ewerm iudicio sovyl zuͦgib, das ir nunmehr uss erfarung der eweren wol muͦtmassen mögt, wem zuͦ trauwen seye oder nitt.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de" type="auto">Diß schreib ich zuͦ drey uren; hab zuͦ wol zuͦ funffen geschickt, kan kain potten ankomen.</s>
+					<s n="22" xml:lang="de" type="auto">Wellt gern, das ainer noch etwa wyt gieng und uff morn dunstag by euch were zytlich.</s>
+					<s n="23" xml:lang="de" type="auto">Ich will den brieff schliessen, dann ich hab wyter um ain boten usgeschickt, das ich inn nitt summe<note xml:id="fn23" type="footnote" n="23">aufhalte.</note>; darff kein stattbotten brauchen, argwon zuͦverhuͤten.</s>
+					<s n="24" xml:lang="de" type="auto">Will euch die horam uff den brieff schreiben<note xml:id="fn24" type="footnote" n="24">Auf dem im Original erhaltenen Briefteil findet sich keine entsprechende Notiz.</note>.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Datum f[eria] 4. post palmarum.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">AB.<pb type="scan" next="666f"/></s>
+				</p>
+				<p>
+					<note type="attachment">[1. Beilage gedruckt in: <bibl>Blarer BW</bibl> II 245f, (Teil von) Nr. 1073.]</note>
+					<note type="attachment">[2. Beilage:]</note>
+				</p>
+				<p>
+					<s n="27" xml:lang="de" type="auto"><pb type="scan" next="662r."/>Liebster herr und bruͦder, es langt an euch min gar fruntlich beger, wellt euch sovyl möglich erfaren by den jenigen, so gemainklich auff die täg von ewern herenn gesandt werden, ob sölich fäll ouch etwa fur gemain aidgnossen kommen und was von inen darinn gesprochen seye, was ouch noch hierinn verhoffelich<note xml:id="fn26" type="footnote" n="26">voraussichtlich.</note> by inen erlangt möchte werden; namlich das die elteren in oder usserhalb ainer aidgnoschafft testament uffrichtend und ettliche<pb type="edition" next="189"/> irer kind enterbend ausß kainer anderen ursach, dann das die kind inen yn iren kintlichen jaren gefolget und in clöster gangen, darnach aber, alls sy der sachen verstendig worden, widerum herausß gangen und in eestand kommen, darinn mitt kindlin von gott begabt sind.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="de" type="auto">Item, was in sölichem fall gesprochen worden, wa sich die kind usß unwissenhait der erbschafft verzygen<note xml:id="fn27" type="footnote" n="27">auf das Erbe verzichtet.</note> habend.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="de" type="auto">Item, wie es mitt den jhenigen gehalten werde, die sich nitt verzygen habend und danecht<note xml:id="fn28" type="footnote" n="28">dann doch.</note> enterbt werden von den elteren allain usß ursach wie obgemeldt.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="de" type="auto">Item, was man söliche testament gelten lasß, wa sy vorm camergricht oder hoffgricht zuͦ Rotwyl<note xml:id="fn29" type="footnote" n="29"><placeName>Rottweil</placeName>.</note> uffgericht werden.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="de" type="auto">Item, wie im falle, so sy vorm landtgricht uffgericht werden.</s>
+					<s n="32" xml:lang="de" type="auto">Und ob ir mir ettliche exempel kondten anzögen, wie man vor gmainen aidgnossen hierinn gehandelt und was man gsprochen hette; dann mir etwas daran gelegen von ains guͦten freunds<note xml:id="fn30" type="footnote" n="30">Unbekannt.</note> wegen, derhalb ich euch gantz vleyssig pitt, sovyl von minen wegen bemuͤet zesin und mir sölichs zuͦerfaren.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="de" type="auto"><pb type="scan" next="662v."/>Diß wollt ich euch nehermals<note xml:id="fn31" type="footnote" n="31">unlängst, beim letzten Mal.</note> zuͦgeschickt haben, aber in der yl ists mir abgefallen.</s>
+					<s n="34" xml:lang="de" type="auto">So bald ir mitt statten mögt, wellt mirs erfaren; muͦß nitt gleych bey disem botten sein.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse über Kopf zur Nachschrift:]</note>
+					<s n="35" xml:lang="la" type="auto">Bullingero suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

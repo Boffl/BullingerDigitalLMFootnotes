@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10027" type="Brief" source="HBBW" n="7">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Kappel am Albis] AN [Bartholomäus Stocker], Leo Jud, 17. April 1525</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">- - - turas.</s>
+					<s n="2" xml:lang="la" type="manual">Ecce copiae cornu<note xml:id="fn3" type="footnote" n="3">Vgl. Adagia, 1, 6, 2 (<bibl>LB</bibl> II 221f).</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Si interpretationi diffidis, en locum loco illustravimus.</s>
+					<s n="4" xml:lang="la" type="auto">Iudicet unctio<note xml:id="fn4" type="footnote" n="4">Vgl. 1 Joh 2, 20. 27.</note> potius quam carnis pollute tenebre.</s>
+					<s n="5" xml:lang="la" type="auto">An ne patres<pb type="edition" next="72"/> audire cupis?</s>
+					<s n="6" xml:lang="la" type="auto">Quis antiquior <persName>Tertulliano</persName><note xml:id="fn5" type="footnote" n="5">Siehe oben S. 55, Anm. 3 und 4.</note>?</s>
+					<s n="7" xml:lang="la" type="auto">Quis diligentior Lactantio?</s>
+					<s n="8" xml:lang="la" type="auto">Quis denique pientior et doctior <persName>Cypriano</persName>?</s>
+					<s n="9" xml:lang="la" type="auto">Rem fortassis novam aut inauditam causaris<note xml:id="fn8" type="footnote" n="8"><persName>Stockers</persName> Schreiben an Bullinger ist nicht erhalten.</note>; quid vero inaudita?</s>
+					<s n="10" xml:lang="la" type="auto">Quis unquam apostolorum panem hunc ita tractavit?</s>
+					<s n="11" xml:lang="la" type="auto">Quis unquam primitivae ecclesie eum dei loco habuit?</s>
+					<s n="12" xml:lang="la" type="auto">Unde, queso, has voces delatas dices: transubstantiatio [!], accidens, substantia, forma?</s>
+					<s n="13" xml:lang="la" type="auto">An non titulotenus christianum impostrice philosophia submersum Thomam<note xml:id="fn10" type="footnote" n="10"><persName>Thomas von Aquin</persName>, 1225-1274.</note> aut <persName>Scotum</persName><note xml:id="fn11" type="footnote" n="11"><persName>Johannes Duns Scotus</persName>, etwa 1270-1308.</note> olfacis?</s>
+					<s n="14" xml:lang="la" type="auto">Siccine odorandi organo privatus es, ut amodo nescias pium ab impio, peregrinum a domestico, aut denique aquam a vino secernere?</s>
+					<s n="15" xml:lang="la" type="auto">Persequtionem vero ob veritatem adeo abest, ut te vereri posse credam, ut ad apostolorum exemplum eius rei causa gaudere et exultare te iam iam spiritu videam.</s>
+					<s n="16" xml:lang="la" type="auto">Restat ergo, ut impietate adorandi abnegata vitam tuam ad litterarum praescriptum emendes.</s>
+					<s n="17" xml:lang="la" type="auto">Et quid impientius eidololatria?</s>
+					<s n="18" xml:lang="la" type="auto">Quis vero non tangit panis adorationem longe impudentissimam eidololatriam in iniuriam dei vergere?</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Audi, quid spiritus dei eidolatris promittat: «Et tertius angelus» etc. [Apk 14,9ff].</s>
+					<s n="20" xml:lang="la" type="auto">Ego (ut primo hoc moneam) nulla parte iis accedo, qui ita plane hunc librum abiiciunt; tanta enim mysteria et tam diligentem scripturarum citationem, tantam consolationem in cruce et tantam in eo deprehendo diligentiam in resurrectione explicanda, ut mirari nequeam, cur ydem [!] alii oculati Argi<note xml:id="fn13" type="footnote" n="13">Argus = der hundertäugige Wächter der Io, der Geliebten Jupiters. Gemeint sind alle strengen Kritiker und Gegner der Apokalypse.</note> non viderint.</s>
+					<s n="21" xml:lang="la" type="auto">Sed hec, ut exordinaria, ita rursus in orbem nobis redeundum.</s>
+					<s n="22" xml:lang="la" type="auto">Hoc docet<pb type="scan" next="||1v."/> apostolus<note xml:id="fn14" type="footnote" n="14">Der Apostel Johannes, nach kirchlicher Überlieferung Verfasser der Apokalypse.</note> fore imaginem quandam bestie, hoc<pb type="edition" next="73"/> est pape, quam qui adoraverit, signo in hoc, ut imagini ministrare possit, in manus assumpto [Apk 14,9], hoc est unctione episcopali, is sit passurus horrenda illa tormenta, quae recencet [!] apostolus.</s>
+					<s n="23" xml:lang="la" type="auto">Scilicet: «Bibiturus est is de vino ire» [Apk 14,10], hoc est, ira dei cadet in eum, ut in cecitate de peccato abeat in scelus et de scelere in nephas: Rom. 1 [18ff].</s>
+					<s n="24" xml:lang="la" type="auto">Inductus in eam falsa doctrina pape, que interim pietatis speciem habet; id quod Ioannes vocat «mixtum mero» [Apk 14,10], ad similitudinem Esaie: «Vinum tuum mixtum est aqua» etc. [Jes 1,22].</s>
+					<s n="25" xml:lang="la" type="auto">Quamquam non ignoro, quam aegre hec de sacramento sententia carni persuadeatur, neque mirum, cum tot a Christo ipso, cui et gratia et authoritas cum loquendi tum docendi aderat<note xml:id="fn16" type="footnote" n="16">Vgl. Mt 7,29.</note>, eo ipso tempore, cum eandem Camerinam [!] moveret, desciverint; ut legimus Ioan. 6 [66].</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Quartus iam annus agitur, ut nosti, quod huius sententiae esse incipio, et certe tantum me in hac causa torsi, ut ab hoc man veluti parum integre sanitatis pisciculus toties eiectus, sepissime de vita desperaverim.</s>
+					<s n="27" xml:lang="la" type="auto">Sed gratia deo, qui mihi ita meam pacavit conscientiam, ut nunc ne tantillum quidem, etiam cum totum [?] mare [?] importunissimis procellis sevit, animum meum ex [?]<pb type="edition" next="74"/> sacra [?] anchora<note xml:id="fn20" type="footnote" n="20">Vgl. Adagia, 1, 1, 24 (<bibl>LB</bibl> II 35f).</note> dimoveat.</s>
+					<s n="28" xml:lang="la" type="auto">Precorque deum, ut hanc tibi sententiam, si modo vera est, de qua re minime dubito, ceterisque fratribus ita adaperiat, ut vere, hoc est in spiritu incipiatis verum, solum et omnipotentem deum adorare [Joh 4,24].</s>
+					<s n="29" xml:lang="la" type="auto">Cui gloria et imperium semper [Mt 6,13].</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Sylvam [!] vero hanc, hoc est rudem et impolitam argumentorum congeriem sive materiam boni, queso, consule; nam nitidiora aut etiam copiosiora occupationes non permisere.</s>
+					<s n="31" xml:lang="la" type="auto">Tu ora pro me et ecclesia domini nostri Jesu Christi, ut eam quotidie magis adaugeat, ita ut dignum honorem et gloriam habeat.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Gratia tecum.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Ex eremo mea, 17. aprilis 1525.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Salutabis Wernhereum [!] <persName>Steiner</persName><note xml:id="fn21" type="footnote" n="21">Siehe oben S. 45, Anm. 1.</note> et alios in Christo fratres.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse, von Bullinger wahrscheinlich später daruntergesetzt:]</note>
+					<s n="35" xml:lang="la" type="auto">Erudito et vere pio viro <persName ref="p2305">Leoni Jud</persName>, fratri in Christo dilecto.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

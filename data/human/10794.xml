@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10794" type="Brief" source="HBBW" n="756">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Thomas Blarer (Blaurer) d.J. / Konstanz AN Heinrich Bullinger, 3. März 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Scribam Germanice, ne vocabulorum defectus negocium obscuret.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Es hebt sich, gunstiger, lieber herr Bullinger, ain spann ettlicher gult<note xml:id="fn2" type="footnote" n="2">Grundrenten, Abgaben (<bibl>SI</bibl> II 285f; <bibl>DRW</bibl> IV 1256-1260).</note> halb, welche die thomherren von <placeName>Costenz</placeName> ain parthy und mine herren alß verwalter der fabric<note xml:id="fn3" type="footnote" n="3">Gebäude, Vermögensmasse (<bibl>SI</bibl> I 636; <bibl>DRW</bibl> III 341).</note> ald<note xml:id="fn4" type="footnote" n="4">oder.</note> kirchenbuws hie im munster der ander tail vermainend<note xml:id="fn5" type="footnote" n="5">sich für berechtigt halten (<bibl>SI</bibl> IV 312).</note> intzeziechen.</s>
+					<s n="4" xml:lang="de" type="auto">Ist jerlicher guldt zwölff gold guldin, gemelter fabric zuͦgehorig, welche gegrundt ist uff ainen kornzehenden zuͦ Clotha<note xml:id="fn6" type="footnote" n="6"><placeName>Kloten</placeName> (Kt. Zürich).</note> nechst by Zurch, und zinssers <persName>Hans Conratt Escher</persName> den merertail und ettlicher zuͦ Clinga<note xml:id="fn8" type="footnote" n="8"><placeName>Klingnau</placeName> (Kt. Aargau).</note> by <pb type="edition" next="155"/>Zurzach och ettwas an berurten 12 fl.</s>
+					<s n="5" xml:lang="de" type="auto">Solchen zinß habent nach usstrettung<note xml:id="fn9" type="footnote" n="9">Auszug, Flucht (<bibl>SI</bibl> XIV 1478f).</note> unserer pfaffhait<note xml:id="fn10" type="footnote" n="10">Geistlichkeit, Klerus (<bibl>SI</bibl> V 1063f). - Das Domkapitel war 1526/27 im Gefolge der Reformation aus der Stadt <placeName>Konstanz</placeName> ausgezogen und hatte sich auf der andern Seeseite, in <placeName>Überlingen</placeName>, niedergelassen (vgl. <hi>Rublack,</hi> <placeName>Konstanz</placeName> 45f).</note> baid tail ingezogen, namlich nach dem Capler krieg<note xml:id="fn11" type="footnote" n="11">Gemeint ist der Erste Kappelerkrieg 1529.</note> ain statt <placeName>Costentz</placeName>, davor aber und sydhär dem nechsten krieg<note xml:id="fn12" type="footnote" n="12">seit dem letzten Krieg, d. h. dem Zweiten Kappelerkrieg von 1531 (vgl. auch <hi>Fabian,</hi> aaO, S. 124, Anm. 17).</note> habents die jhensid sees<note xml:id="fn13" type="footnote" n="13">diejenigen jenseits des Sees, d. h. die Domherren (vgl. oben Anm. 10).</note> intzogen; doch stond die nechst<note xml:id="fn14" type="footnote" n="14">zuletzt (<bibl>SI</bibl> IV 636).</note> verfallnen zwen zinß uss, welche wier an den <persName>Escher</persName> guttlich erfordt haben.</s>
+					<s n="6" xml:lang="de" type="auto">Der hatt sich uff ain e[rsamen] rat zuͦ Zurch gelendt<note xml:id="fn15" type="footnote" n="15">gestützt (<bibl>SI</bibl> III 1309).</note>, die habent minen herren, ainem rat hie, gschriben<note xml:id="fn16" type="footnote" n="16">Zürich an <placeName>Konstanz</placeName>, 22. Febr. 1536 (vgl. <hi>Fabian,</hi> aaO, S. 129f). <placeName>Konstanz</placeName> antwortete bereits tags darauf, wollte aber nichts entscheiden, da die Pfleger abwesend waren (vgl. ebd., S. 130; Original: Zürich StA, A 205. 1, <ref target="file10187">Nr. 156</ref>).</note>, das sich der <persName>Escher</persName> empiet<note xml:id="fn17" type="footnote" n="17">anerbiete (<bibl>SI</bibl> IV 1868f).</note>, er welle die här richten<note xml:id="fn18" type="footnote" n="18">an uns kommen lassen (vgl. <bibl>SI</bibl> VI 376-379).</note> doch das im mine herren versicherung geben, so er duͦrch ander ersuͦcht wuͦrd, nitt zuͦ schaden komm, und das wier in im selbigen schaden vertretten sölltend<note xml:id="fn19" type="footnote" n="19">haften, für den Schaden einstehen sollten (<bibl>SI</bibl> XIV 1482).</note>.</s>
+					<s n="7" xml:lang="de" type="auto">Habent unß och anzögt, das die stiffts herren sölche zinß vermainent inzeziechen, deshalb mier sy sollent antwuͦrt wissen lassen.</s>
+					<s n="8" xml:lang="de" type="auto">Es ist aber nitt bruchlich, solch schadlossbryff<note xml:id="fn20" type="footnote" n="20">schriftliches Versprechen, einen unvorhergesehen eintretenden Schaden zu ersetzen (<bibl>SI</bibl> V 465).</note> ze geben, dann es möcht unß verfuren<note xml:id="fn21" type="footnote" n="21">gefährden (<bibl>SI</bibl> I 982).</note> und erst in spenn pringen.</s>
+					<s n="9" xml:lang="de" type="auto">Aber ainer gewonlichen quittung halb mag man sich nitt sperren, sunst ist sorg, der <persName>Escher</persName> und sine mittverwandten<note xml:id="fn22" type="footnote" n="22">Mitbeteiligten (<bibl>Grimm</bibl> VI 2429).</note> wuͦrdent onersuͤcht<note xml:id="fn23" type="footnote" n="23">unbehelligt (<bibl>SI</bibl> VII 222).</note> von thomherren nitt pliben.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto"><pb type="edition" next="156"/>Dyß handels hab ich in guͦtem vertrauwen euch antzögen wellenn mitt pitt, wo ier das mitt komenlichait<note xml:id="fn24" type="footnote" n="24">ohne Mühe, unschwer (vgl. <bibl>SI</bibl> III 285).</note> thun köndtent, mier ze erfaren: So min herren rettig wuͦrdent, uff den underpfanden ier recht ze suͦchen<note xml:id="fn25" type="footnote" n="25">gerichtliche Beurteilung zu verlangen (<bibl>SI</bibl> VI 253f).</note> und der zinssen, so usstönd, rechticklich begären von wegen der fabric, welche bill[ich]<note xml:id="fn26" type="footnote" n="26">richtigerweise (<bibl>SI</bibl> IV 1167).</note> solten alß zum kirchen buw geordnette<note xml:id="fn27" type="footnote" n="27">bestimmte (<bibl>SI</bibl> I 440).</note> gulten in der<pb type="scan" next="||18"/> statt belibenn, ob wiers wider die inred der vermainten ansprach<note xml:id="fn28" type="footnote" n="28">gegen den Einwand des vermeintlichen Anspruchs.</note>, so die thomherren darzuͦ habent und on zwiffel ins recht schön dargeben<note xml:id="fn29" type="footnote" n="29">darstellen (<bibl>SI</bibl> II 93).</note> wuͦrdent, mochtent erhalten<note xml:id="fn30" type="footnote" n="30">behaupten (<bibl>SI</bibl> II 1232).</note>.</s>
+					<s n="11" xml:lang="de" type="auto">Dann solts uns abgesprochen werden, alß mier unß doch nitt versechent<note xml:id="fn31" type="footnote" n="31">was wir eigentlich nicht erwarten (<bibl>SI</bibl> VII 567f).</note>, were es besser nitt angefangen.</s>
+					<s n="12" xml:lang="de" type="auto">Es sind nitt hopt bryff<note xml:id="fn32" type="footnote" n="32">Originalurkunden (<bibl>SI</bibl> V 457).</note> vorhanden; dan es ain alt closterlechen ist, und hatt sich der <persName>Grebel</persName>, so vormals gezinsst hat, vor jaren beworben, das man in bryff ließ hören, warumb er den zinß gäb.</s>
+					<s n="13" xml:lang="de" type="auto">Es ist aber kein hoptbryff vorhanden gwesst<note xml:id="fn34" type="footnote" n="34">Zum Rechtsverfahren zwischen Domkapitel und <persName>Jakob Grebel</persName> im Jahre 1525 vgl. <hi>Fabian,</hi> aaO, S. 123.</note>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto">Schrib ich alles von underrichts<note xml:id="fn35" type="footnote" n="35">Information (<bibl>SI</bibl> VI 319f).</note> wegen, und wie wol ain kunfftig uͦrtail nitt guͦt ze erlernen<note xml:id="fn36" type="footnote" n="36">in Erfahrung zu bringen, abzuschätzen (<bibl>SI</bibl> III 1384).</note> ist, so mogt ir danocht byloffig und so vil sich gepürt wol etwas beschaids finden by guͦt vertruwten personen.</s>
+					<s n="15" xml:lang="de" type="auto">Desshalb an euch min pitt, ier welt euch des nitt beschweren<note xml:id="fn37" type="footnote" n="37">die Mühe auf euch nehmen.</note> und in gehaim nachfrag haben und dann<pb type="edition" next="157"/> furderlich mier dasselbig zuͦschriben.</s>
+					<s n="16" xml:lang="de" type="auto">Vernempt im besten, das ich euch mitt solchem bemug, es beschicht uß guͦtem vertruwen, und das<note xml:id="fn38" type="footnote" n="38">weil.</note> ich besser weg nitt haben mag.</s>
+					<s n="17" xml:lang="de" type="auto">Sunst solt ich euwer vil grosser und mherere<note xml:id="fn39" type="footnote" n="39">wichtigere (<bibl>SI</bibl> IV 362-364).</note> geschefft damitt nitt hindern.</s>
+					<s n="18" xml:lang="de" type="auto">Euch ze dienen, bin ich begierig.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Datum zuͦ <placeName>Costentz</placeName> in yl - dyser bott<note xml:id="fn40" type="footnote" n="40">Unbekannt.</note> wurt wider här gon - 3. martii 1536. jar.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto"><persName>Thoma Blarer</persName>, e[uwer] g[uͦter] fründ.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite des folgenden Blattes:]</note>
+					<s n="21" xml:lang="de" type="auto">Dem erwurdigen, wolgelerten hernn Hainrichen Bullinger, predicanten zu Zurch, minem gunstigen herren und liebenn frund.</s>
+					<s n="22" xml:lang="de" type="auto">Zurch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

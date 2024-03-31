@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11281" type="Brief" source="ET" n="287">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">John Butler, Nicholas Eliott, Nicholas Partridge (Perdix), Bartholomew Traheron (Trehernus) / London AN Konrad Pellikan (Kürschner), Leo Jud, Heinrich Bullinger, Theodor Bibliander (Buchmann), 8. März [1539]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Optimis et eruditissimis viris praeceptoribusque suis in Christo colendis, Conrado Pellicano, Leoni Judae, Henrico Bullingero, Theodoro Bibliandro, Joan.</s>
+					<s n="2" xml:lang="la" type="auto">Butlerus, Nicolaus Eliottus, Nicol. Partrigius, Barth. Trehernus, optant salutem per Christum Jesum.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Ut nos omnes ad vos una epistola scriberemus, viri ornatissimi, cum hoc in causa fuit, quod omnes simul Londini convenissemus, tum vero maxime, ut sciretis nos ita uno animo unaque mente conjunctos esse, ut ex pluribus factus sit quasi unus.</s>
+					<s n="4" xml:lang="la" type="auto">Rationes vero, quibus ad scribendum impulsi sumus, hae sunt; et ut nos rarissimae vestrae humanitatis eam memoriam praestare quam debemus declararemus, et ut vos non lateret vel noster privatus vel regni nostri status.</s>
+					<s n="5" xml:lang="la" type="auto">Ut autem in gratiis vobis agendis pro singularibus vestris in nos meritis multi simus, nec rei magnitudo nec vestra humanitas patitur.</s>
+					<s n="6" xml:lang="la" type="auto">Hoc solum dictum esto, nos re tantum vestra gratia praestituros (si id forte requiretis) quantum erit nostrarum facultatum.</s>
+					<s n="7" xml:lang="la" type="auto">Ad regni nostri statum venimus, qui talis est.</s>
+					<s n="8" xml:lang="la" type="auto">Ceremoniae tolerantur, sed additae sunt significationes, ut jam aqua (ut vocant) benedicta nihil aliud quam refricet nobis memoriam aspersi sanguinis Christi; panis ille fractionem significet ejusdem corporis; pax, quae circumferri solet, ponat ob oculos reconciliationem Dei et hominum.</s>
+					<s n="9" xml:lang="la" type="auto">Haec seditionis evitandae causa fiunt, et tam diu tolerari jubentur, donec rex ipse vel tollat vel mutet.</s>
+					<s n="10" xml:lang="la" type="auto">De conjugio sacerdotum nihil adhuc successit, quanquam sunt qui apud regem hac de re liberrime concionati sint.</s>
+					<s n="11" xml:lang="la" type="auto">Missa sacrificium pro vivis et mortuis non asseritur, sed repraesentatio passionis Christi.</s>
+					<s n="12" xml:lang="la" type="auto">Statuae quaecunque coluntur tolluntur.</s>
+					<s n="13" xml:lang="la" type="auto">Non dubitamus quin audieritis, eos apud nos succisos esse, qui papatui maxime faverint, nempe marchionem Excestriae, comitem Salisburiae Montacutum, clarissimum equitem, sed hominem pessimum, Edoardum Nevillum.</s>
+					<s n="14" xml:lang="la" type="auto">Nuper etiam animadversum est in Nicolaum Caroum, qui regis equis praefuerat.</s>
+					<s n="15" xml:lang="la" type="auto">Is, regis jussu supplicium aditurus, adhortatus est omnes ad diligentem lectionem evangelicorum librorum; se enim ad tam foedam mortem pervenisse, quod abhorruerit (fuit enim papisticae religioni addictissimus) ab evangelio.</s>
+					<s n="16" xml:lang="la" type="auto">Rumor est nobis bellum futurum cum Gallis, cum Italis, cum Hispanis, cum Scotis uno atque eodem tempore.</s>
+					<s n="17" xml:lang="la" type="auto">Cum istorum clandestinae machinationes ad regem nostrum perlatae fuissent, dicebat se nihilo pejus dormiturum; postero etiam die apud consiliarios suos affirmabat, se tacitis quibusdam stimulis magis quam unquam antea ad propagandum verbum Dei instigari.</s>
+					<s n="18" xml:lang="la" type="auto">Papa quidem et tres mercatores Anglos in Hispania exurendos curavit, et remissionem peccatorum concessit omnibus quicunque haereticum Anglum occiderint.</s>
+					<s n="19" xml:lang="la" type="auto">Vos pro nobis Deum rogabitis, ne permittat homines dementes servis suis insultare.</s>
+					<s n="20" xml:lang="la" type="auto">Habemus regem maximi et amplissimi spiritus, rei militaris ad miraculum usque peritum.</s>
+					<s n="21" xml:lang="la" type="auto">Habemus populum, ut speramus, satis regi suo obedientem, postquam amputata sint proditionis ipsa (ut scitis) capita.</s>
+					<s n="22" xml:lang="la" type="auto">Si vestrae preces accesserint, non dubitamus quin omnia recte sint habitura.</s>
+					<s n="23" xml:lang="la" type="auto">Nunc pauca de nostro statu accipite.</s>
+					<s n="24" xml:lang="la" type="auto">Joannes Butlerus ad vos venturus nisi his belli nunciis retractus fuisset.</s>
+					<s n="25" xml:lang="la" type="auto">Eadem causa Nicolaum Partrigium a nundinis <placeName>Francofordiensibus</placeName> retinuit.</s>
+					<s n="26" xml:lang="la" type="auto">Joannes quidem, si vellet, posset honesto loco esse apud regem; sed musarum amore delectatus, ab aula abhorrere videtur.</s>
+					<s n="27" xml:lang="la" type="auto">Nicolaus Eliottus juri nostro municipali dat operam, regis munificentia non parum adjutus.</s>
+					<s n="28" xml:lang="la" type="auto">Bartholomaeus Trehernus D. Crumwelli famulus est; Nicolaus Partrigius docti et pii viri episcopi Sancti Davidis in Wallia.</s>
+					<s n="29" xml:lang="la" type="auto">Erit autem a sacris praelectionibus, donec illi melius consuli possit.</s>
+					<s n="30" xml:lang="la" type="auto">Ab uxoribus adhuc liberi sumus omnes Haec de nostro statu.</s>
+					<s n="31" xml:lang="la" type="auto">Ad te, Bullingere optime, episcopus Cantuariensis se scripturum pollicitus est, qui nunc totos est et in populo docendo st in excogitandis orationibus quibusdam Anglicis, quibus sacerdotes nostri vice Latinarum, quas hactenus in templis more psittacorum permurmuraverunt, usuri sint.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Redditae sunt literae Bibliandr nostri episcopo Wigorniensi, quem arbitramur rescripturum.</s>
+					<s n="33" xml:lang="la" type="auto">Boni consulite, doctissimi viri, haec extempoxaliter scripta, et valete.</s>
+					<s n="34" xml:lang="la" type="auto">Uxoribus vestris et amicis nostris omnibus nostro nomino plurimam salutem dicetis.</s>
+					<s n="35" xml:lang="la" type="auto">8 die Martii (1539, Londini.) JOANNES BUTLERUS, Vester totus.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">NICOLAUS ELIOTTUS, Vester.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">NICOLAUS PARTRIGIUS, Vester.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">BARTHOLOMAUS TREHERNUS, pro viribus.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Pietatis et eruditionis nomine clarissimo viro D. Henrico Bullingero, praeceptori suo inprimis observando dentur hae literae.</s>
+					<s n="40" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="el" type="manual">Εὐόδωσον δή.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

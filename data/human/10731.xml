@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10731" type="Brief" source="HBBW" n="693">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Leo Jud, Heinrich Bullinger, 30. November 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Bullingeri, charissimi nostri fratris, scripta<note xml:id="fn1" type="footnote" n="1">Nicht erhalten, vgl. oben <ref target="file10728">Nr. 690</ref>, 1-3.</note> novembris penultima sub noctem accępimus, unde non modico męrore affecti - quod petitis, satisfacere non datum est.</s>
+					<s n="3" xml:lang="la" type="auto">In tempore enim dies indicta insinuata si fuisset, per nos nequaquam neglecta foret.</s>
+					<s n="4" xml:lang="la" type="auto">Consilium enim habendi conventus, praesertim fratrum in Helvecia Christum profitentium, a nobis summopere probatur; ut fiat, et brevi quidem, obnixe rogamus.</s>
+					<s n="5" xml:lang="la" type="auto">Opere precium - quid dico?</s>
+					<s n="6" xml:lang="la" type="auto">- e re ecclesiarum nostrarum esse videtur, ut de veritate inter nos conveniat et ad eventum omnem confirmetur.</s>
+					<s n="7" xml:lang="la" type="auto">Quin igitur hac vice negotium[?] non successit, fratres charissimi, alia a vobis erit indicenda dies illaque per certum nuncium et in tempore significanda nobis.</s>
+					<s n="8" xml:lang="la" type="auto">Locus Aroae<note xml:id="fn2" type="footnote" n="2"><placeName>Aarau</placeName> (Kt. Aargau).</note> ut omnibus fere nobis aptus non displicet.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto"><placeName>Bernę</placeName>, ultima novembris anno 35.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><persName>Megander</persName>, totus ex animo vester.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p2305">Leoni</persName>, Bullingero Tigurinis, fratribus suis in domino charissimis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

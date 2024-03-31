@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10782" type="Brief" source="HBBW" n="744">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Sulzer / Bern AN Heinrich Bullinger, 11. Februar 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Etsi intempestivus fortasse interpellator sum occupationum tuarum, suavissime Bullingere, facit tamen insignis ille tuus in <persName>Berchtoldum</persName> nostrum<note xml:id="fn1" type="footnote" n="1"><persName>Berchtold Haller</persName>.</note> et me quoque amor, ut non possim non subinde literis meis adpellare, maxime, quando communis amicus noster posthac, ut vereor, a scriptione vacare habet necessum, a quo postremis tuis literis<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> tam ardenter rerum nostrarum statum significari tibi subinde cupiebas.</s>
+					<s n="3" xml:lang="la" type="auto">Itaque lampada hanc ab ipso capiens<note xml:id="fn3" type="footnote" n="3">Vgl. Adagia, 1, 2, 38 (<bibl>LB</bibl> II 84f).</note> operam dare institui, ut si minus graviter et erudite, certe optima fide, quae mihi quidem constant, omnia faciam nota tibi, quem et gnarum esse nostrarum rerum esse expedit et vel peculiariter nostri causa angi pro singulari in ecclesiam dei studio nihil dubito simul etiam certo persuasus aequi bonique consulturum, quae a <persName>Sultzero</persName> tuo proficiscuntur.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Ergo de exercitu nostro sic accipe, nempe hactenus eum progredi constanter<note xml:id="fn4" type="footnote" n="4">Zum Vormarsch der bernischen Truppen auf <placeName>Genf</placeName> s. <hi>Gilliard,</hi> Conquête 76-99.</note> arcibus plus minus 25 captis et exustis, quarum unam, insignem illam praedatoriam Binee<note xml:id="fn5" type="footnote" n="5">Schloss <placeName>Peney</placeName> (Kt. <placeName>Genf</placeName>), der Sitz der aus <placeName>Genf</placeName> vertriebenen "Banditen".</note> nomine, <placeName>Gebennenses</placeName> ipsi occupaverunt, cui parsum<pb type="edition" next="121"/> est, et aliis quibusdam illustrioribus, quas senatus noster funditus tollendas omnes decrevit<note xml:id="fn7" type="footnote" n="7">Insbesondere hatte der <placeName>Berner</placeName> Rat ausdrücklich angeordnet, das Schloss <placeName>Gex</placeName> niederzubrennen; vgl. <hi>Gilliard,</hi> Conquête 103.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Biduum <placeName>Gebennis</placeName> haeserunt nostri<note xml:id="fn8" type="footnote" n="8">Die bernischen Truppen waren am 2. Februar in <placeName>Genf</placeName> angekommen und am 5. weitergezogen; vgl. Registres du Conseil, aaO, S. 421-427; <hi>Gilliard,</hi> Conquête 139f.</note> ad audiendos passim nobiles et comites, quorum haud parum multi supplices se nostris dediderunt<note xml:id="fn9" type="footnote" n="9">Zur Huldigung mehrerer Edelleute aus der Umgebung von <placeName>Genf</placeName> vgl. <hi>Mülinen,</hi> Kriegsberichte 260; Registres du Conseil, aaO, S. 431, Anm. 1.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Interim a <placeName>Gebennensibus</placeName> vidonatum<note xml:id="fn10" type="footnote" n="10">Vicedominat; vgl. <bibl>HBLS</bibl> VII 281.</note> et episcopatum sibi tradi nostri petierunt<note xml:id="fn11" type="footnote" n="11">Siehe Registres du Conseil, aaO, S. 427.</note> <foreign xml:lang="de">als denen, die es mit dem schwert gewonnen.</foreign></s>
+					<s n="7" xml:lang="la" type="auto">Quam responsionem nondum rescivi ego, cum <placeName>Gebennenses</placeName> deliberandi tempus sibi sumpserint.</s>
+					<s n="8" xml:lang="la" type="auto">Castra autem mota sunt versus Camrach<note xml:id="fn13" type="footnote" n="13"><placeName>Chambéry</placeName> (Dép. Savoie, Frankreich).</note> urbem, sedem et palatinam aulam reguli, inquisituri recta hostem, quem eo loci delitescere fama est, quamquam plures invenias, qui neminem obstaturum arbitrentur tantopere consternato deiectoque ipso duce<note xml:id="fn14" type="footnote" n="14">Herzog <persName>Karl III. von Savoyen</persName>.</note> consiliique tam inope, quippe cui nihil unquam tam praeter omnem spem et expectationem evenerit atque hoc bellum plane existimanti ita proxima funestaque clade<note xml:id="fn15" type="footnote" n="15">Gemeint ist wohl der zweite Kappelerkrieg von 1531.</note> perculsos nihil contra ipsum hostiliter ausuros esse, atque utinam in ea sententia non a fautoribus suis, quos hic habet - egregie habet <foreign xml:lang="el">ἀλλοβρογίζοντας</foreign> - confirmatus sit!</s>
+					<s n="9" xml:lang="la" type="auto">Et sane, ut nosti, ea erat facies rerum, tantae undique minae, ut nequaquam dissimulanter senatus incommoditate aut etiam impossibilitate rei deterritus prae se tulerit quidvis potius admissurum quam bellum, donec partim hostium mendaciis, periuriis, fraude, partim oppressorum miseratione, denique etiam proprio periculo grassaturo mox hoste victus in subitum belli fervorem veluti numine quodaminstinctus exarsit usque adeo vel hinc cernitur <foreign xml:lang="el">τὰ τῶν ἀρχόντων γήθεα</foreign> in manu domini esse.</s>
+					<s n="10" xml:lang="la" type="auto">Itaque qua alacritate decretum est bellum, eadem geritur summa concordia et pietate, quae quidem in castris esse potest, inter ipsos durante.</s>
+					<s n="11" xml:lang="la" type="auto">Absunt ludi, scorta, rapinae, crudelitas omnis, ut qui ne villam quidem attigerint, cum statim ad rumorem belli omnia incendio et populatione vastanda timuerint miseri.</s>
+					<s n="12" xml:lang="la" type="auto">Atque eius clementiae fama non <placeName>Sabaudam</placeName> solum plebem conciliat nostris, sed et adversarios percellit iam nunc belli eventum ex minime inauspicatis omnibus coniectantes.</s>
+					<s n="13" xml:lang="la" type="auto">Quae causa est, cur vicini passim nostri,<pb type="edition" next="122"/> qui nihil ad terrendos nos reliqui sibi fecerant, cristas submiserint<note xml:id="fn16" type="footnote" n="16">Vgl. Adagia, 1, 8, 69 (<bibl>LB</bibl> II 324).</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Nam Friburgenses ad exortum belli<pb type="scan" next="||345"/> literis significaverant, si quispiam non solum suae ditionis, sed alibi etiam agens in aere suo existens lęderetur, <foreign xml:lang="de">söltend wir sächen, das sy es in höchsten ungnaden weltend uffnemmen<note xml:id="fn17" type="footnote" n="17"><placeName>Freiburg</placeName> an <placeName>Bern</placeName>, 18. Januar 1536, <bibl>EA</bibl> IV/1c 609, Nr. 4; vgl. <hi>Gilliard,</hi> Conquête 67f.</note>.</foreign></s>
+					<s n="15" xml:lang="la" type="auto">Quae tam insana scriptio risu a nostris excepta est paucisque responsum<note xml:id="fn18" type="footnote" n="18"><placeName>Bern</placeName> an <placeName>Freiburg</placeName>, 19. Januar 1536, <bibl>EA</bibl> IV/1c 609f, Nr. 7; vgl. <hi>Gilliard,</hi> Conquête 68.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Hi, inquam, tam feroculi beneficiis nostrates, si qui rem istic habent, afficiunt.</s>
+					<s n="17" xml:lang="la" type="auto">Quin ipsi quoque inter se digladiantur contenduntque verbis, autores resignandae civitatis<placeName>Gebennensibus</placeName> criminantur ut causam maximi incommodi existentes.</s>
+					<s n="18" xml:lang="de" type="auto">Es were inen <persName>Vivis</persName> und Remund träffenlich wol gelägen<note xml:id="fn20" type="footnote" n="20"><placeName>Freiburg</placeName> erwog die Besetzung von <placeName>Vevey</placeName> und <placeName>Romont</placeName> und gelangte deshalb am 10. Februar an <placeName>die V Orte</placeName>; s. <bibl>EA</bibl> IV/1c 637, Nr. 1.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Sed et Salodorenses nihil magis mirantur atque adeo dolent etiam se non in societatem huius belli vocatos esse.</s>
+					<s n="20" xml:lang="la" type="auto">Usque adeo facile vel cum mediocri fortuna mutantur animi.</s>
+					<s n="21" xml:lang="la" type="auto">Porro, quod quidam Helvetiorum pagi una cum vestris auxilium suum, si res poscat, detulerunt<note xml:id="fn21" type="footnote" n="21"><persName>Sulzer</persName> bezieht sich wohl auf das Vermittlungsangebot, das eidgenössische Gesandte dem <placeName>Berner</placeName> Rat am 10. Februar vortrugen; vgl. <bibl>EA</bibl> IV/1c 629 II.</note>, gaudemus ob specimen egregiae voluntatis et animi minime alienati.</s>
+					<s n="22" xml:lang="la" type="auto">Sed quod hoc helium attinet, copiarum abunde satis esse speramus, etsi cum potentiore principe congrediendum foret.</s>
+					<s n="23" xml:lang="la" type="auto">Iustus enim, non tumultuarius est exercitus selectissimos viros habens, <foreign xml:lang="el">ὄζους Ἄρηος</foreign><note xml:id="fn22" type="footnote" n="22">Vgl. Homer, Ilias 2, 540 u.ö.</note>, haud dubiam reportaturos victoriam, nisi peculiariter denuo nos virga sua corripere instituat dominus, quem tamen certo confidimus respecturum misericorditer nos, non ob nostra quidem merita, sed nominis sui gloriam.</s>
+					<s n="24" xml:lang="la" type="auto">Proinde, mi Bullingere patrone, bono animo esse te iubeo et bene sperare non solum spem ipsam, sed spei etiam causam intuentem.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Caeterum, quod fere praeterieram, <placeName>Seduni</placeName><note xml:id="fn23" type="footnote" n="23"><placeName>Sitten</placeName> (Kt. <placeName>Wallis</placeName>).</note> his diebus ad arma prosilierunt<note xml:id="fn24" type="footnote" n="24">Zur Beteiligung des <placeName>Wallis</placeName> an der Eroberung des <placeName>Chablais</placeName> vgl. <hi>Gilliard,</hi> Conquête 109-115.</note> ac sex millium exercitu cis lacum in <placeName>Sabaudi</placeName> fines fecerunt impetum, nempe occupaturi istic, quae nostris sese nondum dediderunt (nam in ulteriore tantum lacus parte exercitus noster transivit et, quae obvia fuerunt, occupavit).</s>
+					<s n="26" xml:lang="la" type="auto">Itaque mox literis legatisque ad nostros missis<note xml:id="fn25" type="footnote" n="25">Die Rede ist offenbar von den am 8. Februar in <placeName>St-Julien</placeName> zwischen <placeName>Berner</placeName> und <placeName>Walliser</placeName> Offizieren geführten Verhandlungen, in deren Vorfeld bereits Briefe gewechselt worden waren; vgl. <bibl>EA</bibl> IV/1c 624; Anshelm VI 263f; <hi>Gilliard,</hi> Conquête 113f.</note> se non adversarios, sed amicos<pb type="edition" next="123"/> atque belli socios venisse sancte testati sunt; communicaturos suos duces, quos habent viros non plane impios, cum nostris sua consilia, quippe qui iniuriam acceptam a <placeName>Sabaudianis</placeName> ob abreptam vi pecuniam, quam pro sale comparando miserant, occisosque negociatores vindicare hac occasione instituerint tantum orantes, ne ipsis repugnemus, citra fraudem et dolum acturos omnia.</s>
+					<s n="27" xml:lang="la" type="auto">Quibus ad senatum nostrum relatis, etsi non tam justa causa aliqua aut in <placeName>Sabaudum</placeName> odio quam cupiditate ditionis suae propagandę impulsos intelligat, censuit tamen amice tractandos et minime aversandos esse, licet interim exercitus non coniungant nostris, quo destinarunt, progredientibus.</s>
+					<s n="28" xml:lang="de" type="auto">Was land sy furhin gwinnend, wellend min h[erren] mitt den <placeName>Wallisseren</placeName> theilen.</s>
+					<s n="29" xml:lang="la" type="auto">Itaque cum ad arma ventum sit, non horreo ego quidem illos vel ob eam causam, ut si vel caesar<note xml:id="fn27" type="footnote" n="27"><persName>Karl V.</persName></note> quid minatus est vel alius quicunque princeps ad vindictam se paret, intelligat etiam adversae religionis homines in societatem belli venisse eoque minus distingui nos posse, sed si maior aliqua belli moles adpareat, Helvetiam totam ad arma procursuram.</s>
+					<s n="30" xml:lang="la" type="auto">Quanquam neminem fore adversarium hac in re, dum nihil aliud quam <placeName>Gebennensibus</placeName> solida pax quaeritur, arbitrentur etiam ii, qui istinc veniunt.</s>
+					<s n="31" xml:lang="la" type="auto">Dux enim gravissimo morbo implicitus in extremis laborat<note xml:id="fn28" type="footnote" n="28">Von einer Erkrankung Karls III. ist sonst nichts bekannt.</note> filio haud ita pridem apud caesarem extincto<note xml:id="fn29" type="footnote" n="29">Auch hier scheint es sich um ein falsches Gerücht zu handeln.</note>, et quo maxime fidebat, aliis periculis involvitur a sororio<note xml:id="fn30" type="footnote" n="30"><persName>Franz I.</persName>, König von Frankreich.</note> impendentibus.</s>
+					<s n="32" xml:lang="la" type="auto">Cui ne nos iungeremur, misit legatum<pb type="scan" next="||346"/> suum<note xml:id="fn31" type="footnote" n="31"><persName>Giovanni Matteo Longo</persName>, der Gesandte des kaiserlichen Statthalters in <placeName>Mailand</placeName>, verhandelte am 6. Februar 1536 in <placeName>St-Julien</placeName> mit den bernischen Offizieren; vgl. Anshelm VI 262f; <hi>Gilliard,</hi> Conquête 122.</note> <placeName>Mediolani</placeName> ducem exercitus inquisitum, quid moliantur et instituant nostri; videri enim hanc expeditionem non <placeName>Gebennensibus</placeName> auxilio profectam tantum, sed ea occasione maius bellum molientem et in exteras regiones Galli fortasse stipendiis grassaturam.</s>
+					<s n="33" xml:lang="la" type="auto">Cui responsum nulla alia re ad hoc bellum tractos esse pacis alioquin studiosissimos avidosque, nisi oppressorum conciviorum miseratione et perfidia <placeName>Sabaudi</placeName>, cum causae totius uberiore explicatione; itaque aliud meditari se bellum nullum nisi contra ducem idque in suis finibus tantum, quare securam esse maiestatem caesaream se, quod hanc rem attinet, iubere.</s>
+					<s n="34" xml:lang="la" type="auto">Eo responso legatus contentus abiit, ut vel hinc adpareat Galli conatus nobis non infrugiferos esse, eo minus<pb type="edition" next="124"/> quoquam arma in nos moturo, quod Gallicis artibus se peti perpetuo subtimeat caesar.</s>
+					<s n="35" xml:lang="la" type="auto">Atque haec hactenus plausibilia vehementer sunt omnia veluti victore Christo signum quoddam efferente ad bene sperandum de liberioris professionis evangelii propagatione et incutiendo impiis metu, ne palam et impune posthac scelerati esse possint.</s>
+					<s n="36" xml:lang="la" type="auto">Quo quidem non mediocri thesauro contentos esse oportet, cum intelligamus, quantum adhuc a perfectione spiritualis ecclesiae absimus nos ipsi, nedum ut per nos alibi omnia erigenda armis speremus.</s>
+					<s n="37" xml:lang="la" type="auto">Et utinam non vel maxime metuendum habeamus, ne successu qualicunque elati illectaque cupiditate semel non intra limites nos ipsos contineamus, sed mox in immensum prorumpentes avaritiae libidinique imperandi indulgeamus!</s>
+					<s n="38" xml:lang="la" type="auto">Quo magis orandus dominus, huius fabulae choragus, ut misericorditer porro respicere nos velit ac in sua voluntate continere.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Conventio in synodo<note xml:id="fn32" type="footnote" n="32">Gemeint ist die Tagung von Ende Januar/ Anfang Februar in <placeName>Basel</placeName>, an der das Erste Helvetische Bekenntnis verabschiedet wurde (s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1).</note> tam concors ita me exhilaravit ut nihil unquam amplius, et sane video multiplicem inde fructum apud nos rediisse, de quo posthac.</s>
+					<s n="40" xml:lang="la" type="auto">Dominus faxit, ut unanimiter Christum spiremus omnes.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">De <persName>Berchtoldo</persName> acta res est, praeter enim rupturam accessit etiam hydrops, quae per rupturam erumpens putredines foetidissimas et cruciatus intolerabiles optimo viro parit.</s>
+					<s n="42" xml:lang="la" type="auto">Proinde literis tuis, quaeso, quam primum hunc consolare - scio, exhilarabitur, si tam diu vivat - et vale, observandissime mi patrone, ac loquaci barbaraeque epistolae ignosce.</s>
+					<s n="43" xml:lang="la" type="auto">Quodsi gratum tibi per me fieri quicquam potest, fac, sciam.</s>
+					<s n="44" xml:lang="la" type="auto">Nihil in <persName>Sultzero</persName> desiderabis.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Rursus vale cum uxore<note xml:id="fn33" type="footnote" n="33">Bullingers Frau <persName>Anna, geb. Adlischwyler</persName>.</note> et liberis.</s>
+					<s n="46" xml:lang="la" type="auto">Saluta ex me <persName ref="p2305">Leonem</persName><note xml:id="fn35" type="footnote" n="35"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Theodorum</persName><note xml:id="fn36" type="footnote" n="36"><persName>Theodor Bibliander</persName>.</note>, <persName ref="p4196">Binderum</persName><note xml:id="fn37" type="footnote" n="37"><persName>Georg Binder</persName>.</note>, <persName>Collinum</persName><note xml:id="fn38" type="footnote" n="38"><persName>Rudolf Collin</persName>.</note>, Ammanum<note xml:id="fn39" type="footnote" n="39"><persName>Johann Jakob Ammann</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto"><placeName>Berne</placeName>, 11. februarii 1536.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="la" type="auto">Tuus <persName>Sultzerus</persName>.</s>
+					<s n="49" xml:lang="la" type="auto"><persName>Berchtoldus</persName> et <persName>Conzenus</persName><note xml:id="fn40" type="footnote" n="40"><persName>Peter Kunz</persName>.</note> tibi salutem adscribi voluerunt.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la" type="auto">Non relegi, quare boni consule.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="51" xml:lang="la" type="auto">Viro ornatissimo d. Heinricho Bullingero, ecclesiae Tigurinę antistiti, patrono suo observandissimo.</s>
+					<s n="52" xml:lang="de" type="auto">An Meister Heinrich Bullinger zuͦ Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

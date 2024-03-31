@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11304" type="Brief" source="HBBW" n="1261">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 2. Mai 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia Christi tecum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quando video teneri te magno desiderio harum rerum, que vulgo nunc de <placeName>Francofordiensibus</placeName> comitiis<note xml:id="fn1" type="footnote" n="1">Zum Schmalkaldischen Bundestag in <placeName>Frankfurt</placeName> vgl. oben <ref target="file11273">Nr. 1230</ref>, Anm. 4.</note> iactitantur, unum hoc nunc, quod compertum habeo, scribendum duxi, donec rem omnem ex nostris certius cognovero.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Rediit noster legatus<note xml:id="fn2" type="footnote" n="2"><persName>Joachim Maler</persName>; s. <hi>Moeller,</hi> Zwick 217.</note> nudius tertius; heri a senatu auditus est, sed tumultuanter, quod non potuerit istuc per alia negocia fieri ea, qua opus est, diligentia.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Quę vero ex istis rescire licuit, sic habent: Datę sunt 15 mensium induciae, sed ita, ut caesar<note xml:id="fn4" type="footnote" n="4"><persName>Karl V.</persName></note> proximis sex mensibus illas sua authoritate vel confirmet vel irritet.</s>
+					<s n="5" xml:lang="la" type="auto">Datę autem sunt iis conditionibus: Primo, ne nostri porro quenquam in suum fędus recipiant, sed ita, ut adversarii quoque neminem ad se<note xml:id="fn5" type="footnote" n="5">d. h. in den <placeName>Nürnberger</placeName> Bund.</note> recipiant nec evangelii nomine in quenquam moveant arma.</s>
+					<s n="6" xml:lang="la" type="auto">Ad kalendas augusti eruditi utriusque partis <placeName>Norimbergam</placeName> se conferent de controversis istis religionis articulis collaturi<note xml:id="fn6" type="footnote" n="6">Im <placeName>Frankfurter</placeName> Anstand war ein Religionsgespräch auf etwa 1. August in <placeName>Nürnberg</placeName> vorgesehen (s. <bibl>Walch</bibl> XVII 311f; <hi>Neuser,</hi> Vorbereitung 78-80), das dann allerdings nicht stattfand (s. <bibl>Fuchtel</bibl> 198).</note>; ex illis pauciores deinde,<pb type="edition" next="121"/> postremo etiam paucissimi, hoc est sex, huic negocio expediundo destinabuntur, quibus ex laicis, quos vocant, nonnulli a cęsare missi aderunt.</s>
+					<s n="7" xml:lang="la" type="auto">Quodsi inter illos forte convenerit, tum caesar curaturus est, ut una sit omnium religio.</s>
+					<s n="8" xml:lang="la" type="auto">Porro pax illa solis istis offertur nunc, qui ad praescriptum confessionis <placeName>Augustę</placeName> in comitiis caesari exhibitę<note xml:id="fn7" type="footnote" n="7">Am 25. Juni 1530, auf dem <placeName>Augsburger</placeName> Reichstag; vgl. Bernhard <hi>Lohse,</hi> <placeName>Augsburger</placeName> Bekenntnis I, in: <bibl>TRE</bibl> IV 616- 628, hier: 619.</note> docent, aliis omnibus, anabaptistis et quoquot non agnoscunt <placeName>Romanum</placeName> pontificem, exclusis.</s>
+					<s n="9" xml:lang="la" type="auto">Adversus Turcam<note xml:id="fn8" type="footnote" n="8"><persName>Sultan Suleiman I.</persName></note> manus ferent auxiliares nostri, ipsi adeo non securi, ut nunquam, nisi nihil plane video, in maiore fuerint periculo.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Ah, quid scribo, mi cor, mi charissime et optime Bullingere, sic sum contracto animo, sic enectus propemodum dolore, ut non satis teneam, quod audivi.</s>
+					<s n="11" xml:lang="la" type="auto">Ita rei huius indignitas me totum excarnificat.</s>
+					<s n="12" xml:lang="la" type="auto">Sic molles et fracti sunt, quos tu verebaris, ne immodice essent confidentes<note xml:id="fn9" type="footnote" n="9">Zu Bullingers Warnungen vgl. oben <ref target="file11293">Nr. 1250</ref>, 46-48 mit Anm. 12.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Sed ita est meritum nostrum.</s>
+					<s n="14" xml:lang="la" type="auto">Audio nonnullis etiam verbi ministris rem omnino plausibilem videri hanc comitiorum istorum catastrophen<note xml:id="fn10" type="footnote" n="10">Vgl. ebd., Anm: 13.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Mihi vero sic dolet, ut nihil iam inde ab audito nobis evangelio peius me habuerit; nam video, quid portendant ista monstra.</s>
+					<s n="16" xml:lang="la" type="auto">Noster senatus excelso semper animo fuit et summa cavit diligentia, ne quid accepta domini gratia indignum designaret.</s>
+					<s n="17" xml:lang="la" type="auto">Fecerunt istuc et alii nonnulli, quorum tamen sententia obtinere non potuit.<pb type="scan" next="35"/></s>
+					<s n="18" xml:lang="la" type="auto">Ante hoc ferme decennium, quum hoc ipsum peteretur a nostris, ut ne quem sibi adiungerent, post gravissimam consultationem de ea re audacter negatum hoc est adversariis<note xml:id="fn11" type="footnote" n="11">Spielt wohl auf Druckversuche vor dem <placeName>Konstanzer</placeName> Beitritt zum Schmalkaldischen Bund vom März 1531 an; vgl. Hermann <hi>Buck,</hi> Die Anfänge der <placeName>Konstanzer</placeName> Reformationsprozesse, Österreich, Eidgenossenschaft und <placeName>Schmalkaldischer Bund</placeName>, 1510/22-1531, Tübingen 1964. - <bibl>SKRG</bibl> 29/31, S. 504-511.</note>; nunc ad effeminati episcopi<note xml:id="fn12" type="footnote" n="12"><persName>Johann von Weeze</persName>, der kaiserliche Gesandte in Frankfurt.</note> sibilum sic exanimantur isti omnes.</s>
+					<s n="19" xml:lang="la" type="auto">Collatio eruditorum magis etiam omnia exulcerabit atque hęc efficacissima discordiarum inter nos ratio erit.</s>
+					<s n="20" xml:lang="la" type="auto">Id quod pro tua prudentia facile ipse intelligis.</s>
+					<s n="21" xml:lang="la" type="auto">Utinam dominus hinc me mature abripiat, ne malis istis superstes vivere cogar!</s>
+					<s n="22" xml:lang="la" type="auto">Et profecto certum est decies, centies adeoque millies occumbere potius quam in hanc sententiam discedere.</s>
+					<s n="23" xml:lang="la" type="auto">Viderint malorum istorum authores, quomodo severissimo iudicii deo, quomodo piis omnibus se excusent.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Quę scribo, vere se ita habent.</s>
+					<s n="25" xml:lang="la" type="auto">Sed sunt praeterea plura, que legere nondum in actis licuit, quando senatus nondum omnia ista nisi obiter audivit.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Ubi primum de illis constiterit, tum ordine tibi, quantum licebit, omnia describenda curabimus.</s>
+					<s n="27" xml:lang="la" type="auto">Bonus hic frater<note xml:id="fn13" type="footnote" n="13">Unbekannt.</note> simul adest et abit, et urgent me <placeName>Augustanorum</placeName> literę<note xml:id="fn14" type="footnote" n="14">Nicht erhalten.</note>, ut respondeam.</s>
+					<s n="28" xml:lang="la" type="auto">Quare, mi venerande frater, ignosce,<pb type="edition" next="122"/> per Christum obsecro, insubidę et negligentissimae scriptioni; malui enim omnino aliquid quam prorsus nihil.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Episcopus iste Constantiensis<note xml:id="fn15" type="footnote" n="15"><persName>Johann von Weeze</persName>.</note>, si diis placet, Augię quoque istius, quam opulentam vocant<note xml:id="fn16" type="footnote" n="16">d. h. die <placeName>Reichenau</placeName>.</note>, cęnobium impetravit<note xml:id="fn17" type="footnote" n="17">Zur Inkorporation der Abtei <placeName>Reichenau</placeName> in das Hochstift s. <hi>Moeller,</hi> Zwick 229f.</note>, quem nostri ferre vicinum multas ob caussas haudquaquam poterunt, suntque ob hanc caussam non mediocriter turbati.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Ah, servator Christe, propter gloriam nominis tui libera nos<note xml:id="fn18" type="footnote" n="18">Vgl. Ps 79 (78 Vulg.), 9.</note>, quando extra te nihil est reliquum, unde quicquam auxilii sperare liceat.</s>
+					<s n="31" xml:lang="la" type="auto">O quam praestabat solos soli tibi et uni fidere quam cum istiusmodi complicibus dedecori esse nomini sancto tuo!</s>
+					<s n="32" xml:lang="la" type="auto">Tu, mi anime, cum cęteris, qui istic sunt, bonis et evangelium amantibus fratribus domini te pedibus supplex advolve, ut tam foede lapsos fortiter sui spiritus virtute erigat et vel paucissimos atque inter hos nos quoque, in quibus robur brachii sui toti mundo declaret, propicius conservet.<pb type="scan" next="36"/></s>
+					<s n="33" xml:lang="la" type="auto">Quam bene est gloriosam oppetere mortem quam probrosam transigere vitam!</s>
+					<s n="34" xml:lang="la" type="auto">Gravissima profecto crux videtur et est, qua nunc exercemur, non tam propter praesentem, quam iam sentiscimus, iacturam, sed atrociora ista, quę sequutura videmus.</s>
+					<s n="35" xml:lang="la" type="auto">Sed vivit dominus<note xml:id="fn19" type="footnote" n="19">Vgl. Ps 18 (17 Vulg.), 47.</note>, cui ipsi quoque vivimus et semper vivemus<note xml:id="fn20" type="footnote" n="20">Vgl. Röm 14, 7f.</note> invitis etiam inferorum portis<note xml:id="fn21" type="footnote" n="21">Vgl. Mt 16, 18.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Is te tuosque nobis quam diutissime servet.</s>
+					<s n="37" xml:lang="la" type="auto">Flagrantibus votis dicere nunc aliquid in aurem tibi cuperem, quod Christum precor, ut non audias solum, sed effectum quoque aliquando videas.</s>
+					<s n="38" xml:lang="la" type="auto">Iterum atque iterum te obsecro et obtestor, ut veniam des indiligentissime scribenti, quando aliter non possum.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Quod <persName ref="p6490">Philippo</persName> adeo tua probantur<note xml:id="fn22" type="footnote" n="22">Zu <persName>Melanchthons</persName> Urteil über Bullingers "De origine erroris" s. oben <ref target="file11292">Nr. 1249</ref>, 34-36.</note>, magnum merito videri debet.</s>
+					<s n="40" xml:lang="la" type="auto">Utinam sit vir ille, quam est multis nominibus summus, tam nullis male conciliationis author.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">De nuncio<note xml:id="fn23" type="footnote" n="23">Unbekannt.</note> ne fueris sollicitus; nihil illi ob hanc rem<note xml:id="fn24" type="footnote" n="24">Die Angelegenheit ist nicht weiter bekannt.</note> accidet mali, quod ego quidem tentaturus sum.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Vale iterum atque iterum atque pro nobis tantum non demortuis, ut reviviscat in Christo spiritus noster, sedulo precare.</s>
+					<s n="43" xml:lang="la" type="auto">Saluta fratres omnes; nam nihil praeterea possum.</s>
+					<s n="44" xml:lang="la" type="auto">2. maii anno 39, circiter tertiam pomeridianam.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Tuus <persName>Ambr. Blaurerus</persName>.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="de" type="auto">Ach truwer gott, wie ligend all menschen im kaat<note xml:id="fn25" type="footnote" n="25">Schmutz.</note>, wann du hand abtuͦst!<pb type="edition" next="123"/></s>
+					<s n="47" xml:lang="la" type="auto"><persName>Eccio</persName><note xml:id="fn26" type="footnote" n="26"><persName>Johannes Eck</persName>.</note>, <persName ref="p18889">Luthero</persName> et id genus pervicacibus ingeniis nullus hic locus erit in collatione<note xml:id="fn27" type="footnote" n="27">Gemeint ist das geplante Religionsgespräch in <placeName>Nürnberg</placeName>; s. oben Z. 12-15.</note>, sed illis solum, qui sunt modestissimi, hoc est, quibus facile quidvis persuadeas.</s>
+					<s n="48" xml:lang="la" type="auto">Speramus <persName ref="p18889">Lutherum</persName> ipsum comitia ista et male sana consilia suis depicturum coloribus<note xml:id="fn28" type="footnote" n="28">Vgl. Adagia, I. 4, 6 (<bibl>LB</bibl> <hi>II 153).</hi></note>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="49" xml:lang="la" type="auto">Clarissimo d. Heinricho Bullin[gero], fratri suo veneran[do].</s>
+					<s n="50" xml:lang="de" type="auto">[Züri]ch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

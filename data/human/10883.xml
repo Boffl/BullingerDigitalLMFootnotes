@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10883" type="Brief" source="HBBW" n="844">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Thomas Platter (Blater), 13. Juni 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Basel UB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid vonn gott durch Jesum Christum, unsernn herren.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Ich schick üch hie, fürgeliepter Thoma, uß unser libery 4 divinorum mirabilium libellos <persName>Sedulii</persName>, ein uralte geschrifft, und, allß vil mir zuͦ wüssen, bißhar nienan getruckt; das ir üch umb ein ander exemplar ouch bewerbind, ob ir es drucktind.</s>
+					<s n="3" xml:lang="de" type="auto">Doch sölichs beschäch oder nitt, ist min begär, das ir mir das alit exemplar allwäg widerumb zuͦ handen stellind.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto">Demnach ist min ernstlich pitt, ir wollind mir umb diß volgende buͤcher verhälffen und die, so bald ir mögind, wol bewart, wenn üch komliche<note xml:id="fn2" type="footnote" n="2">passende (<bibl>SI</bibl> III 285).</note> fuͦr oder bottschafft ann die hand stiesse, mir zuͦ schicken und anzeygen, was sy mitt sampt dem epistolar<note xml:id="fn3" type="footnote" n="3">Vgl. oben <ref target="file10822">Nr. 783</ref>, 31f.</note> kostind:</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Novellarum constitutionum domini <persName>Iustiniani</persName> etc., <foreign xml:lang="de">zuͦ <placeName>Nürenberg</placeName> getruckt<note xml:id="fn4" type="footnote" n="4">Gemeint ist die 1531 bei <persName>Johann Petreius</persName> gedruckte griechisch-lateinische Ausgabe der "Novellae constitutiones" Justinians. Zu einem von Bullinger annotierten Exemplar (Zürich ZB, XI 75,) vgl. <hi>Bächtold,</hi> Bullinger vor dem Rat 31-34.</note>.</foreign></s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="manual">Codicis Theodosiani libri 16, <foreign xml:lang="de">zuͦ <placeName>Basel</placeName> getruckt.</foreign></s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto"><pb type="edition" next="331"/>Wo ich dann söliche dienst umb üch beschulden<note xml:id="fn6" type="footnote" n="6">vergelten (<bibl>SI</bibl> VIII 659f).</note> und verdienen könde, wölte ich nitt sparen.</s>
+					<s n="8" xml:lang="de" type="auto">Lassend mich ouch wüssen, was nüws vor handen sye, das ir truckind.</s>
+					<s n="9" xml:lang="de" type="auto">Sind gott befolhen.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Datum Zürych, 13. iunii 1536.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Heinrych Bullinger.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="12" xml:lang="de" type="auto">An den frommen unn[d] truwen Thoman B[lat]tern, truckerherr[n] zuͦ <placeName>Basel</placeName>, sinen liebe[n] unnd guͦten fründ.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

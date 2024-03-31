@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11510" type="Brief" source="GR" n="24">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Comander, Johannes Blasius / Chur AN Heinrich Bullinger, 20. Februar [1541]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D. P.</s>
+					<s n="2" xml:lang="la" type="auto">Literas humanitatis tuae hisce diebus accepimus, frater observande, quae nos ingenti gaudio affecerunt.</s>
+					<s n="3" xml:lang="la" type="auto">Nulla enim re maiorem consolacionem accipere possumus, quam cum Christi notitia in orbe quam latissime spargitur.</s>
+					<s n="4" xml:lang="la" type="auto">Eadem, quae tu scribis, papistae nostri ante nos sciverunt, sed oppresserunt; maerore magno affecti ringuntur.</s>
+					<s n="5" xml:lang="la" type="auto">Deo autem gratia, qui hos superbissimos pietatis hostes brevi tempore ad desperationem adacturus est, ut relicta superstitione sua et falsa pietate una nobiscum Christum adorent vel contempta cognita veritate sua sponte in interitum corruant.</s>
+					<s n="6" xml:lang="la" type="auto">Venit ad nos adversa fortuna actus Růdolphus Schintius, confitens se Tiguri ex ergastulo quodam auffugisse, sanctissime affirmans se prorsus nescire, qua causa illuc impositus fuerit, obsecrans ut ad te literas sui causa daremus, ut tuo auxilio tuto redire ad urbem possit et res suas componere.</s>
+					<s n="7" xml:lang="la" type="auto">Sua morositate dominos suos illum offendisse non dubitamus.</s>
+					<s n="8" xml:lang="la" type="auto">Hoc tamen illi testimonium dare libere possumus: tempore illo, - nam aliquot annis apud nos vixit -, quo nobiscum Curiae habitavit, honeste, irreprehensibilis et victum sibi durissimo labore queritans vitam egit.</s>
+					<s n="9" xml:lang="la" type="auto">Forsitan, cum domi est, libertate sua abutitur et apud exteros intra cuticulam suam sese continet.</s>
+					<s n="10" xml:lang="la" type="auto">Fac pro tua prudencia, quod tibi visum fuerit optimum, et ex nostra supplicatione pro illo fructus aliquis et refrigerium illi eveniat.</s>
+					<s n="11" xml:lang="la" type="auto">Vale.</s>
+					<s n="12" xml:lang="la" type="auto">Ex Rhetiae Curia, 20. die Februarii.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Tui ex animo Ioannes Blasius Comander.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Pietate et doctrina praestantissimo viro M. Heinricho Bullingero, Tigurinae ecclesiae episcopo vigilantissimo, domino et amico suo inprimis observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

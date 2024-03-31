@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10504" type="Brief" source="HBBW" n="469">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Guillaume Du Bellay, Seigneur de Langey / Paris AN Konrad Pellikan (Kürschner), Heinrich Bullinger, 31. Oktober 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D. quae sit regis mei<note xml:id="fn1" type="footnote" n="1"><persName>König Franz I. von Frankreich</persName>.</note> circa statum ecclesię componendum mens, sensus, animus et cogitatio, antea quidem ex me audivistis.</s>
+					<s n="2" xml:lang="la" type="auto">Res ipsa etiam brevi fidem est factura, neque non haud parvus illi stimulus est additus aut spes potius iniecta conficiendi ex bonorum sententia negocii, quod ex verbis vestris<note xml:id="fn3" type="footnote" n="3">Zu Bullingers und <persName>Pellikans</persName> zurückhaltender Antwort auf du Bellays Vorschläge s. oben <ref target="file10409">[Nr. 376]</ref> S. 179f, 33-45 und 183, 10-17.</note> illum docuerim multa tempus, multa vestrum aliquot consilium mollivisse, quę ut duriora nostris videbantur, ita sarciendę unitati moram afferebant.</s>
+					<s n="3" xml:lang="la" type="auto">Interim mihi et re ipsa fore visum est, si hunc ad vos D. <persName>Ulricum Chęlium</persName> dimitterem<note xml:id="fn5" type="footnote" n="5">Der hier angekündigte Besuch von <persName>Chelius</persName> in Zürich fand am 17. Januar 1535 statt, s. <bibl>Seidel</bibl> 78f.</note>, qui et nonnullorum super eo negocio consilia et cogitationes<pb type="edition" next="388"/> vobis communicet et ad eandem vos adhortetur curam, quę maxime omnium, etiam omnium esse debet.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ex <placeName>Lutęcia Parisiorum</placeName>, pridie calendas novembris 1534.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Vobis ex animo deditissimus</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto"><persName>Gulielmus Bellaius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="8" xml:lang="la" type="auto">Eruditissimis viris d. d. <persName>Corrado [!] Pellicano</persName> et Henrico Bullingero.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

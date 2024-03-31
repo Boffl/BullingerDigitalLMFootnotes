@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11070" type="Brief" source="VBS" n="968">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 5. August 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+					<s n="2" xml:lang="la" type="auto">Optima fide reddidit mihi literas tuas Fridboltius hic.</s>
+					<s n="3" xml:lang="la" type="auto">Fuerunt illae mihi ut reliquae omnes longe gratissimae; reddiderunt autem tristem, quod iam nunc videam, quid mali ex bello oboriturum sit Saxonico.</s>
+					<s n="4" xml:lang="la" type="auto">Involvet et inter sese committet certo Germaniam totam.</s>
+					<s n="5" xml:lang="la" type="auto">Certe merentur hoc mores nostri.</s>
+					<s n="6" xml:lang="la" type="auto">Verum domini interim gratiam imploro, ut hic vel per Hessum vel alium virum fortem et religiosum hoc bellum dirimat, nisi forte divina Maiestas statuerit, semel funestos illos e medio ecclesiae episcopos tollere, quibus salvis nescio an ecclesia salva esse possit.</s>
+					<s n="7" xml:lang="la" type="auto">Si tu interim aliquid eius accepisti compositionis, cuius meministi in postremis literis, a Melanchthone ac Bucero conscriptae, obsecro videam, siquidem optimus quidam vir nescio quae infausta mihi retulit de actis quibusdam Buceri Augustae in negotio idolorum habitis etc.</s>
+					<s n="8" xml:lang="la" type="auto">Ego in praesenti nihil possum certi nuntiare e Luceria; legatum enim nostrum nondum vidi.</s>
+					<s n="9" xml:lang="la" type="auto">Quodsi aliquid didicero, quod e re tua fuerit novisse, scies.</s>
+					<s n="10" xml:lang="la" type="auto">Tu perge, me, quod facis, amare et frequentissime scribere.</s>
+					<s n="11" xml:lang="la" type="auto">Vale una cum tuis omnibus, cum Dominico et Fortmüllero ac reliquis.</s>
+					<s n="12" xml:lang="la" type="auto">Salvum te volunt Leo, Peliicanus, Theodorus, ceteri.</s>
+					<s n="13" xml:lang="la" type="auto">5. Augusti 1537.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">H(einricus) Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Praestantissimo viro D. Ioachimo Vadiano, consuli Sangal</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

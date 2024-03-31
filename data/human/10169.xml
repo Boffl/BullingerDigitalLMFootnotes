@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10169" type="Brief" source="HBBW" n="138">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, [Ende September 1532]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus et pax per Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Miserum ilium, quem commendasti, in curam nostram accepimus.</s>
+					<s n="3" xml:lang="la" type="auto">Speramus eum brevi melius habiturum.</s>
+					<s n="4" xml:lang="la" type="auto">Quantas vero gratias dicam pro tua erga me benevolentia eorumque omnium, qui me, cum nuper apud vos essem<note xml:id="fn3" type="footnote" n="3">Siehe oben Anm. 1. Aus welchem Anlaß <persName>Zwick</persName> nach Zürich kam, ist nicht bekannt.</note>, tam liberaliter tractaverunt.</s>
+					<s n="5" xml:lang="la" type="auto">Optarem et mihi occasionem dari referendi beneficii.</s>
+					<s n="6" xml:lang="la" type="auto">Interim, cum non possum adsequi, quod volo, prędico bonis omnibus humanitatem vestram laude maiorem.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Abiturus pollicitus sum scripturum me vobis, si quid e bello turcico ad nos ferretur, neque ea in re quicquam negligam.</s>
+					<s n="8" xml:lang="la" type="auto">Sed nihil audivimus hactenus exceptis, quae ad nos <persName>Wilhelmus</persName> a Zellis misit, ut hic vides<note xml:id="fn5" type="footnote" n="5">Es handelt sich wahrscheinlich um die Ende August 1532 in <placeName>Memmingen</placeName> gesammelten, von <persName>Gregor Mangolt</persName> in <placeName>Konstanz</placeName> kopierten und offenbar durch <persName>Zwick</persName> an Bullinger weitergeleiteten Nachrichten zum Türkenkrieg, Zürich StA, E II 350,311f.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Alioqui nihil omnino audimus.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><pb type="edition" next="245"/>Fratres omnes salutabis meo nomine centies, inprimis fratrem meum et patrem <persName>Pellicanum</persName>, deinde <persName>Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName>Theodor Bibliander</persName>.</note>, <persName ref="p2305">Leonem</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Carolstadium</persName> et convivas omnes.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto"><persName>Io. Zwick</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="12" xml:lang="la" type="auto">Ornatissimo viro Heinricho Bullingero, amico veluti fratri incomparabili.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

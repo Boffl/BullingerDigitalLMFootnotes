@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12599" type="Brief" source="HBBW" n="2552">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Haller d.J. / [Augsburg] AN Heinrich Bullinger, 26. August [1546]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Qui has tibi fert literas<note xml:id="fn3" type="footnote" n="3">Den vorliegenden Brief und <ref target="file12598">Nr. 2551</ref>.</note>, tabellarius aliquando Tigurinae urbis publicus insciis dominis<note xml:id="fn4" type="footnote" n="4">Die Ratsherren von Zürich.</note> discessit.</s>
+					<s n="3" xml:lang="la" type="auto">Nunc ab exercitu<note xml:id="fn5" type="footnote" n="5">Die Truppen der Schmalkaldener, vielleicht besonders die eidgenössischen Fähnlein.</note> cum literis et pecuniis domum<pb type="edition" next="359"/> missus valde anxius est, ne dimittatur iterum Tiguri.</s>
+					<s n="4" xml:lang="la" type="auto">Rogavit, ut tibi scriberem, ut consulas ei, quo concedatur ipsi hoc unum, ut liber semper possit ad exercitum proficisci et redire.</s>
+					<s n="5" xml:lang="la" type="auto">Iusta est causa.</s>
+					<s n="6" xml:lang="la" type="auto">Non puto dominos negaturos.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Commendo ergo hanc tibi causam.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Vale.</s>
+					<s n="9" xml:lang="la" type="auto">26. augusti.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><persName>I. Hallerus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="la" type="auto">D. Bullingero.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

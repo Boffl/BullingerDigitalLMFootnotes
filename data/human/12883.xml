@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12883" type="Brief" source="HBBW" n="2834">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Matthias Claudius (Clodius) / [St. Gallen] AN Heinrich Bullinger, 3. März 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Accepi perhumanas tuas literas<note xml:id="fn1" type="footnote" n="1">Nicht erhalten. -Siehe <ref target="file12868">Nr. 2819</ref>, Anm. 2.</note>, in quibus silentium intermissi scribendi offitii excusas, quod, hercle, apud me non fuisset opus.</s>
+					<s n="2" xml:lang="la" type="auto">Scio enim, quantis quibusque negotiis occupatus sis, ut nihil dubitem de tua erga amicos observantia.</s>
+					<s n="3" xml:lang="la" type="auto">Hoc tantummodo a te expetendum mihi videor, ut meas benigne admittas et legas; quae quamvis te dignum nihil habeant, tamen signa mei erga te amoris eas esse volo; nam mihi quidem nihil iucundius et antiquius quam virorum doctissimorum - eorum praesertim, qui de ecclesia bene meriti sunt (in quorum numero tu hisce temporibus facile princeps es) - consuetudinem habere.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">Nec nunc hae quicquam novi continent, nisi ut coniunctas literas domino Dryandro<note xml:id="fn2" type="footnote" n="2"><persName>Francisco de Enzinas</persName>.</note> mittas et in Christo valeas.</s>
+					<s n="5" xml:lang="la" type="auto">3. martii 47.</s>
+					<s n="6" xml:lang="la" type="auto">Mathias Clodius tuae humanitati deditus.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Salutat te quam offitiose dominus<note xml:id="fn3" type="footnote" n="3"><persName>Hieronymus Sailer</persName>.</note> et rogat, si quid habeas de comitiis Badensibus<note xml:id="fn4" type="footnote" n="4">Die am 28. Februar begonnene Tagsatzung; s. <ref target="file12866">Nr. 2817</ref>, Anm. 4.</note> aut aliis de rebus, eum certiorem fatias.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="8" xml:lang="la" type="auto">Venerabili viro Heinrico Bullingero, Tyguri a concionibus, domino et amico suo observandissimo.</s>
+					<s n="9" xml:lang="la" type="auto">Tyguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

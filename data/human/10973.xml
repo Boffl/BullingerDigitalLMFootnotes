@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10973" type="Brief" source="HBBW" n="931">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Heinrich Bullinger, 3. Januar 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Censuram ecclesiasticam a quibusdam agri nostri ministris praeter consilium ac voluntatem nostram in milites tentatam esse recte sentis.</s>
+					<s n="3" xml:lang="la" type="auto">Non enim tam iniqui et insipidi sum iudicii, tametsi stupidissimus, quin facile capere queam audacem hanc, praesertim tempore hoc perplexo et periculoso, hac in re prorupcionem non modo domino fructum nullum reportaturam, imo, nisi deus caveat, quod hactenus labore ac studio ingente extructum est, adobruturam.</s>
+					<s n="4" xml:lang="la" type="auto">Curabimus igitur sedulo, quo quorundam non solum mitigentur, sed ab instituto avocentur animi.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Studium dominorum tuorum, quo bellorum temp[ore] domi suos retineant<note xml:id="fn2" type="footnote" n="2">Zu den Maßnahmen Zürichs gegen den Solddienst s. <bibl>HBBW</bibl> VI <ref target="file10877">[Nr. 838]</ref>, S. 317, Anm. 3.</note>, nemini non perplacet.</s>
+					<s n="6" xml:lang="la" type="auto">Est certe facinus comendacione amplissima dignum.</s>
+					<s n="7" xml:lang="la" type="auto">Ne dubites, charissime mi Bullingere, sub ver nos stupenda et visuros et audituros.</s>
+					<s n="8" xml:lang="la" type="auto">Faxit deus, quo omnia in suam cedant gloriam!</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, quoque accepturus.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Bene vale.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><placeName>Bernę</placeName>, 3. ianuarii anno 37.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Uxore tua<note xml:id="fn4" type="footnote" n="4"><persName>Anna, geb. Adlischwyler</persName>.</note> et fratribus omnibus salvis.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Megand. tuus ex animo.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="14" xml:lang="la" type="auto">Domino Heinrico Bullingero, Tiguri a concionibus sacris, suo colendissimo et charissimo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11112" type="Brief" source="GR" n="10">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 18. November 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vita innocentiam a Deo.</s>
+					<s n="2" xml:lang="la" type="auto">Iheremiam cum tandem absolvissem, ad te remittere curavi.</s>
+					<s n="3" xml:lang="la" type="auto">Cuidam institori una cum Luciano Graeco commisi, ut mercibus suis addat tibique representet; rebar enim, quod hoc modo tutissime ad te remigraret.</s>
+					<s n="4" xml:lang="la" type="auto">Lucianum Pontasellae mitto, ut illo utatur et mundum servet.</s>
+					<s n="5" xml:lang="la" type="auto">Missuri sumus etiam pecuniam aliquam in usum ipsius; sed nundinarum strepitus et certa quedam negotia impedierunt me, ut corradere nunc non potuerim; mittam tamen propediem.</s>
+					<s n="6" xml:lang="la" type="auto">Ago insuper et habeo magnas gratias, primum quod misellum in curam tuam susceperis, ne a studio literarum inopia victus arceatur, deinde quoque quod librum illum tibi charissimum, mihi denique utilissimum commodaveris.</s>
+					<s n="7" xml:lang="la" type="auto">Cum nihil haberem te dignum, quod referrem, dedi operam, ut liberis tuis munusculum mitterem castaneas perpaucas.</s>
+					<s n="8" xml:lang="la" type="auto">Sed haec minime digna sunt, ut commemorem.</s>
+					<s n="9" xml:lang="la" type="auto">Sacculus Ioanni Pontasellae reddatur.</s>
+					<s n="10" xml:lang="la" type="auto">Nihil apud nos agitur neque fertur, quod tuis auribus dignum sit; tantum hoc praecor, ut me in amicorum tuorum albo recenseas.</s>
+					<s n="11" xml:lang="la" type="auto">Vale, vir doctissime.</s>
+					<s n="12" xml:lang="la" type="auto">Ex Curia Rhetiae, quarta decima kalendas Decembres 37.</s>
+					<s n="13" xml:lang="la" type="auto">Plurimum salvere iubeo Leonem nostrum et Cůnradum Pellicanum.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Tuus Ioannes Comander.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Ornatissimo viro magistro Heinricho Bullingero, Tigurinae ecclesiae antistiti, domino et amico suo primario.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12389" type="Brief" source="TUSTEP" n="2342">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, [Anfang] Februar 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Allatę mihi hęri tuę literę sunt,<note xml:id="fn40" type="footnote" n="40">Nicht erhalten. Wohl eine Antwort auf <ref target="file12365">Nr. 2318</ref>.</note> quae mihi praecipue causa non gratae modo, sed iocundae etiam fuerunt, quod ingenua mihi et amico vero digna libertate mihi uti videbaris, nisi in me laudando meisque commendandis paululum a semita aberarre et genuinae humanitati tuae tribuere quam plurimum visus fuisses.</s>
+					<s n="3" xml:lang="la" type="auto">Utinam autem ita cadat, ut, quoniam et ipse communis illius et publice profuturi operis chronici partem adiuvandam pro mea virili recepi, quicquid a me est in Stumphii<note xml:id="fn41" type="footnote" n="41"><persName>Johannes Stumpf</persName>.</note> gratiam allatum, id multis ut prodesse[t]!</s>
+					<s n="4" xml:lang="la" type="auto">In hunc enim equidem scopum quicquid potui magno meo conatu collimavi, ut et utilia et simul etiam iucunda, iuxta Horatii praeceptum, colligerem.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ad ea autem, quae te offendunt, ut respondeam: Primum, iuste capitum duorum prolixitate es gravatus, nec parum fastidii et mihi ea longitudo ingessit.</s>
+					<s n="6" xml:lang="la" type="auto">Verum in hanc angustiam me Stumphius noster, homo syncerissimus, cum apud me ageret, coniecit.</s>
+					<s n="7" xml:lang="la" type="auto">Negabat enim, se numerum capitum maiorem admittere posse, quam ipse consignasset.</s>
+					<s n="8" xml:lang="la" type="auto">Cum igitur duobus capitibus et monachismi originem et S. Galli historiam amplexus esset, ita eo numero coarctatus sum, ut in plura digerere non licuerit.</s>
+					<s n="9" xml:lang="la" type="auto">Iam cum re ipsa ipse tuo consilio admoneatur, nihil opus esse, aliis in libris prodita aut indicata tam exacte allegare, ut numerus capitum ponendus sit, sed librum citasse et indicasse materiam abunde sit satis, longe optimum factu est, ut tuam distinctionem probemus.</s>
+					<s n="10" xml:lang="la" type="auto">Ac miror sane, tantum operae te in nostris nugis et industriae locare potuisse, et magnas ago gratias tibi viro diligenti recipioque citra controversiam, quod tibi hoc loco visum est.</s>
+					<s n="11" xml:lang="la" type="auto">Tantum cuperem, ut quae in abbate Notperto<note xml:id="fn42" type="footnote" n="42">Notpert/Nortpert, 1034-1072 Abt von St. Gallen.</note>, puto, de advocatiis, id est <foreign xml:lang="de">von allerley vogteyen und was advocatey oder vogtey vor jaren gwäsen,</foreign> satis diligenter, ut arbitror, sum prosecutus et quod docui, exemplis etiam delectis commonstravi, quo me lectores caperent, in illam seriem capitum transferrentur et capiti de feudis, <foreign xml:lang="de">von den lähen,</foreign> quod numero vigesimum statuisti, mox subiungere[n]tur et caput censeretur vigesimum primum; nec enim aliena ab illa tractatione res est nec plane illa serie indigna.</s>
+					<s n="12" xml:lang="la" type="auto">Cum enim in abbatibus plusculis praeter nudam et frigidam quidem historiolam non haberem, quod referrem, converti me de industria ad locorum quorundam explicationem, qui vulgo non admodum liquent, sed iis sunt noti melius, qui civilium actionum negotiis aliquousque exercitati sunt; ad multifariam autem cognitionem mediorum temporum utiles sunt.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Ubique autem infensum me et confessum hostem pontifices habent, id quod ex omnium catalogo abbatum constabit; quanquam tu me insimulas velut daturum illis quaedam, quae ferri a piis non possint.</s>
+					<s n="14" xml:lang="la" type="auto">Feci, fateor, satis indulgenter, quod tres eius coronas laturus eram, modo ille Christ[i] doctrinam in illa sua Persica mytra non persequeretur, sed prosequeretur; verum externa quaedam etiam enormia ferenda ducerem, si, quod internum est, recte haberet.</s>
+					<s n="15" xml:lang="la" type="auto">Sed age fiat, quod iubes.</s>
+					<s n="16" xml:lang="la" type="auto">Suppone tua pro meis; locum illum emenda, quandoquidem recte sentire te negare non ausim, contra vero me meo more ferre quaedam ac devorare etiam fateri habeam, quae plurimos offendere possent.</s>
+					<s n="17" xml:lang="la" type="auto">Acquiesco igitur et hac in parte tuo sane probatissimo iuditio et boni consulo, quod disceptationem religionis, suo in loco plane non susceptam, commode intermittendam existimas vererisque, ne illam cognitores illi excudendarum lucubrationum admittant, et causam mimime contemnendam adducis.</s>
+					<s n="18" xml:lang="la" type="auto">Intermittantur illa igitur, sed eo pacto, ne intereant; fortassis uti ipsis alibi licuerit.</s>
+					<s n="19" xml:lang="la" type="auto">Scripseram autem haec non velut actor causam agens coram iudice, sed velut narrator dissidiorum, quae praesenti saeculo in cognitione et perquisitione rerum monastericarum in controversiam venissent et quorum monachi omnium ordinum insimularentur.</s>
+					<s n="20" xml:lang="la" type="auto">Feci haec, quo obiter et commode gustus daretur cervicosis lectoribus chronicorum operum studiosis quibusdam, qui nostra alioqui ne digito quidem attingunt, sed inter explosa damantaque et haeretica numerant.</s>
+					<s n="21" xml:lang="la" type="auto">At vero, quum et ego cogito quorundam ingenia plus quam delicata et irritabilia, praeterea in animum revoco, quanta sit calumniae licentia et perfidia et quam patulis foribus a multis vel leviculum exasperatis admittatur, praesertim si crumenula onusta salutarit; omnino cedendam esse tuo iudicio sum arbitratus, si modo operam dederis, ut reliquis annotamenta illa in margine posita addantur, quae, quibus e libris locisque quaeque petita sint, lectorem admoneant.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="22" xml:lang="la" type="auto">De consignatione temporum fundationis ecclesiae Tigurinae et Lucernanę paulisper tecum litigare libet, appellato iudice <persName>Stumphio</persName> nostro, modo et illum tu admiseris.</s>
+					<s n="23" xml:lang="la" type="auto">Primum ais, me fundationem reiicere in Ludovicum secundum<note xml:id="fn43" type="footnote" n="43"><persName>Chlodwig II.</persName>, 638-656 fränkischer König.</note>, Dagoberti<note xml:id="fn44" type="footnote" n="44"><persName>Dagobert I.</persName></note> filium; quod non facio, nisi manu inter scribendum sum lapsus.</s>
+					<s n="24" xml:lang="la" type="auto">In Ludovicum<note xml:id="fn45" type="footnote" n="45"><persName>Chlodwig III.</persName>, 691-695 fränkischer König.</note> enim, regis Theodorici<note xml:id="fn46" type="footnote" n="46"><persName>Thiederich III.</persName></note> filium, reieci, qui non multis annis a morte <persName>Leodegarii</persName><note xml:id="fn47" type="footnote" n="47"><persName>Leodegar</persName>, geb. 616, Bischof von Autun, war am 2./3. Oktober 677 oder 678 oder 679 enthauptet worden.</note> paterno regno est praefectus, quum pater Theodoricus, frater Lotharii<note xml:id="fn48" type="footnote" n="48"><persName>Chlothar III.</persName>, 657-673 fränkischer König.</note> et eius Ludovici, quem tu obtrudis, filius, plusculis annis regnasset, fato demum functus.</s>
+					<s n="25" xml:lang="la" type="auto">Longe autem mihi a temporum et annorum ratione a chronographis tradita dissonare hac in re videntur, quibus Brunhiltę<note xml:id="fn49" type="footnote" n="49"><persName>Brunhilda</persName>, fränkische Königin, gest. 613.</note> mentionem ita facis, velut videri debeat, ipsam <persName>Leodegario</persName> praesidente in humanis fuisse aut certe a morte eius non procul abfuisse; id quod a me non recipitur.</s>
+					<s n="26" xml:lang="la" type="auto">Constat enim bonorum scriptorum consensu, Brunhiltam supplicio extinctam a rege Lothario circiter annum domini 618, hoc est sexto fere anno, postquam Heraclius Byzantii imperare cepit<note xml:id="fn50" type="footnote" n="50">Heraclius, 610-641 byzantinischer Kaiser.</note>.</s>
+					<s n="27" xml:lang="la" type="auto">Eius rei astipulator, puto, erit Annonius<note xml:id="fn51" type="footnote" n="51"><persName>Aimoin de Fleury</persName>, fränkischer Chronist, gest. 1008. Verfasserlexikon?</note>, scriptor Gallicus, quem d. <persName>Stumphio</persName> commodato dedi.</s>
+					<s n="28" xml:lang="la" type="auto">Sigbertus monachus<note xml:id="fn52" type="footnote" n="52">Sigbertus/Sigvertus im Kloster Gembloux, gest. 1112.</note>, praeconio diligentiae laudatus chronographus, quod dico, diserte annotavit.</s>
+					<s n="29" xml:lang="la" type="auto">A fato autem Brunhiltae adusque <persName>Leodogarium</persName> cruciatum et obitum anni plus minus 67 interveniunt.</s>
+					<s n="30" xml:lang="la" type="auto">Hic enim circiter annum domini 685 passus est.</s>
+					<s n="31" xml:lang="la" type="auto">In cuius rei supputatione non Italicis nec Germanicis, sed Gallicis plane aut, ut verius loquar, Franciscis autoribus utor.</s>
+					<s n="32" xml:lang="la" type="auto">Invenio autem, non <persName>Leodogarium</persName>, sed Desyderium, urbis Viennensis episcopum<note xml:id="fn53" type="footnote" n="53"><persName>Desiderius</persName>, um 600 Bischof von Vienne.</note>, Brunhuhilta extimulante a Theodorico rege lapidibus obrui iussum.</s>
+					<s n="33" xml:lang="la" type="auto">Nam et hoc a Sigverto[!] diligenter est annotatum.</s>
+					<s n="34" xml:lang="la" type="auto">Porro Ebervinus ille<note xml:id="fn54" type="footnote" n="54"><persName>Ebroinus</persName>, fränkischer Hausmeier, gest. 681.</note> (cuius furoribus multis annis tumultuata est Gallia seu Francia) mortuo Ludovico illo tuo, Dagoberti filio, primum emicuit, maior domus videlicet factus Lotharii (mortuo iam integerrimo viro Erchenoaldo<note xml:id="fn55" type="footnote" n="55"><persName>Erchanoldus</persName>, fränkischer Hausmeier, gest. 656.</note>), qui plus sibi potestatis et imperii sumpsit, quam ullus ante se alius maiorum domus regiae; ideoque Lothario mortuo, cum fratrem eius Theodoricum magnis studiis ad regnum promovisset, tanta utriusque libido et insolentia facta est, ut et Ebronius Luxovii<note xml:id="fn56" type="footnote" n="56">Luxeuil.</note> custodiae traditus et monasterio intrusus et tonsus Theodoricus in S. Dionysii coenobio latere coactus fuerit.</s>
+					<s n="35" xml:lang="la" type="auto">Quae prima omnium initia et causae fuerunt odiorum Theodorici et Ebronii in sanctos episcopos, quorum consiliis eorum rabies coercita fuerat.</s>
+					<s n="36" xml:lang="la" type="auto">Prior furere ceperat Ebronius, Luxovio elapsus undique sibi concilians, quorum studiis niti posset.</s>
+					<s n="37" xml:lang="la" type="auto">Mox et Theodoricus, etiam restitutus et ex hoste amicus factus, Ebroino nihil non indulsit.</s>
+					<s n="38" xml:lang="la" type="auto">Hinc occasio oblata Eberwino trucidandi <persName>Leodogarii</persName>, quem antea saepe variis modis vexarat et afflixerat.</s>
+					<s n="39" xml:lang="la" type="auto">Quod eo fere tempore accidit, quo Pipinus<note xml:id="fn57" type="footnote" n="57">Pipinus von Heristal.</note>, Ansegisi<note xml:id="fn58" type="footnote" n="58">Ansegisus, fränkischer Hausmeier.</note> filius, rebus Austrasiorum praefectus, Wulfrado<note xml:id="fn59" type="footnote" n="59">Wulfradus, fränkischer Hausmeier.</note> maiori domus successerat, et ipse profligatus gravi proelio ab Ebroino; cuius postea singulari solertia <persName ref="p18844">Ebroinus</persName>, subornato ad eam rem Ermenfrido, gladio confossus et extinctus est, circiter annum domini 688, hoc est tertio fere anno post mortem <persName>Leodegarii</persName>.</s>
+					<s n="40" xml:lang="la" type="auto">De hac re perpulchre convenit Gallicis chronographis, quibus sane hoc plus fidei debetur, quo est certius, quenquam rerum domi gestarum certiorem autorem esse posse quam ullos, qui alios sequuti externa in literas retulerunt.</s>
+					<s n="41" xml:lang="la" type="auto">Ego reges Francorum bona fide nec indiligenti annorum supputatione in catalogum qualemcunque comportaram, quem d. <persName>Stumphio</persName> dono dedi.</s>
+					<s n="42" xml:lang="la" type="auto">Ex eo ipso annorum ratio colligi facile poterit de Ebronio et Theodorico, quem et ipsum vidisse te optarem.</s>
+					<s n="43" xml:lang="la" type="auto">Circumspecte hic gradus figendus est nec facile quibusvis acquiescendum.</s>
+					<s n="44" xml:lang="la" type="auto">In nullo enim scribendi genere citius dormitatur, ab his imprimis, qui, amanuensibus usi, grandes libros consarciunt.</s>
+					<s n="45" xml:lang="la" type="auto">Quando igitur etiam Tschudus<note xml:id="fn60" type="footnote" n="60"><persName>Ägidius/Gilg Tschudi</persName>.</note>, Glaronensis, cito vidit indignas esse fide tabulas quasdam, quarum et Rhenanus<note xml:id="fn61" type="footnote" n="61"><persName>Beatus Rhenanus</persName>.</note> meminit, qui Wighardum et Rupertum duces faciunt Ludovicii Pii<note xml:id="fn62" type="footnote" n="62"><persName>Ludwig der Fromme</persName>, 814-840 Kaiser.</note> et annum praeferunt domini 905, a quo nimirum non uno seculo abfuit <persName>Leodogarius</persName>, Ludovicus autem ille secundus, Dagoberti filius, intelligi non possit, velut eius duces fuerint Wighardus et Rupertus, quippe qui annis plus minus 27 ante trucidatum <persName>Leodogarium</persName> defunctus est, duobus filiis postea regnantibus, Lothario et Theodorico (qui fratri defuncto successit); in Ludovicum, iam dicti Theodorici filium, inclinare et duces eius Rupertum et Wighardum fuisse credere necesse habui.</s>
+					<s n="46" xml:lang="la" type="auto">Hic enim circiter annum domini 696 mortuus est, decimo plus minus anno post fatum <persName>Leodogarii</persName> et annis plus minus 18 ante principatum <persName>Caroli Martelli</persName><note xml:id="fn63" type="footnote" n="63"><persName>Karl Martell</persName>.</note>, qui stirpis Carolinorum autor extitit.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="47" xml:lang="la" type="auto">Hoc igitur modo vetustatis ratio habetur ecclesiae tum vestrę, tum Lucernanę (nam et huic vetustatem multis de causis vindicare utile est), neque hoc sum stupore obrutus, clarissime d. Bullingere, ut existimem, tum primum fundamentum esse ecclesiam Tigurinam maiorem, quum est ab altero ducum e ruderibus collecta restaurataque et suis rursum donis exornata, deinde vero aucta a <persName>Carolo Magno</persName><note xml:id="fn64" type="footnote" n="64"><persName>Karl der Große</persName>.</note>, nobilibus interim velut suam stipem contribuentibus; id quod tabulae vestrae, ad me ante annos aliquot missae, disertis verbis convincunt.</s>
+					<s n="48" xml:lang="la" type="auto">Scio et te etiam authore amplius didici, vetustissima esse initia istius sedis, nec dubito, florentibus etiamnum Romanorum rebus in isto loco religionis christianę exordia fuisse, ut locis aliis nostratibus, nempe Briganti<note xml:id="fn65" type="footnote" n="65">Bregenz.</note>, cuius rei evidentia testimonia extant.</s>
+					<s n="49" xml:lang="la" type="auto">Sed non aedes modo illa vetus; sed urbs etiam Tigurina vetus, Alemannicis eruptionibus provinciarum formis iam pessum euntibus, extincta et deleta est et plane in vicum redacta.</s>
+					<s n="50" xml:lang="la" type="auto">De hoc tu, arbitror, non dubitas.</s>
+					<s n="51" xml:lang="la" type="auto">Intelligendum igitur, Francorum veterum fundationes multis in locis instaurationes fuisse magis quam fundationes, nec parva horum laus fuit, quod, ad fidem Christi conversi, mox in eius gloriam redintegrarunt ecclesias plusculas, quas maiores sui, deo carentes in mundo (ut obiter Pauli verbis utar), magno christiani nominis odio devastarant.</s>
+					<s n="52" xml:lang="la" type="auto"><placeName>Constantiensem</placeName> sedem cito de Windonissensi, ut creditur, Franci transtulere; Dagobertus postea aedificiis et reditibus ornavit; Bertam etiam, <persName>Caroli</persName> mater, ei sedi providit.</s>
+					<s n="53" xml:lang="la" type="auto">Ad quem modum et ad Rhenum sedes aliquae, afflictae prius a Francis et foede tractatae, demum ab iisdem, meliorem ad mentem inductis, redintegratae et amplissime ornatae fuerunt.</s>
+					<s n="54" xml:lang="la" type="auto">Qua de re magna fide et ipse Rhenanus prodidit.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="55" xml:lang="la" type="auto">Nihil igitur opus fuerit, alterius ducis fundationem ad abbatissianam illam urbis vestrae [ecclesiam]<note xml:id="fn66" type="footnote" n="66">Fraumünster.</note> torquere et ab alia abhorrere, quę nihil detrimenti et plusculum habet gloriae; praesertim quod abbatissiana suum, et perspectum quidem et indubitatum, autorem habet fundationis suae, Ludevicum<note xml:id="fn67" type="footnote" n="67">Ludwig der Deutsche.</note> illum illustrem principem, <persName>Caroli Magni</persName> nepotem.</s>
+					<s n="56" xml:lang="la" type="auto">Torta isthaec et involuta coniectatio futura esset nec parum suspicionis moveret gloriolae nescio cuius, paulo affectatius et nulla necessitate quaesitae, a qua facile te declinaturum mihi persuadeo, modo rem pro dignitate aestimaveris.</s>
+					<s n="57" xml:lang="la" type="auto">Facile autem cedam, si quis me certis et evidentibus testimoniis et argumentis admonuerit; tua enim (pace tua dixerim) non faciunt mihi satis.</s>
+					<s n="58" xml:lang="la" type="auto">Nam istud, quod adfers: tam repente in deos referri non potuisse <persName>Leodogarium</persName>, frigidulum est; tum quod in hoc genere venerationis adeo superstitiosos fuisse Francos constat, ut gentilium more parum abfuerit aliquando, quin vivos etiam sanctitate vitae praestantes in deos retulerint (nosti quid de <persName ref="p18889">Martino</persName><note xml:id="fn68" type="footnote" n="68"><persName>Martin von Tours</persName>.</note> Sulpitius<note xml:id="fn69" type="footnote" n="69"><persName>Sulpicius Severeus</persName>, gest. um 420 (Altaner/Stuiber, Patrologie 231).</note> scripserit), tum etiam, quod exempla docent, miracula ut quaeque recentissima fuere, ita maxima etiam cum admiratione recepta fuisse.</s>
+					<s n="59" xml:lang="la" type="auto">Tiberius<note xml:id="fn70" type="footnote" n="70">Tiberius, 14-37 römischer Kaiser.</note> etiam, quod a Tertulliano est proditum, brevi tempore post Christum excitatum in deorum numerum Romae referre et divinis honoribus prosequi volebat, nisi senatus authoritas ei fuisset refragata.</s>
+					<s n="60" xml:lang="la" type="auto">Gallo nostro<note xml:id="fn71" type="footnote" n="71">Gallus, irischer Glaubensbote, gest. um 645 oder 630.</note> confestim a morte divini honores habiti sunt, et ipse sine mora est a Bosone<note xml:id="fn72" type="footnote" n="72">Boso, sagenhafter Bischof von Konstanz.</note> in sanctos ex evidentia miraculorum relatus.</s>
+					<s n="61" xml:lang="la" type="auto">Ferunt et monasterii nostri acta, quod abbas Chonradus a Busnang<note xml:id="fn73" type="footnote" n="73"><persName>Konrad von Bussnang</persName>.</note> sacellum extrui et dedicari curarit Elizabethae, Thuringorum ducis coniugi recens canonizatae, cui tamen viventi in curia <persName>Heinrichi</persName>, Friderici secundi filii (cuius a consiliis erat Chuͦnradus) advocatum sese et intercessorem adiunxerit<note xml:id="fn74" type="footnote" n="74">Vgl. Kuchimeisters Chronik, St. Gall. Mitt. XVIII 5.</note>.</s>
+					<s n="62" xml:lang="la" type="auto">Testem appello Stumphium, quem id in actis Chonradi legis[se] non dubito.</s>
+					<s n="63" xml:lang="la" type="auto">Postremo de <persName>Leodogario</persName> sic Sigbertus in rebus gestis anni 688, hoc est tertii post passum <persName>Leodogarium</persName>: "Innocentia," inquit, "et meritum <persName>Leodogarii</persName> multis miraculis declaratur", etc.</s>
+					<s n="64" xml:lang="la" type="auto">Horum igitur fama dux motus, hoc celerius, velut aliis praerepturus officium, illi memoriam dedicavit, quo recentiora miracula erant.</s>
+					<s n="65" xml:lang="la" type="auto">Certe vivus templum non recepit, quicquid tandem colligat Antoninus<note xml:id="fn75" type="footnote" n="75">(Wohl:) Antoninus, Erzbischof von Florenz, gest. 1459: Chronicon sive Summa Historialis ab O. C., 1457.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="66" xml:lang="la" type="auto">Quod affers de stirpe Carolingorum, qui Merovingos antecessores non habuerunt, novi, ex recta linea sanguinis nec successores fuisse Carolingos Merovingorum nec hos illorum antecessores.</s>
+					<s n="67" xml:lang="la" type="auto">Notantur enim pontifices Romani perfidiae cuiusdam, quod sui studio commodi, legitimo sanguine Francorum reiecto, Pipinorum stirpem admorint regno, cuius ante non domini nec haeredes, sed ministri fuerant.</s>
+					<s n="68" xml:lang="la" type="auto">Affectarunt igitur potius Carolingi quam reiecerint illos antecessores suos, velut et ipsi de regia stirpe Francorum essent, et se successores eorum videri cupiverunt.</s>
+					<s n="69" xml:lang="la" type="auto">Quod si non recipis, tamen sermo ipse convincit, Carolingos Merovingorum successores et vicissim hos illorum antecessores fuisse.</s>
+					<s n="70" xml:lang="la" type="auto">Quare telum isthoc tuum, quod in me torques, acumine caret nec vulnus infligit ullum; sicut nec illud, quod de primo duce Alemannorum attulisti.</s>
+					<s n="71" xml:lang="la" type="auto">Constat enim, Francos post subiugatam Alemanniam perpetuo duces illic habuisse militarium negociorum, non quidem principes, quales posteriores fuere circa Pipini et Carolorum aetatem et postea, nec suae potestatis, sed ceu famulitio deditos, quanquam illustres homines, ut tum vocantur.</s>
+					<s n="72" xml:lang="la" type="auto">Ideo iniussu regum nihil audebant, et illa tabula vetus significat, ne ecclesias quidem illas sua opera extructas sine principis sui consensu.</s>
+					<s n="73" xml:lang="la" type="auto">Velim igitur, ut dicam summatim, locum cederes coniecturae temporum rationi eximie confirmatae nec urgeres plenam suspicionum opinionem, cum qua vestrates tabulae dissentiunt et pugnant.</s>
+					<s n="74" xml:lang="la" type="auto">Hac autem de caussa nolim quicquam affirmari praefidenter, quod nostra coniectura vetustatem tuetur vel restauratae ecclesiae Tigurinae et longaevae illi vetustati eius, qua Lucernanam longe superat ecclesiam, ne hylum quidem detrahit, sed ipsam agnoscit magis atque confirmat.</s>
+					<s n="75" xml:lang="la" type="auto">Hactenus de fundatione et <persName>Leodogario</persName>.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="76" xml:lang="la" type="auto">Quod si meam sententiam ex adductis per me rationibus non recipis, appello dominum Stumphium et me illius pronunciationi staturum testificor.</s>
+					<s n="77" xml:lang="la" type="auto">Quanquam mihi iure exceptio competeret ob eximiam amicitiam, qua tibi iunctus est, tamen quia mihi quoque, ut spero, iure magno et amicitiae et familiaritatis adglutinatus est, non garvabor citra omnem tergiversationem accipere, quod ab ipso fuerit pronunciatum.</s>
+					<s n="78" xml:lang="la" type="auto">Hoc unum te sancte oro, mi charissime, ut <persName>Stumphio</persName> successorem des et in urbem e rure voces cum uxore et liberis, ubi opus excudere Froschouerus inceperit.</s>
+					<s n="79" xml:lang="la" type="auto">Mire hic gratificari et nobis et Froschouero poterit, in tanto praesertim et tam vario et impedito opere.</s>
+					<s n="80" xml:lang="la" type="auto">Ad <persName>Theodoretum</persName> quod attinet, anxie tua expectamus.</s>
+					<s n="81" xml:lang="la" type="auto">Ego linguae Graecae maxima parte ignarus deprehendere non potui, idemne opus an diversum esset.</s>
+					<s n="82" xml:lang="la" type="auto">Abs te vere iam certior factus, nihil amplius haesito.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="83" xml:lang="la" type="auto">De Baalitarum sceleribus non est, quod dubites.</s>
+					<s n="84" xml:lang="la" type="auto">E Rorschacho enim parrocum vinctum abducere et episcopo Constantiensi<note xml:id="fn76" type="footnote" n="76"><persName>Johann V. von Weza/Weeze/Wetza</persName>.</note> tradi iussit abbas noster<note xml:id="fn77" type="footnote" n="77"><persName>Diethelm Blarer von Wartensee</persName>.</note>, et in aperto est, multo ipsum tempore abusum naturali sua filia; id quod et ipsa in vinculis, in quibus adhuc gravida detinetur, clare confessus est.</s>
+					<s n="85" xml:lang="la" type="auto">A parrocho Goldachensi sororem gravidam factam constans rumor est, et sunt, qui credant, utranque a se vitiatam.</s>
+					<s n="86" xml:lang="la" type="auto">De aliis, quibus de scripseram, constans itidem fama est; sed ut certo scias, quid res ipsa habeat, omnia exquisitius percunctabor.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="87" xml:lang="de" type="auto">Mittler zyt hatt sich der pfarrer zuͦ <placeName>Arbon</placeName>, der die pfaffenmäß noch halt und aber der worheit wol bericht ist, zum andern mal nachtz verwägen, das inn der teufel weg fuͤren wölt.</s>
+					<s n="88" xml:lang="de" type="auto">Hatt sich ouch in grossem schweiß, das im die tropfen über das antlit nider geloffen, mercken lassen, er sähe vor im den geist, der inn nemen wölle, und daruf angeruͤft, das man den evangelischen predicanten ylentz beschiken wölle (dann er mitt im nitt übel eins ist, und darumb zum andern mal zuͦ erschynen und trost anzelegen guͦtwillig gewesen ist).</s>
+					<s n="89" xml:lang="de" type="auto">Als oft er kommen ist, ist es besser worden, unnd pfarrer gesagt, das der gsell, den er vor im umbrumplen gesähen, von im hinwëg sey, etc.</s>
+					<s n="90" xml:lang="de" type="auto">Sind guͦter hoffnung, gott werd inn mitt sölicher versuͦchung gewarndt haben, damitt er sich zum herren kere und synen namen worhafft ußkünde, dan er sonst ein wolberedt, persönlich und nit ungeleert man ist.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="91" xml:lang="la" type="auto">Elenchum libri tui de sacramentis<note xml:id="fn78" type="footnote" n="78">Siehe <ref target="file12379">Nr. 2332</ref>, <ptr target="qvfn16020-2" type="qv"/>.</note> legi et relegi et illustrem laborem video, qui sane undequaque lectorem in huius rei tractatione poterit liquidę veritatis admonere.</s>
+					<s n="92" xml:lang="la" type="auto">Valde rogo te, ut excuso eo carere me non sinas.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="93" xml:lang="la" type="auto"><persName ref="p18889">Lutheri</persName> propositiones nihil habent rari, cur aedi debuerint.</s>
+					<s n="94" xml:lang="la" type="auto">Esum carnalem carnis Christi inculcat et proponit.</s>
+					<s n="95" xml:lang="la" type="auto">Talis coenae (quoniam Thyestea est) me convivam non habebit.</s>
+					<s n="96" xml:lang="la" type="auto">De <persName>Halleri</persName> gratia et fortunis apud <placeName>Augustanos</placeName> valde gaudeo.</s>
+					<s n="97" xml:lang="la" type="auto">Multi boni viri timebant, ne quid discordiae primus ille adventus eius ex doctrinae varietate pareret; sed artibus sathanae obstare domini gratiam video, quae ut illum magna dignitate apud illos evehat, dominum impense praecamur.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="98" xml:lang="la" type="auto">De reliquis ad me missis magnos ago gratias.</s>
+					<s n="99" xml:lang="la" type="auto">Remitto, quę iubebas, et simul mitto epigrammata, quae concionatoris<note xml:id="fn79" type="footnote" n="79">Wohl der gelehrte <persName>Kaspar Gräter</persName>, der kurz nach dem Tod des unten angeführten Abtes (bestimmt noch vor Juli 1544; s. <bibl>MBW-Reg</bibl> XII 173) erneut Hofprediger des Herzogen Ulrichs von Württemberg wurde.</note> esse principis <persName>Wirtembergensis</persName>, minime inelegantis hominis, existimantur; quanquam alterum, de Luna, Gallo et Aquila<note xml:id="fn80" type="footnote" n="80">Siehe unten Z. 000 [33.232] und die 1. Beilage.</note>, <persName ref="p6490">Philippi</persName><note xml:id="fn81" type="footnote" n="81"><persName>Philipp Melanchthon</persName>.</note> esse dicatur, quod e <placeName>Ratisbono</placeName>[!] Schnepfius amiculis quibusdam Studgardiam miserit.</s>
+					<s n="100" xml:lang="la" type="auto">Non admodum dissimili filo scripta sunt.</s>
+					<s n="101" xml:lang="la" type="auto">Ferunt tamen <persName ref="p6490">Philippi</persName> esse discipulum, qui iam ducis <persName>Wirtembergensis</persName><note xml:id="fn82" type="footnote" n="82"><persName>Ulrich von Württemberg</persName>.</note> concionator existit.</s>
+					<s n="102" xml:lang="la" type="auto">Abbas Plabürensis<note xml:id="fn83" type="footnote" n="83"><persName>Ambrosius Scheerer</persName>, Abt von <placeName>Blaubeuren</placeName>, gest. 7. Januar 1544 (vgl. unten <bibl>Z</bibl> 000 [293] und <bibl>Pfeilsticker</bibl> II 3333).</note> ante menses aliquot e vita excessit, homo, dum erat, parcus, avarus et sordidus.</s>
+					<s n="103" xml:lang="la" type="auto">Eo mortuo dux <persName>Huldrichus</persName> misit, qui relictam suppellectilem confiscarent.</s>
+					<s n="104" xml:lang="la" type="auto">Ibi iustam pecuniae summam repererunt, qui excusserunt loculos, quum hypocrita tamen vanus et mendax ad cuiusvis vel tantillae exactionis rumorem pauperem se esse et aere vacuum inclamarit.</s>
+					<s n="105" xml:lang="la" type="auto">Eius rei causa et quod alioqui horum hominum more non satis probatae vitae esset, hoc de ipso, velut typo improborum abbatum, epigramma conscriptum esse ferunt<note xml:id="fn84" type="footnote" n="84">Siehe unten die 2. Beilage.</note>, argumentum profecto et elegans, ex quo coniicere licet, quam procaciter quidam vitas malignorum abbatum proscindere non vereantur.</s>
+					<s n="106" xml:lang="la" type="auto">Frigidulum mihi visum est alterum de Luna, Gallo, Aquila, id est de Turca, Franco, caesare; sed habet tamen laudem non ineptam ordinum imperii nec inauspicatum omen est victoriae, quam illis magna fiducia pollicetur.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="107" xml:lang="la" type="auto">Novarum rerum praeterea nihil.</s>
+					<s n="108" xml:lang="la" type="auto">Lindavienses muros urbis aut turres potius ad omnem casum belli instruxerunt, portam pontis insulam cum continente coniungentis fortissime muniunt.</s>
+					<s n="109" xml:lang="la" type="auto">Quibus id de causis fiat, tacetur; sed sermone tamen quorundam fertur, caesarem clam et de tribunis aliquot et militibus paulo expertioribus per vallem <placeName>Walgauiam</placeName> et Algauios montes providisse; abundat enim tractus ille bonis militibus.</s>
+					<s n="110" xml:lang="la" type="auto">Placet mihi domini voluntas in suis tam vigilanter et circumspecte agentibus.</s>
+					<s n="111" xml:lang="la" type="auto">Equidem certissimi mihi argumenti vice est, in hoc esse patrem misericordiarum, ne sui ob gloriam filii in mundo rursum effulgentis desererantur, sed ornentur potius certis gratiae beneficiis.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="112" xml:lang="la" type="auto">Vale et mea consule boni.</s>
+					<s n="113" xml:lang="la" type="auto">Recte fecisti, quod labores postremos Stumphio misisti; eius enim iudicio et consilio concredidi omnia.</s>
+				</p>
+			</div>
+			<div xml:id="div16" corresp="regest16">
+				<p>
+					<s n="114" xml:lang="la" type="auto">San Galli, [...] die februarii, anno domini 1546.</s>
+				</p>
+			</div>
+			<div xml:id="div17" corresp="regest17">
+				<p>
+					<s n="115" xml:lang="la" type="auto"><persName>Ioachimus Vadianus</persName> tuus.</s>
+				</p>
+			</div>
+			<div xml:id="div18" corresp="regest18">
+				<p>
+					<s n="116" xml:lang="la" type="auto">Mecenatos meos, amplissimos et prudentissimos viros d. d. consules Habium et <persName ref="p6155">Lavaterum</persName>, cum multa commendatione meo nomine saluta.</s>
+				</p>
+			</div>
+			<div xml:id="div19" corresp="regest19">
+				<p>
+					<note type="address">[Adresse...:]</note>
+					<s n="117" xml:lang="la" type="auto">Candidissimo et doctissimo viro d. Heinricho Bullingero, amplissimae urbis Tigurinae episcopo, domino suo et tanquam fratri longe charissimo.<pb type="scan" next="E__II__356a,1002"/></s>
+				</p>
+				<p>
+					<note type="attachment">[1. Beilage:]</note>
+					<s n="118" xml:lang="la" type="auto">De Luna, Aquila, et Gallo Epigramma.</s>
+					<s n="119" xml:lang="la" type="auto">Luna dolens ima[?] coeli se parte locatam.</s>
+					<s n="120" xml:lang="la" type="auto">Sic iracuni plena ruboris ait.</s>
+					<s n="121" xml:lang="la" type="auto">Semper ego iustos reprimam contempta dolores,</s>
+					<s n="122" xml:lang="la" type="auto">Et mens exempto fine iacebat honor.</s>
+					<s n="123" xml:lang="la" type="auto">Si nequeo coeli, terrae suprema tenebo,</s>
+					<s n="124" xml:lang="la" type="auto">Degener est quisquis cogitat ima[?] sequi.</s>
+					<s n="125" xml:lang="la" type="auto">Ad mea succumbent invicti signa monarchae,</s>
+					<s n="126" xml:lang="la" type="auto">Se mihi nec quisquam sentiet esse parem.</s>
+					<s n="127" xml:lang="la" type="auto">Demittent Aquilae labentes turpiter alas,</s>
+					<s n="128" xml:lang="la" type="auto">Praeda mihi posthaec obvia Gallus erit.</s>
+					<s n="129" xml:lang="la" type="auto">Omnia parebunt dominanti climata Lunae,</s>
+					<s n="130" xml:lang="la" type="auto">Climata quae fugiens Sol oriensque videt.</s>
+					<s n="131" xml:lang="la" type="auto">Forte per aestivum librantes aethera pennas.</s>
+					<s n="132" xml:lang="la" type="auto">Audierant geminae verba loquentis aves.</s>
+					<s n="133" xml:lang="la" type="auto">Altera sacra Iovi est, noctem fugat altera cantu,</s>
+					<s n="134" xml:lang="la" type="auto">Utraque se dignam summa tenere putat.</s>
+					<s n="135" xml:lang="la" type="auto">Luna vetat, cupiunt illae, cupit ipsa, simulque</s>
+					<s n="136" xml:lang="la" type="auto">Tres orbis dominis totius esse volunt.</s>
+					<s n="137" xml:lang="la" type="auto">Mox Aquila aërio contendit in astra volatu</s>
+					<s n="138" xml:lang="la" type="auto">Despiciens volucrem, despiciensque deam.</s>
+					<s n="139" xml:lang="la" type="auto">Aemulus hanc sequitur stolido conamine Gallus,</s>
+					<s n="140" xml:lang="la" type="auto">Et cristam reliquas eriget inter aves.</s>
+					<s n="141" xml:lang="la" type="auto">At dea quae terras nocturno lumine complet</s>
+					<s n="142" xml:lang="la" type="auto">Imperium volucri cedere turpe putat.</s>
+					<s n="143" xml:lang="la" type="auto">Tum dubie motus certamine Iuppiter inquit,</s>
+					<s n="144" xml:lang="la" type="auto">Nec Gallo sceptrum, nec tibi Luna dedi.</s>
+					<s n="145" xml:lang="la" type="auto">Arbitrium mundi semper meus ales habebit</s>
+					<s n="146" xml:lang="la" type="auto">Armiger hic magni sit, maneatque Iovis.</s>
+					<s n="147" xml:lang="la" type="auto"><pb type="scan" next="1003"/>Si quis ei celeres audebit vellere pennas,</s>
+					<s n="148" xml:lang="la" type="auto">Sentiet armatos unguibus esse pedes.</s>
+					<s n="149" xml:lang="la" type="auto">Sentiet infesti, quo pollet acumina rostri,</s>
+					<s n="150" xml:lang="la" type="auto">Illaque quae nobis fulmina ferre solet.</s>
+					<s n="151" xml:lang="la" type="auto">Dixerat: Hinc Aquilem cum Gallo Luna verentur,</s>
+					<s n="152" xml:lang="la" type="auto">Et rata, quae statuit Iuppiter, esse sinunt.</s>
+					<s n="153" xml:lang="la" type="auto">Iudicii vero quoties meminere Tonantis,</s>
+					<s n="154" xml:lang="la" type="auto">Protinus invitis occupat ora rubor.</s>
+					<s n="155" xml:lang="la" type="auto">Inde vides Gallo plerumque rubescere cristas,</s>
+					<s n="156" xml:lang="la" type="auto">Hinc tibi Luna genas purpura saepe notat.<pb type="scan" next="E__II__441,567"/></s>
+				</p>
+				<p>
+					<note type="attachment">[2. Beilage:]</note>
+					<s n="157" xml:lang="la" type="auto">Qualis nostri secvli abbas esse debeat, ad exemplar <persName>Ambrosii</persName> Abbatis Blauburensis graphica hypotyposis:</s>
+					<s n="158" xml:lang="la" type="auto">Si quis me querat, qualis nam debeat esse</s>
+					<s n="159" xml:lang="la" type="auto">Abbas, quem nostro tempore mitra facit.</s>
+					<s n="160" xml:lang="la" type="auto">Accipiat brevibus, veroque carmine discat,</s>
+					<s n="161" xml:lang="la" type="auto">Quod vix a tergo pagina scripta docet.</s>
+					<s n="162" xml:lang="la" type="auto">Principio indoctus ita sit, sit denique inceptus,</s>
+					<s n="163" xml:lang="la" type="auto">Ut nec Aesopum vel semel attigerit.</s>
+					<s n="164" xml:lang="la" type="auto">Nil tribuat rectis studiis, contemnat ubique</s>
+					<s n="165" xml:lang="la" type="auto">Qui tribuunt studiis tempora cuncta bonis.</s>
+					<s n="166" xml:lang="la" type="auto">Qui norint linguam Graecam simul atque Latinam,</s>
+					<s n="167" xml:lang="la" type="auto">Tanquam anguem primis arceat a foribus.</s>
+					<s n="168" xml:lang="la" type="auto">Si lucrum occurrit nunquam periuria vitet.</s>
+					<s n="169" xml:lang="la" type="auto">Negligat et nummi semper amore fidem.</s>
+					<s n="170" xml:lang="la" type="auto">Semper amet sordes, sit semper avarus, egenos</s>
+					<s n="171" xml:lang="la" type="auto">Hospitio nunquam perfidus accipiat.</s>
+					<s n="172" xml:lang="la" type="auto">Si regi sit dandum aliquid, mox horrea clamet</s>
+					<s n="173" xml:lang="la" type="auto">Exhausta, et reliquum nil superesse sibi.</s>
+					<s n="174" xml:lang="la" type="auto">Horrida Turcorum si impressio limine in ipso est,</s>
+					<s n="175" xml:lang="la" type="auto">Nostra velit nullo castra iuvare pilo.</s>
+					<s n="176" xml:lang="la" type="auto">Agricolas miseros emungat, et undique census</s>
+					<s n="177" xml:lang="la" type="auto">Augeat, aeterna victus avaricia.</s>
+					<s n="178" xml:lang="la" type="auto">Ipse sibi plaudat, lautissima balnea laudet,</s>
+					<s n="179" xml:lang="la" type="auto">Munifica ductet plurima scorta manu.</s>
+					<s n="180" xml:lang="la" type="auto">Fratres tanquam asinos constringat carcere duro,</s>
+					<s n="181" xml:lang="la" type="auto">Et modico castos imperet esse cibo.</s>
+					<s n="182" xml:lang="la" type="auto">Interea quicquid lautum est gratumque palato,</s>
+					<s n="183" xml:lang="la" type="auto">Ipse sibi sumpta comparet egregio.</s>
+					<s n="184" xml:lang="la" type="auto">Nil olei, at vini permultum absumere pergat,</s>
+					<s n="185" xml:lang="la" type="auto">Plus venerem semper Pallada quam faciat.</s>
+					<s n="186" xml:lang="la" type="auto">Alto invectus equo, et multa comitante caterva</s>
+					<s n="187" xml:lang="la" type="auto">Fronte supercilium tollat ubique gravi.</s>
+					<s n="188" xml:lang="la" type="auto">Non pietas, non virtutum hunc insignia flectant,</s>
+					<s n="189" xml:lang="la" type="auto">Se solum credat vivere tum sapere.</s>
+					<s n="190" xml:lang="la" type="auto">Libros nunquam emat ille, cognos conducere prestat,</s>
+					<s n="191" xml:lang="la" type="auto">Pinguia qui facili membra labore fovent.</s>
+					<s n="192" xml:lang="la" type="auto">Uxores habeat multas, si vernis Abbas.</s>
+					<s n="193" xml:lang="la" type="auto">Dicetur, vere sic pater esse potest.</s>
+					<s n="194" xml:lang="la" type="auto">Finis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12974" type="Brief" source="HBBW" n="2925">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 5. Juni 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Ex nostrorum ad vestrum magistratum literis, quo loco res sint nostrę, plane intelliges, mi venerande pariter et charissime frater.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="la" type="auto">Scripseram<note xml:id="fn2" type="footnote" n="2">Mit <ref target="file12962">Nr. 2913</ref> vom 26. Mai.</note> ad te per <persName ref="p5295">Froschoverum</persName><note xml:id="fn3" type="footnote" n="3"><persName>Christoph Froschauer</persName>, der nach <placeName>Konstanz</placeName> gereist war; s. <ref target="file12955">Nr. 2906</ref>,<ptr target="qvzl17172-1" type="qv"/>.</note>, deinde pridie calendas iunii schedulam<note xml:id="fn4" type="footnote" n="4">Mit <ref target="file12967">Nr. 2918</ref> vom 31. Mai.</note> per adulescentem <placeName>Augustinum</placeName><note xml:id="fn5" type="footnote" n="5">Der in <placeName>Zürich</placeName> studierende Augustin [...]; s. <ref target="file12967">Nr. 2918</ref>, <ptr target="qvfn17184-2" type="qv"/>.</note> tibi reddendam curavi.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="3" xml:lang="la" type="auto">Caesaris<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> animus quo eluctetur, nemo nisi ipsa cęcitate cęcior non videt.</s>
+					<s n="4" xml:lang="la" type="auto">Dominus et vindex noster Iesus Christus tempestiviter nos a gravissimis istis tentationibus et periculis vindicet!</s>
+					<s n="5" xml:lang="la" type="auto">Labascunt nunc nonnullorum animi, qui sibi pariter et aliis fortissimi videbantur, quos servator noster spiritu suo quamprimum suffulciat, ut ne prorsum animos despondeant.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Orate pro nobis nostraque ecclesia diligenter, quandoquidem in eadem nobiscum navi<note xml:id="fn7" type="footnote" n="7"><bibl>Adagia</bibl> 2, 1, 10 (<bibl>ASD</bibl> II/3 34f, <ref target="file11052">Nr. 1010</ref>).</note> propediem eritis.</s>
+					<s n="7" xml:lang="la" type="auto">Sed confidemus!</s>
+					<s n="8" xml:lang="la" type="auto">A nobis stat, qui mundum cum principe suo<note xml:id="fn8" type="footnote" n="8">Der Teufel; vgl. Joh 12, 31; 16, 11.</note> iamdudum devicit et inferorum portas expugnavit,<note xml:id="fn9" type="footnote" n="9">Vgl. Mt 16, 18.</note> qui rursum nos videbit, gaudebitque cor nostrum, solidum nimirum gaudium, quod nemo unquam a nobis tollet!<note xml:id="fn10" type="footnote" n="10">Joh 16, 22.</note><pb type="edition" next="244"/></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Saluta tuam domum cum omnibus fratribus et amicis.</s>
+					<s n="10" xml:lang="la" type="auto">Salutant te nostri, praecipue germanus meus frater<note xml:id="fn11" type="footnote" n="11"><persName>Thomas Blarer</persName>.</note> cum Zviccio.<note xml:id="fn12" type="footnote" n="12"><persName>Konrad Zwick</persName>.</note></s>
+					<s n="11" xml:lang="de" type="auto">Ach, lasst nitt nach, ernstlich für unß ze bitten!</s>
+					<s n="12" xml:lang="de" type="auto">Sorg und forcht will ettlichen nachstreychen<note xml:id="fn13" type="footnote" n="13">verfolgen.</note>, wiewol man sonst handtlich<note xml:id="fn14" type="footnote" n="14">entschlossen.</note> ist.</s>
+					<s n="13" xml:lang="de" type="auto">An den meinen<note xml:id="fn15" type="footnote" n="15">Diejenigen in <placeName>Konstanz</placeName>, die <persName>Blarer</persName> damals nahestanden; s. dazu <bibl>HBBW</bibl> XIX 39-41.</note> spür ich noch nichts dann grosß vertruwen uff gott.</s>
+					<s n="14" xml:lang="de" type="auto">Das well er selbs in inen mehren und erhalten!</s>
+					<s n="15" xml:lang="la" type="auto">5. iunii 1547.</s>
+					<s n="16" xml:lang="la" type="auto">Tuus Ambr. Bl.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Fac, sciam, num Hallerum nostrum ita vestri revocaverint, ut omnino ad vos rediturus siet.<note xml:id="fn16" type="footnote" n="16">= sit. - Zur hier angesprochenen Rückberufung s. <ref target="file12957">Nr. 2908</ref>; <ref target="file12966">Nr. 2917</ref>,<ptr target="qvzl17183-3" type="qv"/>.</note></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Praestantissimo viro d. Heinricho Bullingero, amico velut fratri incomparabili suo.</s>
+					<s n="19" xml:lang="la" type="auto"><placeName>Tiguri</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

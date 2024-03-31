@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10522" type="Brief" source="HBBW" n="486">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 14. Dezember 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quę hisce ad te scribo, charissime Heinrice, quandoquidem ex principum nostratum iussu id fit, eo magis sepulta apud te sint, quo magis tibi velut amico primario et ex animo sibi faventi sua, et ea quidem non vulgaria concredere dignantur.</s>
+					<s n="3" xml:lang="la" type="auto">Varii ab amicis<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> etiam ad nos deferuntur rumores bellici, quibus non solum nobis, non uni et alteri civitati, sed universę ferme Germanię christianę interitum a cesarianis, pontificiis et <placeName>Hispanis</placeName> interitum [!] comminantur propter evangelii doctrinam veluti extremam iam manum ad exterminandum eam apposituris.</s>
+					<s n="4" xml:lang="la" type="auto">Gebennensium tragędia exitialius atque magis intestinum prae se fert bellum.</s>
+					<s n="5" xml:lang="la" type="auto">Quod enim ad concordiam attinet, nihil adhuc actum est.</s>
+					<s n="6" xml:lang="la" type="auto">Allobrogum regulus<note xml:id="fn2" type="footnote" n="2">Herzog <persName>Karl III. von Savoyen</persName>.</note> pernegat in universum pacis conditiones totamque belli compositionem <placeName>Paterniaci</placeName> ab Helvetiis omnibus decretam<note xml:id="fn3" type="footnote" n="3">Zum Rechtsspruch des eidgenössischen Schiedsgerichtes von <placeName>Payerne</placeName> (Kt. Waadt) s. <bibl>EA</bibl> IV/Ib 1516-1562; <hi>Naef,</hi> Genève II 261-264.</note>. cui et <persName>Vadianus</persName> aderat<note xml:id="fn4" type="footnote" n="4">Vgl. <hi>Näf</hi> <persName>Vadian</persName> II 325f.</note>.</s>
+					<s n="7" xml:lang="la" type="auto"><placeName>Bernates</placeName> huic non sunt cessuri.</s>
+					<s n="8" xml:lang="la" type="auto">Iusticiam implorabunt iudicem<note xml:id="fn5" type="footnote" n="5"><placeName>Bern</placeName> ermahnte den <persName>Herzog von Savoyen</persName> 1534 wiederholt, den eidgenössischen Schiedsspruch von <placeName>Payerne</placeName> zu respektieren; s. u. a. <bibl>EA</bibl> IV/IC 379f. 387f. 400.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Quae si illis negetur, quemadmodum rara nunc est avis, alia cogitabunt consilia.</s>
+					<s n="10" xml:lang="la" type="auto">Interim gloriantur et minantur Antronii<note xml:id="fn6" type="footnote" n="6"><placeName>die V Orte</placeName>; ein von <persName>Haller</persName> oft gebrauchter Ausdruck; s. dazu <bibl>HBBW II</bibl> <ref target="file10110">[Nr. 81]</ref> 88, Anm. 3.</note> a parte sua constantissime futuros Tigurinos.</s>
+					<s n="11" xml:lang="la" type="auto">Occasionem optant, utcunque pacem se per omnia quaerere simulent, qua vel aliorum nomine in nos gladios stringant vel nos priores contra se excitent.</s>
+					<s n="12" xml:lang="la" type="auto">Cum itaque a <placeName>Basiliensibus</placeName> et aliis nonnullis attentatum sit civitates nostras conciliare atque in pristinam revocare amiciciam<note xml:id="fn7" type="footnote" n="7">Zu den Versuchen von <persName>Oswald Myconius</persName> und <persName>Jakob Meyer</persName> in <placeName>Basel</placeName>, die Eintracht zwischen <placeName>Bern</placeName> und Zürich wiederherzustellen, s. u. a. <bibl>HBBW III</bibl> 263f. 266-269; vgl. auch <hi>Rudolf,</hi> Aussöhnungsversuch.</note> tametsi, frustra, quod non sint amplius apud vos a secretis<note xml:id="fn8" type="footnote" n="8">Die Einrichtung der «Geheimen» wurde in Zürich nach der Niederlage von 1531 abgeschafft, was öfters bedauert wurde; s. oben <ref target="file10354">[Nr. 323]</ref> S. 60, 49-55 und Anm. 19. S. 84f, 3 und 17-26 mit Anm. 7 (vgl. auch <hi>Rudolf,</hi> Aussöhnungsversuch 518f). S. 96, 11-19. 98, 5f. 99, 2f.</note>, quibus hęc studia tuto credi possint, nihilominus id ipsum senatus noster denuo ambit, ea vero conditione, ut tuo consilio fideli tamen et opera praefectus noster Lenczburgensis<note xml:id="fn9" type="footnote" n="9"><persName>Sulpitius Haller</persName> war von 1530 bis 1536 Vogt von <placeName>Lenzburg</placeName>; s. <bibl>Walther</bibl> <hi>Merz,</hi> Die <placeName>Lenzburg</placeName>, Aarau 1904, Beilagen S. 106; vgl. <bibl>HBBW</bibl> II <ref target="file10094">[Nr. 65]</ref> 51, Anm. 9.</note> cordatiores conveniat ex civibus saltem diacosiis<note xml:id="fn10" type="footnote" n="10">vom Rat der Zweihundert.</note>, qua tandem ratione fieri posset, ut animi civitatum fortius coalescerent.</s>
+					<s n="13" xml:lang="la" type="auto">Diceres: Cur non mittitis legatos, ut videatis rem serio agi?</s>
+					<s n="14" xml:lang="la" type="auto">Pusillanimes certe nostros reddidit, quod aliis hactenus negatum est.</s>
+					<s n="15" xml:lang="la" type="auto">Ubi vero tu cum piis, atque iis cordatioribus consulueritis et revera consulere poteritis, exploratis multorum prius animis spe nostra non frustrari referet praefectus<pb type="edition" next="436"/> ad nos, et videbis legationem seriam.</s>
+					<s n="16" xml:lang="la" type="auto">Obiiceres deinde conditionibus certis publicę pacis negatum, ut amplius privati pagi privatas inter se erigant civitates.</s>
+					<s n="17" xml:lang="la" type="auto">Nihil turberis.</s>
+					<s n="18" xml:lang="la" type="auto">Aparte adversa cum Friburgensibus contra pacem actum<note xml:id="fn11" type="footnote" n="11">Gemeint ist der Artikel IV des Landfriedens; s. <bibl>EA</bibl> IV/Ib 1569. 1573.</note> nemo nescit<note xml:id="fn12" type="footnote" n="12"><persName>Haller</persName> spielt auf das geheime Bündnis <placeName>der V Orte</placeName> mit <placeName>Freiburg</placeName> an; vgl. <bibl>EA</bibl> IV/IC Materien-Register (Bünde II).</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Proinde civitatibus multis, multis item tabellis et sacramentis opus non erit, modo animi amore redintegrati sint.</s>
+					<s n="20" xml:lang="la" type="auto">Obsecro igitur te nomine nostrorum, qui te rogatum volunt per me, summam adhibeas diligentiam, quasi tuopte ingenio et consilio id facias, et quod inveneris, mecum per pręfectum<note xml:id="fn13" type="footnote" n="13">Vgl. oben Anm. 9.</note>, compatrem meum, communices.</s>
+					<s n="21" xml:lang="la" type="auto">Habes quę velim velintque nostrates.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Cęterum propositiones tuas de praedestinatione, libero arbitrio, magistratu, nobilibus, censibus, decimis et sabbato<note xml:id="fn15" type="footnote" n="15">Aufgrund der hier aufgezählten Themen könnte man an Bullingers erste Schrift gegen die Täufer «Von dem unverschämten Frevel» (<bibl>HBBibl</bibl> I 28) denken, die allerdings seit 1531 im Druck vorlag. Möglicherweise handelt es sich um (nicht erhaltene) Vorarbeiten zu diesem Werk, die er <persName>Haller</persName> zur Abschrift überließ.</note> transscribi curavi<note xml:id="fn16" type="footnote" n="16">Die von <persName>Haller</persName> besorgte Abschrift ist auch nicht erhalten.</note>, perlegi.</s>
+					<s n="23" xml:lang="la" type="auto">Videntur vero plus relinquere, quam fronte polliceantur.</s>
+					<s n="24" xml:lang="la" type="auto">Pro ocio perpendam.</s>
+					<s n="25" xml:lang="la" type="auto">Intellexisti, quod aliquando et me ursit <foreign xml:lang="de">ein sömlich rouw<note xml:id="fn17" type="footnote" n="17">roh, hart, streng (<bibl>SI</bibl> VI 1869f).</note> predigen</foreign> de praedestinatione.</s>
+					<s n="26" xml:lang="la" type="auto">Tuentur se multi libello <persName>Zvinglii</persName><note xml:id="fn18" type="footnote" n="18"><persName>Zwinglis</persName> «Sermonis de providentia dei anamnema», 1530 bei <persName>Froschauer</persName> in Zürich erschienen; <bibl>Z</bibl> VI/III 1-230.</note>.</s>
+					<s n="27" xml:lang="la" type="auto">Sed de his alias.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Hodie sunt apud nos nundinae.</s>
+					<s n="29" xml:lang="la" type="auto">Cras cum fratribus accingimur ad confessionem vestram<note xml:id="fn19" type="footnote" n="19">Gemeint ist <ref target="file10518">Nr. 482</ref>.</note> perpendendam.</s>
+					<s n="30" xml:lang="de" type="auto">Gut ding muͦß wil han<note xml:id="fn20" type="footnote" n="20">Vgl. <bibl>Wander</bibl> I 638.</note>.</s>
+					<s n="31" xml:lang="la" type="auto">Unum addam, quod si per omnia meis literis respondisses per Burcardum illum, multo fęlicius omnia se habitura sperassem.</s>
+					<s n="32" xml:lang="la" type="auto">Gaudeo te pergere in scribendo in Pauli epistolam ad Corinthios<note xml:id="fn21" type="footnote" n="21">Bullingers Kommentar zum 2. Korintherbrief erschien im März 1535 (<bibl>HBBibl</bibl> I 71).</note>.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Vale et me, ut soles, ex animo redames, qui mihi omnium mortalium charissimus es.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">14. decembris.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Salutant te fratres et symmistae.</s>
+					<s n="36" xml:lang="de" type="auto">Francz<note xml:id="fn22" type="footnote" n="22"><persName>Franz Kolb</persName>.</note> mag nütt meer.</s>
+					<s n="37" xml:lang="la" type="auto">Salutat te Nollius<note xml:id="fn23" type="footnote" n="23"><persName>Anton Noll</persName>.</note> et alii.</s>
+					<s n="38" xml:lang="la" type="auto">Rursum vale.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Anno 34.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Tuum minimum nummisma.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="41" xml:lang="la" type="auto">Heinrico Bullingero, ecclesiastę Tigurino, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

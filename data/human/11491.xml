@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11491" type="Brief" source="HBBW" n="1448">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Diethelm Keller (Cellarius) / [Zürich] AN Heinrich Bullinger, [zwischen 1537 und 1541]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Heinrico Bullingero, divini verbi praeconi omniumque studiosorum patrono ac Mecoenati<note xml:id="fn2" type="footnote" n="2">Mäzen (vgl. Peter L. <hi>Schmidt,</hi> in: KP III 860-862).</note>, discipuli inferioris ecclesiae s[alutem].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Cum haud dudum quosdam meorum convenissem commilitonum, Heinrice praestantissime, sermonesque de variis (ita ut fit) cederemus rebus, tandem etiam geographiae mentionem fecimus.</s>
+					<s n="3" xml:lang="la" type="auto">Tum ego aiebam me hactenus sępius fuisse miratum, qui nam fieret, quod non mappae in studiosorum gratiam ex ecclesiarum sumptibus compararentur atque studiorum gymnasiis affigerentur, praesertim cum hi sumptus et impensa e re studiorum esse viderentur.</s>
+					<s n="4" xml:lang="la" type="auto">Tum quidam aiebant nullam canonicis studiorum esse rationem, ne quid de suo expendere cogantur; iam enim de eadem saepius actum re, nil tamen adhuc illam deliberationem esse consecutum.</s>
+					<s n="5" xml:lang="la" type="auto">Quod tamen ego et (ni fallor) alii quoque summo desiderio expeterent, et id non abs re; tute enim nosti omnem poetarum lectionem, historicorum atque oratorum pęnitus caecam esse, mancam atque mutilam, nisi regionum, urbium, fluminum atque montium demonstratio et situs adfuerit.</s>
+					<s n="6" xml:lang="la" type="auto">Quod ego sane avaritiae atque tenacitati eorum attribuendum esse sedulo negabam, sed potius, quod a primis cunabulis in vera eruditione non versati (eorum enim tempora non tam erant foelitia, quantum ad veram literarum traditionem) commoda eius non probe degustassent, sed plerunque cantibus illis ecclesiasticis operam locassent suam.</s>
+					<s n="7" xml:lang="la" type="auto">Tu autem (qui in foeliciora incidisti tempora, quę equidem magis sunt exoptanda, si non secula seditiosa atque turbulenta respexerimus, sed mirum studiorum florem atque profectum et evangelicae veritatis augmentum atque restitutionem) tuam feras opem in hac re promovenda, enixissime oro.</s>
+					<s n="8" xml:lang="la" type="auto">Probe enim es expertus, literis quid conducat aut obsit.</s>
+					<s n="9" xml:lang="la" type="auto">Quin insuper et tuarum est partium ea curare, quae spectant ad tyrunculorum eruditionem doctrinaeque profectum.</s>
+					<s n="10" xml:lang="la" type="auto">Et ad haec, quod tuum exequeris offitium, apud me atque alios multos quam plurimas promereberis atque inibis gratias.</s>
+					<s n="11" xml:lang="la" type="auto">Et fac, quaeso, ne spes nostra de te percepta eludatur.</s>
+					<s n="12" xml:lang="la" type="auto">Omnem enim<pb type="edition" next="27"/> fidutiam nostram hac in re consequenda in te uno posuimus, nosque et literas humanas hac in re comendatos habeas.</s>
+					<s n="13" xml:lang="la" type="auto">Quod si enim te parum profecisse videbimus, alia aggrediemur via, donec propositum obtinuerimus.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p2463">Diethelmus Keller</persName> ad omnia promptus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

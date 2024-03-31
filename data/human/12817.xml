@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12817" type="Brief" source="HBBW" n="2768">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), Johannes Gast, 25. Januar [1547]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Hasce literas d. <persName ref="p18198">Bucero</persName> primo quoque tabellioni et certo quidem tradas, oro, <placeName>Argentinam</placeName> perferendas.</s>
+					<s n="3" xml:lang="la" type="auto">Poteris id commode per archigrammateum<note xml:id="fn3" type="footnote" n="3">Der Basler Stadtschreiber <persName>Heinrich Ryhiner</persName>.</note>, comunem amicum nostrum, perficere, quem et salutabis.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">D. <persName>Vadianus</persName> scribit<note xml:id="fn4" type="footnote" n="4">In einem nicht erhaltenen Brief, den Bullinger dem <persName>Ambrosius Blarer</persName> zum Lesen weiterleitete; s. <ref target="file12823">Nr. 2774</ref>,34f.</note> <placeName>Ianuae</placeName> (<placeName>Genow</placeName>)<note xml:id="fn5" type="footnote" n="5"><placeName>Genua</placeName>.</note> tumultuatum esse multo cum sanguine et transfixum quidem conto Ianingne de <persName>Doria</persName><note xml:id="fn6" type="footnote" n="6">Graf <persName>Giannettino Doria</persName>; s. Nr. 2759, Anm. 49.</note>, caesaris<note xml:id="fn7" type="footnote" n="7"><persName>Karl V.</persName></note> officialem, <pb type="edition" next="185"/> occubuisse, conto autem de Flisco<note xml:id="fn8" type="footnote" n="8"><persName>Gian Luigi Fieschi</persName>.</note>, papisticum et seditionis authorem coniectum in vincula, confiteri, quod pontifici<note xml:id="fn9" type="footnote" n="9"><persName>Paul III.</persName></note> voluerit <placeName>Ianuam</placeName> occupare et tradere.</s>
+					<s n="5" xml:lang="la" type="auto">Haec retulit, qui<note xml:id="fn10" type="footnote" n="10">Unbekannt.</note> hisce diebus e <placeName>Mediolano</placeName> venit.</s>
+					<s n="6" xml:lang="la" type="auto">Quod si verum est, novit forte papa caesarem Stygias profectum ad undas<note xml:id="fn11" type="footnote" n="11">Stygias undas: Der Fluss Styx in der Unterwelt, der die Grenze zum Totenreich (Hades) bildet.</note> a <persName>Nerone</persName><note xml:id="fn12" type="footnote" n="12"><persName>Nero</persName>, römischer Kaiser von 54 bis 68, bekannt (wie auch die hier nachfolgend angeführten römischen Kaiser) als Verfolger der Christen.</note>, Domiciano<note xml:id="fn13" type="footnote" n="13"><persName>Domitian</persName>, römischer Kaiser von 81 bis 96.</note>, <persName>Diocletiano</persName><note xml:id="fn14" type="footnote" n="14"><persName>Diokletian</persName>, römischer Kaiser von 284 bis 305.</note> et <persName>Iuliano</persName><note xml:id="fn15" type="footnote" n="15"><persName>Julian, gen. Apostata</persName>, römischer Kaiser von 361 bis 363.</note> artes discere, quomodo herbescens evangelium extinguat; quod tam verum vellem, quam constanter a multis asseveratur.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="7" xml:lang="de" type="auto">Zuͦ <placeName>Ulm</placeName> gadts übel.</s>
+					<s n="8" xml:lang="de" type="auto">Die hispanier und <placeName>Italier</placeName> thuͦnd wie ir bruch.</s>
+					<s n="9" xml:lang="de" type="auto">Gott erbarm sich der armen lüten!</s>
+					<s n="10" xml:lang="de" type="auto">Keyser hatt gester<note xml:id="fn16" type="footnote" n="16">Er traf am Abfassungstag des vorliegenden Briefes in <placeName>Ulm</placeName> ein; s. Nr. 2754, Anm. 18.</note> ynryten soͤllen.</s>
+					<s n="11" xml:lang="de" type="auto">Sagend wol, er lig imm holtz.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="12" xml:lang="de" type="auto">Sampstags<note xml:id="fn18" type="footnote" n="18">D.h. am 22. Januar.</note> ist mir üwer schriben<note xml:id="fn19" type="footnote" n="19"><persName>Myconius</persName>' Brief vom 20. Januar (<ref target="file12810">Nr. 2761</ref>).</note> von unserm loͤuffer<note xml:id="fn20" type="footnote" n="20">Sehr wahrscheinlich <persName>Melchior Schlosser</persName>. Zu seiner Entsendung nach <placeName>Basel</placeName> um diese Zeit s. <placeName>Zürich</placeName> StA, F III 32, Seckelamtsrechnungen 1546/47, S. 65 der Ausgabenabteilung für laufende Boten.</note> worden.</s>
+					<s n="13" xml:lang="de" type="auto">Desselben tags habend min herren ußgenomen<note xml:id="fn21" type="footnote" n="21">einberufen.</note> zuͦ irem stattpaner und fenli<note xml:id="fn22" type="footnote" n="22">Das Banner und das Fähnlein stehen für größere bzw. kleinere Truppenabteilungen.</note>: Acht man, dem fenli 2000 man, der paner 6000.</s>
+					<s n="14" xml:lang="de" type="auto">Und diewyl die vogthien Durgoͤw<note xml:id="fn24" type="footnote" n="24"><placeName>Thurgau</placeName>.</note> und <placeName>Sargans</placeName> an <placeName>Zürych</placeName>, werdint sy da ouch ußnemmen<note xml:id="fn25" type="footnote" n="25">ausheben, mustern.</note> sampt andern, die minen herren mitt burgraͤcht und pflicht verwandt: ouch ettwan in 2000.</s>
+					<s n="15" xml:lang="de" type="auto"><persName>Bernhart von Cham</persName>,<note xml:id="fn27" type="footnote" n="27">Zu dieser Ernennung s. schon <bibl>HBBW</bibl> XVIII 18f.</note> ein trüw, redlich man, houptman; Anderes <persName>Schmid</persName>,<note xml:id="fn28" type="footnote" n="28"><persName>Andreas Schmid (Faber)</persName>.</note> vast trostlich,<note xml:id="fn29" type="footnote" n="29">vast trostlich: sehr nützlich (im Kriegsfall); s. <bibl>SI</bibl> XIV 1429f.</note> panerher; der allt m. <persName>Schwyzer</persName> vortrager<note xml:id="fn31" type="footnote" n="31">Adjutant des Fähnrichs; s. <bibl>SI</bibl> XIV 538.</note>; m. <pb type="edition" next="186"/> Dumysen<note xml:id="fn32" type="footnote" n="32"><persName>Itelhans Thumysen</persName>.</note> schützenhouptmann; m. Holtzhalb<note xml:id="fn33" type="footnote" n="33"><persName>Hans Holzhalb</persName>.</note> schützenfenrych; <persName>Heinrych Lochman</persName> vortrager<note xml:id="fn34" type="footnote" n="34"><persName>Heinrich Lochmann</persName>, als Vortrager des "schützenfenrich" laut der oben in Anm. 23 angeführten Liste.</note>; seckelmeister <persName>Heinrych Raan</persName><note xml:id="fn35" type="footnote" n="35"><persName>Heinrich Rahn</persName>.</note>, der allt, houptman zum fenly; m. <persName>Heinrych Kramer</persName> fenrych; Rodolff Lochman<note xml:id="fn37" type="footnote" n="37"><persName>Rudolf Lochmann</persName>, geb. 1510, gest. am 20. April 1557. Zunftmeister zur Schiffleuten, im Natalrat von 1554 bis 1557; s. <bibl>Schnyder, Ratslisten</bibl> 591.</note> vortrager; Baltazar Kaͤller schützen zum fenlihouptman.</s>
+					<s n="16" xml:lang="de" type="auto">Hütt ordnet man wacht und provandtmeister, zuͦ den spiessen, helmbarten houptlüt,<note xml:id="fn39" type="footnote" n="39">Die Namen der Wachtmeister sowie der Hauptleute zu den Spießen bzw. den Hellebarden sind in der oben in Anm. 23 erwähnten Liste angeführt.</note> item gen <placeName>Stein</placeName> am Rhyn und anderschwo hin houptlüt.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="17" xml:lang="de" type="auto">Gott mitt uns.</s>
+					<s n="18" xml:lang="la" type="auto">Valeat et <persName ref="p18518">Gastius</persName>.</s>
+					<s n="19" xml:lang="la" type="auto">25. ianuarii.</s>
+					<s n="20" xml:lang="la" type="auto">Bullinger.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="21" xml:lang="de" type="auto">An herren <persName>Oßwalden Myconien</persName> oder in sinem abwaͤsen an herren <persName ref="p18518">Hansen Gasten</persName>, predicanten zuͦ <placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

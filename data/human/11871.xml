@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11871" type="Brief" source="HBBW" n="1825">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Martin Bucer, 8. Dezember 1543</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto"><placeName>Colonien[sium]</placeName> et Monasteriensium episcoporum<note xml:id="fn1" type="footnote" n="1">Erzbischof <persName>Hermann von Wied</persName> und Bischof <persName>Franz von Waldeck</persName>.</note> caussam, imo periculum praesentissimum ante oculos in precibus nostris tenemus, ut non sit necesse id tanta a nobis expetere diligentia,<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11849">Nr. 1803</ref>, 4-6.</note> quanquam in hoc se exerat egregia charitas et solicitudo tua ergo omnes sanctos.</s>
+					<s n="3" xml:lang="la" type="auto">Dominus spiritu suo illuminatos conservet in sancta et libera nominis sui confessione.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Liber reformationis<note xml:id="fn3" type="footnote" n="3">Zum <placeName>Kölner</placeName> Reformationsentwurf ("Einfaltigs bedencken"), um dessen Zusendung Bullinger gebeten hatte, s. zuletzt oben <ref target="file11849">Nr. 1803</ref>, 6-14.</note> nondum, opinor, absolutus est; ubi extrema ei manus imposita fuerit, quaeso, d. <persName>Vadiani</persName> et mei memineris.</s>
+					<s n="5" xml:lang="la" type="auto">Abiit ille superioribus diebus <placeName>Augustam</placeName>; nondum rediit, opinor.</s>
+					<s n="6" xml:lang="la" type="auto">Dolet ei non minus quam tibi fervidum <persName ref="p18889">Lutheri</persName> scriptum<note xml:id="fn5" type="footnote" n="5">Zu <persName>Luthers</persName> Brief vom 31. August 1543 an <persName>Christoph Froschauer</persName> s. zuletzt oben <ref target="file11849">Nr. 1803</ref>, 15-33.</note>; dolet et reliquis piis et doctis fratribus.</s>
+					<s n="7" xml:lang="la" type="auto">Nec est, quod metuas vixdum diremptam pugnam nostro reparandam fervore.</s>
+					<s n="8" xml:lang="la" type="auto">Nisi enim publico scripto ille nos prior lacessiverit aut nostra sic impetiverit, ut non possimus citra veritatis et purae confessionis discrimen silentio contumeliam dissimulare, nunquam descendemus in harenam<note xml:id="fn6" type="footnote" n="6"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>LB</bibl> II 361).</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Vide autem etiam atque etiam, doctissime idemque dilectissime mi <persName ref="p18198">Bucere</persName>, ne, dum omnes silemus et omnia dissimulamus omniaque illi permittimus, graviter et<pb type="edition" next="335"/> in dominum et in functionem nostram peccemus.</s>
+					<s n="10" xml:lang="la" type="auto">Olim certe non impune tantis innoxios fratres contumeliis affecisset convitiisque perfudisset.</s>
+					<s n="11" xml:lang="la" type="auto">Sed imponit nobis forte affectus, quia nostra hic res agitur<note xml:id="fn7" type="footnote" n="7">Vgl. <persName>Horaz</persName>, Epistulae, 1, 18, 84.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">In Moguntinensem<note xml:id="fn8" type="footnote" n="8"><persName>Albrecht von Brandenburg</persName>, Erzbischof von Mainz. -Bullinger bezieht sich auf <persName>Luthers</persName> 1539 gedruckte Streitschrift "Wider den Bischoff zu <placeName>Magdeburg</placeName> Albrecht Cardinal" (<bibl>WA</bibl> L 395-431).</note> et Brunsvicensem<note xml:id="fn9" type="footnote" n="9">Herzog <persName>Heinrich von Braunschweig-Wolfenbüttel</persName>.</note> Ioannem Worstium<note xml:id="fn10" type="footnote" n="10">Siehe <persName>Luthers</persName> 1541 erschienene Schrift "Wider Hans Worst" (<bibl>WA</bibl> LI 469-572).</note> praeterito decoro et citra omnem modestiam plane scurriliter, non graviter scripsit.</s>
+					<s n="13" xml:lang="la" type="auto">Quis nostrum ineptienti immodestiam ex charitate et fraternitate obiecit, modestiam et gravitatem commendavit?</s>
+					<s n="14" xml:lang="la" type="auto">Nemo.</s>
+					<s n="15" xml:lang="la" type="auto">Forte non ferret monitorem commodum.</s>
+					<s n="16" xml:lang="la" type="auto">Imo adorant plerique hominis caninam illam et obscoenam facundiam<note xml:id="fn11" type="footnote" n="11"><bibl>Adagia</bibl>, 2, 4, 34 (<bibl>LB</bibl> II 534).</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Pergit ergo ille et conatur semetipsum maledicendo superare.</s>
+					<s n="18" xml:lang="la" type="auto">Scribit contra Iudaeos<note xml:id="fn12" type="footnote" n="12">Zur folgenden Kritik Bullingers an <persName>Luthers</persName> späten Judenschriften vgl. <hi>Detmers,</hi> Judentum 161-165.</note> et disputat non inepte prorsus et inutiliter pro fide nostra sancta christiana; sed felix et plausibile argumentum ingratum, imo ineptum reddit suis illis foedis dicteriis et scurrilitate nemini, nedum seni theologo decora.</s>
+					<s n="19" xml:lang="la" type="auto">Ut autem demus paucula quaedam inepta esse dissimulanda propter multa utilia et apposita, quae in eo continentur libro, quis, oro, ferat aut boni consulat librum De Schem Hamphoras<note xml:id="fn13" type="footnote" n="13">Die im März 1543 vollendete, scharf antijüdische Schrift "Vom Schem Hamphoras und vom Geschlecht Christi" (<bibl>WA</bibl> LIII 579-648) enthält u. a. eine pauschale Verurteilung der rabbinischen Bibelexegese.</note> impurissime scriptum?</s>
+					<s n="20" xml:lang="la" type="auto">Quis non obstupescat ad arrogantem et praefractum illum spiritum hominis in Ultimis Davidis verbis<note xml:id="fn14" type="footnote" n="14">Die stärker exegetisch ausgerichtete Schrift "Von den letzten Worten Davids" (<bibl>WA</bibl> LIV 28-100) war im Sommer 1543 erschienen und zielte hauptsächlich auf die Verbesserung einiger Stellen in <persName>Luthers</persName> Deutscher Bibel.</note> sese insolenter exerentem?</s>
+					<s n="21" xml:lang="la" type="auto">Si hodie revivisceret inclitus ille heros <persName>Capnion</persName><note xml:id="fn15" type="footnote" n="15"><persName>Johannes Reuchlin</persName>.</note>, diceret in uno <persName ref="p18889">Luthero</persName> revixisse Tungaros, Hochostratos et Pipericornos<pb type="edition" next="336"/><note xml:id="fn18" type="footnote" n="18"><persName>Joseph (Johannes) Pfefferkorn</persName>, s. <bibl>HBBW</bibl> XI <ref target="file11525">[Nr. 1482]</ref>, S. 115, Anm. 29.</note> internicino[!] odio Hebraeorum commentatores arrodens et lacerans.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><pb type="scan" next="125v."/>Cęterum ferenda esset illa ferocia, si Bibliorum fides et authorita[s] prisca per huius disputationem maneret intemerata.</s>
+					<s n="23" xml:lang="la" type="auto">Iam vero negat Hebraica Biblia certa esse et indubitata, negat christianum et genuinum ex his sensum percipi posse.</s>
+					<s n="24" xml:lang="la" type="auto">Asserit ea a rabinis esse corrupta<note xml:id="fn19" type="footnote" n="19">Siehe <bibl>WA</bibl> LIII 646, 19-647, 9; LIV 100, 231.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Fatetur se parum syncere Biblia vertisse Germanica et eam interpretationem tantum non revocat<note xml:id="fn20" type="footnote" n="20">Siehe <bibl>WA</bibl> LIII 647, 251. 3 1-33; LIV 30, 22-26.</note>.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Vide, <persName ref="p18198">Bucere</persName>, frater dilecte, quot offendicula hic etiam prudentioribus obiectet lectoribus.</s>
+					<s n="27" xml:lang="la" type="auto">Non enumeravero paucis absurda, praepostera et prava, quae in hac <persName ref="p18889">Lutheri</persName> sententia existunt.</s>
+					<s n="28" xml:lang="la" type="auto">Tandem vero reiicit restitutionem et correctionem Bibliorum ad <persName>Bernhardum</persName> quendam <persName>Zieglerum</persName>,<note xml:id="fn21" type="footnote" n="21">Siehe <bibl>WA</bibl> LIII 647, 14-19.</note> quasi vero fides nostra in hunc innitatur et tota ecclesia credere debeat uni homini, quae non potest nec debet, iuxta canonem <persName ref="p18889">Lutheri</persName>, fidem dare Hebraicę veritati.</s>
+					<s n="29" xml:lang="la" type="auto">Porro enim non Hebraica veritas, sed Iudaica dicetur vanitas.</s>
+					<s n="30" xml:lang="la" type="auto">Huc scilicet defertur insolens hominis ingenium, cum omnes symmistae et ecclesiarum ministri qualibet etiam scriptura eius adorant pro oraculis, cum huius spiritus tanquam apostolicus praedicatur, de cuius plenitudine acceperunt omnes<note xml:id="fn23" type="footnote" n="23">Vgl. Joh 1, 16.</note>.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Metuendum profecto ex iis, quae hactenus evenerunt, ne hic homo magnum aliquod malum aliquando daturus sit ecclesiae.</s>
+					<s n="32" xml:lang="la" type="auto">Praestaret autem, si tu ac tui similes, qui apud illum valetis plurimum, amicum, fratrem et, si ita<pb type="edition" next="337"/> libet dicere, praeceptorem coherceretis, ut sui ipsius modestiaeque memor humilius saperet, purius et circumspectius scriberet ageretque.</s>
+					<s n="33" xml:lang="la" type="auto">Multi enim viri pii et docti valde offenduntur per insolentiam plus satis insolescentem.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Quod si homines offitium suum praestare noluerint, sentiemus deum iusto iuditio brevi in nocentes animadversurum.</s>
+					<s n="35" xml:lang="la" type="auto">Certe post libros illos lectos aequanimius damnationem illius contra nos effulminatam tulimus, qui hac in re non cupimus illius esse consortes et sotii[!].</s>
+					<s n="36" xml:lang="la" type="auto">Imo dei iusto iuditio tribuimus, quod in extrema senecta theologus tantus tanta scribit et agit immodestia.</s>
+					<s n="37" xml:lang="la" type="auto">Nam ex his iudicabunt posteri <persName ref="p18889">Lutherum</persName> fuisse hominem, et hominem quidem obnoxium noxiis affectibus, legentque scripta hominis multa cum cribratione<note xml:id="fn24" type="footnote" n="24">mit kritischer Prüfung; vgl. <bibl>Hoven</bibl> 90.</note> et diligentia.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Haec in hoc tot verbis ad te scribo, ut, quoniam alias clarissimo viro d. P[hilippo] Melancht[honi] scripturus es,<note xml:id="fn25" type="footnote" n="25">Vgl. oben <ref target="file11849">Nr. 1803</ref>, 29-33.</note> hoc quoque addas, invigilet, ne <persName ref="p18889">Lutherus</persName> causas optimas perpetuo solita maledicentia, amarulentia, malorum verborum copia et scurrilitate depravet, incircumspecte et temere de volumine sacro et scriptoribus canonicis pronunciet.</s>
+					<s n="39" xml:lang="la" type="auto">Tantum theologum decet modestia, prudentia, pietas,<pb type="scan" next="126r."/> gravitas.</s>
+					<s n="40" xml:lang="la" type="auto">Exemplum illius audacis dicacitatis pervasit et occupavit hodie multos ecclesiarum ministros, qui plurimum incommodant verae pietati, confirmant autem et indurant regnum antichristi, cuius cultores clamitant ecclesiastas evangelicorum non esse praecones evangelii, sed satyricos maledicosque scurras.</s>
+					<s n="41" xml:lang="la" type="auto">Annitendum ergo nobis omnibus, ut ratio habeatur ecclesiae modestiaeque, ut revocetur exemplum prophetarum et apostolorum et ne quid fiat praefractius per aemulationem et arrogantiam.</s>
+					<s n="42" xml:lang="la" type="auto">Non feres inique, dilecte frater, hanc meam quęrelam, quam et iustam et fraternam esse cognoscis.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Ad reliqua, quae prolixe scribis, quae egeris et passus sis in negotio concordiae inter <persName ref="p18889">Lutherum</persName> et nos sarciendae, nihil respondeo, cum in hoc applicaris, ut habeamus exemplum patientiae.</s>
+					<s n="44" xml:lang="la" type="auto">Nos alioqui, deo gratias, impatientes non sumus, qui omne iuditium iusto iudici deo commisimus.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Strenue laborasti pro sarcienda concordia; at deprehendis <persName ref="p18889">Lutherum</persName> nolle ullam concordiam.</s>
+					<s n="46" xml:lang="la" type="auto">Id deo committimus neque cogere <persName ref="p18889">Lutherum</persName> renitentem nec possumus nec volumus.</s>
+					<s n="47" xml:lang="la" type="auto">Sufficit, si nobiscum concordes sint, quicunque<pb type="edition" next="338"/> verbo domini credunt et positis affectibus salutari eius reformationi obediunt faventque.</s>
+					<s n="48" xml:lang="la" type="auto">Nihil amplius expetimus; satis in hoc nobis concordiae.</s>
+				</p>
+				<p>
+					<note type="PS">[Autographe Nachschrift:]</note>
+					<s n="49" xml:lang="la" type="auto">Per caetera hortatus sum, ne quid negligat suosque hortetur, vigilent in comitiis <placeName>Spirensibus</placeName><note xml:id="fn26" type="footnote" n="26">Der ursprünglich auf den 30. November nach <placeName>Speyer</placeName> einberufene Reichstag wurde erst am 20. Februar des folgenden Jahres eröffnet; s. RTA JR XV/1 118.</note>, ne caesar<note xml:id="fn27" type="footnote" n="27"><persName>Karl V.</persName></note> graviter ipsis noceat etc.</s>
+					<s n="50" xml:lang="la" type="auto">8. decembris 1543.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

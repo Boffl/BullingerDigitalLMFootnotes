@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12037" type="Brief" source="HBBW" n="1990">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel AN Heinrich Bullinger, 19. [September] 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto"><persName>Cognati</persName> nostri frater hisce diebus apud nos fuit, sed nihil literarum ad te pertinentium attulit.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Quis autem autor sit Speculi<note xml:id="fn3" type="footnote" n="3">Zum "Speculum Osiandri" s. oben <ref target="file12007">Nr. 1960</ref>; 1974, 1-4 mit Anm. 1. Autor war <persName>Georg Frölich (Laetus)</persName>; s. oben <ref target="file12010">Nr. 1963</ref>, Anm. 10.</note>, ignoro planissime.</s>
+					<s n="4" xml:lang="la" type="auto">Reor <persName>Venatorem</persName><note xml:id="fn4" type="footnote" n="4"><persName>Thomas Venatorius</persName>.</note> esse.</s>
+					<s n="5" xml:lang="la" type="auto">Necesse enim eum fuisse autorem, cui Hosdichanders<note xml:id="fn5" type="footnote" n="5">Zur Verbalihornung des Namens <persName>Osiander</persName> zu "Hosanders" s. oben <ref target="file12021">Nr. 1974</ref>, Anm. 1.</note> notissimus fuerit aut familiaritate aliqua ad tempus devinctus ac iam abalienatus.</s>
+					<s n="6" xml:lang="la" type="auto">Missum est carmen ad nos ex <placeName>Augusta</placeName><note xml:id="fn6" type="footnote" n="6"><placeName>Augsburg</placeName>.</note>; exemplaria pauca sunt impressa<note xml:id="fn7" type="footnote" n="7">Ein Druckexemplar des Spottgedichts "Speculum Osiandri" ist nicht erhalten, der Drucker ist unbekannt; s. <persName>Osiander</persName> GA VIII 304, Anm. 98.</note> et <placeName>Augustam</placeName> missa.</s>
+					<s n="7" xml:lang="la" type="auto">Quid, si archigrammateus <placeName>Augustanus</placeName> (sed hoc in sinum tuum dico) autor esset aut ab aliquo Norenburgense carmen accepisset ac ad nos misisset?</s>
+					<s n="8" xml:lang="la" type="auto">De hac re plura non novi.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">De caesaris<note xml:id="fn9" type="footnote" n="9"><persName>Kaiser Karl V.</persName></note> et Galli<note xml:id="fn10" type="footnote" n="10"><persName>König Franz I.</persName></note> exercitu parum audimus.</s>
+					<s n="10" xml:lang="la" type="auto">Nostri<note xml:id="fn11" type="footnote" n="11">Vgl. oben <ref target="file11984">Nr. 1937</ref>, 7-17.</note> magnam pecuniae vim uxoribus suis mittunt, quam in hoc bello colligerunt.</s>
+					<s n="11" xml:lang="la" type="auto">Scripserunt se invenisse ingentem auri thesaurum, quum castrametati sunt iuxta Troiam<note xml:id="fn12" type="footnote" n="12"><placeName>Troyes</placeName> (Dép. Aube), <placeName>Frankreich</placeName>. - Die eidgenössischen Söldner befanden sich nämlich im französischen Lager.</note> in<pb type="edition" next="412"/> campo aperto, plus quam <foreign xml:lang="de">80000 guldene pfennig, do einer by 4 gl.<note xml:id="fn13" type="footnote" n="13">Gulden.</note> thuͦt.</foreign></s>
+					<s n="12" xml:lang="la" type="auto">Vidi unum et alterum, sed non potui characteres<note xml:id="fn14" type="footnote" n="14">Die Prägungen.</note> agnoscere<note xml:id="fn15" type="footnote" n="15">Näheres über den Fund und die Quelle dieser Nachricht konnte nicht ermittelt werden. Siehe auch unten <ref target="file12044">Nr. 1997</ref>.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Hac esca in nassam<note xml:id="fn16" type="footnote" n="16"><bibl>Adagia</bibl>, 4, 4, 88 (<bibl>ASD</bibl> II/7 228, Nr. 3388).</note> nostri sunt illecti.</s>
+					<s n="14" xml:lang="la" type="auto"><persName>Caesarem</persName> aiunt effugia subinde quęrere, aut ita fugam simulare, ut tandem Gallum subsequentem opprimat.</s>
+					<s n="15" xml:lang="la" type="auto">Dux <persName>Wilhelmus a Furstenberg</persName> captus est<note xml:id="fn17" type="footnote" n="17">Zur Gefangennahme Graf <persName>Wilhelms von Fürstenberg</persName> s. oben <ref target="file12034">Nr. 1987</ref> mit Anm. 7.</note> in flumine<note xml:id="fn18" type="footnote" n="18">In der <placeName>Marne</placeName>; s. oben <ref target="file12034">Nr. 1987</ref>, Anm. 7.</note> cum duobus equitibus<note xml:id="fn19" type="footnote" n="19"><persName>Fürstenberg</persName> war nur in Begleitung eines Pagen und eines Trompeters gefangen genommen; s. Volker <hi>Wagner,</hi> <persName>Fürstenberg</persName> 258.</note> die Verenę<note xml:id="fn20" type="footnote" n="20">Am 1. September. -Das richtige Datum ist der 3. September 1544 (kurz nach Mitternacht); s. oben <ref target="file12034">Nr. 1987</ref>, Anm. 7.</note>; pertractus per totum <placeName>Helveticu[m]</placeName> exercitum exanimis fere ob timorem, quem conceperat, nescio, ob quod flagit[ium] in Gallum perpetratum, dein ductus ad regem<note xml:id="fn21" type="footnote" n="21"><persName>Franz I.</persName></note>, qui noluit eum alloqui, tande[m] iussus <placeName>Parisium</placeName><note xml:id="fn22" type="footnote" n="22"><placeName>Paris</placeName>.</note> duci ad dominos parlamentarios<note xml:id="fn23" type="footnote" n="23">Vor dem Parlament. - Es kam wohl nie dazu.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Quid de illo velit statuere, brevi resciemus.</s>
+					<s n="17" xml:lang="la" type="auto">Quidam ex nostris militibus obierunt, quidam valde aegrotant; cibi et potus affluentiam habent et aestus intolerabiles fer[unt].</s>
+					<s n="18" xml:lang="la" type="auto">A tabellione<note xml:id="fn24" type="footnote" n="24">Unbekannt.</note>, qui heri advenit, accepi monachum nigrum - reor episcopum esse Hispanum - in exercitu Gallico esse a caesare<note xml:id="fn26" type="footnote" n="26"><persName>Kaiser Karl V.</persName></note> missum, qui pacis<note xml:id="fn27" type="footnote" n="27">Der Frieden von <placeName>Crépy</placeName>; s. unten <ref target="file12039">Nr. 1992</ref>, Anm. 8.</note> fędera conetu[r] constituere.</s>
+					<s n="19" xml:lang="la" type="auto">Dominus det successum rei tam necessarię!</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto"><persName>Ptolemeum</persName> Monsteri nondum vidi, sed audivi ab <persName>Henrico Petri</persName><note xml:id="fn29" type="footnote" n="29"><persName>Heinrich Petri</persName>.</note> libro distracto alium ordine[m] Monsterum velle servare, multa addere, quędam expungere, quę irrepseru[nt] etiam ipso nolente; si autem id temporis prave<pb type="edition" next="413"/> fuerit expectare,<note xml:id="fn30" type="footnote" n="30">Bullinger erhoffte sich wahrscheinlich rasch ein Exemplar dieses Werks im Zusammenhang mit der Arbeit an <persName>Stumpfs</persName> Schweizerchronik; s. unten <ref target="file12040">Nr. 1993</ref>.</note> librum mittam <persName>Henricho Petri</persName> ex nundinis<note xml:id="fn31" type="footnote" n="31">Zum Termin der <placeName>Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <ref target="file10925">[Nr. 884]</ref> 406, Anm. 5.</note> reverso.</s>
+					<s n="21" xml:lang="la" type="auto">Uxor<note xml:id="fn32" type="footnote" n="32"><persName>Heinrich Petris</persName> erste Ehefrau Dorothea Hütschy; s. <bibl>Reske</bibl> 70.</note> enim nescit, quo pret[io]<pb type="scan" next="246v."/> liber distrahatur.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Verum heus tu, <persName>Cellarius</persName><note xml:id="fn33" type="footnote" n="33"><persName>Martin Borrhaus</persName>.</note> - forte melius nosti hominem quam ego - in lectorem theologum[!] a deputatis, quorum duo<note xml:id="fn34" type="footnote" n="34">Unbekannt; s. auch die folgende Anm.</note> sanguine illi propter uxorem, quam nuper duxit, coniuncti sunt, electus est.<note xml:id="fn36" type="footnote" n="36"><persName>Martin Borrhaus</persName> wurde 1544 zum Professor für Altes Testament ernannt; s. Peter G. <hi>Bietenholz,</hi> in: <bibl>HLS</bibl> II 592.</note></s>
+					<s n="23" xml:lang="la" type="auto">Academia nostra conata est irritam hanc sententiam facere, sed frustra laboravit.</s>
+					<s n="24" xml:lang="la" type="auto"><persName>Miconius</persName> dedit illi calculum, neque credo, quod id ex animo fecerit; nam et ipse ambivit hanc lectionem.</s>
+					<s n="25" xml:lang="la" type="auto"><persName>Lepusculus</persName> etiam spe falsa delusus est, qui doctoris titulum assumere, si lectio ei daretur sacra, se velle promisit.</s>
+					<s n="26" xml:lang="la" type="auto">Quid si homo iste iam inciperet sua dogmata spargere de baptismo, de Iudaeorum salvatione etc.?</s>
+					<s n="27" xml:lang="la" type="auto">Ego ero spectator earum rerum; nam me inscio omnia ista peracta sunt, neque opus, ut me in consilium vocent, etsi saepe holitor oportuna loquatur<note xml:id="fn40" type="footnote" n="40"><bibl>Adagia</bibl>, 1, 6, 1 (<bibl>ASD</bibl> II/2 21f, <ref target="file10537">Nr. 501</ref>).</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Satis prudentię habent et nostri deputati et fratres primarii.</s>
+					<s n="29" xml:lang="la" type="auto">Neque illud praetereundum est: In pago Husen<note xml:id="fn41" type="footnote" n="41"><placeName>Houssen</placeName> (Dép. Haut-Rhin, Elsass), 5 Kilometer nördlich von <placeName>Colmar</placeName>.</note> (miliare distat a <placeName>Colmaria</placeName>) sacerdos fuit vino deditissimus, qui olim in agro <placeName>Bernatum</placeName> contionatorem<pb type="edition" next="414"/> egit; sed quale scelus designarit, quod ab evangelio desciverit, ignoro; in convivio publico caligas percacavit, stercus illud rustici exemerunt et in os illius ingesserunt, dein eum per gradus pręcipitarunt; quidam dicunt, quod nemine cogente seipsum pręcipitaverit et altera die mortuus est.</s>
+					<s n="30" xml:lang="la" type="auto">Ita punit dominus nostra peccata.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">In pago Plotzen<note xml:id="fn43" type="footnote" n="43"><placeName>Blotzheim</placeName> (Huningue, Dép. Haut-Rhin, Elsass).</note>, dimidium miliare a <placeName>Basilea</placeName>, quidam lusor<note xml:id="fn44" type="footnote" n="44">Unbekannt.</note> adstantem<note xml:id="fn45" type="footnote" n="45">Unbekannt.</note> gladio transfixit, quod dixerat illum false ludere; captus est, hac futura hebdomada adiudicabitur.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Indicem librorum<note xml:id="fn46" type="footnote" n="46">Vgl. oben <ref target="file12021">Nr. 1974</ref> mit Anm. 18; unten <ref target="file12051">Nr. 2004</ref>, 16.</note> postea mittam, quum videro, quales libri ex nundinis adferent nostri bibliopolae.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Hoc scio, quod <persName ref="p18889">Luthero</persName> confessio episcopi Coloniensis<note xml:id="fn47" type="footnote" n="47">Vgl. oben <ref target="file12018">Nr. 1971</ref> mit Anm. 19; 1985 mit Anm. 6.</note> maxime displiceat Lutherumque cum <persName ref="p6490">Melanchthone</persName> expostulasse ob articulum de cęna dominica.</s>
+					<s n="34" xml:lang="la" type="auto">Vide, quali animo in nos et nostras ecclesias <persName ref="p18889">Lutherus</persName> affectus sit; putat nos esse stipites et saxa, quasi nihil sapiamus intelligamusque, quam quod<note xml:id="fn48" type="footnote" n="48">quam quod: zu verstehen: quam id, quod ...</note> ill[e] pręscribat aut iubeat, quemadmodum in praefatione in Testamentum Novum Germanicum fecit pulchre taxans libros Tiguri divulgatos<note xml:id="fn49" type="footnote" n="49">Nicht ermittelt.</note>.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Vale et ignosce loquacitati.</s>
+					<s n="36" xml:lang="la" type="auto">Salutato d. <persName>Theodorum</persName><note xml:id="fn50" type="footnote" n="50"><persName>Theodor Bibliander</persName>.</note> cum reliquis fratribus et uxore<note xml:id="fn51" type="footnote" n="51"><persName>Anna, geb. Adlischwyler</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Bas[ileę], 19. octobris 1544.</s>
+					<s n="38" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName> ex animo.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto"><pb type="scan" next="246a__r."/>De episcopo Coloniensi, de Anglo<note xml:id="fn52" type="footnote" n="52"><persName>König Heinrich VIII.</persName></note> et aliis nonnullis rebus interroga d[octorem] <persName>Albertum Hardenbergum</persName> Frisium, qui visitatis fratribus <placeName>Bernensibus</placeName> et vestram ecclesiam adibit.</s>
+					<s n="40" xml:lang="la" type="auto">Egregius est vir, qui ob eam causam, reor, amandatus ab episcopo suo<note xml:id="fn53" type="footnote" n="53">Erzbischof <persName>Hermann von Wied</persName>; s. zuletzt oben <ref target="file12034">Nr. 1987</ref>, Anm. 3.</note>, ut, quę nostra fides, libertas, cęremonię exploret,<pb type="edition" next="415"/> imo qua concordia Christum populo prędicemus, animadvertat.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Quem solita humanitate absque dubio tractabitis<note xml:id="fn54" type="footnote" n="54">Zu <persName>Hardenbergs</persName> Aufenthalt in Zürich s. oben <ref target="file12019">Nr. 1972</ref>, Anm. 1.</note>.</s>
+					<s n="42" xml:lang="la" type="auto">Vale iterum atq[ue iterum].</s>
+					<s n="43" xml:lang="la" type="auto">Raptim.</s>
+					<s n="44" xml:lang="la" type="auto">D. Frisio et <persName>Pellican</persName>[o et]<persName>Gvalthero</persName> salutem ex me dicito plurimam.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Tabellio<note xml:id="fn55" type="footnote" n="55">Unbekannt.</note> hodie venit ab <placeName>Argentina</placeName>, literas senatui obtulit;<note xml:id="fn56" type="footnote" n="56">Am 17. September hatte <placeName>Straßburg</placeName> Nachrichten aus <placeName>Metz</placeName> über den Krieg in <placeName>Frankreich</placeName> und die Gefangennahme <persName>Wilhelms von Fürstenberg</persName> abschriftlich an <placeName>Basel</placeName> weitergeleitet; s. <bibl>PC</bibl> III 532f, <ref target="file10536">Nr. 500</ref> (zur Übersendung: ebd., S. 533, Anm. 5).</note> quid in eis contineatur, ignoro.</s>
+					<s n="46" xml:lang="la" type="auto">Nova absque dubio attulit de bellicis hisce motibus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="47" xml:lang="la" type="auto">D. Heinrycho Bullingero, Tigurinae ecclesiae vigilantissimo pastori, praeceptori suo perpetuo colendo.</s>
+					<s n="48" xml:lang="de" type="auto">Zurich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

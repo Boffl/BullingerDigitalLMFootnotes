@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11227" type="Brief" source="HBBW" n="1184">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Rudolf Gwalther (Walter, Gualtherus, Walthart) d.Ä. / Basel AN Heinrich Bullinger, 4. Oktober 1538</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto"><placeName>Basileam</placeName> ad me venit quarto octobris auriga hic<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> <persName>Melchioris</persName> avecturus suppellectilem<note xml:id="fn2" type="footnote" n="2">Offenbar hat <persName>Melchior Wirz (Virbius)</persName> <placeName>Basel</placeName> um diese Zeit verlassen; im März 1539 ist er in Paris nachweisbar (s. <bibl>Zwa</bibl> 1X/3, 1950. S. 166).</note>, qua occasione percommoda oblata in animo statui libros a me petitos<note xml:id="fn3" type="footnote" n="3">Ein entsprechender Brief Bullingers ist nicht erhalten.</note> ad te transmittere, patrone observande.</s>
+					<s n="3" xml:lang="la" type="auto">Cum vero ea de re mihi verba essent cum <persName>Oporino</persName>, qui <persName>Ludovici</persName> De anima libros<note xml:id="fn4" type="footnote" n="4"><persName>Juan Luis Vives</persName>, De anima et vita libri tres, <placeName>Basel</placeName> (<persName>Robert Winter</persName> [!]) 1538 (vgl. oben <ref target="file11217">Nr. 1174</ref>, 35f).</note> typis excussit, dixit se eundem librum Frisio<note xml:id="fn5" type="footnote" n="5"><persName>Johannes Fries</persName>.</note> missurum; huic ergo etiam tuum adiungere optimum esse duxit et in <persName>Melchioris</persName> dolium includere.</s>
+					<s n="4" xml:lang="la" type="auto">Hunc ergo librum a Frisio nostro recipies, cuius pretium, ut <persName>Oporinus</persName> inquit, est quatuor <placeName>Constantiensium</placeName> bazonum<note xml:id="fn6" type="footnote" n="6">Batzen.</note>.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Blatterus<note xml:id="fn7" type="footnote" n="7"><persName>Thomas Platter</persName>.</note> noster Frankfordię nullum tui libri exemplar nancisci potuit; cum vero Winklium ipsum ob hoc adire vellem, ipsum non domi repperi.<pb type="edition" next="239"/></s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Hic enim, ut et sibi a Frankfordia adveherentur, mandaverat.</s>
+					<s n="7" xml:lang="la" type="auto">Nunc vero, cum nullum ab eo responsum receperim, nil certi de his ad te scribere possum.</s>
+					<s n="8" xml:lang="la" type="auto">Habebis hęc per proximum, ut spero, tabellarium.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto"><persName>Bebelium</persName> tuo nomine conveni, qui <persName>Aristotelis</persName> Latini opus duobus florenis constare inquit.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><persName>Simon Grineus</persName> pollicetur se <persName>Ciceronis</persName> lecturum orationes; quod si autem fidem non praestarit, offert se mihi privatim <persName>Otho</persName><note xml:id="fn10" type="footnote" n="10"><persName>Otto Werdmüller</persName>.</note> noster.</s>
+					<s n="11" xml:lang="la" type="auto">Quare rogo, ut huic aurigae has ferenti literas, qui proximis diebus ad nos rediturus est, <persName>Ciceronis</persName> opera tradas, ut ad me perferat.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Plura nunc scribere nequeo.</s>
+					<s n="13" xml:lang="la" type="auto">De aliis per literas a d. <persName>Butlero</persName> traditas<note xml:id="fn11" type="footnote" n="11">Oben <ref target="file11226">Nr. 1183</ref>.</note> certum te factum arbitror.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Salutat te <persName>Beatus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Beat Gering</persName>.</note> noster, qui hisce diebus nescio qua causa semper aut <persName ref="p18198">Bucero</persName> aut <persName>Capitoni</persName> comes fuit; nam hi in <persName>Grinei</persName> nuptiis apparuerunt<note xml:id="fn13" type="footnote" n="13"><persName>Grynäus</persName> hatte versucht, anläßlich seiner Hochzeit (s. oben <ref target="file11217">Nr. 1174</ref>, 38f) ein Theologentreffen zu arrangieren, die Zürcher folgten jedoch der Einladung nicht. Vgl. Corr. des réformateurs V 140-142.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Salutabis nomine meo uxorem<note xml:id="fn14" type="footnote" n="14"><persName>Anna, geb. Adlischwyler</persName>.</note> matremque<note xml:id="fn15" type="footnote" n="15"><persName>Anna, geb. Wiederkehr</persName>.</note> tuam, matronas honestissimas, et universam familiam.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto"><placeName>Basileae</placeName>, ex aedibus d. <persName>Miconii</persName>, 4. octobris intempesta nocte 1538.</s>
+					<s n="17" xml:lang="la" type="auto"><persName>Rodolphus Gvalterus</persName>, tui amantissimus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="de" type="auto">An M. Heinrich Bullinger, predicant zuͦ Zürich zum großen münster, sinem lieben herren.</s>
+					<s n="19" xml:lang="la" type="auto">Et pietate et eruditione insigni d. Heinricho Bullingero, patrono et praeceptori suo imprimis colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

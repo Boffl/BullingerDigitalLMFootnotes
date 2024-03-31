@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11547" type="Brief" source="HBBW" n="1504">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Grynäus / Basel AN Heinrich Bullinger, 23. April [1541]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Vestra nova<note xml:id="fn2" type="footnote" n="2">Wie aus den folgenden Bemerkungen (vgl. auch unten Z. 13) hervorgeht, hatte Bullinger möglicherweise Gwalthers Brief vom 11. April (oben <ref target="file11540">Nr. 1497</ref>) an <persName>Grynäus</persName> geschickt.</note> sunt novissima; nam coepisse comitia et articulos hos<note xml:id="fn3" type="footnote" n="3">Vgl. ebd., Z. 41-45.</note> a cęsare<note xml:id="fn4" type="footnote" n="4"><persName>Kaiser Karl V.</persName></note> propositos esse nondum audieramus.</s>
+					<s n="3" xml:lang="la" type="auto">Itaque valde est grata hęc res.</s>
+					<s n="4" xml:lang="la" type="auto">Expecto hodie ab <placeName>Argentina</placeName> aliquid; si quid erit, scies.</s>
+					<s n="5" xml:lang="la" type="auto">Mitto hic, quae <persName>Bedrotus</persName> nuper.</s>
+					<s n="6" xml:lang="la" type="auto">Sed te credo prius omnia<note xml:id="fn6" type="footnote" n="6">Zu ergänzen: "audivisse" o. ä.</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto"><persName>Vogleri</persName> filium<note xml:id="fn7" type="footnote" n="7"><persName>Hans Vogler d.J.</persName> (vgl. zuletzt oben <ref target="file11529">Nr. 1486</ref>, 1-8).</note> mittemus.</s>
+					<s n="8" xml:lang="la" type="auto">Mihi valde dolet sic accidisse, ut meliori gratia dimitti non potuerit; cupio enim, si qua liceat, de vobis esse meritus.<pb type="edition" next="166"/></s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Vos valere gaudio.</s>
+					<s n="10" xml:lang="la" type="auto">Salutabis omnes amicos.</s>
+					<s n="11" xml:lang="la" type="auto">Vale.</s>
+					<s n="12" xml:lang="la" type="auto">23. aprilis.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><persName>S. Grynęus</persName> tuus.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vehementer mihi ingenuitas huius<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> placuit, quem mihi commendasti.</s>
+					<s n="15" xml:lang="la" type="auto">Dominus vos amat; hunc ordinem et gentis nobilissimę pręstantiam diu conservet.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Iterum vale.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Tuas hic remitto tibi; sciemus responsum<note xml:id="fn9" type="footnote" n="9">Gemeint ist offenbar die Antwort der protestantischen Stände auf die Proposition des Kaisers (vgl. oben <ref target="file11540">Nr. 1497</ref>, 47-49, dazu auch <ref target="file11539">Nr. 1496</ref>, Anm. 10).</note> brevi, spero.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Domino Heinricho Bullingero, amico suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

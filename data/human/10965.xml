@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10965" type="Brief" source="HBBW" n="923">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Grynäus / [Basel] AN [Heinrich Bullinger], [frühestens Ende November 1536]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><pb type="scan" next="||199v."/>S.</s>
+					<s n="2" xml:lang="la" type="auto">Unum habet colorem a principio ad finem usque epistola tua<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note>; nihil enim quam <foreign xml:lang="el">παρρησιάζει</foreign>, idque scripturam, scripta nostra et me ipsum denique scriptorem palam accusans.</s>
+					<s n="3" xml:lang="la" type="auto">Non est hoc infoeliciter scribere, cum longa epistola ad amicum scribens et omne punctum ferre<note xml:id="fn4" type="footnote" n="4">umfassende Zustimmung finden; vgl. <bibl>Adagia</bibl>, 1, 5, 60 (<bibl>LB</bibl> II 205f).</note> te posse sperans ne unum quidem tota possis impetrare epistola?</s>
+					<s n="4" xml:lang="la" type="auto">Quid vis; ut melius, rectius, foelicius deinde promittam de me tibi?</s>
+					<s n="5" xml:lang="la" type="auto">Non possum.</s>
+					<s n="6" xml:lang="la" type="auto">Ferulam isti male docti et male sueti scribere digiti iam non amplius curant.</s>
+					<s n="7" xml:lang="la" type="auto">Accuso saepe, qui neminem saepius quam meipsum fallunt, nulli saepius molestiusve quam mihi ipsi negotium exhibent; sed frustra.</s>
+					<s n="8" xml:lang="la" type="auto">Quo modo mutari potest, quod tot annis saepius exercui quam aliud quidquam, male scribere?</s>
+					<s n="9" xml:lang="la" type="auto">Et mea quidem haec querela necessaria iustaque minim est, nisi reprimit vestram.</s>
+					<s n="10" xml:lang="la" type="auto">Vobis mea legere ut non saepe usu venit, ita nec necesse est.</s>
+					<s n="11" xml:lang="la" type="auto">Abiicere licet; justa excusatio est: legi non potest.</s>
+					<s n="12" xml:lang="la" type="auto">Ego nisi, quod malum mali mihi digiti mei assidue concinnarunt, ad frugem convertere possum, vides omnem mihi propemodum et cogitacionum et studiorum fructum perire.</s>
+					<s n="13" xml:lang="la" type="auto">Itaque, si tu recte fungi officio tuo voles, quod mutari non potest miserebere potius, quam ut accuses.</s>
+					<s n="14" xml:lang="la" type="auto">De scriptura tantum.<pb type="edition" next="486"/></s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">De scripto<note xml:id="fn5" type="footnote" n="5">Oben <ref target="file10955">Nr. 913</ref>.</note> nil habeo, quod dicam.</s>
+					<s n="16" xml:lang="la" type="manual">Non habeo <foreign xml:lang="el">ἀντίγραφον</foreign>.</s>
+					<s n="17" xml:lang="la" type="auto">De mirifica vi corporis Christi deo plena quid scripserim, non memini certe.</s>
+					<s n="18" xml:lang="la" type="auto">Videtur autem epistola tua metuere mihi, nec extra viam ipse quoque declinem et certam finitamque Christi naturam in infinita dei praesentia speculanda maleferiatus homo amittam.</s>
+					<s n="19" xml:lang="la" type="auto">Cur enim non feriati ociosique pessime homines dicantur, qui id instituunt?</s>
+					<s n="20" xml:lang="la" type="auto">Sed paucis dicam tibi: Nihil est, quod hic sis sollicitus.</s>
+					<s n="21" xml:lang="la" type="auto">Ego metaphysica mea ad alium usum utar.</s>
+					<s n="22" xml:lang="la" type="auto">Hoc solum animadverto et esse receptum charissimis authoribus video: ne, quod contra suprave naturam corporis est, etiam a Christi corpore totum removeamus.</s>
+					<s n="23" xml:lang="la" type="auto"><persName>Augustini</persName> 24. cap. De agone christiano<note xml:id="fn6" type="footnote" n="6"><bibl>CSEL</bibl> XLI 124f.</note> locum nosti.</s>
+					<s n="24" xml:lang="la" type="auto">Neque ego in defensionem<pb type="scan" next="||199r."/> causae eius, quam cum minime defendam, communibus vobiscum viribus semper oppugnavi, adduco, sed ut ne temere vel falsis illorum<note xml:id="fn7" type="footnote" n="7">Gemeint sind die Gegner <persName>Augustins</persName>.</note> praesidiis terreamur vel causae studio vera contemnamus.</s>
+					<s n="25" xml:lang="la" type="auto">Verum esse etiam divus <persName>Augustinus</persName> fatetur de suo corpore dominum potuisse quidvisne facere.</s>
+					<s n="26" xml:lang="la" type="auto">Locum scis,, authorem agnoscis.</s>
+					<s n="27" xml:lang="la" type="auto">Quid?</s>
+					<s n="28" xml:lang="la" type="auto">Audebimus hoc negare?</s>
+					<s n="29" xml:lang="la" type="auto">Non puto.</s>
+					<s n="30" xml:lang="la" type="auto">Quid ergo; nisi hic occurrimus, nisi ab hoc moeniorum nostrorum angulo hostem repellimus, recta irrumpet?</s>
+					<s n="31" xml:lang="la" type="auto">Minime.</s>
+					<s n="32" xml:lang="la" type="auto">Dudum illud dedimus sub primos congressus, posse dominum omnia.</s>
+					<s n="33" xml:lang="la" type="auto">Verum in eo contentio est, quid velit et quid velle scriptura doceat.</s>
+					<s n="34" xml:lang="la" type="auto">Ergo, quantumvis hoc vere dicatur, nullo tamen dicitur vel illorum causae praesidio vel nostre detrimento.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="la" type="auto">Volebam igitur, ut ultimum illum ex <persName>Vadiani</persName> libello locum <persName>Theodoro</persName> ostenderes<note xml:id="fn8" type="footnote" n="8">Siehe oben <ref target="file10955">Nr. 913</ref>, 10f.</note> sous instar in totum mundum divinitatis radios emittens corpus Christi inducentem.</s>
+					<s n="36" xml:lang="la" type="auto">Si quid in <persName ref="p18198">Bucero</persName> ferre non potest, in concive ferat facilius.</s>
+					<s n="37" xml:lang="la" type="auto">Idem enim uterque dicit: Christum totum, immo Christi corpus luce divinitatis plenum sous instar vim suam spargere.</s>
+					<s n="38" xml:lang="la" type="auto">Nulla darem, quam quod ex finito utrinque corpore hinc quidem finita, istic infinita vis egressa haec cuncta potenter et infinite, illa non omnem, sed sensibilem hunc mundum totum replet.</s>
+					<s n="39" xml:lang="la" type="auto">De scripto meo et quidem ad epistolam tuam hactenus.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Num quid de scriptore di[cam], in quo officium desideras?</s>
+					<s n="41" xml:lang="la" type="auto">Solus enim non scribo hortari ad scribendum caeteros ausus<note xml:id="fn9" type="footnote" n="9">Siehe oben <ref target="file10955">Nr. 913</ref>, 25f.</note>.</s>
+					<s n="42" xml:lang="la" type="auto">Et sit quidem, rationes habet.</s>
+					<s n="43" xml:lang="la" type="auto">Totum enim me tibi amico certo meo et rectissimo viro reprehendendum, castigandum,<pb type="edition" next="487"/> omnia faciendum praebo.</s>
+					<s n="44" xml:lang="la" type="auto">Fac modo charissime, frater, ut ne nos sathan dividat.</s>
+					<s n="45" xml:lang="la" type="auto">Incumbes igitur coram domino, ut in vera simplicitate cordis nostri coram domino magis magisque semper coalescamus.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="la" type="auto">De <persName>Melchiore</persName><note xml:id="fn10" type="footnote" n="10"><persName>Melchior Wirz</persName>.</note> vereor, ut possim respondere postulatis vestris.</s>
+					<s n="47" xml:lang="la" type="auto">Dudum promissa propemodum <placeName>Monstero</placeName> nostro conditio est tenui admodum stipendio apud nos merenti<note xml:id="fn12" type="footnote" n="12">Zur materiellen Lage <persName>Münsters</persName> s. <hi>Burmeister,</hi> Versuch, S. 56-59.</note>.</s>
+					<s n="48" xml:lang="la" type="auto">Sed videbo.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la" type="auto">Vale tu iam in domino.</s>
+					<s n="50" xml:lang="la" type="auto">Fratres studiose omnes saluta, <persName>Theodorum</persName> nostrum in primis.</s>
+				</p>
+				<p>
+					<s n="51" xml:lang="la" type="auto">Gry.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

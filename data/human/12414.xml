@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12414" type="Brief" source="HBBW" n="2367">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Georg Frölich (Laetus) / [Augsburg] AN Heinrich Bullinger, 2. März 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Binas a te, frater observandissime, literas per <persName>Hallerum</persName>, communem amicum nostrum, omni amicitia et pietate refertas, accepi<note xml:id="fn1" type="footnote" n="1">Nicht erhalten. Einen der Briefe wird Bullinger geschrieben haben, um ihn <persName>Haller</persName> mitzugeben, als plötzlich <persName>Frölichs</persName> Brief vom 12. Februar (<ref target="file12398">Nr. 2351</ref>) eintraf und Bullinger noch eine Antwort darauf verfasste.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Utinam ad eas pro rei dignitate et decoro respondere queam!</s>
+					<s n="4" xml:lang="la" type="auto">Sum profecto iam nunc fere per integrum mensem perpetuo valetudinarius.</s>
+					<s n="5" xml:lang="la" type="auto">Maxime vero ex capite, unde meę opellę stillare deberent, laboro.</s>
+					<s n="6" xml:lang="la" type="auto">Recipe igitur, quę imbecillitas nostra dictat.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Principio noveris universam ecclesiam ad <persName>Halleri</persName> adventum<note xml:id="fn2" type="footnote" n="2"><persName>Haller</persName> war am 28. Februar in <placeName>Augsburg</placeName> eingetroffen; s. <ref target="file12411">Nr. 2364</ref>,1.</note> valde gavisam esse.</s>
+					<s n="8" xml:lang="la" type="auto">Excipitur etiam hilari fronte, nec dubito, quin et ecclesię nostrę et ipsi hac sua ad nos profectione plurimum sit consultum.</s>
+					<s n="9" xml:lang="la" type="auto">Clementissimus ille rerum parens<note xml:id="fn3" type="footnote" n="3">rerum parens: Gott; vgl. <hi><persName>Horaz</persName>,</hi> Carmina, 3, 6, 6.</note> hunc nobis servet!</s>
+					<s n="10" xml:lang="la" type="manual">Amen.</s>
+					<s n="11" xml:lang="la" type="auto">Ego id, quod in me erit, penes res suas, pręsertim domesticas, prestare diligenter studebo.</s>
+					<s n="12" xml:lang="la" type="auto">Excepi ipsum cum uxore<note xml:id="fn4" type="footnote" n="4"><persName>Elsbeth, geb. Kambli</persName>.</note> et infantulo<note xml:id="fn5" type="footnote" n="5">Agnes; s. <ref target="file12370">Nr. 2323</ref>, Anm. 3.</note> in aedes meas, donec domus suę structura satis commoda et venusta in calcem (quod intra paucos dies futuram est) deducetur<note xml:id="fn6" type="footnote" n="6">Zum Neubau des Hauses, in dem <persName>Johannes Haller</persName> in <placeName>Augsburg</placeName> wohnen würde, s. <ref target="file12411">Nr. 2364</ref>,5-8.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quantum ad <persName>Hilpertum Zoller</persName> pertinet, dominum <persName>Sebastianum Schertlerum</persName>, virum vere fortem et strenuum, cuius cor in manu mea est, facile<pb type="edition" next="191"/> permovi, ut ipsum suo sodalitio et contubernio asciscat atque absque impensis per annum alat, ea tamen conditione, ut, si opus fuerit, magistratui nostro inserviat <persName>Zollerus</persName>, interim vero a latere Schertleri stet eiusque contubernio domi et foris belle fruatur.</s>
+					<s n="14" xml:lang="la" type="auto">Ita enim decet senatum nostrum inclyto magistratui Tigurino gratificari.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Discedentem d. <persName>Erasmum Fabritium</persName><note xml:id="fn7" type="footnote" n="7"><persName>Erasmus Schmid</persName>, der im Sterben lag (s. <ref target="file12407">Nr. 2360</ref>, Anm. 43), als <persName>Haller</persName> Zürich mit Bullingers Briefen verließ.</note> vehementer lugeo, singularem siquidem fervorem ipsius erga religionem deprehendi.</s>
+					<s n="16" xml:lang="la" type="auto">Sit ergo ille nobis faustus pręcursor in patriam illam cęlestem.</s>
+					<s n="17" xml:lang="la" type="manual">Amen.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Orationem tuam ab <persName>Hallero</persName> repetam eamque avide legam tanquam librum ab eo, qui nihil indignum scribere possit, manantem.</s>
+					<s n="19" xml:lang="la" type="auto">Gratias autem tibi et debeo et habeo immorituras, qui nunquam mei non memor esse soles, imo qui accumulatis offitiis me opprimis.</s>
+					<s n="20" xml:lang="la" type="auto">Unde autem, obsecro, rependam?</s>
+					<s n="21" xml:lang="la" type="auto">Repetam etiam ab <persName>Hallero</persName> librum tuum de ratione sacramentorum<note xml:id="fn9" type="footnote" n="9">Bullingers Schrift "De sacramentis"; s. <ref target="file12379">Nr. 2332</ref>, Anm. 29.</note> iuditiumque meum te non celabo, quantumvis sutor de Apellea arte iudicem<note xml:id="fn10" type="footnote" n="10">Vgl. <bibl>Adagia</bibl> 1, 6, 16 <hi>(ASD</hi> II/2 40-42, <ref target="file10552">Nr. 516</ref>). - <persName>Apelles</persName>, griechischer Maler, 4. Jh. v. Chr.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Consilium meum super dedicatione Lucę tui<note xml:id="fn11" type="footnote" n="11">Bullingers Lukaskommentar <hi>(HBBibl</hi> I 173).</note> proxime tibi per longum scripsi,<note xml:id="fn12" type="footnote" n="12">Siehe dazu <ref target="file12398">Nr. 2351</ref>,68-82.</note> nec in eo scripto virorum statum et habitum neglexi.</s>
+					<s n="23" xml:lang="la" type="auto">Neuter horum literas callet.</s>
+					<s n="24" xml:lang="la" type="auto"><persName>Welserus</persName> tamen, Gallica, <placeName>Italica</placeName> et <placeName>Hispanica</placeName> linguis bene imbutus, etiam olim earum regionum perlustrator fuit et ob id civilior altero.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Estque antiquissimę nobilissimęque stirpis.</s>
+					<s n="26" xml:lang="la" type="auto">Vidi ego literas testatrices suos attavos ante 400 annos hic consules extitisse<note xml:id="fn13" type="footnote" n="13">Siehe <ref target="file12398">Nr. 2351</ref>,73-76.</note>.</s>
+					<s n="27" xml:lang="la" type="auto">Puritatem religionis impensissime tuetur, maximus anthilutheranus.</s>
+					<s n="28" xml:lang="la" type="auto">Alter<note xml:id="fn14" type="footnote" n="14"><persName>Jakob Herbrot</persName>.</note> primus ex suo stemmate consulatum gerit.</s>
+					<s n="29" xml:lang="la" type="auto">Vir est magnanimus, facundus et fere precox.</s>
+					<s n="30" xml:lang="la" type="auto">Utinam ostentationem nimiam moderetur!</s>
+					<s n="31" xml:lang="la" type="auto">Id quod post aliquot annos, ubi thaurus cornua aliquantum attriverit,<note xml:id="fn15" type="footnote" n="15">Vgl. <bibl>Wander</bibl> II 784, Nr. 46. 53.</note> futurum spero.<pb type="scan" next="200v."/></s>
+					<s n="32" xml:lang="la" type="auto">Uterque dives est tam liberis quam opibus.</s>
+					<s n="33" xml:lang="la" type="auto">Nonnihil emulationis inter eos sentisco.</s>
+					<s n="34" xml:lang="la" type="auto">Verum utrique simul an alteri solum dicaveris opus tuum, error nullus est.</s>
+					<s n="35" xml:lang="la" type="auto">In priori mea epistola<note xml:id="fn16" type="footnote" n="16">Nr. 2351.</note> me forsan planius intelliges; iam mihi ipsi obscurus esse videor.<pb type="edition" next="192"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="36" xml:lang="la" type="auto">De <persName ref="p18889">Lutheri</persName> scriptis adversum vos et nos<note xml:id="fn17" type="footnote" n="17">Siehe dazu zuletzt <ref target="file12411">Nr. 2364</ref>, Anm. 24.</note> nihildum audio nec puto nunc quicquam proditurum in lucem, pręsertim si verum sit <persName ref="p18889">Lutherum</persName> vita defunctum esse, quemadmodum heri ex <placeName>Norinberga</placeName> ad nos scriptum est<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file12411">Nr. 2364</ref>,20f.</note>.</s>
+					<s n="37" xml:lang="la" type="auto">Credo firmiter plęrosque gigantes inde mitiores futuros.</s>
+					<s n="38" xml:lang="la" type="auto">Fiat tamen voluntas domini.</s>
+					<s n="39" xml:lang="la" type="auto">Postquam de hoc mihi certo constiterit, tibi significabo.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="40" xml:lang="la" type="auto">De <persName>Ioanne Voglero</persName><note xml:id="fn19" type="footnote" n="19"><persName>Hans Vogler d.J.</persName> der von 1543 bis 1545 Schreiberlehrling bei <persName>Oswald Fürstenlob</persName> in Reichenweier gewesen war.</note> Sangallensi diligenter disquiram illique benevolus et officiosus esse tui causa non desinam.</s>
+					<s n="41" xml:lang="la" type="auto">Quod tibi commendabile est, mihi iure observantissimum esse debet.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="42" xml:lang="la" type="auto">Communicatio consilii sive instituti cuiusdam viri spectabilis et docti manebit apud me.</s>
+					<s n="43" xml:lang="la" type="auto">Experiri autem solutionem super propositis questionibus nec vires neque negotia hoc brevi tempore passa sunt.</s>
+					<s n="44" xml:lang="la" type="auto">Quamprimum vero fieri poterit, gnaros earum rerum accedam et consulam suppresso tamen nomine, etc.</s>
+					<s n="45" xml:lang="la" type="auto">Ego nihilominus, quantum ex quorundam olim relatione intellexi, institutum eiusmodi non modo periculosum, sed ne possibile quidem esse duco, ut assequatur aliquis, adeo Mahometistę omnem aditum ad hęc pręcluserunt, etc.</s>
+					<s n="46" xml:lang="la" type="auto">Dehortandus igitur mihi potius vir tantus ab illa quantumvis laudabili profectione esse videtur, ne incerta sectans certa perdat et amittat sibi et nobis.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="47" xml:lang="la" type="auto">Nodum Gordium,<note xml:id="fn22" type="footnote" n="22">Der unlösbare Knoten von Gordius, dem mythischen Gründer des phrygischen Staates; s. <bibl>DNP</bibl> IV 1146. 1149.</note> lepidissimam nimirum questionem, mihi obiecisti, sed quia iam <persName>Davus</persName>, non <persName>Oedipus</persName> sum,<note xml:id="fn23" type="footnote" n="23"><bibl>Adagia</bibl> 1, 3, 36 <hi>(ASD</hi> II/1 348-350, <ref target="file10267">Nr. 236</ref>).</note> alias tibi respondebo.</s>
+					<s n="48" xml:lang="la" type="auto">Interim alios pari modo de hoc Spingis<note xml:id="fn24" type="footnote" n="24">Anspielung auf die rätselhaften Aussagen der Sphinx; s. <bibl>DNP</bibl> XI 816-819.</note> negotio sollicitaturus.</s>
+					<s n="49" xml:lang="la" type="auto">Gratias autem tibi habeo maximas.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="50" xml:lang="la" type="auto">Placet mihi similiter anthiphona<note xml:id="fn25" type="footnote" n="25">Nicht ermitteltes Gedicht gegen den Spottvers von <persName>Giovanni Antonio Campano</persName>; vielleicht von <persName>Bibliander</persName> (s. unten Z. 67-69), falls <persName>Frölich</persName> recht haben sollte.</note> contra Campani<note xml:id="fn26" type="footnote" n="26">Der päpstliche Gesandte <persName>Giovanni Antonio Campano</persName> (1429-1477); s. <bibl>Contemporaries</bibl> I 252.</note>, mali hominis, scomma, et nisi ultra modum nunc dolore capitis gravarer, adderem etiam aliquid.<note xml:id="fn28" type="footnote" n="28"><persName>Frölich</persName> verfasste Verse darauf, die er mit seinem Brief vom 1. April 1546 Bullinger zukommen ließ; s. <ref target="file12452">Nr. 2405</ref>,83f und Beilage.</note><pb type="edition" next="193"/></s>
+					<s n="51" xml:lang="la" type="auto">Authorem penthametrorum<note xml:id="fn29" type="footnote" n="29">Gemeint sind die Verse der oben genannten "anthiphona contra Campani scomma".</note> voluisti mihi detegere, sed preteristi, oblivione forsan, quanquam ego d. <persName>Bibliandrum</persName> esse artificem mihi persuadeam.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="52" xml:lang="la" type="auto">Scripserunt mihi viri optimi d. Gvalterus, Gvolphius,<note xml:id="fn30" type="footnote" n="30"><persName>Johannes Wolf</persName>.</note> item egregius iuvenis <persName>Ulricus Zvinglius</persName>, quibus singulis quam lubentissime rescriberem; sed profecto cerebrum hoc modo non tulit.</s>
+					<s n="53" xml:lang="la" type="auto">Oro igitur te per nostram fidem, ut me apud illos, ut potes optime, excuses.</s>
+					<s n="54" xml:lang="la" type="auto">D. <persName>Gesnerus</persName> dignatus est me, quemadmodum audio, magno et immortali honore; id quod me tam anxium facit quam hilarem.</s>
+					<s n="55" xml:lang="la" type="auto">Norunt me multi, qui etiam mecum fatentur et sciunt, quam curta mihi supellex sit<note xml:id="fn32" type="footnote" n="32">Vgl. <hi><persName>Persius</persName>,</hi> Saturae, 4, 52.</note>, quam, inquam, parum ingenii habeam.</s>
+					<s n="56" xml:lang="la" type="auto">Oro igitur te per charitatem nostram, ut prohibeas, ne mihi preconia fiant.</s>
+				</p>
+				<p>
+					<s n="57" xml:lang="la" type="auto">Resalutabis utrunque consulem<note xml:id="fn33" type="footnote" n="33"><persName>Hans Rudolf Lavater</persName> und <persName>Johannes Haab</persName>.</note>, d. <persName>Bibliandrum</persName>, archigrammateum<note xml:id="fn34" type="footnote" n="34"><persName>Hans Escher vom Luchs</persName>.</note>, <persName>Gessnerum</persName>, <persName>Pellicanum</persName>, Gvolfphium, Gvalterum et singulos, quotquot Lęto benevolunt.</s>
+					<s n="58" xml:lang="la" type="auto">Vale, decus meum.</s>
+					<s n="59" xml:lang="la" type="auto">Celerrime.</s>
+					<s n="60" xml:lang="la" type="auto">2. martii 1546.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="la" type="auto">Tuus ex animo <persName>G. Laetus</persName>, etc.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 202a,v.:]</note>
+					<s n="62" xml:lang="la" type="auto">Amplissimo viro domino Henricho Bullingero, etiam amico et fratri omnibus modis suspiciendo.</s>
+					<s n="63" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

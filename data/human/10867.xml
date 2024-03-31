@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10867" type="Brief" source="HBBW" n="828">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Erasmus Ritter, 24. Mai 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName>Erasmo Ritter</persName>, <placeName>Schaffhusiano</placeName> antistiti.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Rem profecto gratissimam fecisti, <persName>Erasme</persName> dilecte, verum exposuisti negotium mihi plane novum et vel impudens omnino vel tibi incognitissimum<note xml:id="fn1" type="footnote" n="1">Siehe oben <ref target="file10866">Nr. 827</ref>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Si enim <persName ref="p4082">Benedictus</persName><note xml:id="fn2" type="footnote" n="2"><persName>Benedikt Burgauer</persName>.</note> ex literis meis<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10857">Nr. 818</ref>.</note> iactat, quod tu illum iactare als hominum est impudentissimus.</s>
+					<s n="5" xml:lang="la" type="auto">Si vero tu illas meas non vidisti literas, quas illum sinistre als interpretari, plane incognitissimam narras fabulam.</s>
+					<s n="6" xml:lang="la" type="auto">Eiusmodi enim sunt epistolae illae nostrae illi homini scriptae<note xml:id="fn4" type="footnote" n="4">Gemeint ist Bullingers Brief (vgl. Anm. 3) und das bereits von <persName>Ritter</persName> erwähnte Schreiben <persName ref="p6796">Leo Juds</persName> (vgl. oben <ref target="file10866">Nr. 827</ref>, 14 mit Anm. 5).</note>, ut ex iis nihil veluti anceps in diversum rapere possit; tantum abest, ut defectionem a <persName>Zvinglio</persName> ad <persName ref="p18889">Lutherum</persName> vel colligere vel suspicari queat.</s>
+					<s n="7" xml:lang="la" type="auto">Igitur nullis literis vel Leonis<note xml:id="fn5" type="footnote" n="5"><persName ref="p6796">Leo Jud</persName>.</note> vel meis confirmatus consul Zieglerus in senatu hoc proposuit, quod proposuisse ais; de nobis enim mendatia retulit impudentissima.</s>
+					<s n="8" xml:lang="la" type="auto">Meliora obsecro, <persName>Erasme</persName> mi, de nobis ominare, quam ut vel suspiceris unquam nos vel tantillum de confessa concessuros veritate.</s>
+					<s n="9" xml:lang="la" type="auto">Quid <persName ref="p4082">Benedictus</persName> iactet, nescio, hoc autem scio: Apologiam illam urbium 4<note xml:id="fn6" type="footnote" n="6">Zur Apologie der Confessio Tetrapolitana vgl. oben <ref target="file10822">Nr. 783</ref>, Anm. 4.</note> ob, quam male audimus a quibusdam, quod dixeramus illam nos ut nostrae<note xml:id="fn7" type="footnote" n="7">Gemeint ist das Erste Helvetische Bekenntnis (s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1).</note> non adversam<note xml:id="fn8" type="footnote" n="8">Bullinger hatte am 24. April in einem Fürtrag vor dem Rat die Übereinstimmung festgehalten (vgl. oben <ref target="file10852">Nr. 813</ref>, Anm. 2 und 6). Widerstand gegen die Anerkennung war vor allem von <placeName>Berner</placeName> Seite erwachsen (vgl. oben <ref target="file10856">Nr. 817</ref>).</note> ferre posse, plane et disertis verbis approbare <placeName>Bernensem</placeName> disputationem, quae impugnavit substantialem et corporalem corporis Christi in pane praesentiam<note xml:id="fn9" type="footnote" n="9">Vgl. <bibl>BucerDS</bibl> III 276,27-277,23.</note>.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><pb type="edition" next="300"/>Et ego ultimis ad <persName ref="p4082">Benedictum</persName> literis monui <persName ref="p4082">Benedictum</persName> sua illa purgatione apud me facta<note xml:id="fn10" type="footnote" n="10">Der Inhalt der nicht mehr erhaltenen Rechtfertigung <persName>Burgauers</persName> ist auszugsweise in Bullingers Antwort (oben <ref target="file10857">Nr. 818</ref>) und im vorliegenden Brief (unten Z. 24-27) enthalten.</note> idem sentire ac tradere, quod ante ipsum sensit <persName>Zvinglius</persName>.</s>
+					<s n="11" xml:lang="la" type="auto">Tam abest, ut possit is ex nostris decerpere literis defectionem nos moliri ad <persName ref="p18889">Lutherum</persName> corporalem et carnalem iactantem praesentiam.</s>
+					<s n="12" xml:lang="la" type="auto">Si vero <persName ref="p4082">Benedictus</persName> mihi proposuit mendatia, referet pudorem et ignominiam, nec id quidem dissimulabit et mendatiis tuebitur perpetuo.</s>
+					<s n="13" xml:lang="la" type="auto">Disertis sane verbis mihi confessus est se non sentire, quod sacramenta afferant gratiam;<pb type="scan" next="||162r"/> ursus signum et signatum non nisi apud sanctos esse juncta, impios post signum percipere nihil, pios autem fidei benefitio percipere rem.</s>
+					<s n="14" xml:lang="la" type="auto">Id ego improbare non potui.</s>
+					<s n="15" xml:lang="la" type="auto">Nec pudet, si is dicat me ista non improbare, nec opinor te offendit.</s>
+					<s n="16" xml:lang="la" type="auto">Hic vero, si quid mihi mentitus est, nescio; edoctus autem non silebo.</s>
+					<s n="17" xml:lang="la" type="auto">Quodsi certo nossem istum nostris abuti literis et iis nescio quam defectionem approbare velle, videres, <persName>Erasme</persName>, quam mihi rem faceret ingratam.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vale et ea, quae aedificant ecclesiam, cogita, meque pergito monere.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Tiguri, 24. maii 1536.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

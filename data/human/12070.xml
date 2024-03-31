@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12070" type="Brief" source="CO" n="580">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Guillaume Farel] / [Neuenburg] AN Heinrich Bullinger, [um 28. Oktober 1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Doctissimo et pari pietate insigni Heinricho Bullingero ecclesiae Tigurinae pastori plurimum observando, Tiguri.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Classis Neocomensis.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Admonitio et correctio inter verbi ministros in hunc modum tractatur.</s>
+					<s n="4" xml:lang="la" type="auto">Qui admonendus est egredi iubetur: quo egresso quaerit decanus ex vicinis et familiaribus cius si quid norint in eo fratre quod palam offendat ecclesiam, unde impediatur eius aedificatio et pastoris ministerium vituperari possit, tum propter ipsum tum propter ipsius familiam.</s>
+					<s n="5" xml:lang="la" type="auto">Deinde singulatim ex caeteris quaeritur quod omnino dignum putent de quo ille admoneatur.</s>
+					<s n="6" xml:lang="la" type="auto">Ubi singuli sententiam dixerint vocatur frater, et ex omnium consilio atque iudicio candide et amice admonetur ut sancte officium faciat ecclesiamque aedificet.</s>
+					<s n="7" xml:lang="la" type="auto">Adversarius classis.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">1. Correctio fraterna est actus caritatis sub Dei praecepto cadens, a cuius obligatione neminem eximendum ducimus.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">2. Praeceptum fraternae correctionis, quum sit affirmativum, non pro quolibet tempore obligat.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">3. Licebit igitur correctionem, cuius finis est fratris deliquentis emendatio, non solum differre, sed et nonnumquam prorsus ab ea abstinere.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">4. Iuxta Christi praeceptum: Si peccaverit in te frater tuus, monito secreta publicam debet praecedere denunciationem.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">5. Quisquis christiana caritate erga fratrem afficitur, vel notorio peccato laborantem, sancte fecerit, si eum primo clam monuerit, deinde non audientem praesente uno atque altero teste iuxta ordinem a Christo praescriptum iterum admonuerit, ac tandem iteratis monitionibus non cedentem ecclesiae denunciaverit.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">6. Non est quaevis ecclesia apud quam facienda est denunciatio, sed ea cuius membrum est qui sic contumax perseverat.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Fratres aiunt, correctionem quam servant sanctam esse et utilem, ut aedificetur ecclesia et doctrina cum moribus ecclesiam non offendant, sed utraque puriora conserventur.</s>
+					<s n="15" xml:lang="la" type="auto">Adversarius ait, omnino contrariam esse censuram verbo Domini, sed admonendum quemvis pastorem primo seorsim, demum apud plebem quam docet, et nunquam in fratrum qui docent coetu.</s>
+					<s n="16" xml:lang="la" type="auto">Et mirum quod quae vidit non inducant ut aliter sentiat: siquidem duo fuerunt qui male intrarunt et peius egerunt in ecclesia, et neque hortantibus fratribus neque iubenti magistratui parere voluerunt, freti plebe per eos dementata, quae nunc pestes odit quas prius volebat perdite amando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

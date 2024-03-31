@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13084" type="Brief" source="HBBW" n="3035">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 8. Oktober 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. 2. octobris accepi, quę per <persName>Hartmannum a Hallwyl</persName> misisti.<note xml:id="fn1" type="footnote" n="1">Bullingers Brief <ref target="file13069">Nr. 3020</ref> vom 23. September 1547; vgl. <ref target="file13069">Nr. 3020</ref>,<ptr target="qvzl17288-3" type="qv"/>.</note></s>
+					<s n="2" xml:lang="la" type="auto">Reddidit pręfectus Hombergensis.<note xml:id="fn2" type="footnote" n="2"><persName>Martin Hagenbach</persName>, Obervogt der seit 1401 zur Stadt Basel gehörenden Obervogtei <placeName>Homburg</placeName> (die Schlossruine <placeName>Homburg</placeName> bzw. Homberg gehört heute zur Gemeinde <placeName>Läufelfingen</placeName>, Kt. Baselland); s. <bibl>LL</bibl> X 281f s.v. <placeName>Homburg</placeName>.</note></s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="3" xml:lang="la" type="auto">Displicent proposita a cęsare, ut vel inde indicium accipiam, quis et qualis sit natura, nempe ambitiosus supra quam dici queat, et osor omnis <pb type="edition" next="531"/> boni et iusti!</s>
+					<s n="4" xml:lang="la" type="auto">Quod inde nimirum est: Non amat literas seu literatos, deum negligit, quamvis omnipotentem sępe nominet.</s>
+					<s n="5" xml:lang="la" type="auto">Et nisi dominus nos<note xml:id="fn4" type="footnote" n="4">Die Eidgenossen.</note> protegat, videbimus mox stupenda contra nos.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Rumor est sparsus de Burensi<note xml:id="fn5" type="footnote" n="5"><persName>Maximilian von Egmont</persName>, Graf von Büren.</note>, venire ex <placeName>Belgico</placeName><note xml:id="fn6" type="footnote" n="6">"Belgien", damals etwa den nördlichen Teil Frankreichs, Belgien und den südlichen Teil der <placeName>Niederlande</placeName> umfassend.</note> cum novo equitatu.</s>
+					<s n="7" xml:lang="la" type="auto">Verum nil nisi rumorem habeo.</s>
+					<s n="8" xml:lang="la" type="auto">De <persName>Heinricho</persName><note xml:id="fn7" type="footnote" n="7"><persName>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>. - Ein falsches Gerücht; s. schon <ref target="file13066">Nr. 3017</ref>,<ptr target="qvzl17285-7" type="qv"/>.</note> volat iterum fusum a Brunsvicensibus.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="9" xml:lang="la" type="auto">In Anglia (gratia domino) res Christi magnos facit progressus indeque benedicit illis deus etiam in externis, ut nec a Gallo<note xml:id="fn8" type="footnote" n="8"><persName>König Heinrich II. von Frankreich</persName>.</note> bellum eis inferatur et <placeName>Scoti</placeName> pacem optatam ipsis Anglis recepturi videantur.</s>
+					<s n="10" xml:lang="la" type="auto">Hęc vera.<note xml:id="fn9" type="footnote" n="9">Vgl. <ref target="file13079">Nr. 3030</ref>,<ptr target="qvzl17299-6" type="qv"/>, und <ref target="file13113">Nr. 3064</ref>.</note></s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Mussitant nunc apertius rerum scii, quod pontificatus <foreign xml:lang="el">εἰς ϕερδινάνδον</foreign> sit traducendus.</s>
+					<s n="12" xml:lang="la" type="auto">Festinare dicitur in omnibus cęsar, ut quamprimum ab Augusta discedat vel <placeName>Argentinam</placeName> vel contra nos vel in <placeName>Italiam</placeName>, non religionis ergo, sed ut dominus fiat Europę.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Sederunt hic in mensa simul Christophorus dux<note xml:id="fn12" type="footnote" n="12"><persName>Christoph von Württemberg</persName>, der sich Anfang Januar 1547 nach Basel zurückgezogen hatte; s. <bibl>HBBW</bibl> XIX 158, Anm. 9.</note>, Georgius comes<note xml:id="fn13" type="footnote" n="13"><persName>Georg von Württemberg-Mömpelgard</persName>, in Basel seit etwa dem 20. Januar 1547; s. <ref target="file12992">Nr. 2943</ref>, <ptr target="qvfn17208-2" type="qv"/>.</note>, Heidegkius aliique viri nobiles, Augustanus item quęstor<ptr target="fnc" type="footnote" n="c"/>et tribuni urbis nostrę duo.<note xml:id="fn16" type="footnote" n="16">Die beiden Basler Oberstzunftmeister <persName>Marx Heidelin</persName> (s. <bibl>HLS</bibl> VI 349) und <persName>Blasius Schölli</persName> (s. <bibl>HLS</bibl> XI 182).</note></s>
+					<s n="14" xml:lang="la" type="auto">Inter multa, quę conferebant, Augustanus ait: „Age proximi nunc Schwitzeri, quos cęsar victor petet!“</s>
+					<s n="15" xml:lang="la" type="auto">Hic ex tribunis alter:</s>
+					<s n="16" xml:lang="de" type="manual">„Was sagend ir von Schwitzeren?</s>
+					<s n="17" xml:lang="de" type="auto">Sy ligend üch seltzam an!<note xml:id="fn17" type="footnote" n="17">Zu verstehen: Seltsam, wie sehr diese euch beschäftigen!</note></s>
+					<s n="18" xml:lang="de" type="auto">Nun wil üch daß gseyt han: Kumpt der keyser, wir wend<note xml:id="fn18" type="footnote" n="18">wollen.</note> imm mit der hilf gottes selicher maß engegen gan<note xml:id="fn19" type="footnote" n="19">selicher maß engegen gan: dermaßen entgegentreten.</note>, das er und die sinen muͤssind innen werden<note xml:id="fn20" type="footnote" n="20">innen werden: feststellen.</note>, das wir noch lebend!<pb type="edition" next="532"/></s>
+					<s n="19" xml:lang="de" type="auto">Und ob er schon gsigen wurd (da gott vor sy<note xml:id="fn21" type="footnote" n="21">sei.</note>), so wend wir imm ein solich loch in die sinen machen, das es innen als bald gerüwen muͦß als<note xml:id="fn22" type="footnote" n="22">als bald ... als: ebenso ... wie.</note> uns!</s>
+					<s n="20" xml:lang="de" type="auto">Wir werden, ob<note xml:id="fn23" type="footnote" n="23">wenn.</note> gott wil, nit handlen, wie ir und üwers glichen<note xml:id="fn24" type="footnote" n="24">Gemeint sind die deutschen Protestanten bzw. der Schmalkaldische Bund.</note> gehandlet hand<note xml:id="fn25" type="footnote" n="25">habt.</note>!“</s>
+					<s n="21" xml:lang="la" type="auto">His ita dictis silentium factum est in tota mensa, donec tandem novum argumentum quis induxerat.</s>
+					<s n="22" xml:lang="la" type="auto">Hoc tibi, ut videas non omnes nos timoris esse filios.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="23" xml:lang="la" type="auto">Inter hęc venit filius<note xml:id="fn26" type="footnote" n="26"><persName>Ludwig Lavater</persName>, der sich kurz zuvor, am 5. Oktober, nach Basel begeben hatte; s. <ref target="file13081">Nr. 3032</ref>,<ptr target="qvzl17301-4" type="qv"/>.</note> consulis <persName ref="p6155">Lavateri</persName>.<note xml:id="fn27" type="footnote" n="27">Der "stillstehende" Bürgermeister <persName>Hans Rudolf Lavater</persName>.</note></s>
+					<s n="24" xml:lang="la" type="auto">Narravi ego, quę certo novi ex <placeName>Parisiis</placeName>, inter alia de peste illic grassante.</s>
+					<s n="25" xml:lang="la" type="auto">Si perget, uti cępit, scholam dissipabit.</s>
+					<s n="26" xml:lang="la" type="auto">Ita retulerunt studiosi venientes ex Gallia superiore septimana.<note xml:id="fn28" type="footnote" n="28">Die Woche vom Sonntag 25. September bis Samstag 1. Oktober.</note></s>
+					<s n="27" xml:lang="la" type="auto">Quicquid autem ego apud <persName ref="p6155">Lavaterum</persName> de peste dicerem, fortiter contempsit, adserens nunquam se illam timuisse, se paratum ad iter, tantum inveniat comitem.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Legi tuas<note xml:id="fn30" type="footnote" n="30">Brief <ref target="file13081">Nr. 3032</ref> vom 5. Oktober.</note> interim, et quas<note xml:id="fn31" type="footnote" n="31">Nämlich ein Brief von <persName>Ambrosius Blarer</persName> und ein anderer von Johannes Haller; s. dazu unten <ptr target="qvfn17304-2" type="qv"/> und <ptr target="qvfn17304-3" type="qv"/>.</note> adiunxisti.</s>
+					<s n="29" xml:lang="la" type="auto">In alteris placuit, quod est de cęsaris venatione scriptum, et quod habent de equitibus (videtur consonum his, quę scripsi<note xml:id="fn33" type="footnote" n="33">Oben in Z. <ptr target="qvzl17304-8" type="qv"/>.</note> de Burensi).</s>
+					<s n="30" xml:lang="la" type="auto">In literis Halleri<note xml:id="fn34" type="footnote" n="34">Johannes Hallers Brief <ref target="file13066">Nr. 3017</ref> vom 20. September, den Bullinger ebenfalls am 5. Oktober Myconius zum Lesen gesandt hatte (s. <ref target="file13081">Nr. 3032</ref>, <ptr target="qvfn17301-1" type="qv"/>), da hier auf <ref target="file13066">Nr. 3017</ref>,<ptr target="qvzl17285-1" type="qv"/>, angespielt wird.<ptr target="zfnfn17304-3" type="zfn"/></note> displicet (quod et ipsi Hallero) de principibus missę adstare propemodum coactis, qui tamen hactenus aliud didicerunt!</s>
+					<s n="31" xml:lang="la" type="auto">Cum eodem<note xml:id="fn35" type="footnote" n="35">Hallero. - Vgl. <ref target="file13066">Nr. 3017</ref>,<ptr target="qvzl17285-5" type="qv"/>.</note> sentio, dum cęsari non fidit.</s>
+					<s n="32" xml:lang="la" type="auto">Audit<note xml:id="fn36" type="footnote" n="36">Subjekt ist der Kaiser.</note> missam, episcopos admittit, impune peccant milites, maxime contra evange<pb type="edition" next="533"/> lium!</s>
+					<s n="33" xml:lang="la" type="auto">Quid igitur ei fidas?</s>
+					<s n="34" xml:lang="la" type="auto">Ad Georgium comitem scriptum est ex <placeName>Augusta</placeName> pfaffos conducere civium pauperes, ut adeant missam.<note xml:id="fn37" type="footnote" n="37">Vgl. auch <ref target="file13054">Nr. 3005</ref>,<ptr target="qvzl17272-6" type="qv"/>; <ref target="file13059">Nr. 3010</ref>,[4].</note></s>
+					<s n="35" xml:lang="la" type="auto">Venisse ad sutorem quendam<note xml:id="fn38" type="footnote" n="38">Unbekannt.</note> ac dedisse coronatum<note xml:id="fn39" type="footnote" n="39">Taler.</note>, ut per dies 14 sibi obsequatur.</s>
+					<s n="36" xml:lang="la" type="auto">Miser accipit, venit domum et moritur subito!</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="37" xml:lang="la" type="auto"><persName ref="p18518">Gastius</persName> iurat se misisse <persName>Persium</persName><note xml:id="fn40" type="footnote" n="40"><persName>Aulus Persius</persName>' Satiren; s. dazu <ref target="file13033">Nr. 2984</ref>, <ptr target="qvfn17249-6" type="qv"/>, und zuletzt <ref target="file13081">Nr. 3032</ref>,<ptr target="qvzl17301-1" type="qv"/>.</note> cum viro, nescio an impresore, an compositore<note xml:id="fn41" type="footnote" n="41">Setzer (in einer Druckerei); s. <bibl>Hoven</bibl> 113.</note>, <persName>Michaele</persName> nomine,<note xml:id="fn42" type="footnote" n="42"><persName>Michael Martin Stella</persName>; s. <ref target="file13109">Nr. 3060</ref>,<ptr target="qvzl17327-1" type="qv"/>.</note> barbato.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="38" xml:lang="la" type="auto"><persName ref="p6490">Philippus</persName><note xml:id="fn43" type="footnote" n="43"><persName>Melanchthon</persName>. - Vgl. <ref target="file13070">Nr. 3021</ref>,<ptr target="qvzl17289-8" type="qv"/>.</note> est Witenbergę.</s>
+					<s n="39" xml:lang="la" type="auto">Expectat instaurationem scholę<note xml:id="fn44" type="footnote" n="44">Die Universität <placeName>Wittenberg</placeName>. - Siehe <ref target="file13094">Nr. 3045</ref>, <ptr target="qvfn17314-4" type="qv"/>.</note> - quae si instaurabitur, illic manebit; sin aliter, consilio bonorum sedem mutabit.</s>
+					<s n="40" xml:lang="la" type="auto">Hęc ex ipsius literis.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="41" xml:lang="la" type="auto">Vale in Christo cum <persName>Theodoro</persName><note xml:id="fn46" type="footnote" n="46"><persName>Theodor Bibliander</persName>.</note>, <persName>Rodulpho</persName><note xml:id="fn47" type="footnote" n="47"><persName>Rudolf Gwalther</persName>.</note>, fratribus bonis omnibus.</s>
+					<s n="42" xml:lang="la" type="auto">Orandum esse nobis ipse nosti.</s>
+					<s n="43" xml:lang="la" type="auto">Mirum est enim in hac calamitate, ut spiritus in bonis etiam viris propemodum extinguatur,<note xml:id="fn48" type="footnote" n="48">Vgl. Mt 24, 10-13.</note> adeo vitę, uxoribus et liberis suis timent.<note xml:id="fn49" type="footnote" n="49">Vgl. Lk 14, 26.</note></s>
+					<s n="44" xml:lang="la" type="auto">Dominus nos consoletur!</s>
+					<s n="45" xml:lang="la" type="manual">Amen.</s>
+					<s n="46" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 8. octobris anno 1547.</s>
+					<s n="47" xml:lang="la" type="auto">Tuus <persName>O. Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="48" xml:lang="la" type="auto">D. Heinricho Bullingero in domino suo.</s>
+					<s n="49" xml:lang="la" type="auto">Tig[uri].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

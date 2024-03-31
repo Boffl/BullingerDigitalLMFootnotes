@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12672" type="Brief" source="HBBW" n="2625">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 14. Oktober 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Gratissimum fuit hoc postremum scriptum<note xml:id="fn1" type="footnote" n="1">Ein nicht erhaltener Brief Bullingers.</note>, maxime quod Schertlium apud me liberavit a grandi infamia.</s>
+					<s n="3" xml:lang="la" type="auto">Per totam urbem ferebatur proditorem <pb type="edition" next="132"/> eum<note xml:id="fn2" type="footnote" n="2"><persName>Sebastian Schertlin von Burtenbach</persName>. - Offensichtlich hatte in <placeName>Basel</placeName> das Gerücht den sonst auch von Bullinger in <ref target="file12654">Nr. 2607</ref>,7-9, erwähnten Verräter <persName>Sebastian Schnell</persName> aus <placeName>Bregenz</placeName> mit Schertlin identifiziert.</note> esse, de quo et priores tuę<note xml:id="fn3" type="footnote" n="3">Gemeint ist Bullingers Brief <ref target="file12654">Nr. 2607</ref> vom 5. Oktober, den <persName>Myconius</persName> schon mit <ref target="file12661">Nr. 2614</ref> vom 7. Oktober verdankt hatte.</note> meminerunt.</s>
+					<s n="4" xml:lang="la" type="auto">Accusatum aiebant a latrone Lindaviensi, ut qui propter hoc missus fuisset, quod non servasset fidem cęsari<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> Schertlius.</s>
+					<s n="5" xml:lang="la" type="auto">Nam sic constitutum, ut, dum cęsar invasurus esset nostros<note xml:id="fn7" type="footnote" n="7">die Schmalkaldener.</note>, ille<note xml:id="fn8" type="footnote" n="8">Gemeint ist Schertlin.</note> cum suis eosdem pariter invaderet.</s>
+					<s n="6" xml:lang="la" type="auto">Equidem non potui credere, quamvis non nesciam, quantum valeat pecunia apud militem.</s>
+					<s n="7" xml:lang="la" type="auto">Melioris tamen notę vir ille ab omnibus, qui norunt, semper habitus est.</s>
+					<s n="8" xml:lang="la" type="auto">Quamobrem et mihi spes mansit de eo hactenus non mala.</s>
+					<s n="9" xml:lang="la" type="auto">Nescio quis<note xml:id="fn9" type="footnote" n="9">In Frage käme vielleicht <persName>Johannes Gast</persName>, dem <persName>Myconius</persName> Bullingers Briefe zu lesen gab; vgl. <ref target="file12671">Nr. 2624</ref>.2-4.</note> de hoc scripto<note xml:id="fn10" type="footnote" n="10">Gemeint ist der oben in Z. 1 erwähnte Brief Bullingers.</note> narrarit.</s>
+					<s n="10" xml:lang="la" type="auto">Miserunt hodie capita<note xml:id="fn11" type="footnote" n="11">Die Stadtoberhäupter <placeName>Basels</placeName>.</note>, ut id mitterem ad se legendum.</s>
+					<s n="11" xml:lang="la" type="auto">Vides autem, mi Bullingere, quam vafer sit vir iste<note xml:id="fn12" type="footnote" n="12">Gemeint ist der Kaiser.</note>, quibus artibus conetur delassare viros optimos et interim mala inferre non vulgaria!</s>
+					<s n="12" xml:lang="la" type="auto">A malo<note xml:id="fn13" type="footnote" n="13">vom Teufel.</note> dirigitur, quocirca fere credo, quę narrantur habere ipsum Aegyptios et Chaldęos<note xml:id="fn14" type="footnote" n="14">Aegyptios et Chaldeos: Sammelbegriff für Astrologen und Wahrsager.</note>, quorum consiliis obsequatur; nam isti dęmonia sequuntur.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Una spes hic mihi est: Non diutius ita fore.</s>
+					<s n="14" xml:lang="la" type="auto">Sed interea fiunt latrocinia, incendia, stuprationes et alia mala, quod dolendum propter eos, qui patiuntur.</s>
+					<s n="15" xml:lang="la" type="auto">Nam eadem debent esse nobis veluti stimulus<note xml:id="fn15" type="footnote" n="15">Anspielung auf Lk 21, 28.</note> ad precandum et ad vitam emendandam.</s>
+					<s n="16" xml:lang="la" type="auto">Adeo vero, dum stuprationes illas violentas<note xml:id="fn16" type="footnote" n="16">Anspielung auf die Misshandlungen der Frauen in <placeName>Neuburg</placeName> ad. Donau unter Bezug auf Bullingers Mitteilungen in <bibl>HBBW</bibl> XVII 513,3-6, und <ref target="file12654">Nr. 2607</ref>.3 1f.</note> audio, exhorresco, ut fide plaenus dicam apud me: Haud feret dominus!</s>
+					<s n="17" xml:lang="la" type="auto">Fuit hic vir nobilis<note xml:id="fn17" type="footnote" n="17">Unbekannt.</note>, non nostras, qui narravit Neoburgi<note xml:id="fn18" type="footnote" n="18"><placeName>Neuburg</placeName> ad. Donau.</note> concionatorem senem<note xml:id="fn19" type="footnote" n="19">Unbekannt.</note> ab <placeName>Hispanis</placeName> comprehensum (duos enim evasisse) et super mensam ligatum exectis pudendis acutissimis, quales gerunt, pugionibus tamdiu stimulatum, dum animam exhalarit.</s>
+					<s n="18" xml:lang="la" type="auto">Habemus exemplum tyrannidis et crudelitatis <placeName>Hispanicę</placeName> contra ministros Christi.<pb type="edition" next="133"/></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Reddidisti animum, ubi scribis, Palatinum<note xml:id="fn21" type="footnote" n="21"><persName>Kurfürst Friedrich II. von der Pfalz</persName>.</note> et Wirtembergensem<note xml:id="fn22" type="footnote" n="22"><persName>Herzog Ulrich von Württemberg</persName>.</note> excepturos<note xml:id="fn23" type="footnote" n="23">Hier im Sinne von "aufhalten, auffangen"; s. <bibl>Kirsch</bibl> 1099.</note> exercitum cęsaris.</s>
+					<s n="20" xml:lang="la" type="auto">Adeo enim recessus ille<note xml:id="fn24" type="footnote" n="24">Der vermutete Rückzug des Kaisers in die <placeName>Niederlande</placeName>; vgl. <persName>Johannes Gasts</persName> Mitteilung vom gleichen Tag in <ref target="file12671">Nr. 2624</ref>,8-18.</note> me vexavit, ut noctes duxerim propterea difficiles.</s>
+					<s n="21" xml:lang="la" type="auto">Nam hac ratione multo graviora damna intulisset Germanis nostris quam repugnando, qualiter et iam coepit in ditione comitum Oetingensium, ut scriptum tuum habet.</s>
+					<s n="22" xml:lang="la" type="auto">Si dux Mauricius<note xml:id="fn26" type="footnote" n="26"><persName>Moritz von Sachsen</persName>.</note> se illis<note xml:id="fn27" type="footnote" n="27">den Schmalkaldenern.</note> adiungeret, modo pergeret cęsar, rebus foret melius consultum.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="23" xml:lang="la" type="auto">Nescio, si hoc noris: Audivi ex ore tabellionis nostratis<note xml:id="fn28" type="footnote" n="28">Unbekannt. - Siehe <bibl>PC</bibl> IV/1 431, <ref target="file10440">Nr. 405</ref>, wo diese Angelegenheit ausführlich beschrieben ist.</note>, qui nudiusquintus<note xml:id="fn29" type="footnote" n="29">Am 10. Oktober. Aus <bibl>PC</bibl> aaO geht aber hervor, dass der Bote sich schon am 9. Oktober in <placeName>Basel</placeName> befand.</note> venit ex <placeName>Mediolano</placeName>, se vidisse et audisse aeneatorem<note xml:id="fn30" type="footnote" n="30">Trompeter (offizieller Bote); s. <bibl>Kirsch</bibl> 82. - Unbekannt.</note> per totam urbem pronunciasse, ut omnia bona, quę per ducatum <placeName>Mediolanensem</placeName> pertineant ad papam<note xml:id="fn31" type="footnote" n="31"><persName>Paul III.</persName></note>, in cameram inferantur cęsaream sub poena gravi.</s>
+					<s n="24" xml:lang="la" type="auto">Adiecit causam: Papam promisisse 12000 peditum et mille equitum suis expensis.</s>
+					<s n="25" xml:lang="la" type="auto">Hactenus tamen ne teruncium<note xml:id="fn32" type="footnote" n="32">ne teruncium: sprichwörtlich: nicht einen Heller; vgl. <hi><persName>Cicero</persName>,</hi> Epistulae ad Atticum, 6,2,4.</note> solvisse.</s>
+					<s n="26" xml:lang="la" type="auto">Ego vero: Salva res cacodęmonibus inter se invicem depilantibus!</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="27" xml:lang="la" type="auto">De Francis equitibus<note xml:id="fn33" type="footnote" n="33">Die fränkischen Ritter; s. <ref target="file12654">Nr. 2607</ref>,24 mit Anm. 33.</note> Francum nobilem<note xml:id="fn34" type="footnote" n="34">Unbekannt.</note> rogavi, qui respondit meliorem partem esse apud Saxonem<note xml:id="fn35" type="footnote" n="35">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> et Hessum.<note xml:id="fn36" type="footnote" n="36">Landgraf <persName>Philipp von Hessen</persName>.</note></s>
+					<s n="28" xml:lang="la" type="auto">Wirtzburgensem<note xml:id="fn37" type="footnote" n="37"><persName>Melchior Zobel</persName>, Bischof von Würzburg.</note> suos misisse<note xml:id="fn38" type="footnote" n="38">Nämlich dem Kaiser; s. <bibl>HBBW</bibl> XVII 467,34-36.</note> iam pridem.</s>
+					<s n="29" xml:lang="la" type="auto">Qui domi sint, tales esse, ut capita non facile gladiis submittant.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="30" xml:lang="la" type="auto">Ex <placeName>Germania Inferiore</placeName> dixit quidam<note xml:id="fn39" type="footnote" n="39">Unbekannt.</note> cęsarem pecunia tam diu obpugnaturum Helvetios, donec omnes faciat proditores.</s>
+					<s n="31" xml:lang="la" type="auto">Ego tum: „Nunquam faciet hoc cęsar, utpote avarior!“</s>
+					<s n="32" xml:lang="la" type="auto">Ille: „Facient alii!“</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="33" xml:lang="la" type="auto">Strotius<note xml:id="fn40" type="footnote" n="40"><persName>Piero Strozzi</persName>, dessen Reise nach Italien im Herbst 1546 in <bibl>NBD</bibl> IX 306-309, Nr. 93 mit Anm. 1, belegt ist.</note> dicitur abiisse ad <placeName>Venetos</placeName> collecturus milites et abstracturus cęsari, quocunque valeat, etc.<pb type="edition" next="134"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="34" xml:lang="la" type="auto">Vale cum tuis et <persName>Gvalthero</persName>, cui scribere non potui.<note xml:id="fn41" type="footnote" n="41">In Bezug auf <persName>Myconius</persName>' Ankündigung in <ref target="file12661">Nr. 2614</ref>,41f.</note></s>
+					<s n="35" xml:lang="la" type="auto">Scribam tamen.</s>
+					<s n="36" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 14. octobris anno 1546.</s>
+					<s n="37" xml:lang="la" type="auto">Tuus Os. Myco.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="38" xml:lang="la" type="auto">Domino Heinricho Bullingero, viro praestantissimo, ministro optimo, fratri ac domino in Christo venerando suo.</s>
+					<s n="39" xml:lang="de" type="auto">Z[urich].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

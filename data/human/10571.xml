@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10571" type="Brief" source="HBBW" n="535">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Peter Rümeli / Frauenfeld AN Heinrich Bullinger, 27. Februar [1535]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem et conscientie pacem per Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Besonder lieber herr und vatter, ich fuͤg uch ze wissen<note xml:id="fn2" type="footnote" n="2">gebe euch Nachricht (<bibl>SI</bibl> I 702).</note> uff üwer begären, das her <persName>Michel von Üsigen</persName>, pfarer zu Frowenfeld, öffenlich geprediget hat, Maria sye ein furbitterin, sy hab dem schlangen das houpt zerträtten<note xml:id="fn4" type="footnote" n="4">Vgl. Gen 3, 15.</note>, und wer sy in allen nötten nit fur ein helferin erkenne und anruͤfe, den halt er fur ein kätzer.</s>
+					<s n="3" xml:lang="de" type="auto">Das hand zwen predicanten und andere gloubhafte personen gehört, glich nach Nicolai<note xml:id="fn5" type="footnote" n="5">6. Dezember 1534.</note> geschehen.</s>
+					<s n="4" xml:lang="de" type="auto">Item in dem ersten sontag in der fasten<note xml:id="fn6" type="footnote" n="6">14. Februar 1535.</note>, man muͤß nachlassung der sünd durch das furbitt des priesters in der bicht, die man nempt die orenbicht, erlangen, und wär nit bichte, der wärd nit sälig.</s>
+					<s n="5" xml:lang="de" type="auto">Dan Christus habe wol die sünd hin gnomen, ja als vil als am [!] im stande.</s>
+					<s n="6" xml:lang="de" type="auto">Item er hat am domstag nach esto mihi<note xml:id="fn7" type="footnote" n="7">11. Februar 1535.</note> öffenlich in <persName>Heinrich Capelers</persName> huß im oberen stublin gredt: "Hier ist oder stat der man, der, wie wol er klein ist, groß unglück kan anrichten."</s>
+					<s n="7" xml:lang="de" type="auto">Das hat einer uf unser siten und der statknecht uf irer syten ghört<note xml:id="fn9" type="footnote" n="9">Die Namen der beiden Zeugen sind nicht bekannt.</note>, und ist gemeldet von einem gsessnen<note xml:id="fn10" type="footnote" n="10">vollzählig versammelten (<bibl>SI</bibl> VII 1750).</note> radt Frowenfeld.</s>
+					<s n="8" xml:lang="de" type="auto">Aber einer hat in versprochen<note xml:id="fn11" type="footnote" n="11">entschuldigt (<bibl>SI</bibl> X 782-785).</note> und gredt, er hab es nur in schimpf wiß<note xml:id="fn12" type="footnote" n="12">im Scherz (<bibl>SI</bibl> VIII 784).</note> geredt.</s>
+					<s n="9" xml:lang="de" type="auto">Also hat im wyter niemant nach gefraget.</s>
+					<s n="10" xml:lang="de" type="auto">Es lyt ein brief<note xml:id="fn13" type="footnote" n="13">Ein solcher Brief scheint nicht erhalten zu sein.</note> hinder den schultheß <persName>Federlin</persName>, der zeigt an, wie er ein biderman von Tübigen sin wyb hab hinweg gfuͤrt etc.<note xml:id="fn15" type="footnote" n="15">Über die <persName>Michel von Üsigen</persName> zur Last gelegten Verfehlungen ist nichts Näheres bekannt.</note>, von gloubwirdigen lüten geschriben.</s>
+					<s n="11" xml:lang="de" type="auto">Es hat ouch der<pb type="edition" next="116"/> doctor uß der Ow zuͦ einem frummen gloubwirdigen man gredt, es syge war, er syge am chorgricht gsessen, do man das wyb hab von irem man gscheiden, die hab gredt, er hab irs an gethon, das sy im muͤß nach gan, aber durch im medicum wider curiet syge, da sy im spinn figend<note xml:id="fn17" type="footnote" n="17">spinnefeind.</note> worden.</s>
+					<s n="12" xml:lang="de" type="auto">Was her <persName>Cuͦnrat Schreyvogel</persName> hat vonn im gseit, ist uch on zwifel wol wissent<note xml:id="fn18" type="footnote" n="18">bekannt (<bibl>Grimm</bibl> XIV/II 772f).</note>.</s>
+					<s n="13" xml:lang="de" type="auto">Solliche und andere reden stoßt er offenlich uß und hat zum alten kilchherren<note xml:id="fn19" type="footnote" n="19"><persName>Hans Frei</persName>, der evangelisch gesinnte, im August 1534 abgesetzte Vorgänger <persName>Michels von Üsigen</persName>, vgl. Sulzberger 2; <bibl>HBBW IV</bibl> <ref target="file10531">[Nr. 495]</ref>, S. 452, Anm. 17.</note> gredt uf dem weg von <placeName>Tobel</placeName> gen Frowenfeld, sy habend wol umb ein rock wermer dan wir von dem landtsfryden<note xml:id="fn20" type="footnote" n="20">d. h. die Altgläubigen seien dank dem Friedensschluß von 1531 in einer besseren Lage als wir; zur Redensart vgl. <bibl>SI</bibl> VI 824.</note> etc.</s>
+					<s n="14" xml:lang="de" type="auto">Item er hab keinem kein wyb hingfuͤrt, sy sie selbs nachi gloffen, und er wette es noch thuͦn und keiner weren, sy were eins webers oder eins anders wyb etc.</s>
+					<s n="15" xml:lang="de" type="auto">Wie erlich er huß halte mit einer dirnen, die im ein meßpfaf im huß helt durch die fasten, weist mengklich<note xml:id="fn21" type="footnote" n="21">Näheres darüber ist nicht bekannt.</note>.</s>
+					<s n="16" xml:lang="de" type="auto">In summa, es ist ein frävenlicher, böser mensch, der wenig schaden dem evangelio thut mit sinem leeren<note xml:id="fn22" type="footnote" n="22">Lehren.</note> und üppigen leben, aber die edellüt mächtig, wo er kan, wider die predicanten ufwist<note xml:id="fn23" type="footnote" n="23">aufwiegelt.</note> und verhetzt.</s>
+					<s n="17" xml:lang="de" type="auto">Doch was rechtsinnigs ist, das gloubt im nit, so lichtfertig ist er in sinen worten etc.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Ceterum, lieber herr, ich danck uch üwer muͤg und arbeit minet halben nülich gehabt<note xml:id="fn24" type="footnote" n="24">Vgl. oben <ref target="file10569">Nr. 533</ref>, 2-4 mit Anm. 3.</note>, und wo ich söllichs und anders möcht mit minen armen diensten beschulden<note xml:id="fn25" type="footnote" n="25">vergelten (<bibl>SI</bibl> VIII 660).</note>, wet ich bereit und willig sin.</s>
+					<s n="19" xml:lang="de" type="auto">Hie mit empfilch ich mich üwer liebe und vätterliche trüw.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Datum Frowenfeld, 27. februarii.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="de" type="auto">Petrus Rymelin, allzit u[wer] w[illiger] diener.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="de" type="auto">Dem wolgelerten, frummen M. H[einrich] Bull[inger], sinem lieben herren.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

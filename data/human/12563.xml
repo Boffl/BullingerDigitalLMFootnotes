@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12563" type="Brief" source="HBBW" n="2516">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 29. Juli 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+					<s n="2" xml:lang="de" type="auto">Uwer brieffen hab ich jetzund 4 empfangen.</s>
+					<s n="3" xml:lang="de" type="auto">Der erst ist gaͤben 22. julii;<note xml:id="fn1" type="footnote" n="1">Brief <ref target="file12555">Nr. 2508</ref>.</note> in dem ist nut, das antwortens bedoͤrff.</s>
+					<s n="4" xml:lang="de" type="auto">Des andern datum stadt 23. julii<note xml:id="fn2" type="footnote" n="2">Brief <ref target="file12556">Nr. 2509</ref>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="de" type="auto">Hüt dato ist aber<note xml:id="fn3" type="footnote" n="3">wieder.</note> ein haͤfftiger<note xml:id="fn4" type="footnote" n="4">gewichtiger.</note> brieff minen herren überantwort vomm bapst<note xml:id="fn5" type="footnote" n="5"><persName>Paul III.</persName></note>.</s>
+					<s n="6" xml:lang="de" type="auto">Ladet in das consilium und zeigt, wie er dem keyser<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> mitt aller macht haͤlffen woͤll.</s>
+					<s n="7" xml:lang="de" type="auto">Bittet die 13 ort umb hilff.</s>
+					<s n="8" xml:lang="la" type="auto">Si audisses verba bestiae<note xml:id="fn8" type="footnote" n="8">Vgl. Apk 13, 5.</note>!<pb type="edition" next="249"/></s>
+					<s n="9" xml:lang="de" type="auto">Es ist ein wuͦst<note xml:id="fn9" type="footnote" n="9">böse Sache. -Bullinger bezieht sich auf <ref target="file12556">Nr. 2509</ref>,14-23.</note> mitt der chuͦwittwen, alls sy ze Fryburg singend.</s>
+					<s n="10" xml:lang="de" type="auto">Wie, wenn die chuͦ den kübel umbschluͤg, das inen nitt die milch, sunder das ander<note xml:id="fn10" type="footnote" n="10">Gemeint sind die Exkremente.</note> umb die koͤppff spritzte?</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="de" type="auto">Denen, die üch von <placeName>Straßburg</placeName> schribend<note xml:id="fn11" type="footnote" n="11">Bullinger bezieht sich auf <ref target="file12555">Nr. 2508</ref>,3-7.</note> (frylich uß alltem nyd)<note xml:id="fn12" type="footnote" n="12">Anspielung auf den Streit mit <persName>Bucer</persName> in der Abendmahlsangelegenheit.</note>, sagend, die Eydgnossen, sonderlich die amm evangelio, habind in ir zal wol so vil da alls ettwan ein statt, etc.</s>
+					<s n="12" xml:lang="de" type="auto">So sich ich<note xml:id="fn13" type="footnote" n="13">So sich ich: Ich jedoch sehe.</note> allen ernst und alle trüw<note xml:id="fn14" type="footnote" n="14">Vgl. <ref target="file12534">Nr. 2487</ref>,7-9.</note>.</s>
+					<s n="13" xml:lang="de" type="auto">Hätte man die sach, so vil wider sy, alls mitt inen, wurdents wol inen<note xml:id="fn15" type="footnote" n="15">wurdents ... inen: sie würden dessen inne werden.</note>, was unser hilff were.</s>
+					<s n="14" xml:lang="de" type="auto">Aber man muͦß es gott empfaͤlen.</s>
+					<s n="15" xml:lang="de" type="auto">Ist aber boͤß, das sy ietzund in denen gfaren kaͤtelend<note xml:id="fn16" type="footnote" n="16">im Dreck wühlen; vgl. <bibl>SI</bibl> III 569 s.v. chötlen.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="16" xml:lang="de" type="auto">Es ist nut mitt Lantsperg,<note xml:id="fn17" type="footnote" n="17">Bullinger bezieht sich auf <ref target="file12556">Nr. 2509</ref>,30-40.</note> das die unsern da gaͤllt gewunnen, sunder das ist war, das die zuͦsaͤtzer<note xml:id="fn18" type="footnote" n="18">Besatzer.</note> uß <placeName>Ungern</placeName> und Oesterrych in<note xml:id="fn19" type="footnote" n="19">an.</note> die 1500 zuͦ Lantsperg ligend, denen von <placeName>Ulm</placeName> in die 400 ochsenn uffgefangen habend.</s>
+					<s n="17" xml:lang="de" type="auto">Das ist aber gewüß, das zuͦ Wyssenhorn<note xml:id="fn21" type="footnote" n="21"><placeName>Weißenhorn</placeName> (Lkr. Neu-<placeName>Ulm</placeName>, Bayern).</note> die unsern dem keyser gaͤllt uffgefangen,<note xml:id="fn22" type="footnote" n="22">Zur Beschlagnahmung des Gemeinen Pfennigs, den der schwäbische Adel gespendet hatte, durch den <placeName>Straßburger</placeName> Gesandten <persName>Michael Han</persName> in <placeName>Ulm</placeName> s. <bibl>PC</bibl> IV/1 248, <ref target="file10255">Nr. 224</ref> mit Anm. 2.</note> so vil 3 hengst zogen.</s>
+					<s n="18" xml:lang="de" type="auto">So soͤllend ietzund die von Franckfort dem keyser uffgehept<note xml:id="fn23" type="footnote" n="23">beschlagnahmt; s. <bibl>SI</bibl> II 896.</note> haben ettlich tusend haggen, für 1000 mann harnisch und ettlich hundert tonnen<note xml:id="fn24" type="footnote" n="24">Fässer.</note> bulfers<note xml:id="fn25" type="footnote" n="25">Diese Nachricht hatte Bullinger von Blarer erfahren; s. Nr. 25 14,107-109. Vgl. auch <ref target="file12564">Nr. 2517</ref>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="19" xml:lang="de" type="auto">Imm Niderland sol Denmarck und die seestett<note xml:id="fn26" type="footnote" n="26">Hansestädte.</note> den see beschlossen<note xml:id="fn27" type="footnote" n="27">den see beschlossen: den Seeweg versperrt. - Siehe dazu <ref target="file12558">Nr. 2511</ref>, Anm. 30.</note> haben.</s>
+					<s n="20" xml:lang="de" type="auto">Deßhalb unlidenlicher hunger ist in des keyssers erbland, und hatt dannen kein hilff zuͦ erwarten.</s>
+					<s n="21" xml:lang="de" type="auto">Das land ist da unden<note xml:id="fn28" type="footnote" n="28">Gemeint ist <placeName>Hessen</placeName>.</note> versaͤhen,<note xml:id="fn29" type="footnote" n="29">Vgl. <ref target="file12545">Nr. 2498</ref>,138-140; <ref target="file12559">Nr. 2512</ref>,16f; <ref target="file12562">Nr. 2515</ref>,10f.</note> und zücht der lantgraff<note xml:id="fn30" type="footnote" n="30"><persName>Philipp von Hessen</persName>.</note> heruff mitt aller macht.<pb type="edition" next="250"/></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Anglum illum<note xml:id="fn31" type="footnote" n="31">Der von <persName>Myconius</persName> am 24. Juli an <persName>Konrad Gessner</persName> empfohlene Unbekannte (vielleicht <persName>John Caius</persName>); s. <ref target="file12559">Nr. 2512</ref>,22-24.</note> excepimus, qua potuimus humanitate.</s>
+					<s n="23" xml:lang="la" type="auto">Pridie mecum coenabat.</s>
+					<s n="24" xml:lang="la" type="auto">Apparet vir esse pius et doctus.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="25" xml:lang="de" type="auto"><pb type="scan" next="220v."/>Das ir fürchtend,<note xml:id="fn32" type="footnote" n="32">Vgl. Nr. 25 15,5-7.</note> fürcht ich ouch, si gangind ze langsamm mitt der sach umb<note xml:id="fn33" type="footnote" n="33">Vgl. <ref target="file12531">Nr. 2484</ref>,9-16.</note>.</s>
+					<s n="26" xml:lang="de" type="auto">Der keysser wil sin volck zamen<note xml:id="fn34" type="footnote" n="34">zusammen.</note> bringen, denach schnell rumpff machen<note xml:id="fn35" type="footnote" n="35">rumpff machen: ein Ende machen; s. <bibl>SI</bibl> VI 949.</note>.</s>
+					<s n="27" xml:lang="de" type="auto">Erst empfach ich 27. datum den üwern letsten<note xml:id="fn36" type="footnote" n="36">Brief <ref target="file12562">Nr. 2515</ref>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="28" xml:lang="de" type="auto">Schertli hatt Günßburg yngenommen,<note xml:id="fn37" type="footnote" n="37">Zur Einnahme <placeName>Günzburgs</placeName> s. <ref target="file12561">Nr. 2514</ref>, Anm. 50.</note> ouch alle paͤß an der Donow<note xml:id="fn38" type="footnote" n="38">Siehe <ref target="file12556">Nr. 2509</ref>, Anm. 20.</note>.</s>
+					<s n="29" xml:lang="de" type="auto">Zücht immerdar fort.</s>
+					<s n="30" xml:lang="de" type="auto">Beyer<note xml:id="fn39" type="footnote" n="39"><persName>Herzog Wilhelm IV. von Bayern</persName>.</note> hatt allem sinem land uffgebotten<note xml:id="fn40" type="footnote" n="40">allem sinem land uffgebotten: sein ganzes Land einberufen; vgl. <bibl>SI</bibl> IV 1867.</note>.</s>
+					<s n="31" xml:lang="de" type="auto">Achten wol, ouch wider uns, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="32" xml:lang="de" type="auto">Die küngin<note xml:id="fn41" type="footnote" n="41"><persName>Anna Jagiello</persName>, Königin von Böhmen und Ungarn, Gemahlin Ferdinands I.</note> und ettlich bischoff sind dem keyser ze fuͦssen gefallen.</s>
+					<s n="33" xml:lang="de" type="auto">Habend aber nut geschafft<note xml:id="fn42" type="footnote" n="42">erreicht.</note>; dann sy inn umb friden gebaͤtten.</s>
+					<s n="34" xml:lang="de" type="auto">Zun bischoffen hat er gesagt, worumb sy das thuͦgind: Sy habind inn doch kun darhinder bracht<note xml:id="fn43" type="footnote" n="43">kun darhinder bracht: frech dazu [d.h. zum Krieg] verleitet. - Siehe <ref target="file12561">Nr. 2514</ref>,77-81 und Anm. 55.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="35" xml:lang="de" type="auto">Gott verlich sin gnad.</s>
+					<s n="36" xml:lang="de" type="auto">Die in der Cluß<note xml:id="fn44" type="footnote" n="44">Klause Ehrenberg.</note> haltend sich vest<note xml:id="fn45" type="footnote" n="45">tapfer.</note>.</s>
+					<s n="37" xml:lang="de" type="auto">Truwend sy ze erhallten mitt gotts hilff.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="38" xml:lang="de" type="auto">Gott mitt üch.</s>
+					<s n="39" xml:lang="la" type="auto">29. iulii anno 1546.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="40" xml:lang="la" type="auto"><persName ref="p18518">Gastius</persName> salvus sit.</s>
+					<s n="41" xml:lang="la" type="auto">Quare nil scribit<note xml:id="fn46" type="footnote" n="46">Die Antwort auf diese Frage findet sich in Brief <ref target="file12567">Nr. 2520</ref>,1-6.</note>?</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Bullinger.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="43" xml:lang="la" type="auto">Praestantissimo viro d. <persName>Osvaldo Myconio</persName>, charissimo suo fratri.</s>
+					<s n="44" xml:lang="de" type="auto"><placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10126" type="Brief" source="HBBW" n="97">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Frecht / Ulm AN Heinrich Bullinger, 23. Mai 1532</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem in domino, clarissime Bullingere.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quę tua est humanitas, neque impudentię neque imprudentiae meae dabis, quod ignotus ad te nunc scribam indoctisque literis meis sancta tua studia interpellem.</s>
+					<s n="3" xml:lang="la" type="auto">Nam ut id facerem, non tam mea voluntas quam Chunradi<note xml:id="fn2" type="footnote" n="2"><persName>Konrad Sam</persName>.</note> nostri et harum latoris<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> amica importunitas coegit, nimirum ut horum <foreign xml:lang="el">τῶν προξένων</foreign> sollicitatione me in tuam insinuarem amicitiam.</s>
+					<s n="4" xml:lang="la" type="auto">Verum et hoc concedes inque meliorem partem accipies, quod tam indiligenter et breviter principio ad te scribam.</s>
+					<s n="5" xml:lang="la" type="auto">Neque enim ignorat charissimus ille frater noster, quibus occupationibus obrutus aliud, quam quod legis, nihil modo ad te dare potuerim.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Non te fortasse latet, quomodo omnes evangelici principes et urbes nuper Schwinfurdti, urbe Franconię, coierint tractaturi super facienda et stabilienda pace ad futurum usque concilium, quod cęsar cum commissariis huic negotio datis, <persName>Moguntino</persName> archiepiscopo<note xml:id="fn4" type="footnote" n="4">Albrecht, Erzbischof und Kurfürst von Mainz, 1490-1545, s. Heinrich <hi>Grimm,</hi> in: <bibl>NDB</bibl> I 166f.</note> et palatino Rheni<note xml:id="fn5" type="footnote" n="5"><persName>Ludwig V., der Friedfertige</persName>, Kurfürst von der Pfalz, 1478-1544, s. [Jakob] <hi>Wille,</hi> in: <bibl>ADB</bibl> XIX 575-577.</note> principibus electoribus, amplo ore promittunt<note xml:id="fn6" type="footnote" n="6">Zur Vorgeschichte des Konzils von <placeName>Trient</placeName> s. Hubert <hi>Jedin,</hi> Geschichte des Konzils von <placeName>Trient</placeName>, Bd. I, Freiburg i. Br. 1951 2 ; <bibl>Müller</bibl> bes. 105-107.226-229.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">E comitiis Schwinfurdianis discessum est nondum imposito colophone<note xml:id="fn7" type="footnote" n="7">unvollendet, ohne die Sache zu Ende zu führen; vgl. <bibl>Adagia</bibl>, 2,3,45 (<bibl>LB</bibl> II 498f); <bibl>Otto</bibl> 88, Nr. 410.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Commissarii pręfati quae ultro citroque tractata sunt, ad cęsarem, qui nunc, ut audio, in venationem secessit ad <placeName>Straubingen</placeName>, <placeName>Bavaria</placeName> oppidum, rettulerunt.</s>
+					<s n="9" xml:lang="la" type="auto">Rursus Nurnbergę, non Sveinfurdti, convenient ad quindenam proximam pertexturi, utinam foeliciter, quam nuper orsi sunt telam<note xml:id="fn8" type="footnote" n="8">Zum <placeName>Schweinfurter</placeName> Konvent s. oben <ref target="file10119">[Nr. 90]</ref> S. 110, Anm. 12.</note>.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto"><pb type="edition" next="123"/>Nostri «Apologię Saxonicae»<note xml:id="fn9" type="footnote" n="9">Die Apologie der Augsburgischen Konfession.</note> subscripserunt.</s>
+					<s n="11" xml:lang="la" type="auto">Bucaerus noster cum suis, quatenus pie in ratione sacramentorum cum Saxonibus convenire possimus, consilium meditatus est.</s>
+					<s n="12" xml:lang="la" type="auto">Simul rationem excogitavit, quomodo nulla fere offensione, presertim in eucharistię negotio, cum illis agamus: Vere in coena corpus et sanguinem Christi animi pabulum piis dari, quod nunquam negavimus, asserimus.</s>
+					<s n="13" xml:lang="la" type="auto">Voces, quibus scriptura non utitur ut illud eorum: «corporaliter», «substantialiter», «essentialiter» reiicimus<note xml:id="fn10" type="footnote" n="10">Vgl. <hi>Köhler,</hi> ZL II 294, Anm. 4.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Caeterum, quę resciero e comitiis illis futuris, sicubi commodum nactus fuero tabellionem, huic, quae te tuosque scire rettulerit semel, perferenda ad te committam.</s>
+					<s n="15" xml:lang="la" type="auto">Nunc sane non licuit mihi esse longiori in scribendis literis, neque interim hunc satis facundum tabellionem, vivam ad te epistolam, suo volui fraudare officio.</s>
+					<s n="16" xml:lang="la" type="auto">Is coram et de aliis tecum commentabitur.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Tu, quęso, pro tua insigni qua praedicaris humanitate boni ęquique consulas, quod hisce indoctis literis tibi obstrepere ausus fuerim, meque diligenter fratribus, nominatim <persName ref="p2305">Leoni Jud</persName> et <persName>Pellicano</persName>, commenda.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vale foeliciter in domino, cuius spiritu conserveris.</s>
+					<s n="19" xml:lang="la" type="auto">Salutat te et fratres <persName>Chunradus Som</persName>.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Raptim <placeName>Ulmę</placeName>, 23. maii 1532.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p5074">Martinus Frechtus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="la" type="auto">Clarissimo viro Heinrico Bullingero, Tigurinę ecclesię episcopo et pietate et integritate venerando suo in domino maiori.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

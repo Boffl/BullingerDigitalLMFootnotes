@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12176" type="Brief" source="HBBW" n="2129">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 7. April 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Vix tantum nactus sum ocii, ut hęc scribere possem; nam tacere non valui.</s>
+					<s n="3" xml:lang="la" type="auto">Venit hodie ad me de contentione Helvetiorum inter ipsos ob iuramentum foederis renovandum, et ut civitates evangelium foventes sanctos addere plane recusent; hinc ortum dissidium inter Immontanos<note xml:id="fn2" type="footnote" n="2">Die Innerschweizer Orte.</note> et civitates iam dictas, ut illi<note xml:id="fn3" type="footnote" n="3">Sowohl die "immontani" als auch die "civitates".</note> cum fremitu iactent, priusquam hic velint cedere, renunciaturos pacta foederis.</s>
+					<s n="4" xml:lang="la" type="auto">Non autem unus aut alter sic fremit, sed totę civitates.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Equidem horrui valde, praesertim cum hoc tempore adeo necessaria sit nobis concordia ut antehac nunquam aeque.</s>
+					<s n="6" xml:lang="la" type="auto">Id quod novi ab exteris, sunt enim contra nos molimina dura et gravia.</s>
+					<s n="7" xml:lang="la" type="auto">Hęc igitur dum nos adiuvamus dissidiis, <placeName>Helvetios</placeName> perire non erit difficile.</s>
+					<s n="8" xml:lang="la" type="auto">Resistendum itaque puto, quantum fieri potest, a viris prudentibus, ne quid fiat in detrimentum foederis, imo nec religionis.</s>
+					<s n="9" xml:lang="la" type="auto">Ut autem Immontanis difficile est omittere sanctos, ut quibus maiores eorum sic usi sunt, ita impossibile est nobis sanctos addere, ut qui didicimus iam longo tempore ex literis divinis esse rata debere nostra omnia in solo deo<note xml:id="fn4" type="footnote" n="4">Mt 22, 37 par.: 2Kor 10, 5; Phil 4, 7. -Im Gegensatz Ps 54 (Vulg. 53), 3; 86 (Vulg. 85), 14.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Quid igitur?</s>
+					<s n="11" xml:lang="la" type="auto">Videtur mihi et bonis viris, posteaquam dominus dedit, ut primas civitas vestra teneat inter <placeName>Helvetios</placeName><note xml:id="fn5" type="footnote" n="5">Die Zürcher führten den Vorsitz an den Tagsatzungen; s. oben Nr. 2059, Anm. 7.</note> et ęque cum aliis destructionem tam sacri foederis horreatis, consilio utamini eorum maxime, qui donati sunt evangelio, et simul tentetis persuadere quam blandissime et christianissime Immontanis, ut iuramentum fiat, qualiter semper factum est a sanctis dei<note xml:id="fn6" type="footnote" n="6">Mit den "sanctis dei" sind die Gläubigen gemeint; s. 1Kor 6, 2; 2Kor 13, 12 u.ö.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Hic autem eo studio incumbatis, ut, tametsi nihil obtinebitis, dicere tamen nemo queat nos non egisse per omnia, quę deceant<pb type="edition" next="238"/> pios.</s>
+					<s n="13" xml:lang="la" type="auto">Cęsar<note xml:id="fn7" type="footnote" n="7"><persName>Karl V.</persName></note> poterit produci in exemplum, qui cum suis <placeName>Hispanis</placeName> non utitur, ut audio, alia forma.</s>
+					<s n="14" xml:lang="la" type="auto">Illud constat: Ubi ex <placeName>Italia</placeName> per Athesiam<note xml:id="fn8" type="footnote" n="8">Die <placeName>Etsch</placeName> (ital.: Adige).</note>, quam dicunt, Sueviam intravit et civitates iuramentum facere sibi requisivit, contentus est forma, qua illę iurare post evangelium receptum sunt solitę, nempe per deum et sacrosanctum evangelium.</s>
+					<s n="15" xml:lang="la" type="auto">Velle igitur potius civitatis Helveticę rumpi foedus, quam in domino solo firmatum esse, non pii fuerit animi.</s>
+					<s n="16" xml:lang="la" type="auto">Hęc scribo, non ut doceam, sed ut animum indicem in illo negocio longe gravissimo, qualis, inquam, sit, et quęnam fieri vellet, quod in ipso est, ne foedus dissiliret<note xml:id="fn10" type="footnote" n="10">Zu verstehen ist: <persName>Myconius</persName> möchte hier lediglich seine Gesinnung offenbaren und erörtern, was er gern verwirklicht sähe, damit das Bündnis erhalten bleibt.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Sentio quidem adfectum hic in me carnis.</s>
+					<s n="18" xml:lang="la" type="auto">Non puto autem esse prorsus contra dominum, postquam in unam patrię tranquillitatem, quę et ipsa domino haud displicet, intueor.</s>
+					<s n="19" xml:lang="la" type="auto">Sanam, quęso, mentem is nobis misericorditer tribuat.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Scripsit praeterea d. <persName>Calvinus</persName> 27. martii anni huius<note xml:id="fn11" type="footnote" n="11"><persName>Calvins</persName> Brief an <persName>Myconius</persName> vom 27. März 1545 (<bibl>CO</bibl> XII 55f, <ref target="file10665">Nr. 627</ref>).</note> detectam esse diebus superioribus coniurationem virorum et mulierum, qui proximo triennio pestem in urbe <placeName>Geneva</placeName> sparserunt, nescio quibus veneficiis.</s>
+					<s n="21" xml:lang="la" type="auto">Et cum iam exustę sint mulieres quindecim, viri aliquot atrocius plexi, quidam in carcere sibi mortem consciverint et captivi teneantur adhuc 25, non tamen unguentis suis illinere seras domorum desinant (sic enim intoxicatio facta est, et inde magni viri, praesertim in domino, perierunt): „Hactenus“, inquit, „intactam domum nostram servavit dominus, utcunque sępius fuerit adpetita.“</s>
+					<s n="22" xml:lang="la" type="auto">Hęc ideo, ut, si prius ignorasti, machinationes diaboli in hominibus contra Christum dominum plaenius videas et expendas, quantum sit hostium hoc tempore, qui conantur vi vel fraude tollere et extirpare doctrinam Christi.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Domine Iesu, intende in adiutorium nostrum<note xml:id="fn13" type="footnote" n="13">Vgl. Ps 38 (Vulg. 37), 23.</note> et averte iram tuam a nobis<note xml:id="fn14" type="footnote" n="14">Ps 85 (Vulg. 84), 5.</note>!</s>
+					<s n="24" xml:lang="la" type="auto">De aliis alias.<pb type="edition" next="239"/></s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto"><persName ref="p18518">Gastium</persName>, suspensum ab officio, spero propediem restitutum iri.</s>
+					<s n="26" xml:lang="la" type="auto">Vale in domino cum <persName>Theodoro</persName><note xml:id="fn16" type="footnote" n="16"><persName>Theodor Bibliander</persName>.</note>, cui mox scribam,<note xml:id="fn17" type="footnote" n="17"><persName>Myconius</persName> schrieb ihm schon am darauf folgenden Tag, am 8. April 1545 (Autograph: Zürich ZB, Ms F 81, 397).</note> et <persName>Pellicano</persName> et <persName>Gvalthero</persName>, cui gratias agam, dum erit ocium, de Apologia<note xml:id="fn18" type="footnote" n="18">Ein Exemplar der Ad catholicam ecclesiam omnemque fidelium posteritatem pro D. Huld. Zvinglio et operum eius aeditione Apologia; s. oben <ref target="file12141">Nr. 2094</ref>, Anm. 36.</note> missa.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 7. aprilis anno 1545.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="29" xml:lang="la" type="auto">D. Heinricho Bullingero, viro doctissimo, ecclesię Tigurinorum antistiti, domino suo in Christo venerando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11933" type="Brief" source="HBBW" n="1887">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Pincier (Veteranus, Pinziger) / Frankfurt am Main AN Heinrich Bullinger, 7. April 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">D. Heynricho Bullingero gratiam ac pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ultima tua verba, quae pie admodum et docte ad me peculiariter et singulari quadam oratione faciebas in via, quum nos deduceres ex urbe vestra non sine magna humanitate, illa, quoniam de meo officio erant et ad me proprie spectabant necnon maximo usui esse possunt, si a me recte observentur, illa, inquam, monent me ac impellunt prae caeteris in me beneficiis tuis, quae tamen et multa et magna existunt, ut, quanquam satis certo sciam alias occupationes tuas et voluptatem, quam ex aliorum literis percipies, velim tamen et haec rudia et inculta ad eruditas aures tuas pervenire, saltem ut sentias haec et similia, quae nobis benigne fecisti, minime in ingratos esse collocata.</s>
+					<s n="3" xml:lang="la" type="auto">Semper enim meminerimus summae istius benevolentiae, quam non pro nostra dignitate aut meritis, sed ex propria virtute propter patriam praestitisti nobis abunde.</s>
+					<s n="4" xml:lang="la" type="auto">Et si forte dignas gratias non egerimus - quis enim tantam beneficentiam vel mente solum et cogitatione complectatur?</s>
+					<s n="5" xml:lang="la" type="auto">-, scies tamen ac pro certo habebis tibi persuasum de nobis, quod valde optemus in vestram gratiam, quaecunque possumus, facere, modo tam bonis atque prudentibus viris non in speciem, sed vere probemur.</s>
+					<s n="6" xml:lang="la" type="auto">Nam bene video, quantum emolumenti per omnem vitam inde possit ad me proficisci, si vos perpetuo amicos retineam: Primum enim per se suave est doctissimorum sanctissimorumque hominum amicitia frui, deinde utile etiam iis, qui non ita pollent consilio, quibus ex alieno ore et prudentia pendere necesse est; postremo etiam, quod ego permagni facio, naturae et honestati consentaneum est morum<pb type="edition" next="181"/> integritatem in societatibus quaerere.</s>
+					<s n="7" xml:lang="la" type="auto">Quae certe omnia in vobis sic sunt coniuncta, ut haud facile queant separari, etiam adeo manifesta claraque, minime ut possint latere vel obscurari.</s>
+					<s n="8" xml:lang="la" type="auto">Quibus rationibus adductus sum ad familiaritatem vestram expetendam.</s>
+					<s n="9" xml:lang="la" type="auto">Et quia diu non licuit coram fructum et voluptatem eius, quantam bene voluissem, capere nec forte dabitur facultas posthac amplius ad vos revertendi, quod tamen maxime cuperem, idcirco tentabo per literas aliquid vel in conciliandis vel conservandis animis vestris ad quorumlibet honesta obsequia propensis, si fortasse deus optimus maximus hoc pacto gratiam suam largiretur, quo in maiorem necessitudinem vobiscum venirem.</s>
+					<s n="10" xml:lang="la" type="auto">Nam per me sane nunquam possem insinuare me in alicuius favorem neque certe mea sponte viribusque meis id conabor unquam.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Sed deus est, qui tangit devincitque corda<note xml:id="fn3" type="footnote" n="3">Vgl. 1Sam 10, 28.</note>; illum oro, ut, quod hisce meis literis effectum volo, primum ad eius laudem, tum etiam ad nostram omnium cedat utilitatem.</s>
+					<s n="12" xml:lang="la" type="auto">Tantum pro declaranda animi mei erga te sententia, quod in bonam partem a me accipias, quaeso.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">De rebus publicis elegantius alii sine dubio ad vos scribent, quamvis etiam nihil novi habeo, quod vestra scire magnopere intersit.</s>
+					<s n="14" xml:lang="la" type="auto">Quare omitto de ignotis atque incertis dicere; precibus vero vestris et me et ecclesiam totam nostram commendo, me tamen praecipue, qui ad tam arduum dei negotium vocatus omnino ineptus sum, nisi is, qui vocavit<note xml:id="fn4" type="footnote" n="4">Vgl. Gal 1, 15; 1Thess 2, 12.</note>, copiosiorem gratiam fuerit largitus.</s>
+					<s n="15" xml:lang="la" type="auto">Quamobrem, quantum in hac re me iuvare poteritis, ut sane plurimum iuvistis, hoc non mihi, sed ecclesiae dei potissimum feceritis.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Deus pro infinita sua in nos liberalitate vestris in me officiis gratiam rependet.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Vale ergo per Christum optime una cum tota domo tua et, quod facis, me ama.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Datum ex Francofurto ad Moenum, septimo idus aprileis anno 1544.</s>
+					<s n="19" xml:lang="la" type="auto">Iohannes Pincziger tuus ex animo.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="20" xml:lang="la" type="auto">Syncero divini verbi antistiti domino Heynricho Bullingero, Tigurinae ecclesiae praesuli dignissimo, domino suo sibi sancte colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

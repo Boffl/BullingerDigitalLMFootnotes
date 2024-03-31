@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10945" type="Brief" source="HBBW" n="903">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Leo Jud, Heinrich Bullinger, 20. Oktober 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quod tardius scribo, fratres charissimi, ne egre feratis, plurimum rogo.</s>
+					<s n="3" xml:lang="la" type="auto">Non enim citius, nisi inabsoluto negocio, vobis scribere potui.</s>
+					<s n="4" xml:lang="la" type="auto">Disputacione <placeName>Lausannensi</placeName>, quę foelicissime successit, dies consumavi ac contrivi duodecim.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Huius mensis decimo sexto noctu synodus nostra parochorum numero trecentorum, quatuor minus, coacta est.</s>
+					<s n="6" xml:lang="la" type="auto">Inter quos erant viri linguę Gallicę aliquot doctissimi, <persName>Calvinus</persName> videlicet, doctor <persName>Carolus</persName>, <persName>Thomas Malingius</persName> et<pb type="edition" next="442"/> quidam alii.</s>
+					<s n="7" xml:lang="la" type="auto">De Lutherana confessione<note xml:id="fn4" type="footnote" n="4"><persName>Megander</persName> bezieht sich auf die <placeName>Wittenberger</placeName> Konkordie (<bibl>BucerDS</bibl> VI/1 114-134).</note> synodus hec nostra quid sentiat, quoque modo articuli eorundemque <persName ref="p18198">Buceri</persName> exposicio<note xml:id="fn5" type="footnote" n="5">Gemeint ist der Vortrag der <placeName>Straßburger</placeName> an der Basler Tagung vom 24./25. September (<bibl>BucerDS</bibl> VI/1 227-239).</note> eidem probetur, presens hoc nostrum scriptum testatur.</s>
+					<s n="8" xml:lang="la" type="auto">Quod a senatu populoque nostro hac, qua vobis transmittimus, forma receptum est.</s>
+					<s n="9" xml:lang="la" type="auto">Et certe, nisi parum studiosi alendae concordię visi fuissemus, <persName ref="p18889">Lutheri</persName> confessio a synodo nostra tota reiecta fuisset idque propter crebras ambiguitates.</s>
+					<s n="10" xml:lang="la" type="auto">Spectandum enim nobis, quemadmodum fideliter quidam<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> admonuit, ne nos Helveticę ecclesię segregemur ac partiamur.</s>
+					<s n="11" xml:lang="la" type="auto">Quod si, de religione actum esse idem adfirmat.</s>
+					<s n="12" xml:lang="la" type="auto">Non dubito, quam quod nostram responsionem, nisi pacis amans et studiosus esse non velit, <persName ref="p18889">Lutherus</persName> non aversurus sit.</s>
+					<s n="13" xml:lang="la" type="auto">Cui vero rei responsione nostra innitamur, facile vobis patere puto, videlicet fratrum <placeName>Argentoratensium</placeName> vel explicacioni vel coram factae contestacioni de <persName ref="p18889">Luthero</persName>.</s>
+					<s n="14" xml:lang="la" type="auto">Qui si sensum hunc suum minus[?] esse adseruerit, negocii nobis nihil fuit cum <persName ref="p18889">Luthero</persName> et confessione eius.</s>
+					<s n="15" xml:lang="la" type="auto">Atque ita extra periculum.</s>
+					<s n="16" xml:lang="la" type="auto">Haec vobis paucis signifficare volumus, fratres charissimi, nosque plurimum commendare.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><placeName>Bernę</placeName>, 20. octobris anno 36.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Megand. ex animo vester.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto"><persName ref="p2305">Leoni</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p6796">Leo Jud</persName>.</note> ac Bullingero, fratribus suis in domino omnium charissimis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

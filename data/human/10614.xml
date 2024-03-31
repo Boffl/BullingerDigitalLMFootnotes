@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10614" type="Brief" source="HBBW" n="576">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 22. April 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Penultima aprilis <persName>Megander</persName> synodum Brugensem conveniet<note xml:id="fn1" type="footnote" n="1">Zu <persName>Meganders</persName> Visitationsreise, welche ihn unter anderem zur Kapitelversammlung nach <placeName>Brugg</placeName> führte, vgl. <hi>de Quervain</hi> 17.</note>, charissime Heinrice.</s>
+					<s n="3" xml:lang="la" type="auto">Quod eo libentius tibi significare volui, ne ulla ex parte tuam negligere videar petitionem.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Interim te non lateat calamitas urbis nostrę, quam 19. huius mane post secundam horam passi sumus.</s>
+					<s n="5" xml:lang="la" type="auto">Ignis enim vehementissimus propicio vento combussit 25 ędes praeter horrea et granaria in suprema parte civitatis, quam vocant<pb type="edition" next="206"/> <foreign xml:lang="de">an der spittelgassen<note xml:id="fn2" type="footnote" n="2">Vgl. Anshelm VI 228-231; Paul <hi>Hofer,</hi> Die Kunstdenkmäler des Kt. <placeName>Bern</placeName>, Bd. II: Die Stadt <placeName>Bern</placeName>. Gesellschaftshäuser und Wohnbauten, Basel 1959. - Die Kunstdenkmäler der Schweiz, Bd. 40, S. 434, Anm. 4, mit weiterer Lit.</note>.</foreign></s>
+					<s n="6" xml:lang="de" type="auto">Derglychen für und schnelli der brunst bsint sich kein <placeName>Berner</placeName>, dann man mocht nitt zuͦ dem für kummen, biß daß sich der wind endrit, und wo er sich nitt geendret hette, stuͦnd die gancze statt in gfar.</s>
+					<s n="7" xml:lang="de" type="auto">Glych uff denselben tag znacht, zenächst by der statt, sind verbrunnen 2 höff mitt hüsern, schüren und spichern.</s>
+					<s n="8" xml:lang="de" type="auto">Stond also in grosser sorg<note xml:id="fn3" type="footnote" n="3">Man verdächtigte den Kastellan von Musso der Aussendung von Brandstiftern, vgl. Anshelm VI 231; <bibl>EA</bibl> IV/1c 552.</note>, hab ich dir nitt wellen verhalten.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Der bott ist mir ze spat anzeigt, doch so weiß ich nütt wyter.</s>
+					<s n="10" xml:lang="de" type="auto">Lieber, schrib doch.</s>
+					<s n="11" xml:lang="de" type="auto">Ich hab sid ze <placeName>Zofingen</placeName><note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file10607">Nr. 569</ref>, 1-8.</note> kein brieff enpfangen.</s>
+					<s n="12" xml:lang="la" type="auto">Nuncius est tutissimus, unus a Madiis, <persName>Jacobi</persName> a Madiis frater<note xml:id="fn5" type="footnote" n="5">Welcher Bruder von <persName>Jakob May</persName> gemeint ist, konnte nicht festgestellt werden.</note>, qui reducet ab <persName>Enocho</persName> mortuo duos germanos<note xml:id="fn6" type="footnote" n="6"><persName>Enoch Metzger</persName> hatte mehrere Brüder von <persName>Jakob May</persName> zur Erziehung bei sich, u. a. wahrscheinlich <persName>Wolfgang May</persName>; vgl. <bibl>HBBW</bibl> III <ref target="file10252">[Nr. 221]</ref>, S. 123, Anm. 3 und 6.</note>.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">22. aprilis anno 35.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Tuus Berch. H.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="la" type="auto">Heinrico Bullingero, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

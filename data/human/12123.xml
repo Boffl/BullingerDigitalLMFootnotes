@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12123" type="Brief" source="HBBW" n="2076">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 27. Januar 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto"><persName ref="p7419">Burcherus</persName> Anglus<note xml:id="fn1" type="footnote" n="1"><persName>John Burcher</persName>.</note> heri scripsit<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> apud vos se duxisse uxorem et cupere civitatem vestram.</s>
+					<s n="3" xml:lang="la" type="auto">Quia vero hęc ipsa nulli nisi bonae concedatur famae, rogavit me, ut vitę suę, quamdiu fuerit apud me, testimonium scribam ad te; reliqua te dein persequuturum.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Dico igitur coram domino, quod per id temporis, quo ipsum novi, non solum, quo fuit in ędibus meis, talem se gessit perpetuo, ut non esset, quod in eo possem vituperare.</s>
+					<s n="5" xml:lang="la" type="auto">In laboribus literariis fuit diligens ac fidelis, id quod typographi<note xml:id="fn6" type="footnote" n="6"><persName>Johannes Oporin</persName> und <persName>Michael Isengrin</persName>; s. oben Anm. 5.</note> testabantur.</s>
+					<s n="6" xml:lang="la" type="auto">In mensa sermo perpetuus erat de rebus divinis, quarum causa ex patria et eiectus est et nunc in totum exclusus.</s>
+					<s n="7" xml:lang="la" type="auto">Vita erat plane inculpata, ut sępe sim apud me miratus, qui fiat, ut nihil maculę adspergi a quoquam audire contingeret.</s>
+					<s n="8" xml:lang="la" type="auto">Quapropter ego in hoc sum, ut pro bono cive et, qui scis, in posterum commodo commendare possim.</s>
+					<s n="9" xml:lang="la" type="auto">Si quid igitur hac in re tu valebis prodesse, quęso, prosis; apud me namque dubium non est, quin beneficium non sis collaturus in ingratum.</s>
+					<s n="10" xml:lang="la" type="auto">Virum itaque habeto vel hoc nomine, quod bonus est ac pius quam commendatissimus.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Expecto praeterea nescio quę a pontifice <persName>Romano</persName><note xml:id="fn7" type="footnote" n="7"><persName>Papst Paul III.</persName></note>, quę missurus sum propediem.<pb type="edition" next="110"/></s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale in domino cum fratribus piis omnibus, imprimis <persName>Theodoro</persName><note xml:id="fn9" type="footnote" n="9"><persName>Theodor Bibliander</persName>.</note> et <persName>Pellicano</persName>.</s>
+					<s n="13" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, iamiam ascensurus suggestum, 27. ianuarii anno 1545.</s>
+					<s n="14" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">D. Heinricho Bullingero, antistiti Tigurino doctissimo, amico et fratri in domino suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

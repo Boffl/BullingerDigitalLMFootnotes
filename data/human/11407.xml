@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11407" type="Brief" source="ET" n="281">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Nicholas Partridge (Perdix) / [Dover] AN Heinrich Bullinger, 26. Februar [1540]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Magnam habeo gratiam, praeceptor humanissime mihique tuo merito longe carissime, quod dignatus es ad me scribere non solum de tuo et ceterorum amicorum, verum etiam de felicissimae ecclesiae vestrae statu.</s>
+					<s n="2" xml:lang="la" type="auto">Fuerunt omnia mihi quidem gratissima jucundissimaque.</s>
+					<s n="3" xml:lang="la" type="auto">Atque utinam tibi de nobis tam felicia referre possemus: non quod non satis recto corpore valeamus, sed quod res omnes ex sententia nostra nondum succedant.</s>
+					<s n="4" xml:lang="la" type="auto">Non dubito, quin ex negotiatoribus cognoveris omnia.</s>
+					<s n="5" xml:lang="la" type="auto">Verum quoniam tam multa praeclara de ecclesia vestra narrasti, referemus etiam nos aliqua fortassis non contemnenda.</s>
+					<s n="6" xml:lang="la" type="auto">Nullus hic nomine tenus monachus est.</s>
+					<s n="7" xml:lang="la" type="auto">Nuper animadversum in tres abbates praecipuos, qui magnum thesaurum seposuerant, ac varie conspirarant, ut papismum reducerent Boni pastores libere concionantur veritatem, nec in quemquam adhuc animadversum ob articulos de quibus scribis.</s>
+					<s n="8" xml:lang="la" type="auto">Rex mire clemens libenter cuperet promotam ipsam veritatem; et ut hoc efficeret, voluit aliquot episcopos consultare de duodecim monasteriis selegendis, ubi pie et sancte instituerentur pueri in omni genere bonarum litterarum.</s>
+					<s n="9" xml:lang="la" type="auto">Tantum inpraesentiarum habemus de his rebus.</s>
+					<s n="10" xml:lang="la" type="auto">Indicatur conventus procerum aut, ut nos vocamus, parliamentum, ad octavum diem Aprilis.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Quod ad me spectat, vivo apud ornatissimum atque honestissimum virum, D. Antonium Ancherum, quaestorem Doverianum, cujus liberos ad humanitatem erudio.</s>
+					<s n="12" xml:lang="la" type="auto">Is me jussit, ut te illius nomine hisce plurimum salutarem.</s>
+					<s n="13" xml:lang="la" type="auto">Chirothecas libentissime misissem, nisi literas tuae ad me sero pervenissent; nam quas scripsisti 30 Augusti, accepi 26 Februarii.</s>
+					<s n="14" xml:lang="la" type="auto">Mittam tamen, ubi primum dabitur opportunitas.</s>
+					<s n="15" xml:lang="la" type="auto">Recipies de me hisce nundinis per Raynerum angelotum aureum, ut numeres Christiano puero, quo visum fuerit, pro labore suo.</s>
+					<s n="16" xml:lang="la" type="auto">Exspecto nunc etiam Bibliandri annotationes in Proverbia et Job: cuperem etiam illa tua quae restant in Joannis evangelium, et quas nunc concionaris in ejus epistolam.</s>
+					<s n="17" xml:lang="la" type="auto">Salutabis ex me castissimam uxorem tuam, carissimam matrem, filios ac filias, item Rodolphum Gualterum, ad quem libentissime nunc scripsissem, si pro temporis angustia licuisset.</s>
+					<s n="18" xml:lang="la" type="auto">Miror tamen, quod hisce nundinis nihil ad me scripserit; quod mihi haud facile quisquam persuaserit, sed potius in itinere aliquo casu interceptas.</s>
+					<s n="19" xml:lang="la" type="auto">Huic dabis a me scolerum Anglicum, matri item unum et uxori unum, tesseram scilicet veteris et perpetuae amicitiae inter nos.</s>
+					<s n="20" xml:lang="la" type="auto">Pro tuo munere gratissimo, libris scilicet per Froschoverum missis, ingentes agimus gratias: illos exspectamus hisce nundinis per Raynerum, qui Froschovero dabit ad te chirothecarum par Oxoniensium.</s>
+					<s n="21" xml:lang="la" type="auto">Id potius heri mei munusculum est, quam meum: nam eo me ad hoc donavit herus paulo antequam haec scriberem.</s>
+					<s n="22" xml:lang="la" type="auto">Bene vive.</s>
+					<s n="23" xml:lang="la" type="auto">Vale quam felicissime.</s>
+					<s n="24" xml:lang="la" type="auto">26 Februarii.</s>
+					<s n="25" xml:lang="la" type="auto">Tuus totus, NICOLAUS PARTRIGIUS.</s>
+				</p>
+				<p>
+					<note type="PS">[PS:]</note>
+					<s n="26" xml:lang="la" type="auto">Saluta item quaeso meo nomine praeclarum illum coetum doctissimorum virorum, venerandos hos senes, D. Pellicanum et D. Leonem, eruditissimum Bibliandrum, D. Megandrum, D. Ammianum, D. Binderum, etc.</s>
+					<s n="27" xml:lang="la" type="auto">Iterum vale.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse:]</note>
+					<s n="28" xml:lang="la" type="auto">Ornatissimo viro D. Henrico Bullingero, tradantur hae, Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

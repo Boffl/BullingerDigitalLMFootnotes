@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12691" type="Brief" source="HBBW" n="2644">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz AN Heinrich Bullinger, 26. Oktober [1546]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Commendo tibi egregium huncce adulescentem <persName>Ioannem</persName><note xml:id="fn3" type="footnote" n="3"><persName>Johannes von Ulm</persName>, der vorliegenden Brief an Bullinger überbrachte; s. <ref target="file12692">Nr. 2645</ref>,2f.</note>, sororii mei<note xml:id="fn4" type="footnote" n="4"><persName>Blarers</persName> Schwager <persName>Heinrich von Ulm</persName>, der mit dessen Schwester <persName>Barbara</persName> verheiratet war.</note> apud Griessenbergum<note xml:id="fn5" type="footnote" n="5">Schloss <placeName>Griesenberg</placeName> (<placeName>Amlikon</placeName>, Kt. <placeName>Thurgau</placeName>).</note> nepotem ex fratre <persName>Ioanne Iacobo ab Ulmis</persName><note xml:id="fn6" type="footnote" n="6"><persName>Hans Jakob von Ulm</persName>, der bereits vor 1539 gestorben war. <persName>Johannes von Ulm</persName> war sein unehelicher, aber anerkannter Sohn.</note>, cui Tüffen<note xml:id="fn7" type="footnote" n="7">Teufen, <placeName>Kt. Zürich</placeName>, in der Nähe von Rorbas.</note> domicilium erat, quamquam non ex uxore<note xml:id="fn8" type="footnote" n="8"><persName>Barbara, geb. zum Tor</persName> (gest. vor 1539).</note> illum suscepit.</s>
+					<s n="2" xml:lang="la" type="auto">Tam est autem pius et mire diligens in studiis,<note xml:id="fn9" type="footnote" n="9">Der spätestens 1529 (s. <ref target="file12763">Nr. 2716</ref>, Anm. 11) geborene <persName>Johannes von Ulm</persName> hatte 1543/44 (schon vor seinem <placeName>Konstanzer</placeName> Studium) auch in <placeName>Basel</placeName> studiert.</note> ut spem magnam nobis fecerit de se futurę bonę frugis.</s>
+					<s n="3" xml:lang="la" type="auto">Hęsit hic in nostro ludo literarum apud magistrum<note xml:id="fn10" type="footnote" n="10">Wohl <persName>Matthias Schenk</persName>, der von 1543 bis 1548 die <placeName>Konstanzer</placeName> Lateinschule leitete.</note> integro (ni fallor) biennio aut paulo plus.</s>
+					<s n="4" xml:lang="la" type="auto">Nunc visum est patruis ipsius <placeName>Tigurum</placeName> illum mittere cum altero non minus pio et studioso adulescente Augustino, quocum<pb type="edition" next="186"/> annis nunc aliquot vixit, ut istic<note xml:id="fn13" type="footnote" n="13">d.h. in <placeName>Zürich</placeName>.</note> in bonas pariter et sacras literas, praeterea etiam linguarum studia, incumbant; quod utinam tam faciant feliciter, quam non dubito facturos diligenter!</s>
+					<s n="5" xml:lang="la" type="auto">Tu si conatus illos iuvare poteris (poteris autem plurimum), valde te rogo, ut mea quoque caussa officiose facias.</s>
+					<s n="6" xml:lang="la" type="auto"><persName>Uxor<note xml:id="fn14" type="footnote" n="14"><persName>Barbara, geb. von Ulm</persName>, die in <placeName>Zürich</placeName> lebte.</note> Röstii</persName><note xml:id="fn15" type="footnote" n="15">Der Zürcher Kleinrat <persName>Jakob Röist</persName>.</note> soror est adulescentis, tametsi ipsa sit ex legitimo matrimonio prognata.</s>
+					<s n="7" xml:lang="la" type="auto">Amat tamen illum propter ingenii bonitatem et morum candorem plurimum.</s>
+					<s n="8" xml:lang="la" type="auto">Dispiciet iam, ubi istic commode habitare ac vivere possint, tuo in hac re consilio usura, quod, scio, haud gravatim dabis.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Saluta tuam domum cum <persName>Pellicano</persName>, <persName>Theodoro</persName><note xml:id="fn16" type="footnote" n="16"><persName>Theodor Bibliander</persName>.</note>, <persName>Gvalthero</persName> ac cęteris.</s>
+					<s n="10" xml:lang="la" type="auto">Salvere te iubent nostri, cumprimis <persName>Z[viccius]</persName><note xml:id="fn17" type="footnote" n="17"><persName>Konrad Zwick</persName>.</note> cum germano meo fratre<note xml:id="fn18" type="footnote" n="18"><persName>Thomas Blarer</persName>, der offensichtlich bereits aus <placeName>Zürich</placeName>, wo damals die Vier protestantischen Orte noch tagten (s. <ref target="file12653">Nr. 2606</ref>, Anm. 60), zurückgekehrt war; vgl. <ref target="file12683">Nr. 2636</ref>,2f.</note>, qui vestrum omnium humanitatem ac liberalitatem mirifice praedicat.</s>
+					<s n="11" xml:lang="la" type="auto">Bene vale, mi venerande Bullingere.</s>
+					<s n="12" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 26. octobris.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Demandarunt iam etiam frater germanus et Zviccius, ut suis etiam verbis adulescentes istos accurate tibi commendem!</s>
+					<s n="14" xml:lang="la" type="auto">Impendio enim illos ob singulare pietatis et literarum studium diligunt.</s>
+					<s n="15" xml:lang="la" type="auto">Verum sat scio tibi hac in re nullis opus esse calcaribus, quippe qui, quum sis optimus, ultro bonos omnes, quibus potes rationibus, adiuvare soleas.</s>
+					<s n="16" xml:lang="la" type="auto">Tuus A. Bl.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<note type="attachment">[Beilage:]</note>
+					<s n="17" xml:lang="de" type="auto"><pb type="scan" next="668"/>Ausß ainem schreiben des landtgrauffen kurtzlich an ain guͦten mann:</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="18" xml:lang="de" type="auto">„Sovyl die yetzige kriegslöff betrifft, moͤgen ir uns glouben, das wir unser vertrauwen allain uff gott, des sach es ist, stellen, und setzend ungezwyfleter zuͦversicht, er werde es zuͦ seines nammens ehr und glori schicken.</s>
+					<s n="19" xml:lang="de" type="auto">Wa<note xml:id="fn20" type="footnote" n="20">Wenn.</note> auch bysanher nitt sovyl hoͤpter uff unser seyten gewesen, wollen wir <pb type="edition" next="187"/> gewisslich darfuͤr achten, es were langes<note xml:id="fn22" type="footnote" n="22">längst.</note> was treffelichs ausgericht.</s>
+					<s n="20" xml:lang="de" type="auto">Dann so man des ersten tags, da wir den feind vor Ingelstadt beschossen,<note xml:id="fn23" type="footnote" n="23">Anspielung auf das Scharmützel vom 2. September; s. <bibl>HBBW</bibl> XVII 453f.84-94. 120-130; 477f,19-23.</note> were nachgetrukt (wie wir gern gesechen und derwegen zuͦ unserm lieben vetter und bruͦder, dem churfursten,<note xml:id="fn24" type="footnote" n="24"><persName>Johann Friedrich I. von Sachsen</persName>.</note> und kriegsraͤthen geritten), hett man zweyfelsfrey was stattlichs ausgericht.</s>
+					<s n="21" xml:lang="de" type="auto">Aber gott hats vyllicht domals nitt haben wellen, sondern gedenckts zuͦ ainer andern zyt ze schicken und zuͦ fuͤgen, wie sin gnediger wyll ist.</s>
+					<s n="22" xml:lang="de" type="auto">Wir sind byßhär uff allen scharmutzeln mitt wenigstem und die find mitt groͤstem schaden darvon kommen.</s>
+					<s n="23" xml:lang="de" type="auto">Habend ouch alle infell, so der find fürgenomen, erhalten.<note xml:id="fn25" type="footnote" n="25">aufgehalten.</note></s>
+					<s n="24" xml:lang="de" type="auto">Haben ouch gestern, gott lob, inen noch ettliche guͦte leut erlegt, und hoffen zuͦ gott, er werde sein hand uber unß halten“, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="25" xml:lang="de" type="auto">Wir habend sonst nichts news, das ich wisse, dann was ir von meinem lieben bruͦder<note xml:id="fn27" type="footnote" n="27">Siehe oben Anm. 18.</note> gesagt, und das ouch den ewern sydher zuͦgeschriben<note xml:id="fn28" type="footnote" n="28">Mit einem Schreiben vom 23. Oktober; s. <ref target="file12682">Nr. 2635</ref>, Anm. 24.</note> von <placeName>Langenauw</placeName><note xml:id="fn29" type="footnote" n="29"><placeName>Langenau (Alb-Donau-Kreis)</placeName>. - Siehe dazu <ref target="file12682">Nr. 2635</ref>,18-20.</note>, das die unsern ettlich daselbst erstochen, darnach mitt andern ouch gscharmutzt.</s>
+					<s n="26" xml:lang="de" type="auto">Es muͦß nunmehr all tag die sach sich anderst schicken.</s>
+					<s n="27" xml:lang="de" type="auto">Es wirt sich nitt mehr zuͦ feld ligen lassen.<note xml:id="fn30" type="footnote" n="30">Wohl wegen des bevorstehenden Wintereinbruchs.</note></s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="28" xml:lang="de" type="auto">Etlich wellen mainen, der k[ayser]<note xml:id="fn31" type="footnote" n="31"><persName>Karl V.</persName></note> werd den abzug durch die Cluß<note xml:id="fn32" type="footnote" n="32">Die Klause Ehrenberg. - Dies vermutete <persName>Blarer</persName> schon im Brief vom 16. Oktober; s. <ref target="file12673">Nr. 2626</ref>,78-80.</note> nemmen, diewyl er sonst nitt wol kan usskommen.<note xml:id="fn33" type="footnote" n="33">d.h. aus Deutschland heraus.</note></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="29" xml:lang="de" type="auto">Was uff dem tag<note xml:id="fn34" type="footnote" n="34">Der Tag der Vier protestantischen Orte; s. oben Anm. 18.</note> gehandelt, gewart ich von euch all stund zuͦ vernemmen.<note xml:id="fn35" type="footnote" n="35">Diesem Wunsch kam Bullinger in seiner Antwort vom 1. November (<ref target="file12699">Nr. 2652</ref>) nicht wirklich nach.</note></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Eximie pio doctoque d. Heinricho Bullingero, <placeName>Tiguricensi</placeName> episcopo, amico et fratri incomparabili.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

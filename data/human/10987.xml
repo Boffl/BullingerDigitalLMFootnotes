@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10987" type="Brief" source="HBBW" n="945">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Thomas Gassner / Lindau AN Heinrich Bullinger, 10. Februar 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Pax domini Iesu tecum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ne egre feras, doctissime Bullingere, me tuis hactenus amicissimis literis<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> non respondisse.</s>
+					<s n="3" xml:lang="la" type="auto">Pene toto hoc autumno decubui infirmus nec videbatur michi occasionem dignam ad te scribe[ndi] habere.</s>
+					<s n="4" xml:lang="la" type="auto">Dum autem <persName>Voglerus</persName>, communis noster amicus, vir piissimus, revocaret ad se filium<note xml:id="fn3" type="footnote" n="3"><persName>Hans Rudolf Vogler</persName> (vgl. <hi>Burmeister,</hi> aaO, S. 30f).</note> suum, quem commisit michi anno hoc erudiend[um], non potui vacuum mearum litterarum ad te dimittere, praecipue dum intelligo te victum illius parentis precibus in curam atque disciplinam sustinere.</s>
+					<s n="5" xml:lang="la" type="auto">Congratulor profecto ex corde intimo puero huiusmodi nactum preceptorem.</s>
+					<s n="6" xml:lang="la" type="auto">Adulescens meo quidem iuditio non ineptus fuisset studio, si tempestivius studiis esset mancipatus.</s>
+					<s n="7" xml:lang="la" type="auto">Non potuit in finem audire grammaticen, cuius omnino ignarus erat, dum ad me venerat; arbitror tantillo tempore non admodum male profecisse; tu ipse diiudica.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto"><pb type="edition" next="59"/>Rerum novarum nichil ad te scribo, cum omnia me melius novisse te nichil addubito.</s>
+					<s n="9" xml:lang="la" type="auto">Spero conventum Schmalckhaldie, qui nunc congregatus est<note xml:id="fn4" type="footnote" n="4">Die auf den 7. Februar anberaumte Bundesversammlung in <placeName>Schmalkalden</placeName> wurde am 10. Februar 1537 eröffnet; vgl. <bibl>Volz, Urkunden</bibl> 81. 102, Anm. 2. 146-148.</note>, multa bona allaturum.</s>
+					<s n="10" xml:lang="la" type="auto">Quam primo, quid actum fuerit, perscrutatus fuero, multis ad te scribam.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Nunc obsecro, me velis in amiciciam tuam quantumvis imparem admittere et pro me et ecclesia nostra suppliciter exorare deum, ut omnia per nos fiant in sui nominis gloriam.</s>
+					<s n="12" xml:lang="la" type="auto">Vale felicissime et, si quando prae negotiis vacat, alteris me dignare scriptis, ut intelligere possim in amicorum tuorum album me adscriptum esse.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Datum Lindavii, 10. februarii anno 37.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName>Thomas Gasnerus</persName>, Lindaviensis ecclesie minister, deditissimus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Clarissimo viro M. Hainricho Bullingero, Tigurinę ecclesię antistiti vigilantissimo, domino ac fratri suo ob[servando].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

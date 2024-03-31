@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11232" type="Brief" source="HBBW" n="1189">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Rudolf Gwalther (Walter, Gualtherus, Walthart) d.Ä. / [Basel] AN Heinrich Bullinger, 22. Oktober [1538]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] p[lurimam] d[ico].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Plura nunc scribere cuperem, praeceptor humanissime, sed nautarum importunitas me, ut properem, impellit.</s>
+					<s n="3" xml:lang="la" type="auto">Omnis academia Milhusiam petit una cum professoribus.</s>
+					<s n="4" xml:lang="la" type="auto">Ego d. <persName>Grinei</persName> consilio usus <placeName>Argentinam</placeName> me ad tempus conferam.</s>
+					<s n="5" xml:lang="la" type="auto">Te nunc rogo, ut hęc mea aequi bonique consulas.</s>
+					<s n="6" xml:lang="la" type="auto">Cum enim<pb type="edition" next="251"/> forte ad portum venio de navi sciscitaturus, iam iam parant abitum.</s>
+					<s n="7" xml:lang="la" type="auto">Cum d. <persName>Miconio</persName> supputavi et solvi, qui nunc florenum mihi mutuo dedit, quem ut illi per Baltazarem<note xml:id="fn2" type="footnote" n="2">Welcher Balthasar gemeint ist, ließ sich nicht feststellen.</note> remittas, obsecro.</s>
+					<s n="8" xml:lang="la" type="auto"><persName>Plutarchum</persName> enim Gręcum<note xml:id="fn3" type="footnote" n="3">Gemeint ist die 1533 bei <persName>Cratander</persName> und <persName>Bebel</persName> erschienene, von <persName>Grynäus</persName> besorgte Ausgabe der "Vitae parallelae" (VD 16, P 3756); vgl. unten <ref target="file11247">Nr. 1204</ref>, 22-25.</note> emens nummis destitutus fui, quamvis non omnino, sed tale iter putavi non satis tutum esse sine nummorum sufficienti copia suscipere.</s>
+					<s n="9" xml:lang="la" type="auto">Mitto libellos a Winklyo impressos<note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file11227">Nr. 1184</ref>, Anm. 8.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Causam fugę meę explicabit Steffanus; duo enim in aedibus nostris peste laborant.</s>
+					<s n="11" xml:lang="la" type="auto">Steffano rursum librorum meorum aliquos mutuo dabis; nam is, dum cum eo fui, non parum mihi suis libris profuit.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale bene, pater venerande, et saluta nomine meo quam familiarissime totam tuam familiam.</s>
+					<s n="13" xml:lang="la" type="auto">22. octobris, ex aedibus <persName>Miconii</persName>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName>Rod. Gvalterus</persName> totus tuus.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Veniet ad vos, ut puto, nobilis iuvenis Ioannes a Riffenstein, miri ingenii adolescens, quem ut tibi commendatum habeas, vehementer rogo.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="la" type="auto">Docto et pio viro H. Bullingero, patrono suo imprimis colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

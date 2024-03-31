@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11005" type="Brief" source="HBBW" n="963">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [um 7. März 1537]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Recte habet, mi charissime Bullingere, ac ita necesse est etiam, in domino Christo toto pectore<note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>LB</bibl> II 160f).</note> ut nos vereque diligamus ac uno ore, uno corde in praedicationem sanctificationemque nominis Christi toto pectore conspiremus.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">De <persName>Melchiore</persName><note xml:id="fn3" type="footnote" n="3"><persName>Melchior Wirz</persName>.</note> sic habet res: Mathematica conditio obvenerat; iam impetraveram, iam comiseram idque scolę tocius consensu et authoritate, nisi eodem die propemodum Vitus quidam supervenisset, ad unguem<note xml:id="fn5" type="footnote" n="5"><bibl>Adagia</bibl>, 1, 5, 91 (<bibl>LB</bibl> II 216f).</note> doctus<pb type="edition" next="90"/> homo in his rebus.</s>
+					<s n="4" xml:lang="la" type="auto">Is cum pius et certus homo sit et testimonio omnium recipietur, de conditione hac non amplius deliberandum esse putaram.</s>
+					<s n="5" xml:lang="la" type="auto">Verum non haec eo dico, ut beneficium, quod nulla re dedimus, datum esse videri velim, quia in eo fuerim, ut daretur, sed ut intelligeres, in eo me fuisse, quod tu volebas.</s>
+					<s n="6" xml:lang="la" type="auto">Sed de ea re <persName>Melchior</persName> ipse tibi scribet.</s>
+					<s n="7" xml:lang="la" type="auto">Pueri, quos alo, plerique grandiusculi sunt, quod ex ipso Phrysio facile intelliges; is ut praefici possit, vereor<note xml:id="fn6" type="footnote" n="6">Bullinger hatte vorgeschlagen, <persName>Fries</persName> durch <persName>Wirz</persName> zu ersetzen, ohne aber die Funktion von <persName>Fries</persName> als Leiter des Pädagogiums genauer zu kennen; vgl. oben <ref target="file11002">Nr. 960</ref>, 15-20, und unten <ref target="file11018">Nr. 976</ref>, 40-48.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Si non potest, non imputabis mihi, quod res negat utrique.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">De Phrysio cupiam, ut bene homini prospiceretis.</s>
+					<s n="10" xml:lang="la" type="auto">Esset enim conditio hic propediem non contemnenda, et est aliqua qualiscunque in scola discendi maior occasio.</s>
+					<s n="11" xml:lang="la" type="auto">Actum de studiis ipsius erit, si eo ad conditionem trahetur<note xml:id="fn7" type="footnote" n="7"><persName>Fries</persName> wurde als Schulmeister an die Fraumünsterschule berufen; vgl. oben <ref target="file11001">Nr. 959</ref>.</note>; dabitur uxor, et conditione prorsus absumetur hac quidem tam laboriosa.</s>
+					<s n="12" xml:lang="la" type="auto">Sed de his vos pro vestra circumspectione videritis.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Dominus Christus servet te.</s>
+					<s n="14" xml:lang="la" type="manual">Amen.</s>
+					<s n="15" xml:lang="la" type="auto">Saluta diligenter mihi <persName>Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note> in domino, atque diligenter in domino contra sathanam, contra omnem artem diabolicam conspiremus.</s>
+					<s n="16" xml:lang="la" type="auto">Valete omnes.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><persName>Gryneus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Clarissimo viro d. Henrico Bullingero, fratri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

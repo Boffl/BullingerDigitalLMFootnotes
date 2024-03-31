@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11388" type="Brief" source="HBBW" n="1345">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Zwick] / Konstanz AN [Heinrich Bullinger], 1. Januar 1540</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">De comitiis celebratis<note xml:id="fn2" type="footnote" n="2">Gemeint ist der Schmalkaldische Bundestag in <placeName>Arnstadt</placeName>; vgl. <bibl>HBBW</bibl> IX <ref target="file11382">[Nr. 1339]</ref>, S. 276, 6f mit Anm. 4. Der Abschied vom 10. Dezember 1539 ist gedruckt in: <bibl>ADRG</bibl> 1/2 1094-1102, <ref target="file10427">Nr. 392</ref>.</note> nichil habeo, quanquam <persName>Ioachimus</persName><note xml:id="fn3" type="footnote" n="3"><persName>Joachim Maler</persName> (vgl. <bibl>HBBW IX</bibl> <ref target="file11382">[Nr. 1339]</ref>, S. 276, Anm. 6).</note> noster redierit, nisi quod <persName ref="p18198">Bucerus</persName> interfuit, sed non diu, missus nunc a langravio <placeName>Wittenbergam</placeName>.</s>
+					<s n="3" xml:lang="la" type="auto">Hinc michi quoque aures tinniunt etc.</s>
+					<s n="4" xml:lang="la" type="auto">Obiter audio nichil in istis comitiis tractatum, sed alia esse decreta; tempus nescio<note xml:id="fn5" type="footnote" n="5">Einige Traktanden wurden auf den nächsten Bundestag verschoben, der am 1. März in <placeName>Schmalkalden</placeName> zusammentreten sollte; s. <bibl>Mentz</bibl> II 204-206.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Nostri adeo tenaces sunt erga nos ministros in istis communicandis, ut nichil possimus scire, donec pueri in tympanis<note xml:id="fn6" type="footnote" n="6">im Sinne von: bis es die Spatzen von den Dächern pfeifen.</note> etc.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">De alia causa, quae inter nostros et vestros vertitur<note xml:id="fn7" type="footnote" n="7">Gemeint sind die Sondierungen des Geheimen Rates im Hinblick auf einen eventuellen Anschluß von <placeName>Konstanz</placeName> an die Eidgenossenschaft; vgl. <bibl>HBBW</bibl> IX <ref target="file11382">[Nr. 1339]</ref>, S. 276, 6-12 mit Anm. 7.</note>, hic michi quoque cor palpitat multa mala praesagiens.</s>
+					<s n="7" xml:lang="la" type="auto">Primum enim non videtur sine maximo offendiculo futurum, ut nostri iungantur vestris, neque satis causae esse ad defectionem ex eo, in quo etiamnum foedere sumus<note xml:id="fn8" type="footnote" n="8"><placeName>Konstanz</placeName> gehörte seit 1531 dem Schmalkaldischen Bund an; vgl. Hermann <hi>Buck</hi> und Ekkehart <hi>Fabian,</hi> <placeName>Konstanzer</placeName> Reformationsgeschichte in ihren Grundzügen, I. Teil: 1519-1531, Tübingen 1965. - <bibl>SKRG</bibl> 25/26, S. 336-343.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Deinde iungi iis, qui<pb type="edition" next="28"/> pfaffos magis quam nos amant et qui praeda magis optant vivere quam sancte partis, qui cum <placeName>Romano</placeName> rege adhuc in evangelium sunt coniurati, qui cane peius et angue odiunt<note xml:id="fn10" type="footnote" n="10"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</note> religionem veram, idola et reginam coeli praefracte adorant et quorum omnis vita et gubernatio quid aliud est quam libertas impietatis a dextris et sinistris quique virga furoris domini<note xml:id="fn11" type="footnote" n="11">Vgl. Jes 10, 5.</note> fuerunt in nos, istud michi certe magnum metum incutit.</s>
+					<s n="9" xml:lang="la" type="auto">Adde valde me timere diffidentia et nimio humanae sapientiae studio nostros ad huius modi pacta moveri.</s>
+					<s n="10" xml:lang="la" type="auto">Tandem non dicam, mi frater, quantum de moribus nostris timeam.</s>
+					<s n="11" xml:lang="la" type="auto">Iungi bonis et sanctis non improbo; mallem tamen sine huius modi coniurationibus expectare nos subsidium bonorum in necessitatibus.<pb type="scan" next="64"/></s>
+					<s n="12" xml:lang="la" type="auto">Sed recte tu quidem, o mi selectissime frater, hortaris ad preces<note xml:id="fn12" type="footnote" n="12">Der Brief, auf den <persName>Zwick</persName> antwortet, ist nicht erhalten.</note>; nam si unquam alias, nunc appellandus est cęlestis pater, ut copulet corda in pietate et vinculo iustitiae, atqui omnium corda sic dudum copulata sunt per verbum evangelii.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Literas tuas dedi consuli<note xml:id="fn13" type="footnote" n="13">Gemeint ist der Bürgermeister des Jahres 1539, <persName>Thomas Blarer</persName> (vgl. Konrad Beyerle, Die <placeName>Konstanzer</placeName> Ratslisten des Mittelalters, hg. v. der Badischen Historischen Kommission, Heidelberg 1898, S. 229).</note>, non fratri<note xml:id="fn14" type="footnote" n="14"><persName>Konrad Zwick</persName>.</note>; olfeci enim illas ad secretiores scriptas, ex quibus non est frater meus<note xml:id="fn15" type="footnote" n="15">Vgl. die Liste der "Haimlichen vom Rat" in: <hi>Buck/Fabian,</hi> aaO, S. 437.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Ora ardentissimis votis, ut conatus nostrorum ex domino sit et feliciter exeat; michi certe, ut tibi, charissimo meo pectori, libere dicam, quod sentio, nichil minus vult esse in animo.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Christus misereatur nostri et bene vertat omnia.</s>
+					<s n="16" xml:lang="la" type="auto"><persName>Ambrosium</persName><note xml:id="fn16" type="footnote" n="16"><persName>Ambrosius Blarer</persName>; vgl. <bibl>HBBW</bibl> IX <ref target="file11382">[Nr. 1339]</ref>. S. 275, Anm. 3.</note> expectamus in horas; Campodunae adhuc est aut Memmingae.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><placeName>Augustae</placeName> quid impetraverit, ubi redierit, narrabit.</s>
+					<s n="18" xml:lang="la" type="auto">Vale, charissime frater, et me semper ama.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Ex <placeName>Constantia</placeName>, calendis ianuarii 1540.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Utinam felicissimus annus illucescat tibi et omni familiae tuae!</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Tuus ex animo frater.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10037" type="Brief" source="HBBW" n="12">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Kappel am Albis AN [Michael Wüst], 16. Dezember 1525</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName>Michaeli</persName> suo gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Mittimus tibi, <persName>Michael</persName> dilecte, epistolam nostram, quae de eucharistia ante aliquot dies excidit venus quam scripta sit<note xml:id="fn2" type="footnote" n="2">Siehe Anhang II, Nr. 5.</note>, si fortassis per eam tribuat tibi oculos deus, ut cognita missandi impietate cogites, quo pacto possis propediem immutare mores, studia, questum et vitam tuam, esseque adhuc in tam spatioso terrarum orbe reliquum, unde vivere possis, meliore nimirum conscientia, quam in impiissimo questu et eidololatria.</s>
+					<s n="3" xml:lang="la" type="auto">Est enim etiamdum sana mens tibi in corpore sano<note xml:id="fn3" type="footnote" n="3"><persName>Juvenal</persName>, Satiren X, 356.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Nihil habes post infidelitatem, quo te tueri possis; satis superque satis offendisti dominum.</s>
+					<s n="5" xml:lang="la" type="auto">Revertere ergo ad eum, qui non vult «mortem peccatoris, sed magis ut convertatur et vivat» [Ez 33,11], ac nostram pro te sollicitudinem boni consule.</s>
+					<s n="6" xml:lang="la" type="auto">Nam ferre non potui, ut a te separarer religione, qui non modo sanguine, verum a cunis tibi per omnem vitam arctissime hesi.</s>
+					<s n="7" xml:lang="la" type="auto">Quod ad<pb type="edition" next="84"/> litterarum figuras spectat, noli esse <persName>Aristarchus</persName>; sic enim unus ex adulescentulis meis me dictante quam celerrime istaec excepit, at mihi otium vix fuit relegendi, taceo vel innumeras expungendi mendas<note xml:id="fn6" type="footnote" n="6">Dieses von <persName>Frey</persName> geschriebene Exemplar ist nicht erhalten.</note>.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Vale et ita age, ut intelligam te malle esse pauperem christianum, quam divitem impium, incredulum, mactatorem.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ex coenobio nostro, 16. decembris 1525.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Heimrych tuus.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

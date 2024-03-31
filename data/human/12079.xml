@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12079" type="Brief" source="HBBW" n="2032">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Sturm / Straßburg AN Heinrich Bullinger, 8. November 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] p[lurimam].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Adolescens<note xml:id="fn1" type="footnote" n="1"><persName>Gerhard thorn Camph</persName>; s. oben <ref target="file12053">Nr. 2006</ref>, Anm. 1; 2031 mit Anm. 1.</note> ille cupit se tibi a me commendatum esse.</s>
+					<s n="3" xml:lang="la" type="auto">Non potui ei denegare hoc officii, tametsi antehac tibi non scripserim unquam<note xml:id="fn2" type="footnote" n="2">Erhalten sind noch ein Brief <persName>Sturms</persName> an Bullinger und zwei Briefe Bullingers an <persName>Sturm</persName>; alle drei aus den Jahren 1561/1562.</note>, sed obtemperandum fuit honestae voluntati studiosissimi et optimi iuvenis, quem tibi sane etiam atque etiam commendo.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Lu-<pb type="scan" next="1105"/>therus valde acerbum divulgavit anathema<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName>Luthers</persName> "Kurtz bekentnis"; s. oben <ref target="file12018">Nr. 1971</ref>, Anm. 20.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Rogo, ne patiamini vos permoveri a tali oratore iracundo magis hoc tempore quam aequo.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Donate id discerptae ecclesiae, et repugnantibus etiam hominibus operam demus, ut lacera eius membra aliquo modo revalescant.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Etiam a vobis vehemens carmen profectum fuit in <persName>Osiandrum</persName>,<note xml:id="fn4" type="footnote" n="4">Das Schmähgedicht "Speculum Osiandri" wurde nicht von einem Eidgenossen, sondern von <persName>Georg Frölich (Laetus)</persName> verfasst; s. oben <ref target="file12010">Nr. 1963</ref>, Anm. 10. - Vgl. aber oben <ref target="file12075">Nr. 2028</ref>, 106-110, wo das Gerücht geäußert wird, dass der Autor angeblich ein Eidgenosse sei.</note> neque illud velim factum; at laesit prior, verum iste poeta momordit magis dolorifice.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Non demus occasionem hostibus maiorem, quam data sit hactenus; ignosce mihi, quod liberius ad te, quam oporteat.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Nolo monitor esse, sed precator, et obsecro, ut aliquid impetrem.</s>
+					<s n="10" xml:lang="la" type="auto">Cupio et opto omnes vos salvos et incolumes esse, et nominatim senem vestrum patrem <persName>Pellicanum</persName>.</s>
+					<s n="11" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><placeName>Argentorati</placeName>, octava novembris 1544.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><persName>Sturmius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse im Druck vorangestellt:]</note>
+					<s n="14" xml:lang="la" type="auto">Doctissimo et optimo viro d. Henrico Bullingero.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10071" type="Brief" source="HBBW" n="43">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 30. November 1531</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Etsi hactenus tibi, <persName>Ambrosi</persName> charissime, nihil scripserim post binas, ni fallor, aut ternas litteras, attamen animo me tuo excidisse non valeo vel cogitare.</s>
+					<s n="3" xml:lang="la" type="auto">Vera enim amicitia et charitas christiana adeo non minuitur coepta, ut vel magis indies augeatur.</s>
+					<s n="4" xml:lang="la" type="auto">Hac vero fretus commendo tibi <persName>Gervasium</persName> nostrum Scholasticum<note xml:id="fn3" type="footnote" n="3"><persName>Gervasius Schuler</persName>, s. oben <ref target="file10061">[Nr. 34]</ref> S. 193 f, Anm. 5.</note>, symmistam meum, qui ante dies aliquot una mecum e patria nostra<placeName>Bremgarten</placeName> pulsus nunc apud Tygurinos degit [in] exilio.</s>
+					<s n="5" xml:lang="la" type="auto">Vir est et eruditione et pietate, fide fidelitateque praeclarus, cui tuto (si quae esset) ecclesiam posses commendare praeclaram.</s>
+					<s n="6" xml:lang="la" type="auto">Patria <placeName>Argentoratensis</placeName> est, uxorem praeterea habet et filiolas, ni fallor, duas.</s>
+					<s n="7" xml:lang="la" type="auto">Bremgarti hactenus docuit Christum pure; nunc per tumultum bellicum una mecum expulsus est.</s>
+					<s n="8" xml:lang="la" type="auto">Ego interim et pan addictus exilio Tyguri vivo, expectaturus, quem rebus eventum daturus sit deus.</s>
+					<s n="9" xml:lang="la" type="auto">Scimus autem et prophetas et apostolos, ipsum denique caput Christum et persequtiones pertulisse et praedixisse<note xml:id="fn5" type="footnote" n="5">Vgl. u. a. Mt 5,10-12; 1 Petr 2,20f.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Unde et patienti animo ferimus omnia, scientes, quod cum eo glorificabimur, cum quo nunc patimur<note xml:id="fn6" type="footnote" n="6">Siehe Röm 8,17.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Quod si <persName>Gervasii</persName> opera tibi opus fuerit, <persName ref="p2305">Leoni</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p6796">Leo Jud</persName>, s. oben <ref target="file10022">[Nr. 4]</ref> S. 55, Anm. 1.</note> nostro aut mihi scribas.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale et dominum ora pro nobis et nostra infoelici Helvetia.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">1531 die Andreae, Tyguri.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Hein. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto"><persName>Ambrosio Blaurero</persName>, Esslingę praedicanti evangelion, amico et fratri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

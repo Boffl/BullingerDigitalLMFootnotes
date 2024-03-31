@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10412" type="Brief" source="HBBW" n="378">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 21. Mai 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Guilelmus a Lange<note xml:id="fn1" type="footnote" n="1"><persName>Guillaume du Bellay</persName>, Seigneur de Langey.</note>, legatus et orator regis Gallorum<note xml:id="fn2" type="footnote" n="2"><persName>Franz I.</persName></note> quo de tu nuper scribebas<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10408">Nr. 375</ref>.</note>, Tigurum non multos ante dies venit, nos in colloquium evocavit<note xml:id="fn4" type="footnote" n="4">Vgl. oben S. 179, 27-52.</note> et prorsus eadem illa nobiscum contulit, quae tecum.</s>
+					<s n="3" xml:lang="la" type="auto">Vir est ingenii amoenissimi, eloquens, prudens, versutus et doctus<note xml:id="fn5" type="footnote" n="5">Dieses Urteil Bullingers über du Bellay und teilweise die folgenden Zeilen (bis Z. 17) finden sich u. a. zitiert bei Corr. des réformateurs III 181, Anm. 1 und <hi>Bourrilly,</hi> <persName>Guillaume du Bellay</persName> 176, Anm. 3.</note> et de quo mihi optima quaeque pollicerer, si non suspicio mihi fuisset oborta illum vel aliud regis nomine intendere, quam ipsa hominis verba instructissima sane prae se ferant, vel duabus hunc sellis sedere<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Adagia</bibl> 1, 7, 2 (<bibl>LB</bibl> II 262f F-A); <bibl>Otto</bibl> 315f, Nr. 1621.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Petiit a nobis, ut scriptis mandaremus, quod pro sarcienda pace ecclesiae nobis optimum videretur et in quibus nos esse vel infirmorum gratia cedere vellemus.</s>
+					<s n="5" xml:lang="la" type="auto">Polliciti sumus id nos facturos aliquando, sed paucissima adeoque nulla fore in, quibus possimus a receptis vel dogmatis [ve]l moribus [ec]clesiasticis vel tantillum cedere.</s>
+					<s n="6" xml:lang="la" type="auto">Interim tamen nos nihil non facturos, sed salva veritate quod modo videatur paci concordiaeque vel aliquid prodesse.</s>
+					<s n="7" xml:lang="la" type="auto">Vereor ego totum hoc negotium in hoc subornatum esse ab hominibus astutissimis<note xml:id="fn8" type="footnote" n="8">Gemeint sind französische Räte.</note>, ut hac arte Germanorum animos regi suo adornent, quo paratiores promptioresque inveniant, cum Germanorum opera fuerit opus etc.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quo autem turbulentiora sunt omnia hoc magis ardeo literarum tuarum desyderio.</s>
+					<s n="9" xml:lang="la" type="auto">De victoria ducum<note xml:id="fn9" type="footnote" n="9">Landgraf <persName>Philipp von Hessen</persName> und <persName>Herzog Ulrich von Württemberg</persName> hatten am 12./13. Mai 1534 die österreichischen Truppen bei <placeName>Lauffen</placeName> und <placeName>Kirchheim am Neckar</placeName> besiegt, s. <bibl>Wille</bibl> 179-182.</note> quaedam audivi, sed quid in re sit, nondum<pb type="edition" next="184"/> liquido didici.</s>
+					<s n="10" xml:lang="la" type="auto">Scio autem te istarum rerum omnium esse peritissimum.</s>
+					<s n="11" xml:lang="la" type="auto">Orarem igitur, ni negotiis adobrutum magis obruere puderet, aliquot verbis annotares, quid actum sit, quinam ea clade - si modo vera sunt, quae fama circumferuntur - perierint, an princeps<note xml:id="fn10" type="footnote" n="10"><persName>Herzog Ulrich</persName>.</note> patriam<note xml:id="fn11" type="footnote" n="11"><placeName>Württemberg</placeName>.</note> recuperarit aut quid viri boni ominentur.</s>
+					<s n="12" xml:lang="la" type="auto">Hac re nihil poteris hodie scribere gratius.</s>
+					<s n="13" xml:lang="la" type="auto">Sed de <persName>Sebastiano</persName> et pensionariis<note xml:id="fn13" type="footnote" n="13">Welches die Pensionenempfänger im einzelnen waren und ob <persName>Appenzeller</persName> dazu gehörte, ließ sich nicht ermitteln. <persName>Du Bellay</persName> konnte nach der Tagsatzung vom 5. Mai 100000 écus an die Orte verteilen lassen, s. <hi>Rott,</hi> Représentation Diplomatique I 398; <hi>Bourrilly,</hi> <persName>Guillaume du Bellay</persName> 169.</note> quid?</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale.</s>
+					<s n="15" xml:lang="la" type="auto">Salvum volo <persName>Voglerum</persName>, <persName>Studerum</persName> etc.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">21. maii 1534.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">H. tuus.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Ist neiswas<note xml:id="fn14" type="footnote" n="14">etwas (<bibl>SI</bibl> IV 808).</note> daran, das der <persName>Ferdinand</persName> übel gelitten<note xml:id="fn15" type="footnote" n="15">Anspielung auf die Bullinger erst gerüchteweise bekannte Niederlage der österreichischen Truppen am 13. Mai (vgl. oben Z. 19f).</note>, wie söllte dann Antronius vester so warm<note xml:id="fn17" type="footnote" n="17">behaglich, sicher, ruhig (<bibl>Grimm</bibl> XIII 2028. 2040).</note> sitzen?</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Doctori <persName>Ioachimo Vadiano</persName>, Sangallensi proconsuli prudentissimo, domino suo imprimis observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

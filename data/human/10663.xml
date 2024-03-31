@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10663" type="Brief" source="HBBW" n="625">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 3. August [1535]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Tametsi novi nihil habeam, quod ad te scribam, charissime Heinrice, nihilominus voluit bonus ille et pius adolescens<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note>, immo exegit, ut scriberem data quacunque occasione.</s>
+					<s n="3" xml:lang="la" type="auto">Obtulit autem eam <persName>Thomas Blaurerus</persName>, qui cum his diebus nobiscum multa conferret<note xml:id="fn3" type="footnote" n="3">Das <placeName>Berner</placeName> Ratsmanual vermerkt zum 28. Juli 1535 den Auftritt eines ungenannten Gesandten aus <placeName>Konstanz</placeName>, s. <bibl>EA</bibl> IV/1c 532.</note>, inter cętera indicavit, quam male conveniat <placeName>Wirtenbergensibus</placeName> ministris.</s>
+					<s n="4" xml:lang="la" type="auto">Quidam <persName>Schnepfii</persName> pedarii pro contione nihil ferme agant, quam quod Zvinglianos svermeros<note xml:id="fn4" type="footnote" n="4">Schwärmer.</note>, sacramentarios proscindant et perstringant, ut nihil odiosius habeatur quam nomen nostrum.</s>
+					<s n="5" xml:lang="la" type="auto">Qui vero a parte <persName>Ambrosii</persName><note xml:id="fn5" type="footnote" n="5"><persName>Ambrosius Blarer</persName>.</note> sunt, sincere doceant etiam de eucharistia suppressis omnibus convitiis et calumniis, quibus cęteri abundant, et dum de quibusdam a Schnepfio periculum fit, num ad ministerium apti sint, prima semper sit interrogatio de eucharistię causa.</s>
+					<s n="6" xml:lang="la" type="auto">Si Luteranus fuerit, quantumvis alioqui indoctus, admittatur, sin minus, refutetur et ab <persName>Ambrosio</persName> recipiatur.</s>
+					<s n="7" xml:lang="la" type="auto">Addidit praeterea <persName ref="p17881">Brentium</persName><pb type="edition" next="314"/><persName>Schnepfii</persName> partes acturum, quamdiu cum principe fuerit apud <persName>Ferdinandum</persName><note xml:id="fn6" type="footnote" n="6"><persName>Johannes Brenz</persName> vertrat <persName>Erhard Schnepf</persName> in <placeName>Stuttgart</placeName>, während dieser <persName>Herzog Ulrich von Württemberg</persName> zu der am 9. August 1535 erfolgten Belehnung durch <persName>König Ferdinand I.</persName> nach <placeName>Wien</placeName> begleitete; vgl. <hi>Heyd</hi> III 261.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Quo tandem verendum, ut in unum colligatis omnibus cum papistis tum Luteranis contra nos per fictam concordiam in interitum nostrum armentur et animentur.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ursimus hominem privatim, quo pacto huic possit occurri malo.</s>
+					<s n="10" xml:lang="la" type="auto">Addidit peius malum: <placeName>Augustanos</placeName> suis praescripsisse reformatę religionis regulam<note xml:id="fn7" type="footnote" n="7">Gemeint sind offenbar die zehn Artikel (<bibl>BucerDS</bibl> VI/1 77-82), welche die <placeName>Augsburger</placeName> Prediger auf Betreiben <persName>Bucers</persName> unterschrieben hatten; vgl. <hi>Roth</hi> II 241-245. 275-278.</note> tam tortam et ceremoniis permixtam, ut potius a quovis pio indicetur papismus novus quam evangelicismus, idemque se quottidie expectare a <placeName>Wirtenbergensibus</placeName>, ubi frater suus<note xml:id="fn8" type="footnote" n="8"><persName>Ambrosius Blarer</persName>.</note> prae aliorum multitudine sulfragio parum possit.</s>
+					<s n="11" xml:lang="la" type="auto">His omnibus intellectis videbatur non absurdum fore, si civitates imperiales vicinę cum Helveticis scripto vel legatis principem inviserent, illi proponerent et tandem vel hoc impetrarent, ne a suis Schnepfianis sic traduceremur, sed principem vicinum ageret probatum et nobis non incommodantem.</s>
+					<s n="12" xml:lang="la" type="auto">Aiebat ille non esse tentandum cum civitatibus imperii, quandoquidem illę persuasę essent in populo dei omnino vel aliquas esse debere ceremonias.</s>
+					<s n="13" xml:lang="la" type="auto">Proinde cum tantopere cum Lutero concordiam gestiant, vix nobis assensuros hoc consilio, sed satius esse civitates Helveticas in hoc convenire matura deliberatione praehabita, ut vel per legatos vel scripto consilium hoc ad principem deferri curarent et ipsum admonere, ne tam perverse pateretur suos de nobis sentire.</s>
+					<s n="14" xml:lang="la" type="auto">Negocium itaque hoc ad dictatores retulimus.</s>
+					<s n="15" xml:lang="la" type="auto">Hi paucis abhinc diebus oportuno tempore consultabunt<note xml:id="fn9" type="footnote" n="9">Wie es scheint, trat der Rat zunächst nicht auf das Anliegen der Pfarrer ein; zum weiteren Verlauf s. unten <ref target="file10667">Nr. 629</ref>, 15-22.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Tu interim ad me scribe, quid vobis in hac re consultius videatur, quandoquidem non dubitamus a nostris ad vos et alios hęc referri, ut pares esse possemus consiliis, et quam primum fieri possit hoc age; nam mora nobis in periculo esse potest, non propter ducem, sed propter nos.</s>
+					<s n="17" xml:lang="la" type="auto">Audio vos parare apologiam<note xml:id="fn10" type="footnote" n="10">Gemeint ist die von <persName>Bibliander</persName> ausgearbeitete Verteidigungsschrift gegen lutherische Schmähungen, vgl. oben <ref target="file10659">Nr. 621</ref>, 57f mit Anm. 19.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Huius copiam libenter videremus, si fieri posset, quamvis nihil diffidam per omnia de vobis.</s>
+					<s n="19" xml:lang="la" type="auto">In summa: Quicquid vobis visum fuerit aut de hac re plus nobis sciveritis, indicate.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Ceterum apud nos sępe in controversiam venit, quod in publico super homicidas iudicio corpus amicis adiudicatur, ut sese vindicare illis sit liberum, facultates vero magistratui, cum potius contrarium fieri deberet, nempe amicos ad condonandum homicidae, permovendos, magistratus esse vindictam, et<pb type="edition" next="315"/> si quid facultatis superesset, occisi familię et liberis impartiendum.</s>
+					<s n="21" xml:lang="la" type="auto">Citant locum Numeri 36: "Cognatus occisi statim ut invenerit eum iugulabit" [Num 35, 21].</s>
+					<s n="22" xml:lang="la" type="auto">Deinde alii obiiciunt: "Diligite inimicos" [Mt 5, 44 par.], "ne resistatis malo" [Mt 5, 39] etc.</s>
+					<s n="23" xml:lang="la" type="auto">Iudex tu esto.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Vale et dominum ora pro me; nam accrescente hernia diutius durare vix potero, etsi adhuc verbum pro contione administrem.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Rursum vale et perge, ut cepisti, ecclesiis prodesse ac me amare.</s>
+					<s n="26" xml:lang="la" type="auto">Nimium erga me liberalis fuit <persName ref="p5295">Froschouerus</persName>.</s>
+					<s n="27" xml:lang="la" type="auto">Cui denuo gratias agas nomine meo<note xml:id="fn12" type="footnote" n="12">Vgl. oben <ref target="file10659">Nr. 621</ref>, 54-56. 66-68.</note>.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">3. augusti.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Tuus B. H.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Heinrico Bullingero, ecclesię Tigurinę antistiti vigilantissimo, fratri suo omnium longe charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

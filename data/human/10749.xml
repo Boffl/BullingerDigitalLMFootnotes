@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10749" type="Brief" source="HBBW" n="711">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hans-Jakob Adlischwyler / Rötteln AN [Heinrich Bullinger], 4. Januar 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Mein underthenig, gehorsam, willig dienst zuvor.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Hochgelerter, lieber her vetter<note xml:id="fn3" type="footnote" n="3">Onkel, männlicher Verwandter (<bibl>SI</bibl> I 1133).</note>, ich laß uch wüssen, das ich frusch und gesundt bin, gott hab lob etc.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Lieber her vetter, ich bitt uch fruntlich, wo es ye gesein mag, das ir mir umb ein herren hulffen, damit ich by uch, auch by meiner lieben besin<note xml:id="fn4" type="footnote" n="4">Tante, weibliche Verwandte (<bibl>SI</bibl> IV 1648); gemeint ist Bullingers Frau Anna.</note> sein möchte; dann ich ein groß verlangen nach uch und iren hab.</s>
+					<s n="4" xml:lang="de" type="auto">Furs ander loß ich wissen, das ich zu <placeName>Roteln</placeName> by dem landtschriber bin.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Nit me, dann griessen mir mein hertzliebe bese, uwer husfrouwen.</s>
+					<s n="6" xml:lang="de" type="auto">Bitt ouch uch, wo es geschefften halb möchte sein, das ir mir schriben, wie es uch, ouch meiner hertzlieben besen gang, und mir solhe schrifft by zeigern dis brieffs<note xml:id="fn6" type="footnote" n="6">Der Überbringer ist nicht bekannt.</note> zuschicken.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Datum <placeName>Roteln</placeName>, inn il, uff zinstag nach dem neuwen jar anno etc. 36.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">E[wer] gehorsamer vetter <persName>Hans Jacob Adelschwiler</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="9" xml:lang="de" type="auto">Dem hochgelerten herren hern Heinrichen N., bredicant zu Zurich, meinem hertzlieben vettern zu handen.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11100" type="Brief" source="GR" n="9">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 16. Oktober 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a Deo patre per Iesum Christum.</s>
+					<s n="2" xml:lang="la" type="auto">Literas tuas una cum Bernatum actione accepi, Heinrice doctissime, feria tertia ante Galli hora meridiana, quum mercatores iam omnes abiissent, ut copiam eodem die remittere non potuerim.</s>
+					<s n="3" xml:lang="la" type="auto">Nequeo satis mirari hominum inconstantiam: fatentur omnia simul quantumvis contraria.</s>
+					<s n="4" xml:lang="la" type="auto">Credo firmiter, quod omnes, quotquot nunc vivimus, lucida veritate indigni simus; Deus optimus sua nobis ope subvenire dignetur!</s>
+					<s n="5" xml:lang="la" type="auto">Adulescentulo Pontasellae adfuturum te spopondisti, de quo permultum gratulor, ne literarum studium relinquere cogatur.</s>
+					<s n="6" xml:lang="la" type="auto">Hic neminem habet nisi matrem bis miseram.</s>
+					<s n="7" xml:lang="la" type="auto">Ego tamen, quod pollicitus sum, illi fideliter praestabo; post vindemiam mittam illi Lucianum et aliquantulum pecuniae, quantum corradere possum.</s>
+					<s n="8" xml:lang="la" type="auto">Corcyram, quam vulgo Corfunam vocant, Venetorum portum nobilem, Turca invaserat, suburbana coeperat, sed abactis multis hominibus iterum reliquit.</s>
+					<s n="9" xml:lang="la" type="auto">Horrenda undique nobis imminent; sed parum terrent nos, ut a flagitiis recedamus.</s>
+					<s n="10" xml:lang="la" type="auto">Vale, vir candide.</s>
+					<s n="11" xml:lang="la" type="auto">Ex Curia Rhetiae, 16. Octobris 37.</s>
+					<s n="12" xml:lang="la" type="auto">Vindemiarum</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

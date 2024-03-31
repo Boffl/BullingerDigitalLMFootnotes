@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12950" type="Brief" source="HBBW" n="2901">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 16. Mai 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Tu taces,<note xml:id="fn1" type="footnote" n="1">Daraus wird deutlich, dass Myconius zu diesem Zeitpunkt Bullingers Brief vom 18. Mai (<ref target="file12952">Nr. 2903</ref>) noch nicht erhalten hatte. Bullinger entschuldigte sich darin für sein langes Schweigen.</note> et mihi non est, quod scribam, non ob argumentorum inopiam, sed copiam potius, unde tamen seligere haud licet, quod velim.</s>
+					<s n="3" xml:lang="la" type="auto">Misera sunt omnia et nos miseri cum primis!</s>
+					<s n="4" xml:lang="la" type="auto">Nemo eorum, qui circum nos sunt<note xml:id="fn2" type="footnote" n="2">Die Bewohner der vorderösterreichischen Gebiete um <placeName>Basel</placeName>.</note>, non clamant nunc tandem finem instare cęsare<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> perpetuo per Germaniam victore foederis superbi Helvetiorum; nunc talionem illos laturos effusi per totum orbem sanguinis!</s>
+					<s n="5" xml:lang="la" type="auto">Et profecto, inquiunt, tempus est, ut insolentes istorum spiritus aliquando compescantur.</s>
+					<s n="6" xml:lang="la" type="auto">Omnia mala induxerunt ipsi in Germaniam usque etiam ad blasphemias!</s>
+					<s n="7" xml:lang="la" type="auto">Summa: Visitabuntur a Carolo.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Hęc dum audio, vehementer me movent propter dissidia nostra, quę et ipse idem inter nos per suos fecit et usque huc fovit.</s>
+					<s n="9" xml:lang="la" type="auto">Animi etenim non possunt esse uni, ut ita dicam, inter religione dissidentes.</s>
+					<s n="10" xml:lang="la" type="auto">Nisi ergo dominus singulari de causa nobis adfuerit, quid futurum sit, non video.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Si tibi sunt hic meliores oculi, fac, quęso, ut et ipse videam, quę sunt abscondita mihi.</s>
+					<s n="12" xml:lang="la" type="auto">In domino confidamus, inquis.</s>
+					<s n="13" xml:lang="la" type="auto">Bene, si peccata nostra permitterent.</s>
+					<s n="14" xml:lang="la" type="auto">Scis, quam illa multa sint ac magna in omnibus nobis, quamque nulla sit poenitentia!</s>
+					<s n="15" xml:lang="la" type="auto">Nos, qui praesumus verbo, dum instigamus ad emendationem, nemo audit, et ipsi nonnunquam labimur satis graviter.</s>
+					<s n="16" xml:lang="la" type="auto">Novi, quid mihi accidat; unde divino, quid eveniat aliis etiam.</s>
+					<s n="17" xml:lang="la" type="auto">At confidendum!</s>
+					<s n="18" xml:lang="la" type="auto">Maxime sed et vita emendanda et iugiter precandum, ut deus nos respiciat, nobis parcat et reddat unanimes.</s>
+					<s n="19" xml:lang="la" type="auto">Quod si obtinuerimus, cęsaris felicitatem non moror admodum, quamvis pacem mallem.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Tantilla hęc potui ob festinam <persName>Wolfii</persName><note xml:id="fn4" type="footnote" n="4"><persName>Johannes Wolf</persName>, der sich immer wieder nach <placeName>Basel</placeName> begab.</note> abitionem.</s>
+					<s n="21" xml:lang="la" type="auto">Vale in domino cum tuis, <persName>Pellicano</persName>, <persName>Theodoro</persName><note xml:id="fn5" type="footnote" n="5"><persName>Theodor Bibliander</persName>.</note> et <persName>Gvalthero</persName>, cui scripsissem, si novissem in tempore adesse <persName>Wolfium</persName>.</s>
+					<s n="22" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim 16. maii anno 1547.</s>
+					<s n="23" xml:lang="la" type="auto">Tuus Os. Myc.<pb type="edition" next="198"/></s>
+				</p>
+				<p>
+					<note>[Adresse auf der Rückseite:]</note>
+					<s n="24" xml:lang="la" type="auto">D. Heinricho Bullingero, viro doctissimo, ministro Christi optimo, domino suo in Christo observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

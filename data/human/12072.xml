@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12072" type="Brief" source="HBBW" n="2025">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Eberhard von Rümlang / Bern AN Heinrich Bullinger, 28. Oktober 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Nunquam potuisset mihi, optime Bullingere, cursor, qui literas ad te perferret, obtingere oportunius quam hoc tempore.</s>
+					<s n="3" xml:lang="la" type="auto">Nosti satis, cuiusmodi controversię inter nos existant, quas eo, scias, erupisse vesana intemperie, ut incendia dissidiorum apud nos seviant et grassentur pernitiosissima.</s>
+					<s n="4" xml:lang="la" type="auto">Nolo tibi referre et primatum quorundam contentiones in tribunitiis compotationibus et comissationibus tantum non ad pugnas exarsisse<note xml:id="fn3" type="footnote" n="3">Siehe <bibl>Hundeshagen</bibl> 187 und Anm. b.</note>.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Est Tigurinus quidam apud nos tonsor<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>, iam civis noster, bellus scilicet homo, qui usus est pugnis et gladio.</s>
+					<s n="6" xml:lang="la" type="auto">Depugnasset pro Buceranis, nisi intervenissent alii.</s>
+					<s n="7" xml:lang="la" type="auto">Vapulabat bonus vir pugno ad sanguinis profluvia, qui nihil hostile suspicabatur, inique itaque occupabatur.</s>
+					<s n="8" xml:lang="la" type="auto">Contentio erat de disputatione<note xml:id="fn5" type="footnote" n="5">Die Thesen der <placeName>Berner</placeName> Disputation von 1528.</note> nostra, quam Tigurinus impugnabat etc.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Ecclesiastę nostri ab utraque parte instructa acie aperto Marte<note xml:id="fn6" type="footnote" n="6">aperto Marte: Seneca, <persName>Oedipus</persName>, 274.</note> et hostili animo congressuri consistunt, ubi primum senatus classicum canet; inter quos acerbissimis, apertis quoque morsibus et incessationibus diu velitatum est pro suggestu.</s>
+					<s n="10" xml:lang="la" type="auto">Senatus novit dissidentia studia.</s>
+					<s n="11" xml:lang="la" type="auto">Itaque rei tractationem reveritus prorogavit negotium usque dum iam ad extrema ventum sit et tumultum vereatur; querit itaque viam modumque ad animos pacandos.</s>
+					<s n="12" xml:lang="la" type="auto">Dolemus, quod nemo se interponat.</s>
+					<s n="13" xml:lang="la" type="auto">Si <persName ref="p18198">Bucerus</persName> sciret, ille esset in procinctu paratus etc.<pb type="edition" next="492"/></s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Proxime praeterita die veneris<note xml:id="fn7" type="footnote" n="7">Am 24. Oktober 1544.</note> senatus minor<note xml:id="fn8" type="footnote" n="8">Der Kleine Rat, der (seit Ostern 1522) montags, mittwochs und freitags zu Sitzungen zusammenkam; s. <bibl>Studer Immenhauser</bibl> 33. - Vgl. hierzu <placeName>Bern</placeName> StA, Ratsmanual 290 (A II 160), S. 77.</note> vocavit concionatores omnes et utrique parti inducias pacemque indixit, usque dum illi ex patritiis, qui in legationibus sunt, domum redeant et numerosior sit senatus; se tunc negotium hoc tractandum suscepturum illosque super lite sua contestata commissuros;<note xml:id="fn9" type="footnote" n="9">Vgl. hierzu <placeName>Bern</placeName> StA, Ratsmanual 290 (A II 160), S. 77. Geplant war eine Zusammenkunft auf den folgenden Mittwoch (also den 29. Oktober 1544). Wir danken Frau Dr. Barbara Studer, <placeName>Bern</placeName>, für freundliche Auskunft.</note> nam contentiones tales se diutius ferre non posse, potissimum hoc periculoso tempore.</s>
+					<s n="15" xml:lang="la" type="auto">Si nemo se interponit, eventus profecto in ambiguo est.</s>
+					<s n="16" xml:lang="la" type="auto">Nam et papistis liberum est loqui, quid sibi adprobetur.</s>
+					<s n="17" xml:lang="la" type="auto">Ducimur affectibus, quibus nimium indulgemus; nec desunt, qui concordiam et res pacatas velint quomodocunque, etiam si id cum veritatis periculo existeret.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Novi, quod Bucerani - <persName>Sultzerus</persName> et <persName>Beatus</persName><note xml:id="fn10" type="footnote" n="10"><persName>Beat Gering</persName>.</note> - synodum urgebunt idque summis conatibus; hanc si acquirant et obtineant, ego profecto suffragia simplicium verebor.</s>
+					<s n="19" xml:lang="la" type="auto">Novi et multos studio private rei duci; sentiunt enim, qui illis astipulantur, ad pinguiora benefitia promoveri, reliquos negligi et pro stipitibus<note xml:id="fn11" type="footnote" n="11">Tölpel.</note>, gardinibus truncisque<note xml:id="fn12" type="footnote" n="12">Klötze.</note> censeri.</s>
+					<s n="20" xml:lang="la" type="auto">Multis quoque<pb type="scan" next="141v."/> blanditiis imponitur; qui consequentia parum prospectant.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Oro itaque, rem iusta trutina<note xml:id="fn13" type="footnote" n="13"><bibl>Adagia</bibl>, 2, 5, 82 (<bibl>ASD</bibl> II/3 460, <ref target="file11525">Nr. 1482</ref>).</note> expendere velitis et nobis succurrere dignemini.</s>
+					<s n="22" xml:lang="la" type="auto">Iactatur id apud nos, vulgo nos in maiori iam ex hoc dissidio periculo esse, quam unquam ab incremento evangelii fuerimus.</s>
+					<s n="23" xml:lang="la" type="auto">Iusti censeo esse hominis, ut fratri periclitanti per Christum suppetias ferat.</s>
+					<s n="24" xml:lang="la" type="auto">Si nimirum cunctamini, consilia vestra nobis inauspicata sunt futura<note xml:id="fn14" type="footnote" n="14">Mit einer ähnlichen Bitte und einem ähnlichen Dranggefühl sollte sich <persName>Simon Sulzer</persName> am 7. November 1544 an <persName>Calvin</persName> wenden; s. <bibl>CO</bibl> XI 767f.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Nolo vos docere, sed id faciendum esse censeo.</s>
+					<s n="26" xml:lang="la" type="auto">Quandoquidem nostra intestina dissidia sunt propter verbum dei, sacramentum eucharistie et scripturarum autoritatem in hoc tendentia, ut Disputationi habitę<note xml:id="fn15" type="footnote" n="15">Die <placeName>Berner</placeName> Disputation von Januar 1528.</note> autoritas sua adimatur, partium esse vestrarum id ad senatum vestrum referre eo pacto.</s>
+					<s n="27" xml:lang="la" type="auto">Quandoquidem res apud nos talis hanc turbatam habeat faciem, vos vestram unanimiter deferre operam<pb type="edition" next="493"/> et studium, ut nostro senatui scribere dignentur: si vestra opera opus et sua quoque, vos omnes ad res nostras componendas, quo omnia ad tranquillitatem redigantur, paratissimos fore.</s>
+					<s n="28" xml:lang="la" type="auto">Libere scribite dissensiones nostras dextro Mercurio<note xml:id="fn16" type="footnote" n="16"><bibl>Adagia</bibl>, 4, 7, 2 (<bibl>ASD</bibl> II/8 75f, Nr. 3602).</note> ad vos pervenisse; quę vobis non parum doleant.</s>
+					<s n="29" xml:lang="la" type="auto">Si libeat, et vos docti scribite vos paratos ad nostram pacem fovendam et alendam, nec id absque praeconio vestrę concordie.</s>
+					<s n="30" xml:lang="la" type="auto">Scio multis id comprobatum iri et vacillantes inde cordatiores reddi.</s>
+					<s n="31" xml:lang="la" type="auto">Negotium fidei universorum est nec eo iure et limite, quo iurisditiones terminatur.</s>
+					<s n="32" xml:lang="la" type="auto">Expendite, oro, bene.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Novi mentem senatus nostri nonnihil in hoc subtrepidantem periculi magnitudine, et cum illustris vestra autoritas et concordia apud nos sit multumque valeat, confido vos non negligi, ne, si quid adversi contingat, obiicere nobis possitis id merito nostro factum, quod vos neglexerimus.</s>
+					<s n="34" xml:lang="la" type="auto">Qui fieri posset, ut senatus vester id se facturum negaret, cum alioqui in secularibus seipsos totos nobis debeant?</s>
+					<s n="35" xml:lang="la" type="auto">Qui non in Christi negotio promovendo apud nos operam vestram et sedulitatem impenderetis, qui alioqui in cęsaris <foreign xml:lang="de">deß leiden Spangerlis<note xml:id="fn17" type="footnote" n="17">des unguten kleinen Spaniers (<persName>Kaiser Karl V.</persName>).</note></foreign> negotiis promovendis satis industrii estis, cum religionis nostrę sit apertus hostis?</s>
+					<s n="36" xml:lang="la" type="auto">Omnes cesariani apud nos sunt Bucerani, partem reliquorum hinc sat nosti.</s>
+					<s n="37" xml:lang="la" type="auto">Habemus multas causas easdemque non periculosas; gaudemus tamen bellum hoc pacatum et deo propter id gratias agimus, quod cęsaris conatibus, quos instituerat, non ab omni parte successit.<pb type="scan" next="142r."/></s>
+					<s n="38" xml:lang="la" type="auto">Qui fit, <foreign xml:lang="de">das wir den tyrannischen Spanger,</foreign> qui depeculator est Germanicę substantię roborisque et virorum, sic exhorrescimus?</s>
+					<s n="39" xml:lang="la" type="auto">Itane virtus nostra emasculata est, quod ex successibus quibusdam eius deturbemur?</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="de" type="auto">Etc.</s>
+					<s n="41" xml:lang="la" type="auto">Verum hęc relinquantur.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Disquirite modum in Christi negotio stabiliendo apud nos.</s>
+					<s n="43" xml:lang="la" type="auto">Habetis autoritatem et frequentiam doctissimorum celeberrimam; efficite, ut et tales in nos exuberent vestra opera et industria.</s>
+					<s n="44" xml:lang="la" type="auto">Confido dominum incrementum suppeditaturum<note xml:id="fn18" type="footnote" n="18">Vgl. 1Kor 3, 6f.</note>, qui naviculę suę fluctuanti et iamiam submersionem reverenti adest.</s>
+					<s n="45" xml:lang="la" type="auto">Confido eius gratia et nos non destitui tuta.</s>
+					<s n="46" xml:lang="la" type="auto">Hęc raptim et vere atque ex animo scribo.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto">Effice, ne nomen meum prodatur, quia enim nusquam tuta fides<note xml:id="fn19" type="footnote" n="19">nusquam tuta fides: Vergil, Aeneis, 4. 373.</note>; vereor, ne apud vos fortassis delator existat, qui me traducat.</s>
+					<s n="48" xml:lang="la" type="auto">Nam cum alioqui maxima gravet invidia, scio omnia mihi in deterius exposituros etc.<pb type="edition" next="494"/></s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la" type="auto">Nolo etiam te clam esse, cuiusmodi syllogismo utantur ad eludendam disputationem, idque praetextu scripturę autoritate vindicanda.</s>
+					<s n="50" xml:lang="la" type="auto">Maior: Quicquid simplicissima et perfectissima sit veritas,<note xml:id="fn20" type="footnote" n="20">simplicissima ... veritas; Vgl. Adagia, 1, 3, 88 (<bibl>ASD</bibl> II/1, 394f, <ref target="file10319">Nr. 288</ref>).</note> id scripturis conferendum.</s>
+					<s n="51" xml:lang="la" type="auto">Minor: Quia tamen fidem ad mensuram habeamus neque ullus homo perfectissime divina cognoscat neque quisquam omnia dona habeat, diversis siquidem diversa esse contributa.</s>
+					<s n="52" xml:lang="la" type="auto">Motio seu complexio: Itaque nullius hominis vel dictum vel scriptum sic extollendum, ut scripturis sacris ęquari conveniat; omnia itaque humana et dicta et scripta huic<note xml:id="fn21" type="footnote" n="21">scripturae.</note> cedere debere atque succumbere et per consequens Disputationem<note xml:id="fn22" type="footnote" n="22">Die <placeName>Berner</placeName> Disputation von 1528.</note> quoque iniuria cuiquam praescribi tanquam simplicem et perfectam veritatem, cui obstricti esse debeant etc<note xml:id="fn23" type="footnote" n="23">Diese Argumentation entspricht tatsächlich der der <placeName>Berner</placeName> "Buceraner"; s. <bibl>Hundeshagen</bibl> 188f; <persName>Sulzers</persName> Brief an <persName>Calvin</persName> vom 7. November 1544 in <bibl>CO</bibl> XI 767.</note>.</s>
+				</p>
+				<p>
+					<s n="53" xml:lang="la" type="auto">Vale et me doctis omnibus commendato, senatoribus quoque, inprimis consuli Habio<note xml:id="fn24" type="footnote" n="24"><persName>Johannes Haab</persName>.</note> et <persName ref="p6155">Lavatero</persName> quęstori<note xml:id="fn25" type="footnote" n="25"><persName>Hans Rudolf Lavater</persName>.</note>.</s>
+					<s n="54" xml:lang="la" type="auto">Gratulor mihi Tigurum patriam; non verbis expedire queam, quam eam incolumem optem et quam eam desiderem.</s>
+				</p>
+				<p>
+					<s n="55" xml:lang="la" type="auto">Sepius apud me sortem meam deploro et apud deum conqueror, qui sat nimiumque acerbarum uvarum devoravi, unde dentes stupefiunt<note xml:id="fn26" type="footnote" n="26">Vgl. Jer 31, 29f; Ez 18, 2.</note>.</s>
+					<s n="56" xml:lang="la" type="auto">Genuinum<note xml:id="fn27" type="footnote" n="27">genuinum [dentem], den Backenzahn.</note> mihi cupiunt attritum et evulsum, ne remordeam<note xml:id="fn28" type="footnote" n="28">genuino mordere: Adagia, 2, 2, 59 (<bibl>ASD</bibl> II/3 173f, <ref target="file11202">Nr. 1159</ref>).</note> etc.</s>
+					<s n="57" xml:lang="la" type="auto">Ad has et proximas meas literas responde, obsecro, potissimum ad appendicem priorem literarum breviusculam<note xml:id="fn29" type="footnote" n="29">Bezug auf den Brief vom 19. Oktober 1544 (oben <ref target="file12064">Nr. 2017</ref>) und besonders auf dessen Schluß (Z. 26-29), der Bullingers Ratschlag für <persName>Rümlangs</persName> Zukunft erbittet.</note>; distrahor nam et medicina, quę mihi aliquantisper frequentata - eo studio in gymnasiis oblectatus -; non parum arridet.</s>
+					<s n="58" xml:lang="la" type="auto">At constans ętas a praxi deterret, quod experimentum iuxta Hipocratem<pb type="edition" next="495"/> periculosum sit<note xml:id="fn31" type="footnote" n="31">experimentum ... periculosum: Hippokrates, Aphorismen, 1, 1: <foreign xml:lang="el">ἡ δὲ πεῖρα σϕαλερή</foreign>.</note>.</s>
+					<s n="59" xml:lang="la" type="auto">Hec secreta<note xml:id="fn32" type="footnote" n="32">Die Wiederaufnahme des Medizinstudiums sowie (s. oben <ref target="file12064">Nr. 2017</ref>, 26f) die Möglichkeit, als Prediger tätig zu werden.</note> nolim evulgari; tu tamen consule mihi, cuius sententia ex tripode<note xml:id="fn33" type="footnote" n="33"><bibl>Adagia</bibl>, 1, 7, 90 (<bibl>ASD</bibl> II/2, 218-220, <ref target="file10728">Nr. 690</ref>).</note> prolata, imo ex oraculo dei profecta habebitur.</s>
+					<s n="60" xml:lang="la" type="auto">Vale cum universa familia.</s>
+				</p>
+				<p>
+					<s n="61" xml:lang="la" type="auto">Datum <placeName>Bernę</placeName>, 28. octobris anno 1544.</s>
+					<s n="62" xml:lang="la" type="auto">Tuus <persName>Eberardus a Rumlang</persName>.</s>
+				</p>
+				<p>
+					<s n="63" xml:lang="la" type="auto">Oro, omnia boni consule; ardeo studio veritatis.<pb type="scan" next="142v."/></s>
+					<s n="64" xml:lang="la" type="auto">Oro, nominatim <persName>Pellicanum</persName> salutare velis, qui fertur <persName>Myconium</persName> nuper <placeName>Basileę</placeName> privato colloquio turbasse; <persName>Gvaltherum</persName> quoque, qui et eundem scriptis exagitasse fertur<note xml:id="fn35" type="footnote" n="35">Näheres wurde nicht ermittelt.</note>; <persName>Erasmum</persName><note xml:id="fn36" type="footnote" n="36"><persName>Erasmus Schmid</persName>.</note> quoque; <persName>Theodorum</persName><note xml:id="fn37" type="footnote" n="37"><persName>Theodor Bibliander</persName>.</note>, quem admone, ne nimium <persName>Beato</persName>, compatri suo<note xml:id="fn38" type="footnote" n="38"><persName>Beat Gering</persName>. - Zur Patenbeziehung ist nichts weiteres bekannt; s. jedoch <bibl>HBBW XI</bibl> 242 mit Anm. 5.</note>, credat - puto, quod se apud eum purget; tamen fraudes sunt et fallacię; si fecit quas<note xml:id="fn39" type="footnote" n="39">Vgl. oben Z. 31-33.</note>, proh deum, nimium sentimus et palam periclitamur; res non est occulta -; <persName>Gasparum</persName> quoque <persName>Megandrum</persName>, integrum virum; <persName>Gesnerum</persName> item, quem admiror - hunc velim solidis scriptis se impendere ac non rhapsodicis<note xml:id="fn40" type="footnote" n="40">Vermutlich eine Anspielung auf <persName>Gessners</persName> <persName>Martial</persName>-Ausgabe; s. oben <ref target="file11906">Nr. 1860</ref>.</note> -; Frisium quoque et <persName ref="p4196">Binderum</persName> et in summa omnes, etc.</s>
+					<s n="65" xml:lang="la" type="auto">Vale rursum optime.</s>
+				</p>
+				<p>
+					<s n="66" xml:lang="la" type="auto">Totus tuus <persName>Eb. a Rumlang</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="67" xml:lang="la" type="auto">Clarissimo integerrimo, fidelissimoque d. d. Heinrycho Bullingero, ecclesiastę primario Tiguri, viro amicissimo et in domino semper suspiciendo reverendoque, patrono suo insigni.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

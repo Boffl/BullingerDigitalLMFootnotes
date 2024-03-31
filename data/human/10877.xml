@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10877" type="Brief" source="HBBW" n="838">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 8. Juni 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Vel ex amicissimo factus es inimicus, quod tamen minus metuo confisus humanitati tuae, vel valetudinarius scribere non potes.</s>
+					<s n="3" xml:lang="la" type="auto">Qui enim fieret alias, ut tempore tanto nihil scriberes<note xml:id="fn1" type="footnote" n="1">Bullinger erhielt <persName>Myconius</persName>' Brief vom 2. Juni (oben <ref target="file10874">Nr. 835</ref>) erst kurz nach Abfassung dieses Schreibens; vgl. unten <ref target="file10880">Nr. 841</ref>, 2f.</note>?</s>
+					<s n="4" xml:lang="la" type="auto">Verum impediunt tabellarii, impedit occasio,<pb type="edition" next="317"/> otium et negotium.</s>
+					<s n="5" xml:lang="la" type="auto">Ego quidem, quod scribam, in praesenti non habeo, nisi quod merore gravi misere discrutior ob auri istam famem sacram<note xml:id="fn2" type="footnote" n="2">Zur Redensart s. <bibl>Otto</bibl> 49f, Nr. 221.</note>, qua Helveticum video laborare populum.</s>
+					<s n="6" xml:lang="la" type="auto">Venalis est nobis libertas, patria, religio, et quid non?</s>
+					<s n="7" xml:lang="la" type="auto">Tigurini summa cavent diligentia et sumptibus immodicis quoque, ne ex urbe vel agro vel Galli vel caesaris partes sequantur nostri.</s>
+					<s n="8" xml:lang="la" type="auto">Equidem pauci adhuc violata fide publica militiae sese dediderunt.</s>
+					<s n="9" xml:lang="la" type="auto">Quid futurum sit, nescio.</s>
+					<s n="10" xml:lang="la" type="auto">Optima quaeque ominor.</s>
+					<s n="11" xml:lang="la" type="auto">De <placeName>Bernatibus</placeName> quid sperare debeam, nescio.</s>
+					<s n="12" xml:lang="la" type="auto">Hoc scio, quod caesarem habituri sint inimicissimum, habituri placabiliorem, si se Galli partibus non iunxissent<note xml:id="fn4" type="footnote" n="4">Bullinger mißbilligte die Haltung <placeName>Berns</placeName>, das den Durchmarsch französischer Truppen unter bestimmten Vorbehalten erlaubt hatte; vgl. oben <ref target="file10870">Nr. 831</ref>, 5-29.</note>.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Quid vero de conventu habes Isenacensi?</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Valebis nunc, amicorum syncerissime.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Tiguri, 8. iunii 1536.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Dominum <persName>Simonem Grynaeum</persName>, virum praestantissimum et mihi longe amantissimum, salvere iubebis.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Domino <persName>Osvaldo Myco[nio]</persName><placeName>Basileiensis</placeName> ecclesiae, a[ntisti]ti vigilantissimo, suo [in] domino charissimo fra[tri].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

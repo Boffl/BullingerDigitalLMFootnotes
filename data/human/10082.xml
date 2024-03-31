@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10082" type="Brief" source="HBBW" n="53a">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Zürich] AN Oswald Myconius (Geißhüsler), [zwischen Januar 1532 und Oktober 1552]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Has literas, oro, mi Myconi, quam primum licet et certo Ar[gent]oratum perferri cures.</s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

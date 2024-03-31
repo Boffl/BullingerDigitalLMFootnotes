@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10759" type="Brief" source="HBBW" n="721">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 11. Januar 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quod veluti conquereris nihil ad tuas me rescripsisse<note xml:id="fn1" type="footnote" n="1">Ein Brief, in dem Bullinger das Ausbleiben einer Antwort beklagt, ist nicht erhalten; sein angeblich unbeantwortetes Schreiben datiert vom 19. Dezember 1535 (<bibl>HBBW</bibl> V, <ref target="file10741">Nr. 703</ref>).</note>, non intelligo.</s>
+					<s n="3" xml:lang="la" type="auto">Nam per Quirinum misi diebus superioribus epistolam<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10751">Nr. 713</ref>.</note> ut prolixam sic ineptam, quam, quia sic scribis, dubito redditam esse.</s>
+					<s n="4" xml:lang="la" type="auto">Miraris item nullorum articulorum mentionem factam.</s>
+					<s n="5" xml:lang="la" type="auto">Equidem a te, uti et a <persName>Theodoro</persName><note xml:id="fn4" type="footnote" n="4"><persName>Theodor Bibliander</persName>.</note>, in pręsens requiro, de quibus in primis disserendum existimetis.</s>
+					<s n="6" xml:lang="la" type="auto">Non enim sola eucharistia offendit, sed confessio, absolutio, simulachra, peccatum originale, divorum<pb type="edition" next="64"/> intercessio et nescio quę alia.</s>
+					<s n="7" xml:lang="la" type="auto">Nam quod adtinet ad <placeName>Argentinenses</placeName>, scripsimus ante (nam ita videtur) de doctrina et oeconomia ecclesiastica ipsos conventionem quaesituros, tum in aliis, quid papistis concedi, quid non, quid item queat dissimulari etc<note xml:id="fn5" type="footnote" n="5">Vgl. oben <ref target="file10751">Nr. 713</ref>, 14-17.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Tentabunt de vi ministerii aliquid, si venerint, quod prorsus nescio; quid id autem sit, nosse non valeo.</s>
+					<s n="9" xml:lang="la" type="auto">Tu fac, quod peto, de articulis praestes, tanquam pollicitus sis.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Scribit <persName>Erasmus</persName> Scafhusianus<note xml:id="fn6" type="footnote" n="6">Der Brief von <persName>Erasmus Ritter</persName> an <persName>Myconius</persName> ist verloren, vgl. aber sein Schreiben an Bullinger vom 15. Januar (unten <ref target="file10764">Nr. 726</ref>).</note> incertum, an sui venturi sint, nisi vocentur serio, atque id propter papistas et catabaptistas, qui sciant, quam conventus hic sibi non cessurus sit in bonum.</s>
+					<s n="11" xml:lang="la" type="auto">Urgendi sunt igitur.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ex Svevia nunciat praeterea Gallus quidam<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note>, quam proterviter quidam illic pro concionibus iactent sacramentarios descivisse a sua sententia circa eucharistiam; <placeName>Norimbergae</placeName> item se contulisse cum <persName>Osiandro</persName> et <persName>Venatorio</persName> de hoc sacramento, sed nihil audisse de concordia seu de pristinę sententię ipsorum vel tantilla mitigatione, <persName ref="p6490">Melanchthonem</persName> vero pessime audire, quod videatur et demissior factus<pb type="scan" next="||108v."/> et nescio quid Zvinglianum tenere in pectore.</s>
+					<s n="13" xml:lang="la" type="auto">Mihi videtur Svevos non cessuros, etiamsi nobis cum <persName ref="p18889">Luthero</persName> conveniat, quamvis nihildum compareat, ex quo spes sit vel cum hoc facile concordiam futuram.</s>
+					<s n="14" xml:lang="la" type="auto">Scis enim, quę scribit <persName>Bonifacius</persName> ille <placeName>Augustanus</placeName><note xml:id="fn9" type="footnote" n="9">Einen (nicht erhaltenen) Brief von <persName>Bonifacius Wolfhart</persName> an <persName>Bibliander</persName> hatte letzterer am 7. Januar 1536 an <persName>Myconius</persName> übersandt, s. Zürich StA, E II 340, 79b.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Deus misereatur nostri, ut hactenus fecit, et nobis nihil deerit.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Misi epistolarium, ut petisti<note xml:id="fn10" type="footnote" n="10">Wovon die Rede ist, bleibt unklar.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Vale cum tuis et <persName>Utingero</persName>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto"><placeName>Basileę</placeName>, anno 1536, 11. ianuarii.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Os. Myc. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="20" xml:lang="la" type="auto">Domino Heinricho Bullingero, ministro Christi, in domino charissimo suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

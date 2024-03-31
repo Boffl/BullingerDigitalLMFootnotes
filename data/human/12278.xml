@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12278" type="Brief" source="HBBW" n="2231">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Gerhard thom Camph / Groningen AN Heinrich Bullinger, 31. August 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Quod ad te scribo, vir praestantissime, tua humanitas et meus in te amor facit.</s>
+					<s n="2" xml:lang="la" type="auto">Quod vero nulla diligentia scribo, animi dolor praemaximus, item iter, quod conficere cogor, non permittit.</s>
+					<s n="3" xml:lang="la" type="auto">Excessit enim e vivis summus meus amicus, vere nobilis adolescens, qui patriae iam praesidio esset futurus ac ecclesiae, <persName>Enno</persName> Phrysius, qui vobis adfuerat cum d. Mensingero, lectore <placeName>Friburgensi</placeName><note xml:id="fn2" type="footnote" n="2"><persName>Joachim Mynsinger (Münsinger)</persName> von Frundeck. - <persName>Cirksena</persName> und Mynsinger waren Mitte August 1544 zu Besuch in Zü rich gewesen; s. <bibl>HBBW</bibl> XIV 445, Anm. il.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Mortuus vero est<note xml:id="fn3" type="footnote" n="3">Am 18. Juli 1545; s. <bibl>HBBW</bibl> XIV <ref target="file12053">[Nr. 2006]</ref> 445, Anm. 8.</note> <placeName>Lutetiae</placeName>, posteaquam ibidem mensem modo fuisset, magno cum luctu bonorum omnium apud nos et praesertim matris<note xml:id="fn4" type="footnote" n="4">Gebbeke, Tochter des Münzmeisters <persName>Hinrik (Hinrich) Verdeyne</persName> und dessen Frau Teelke [...]; s. <hi>Friedländer,</hi> aaO, S. 292f.</note> ac aviae<note xml:id="fn5" type="footnote" n="5">Teelke [...]; s. Anm. 4. - Die Mutter des bereits verstorbenen Vaters <persName>Rudolf Cirksena</persName> kommt hier wohl wegen dessen unehelicher Abstammung nicht in Frage.</note>, quae hunc unicum solum filium habebant.</s>
+					<s n="5" xml:lang="la" type="auto">Proficiscor igitur <placeName>Lutetiam</placeName>, ut certa referam et, quae reliquit.</s>
+					<s n="6" xml:lang="la" type="auto">Non enim hoc amico summo olim nec parentibus ipsius negare potui.</s>
+					<s n="7" xml:lang="la" type="auto">Haec igitur, vir humanissime, boni consulas, quaeso.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">De itinere, de statu patrię nihil admodum habeo, quod scribere possim, quod hic <persName ref="p6984">Samuel</persName><note xml:id="fn6" type="footnote" n="6"><persName>Samuel Pellikan</persName>.</note>, amicus meus, non exacte exponere possit.</s>
+					<s n="9" xml:lang="la" type="auto">Hoc solum admoneo, me gaudere nostram qualemcumque ecclesiam vestrae in doctrina per omnia consentientem esse; in qua re non parum operae posuit ac ponit<pb type="edition" next="498"/> dominus <persName>a Lasko</persName><note xml:id="fn7" type="footnote" n="7"><persName>Johannes a Lasco</persName>.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Ut autem tibi huius rei indicium aliquod dem: Misit ad nos, vel nostris ecclesiis dicavit, <persName>Ioannes Calvinus</persName> suum catechismum brevem.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Nostri autem cum grato animo susceperint.</s>
+					<s n="12" xml:lang="la" type="auto">Respondere ac gratias illi agere volunt ac hoc interim admonere, priorem ipsius sententiam sibi magis placuisse de sacramento quam hanc rogareque, ut sic scribat, quo a rudioribus intelligi possit.</s>
+					<s n="13" xml:lang="la" type="auto">Hoc <persName>a Lasko</persName> et ministri quoque in pago cupiunt.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p18198">Buceri</persName> varietas ac ingenium callidum nostris est suspectum; et, cum putaret se dominum <persName>a Lasko</persName> in suam quoque sententiam pertrahere posse, effecit, ut habeat, qui maxime sibi contradicat.</s>
+					<s n="15" xml:lang="la" type="auto">Et qui assentiretur noster, cum illum<note xml:id="fn10" type="footnote" n="10"><persName>Bucer</persName>.</note> non intelligat, imo putat alium se ipsum non intelligere?</s>
+					<s n="16" xml:lang="la" type="auto">Et cum aliorum studium intelligat, hic, quantum potest, occurrere cupit, effecitque, ut episcopus Coloniensis<note xml:id="fn11" type="footnote" n="11"><persName>Hermann von Wied</persName>.</note> prorsus sit vestrae sententiae, ac Palatinus<note xml:id="fn12" type="footnote" n="12"><persName>Kurfürst Friedrich II. von der Pfalz</persName>.</note> quoque melius de vobis sentiat quam de aliis.</s>
+					<s n="17" xml:lang="la" type="auto">Hii promiserunt se effecturos, ut vos quoque colloquio adhiberemini.</s>
+					<s n="18" xml:lang="la" type="auto">Quodsi vocaretis, placet omnibus; et rogamus, ne reluctetis ac veritati desitis<note xml:id="fn13" type="footnote" n="13">Vgl. oben <ref target="file12270">Nr. 2223</ref>, 55-58.</note>!</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Lantgravius<note xml:id="fn14" type="footnote" n="14"><persName>Philipp von Hessen</persName>.</note> (cui etiam noster <persName>a Lasko</persName> adfuit) plane bucerisat et in confessione vestra reprehendit, quod etiam nimis acerbe in <persName ref="p18889">Lutherum</persName> scripseritis<note xml:id="fn15" type="footnote" n="15">Im "Warhafften Bekanntnuß" (s. dazu oben <ref target="file12108">Nr. 2061</ref>, Anm. 9).</note>.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Et ut interim iudicia nostrorum hominum de vestro libro perscribam: Placet sane illis quam maxime; sed hoc vellent, ut veritatem simplicissimis<pb type="edition" next="499"/> verbis, hoc est magna modestia christiana, defenderetis.</s>
+					<s n="21" xml:lang="la" type="auto">In qua<note xml:id="fn16" type="footnote" n="16">Gemeint ist: modestia.</note> cum aliquoties lapsi estis in prima parte libri,<note xml:id="fn17" type="footnote" n="17">Zu diesen Stellen s. oben <ref target="file12178">Nr. 2131</ref> und Anm. 11.</note> factum est, ut illa non ita arridere possit ut reliqui libri<note xml:id="fn18" type="footnote" n="18">Vgl. auch oben <ref target="file12270">Nr. 2223</ref>, 30-48.</note>.</s>
+					<s n="22" xml:lang="la" type="auto">Timent enim non <persName ref="p18889">Luthero</persName>, sed evangelio, quod propterea in dubium vocaretur.</s>
+					<s n="23" xml:lang="la" type="auto">Cum tamen primo dominus hoc per illum restituerit, et in hoc se ministrum fidelem praebuerit <persName ref="p18889">Lutherus</persName>, agnoscenda igitur putant dona dei in illo et laudanda, vitia et lapsum in hac re indicanda<note xml:id="fn19" type="footnote" n="19">Vgl. <ref target="file12270">Nr. 2223</ref>, 41-43.</note> potius quam malis verbis exaggeranda.</s>
+					<s n="24" xml:lang="la" type="auto">Hoc (quoniam unice vos amem)<note xml:id="fn20" type="footnote" n="20">Vgl. <ref target="file12270">Nr. 2223</ref>, 50-52.</note> tacere apud te non potui, ut, si <persName ref="p18889">Lutherus</persName> rescripserit,<note xml:id="fn21" type="footnote" n="21">Vgl. aber <ref target="file12275">Nr. 2228</ref>, 3-5.</note> in replica vestra (ut ita dicam) modestiam summam cum maxima veritatis defentione adhibeatis infirmorumque ingeniis in hac re consulatis.</s>
+					<s n="25" xml:lang="la" type="auto">In hac enim controversia, quae quidem mea sententia non caput religionis est, hoc cavendum est, ne, cum invicem vos momorderitis, invicem quoque consumamini.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Haec vos docere non cupio, sed amori meo erga vos satisfacere, qui pro amicis sollicitus est.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">De me nihil habeo, quod scribam, sed vestro me consilio ac oratione opus habere.</s>
+					<s n="28" xml:lang="la" type="auto">Vocor enim a d. <persName>a Lasko</persName> et comitissa<note xml:id="fn22" type="footnote" n="22">Anna von Oldenburg, <persName>Gräfin von Ostfriesland</persName>, Witwe von <persName>Enno II. Cirksena</persName>, eines Sohnes von <persName>Edzard I. Cirksena</persName>, der wiederum ein Bruder von Enno I. (s. oben Anm. 1) war.</note> ad tale munus, cui me parem et dignum esse nulla ex parte iudico.</s>
+					<s n="29" xml:lang="la" type="auto">Vellent enim me in aula nostra perpetuum principi<note xml:id="fn23" type="footnote" n="23">Offen bleibt, ob damit Gräfin Anna oder ihr erstgeborener Sohn <persName>Edzard II. Cirksena</persName> (geb. 1532) gemeint ist.</note> in<pb type="scan" next="303"/> religionis negocio doctorem ac admonitorem esse.</s>
+					<s n="30" xml:lang="la" type="auto">Hoc munus propter infirmitatem meam, quam in me maximam ab omni parte esse fateor, suscipere non audeo.</s>
+					<s n="31" xml:lang="la" type="auto">Rursum, cum se alium magis aptum habere non posse obiiciant, prorsus negare non possum, praesertim cum dicant se mea tenuitate contentos fore; modo hoc praestem, quod possim.</s>
+					<s n="32" xml:lang="la" type="auto">Inops igitur consilii haereo.</s>
+					<s n="33" xml:lang="la" type="auto">Tu ergo mihi quam primum tuo consilio adsis et orationibus indesinentibus, quo dominus hoc, quod ex mera bonitate in me incoepit, ex amplitudine bonitatis suae perficere velit<note xml:id="fn24" type="footnote" n="24">Phil 1, 6.</note> ad laudem gloriae gratiae suae,<note xml:id="fn25" type="footnote" n="25">Eph 1,6.</note> ecclesiaeque aedificationem<note xml:id="fn26" type="footnote" n="26">1Kor 14, 12.</note> meamque salu[tem].</s>
+					<s n="34" xml:lang="la" type="auto">Ego vicissim vobis in orationibus meis per Iesum Christum non deero.</s>
+					<s n="35" xml:lang="la" type="auto">Alias plura.<pb type="edition" next="500"/></s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Iam commendo vos omnes deo optimo maximo et sermoni gratiae suae<note xml:id="fn27" type="footnote" n="27">Apg 20, 32.</note>, qui in vobis habitet opulente cum omni sapientia<note xml:id="fn28" type="footnote" n="28">Vgl. Kol 3, 16.</note> ac virtute.</s>
+					<s n="37" xml:lang="la" type="manual">Amen.</s>
+					<s n="38" xml:lang="la" type="auto">Salutes, quaeso, nomine meo praeceptore[m] meum <persName>Bibliandrum</persName>, Gvalterum et alios, et me excuses illis, quominus scripserim; sed haec communicare illis poteris, modo caveas, ne quisquam alius me haec<note xml:id="fn29" type="footnote" n="29">Nämlich die oben über das "Warhaffte Bekanntnuß" geäußerte Kritik.</note> scripsisse agnoscat.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Quod enim haec retuli, ecclesiae causa feci et vestro nomine.</s>
+					<s n="40" xml:lang="la" type="auto">Valebis in Chr[isto] domino ac fortis sis diligensque minister Christi, ut soles.</s>
+					<s n="41" xml:lang="la" type="auto">Uxorem tuam<note xml:id="fn30" type="footnote" n="30"><persName>Anna. geb. Adlischwyler</persName>.</note> meo n[omi]ne salutes diligentissime.</s>
+					<s n="42" xml:lang="la" type="auto">Iterum vale et hanc extemporalem scriptionem boni consu[las].</s>
+					<s n="43" xml:lang="la" type="auto">Haec enim, cum discederem mox, scripsi.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="la" type="auto">Gronninge, 31. augusti anno 1545.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto"><persName>Gerardus zum Camph</persName> <placeName>Embdens[is]</placeName>, totus tuus, quantus est.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="46" xml:lang="la" type="auto">Pio ac docto viro d. Hinderico Bullingero, ecclesiae Tigurinae episcopo vigilantissimo, amico suo summo et fratri in Christo dilectissimo.</s>
+					<s n="47" xml:lang="la" type="auto">S. in Christo domino.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

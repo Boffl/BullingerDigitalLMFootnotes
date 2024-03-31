@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11111" type="Brief" source="HBBW" n="1068">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Thomas Blarer (Blaurer) d.J. / [Konstanz] AN Heinrich Bullinger, 16. November 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Parochus Weningensis<note xml:id="fn1" type="footnote" n="1"><persName>Johannes Winzürn</persName>, Pfarrer in <placeName>Niederweningen</placeName> (Kt. Zürich).</note> litteras senatu vestro ad nostrum datas a mihi obtulit.</s>
+					<s n="3" xml:lang="la" type="auto">In eo negocio quid noster constituat, accipies hoc biduo<note xml:id="fn3" type="footnote" n="3">Eine Antwort an Bullinger ist nicht erhalten.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Tantum<pb type="edition" next="303"/> scire te volui, quod essent redditę; sunt autem redditę, cum primum ille ad nos venisset.</s>
+					<s n="5" xml:lang="la" type="auto">Interim iter alio fecit; reversus, num aliquid rescriberetur, admonuit; id enim ab illo petieram.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Tu si quid in ea causa - est enim propter exemplum gravior, quam quis existimet - in ea tu si quid pręstare cum decoro poteris, ut facias, quęso, memor supplicationis meę, quam apud te et Habium<note xml:id="fn4" type="footnote" n="4"><persName>Johannes Haab</persName>, der spätere Bürgermeister.</note> nuper Tiguri effudi<note xml:id="fn5" type="footnote" n="5"><persName>Thomas Blarer</persName> hatte <placeName>Konstanz</placeName> in dieser Sache bereits am 18. Juli 1537 auf einem Rechtstag in Zürich vertreten; er war damals beauftragt, sich vor der Verhandlung mit vertrauten Ratsherren zu besprechen (vgl. <hi>Fabian,</hi> aaO, S. 130f).</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Tiguricenses enim si nostrę reipublicae hunc censum numerari vellent<note xml:id="fn6" type="footnote" n="6">Escher hatte die geschuldeten Grundzinsen von jährlich 12 Gulden seit 1534 bei der Stadt Zürich hinterlegt (vgl. <hi>Fabian,</hi> aaO, S. 124).</note>, poterant id efficere longe minore negocio minusque adeo gravare adversarium senatus decreto quam litis sententia.</s>
+					<s n="8" xml:lang="la" type="auto">Ea enim canonicis imposita erit difficilior atque etiam inimicior; nam Tiguricensi senatui in animo esse, ut nos gravent et iudicio condemnent, neque res fert nec nostra expectatio.</s>
+					<s n="9" xml:lang="la" type="auto">Illud igitur nos terret iudiciis et controversiis hęc agi sine omni caussa, quae hactenus renatis sęculis non sic processerunt nec fieri a Tiguricensibus poterant, pręsertim si res agerentur cum amicis.</s>
+					<s n="10" xml:lang="la" type="auto">De amicicia autem nostra nemo, opinor, dubitat.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Bene vale, mi observande Bullingere, et me ama.</s>
+					<s n="12" xml:lang="la" type="auto">Nihil ut hic agas, volo, quam quod decere tibi et in rem esse putaveris.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">16. novembris 1537.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Saluta meis verbis <persName ref="p2305">Leonem</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note> fratresque omnes.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><persName>Thomas Blaurerus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 39v.:]</note>
+					<s n="16" xml:lang="la" type="auto">Domino Henricho Bullingero, evangelicę veritatis preconi apud Tigurum, domino et amico suo singulari.</s>
+					<s n="17" xml:lang="de" type="auto">Zurch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

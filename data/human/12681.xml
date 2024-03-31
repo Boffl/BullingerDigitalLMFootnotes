@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12681" type="Brief" source="TUSTEP" n="2634">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 19. Oktober 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Dedit mihi pater Myconius literas tuas gratissimas quidem illas, ex quibus facile perspicio integritatem ac virtutem animi tui mihi quidem non ignotam, sed tamen gratam atque optatam.</s>
+					<s n="3" xml:lang="la" type="auto">Caeterum, quantum ipsae tuae literae consolationis attulerunt, id universum, quae Myconius de bello nunciavit plena doloris et tristitiae, ex animo meo prorsus eripuerunt.</s>
+					<s n="4" xml:lang="la" type="auto">Video nos redactos in extremas angustias, ut, nisi divinitus miseriam nostram respiciat aeternus pater oculis misericordiae suae, funditus periimus omnes.</s>
+					<s n="5" xml:lang="la" type="auto">Dubium mihi non est instare iam diem visitationis nostrae, in quo sentiemus castigationem domini, quam ipsi multis modis contra nos provocavimus, cuius rei culpam ad genua caelestis patris nostri prostrati et agnoscimus et confitemur, simul etiam ut poenam vel avertat vel mitiget, deprecamur.</s>
+					<s n="6" xml:lang="la" type="auto">Sed profecto nondum mihi persuadere possum deum velle suam ecclesiam, quam ipse suo sanguine redemit, in qua multi sunt, qui legitime deum invocant et gloriam divini nominis cupiunt illustratam, tradere dilaniandam manibus istorum blasphemorum, qui manifeste deum afficiunt contumelia et nullum est scelus tam horrendum, quod ipsi patrare vereantur.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">Certe haec inusitata scelera, qualia ne a Turcis quidem erant expectanda, non diu manebunt impunita, neque tanta istius tyranni, inimici Christi, crudelitas diu videtur duratura.</s>
+					<s n="8" xml:lang="la" type="auto">Nunc vere reges tumultuantur et nepharia coniuratione unanimiter conspiraverunt adversum dominum et adversus Christum eius.</s>
+					<s n="9" xml:lang="la" type="auto">Sed, qui caelos inhabitat, non dormit, quin etiam videt atque irridet istos tragicos furores et paulo post loquetur ad eos in ira sua et tanquam figulinum vas confringet istorum sceleratorum capita.</s>
+					<s n="10" xml:lang="la" type="auto">Istius modi promis[s]ionibus divinis me sustento alioqui mirabiliter viribus fractus, quanquam, dum video quasi continenti clade nostros non modo hostilia, sed certe immania pati, non possum non ex animo ingemiscere.</s>
+					<s n="11" xml:lang="la" type="auto">Est autem verum, quod <persName>Iulius</persName> scripsit: "Errat, qui in bello omnes secundos eventus expectat".</s>
+					<s n="12" xml:lang="la" type="auto">Reliqua est una eaque frequens et ardens precatio ad deum aeternum patrem liberatoris nostri Iesu Christi, qui gemitus et clamores nostros non aspernabitur.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Te autem oro, ut aliquo laeto nuncio me profecto valde labefactatum consoleris.</s>
+					<s n="14" xml:lang="la" type="auto">De tractatione locorum expecto responsum tuum, ut promittis, oportune, quod arbitror fore ex sententia nostra.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Amicos omnes meis verbis salutabis, patrem <persName>Pellicanum</persName>, <persName>Theodorum</persName><note xml:id="fn2" type="footnote" n="2"><persName>Theodor Bibliander</persName>.</note>, Frisium et reliquos, ad quos non vacat nunc scribere.</s>
+					<s n="16" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 19. octobris 1546.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Clarissimo viro domino Henrico Bullingero, episcopo fidelissimo ecclesiae Tigurinae.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

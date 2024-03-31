@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12848" type="Brief" source="HBBW" n="2799">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Stancarus / Basel AN Heinrich Bullinger, 7. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Redditae mihi fuerunt literae tuae<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>, venerande antistes, quibus lectis totus summo perfusus sum gaudio, quod enim de prospicienda mihi conditione apud <placeName>Bernates</placeName> te curaturum scribis.</s>
+					<s n="2" xml:lang="la" type="auto">Quid gratius, quid antiquius mihi contingere posset?</s>
+					<s n="3" xml:lang="la" type="auto">Perge itaque, te rogo, in instituto, et, quod tibi suggerit dominus, effice.</s>
+					<s n="4" xml:lang="la" type="auto">Et, si quid confeceris, deo inprimis, deinde tibi summas agam gratias.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Quod vero <placeName>Bernates</placeName> subtilitates ac nodos tam in doctrina quam in planissimo caenae domini negocio ecclesiis suis tradi nolunt, hoc etiam atque etiam laudo, neque ego talia doceo nec unquam docebo.</s>
+					<s n="6" xml:lang="la" type="auto">Placet enim mihi puram ac simplicem doctrinam Christi eiusque verum sacramentorum intellectum sine tricis ecclesiis tradere.</s>
+					<s n="7" xml:lang="la" type="auto">Quod praeterea Luteranismum ac papismum odiunt, hoc mihi a multis iam annis cum illis commune est.</s>
+					<s n="8" xml:lang="la" type="auto">Testes enim (ut alios taceam) sunt <persName>Laetus</persName><note xml:id="fn4" type="footnote" n="4"><persName>Georg Frölich</persName>.</note>, <persName>Hallerus</persName>, <persName ref="p6127">Michael Caelarius</persName>.<note xml:id="fn5" type="footnote" n="5"><persName>Michael Keller</persName>.</note></s>
+					<s n="9" xml:lang="la" type="auto">Testantur scripta mea.<note xml:id="fn6" type="footnote" n="6">Siehe dazu <ref target="file12852">Nr. 2803</ref>, Anm. 10.</note></s>
+					<s n="10" xml:lang="la" type="auto">Testis est tota <placeName>Viennensis</placeName> academia me nihil <foreign xml:lang="el">κοινωνίας</foreign><note xml:id="fn7" type="footnote" n="7">Gemeinschaft.</note> commerciive<pb type="edition" next="271"/> habere cum huiusmodi sectis.</s>
+					<s n="11" xml:lang="la" type="auto">Amo itaque verbi domini simplicitatem illam, quam sacrae literae nobis proponunt.<note xml:id="fn8" type="footnote" n="8">Vgl. 1Tim 6, 4f; 2Tim 2, 14. 16; Tit 3, 9.</note></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Quod tandem in aliis etiam rebus omnem tuam operam, si ea indiguero, mihi polliceris, primum, quod verum ac christianum episcopum decet, facis, deinde me tibi maximo beneficio devinctum semper habebis.</s>
+					<s n="13" xml:lang="la" type="auto">Quamobrem expectabo, ut, quam citius fieri poterit, de toto negocio me certiorem facias.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Vale.</s>
+					<s n="15" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 7. februarii 1547.</s>
+					<s n="16" xml:lang="la" type="auto">Tuus in domino <persName>Franciscus Stancarus</persName>.<pb type="edition" next="272"/></s>
+				</p>
+				<p>
+					<note>[Adresse auf der Rückseite:]</note>
+					<s n="17" xml:lang="la" type="auto">Clarissimo viro d. Henrico Bullingero, antistiti Tigurinae ecclesiae doctissimo et vigilantissimo, suo observando.</s>
+					<s n="18" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

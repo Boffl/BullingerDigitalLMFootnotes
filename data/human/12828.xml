@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12828" type="Brief" source="HBBW" n="2779">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jodocus Kilchmeyer / Bern AN Heinrich Bullinger, 29. Januar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. 29. die ianuarii redditę sunt mihi, doctissime vir et in domino frater dilectissime, literę tuę<note xml:id="fn1" type="footnote" n="1">erhalten.</note> plurimum me exhilarantes, pręsertim vero, quod docebant adversum antichristi<note xml:id="fn2" type="footnote" n="2">Gemeint sind <persName>Papst Paul III.</persName> und dessen Mitstreiter <persName>Kaiser Karl V.</persName></note> regnum tam in urbe quam in agro <placeName>Tigurino</placeName> omnes paratos esse, non apparatu modo bellico, sed eciam animorum ala-<pb type="edition" next="218"/>critate instructissimos, in quo uno<note xml:id="fn3" type="footnote" n="3">Gemeint ist Gott.</note> sane existimo fiduciam vincendi pendere.<note xml:id="fn4" type="footnote" n="4">Vgl. Dtn 28, 7; 1Sam 17, 47.</note></s>
+					<s n="2" xml:lang="la" type="auto">Dominus, cuius est vincere et in fugam convertere hostes,<note xml:id="fn5" type="footnote" n="5">2Chr 25, 8.</note> erigat, roboret inque suam gloriam atque ecclesię suae salutem victores faciat conservetque!</s>
+					<s n="3" xml:lang="la" type="manual">Amen.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto">Sentencia nostra in confutationem controversiae quorundam tenebrionum<note xml:id="fn6" type="footnote" n="6">Die Zofinger Pfarrer <persName>Johannes Ulrich Göppel</persName> und <persName>Benedikt Schürmeister</persName>; s. <ref target="file12796">Nr. 2747</ref> vom 11. Januar und Nr. 2756 vom 17. Januar 1547.</note> - nosti, quos intelligam - inter nos<note xml:id="fn7" type="footnote" n="7">unter den <placeName>Berner</placeName> Geistlichen.</note> quidem lata est, sed nondum magnifico senatui nostro aperta et proposita, idque propter quandam infirmitatem (reliquias veterum mearum febrium esse arbitror), quę insperato me 24. ianuarii obruit adeo, ut unam concionem ommittere fuerim coactus.</s>
+					<s n="5" xml:lang="la" type="auto">Hoc audiens <persName>Sulzerus</persName> meus (en hominis fidem!)<note xml:id="fn8" type="footnote" n="8">Ironische Bemerkung.</note> festinans accurrit tristis, maerens operamque suam in omnem eventum pollicens.</s>
+					<s n="6" xml:lang="la" type="auto">Gratias ei debeo plurimas, si non ut vultur prędam quaerens advolasset.</s>
+					<s n="7" xml:lang="la" type="auto">Battus<note xml:id="fn9" type="footnote" n="9"><persName>Beat Gering</persName>.</note> noster, apertior hostis, ne quidem videre me dignatus est.</s>
+					<s n="8" xml:lang="la" type="auto">Sed quid universorum dominus?<note xml:id="fn10" type="footnote" n="10">Sir 50, 24.</note></s>
+					<s n="9" xml:lang="la" type="auto">Cum inhiarent prędę, delusi sunt.<note xml:id="fn11" type="footnote" n="11">Ps 124 (Vulg. 123), 6f.</note></s>
+					<s n="10" xml:lang="la" type="auto">Divina enim clemencia derepente me erigens usque adeo fecit fortem, cordatum et in veteri pelle prorsus novum, ut primo die ianuarii non modo me in cętu publico videre, sed concionantem eciam audire compulsi sint!</s>
+					<s n="11" xml:lang="la" type="auto">Credo investigabili dei providencia<note xml:id="fn13" type="footnote" n="13">Vgl. Röm 11, 33.</note> id factum esse meque piorum pręcibus aratro dominico<note xml:id="fn14" type="footnote" n="14">In Anspielung auf Lk 9, 62.</note> rursus impositum.</s>
+					<s n="12" xml:lang="la" type="auto">Turbavit enim inopinata mea valetudo multorum animos, eciam nobilium ac optimatium, quorum consilio medicum eciam admisi contra omne propositum meum, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="13" xml:lang="la" type="auto">Hanc infirmitatem meam nolui te latere, ne forte eam ex rumore incertaque fama audiens sortem meam ecclesięque causam aut nimis aut frustra plangeres.</s>
+					<s n="14" xml:lang="la" type="auto">Curaresque posthac ut antea semper tuis me pręcibus commendare domino, ut, si ita fuerit voluntas eius, pręsto adsit, quo aratrum, in quem me (nec sine tua opera) coniecit, ligavit arctissimeque obstrinxit, ita trahere possim rudem tellurem, scopulos, radices et omnia fructuum bonorum impedimenta infringere extirpare, ut palam videatur domini esse regnum,<note xml:id="fn16" type="footnote" n="16">In Anlehnung an Mt 13, 4-8 par.</note> neque tibi, quod me dignum iudicasti, neque mihi, tarde<note xml:id="fn17" type="footnote" n="17"><persName>Kilchmeyer</persName> stand der Berufung nach <placeName>Bern</placeName> ziemlich zurückhaltend gegenüber; s. <bibl>HBBW</bibl> XIV, 124; XVII 457, Anm. 5.</note> quidem sed <pb type="edition" next="219"/> iuste obedienti, quicquam glorię vel virium tribuatur.</s>
+					<s n="15" xml:lang="la" type="auto">Nihil enim nostrum est quam gloriari in domino<note xml:id="fn18" type="footnote" n="18">1Kor 1, 31; 2Kor 10, 17; Gal 6, 14.</note> idque omnibus inculcare.</s>
+					<s n="16" xml:lang="la" type="auto">Si quod est pręmium virtutis (ut non ambigo), non interibit.</s>
+					<s n="17" xml:lang="la" type="auto">Aut cui, quęso, vel inter aethnicos aut vivo aut mortuo virtus gratiam non retulit, si modo illam, ut <persName>Seneca</persName> noster docet,<note xml:id="fn19" type="footnote" n="19"><hi>Seneca,</hi> Ad Lucilium epistulae morales, 66. 102.</note> bona fide secutus est; si non se pinxit et ornavit?</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vale, vale cum uxore<note xml:id="fn20" type="footnote" n="20"><persName>Anna, geb. Adlischwyler</persName>.</note> et familia omni.</s>
+					<s n="19" xml:lang="la" type="auto">D. <persName ref="p8423">Iacobum Ammianum</persName>,<note xml:id="fn21" type="footnote" n="21">Der Schulaufseher <persName>Johann Jakob Ammann</persName>.</note> compatrem meum, Frisium<note xml:id="fn22" type="footnote" n="22">Schulmeister <persName>Johannes Fries</persName>.</note> omnibus natum plurimum valere iubeo.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Hisce diebus quatuor ex studiosis nostris<note xml:id="fn23" type="footnote" n="23"><persName>Jonas Danmatter</persName>, <persName>Johannes Fädminger</persName>, <persName>Johann Knechtenhofer</persName> und <persName>Abel Mühlhofer</persName>, die mit Brief <ref target="file12813">Nr. 2764</ref> vom 23. Januar 1547 nach Zürich geschickt worden waren.</note> Tigurum mittuntur literis ad te datis.</s>
+					<s n="21" xml:lang="la" type="auto">Tuum erit, ut speramus, omnia pro dignitate exequi e fide nostra.</s>
+					<s n="22" xml:lang="la" type="auto">Desydero et ex vestris stipendiariis quatuor (causam nosti), sed tales, qui in elementis adhuc imbuendi sint (pro maioribus enim lectio theologica apud nos adhuc non est pessimis pfaffis impedientibus, ut oportet, instituta), et qui mittuntur pueri, si tantum mihi tribuit fidei magistratus Tigurinus, quare ego me totum eius agnosco.</s>
+					<s n="23" xml:lang="la" type="auto">In me habebunt in gloriam Tiguri hospitem, patrem et pręceptorem sęverum, indulgentem nihilque denique negligentem.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="24" xml:lang="la" type="auto">Vale iterum.</s>
+					<s n="25" xml:lang="la" type="auto">Ex <placeName>Berna</placeName>, 29. die ianuarii anno 1547.</s>
+					<s n="26" xml:lang="la" type="auto"><persName ref="p6051">Iodocus K.</persName> tuus semper.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="27" xml:lang="la" type="auto"><persName>Textorius</persName><note xml:id="fn25" type="footnote" n="25"><persName>Johannes Wäber</persName>.</note>, <persName>Eberhardus</persName><note xml:id="fn26" type="footnote" n="26"><persName>Eberhard von Rümlang</persName>.</note>, <persName ref="p7181">Artopeus</persName><note xml:id="fn27" type="footnote" n="27"><persName>Nikolaus Pfister</persName>.</note> vos omnes salutant.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="28" xml:lang="la" type="auto">Eruditione et vigilia sacra eximio viro d. Heinricho Bullingero, amplissimae ecclesiae Tigurinae pastori dignissimo, domino ac fratri suo semper colendo et dilectissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

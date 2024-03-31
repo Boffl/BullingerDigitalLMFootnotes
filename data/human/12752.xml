@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12752" type="Brief" source="TUSTEP" n="2705">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 6. Dezember 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Superioribus diebus ad te scripsi<note xml:id="fn4" type="footnote" n="4">am 26. November.</note> per famulum<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> <persName ref="p5295">Christophori</persName> typographi<note xml:id="fn6" type="footnote" n="6"><persName>Christoph Froschauer</persName>.</note>, cui tradidi sarcinulam librorum, quam arbitror tibi esse traditam.</s>
+					<s n="3" xml:lang="la" type="auto">In ea continebatur alia quaedam parva mittenda ad <persName>Sailerum</persName>.</s>
+					<s n="4" xml:lang="la" type="auto">Rursus per hunc aurigam alios libellos mitto, quos ut transmittas ad eundem <persName>Sailerum</persName> magnopere oro.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="5" xml:lang="la" type="auto">Cupio ex te cognoscere, quomodo tibi probatur sordidula historiae narratiuncula.</s>
+					<s n="6" xml:lang="la" type="auto">Argumentum sane erat, ut ex materia ipsa perspicere potuisti, dignum, in quo aliquis artifex elaborasset.</s>
+					<s n="7" xml:lang="la" type="auto">Sed quid facias, quando nullus eorum est, qui cum laude istiusmodi argumenta tractare possint, qui manum admoveat?</s>
+					<s n="8" xml:lang="la" type="auto">Certe voluntas nostra laudanda erit, etiamsi conatus non per omnia eruditorum auribus satisfaciat.</s>
+					<s n="9" xml:lang="la" type="auto">Illud sane non possum non dolere aliquid forte detractum esse dignitati rerum propter orat[ionis] tenuitatem et ordinem fortasse perturbatiorem.</s>
+					<s n="10" xml:lang="la" type="auto">Utcunque sit, iuvabit eruditioribus argumentum suppeditasse, et si vita contingat et aliquid melius a nobis praestari poterit, non negligemus occasionem.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="la" type="auto"><persName>Ostendit Myconius</persName> literas tuas<note xml:id="fn7" type="footnote" n="7">vom 27. November.</note>, quae nobis tristissimum nuncium attulerunt, etsi enim eadem ipsa prius ex <placeName>Argentina</placeName> ad nos fuerant perscripta.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="12" xml:lang="la" type="auto">Tamen postea intelleximus longe his contraria.</s>
+					<s n="13" xml:lang="la" type="auto"><ptr target="zzlzl16392-1A" type="zzl"/>Nominatim ego accepi a <persName>Sailero</persName> de clade caesaris<note xml:id="fn8" type="footnote" n="8"><persName>Karl V.</persName></note>, cuius in parvo praelio duo millia equitum ceciderunt atque ipse cum octo equitibus coactus fuit confugere in oppidum Luingum<note xml:id="fn9" type="footnote" n="9"><placeName>Lauingen</placeName>.</note><ptr target="zzlzl16392-1E" type="zzl"/>.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Quicquid habes vel de hac clade vel aliunde, nobis communica, et si quid certi accepisti de comiciis Helvetiorum, indica <persName>Sailero</persName>.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Saluta meis verbis omnes fratres.</s>
+					<s n="16" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 6. die decembris 1546.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Clarissimo viro domino Henrico Bullingero.</s>
+					<s n="20" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13069" type="Brief" source="HBBW" n="3020">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 23. September 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. D.</s>
+					<s n="2" xml:lang="la" type="auto">Ad postremas tuas<note xml:id="fn1" type="footnote" n="1">Myconius' Brief <ref target="file13058">Nr. 3009</ref> vom 10. September.</note> primo respondeo.</s>
+					<s n="3" xml:lang="la" type="auto">Recte tui<note xml:id="fn2" type="footnote" n="2">Die Basler Ratsherren.</note> a suis humeris in Galli<note xml:id="fn3" type="footnote" n="3"><persName>König Heinrich II.</persName></note> humeros onus illud<note xml:id="fn4" type="footnote" n="4">Nämlich die Bürde, zwischen Straßburg, <placeName>Frankreich</placeName> und den Eidgenossen zu verhandeln, um ein Abkommen zu erzielen, durch das Straßburg Schutz gewährt würde, falls es zu einem etwaigen Angriff <persName>Kaiser Karls V.</persName> käme.</note> reiecerunt.</s>
+					<s n="4" xml:lang="la" type="auto">Quod, si quid impetrari potest a Pagis<note xml:id="fn5" type="footnote" n="5">Die Fünf bzw. Neun Orte.</note>, nemo citius quam rex impetraverit.</s>
+					<s n="5" xml:lang="la" type="auto">Quid apud nostros<note xml:id="fn6" type="footnote" n="6">Die Zürcher; vgl. <ref target="file13058">Nr. 3009</ref>,<ptr target="qvzl17276-2" type="qv"/>.</note> sperem, rogas.</s>
+					<s n="6" xml:lang="la" type="auto">Cum Gallo non libenter agunt.</s>
+					<s n="7" xml:lang="la" type="auto">Nosti causas, ut nihil sit opus recensere.</s>
+					<s n="8" xml:lang="la" type="auto">Sed et Argentoratenses pessime audiunt apud optimos quosque, quod munitissimam et opulentissimam in Germania urbem dei beneficio possident, interim Rhelingero<note xml:id="fn7" type="footnote" n="7"><persName>Wolfgang Rehlinger</persName>. - Vgl. nämlich <ref target="file13047">Nr. 2998</ref>,<ptr target="qvzl17264-1" type="qv"/>.</note> plus fidei et aurium praebuerunt quam deo.</s>
+					<s n="9" xml:lang="la" type="auto">Dicunt[ur] fovere nobiles quamplurimos, qui caesarem<note xml:id="fn8" type="footnote" n="8"><persName>Karl V.</persName></note> pro deo colunt.</s>
+					<s n="10" xml:lang="la" type="auto">Plebs scissa est in multas sectas, ita ut prudentissimus et optimus quisque non fidat iis, qui Galli auxilia prius respuerunt et satis lubrice egerunt.<note xml:id="fn9" type="footnote" n="9">Siehe dazu <ref target="file13058">Nr. 3009</ref>, <ptr target="qvfn17276-1" type="qv"/>.</note></s>
+					<s n="11" xml:lang="la" type="auto">Caeterum si Gallus omnibus Helvetiae ordinibus illa de re proposuerit quicquam, nihil est, quod de Tigurinis dubites.</s>
+					<s n="12" xml:lang="la" type="auto">Facient haud dubie, quod a bonis viris requiras.<pb type="edition" next="490"/></s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="13" xml:lang="la" type="auto">De Burensi<note xml:id="fn10" type="footnote" n="10"><persName>Maximilian von Egmont</persName>, Graf von Büren. - Siehe dazu <ref target="file13044">Nr. 2995</ref>,<ptr target="qvzl17261-1" type="qv"/>; <ref target="file13045">Nr. 2996</ref>,<ptr target="qvzl17262-7" type="qv"/>; <ref target="file13058">Nr. 3009</ref>,<ptr target="qvzl17276-3" type="qv"/>.</note> quid tandem verum sit, modis omnibus scire desidero.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Quid <persName>Hallerus</persName> ex Augusta ad me dederit<note xml:id="fn11" type="footnote" n="11">Gemeint ist <persName>Hallers</persName> Brief <ref target="file13054">Nr. 3005</ref> vom 9. September, wie es aus der darauffolgenden Randbemerkung Bullingers sowie auch aus Myconius' Antwort vom 9. Oktober auf vorliegenden Brief hervorgeht; s. <ref target="file13084">Nr. 3035</ref>,<ptr target="qvzl17304-2" type="qv"/>.<ptr target="zfnfn17288-1" type="zfn"/></note>, habes hic copiose descriptum <ptr target="fnc" type="footnote" n="c"/>([H]alleri [d]atae sunt [9.] Septembris).</s>
+					<s n="15" xml:lang="la" type="auto">Caeterum bona fide et per proximum quemque nuncium fidum remittes.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Non potui citius.</s>
+					<s n="17" xml:lang="la" type="auto">Non enim ad manum fuerunt tabelliones.</s>
+					<s n="18" xml:lang="la" type="auto">Imo has Hart[manno] a Halwyl<note xml:id="fn12" type="footnote" n="12">Der in <placeName>Brugg</placeName> wohnende <persName>Hartmann von Hallwyl</persName>; s. <bibl>HBBW</bibl> XVII 317, Anm. 1.</note> mitto, ut tibi curet tradi.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Septembris 14. datae sunt literae Augustae a legato cuiusdam civitatis suevicae ad comitia, quae inter alia habent:</s>
+					<s n="20" xml:lang="de" type="manual">„Es gadt hie übel zuͦ.</s>
+					<s n="21" xml:lang="de" type="auto">Der fürsten rät und der stetten stimmend übel zamen.<note xml:id="fn14" type="footnote" n="14">Vgl. <ref target="file13054">Nr. 3005</ref>,<ptr target="qvzl17272-7" type="qv"/>; <ref target="file13070">Nr. 3021</ref>, <ptr target="qvfn17289-7" type="qv"/>; <ref target="file13118">Nr. 3069</ref>,<ptr target="qvzl17335-4" type="qv"/>.</note></s>
+					<s n="22" xml:lang="de" type="auto">Die pfaffen sind eins.</s>
+					<s n="23" xml:lang="de" type="auto">Der keyser ist todtkranck.</s>
+					<s n="24" xml:lang="de" type="auto">Der könig Ferdinand sol ouch seer kranck sin.<note xml:id="fn15" type="footnote" n="15">Vgl. <ref target="file13068">Nr. 3019</ref>,<ptr target="qvzl17287-2" type="qv"/>.</note></s>
+					<s n="25" xml:lang="de" type="auto">Es ist ouch die sag, es habe sich ein nüwe uffruͦr in Behem<note xml:id="fn16" type="footnote" n="16"><placeName>Böhmen</placeName>. - Ein falsches Gerücht; s. schon <ref target="file13068">Nr. 3019</ref>, <ptr target="qvfn17287-1" type="qv"/>.</note> erhept.</s>
+					<s n="26" xml:lang="de" type="auto"><placeName>Memmingen</placeName> zallt 3000 gl.<note xml:id="fn17" type="footnote" n="17">Vgl. aber <ref target="file13050">Nr. 3001</ref>, <ptr target="qvfn17268-1" type="qv"/>.</note>, <placeName>Kempten</placeName> 2000 gl.,<note xml:id="fn18" type="footnote" n="18">Johann Baptist <hi>Haggenmüller,</hi> Geschichte der Stadt und der gefürsteten Grafschaft <placeName>Kempten</placeName>, Bd. 2: Von Beendigung des Bauernkriegs bis zur Einverleibung in den baierischen Staat, <placeName>Kempten</placeName> 1847, S. 38, spricht von 18000 Gulden.<ptr target="zfnfn17288-3" type="zfn"/></note> alein, das<note xml:id="fn19" type="footnote" n="19">damit.</note> man kein knächt dahin lege“, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="27" xml:lang="la" type="auto">Ad priores 23.<note xml:id="fn20" type="footnote" n="20">Gemeint ist Myconius' Brief <ref target="file13046">Nr. 2997</ref> vom 23. August, den Bullinger allerdings mit <ref target="file13052">Nr. 3003</ref> vom 30. August bereits verdankt und teilweise beantwortet hatte.</note> dubito an responderim, sed in iis nihil invenio, ad quod magnopere necessarium sit respondere.<note xml:id="fn21" type="footnote" n="21">Bullinger weigert sich also, über die ihm von Myconius in <ref target="file13046">Nr. 2997</ref>,<ptr target="qvzl17263-5" type="qv"/>, mitgeteilte, teilweise in Hebräisch verfasste Prophezeiung noch mehr zu schreiben als das, was er bereits in <ref target="file13052">Nr. 3003</ref>,<ptr target="qvzl17270-5" type="qv"/>, mitgeteilt hatte.</note></s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="28" xml:lang="la" type="auto"><persName>Persium</persName> cum scholiis <persName>Murmellii</persName><note xml:id="fn22" type="footnote" n="22"><persName>Johannes Murmellius</persName>' Ausgabe von <persName>Persius</persName>' Satiren. - Siehe <ref target="file13033">Nr. 2984</ref>, <ptr target="qvfn17249-6" type="qv"/>.</note> paratum a Gastio meo nondum vidi; at cupio videre!<pb type="edition" next="491"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="29" xml:lang="la" type="auto">Hodie, hoc est 23. septembris, literas accipio datas <placeName>Curiae</placeName> Rhetorum, quae inter alia haec habebant:</s>
+					<s n="30" xml:lang="de" type="manual">„Uß <placeName>Italia</placeName> ist gewüsse post hie<note xml:id="fn24" type="footnote" n="24">In <placeName>Chur</placeName>.</note> für dem<note xml:id="fn25" type="footnote" n="25">für dem: wegen des; s. <bibl>SI</bibl> I 957.</note> keyser zuͦkumen.</s>
+					<s n="31" xml:lang="de" type="auto">Die bringt, das Petrus Aloysius<note xml:id="fn26" type="footnote" n="26"><persName>Pièr Luigi Farnese</persName>. - Zur angesprochenen Angelegenheit s. <ref target="file13065">Nr. 3016</ref>, <ptr target="qvfn17284-2" type="qv"/>.</note> von den keiserischen mitt wunderbaren<note xml:id="fn27" type="footnote" n="27">seltsamen; s. <bibl>SI</bibl> XVI 628.</note> listen und verräteryen in <placeName>Parma</placeName> und Plesentz<note xml:id="fn28" type="footnote" n="28"><placeName>Piacenza</placeName>.</note> überfallen und undertruck<note xml:id="fn29" type="footnote" n="29">unterlegen; s. <bibl>SI</bibl> XIV 810.</note> sye, er zuͦ todt gestochen<note xml:id="fn30" type="footnote" n="30">Am 10. September.</note> und zum schloß ußgeworfen sye“ <foreign xml:lang="la"><ptr target="fnd" type="footnote" n="d"/>(meruerat foedissimus sodomita incendium Pentapoleos).</foreign></s>
+					<s n="32" xml:lang="de" type="auto">Ferdinandus <persName>Gonzaga</persName><note xml:id="fn33" type="footnote" n="33"><persName>Ferrante Gonzaga</persName>.</note>, statthallter in Meyland, hatt beid plätz inn.</s>
+					<s n="33" xml:lang="de" type="auto">„Graff von Mirandula<note xml:id="fn34" type="footnote" n="34">Galeotto II. Pico della <persName>Mirandola</persName>.</note> ist<pb type="scan" next="v."/> umb 2 stund zuͦ spaadt kummen.</s>
+					<s n="34" xml:lang="de" type="auto">Hat muͤssen wider uff Mirandula entrünnen.“</s>
+					<s n="35" xml:lang="de" type="auto">Acht man, der statthalter werde inn besuͦchen.<note xml:id="fn35" type="footnote" n="35">angreifen; s. <bibl>SI</bibl> VII 229.</note></s>
+					<s n="36" xml:lang="de" type="auto">Da acht man, wird der adler<note xml:id="fn36" type="footnote" n="36">Gemeint ist der Kaiser.</note> und han<note xml:id="fn37" type="footnote" n="37"><placeName>Frankreich</placeName>.</note> wider über einandren kummen, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="37" xml:lang="la" type="auto">Vale, colendissime mi Myconi.</s>
+					<s n="38" xml:lang="la" type="auto">Tiguri festinantissime.</s>
+					<s n="39" xml:lang="la" type="auto">Salutabis diligenter Gastium, Dryandrum<note xml:id="fn38" type="footnote" n="38"><persName>Francisco de Enzinas</persName>.</note>, <persName ref="p7454">Coelium</persName><note xml:id="fn39" type="footnote" n="39"><persName>Celio Secondo Curione</persName>.</note>, etc.</s>
+					<s n="40" xml:lang="de" type="auto">23. septembris 1547.</s>
+					<s n="41" xml:lang="la" type="auto">Bullinger.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="42" xml:lang="la" type="auto">Praestantissimo viro d. Osvaldo Myconio, <placeName>Basiliensis</placeName> ecclesiae ministro, domino et fratri colendo et dilecto.</s>
+					<s n="43" xml:lang="de" type="auto"><placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

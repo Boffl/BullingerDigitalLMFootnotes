@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10074" type="Brief" source="HBBW" n="46">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 6. Dezember 1531</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quod temporum nostrorum calamitatem conquerar, Heinrice charissime, epistola non patitur.</s>
+					<s n="3" xml:lang="la" type="auto">Ex amicorum et in senatu nostro primatum iussu nuncium hunc ad te amandavimus, cum patriam deserere coactus sis - dominus novit, cuius culpa factum - et nunc a <placeName>Basiliensibus</placeName><note xml:id="fn2" type="footnote" n="2">Siehe oben Nr. 42.</note> simul et Tigurinis, ut certo apud nos fertur, vocationem paratam habeas<note xml:id="fn3" type="footnote" n="3">Dazu s. <bibl>Zsindely</bibl> 668ff.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Precantur te fratres cordatissimi, qui sunt <placeName>Bernę</placeName>, quominus[?] et eorum quoque, etsi nihil de te meriti, vocationem minime contemnas; en enim tibi iam dudum parata est.</s>
+					<s n="5" xml:lang="la" type="auto">Habet <placeName>Basilęa</placeName> doctos innumeros, quos et Tigurum; <placeName>Berna</placeName> sola, quę tamen est populosissima, 187 parrochiarum, neminem habet.</s>
+					<s n="6" xml:lang="la" type="auto"><persName>Megander</persName><note xml:id="fn4" type="footnote" n="4">Siehe oben S. 214f, Anm. 53.</note> a contionibus quiescere iussus est; causam proculdubio accępisti.</s>
+					<s n="7" xml:lang="la" type="auto">Quod si admittatur, ut opto, nihilominus certissima et paratissima est tua vocatio.</s>
+					<s n="8" xml:lang="la" type="auto"><persName>Franciscus</persName><note xml:id="fn6" type="footnote" n="6"><persName>Franz Kolb</persName>, s. oben, S. 215, Anm. 54.</note> senio indiem deficit, <persName>Bertoldus</persName><note xml:id="fn7" type="footnote" n="7"><persName>Haller</persName>.</note> podagra, hernia et mole corporea sic gravatur, ut plus satis.</s>
+					<s n="9" xml:lang="la" type="auto">Proinde in tota ditione nullos ferme habemus, qui vel lectione vel linguarum vel scripturę cognitione aliquid possint.</s>
+					<s n="10" xml:lang="la" type="auto">Cum itaque tantam gentem et lucrifacere et Christo servare per dominum possis, nisi nolis esse christianus, te nobis non negabis.</s>
+					<s n="11" xml:lang="la" type="auto">Volunt itaque et primates ex senatu et civibus item et plebe certi esse, Bullingerum futurum <placeName>Bernatem</placeName>, quare hoc nuncio certiores tui reddas, ut speramus omnes.</s>
+					<s n="12" xml:lang="la" type="auto">Audio ab adversariis bibliothecam tuam devastatam; nihil turberis: apud nos omnia reperies necessaria, nec quippiam de conditione diffidas.</s>
+					<s n="13" xml:lang="la" type="auto">In summa: precamur, speramus, immo volumus Bullingerum nostrę vocationi indulgere; respondeat nec aliud quam quod velit noster esse.</s>
+					<s n="14" xml:lang="la" type="auto">Interim ubi animum tuum intellexerimus,<pb type="edition" next="230"/> senatus noster te legittimo nuncio et litteris vocabit, ut et Tigurinis et omnibus commodius satisfacere possis.</s>
+					<s n="15" xml:lang="la" type="auto">Hec vero, quae scribo, cordi tuo scripsero, que volebam ante bellicum hunc tumultum tecum contulisse.</s>
+					<s n="16" xml:lang="la" type="auto">Nihil dubites de me; officiosissimum habebis suppedaneum <persName>Bertoldum</persName> tuum, immo si libet fratrem germanum.</s>
+					<s n="17" xml:lang="la" type="auto">Habebis etiam propiciam plebem in urbe, quae te pleraque novit et audivit.</s>
+					<s n="18" xml:lang="la" type="auto">Nec deerit senatus, quorum [!] magna pars, etiam quos papistas credimus, te maxime cupit.</s>
+					<s n="19" xml:lang="la" type="auto">Exacerbati sunt exacerbatione, quam proculdubio didicisti a <persName>Francisco</persName>, quod nihil verearis.</s>
+					<s n="20" xml:lang="la" type="auto">Modestia dominus plus per me egit quam acerbitate.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Vale et pro votis nostris rescribe, quod si non fęceris, certe me moriturum brevi mallem quam ita destitutum, quod etiam spero.</s>
+					<s n="22" xml:lang="la" type="auto">Rursum vale.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">6. decembris anno 31.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Tuus ex animo minimum nummisma</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="de" type="auto">Bercht. H.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="26" xml:lang="la" type="auto">Heinrico Bullingero docto iuxta atque pio, fratri suo semper charissimo</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

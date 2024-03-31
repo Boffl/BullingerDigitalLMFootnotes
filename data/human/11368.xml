@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11368" type="Brief" source="HBBW" n="1325">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, 31. Oktober 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Commendat mihi Stainerus<note xml:id="fn1" type="footnote" n="1"><persName>Werner Steiners</persName> Empfehlungsschreiben ist nicht erhalten.</note> optimum illum virum<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> praesentium latorem; sed simulatque literas reddit, statim valedicit, ut nihil benevolentiae illi exhibere aut quicquam conferre cum illo quiverim.</s>
+					<s n="3" xml:lang="la" type="auto">Excusatum itaque me volo Stainero per te.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Ad te vero nichil est, quod scribam, cum novi nichil sit excepto hoc uno, quod putant quidam praefationem tuam ad epistolam <persName>Vadiani</persName> satis esse odiosam neminemque non intelligere, quem petas, scilicet <persName ref="p18198">Bucerum</persName> tibi Vertumnum esse et <persName ref="p18889">Lutherum</persName> Thrasonem<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11326">Nr. 1283</ref>, Anm. d bzw. Z. 65.</note>, idque te facere post initam concordiam et bona parte sopitis contentionibus, denique tempore tam difficile etc.<pb type="edition" next="246"/></s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto"><persName ref="p5074">Frechtus</persName> ad me nuper scribens<note xml:id="fn5" type="footnote" n="5"><persName>Frechts</persName> Brief ist nicht erhalten.</note> rogat, ut se tibi et Tigurinis offitiose commendem.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Vale cum fratribus et tota domo.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Raptim, 31. octobris 1539.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Tuus <persName>Io. Zvick</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="9" xml:lang="la" type="auto">Domino Hainricho Bullingero velut fratri charissimo.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

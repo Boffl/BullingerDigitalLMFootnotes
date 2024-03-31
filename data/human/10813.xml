@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10813" type="Brief" source="HBBW" n="775">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hans (I.) Vogler / St. Gallen AN Heinrich Bullinger, 27. März 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gottes gnad erhalte unns.</s>
+					<s n="2" xml:lang="de" type="auto">Amen.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Fürgliepter herr und bruͦder, min herr <persName>Vadian</persName> hat mich sechen lassen das buͤchly über die epystel, so ir gemacht, und gen Franckfurt in die mess getruckt worden etc.<note xml:id="fn1" type="footnote" n="1">Im März 1536 war bei <persName>Froschauer</persName> in Zürich Bullingers Kommentar zu den Thessalonicher- und Pastoralbriefen sowie zum Philemonbrief (<bibl>HBBibl</bibl> I 81) erschienen; vgl. <bibl>HBD</bibl> 24, 26f. - Zur <placeName>Frankfurter</placeName> Frühjahrsmesse vgl. oben <ref target="file10812">Nr. 774</ref>, Anm. 18.</note></s>
+					<s n="4" xml:lang="de" type="auto">So nun ir mitt dem selben fertig, hab ich üch um gottes willen us min und andrer beger petten, daß ir verhelffen, das die predig, zuͦ <placeName>Basel</placeName> beschechenn, by üch getruckt wurde.</s>
+					<s n="5" xml:lang="de" type="auto">Nochmals unser ernstlich pitt, ir wellend das fürdernn, wie man üch vertruwt etc.</s>
+					<s n="6" xml:lang="de" type="auto">Gott syg lob des <placeName>Basileyschen</placeName> tags etc.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Was ir dess tags <placeName>Baden</placeName> vernemen<note xml:id="fn3" type="footnote" n="3">Auf den 27. März war eine Tagsatzung nach <placeName>Baden</placeName> einberufen worden (vgl. <bibl>EA</bibl> IV/1c 666-669).</note>, och Solutornen panditen, die zuͦ <placeName>Bern</placeName> ligen<note xml:id="fn4" type="footnote" n="4">Hans und <persName>Rudolf Roggenbach</persName>, die Führer der <placeName>Solothurner</placeName> "Banditen" (vgl. <bibl>HBBW V</bibl> <ref target="file10681">[Nr. 643]</ref>, S. 352, Anm. 13) waren auf bernischem Territorium festgenommen worden (vgl. oben <ref target="file10810">Nr. 772</ref>, Anm. 10).</note>, oder zitung<note xml:id="fn5" type="footnote" n="5">Neuigkeiten (<bibl>Grimm</bibl> XV 591-593).</note>, mittailend uns.</s>
+					<s n="8" xml:lang="de" type="auto">Och wie es um das schloss, davor die <placeName>Berner</placeName> ligen<note xml:id="fn6" type="footnote" n="6">Gemeint ist das Schloß <placeName>Chillon</placeName> (vgl. oben <ref target="file10804">Nr. 766</ref>, Anm. 14).</note>, stande etc.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto"><pb type="edition" next="195"/>Alhie stat es wol.</s>
+					<s n="10" xml:lang="de" type="auto">Der apt<note xml:id="fn7" type="footnote" n="7"><persName>Diethelm Blarer von Wartensee</persName>, Abt des Klosters <placeName>St. Gallen</placeName>.</note> redt<note xml:id="fn8" type="footnote" n="8">ritt.</note> vordrigs tag us der statt gen Wyl zu.</s>
+					<s n="11" xml:lang="de" type="auto">Underwegen komen im der hoptman<note xml:id="fn9" type="footnote" n="9">Schirmhauptmann <persName>Anton Auf der Maur</persName> von <placeName>Schwyz</placeName> (vgl. unten <ref target="file10871">Nr. 832</ref>, Anm. 17).</note>, hoffmaister<note xml:id="fn10" type="footnote" n="10"><persName>Niklaus Friedrich von Heidenheim</persName> zu <placeName>Klingenberg</placeName> (s. <placeName>St. Gallen</placeName> Stiftsarchiv, Rep 14a, S. 45).</note>.</s>
+					<s n="12" xml:lang="de" type="auto">Und der from mönch<note xml:id="fn11" type="footnote" n="11">Wahrscheinlich <persName>Wendelin Oswald</persName> (vgl. <bibl>HBBW V</bibl> <ref target="file10744">[Nr. 706]</ref>, S. 486f, Anm. 9).</note>, der hie, also ist die sag, predigt sol haben: "Die kätzer kond aber<note xml:id="fn12" type="footnote" n="12">wieder.</note> zuͦ <placeName>Basel</placeName> zuͦsamen", ist och wider hie.</s>
+					<s n="13" xml:lang="de" type="auto">Die sag was, er käm nit mer, welte gen Lutzern etc.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto">Mich wundert, ob ir die copy gen <placeName>Bern</placeName> her <persName>Casparn</persName><note xml:id="fn13" type="footnote" n="13"><persName>Kaspar Megander</persName>. - Zur Sache ist weiter nichts bekannt (vgl. auch unten <ref target="file10829">Nr. 790</ref>, 12-15).</note> geschickt, wie ir wol wist.</s>
+					<s n="15" xml:lang="de" type="auto">Dann der mann<note xml:id="fn14" type="footnote" n="14">Unbekannt.</note> ist komen, ist recht, dann er den fromen <placeName>Bernern</placeName> wenig schenckt mit reden uff der stras etc<note xml:id="fn15" type="footnote" n="15">nicht nachläßt, die <placeName>Berner</placeName> öffentlich zu schelten.</note>.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Wir baide<note xml:id="fn16" type="footnote" n="16"><persName>Vogler</persName> und seine Frau <persName>Appolonia, geb. Baumgartner</persName>.</note> begered, daß ir uns uxor<note xml:id="fn17" type="footnote" n="17">Bullingers Frau <persName>Anna, geb. Adlischwyler</persName>.</note>, mater<note xml:id="fn18" type="footnote" n="18">Bullingers Mutter <persName>Anna, geb. Wiederkehr</persName>.</note>, puer<note xml:id="fn19" type="footnote" n="19">Bullingers Sohn Heinrich.</note>, virgo<note xml:id="fn20" type="footnote" n="20"><persName>Brida Schmid</persName>, die Dienstmagd.</note> und alles grüssend.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Wenn des Ronen hus uberhin ist, dörftend wir wol bald komen.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="manual">Actum <placeName>Sant Gallen</placeName>, mentag nach letare anno 36. jar.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">U[wer] w[illiger] <persName>Hans Vogler</persName>.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">Wie ich nächstmals<note xml:id="fn22" type="footnote" n="22">letztes Mal.</note> mit üch redte, us pitt der biderben lüten us dem Egny<note xml:id="fn23" type="footnote" n="23"><placeName>Egnach</placeName> (Kt. <placeName>Thurgau</placeName>).</note>, so gen Arben<note xml:id="fn24" type="footnote" n="24"><placeName>Arbon</placeName> (Kt. <placeName>Thurgau</placeName>).</note> ghörend, oder och Arben etc., ob sy nit erlangen möchted, lut der abschaiden haisen fürfarn, diewil ich sich<note xml:id="fn26" type="footnote" n="26">sehe.</note>, daß die <placeName>Berner</placeName> sich och yetz ernstlicher annemen etc.</s>
+					<s n="21" xml:lang="de" type="auto">Uwer williger.<pb type="edition" next="196"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="de" type="auto">An minen fürgeliepten hernn und fründt Hainrichen Bull[igern] zuͦ hä[nden].</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

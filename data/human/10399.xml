@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10399" type="Brief" source="HBBW" n="367">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Johannes Stumpf, 28. April 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Heynrichus Bullingerus primaeguardensis, ecclesiae Thuregiensis pastor primarius etc.</s>
+					<s n="2" xml:lang="la" type="auto">Ioanni Stumpffio, ministro verbi ecclesiae in Buͦbickon.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Placet mihi ille zelus vester, quo hypocrisim simul et malitiam in profligatissimis monachis<note xml:id="fn1" type="footnote" n="1">die Mönche im ehemaligen Prämonstratenserkloster <placeName>Rüti</placeName> (Kt. Zürich), s. oben <ref target="file10364">[Nr. 332]</ref> S. 77, Anm. 8 und unten S. 161-163, Anm. 4. 21. 37.</note> persequimini<note xml:id="fn2" type="footnote" n="2">Siehe <persName>Stumpfs</persName> Brief an Bullinger vom 31. März 1534, oben <ref target="file10378">Nr. 346</ref>, sowie die der Zürcher Frühjahrssynode eingereichte Klageschrift des <placeName>Wetzikoner</placeName> Kapitels, unten <ref target="file10403">Nr. 371</ref>.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Operam dabimus, ut audacia hominum versutissimorum reprimatur.</s>
+					<s n="6" xml:lang="la" type="auto">Vestrum fuerit singula ita communire, ut si illi negarint, quemadmodum nullius rei pudet, facile convinci possint.</s>
+					<s n="7" xml:lang="la" type="auto">Res nobis est cum sepiis et Protheis<note xml:id="fn3" type="footnote" n="3">Proteus als Sinnbild der Schlauheit, s. <bibl>Otto</bibl> 289, Nr. 1478.</note> veteratoribus.</s>
+					<s n="8" xml:lang="la" type="auto">Proinde probe instructos esse decet.</s>
+					<s n="9" xml:lang="la" type="auto">Nihil nos delere potuimus.</s>
+					<s n="10" xml:lang="la" type="auto">Nescimus enim, quae probabilia, quae dumtaxat verisimilia sint.</s>
+					<s n="11" xml:lang="la" type="auto">Fratrem nostrum <persName>Conradum</persName> optaremus vel prudentius vel modestius loquutum.</s>
+					<s n="12" xml:lang="la" type="auto">Sed quando semel emissum volat irrevocabile verbum<pb type="edition" next="150"/><note xml:id="fn6" type="footnote" n="6"><persName>Horaz</persName>, Epistola I, 18, 71.</note> et invidia causam aggravat, nihil in praesentiarum potuimus quam veniam precari errori alias non malitioso.</s>
+					<s n="13" xml:lang="la" type="auto">Videntur autem citandi evocandique monachi sive per te<note xml:id="fn7" type="footnote" n="7"><persName>Stumpf</persName> als Dekan des Kapitels <placeName>Wetzikon</placeName>.</note> sive per decanum Ustrensem aut per utrumque.</s>
+					<s n="14" xml:lang="la" type="auto">Si affuerint, audient accusationis capita<note xml:id="fn9" type="footnote" n="9">Siehe unten <ref target="file10403">Nr. 371</ref>.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Si contempserint synodum, hoc magis gravabitur causa eorum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Valeant in domino, qui Christo tecum fidunt ministri.</s>
+					<s n="17" xml:lang="la" type="auto">Mementote ministerii vestri.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">28. aprilis 1534.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

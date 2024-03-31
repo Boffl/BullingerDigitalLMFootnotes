@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10042" type="Brief" source="HBBW" n="17">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Kappel am Albis AN Peter Homphäus, 2. Mai 1526</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">--- <pb type="scan" next="||100v."/> exiguum quidem, at multa in sese complectentem dono mittimus, quem nostra lingua ac sub alieno nomine aedidimus [!] in lucem, primo quod Quintum Septimium Florentem <persName>Tertullianum</persName> in eo scribundo sumus imitati, unde et nos <persName ref="p4369">Octavium</persName> Florentem, nempe a Septimio Florente, inscripsimus, deinde quod eam mihi invidiam apud nostros concitarint inimici crucis Christi, ut multi nostro inspecto nomine plane contempturi essent ni, novo nomine novos et perversos attraxissem auditores ad lectionem fortassis, si non longius.</s>
+					<s n="2" xml:lang="la" type="auto">Est enim hoc unum e mortiferis multis pestilentissimum, quod incognita damnamus inque heręsum tartara praecipitamus quae nondum scripturae trutina expendimus.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Mecum alias quam optime agitur; nam opulentissimo praefectus<note xml:id="fn4" type="footnote" n="4">Siehe die Einleitung S. 23-25.</note> coenobio nec minus pratis virentibus silvisque garritu avium perstrepentibus amoeno pias pariter ac bonas profiteor litteras.</s>
+					<s n="4" xml:lang="la" type="auto">Et hactenus quidem Mathei et Ioannis evangelion, dein et Paulinas aliquot epistolas, Romanorum videlicet, Corinthiorum utramque, Galatarum, Ephesiorum, Philippensium et Colossensium sumus interpraetati, quibus et postmeridianis horis «Copiae» libros <persName>Erasmi</persName> et artem illorum ob oculos<pb type="edition" next="114"/> subiiciens «Bellum» eiusdem cum <persName>Sallustio</persName> et aliquot <persName>Vergilii</persName> libris<note xml:id="fn9" type="footnote" n="9">Ausgewählte Bücher aus <persName>Vergils</persName> Äneis behandelte Bullinger im Jahre 1523, <bibl>HBD</bibl> 8, 12.</note> adiunximus.</s>
+					<s n="5" xml:lang="la" type="auto">At in praesentiarum Thessalonicensium epistolam<note xml:id="fn10" type="footnote" n="10">Siehe Anm. 5.</note> cum «Dialecticis» <persName ref="p6490">Philippi</persName><note xml:id="fn11" type="footnote" n="11"><persName>Melanchthon</persName>, Compendiaria dialectices ratio, Leipzig 1520 (<bibl>CR</bibl> XIII 507ff).</note> profitemur.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Unde et in Helvetiorum quorundam senatusconsultis, obtecte tamen, proscriptus, totus in cruce hereo neque latum culmum<note xml:id="fn13" type="footnote" n="13">Vgl. Adagia, 1, 5, 6 (<bibl>LB</bibl> II 184f).</note> e Tigurinis agris progredi audeo, ni vitam Vulcano aut gladio libeat dedicare.</s>
+					<s n="7" xml:lang="la" type="auto">Verum suave mihi est pro dulci nomine Jesu Christi, domini mei, peripsima [!] hominum [1 Kor 4,13] fieri, qui iam olim longe crudeliora peccatis meis promerueram.</s>
+					<s n="8" xml:lang="la" type="auto">Tu pro me praecare dominum, ut hoc in me et fidelibus omnibus confirmet, quod ex gratia incoepit<note xml:id="fn14" type="footnote" n="14">Vgl. Phil 1,6.</note>, utque in morte nostra cum Sancto cantemus <persName>Ignatio</persName>: «Parati sumus ad bestias, ad ignem, ad gladios et crucem, tantum ut Christum videamus, salvatorem nostrum et dominum.»</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">--- [Hel-]<pb type="scan" next="||101r."/>vetio, hoc est rudi et severo adolescenti.</s>
+					<s n="10" xml:lang="la" type="auto">Ignosce, frater mi, iuvenilibus adfectibus et moribus, tum quidem per deum non renatis, nunc autem in ardentissimo pectore te praeceptoresque indesinenter volventibus.</s>
+					<s n="11" xml:lang="la" type="auto">Comendabis me illis.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><persName>Michael</persName><note xml:id="fn16" type="footnote" n="16"><persName>Michael Wüst</persName>, s. oben <ref target="file10037">[Nr. 12]</ref> S. 83, Anm. 1.</note> noster ab infoelici descivit sacerdotio et textrinam lanariam subintroiit.</s>
+					<s n="13" xml:lang="la" type="auto">Ioannes frater meus etiamdum sacrificulum, imo pastorem Uraniorum agit.</s>
+					<s n="14" xml:lang="la" type="auto"><persName>Jacobus</persName> uxorem duxit, tabernarius effectus.</s>
+					<s n="15" xml:lang="la" type="auto">Antonium vero plurimum valere iubeo, cum quo et tu valeas perpetuo.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ex <placeName>Cappell</placeName>, coenobio nostro trans Albim Tigurinorum, secunda maii 1526.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

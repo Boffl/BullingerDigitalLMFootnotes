@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12855" type="Brief" source="HBBW" n="2806">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Christian Hochholzer / Aarau AN Heinrich Bullinger, 9. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+					<s n="2" xml:lang="la" type="auto">Literas tuas,<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> domine colende, maxima ab initio cum voluptate legi.</s>
+					<s n="3" xml:lang="la" type="auto">Iam enim ad nos allatum erat non tantum Antichristum d. <persName>Gualtheri</persName><note xml:id="fn2" type="footnote" n="2">Gemeint ist <persName>Rudolf Gwalthers</persName> "Antichristus" bzw. "Endtchrist", s. <bibl>HBBW</bibl> XVII <ref target="file12612">[Nr. 2565]</ref> 400 Anm. 7.</note> a Quinque Pagicis ad exustionem peti, sed et ipsum d. Rodol-<pb type="edition" next="292"/>phum ad supplicium postulari,<note xml:id="fn3" type="footnote" n="3">Siehe <ref target="file12806">Nr. 2757</ref>, Anm. 11; <ref target="file12846">Nr. 2797</ref>, Anm. 6.</note> simulque tibi crimen, nescio quod, ab ipsis intentari, quo poena aliqua afficereris.</s>
+					<s n="4" xml:lang="la" type="auto">Quod sane maximo cum dolore accipiebam, neque iam in parvis eram angustiis prioribus temporibus doctus.</s>
+					<s n="5" xml:lang="la" type="auto">Nam cum priora considerarem,<note xml:id="fn4" type="footnote" n="4">Als z.B. im Mai 1529 der Zwinglianhänger <persName>Jakob Kaiser</persName> in <placeName>Schwyz</placeName> verbrannt wurde, was zum Krieg führte.</note> idem praeludium cladi nostrae funestae<note xml:id="fn5" type="footnote" n="5">Der Zweite <placeName>Kappeler</placeName> Krieg von Oktober 1531.</note> fuisse inveniebam, unde et nunc non parvam exorituram tempestatem iudicabam.</s>
+					<s n="6" xml:lang="la" type="auto">Quod ut firmius crederem, accedebat apparatus belli, de quo audiebam, cum singulis momentis in armis esse iuberentur<note xml:id="fn6" type="footnote" n="6">Zur Kriegsrüstung der Zürcher s. die Verweise in <ref target="file12789">Nr. 2740</ref>. Anm. 12.</note> (ut fama erat), quotquot in tota ditione <placeName>Tigurinorum</placeName> 14 annum excessissent.</s>
+					<s n="7" xml:lang="la" type="auto">Quamvis famam eundo crescere<note xml:id="fn7" type="footnote" n="7">Vgl. <hi><persName>Vergil</persName>,</hi> Aeneis, 4, 174f.</note> haud ignorabam, tamen non nihil esse sciebam, cum quaedam a fide dignis viris accepissem.</s>
+					<s n="8" xml:lang="la" type="auto">Rem autem sopitam esse valde gaudemus,<note xml:id="fn8" type="footnote" n="8">Vgl. <ref target="file12846">Nr. 2797</ref>,1-15.</note> et bellum non hanc ob causam a vestratibus apparari magno cum gaudio accipimus.</s>
+					<s n="9" xml:lang="la" type="auto">Magna est illorum<note xml:id="fn9" type="footnote" n="9">Quinque Pagicorum.</note> temerariaque audacia et impietas, quibus, quidquid cogitare libet, etiam conari licet.</s>
+					<s n="10" xml:lang="la" type="auto">Sperarunt fortassis tales esse in magistratu, qui metu illorum perculsi veritati viam essent praeclusuri et veritatis ministros ad lanienam tradituri, quemadmodum olim factum haud ignorant.</s>
+					<s n="11" xml:lang="la" type="auto">Sed meliora mihi iam de <placeName>Tigurinis</placeName> polliceor.</s>
+					<s n="12" xml:lang="la" type="auto">Utinam non fallar!</s>
+					<s n="13" xml:lang="la" type="auto">Erit enim tempus, atque iam nunc est, cum pii probabuntur.<note xml:id="fn11" type="footnote" n="11">Mt 23, 34 par.; 2Petr 2, 9; Apk 2, 22; 7. 14.</note></s>
+					<s n="14" xml:lang="la" type="auto">Dominus sit nobis propitius!</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Quod ad res Germanorum attinet, quantum ex literis tuis, ex d. <persName ref="p6843">Bernhardino</persName><note xml:id="fn12" type="footnote" n="12"><persName>Bernardino Ochino</persName>, der offensichtlich auf seiner Reise von <placeName>Zürich</placeName> nach <placeName>Basel</placeName> durch <placeName>Aarau</placeName> gekommen war; s. auch unten Z. 35-37.</note> et d. <persName>Calvino</persName><note xml:id="fn13" type="footnote" n="13">Dieser Stelle zufolge hatte auch <persName>Calvin</persName> auf seiner Reise von <placeName>Basel</placeName> nach <placeName>Zürich</placeName> (s. dazu <ref target="file12838">Nr. 2789</ref>, Anm. 1) einen Halt in <placeName>Aarau</placeName> eingelegt.</note> intelligo, iam actum est de libertate Germanorum; actum et de religione.</s>
+					<s n="16" xml:lang="la" type="auto">Peccata sane nostra sunt magna.</s>
+					<s n="17" xml:lang="la" type="auto">Unicum mihi solatium aliquas qualescunque fore reliquias<note xml:id="fn14" type="footnote" n="14">Vgl. Ez 14, 22; Röm 9, 27.</note> ecclesiae.</s>
+					<s n="18" xml:lang="la" type="auto">Oves Christi nemo rapiet e manu eius.<note xml:id="fn15" type="footnote" n="15">Joh 10. 28.</note></s>
+					<s n="19" xml:lang="la" type="auto">Quod autem multi refugiunt a domino, eo minus me offendit, quod scio oportere esse probationes.<note xml:id="fn16" type="footnote" n="16">Vgl. Mt 24, 6-13 par.; Apg 14, 22.</note></s>
+					<s n="20" xml:lang="la" type="auto">Qui sunt ex nobis, nobiscum manebunt.<note xml:id="fn17" type="footnote" n="17">Joh 6, 67-69; 10, 8. 27.</note></s>
+					<s n="21" xml:lang="la" type="auto">Paleae a tritico separantur.<note xml:id="fn18" type="footnote" n="18">Vgl. Mt 3, 12.</note></s>
+					<s n="22" xml:lang="la" type="auto">Nunc nunc revelantur ex multis cordibus cogitationes.<note xml:id="fn19" type="footnote" n="19">Lk 2, 35.</note></s>
+					<s n="23" xml:lang="la" type="auto">Pii suum praesidium et solatium habent in domino.</s>
+					<s n="24" xml:lang="la" type="auto">Aufertur auxilium humanum, ut dominus solus ecclesię suae periclitanti <pb type="edition" next="293"/> subveniat!</s>
+					<s n="25" xml:lang="la" type="auto">Quo autem maiores sunt insultus et elatio impii Herodis<note xml:id="fn20" type="footnote" n="20">Gemeint ist Herodes <persName>Agrippa</persName> Ï. (gest. 44 n. Chr.), da hier eine Anspielung auf Apg 12 (bes. 12, 22f) vorliegt.</note>, eo citius delendum fore non dubito.</s>
+					<s n="26" xml:lang="la" type="auto">Iam iam antichristus extrema agit; ideo omnes vires suas exerit.<note xml:id="fn21" type="footnote" n="21">Vgl. Dan 11, 17; Apk 20, 7-19.</note></s>
+					<s n="27" xml:lang="la" type="auto">Sed fortior est dominus;<note xml:id="fn22" type="footnote" n="22">Vgl. Joh 16, 33.</note> in eo, qui nos confortat, omnia possumus.<note xml:id="fn23" type="footnote" n="23">Phil 4, 13.</note></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Cum d. <persName ref="p6843">Bernhardino</persName> (in quo evidentissime videmus dominum suos custodire et eripere) fui, quantum potui humanitatis ei exhibui.</s>
+					<s n="29" xml:lang="la" type="auto">Nostra nunc res<note xml:id="fn24" type="footnote" n="24">Gemeint ist die Zukunft der Eidgenossenschaft.</note> agitur; paries nam proximus ardet.<note xml:id="fn25" type="footnote" n="25">Vgl. <hi><persName>Horaz</persName>,</hi> Epistulae, 1, 18, 84.</note></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="30" xml:lang="la" type="auto"><placeName>Constantiam</placeName> constantem esse plures exoptant.</s>
+					<s n="31" xml:lang="la" type="auto">Metuunt eam desertam, partes caesaris<note xml:id="fn26" type="footnote" n="26"><persName>Karl V.</persName></note> sequuturam.</s>
+					<s n="32" xml:lang="la" type="auto">Tum quid nobis expectandum, nemo ignorat.</s>
+					<s n="33" xml:lang="la" type="auto">Utinam recipiatur a nostris!</s>
+					<s n="34" xml:lang="la" type="auto">Sed vigilabit senatus vester prudentissimus.</s>
+					<s n="35" xml:lang="la" type="auto">Vigilabit et dominus<note xml:id="fn27" type="footnote" n="27">Vgl. Ps. 121 (Vulg. 120), 4; Jer 1, 12.</note> pro ecclesia sua, cui negotium committemus.</s>
+					<s n="36" xml:lang="la" type="auto">Qui nisi custodierit civitatem, frustra vigilabunt, qui custodiunt eam.<note xml:id="fn28" type="footnote" n="28">Ps 127 (Vulg. 126), 1.</note></s>
+					<s n="37" xml:lang="la" type="auto">Iam nunc puto me videre hostes limites nostros invadere, incendiis, rapinis, stupris atque omnibus sceleribus implentes.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="38" xml:lang="la" type="auto">Catastrophe enim fabulę<note xml:id="fn29" type="footnote" n="29">Catastrophe fabule: Ein Akt des Theaterstücks (hier nämlich jener Akt, der die Endzeit betrifft).</note> restat, quę nobis transigenda erit.</s>
+					<s n="39" xml:lang="la" type="auto">Fiat itaque voluntas domini.<note xml:id="fn30" type="footnote" n="30">Mt 6, 10.</note></s>
+					<s n="40" xml:lang="la" type="auto">Veritatem cum omnibus piis in finem usque adseram fidelissime domini gratia mihi assistente.</s>
+					<s n="41" xml:lang="la" type="auto">Spes nostra non est in victoriis, sed in domino,<note xml:id="fn31" type="footnote" n="31">Vgl. 1Tim 1, 1; 4, 10.</note> ipsissima salutis petra.<note xml:id="fn32" type="footnote" n="32">Siehe z.B. 2Sam 22, 47.</note></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="42" xml:lang="la" type="auto">Vale in domino.</s>
+					<s n="43" xml:lang="la" type="auto">Salutem precamur toti tuae domui, d. <persName>Gualthero</persName> cum omnibus piis.</s>
+					<s n="44" xml:lang="la" type="auto">Aarovię, 9. februarii 1547.</s>
+					<s n="45" xml:lang="la" type="auto">Me totum tibi ut hactenus commendo.</s>
+					<s n="46" xml:lang="la" type="auto">Tuae humanitati deditissimus Christia.</s>
+					<s n="47" xml:lang="la" type="auto"><persName ref="p5708">Hochholzer</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="48" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, ministro Christi in ecclesia Tigurina fidelissimo, domino suo tanquam patri semper colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11335" type="Brief" source="HBBW" n="1292">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Benedikt Euander / Kempten im Allgäu AN Heinrich Bullinger, 5. August [1539]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ego tibi nuper misi, doctissime vir, dialogum <persName>Pauli Rasdorffer</persName>, cui titulum indidit Syfrid<note xml:id="fn2" type="footnote" n="2">Die Schrift scheint nicht mehr erhalten zu sein.</note>, quem si accepisti, id quod minime dubito, certe in aliquibus locis mendosum et male scriptum accepisti; nam cum ab eo nullis praecibus impetrare possem, ut mihi eius dialogi transcribendi copiam faceret, per alium<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> ex ipsius amicis non vulgarem transcribi curavi, quo pollicitis stare possem.</s>
+					<s n="3" xml:lang="la" type="auto">Qui dum nec Latine calleret nec ipsius characteribus assuetus esset, erravit stilo in aliquibus dictionibus, sed ita tamen, ut ipsius et prędicatorum nostrorum omnium animum et sententiam, quam nunc in eucharistiae negotio tenent, facile estimare possis, licet ista vix sit umbra eius absurditatis, quam quotidie magnis vocibus et longissimis orationibus intonant populo.</s>
+					<s n="4" xml:lang="la" type="auto">Sed ne te hoc lateat: Iam iterum inter se discordant et quidem gravius quam unquam antehac, adeo ut hos tumultus senatus ipse maximis laboribus vix tandem sedaverit; ita erumpit pax, quae non ex spiritu dei conflatur, et exilium, quod mihi et aliis interminabantur, pene ipsis usu venisset.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Cambidoni, 5. augusti.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto"><persName ref="p7518">Benedictus Euander</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="8" xml:lang="la" type="auto">Pietate atque eruditione eximio viro magistro Heinricho Bullingero, contionatori Tigurino primario, domino suo colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12305" type="Brief" source="HBBW" n="2258">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / [Zürich] AN [Rudolf Gwalther (Walter, Gualtherus, Walthart) d.Ä.], [Herbst 1545]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quaeso amicum, hoc distichon adhuc mihi pares, quam primum vacabit.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Rem facies gratissimam.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Valebis.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto"><pb type="scan" next="v."/>Nitt volgen gott, macht arme lüt, Gotts wort darff unsers hebens<note xml:id="fn3" type="footnote" n="3">darff unsers hebens: bedarf unserer Stütze.</note> nüt.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Oza<note xml:id="fn4" type="footnote" n="4"><persName>Ussa</persName>.</note> ruͤrt die pundts laden an und fallt.</s>
+					<s n="7" xml:lang="la" type="auto">2. Sam. 6 [6-8].</s>
+					<s n="8" xml:lang="de" type="auto">Nadab und Abihu<note xml:id="fn5" type="footnote" n="5">Zwei Söhne <persName>Aarons</persName>.</note> oppfferend froͤmbd fhür und verbrünnend.</s>
+					<s n="9" xml:lang="la" type="auto">Levit. 10 [1-5].</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Ottho, <persName>Wolff</persName>, <persName>Zingg</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+				<p>
+					<note type="PS">[Darunter von Gwalthers Hand:]</note>
+					<s n="11" xml:lang="la" type="auto"><pb type="edition" next="566"/>Quid domini iuvat, ah miseri, contemnere verbum?</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Viribus a vestris non petit illud opem<note xml:id="fn7" type="footnote" n="7">Das Distichon findet sich auch in <persName>Gwalthers</persName> Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

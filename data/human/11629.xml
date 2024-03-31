@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11629" type="Brief" source="HBBW" n="1586">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Kaspar Megander (Großmann), Heinrich Bullinger / Zürich AN Johannes Stumpf, 15. November 1541</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName>Caspar Megander</persName> et H. Bullingerus <persName>Stumpfio</persName> suo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gratiam et pacem etc.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Oramus tuam humanitatem, Stumphi doctissime, ut causam suscipias Finssleri<note xml:id="fn1" type="footnote" n="1"><persName>Benedikt Finsler</persName>, bis 1540 Diakon in Goßau (Kt. Zürich).</note> atque a fratribus capituli per preces nostras impetres, quo paupertatulam illius ipsi concedant, dissoluto iuris vinculo<note xml:id="fn2" type="footnote" n="2">Über Verbindlichkeiten <persName>Finslers</persName> gegenüber den Pfarrern des Kapitels <placeName>Wetzikon</placeName> ist sonst nichts bekannt.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Pollicitus est nobis proxima in synodo<note xml:id="fn3" type="footnote" n="3">Da die Herbstsynode ausfiel (vgl. oben <ref target="file11615">Nr. 1572</ref>), muss die Frühjahrssynode vom 3. Mai 1541 gemeint sein. Im Protokoll (Zürich StA, E II 1, 265-274) ist über diese Angelegenheit nichts zu finden.</note> appensurum, quicquid instructi a vobis indixerimus.</s>
+					<s n="5" xml:lang="la" type="auto">Nos quia scimus miserum praemi paupertate et inopia, non gravatim has ad vos scripsimus precantes, ut concedatis sponte, quae hactenus auferre per vos non potuit.</s>
+					<s n="6" xml:lang="la" type="auto">Speramus autem preces nostras apud vos valituras.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Vale cum omnibus tuis.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Tiguri, 15. novembris anno 1541.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11948" type="Brief" source="HBBW" n="1901">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Sixt (Xystus) Birck (Betuleius) / Augsburg AN Heinrich Bullinger, 25. April [1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
+					<s n="2" xml:lang="la" type="auto">Sex anni iam et quatuor praeterea menses abiverunt, vir doctissime, ex quo a te literas accepi, quae me Tygurum ad Susannae nostrae actum invitabant<note xml:id="fn2" type="footnote" n="2">Das Einladungsschreiben ist nicht erhalten, wohl aber <persName>Bircks</persName> Antwort (s. oben Anm. 1).</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Erant hae nomine partim tuo, partim domini <persName>Pellicani</persName>, praeceptoris mei colendissimi, et <persName ref="p4196">Binderi</persName>, paedodidascali vestri nomine scriptae.</s>
+					<s n="4" xml:lang="la" type="auto">Erat ea res mihi pergrata, impossibile tamen, ut Tygurum adirem spectatum, quum eo die ageretur ludus, quo ego literas vestras acceperam.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Ecce tibi, mitto tibi aliud drama huic tempori meo iudicio non incongruum, si id etiam forte iuventus vestra actura sit<note xml:id="fn4" type="footnote" n="4">Über eine eventuelle Aufführung von <persName>Bircks</persName> "Judith" in Zürich liegen keine Nachrichten vor.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Mitto unum dumtaxat vobis exemplar, quia non minus bene quam illud<note xml:id="fn5" type="footnote" n="5"><persName>Bircks</persName> Schauspiel "Susanna".</note> correctum est, licet ipse prelo diligentissime advigilaverim.</s>
+					<s n="7" xml:lang="la" type="auto">Si hoc itaque, ut illud<note xml:id="fn6" type="footnote" n="6"><persName>Bircks</persName> "Susanna" war 1538 von <persName>Christoph Froschauer</persName> gedruckt worden; s. <bibl>BZD</bibl> C 271.</note>, <persName ref="p5295">Christophori</persName> prelo committere volueritis, nihil repugnabo; nam ob hoc ipsum tibi exemplum<pb type="edition" next="217"/> lituris conspersum mitto.</s>
+					<s n="8" xml:lang="la" type="auto">Rogo tuam humanitatem, ut aequi bonique consulas.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Dominum patrem <persName>Pellicanum</persName> atque etiam Binderum nomine meo salutato et eos insuper, cum quibus mihi nulla prorsus hactenus familiaritas intercessit, ne scriptis quidem, <persName>Bibliandrum</persName>, <persName>Calvinum</persName>, Gvalterum et alios pios doctosque vestrates, quorum nomina colo et veneror etiam absens et ignotus.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Vale bene.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Ex <placeName>Augusta Vindelicorum</placeName>, 7. calendas maii.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">T[uae] d[ominationi] deditissimus <persName>X[ystus] Betuleius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Doctissimo piissimoque viro domino Heinrico Bullingero, Tygurinae ecclesię antistiti, domino suo colendissimo.</s>
+					<s n="14" xml:lang="la" type="auto">Tyguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

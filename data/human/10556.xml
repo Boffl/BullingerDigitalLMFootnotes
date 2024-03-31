@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10556" type="Brief" source="HBBW" n="520">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 1. Februar 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Literas tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten (vgl. dazu <hi>Jenny,</hi> <persName>Comander</persName> II, aaO, S. 32).</note>, ornatissime Bullingere, accepi, et ea, que scire desyderas, quanta potui sedulitate perscrutari conatus sum.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Ex relatione negotiatorum haec habemus, ducem Turcae, Barbarussa cognominatum, regnum quoddam coepisse eo loco, ubi quondam Chartago fuit;</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto"><pb type="edition" next="81"/><placeName>Itali</placeName> Donys<note xml:id="fn4" type="footnote" n="4"><placeName>Tunis</placeName>.</note> vocant.</s>
+					<s n="5" xml:lang="la" type="auto"><persName>Caesar</persName>, ut aiunt, aliquot conscripturus est milites ex Germania atque eo missurus.</s>
+					<s n="6" xml:lang="la" type="auto">Nihilominus ferunt ipsum venturum ad auras vernas <placeName>Mediolanum</placeName><note xml:id="fn6" type="footnote" n="6">Der Kaiser scheint in dieser Zeit ein Unternehmen in <placeName>Italien</placeName> geplant zu haben (vgl. <hi>Brandi</hi> I 312); er blieb dann aber bis zum Aufbruch nach <placeName>Tunis</placeName> in <placeName>Spanien</placeName> (vgl. <bibl>Stälin</bibl> 572).</note>.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Etiam nonnihil turbarum ortum est inter papam <persName>Paulum</persName> 3. et ducem Urbini<note xml:id="fn7" type="footnote" n="7"><persName>Francesco Maria I. della Rovere</persName>, gest. 1538.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Cuiusdam principis<note xml:id="fn8" type="footnote" n="8"><persName>Giovanni Maria da Varano</persName>, Herzog von Camerino.</note> filia<note xml:id="fn9" type="footnote" n="9"><persName>Giulia da Varano</persName>.</note> defuncta sua stirpe tota sola permansit superstes.</s>
+					<s n="9" xml:lang="la" type="auto">Illam sanctissimus ambivit filio<note xml:id="fn10" type="footnote" n="10"><persName>Pier Luigi Farnese</persName>, gest. 1547.</note> suo in coniugem, sed cum tardior esset, dux Urbini illam abduxit ac suo filio in sponsam delegit.</s>
+					<s n="10" xml:lang="la" type="auto">Istuc fortassis fomentum belli erit apud ambitiosos illos et pertinaces homines.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Nihil praeterea fertur, quod tua referat aut delectet.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ex <placeName>Curia</placeName> Rhetica, prima februarii 35.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Tibi deditus <persName ref="p4564">Ioannes Comander</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="14" xml:lang="la" type="auto">Eximio ac doctissimo viro M. Heinricho Bullingero, Tygurinae ecclesiae antistiti, suo domino observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

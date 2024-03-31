@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10795" type="Brief" source="HBBW" n="757">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Thomas Blarer (Blaurer) d.J., 6. März 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid vonn gott durch unsernn herren Iesum Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Früntlicher, lieber herr unnd bruͦder, allß ich nach üwerm begär uwer sach, mir letst verschryben<note xml:id="fn1" type="footnote" n="1">Siehe oben <ref target="file10794">Nr. 756</ref>.</note>, hab angehept nachzevragen, hab ich vernummen, dass ir nitt bedörffennd die pfaffen<note xml:id="fn2" type="footnote" n="2">die Domherren.</note> füremmen<note xml:id="fn3" type="footnote" n="3">gerichtlich belangen (<bibl>SI</bibl> IV 746).</note>, diewyl sich die sach der massen geschickt<note xml:id="fn4" type="footnote" n="4">verhält (<bibl>SI</bibl> VIII 507f).</note>, dass sy üch werdent muͤssen annemmen<note xml:id="fn5" type="footnote" n="5">belangen (<bibl>SI</bibl> IV 739f).</note>.</s>
+					<s n="3" xml:lang="de" type="auto">Dem ist also: Es habend die pfaffen uff den 4. martii die verfallenen zynss von minem herren burgermeister<note xml:id="fn6" type="footnote" n="6"><persName>[Diethelm] Röist</persName>.</note> geforderet, dass der inen vergunnen<note xml:id="fn8" type="footnote" n="8">bewilligen (<bibl>SI</bibl> II 334).</note> wölle, die ze zyehenn.</s>
+					<s n="4" xml:lang="de" type="manual">Und<pb type="edition" next="158"/> gründent sich fürnemlich uff die erlangt urteyl vonn 10 orten gegäben der guͤternn imm Durgöw ligend; vermeynend, es sölle ouch under den orten glyche urteyl gällten etc.</s>
+					<s n="5" xml:lang="de" type="auto">Darüber aber irem schaffner<note xml:id="fn10" type="footnote" n="10"><persName>Kaspar Bodmer</persName>, Amtmann des Domkapitels <placeName>Konstanz</placeName> in Zürich (vgl. Zürich StA, C 116, <ref target="file10168">Nr. 137</ref>f).</note> antwurt worden, man werde die zynß one rächt<note xml:id="fn11" type="footnote" n="11">(gerichtliche) Feststellung des Anspruchs (<bibl>SI</bibl> VI 252f).</note> gar niemands lassen.</s>
+					<s n="6" xml:lang="de" type="auto">Und diewyl ein statt <placeName>Constantz</placeName> ansprächig<note xml:id="fn12" type="footnote" n="12">Anspruch erhebt (<bibl>SI</bibl> X 734f).</note> an die zynss, söllind sy, die pfaffen, tag erwerben, so wölle man sy, so beyd theyl zuͦgägen, verhörren und der gepür nach handlen.</s>
+					<s n="7" xml:lang="de" type="auto">Also stadt es jetzund.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Daby hab ich vernommen grossen gunst gägen der statt Constans, dass, wo yenen<note xml:id="fn14" type="footnote" n="14">irgendwie (<bibl>SI</bibl> I 296).</note> fuͦg und rächt funden, wirt üch verlangen<note xml:id="fn15" type="footnote" n="15">zukommen (<bibl>SI</bibl> III 1331).</note>, das ir begärend.</s>
+					<s n="9" xml:lang="de" type="auto">Darzuͦ hab ich gemerckt, dass sy mitt der urteyl der 10 orten inn miner herren gepiet wenig oder gar nüt schaffen<note xml:id="fn16" type="footnote" n="16">bewirken (<bibl>SI</bibl> VIII 308).</note> werdint.</s>
+					<s n="10" xml:lang="de" type="auto">Es vermeynend guͦte herren, Zürych sye noch nitt ein vogthy, dass die vogtyischen urteyl sy bezwingind etc.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Sölichs laß ich üch guͦter meinung uff uwer begär wüssen, und was mir wyter ze wüssen thon, söllend ir ouch vernemmen<note xml:id="fn17" type="footnote" n="17">Vgl. unten <ref target="file10803">Nr. 765</ref>, 1-4 mit Anm. 1.</note>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">Gott sye mitt üch.</s>
+					<s n="13" xml:lang="de" type="auto">Grützend mir doctor <persName>Hansen</persName><note xml:id="fn18" type="footnote" n="18"><persName>Johannes Zwick</persName>.</note>, j[unker] Cunradten<note xml:id="fn19" type="footnote" n="19"><persName>Konrad Zwick</persName>.</note> und andere liebe herren und bruͤder.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">6. martii 1536.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Heinrych Bullinger, der üwer.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="de" type="auto">Dem ersammen, frommenn und wysen <persName>Thoman Blaurer</persName>, deß radts ze <placeName>Costantz</placeName>, sinem lieben herren.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

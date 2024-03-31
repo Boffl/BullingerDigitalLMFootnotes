@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11397" type="Brief" source="HBBW" n="1354">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Johannes Stumpf, [Februar 1540]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid von gott etc.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Das buͦch<note xml:id="fn2" type="footnote" n="2">Um welches Buch es sich handelt, ist nicht bekannt.</note> hab ich wider empfangen von bruͦder Wolffen<note xml:id="fn3" type="footnote" n="3">Gemeint ist wahrscheinlich <persName>Wolfgang Meyer</persName>; über diesen vgl. <bibl>HBBW</bibl> IX <ref target="file11340">[Nr. 1297]</ref>, S. 198, Anm. 4, und unten <ref target="file11465">Nr. 1422</ref>.</note>; begärte, wo es üch nitt ungelägen were, ir wöltind mir ouch das buͤchlin bald zuͦschicken, das ich üch von der handlung concordie gelyhen hab etc.<pb type="edition" next="46"/></s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Die 4 ß sind mir ouch worden<note xml:id="fn5" type="footnote" n="5">habe ich auch erhalten.</note>, deßglych die 15 batz.</s>
+					<s n="4" xml:lang="de" type="auto">Der überigen schuld ist noch 10 ß; der dörffend ir ghein acht haben<note xml:id="fn6" type="footnote" n="6">darüber macht euch keine Sorgen.</note>.</s>
+					<s n="5" xml:lang="de" type="auto">Wirt mir hie neißwas<note xml:id="fn7" type="footnote" n="7">etwas.</note>, so gib ichs, wo nitt, so gib ichs uß dem minen.</s>
+					<s n="6" xml:lang="de" type="auto">Und söllend niemandts wyter ansträngen.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">So bald ich ettwas gwisses uß Engelland hätte, wölt ich üch mitteylen.</s>
+					<s n="8" xml:lang="de" type="auto">Mitt der Öw ist noch nüt uußgemacht; die dommpfaffen hättends gern, min herren und ander werrend.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="de" type="auto">Der keyser ist zuͦ Parys gewäsen und ist jetzt in <placeName>Flandern</placeName><note xml:id="fn9" type="footnote" n="9"><persName>Kaiser Karl V.</persName> weilte vom 1. bis 7. Januar 1540 in <placeName>Paris</placeName>, zog weiter durch <placeName>Frankreich</placeName> und traf am 29. Januar in <placeName>Brüssel</placeName> ein; s. <hi>Stälin 574.</hi></note>.</s>
+					<s n="10" xml:lang="de" type="auto">Vil prachts wirt geprucht.</s>
+					<s n="11" xml:lang="de" type="auto">Ich besorg, man werde die unsern mee mitt listen zuͦ hindergon dann mitt dem schwärt zuͦ nöten underston<note xml:id="fn10" type="footnote" n="10">versuchen.</note>.</s>
+					<s n="12" xml:lang="de" type="auto">Damitt wirt man inen ouch mee angewünnen<note xml:id="fn11" type="footnote" n="11">beikommen.</note> dann mitt gewallt.</s>
+					<s n="13" xml:lang="de" type="auto">Die unsern vermeinend redlich und dappffer zuͦ sin.</s>
+					<s n="14" xml:lang="de" type="auto">Gott gäb gnad.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Wenn ich schon zuͦ üch hinuff<note xml:id="fn12" type="footnote" n="12">nach <placeName>Bubikon</placeName>.</note> kumb, wil ich gheiner versammlung und unruͦw oder kostens, den die bruͤder mitt mir habind; ich wurde ee daheim blyben.</s>
+					<s n="16" xml:lang="de" type="auto">Wenn ich zuͦ üch käm, so käm ich mee, daß ich ein wenig uß der unruͦw entflüch und mich mitt üch, einen oder 2 uffs höchst, erfrowte etc.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Der stucken uff<pb type="scan" next="639v."/> die luten<note xml:id="fn13" type="footnote" n="13">Lied-, Gesangsstücke für die Laute.</note> söllend ir gewüß sin.</s>
+					<s n="18" xml:lang="de" type="auto">Empfellend ettwan einen inet 8 tagen har zum huß<note xml:id="fn14" type="footnote" n="14">zu mir nach Hause.</note> ze vragen etc.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Ich ha[b] in so grosser unmuͦß<note xml:id="fn15" type="footnote" n="15">mit so vielen Geschäften überhäuft.</note> geschriben, alls ich nitt ettlic[h] manot gehept.</s>
+					<s n="20" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Tuus ex animo H. B.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="22" xml:lang="la" type="auto"><persName>Stumpfio</persName> suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

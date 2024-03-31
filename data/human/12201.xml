@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12201" type="Brief" source="VBS" n="86">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger AN Joachim Vadian (von Watt), um den 10. Mai 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Des Turgöws mögend wir nitt länger me warten.</s>
+					<s n="2" xml:lang="de" type="auto">Dorumb thuͦnd alls ein guͦter herr und fründ und, sobald ir ein botten überkumend, schickend mirs; dann das ander alles gräch ist.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

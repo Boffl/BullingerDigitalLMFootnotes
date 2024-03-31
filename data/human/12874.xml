@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12874" type="Brief" source="TUSTEP" n="2825">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 25. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia tibi et pax a deo patre nostro et domino Iesu Christo, frater in domino plurimum colende.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Librum tuum simul atque domum sum reversus legi.</s>
+					<s n="3" xml:lang="la" type="auto">Silentium quod a me stipulatus es bona fide praestabo usque ad extremum.</s>
+					<s n="4" xml:lang="la" type="auto">Ne dubita.</s>
+					<s n="5" xml:lang="la" type="auto">Iudicium quod hic subiiciam cupio tibi probatum iri.</s>
+					<s n="6" xml:lang="la" type="auto">Cuperem enim mirum in modum aliquando penitus inter nos convenire.</s>
+					<s n="7" xml:lang="la" type="auto">Sin minus, rogo ut meam libertatem boni consulas, si hoc facerem iniussu tuo.</s>
+					<s n="8" xml:lang="la" type="auto">Quia tamen non dubito quin persuasum habeas me tibi amicum esse, tuae humanitatis foret, in bonam partem accipere quod a sincero animo profectum scires.</s>
+					<s n="9" xml:lang="la" type="auto">Nunc vero, quum huc non alio quam tibi obsequendi studio adductus fuerim, confido meum officium tibi potius gratum fore quam ut offensionis sit causa.</s>
+					<s n="10" xml:lang="la" type="auto">Breviter autem singula capita perstrinxi, quia supervacuum esse ducebam longis rationibus tecum agere.</s>
+					<s n="11" xml:lang="la" type="auto">Quare nolim existimes, me praecise, tanquam censorio stylo, tecum agere, sed potius familiaritati tribuas, quod digito contentus [sum] tibi indicare quid desiderem.</s>
+					<s n="12" xml:lang="la" type="auto">Non disputo tecum longius, sed tantum moneo ut pro tua prudentia rem ipse tuo iudicio expendas.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="13" xml:lang="la" type="auto">1. In primo capite vitium hoc animadverti quod divisiones signorum, varias quidem illas sed tamen rite consentientes, quasi inter se contrarias opponis.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="14" xml:lang="la" type="auto">2. Capite secundo non placet quod verbum sacramenti facis militare.</s>
+					<s n="15" xml:lang="la" type="auto">Fateor certe baptismum et sacram coenam aliquid habere quod sacramentis militaribus respondeat.</s>
+					<s n="16" xml:lang="la" type="auto">Sed tu etymologiam quaeris quam autores primi huius vocabuli respexerint.</s>
+					<s n="17" xml:lang="la" type="auto">Ego autem video, statim ab ecclesiae primordio Latinos sacramenta nuncupasse quae Graecis essent <foreign xml:lang="el">μυστήρια</foreign>.</s>
+					<s n="18" xml:lang="la" type="manual">Nam et vetus interpres in hac significatione saepius usus est, tam in veteri quam in novo testamento.</s>
+					<s n="19" xml:lang="la" type="auto">Et aliis scriptoribus vix alia vox est magis usitata.</s>
+					<s n="20" xml:lang="la" type="auto">Proinde extra controversiam pono sacramenta olim dicta fuisse quasi mysteria.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="21" xml:lang="la" type="auto">3. Capite tertio locum Pauli: Omnia illis contigerunt in figuris [1Kor 10, 6. 11], alio transfers quam ferat mens apostoli.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="22" xml:lang="la" type="auto">4. Capite quinto verum est aliquo sensu quod dicis, nusquam deum promittere se corporaliter affuturum cum signis.</s>
+					<s n="23" xml:lang="la" type="auto">Optarim tamen dici paulo clarius.</s>
+					<s n="24" xml:lang="la" type="auto">Nam certe dominus, quum scalae insideret, exhibuit se videndum patri nostro Iacob sub figura corporali.</s>
+					<s n="25" xml:lang="la" type="auto">Et eius generis exempla passim exstant.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Quod extemplo addis de symbolicis loquutionibus, mallem in suum locum differri: ne bis in idem.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Argumentum quo illic uteris nullum apud me pondus habet.</s>
+					<s n="28" xml:lang="la" type="auto">Negas haec domini verba: Facite in mei memoriam [Lk 22, 19; 1Kor 24f], permittere ut realem eorum praesentiam statuamus quorum meminisse debemus.</s>
+					<s n="29" xml:lang="la" type="auto">Eadem accipio pro vera.</s>
+					<s n="30" xml:lang="la" type="auto">Quid enim aliud res quam veritas?</s>
+					<s n="31" xml:lang="la" type="auto">Dico memoriam rei praesentis in coena esse.</s>
+					<s n="32" xml:lang="la" type="auto">Atqui memoria est rerum absentium.</s>
+					<s n="33" xml:lang="la" type="auto">Neque id pugnat.</s>
+					<s n="34" xml:lang="la" type="auto">Abest enim Christus a coena quoad oculos, quoad omnes corporis sensus, quoad locum.</s>
+					<s n="35" xml:lang="la" type="auto">Nam in coelo est eius corpus.</s>
+					<s n="36" xml:lang="la" type="auto">Coena peragitur in terris.</s>
+					<s n="37" xml:lang="la" type="auto">Longa distantia.</s>
+					<s n="38" xml:lang="la" type="auto">Sed adest piis animis per spiritus sui virtutem, quia non impedit Christi distantia, quominus suos mirabiliter pascat.</s>
+					<s n="39" xml:lang="la" type="auto">Eiusdem est rationis locus ille Pauli: Celebrate mortem donec veniat [1Kor 11, 26].</s>
+					<s n="40" xml:lang="la" type="auto">Neque enim descendit ad nos Christus e coelo, neque oculis cernitur, sed fide tantum nobis adest.</s>
+					<s n="41" xml:lang="la" type="auto">Itaque non pugnat spiritualis eius coniunctio nobiscum et extremus adventus.</s>
+					<s n="42" xml:lang="la" type="auto">Nec quidquam obstat quominus essentialiter, hoc est, ipsemet revera Christus exhibeatur nobis, et tamen venturus exspectetur usque ad diem resurrectionis, quia in coelo manet.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Aliquanto post, ubi reprehendis eos qui coeli nomine non locum sed conditionem intelligunt, tametsi in re ipsa tibi assentior, velim tamen cum illis mitius agi.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="la" type="auto">Circa finem capitis hoc tibi non concedent omnes, quod dominus dixerit carnem suam corporaliter manducatam non prodesse, nisi corporaliter exponas: corporali modo.</s>
+					<s n="45" xml:lang="la" type="auto">Sed hoc tibi in causa quam tractas nihil suffragatur.</s>
+					<s n="46" xml:lang="la" type="auto">Neque enim carnalem manducationem asserunt multi qui tamen realem asserunt.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="47" xml:lang="la" type="auto">Capite sexto, quod verbum benedictionis pro consecratione usquam accipi negas, in eo abs te dissentio.</s>
+					<s n="48" xml:lang="la" type="auto">Nam quum scribit Paulus: Calix benedictionis cui benedicimus [1Kor 10, 16], haec syntaxis gratiarum actioni non congruit.</s>
+					<s n="49" xml:lang="la" type="auto">Et certe sanctificantur symbola quum destinantur in proprium usum secundum Christi institutionem.</s>
+					<s n="50" xml:lang="la" type="auto">Quod tu quoque fateris.</s>
+				</p>
+				<p>
+					<s n="51" xml:lang="la" type="auto">Eodem capite nimis, meo iudicio, vim externi verbi elevas.</s>
+					<s n="52" xml:lang="la" type="auto">Quanquam argumentum quod explicas non improbo.</s>
+					<s n="53" xml:lang="la" type="auto">Tantum in extenuatione mihi videris nimius.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="54" xml:lang="la" type="auto">Capite octavo mihi non penitus satisfacit definitio unionis, quam ponis, signi cum re signata.</s>
+					<s n="55" xml:lang="la" type="auto">In exceptionibus, quae crassas opiniones et quidquid est superstitionis excludant, libenter tibi subscribam.</s>
+					<s n="56" xml:lang="la" type="auto">Verum simul plenius demonstari cupiam, qualiter verax sit deus praestando quod figurat.</s>
+					<s n="57" xml:lang="la" type="auto">Id quum intendis facere analogiam proponis unionis loco.</s>
+					<s n="58" xml:lang="la" type="auto">Atqui longe plus est.</s>
+					<s n="59" xml:lang="la" type="auto">Nempe veritas et complementum analogiae.</s>
+					<s n="60" xml:lang="la" type="auto">Quemadmodum in baptismo analogia est purgationis inter Christi sanguinem et aquam, mortificationis rursum et novitatis vitae inter mortem ac resurrectionem Christi et extemporalem submersionem.</s>
+					<s n="61" xml:lang="la" type="auto">Unio est rei figuratae complementum: Quo fit ne signum sit inane, quia dominus quod signo repraesentat simul efficit, impletque in nobis spiritus sui virtute.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="62" xml:lang="la" type="auto">In coena analogia est quam describis inter panem ac corpus Christi, inter sanguinem et vinum.</s>
+					<s n="63" xml:lang="la" type="auto">Unio est spiritualis nostra cum Christo coniunctio, qua fit ut vere ipso animae nostrae pascantur.</s>
+					<s n="64" xml:lang="la" type="auto">Haec ratio est cur tua definitio mihi nimis sit ieiuna.</s>
+					<s n="65" xml:lang="la" type="auto">Verum hoc totum ab exhibitione pendet, de qua mox videbimus.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="66" xml:lang="la" type="auto">In eodem capite nonnihil me offendit quod <foreign xml:lang="el">μετωνυμίαν</foreign> quae in sacramentis est simpliciter comparas profanis imaginibus.</s>
+					<s n="67" xml:lang="la" type="auto">Neque vero nego quin aliqua sit similitudo.</s>
+					<s n="68" xml:lang="la" type="auto">Verum simul addenda erat diversitas et gradus notandi.</s>
+					<s n="69" xml:lang="la" type="auto">Ubi enim spiritus in imagine caesaris, qui ipsam quodammodo vivificet, quo efficax sit in cordibus nostris?</s>
+					<s n="70" xml:lang="la" type="auto">Scio multos bonos viros abhorruisse a Zwinglii doctrina, quod toties occurreret ista comparatio absque correctione.</s>
+					<s n="71" xml:lang="la" type="auto">Inde enim colligebant fieri ex coena theatricum spectaculum.</s>
+					<s n="72" xml:lang="la" type="auto">Atque in his etiam est Philippus<note xml:id="fn42" type="footnote" n="42"><persName>Philipp Melanchthon</persName>.</note>.</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="73" xml:lang="la" type="auto">Capite decimo, ubi de gratiae nomine disputas, addenda esset metonymica significatio, quod ad dona gratuita transfertur, quia effectus sunt gratiae.</s>
+				</p>
+				<p>
+					<s n="74" xml:lang="la" type="auto">Paulo post non placet etiam quod tam rigidus es in exponendo verbo conferendi.</s>
+					<s n="75" xml:lang="la" type="auto">Scis cavendum semper esse, ne merito queratur adversarius per calumniam detortum, quod saniore aut magis tolerabili sensu dixerat.</s>
+					<s n="76" xml:lang="la" type="auto">Porro qui docent, sacramenta conferre gratiam, non hoc sane intelligunt, dare iustitiam aut aliquid simile, sed nobis administrare dei gratias.</s>
+					<s n="77" xml:lang="la" type="auto">Atque hoc sensu accipitur a Fabio quum dicit: Aves ore suo conferre cibum pullis.</s>
+					<s n="78" xml:lang="la" type="auto">Locum ergo mitigari vellem, ne reprehendendi ardore arripuisse videaris quod erat minus odiosum.</s>
+					<s n="79" xml:lang="la" type="auto">Imo quid est in hac sententia absurdi, sacramenta nobis adiumenta esse ad percipiendam dei gratiam?</s>
+					<s n="80" xml:lang="la" type="auto">Excipies, hoc esse minus quam conferre.</s>
+					<s n="81" xml:lang="la" type="auto">Concedo.</s>
+					<s n="82" xml:lang="la" type="auto">Sed gratiam spiritus adiunges, qui est anima sacramentorum: Tunc prorsus illud verum erit, sacramentis conferri gratiam.</s>
+					<s n="83" xml:lang="la" type="auto">At loquutio est durior.</s>
+					<s n="84" xml:lang="la" type="auto">Ergo aut satis sit ab ea abstinere, aut sana interpretatione molliatur.</s>
+				</p>
+				<p>
+					<s n="85" xml:lang="la" type="auto">Capite eodem causam non reperio ut locum Bonaventurae tantopere exagites.</s>
+					<s n="86" xml:lang="la" type="auto">Carentes, inquis, dei gratia inconsulte remittit ad sacramenta.</s>
+					<s n="87" xml:lang="la" type="auto">Qui sic?</s>
+					<s n="88" xml:lang="la" type="auto">Quum haec nobis adminicula ordinaverit deus, quibus ad ipsum dirigamur?</s>
+					<s n="89" xml:lang="la" type="auto">At deus gloriam suam non transfert ad elementa.</s>
+					<s n="90" xml:lang="la" type="auto">Fateor.</s>
+					<s n="91" xml:lang="la" type="auto">Sed hoccine est transferri dei gloriam ad creaturas, quum tanquam organis utitur ad distribuendam suam gratiam?</s>
+					<s n="92" xml:lang="la" type="auto">Ergo sol ne illuminet terram, ergo ne panis alat.</s>
+					<s n="93" xml:lang="la" type="auto">Rursum excipis: Deus ad se vocat non ablegat nos ad sacramenta.</s>
+					<s n="94" xml:lang="la" type="auto">Quasi vero sacramenta nos retineant in se ipsis, ac non potius ad Christum manu ducant.</s>
+					<s n="95" xml:lang="la" type="auto">In hoc sacrilegi sunt papistae, quia ex sacramentis impendimenta faciunt ne recta ad Christum veniant piae an animae, ut ex unico illo fonte hauriant quidquid est boni.</s>
+				</p>
+				<p>
+					<s n="96" xml:lang="la" type="auto">In fine capitis ita concludis demum: Quisquis in Christum credit, iustificatus est fide sua priusquam sacramentis communicet: Ergo constat non conferri gratiam per sacramenta.</s>
+					<s n="97" xml:lang="la" type="auto">Apud me autem valet contrarium argumentum: Quia fide iustificamur, ideo per sacramenta conferri nobis gratiam, quia fidei exercitia sunt, quae eatenus cumulant nos donis spiritualibus, adeoque participes Christi faciunt, quatenus fidem nostram promovent.</s>
+					<s n="98" xml:lang="la" type="auto">Ex sene, inquies, aut per se?</s>
+					<s n="99" xml:lang="la" type="auto">Nequaquam.</s>
+					<s n="100" xml:lang="la" type="auto">Sed quatenus serviunt fidei, et per ea spiritus Christi efficaciter agit in electis, sine quo mortua est res ac inutilis sacramentum.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="101" xml:lang="la" type="auto">In capite undecimo valde miratus sum rerum exhibitionem non modo negari abs te, sed acriter etiam vexari.</s>
+					<s n="102" xml:lang="la" type="auto">Vocem ipsam Thomistis fers acceptam.</s>
+					<s n="103" xml:lang="la" type="auto">Sed ubi, quaeso, erit dei veritas sublata exhibitione?</s>
+					<s n="104" xml:lang="la" type="auto">Christus panem et vinum porrigendo corpus et sanguinem suum mihi promittit.</s>
+					<s n="105" xml:lang="la" type="auto">Signum accipio.</s>
+					<s n="106" xml:lang="la" type="auto">Rem mihi simul dari negas.</s>
+					<s n="107" xml:lang="la" type="auto">Nonne id lusorium est?</s>
+					<s n="108" xml:lang="la" type="auto">Nam exhibere in hoc loco nihil aliud mihi est quam fruendum dare.</s>
+					<s n="109" xml:lang="la" type="auto">Id in sacramentum negabis competere quia proprium dei est.</s>
+					<s n="110" xml:lang="la" type="auto">De eo minime pugnabo tecum, quia nihil plus tribuo sacramento, quam ut sit dei organum, et quidem nullius efficaciae, nisi quam a spiritu dei mutuatur.</s>
+					<s n="111" xml:lang="la" type="auto">Sed dicis: Non continent in se dei gratiam sacramenta, ergo non exhibent.</s>
+					<s n="112" xml:lang="la" type="auto">Non valet haec consequentia.</s>
+					<s n="113" xml:lang="la" type="auto">Quanquam tibi non concedo sacramentis non contineri dei gratiam quoad dispensationem, quum ita loquor non significo inclusam esse, sed quemadmodum dicere solemus, Christum in evangelio contineri.</s>
+					<s n="114" xml:lang="la" type="auto">Nam certe Christus per evangelium nobis exihibetur, aut falsum erit illud Pauli: Venisse Corinthios in eius communionem per evangelium.</s>
+					<s n="115" xml:lang="la" type="auto">Hoc modo nulla oculis meis caligo offusa est, quominus perspicue distinguam quae confundi non debent.</s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="116" xml:lang="la" type="auto">Desideras tamen scripturae locos quibus id probetur.</s>
+					<s n="117" xml:lang="la" type="auto">Respondeo, si tuas admittimus solutiones, nihil ex scripturis probatum iri.</s>
+					<s n="118" xml:lang="la" type="auto">Nam dum Paulus mundari ecclesiam dicit lavacro aquae in verbo vitae, allegas symbolicam esse loquutionem.</s>
+					<s n="119" xml:lang="la" type="auto">Inde colligis, aquam igitur esse signum.</s>
+					<s n="120" xml:lang="la" type="auto">Utrumque libenter tibi concedo, utrumque etiam tecum profiteor.</s>
+					<s n="121" xml:lang="la" type="auto">Sed nondum es expeditus quemadmodum putas.</s>
+					<s n="122" xml:lang="la" type="auto">Inane enim erit et fallax symbolum, nisi purgationis quam figurat verum sit pignus, vera obsignatio, quorum utrumque exhibitionem requirit.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="123" xml:lang="la" type="auto">Similis est aliorum ratio.</s>
+					<s n="124" xml:lang="la" type="auto">Proinde sim brevior, aliis exemplis praeteritis unum illud sumam: Hoc est corpus meum quod pro vobis traditur.</s>
+					<s n="125" xml:lang="la" type="auto">Panem esse signum contendis.</s>
+					<s n="126" xml:lang="la" type="auto">Idem sentimus.</s>
+					<s n="127" xml:lang="la" type="auto">Exhibitionem negas.</s>
+					<s n="128" xml:lang="la" type="auto">Ego contra assero.</s>
+					<s n="129" xml:lang="la" type="auto">In figura nodum putas explicari.</s>
+					<s n="130" xml:lang="la" type="auto">Non admitto.</s>
+					<s n="131" xml:lang="la" type="auto">Signum enim a deo vacuum non proficiscitur.</s>
+					<s n="132" xml:lang="la" type="auto">Neque vero tantum panis figurat Christi corpus fuisse semel pro me immolatum, sed mihi hodie in cibum dari quo vescar.</s>
+					<s n="133" xml:lang="la" type="auto">Religiose enim expendi debent haec verba: Accipite, edite.</s>
+					<s n="134" xml:lang="la" type="auto">Unde etiam Paulus vocat <foreign xml:lang="el">κοινωνίαν</foreign>.</s>
+					<s n="135" xml:lang="la" type="manual">Nec me latet ut torqueatur etiam hoc verbum.</s>
+					<s n="136" xml:lang="la" type="auto">Sed argutias nihil moror.</s>
+					<s n="137" xml:lang="la" type="auto">Vera certe repraesentatio coenae non erit, nisi participes Christi fiamus, in quo exhibitio est rei figuratae.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="138" xml:lang="la" type="auto">Venio ad alios locos qui non sunt de baptismo nec coena.</s>
+					<s n="139" xml:lang="la" type="auto">Spiritum sanctum negas fuisse cum flatu, quum in apostolos sufflavit Christus.</s>
+					<s n="140" xml:lang="la" type="auto">Cur ita?</s>
+					<s n="141" xml:lang="la" type="auto">Quia non circumscribitur, inquis.</s>
+					<s n="142" xml:lang="la" type="auto">At circumscriptionem ne papistae quidem asserunt.</s>
+					<s n="143" xml:lang="la" type="auto">Et tamen eorum argutias reiicio ac damno.</s>
+					<s n="144" xml:lang="la" type="auto">Ego, qui spiritum coniungo cum flatu, non imaginor coniunctionem loci, sed tantum qua constet signo sua veritas.</s>
+					<s n="145" xml:lang="la" type="auto">Hoc est, ne putemus inanem fuisse ac nihili gestum, sed quo Christus repraesentabat ob oculos, quod intus agebat arcana virtute.</s>
+					<s n="146" xml:lang="la" type="auto">Atque hoc statuo discrimen inter signa divinitus et humanitus instituta.</s>
+					<s n="147" xml:lang="la" type="auto">Homo enim multa signa comminisci poterit quae decenter aliquid figurent, sed sine re.</s>
+					<s n="148" xml:lang="la" type="auto">Solus est deus qui efficit spiritu suo quod symbolo figurat.</s>
+					<s n="149" xml:lang="la" type="auto">Similiter columba erat spiritus.</s>
+					<s n="150" xml:lang="la" type="auto">Quod tu ita negas ut videaris mihi fateri.</s>
+					<s n="151" xml:lang="la" type="auto">Dicis enim testimonium esse praesentiae.</s>
+					<s n="152" xml:lang="la" type="auto">Et quid ultra postulo?</s>
+					<s n="153" xml:lang="la" type="auto">Nam quod diserte caves ne quis putet substantialiter columbam fuisse spiritum, in eo me adstipulatorem habes.</s>
+					<s n="154" xml:lang="la" type="auto">Mihi satis est quod spiritus sanctus praesentiae suae symbolum in columba exhibendo se praesentem exhibuit.</s>
+					<s n="155" xml:lang="la" type="auto">Alterum enim sine altero esse nequit.</s>
+					<s n="156" xml:lang="la" type="auto">Alia quae addis parum ad rem faciunt.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="157" xml:lang="la" type="auto">De impositione manuum friget illa responsio, privilegium quoddam fuisse singulare in gloriam exorientis evangelii.</s>
+					<s n="158" xml:lang="la" type="auto">Quin etiam hoc antistrophon in te retorqueo.</s>
+					<s n="159" xml:lang="la" type="auto">Si in sacramentis temporalibus fuit rei exhibitio, quo tempore legitimus usus adhuc durabat, in signis ergo perpetuis esse perpetuam rei exhibitionem.</s>
+					<s n="160" xml:lang="la" type="auto">Quod alligatum fuisse spiritum manuum impositioni negas, tibi omnes concedent, quibuscum habes hoc capite certamen.</s>
+					<s n="161" xml:lang="la" type="auto">Nam et signum potuit interdum esse sine re.</s>
+					<s n="162" xml:lang="la" type="auto">Et deo liberum fuit gratiam quibus vellet non intercedente signo impertiri.</s>
+				</p>
+			</div>
+			<div xml:id="div16" corresp="regest16">
+				<p>
+					<s n="163" xml:lang="la" type="auto">Quod de tempore moves controversiam, quia non eodem semper momento res cum signo appareat, infirmum est.</s>
+					<s n="164" xml:lang="la" type="auto">Nam exhibitionem tibi esse concedo quae diverso fiat tempore.</s>
+					<s n="165" xml:lang="la" type="auto">Ut renovatio vitae, quam deus exhibet in baptismo, non sistitur illic ad manum, quasi sub aqua sit inclusa, sed gradatim proficiscitur a deo.</s>
+				</p>
+				<p>
+					<s n="166" xml:lang="la" type="auto">Quod allegas, solum deum esse autorem omnium quae adscribimus sacramentis, perinde valet ac si diceres: Solus deus illuminat, solus deus dat sapientiam, ergo lex dei nihil horum confert.</s>
+					<s n="167" xml:lang="la" type="auto">Quid enim deo abrogamus aut derogamus quum ipsum tradimus agere per sua instrumenta, et quidem solum?</s>
+					<s n="168" xml:lang="la" type="auto">Adde quod non est validius argumentum quo te convincam, quam illud ipsum quo effugere conaris.</s>
+					<s n="169" xml:lang="la" type="auto">Signa enim excludis, quia per fidem coelestium donorum fiamus participes, ego autem e converso: Si per fidem, igitur etiam per sacramenta.</s>
+					<s n="170" xml:lang="la" type="auto">Fides enim ex verbo et sacramentis.</s>
+					<s n="171" xml:lang="la" type="auto">Qua de re iterum dicturus sum.</s>
+				</p>
+				<p>
+					<s n="172" xml:lang="la" type="auto">Sed adducis, sanctos plerumque rerum ante fuisse compotes quam sacramentis participarent.</s>
+					<s n="173" xml:lang="la" type="auto">Quis negat?</s>
+					<s n="174" xml:lang="la" type="auto">Sed interea dicesne ita plenos fuisse ut nihil ex sacramentis accederet?</s>
+					<s n="175" xml:lang="la" type="auto">Eunuchus, inquis, credebat toto corde, ergo ex deo natus erat, deum habebat in se manentem, vivebat in deo, transierat a morte in vitam.</s>
+					<s n="176" xml:lang="la" type="auto">Hactenus tibi assentior.</s>
+					<s n="177" xml:lang="la" type="auto">Sed quum infers, baptismum non exhibuisse illi, quod prius habebat, in eo falleris, quod illi tribuis harum rerum plenitudinem, quas dico uberius ab ipso perceptas adminiculo baptismi.</s>
+					<s n="178" xml:lang="la" type="auto">Nam ita certe credebat ex toto corde ut fidei eius multum adhuc deesset.</s>
+					<s n="179" xml:lang="la" type="auto">Sincera enim fides esse potest quae tamen erit duntaxat inchoata.</s>
+					<s n="180" xml:lang="la" type="auto">Nihilo plus te iuvat Cornelii exemplum.</s>
+					<s n="181" xml:lang="la" type="auto">Vides me non tergiversari in istis solutionibus.</s>
+					<s n="182" xml:lang="la" type="auto">Quare vide ne argumentis nitaris quae doctrinam quam impugnas nihil laedant.</s>
+				</p>
+				<p>
+					<s n="183" xml:lang="la" type="auto">Nihilo etiam solidius est quod de coena ratiocinaris: Vetamur accedere ad coenam, nisi prius habito examine.</s>
+					<s n="184" xml:lang="la" type="auto">Qui se probat fidem habet.</s>
+					<s n="185" xml:lang="la" type="auto">Ergo antequam accedat quis ad coenam, insitus est Christo.</s>
+					<s n="186" xml:lang="la" type="auto">Quare non exhibetur Christus in coena.</s>
+					<s n="187" xml:lang="la" type="auto">Hoc quidem verum esset, si totum Christum possideret qui ad coenam se comparat.</s>
+					<s n="188" xml:lang="la" type="auto">Sed quorsum usus coenae est, nisi ut Christo plenius fruamur? ut crescat in nobis? ut uberius hauriamus ex eius spiritu?</s>
+				</p>
+				<p>
+					<s n="189" xml:lang="la" type="auto">Sed hoc quoque ipsum, quod vehementius miror, repudias, plenius exhiberi quod ex parte fuerat datum.</s>
+					<s n="190" xml:lang="la" type="auto">Nec tibi quidquam in eo patrocinatur apostolus quum docet, iustificatum fuisse Abraham in praeputio, ita ut circumcisio nihil addiderit ad illius iustitiam.</s>
+					<s n="191" xml:lang="la" type="auto">Opus certe circumcisionis nihil addidit, sed eliciam ex Pauli verbis, Abrahamo tanto plenius exhibitam fuisse dei gratiam, quanto maiores in fides progressus fecit.</s>
+					<s n="192" xml:lang="la" type="auto">Subiicit enim, circumcisionem vice sigilli fuisse.</s>
+					<s n="193" xml:lang="la" type="auto">Quorsum? ad obsignandam scilicet iustitiam fidei.</s>
+					<s n="194" xml:lang="la" type="auto">Si obsignat circumcisio Abrahae suam iustitiam, fidem ergo illi auget ac confirmat.</s>
+					<s n="195" xml:lang="la" type="auto">Unde colligo etiam facere ut plenius sua iustitia fruatur.</s>
+					<s n="196" xml:lang="la" type="auto">Nempe pro fidei suae modo.</s>
+					<s n="197" xml:lang="la" type="auto">Neque tamen ideo fingimus, per signa plenius iustificari hominem.</s>
+					<s n="198" xml:lang="la" type="auto">Nam de causa iustificationis hic non disputatur, sed de exhibitione quae fit piis conscientiis.</s>
+					<s n="199" xml:lang="la" type="auto">Eam verbo et sacramentis fieri contendimus.</s>
+					<s n="200" xml:lang="la" type="auto">Tu nihil affers quod repugnet.</s>
+				</p>
+				<p>
+					<s n="201" xml:lang="la" type="auto">Neque vero aliud sentimus quam sacramenta esse instrumenta, quod te non fugit.</s>
+					<s n="202" xml:lang="la" type="auto">Nam id nominatim impugnas quod solum deum dicimus proprie exhibere, sed per signa et per suos ministros.</s>
+					<s n="203" xml:lang="la" type="auto">Ac ne simplici quidem reprehensione contentus aliquanto acerbius in nos inveheris quam tuae modestiae congruebat.</s>
+					<s n="204" xml:lang="la" type="auto">Forte in mentem tibi non venit, sinistris istis suspicionibus, quarum invidia doctrinam nostram gravas, me perstringere.</s>
+					<s n="205" xml:lang="la" type="auto">Sed quid tum?</s>
+					<s n="206" xml:lang="la" type="auto">Huc tamen spectat tua oratio idque sibi vult, ut quicunque docuerit quod me conscientia docere cogit notam huius infamiae subeat, quasi tyrannidem affectet in animas.</s>
+				</p>
+				<p>
+					<s n="207" xml:lang="la" type="auto">Quum ad scripturam nos revocas, hoc, meo iudicio, proficis ut perspiciant omnes, scripturis esse traditum quod vis a nobis falso et periculose asseri.</s>
+					<s n="208" xml:lang="la" type="auto">Ministros scriptura testatur regenerare homines, corda ad deum convertere, remittere peccata.</s>
+					<s n="209" xml:lang="la" type="auto">Ut centies revolvas tales locos, nulla tamen invenietur magis dextra aut commoda interpretatio: Deum, cuius hoc totum proprium est, agere per suos ministros tanquam per organa.</s>
+					<s n="210" xml:lang="la" type="auto">Cur enim ecclesia mater omnium piorum nuncupatur, nisi quia eius ministerio deus nos regenerat?</s>
+					<s n="211" xml:lang="la" type="auto">Cur minister patrem se ecclesiae cui praeest vocare audet, nisi quia eius opera utitur deus?</s>
+					<s n="212" xml:lang="la" type="auto">An suspectus affectatae tyrannidis erit nobis Paulus quia predicat, Timotheo collatam fuisse gratiam per impositionem manuum suarum?</s>
+					<s n="213" xml:lang="la" type="auto">Hic certe non transfert ad se Paulus quod deo eripuerit.</s>
+					<s n="214" xml:lang="la" type="auto">Nam deum facit doni autorem, se duntaxat ministrum.</s>
+				</p>
+				<p>
+					<s n="215" xml:lang="la" type="auto">Quod nuper dicebam ministris Bernensis ecclesiae nunc apud te repeto, spiritum bifariam loqui de ministris.</s>
+					<s n="216" xml:lang="la" type="auto">Nunc enim considerat quid per se valeant, ac tunc spoliat ipsos omni virtute.</s>
+					<s n="217" xml:lang="la" type="auto">Unde illud: Qui plantat nihil est etc.</s>
+					<s n="218" xml:lang="la" type="auto">Minister igitur seorsum a deo erit nihil.</s>
+					<s n="219" xml:lang="la" type="auto">Nunc vero efficaciam suam coniungit ipsorum ministerio, atque ita ornat eos praeclaris elogiis, quibus tamen superbire non debet quispiam ac si aliquid esset.</s>
+					<s n="220" xml:lang="la" type="auto">Utrumque enucleate exprimitur tertio capite secundae ad Corinthios, ubi magnifice suum apostolatum effert Paulus, quia non separat se a spiritu dei, sed potius (quemadmodum alibi loquitur) praedicat dei potentiam in se et sua praedicatione efficacem.</s>
+					<s n="221" xml:lang="la" type="auto">Quanquam, ubi omnia dixisti, huc tandem recidis ut nobis quoque subscribas.</s>
+					<s n="222" xml:lang="la" type="auto">Haec verba tua sunt: Utitur deus Petri opera in convertendo Cornelio, ut Petri opus dei etiam opus sit.</s>
+					<s n="223" xml:lang="la" type="auto">Ita Petrus est cooperarius.</s>
+					<s n="224" xml:lang="la" type="auto">Quod de conversione tu fateris, ego ad alia omnia extendo.</s>
+					<s n="225" xml:lang="la" type="auto">Quid ergo frustra litigamus?</s>
+					<s n="226" xml:lang="la" type="auto">Postquam convenit solum deum et inchoare et perficere salutem nostram, sed per homines, habeo quod volebam: tua verba idem continent ac sonant quod in nobis impugnas.</s>
+				</p>
+				<p>
+					<s n="227" xml:lang="la" type="auto">Quod obiicis de pharisaica operum fiducia, si recipimus sacramentis exhiberi gratiam, adversus nos locum non habet.</s>
+					<s n="228" xml:lang="la" type="auto">Neque enim proprie loquendo sacramenta hominum opera censeri debent.</s>
+					<s n="229" xml:lang="la" type="auto">Ego, quum ad coenam accedo, nihil affero de meo, sed Christo me offero pascendum.</s>
+					<s n="230" xml:lang="la" type="auto">Ita hic nullum opus in ratione veniet, quia de sola gratiae dei dispensatione agitur.</s>
+				</p>
+				<p>
+					<s n="231" xml:lang="la" type="auto">Quod superius attigi necesse est hic quoque repetere.</s>
+					<s n="232" xml:lang="la" type="auto">Saepius enim ad illum paralogismum relaberis.</s>
+					<s n="233" xml:lang="la" type="auto">Si deus insinuat se cordibus nostris et exhibet per spiritum et fidem, non igitur per sacramenta.</s>
+					<s n="234" xml:lang="la" type="auto">Sed unde, quaeso, fides?</s>
+					<s n="235" xml:lang="la" type="auto">Nonne ex auditu fidei?</s>
+					<s n="236" xml:lang="la" type="auto">Unde spiritus?</s>
+					<s n="237" xml:lang="la" type="auto">Nonne ex praedicatione evangelii?</s>
+					<s n="238" xml:lang="la" type="auto">Utrumque enim testatur Paulus.</s>
+					<s n="239" xml:lang="la" type="auto">Scis enim hoc posterius exstare ad Galatas, illud sumptum esse ex decimo ad Romanos.</s>
+					<s n="240" xml:lang="la" type="auto">Verbi autem et sacramentorum eadem in hac parte ratio.</s>
+					<s n="241" xml:lang="la" type="auto">Verbum enim fidei insculptum est sacramentis.</s>
+					<s n="242" xml:lang="la" type="auto">Proinde adeo non pugnat, deum per sacramenta facere quod facit per fidem, ut alterum potius sequatur ex altero.</s>
+					<s n="243" xml:lang="la" type="auto">Loquimur enim de ordinaria ecclesiae gubernatione.</s>
+					<s n="244" xml:lang="la" type="auto">Quod ad spiritum pertinet, nihilo absurdius est deum agere per sacramenta quod per spiritum agit, quam spiritum vocari sigillum haereditatis nostrae, et idem nomen tribui sacramentis.</s>
+					<s n="245" xml:lang="la" type="auto">Da veniam: haec hallucinationis causa est quod non reputas, quae subalternantur non esse contraria.</s>
+					<s n="246" xml:lang="la" type="auto">Quo in ordine sunt labor manuum et dei benedictio, etiam quoad vitam corporalem.</s>
+					<s n="247" xml:lang="la" type="auto">Nunc si quis neget labore manuum pasci hominem quia pascatur dei benedictione, nonne facilis erit responsio, probe convenire inter se haec duo, modo dei benedictio primas teneat, imo penes ipsam maneat in solidum tota virtus, labor manuum causa instrumetalis censeatur?</s>
+					<s n="248" xml:lang="la" type="auto">Quoties ergo spiritus mentionem facies, hoc tibi responsum sit, non obstare quidquid illi scriptura vindicat quominus sacramenta sint eius organa, mortua tamen et inutilia, nisi quatenus ea vivificat.</s>
+				</p>
+				<p>
+					<s n="249" xml:lang="la" type="auto">Tu quidem multum in eo sudas, ne videaris facere inania.</s>
+					<s n="250" xml:lang="la" type="auto">Sed admoneo te multis non satisfacturum quorum tu iudicium non contemnis.</s>
+				</p>
+				<p>
+					<s n="251" xml:lang="la" type="auto">Eodem capite circa finem, quum ratiocinaris nullam fore Christi communicationem ante sacramenta, si per sacramenta nobis exhibetur, mala est consequentia: neque enim se nobis totum primo die Christus communicat.</s>
+					<s n="252" xml:lang="la" type="auto">Nam si Christus habitat in cordibus nostris per fidem, pro fidei augmentis crescit etiam eius communicatio.</s>
+					<s n="253" xml:lang="la" type="auto">Sacramenta autem scalae sunt quibus fides promovetur.</s>
+				</p>
+				<p>
+					<s n="254" xml:lang="la" type="auto">Negas Christum porrigendo panem iussisse ut corpus suum edamus.</s>
+					<s n="255" xml:lang="la" type="auto">Ego autem hunc Christi verbis sensum existimo subesse.</s>
+					<s n="256" xml:lang="la" type="auto">Panem, quem vocat corpus suum, edere nos iubet.</s>
+					<s n="257" xml:lang="la" type="auto">Nonne histrionica erit actio, nisi corpus edamus?</s>
+					<s n="258" xml:lang="la" type="auto">At tropus est in loquutione.</s>
+					<s n="259" xml:lang="la" type="auto">Fateor: sed ita ut interior veritas a signo visibili non destruatur, sed potius signum visibile rei quum figurat verum sit testimonium.</s>
+					<s n="260" xml:lang="la" type="auto">Atque haec analogia est, ut vescatur Christi carne anima, sicuti corpus pane.</s>
+				</p>
+				<p>
+					<s n="261" xml:lang="la" type="auto">Habes quae in libro tuo correcta cupiam, ut sine exceptione probetur.</s>
+					<s n="262" xml:lang="la" type="auto">Non commemoro quae laudanda sunt.</s>
+					<s n="263" xml:lang="la" type="auto">Memini enim quas mihi partes iniunxeris, ut tibi notarem quae minus placerent.</s>
+					<s n="264" xml:lang="la" type="auto">Quae igitur et erudite tractata sunt, et apposite adducta, et suo ordine rite digesta, et eleganter ornateque exposita, mecum laudabo, atque etiam apud alios quum opus fuerit.</s>
+					<s n="265" xml:lang="la" type="auto">Apud te volui praestare quod rogaveras.</s>
+					<s n="266" xml:lang="la" type="auto">Nunc, quia amici officio defunctus sum, et tibi obsequendo et libere te monendo, restat ut meam libertatem tum obsequendi studio tum simplicitati adscribens eam boni consulas.</s>
+					<s n="267" xml:lang="la" type="auto">Quod te facturum confido.</s>
+				</p>
+				<p>
+					<s n="268" xml:lang="la" type="auto">Bernae reperi quod non putabas, ego autem minime volebam, divinabam tamen (si haec divinatio vocanda est, ubi res propemodum est comperta).</s>
+					<s n="269" xml:lang="la" type="auto">Itaque consilio tuo non fuit locus.</s>
+					<s n="270" xml:lang="la" type="auto">Quod alioqui sequutus essem, etsi displicebat.</s>
+					<s n="271" xml:lang="la" type="auto">Eiusmodi enim vulnera, mihi crede, tegendo non sanantur.</s>
+					<s n="272" xml:lang="la" type="auto">Si rogas, quidnam igitur fecerim?</s>
+					<s n="273" xml:lang="la" type="auto">Nihil!</s>
+					<s n="274" xml:lang="la" type="auto">Tantum atroces utrinque querimonias audire coactus sum.</s>
+					<s n="275" xml:lang="la" type="auto">Porro ut convenirent impetrare non potui.</s>
+					<s n="276" xml:lang="la" type="auto">En pax illa de qua certior fueras factus per amicos.</s>
+					<s n="277" xml:lang="la" type="auto">Dominus ecclesiam illam respiciat, quae tamdiu pastorum dissidiis laceratur miserum in modum.</s>
+				</p>
+			</div>
+			<div xml:id="div17" corresp="regest17">
+				<p>
+					<s n="278" xml:lang="la" type="auto">Vale, frater in Christo carissime et mihi honorande, atque in huius epistolae argumento subinde tibi occurrat illud Augustini: Quod in sacramentis geritur per homines quidem geri, sed divinitus, in terra, sed humanitus.</s>
+					<s n="279" xml:lang="la" type="auto">Salutabis reverenter meo et totius collegii nostri nomine symmystas tuos, d. Pellicanum, d. Theodorum<note xml:id="fn43" type="footnote" n="43">Bibliander.</note>, d. Gvaltherum, d. Ioannem<note xml:id="fn44" type="footnote" n="44">Möglicher weise ist hier der 26jährige <persName>Johannes Wolf</persName>, Pfarrer der Predigerkirche (als solcher in einem Filialverhältnis mit dem Großmünster) gemeint.</note> et reliquos.</s>
+					<s n="280" xml:lang="la" type="auto">Dominus vos omnes regat suo spiritu et vestris laboribus benedicat.</s>
+					<s n="281" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="282" xml:lang="la" type="auto"><placeName>Genevae</placeName>, 25. februarii 1547.</s>
+				</p>
+				<p>
+					<s n="283" xml:lang="la" type="auto"><persName>Ioannes Calvinus</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="284" xml:lang="la" type="auto">Eximio viro d. Henricho Bullingero, Tigurinae ecclesiae pastori vigilantissimo, fratri et symmystae colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

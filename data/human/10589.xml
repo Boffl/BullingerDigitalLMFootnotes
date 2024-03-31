@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10589" type="Brief" source="HBBW" n="553">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Peter Im Haag (Saepianus) / [Bern] AN Heinrich Bullinger, 15. März 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid von got, dem vatter, und unsrem herren Jesu Cristo, werd allen mönschen verlichen, die des mit warheitt begerend.</s>
+					<s n="2" xml:lang="de" type="auto">Lieber her und fruind, wuier schriben<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, an mich gethan, han ich enpfangen und darin wuiren guͦten wilen vermerckt, des ich wuich zuͦm hösten dancken mit erbietten, in glicher gestalt gegen wuich zethuͦn, so vil mir gott, min her, gnad verlichtt, hiemit bittende, ier wellend gott truilich fuir mich bitten, das er mitt siner gnad mir den waren glouben und uns allen wel meren.<pb type="edition" next="154"/></s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Und des Jenffers handels halb muessend alle frome gmuͤt und herczen das gott befelen.</s>
+					<s n="4" xml:lang="de" type="auto">Der wirt dem rechtten uff dem grossen tag des herren<note xml:id="fn3" type="footnote" n="3">am Gerichtstag Gottes, am Jüngsten Tag (<bibl>SI</bibl> XII 782f). Vgl. dazu Gerhard <hi>Delling,</hi> in: Theologisches Wörterbuch zum Neuen Testament, Bd. II, Stuttgart 1935, S. 946-949. 954-956.</note> wol sin gang lassen etc.</s>
+					<s n="5" xml:lang="de" type="auto">Der thüiffel wertt nit fergeben<note xml:id="fn4" type="footnote" n="4">vergebens, vergeblich (<bibl>SI</bibl> II 88).</note>, das es nit mag recht kon<note xml:id="fn5" type="footnote" n="5">daß es zu einem guten Ende kommt.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Es grues wuich und alle, die mir in truiwen<note xml:id="fn6" type="footnote" n="6">guter Gesinnung, Aufrichtigkeit (<bibl>SI</bibl> XIV 1627f).</note> nachfragend, gott, unser heiland und einigen trost.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">15. mercz im 35. jar.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Wuier diener Petter Im Hag.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="9" xml:lang="de" type="auto">Dem errenden und fromen, wolglerten Meister Heinrich Bullinger, diener der kilchen Zuirich, in sin hand.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

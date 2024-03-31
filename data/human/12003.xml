@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12003" type="Brief" source="HBBW" n="1956">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Hermann Aquilomontanus / Oldersum AN Heinrich Bullinger, 25. August 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et spiritus augmentum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Gratiam habeo, amicorum optime, quod mei apud ornatissimum virum d. <persName>Ioannem a Lasco</persName> memineris et amice salutare iusseras<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file11980">Nr. 1933</ref>, 57f.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Hunc virum, mi praeceptor, tanti facio, quanti omnes studiosi magnum <persName>Erasmum</persName>.</s>
+					<s n="4" xml:lang="la" type="auto">Ita nihil in eo viro desidero (absit invidia dicto<note xml:id="fn2" type="footnote" n="2">Livius, Ab urbe condita, 9, 19, 15.</note>), sed doleo eum in hanc barbaram et ingratam regionem incidisse; dignus enim est archiepiscopatu Germanie, aut si que natio humanior inveniri potest.</s>
+					<s n="5" xml:lang="la" type="auto">Tanta est hominis humanitas, comitas, facundia et praeter alia in maximis donis humilitas, ut sepius apud amicos ingenue profitear me nusquam gentium (nationes aliquot lustravi cum pluribus doctis et piis loquutus) hominem invenisse humiliorem tot donis sublimibus ornatum.</s>
+					<s n="6" xml:lang="la" type="auto">Audisti (ut verum est) ex baronibus Polonie natum, divitem ac opulentum, statura principem ostendere, prolixa barba, raso capite, ut mos patrie sue.</s>
+					<s n="7" xml:lang="la" type="auto">Facies est homini heroica, omnibus expositus, hilaris alloquio.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quid dicam de pietate in deum, cum praeter alias disciplinas theologiam calleat, ut omnibus sit miraculo, et, quod paucis datum, non modo scit, sed sapit, ut non ore, sed et corde loqui dicatur.</s>
+					<s n="9" xml:lang="la" type="auto">Hanc theologiam non e sophistis impiis, et nec e Thoma<note xml:id="fn3" type="footnote" n="3"><persName>Thomas von Aquin</persName>.</note> aut Durando<note xml:id="fn4" type="footnote" n="4">Der Dominikaner <persName>Durandus</persName> von <placeName>Saint-Pourçain</placeName>, geb. um 1275, gest. 1334.</note> ac <persName>Scoto</persName><note xml:id="fn5" type="footnote" n="5"><persName>Johannes Duns Scotus</persName>, 1265/66-1308, gen. "Doctor subtilis".</note> et <persName>Occam</persName><note xml:id="fn6" type="footnote" n="6">Der Franziskaner <persName>Wilhelm von Ockham (Occam)</persName>, geb. um 1285, gest. 1347, von <placeName>Ockham (Surrey)</placeName>, <placeName>England</placeName>.</note>, sed a piissimis et sacris literis hausit veram nobilitatem animi ornamenta existimans.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Cum <persName>Erasmo</persName> summam consuetudinem <placeName>Basilee</placeName> habuit, ut in eius gratiam Linguam conscripserit;<note xml:id="fn7" type="footnote" n="7"><persName>Erasmus</persName> widmete während des Aufenthalts von <persName>a Lasco</persName> in <placeName>Basel</placeName> den Traktat "Lingua" (<placeName>Basel</placeName>, <persName>Johannes Froben</persName> 1525; <bibl>ASD</bibl> IV/1A) dem polnischen Kronkanzier Krzysztof Sivdlowiecki (s. <hi>Jürgens,</hi> <persName>a Lasco</persName> 57). Welche Rolle <persName>a Lasco</persName> dabei im Einzelnen spielte, ist nicht bekannt.</note> eius bibliotecam post mortem multis centenariis emit,<note xml:id="fn8" type="footnote" n="8">Der Kauf der Bibliothek erfolgte bereits 1525, doch wurden die Bücher erst nach <persName>Erasmus</persName>' Tod nach Krakau an <persName>a Lasco</persName> gesandt; s. <hi>Jürgens,</hi> aaO, 61-71.</note> ut bibliotecam omni genere voluminum instructam in usum pauperum huc advexerit.</s>
+					<s n="11" xml:lang="la" type="auto">Grecam literaturam Latinis adiunxit, ut in qualibet valeat et excellat, quod quidem epistole tibi scripte et opus eruditum et pium indicant.</s>
+					<s n="12" xml:lang="la" type="auto">Utinam opus illud a te revisum incusum ad nos rediret<note xml:id="fn10" type="footnote" n="10">Die Zürcher sollten, wie auch andere, von dieser Veröffentlichung abraten, s. <hi>Jürgens,</hi> <persName>a Lasco</persName> 314.</note>!<pb type="edition" next="336"/></s>
+					<s n="13" xml:lang="la" type="auto"><pb type="scan" next="1393v."/>Hic vir mundo valedicens ad nos declinavit, et ne honores mundani eum rursum monerent ac titillarent, honoribus viam praeclusit, virginem pauperem attamen honestam uxorem duxit,<note xml:id="fn11" type="footnote" n="11"><persName>A Lasco</persName> muss spätestens in den ersten Monaten des Jahres 1540 in Löwen seine Frau Barbara geheiratet haben; s. <hi>Jürgens,</hi> aaO, S. 142f.</note> e qua tres proles sustulit,<note xml:id="fn12" type="footnote" n="12">Welche drei Kinder zu diesem Zeitpunkt lebten, ist unsicher; neben der erstgeborenen Tochter Barbara ist an Ludovica, Johannes und <persName>Hieronymus</persName> zu denken; s. Hermann <hi>Dalton,</hi> <persName>Johannes a Lasco</persName>, Gotha 1881 (Nachdruck: Nieuwkoop 1970), S. 274f.</note> quibus se oblectat vir optimus.</s>
+					<s n="14" xml:lang="la" type="auto">Hec quidem magna et admiranda, maiora tamen audies.</s>
+					<s n="15" xml:lang="la" type="auto">Cum sedem hic posuisset ob libertatem evangelii et uxori domesticam curam et regimen commisisset, quo liberius studiis vacaret, non potuit latere lumen a deo accensum.</s>
+					<s n="16" xml:lang="la" type="auto">Adfluunt pii, adfluunt docti; omnes ambabus manibus et amplexu amabili accepit, omnibus se affabilem et expositum praebens, ut dulci alloquio et salutari consilio omnes tanquam <persName>Hercules Gallicus</persName> alliceret; me vero ob canitiem et simplicitatem patrem vocabat et in literis ad me<note xml:id="fn14" type="footnote" n="14">Zwischen <persName>a Lasco</persName> und <persName>Aquilomontanus</persName> gewechselte Briefe sind nicht erhalten.</note> eo nomine utitur.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Tandem, cum pastores hic plures dissentirent et paucis res cordi esset, non dereliquit suos deus optimus.</s>
+					<s n="18" xml:lang="la" type="auto">Optimam viduam marito mortuo praefecit regioni,<note xml:id="fn15" type="footnote" n="15">Gräfin <persName>Anna von Ostfriesland</persName> hatte 1542 als Regentin für ihre unmündigen Kinder die Herrschaft angetreten, nachdem Graf <persName>Enno II.</persName> 1540 gestorben war; s. <bibl>HBBW</bibl> XIII <ref target="file11818">[Nr. 1772]</ref> 192, Anm. 18.</note> cui nil eque cordi ut Christi doctrina et publica pax.</s>
+					<s n="19" xml:lang="la" type="auto">Hec optimum virum sepius vocavit in consilium, tandem petiit, ut ob Christum servatorem regionis episcopus esse dignaretur,<note xml:id="fn16" type="footnote" n="16">Zur Berufung <persName>a Lascos</persName> s. ebd. (Lit.).</note> qui ob plurimos redditus annuos allici aut flecti non potuit, ut aliis regionibus esset episcopus.</s>
+					<s n="20" xml:lang="la" type="auto">Non recusavit vir omnibus donis cumulatus, sed gratis se ecclesie inserviturum promisit, si illi et consiliariis vera religio cordi esset.</s>
+					<s n="21" xml:lang="la" type="auto">Accepit regimen, convocavit maiores<note xml:id="fn17" type="footnote" n="17">Siehe dazu <hi>Jürgens,</hi> <persName>a Lasco</persName> 306.</note>, inter quos me ob canitiem numerat, et de concordia tractare cepit.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Quid dicam, optimus vir omnes sua facundia et eruditione erudivit, ut nullus quid contra haberet, quanquam non omnes ob pertinatiam a sententia concepta mutavit.</s>
+					<s n="23" xml:lang="la" type="auto">Laborem improbum et quotidianum contra hereticos plures cepit, quos plurimos hic habemus,<note xml:id="fn18" type="footnote" n="18">Konkret sind wohl Täufer und Joristen gemeint; s. <bibl>HBBW</bibl> XIII 193f, 29-40. 58f; <hi>Jürgens,</hi> <persName>a Lasco</persName> 245-271.</note> ut nunquam <persName>Augustinus</persName> aut <persName>Hieronimus</persName> plures habuerit.<pb type="scan" next="1394r."/></s>
+					<s n="24" xml:lang="la" type="auto">Maxima itaque iudico, quod vir nobilissimus honores spreverit, mundo valedixerit; attamen maiora hisce facio, quod ecclesiam<pb type="edition" next="337"/> gratis et ultro vocatus regendam susceperit, praesertim in regione barbara, ubi nullus honor piis et doctis.</s>
+					<s n="25" xml:lang="la" type="auto">Hec boni consules, vir bone, quod de viro optimo et omnibus donis ornato triviali stilo audeam quidquam.</s>
+					<s n="26" xml:lang="la" type="auto">Nunquam Phrisie nostre omnipotens magis meo iuditio propitium se exibuit, quam cum evangelio suo hunc virum adiunxerit.</s>
+					<s n="27" xml:lang="la" type="auto">Precor, me homini tuis literis commendes, quanquam nil in homine desidero, attamen dulce est laudari a viro laudato<note xml:id="fn19" type="footnote" n="19">Vgl. <bibl>Otto</bibl> 188, Nr. 926.</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Monebisque, ne ob plurium ingratitudinem lassus munus suum ponat; quod si fecerit, essemus membra absque capite.</s>
+					<s n="29" xml:lang="la" type="auto">Habes de viro optimo, piissimo ac doctissimo et, quod maxime observo, humillimo ac omnibus exposito; quem utinam alius eloquens ac Romana castimonia facundus descripsisset!</s>
+					<s n="30" xml:lang="la" type="auto">Magis afficeret, sed nos nostris opibus edificamus<note xml:id="fn20" type="footnote" n="20"><bibl>Adagia</bibl>, 1, 7, 62 (<bibl>ASD</bibl> II/2 187, <ref target="file10700">Nr. 662</ref>).</note>.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">De me hec pauca accipies: Ago, quae egi, et multorum invidiam in me provoco, quanto magis uni Christo omnem salutem acceptam praedico et hominem pro sua indole pessima omnibus propono.</s>
+					<s n="32" xml:lang="la" type="auto">Ni expertus hec scriberem, nunquam credidissem doctos seculi in re salutis talpis ceciores<note xml:id="fn21" type="footnote" n="21"><bibl>Adagia</bibl>, 1, 3, 55 (<bibl>ASD</bibl> II/1 366, <ref target="file10286">Nr. 255</ref>).</note>; sed domino me commisi.</s>
+					<s n="33" xml:lang="la" type="auto">Indies senesco; attamen oculi, manus ac dentes suo munere funguntur absque adiutorio; soli pedes scipionem desiderant.</s>
+					<s n="34" xml:lang="la" type="auto">Tres mihi filii<note xml:id="fn22" type="footnote" n="22">Nicht namentlich bekannt.</note> sani et satis morigeri, quos si aliquo modo in pietate et doctrina vulgari educassem, mori liberet; sed fiat voluntas domini.</s>
+					<s n="35" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto"><pb type="scan" next="1394v."/>Habes epistolam pessimam de viro optimo, quam tu bonam reddes, si animum, non manum aut calamum scribentis consideres.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Biblia tua et reliqua opera posteriora videre non licuit; sed per d. meum <persName>a Lasco</persName> omnia spero.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Vale, amicorum praestantissime, et tuis precibus me et ecclesiam commissam deo commenda.</s>
+					<s n="39" xml:lang="la" type="auto">Saluta, queso, tuos commilitones, amicos meos, diligenter et valetudinem tuam cura, cum audiam te valetudinarium<note xml:id="fn24" type="footnote" n="24">Vgl. auch oben <ref target="file11979">Nr. 1932</ref> mit Anm. 4. - Darüber ist sonst nichts weiteres bekannt.</note>.</s>
+					<s n="40" xml:lang="la" type="auto">Rursum vale et me, quod facis, ama.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Prepropere, postridie Bartholome[i] e domo pastorali ecclesie Domus Senum<note xml:id="fn25" type="footnote" n="25"><placeName>Oldersum</placeName>.</note> prope <placeName>Emdam</placeName>, anno 1544.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Tuus ex animo <persName ref="p6265">Hermannus Aquilomontanus</persName>, ecclesie Domus Senum minister.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="43" xml:lang="la" type="auto">Prestantissimo viro domino Henrico Bullingero, ecclesie Tigurine pastori vigilantissimo, suo preceptori.</s>
+					<s n="44" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

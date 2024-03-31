@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10928" type="Brief" source="HBBW" n="887">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Theodor Bibliander (Buchmann), Heinrich Bullinger, 31. August 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Literas a <persName>Bedrotto</persName><note xml:id="fn1" type="footnote" n="1">Zum (nicht erhaltenen) Brief <persName>Jakob Bedrots</persName> an <persName>Bibliander</persName> s. <bibl>Vadian BW V</bibl> 366.</note>, quas misi, te accepisse credo.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Hodie, quę responsa sunt a vobis et a <placeName>Bernensibus</placeName><note xml:id="fn2" type="footnote" n="2">Gemeint sind die von <persName>Myconius</persName> und <persName>Grynäus</persName> in Zürich und <placeName>Bern</placeName> eingeholten Stellungnahmen zur <placeName>Wittenberger</placeName> Konkordie; s. oben <ref target="file10918">Nr. 877</ref>, 9-30, bzw. <ref target="file10919">Nr. 878</ref>.</note>, dimissa sunt a dominis nostris <placeName>Argentinam</placeName><note xml:id="fn3" type="footnote" n="3">In der missive <placeName>Basels</placeName> an <placeName>Straßburg</placeName> vom 30. August (s. <bibl>PC</bibl> II 693) sind diese Beilagen nicht erwähnt; möglicherweise ging jedoch ein separates, nicht erhaltenes Schreiben an <persName>Capito</persName> und <persName>Bucer</persName>.</note> spe forti rem cessuram feliciter.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Scripsit interim <persName ref="p18198">Bucerus</persName> huc ad <persName>Grynęum</persName><note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file10926">Nr. 885</ref>, 16-31.</note>, unde video (tam omnia sunt clara) concordiam non posse impediri nisi per adfectuum improbitatem.</s>
+					<s n="5" xml:lang="la" type="auto">Utinam nos ab his simus (quod certe spero) quam liberrimi!</s>
+					<s n="6" xml:lang="la" type="auto">Scopus negocii videtur hic esse: Christus totus editur fide, ut fides edere potest et ut Christus a fide comedi potest.</s>
+					<s n="7" xml:lang="la" type="auto">Et quis negaret illud?</s>
+					<s n="8" xml:lang="la" type="auto">De indignis quęstio facilis videtur, dum consyderantur Corinthii, quos Paulus hoc nomine vocat, et clausula recte perpenditur, quam idem ad finem adnectit: "At cum iudicamur, a domino corripimur, ne cum mundo damnemur"<note xml:id="fn5" type="footnote" n="5">1Kor 11, 32.</note>.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Rumor volat concordiam esse factam.</s>
+					<s n="10" xml:lang="la" type="auto">Minim profecto, quam gaudeant boni, etiam, qui iamdum foris sunt.</s>
+					<s n="11" xml:lang="la" type="auto">Ringantur autem papistae, quod discordia nostra foti sint hactenus.</s>
+					<s n="12" xml:lang="la" type="auto">Sperant adhuc aliquid interlapsurum, quod consilium remoretur.</s>
+					<s n="13" xml:lang="la" type="auto">Illud non capimus, cumam <placeName>Constantienses</placeName> senatum vestrum monuerint, ne conventum communem celerius, quam par sit, congregent; prius enim et alios rogandos esse<note xml:id="fn6" type="footnote" n="6">Zürich hatte die in einer <placeName>Konstanzer</placeName> Missive vom 21. August (Zürich StA, E I 1. 2b) enthaltene Bitte am 24. August an <placeName>Basel</placeName> weitergeleitet (<placeName>Basel</placeName> StA, Kirchenakten A 4, 167).</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Hic si quid potes, responde.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto"><pb type="edition" next="411"/>Fuit hodie apud me ex <placeName>Alsatia</placeName> vir, adfinis Leonis<note xml:id="fn7" type="footnote" n="7">Gemeint ist wohl <persName>Jakob Schmid</persName>, Metzger und später Spitalmeister in <placeName>Bergheim</placeName> (<placeName>Elsaß</placeName>), Ehemann von <persName ref="p6796">Leo Juds</persName> Schwester Clara und Vater von <persName>Johannes Fabricius</persName>; s. <bibl>Graubünden, Korr.</bibl> II, S. VII.</note>, qui diligenter quęsivit de valitudine eius.</s>
+					<s n="16" xml:lang="la" type="auto">Dixerat se esse, credo, sororium.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Qui literas ferunt, viri nobiles sunt et pu, alter <persName>a Pfirt</persName>, alter <persName>a Stouufen</persName><note xml:id="fn8" type="footnote" n="8">Weiche Angehörigen der beiden Adelsgeschlechter <persName>von Pfirt</persName> und <persName>von Staufen</persName> gemeint sind, ließ sich nicht feststellen.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Quod dico, ut excipiatis, ut dignum est.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Communes sint hae cum Bullingero.</s>
+					<s n="20" xml:lang="la" type="auto">Vertigo prohibuit et tempus, ne scribere potuerim ambobus.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Saluto uxorem<note xml:id="fn9" type="footnote" n="9"><persName>Biblianders</persName> Ehefrau Rosilla Rordorf.</note>, <persName>Pellicanum</persName>, omnes.</s>
+					<s n="22" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 31. augusti anno 1536.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Tuus <persName>Myconius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">D[ominis] <persName>Theodoro Bibliandro</persName> seu Bullingero, fratribus in domino suis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

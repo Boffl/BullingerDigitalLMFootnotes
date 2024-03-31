@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10214" type="Brief" source="HBBW" n="183">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 31. Januar [1533]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Lectis literis tuis<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>, charissime Heinrice, non potui satis admirari et temeritatem et stupiditatem illam oratorum<note xml:id="fn3" type="footnote" n="3">Gemeint sind die Boten der sieben eidgenössischen Schiedorte zur Schlichtung des Mandatstreites an der Tagsatzung zu <placeName>Baden</placeName> am 21. Januar 1533, s. <bibl>EA</bibl> IV/1c 5.</note>, qua non solum vobis, sed et omnibus nobis inurere<note xml:id="fn4" type="footnote" n="4">Offenbar im Sinne der im 16. Jahrhundert auch in der <placeName>Schweiz</placeName> gebräuchlichen deutschen Redensart: «Diese Schande kann nicht einmal der Rhein abwaschen» u. ä. (<bibl>SI</bibl> VI 994).</note> notam annisi vix Rhęno emundandam maxime nostratum<note xml:id="fn5" type="footnote" n="5"><placeName>Bern</placeName>, einer der sieben Schiedorte, wurde an der Tagsatzung durch <persName>Hans Pastor</persName> und <persName>Franz Nägeli</persName> vertreten, s. <bibl>EA</bibl> IV/1c 5.</note>, quibus ad pacem conficiendam iam dudum erat data potestas, modo nec apice derogaret glorię ac verbo<pb type="edition" next="55"/> dei.</s>
+					<s n="3" xml:lang="la" type="auto">Iam quid aliud hę preces praetendunt quam ipsissimam veritatis abnegationem ac impietatis confessionem?</s>
+					<s n="4" xml:lang="la" type="auto">Mirantur cordati nec desinunt admirari et expectare, quomodo tandem temeritatem hanc eluere velint.</s>
+					<s n="5" xml:lang="la" type="auto">In summa: Dominus omnem occasionem nobis offert, qua gloria illius promoveri posset, nos omnem contemnimus.</s>
+					<s n="6" xml:lang="la" type="auto">Quam commode iam cum principis Cattorum<note xml:id="fn7" type="footnote" n="7">Landgraf <persName>Philipp von Hessen</persName>.</note> et imperialium civitatum<note xml:id="fn8" type="footnote" n="8">Reichsstädte; gemeint ist vor allem <placeName>Straßburg</placeName>.</note> nunciis multa pro mutua defensione agi possent.</s>
+					<s n="7" xml:lang="la" type="auto">Sed nemo illis loqui audet.</s>
+					<s n="8" xml:lang="la" type="auto">Adeo timemus Antronios<note xml:id="fn10" type="footnote" n="10">Ein von <persName>Haller</persName> oft gebrauchter Spottname <placeName>der V Orte</placeName>, s. <bibl>HBBW</bibl> II <ref target="file10110">[Nr. 81]</ref> 88, Anm. 3.</note> illos.</s>
+					<s n="9" xml:lang="la" type="auto">Bas[ilienses] laborant apud nostros cordatiores pro via concordiae<note xml:id="fn11" type="footnote" n="11">Zu den Bemühungen der Basler, vor allem von <persName>Oswald Myconius</persName> und Bürgermeister <persName>Jakob Meyer</persName>, um eine Wiederherstellung des Einvernehmens zwischen Zürich und <placeName>Bern</placeName> s. <hi>Kirchhofer,</hi> Myconius 114-126; <hi>Rudolf;</hi> Aussöhnungsversuch; unten <ref target="file10335">Nr. 304</ref> und 310.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Nihil negabunt nostrates, modo ab aliis interpellentur.</s>
+					<s n="11" xml:lang="la" type="auto">Apud tuos excusare poteris nos, et brevi ad te perscribam, nisi prior resciveris, quibus artibus preces hę confictę sint.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Apud nos rumor est, quem literis credere nolui, qui nobis calamitatem minatur ab Antroniis <persName>Carolo</persName><note xml:id="fn12" type="footnote" n="12"><persName>Kaiser Karl V.</persName></note> magistro connivente<note xml:id="fn13" type="footnote" n="13">Zu den Bündnisplänen <placeName>der V Orte</placeName> und <placeName>Freiburgs</placeName> mit Papst und Kaiser s. oben <ref target="file10205">[Nr. 174]</ref> S. 37, Anm. 5.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Cęterum et ego tuas sic observo literas, ut si vel ad apicem exegeris, praesto erunt<note xml:id="fn14" type="footnote" n="14">Zur Aufbewahrung von Bullingers Briefen bei <persName>Haller</persName> s. oben <ref target="file10205">[Nr. 174]</ref> S. 37, 14f.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Scio tuas ędes omnibus patulas, et id formidavi, quod mihi aliquando contigit, ab amicis legi, quae potius sepulta velim.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Quodsi Romanos<note xml:id="fn15" type="footnote" n="15">Zu Bullingers Römerbriefkommentar (<bibl>HBBibl</bibl> I 42) s. unten <ref target="file10217">[Nr. 186]</ref> S. 59, Anm. 2.</note> miseris, gratificaris mihi quam maxime.</s>
+					<s n="16" xml:lang="la" type="auto">Perge fęliciter.</s>
+					<s n="17" xml:lang="la" type="auto">Parochi omnes expectant.</s>
+					<s n="18" xml:lang="la" type="auto">Si quid <persName>Pellicani</persName> commentariis<note xml:id="fn16" type="footnote" n="16">Der zweite Band von <persName>Konrad Pellikans</persName> Kommentar zum Alten Testament (Rudolphi 208) erschien 1533, <hi>s. Zürcher</hi> 112.</note> interim addetur, mittatur, tametsi usque ad 16. caput 3. Regum iam per Baltazarem acceperim.</s>
+					<s n="19" xml:lang="la" type="auto">Scribe perpetuo, et plurimum prodest.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Ultima ianuarii.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Tuum minimum numisma.<pb type="edition" next="56"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="23" xml:lang="la" type="auto">Heinrico Bullingero, eximię pietatis et eruditionis ecclesiastę apud Tigurum, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

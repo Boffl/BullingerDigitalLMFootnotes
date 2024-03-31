@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10902" type="Brief" source="HBBW" n="862">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 15. Juli 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Expectas nimirum, mi observande <persName>Myconi</persName>, prolixam epistolam, et ecce, accisam mitto.</s>
+					<s n="3" xml:lang="la" type="auto">Non intelligo, quod conscripsere <placeName>Wittembergae</placeName>.</s>
+					<s n="4" xml:lang="la" type="auto">Intelligo autem, quae conscripsimus <placeName>Basileae</placeName><note xml:id="fn2" type="footnote" n="2">Das Erste Helvetische Bekenntnis; s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Ab iis nemo me avellet.</s>
+					<s n="6" xml:lang="la" type="auto">Habes animi mei sententiam.</s>
+					<s n="7" xml:lang="la" type="auto">Videbis brevi librum, qui copiose, docte, simpliciter, pure et plane hoc negotium exponet<note xml:id="fn3" type="footnote" n="3">Bullinger meint zweifellos <persName>Vadians</persName> "Aphorismen"; vgl. oben <ref target="file10864">Nr. 825</ref>, 2-21, und unten <ref target="file10915">Nr. 875</ref>, 2-29.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Dices libros hactenus piissime et eruditissime scriptos huic conferri non posse.</s>
+					<s n="9" xml:lang="la" type="auto">Nihil autem contra conscriptam <placeName>Basileae</placeName> confessionem, nihil contra concordiam sartam tentamus.</s>
+					<s n="10" xml:lang="la" type="auto">Haec uni tibi committo.</s>
+					<s n="11" xml:lang="la" type="auto">Plura referet <persName>Gryneus</persName>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Opto te valere diu in domino.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="de" type="auto"><pb type="edition" next="362"/>Die lender sind aber vast übel einß<note xml:id="fn4" type="footnote" n="4">In den Landorten (<placeName>Uri</placeName>, <placeName>Schwyz</placeName>, <placeName>Unterwalden</placeName>, <placeName>Glarus</placeName>, <placeName>Appenzell</placeName>) herrscht wieder große Uneinigkeit (vgl. oben <ref target="file10879">Nr. 840</ref>, 9-14; 841, 31-36).</note>, alleß vonn der herren wägen.</s>
+					<s n="14" xml:lang="la" type="auto">Ego perpetuo cum propheta oro: Dissipa gentem, quae bella vult<note xml:id="fn5" type="footnote" n="5">Vgl. Ps 68,31.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Nostri perpetuo sui sunt similes.</s>
+					<s n="16" xml:lang="la" type="auto">Obdurant aures tam ad Galli quam caesaris postulationes<note xml:id="fn6" type="footnote" n="6">Zürich verweigerte sowohl <persName>König Franz I.</persName> als auch <persName>Kaiser Karl V.</persName> jegliche militärische Unterstützung; s. oben <ref target="file10877">Nr. 838</ref>, 8f mit Anm. 3.</note>.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">15. iulii 1536.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">H. Bullingerus.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Diß ist unsers nüwen Zürych papyrs, aber nun noch deß groben.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Utinam a te et d. <persName>Grynęo</persName> impetrare possemus, ut solatii causa semel veniretis Tigurum!</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="21" xml:lang="la" type="auto">Doctissimo viro d. <persName>Osvaldo Myconio</persName>, fratri charissimo.</s>
+					<s n="22" xml:lang="de" type="auto">Gen <placeName>Basel</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

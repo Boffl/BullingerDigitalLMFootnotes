@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12237" type="Brief" source="HBBW" n="2190">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz AN Heinrich Bullinger, 3. Juli 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Accepi dulcissimas tuas et amoris erga me tui plenissimas literas<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file12231">Nr. 2184</ref> oder ein nicht erhaltener Brief.</note>, quibus constanter is esse pergis, qui iamdudum esse coepisti.</s>
+					<s n="3" xml:lang="la" type="auto">De me vero istuc ipsum tibi vicissim polliceare, obsecro, quippe qui non possim candorem istum et incomparabilem humanitatem cum summa eruditione coniunctam non vehementer totis visceribus meis complecti ac venerari.</s>
+					<s n="4" xml:lang="la" type="auto">Dominus glutinum hoc spiritus sui,<note xml:id="fn2" type="footnote" n="2"><hi>Bernhard von Clairvaux,</hi> In vigilia natalis Domini sermo 3.</note> quo vere commissi sumus, tenacissimum esse velit, ut hic atque ęternum pulcherrimo divinę charitatis nexu<note xml:id="fn3" type="footnote" n="3">Vgl. Kol 3, 14.</note> cohęreamus!</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Epistolam tuam ad Lętum<note xml:id="fn4" type="footnote" n="4"><persName>Georg Frölich</persName>.</note> cum fasciculo nudiusquartus <placeName>Augustam</placeName> misi nec dubito, quin ille iam omnia accurate acceperit.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Nepotis tui ex fratre<note xml:id="fn6" type="footnote" n="6">Josua, Sohn des <persName>Johannes [Reinhart] Bullinger</persName>.</note> nomine non erat, ut mihi gratias ageres<note xml:id="fn7" type="footnote" n="7">Vgl. oben <ref target="file12231">Nr. 2184</ref>, 1-3.</note>, quum non tantilla solum officiola, sed me cunctum tibi ac omnia mea tibi debeam.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Utinam adulescens ad bonam frugem (quod profecto facturum se promittit) quam primum redeat!</s>
+					<s n="8" xml:lang="la" type="auto">Facile condonabitur, quod pro ętatis istius stulticia peccavit.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Optimi viri d. <persName>Ioannis Stumpffii</persName> filium<note xml:id="fn8" type="footnote" n="8"><persName>Johann Rudolf Stumpf</persName>. <persName>Blarer</persName> und Matthias Schenck hatten Vater (s. unten Z. 19-21) und Sohn am 18. Juni empfangen; s. oben <ref target="file12216">Nr. 2169</ref>, Anm. a.</note> Mathias Schenccius noster, ludi literarii satis felix moderator, ad se recipiet, omnia illi, quę cęteris adulescentibus solet, cum recta institutione suppeditaturus.</s>
+					<s n="10" xml:lang="la" type="auto">Cupit enim hac in re<pb type="edition" next="384"/> non tam mihi quam tibi quoque, quem maximopere veneratur, gratificari.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Caeterum valde nobis doluit, quod <persName>Stumpfio</persName> vix sesquidiem hęrere nobiscum licuit ac proinde nobis vix gustum aliquem illi exhibere nostrę qualiscumque officiositatis; nunquam enim obliviscar tam liberalis hospitis<note xml:id="fn9" type="footnote" n="9"><persName>Johannes Stumpfs</persName> Haus in <placeName>Stammheim</placeName> (Kt. Zürich) hatte Bullinger und <persName>Blarer</persName> am 11. Mai 1544 als Beratungsort gedient; s. oben <ref target="file12216">Nr. 2169</ref> und Anm. 7.</note>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Quid consobrinus meus Zviccius<note xml:id="fn10" type="footnote" n="10"><persName>Konrad Zwick</persName>.</note> cum Habio<note xml:id="fn11" type="footnote" n="11"><persName>Johannes Haab</persName>.</note>, consule vestro, Griessenbergi<note xml:id="fn12" type="footnote" n="12">Bei dem Treffen im Hause <persName>Heinrich von Ulms</persName> in <placeName>Griesenberg</placeName> (Kt. Thurgau) ging es um <persName>Zwicks</persName> Kriegskunst; s. oben <ref target="file12220">Nr. 2173</ref>, Anm. 7, und 2182, Anm. 4-5.</note> egerit, non dubito, quin iam illo ipso<note xml:id="fn13" type="footnote" n="13">Gemeint ist <persName>Haab</persName>.</note> narrante resciveris.</s>
+					<s n="13" xml:lang="la" type="auto">Nunc mittit ad illum<note xml:id="fn14" type="footnote" n="14">Wohl nochmals <persName>Haab</persName>.</note> capita quędam totius negocii<note xml:id="fn15" type="footnote" n="15">Schon im Mai hatte <persName>Zwick</persName> ähnliche "Artikel" an Bullinger zur Beurteilung weiterleiten lassen; s. oben <ref target="file12200">Nr. 2153</ref>, 78-87.</note>, unde plane intelligetis, quam vir ille nihil aut quam minimum sui, sed vestram ac patrię suę commoditatem quęrat.</s>
+					<s n="14" xml:lang="la" type="auto">Rogat vero te, ut se diligenter et libere admoneas, si quid tibi fortassis in articulis istis a syncero studio reipublicae aut christianę charitatis regulis abhorrens videatur; neque enim dubitat consules vestros<note xml:id="fn16" type="footnote" n="16"><persName>Haab</persName> und <persName>Hans Rudolf Lavater</persName>.</note> (quod cupit etiam) omnia tecum communia habituros.</s>
+					<s n="15" xml:lang="la" type="auto">Demandavit vero diligentissime, ut se tibi accurate commendem suisque verbis cumulatissimam salutem adscribam.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Commendo tibi, quam possum christianice, <persName>Conradum Curionem</persName>, Hofher dictum, quem prius etiam commendavi,<note xml:id="fn17" type="footnote" n="17"><persName>Blarer</persName> hatte <persName>Konrad Hofherr (Curio)</persName> am 17. Februar Bullinger als Studenten empfohlen; s. oben <ref target="file12132">Nr. 2085</ref> und Anm. 1.</note> qui non adeo pridem Episcopicella, ubi pueros instituit,<note xml:id="fn18" type="footnote" n="18"><persName>Hofherr</persName> hatte von 1542 bis 1545 als Lehrer in <placeName>Bischofszell</placeName> (Kt. Thurgau) gewirkt; s. oben <ref target="file12132">Nr. 2085</ref>, Anm. 1.</note> ad vos demigravit studiorum gratia.</s>
+					<s n="17" xml:lang="la" type="auto">Bono est et alacri valde ingenio, sed interim plus satis in quemvis habitum sequaci, ut valde illi metuam, si forte in licentioris vitę sodales incidat.</s>
+					<s n="18" xml:lang="la" type="auto">Advigilabis igitur hic nobis, per Christum te obsecro et amiciciam nostram, ut ne sint inauspicata initia horum studiorum.</s>
+					<s n="19" xml:lang="la" type="auto">Multum in illum et suos<note xml:id="fn19" type="footnote" n="19"><persName>Hofherr</persName> hatte Frau [...] und Sohn [...]: s. oben <ref target="file12132">Nr. 2085</ref>, 4.</note> impendit <placeName>Augustanus</placeName> consul Herbrotius<note xml:id="fn20" type="footnote" n="20"><persName>Jakob Herbrot</persName>, der sich zur Finanzierung von <persName>Hofherrs</persName> Studium in Zürich verpflichtet hatte; s. oben <ref target="file12132">Nr. 2085</ref>, Anm. 1.</note> a me ita persuasus; quem nolim frustra sumptus tam magnificos facere.</s>
+					<s n="20" xml:lang="la" type="auto">Si enim vel semel virum<note xml:id="fn21" type="footnote" n="21"><persName>Herbrot</persName>.</note> fefellero, nihil erit, quod porro vel ego vel alii studiosorum nomine ab ipso expectent, idque non levi christianę reipublicae damno.<pb type="scan" next="137"/></s>
+					<s n="21" xml:lang="la" type="auto">Affirmant magistrum <persName>Iacobum Ruͦff</persName>, chirurgum vestrum, valde hunc<note xml:id="fn22" type="footnote" n="22">Hotherr.</note> amare et mensę suę frequentem adhibere convivam largeque cum illo perpotare, ita ut Curio ne teruncii quidem iacturam faciat omnia benigne suppeditante Ruͦfio<note xml:id="fn23" type="footnote" n="23">Weniger seine Trinkgelage mit <persName>Jakob Ruf</persName> als seine steigenden Schulden machten Hotherr im Folgenden zum Sorgenkind <persName>Blarers</persName> und Bullingers; s. oben <ref target="file12132">Nr. 2085</ref>, Anm. 12.</note>.</s>
+					<s n="22" xml:lang="la" type="auto">Tu, ubi per te<pb type="edition" next="385"/> vel alios istuc ita se habere didiceris, certis rationibus, quę nunquam tibi deerunt, paulatim <persName>Conradum</persName> avocabis.</s>
+					<s n="23" xml:lang="la" type="auto">Multum amo Ruͦfium, et ille me praeter meritum veneratur et nomini meo studet, ut multum me sibi debere lubenter agnoscam.</s>
+					<s n="24" xml:lang="la" type="auto">Audio tamen genialiter illum vivere et tantum non quotidie pergręcari; quę res ipse nosti quam officiat iis, qui sacris studiis destinati sunt.</s>
+					<s n="25" xml:lang="la" type="auto">Proinde non erit, ut Curio noster eiusmodi viro se adiungat, sed cum iis versetur, qui frugalitatem totiusque vite sobrietatem sectantur.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Fuerunt nobiscum Gerardus Frisius<note xml:id="fn24" type="footnote" n="24"><persName>Gerhard thom Camph</persName>.</note>, adulescens plane (si quid recte iudico) divinus, cum <persName>Pellicani</persName> nostri filio<note xml:id="fn25" type="footnote" n="25">Samuel, der Sohn <persName>Konrad Pellikans</persName>. -Zu <persName>thom Camphs</persName> Heimreise nach <placeName>Friesland</placeName> in Begleitung <persName>Samuel Pellikans</persName> s. oben <ref target="file12227">Nr. 2180</ref>, Anm. 1.</note>, qui optimum patrem ipse quoque optimus proxime refert.</s>
+					<s n="27" xml:lang="la" type="auto">Tractavimus illos, quantum quidem per istam temporis angustiam et nostram rusticitatem licuit, humaniter; humanius tractaturi, si diutius retineri se sustinuissent.</s>
+					<s n="28" xml:lang="la" type="auto">Commendabis me diligenter et officiose <persName>C[onrado] Pellicano</persName> ac mea vice pro amantissimis literis suis<note xml:id="fn26" type="footnote" n="26">Nicht in <persName>Blarer</persName> BW.</note> gratias ages.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Salutabis valde quam amice <persName>Rodolphum G[valtherum]</persName>, nostrum insignem amicum, cum <persName>Theodoro</persName><note xml:id="fn27" type="footnote" n="27"><persName>Bibliander</persName>.</note> ac cęteris, quorum omnium sacris precationibus iuvari apud Christum in istis omnium rerum ancipitibus periculis unice cupio.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Saluta totam tuam domum.</s>
+					<s n="31" xml:lang="la" type="auto">Commenda me optimis viris consulibus vestris Habio et <persName ref="p6155">Lavatero</persName>.</s>
+					<s n="32" xml:lang="la" type="auto">Vale, mi suavissime frater.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 3. iulii 1545.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Tuus A. Bl.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="de" type="auto"><pb type="scan" next="138"/>Zeytung ausß <placeName>Antorff</placeName><note xml:id="fn28" type="footnote" n="28"><placeName>Antwerpen</placeName>.</note> und <placeName>Ougspurg</placeName>, Wurms: Frantzoß<note xml:id="fn29" type="footnote" n="29"><persName>Franz I.</persName></note> und Engelland<note xml:id="fn30" type="footnote" n="30"><persName>Heinrich VIII.</persName></note> sterckend sich ye mehr und mehr, unnd hat Engelland dem Frantzosen newlich grossen schaden thon.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="de" type="auto">So seind kai. mt.<note xml:id="fn32" type="footnote" n="32"><persName>Karl V.</persName></note> ettlich schiff mitt gold ausß dem newen land<note xml:id="fn33" type="footnote" n="33">Falls es sich um den Übergriff <persName>Robert Renegars</persName> handelt, ist unter dem "newen land" <placeName>Indien</placeName> und nicht <placeName>Amerika</placeName> zu verstehen; s. unten Anm. 36.</note> kommen, deren ains mitt grossem guͦt hat Engelland ouch nidergelegt<note xml:id="fn34" type="footnote" n="34">besiegt, erbeutet.</note>; ist mir abgefallen, welcher end<note xml:id="fn35" type="footnote" n="35">welcher end: an welchem Ort.</note> das beschechen.<pb type="edition" next="386"/></s>
+					<s n="37" xml:lang="de" type="auto">Treffelich bottschafften seind zuͦ Wurms vom Francosen<note xml:id="fn37" type="footnote" n="37"><persName>Louis Adhémar de Monteil</persName>, sieur de Grignan, und der sich ihm in Juni 1545 anschließende <persName>Sébastien de l'Aubespine, Abbé de Bassefontaine</persName>; s. Catalogue des actes de François 1 er, Bd. 9, Paris 1907 - Collections des ordonnances des rois de France, S. 16.</note>, papst<note xml:id="fn38" type="footnote" n="38">Gesandter Pauls III. war <persName>Alessandro Farnese</persName>.</note>; item der hertzog von Sophoy<note xml:id="fn39" type="footnote" n="39"><persName>Karl III. von Savoyen</persName>.</note>, vicerey aus <placeName>Sicilien</placeName><note xml:id="fn40" type="footnote" n="40"><persName>Ferrante I. Gonzaga</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="de" type="auto">Der papst verhaist dem kaiser<note xml:id="fn41" type="footnote" n="41"><persName>Karl V.</persName></note> 20000 knecht in seiner besoldung ze halten, damitt er den romischen glouben und den schlusß<note xml:id="fn42" type="footnote" n="42">Beschluss.</note> des conciliums<note xml:id="fn43" type="footnote" n="43">Das Konzil von <placeName>Trient</placeName>.</note> dest stattlicher erhalten moͤge<note xml:id="fn44" type="footnote" n="44">So auch in <hi>Heidrich,</hi> <persName>Karl V.</persName> II 104; s. ferner Paul <hi>Kannengiesser,</hi> Der Reichstag zu <placeName>Worms</placeName> vom Jahre 1545, Straßburg 1891, S. 60.</note>.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="de" type="auto">Ouch seind 3 spanysch bischoff<note xml:id="fn45" type="footnote" n="45">Unbekannt.</note> sampt ainer treffelichen bottschafft vom papst zuͦ <placeName>Venedig</placeName> gewesen und begert zuͦ vernemen, ob sy by dem schlusß des concilij zuͦ <placeName>Trient</placeName> belyben wellen; daruff si ain bedacht<note xml:id="fn46" type="footnote" n="46">Bedenkzeit.</note> genommen<note xml:id="fn47" type="footnote" n="47"><persName>Paul III.</persName> ließ tatsächlich sondieren, wer die Beschlüsse von <placeName>Trient</placeName> annehmen würde; s. Charles-Joseph <hi>Hefele,</hi> Histoire des Conciles d'apres des documents originaux, Bd. 9/1: Concile de Trente, bearb. v. P[ierre] Richard, Paris 1930, S. 204.</note>.</s>
+					<s n="40" xml:lang="de" type="auto">Der jung hertzog von Lutringen ist gestorben<note xml:id="fn48" type="footnote" n="48"><persName>Herzog François I. von Lothringen</persName> war am 12. Juni 1545 gestorben.</note>.</s>
+					<s n="41" xml:lang="de" type="auto">Soll der Frantzoß der land begeren; will ims der kaiser nitt lassen.</s>
+					<s n="42" xml:lang="de" type="auto">Maint man, der frid zwischen disen schwägern<note xml:id="fn50" type="footnote" n="50"><persName>Franz I.</persName> war seit 1530 mit Karls Schwester Eleonore verheiratet.</note> werde bald diser ursach halber ain ort<note xml:id="fn51" type="footnote" n="51">Ende.</note> haben.<pb type="edition" next="387"/></s>
+				</p>
+				<p>
+					<s n="43" xml:lang="de" type="auto">Zu Wurmß schwebt der reychstag im weyten mehr,<note xml:id="fn52" type="footnote" n="52">schwebt ... im weyten mehr: schwebt weiterhin im Ungefähren.</note> und wird, wie der brauch ist, by soͤlichem grossem verlust des gellts und der zeyt, ouch bey so großer muͤh und arbait gar nichts ausgericht.</s>
+					<s n="44" xml:lang="de" type="auto">Das bluͦtdurstig vorhaben der gaistlichen und paͤpstischen sampt den ungetruwen practicken machen, das die unseren getrulicher muͦssend zusamen setzen.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 138v.:]</note>
+					<s n="45" xml:lang="la" type="auto">Clarissimo viro d. Heinricho Bullingero, venerando suo et plusquam charissimo fratri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

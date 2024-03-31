@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12429" type="Brief" source="HBBW" n="2382">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Christian Hochholzer / Aarau AN Heinrich Bullinger, 17. März 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+					<s n="2" xml:lang="la" type="auto">Cum te indies magis ac magis negociis onerari haud me lateat, domine et pater colende, verbosior esse nolo, praesertim cum nulla sint, de quibus ad te scribam.</s>
+					<s n="3" xml:lang="la" type="auto">Literae tuae proximę<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> periucundę non solum mihi, sed et aliis fratribus fuere.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="la" type="auto"><persName ref="p18889">Lutherum</persName> mortuum esse audimus.</s>
+					<s n="5" xml:lang="la" type="auto">Speramus eo sublato <persName ref="p6490">Melanchthonem</persName> pro singulari sua prudentia, fide et sinceritate plurima nunc, quę hactenus ad tempus ut oeconomus fidelis in domo domini pro temporis ratione tulit vel<pb type="edition" next="229"/> dissimulavit,<note xml:id="fn2" type="footnote" n="2"><persName>Hochholzer</persName> verbindet hier irrtümlicherweise Mt 24, 45, und Lk 12, 42, mit Lk 16, 1-8.</note> haud parum ad veritatis lucem restaurandam ecclesiaeque unitatem confirmandam factura, et mutaturum ad apostolicamque regulam reformaturum.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="6" xml:lang="la" type="auto">Caeterum tu ipse iam nosti olim, qualis sit.</s>
+					<s n="7" xml:lang="la" type="auto">Omitto hęc.</s>
+					<s n="8" xml:lang="la" type="auto">Venio nunc ad eam clausulam, qua semper vel plerumque uti soleo, dum ad te literas exaro, videlicet, ut petiturus a te aliquid veniam; idque eo confidentius facio, quo mihi certius persuasum habeo te mihi nihil pro solita tua erga me et humanitate et benignitate negaturum.</s>
+					<s n="9" xml:lang="la" type="auto">Rogo itaque, si potest tua pace fieri, mittas ad me per hunc nostrum bibliopolam, quę collegisti iam ultimo in d. <persName>Theodori</persName><note xml:id="fn4" type="footnote" n="4"><persName>Theodor Bibliander</persName>.</note> lectionibus in Genesim<note xml:id="fn5" type="footnote" n="5">Bullingers Notizen zu <persName>Biblianders</persName> Genesis-Vorlesung vom 27. Oktober 1544 bis 12. Dezember 1545 mit einzelnen Stellen von <persName>Gwalthers</persName> Hand (Zürich ZB, Ms Car I 109-110); s. <hi>Gagliardi/Forrer</hi> 1611.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Paucissimis, quam potest fieri, diebus omnibus postpositis rescribam tibique restituam.</s>
+					<s n="11" xml:lang="la" type="auto">Quod si carere nunc non potes integro volumine aliquot diebus, velim d. <persName>Gvaltheri</persName> ex iisdem lectionibus collecta<note xml:id="fn6" type="footnote" n="6"><persName>Rudolf Gwalthers</persName> Notizen zu <persName>Biblianders</persName> Genesis-Vorlesung mit Datierung des Beginns und des Schlusses (Zürich ZB, Ms D 27-29); s. <hi>Gagliardi/Forrer</hi> 403. -Wir danken Herrn Kurt Jakob Rüetschi für diesen Hinweis.</note> mihi concedi, ad quem de eadem re, nisi persuasum habuissem te mihi tua daturum, scripsissem.</s>
+					<s n="12" xml:lang="la" type="auto">Si potest fieri, tam rogo, quam qui maxime in hoc quemadmodum et in caeteris hactenus non deesse mihi velis.</s>
+					<s n="13" xml:lang="la" type="auto">Statui enim pro concionibus publicis Genesim ecclesię pro virili explicare.</s>
+					<s n="14" xml:lang="la" type="auto">Magna conor.</s>
+					<s n="15" xml:lang="la" type="auto">Caeterum tanto minus laboribus parcam domino iuvante pro dono mihi benignitate larga domini concesso.</s>
+					<s n="16" xml:lang="la" type="auto">Quod potero, faciam, ut hactenus feci, et fortassis iam faeliciori cum successu, quamvis ita laborarim in vinea domini<note xml:id="fn7" type="footnote" n="7">Vgl. z.B. Mt 20, 1-16.</note> gratia dei praesente, ut, si non maximas laudes meritus sim, tamen ecclesię iudicio haud postremas obtineam.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="17" xml:lang="la" type="auto">Plura nunc non licet pro temporis angustia, nec etiam res postulat.</s>
+					<s n="18" xml:lang="la" type="auto">Vale in domino.</s>
+					<s n="19" xml:lang="la" type="auto">Salutem dicito domino <persName>Gvalthero</persName> et reliquis totique tuae familię, quam et uxor mea<note xml:id="fn8" type="footnote" n="8"><persName>Agathe, geb. Näf</persName>.</note> salvam cupit.</s>
+					<s n="20" xml:lang="la" type="auto">Aarovię, 17. martii 1546.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Tuae humanitati deditissimus <persName ref="p5708">Christianus Hochholzer</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, Tigurinę ecclesię antistiti vigilantissimo, domino tanquam patri suo plurimum colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

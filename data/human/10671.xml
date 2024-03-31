@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10671" type="Brief" source="HBBW" n="633">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 28. August 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Expectabam apologiam vestram<note xml:id="fn1" type="footnote" n="1">Gemeint ist die von <persName>Bibliander</persName> erarbeitete Verteidigungsschrift gegen lutherische Schmähungen, s. oben <ref target="file10659">Nr. 621</ref>, Anm. 19.</note>, charissime Heinrice.</s>
+					<s n="3" xml:lang="la" type="auto">Intervenit <persName>Capito</persName>, ut audio, vos et <placeName>Constantienses</placeName> petiturus, adferens Luterum in concordiam consensisse, <persName ref="p18198">Buceri</persName> de eucharistia in libello Ad Monasterienses confessionem non solum probaturum, sed et ad mortem usque defensurum, solum Schnepfium et <persName ref="p17881">Brentium</persName> pertinacia laborare.</s>
+					<s n="4" xml:lang="la" type="auto">Subindicavit hec brevissimo epistolio ad me dato dominus <persName>Capito</persName><note xml:id="fn3" type="footnote" n="3">Der Brief <persName>Capitos</persName> ist nicht erhalten.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Obsecro igitur te, charissime frater, ne in condicta verba coniurare cogamur aut cuiquam subscribere, qui non apertissime loquatur de negocio, quemadmodum in epistola tua, cuius apographum miseras<note xml:id="fn4" type="footnote" n="4">Gemeint ist Bullingers Brief an <persName>Bucer</persName> vom 28. März 1535 (oben <ref target="file10598">Nr. 562</ref>), von dem <persName>Haller</persName> eine Abschrift erhalten hatte; vgl. oben <ref target="file10647">Nr. 609</ref>, 10f.</note>, perspexi.</s>
+					<s n="6" xml:lang="la" type="auto">Nos mone, nobiscum communica, nos agnosce fratres unius fidei, nihil nobis posthabitis agite.</s>
+					<s n="7" xml:lang="la" type="auto">Una sit nobis fides et fidei nostrę docendae libertas.</s>
+					<s n="8" xml:lang="la" type="auto">Mallem ego concordiam, modo non maioris discordię fomentum adferret, modo veritas amphibologiis non perstringatur et plebis nostrę etiam ratio adhibeatur.</s>
+					<s n="9" xml:lang="la" type="auto">Laborant fratres Argentinenses<note xml:id="fn5" type="footnote" n="5"><persName>Bucer</persName> und <persName>Capito</persName>.</note> diligenter, sed ne imponatur et illis et nobis, summopere cavendum.</s>
+					<s n="10" xml:lang="la" type="auto">Est enim mutatio ingens in Lutero, si ad <placeName>Augustanum</placeName> legatum<note xml:id="fn6" type="footnote" n="6"><persName>Gereon Sailer</persName>.</note> se permoveri passus est, quem prius Cattorum princeps<note xml:id="fn7" type="footnote" n="7"><persName>Philipp I.</persName>, <persName>Landgraf von Hessen</persName>.</note> et sua ipsius anima, <persName ref="p6490">Melanchton</persName> scilicet, movere non potuit.</s>
+					<s n="11" xml:lang="la" type="auto">Age igitur, mi Heinrice, ne veluti postremi et eruditione et loco perpetuo harum rerum inscii simus.<pb type="edition" next="331"/></s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Legato vestro in comitiis Badenis<note xml:id="fn8" type="footnote" n="8">Zürich war an der <placeName>Badener</placeName> Tagsatzung vom 16. August 1535 durch <persName>Hans Edlibach</persName> vertreten, vgl. <bibl>EA</bibl> IV/1c 537.</note> commissum est de <placeName>Wirtenbergensium</placeName> episcopulis Luteranis<note xml:id="fn9" type="footnote" n="9">Vgl. oben <ref target="file10667">Nr. 629</ref>, Anm. 7.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Percontare igitur, quid tui facturi sint; nam reliqui negocium tuis crediderunt, ut vel super hac re comitia indicant vel proximis comitiis Badenis sua cum aliis piis conferant consilia<note xml:id="fn10" type="footnote" n="10">In der Instruktion für die Zürcher Gesandten zur <placeName>Badener</placeName> Tagsatzung vom 12./13. September wird festgehalten, Zürich wolle sich nicht damit beladen, eine fremde Nation zu belehren (Zürich StA, B VIII 3, 78r.).</note>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Aliud habeo nihil.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">28. augusti anno 35.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Tuum minimum nummisma<note xml:id="fn11" type="footnote" n="11">Wortspiel auf <persName>Haller</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Audio ministrum verbi Lucam penas luisse condignas, sed senatorem quendam ante annos simili scelere ohnoxium non nisi veluti adulterum punitum<note xml:id="fn13" type="footnote" n="13">Gemeint ist wohl <persName>Heinrich Rubli</persName>, ein Ratsherr, der sich Ende 1530 der Bestrafung wegen Ehebruchs durch Flucht entzogen hatte, im April 1531 jedoch bereits wieder nach Zürich zurückkehren durfte; vgl. <bibl>AZürcherRef</bibl> 1716. 1723f. 1733. 1759.</note>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="de" type="auto">An Meister Heinrich Bullinger, predicanten ze Zürich, sinem geliepten herren und bruͦder.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

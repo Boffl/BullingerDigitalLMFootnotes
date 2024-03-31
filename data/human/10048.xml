@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10048" type="Brief" source="HBBW" n="22">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Kappel am Albis] AN Huldrych Zwingli, [Herbst 1526?]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia et pax a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Rogo te plurimum, <persName>Zuingli</persName> mi, ut paucis mihi mentem tuam adaperias atque edoceas, quid rei sit, quod Christum ad inferna descendisse confitemur.</s>
+					<s n="3" xml:lang="la" type="auto">Sunt enim ex doctis hodie non pauci, qui mira hic comminiscuntur, interim ut nihilo minus ipsi sese torqueant et lectores avidos a se dimittant.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Heilrych Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="6" xml:lang="la" type="auto"><persName>Hulderycho Zuinglio</persName>, fratri in domino charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

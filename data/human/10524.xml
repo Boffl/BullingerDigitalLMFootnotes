@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10524" type="Brief" source="HBBW" n="488">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, 15. Dezember 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salve.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Iam tertio ad me scribit <persName ref="p18198">Bucerus</persName><note xml:id="fn1" type="footnote" n="1">Erhalten ist nur der dritte dieser Briefe vom 12. Dezember [1534] aus <placeName>Memmingen</placeName> («in abwesen sinem bruoder Conratt Zwygken»). Autograph: Zürich StA, E II 348, 393.</note>, ne quid praetermittam in te convocando.</s>
+					<s n="3" xml:lang="la" type="auto">Advenire enim se cum quibusdam bonis doctisque fratribus, idque tua potissimum causa<note xml:id="fn2" type="footnote" n="2"><persName>Bucer</persName> an <persName>Johannes Zwick</persName> (s. Anm. 1): «Sed, mi frater, cum ad vos venimus Helvetiorum caussa, nihil omittite, quo adsit Bullingerus et Leo» [<persName ref="p6796">Jud</persName>]. <persName>Frecht</persName>, <persName>Sebastian [Meyer]</persName> und Vertreter aus <placeName>Kempten</placeName> werden auch kommen. Vgl. dazu oben S. 412, Anm. 9 und unten S. 456, Anm. 16.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Ergo, ut omnem fidem meam apud <persName ref="p18198">Bucerum</persName> liberem, alterum hic tabellionem<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> mitto literis <persName ref="p18198">Buceri</persName> additis<note xml:id="fn4" type="footnote" n="4"><persName>Bucers</persName> Brief (Anm. 1) ist deshalb in Zürich erhalten.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Quibus cum Leone<note xml:id="fn5" type="footnote" n="5"><persName ref="p6796">Leo Jud</persName>.</note> et <persName>Pellicano</persName> lectis - nam iis nunc non datur rescribere - facite, quod decet.</s>
+					<s n="6" xml:lang="la" type="auto">Praestaret forsan facie quoque se invicem novisse fratres.</s>
+					<s n="7" xml:lang="la" type="auto">Proinde ex aliis etiam causis profutura esset tua pręsentia quam sacramenti.</s>
+					<s n="8" xml:lang="la" type="auto">Quodsi vero uno aut altero die tardior adfuturus es, tamen per tabellionem hunc fac sciam.</s>
+					<s n="9" xml:lang="la" type="auto">Curabo enim, ut moram apud nos faciant boni viri, donec tu quoque commode possis ad nos venire.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Ora vero dominum ex toto pectore, ut quod tentat <persName ref="p18198">Bucerus</persName> ad communem evangelii profectum, spiritu sancto autore quam felicissime succedat.</s>
+					<s n="11" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Raptim, 15. decembris 1534.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Tuus Io. Zwik.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Omnino apud me divertas, quibuscumque comitibus sis advolaturus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite des folgenden, unbezeichneten Blattes:]</note>
+					<s n="16" xml:lang="la" type="auto">Ornatissimo viro d. Hainricho Bullingero, antistiti Tigurinae ecclesiae vigilantissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

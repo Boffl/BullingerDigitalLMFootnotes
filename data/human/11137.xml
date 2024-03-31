@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11137" type="Brief" source="HBBW" n="1094">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 23. Januar 1538</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Factum est, <persName>Myconi</persName> colende, quod iubebas, cum <persName>Stapfero</persName> puero<note xml:id="fn1" type="footnote" n="1">Siehe oben <ref target="file11136">Nr. 1093</ref>.</note>; non cogitur redire ad Carol[stadium], manebit apud <persName>Hospinianum</persName>.</s>
+					<s n="3" xml:lang="la" type="auto">Caeterum accusationis capita satis quidem gravia allata ad nos non omnino vana et conficta fuerunt.</s>
+					<s n="4" xml:lang="la" type="auto">Bene tamen habebit negotium, si perrexerit in eo studio et sedulitate ea, quam nobis est pollicitus.</s>
+					<s n="5" xml:lang="la" type="auto">Oro te per dominum, ut tuae quoque curae illum habeas commendatum.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">De iis, qui sunt ultra Albim montem<note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file11134">Nr. 1091</ref>, 15-17.</note>, vanissima retulerunt, quicunque dixerunt vix retentos, quo minus ad vos cucurrerint.</s>
+					<s n="7" xml:lang="la" type="auto">Miror, qui nam tales rumores spargant, cum non dubitem illos tale nihil somniasse.</s>
+					<s n="8" xml:lang="la" type="auto">Certe favent egregie <placeName>Basileiensibus</placeName> ut Tigurini reliqui.</s>
+					<s n="9" xml:lang="la" type="auto">Nil moror, quid suspitiones multorum male ominentur de Tigurinis.</s>
+					<s n="10" xml:lang="de" type="auto">Ich acht es gentzlich darfür, wenn es ye sin muͤsse und man den ernst, das es nitt anders sin mög, erfaare, hoff ich, Zürych werd thuͦn, alls sich gepürt und iro eer vor gott und der wällt sin werde.</s>
+					<s n="11" xml:lang="la" type="auto">Qui gravatim in harenam descendunt<note xml:id="fn3" type="footnote" n="3"><bibl>Adagia</bibl> 1, 9, 83 (<bibl>LB</bibl> II 361).</note> et parum irritabiles, adde: et pollicitis parci sunt, diutius herent implacabiliores et in praestando liberiores sunt plerunque.</s>
+					<s n="12" xml:lang="la" type="auto">Crede mihi studium nostrorum erga vestros integrum esse.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Interim ad extremum usque quaerent aequas conditiones, quibus bellum prohibeant, neque id damnare possum.</s>
+					<s n="14" xml:lang="la" type="auto">Facilius est quietum commovere quam motum pacare.</s>
+					<s n="15" xml:lang="la" type="auto">De legatulo<note xml:id="fn4" type="footnote" n="4"><persName>Hans Edlibach</persName>; vgl. oben <ref target="file11134">Nr. 1091</ref>, 7-10 mit Anm. 5.</note> nunc nihil dico, qui ut reliqui bellum metuit.</s>
+					<s n="16" xml:lang="la" type="auto">Metuo et ego, maxime, cum sciam, quales simus.</s>
+					<s n="17" xml:lang="la" type="auto">Oro dominum, ut alia via iniuriam illam<note xml:id="fn5" type="footnote" n="5">Nämlich den Überfall <persName>Wilhelm Arsents</persName> und seiner Genossen auf mehrere französische Studenten (s. <bibl>HBBW VII</bibl> <ref target="file11114">[Nr. 1071]</ref>, S. 307, 1-308, 7 mit Anm. 2).</note> ulciscatur, id quod fieri poterit, si vestri fuerint constantes, prudentes et pii.</s>
+					<s n="18" xml:lang="la" type="auto">Quae autem de nostris sperem, dixi; nihil neque nunc neque superioribus literis<note xml:id="fn6" type="footnote" n="6">Vgl. oben <ref target="file11134">Nr. 1091</ref>, Anm. 2.</note> pollicitus sum.</s>
+					<s n="19" xml:lang="la" type="auto">Neque aliquid polliceri vel<pb type="edition" next="39"/> debeo vel possum.</s>
+					<s n="20" xml:lang="la" type="auto">Video sane periculosum esse de huiusmodi rebus literas scribere.</s>
+					<s n="21" xml:lang="la" type="auto">Sed hactenus ad amicos.</s>
+					<s n="22" xml:lang="la" type="auto">Huius quaedam et ad consulem pridie dedi<note xml:id="fn7" type="footnote" n="7">Der Brief, mit dem Bullinger auf das Schreiben <persName>Jakob Meyers</persName> vom 10. Jan. (<ref target="file11133">Nr. 1090</ref>) antwortete, ist nicht erhalten.</note>.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">De concordia quid sperem, non est, quod scribam.</s>
+					<s n="24" xml:lang="la" type="auto">Video autem illustrem <placeName>Bernatium</placeName> ecclesiam studio <persName ref="p18198">Buceri</persName> nimio scissam maxime periclitari.</s>
+					<s n="25" xml:lang="la" type="auto">Nulla est speranda concordia, nisi omnia <persName ref="p18198">Buceri</persName> approbemus et illius loquendi modos recipiamus.</s>
+					<s n="26" xml:lang="la" type="auto">Memini nunc illius post festum<note xml:id="fn8" type="footnote" n="8"><bibl>Adagia</bibl>, 1, 9, 52 (<bibl>LB</bibl> II 353).</note>, quod aliquando scribebas<note xml:id="fn9" type="footnote" n="9">Vgl. <bibl>HBBW VI</bibl> <ref target="file10906">[Nr. 866]</ref>, S. 369, 38.</note> brevi nobis plus futurum negotii cum <persName ref="p18198">Bucero</persName>, quam sit cum <persName ref="p18889">Luthero</persName>.</s>
+					<s n="27" xml:lang="la" type="auto">Spero autem <persName ref="p18889">Luthero</persName> illa <persName ref="p18198">Buceri</persName> studia neutiquam probari.</s>
+					<s n="28" xml:lang="la" type="auto">Non satis est dixisse: „Minister dat petenti sacramentum corporis domini“, id quod veteres dixerunt, nisi ita loquamur: „Minister cum signo exhibet tibi corpus Christi.“</s>
+					<s n="29" xml:lang="la" type="auto">Non audimur dicentes: „Corpus Christi ad dexteram sedet, tota Christi efficatia fide percipitur in coena“; oportet dicere: „Totus Christus est in coena, deus et homo, sed coelesti modo et invisibiliter.“<pb type="scan" next="154"/></s>
+					<s n="30" xml:lang="la" type="auto">Praetenditur interim confessio <placeName>Basileiensis</placeName><note xml:id="fn10" type="footnote" n="10">Das Erste Helvetische Bekenntnis; vgl. oben <ref target="file11134">Nr. 1091</ref>, 28f.</note>; sed quem interim sensum illi indant, nescio, cum toties nova profundantur vocabula.</s>
+					<s n="31" xml:lang="la" type="auto">Nihil scribit <persName ref="p18889">Lutherus</persName>, nihil respondetur nobis ad nostra<note xml:id="fn11" type="footnote" n="11"><persName>Luthers</persName> Antwort an die reformierten Städte der Eidgenossenschaft war zu diesem Zeitpunkt bereits in <placeName>Basel</placeName> eingetroffen; vgl. unten <ref target="file11139">Nr. 1096</ref>, Anm. 1.</note>; negligimur.</s>
+					<s n="32" xml:lang="la" type="auto">Interim <persName ref="p18198">Bucerus</persName> subinde novis consiliis nostras tentat ecclesias.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto"><persName>Megander</persName> Tigurum veniet <placeName>Bernam</placeName> relicturus.</s>
+					<s n="34" xml:lang="la" type="auto">Quid in catechismo novatum sit<note xml:id="fn12" type="footnote" n="12">Zum Streit um <persName>Bucers</persName> Revision von <persName>Meganders</persName> Katechismus s. besonders <bibl>HBBW</bibl> VII, <ref target="file11124">Nr. 1081</ref>.</note>, non nescis.</s>
+					<s n="35" xml:lang="la" type="auto">Dominus tueatur suos et veritatem suam!</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Vale in domino et saluta verbis meis d. <persName>Grynaeum</persName>, dominum colendissimum, et reliquos.</s>
+					<s n="37" xml:lang="la" type="auto">23. ianuarii 1538.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="39" xml:lang="la" type="auto">Colendissimo domino et fratri suo d. <persName>Osvaldo Myconio</persName>, <placeName>Basileien[sis]</placeName> ecclesiae antistiti vigilantissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

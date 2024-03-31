@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10224" type="Brief" source="HBBW" n="193">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Konrad Geßner, Johannes Fries / Basel AN Heinrich Bullinger, 25. Februar [1533]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Optimo et integerrimo viro M. Henrico Bullingero, mecaenati charissimo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">S.</s>
+					<s n="3" xml:lang="la" type="auto">Impediunt nos ab itinere<note xml:id="fn3" type="footnote" n="3"><persName>Geßner</persName> und <persName>Fries</persName> befanden sich auf dem Weg nach <placeName>Bourges</placeName>.</note> nives, pluvia et ventorum vis.</s>
+					<s n="4" xml:lang="la" type="auto"><placeName>Basileae</placeName> apud <persName>Myconium</persName><note xml:id="fn4" type="footnote" n="4"><persName>Fries</persName> und <persName>Geßner</persName> waren in einem Brief <persName>Pellikans</persName> vom 19. Februar 1533 an <persName>Myconius</persName> empfohlen worden (Zürich StA, E II 358, 98).</note> sine sumtu moramur sudum coelum et tempestatem mitiorem expectantes.</s>
+					<s n="5" xml:lang="la" type="auto">Nivibus obrutae sunt viae omnes, montes praesertim, per quos nulla itinera nunc patent.</s>
+					<s n="6" xml:lang="la" type="auto">Maxime tamen omnium nos detinet, quod Gallos et alios quosdam itineris comites<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> facturos brevi hic invenimus.</s>
+					<s n="7" xml:lang="la" type="auto">Tuam humanitatem rogamus literas nobis a senatu poscat Tigurinos nos esse et a Tigurino senatu propter studia ablegatos.</s>
+					<s n="8" xml:lang="la" type="auto">Ita enim docti plerique consuluerunt, quo nobis tutioribus esse liceat.</s>
+					<s n="9" xml:lang="la" type="auto">Ne nos negligas etiam atque etiam oramus poscimusque.</s>
+					<s n="10" xml:lang="la" type="auto">Si dederis operam, facile impetrabis.</s>
+					<s n="11" xml:lang="la" type="auto">Literis nos acceptis<note xml:id="fn6" type="footnote" n="6">Nach Aussage von <persName>Konrad Klauser</persName> haben <persName>Geßner</persName> und <persName>Fries</persName> die gewünschten Empfehlungsschreiben offenbar erhalten (s. unten <ref target="file10226">[Nr. 195]</ref> S. 77, 5). Auffindbar sind sie jedoch nicht mehr.</note> quamprimum cum comitibus maturabimus iter.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale et nos tibi commendatos habe.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto"><placeName>Basileae</placeName> in aedibus <persName>Myconii</persName>, februarii 25.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Ioannes Frisius et <persName>C. Gesnerus</persName> tui toti.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

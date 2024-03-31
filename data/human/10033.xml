@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10033" type="Brief" source="HBBW" n="10">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Kappel am Albis AN Wolfgang Rüpplin (Joner), Peter Simler (Simmler), Andreas Hofmann, 31. August 1525</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Praestantissimis viris <persName>Volcatio Ionero</persName>, <persName>Petro Simlero</persName> et <persName>Andreae Hofmanno</persName> caeterisque fratribus<note xml:id="fn5" type="footnote" n="5">Gemeint sind die anderen Freunde Bullingers in <placeName>Kappel</placeName>.</note> Heilrich Bullingerus gratiam et pacem praecatur a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Absolvi tandem, viri optimi, eos, quos de propheta inscripsimus libros quosque tanta improbitate vos effiagitastis.</s>
+					<s n="3" xml:lang="la" type="auto">Quod si id praestiti, quod expectabatis, gaudeo.</s>
+					<s n="4" xml:lang="la" type="auto">Si vero expectationi omnium adeo exacte non satisfeci, etquid [!] illi quoque possunt, nisi haec nostra boni consulere?</s>
+					<s n="5" xml:lang="la" type="auto">Quando probe norunt, quam invitus hanc sim adgressus provinciam et quam pertinaciter ad eruditiores consulendos transmiserim, imo quod sua potius improbitate quam mea temeritate victus scripserim.</s>
+					<s n="6" xml:lang="la" type="auto">Iam ubi me id peregisse videbunt, quod in magno negotiorum tumultu, brevissimo tempore, adeoque in ipso sacrarum litterarum tirocinio licuit, nimirum suae improbitati, non mihi imputabunt, si quid lima aut spongia<pb type="edition" next="80"/> dignum<note xml:id="fn7" type="footnote" n="7">Vgl. Adagia, 1, 5, 58 (<bibl>LB</bibl> II 205 C-D).</note> viderint.</s>
+					<s n="7" xml:lang="la" type="auto">Illos etiamdum ad eruditiorum institutiones, si qui modo sunt, qui rem totam scripturis agunt, relegamus<note xml:id="fn8" type="footnote" n="8">Über die Quellen von Bullingers «De propheta» s. <bibl>Hausammann</bibl> 161-173, wo auch der Inhalt des Werkes ausführlich behandelt wird.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Nos enim nihil damus nisi exilia; partim ex aliis huc translata authoribus, partim ex his, quae diutino iam legendi, scribendi tractandique usu sumus consequuti.</s>
+					<s n="9" xml:lang="la" type="auto">Et ea, quae olim sacra lectione observavimus, hic in compendium redegimus, ut isagoge potius aut elementale [!] propheticum venus quam prophetam vocaveris.</s>
+					<s n="10" xml:lang="la" type="auto">Utcunque tamen res habeat, ea, quę scripsimus, vestro omnium nomini dedicamus nullam aliam ob causam, nisi ut studia vestra, si quo modo fieri possit, promoveamus.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Deus autem scientiae, intellectus et omnis virtutis<note xml:id="fn10" type="footnote" n="10">Vgl. Jes 11,2; Röm 15,5.</note> adaperiat oculos vestros in lege sua<note xml:id="fn11" type="footnote" n="11">Vgl. 2 Makk 1,4.</note>, ut requiratis eum puro corde<note xml:id="fn12" type="footnote" n="12">Vgl. 2 Chr 30,19.</note>, charitate vera et fide non ficta [1 Tim 1,5].</s>
+					<s n="12" xml:lang="la" type="auto">Fiat!</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Valete in domino.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Ex eremo nostra communi <placeName>Cappell</placeName>, pridie kalendas septembres anno 1525.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

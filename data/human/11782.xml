@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11782" type="Brief" source="HBBW" n="1737">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Matthias Erb / Reichenweier AN Heinrich Bullinger, 3. April 1543</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. frater in domino charissime.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Scripsi multis <persName>Voglero</persName><note xml:id="fn1" type="footnote" n="1"><persName>Hans Vogler d.Ä.</persName></note> nostro, veteri amico<note xml:id="fn2" type="footnote" n="2"><persName>Vogler</persName> hatte bis 1541 als Stadtschaffner in <placeName>Reichenweier</placeName> gewirkt; vgl. <bibl>HBBW</bibl> XI <ref target="file11621">[Nr. 1578]</ref> 337, Anm. 5.</note>, cuius beneficentię plurimum debeo, de statu meo et ecclesię<note xml:id="fn3" type="footnote" n="3"><persName>Erbs</persName> Brief an <persName>Vogler</persName> ist nicht erhalten.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Adtexui nova, quę apud nos passim dissipantur, at quam vera, ignoro; ut enim mundus instabilis est, ita et fama apud nos (mobilior quovis euro<note xml:id="fn4" type="footnote" n="4">Südostwind, vgl. <persName>Vergil</persName>, Aeneis, 8, 223; 12, 733; <persName>Horaz</persName>, Carmina, 2, 16,24 ("ocior euro") u. a.</note>) mentiendo vires acquirit<note xml:id="fn5" type="footnote" n="5">Vgl. <persName>Vergil</persName>, Aeneis, 4, 174f ("... viresque adquirit eundo"); <bibl>TPMA</bibl> IV 392 ("Quamuis mentitur, crescit eundo tamen").</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Quę tibi forte legenda exhibebit.</s>
+					<s n="5" xml:lang="la" type="auto">Oro, ut soles, pro tua singulari prudentia omnia boni consulas, tum iis communices, qui mihi vel nugigeruli vel vani hominis notam non possint inurere etc.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Video trepidare Germaniam cum principibus et civitatibus adeo, ut plurimi sint fere in expeditione.</s>
+					<s n="7" xml:lang="la" type="auto">Nec tamen Christus inter istos tumultus silet, sed evangelium eius fortius exerit vires.</s>
+					<s n="8" xml:lang="la" type="auto">Minantur alius alii grandia et fere excidium, sed spero, <foreign xml:lang="de">es soll ein schwert das ander in der scheiden behalten<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Wander</bibl> IV 467, Nr. 32.</note>.</foreign></s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Valebis salubriter cum ecclesia et fratribus tuis, quos nominatim salutabis, inprimis <persName>Erasmum</persName><note xml:id="fn7" type="footnote" n="7"><persName>Erasmus Schmid (Fabritius)</persName>.</note>, <persName>Megandrum</persName> meum, <persName>Pellicanum</persName> etc.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Raptim, Richenvillae, 3. die aprilis anno 1543.</s>
+					<s n="11" xml:lang="la" type="auto">Ora dominum pro me, quod itidem pro te fatiam, frater in domino charissime.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p7512">Mathias Erbius</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Viro pietate et doctrina eximio d. Henricho Bullingero, apud Tigurinos ecclesiastę vigilantissimo, fratri suo charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10703" type="Brief" source="HBBW" n="665">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Dietrich Bitter (von Wipperford) / Köln AN Heinrich Bullinger, 27. Oktober 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia et pax a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Recepi cum animi gratitudine commentarios tuos eruditione plenos in quatuor Paulinas epistolas<note xml:id="fn1" type="footnote" n="1">Bullinger, Commentarii in epistolas Pauli ad Galatas, Ephesios, Philippenses et Colossenses (<bibl>HBBibl</bibl> I 72).</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Habeo etiam hodie penes me 4 libros adversum catabaptistas<note xml:id="fn2" type="footnote" n="2">Gemeint ist die 1535 erschienene lateinische Übersetzung von Bullingers vierteiliger Schrift "Von dem unverschämten Frevel der Wiedertäufer" (<bibl>HBBibl</bibl> I 29).</note> anxius adhuc, quando eosdem sim doctori <persName>Conrado</persName>, quem nosti, traditurus.</s>
+					<s n="4" xml:lang="la" type="auto">Nam Iacobus<note xml:id="fn4" type="footnote" n="4">Der verschiedentlich als Bote zwischen <placeName>Köln</placeName> und Zürich erwähnte Bruder Jakob ist nicht näher bekannt; vgl. <bibl>HBBW</bibl> II <ref target="file10117">[Nr. 88]</ref>, S. 104, Anm. 5.</note> astutior praebuit mihi litteras eidem perferendas<note xml:id="fn5" type="footnote" n="5">Nicht erhalten.</note>, priusquam libri navigio descenderint, aitque sic illi a <persName ref="p5295">Christophoro</persName> tuo<note xml:id="fn6" type="footnote" n="6"><persName>Christoph Froschauer</persName>.</note> commissum.</s>
+					<s n="5" xml:lang="la" type="auto">Parui, accessi, tradidi illi litteras ad manus.</s>
+					<s n="6" xml:lang="la" type="auto">Quibus apertis non constabat de nomine.</s>
+					<s n="7" xml:lang="la" type="auto">Quaerebat, num ego te noscerem, quisnam esses.</s>
+					<s n="8" xml:lang="la" type="auto">Reduxi illi in memoriam, quantum potui, tui noticiam.</s>
+					<s n="9" xml:lang="la" type="auto">Ait tandem: "Estne ille iuvenis, qui cum fratre <persName>Iacobo</persName> solebat me invisere?"</s>
+					<s n="10" xml:lang="la" type="auto">Respondi: "Is ille est."</s>
+					<s n="11" xml:lang="la" type="auto">Tum conatus est tuas litteras legere, verum non potuit.</s>
+					<s n="12" xml:lang="la" type="auto">Sic ego rogatus illi perlegere.</s>
+					<s n="13" xml:lang="la" type="auto">Fecisti autem in eisdem mentionem cuiusdam domini <persName>Georgii</persName><pb type="edition" next="400"/>Dienerei, et quia is non affuit, dixit illum brevi affuturum seque litteras in hoc tempus in custodia habiturum egitque mihi gratias imortales refocillans me vino et cerevisia volens maiori me afficere honore.</s>
+					<s n="14" xml:lang="la" type="auto">Verum tempus non dabat diutius illic permanere.</s>
+					<s n="15" xml:lang="la" type="auto">In discessu deduxit me in propria persona ad portam usque coenobii et dixit se de invisis iudicium prestare non posse.</s>
+					<s n="16" xml:lang="la" type="auto">Proposui igitur, quamprimum rescivero Georgium illum adesse, eosdem libros perferre, ut ab eo incitatus, qui tuus solebat esse amator, libros iam dictos maiori cura perlegat.</s>
+					<s n="17" xml:lang="la" type="auto">Quicquid autem scripserit aut nunciandum commiserit, qua possum sedulitate curabo, ut certior fias.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Mitto tibi, ut petis, Lutzenburgium De hereticis, qui author brevi defunctus est<note xml:id="fn9" type="footnote" n="9">Am 6. Oktober 1535 <hi>(Paulus,</hi> aaO, S. 110).</note>.</s>
+					<s n="19" xml:lang="la" type="manual">Prostant libri quatuor <persName>Erasmi</persName> De modo concionandi<note xml:id="fn10" type="footnote" n="10"><persName>Erasmus</persName>, Ecclesiastae sive de ratione concionandi libri IV (<bibl>LB</bibl> V 767-1100).</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Quos si petis, proximo nuncio rescribito.</s>
+					<s n="21" xml:lang="la" type="auto">De Monasteriensibus, que apud nos publicata sunt, sicut nuper receperam, simul transmitto, bullam insuper <persName>Pauli</persName> tercii pontificis maximi<note xml:id="fn12" type="footnote" n="12">Um welche Bulle Pauls III. es sich handelt, ließ sich nicht feststellen.</note> in hoc, ut studium nostratium hac tempestate ex hac<pb type="edition" next="401"/> odorare liceat.</s>
+					<s n="22" xml:lang="la" type="auto">De victoria imperatoris, cuius facis mentionem, etiam videbis scriptum quoddam<note xml:id="fn13" type="footnote" n="13">Welche der zahlreichen Schriften über den erfolgreichen Feldzug Karls V. nach <placeName>Tunis</placeName> gemeint ist, bleibt ungewiß.</note></s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">De bello ducis Holsteinii et Lubicensium nihil compertius habemus quam inducias esse datas<note xml:id="fn14" type="footnote" n="14">Hintergrund der verfrühten Nachricht von einem Waffenstillstand zwischen Herzog Christian von Schleswig-Holstein und <placeName>Lübeck</placeName> sind verstärkte Bemühungen um eine Beendigung des Krieges; vgl. <hi>Waitz,</hi> <placeName>Lübeck</placeName> III 124-130.</note>.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">De Roffensi et Moro, utrumque cecidisse gladio regis Hibemiorum<note xml:id="fn15" type="footnote" n="15">Zur Hinrichtung von <persName>John Fisher</persName> und <persName>Thomas Morus</persName> wegen ihrer Verweigerung des Suprematseides auf <persName>Heinrich VIII.</persName> s. oben <ref target="file10678">Nr. 640</ref>, Anm. 3 und <ref target="file10694">Nr. 656</ref>, Anm. 4.</note>, insuper aliquot paria ordinis observantium<note xml:id="fn16" type="footnote" n="16">Neben <persName>Fisher</persName> und <persName>Morus</persName> hatten auch mehrere Kartäuser (nicht Observanten!) ihren Widerstand mit dem Leben bezahlt, vgl. R. W. <hi>Chambers,</hi> Thomas More, London 1948. - The Bedford Historical Series II, S. 320-331.</note>, certo certius.</s>
+					<s n="25" xml:lang="la" type="auto">Scripsi enim ipse meis articulis copias litterarum apostolicarum<note xml:id="fn17" type="footnote" n="17"><persName>Bitter</persName> bezieht sich auf das Breve Pauls III. an <persName>König Ferdinand I.</persName> vom 26. Juli 1535 (F. B. von <hi>Bucholtz,</hi> Geschichte der Regierung Ferdinand des Ersten. Urkunden-Band, Wien 1838, S. 15f).</note>, quibus implorabatur subsidium regis <placeName>Romanorum</placeName> et aliorum principum pro expellendo rege Hibemorum regno suo, utpote qui non modo publicus sit adulter, verum etiam homicida, hereticus et lesor maiestatis.</s>
+					<s n="26" xml:lang="la" type="auto">Est enim regnum suum <placeName>Romane</placeName> curie tributarium etc.</s>
+					<s n="27" xml:lang="la" type="auto">Ut paucis intelligas: Audio pontificem quondam dispensisse cum rege Anglicorum, ut duceret uxorem fratris sui, ob id quod uxor allegaverit eundem impotentem etc; verum hinc regem sumere nunc ansam<note xml:id="fn19" type="footnote" n="19">Vgl. Adagia, 1, 4, 4 (<bibl>LB</bibl> II 152).</note><pb type="scan" next="||105v."/> talem uxorem, nempe fratris, repudiandi et aliam<note xml:id="fn20" type="footnote" n="20"><persName>Anna Boleyn</persName>.</note> ducendi spernendique, quicquid impetratum est dispensationum a <placeName>Romano</placeName> pontifice, et insuper tocius illius farraginis.</s>
+					<s n="28" xml:lang="la" type="auto">Et proinde quotquot illi resistunt constitutionum<placeName>Romane</placeName> curie defensores, variis cruciatibus afficit, de quorum numero et Roffensis, qui paulo ante mortem in cardinalium etiam numerum ascitus erat.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Et ut nunc obiter tabellionis fiat mentio: Dicis eum cupere, ut ab uxore liberetur et ut in eo, si possim, illi beneficium prestem etc.</s>
+					<s n="30" xml:lang="la" type="auto">Beneficium adest<pb type="edition" next="402"/> presentissimum (ut audio), modo eo uti volet: Relinquat hanc et adhereat illi, quam priorem duxit, si iusta et evangelica causa recusandi non subest.</s>
+					<s n="31" xml:lang="la" type="auto">Quae etsi adsit, potest tamen exhibere misericordiam in fragilem sexum etc.</s>
+					<s n="32" xml:lang="la" type="auto">Quae scribo, tue fidei commissa esse volo.</s>
+					<s n="33" xml:lang="la" type="auto">Idem rogatus semel et iterum, ut mecum vesceretur, semper excusationem praetexit.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="de" type="auto">Mit dynem schwager <persName>Niclaes Mußli</persName> will ich kuntschafft<note xml:id="fn23" type="footnote" n="23">Bekanntschaft (<bibl>Grimm</bibl> V 2638).</note> machen.</s>
+				</p>
+				<p>
+					<s n="35" xml:lang="de" type="auto">Groetzt myr deine hueßfraw<note xml:id="fn24" type="footnote" n="24">Bullingers Frau <persName>Anna, geb. Adlischwyler</persName>.</note> und broeder <persName>Hansen</persName><note xml:id="fn25" type="footnote" n="25"><persName>Johannes Reinhart Bullinger</persName>.</note> sampt andern frunden tausentfalt.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">De <persName>Conrado Clauserio</persName> scribis.</s>
+					<s n="37" xml:lang="la" type="auto">Quodsi scirem eundem apud nos conversari, alloquerer eundem quam possemfamiliariter<note xml:id="fn26" type="footnote" n="26"><persName>Konrad Klauser</persName> arbeitete 1535 als Korrektor in <placeName>Mainz</placeName>, wie aus seinem Brief an <persName>Johann Jakob Ammann</persName> (Zürich StA, E II 343, 105r.-v.) hervorgeht.</note>.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">His paucis vale.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Datum <placeName>Colonie</placeName>, in vigilia Simonis et Iude apostolorum anno 35.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto"><persName>Theodericus Bitter Wipperfordensis</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 106b v.:]</note>
+					<s n="41" xml:lang="de" type="auto">Dem eirsamen und wolgeleirthen Meister Heinrichen Bullinger, mynem besonderen guthen freundt zo handenn.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

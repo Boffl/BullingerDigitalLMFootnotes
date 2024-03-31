@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12767" type="Brief" source="HBBW" n="2720">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wolfgang Haller / Kappel am Albis AN Heinrich Bullinger, 18. Dezember 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Meum de Burckhardi Lemani indole, pietate, diligentia et eruditione (domine ac pater multis mihi nominibus semper colendissime) iudicium audire petis,<note xml:id="fn2" type="footnote" n="2">In einem nicht erhaltenen Brief; vgl. auch unten Z. 33f.</note> quod pro meo in illum officio et pro debita in studiorum praefectos, dominos meos colendissimos, obedientia vere, syncere paucis et breviter, sine ulla singulari mentis affectione faciam.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="3" xml:lang="la" type="auto">Burckhardus Lemanus modice antehac in Latinis institutus ab eo tempore, quo administrationem ludi literarii <placeName>Cappellani</placeName> suscepi, tantum non annis, sed studio, pietate et diligentia profecit, ut apud omnes alios meos discipulos similem profectum ex animo semper optarim.</s>
+					<s n="4" xml:lang="la" type="auto">In Graecis enim quoque iam modice institutus est, quamvis nondum toto anno in iis versatus sit.</s>
+					<s n="5" xml:lang="la" type="auto">Foelix illius ingenium, diligentia probata, studium assiduum.</s>
+					<s n="6" xml:lang="la" type="auto">Iuvenis est, sed pro iuventute sua satis bene et foeliciter solidae eruditionis fundamenta iecit, imprimis pietatem et dei timorem.</s>
+					<s n="7" xml:lang="la" type="auto">Obedientia semper in illo spectata, cum scientia coniuncta pietas; unde nullum mihi dubium fit, si sic, ut coepit, perget, haud parvo usui olim ecclesiae Christi futurum esse.</s>
+					<s n="8" xml:lang="la" type="auto">Amor studiorum in illo semper maximus, propensio ad pietatis studia frequens, laude diligentiae ad maiora semper accensus.</s>
+					<s n="9" xml:lang="la" type="auto">Dignus ergo, qui promoveatur.</s>
+					<s n="10" xml:lang="la" type="auto">Fuit <pb type="edition" next="417"/> quoque animus mihi ea de re dominum scholarcham<note xml:id="fn5" type="footnote" n="5"><persName>Johann Jakob Ammann</persName>; s. oben Anm. 3.</note> interpellare, si quo modo promoveri posset.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Maiora enim in nostro ludo docere non possumus, nisi sola grammaticalia propter abeuntes paulo peritiores et redeuntes alios imperitiores.</s>
+					<s n="12" xml:lang="la" type="auto">Cum Lemano tres tantum habeo, qui in Graecis versentur.</s>
+					<s n="13" xml:lang="la" type="auto">Adiiciam nunc novitios<note xml:id="fn6" type="footnote" n="6"><persName>Wolfgang Haller</persName> meint, dass sie "Anfänger" in der griechischen Sprache waren; vgl. nämlich unten Z. 30-33.</note> quatuor alios, quos hactenus legendi rationem docui: Wolphgangum Teck,<note xml:id="fn7" type="footnote" n="7"><persName>Wolfgang Deck</persName> (1534-1574) wurde Schüler in <placeName>Kappel</placeName> am 30. Juli 1543 und versah nach seiner 1556 erfolgten Ordination einige Pfarrstellen; s. <placeName>Zürich</placeName> StA E I 17/1, 265v.; <hi>Pf-<placeName>Zürich</placeName></hi> 242.</note> <persName ref="p8423">Ioannem Cholerum</persName>,<note xml:id="fn8" type="footnote" n="8"><persName>Hans Koller</persName> (1532-1585). 1555 Ordiniert. 1557 Leutpriester am Großmünster in <placeName>Zürich</placeName>; s. <hi>Pf-<placeName>Zürich</placeName></hi> 392, Nr. 3; Carl <hi>Keller-Escher,</hi> Promptuarium genealogicum, Bd. 4 (<placeName>Zürich</placeName> ZB, Ms Z II 4), 5. 563.</note> <persName ref="p8423">Ioannem Thomam</persName> Wirtz et Victorem a Schönouw.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="14" xml:lang="la" type="auto">Lemanus ergo, cum <placeName>Tigurinus</placeName> sit, optimis natus parentibus, ipse diligens, bonarum literarum et pietatis studiosus, laudem apud nos merito invenit, licet interim moribus subrusticanis<note xml:id="fn12" type="footnote" n="12">bäurisch; s. <hi>Dasypodius, Dic.</hi> 206r.</note> sit, ita ut apud nos fit inter bumulcos<note xml:id="fn13" type="footnote" n="13">Senne; s. <bibl>Kirsch</bibl> 380.</note>, subulcos, opiliones et equisones; qui tamen in illo facile in melius mutabuntur.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="15" xml:lang="la" type="auto">Profectiores deinceps reliqui sunt: <persName>Ioannes Steinbrüchel</persName> (morosus, sed ingenio foelicissimo praeditus), Foelix <persName>Bluntschlius</persName> (qui, quod nativo in-<pb type="edition" next="418"/>genio deest, diligentia compensat), Wolphgangus Teck, Ioannes Thomas et Cholerus.<note xml:id="fn16" type="footnote" n="16">Die oben genannten <persName>Wolfgang Deck</persName>, <persName>Hans Thomann</persName> Win und <persName>Hans Koller</persName>.</note></s>
+					<s n="16" xml:lang="la" type="auto">Et ii foelices et in Latinis bene instituti.</s>
+					<s n="17" xml:lang="la" type="auto">Ea fere sunt, domine colendissime, quae ad tua scripta respondere placuit.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="18" xml:lang="la" type="auto">Doleo maxime vicem omnium christi fidelium hac persecutione<note xml:id="fn17" type="footnote" n="17">Die zu Zeiten des Schmalkaldischen Krieges eingetretenen Verfolgungen.</note> pressorum.</s>
+					<s n="19" xml:lang="la" type="auto">Age, exacuit autem dominus gladium suum et intendit arcum suum,<note xml:id="fn18" type="footnote" n="18">Ps 7, 13.</note> ut comminus et eminus feriens vindictam faciat electorum suorum cito.<note xml:id="fn19" type="footnote" n="19">Lk 18, 7.</note></s>
+					<s n="20" xml:lang="la" type="auto">Vicini nostri<note xml:id="fn20" type="footnote" n="20">Gemeint sind <placeName>Schwyz</placeName> und <placeName>Zug</placeName>, vielleicht auch allgemein die Innerschweizer.</note> antiquum obtinent: coram amici, alias infensissimi.</s>
+					<s n="21" xml:lang="la" type="auto">Libido enim illorum, fastus, avaritia, superbia et multo diligentius idololatriae studium, quam vel ante paucos menses habuerint, animos illorum neutiquam nobis devincient.</s>
+					<s n="22" xml:lang="la" type="auto">Vereor, ne nimium illis fidamus.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="23" xml:lang="la" type="auto">Remisi tibi per Cholerum, alias a suis parentibus vocatum, in utrumque Samuelis librum concionum memorialia oroque, si, ut petieram, per illum ea non misisti, quę cupiebam, vel in Genesim tantum mittas.</s>
+					<s n="24" xml:lang="la" type="auto">Utar brevi, et fideliter restituam.<pb type="edition" next="419"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="25" xml:lang="la" type="auto">Vale, domine ac pater colendissime, ac me semper ama et tibi commendatum habe.</s>
+					<s n="26" xml:lang="la" type="auto">Salvam cupio omnem familiam tuam, uxor quoque mea<note xml:id="fn25" type="footnote" n="25">Elsbeth Göldli. Bullinger hatte das Ehepaar am 30. Juli 1545 getraut. Die Hochzeitsfeier fand am 12. August statt; s. die oben in Anm. 4 erwähnten Kalendereinträge <persName>Wolfgang Hallers</persName>, aaO, f. lv.</note>, quae plurimam tibi et illis suo nomine salutem scribi iubet.</s>
+					<s n="27" xml:lang="la" type="auto">Vale denuo.</s>
+					<s n="28" xml:lang="la" type="auto">18. decembris 1546, Cappellae Tigurinorum.</s>
+					<s n="29" xml:lang="la" type="auto"><persName ref="p7614">Wolphgangus Hallerus</persName> tui colendissimus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="30" xml:lang="la" type="auto">Clarissimo viro domino Heinricho Bullingero, domino ac patri suo semper colendissimo.</s>
+					<s n="31" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12859" type="Brief" source="HBBW" n="2810">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Johannes Gast] / [Basel] AN Heinrich Bullinger, 12. Februar 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. in domino.</s>
+					<s n="2" xml:lang="la" type="auto">Vis, ut scribam, quę aguntur in Inferiori <persName>Germania</persName>.</s>
+					<s n="3" xml:lang="la" type="auto">Partim ignota sunt, quę apud tam longe dissitos accidunt, partim nugarum sunt <pb type="edition" next="300"/> plena.</s>
+					<s n="4" xml:lang="la" type="auto">Hoc scio, sed ridiculum est, attamen malę conscientię indicium:</s>
+					<s n="5" xml:lang="de" type="manual">Es ist ein pfaff, der hat nüwlich zuͦ Bercken<note xml:id="fn2" type="footnote" n="2"><placeName>Bergheim</placeName> (Dép. Haut-Rhin, Frankreich).</note> geprediget <foreign xml:lang="la">in hec verba: „Laudemus dominum, qui victoriam caesari<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> dedit,</foreign> dann so die Luterischen uberhandt hetten genomen, so were es uns armen pfaffen und den armen Juden ubel gangen, als kein volck uff erden nie!</s>
+					<s n="6" xml:lang="de" type="auto">Aber gott verlast die synen nit.</s>
+					<s n="7" xml:lang="de" type="auto">Ir Juͤden betten üweren got an, so wöllen wir unseren anbetten.</s>
+					<s n="8" xml:lang="de" type="auto">So werden wir witers gluck haben.“</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="9" xml:lang="la" type="auto">Quę <placeName>Francofordię</placeName> aguntur, paucis accipe, nam hęc a <placeName>Francofordiano</placeName> cive<note xml:id="fn4" type="footnote" n="4">Vermutlich <persName>Mathias Limberger</persName>, der schon während seiner Mainzer Zeit als <persName>Gasts</persName> Korrespondent nachgewiesen ist; s. zuletzt <bibl>HBBW</bibl> XIV 201; XVI 194.</note> hausi: <foreign xml:lang="de">Es ligent noch 5 fenlin knecht do.</foreign></s>
+					<s n="10" xml:lang="de" type="auto">Die bezalen, was si essen und trincken.</s>
+					<s n="11" xml:lang="de" type="auto">Sy haben allen gwalt in der stat.</s>
+					<s n="12" xml:lang="de" type="auto">Es ist ein muͤnch<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> kommen.</s>
+					<s n="13" xml:lang="de" type="auto">Der het gelangt<note xml:id="fn7" type="footnote" n="7">sich gewandt.</note> an die kriegsknecht, das man im erlaube, meß zuͦ haben.</s>
+					<s n="14" xml:lang="de" type="auto">Das ist bracht an ein rath zuͦ <placeName>Francofort</placeName>.</s>
+					<s n="15" xml:lang="de" type="auto">Diß ist im abgeschlagen.</s>
+					<s n="16" xml:lang="de" type="auto">Und hat der frünfelich muͤnch wider hinweg müssen faren mit siner meß.</s>
+					<s n="17" xml:lang="de" type="auto">Man hat niemans etwas genomen, nimpt ouch niemans nuit.<note xml:id="fn10" type="footnote" n="10">nichts. - Eine Äußerung, die in Bezug auf die in <placeName>Frankfurt</placeName> stationierten kaiserlichen Söldner zu verstehen ist.</note></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="18" xml:lang="de" type="auto">Man sagt ouch, der keyser habe uff <placeName>Worms</placeName> geschickt by<note xml:id="fn11" type="footnote" n="11">etwa.</note> 200 wegen.</s>
+					<s n="19" xml:lang="de" type="auto">Welle do ein reichstag haben.</s>
+					<s n="20" xml:lang="de" type="manual">Wie es in <placeName>Saxen</placeName> gadt, <foreign xml:lang="la">scribet <persName>Myconius</persName>.<note xml:id="fn13" type="footnote" n="13"><persName>Myconius</persName> war damals krank, sodass er erst am 1. März wieder an Bullinger schrieb. Dabei vermittelte er tatsächlich Nachrichten über <placeName>Sachsen</placeName>; s. <ref target="file12882">Nr. 2833</ref>,16-19.</note></foreign><pb type="edition" next="301"/></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="21" xml:lang="de" type="auto">Juncker <persName>Claus von Hattstat</persName>, ein redlicher krieger, <foreign xml:lang="la">de quo proxime scripsi,<note xml:id="fn14" type="footnote" n="14">Siehe <ref target="file12802">Nr. 2753</ref>,27-31.</note></foreign> lyt noch gefangen zuͦ Ensesheim<note xml:id="fn15" type="footnote" n="15"><placeName>Ensisheim</placeName> (Dép. Haut-Rhin, Frankreich).</note> im schloß.</s>
+					<s n="22" xml:lang="de" type="auto">Hat ysen an fuͤssen und armen.</s>
+					<s n="23" xml:lang="de" type="auto">Man meynt, er werde den kopff verlieren.</s>
+					<s n="24" xml:lang="de" type="auto">1. articulus:<note xml:id="fn16" type="footnote" n="16">Nachfolgend führt <persName>Gast</persName> die Anklagepunkte gegen <persName>Hattstatt</persName> auf.</note> Er hat nit wellen dem<pb type="scan" next="197v."/> keyser dienen in dem zuͤg.<note xml:id="fn17" type="footnote" n="17">Feldzug.</note></s>
+					<s n="25" xml:lang="de" type="auto">2. Er hat sin volck lassen gon <placeName>Strassburg</placeName> louffen, ouch dem lantgraven<note xml:id="fn18" type="footnote" n="18"><persName>Philipp von Hessen</persName>.</note> knecht angenomen.</s>
+					<s n="26" xml:lang="de" type="auto">3. Sy haben inn im züg<note xml:id="fn19" type="footnote" n="19">im zug: in Verdacht.</note>, er sölle dem Frantzosen<note xml:id="fn20" type="footnote" n="20"><persName>König Franz I. von Frankreich</persName>.</note> wellen knecht annemen.</s>
+					<s n="27" xml:lang="de" type="auto">Sy haben 6 pferdt ußgeschickt in willens, alle syne brieff in seim schloß zuͦ erloͤßen; aber sy haben das nit zuͦ wegen kynnen bringen.<note xml:id="fn22" type="footnote" n="22">zü wegen kynnen bringen: zustande bringen können.</note></s>
+					<s n="28" xml:lang="de" type="auto">Der juncker hat ein reisigen<note xml:id="fn23" type="footnote" n="23">gerüsteten.</note> krieger by im<note xml:id="fn24" type="footnote" n="24">sich.</note> lang gehan; den im schloß gelossen.</s>
+					<s n="29" xml:lang="de" type="auto">Diser hat den 6 rütteren und etlichen büren das schloß vorgehalten<note xml:id="fn25" type="footnote" n="25">vorenthalten; verschlossen gehalten; s. <bibl>SI</bibl> II 1233 s.v. verhalten.</note>, sy darvon gejagt mit geschützs, die brieff als<note xml:id="fn26" type="footnote" n="26">die brieff als: alle Briefe.</note> verbrent, und hat also das schloß noch ynn.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="30" xml:lang="de" type="auto">Praeterea das fröwt mich: Die von <placeName>Colmar</placeName> haben den abt von <placeName>Malbrunn</placeName> lang uffgehalten in sym ellendt<note xml:id="fn28" type="footnote" n="28">uffgehalten in sym ellendt: versorgt in seiner Verbannung; s. <bibl>SI</bibl> II 1227; I 177.</note>, der ein huß zuͦ <placeName>Colmar</placeName> hat.</s>
+					<s n="31" xml:lang="de" type="auto">Disem haben sy etwas genomen, daruß ein bolwerck gemacht.</s>
+					<s n="32" xml:lang="de" type="auto">Der apt hat sy verklagt vor <persName>Ferdinando</persName>.<note xml:id="fn29" type="footnote" n="29"><persName>König Ferdinand I.</persName></note></s>
+					<s n="33" xml:lang="de" type="auto">Wider den<note xml:id="fn30" type="footnote" n="30">Gemeint ist <persName>von Lienzingen</persName>.</note> stelt sich der prior <persName>Hoffmeyster</persName>,<note xml:id="fn31" type="footnote" n="31"><persName>Johannes Hoffmeister</persName>, seit 1533 Prior der Augustinereremiten in <placeName>Colmar</placeName>.</note> <persName>Ferdinandi</persName> pre-<pb type="edition" next="302"/>dicent.</s>
+					<s n="34" xml:lang="de" type="auto">Der rüttet zum künig mit eim der raͤdten<note xml:id="fn32" type="footnote" n="32">Unbekannt.</note>, das zuͦ erlangen wider den apt.</s>
+					<s n="35" xml:lang="la" type="auto">Ita papistę debent perdere papistas!</s>
+					<s n="36" xml:lang="de" type="auto">Ein teufel sol dem anderen widerston, domit das alles ze gründt gange!</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="37" xml:lang="de" type="auto">Item, der landtgraff lyt<note xml:id="fn33" type="footnote" n="33">liegt.</note> zuͦ <placeName>Cassel</placeName>.</s>
+					<s n="38" xml:lang="de" type="auto">Ist in grosser ruͤstung.<note xml:id="fn34" type="footnote" n="34">Vgl. jedoch <ref target="file12837">Nr. 2788</ref>, Anm. 28; und <ref target="file12854">Nr. 2805</ref>,36.</note></s>
+					<s n="39" xml:lang="de" type="auto">Hertzog <persName>Hans</persName>, elector,<note xml:id="fn35" type="footnote" n="35">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> hat <placeName>Lipsig</placeName> mit eim sturm gwonnen, alles kriegsvolck erstochen darinnen, ouch die statt geplünderet.<note xml:id="fn36" type="footnote" n="36">Ein falsches Gerücht; vgl. <ref target="file12806">Nr. 2757</ref>, Anm. 76.</note></s>
+					<s n="40" xml:lang="de" type="auto">Er soll uff die <placeName>Silesiam</placeName> mit eim hüffen ziehen, do grossen schaden thuͦn.</s>
+					<s n="41" xml:lang="de" type="auto">Mit dem anderen huffen ligt er dem hertzog <persName>Albrecht von Brandenburg</persName><note xml:id="fn38" type="footnote" n="38">Markgraf <persName>Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach. - Damals drohte eine kurfürstliche Truppe ins markgräfliche Gebiet einzufallen. Doch kam es nicht dazu; s. <bibl>Voigt, Albrecht</bibl> I 140f.</note> <pb type="scan" next="197a,r."/> im landt, nympt im alles yn.</s>
+					<s n="42" xml:lang="de" type="auto">Diser ist bym keyser den sommer gsin:</s>
+					<s n="43" xml:lang="la" type="manual">Perfidus homo, etsi permittat evangelii praedicationem in suis terris.</s>
+					<s n="44" xml:lang="de" type="auto">Dem graven von Sulms hat er<note xml:id="fn41" type="footnote" n="41">Gemeint ist der Kurfürst.</note> ouch sin landt ingenomen.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="45" xml:lang="la" type="auto">Uxor <persName>Ferdinandi</persName> mortua est, regina Ungariae.<note xml:id="fn42" type="footnote" n="42"><persName>Anna Jagiello</persName>, Königin von Böhmen und Ungarn; s. <ref target="file12861">Nr. 2812</ref>, Anm. 9.</note></s>
+					<s n="46" xml:lang="la" type="auto">Hoc ab ipso tabellario<note xml:id="fn43" type="footnote" n="43">Ein unbekannter Überbringer eines Schreibens von <persName>Ferdinand I.</persName> an die vier protestantischen Städte der Eidgenossenschaft.</note> audivi, qui literas perfert civitatibus, quo exequias honestas instituant.<note xml:id="fn44" type="footnote" n="44">Über Totenfeiern für Anna in der Eidgenossenschaft ist nichts bekannt. - In <placeName>Ulm</placeName> aber ließ der Kaiser eine solche abhalten; s. <ref target="file12861">Nr. 2812</ref>, Anm. 10.</note></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="47" xml:lang="la" type="auto"><placeName>Argentoratenses</placeName> se parant ad resistendum caesari armis et precibus assiduis.<pb type="edition" next="303"/></s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="48" xml:lang="de" type="auto">Die Juden zuͦ Francofurt haben ein adler<note xml:id="fn46" type="footnote" n="46">Der Reichsadler.</note> an iren doren, domit yn niemans schadens zuͦfiegi.</s>
+					<s n="49" xml:lang="la" type="auto">Plus libertatis habent quam christiani reliqui!</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="50" xml:lang="la" type="auto">Hęc ad te paucis volui, ne me incuses deinceps negligentię oblitusve es pacti,<note xml:id="fn47" type="footnote" n="47">Eine Abmachung in Bezug auf Myconi us, die Bullinger vielleicht mit <persName>Gast</persName> traf infolge von dessen Brief vom 31. Juli 1546 <hi>(HBBW</hi> XVI, <ref target="file12567">Nr. 2520</ref>).</note> quod mecum iniisti.</s>
+					<s n="51" xml:lang="la" type="auto"><persName>Myconio</persName> imposui hoc onus scribendi, qui libenter scribit et certiora habet quam ego, qui ex plebe communia mea soleo expiscari.</s>
+					<s n="52" xml:lang="la" type="auto">12. februarii 1547.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="53" xml:lang="la" type="auto">Ea d. <persName>Bibliandro</persName> communicare velis et reliquis fratribus, quos cupio salvere in domino ad longos annos.</s>
+					<s n="54" xml:lang="la" type="auto">Nosti manum.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="55" xml:lang="de" type="auto">An den wolgelerten herren, meyster Heinrych Bullinger, lüttpriester zuͦ Zürich, minem geliepten herren.</s>
+					<s n="56" xml:lang="de" type="auto">Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

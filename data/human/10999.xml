@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10999" type="Brief" source="HBBW" n="957">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Benedikt Schütz / [Baden] AN Heinrich Bullinger, 28. Februar 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Min früntlich, willig diennst und was ich eeren unnd guͦts vermag zuvor, ersamer, wolgelerter, innsunders günstiger, lieber herr.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Alls dann der erber herr <persName>Johanns Cervin</persName> uß dem Bergel etlich unnderthanen zuͦ Lengnow<note xml:id="fn2" type="footnote" n="2"><placeName>Lengnau</placeName> (Kt. Aargau).</note> mit dem götlichen wort versicht unnd allwegen<note xml:id="fn3" type="footnote" n="3">jeweilen.</note> inn<pb type="edition" next="79"/> vierzechen tagen einmal von Zürich zuͦ inen gat, diewyl dann der unnderthanen eben wenig unnd si inn in irem eygnen costen enthallten<note xml:id="fn4" type="footnote" n="4">besolden.</note> muͤssen, das aber inen zuͦ schwär und nit vermogenlich ist, deßhalb sy mich umb fürdrung an min gnedig herren von Zürich gepettenn, das sy im etwas stürr<note xml:id="fn5" type="footnote" n="5">finanzielle Zuwendung, Kostenbeitrag.</note> unnd handtreichunng thuͦn wellen, damit er by inen allso verharren unnd das götlich wort verkünden moge<note xml:id="fn6" type="footnote" n="6">könne.</note>.</s>
+					<s n="3" xml:lang="de" type="auto">Unnd diewyl nun mich nit von nöten bedunckt, das ich mine herren darumb bekümbern sölle, sunder zwifflet mir nit, so ir des bericht habenn, ir werdent inn zuͦ söllichem fürdren, diewyl nun, alls obstatt, der unnderthanen wenig und inn irem vermogen nit ist, inn allso inn irem costen zuͦ enthallten, unnd mir aber nit zwifflet, wo er by inen bliben möchte, das er got zuͦ lob vil nutz und cristanliche zucht by inen schaffen und der gloub sich by inen treffenlich meren wurde, deßhalb ist an üch min geflissen, früntlich pit, ir wellent minen gnedigen herren von Zürich oder die, so über der closter guͤter gsetzt<note xml:id="fn7" type="footnote" n="7">Klosterobmann war von 1533 bis 1554 <persName>Georg Müller</persName> (vgl. <bibl>HBLS</bibl> V 190). -Dem Gesuch wurde offensichtlich entsprochen; dies geht aus dem Schreiben Zürichs an <placeName>Bern</placeName> vom 3. April 1537 (Zürich StA, B IV 8, 56) hervor.</note>, anhalten<note xml:id="fn8" type="footnote" n="8">bei ... nachsuchen.</note> unnd sy von minetwegen ouch pitenn, das sy dem guͦten armen herren ir handtreichung thuͤyend, damit und er by inen bliben unnd sy des gotlichen worts nit allso gar entroupt werdent.</s>
+					<s n="4" xml:lang="de" type="auto">Das begeer ich umb üch allezit willigklichen zuͦ verdiennen<note xml:id="fn9" type="footnote" n="9">euch ... zu vergelten.</note>.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Hiemit sygent dem allmechtigen got inn langwirriger gsundtheit trüwlichen bevolchen.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Datum den letsten tag februari anno etc. 37.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Üwer williger</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto"><persName>Benedict Schütz</persName> vonn <placeName>Bernn</placeName>, lanndtvogt zuͦ <placeName>Badenn</placeName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="9" xml:lang="de" type="auto">Dem ersamen, wolgelerten Meister Heinrichen Bullinger, predicanten der statt Zürich, minem sundren, günstigenn herrenn.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

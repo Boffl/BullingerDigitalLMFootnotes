@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13106" type="Brief" source="HBBW" n="3057">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 27. Oktober 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Si nunciasses Helvetiam obpugnatam iri<note xml:id="fn1" type="footnote" n="1">Vgl. Bullingers Befürchtung vom 14. Oktober in <ref target="file13090">Nr. 3041</ref>,<ptr target="qvzl17311-7" type="qv"/>.</note>, non sic deiecisses ut dum scribis de <placeName>Constantiensibus</placeName>.<note xml:id="fn2" type="footnote" n="2">Bezug auf Bullingers Mitteilung vom 25. Oktober in <ref target="file13103">Nr. 3054</ref>,<ptr target="qvzl17322-4" type="qv"/>.</note></s>
+					<s n="3" xml:lang="la" type="auto">Istud enim nuncium hoc habet mihi: Helvetia victa est atque adeo nulla.</s>
+					<s n="4" xml:lang="la" type="auto">Speravi hactenus prius me finiturum vitam quam audire aut videre finem Helvetię!</s>
+					<s n="5" xml:lang="la" type="auto">Falsus videor, si <placeName>Constantia</placeName> se dediderit.</s>
+					<s n="6" xml:lang="la" type="auto">Nam hunc locum aliter tuebitur cadaver<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName>Kaiser Karl V.</persName>; vgl. zuletzt die Verweise in <ref target="file13072">Nr. 3023</ref>, <ptr target="qvfn17291-8" type="qv"/>.</note> istud quam <persName>Maximilianus</persName>.</s>
+					<s n="7" xml:lang="la" type="auto">Inde quid Durgoia<note xml:id="fn5" type="footnote" n="5">Der <placeName>Thurgau</placeName>, den die Eidgenossen 1460 von den <placeName>Habsburgern</placeName> erobert hatten.</note>, quid nos<note xml:id="fn6" type="footnote" n="6">Die vier protestantischen Städte Basel, Bern, Schaffhausen und Zürich.</note>, quid reliqui?<note xml:id="fn7" type="footnote" n="7">Die katholisch gebliebenen Orte.</note></s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="8" xml:lang="la" type="auto">Non potuit aliter <placeName>Constantia</placeName>!</s>
+					<s n="9" xml:lang="la" type="auto">Quid, si vos recepissetis in tutelam una cum reliquis, qui habent evangelium?</s>
+					<s n="10" xml:lang="la" type="auto">Imo quid, si vos soli recepissetis?</s>
+					<s n="11" xml:lang="la" type="auto">An id contra foedus?</s>
+					<s n="12" xml:lang="la" type="auto">Non arbitror.</s>
+					<s n="13" xml:lang="la" type="auto">Potuissetis etiam tueri per dominum soli contra diabolos istos!<note xml:id="fn8" type="footnote" n="8">Gemeint sind der Kaiser und seine ausländischen Truppen; vgl. <bibl>HBBW</bibl> XIII 195,19; XVIII 200,22-26.</note></s>
+					<s n="14" xml:lang="la" type="auto">Sed timetis, ubi non erat timendum!<note xml:id="fn9" type="footnote" n="9">Ps 53 (Vulg. 52), 6.</note></s>
+					<s n="15" xml:lang="la" type="auto">Adeo devoti estis Quinque pagicis!</s>
+					<s n="16" xml:lang="la" type="auto">Scripsistis nuper literas ad nostros, e quibus timor ille satis constat.</s>
+					<s n="17" xml:lang="la" type="auto">Interim autem nobis soletis tribuere, tanquam primi simus, qui cęsaris voluntatem recepturi forent,<note xml:id="fn10" type="footnote" n="10">Dieses Gerücht ist auch in <bibl>EA</bibl> IV/1d 859 a (1) und 862 zu a belegt.</note> si quis postularet.</s>
+					<s n="18" xml:lang="la" type="auto">Hoc in sinum tibi.</s>
+					<s n="19" xml:lang="la" type="auto">Sic enim venit ad me per literas, quibus tantum tribuo, quantum convenit, dum ea fuerint adserta aut meliora accepero.</s>
+					<s n="20" xml:lang="la" type="auto">Scis, quę amici inter se conferant.<note xml:id="fn11" type="footnote" n="11">Myconius betont dies erneut in <ref target="file13120">Nr. 3071</ref>,<ptr target="qvzl17337-1" type="qv"/>.</note></s>
+					<s n="21" xml:lang="la" type="auto">Eam rationem ego hic sequor.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="22" xml:lang="la" type="auto">Quinque pagicis non fido (summa summarum, quia fidem nostram ita persequuntur, ut queant pati malum, tantum ut nos pereamus), quicquid in <pb type="edition" next="598"/> ore habeant!</s>
+					<s n="23" xml:lang="la" type="auto">Sunt exempla, quae non excidunt, quę ob nuncii celeritatem scribere non possum.</s>
+					<s n="24" xml:lang="la" type="auto">Qua ratione nec nova possum significare pręter illud: Periit a comitiis <placeName>Augustanis</placeName> religio, ut reliqua taceam, ni dominus caveat.</s>
+					<s n="25" xml:lang="la" type="auto">Descripsit causam <persName ref="p18518">Gastius</persName> a me.</s>
+					<s n="26" xml:lang="la" type="auto">Forsitan mittit.<note xml:id="fn13" type="footnote" n="13">Dieser Bericht über den <placeName>Augsburger</placeName> Reichstag wurde einem an <persName>Graf Georg von Württemberg-Mömpelgard</persName> gerichteten Brief entnommen, wie dies aus <persName>Gasts</persName> Brief vom 28. Oktober hervorgeht; s. <ref target="file13109">Nr. 3060</ref>,<ptr target="qvzl17327-3" type="qv"/>.</note></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="27" xml:lang="la" type="auto">Ex <placeName>Antwerpia</placeName> est, Anglos in domino pergere fortiter et feliciter.</s>
+					<s n="28" xml:lang="la" type="auto">Bis conflixerunt cum <placeName>Scotis</placeName>.</s>
+					<s n="29" xml:lang="la" type="auto">Nunc quindecim millia perimerunt, secundo sex.</s>
+					<s n="30" xml:lang="la" type="auto"><placeName>Londini</placeName> conficietur pax.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="31" xml:lang="la" type="auto">Ex eodem loco est: In <placeName>Italia</placeName> pronunciatum bellum a papa contra cęsarem.</s>
+					<s n="32" xml:lang="la" type="auto">Dubito hic nonnihil, quod vos propinquiores<note xml:id="fn17" type="footnote" n="17">Nämlich an Italien.</note> nihil ea de re.</s>
+					<s n="33" xml:lang="la" type="auto">Nam fertur cadaver ne militem quidem misisse in <placeName>Italiam</placeName> neque aliquid curę de papa gerere.</s>
+					<s n="34" xml:lang="la" type="auto">Colludunt, qualiter cum Turca<note xml:id="fn18" type="footnote" n="18"><persName>Sultan Suleiman I.</persName></note> collusum est hactenus, dum <pb type="edition" next="599"/> Germaniam fecit miseram, exhaustam, servam cadaver.</s>
+					<s n="35" xml:lang="la" type="auto">Idem accidet Helvetię per Quinque pagicos, nisi dominus suos velit servare.</s>
+					<s n="36" xml:lang="la" type="auto">Cęterum quomodo servabit, qui servari nolunt?</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="37" xml:lang="la" type="auto">De Gallo<note xml:id="fn19" type="footnote" n="19"><persName>König Heinrich II.</persName></note> nihil dico, praeter hoc unum, quod Gallus<note xml:id="fn20" type="footnote" n="20">Unbekannt.</note> retulit ante dies sex, vir doctus, pius, exul, sermone suavis (ut talem nunquam audierim): „<persName>Rex</persName>, inquit, scortum fovet, pascit, init, quod pater<note xml:id="fn22" type="footnote" n="22"><persName>Franz I.</persName></note> eius hactenus iniit!“</s>
+					<s n="38" xml:lang="la" type="auto">Tibi dico, quod ille libere dixit.</s>
+					<s n="39" xml:lang="la" type="auto">Stupebam ego; narrationem repetiit; coactus sum credere, non autem cuipiam persuadere.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="40" xml:lang="la" type="auto">Literas ad <persName>Butlerum</persName><note xml:id="fn23" type="footnote" n="23">Der englische Geschäftsmann <persName>John Butler</persName>, der damals in <placeName>Konstanz</placeName> lebte.</note> quaeso <placeName>Constantiam</placeName> mittas quamprimum.</s>
+					<s n="41" xml:lang="la" type="auto">Dominus <persName ref="p6756">Heinrichus Winckeli</persName> mortem obpetiit.</s>
+					<s n="42" xml:lang="la" type="auto">Hodie sepeliemus.</s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="43" xml:lang="la" type="auto">Cave, quod in te est, ne <placeName>Constantienses</placeName> conveniant cum cęsare, alioqui periimus!</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="44" xml:lang="la" type="auto">Vale in domino cum tuis et fratribus.</s>
+					<s n="45" xml:lang="la" type="auto"><placeName>Basileę</placeName> raptim, 27. octobris anno 1547.</s>
+					<s n="46" xml:lang="la" type="auto">Tuus O. Myc.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="47" xml:lang="la" type="auto">D. Hinricho Bullingero, ministro Christi fidelissimo doctissimoque, fratri in domino venerando suo.</s>
+					<s n="48" xml:lang="de" type="auto">Zu[ric]h.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

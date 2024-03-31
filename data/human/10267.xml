@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10267" type="Brief" source="HBBW" n="236">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 13. Juni 1533</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Commendasti, vir doctissime, <persName>Studerum</persName> senatorem, neque quicquam de homine dixisti tam magnum, nos maius in illo admirati sumus.</s>
+					<s n="3" xml:lang="la" type="auto">Utinam nobis aliquot similes illi forent.</s>
+					<s n="4" xml:lang="la" type="auto">Quid actum sit<note xml:id="fn2" type="footnote" n="2">An der Zusammenkunft der reformierten Städte in Zürich vom 10. Juni 1533, bei der man eine Vereinheitlichung der Ehegerichtssatzungen an die Hand nahm, s. oben <ref target="file10264">[Nr. 233]</ref> S. 141, Anm. 8.</note>, ipse exponet, quid sperandum, similiter dicet.</s>
+					<s n="5" xml:lang="la" type="auto">Annitere,<pb type="edition" next="144"/> ne tui in hac quadriga<note xml:id="fn3" type="footnote" n="3">Gemeint ist die Gemeinschaft der vier beratenden, reformierten Städte.</note> nobis desint.</s>
+					<s n="6" xml:lang="la" type="auto">Non omnino de concordia sarcienda<note xml:id="fn4" type="footnote" n="4">Zu den Bemühungen, die seit dem Zweiten Kappelerkrieg gestörten Beziehungen zwischen den reformierten Orten wieder aufzunehmen, s. oben <ref target="file10220">[Nr. 189]</ref> S. 65. Anm. 8.</note> despero.</s>
+					<s n="7" xml:lang="la" type="auto">At anxie Epitomen<note xml:id="fn5" type="footnote" n="5"><persName>Vadians</persName> Schrift «Epitome trium terrae partium», s. oben <ref target="file10260">[Nr. 229]</ref> S. 134, Anm. 18.</note> expecto.</s>
+					<s n="8" xml:lang="la" type="auto">In ea si quid reviseris, ad Baptistae festum<note xml:id="fn6" type="footnote" n="6">24. Juni.</note> mittas oro mox illud quoque missurus, quod iam per occupationes ad Ioannis usque adornare non potuisti.</s>
+					<s n="9" xml:lang="la" type="auto">Imprimis autem indica, quot credas fore quaterniones.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">De periculo et insidiis tibi structis maxime doleo, at te laetum et cautum esse iubeo.</s>
+					<s n="11" xml:lang="la" type="auto">Dabit deus his quoque finem.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vive et vale.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">13. iunii 1533.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Audio <persName ref="p18198">Bucerum</persName> quaedam ad te de excommunicatione scripsisse.</s>
+					<s n="16" xml:lang="la" type="auto">Id si verum est, oro communices et scripta mihi exhibeas propediem remittenda.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="17" xml:lang="la" type="auto">Praestantissimo viro D. <persName>Ioachimo Vadiano</persName>, domino imprimis mihi observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

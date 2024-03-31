@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12036" type="Brief" source="HBBW" n="1989">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Eberhard von Rümlang / Bern AN Heinrich Bullinger, 18. September 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ex tuis scriptis<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, facundiss[ime] Bullingere, colligo litera[s] meas ad te datas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> intercidisse, quod licet me turbarit; nihil tamen vereor, ut qui dictis scriptisque constem, cuiuscunque in manus perveniant.</s>
+					<s n="3" xml:lang="la" type="auto">Ornatissime mi Bul[ling]ere, animo tuo prorsus exemptum volo, quod ulla parte me unquam offenderis; quid enim a tam candido pectore proficisci queat, quod mihi non gratissimum existeret?</s>
+					<s n="4" xml:lang="la" type="auto">Cui etiam non modo mea universa, verum etiam meipsum totum debeo, ut totus, quantus sum, in tuo sim ęre neque solvendo unquam futurus.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Legi etiam <persName ref="p6490">Melanch[thonis]</persName> epistolam<note xml:id="fn3" type="footnote" n="3"><persName>Melanchthon</persName> an Bullinger, 31. August 1544 (oben <ref target="file12013">Nr. 1966</ref>).</note>, quę me summo perfudit gaudio, quod sperem aliquando fore, ut melius quidam sentiant atque rabies omnis tollatur.<pb type="edition" next="409"/></s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Hic omnia sunt turbata; quicquid senatus statuat vel antea statuerit, omnia quidam<note xml:id="fn4" type="footnote" n="4">Die Rede ist von den Anhängern <persName>Bucers</persName>.</note> rescindere, si modo possint, moliuntur, ut non vereantur ad sua stabilienda horribiles introducere hęreses, idque faciunt praetextu verbi dei.</s>
+					<s n="7" xml:lang="la" type="auto">Neque decretis obstringi volunt neque iuramentis; his se eximere student.</s>
+					<s n="8" xml:lang="la" type="auto">Periit omnis pudor apud illos, et perfricuere frontem<note xml:id="fn5" type="footnote" n="5">perfricare frontem: frech, unverschämt sein; s. Petrus Apherdian (<persName>Pieter van Afferden</persName>), "Tyrocinium Latinae linguae", Köln, <persName>Johann Gymnich [II.]</persName>, 1575 (VD 16 A 585), f. A7r.</note> perrumpere conantes, confisi, quod indigenę, aliaque carnis fiducia fulciuntur.</s>
+					<s n="9" xml:lang="la" type="auto">Consultan[t] cum <persName ref="p18198">Bucero</persName>, quem huc vellent vocatum ad pacandas contentiones, si non resisteremus.</s>
+					<s n="10" xml:lang="la" type="auto">Sunt apud nos duę magne partes; contagio Buceriana maio[rem] partem magnatum infecit, timore duntaxat arcent[ur] plebis, ne palam <persName ref="p18198">Bucero</persName> accedant.</s>
+					<s n="11" xml:lang="la" type="auto">Precemur dominum, ut veritati suę adesse dignetur.</s>
+					<s n="12" xml:lang="la" type="auto">Quod ad me attinet, intrepidans sum, etiamsi me abactum vellent etc.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Remitto tibi exemplar<note xml:id="fn6" type="footnote" n="6">des <persName>Melanchthon</persName>-Briefes.</note>, quod nemo nec ego etiam rescripsi; nihil ergo metuas, bona fide literis et conditionibus tuis obsequutus sum.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Statui ego conditionem meam mutare;<note xml:id="fn7" type="footnote" n="7">Vgl. unten <ref target="file12064">Nr. 2017</ref> mit Anm. 14.</note> tibi tamen prius significabo, nihil etiam te inconsulto attentabo etc.</s>
+					<s n="15" xml:lang="la" type="auto">Iam scriberem, si esset otium; nuncius<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> festinat abitum.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Dolet me non domi fuisse, cum adesset <persName>Stumpfius</persName>, cui operam meam elargitus fuissem, si modo intellexissem, quo pacto commodare illi potuissem.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Conduxissem quoque illum meque illi comitem in profectionibus adiunxissem.</s>
+					<s n="18" xml:lang="la" type="auto">Nihil tuo nomine detrectabo, cui me totum mancipo.</s>
+					<s n="19" xml:lang="la" type="auto">Precor, si tuus ferat animus, ut in symbola<note xml:id="fn10" type="footnote" n="10">Hier vermutlich die Zeichen von Brot und Wein im Abendmahl; s. oben <ref target="file12027">Nr. 1980</ref>, 37-39; unten 2031, 7. 17. 22. 31; ferner <persName>Rümlang</persName> selbst unten 2055, 8.</note> scribere digneris.</s>
+					<s n="20" xml:lang="la" type="auto">Ego veneror et admir[or] tuam copiam, moderationem, et quod quęque appositissime coheren[t].</s>
+					<s n="21" xml:lang="la" type="auto">Haberes materiam exuberantem hęreses repullulantes retundendi.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Boni consule, quaeso.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Datum <placeName>Bernę</placeName>, 18. septembris anno 1544.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Tuus <persName>Eb. a Rumlang</persName>.<pb type="edition" next="410"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="25" xml:lang="la" type="auto">Ornatissimo, fidelissimo ac integerrimo viro d. Heinricho Bullingero, ecclesiastę Tigurino primario, domino suo semper observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

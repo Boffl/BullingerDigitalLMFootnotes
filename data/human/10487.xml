@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10487" type="Brief" source="HBBW" n="452">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Tübingen AN Heinrich Bullinger, 5. Oktober [1534]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia Christi tecum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quos literis tuis tantopere mihi commendasti<note xml:id="fn2" type="footnote" n="2">Bullingers Brief ist nicht erhalten; unbekannt sind somit die von ihm Empfohlenen. Gemeint sind möglicherweise Prediger, deren <placeName>Württemberg</placeName> in größerer Zahl benötigte und gelegentlich zur Unzeit und im Übermaß auch erhielt s. unten Z. 26-30; vgl. <hi>Brecht,</hi> <persName>Blarer</persName> in Schwaben 160f; <bibl>Held</bibl> 172.</note>, charissime Bullingere, observande frater in Christo, qualicumque meo consilio paululum iuvi.</s>
+					<s n="3" xml:lang="la" type="manual">Atque<pb type="edition" next="341"/> utinam tantum re ipsa, quantum erat in votis, iuvare licuisset!</s>
+					<s n="4" xml:lang="la" type="auto">Plane intellecturi erant boni viri, quanti apud me esset Bullingeri commendatio.</s>
+					<s n="5" xml:lang="la" type="auto">Te profecto, mi frater, imo in te dominum et egregia illius dona, quibus adeo ecclesiis commodas, ut debeo, facio maximi precorque plurimum, ut coelesti sui spiritus incremento quotidie nobis te ipso quoque maior evadas.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">De tuis ad principem nuper datis literis<note xml:id="fn3" type="footnote" n="3">Bullingers Briefe an <persName>Herzog Ulrich</persName> vom 4. Juli und 4. September 1534, oben Nrn. 407 und 433. Vgl. oben S. 313f, 5-10 und unten S. 385, 35-37.</note> nihil habeo, quod scribam.</s>
+					<s n="7" xml:lang="la" type="auto">Innumeris certe tum cum eas sibi redderem, negociis distinebatur, ut ne legere quidem vacaret.</s>
+					<s n="8" xml:lang="la" type="auto">Non dubito vero, quin postea legerit.</s>
+					<s n="9" xml:lang="la" type="auto">Expiscabor occasione aliqua nacta, ecquid placuerint.</s>
+					<s n="10" xml:lang="la" type="auto">Bene sensit de tuo ingenio tuaque eruditione et sana in Christum fide, nunc etiam non paulo melius, postquam me narrante de tuis rebus omnibus factus est certior.</s>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p6490">Philippus</persName><note xml:id="fn4" type="footnote" n="4"><persName>Philipp Melanchthon</persName> kam erst im Herbst 1536 kurz nach <placeName>Tübingen</placeName>, s. oben <ref target="file10459">[Nr. 424]</ref> S. 281, Anm. 71.</note> nondum advenit, sed venit non pridem Stuͦtgardiam <persName>Osiander</persName><note xml:id="fn5" type="footnote" n="5">Vgl. oben S. 281, Anm. 70.</note> illic, puto, hęsurus tantisper, dum redeat princeps<note xml:id="fn6" type="footnote" n="6"><persName>Herzog Ulrich</persName> weilte in <placeName>Wildbad</placeName>, s. unten Z. 36.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Modestiore iam est spiritu, quam fuit aliquando.</s>
+					<s n="13" xml:lang="la" type="auto">Scripsit nuper ad <persName ref="p18198">Bucerum</persName> sic inter alia: «Bullingerum vestrae sententiae subscribere etiam ab aliis audio.</s>
+					<s n="14" xml:lang="la" type="auto">Quod si sine dolo est, magis etiam gaudeo.»</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Quod hortaris, ne quicquam praeter christianum decorum in hominum gratiam designem<note xml:id="fn8" type="footnote" n="8">Dieser Rat Bullingers war auch <persName>Blarers</persName> Leitlinie in der Besetzung freier Pfarrstellen, vgl. <hi>Brecht,</hi> <persName>Blarer</persName> in Schwaben 161f und unten Z. 26-30.</note>, recte facis, et ita stat animus, quicquid de me iactent vanissimorum hominum vanissimi rumusculi.</s>
+					<s n="16" xml:lang="la" type="auto">Confessio tua de coenę negocio<note xml:id="fn9" type="footnote" n="9">Ein Abendmahlsbekenntnis Bullingers enthält dessen Kommentar zum ersten Korintherbrief (<bibl>HBBibl</bibl> I 53) im Kapitel «De Eucharistia» (f. 132r.-152r., bes. 134r.-145v.) zu 1 Kor 11, 17-34.</note> uti mihi placeat, prius ad te scripsi<note xml:id="fn10" type="footnote" n="10">Am 8. Juli, s. oben <ref target="file10447">[Nr. 412]</ref> S. 246,4-6.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Vellent nonnulli tantum operę te sumpsisse, ut ostenderes exhiberi hic etiam corpus Christi, quantum a te sumptum est, ut evincas panem non esse corpus, quod nemo affirmet<note xml:id="fn11" type="footnote" n="11"><persName>Blarer</persName> bezieht sich auf das Urteil <persName>Bucers</persName> in dessen Brief vom 22. September 1534 (<persName>Blarer</persName> BW I 549).</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Quod indicas esse istic fideles aliquot verbi ministros<note xml:id="fn12" type="footnote" n="12">Anm. 2 und 8.</note>, bene est.</s>
+					<s n="19" xml:lang="la" type="auto">Nam usui nobis erunt suo tempore.</s>
+					<s n="20" xml:lang="la" type="auto">Nunc enim plures advolant, quam quibus prospici queat, et incertum adhuc, qui et quot parati mittendi sint.</s>
+					<s n="21" xml:lang="la" type="auto">Interim tamen unus atque alter ex Helvetiis receptus est, ut frustra calumnientur nullum ex illis suscipi.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Sed iam ad alteram epistolam tuam<note xml:id="fn13" type="footnote" n="13">Nicht erhalten.</note>, ubi primo gratias tibi quantas possum maximas ago pro missa ad me parte libelli tui<note xml:id="fn14" type="footnote" n="14">Wohl ein Teil der Schrift «Assertio utriusque in Christo naturae» (<bibl>HBBibl</bibl> I 62), die dann am 1. Oktober erschien (s. oben <ref target="file10485">[Nr. 450]</ref> S. 338, 25f).</note>, quem non licuit tamen<pb type="edition" next="342"/> per occupationes penitius introspicere, sed pium tamen et eruditum ut omnia tua lubentissime iudico.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Quid apud nos agatur, hic tibi <persName>Ioannes Wagnerus</persName> bona fide narraverit.</s>
+					<s n="24" xml:lang="la" type="auto">Princeps etiamnum in Thermis Ferinis<note xml:id="fn16" type="footnote" n="16"><persName>Herzog Ulrichs</persName> Aufenthalt in <placeName>Wildbad</placeName> (Kreis Calw, Schwarzwald) im Herbst 1534 wird durch weitere Briefe belegt, s. <persName>Blarer</persName> BW I 582. 618.</note> est.</s>
+					<s n="25" xml:lang="la" type="auto">Plebs hic evangelio Christi satis magno numero accedit<note xml:id="fn17" type="footnote" n="17">Dies wird auch von Gegnern bestätigt, s. <bibl>Held</bibl> 181.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Ex theologis unus solus est D. Ba[l]thassar Wilpergensis, quocum mihi conveniat.</s>
+					<s n="27" xml:lang="la" type="auto">Caeteri ad unum omnes iunctis copiis veritatem oppugnant et, quantum possunt, expugnant.</s>
+					<s n="28" xml:lang="la" type="auto">Et facile coniicis, mi frater, quo in fimoso bubili verser<pb type="scan" next="||S.20"/> et quod mihi Augię stabulum repurgandum siet<note xml:id="fn20" type="footnote" n="20">Siehe <bibl>Adagia</bibl> 2, 4, 21 (<bibl>LB</bibl> 530); <bibl>Otto</bibl> 46, Nr. 206.</note>, ubi non uno tantum Hercule opus sit, quamquam satis animorum quotidie mihi addit Christus satisque virium nec infelix est conatuum meorum successus.</s>
+					<s n="29" xml:lang="la" type="auto">Gratia Christo, qui usque per nos vincit.</s>
+					<s n="30" xml:lang="la" type="auto">Eum pro me sedulo cum ecclesia tua piis votis interpella, ut in bene coeptis melius semper in finem usque promoveamus.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">De mea ista recantatione nihil aliud scribo nisi hanc esse ab hostibus<pb type="edition" next="343"/> veritatis impudentissime ut multa alia confictam.</s>
+					<s n="32" xml:lang="la" type="auto">Publicitus me purgarem, nisi peius subinde recrudescerent facta istiusmodi mala<note xml:id="fn22" type="footnote" n="22">Ähnlich begründete <persName>Blarer</persName> seinen Verzicht auf eine Verteidigungsschrift gegenüber seinem Bruder Thomas am [ca. 20.] und 22. September (<persName>Blarer</persName> BW I 547f); doch hat sich <persName>Blarer</persName> noch am selben oder folgenden Tag anders besonnen (s. unten <ref target="file10488">Nr. 453</ref>).</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Primam concordiae nostrę rationem probe tenes, quam profecto multum gratulabar tibi, magno iudicio viro, haud discplicere.</s>
+					<s n="34" xml:lang="la" type="auto">Quin etiam placatum iam <persName ref="p2305">Leonem</persName><note xml:id="fn23" type="footnote" n="23"><persName ref="p6796">Leo Jud</persName> mißbilligte am 3. und 15. September 1534 in Briefen an <persName>Blarer</persName> die <placeName>Württemberger</placeName> Konkordie, s. <persName>Blarer</persName> BW I 539f. 542f.</note>, ut scribis<note xml:id="fn24" type="footnote" n="24">Wohl im zweiten der beiden nicht mehr erhaltenen Briefe, s. Anm. 13 und 1.</note>, vehementer gaudeo.</s>
+					<s n="35" xml:lang="la" type="auto">Quem cum <persName>Pellicano</persName> ac cęteris symmystis, <persName>Theodoro</persName><note xml:id="fn25" type="footnote" n="25"><persName>Theodor Bibliander</persName>.</note> praesertim, meis verbis amanter et christianice saluta meque illis accuratissime commenda.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Bene vale, semper mihi suspiciende ac venerande Bullingere, meque, ut facis, constanter et unice deama.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto"><placeName>Tubingę</placeName>, 5. octobris.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Tuus <persName>Ambrosius Blaurerus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="39" xml:lang="la" type="auto">Clarissimo et incompar[a]bili eruditione viro [d.] Heinricho Bullin[gero], Tiguricensi episcopo, [d. et fratri] observando suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12556" type="Brief" source="HBBW" n="2509">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 23. Juli 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Accepi tuas omnes<note xml:id="fn1" type="footnote" n="1">Zwei nicht erhaltene Briefe Bullingers.</note> 17. iulii, posterius scriptas mane ab <persName>Hugwaldo</persName><note xml:id="fn2" type="footnote" n="2"><persName>Ulrich Hugwald</persName>, der in <placeName>Basel</placeName> amtierende Professor für aristotelische Ethik.</note>, vesperi scriptas prius a <persName ref="p7419">Burchero</persName><note xml:id="fn3" type="footnote" n="3">Der Kaufmann <persName>John Burcher</persName>.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Summarium papę crudeliter me divexavit.</s>
+					<s n="4" xml:lang="la" type="auto">Audent homines desperatissimi nomen domini, dei nostri, quem obpugnant, in os sumere.</s>
+					<s n="5" xml:lang="la" type="auto">Valeant ac pereant!</s>
+					<s n="6" xml:lang="la" type="auto">Epistola ad episcopos et abbates,<pb type="edition" next="222"/> quos<note xml:id="fn6" type="footnote" n="6">Schon <persName>Erasmus</persName> hatte sich in der 1518 erschienenen Ausgabe seines Enchiridion gegen den Brauch geäußert, das Wort "Kirche" nur auf die Kleriker zu beziehen.</note> ecclesiam nominat Helveticam, ut est secura et imperiosa (tanquam non sit scrupulus in corde bestię, qui ipsum vel tantillum maceret, et credo ego facilime conscientiam lepra mortuam esse!), non ergo mirum eum sic scribere, sic agere.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="7" xml:lang="la" type="auto">De revocandis militibus audio decretum esse.</s>
+					<s n="8" xml:lang="la" type="auto">Utinam dominus immittat animos, ut nemo obtemperet!</s>
+					<s n="9" xml:lang="la" type="auto">Causam habent bonam, honestam, divinam, contra quam mandantibus non est, meo videre, obsecundandum.</s>
+					<s n="10" xml:lang="la" type="auto">Si quid spei concepissent de nobis civitates<note xml:id="fn8" type="footnote" n="8">Die Städte des Schmalkaldischen Bundes.</note>, revocatio casura esset non feliciter, nisi forte sint, qui sic animos gerunt contra Helvetiam, ut omnes gerunt cęsariani.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="11" xml:lang="la" type="auto">Illudunt nos, contemnunt, execrantur, verbis et cantionibus turpissimis contaminant.</s>
+					<s n="12" xml:lang="de" type="auto"><foreign xml:lang="la">Aiunt:</foreign> „Die Schweitzer sind in <placeName>Picardei</placeName> zogen.</s>
+					<s n="13" xml:lang="de" type="auto">Si hand vil großer kuͤusgsogen<note xml:id="fn9" type="footnote" n="9">ausgesogen. - Hier sexuell konnotiert.</note>.</s>
+					<s n="14" xml:lang="de" type="auto">Demnach sind sy da imen<note xml:id="fn10" type="footnote" n="10">in einem; s. <bibl>SI</bibl> I 222 s.v. imme.</note> gstorben.</s>
+					<s n="15" xml:lang="de" type="auto">Ist menge kuͦ zur wittwen worden.“</s>
+					<s n="16" xml:lang="la" type="manual">Inter pocula more suo et hodie faciunt:</s>
+					<s n="17" xml:lang="de" type="auto">„Ich bring dirs uff einen, zwen, dry Schweitzer.</s>
+					<s n="18" xml:lang="de" type="auto">Wie wilt dem ersten thuͦn?</s>
+					<s n="19" xml:lang="de" type="auto">Wie dem andren?</s>
+					<s n="20" xml:lang="de" type="auto">Wie dem dritten?“ etc.</s>
+					<s n="21" xml:lang="la" type="auto">Summa: Contumeliarum eiusmodi non est finis.</s>
+					<s n="22" xml:lang="la" type="auto">Circa <placeName>Friburgum</placeName><note xml:id="fn11" type="footnote" n="11"><placeName>Freiburg i. Br.</placeName></note> hęc sunt frequentissima, et illorum principi<note xml:id="fn12" type="footnote" n="12">Gemeint ist <persName>Karl V.</persName></note> nostri gerunt morem!</s>
+					<s n="23" xml:lang="la" type="auto">Si victoria ad istum inclinarit (quod dominus avertat), quid putamus ex tam immani contra nos sequuturum odio?</s>
+					<s n="24" xml:lang="la" type="auto">Nec ipse, si vellet, prohibebit - sed non volet animus insolens, impius ac ambitiosus.</s>
+					<s n="25" xml:lang="la" type="auto">Scripsi ad M. <persName>Heinrichum Lüti</persName><note xml:id="fn13" type="footnote" n="13">Pfarrer in <placeName>Winterthur</placeName>. - Der Brief ist nicht erhalten.</note> obiter, ut fratres et ecclesiam hortetur ad preces pro concordia Helvetiorum in hac causa.</s>
+					<s n="26" xml:lang="la" type="auto">Illam enim si obtinuerimus a domino, non est, ut timeam.</s>
+					<s n="27" xml:lang="la" type="auto">Si non, vereor actum esse de nobis.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Narrabo historiam, quam heri accepi, certo quidem expositam et verisimiliter.</s>
+					<s n="29" xml:lang="la" type="auto">Dubitare cogor tamen de veritate.</s>
+					<s n="30" xml:lang="la" type="auto">Author est filius civis nostris<note xml:id="fn15" type="footnote" n="15"><persName>Matthias Bomhart</persName>; s. <hi><persName>Felix Platter</persName>, Tagebuch</hi> aaO.</note>, hospitis signi Corollę, qui Constantię dicit se vidisse tabellarium<note xml:id="fn17" type="footnote" n="17">Unbekannt.</note>, qui<pb type="edition" next="223"/> literas ea de re adtulerit.</s>
+					<s n="31" xml:lang="la" type="auto"><persName>Papa</persName> misisse dicitur ingentem vim auri ad hoc bellum.</s>
+					<s n="32" xml:lang="la" type="auto">Venisse autem eam summam <placeName>Landsbergum</placeName><note xml:id="fn18" type="footnote" n="18"><placeName>Landsberg am Lech (Bayern)</placeName>.</note> usque (credo <placeName>Landsbergum</placeName> vocari).</s>
+					<s n="33" xml:lang="la" type="auto">Id quod, postquam <persName>Schertlius</persName> rescivit, eo loci cum omnibus copiis festinavit et oppidum cinxit adiectis, quod habeant hospites et aurum.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="34" xml:lang="la" type="auto">Illos si dederint, tutos fore; sin aliter, vim se tentaturum et illaturum.</s>
+					<s n="35" xml:lang="la" type="auto">Negarunt oppidani primo se quicquam habere; principem suum<note xml:id="fn19" type="footnote" n="19"><persName>Herzog Wilhelm IV. von Bayern</persName>.</note> pacatum esse; petere igitur, ut abeant.</s>
+					<s n="36" xml:lang="la" type="auto">Responso audito mox adduxit bombardas et ita per totam noctem sine intermissione oppidanos perturbavit, ut sublatis manibus peterent pacem, se daturos omnia, quae habeant.</s>
+					<s n="37" xml:lang="la" type="auto">Oblatum is accepit et discessit in pace.</s>
+					<s n="38" xml:lang="la" type="auto">Aurum dicitur vectum duobus curribus:</s>
+					<s n="39" xml:lang="de" type="manual">30 donen golts und ettlich tusent ducaten.</s>
+					<s n="40" xml:lang="la" type="auto">Hęc, ut accipio, scribo, etc.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="41" xml:lang="la" type="auto">Vale cum tuis et <persName>Gvalthero</persName>.</s>
+					<s n="42" xml:lang="la" type="auto">Si quid habes certius, significato.</s>
+					<s n="43" xml:lang="la" type="auto">Ex <placeName>Inferiore Germania</placeName> ne gry quidem<note xml:id="fn21" type="footnote" n="21">Vgl. <hi>Adagia,</hi> 1, 8, 3 <hi>(ASD</hi> II/2 234, <ref target="file10741">Nr. 703</ref>).</note>.</s>
+					<s n="44" xml:lang="la" type="auto"><placeName>Basilieę</placeName>, 23. iulii anno 1546.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="la" type="auto">Certum est Wirtenbergensem ducem<note xml:id="fn22" type="footnote" n="22"><persName>Ulrich von Württemberg</persName>.</note> vocasse ad se fratrem suum <persName>Georgium</persName><note xml:id="fn23" type="footnote" n="23"><persName>Graf Georg von Württemberg-Mömpelgard</persName>.</note>.</s>
+					<s n="47" xml:lang="la" type="auto">Et putant sui, quod praepositurus sit ipsum exercitui, quem collectum fovet.</s>
+					<s n="48" xml:lang="la" type="auto">Dominus tueatur ecclesiam suam et verbum suum exire faciat in omnem terram<note xml:id="fn24" type="footnote" n="24">Vgl. Jes 55, 11; Röm 10, 18.</note> ad ipsius gloriam!</s>
+					<s n="49" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="50" xml:lang="la" type="auto">D. Heinricho Bullingero in domino suo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

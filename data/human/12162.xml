@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12162" type="Brief" source="HBBW" n="2115">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 17. März 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ne cessem tibi esse molestus.</s>
+					<s n="3" xml:lang="la" type="auto">En offert tibi denuo sarcinulam tabellio<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>; eam destinavi principi Wirtembergensi<note xml:id="fn2" type="footnote" n="2"><persName>Herzog Ulrich von Württemberg</persName>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Opinor concionatorem ipsius appellari <persName>Gasparem Gretterum</persName><note xml:id="fn3" type="footnote" n="3">Siehe zuletzt oben <ref target="file12112">Nr. 2065</ref>, 58-60 und Anm. 33.</note>; quod si erro, obsecro, ut meas tuis involvas ac verum tuis inscribas.</s>
+					<s n="5" xml:lang="la" type="auto">Peto ab illo, ut exemplum una<note xml:id="fn4" type="footnote" n="4">Die deutsche Schrift "Warhaffte Bekanntnuß".</note> cum literis<note xml:id="fn5" type="footnote" n="5">Bullingers Brief an <persName>Ulrich von Württemberg</persName> vom 15. März; s. oben <ref target="file12157">Nr. 2110</ref>.</note> principi offerat; dedi ipsi quoque exemplum.</s>
+					<s n="6" xml:lang="la" type="auto">Tu pro tua fide et diligentia haec diligenter cura.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Vale.</s>
+					<s n="8" xml:lang="la" type="auto">Nostri in tuis precibus memor.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Tiguri, 17. martii anno 1545.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Hasce d. <persName>Ioanni Buttlero</persName> inscriptas<note xml:id="fn6" type="footnote" n="6">Nicht erhalten.</note> fac, quaeso, ut mox accipiat; retinui apud me per aliquot dies, quod nullum invenirem tabellionem.</s>
+					<s n="12" xml:lang="la" type="auto">Salutabis illum meo nomine.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">Clarissimo viro d. <persName>Ambrosio Blaurero</persName>, <placeName>Constantiensi</placeName> antistiti, domino suo colendo et fratri charissimo.</s>
+					<s n="14" xml:lang="la" type="auto"><placeName>Constantz</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

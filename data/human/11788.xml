@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11788" type="Brief" source="HBBW" n="1742">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Amstaad (Fischer) / Scherzligen AN Heinrich Bullinger, 1. Mai [1543]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salutem et obsequendi promptitudinem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quanquam nihil literarum hactenus meo nomine accepisti, vir integerrime, tamen nunc (monitus ab <persName>Erasmo Rittero</persName>, meo tutore, ut te certiorem faciam, quomodo res meę sese habeant) paucula quaedam parumque Latina et valde inconcinna accipies.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Primo vero habeo tibi gratias immortales ob beneficia in me illata, nempe quod semper tibi mei cura fuerit et optasti, ut recte pięque viverem, et ago pol gratias, quod subinde te ostendisti patrem atque tutorem meum, verum in hac re potissimum, quod me omni cum diligentia commendasti tuo <persName>Erasmo Rittero</persName>, qui et ipse de me meritus est.</s>
+					<s n="4" xml:lang="la" type="auto">Video vero et sentio hanc tuam commendationem magnum pondus habuisse apud illum, qui et mihi bene vult amatque ut filium.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Secundo scias me nunc esse diaconum ad Schertzlingen iuxta <placeName>Thunum</placeName> et me habere ibi conditionem valde bonam et locum amoenissimum, et spero me nacturum famam bonam liberaliter serviendo domino.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Tertio illico ducendo est mihi uxor, et oportet habeam sociam thori, quod et dixi me facturum et faciam deo volente, si id liceat tuo cum consilio et pace, vel si quid scis melius aut quod magis usui foret mihi, fac me certiorem.</s>
+					<s n="7" xml:lang="la" type="auto">Item precor, ut habeas me commendatum ut hactenus atque etiam fratrem<note xml:id="fn3" type="footnote" n="3">Ein Bruder Heinrichs war möglicherweise <persName>Ulrich Am Stad</persName>, 1543 Zwölfer und 1557 Zunftmeister zur Schiffleuten, gest. 1558; s. Zürich ZB, Ms E 22. 342v.</note> sororemque; habebis semper filium me gratissimum.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Quod si quid usus veniret, ut possem tibi tuisque et patrię prodesse, in me mora nulla esset.</s>
+					<s n="9" xml:lang="la" type="auto">Ero Tigurinus non solum corpore et animo, sed et doctrina.</s>
+					<s n="10" xml:lang="la" type="auto">Quare, si vis mihi morem gerere, obsecro, ut sis mei memor in praecationibus tuis, ut nanciscar spiritum sanctum et possim recte intelligere verba domini et in his verbis perseverare ad finem usque<note xml:id="fn4" type="footnote" n="4">Vgl. Mt 10, 22; 24, 13.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Itaque tuę humanitati me totum commendo quam possum diligentissime; sis mei meorumque memor.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Saluta meis verbis omnes fratres in Christo et familiam tuam, in primis vero M. <persName ref="p4196">Georgium Binderum</persName>, praeceptorem meum, officiosissime.</s>
+					<s n="13" xml:lang="la" type="auto">Deinde, si quid habes novarum rerum, fac, ut sciam.</s>
+					<s n="14" xml:lang="la" type="auto">Non usus sum magnam copiam verborum, et non omnia syncerę scripsi; nam maximis nunc occupatus sum negotiis.</s>
+					<s n="15" xml:lang="la" type="auto">Hec habui ad te scribere; adhuc plura haberem, sed tempus non patitur.</s>
+					<s n="16" xml:lang="la" type="auto">De uxore ducenda dic, quid sentias.</s>
+					<s n="17" xml:lang="la" type="auto">Cura valetudinem tuam.</s>
+					<s n="18" xml:lang="la" type="auto">Deos quaeso, ut sis nobis diu superstes.</s>
+					<s n="19" xml:lang="la" type="auto">Durate et vosmet rebus servate secundis<note xml:id="fn5" type="footnote" n="5"><persName>Vergil</persName>, Aeneis, 1, 207.</note>.<pb type="edition" next="130"/></s>
+					<s n="20" xml:lang="la" type="auto">Datum calendis maii.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto">Rescribe mox.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Tuus Henricus am Staad alias Fischer, diaconus ad Schertzlingen.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="23" xml:lang="la" type="auto">Et pio aequaeque erudito viro domino M. Heinrico Bullingero, tutori suo in primis venerando, dentur literae.</s>
+					<s n="24" xml:lang="de" type="auto">Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

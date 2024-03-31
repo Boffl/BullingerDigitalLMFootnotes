@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10814" type="Brief" source="HBBW" n="776">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wolfgang Köpffel / Basel AN Heinrich Bullinger, 28. März [1536]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Confessionem nostram<persName>Zvinglius</persName> vidit, antequam per nos offerreretur cęsari, approbavitque eam, nisi quod parum mascula illi videbatur<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl>Z</bibl> XI 340,24-341,5.</note>, bonique<pb type="edition" next="197"/> consuluit, ut per nos exhiberetur.</s>
+					<s n="3" xml:lang="la" type="auto">Nihil enim designare voluimus, quod nos ullo pacto a vestris ecclesiis posset diripere.</s>
+					<s n="4" xml:lang="la" type="auto">Placuit <persName>Oecolampadio</persName>, cui similiter exhibita legenda est<note xml:id="fn5" type="footnote" n="5">Näheres ist nicht bekannt.</note>, ut ea via fidem attestaremur, neque esset in ea, quod cum ipso aut ecclesiis suis pugnaret.</s>
+					<s n="5" xml:lang="la" type="auto">Interea confessio nostra resedit prorsus.</s>
+					<s n="6" xml:lang="la" type="auto">Nam <placeName>Augustę</placeName>, cum sub finem conventus cesar Saxonibus graviter iratus esset, viderunt consiliarii illius nostram confessionem cum ipsorum non pugnare.</s>
+					<s n="7" xml:lang="la" type="auto">Itaque non iactavimus nos posthac ullam confessionem, neque ędita fuisset, nisi impulisset improbitas <persName>Eckii</persName> calumnias in nos cesari oblatas iactantis<note xml:id="fn6" type="footnote" n="6">Die Confessio Tetrapolitana wurde im August 1531 zusammen mit einer Apologie <persName>Bucers</persName> gegen die von <persName>Johannes Eck</persName> entworfene Confutatio gedruckt; s. <bibl>BucerDS</bibl> III 31f.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Neque tamen plures una confessione nostri de federe evangelico habuerunt, id est Saxonicam<note xml:id="fn7" type="footnote" n="7">Die <placeName>Confessio Augustana</placeName>, bekenntnismäßige Grundlage des Schmalkaldischen Bundes.</note> Quę utitur, praesertim in hoc articulo<note xml:id="fn8" type="footnote" n="8">Gemeint ist der Abendmahlsartikel.</note>, verbis scripturę et patrum, quę pro nobis nos interpretamur.</s>
+					<s n="9" xml:lang="la" type="auto">Nolumus enim committere, ut illi videri possint habere pro se scripturam et patres atque usum sacramentorum veterem; quin nos illa pro fundamento habuimus, ut attestatur <persName>Oecolampadii</persName> libellus De verbis cenę domini<note xml:id="fn9" type="footnote" n="9"><persName>Oekolampad</persName>, De genuina verborum domini, Hoc est corpus meum, iuxta vetustissimos authores, expositione liber [<placeName>Straßburg</placeName>] 1525 (<persName>Oekolampad</persName>-Bibliographie 55, <ref target="file10143">Nr. 113</ref>).</note> in, quo patrum dicta pro nobis exposuit, item ultimus Dialogus<note xml:id="fn10" type="footnote" n="10">Ders., Quid de Eucharistia veteres senserint, dialogus ..., [<placeName>Basel</placeName>] 1530 (<persName>Oekolampad</persName>-Bibliographie 78, <ref target="file10195">Nr. 164</ref>).</note> pii viri illius.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Iam quia syncretismum hostium videmus et confessiones diversę speciem praebent dissidiorum, non est visum nostrę reipublicae commodum, ut post tot confessiones nova hoc tempore a vobis, coniunctissimis fratribus nostris, aęderetur - comprobarunt tamen et comprobant adhuc vestros articulos<note xml:id="fn11" type="footnote" n="11">Das Erste Helvetische Bekenntnis (s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1).</note> non quod timeamus parum probaturum <persName ref="p18889">Lutherum</persName> et <persName ref="p6490">Philippum</persName><note xml:id="fn12" type="footnote" n="12"><persName>Philipp Melanchthon</persName>.</note>, sed quod insana quorundam capita hinc ansam novi dissidii quęsituri, deinde, quod cum crassis principibus et nobilibus agendum, quos nostri in favorem vestri adducere admolientur.</s>
+					<s n="11" xml:lang="la" type="auto">Atque summa esset facilitas tum conveniendi, tum reprimendi impetum hostium, si confessio nostra vobis quoque probari possit, sicut nostrę reipublicae articuli vestri.</s>
+					<s n="12" xml:lang="la" type="auto">Neque enim video, quid non confessi simus in statuis demoliendis et abroganda missa cęterisque nugis papisticis; non latum unguem<note xml:id="fn13" type="footnote" n="13">Zur Redensart vgl. <bibl>Adagia</bibl>, 1, 5, 6 (<bibl>LB</bibl> II 184f).</note> dissidemus.</s>
+					<s n="13" xml:lang="la" type="auto">In sacramentis eadem docuimus et confessi<pb type="edition" next="198"/> sumus, et tandem vidimus <persName ref="p18889">Lutherum</persName> non diversum, sed minus explicatum tamen, quantum ad sacramenta attinet, sentire.</s>
+					<s n="14" xml:lang="la" type="auto">Rogo te, ut invocato domino rem consideres.</s>
+					<s n="15" xml:lang="la" type="auto">Nostri sciunt, quę consilia quotidie ineuntur contra urbes liberas.</s>
+					<s n="16" xml:lang="la" type="auto">Ne, queso, vel in speciem divellamur.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto"><pb type="scan" next="||375v."/>Mirifice vexarunt confessionum multitudinem: Confessi sunt elector<note xml:id="fn14" type="footnote" n="14">Kurfürst <persName>Johann der Beständige</persName> von Sachsen. - Gemeint ist das Augsburgische Bekenntnis.</note>, principes et respublicae, confessi sumus nos<note xml:id="fn15" type="footnote" n="15">Siehe oben Anm. 2.</note> <persName>Zvinglius</persName> ad cesarem propriam confessionem scripsit<note xml:id="fn16" type="footnote" n="16">Die "Fidei Ratio" vom 3. Juli 1530 (<bibl>Z</bibl> VI/II 753-817, <ref target="file10194">Nr. 163</ref>).</note>, quam nos tum curavimus <placeName>Augustę</placeName> publicandam, confessi sunt <placeName>Basilienses</placeName><note xml:id="fn17" type="footnote" n="17">Zum (Ersten) Basler Bekenntnis vom 21. Januar 1534 s. <bibl>HBBW</bibl> IV <ref target="file10350">[Nr. 319]</ref>, S. 51, Anm. 22.</note>, et quis non, obsecro, propemodum pro se.</s>
+					<s n="18" xml:lang="la" type="auto">Iam quia ad unitatem coit res et satanas vestras ecclesias, quia puriores et primę sint, maxime infestat, cumprimis danda opera, ne nostra negligentia occasionem ledendi inveniat.</s>
+					<s n="19" xml:lang="la" type="auto">Non refert, quam vere, sed quam yen similiter.</s>
+					<s n="20" xml:lang="la" type="auto">Verisimile autem in speciem tantum quęritur, cum revera nulla supersit discordiae opinio.</s>
+					<s n="21" xml:lang="la" type="auto">Vulgo plausibile argumentum.</s>
+					<s n="22" xml:lang="la" type="auto">Non convenit, quia quisque suum pro se confessionem habet, aut, ut <persName>Eckius</persName> dicere solet: Quot homines, tot ecclesię.<note xml:id="fn18" type="footnote" n="18">In Abwandlung des lateinischen Sprichwortes "Quot homines, tot sententiae"; vgl. <bibl>Adagia</bibl>, 1, 3, 7 (<bibl>LB</bibl> II 114).</note></s>
+					<s n="23" xml:lang="la" type="auto">Quanquam hoc pridem evanuit; nam in has Turmas divisi sumus: Lutheranos, Zvinglios et nos medios, qui modis omnibus sectę nomen declinavimus.</s>
+					<s n="24" xml:lang="la" type="auto">Et tamen, gratia deo, nostri undique iam horrent omne nomen dissidiorum nuper <persName>Iacobus Sturmius</persName> de quodam principe<note xml:id="fn19" type="footnote" n="19">Unbekannt.</note>, quam amanter sit de vobis vestrisque ecclesiis locutus, cui tamen opinio dissidii adhuc hesit.</s>
+					<s n="25" xml:lang="la" type="auto">Ibi noster incubuit, ut bonam vestram existimationem augeret elevaretque speciem dissidii.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Dabimus iam operam, ut mutuis viribus ecclesiam edificemus aliique alios admoneant adiutentque, quod varie fieri potest atque indies fit.</s>
+					<s n="27" xml:lang="la" type="auto">Quoties nobis prof uit <persName>Zvinglius</persName> monendo literis quosdam nostrorum earum rerum, quas a nobis quotidie frustra audiebant!</s>
+					<s n="28" xml:lang="la" type="auto">Collapsa sunt studia, quae reparanda sunt, reliquię bonorum ecclesiasticorum asservandę, vilitas et odium a vulgaribus ministris amolienda, et id genus, quę omnia <persName>Zvinglius</persName> nobiscum commentatus est, cui videbatur prope opus ministris, privilegiis et immunitatibus novis.</s>
+					<s n="29" xml:lang="la" type="auto">Deus nos plane respicit, qui fatale dissidium aufert, ut unus vere reddamur in domino.</s>
+					<s n="30" xml:lang="la" type="auto">Cui sint gratiae.</s>
+					<s n="31" xml:lang="la" type="auto">Memineris adhęc esse voluntatem bonis omnibus ad plenissimam pacem, quam hac via redintegrabunt quidam.</s>
+					<s n="32" xml:lang="la" type="auto">Primo enim leviter in proximo conventu federis nostri<note xml:id="fn20" type="footnote" n="20">Der nächste Tag des Schmalkaldischen Bundes war auf den 24. April 1536 nach <placeName>Frankfurt</placeName> ausgeschrieben; vgl. <bibl>PC</bibl> II 344f, <ref target="file10388">Nr. 356</ref>.</note> commendabunt vestras<pb type="scan" next="||376r."/> ecclesias et insinuabunt obiter consensum, qui inter nos non tanquam tractatione comparatum, sed veritatis viribus et mutuo commercio, quod continuatum sit inter nos,<pb type="edition" next="199"/> esse continuatum usque in hęc tempora.</s>
+					<s n="33" xml:lang="la" type="auto">Ex quo aditus ad concordiam praebebitur.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Scripsimus interea ad <persName ref="p18889">Lutherum</persName> accuratissime<note xml:id="fn21" type="footnote" n="21">Siehe oben <ref target="file10801">Nr. 763</ref>, Anm. 3f.</note>, sed nescimus, quid intercesserit, quo minus conventum, ut convenerat, indixerit.</s>
+					<s n="35" xml:lang="la" type="auto">Opinio fert quorundam differri ad proximum conventum fęderis nostri, ut tum coram cum magistratibus et principibus statuatur.</s>
+					<s n="36" xml:lang="la" type="auto">Atqui nihil refert, conveniamus necne, dum apparati nos ad occasionem simus, ut nunc sumus.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> iterum adiit <placeName>Augustanos</placeName> pro stabilienda ecclesia<note xml:id="fn22" type="footnote" n="22"><persName>Bucer</persName> reiste vor dem 28. März nach <placeName>Augsburg</placeName> ab und kam am 6. April dort an; vgl. <hi>Roth</hi> II 272, Anm. 73.</note>; nam neque missę neque statuę e templis submotę sunt.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto"><persName>Dux Wirtenbergensis</persName> in quibusdam egit satis mascule.</s>
+					<s n="39" xml:lang="la" type="auto">Multa tamen alii desiderant, et tamen nihil notabile.</s>
+					<s n="40" xml:lang="la" type="auto">Templa fertur prorsus Idolis repurgasse<note xml:id="fn24" type="footnote" n="24">Mit der Abschaffung der "ärgerlichen" Bilder und Altäre wurde im Februar begonnen; s. <hi>Brecht/Ehmer,</hi> aaO, S. 230.</note>.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto">Vale in domino, observandissime frater.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto"><placeName>Basilaeae</placeName>, 3. post letare.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Scriba vester<note xml:id="fn25" type="footnote" n="25"><persName>Werner Beyel</persName>, Stadtschreiber und Abgeordneter Zürichs zur Basler Tagung vom 27. März.</note> de te amanter sentit.</s>
+					<s n="44" xml:lang="la" type="auto">In officio tenendus et beneficiolis devinciendus est.</s>
+					<s n="45" xml:lang="la" type="auto">Habet liberos; si illi ad literas pias idoneus [!] et tua opera publico stipendio aleretur<note xml:id="fn27" type="footnote" n="27">Gemeint ist sicherlich <persName>Ulpian Beyel</persName>, der im März 1536 zur Ausbildung nach <placeName>Basel</placeName> kam und 1537 als Stipendiat angenommen wurde; vgl. unten <ref target="file10816">Nr. 778</ref>, 1f mit Anm. 4.</note>, fieret plus tuus, qui se totum tuum esse ait.</s>
+					<s n="46" xml:lang="la" type="auto">Visus est aliquid huius a me ambire.</s>
+					<s n="47" xml:lang="la" type="auto">Si videtur, poteris illi significare, quod illius ad te meminerim.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf f. 376v.:]</note>
+					<s n="48" xml:lang="la" type="auto">Henrico Bullingero, viro doctissimo, pastori ecclesiae Tigurinę vigilantissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

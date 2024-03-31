@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11091" type="Brief" source="HBBW" n="1048">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Petrus Dasypodius (Hasenfratz) / Strassburg AN Heinrich Bullinger, 25. September 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Ea de re, quam ad me scripsisti<note xml:id="fn1" type="footnote" n="1">Bullingers Brief ist nicht erhalten; offenbar handelte er davon, ob der Sohn von <persName>Christoph Klauser</persName> seine Lehre nicht bei einem anderen Apotheker fortsetzen könnte (vgl. oben <ref target="file11059">Nr. 1017</ref>).</note>, charissime Bullingere, diligenter amicos, et inter eos myropolas duos, consului, qui responderunt e re quidem <persName>Clauseri</persName> filii esse, ut a suo magistro<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> tempestive liberaretur; sed cum in biennium illi sese mancipaverit, non videre se, qua ratione possit fieri citra magistri gravem offensam et patris dispendio fortasse non mediocri.</s>
+					<s n="3" xml:lang="la" type="auto">Quod cur censeant, causa profecto non est vulgaris, siquidem idem pharmacopola haud ita pridem civis cuiusdam <placeName>Colmariensis</placeName> filium<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> (cuius rei testem me habent, nam probe mihi nota est) post bimestre tempus ob nescio quam causam ab eo missionem flagitantem, cum tamen plus quam annuam illi operam esset pactus, adeo ęgre dimisit, ut aureis viginti quinque tandem receptis ab adulescentis patre in amicorum id gratiam pro puero deprecantium se fecisse sit testatus.</s>
+					<s n="4" xml:lang="la" type="auto">Quod factum hominis, quid sit <persName>Clausero</persName> sperandum, nihil obscure declarat.</s>
+					<s n="5" xml:lang="la" type="auto">Huc accedit, quod leges illorum prohibent quenquam alterius discipulum recipere nisi priore magistro bona venia id permittente.</s>
+					<s n="6" xml:lang="la" type="auto">Istud cum fieri posse nemo credat et pacti temporis non longe admodum terminus absit, pręstare putant illum expectare; tum facile citraque litigium, ubi nihil ille iuris scilicet in adulescentem habeat amplius, cum alio posse transigi.</s>
+					<s n="7" xml:lang="la" type="auto">Horum sententię ut ego quoque subscribam, hominis illius mores faciunt; etenim, quantum ego video, mavult interim, dum ex pacto licet, simplicis et probi adulescentis opera suum ad commodum uti, quam recepta pecunia, cuius iacturam facere non potest, ante legitimum tempus dimittere.</s>
+					<s n="8" xml:lang="la" type="auto">Iam si hoc idem vobis videbitur, tuum erit in tempore mihi significare, ut, si apud alium heic myropolam Christophorus habere deinceps filium cupiat, priusquam terminus advenerit, quis eum et quibus conditionibus sit recepturus, certo vos possim reddere certiores.</s>
+					<s n="9" xml:lang="la" type="auto">Haec scripsi lectis obiter literis tuis, quas doctoris Christophori filius mihi reddidit postridie, cum mercator ille vester<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> me nondum convento <placeName>Francofordiam</placeName> abiisset.</s>
+					<s n="10" xml:lang="la" type="auto">Ego lubens vobis hac in re serviero, quicquid possum, si modo aliquid possum.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Vale cum tuis omnibus feliciter, charissime amice, ac doctorem Christophorum et omnes tuos symmystas, nominatim vero <persName>Pellicanum</persName>, pręceptorem meum, saluta.</s>
+					<s n="12" xml:lang="la" type="auto">Quae hic feruntur nova, melius ex mercatorum vestrorum relatione, quam si ego scriberem, cognosces.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Datum <placeName>Argentorati</placeName>, septimo kalendas octobris anno 1537.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName>Petrus Dasypodius</persName><pb type="edition" next="256"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Eruditione pariter et humanitate perspicuo viro Henrico Bullingero, insignis Tigurinę ecclesię antistiti, amico suo pręcipuo semperque colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

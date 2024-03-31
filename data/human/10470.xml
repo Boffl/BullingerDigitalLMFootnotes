@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10470" type="Brief" source="HBBW" n="435">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / Konstanz AN Heinrich Bullinger, Konrad Pellikan (Kürschner), 9. September 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Bullingero et <persName>Pellicano</persName> <persName>Johannes Zvick</persName>.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Salutem.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Et nos optaremus sententiam de sacramento minus philosophicam<note xml:id="fn1" type="footnote" n="1"><persName>Zwick</persName>, der offenbar auf nicht mehr erhaltene Briefe Bullingers und <persName>Pellikans</persName> (unten Z. 34) antwortet, verteidigt hier die <placeName>Württemberger</placeName> (oder <placeName>Stuttgarter</placeName>) Konkordie vom 2. August 1534, vgl. oben S. 278f, 43-53.</note>, sed quid facias?</s>
+					<s n="4" xml:lang="la" type="auto">An non praeferenda est ecclesiarum ędificatio verbosis istis contentionibus - quanquam non adeo philosophica sit sententia, quin cum veritate dici queat, corpus Christi praesens esse in cęna substantialiter, essentialiter, adde etiam corporaliter, modo statim addas, quo de corpore sentias, nempe non palpabili aut locali.</s>
+					<s n="5" xml:lang="la" type="auto">An non deus corporaliter habitat in Christo<note xml:id="fn2" type="footnote" n="2">Kol 2, 9; vgl. Joh 1, 14.</note>, cum tamen deus non sit corpus<note xml:id="fn3" type="footnote" n="3">Vgl. unten Z. 11.</note>?</s>
+					<s n="6" xml:lang="la" type="auto">Tribuit scriptura<note xml:id="fn4" type="footnote" n="4">Vgl. unten S. 390, 39-42.</note> deo os<note xml:id="fn5" type="footnote" n="5">Vgl. Mt 4, 4; Ps 18, 9 par; 1 Kön 8, 15. 24 par; Spr 2, 6; Jes 45, 23 u. a.</note>, palpebras<note xml:id="fn6" type="footnote" n="6">Vgl. Ps 11, 4.</note>, nasum<note xml:id="fn7" type="footnote" n="7">Vgl. 2 Sam 22, 9. 16 und Ps 18, 9. 16; Jes 65, 5.</note>, aures<note xml:id="fn8" type="footnote" n="8">Vgl. Jak 5, 4; 1 Petr 3, 12; Ps 17, 6 und 31, 3 par.</note>, imo non humani solum corporis membra, sed etiam volatilium: Sub umbra alarum ut protegat<note xml:id="fn9" type="footnote" n="9">Ps 17, 8.</note>, precamur, et tamen est spiritus deus<note xml:id="fn10" type="footnote" n="10">Joh 4, 24.</note> quantusquantus est.</s>
+					<s n="7" xml:lang="la" type="auto">Nonne sic quoque dici potest: Ubi duo aut tres congregati fuerint in nomine Christi, ille est in medio illorum<note xml:id="fn11" type="footnote" n="11">Mt 18, 20.</note> substantialiter et essentialiter, sed non localiter, nec quantus aut qualis est.</s>
+					<s n="8" xml:lang="la" type="auto">An non satis exprimunt<pb type="edition" next="307"/> posteriora hęc verba, quam praesentiam Christi adstruam?</s>
+					<s n="9" xml:lang="la" type="auto">Iam si quaeratur, corpus Christi an vere sit in caena<note xml:id="fn12" type="footnote" n="12">Vgl. Joh 6, 51-58.</note>, omnes respondebunt sic esse.</s>
+					<s n="10" xml:lang="la" type="auto">Qua vero de re contenditur?</s>
+					<s n="11" xml:lang="la" type="auto">Scilicet de modo, et qua forma adsit.</s>
+					<s n="12" xml:lang="la" type="auto">Nunc si dicam adesse substantialiter corpus Christi in cęna nullis praescriptis limitibus, fieri posset, ut suspicareris de carnea quadam corporis praesentia dictum.</s>
+					<s n="13" xml:lang="la" type="auto">Hoc ne suspiceris, modum praesentiae praescribo, que scilicet sit non secundum hoc corpus, quod est palpabile et locale, vobis iam relinquens iuditium sensisse me Christum adesse vel in cęna vel inter duos aut tres<note xml:id="fn13" type="footnote" n="13">Mt 18, 20.</note> iuxta spiritum.</s>
+					<s n="14" xml:lang="la" type="auto">Cur igitur non praescribitur Christi corpus non esse in caena<pb type="scan" next="||4"/> nisi spiritualiter?</s>
+					<s n="15" xml:lang="la" type="auto">Sic quidam.</s>
+					<s n="16" xml:lang="la" type="auto">Quaero, cur non Christus quoque dixer[it]: «Nisi manducaveritis carnem meam» etc.<note xml:id="fn14" type="footnote" n="14">Joh 6, 53.</note> addideritq[ue]: «spiritualiter» aut in cęna panem porrigens: «Hoc est corpus meum<note xml:id="fn15" type="footnote" n="15">Mt 26, 26 par.</note>, scilicet spiritualiter» aut tale quidpiam.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Hinc <persName>Zvinglius</persName> quoque hanc sententiam<note xml:id="fn16" type="footnote" n="16">Gemeint ist die <placeName>Marburger</placeName> Unionsformel vom 3. Oktober 1529, die am 2. August 1534 zur <placeName>Württemberger</placeName> Konkordie geworden ist, vgl. Anm. 1 und dortige Verweise.</note> (qua de in praesentia est quaestio) recepit ab <persName>Aecolampadio</persName> et <persName ref="p18198">Bucero</persName>, cum audisset eandem a <persName ref="p6490">Philippo</persName> quoque et <persName ref="p18889">Luthero</persName> receptam.</s>
+					<s n="18" xml:lang="la" type="auto">«At hunc modum loquendi non adferam ecclesiae meae», inquit pie memorie miles, «utcumque sententia mihi non improbetur.»</s>
+					<s n="19" xml:lang="la" type="manual">Quacumque ergo ratione sanctissimi illi viri, <persName>Zvinglius</persName>, Aecolampadius et <persName ref="p18198">Bucerus</persName>, hanc de eucharistia sententiam concordię studio conscripserunt<note xml:id="fn19" type="footnote" n="19">In Wahrheit lehnten <persName>Zwingli</persName>, <persName>Oekolampad</persName> und sogar <persName>Bucer</persName> diese Formel ab, s. <hi>Köhler,</hi> ZL II 114-117.</note>, pari omnino nec alia putavit integerrimus frater <persName>Ambrosius</persName><note xml:id="fn20" type="footnote" n="20"><persName>Ambrosius Blarer</persName>.</note> et opinionem et affectus <persName>Schnepf[ii]</persName> superari posse.</s>
+					<s n="20" xml:lang="la" type="auto">Tu vero, <persName>Pellicane</persName>, scribis<note xml:id="fn22" type="footnote" n="22">Ein Brief <persName>Pellikans</persName> an <persName>Zwick</persName> aus dieser Zeit ist nicht mehr erhalten.</note> displicere tibi sententiam hoc nomine, quod nunquam concessum sit panem substantialiter<note xml:id="fn23" type="footnote" n="23">Die <placeName>Marburger</placeName> Unionsformel hat «substantive».</note> esse corpu[s] domini.</s>
+					<s n="21" xml:lang="la" type="auto">Sed nec <persName>Ambrosius</persName> isthuc concessit,<pb type="edition" next="308"/> neque ul[la] est quęstio, sitne corpus Christi panis.</s>
+					<s n="22" xml:lang="de" type="manual">Dann d[as] wer ain recht hültze schürysen<note xml:id="fn24" type="footnote" n="24">Ein hölzerner Feuerhaken zum Schüren des Feuers (<bibl>SI</bibl> I 544; <bibl>Grimm</bibl> IX 2033f) als Bezeichnung eines Widerspruchs.</note>.</s>
+					<s n="23" xml:lang="la" type="manual"><persName ref="p18889">Lutherus</persName> quoque non adserit panem esse corpus aut esse sub speciebus panis<note xml:id="fn25" type="footnote" n="25">Zu <persName>Luthers</persName> Abendmahlslehre s. Ernst <hi>Sommerlath,</hi> in: RGG I 34-37, bes. 36, und Joachim <hi>Staedtke,</hi> in: <bibl>TRE</bibl> I 110-113.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Ergo, ut hac de re nichil convertitur, ita nihil quoque illusum est <persName>Ambrosio</persName> ab impiis Lutheranis, ut tuis<note xml:id="fn26" type="footnote" n="26"><persName>Pellikans</persName>.</note> verbis utar.</s>
+					<s n="25" xml:lang="la" type="auto">Multo minus cyrographo<note xml:id="fn27" type="footnote" n="27">ch(e)irographo; d. h. durch die geschriebene Übereinkunft [<placeName>Württemberger</placeName> Konkordie] vom 2. August 1534 zwischen <persName>Blarer</persName> und <persName>Schnepf</persName>.</note> hanc questionem confirmavit, hac scilicet nunquam inter eos nata.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Porro quid nunc agatur in principis<note xml:id="fn28" type="footnote" n="28"><persName>Herzog Ulrich von Württemberg</persName>.</note> ditione, non possum scire.</s>
+					<s n="27" xml:lang="la" type="auto">Ex proximis vero literis <persName>Ambrosii</persName><note xml:id="fn29" type="footnote" n="29"><persName>Ambrosius Blarers</persName> Brief [an <persName>Zwick</persName>] ist nur in den hier von <persName>Zwick</persName> mitgeteilten Auszügen teilweise erhalten (Z. 46-48. 53-59; <bibl>Blarer BW</bibl> I 539).</note>, quod ad te, Bullingerum, adtinet, sic scribit, imo omnibus nobis scriptum sit:</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto"><pb type="scan" next="||9"/>«<placeName>Sabaudi</placeName><note xml:id="fn30" type="footnote" n="30"><persName>Claude d'Aliod</persName> (von <placeName>Savoyen</placeName>).</note> hęresis non uno solum loco suppullulat.</s>
+					<s n="29" xml:lang="la" type="auto">Utinam Luthe[rani] et Zvingliani compositis suis verbigerationibus coniunctis copiis ad hanc fortiter expugnandam converterentur!» Hęc ille.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">O quam vere hoc optat pius frater, siquidem oculatissimos nos esse oportet, ne imponant nobis humilitatis spem vagabundi isti errones.</s>
+					<s n="31" xml:lang="la" type="auto">Semper enim monstri aliquid alit in ecclesia adversarius Christi.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">Sequentia quoque addit:</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">«Bullingerum quam primum de concordiae nostrę ratione certiorem facies interim et hoc indicans, curatum a principe, ut docturis in ditione sua verbi ministris Saxonicę Confessionis formulam in caenae negotio simpliciter praescribamus<note xml:id="fn31" type="footnote" n="31">Nicht die «dunkle» <placeName>Württemberger</placeName> Konkordie, sondern das Augsburgische Bekenntnis (vgl. oben S. 277, Anm. 17) wurde durch Vermittlung <persName>Jakob Sturms</persName> bei <persName>Philipp von Hessen</persName> und <persName>Ulrich von Württemberg</persName> Lehrgrundlage in <placeName>Württemberg</placeName>, s. <persName>Blarer</persName> BW I 529f; <bibl>PC</bibl> II 228f; <hi>Brecht,</hi> <persName>Blarer</persName> in Schwaben 157.</note>.</s>
+					<s n="34" xml:lang="la" type="manual">Ea sic habet, corpus et sanguinem Christi vere esse praesentia in cęna et distribui vescentibus<note xml:id="fn32" type="footnote" n="32"><placeName>Confessio Augustana</placeName>, Artikel 10 «De coena domini»: «De coena domini docent, quod corpus et sanguis Christi vere adsint et distribuantur vescentibus in coena domini; et improbant secus docentes.» (<bibl>BSLK</bibl> 64, vgl. die Apologie der Konfession, ebenda 247f).</note>.</s>
+					<s n="35" xml:lang="la" type="auto">Non vult hic<note xml:id="fn33" type="footnote" n="33"><persName>Herzog Ulrich von Württemberg</persName>.</note> ullas moveri turbas nec feret, ut alius alium hoc nomine conviciis insectetur, sed singuli veritatem simplici sua facie contuendam exhibeant.»</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto">Vos orate pertinaciter, optimi viri, ut cum multo fructu<note xml:id="fn34" type="footnote" n="34">Joh 15, 8.</note> currat verbum dei<note xml:id="fn35" type="footnote" n="35">2 Thess 3, 1.</note>.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Iuditia de tractandis hęreticis remitto.</s>
+					<s n="38" xml:lang="la" type="auto">Si reliquam partem de locis divinitatis Christi expectas, fac, sciam.</s>
+					<s n="39" xml:lang="la" type="auto">Alioqui manebit apud me.<pb type="edition" next="309"/></s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Calamum hębraicum conor parare, qualem vellet <persName ref="p2305">Leo</persName><note xml:id="fn38" type="footnote" n="38">Von <persName ref="p6796">Leo Jud</persName> ist aus dieser Zeit kein Brief an <persName>Johannes Zwick</persName> erhalten.</note>, sed non succedit.</s>
+					<s n="41" xml:lang="la" type="auto">Temptabo autem magis ac magis.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto"><pb type="scan" next="||10"/><persName>Wernherum</persName><note xml:id="fn40" type="footnote" n="40">Sicher <persName>Werner Steiner</persName>, der im Oktober 1533 mit Bullinger, <persName>Pellikan</persName> und <persName>Utinger</persName> in <placeName>Konstanz</placeName> war, s. <bibl>HBD</bibl> 23, 15-17.</note> salutabis mihi, tu <persName>Pellicane</persName>, quam officiosissime.</s>
+					<s n="43" xml:lang="la" type="auto">Hortare tamen interim optimum amicum, ne si quid peccavit Mötelinus me, culpae insimulet, quasi mihi impurae facetiae displiceant, impuriora vero non item.</s>
+					<s n="44" xml:lang="la" type="auto">Dolet mihi certe, si quid ab illo, scilicet Mötelino, gestum est, cuius non potest honestissimam rationem reddere.</s>
+					<s n="45" xml:lang="la" type="auto">Ego vero rationem non reddam.</s>
+					<s n="46" xml:lang="la" type="auto">In hac enim causa non me habuit authorem neque consultorem.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto"><persName>Theodorum</persName><note xml:id="fn42" type="footnote" n="42"><persName>Theodor Bibliander</persName>.</note>, sanctissimum minimeque superciliosum pectus, diutissime nobis incolumen conservet Christus.</s>
+				</p>
+				<p>
+					<s n="48" xml:lang="la" type="auto">Valete in Christo cum omnibus familiis vestris, praecipue uxoribus<note xml:id="fn43" type="footnote" n="43"><persName>Anna Bullinger, geb. Adlischwyler</persName>, und <persName>Anna Pellikan, geb. Fries</persName>.</note> et liberis.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la" type="auto">Parcite lituris<note xml:id="fn44" type="footnote" n="44">Vgl. unten S. 372, 20f mit Anm. 14-16.</note>.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la" type="auto">Audio te, <persName>Pellicanum</persName>, brevi profecturum <placeName>Sanctogallum</placeName>.</s>
+					<s n="51" xml:lang="la" type="auto">Ego paratus sum te eo loci convenire, si diem condixeris.</s>
+				</p>
+				<p>
+					<s n="52" xml:lang="la" type="auto">Datum <placeName>Constantiae</placeName>, 9. septembris 1534.</s>
+				</p>
+				<p>
+					<s n="53" xml:lang="la" type="auto"><persName>Io. Zvick</persName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

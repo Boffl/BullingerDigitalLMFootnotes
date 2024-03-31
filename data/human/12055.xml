@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12055" type="Brief" source="HBBW" n="2008">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Lorenz Meyer (Agricola) / [Mödingen] AN Heinrich Bullinger, 8. Oktober 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Sanctissimo suo Bullingero.</s>
+					<s n="2" xml:lang="la" type="auto">S. per Christum.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Vivo et valeo animo et corpore per dominum bene, Bullingere charissime, qui me etsi mirum in modum confortat, sustinet et tuetur.</s>
+					<s n="4" xml:lang="la" type="auto">Magnam rerum mearum spem ex literis tuis<note xml:id="fn2" type="footnote" n="2">Nicht bekannt.</note> concepi propediem fęlitiori in portu navigaturos<note xml:id="fn3" type="footnote" n="3">Gemeint sind er und seine Frau (<persName>Regula Meyer</persName>?).</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Quamvis primo limine satis amarę<note xml:id="fn4" type="footnote" n="4">Zu verstehen: amarae res meae.</note>, dulciores tamen - ut amicorum candidorum est - factę multum gaudium attulerunt.</s>
+					<s n="6" xml:lang="la" type="auto">Scripsi nunc alias et fortassis iucundiores per uxorem.</s>
+					<s n="7" xml:lang="la" type="auto">Hęc est nunciae; et quod te non docebunt literę, habebis ex ore coniugis.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Brevibus igitur me absolvam.</s>
+					<s n="9" xml:lang="la" type="auto">Qua via synodus adgredienda sit, ut iterum cum optimis fratribus in gratiam redeam et reconciliationem nancisci possim, te vehementer obsecro, velis tua insigni duce prudentia nescienti opere ferre.</s>
+					<s n="10" xml:lang="la" type="auto">Scripsi, ut vides, sanctę conventioni.</s>
+					<s n="11" xml:lang="la" type="auto">Meliora si habes, da; si quid mutandum aut adiiciendum, fac ut fiat; nam tempus abiit, quod mihi ipsi loco pęnitentię iniunxi, cum nunc sciam et sentiam et minime dubitem cum domino deo nostro rediisse in gratiam.</s>
+					<s n="12" xml:lang="la" type="auto">Condonate mihi, o homines!</s>
+					<s n="13" xml:lang="la" type="auto">Sic enim cogito, et spero fieri brevi.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Ad natalitium domini<note xml:id="fn6" type="footnote" n="6">25. Dezember.</note> permanebo in sorte mea et loco meo.</s>
+					<s n="15" xml:lang="la" type="auto">Tandem discedam lubens hac ratione, quod - illustrissimus princeps ducatu suo abiens <placeName>Heidelbergam</placeName> - nova in ducatu regni facies exorta sit.</s>
+					<s n="16" xml:lang="la" type="auto">Timendum, ne etiam cum motu subsequatur rerum multarum tristior, quam hactenus<pb type="edition" next="456"/> fuerit, tam fascium quam religionis facies.</s>
+					<s n="17" xml:lang="la" type="auto">Si tu igitur nosti aptum ingenio meo locum et dignam provinciam apud meos <placeName>Helvetios</placeName> - si nunc vestro in agro nullum, saltem aliquem vel apud <placeName>Bernenses</placeName> aut <placeName>Basilienses</placeName> -, adornabo pro virili honestissime et diligentissime.</s>
+					<s n="18" xml:lang="la" type="auto">Quid etiam facto sit opus, rescribe.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Uxor enim expectabit finem congregationis fratrum<note xml:id="fn8" type="footnote" n="8">Den Abschluß der Synode; s. oben Anm. 5.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Optimos et prudentissimos viros ordinis senatorum <persName ref="p6155">Lavaterum</persName>, urbis ęrarium quaestorem<note xml:id="fn9" type="footnote" n="9">Der Seckelmeister <persName>Hans Rudolf Lavater</persName>.</note>, et d. Wägmannium<note xml:id="fn10" type="footnote" n="10">Der Zunftmeister <persName>Hans Wegmann</persName>.</note> salutabis, et emollies in mei favorem et pristinę amicitię dulcedinem.</s>
+					<s n="21" xml:lang="la" type="auto">Multa instillavit petulans lingua animis pulcherrimis, quę aliquando cum vel in tempore videbunt satis acerba fuisse in me dicta.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Demum bene habeat familia tua, ecclesia, sanctissimus senatus, fratres optimi, <persName>Theodorus</persName>,<note xml:id="fn12" type="footnote" n="12"><persName>Theodor Bibliander</persName>.</note> <persName>Megander</persName>, <persName>Gvaltherus</persName>, <persName>Erasmus Fabritius</persName><note xml:id="fn13" type="footnote" n="13"><persName>Erasmus Schmid</persName>.</note>.</s>
+					<s n="23" xml:lang="la" type="auto">Vale, rerum mearum portus et aura<note xml:id="fn14" type="footnote" n="14">Vgl. Ovid, Heroides, 1, 110, und Ovid, Epistulae ex Ponto, 2, 8, 68, wo in älteren Ausgaben die Lesung "portus et aura" statt "portus et ara" zu finden ist.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Dominus noster servet te sanum et superstitem in usum ecclesię.</s>
+				</p>
+				<p>
+					<s n="25" xml:lang="la" type="auto">Commentaria tua in evangelistas<note xml:id="fn15" type="footnote" n="15">Bullingers Johannes- (1542) und Matthäuskommentar (1543); s. <bibl>HBBibl</bibl> I 144. 153.</note> leguntur apud nos a multis doctis viris, et laude magna vehuntur.</s>
+					<s n="26" xml:lang="la" type="auto">Dominum licentiatum <persName>Adamum</persName><note xml:id="fn16" type="footnote" n="16"><persName>Adam Bartholomäus</persName>.</note> nomine tuo salutavi.</s>
+					<s n="27" xml:lang="la" type="auto">Is te principi<note xml:id="fn17" type="footnote" n="17">Graf <persName>Ottheinrich I. von der Pfalz</persName>.</note> commendavit.</s>
+					<s n="28" xml:lang="la" type="auto">Iam domi non est; negotiis principis impeditus huc illuc rotatur et disiicitur pene.</s>
+					<s n="29" xml:lang="la" type="auto">Dominus huh<note xml:id="fn18" type="footnote" n="18">Jahwe: Name Gottes im Alten Testament.</note> i adsit suis semper.</s>
+					<s n="30" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Datę Medingę<note xml:id="fn19" type="footnote" n="19">Das Kloster Maria Medingen in <placeName>Mödingen</placeName>; s. oben <ref target="file11959">Nr. 1912</ref> mit Anm. 19.</note>, veloci calamo, 8. octobris anno 44.</s>
+					<s n="32" xml:lang="la" type="auto"><persName>Laurentius Agricola</persName> tuus semper, nunc exul, sed fortis athleta in domino<note xml:id="fn20" type="footnote" n="20">Darauf folgen drei Punkte, die die Spitzen eines nach oben gerichteten gleichseitigen Dreiecks bilden - wohl ein Symbol für die Dreieinigkeit.</note>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="33" xml:lang="la" type="auto">Christianissimo pectori et doctissimo simul et prudentissimo viro ac d. d. Heinricho Bullingero, evangelistę Tigurino, fratri et amico optimo charissimoque.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

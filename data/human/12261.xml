@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12261" type="Brief" source="HBBW" n="2214">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Gast / Basel AN [Heinrich Bullinger], 12. August 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. in domino, charissime frater.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Legi summa cum tristitia epistolam<note xml:id="fn1" type="footnote" n="1"><persName>Bucers</persName> Brief an die Zürcher vom 13. Dezember 1544 (<bibl>HBBW XIV</bibl> <ref target="file12096">[Nr. 2049]</ref> 585-587, <ref target="file12096">Nr. 2049</ref>), den Bullinger wohl auf <persName>Gasts</persName> Anfrage vom 9. Juli (oben <ref target="file12240">Nr. 2193</ref>, 8-20) hin diesem zukommen ließ.</note> illam lenocinio verborum excultam pulchreque depictam, Bucerani animi erga ecclesias nostras testem, hoc est epistolam, quę <persName ref="p18889">Lutheri</persName> laudes, <persName ref="p18198">Buceri</persName> diligentiam in concordandis ecclesiis<pb type="edition" next="444"/> extollit.</s>
+					<s n="3" xml:lang="la" type="auto">Utinam hunc laborem in aliam rem et utilio[rem] et necessariorem impendisset!</s>
+					<s n="4" xml:lang="la" type="auto">Fortasse maiorem laudem et maius commodum indeptus esset.</s>
+					<s n="5" xml:lang="la" type="auto">Fucis omnia sunt plena et fallaciis.</s>
+					<s n="6" xml:lang="la" type="auto">Quam pulchre te deterrere voluit, ne concordię<note xml:id="fn2" type="footnote" n="2">Die <placeName>Wittenberger</placeName> Konkordie aus dem Jahr 1536; s. oben <ref target="file12110">Nr. 2063</ref>, Anm. 39.</note> mentionem faceres<note xml:id="fn3" type="footnote" n="3">Vgl. <bibl>HBBW XIV</bibl> 587.</note>!</s>
+					<s n="7" xml:lang="la" type="auto">Quam belle conatur minis extorquere, ut omnino nunc temporis nihil respondeas!</s>
+					<s n="8" xml:lang="la" type="auto"><persName ref="p18198">Buceri</persName> ingenium novit Germania.</s>
+					<s n="9" xml:lang="la" type="auto">Illius inconstantia nemini non nota est.</s>
+					<s n="10" xml:lang="la" type="auto">Fortassis bono zelo hanc telam orsus est<note xml:id="fn4" type="footnote" n="4">Vgl. Adagia, 2, 6, 68 (<bibl>ASD</bibl> II/4 67f, Nr. 1568).</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Dominus illum iudicabit, cui stat et cadit<note xml:id="fn5" type="footnote" n="5">Vgl. Röm 14, 4.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Ingenue agunt christiani in omnibus, praecipue in religionis negotio.</s>
+					<s n="13" xml:lang="la" type="auto">Iam sentio, cur subscriptiones ad articulos nobis missos urgere soliti sint ab omnibus nobis,<note xml:id="fn6" type="footnote" n="6">Die <placeName>Wittenberger</placeName> Artikel waren von den Eidgenossen an den Basler Synoden vom 24,/25. September und vom 12. bis 14. November 1536 nicht unterschrieben worden; s. <bibl>HBBW</bibl> XIV 149.</note> de quibus iam gloriantur, quasi <persName ref="p18889">Luthero</persName> et aliis ecclesiis Lutheranicis subscripserimus.</s>
+					<s n="14" xml:lang="la" type="auto">Dominus aperiat illorum corda, quo agnoscant ipsius voluntatem.</s>
+					<s n="15" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Tomos II <persName>Zvinglii</persName> missos<note xml:id="fn8" type="footnote" n="8"><persName>Gast</persName> hatte sich zuletzt in seinem Brief vom 25. Juli 1545 (oben <ref target="file12249">Nr. 2202</ref>,2-5) über die von ihm gewünschten Werke <persName>Zwinglis</persName> geäußert, so dass die Sendung zwischen Ende Juli und dem 12. August 1545, dem Datum des vorliegenden Briefs, erfolgt sein dürfte.</note> summa voluptate accepi, sed dono illos nolo, ne tibi sim plus aequo molestus.</s>
+					<s n="17" xml:lang="la" type="auto">Indica, oro, pretium,<note xml:id="fn9" type="footnote" n="9"><persName>Gast</persName> hatte Bullinger wiederholt um die Angabe des Preises gebeten; s. oben <ref target="file12249">Nr. 2202</ref> und Anm. 5.</note> et numerabo, quantum voles; aut si ita placet, numerabo et ego folia et totidem remittam<note xml:id="fn10" type="footnote" n="10"><persName>Gast</persName> meint: mit einer entsprechenden Zahl von bedruckten Blättern.</note>.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Scribe itaque, quos libros velis, et coemam quam citissime; nam nolo ulla in re te gravare.</s>
+					<s n="19" xml:lang="la" type="auto">Tertium autem similiter tomum mitte propter Ecclesiasten<note xml:id="fn12" type="footnote" n="12">Das Buch Prediger (Kohelet).</note> et Iob<note xml:id="fn13" type="footnote" n="13">Hiob. - Beide Kommentare <persName>Zwinglis</persName> waren zu dessen Lebzeiten nie gedruckt worden. Sie wurden zwar ohne Seitenverweis im Inhaltsverzeichnis von Bd. 1 (f. Ç6r.) der Gesamtausgabe angekündigt, wurden dann aber nicht gedruckt. -Erste Textausgabe des Hiob-Kommentars in <bibl>Z</bibl> XIII 429- 466.</note> et alia, quę in maiori forma<note xml:id="fn14" type="footnote" n="14">Die <persName>Froschauer</persName>-Ausgabe erschien im Folio-Format, während die bereits erschienenen Kommentare <persName>Zwinglis</persName> zum Alten Testament (Finsler 581, Nr. 80; 61, Nr. 84) im Oktav-Format gedruckt worden waren.</note> non habeo.</s>
+					<s n="20" xml:lang="la" type="auto">Quartum tomum habeo in<pb type="edition" next="445"/> folio.</s>
+					<s n="21" xml:lang="la" type="auto">Videbis me non ingratum erga te, sit in quocunque negotio, quod mihi iniunxeris.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto"><persName>Gvaltheri</persName> nostri carmen dedi <persName>Myconio</persName>, qui dixit se velle ad te scribere, sed nescio, an scripserit ob disenteriam<note xml:id="fn17" type="footnote" n="17">= dysenteriam; Durchfall; Ruhr.</note>, qua bonus senex laborat<note xml:id="fn18" type="footnote" n="18"><persName>Myconius</persName> hatte Bullinger zuletzt am 22. April 1545 (oben <ref target="file12191">Nr. 2144</ref>) geschrieben.</note>.</s>
+					<s n="23" xml:lang="la" type="auto">Similiter commode etiam literę ad d. <persName>Petrum Martyrem</persName><note xml:id="fn19" type="footnote" n="19">Ein nicht erhaltener Brief Bullingers an <persName>Peter Martyr Vermigli</persName> als Antwort auf <ref target="file12238">Nr. 2191</ref>.</note> <placeName>Argentinam</placeName> venerunt.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="de" type="auto"><persName>Ferdinandus</persName> ist vor 14 tagen von Wurmbs geschiden,<note xml:id="fn20" type="footnote" n="20"><persName>König Ferdinand I.</persName> war am 31. Juli 1545 aus <placeName>Worms</placeName> abgereist (s. Paul <hi>Kannengiesser,</hi> Der Reichstag zu <placeName>Worms</placeName> vom Jahre 1545, <placeName>Straßburg</placeName> 1891, S. 88 und Anm. 304) und traf am 3. August 1545 in Nürnberg ein (s. <bibl>MBW-Reg</bibl> IV, Nr. 3981).</note> mit k. mt. vor zuͦ nacht einzig geessen,<note xml:id="fn21" type="footnote" n="21">vor id nacht einzig geessen: zuvor [ehe er <placeName>Worms</placeName> verließ] am Abend ohne Beisein anderer gegessen.</note> lang mit einanderen gespaciert im saal, do sich <persName>Ferdinand</persName> hefftig geklagt hat turchister nott<note xml:id="fn22" type="footnote" n="22">Zu verstehen: wegen der Bedrängnis durch die Türken.</note>.</s>
+					<s n="25" xml:lang="de" type="auto">Was k. m. daruff zuͦ antworten geben, weist man nit.</s>
+					<s n="26" xml:lang="de" type="auto"><persName>Kaiser Carolus</persName> ist ouch von Wurms abgescheiden,<note xml:id="fn23" type="footnote" n="23"><persName>Karl V.</persName> hatte <placeName>Worms</placeName> am 7. August 1545 verlassen; s. oben <ref target="file12258">Nr. 2211</ref>, Anm. 23.</note> mann meyn uff <placeName>Cöln</placeName>, denn do soll sich ein uffrur erzeigen; dann der rath<pb type="edition" next="446"/> ist zwitrechtig.</s>
+					<s n="27" xml:lang="de" type="auto">Es sind vil pfaffenknecht im rath, die die iren by der alten gewonheit wellen behalten, beschirmen und schützen.</s>
+					<s n="28" xml:lang="la" type="auto">Dominus suis auxilium ferat, ac tu dominum [pro illis] ora, quo constantes sint ad resistendum [satanae]<pb type="scan" next="222v."/> membris, quę <foreign xml:lang="de">uff dem letsten lochlin pfiffen<note xml:id="fn26" type="footnote" n="26">que uff dem letsten lochlin pfiffen: die (mit ihren Kräften) am Ende sind.</note>.</foreign></s>
+					<s n="29" xml:lang="la" type="auto">Nec illud te cęlandum puto: Brisaci sunt adhuc octo sacrificuli<note xml:id="fn27" type="footnote" n="27">Priester.</note>; <foreign xml:lang="de">aber sy haben keyn pfarhernn gehan nach pfingsten<note xml:id="fn29" type="footnote" n="29">Der Pfingstsonntag fiel im Jahr 1545 auf den 24. Mai.</note>.</foreign></s>
+					<s n="30" xml:lang="de" type="auto">Und hat man in 3 wochen do nit geprediget, dan kein caplan hat wellen predigen.</s>
+					<s n="31" xml:lang="la" type="auto">Digni fuissent fustibus.</s>
+				</p>
+				<p>
+					<s n="32" xml:lang="la" type="auto">En miseram rem et deploratione dignam; inter tot sacrificulos non unum inveniri, qui verbum dei annuntiare velit vel sciat!</s>
+					<s n="33" xml:lang="la" type="auto">Et ni nebulo aliquis<note xml:id="fn30" type="footnote" n="30">Unbekannt.</note> venisset, omnes ex civitate eiecti fuissent; et utinam fuisset factum!</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Quid praeterea in comitiis<note xml:id="fn31" type="footnote" n="31">Auf dem Reichstag zu <placeName>Worms</placeName>.</note> sit actum, nemo novit.</s>
+					<s n="35" xml:lang="la" type="auto">Alia comitia futura sunt<note xml:id="fn32" type="footnote" n="32">Der geplante Reichstag zu <placeName>Regensburg</placeName>; s. oben <ref target="file12258">Nr. 2211</ref>, Anm. 24.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Quid papistis sit agendum, interea consultabunt, et nihil aliud quęrunt, quam Christi negotium procrastinare.</s>
+					<s n="37" xml:lang="la" type="auto">Nam vident nostram et nostrorum ignaviam, oscitantiam et tarditatem in omnibus rebus agendis.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Vale in domino et ignosce garrulitati.<pb type="edition" next="447"/></s>
+					<s n="39" xml:lang="la" type="auto">Proxima hebdomade mulier<note xml:id="fn33" type="footnote" n="33">Unbekannt.</note> quędam ob paupertatem se suspendit;<note xml:id="fn34" type="footnote" n="34">Es handelte sich um eine Witwe und Mutter von zwei Kindern, der man das Almosen verweigert hatte. Sie erhängte sich am Abend des 31. Juli und wurde am 1. August von der Brücke in den Rhein gestürzt; s. <hi><persName>Gast</persName>,</hi> Tagebuch 230f.</note> quędam<note xml:id="fn35" type="footnote" n="35">Unbekannt.</note> voluit se praecipitare per pontem, sed depreh[ensa].</s>
+					<s n="40" xml:lang="la" type="auto">Homicidium heri est factum per famulum<note xml:id="fn36" type="footnote" n="36">Unbekannt.</note> sutoris<note xml:id="fn37" type="footnote" n="37">Unbekannt.</note> cuiusdam.</s>
+					<s n="41" xml:lang="la" type="auto">Duo soles in cęlo iis [die]bus visi sunt a multis.</s>
+					<s n="42" xml:lang="la" type="auto">Quidam<note xml:id="fn38" type="footnote" n="38">Unbekannt.</note> egregie potus praecipitavit se post mediam noc[tem] per fenestram et mortuus est; vinum in causa fuisse reor.</s>
+					<s n="43" xml:lang="la" type="auto">Satis dominus nos [ad]monet, si sapere vellemus.</s>
+				</p>
+				<p>
+					<s n="44" xml:lang="la" type="auto">Vale iterum et fratribus me commenda.</s>
+				</p>
+				<p>
+					<s n="45" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 12. augusti 1545.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName> ex animo.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto">Mitto praeterea tibi contiones in Marci evangelium, non in omnia capita, sed in priora 4, quas cupio apud vos imprimi.</s>
+					<s n="48" xml:lang="la" type="auto">Si autem nullus typographorum hanc operam mihi locare vellet, cupio remitti librum.</s>
+					<s n="49" xml:lang="la" type="auto">Non excede[ret] libellum 25 folia; non autem omnia iam mitto, sed si vellet aliquis imprimere, mitterem reliqua post nundinas<note xml:id="fn40" type="footnote" n="40">Gemeint ist wohl die Herbstmesse in <placeName>Frankfurt</placeName>. Zu ihrem Termin s. <bibl>HBBW</bibl> VI <ref target="file10925">[Nr. 884]</ref> 406, Anm. 5.</note>.</s>
+					<s n="50" xml:lang="la" type="auto">Mihi non videtur inutilis labor.</s>
+					<s n="51" xml:lang="la" type="auto">Argentinensibus nolo mittere<note xml:id="fn41" type="footnote" n="41">An <persName>Konrad Hubert</persName> (s. oben Anm. 39) in <placeName>Straßburg</placeName> hatte <persName>Gast</persName> jedoch geschrieben, dass er das Manuskript nicht an die Zürcher schicken wolle.</note> neque libenter nostris censoribus permitto, qui nihil aliud norunt quam mutare, quę illis displicent.</s>
+					<s n="52" xml:lang="la" type="auto">Vale ite[rum] atque iterum et rescribe hac de re.</s>
+					<s n="53" xml:lang="la" type="auto">Nihil a typographo quam 5 au[t] 6 exemplaria<note xml:id="fn43" type="footnote" n="43"><persName>Gast</persName> meint Autorenexemplare.</note> peto, quę amicis dare hactenus solitus sum.</s>
+					<s n="54" xml:lang="la" type="auto">D. Pellica[num], optimum senem, nomine [meo] salutabis quam officiosissime.</s>
+					<s n="55" xml:lang="la" type="auto">Ita soleo meum silent[ium]<note xml:id="fn44" type="footnote" n="44"><persName>Gast</persName> hatte zuletzt am 25. Juli 1545 (oben <ref target="file12249">Nr. 2202</ref>) an Bullinger geschrieben.</note> garrulitate vix toleranda resarcire.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

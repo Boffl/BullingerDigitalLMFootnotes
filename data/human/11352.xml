@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11352" type="Brief" source="HBBW" n="1309">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Frey (Liberianus) / Kappel am Albis AN Heinrich Bullinger, 18. September 1539</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] p[lurimam] d[ico].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Duram quidem, venerande praeceptor, provinciam imponis, ut sententiam de Gaspari ingenio perscribam, quod emunctum iuditium tuum minime latere censeo, siquidem ex oratione infallibilibus coniecturis vidisti.</s>
+					<s n="3" xml:lang="la" type="auto">Sed officii mei non immemor observata nostrae mentis adumbrabo, partim ut studuerit, partim ut convixerit, e quibus tanquam e fimbria de textura<note xml:id="fn2" type="footnote" n="2"><bibl>Otto</bibl> 136, Nr. 663.</note> iudicabis.</s>
+					<s n="4" xml:lang="la" type="auto">Musas visus est habere non iniquiores; noluit enim in reddenda lectione postremus haberi neque in excolenda memoria ab aequalibus vinci.</s>
+					<s n="5" xml:lang="la" type="auto">Tum in stilo exercendo hactenus diligentior repertus quam felicior, ausimque affirmare id posse facile sarciri, posteaquam frequentem lectionem et usum artificio coniunxerit.</s>
+					<s n="6" xml:lang="la" type="auto">Facit et illud, ut in spem optimam erigar et studio adcommodum fore colligam, quod doctissimorum est admirator, tum a pietatis negocio minime alienus, quasi indoles affinitatem quandam resipiat.</s>
+					<s n="7" xml:lang="la" type="auto">Haec de literis.</s>
+					<s n="8" xml:lang="la" type="auto">Nunc, ut mores et vitae actio his respondeant, paucis subnectam: Non aliud pro comperto referre possum quam integrum esse adulescentem et dolo malo neutiquam consutum, alioquin confidens, irritabilis, loquens et qui fere manu faciem absterserit, ut saeculum nostrum habet, quae tamen praevalente intellectu, tum augescente eruditione reprimentur; nam et in eo virtutis tincturam notavi.</s>
+					<s n="9" xml:lang="la" type="auto">Haec candido animo accipe; pro virili voti compotem reddere volui nolimque immerito quenquam male audire, nedum discipulum.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Vale feliciter in Christo.</s>
+					<s n="11" xml:lang="la" type="auto">1539, e Capella Tigurinorum, 18. septembris.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Ioannes Liberianus tuus obedientissimus.<pb type="edition" next="220"/></s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf S. 814:]</note>
+					<s n="13" xml:lang="la" type="auto">Venerando Tigurinae ecclesiae antistiti M. Heinrycho Bullingero, patrono summo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

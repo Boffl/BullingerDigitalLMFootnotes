@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10327" type="Brief" source="HBBW" n="296">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 12. Dezember 1533</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Rudius scribe posthac, frater charissime, quandoquidem nullum est periculum, cum quod fidis mandantur nunciis, tum quod res utiles et honestas tractamus, quarum<note xml:id="fn1" type="footnote" n="1">Siehe oben S. 247, 4-6.</note> non est ut erubescamus, etsi resignentur epistolae.</s>
+					<s n="3" xml:lang="la" type="auto">Non intelligo, quod tu putes consilium nostrorum contra vicinos, quod displiceat quodque tuis communicatum velis.</s>
+					<s n="4" xml:lang="la" type="auto">Proinde, si quid est, quod magni sit momenti, ne pigeat repetere et paulo apertius perscribere.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Iam vero audi, frater charissime, inflictum a nuperis literis<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file10324">Nr. 293</ref>.</note> alterum vulnus.</s>
+					<s n="6" xml:lang="la" type="auto">Nescio, quibus fomentis leniam.</s>
+					<s n="7" xml:lang="la" type="auto">Nam <persName>Andreas Faber</persName>, Fabri consulis filius, in senatum est lectus nobis maxime pro publica contione reclamantibus.</s>
+					<s n="8" xml:lang="la" type="auto">Cerberus - nosti, <foreign xml:lang="de">das ich den Rüden<note xml:id="fn5" type="footnote" n="5">Die Gesellschaft zu Konstaffel, nach ihrem Zunfthaus auch «zum Rüden» genannt. Sie stellte zahlenmäßig mehr Reformationsgegner als irgendeine Zunft, ohne daß diese jedoch eine Mehrheit in ihren Reihen hätten bilden können, s. <hi>Jacob</hi> 64-66. 108f. 115.</note> meyn</foreign> - eiusmodi homines subinde in senatum vocat, nec quisquam nostrorum est, qui forti et intrepido animo sese temerariis ausis obiiciat: Fuco imponitur stolidis<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Otto</bibl> 148, Nr. 723.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Non inviderem magistratum, si integros esse constaret.</s>
+					<s n="10" xml:lang="la" type="auto">Publice quidem nostram fidem confessus est, in nostram fidem coniuravit, pontifitiam abnegavit, eucharistiam una cum fratribus fregit et fracturum se posthac stipulabatur, sed subinde hypocrisim et nescio quid mali latere vereor.</s>
+					<s n="11" xml:lang="la" type="auto">Dominus conservet ecclesiam suam.</s>
+					<s n="12" xml:lang="la" type="auto">Video enim multam illi imminere tempestatem, video multum animi accrescere cohorti impiae, video nimis puerilem credulitatem et securitatem adeoque et supinam negligentiam nostrorum fascinare animos, adeo ut etiam ad miraculum moniti, exciti, impulsi, tracti et pertracti a veterno evigilare nolint.</s>
+					<s n="13" xml:lang="la" type="auto">Timeo profecto, timeo dominum aliquando istam [!] verbi et ministrorum contemptum abrogatione veritatis ulturum.</s>
+					<s n="14" xml:lang="la" type="auto">Me certe nostrorum pudet pigetque.</s>
+					<s n="15" xml:lang="la" type="auto">Dominus misereatur nostri propter gloriam nominis sui.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto"><pb type="edition" next="250"/>Nuntius<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> ita festinabat, ut non potuerim certo experiri, an a nostris legati sint missi<note xml:id="fn8" type="footnote" n="8">Nämlich: nach Bern, s. oben S. 248, 21.</note>.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">12. decembris 1533.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="20" xml:lang="la" type="auto">Domino <persName>Os. Myconio</persName> suo, <placeName>Basileae</placeName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

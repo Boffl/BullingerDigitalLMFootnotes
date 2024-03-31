@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10679" type="Brief" source="HBBW" n="641">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Dietrich Bitter (von Wipperford) / Köln AN Heinrich Bullinger, 2. September 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Mein fruntwillich dienst, liebster Henrice.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Wiß, das ich, dem herrn sy lob, sampt meiner husf[rauwen]<note xml:id="fn1" type="footnote" n="1">Der Name von <persName>Bitters</persName> Ehefrau ist nicht bekannt.</note> und frunden in guter gesontheit bin.</s>
+					<s n="3" xml:lang="de" type="auto">Des selbige mich alle tziet van dyr und den deynen erfrewt zo vernemen.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="de" type="auto"><pb type="edition" next="346"/>Die boecher, myr lest zogeschickt, habe ich na außwysong diener schrifft<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> untfangenn.</s>
+					<s n="5" xml:lang="de" type="auto">Das <persName>Vadiani</persName> Compendium<note xml:id="fn3" type="footnote" n="3">Gemeint ist <persName>Vadians</persName> Werk "Epitome trium terrae partium", das <persName>Bitter</persName> von Bullinger erbeten hatte; s. <bibl>HBBW</bibl> IV, S. 195, 34. 299, 43-45.</note>, hette ichs gewist hie zo bekommen, wuld dich dairmit neit beschwert haben, wiste auch neit, das eß so groeß waer, und bidden noch wie voir mehe: Wanne das du myr sulchs adir deroglychen aberschicks<note xml:id="fn4" type="footnote" n="4">wieder schickst.</note>, enbiede myr, was ich dairgegen mocht schicken, adir was gekost habe; wils goetlich verrichten.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="de" type="auto">Lieber Heinrice, weyß diß maels neit newes zo schrieben, dan der <placeName>Munstersche</placeName> handell<note xml:id="fn5" type="footnote" n="5">Am 25./26. Juni 1535 war die von den Täufern beherrschte Stadt <placeName>Münster</placeName> erobert worden, s. <bibl>Kirchhoff</bibl> 141-144.</note> ist genochsam verbreyttet.</s>
+					<s n="7" xml:lang="de" type="auto">Was verhofft, dairvan solte etwas in druck außgangen sien, sulchs wollte ich dyr zogestalt haben.</s>
+					<s n="8" xml:lang="de" type="auto">Es ist gewiß, das die statt mit verreterey erobert<note xml:id="fn6" type="footnote" n="6">Zwei Überläufer hatten den Angreifern den Weg gewiesen, s. ebd., S. 141.</note>; wie und was, kan ich neit eygentlich schrieben.</s>
+					<s n="9" xml:lang="de" type="auto">Die dair inne gesyen, synt alle umkhommen, und synt etliche ußkommen, moessen sich gar heymlich halten.</s>
+					<s n="10" xml:lang="de" type="auto">Man duldet sie nyrgent.</s>
+					<s n="11" xml:lang="de" type="auto">Men spricht, ir verfoerer, <persName>Stuten Bernt</persName>, sige dairvan khommen und noch ime leben.</s>
+					<s n="12" xml:lang="de" type="auto">Der bisschoff<note xml:id="fn8" type="footnote" n="8"><persName>Franz von Waldeck</persName>, Bischof von <placeName>Münster</placeName>.</note> hait ouch noch ime leben gefencklich <persName>Johan van Leye</persName>, den newen koninck, und <persName>Klypperdollinck</persName> den alten.</s>
+					<s n="13" xml:lang="de" type="auto">Was endes das sie nemen werden, ist lichtlich zo betrachten.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto"><pb type="edition" next="347"/>Ouch so ist eyn groesser tzoch itzt voirhanden thuschen den van <placeName>Lubeck</placeName> und dem hertzoch van Holtsteden.</s>
+					<s n="15" xml:lang="de" type="auto">Sulchen niddertzolagen synt vill forsten und stede in vlyssiger betrachtungh versamlet, als man sagt, zo <placeName>Koppenhagen</placeName><note xml:id="fn12" type="footnote" n="12">Eine solche Versammlung hat in der belagerten Stadt mit Sicherheit nicht stattgefunden. Im Juli und August tagte jedoch die Hanse in <placeName>Lüneburg</placeName> und <placeName>Lübeck</placeName>; vgl. <hi>Waitz,</hi> <placeName>Lübeck</placeName> III 3-61.</note>.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="de" type="auto">Unsere van <placeName>Cohen</placeName> halten sich noch allermaeß wie voir.</s>
+					<s n="17" xml:lang="de" type="auto">Got gebe, das theutsche nation widder zor eynongh im glauben und ceremonien khommen moge.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Der <persName>Adolphus</persName><note xml:id="fn13" type="footnote" n="13"><persName>Bitters</persName> bereits früher erwähnter Neffe <persName>Adolf</persName> ist nicht näher bekannt, vgl. <bibl>HBBW</bibl> II <ref target="file10151">[Nr. 120]</ref>, S. 175, 17f mit Anm. 20.</note>, myn bewanter<note xml:id="fn14" type="footnote" n="14">verwandter (<bibl>Grimm</bibl> I 1767).</note> freundt, wonet zo <placeName>Wittenbergh</placeName>, haet eyn hueßf[raw]<note xml:id="fn15" type="footnote" n="15">Unbekannt.</note> und gehet im wohl, hie<note xml:id="fn16" type="footnote" n="16">er.</note> hait mich gebetten, dyr synent wegen gesontheit zo wunschen.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Hy mit dem almechtigen befohlen.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Datum zo <placeName>Cohen</placeName>, altera septembris anno 35.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><persName>Theodericus Bitter Wipperfordensis</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="22" xml:lang="de" type="auto">Dem eirsamen und wolgeleirthen Meister Heinrichen Bullinger, meinem geliebten freundt, zo handen.</s>
+					<s n="23" xml:lang="de" type="auto">Gen Zuͤrich.</s>
+					<s n="24" xml:lang="de" type="auto">Gebdt dussen brieb <persName ref="p5295">Christophoro Froschouer</persName>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

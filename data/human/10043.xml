@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10043" type="Brief" source="HBBW" n="18">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Kappel am Albis AN [Leo Jud], 11. Mai 1526</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p2305">Leoni</persName> suo gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Ita zelo dei, frater mi, adversus sanguinarium Fabrum suique similes lugurthas excandeo<note xml:id="fn5" type="footnote" n="5">Eigentlich excandesco: ergrimmen, in Jähzorn geraten.</note>, ut ipse mihi temperare non potuerim, quin haec pauca moneremus, nempe ut legas <persName>Ambrosii</persName> 2. lib. offitiorum cap. 28 et <persName>Lactantium</persName> in 6, «De vero cultu» cap. 25<note xml:id="fn7" type="footnote" n="7"><persName>Laktanz</persName>, Divinae institutiones, lib. VI: «De vero cultu», 25 (<bibl>CSEL</bibl> XIX 577-580).</note>; sic, ut ex ipsis patribus Thrasonis<note xml:id="fn8" type="footnote" n="8">Thraso ist der Name des prahlerischen Soldaten im Eunuchus des <persName>Terenz</persName>, s. <bibl>Adagia</bibl>, prolegomena (<bibl>LB</bibl> II 13 B).</note> profligetur impietas, qua<pb type="edition" next="116"/> impulsus pauperibus detrahit, harpigiis<note xml:id="fn9" type="footnote" n="9">harpigium, Nebenform zu harpago.</note> vero papisticis convehit et insontes sacrilegii accusat, scilicet quod ecclesiam dei, hoc est larvas, ficulneos, lamias, lemures et lares spoliaverint.</s>
+					<s n="3" xml:lang="la" type="auto">Etsi non ignorem fortiorem esse scripturae authoritatem, quae stat a partibus nostris, attamen ardor hic nescio quis compulit, ut Minervam sus monerem.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vale.</s>
+					<s n="5" xml:lang="la" type="auto">Salutabis mihi <persName>Zuinglium</persName><note xml:id="fn12" type="footnote" n="12">Siehe oben S. 67, Anm. 6.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto"><placeName>Cappellae</placeName>, 11. maii in 1526.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12657" type="Brief" source="HBBW" n="2610">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] AN Heinrich Bullinger, [6. Oktober 1546]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Sonders vertrauwter, lieber herr und bruͦder, ich wolt ge[rn], es stiesse mir offter bottschafft zuͦ euch an die hand<note xml:id="fn2" type="footnote" n="2">es stiesse mir offter bottschafft zu euch an die hand: ich hätte öfter einen Boten zur Verfügung, der sich zu euch begäbe.</note>, dam[itt] ich allweg gleich, was ich hette, euch zuͦschicken köndt!<pb type="edition" next="80"/></s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="de" type="auto">Des Curionis<note xml:id="fn3" type="footnote" n="3"><persName>Konrad Hofherr</persName>. - <persName>Blarer</persName> hatte Hofherr Ende Juli 1546 aus <placeName>Zürich</placeName> zurückgerufen und Bullinger wie auch <persName>Bibliander</persName> um die vorläufige Begleichung von dessen Schulden gebeten; s. <bibl>HBBW</bibl> XVII 238f.</note> und der sechs guldin halb hab ich by im erfragt.</s>
+					<s n="3" xml:lang="de" type="auto">Sagt er, wie sein schwager<note xml:id="fn4" type="footnote" n="4">Unbekannt. In <ref target="file12763">Nr. 2716</ref>,29, wird er als "Fridle" bezeichnet.</note> die bezalen werde und uff hütt oder morgen her schicken, darum er dann selbs ouch dem Mefuͦß schreiben will.</s>
+					<s n="4" xml:lang="de" type="auto">Beschicht es nitt, lasst michs wissen.</s>
+					<s n="5" xml:lang="de" type="auto">Will ich selbs sechen, das er<note xml:id="fn6" type="footnote" n="6"><persName>Meefuss</persName>.</note> zalt werd.</s>
+					<s n="6" xml:lang="de" type="auto">Er<note xml:id="fn7" type="footnote" n="7"><persName>Hofherr</persName>.</note> hat das gellt seinem schwager zuͦ Bichoffszell<note xml:id="fn8" type="footnote" n="8">Kt. Thurgau. - <persName>Hofherr</persName> war in <placeName>Bischofszell</placeName> im Zeitraum von 1542 bis Ende 1544/Anfang 1545 für mehr als zwei Jahre als Lehrer tätig gewesen; s. <bibl>HBBW</bibl> XV 132, Anm 1.</note> entlechnet.<note xml:id="fn9" type="footnote" n="9">geliehen.</note></s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="7" xml:lang="de" type="auto">Des uffgehaltnen botten<note xml:id="fn10" type="footnote" n="10"><persName>Konrad Schweri</persName>; s. Bullingers Bericht in <ref target="file12653">Nr. 2606</ref>,40f. 75f.</note> halber wissen die von <placeName>Memmingen</placeName> wol, wie sich die sach hellt.</s>
+					<s n="8" xml:lang="de" type="auto">Dann der stattschreiber von <placeName>Memmingen</placeName><note xml:id="fn11" type="footnote" n="11"><persName>Georg Maurer</persName>.</note> ist diser zeyt hie.</s>
+					<s n="9" xml:lang="de" type="auto">Hat mir alles anzoͤgt.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="10" xml:lang="de" type="auto">So schick ich euch hiemitt des Leti<note xml:id="fn12" type="footnote" n="12"><persName>Georg Frölich</persName>.</note> jungst schreiben<note xml:id="fn13" type="footnote" n="13">Nicht in <hi><persName>Blarer</persName> BW.</hi></note>, darusß ir bericht werden, wie es domals gestanden.</s>
+					<s n="11" xml:lang="de" type="auto">Was yetzund weyter verloffen, gewarten wir all stund zuͦ vernemmen.</s>
+					<s n="12" xml:lang="de" type="auto">Den brieff aber schicken mir wider; dann<note xml:id="fn14" type="footnote" n="14">denn.</note> ichs alles zuͦsamen behalt usß ursachen.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="13" xml:lang="de" type="auto">Das ir mir dann schreibt von ursachen, darum unser sach nitt fort geht,<note xml:id="fn15" type="footnote" n="15">Siehe dazu <ref target="file12653">Nr. 2606</ref>,6-14.</note> byn ich gar ains mitt euch, und angstet mich gar nach<note xml:id="fn16" type="footnote" n="16">beinahe; s. <bibl>SI</bibl> IV 636.</note> gleych so hertzlich uff den syg als uff das niderligen<note xml:id="fn17" type="footnote" n="17">Niederlage.</note>, wiewol es danecht<note xml:id="fn18" type="footnote" n="18">dennoch.</note> ain grossen underschid hat.</s>
+					<s n="14" xml:lang="la" type="auto">Scis, cur <persName>Nasica</persName><note xml:id="fn19" type="footnote" n="19"><persName>Publius Cornelius Scipio Nasica Corculum</persName> war ein römischer Politiker, der als Gegner <persName>Catos</persName> gegen die Zerstörung <placeName>Karthagos</placeName> (146 y. Chr.) opponierte.</note> Carthaginem expugnatam noluerit et quam oscitantiam pariat securitas.</s>
+					<s n="15" xml:lang="de" type="auto">Was dann die unseren selbs underainander anfachen werdind, sich<note xml:id="fn20" type="footnote" n="20">sehe.</note> ich vor meinen augen in zeytlichen und der religion sachen, und mag mich mitt dem gedanken nitt gern kümmern, diewyl ichs damitt nitt wenden mag.<note xml:id="fn21" type="footnote" n="21">Anspielung auf Bullingers Angst vor weiteren innerprotestantischen Auseinandersetzungen; s. <ref target="file12653">Nr. 2606</ref>,15-27.</note></s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="16" xml:lang="de" type="auto">Von dem <persName>Thoma Naogeorgo</persName><note xml:id="fn22" type="footnote" n="22">Zu <persName>Naogeorg</persName> s. Bullingers Bericht in <ref target="file12653">Nr. 2606</ref>,15-27.</note> bin ich vor ettlichen wochen bericht worden<note xml:id="fn23" type="footnote" n="23">Am 11. September hatte <persName>Frölich</persName> <persName>Blarer</persName> über die Ankunft <persName>Naogeorgs</persName> in Augsburg informiert <hi>(<persName>Blarer</persName> BW</hi> II 506f, <ref target="file11388">Nr. 1345</ref>).</note> und die articul<note xml:id="fn24" type="footnote" n="24">Zu diesen Glaubensartikeln <persName>Naogeorgs</persName> s. <bibl>HBBW</bibl> XVII 488,64-66 mit Anm. 44. - <persName>Blarer</persName> wird sie (wie Bullinger) von <persName>Frölich</persName> erhalten haben.</note> empfangen, die im der churfurst<note xml:id="fn25" type="footnote" n="25"><persName>Johann Friedrich I. von Sachsen</persName>.</note>, das er sy gelehrt hab, zuͦgemessen<note xml:id="fn26" type="footnote" n="26">vorgeworfen.</note> hat.</s>
+					<s n="17" xml:lang="de" type="auto">Hab euch davon nichts schreiben wellen noch damitt bekümmeren, wie ich dann deren ding vyl mehr waiß und teglich erfar, dann <pb type="edition" next="81"/> mir lieb ist, und gar ungern wellt, das es vyl ander leut ouch wissten.</s>
+					<s n="18" xml:lang="de" type="auto">Gott wells mitt gnaden verhuͤten, das mans nitt nun noch ze fruͤ innen werde!<note xml:id="fn27" type="footnote" n="27">innen werde: erfahre; s. <bibl>SI</bibl> I 293.</note></s>
+					<s n="19" xml:lang="de" type="auto">Ach gott, sollten wir gar herren im land<note xml:id="fn28" type="footnote" n="28">Deutschland.</note> werden unnd kain widerstand mehr haben, wie wurde es unß so übel gehn!</s>
+					<s n="20" xml:lang="de" type="auto">Wir wellen unß doch<note xml:id="fn29" type="footnote" n="29">sogar; vgl. <bibl>SI</bibl> XII 214.</note> in solicher truͤbseligen zeyt nitt in gottes gefallen richten!</s>
+					<s n="21" xml:lang="de" type="auto">Wie sollts erst gehn, so wir nieman mehr entsitzen<note xml:id="fn30" type="footnote" n="30">fürchten. - Wie Bullinger also befürchtete <persName>Blarer</persName> noch schlimmere innerprotestantische Auseinandersetzungen; s. oben Anm. 21.</note> muͤssten?</s>
+					<s n="22" xml:lang="de" type="auto">Gott hellff unß!</s>
+					<s n="23" xml:lang="de" type="auto">Es ist angst und not zur rechten und lincken syten.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="24" xml:lang="la" type="auto">De mathematicis et ipsorum iudiciis idem, quod tu, sentio.<note xml:id="fn31" type="footnote" n="31">In Bezug auf <ref target="file12653">Nr. 2606</ref>,28-30.</note></s>
+					<s n="25" xml:lang="la" type="auto">Probo tamen sollicitum ac nostrorum studiosissimum animum <persName>Iacobi Ruͦffi</persName><note xml:id="fn32" type="footnote" n="32">Der in Zürich wirkende Arzt <persName>Jakob Ruf</persName>.</note> nostri, qui proxime diligenter ad me de cęli facie scripsit.</s>
+					<s n="26" xml:lang="la" type="auto">Sed nos dominum cęli venerabimur illique uni accepta feremus omnia, qui omnia ad nostram salutem moderabitur.<note xml:id="fn34" type="footnote" n="34">Vgl. Röm 8, 28.</note></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="27" xml:lang="de" type="auto"><pb type="scan" next="616"/>Von <placeName>Burgund</placeName> hab ich wol gehoͤrt, das es vorhanden,<note xml:id="fn35" type="footnote" n="35"><persName>Blarer</persName> denkt an die Absicht der <placeName>Berner</placeName>, ins <placeName>Burgund</placeName> einzufallen; s. <ref target="file12653">Nr. 2606</ref>,50- 55.</note> aber warlich nitt gewisst, das es im pundt mitt euch ist.<note xml:id="fn36" type="footnote" n="36">Siehe dazu <ref target="file12653">Nr. 2606</ref>, Anm. 56.</note></s>
+					<s n="28" xml:lang="de" type="manual">Es wurde ja gewisß ain sach, die gar nichts soͤllte<note xml:id="fn37" type="footnote" n="37">nichts söllte: nichts taugen würde; s. <bibl>SI</bibl> VII 771.</note>, und ain boͤß geschray machen, zuͦ dem das kain gluck daby sein wurde.</s>
+					<s n="29" xml:lang="de" type="auto">Darin were<note xml:id="fn38" type="footnote" n="38">wehre.</note>, wer moͤg, und thuͤ das best; es solte nichts!</s>
+					<s n="30" xml:lang="de" type="auto">Man verstigt<note xml:id="fn39" type="footnote" n="39">versteigt.</note> sich gar bald in denen dingen, das<note xml:id="fn40" type="footnote" n="40">so dass.</note> gott erzurnt wirt.<note xml:id="fn41" type="footnote" n="41">Siehe dazu auch <persName>Blarers</persName> Brief vom 10. Oktober; <ref target="file12665">Nr. 2618</ref>,31-33.</note></s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="31" xml:lang="de" type="auto">Ewer Aidgnossen halber kan ich euch nitt bergen, das ain guͦter burger von hinnen<note xml:id="fn42" type="footnote" n="42">Wohl <persName>Konrad Zwick</persName>, der nach <placeName>Füssen</placeName> entsandt worden war; s. zuletzt <ref target="file12653">Nr. 2606</ref>,63-67, sowie <ref target="file12665">Nr. 2618</ref>,12-23.</note>, der ain guͦter Aidgnosß ist und ouch yetzund by ynen, her <pb type="edition" next="82"/> schreibt ainem vertrauwten freund allso: „Die Aidgnossen sind so unfletig worden.</s>
+					<s n="32" xml:lang="de" type="auto">Schlachend ainander zuͦ tod und die hend ab.</s>
+					<s n="33" xml:lang="de" type="auto">Habend ir guͦt lob gar verloren.</s>
+					<s n="34" xml:lang="de" type="auto">Zalend nitt allain nitt, was sy schuldig sind, sonder nemmend iren vyl<note xml:id="fn44" type="footnote" n="44">iren vyl: viel von ihnen.</note>, was an sy kompt.</s>
+					<s n="35" xml:lang="de" type="auto">Habend ain gar boͤß regiment under ainander.</s>
+					<s n="36" xml:lang="de" type="auto">Seind neun vendlin und aber under ainem kum 200, etc.</s>
+					<s n="37" xml:lang="de" type="auto">Gestert hat man sy gemustert.</s>
+					<s n="38" xml:lang="de" type="auto">Habend sich der Plum von <placeName>Sankt Gallen</placeName> und noch ainer sich so unutz gemacht über die massen, das die commissarien inen uff hutt habend urlob geben.</s>
+					<s n="39" xml:lang="de" type="auto">Nitt waiß ich, ob die andern selbs blyben werden oder nitt.</s>
+					<s n="40" xml:lang="de" type="auto">Sy wellend nitt under unserm regiment sin, sonder ain aignen oberesten<note xml:id="fn48" type="footnote" n="48">Oberst.</note> haben.</s>
+					<s n="41" xml:lang="de" type="auto">Das wellen aber unsere hessische und landgraͤfische commissarien nitt thain<note xml:id="fn49" type="footnote" n="49">tun.</note>“, etc.</s>
+					<s n="42" xml:lang="la" type="auto">Hęc ille.</s>
+					<s n="43" xml:lang="de" type="auto">Haltend mirs zuͦ guͦt.<note xml:id="fn50" type="footnote" n="50">Haltend mirs zu gut: Seid mir deswegen nicht böse.</note></s>
+					<s n="44" xml:lang="de" type="auto">Waiß wol, das ir mir hierin nichts verargt.<note xml:id="fn51" type="footnote" n="51">mir nichts verargt: mir es nicht übel nehmt.</note></s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="45" xml:lang="de" type="auto">Das die von <placeName>Bern</placeName> der ewern begern,<note xml:id="fn52" type="footnote" n="52">Die <placeName>Berner</placeName> hatten die Zürcher um die Entsendung des Pfarrers <persName>Jodocus Kilchmeyer</persName> gebeten: s. <ref target="file12653">Nr. 2606</ref>,56-59.</note> ist treffelich guͦt, und daran sollt ir billich nichts sparen, wie ubel<note xml:id="fn53" type="footnote" n="53">belastend.</note> es euch komen moͤchte, damitt ir aller ding verglychen<note xml:id="fn54" type="footnote" n="54">aller ding verglychen: in allen Angelegenheiten euch verständigt.</note> und ainig wurden in der lehr.</s>
+					<s n="46" xml:lang="de" type="auto">Es ist ungloͤplich, was mitt der zyt fuͤr nachtail daruß erwachsen.<note xml:id="fn55" type="footnote" n="55"><persName>Blarer</persName> denkt an die Auseinandersetzungen zwischen den lutherisch und den zwinglianisch Gesinnten in <placeName>Bern</placeName>.</note></s>
+					<s n="47" xml:lang="de" type="auto">Wellt, das ir selbs ain zytle<note xml:id="fn56" type="footnote" n="56">Zeitlang.</note> zuͦ <placeName>Bern</placeName> weren, byß sich alles abesse!<note xml:id="fn57" type="footnote" n="57">byß sich alles abesse: bis alles aufhört; bis sich alles von selbst auflöst; s. <bibl>Fischer</bibl> I, 22; <bibl>SI</bibl> I 5250.</note><pb type="edition" next="83"/></s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="48" xml:lang="de" type="auto">Es ist doctor Schrotysen<note xml:id="fn58" type="footnote" n="58"><persName>Lukas Schrotteisen</persName>, Rechtsbeistand Herzog Christophs von Württemberg; s. <hi>Heyd, Ulrich von Württ.</hi> III 501f.</note> von Mympelgart, der by hertzog Christoff von Wirtemberg ist, hie gewesen.</s>
+					<s n="49" xml:lang="de" type="auto">Mitt dem hab ich allerlay ouch gereddt.</s>
+					<s n="50" xml:lang="de" type="auto">Sagt, das der hertzog <persName ref="p5703">Christoph</persName> yetzund by dem Frantzosen<note xml:id="fn59" type="footnote" n="59"><persName>König Franz I.</persName></note> seye, der sich vyl guͦts gegen den unsern empotten hab und gern welle 2000 reuter schicken, so man welle, wie ir dann gellts halb<note xml:id="fn60" type="footnote" n="60">gehts halb: was das Geld [<persName>Piero Strozzis</persName>] betrifft; s. <ref target="file12659">Nr. 2612</ref>, Anm. 73.</note> in Lęti litteris<note xml:id="fn61" type="footnote" n="61">Im oben Z. 12-15 erwähnten Brief <persName>Frölichs</persName>.</note> ouch vernemmen werden.<note xml:id="fn62" type="footnote" n="62">Zu den Verhandlungen mit <placeName>Frankreich</placeName> s. <ref target="file12654">Nr. 2607</ref>, Anm. 36.</note></s>
+				</p>
+			</div>
+			<div xml:id="div12" corresp="regest12">
+				<p>
+					<s n="51" xml:lang="de" type="auto">Gott welle, seye es nitt wider inn gebetten, das des kaiser Carlis<note xml:id="fn63" type="footnote" n="63"><persName>Karl V.</persName></note> fatum sich allso finde, wie ir schreibt, und ewer prophecey war werde!<note xml:id="fn64" type="footnote" n="64">Siehe dazu <ref target="file12653">Nr. 2606</ref>,73f.</note></s>
+					<s n="52" xml:lang="de" type="auto">Der herr gott wirts wol guͦt machen.</s>
+					<s n="53" xml:lang="de" type="auto">Waͤren wir nun<note xml:id="fn65" type="footnote" n="65">nur.</note> ouch guͦt, wurde allen sachen bald geholffen.</s>
+				</p>
+			</div>
+			<div xml:id="div13" corresp="regest13">
+				<p>
+					<s n="54" xml:lang="de" type="auto">Ich hab copey des kaisers schreiben an die V ort<note xml:id="fn66" type="footnote" n="66">Der Brief des Kaisers an die Neun (nicht Fünf) Orte vom 27. August; s. <ref target="file12653">Nr. 2606</ref>, Anm. 90.</note> gelesen.</s>
+					<s n="55" xml:lang="de" type="auto">Es sollt ainer wild werden, das dise herren<note xml:id="fn67" type="footnote" n="67">Die Magistrate der katholischen Orte; vgl. <ref target="file12659">Nr. 2612</ref>,220-223.</note>, um das sy gwaltig<note xml:id="fn68" type="footnote" n="68">politisch einflussreich; s. <bibl>SI</bibl> XV 1644.</note> sind, mitt gwalt gsechende ougen blind und hörende oren toub machen wellend,<note xml:id="fn69" type="footnote" n="69">Vgl. z.B. Mt 13, 141.</note> die luͤge so unverschampt fuͤrgeben dorffen.</s>
+				</p>
+			</div>
+			<div xml:id="div14" corresp="regest14">
+				<p>
+					<s n="56" xml:lang="de" type="auto">Ich muͦß uffhoͤren.</s>
+					<s n="57" xml:lang="de" type="auto">Yetz kompt unversechen diser bott.<note xml:id="fn70" type="footnote" n="70">Unbekannt.</note></s>
+					<s n="58" xml:lang="la" type="manual"><foreign xml:lang="de">Datum mittwoch</foreign> hora 3. post meridiem.</s>
+				</p>
+			</div>
+			<div xml:id="div15" corresp="regest15">
+				<p>
+					<s n="59" xml:lang="de" type="auto"><persName>Conrat Zwick</persName> ist noch nitt kommen.<note xml:id="fn71" type="footnote" n="71"><persName>Zwick</persName> kam erst am späten Abend des 9. Oktober aus <placeName>Füssen</placeName> zurück; s. <ref target="file12665">Nr. 2618</ref>,12.</note></s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+				<p>
+					<note type="address">[Adresse auf S. 616b]</note>
+					<s n="60" xml:lang="de" type="auto">An meister Heinrich Bullinger zuͦ Zuͤrich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

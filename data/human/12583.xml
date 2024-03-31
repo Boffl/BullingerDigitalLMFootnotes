@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12583" type="Brief" source="TUSTEP" n="2536">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Camillo Renato / [Chiavenna] AN Heinrich Bullinger, 15. August 1546</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto"><persName>Camillus Renatus</persName> Henrico Bullingero S. P. D. a domino.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="2" xml:lang="la" type="auto">Postremas literas tuas mihi sane iucundissimas accepi, optime Henrice, ex quibus, quid sententię vobis plane sit de ratione cęnę dominicę, cognovi.</s>
+					<s n="3" xml:lang="la" type="auto">Nihil est, quod ego ad te de eadem re sępius scribam, ne tibi aliquando videamur vel molesti vel nimium morosi.</s>
+					<s n="4" xml:lang="la" type="auto">Nos interim optamus atque idem a deo per d[ominum] n[ostrum] I[esum] Christum comprecamur, ut omnibus, pręsertim verbi sui ministris, quantum sat est, mentem ad disciplinam Christianam tribuat.</s>
+					<s n="5" xml:lang="la" type="auto">Illud enim animo cuiusque observari debet semper; ne quid nimis.</s>
+					<s n="6" xml:lang="la" type="auto">Ubi fines aut lineam transimus quacunque in re, peccatum sit, oportet.</s>
+					<s n="7" xml:lang="la" type="auto">Nisi verbi dei lineam <persName ref="p4474">Adamus</persName>, ille omnium ut hominum, ita malorum parens, emigrasset, nos profecto ad rem divinam non tantum laboraremus.</s>
+					<s n="8" xml:lang="la" type="auto">Itaque contenti simus eoque animum intendamus, ut nihil, quod nobis arrideat, quod in libro vitae nusquam reperias, populo obtrudamus vel mandemus libris.</s>
+					<s n="9" xml:lang="la" type="auto">Periculum enim est fore, ut (quod vanum sit et nullum) in rebus divinis per nos posteritati negotium sit.</s>
+					<s n="10" xml:lang="la" type="auto">Exemplo sunt <persName>Augustini</persName>, <persName>Ambrosii</persName>, <persName>Hieronymi</persName> Gregoriique, qui vel mortui nos vexant.</s>
+					<s n="11" xml:lang="la" type="auto">Multi loquimur, multi scribimus, arbitrati nos vel voce scripto plurimum adiuturos rem Christianam atque posteris relicturos, unde suam semper ipsi pietatem tueri ac alere et antichristi iniuriam devitare possint.</s>
+					<s n="12" xml:lang="la" type="auto">Utinam, quod maxime optamus, tandem consequamur, idque in gloriam dei, patris nostri, et domini nostri I[esu] Christi cedat triumphum.</s>
+					<s n="13" xml:lang="la" type="manual">Amen.</s>
+					<s n="14" xml:lang="la" type="auto">Rectum est, id ego ut scribam, non ut deterream; ex veterum scriptis maximam plagam accepimus necdum sanabilem; omitto recentiores, quos nosti.</s>
+					<s n="15" xml:lang="la" type="auto">De his hactenus.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Quid novi, quid consilii, quid spei habeas in tanta rerum, quę nunc sunt, tumultu, certiores nos facias, magnopere rogamus.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName>Tridenti</placeName> adhuc concilium Romanorum episcoporum immoratur utinam, si deo placet, immoriatur! at deus eorum spiritum, in quo se congregatos iactitant, aperit.</s>
+					<s n="18" xml:lang="la" type="auto">Gallus enim quidam episcopus inter disputandum (ut amici ad nos scribunt) alium pugnis episcopum cognomine Grechettum, Franciscanum, pessime tractavit;<note xml:id="fn3" type="footnote" n="3">Zum handfesten Streit des Bischofs von Cava de' Tirreni, <persName>Giovan Tommaso Sanfelice</persName>, mit Dionisio de' Zanettini, gen. "il Grechetto", am 17. Juli vgl. (u.a.) <bibl>CT</bibl> V, <ref target="file10178">Nr. 147</ref>; <hi>Jedin,</hi> Geschichte II 160-162.</note> opera plane spirituum papisticorum.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="19" xml:lang="la" type="auto">Quod reliquum est, has literas ad Cęlium <persName ref="p7454">Secundum</persName><note xml:id="fn4" type="footnote" n="4"><persName>Celio Secondo Curione</persName>.</note> perferri Lusannam curato, teque id facturum diligenter spero.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="20" xml:lang="la" type="auto">Salutes nobis Tigurinam ecclesiam in domino.</s>
+					<s n="21" xml:lang="la" type="auto">Hinc omnes inprimisque d. <persName ref="p7309">Augustinus Mainardus</persName>, <placeName>Clavennensis</placeName> ecclesię minister, vos salutant idque in domino.</s>
+					<s n="22" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">15. augusti 1546.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="24" xml:lang="la" type="auto">Eggregio verbi dei ministro d. Henrico Bullingero, suo fratri in domino plurimum observando.</s>
+					<s n="25" xml:lang="la" type="auto">Tiguri.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

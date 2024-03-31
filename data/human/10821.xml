@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10821" type="Brief" source="HBBW" n="782">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ulrich Wirz / [Aarau] AN Heinrich Bullinger, 2. April 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Huldrichus Wirtius Heinricho Bullingero suo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Benevolentiam ac pacem a domino Iesu Christo etc.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Nisi humanitas illa tua prope inexhausta, qua universos ad te allicis et complectaris, mihi cognita expertaque foret, nequaquam hanc ad te doctissimum profecto virum scribendi provinciam desumpsissem, sed meae vel inertiae vel imperitiae conscius in propria potius pelle quievissem<note xml:id="fn2" type="footnote" n="2">hätte ich das mir gesetzte Maß nicht überschritten (vgl. <bibl>Otto</bibl> 272, Nr. 1376).</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Caeterum, quandoquidem ita me omni humanitatis genere, cum istic essem<note xml:id="fn3" type="footnote" n="3">Über den Besuch von <persName>Ulrich Wirz</persName> in Zürich ist sonst nichts bekannt.</note>, prosequutus es, ut me non solum comiter salutaveris, sed lautissimo etiam exceperis convivio.</s>
+					<s n="5" xml:lang="la" type="auto">Denique in neptis meae negotio haud te rogari passus es, sed ultro studium tuum, operam, diligentiam et obtulisti et praestitisti.</s>
+					<s n="6" xml:lang="la" type="auto">Ubi palam demonstrasti te non illius esse farinae<note xml:id="fn5" type="footnote" n="5">nicht einer von jener Art zu sein; vgl. <bibl>Adagia</bibl>, 3, 5, 44 (<bibl>LB</bibl> II 839).</note>, qui iis potissimum succurrunt, qui donare<pb type="edition" next="208"/> maxime possunt - quos <persName>Plinius</persName> in quadam epistola<note xml:id="fn6" type="footnote" n="6">Plinius, Epist. 9, 30, 2.</note> "viscatis hamatisque muneribus non sua promere" putat, "sed aliena corripere" -, siquidem tu nullis hactenus a me provocatus officiis tam prompto in me atque meos fuisti animo, ut beneficium accepisse videaris, quum pręstiteris.</s>
+					<s n="7" xml:lang="la" type="auto">Quam quidem humanitatem tuam in me qua, quaeso, fronte silentio praeterire ac non agnoscere possem?</s>
+					<s n="8" xml:lang="la" type="auto">Cogitans itaque nihil tam ingrati esse animi quam dissimulare, quod debeas, cum persolvere nequeas, decrevi has qualescunque literas ad te scribere, quibus sensum meum conscientiamque testarer adversus te.</s>
+					<s n="9" xml:lang="la" type="auto">Et quanquam si mihi tecum dandae referendaeque gratiae certamen instaret, continuo scilicet manus dedissem tibi, utpote in cuius etiam aedibus ipsae habitant gratiae.</s>
+					<s n="10" xml:lang="la" type="auto">Sed quoniam major tu quidem es, quam quo nostri aspirare conatus queant, velut imaginariis te quibusdam officiis pro re, pro copia remuneramur, bene videlicet sentiendo loquendoque de te, favendo tibi omniaque bona cupiendo tibi.</s>
+					<s n="11" xml:lang="la" type="auto">Quodsi officia officiis dumtaxat ac non voluntate potius animoque pensantur, fateor solvendo non sum.</s>
+					<s n="12" xml:lang="la" type="auto">Sin etiam, cum habetur gratia, in eo ipso, quod habetur, refertur, non vereor, quin sim, quae debeo, saltem animo ipso persoluturus.</s>
+					<s n="13" xml:lang="la" type="auto">Qui quoniam tibi totus humanitatis tuae merito debetur, totum iam nunc eum tibi addico ea lege, ut nunquam manu mittatur.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto">Ad nostram inter nos agitatam rem nunc demum venio, de qua profecto miror, qui fiat, ut de ea nulla prorsus amplius fiat mentio.</s>
+					<s n="15" xml:lang="la" type="auto">Num irata Iunone<note xml:id="fn7" type="footnote" n="7">Vgl. Adagia, 1, 1, 72 (<bibl>LB</bibl> II 55f).</note> sit auspicata, vel quicquid aliud est, scire laboro.</s>
+					<s n="16" xml:lang="la" type="auto">Nam consul tuus<note xml:id="fn8" type="footnote" n="8"><persName>Heinrich Walder</persName>.</note> si eo adhuc animo est, quo fuit ante, omnino maturandum censeo.</s>
+					<s n="17" xml:lang="la" type="auto">Quid enim baro ille <placeName>Bernensis</placeName> <persName>Stürler</persName><note xml:id="fn9" type="footnote" n="9">Gemeint ist wohl <persName>Peter Stürler</persName>. Inwiefern er in die Angelegenheit verwickelt war, ist nicht bekannt.</note> moliatur, incertum.</s>
+					<s n="18" xml:lang="la" type="auto">Ipse certe vereor, ne aliquid alat monstri<note xml:id="fn10" type="footnote" n="10">Zur Redensart vgl. <bibl>Adagia</bibl>, 2, 4, 98 (<bibl>LB</bibl> II 551).</note></s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Vale meque, ut cępisti, amare perge.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Datum 2. apprilis anno 1536.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="21" xml:lang="la" type="auto">Vigilantissimo Tigurinorum pastori et ecclesiaste Heinricho Bullingero, domino meo suspiciendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

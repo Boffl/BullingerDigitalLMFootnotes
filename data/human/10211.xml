@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10211" type="Brief" source="HBBW" n="180">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 23. Januar [1533]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="de" type="auto">Lieber bruͦder Heinrich.</s>
+					<s n="3" xml:lang="de" type="auto">Es hett mir zuͦgschriben<note xml:id="fn2" type="footnote" n="2">Der Brief ist nicht erhalten.</note> venner <persName>Hanß Hugi</persName> von <placeName>Soloturn</placeName> ich sölle verhelfen, so verr möglich, das <persName>Paulus Rasdorffer</persName> mitt Zeiger diss brieffs<note xml:id="fn4" type="footnote" n="4">Der Überbringer ist unbekannt.</note> gen Dornegg<note xml:id="fn5" type="footnote" n="5"><placeName>Dorneck</placeName> (Kt. <placeName>Solothurn</placeName>).</note> uff das schlosß keren welle; der<note xml:id="fn6" type="footnote" n="6">Gemeint ist offenbar der Vogt von <placeName>Dorneck</placeName>, s. unten Anm. 11.</note> habe in siner vogty ettlich pfarren, so noch nitt versähen<note xml:id="fn7" type="footnote" n="7">Pfarreien, die noch nicht besetzt, bzw. (mit Pfarrern) versorgt sind.</note>, und so <persName>Paulo</persName> gefellig, begärend sy inn also in irem biett ze versähen<note xml:id="fn8" type="footnote" n="8"><persName>Haller</persName> hatte davon bereits am 14. Dezember 1532 berichtet, s. <bibl>HBBW</bibl> II 283, 11-15.</note>.</s>
+					<s n="4" xml:lang="de" type="auto">Dann die von <placeName>Soloturn</placeName> habend ob 35 pfarren, sind nitt über 12, da man meer<note xml:id="fn9" type="footnote" n="9">noch, weiterhin (<bibl>SI</bibl> IV 367).</note> mess halte, und bedörfftind eins sömlichen<note xml:id="fn10" type="footnote" n="10">Zur kirchlichen Lage in <placeName>Solothurn</placeName> Anfang 1533 s. <hi>Haefliger</hi> 166-173.</note>.</s>
+					<s n="5" xml:lang="de" type="auto">Er hatt ouch mir zuͦgschriben, der vogt uff Dornegg werd imm<note xml:id="fn12" type="footnote" n="12"><persName>Rasdorfer</persName>.</note> die zerung abtragen<note xml:id="fn13" type="footnote" n="13">Reisekosten ersetzen (<bibl>SI</bibl> XIV 474).</note>.</s>
+					<s n="6" xml:lang="de" type="auto">Hab ich dir nitt wellen verhalten.</s>
+					<s n="7" xml:lang="de" type="auto">In unserm biet<note xml:id="fn14" type="footnote" n="14">Gemeint ist das bernische Gebiet.</note> ist noch nitt möglich, inn ze versähen, dann wir noch meer stat und land kind<note xml:id="fn15" type="footnote" n="15">Das heißt: Mehrere Kandidaten, die von Stadt und Land <placeName>Bern</placeName> stammen.</note> hend, aber so er möcht<note xml:id="fn16" type="footnote" n="16">könnte.</note> ein ingang<note xml:id="fn17" type="footnote" n="17">Zutritt, Anfang (<bibl>SI</bibl> II 343).</note> han, in <placeName>Soloturner</placeName> biet ze beliben, wär mir träffelich lieb, in hoffnung, wo die andren bruͤder ein sömlichen gehilfen hettind, wurde gottes handel träffelich fürdren.</s>
+					<s n="8" xml:lang="de" type="auto">Hiemitt bitt ich dich<pb type="edition" next="52"/> umm gots willen, schrib mir, und bi gwisser bottschafft<note xml:id="fn18" type="footnote" n="18">durch einen zuverlässigen Boten.</note>, wie es stande aller dingen halb.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Datum in II, 23. ianuarii.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Tuus Berch. H.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Er mag allein hinab keren und alle ding besichtigen.</s>
+					<s n="12" xml:lang="de" type="auto">Ich welte inn nitt gern verwysen<note xml:id="fn19" type="footnote" n="19">abweisen, wegschicken (<bibl>Grimm</bibl> XIII/I 2184-2186). - Zum weiteren Lebensweg <persName>Rasdorfers</persName> im Jahre 1533 s. unten S. 80, 8.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Si frustra ierit, expostulabo cum Solotur[ensibus].</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="14" xml:lang="de" type="auto">An den getrüwen Heinrich Bullinger, prędicanten ze Zürich.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

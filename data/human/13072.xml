@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13072" type="Brief" source="HBBW" n="3023">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] AN Heinrich Bullinger, 29. September 1547</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Es wirt von <placeName>Augspurg</placeName> her geschriben, das die frantzösisch bottschaft vom kaiser<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> gantz wol abgefertiget worden und mitt 1500 cronen verehret, darnach widerum uff <placeName>Basel</placeName> verrytten seye.</s>
+					<s n="2" xml:lang="de" type="auto">Lieber, macht kuntschafft daruff, ob doch alls<note xml:id="fn4" type="footnote" n="4">so; s. <bibl>SI</bibl> I 198.</note> guͦt ainikait zwyschen kaiser und Frantzosen seye, wie man fuͤrgibt.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="3" xml:lang="de" type="auto">Man schreibt ouch von <placeName>Augspurg</placeName>, das der kaiser uff Mönichen<note xml:id="fn5" type="footnote" n="5">München. - Siehe schon <ref target="file13066">Nr. 3017</ref>,<ptr target="qvzl17285-2" type="qv"/>. - Dass es dem Kaiser (wie hier erwähnt) vornehmlich um seine Gesundheit ging, ist in <bibl>RTA-JR</bibl> XVIII/1 821 (bei Anm. 1) bezeugt.</note> verritten seye under dem schein, alls ob er jagen welle.</s>
+					<s n="4" xml:lang="de" type="auto">Man habs aber darfuͤr<note xml:id="fn6" type="footnote" n="6">Man habs darfuͤr: Man ist der Meinung; s. <bibl>SI</bibl> II 883.</note>, das er kranckhait halber sich dahein hab fuͤren lassen, dann er seche gar kainem lebendigen menschen gleych: seye nichts dann <foreign xml:lang="la">vivum cadaver,<note xml:id="fn7" type="footnote" n="7">Vgl. <ref target="file12921">Nr. 2872</ref>,<ptr target="qvzl17139-6" type="qv"/>; <ref target="file12992">Nr. 2943</ref>,<ptr target="qvzl17208-7" type="qv"/>; <ref target="file13003">Nr. 2954</ref>,<ptr target="qvzl17220-12" type="qv"/>. <ptr target="qvzl17220-13" type="qv"/>.<ptr target="zfnfn17291-8" type="zfn"/></note></foreign> und die ärtzt<note xml:id="fn8" type="footnote" n="8">Die Namen der Ärzte Karls V. während des Schmalkaldischen Krieges und des <placeName>Augsburger</placeName> Reichstags 1547/48 sind verzeichnet bei <bibl><persName>Mameranus</persName>, Fam.</bibl> 21. An der Spitze stehen <persName>Cornelius Baersdorp</persName> und <persName>Andreas Vesalius</persName>.</note> gar an im verzagt; habind aber darfuͤr, besser sein, er sterbe zuͦ Myn-<pb type="edition" next="503"/>chen dann zuͦ <placeName>Augspurg</placeName>, us vyl ursachen, sonderlich aber, das es lenger möge verschwigen sein.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="5" xml:lang="de" type="auto">Die churfürsten all sollen kai[serlicher] m[ajesta]t die religionsach haimgestellt haben,<note xml:id="fn9" type="footnote" n="9">Siehe dazu schon <ref target="file13066">Nr. 3017</ref>, <ptr target="qvfn17285-3" type="qv"/>, und vgl. auch das Votenprotokoll des Kurfürstenrats in <bibl>RTA-JR</bibl> XVIII/1, bes. S. 376-378, unter dem 28. September.<ptr target="zfnfn17291-7" type="zfn"/></note> aussgenommen hertzog <persName>Morytz</persName>.</s>
+					<s n="6" xml:lang="de" type="auto">Der wells nitt thain.<note xml:id="fn11" type="footnote" n="11">tun.</note></s>
+					<s n="7" xml:lang="de" type="auto">Aber was daran seye, wyll ich in kurtzen tagen wol gewar werden.</s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="8" xml:lang="de" type="auto">So schribt mir mein schwager von <placeName>Esslingen</placeName>, das uff 19. septembers ob<note xml:id="fn13" type="footnote" n="13">mehr als.</note> 700 niderlendische pferdt durch <placeName>Esslingen</placeName> uff <placeName>Augspurg</placeName>, dessgleichen ain anderer hauff niderlendischer pferdt das Ramstal<note xml:id="fn14" type="footnote" n="14">Das <placeName>Remstal</placeName>, östlich von <placeName>Stuttgart</placeName>.</note> hinuff zogen seyen und noch ain hauff fuͤr<note xml:id="fn15" type="footnote" n="15">in Richtung.</note> Hall<note xml:id="fn16" type="footnote" n="16"><placeName>Schwäbisch Hall</placeName>.</note> und Dinckelspyel<note xml:id="fn17" type="footnote" n="17"><placeName>Dinkelsbühl</placeName>.</note>, all dem kaiser zuͦ.<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file13070">Nr. 3021</ref>,<ptr target="qvzl17289-5" type="qv"/> (einige tausend Pferde); <bibl>PC</bibl> IV/2 767, <ref target="file10708">Nr. 670</ref> (800 Pferde).<ptr target="zfnfn17291-3" type="zfn"/></note></s>
+					<s n="9" xml:lang="de" type="auto">Und seye fuͤr und fuͤr<note xml:id="fn19" type="footnote" n="19">fuͤr und fuͤr: immer wieder.</note> das geschray bey inen, der kaiser welle <placeName>Costentz</placeName> sampt den Schweytzern überziechen.</s>
+					<s n="10" xml:lang="de" type="auto">Das schreibt man unß ouch von andern orten.</s>
+					<s n="11" xml:lang="de" type="auto">Aber wir hoffend gentzlich zuͦ gott, es seye nichts daran.</s>
+					<s n="12" xml:lang="de" type="auto">Amen.</s>
+					<s n="13" xml:lang="de" type="auto">Amen!</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="14" xml:lang="de" type="auto">Es ist ettlichen auch hieher geschriben worden, das in Behem<note xml:id="fn20" type="footnote" n="20"><placeName>Böhmen</placeName>. - Vgl. <ref target="file13069">Nr. 3020</ref>,<ptr target="qvzl17288-6" type="qv"/>: Ein falsches Gerücht; s. <ref target="file13068">Nr. 3019</ref>, <ptr target="qvfn17287-1" type="qv"/>.</note> neuw uffruͦr seie, und der könig<note xml:id="fn21" type="footnote" n="21"><persName>Ferdinand I.</persName></note> alls grausam gehandelt, das der kaiser selbs ain treffelich missfallen darab gehapt und ime desshalb geschriben hab.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="15" xml:lang="de" type="auto">So hat mir B[ucerus] verruckter tag<note xml:id="fn22" type="footnote" n="22">verruckter tag: vor kurzem; s. <bibl>SI</bibl> VI 856.</note> von <placeName>Strassburg</placeName> geschriben<note xml:id="fn23" type="footnote" n="23"><persName>Bucers</persName> Brief ist nicht bekannt.</note>, es welle die sag sein und darfuͤr gehalten werden, der kaiser welle by inen winteren.<note xml:id="fn24" type="footnote" n="24">Vgl. die in <ref target="file13058">Nr. 3009</ref>, <ptr target="qvfn17276-1" type="qv"/>, angeführten Stellen.</note></s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="16" xml:lang="la" type="auto">Tuas<note xml:id="fn25" type="footnote" n="25">Bullingers Brief <ref target="file13063">Nr. 3014</ref> vom 16. September. - Siehe Weiteres dazu in <ref target="file13086">Nr. 3037</ref>,<ptr target="qvzl17306-1" type="qv"/>.</note>, de quibus mentionem facis in proximis literis<note xml:id="fn26" type="footnote" n="26">In Bullingers Brief <ref target="file13068">Nr. 3019</ref>,<ptr target="qvzl17287-4" type="qv"/>, vom 22. September.</note>, nondum accepi.</s>
+					<s n="17" xml:lang="la" type="auto">Quid Ioannem Gyslingerum remoretur, quominus reddat, plane ignoro, quamquam etiam, num istinc rursus redierit, nondum a quoquam accepi.<pb type="edition" next="504"/></s>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="18" xml:lang="la" type="auto"><placeName>Hispanus</placeName> ille<note xml:id="fn28" type="footnote" n="28">Der unbekannte Spanier, der durch Konstanz geritten war und den <persName>Jakob Zorn</persName> aufzuhalten versucht hatte; s. <ref target="file13063">Nr. 3014</ref>,<ptr target="qvzl17282-1" type="qv"/>; <ref target="file13068">Nr. 3019</ref>,<ptr target="qvzl17287-1" type="qv"/>.</note> adhuc in vincula coniectus detinetur.</s>
+					<s n="19" xml:lang="la" type="auto">Quid de illo futurum sit, nescio, nec audio extra audax istud facinus, quicquam morte dignum (quod fassus sit) designasse.</s>
+					<s n="20" xml:lang="la" type="auto">Quicquid vero hic peccavit, in temulentiam constantissime reiicit.</s>
+					<s n="21" xml:lang="la" type="auto"><persName>Iacobum Zornium</persName> accipio cum multis aliis accurrisse.</s>
+					<s n="22" xml:lang="la" type="auto">De singulari vero hominis strenuitate et digno gloria facto nihil audio, tametsi non valde diligenter, ut istuc rescirem, laboraverim.</s>
+					<s n="23" xml:lang="la" type="auto">Non invidebo autem bono <persName>Iacobo</persName> <ptr target="fnb" type="footnote" n="b"/>hanc fortitudinis laudem, si inermis Helvetius armatum <placeName>Hispanum</placeName> et equo incitatissimo vectum transversum rapere ausus est.</s>
+				</p>
+			</div>
+			<div xml:id="div9" corresp="regest9">
+				<p>
+					<s n="24" xml:lang="la" type="auto">Pro fragmentis illis ex prolixo, quem habemus, pasquino descriptis maximas tibi gratias agimus.</s>
+					<s n="25" xml:lang="la" type="auto">Vere facti sumus oprobrium vicinis nostris, subsannatio et illusio his, qui in circuitu nostro sunt.<note xml:id="fn30" type="footnote" n="30">Ps 79 (Vulg. 78), 4.</note></s>
+					<s n="26" xml:lang="la" type="auto">Sed ita meritum est nostrum, qui etiam verum et serium Christi evangelium pro ludo habuimus.</s>
+					<s n="27" xml:lang="la" type="auto">Dominus auferat a nobis mature resipiscentibus opprobrium nostrum!</s>
+				</p>
+			</div>
+			<div xml:id="div10" corresp="regest10">
+				<p>
+					<s n="28" xml:lang="la" type="auto">Iam sub cenam redduntur alię literę tuę cum oratione apologetica et visione illa Glareana<note xml:id="fn33" type="footnote" n="33">Gemeint ist der in Zürich von Augustin Fries erstellte Einblattdruck, auf dem die im Glarnerland beobachtete Himmelserscheinung ohne jeglichen Begleittext bildlich dargestellt wurde; s. dazu <ref target="file13033">Nr. 2984</ref>, <ptr target="qvfn17249-2" type="qv"/>.</note>, pro quibus non satis tibi gratiarum agere unquam <pb type="edition" next="505"/> potero.</s>
+					<s n="29" xml:lang="la" type="auto">Ego <persName>Vadiano</persName> nostro lecta mox, ut petis, misero.</s>
+					<s n="30" xml:lang="la" type="auto">Quodsi vel mihi vel cuiquam ex nostris interpretatio quępiam visionis illius revelata fuerit, haud te celabo.</s>
+					<s n="31" xml:lang="la" type="auto">Utinam boni aliquid ista nobis portendant!</s>
+					<s n="32" xml:lang="la" type="auto">Ora pro nobis.</s>
+				</p>
+			</div>
+			<div xml:id="div11" corresp="regest11">
+				<p>
+					<s n="33" xml:lang="la" type="auto">Scribendum nunc <placeName>Augustam</placeName> et Isnam est,<note xml:id="fn35" type="footnote" n="35">Solche Briefe sind nicht erhalten.</note> ut nihil praeterea addere iis possim.</s>
+					<s n="34" xml:lang="la" type="auto">29. septembris 1547.</s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="35" xml:lang="la" type="auto">Praestantissimo pietate doctrinaque viro d. Heinricho Bullingero, <placeName>Tigurinorum</placeName> episcopo syncaerissimo, domino et fratri suo colendissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

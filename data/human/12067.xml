@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12067" type="Brief" source="HBBW" n="2020">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Johannes Stumpf, 24. Oktober 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Die jarzaal in dem Instrument Lutzern gadt so eigentlich uff die historien und zyten, das wol müglich, <persName>Leodigarius</persName> sye hernach erst hinzugesetzt.</s>
+					<s n="2" xml:lang="de" type="auto">Wo das nitt, so bedunckt mich gäntzlich, es sye under Ludevicho 2<note xml:id="fn4" type="footnote" n="4"><persName>Ludwig (Chlodwig) II.</persName> (geb. 633/634, gest. 657); Frankenkönig von Neustrien von 639 bis 657. - Bullinger setzt seine Regierungszeit zwischen 658 und 674/675 an (s. unten Z. 8f. 72).</note>, <persName>Dagoberti</persName> magni sun,<note xml:id="fn5" type="footnote" n="5"><persName>Dagobert I.</persName> (geb. um 608, gest. 638/639), Vater <persName>Ludwigs II.</persName>. Frankenkönig von Neustrien ab 623. -Bullinger setzt seinen Tod auf das Jahr 658 an (s. unten Z. 8).</note> beschähen.</s>
+					<s n="3" xml:lang="de" type="auto"><persName>Dagobertus</persName> ist gestorben nach <persName>Contracti</persName> anzeigung<pb type="edition" next="479"/> (dem ich in den fränckischen sachen vil gloubens gib, dann er in einer fränckischen stifftung Sangallen, da man die fränckischen handlung wol hatt wüssen mögen, und sy ouch eigentlich verzeichnet, geläpt hat) anno domini 658.<note xml:id="fn7" type="footnote" n="7">In den oben in Anm. 6 angeführten Ausgaben (in beiden Fällen aufS. 191v.) wird Dagoberts I. Tod tatsächlich auf das Jahr 658 datiert.</note></s>
+					<s n="4" xml:lang="de" type="manual">Uff inn ist angangen<note xml:id="fn8" type="footnote" n="8">gefolgt.</note> sin son<note xml:id="fn9" type="footnote" n="9"><persName>Ludwig II.</persName>; s. oben Anm. 4.</note>, der erst under den hinlässigen<note xml:id="fn10" type="footnote" n="10">nachlässigen.</note> und liederlichen künigen,<note xml:id="fn11" type="footnote" n="11">Die "Faulen Könige", eine Bezeichnung für die letzten Merowinger, die auf <persName>Einhard</persName> (<persName>Eginhart</persName>; geb. ca. 770, gest. 840), Biograph <persName>Karls des Großen</persName>, zurückgeht.</note> und hatt geregiert 17 jar oder 16 und daumb.</s>
+					<s n="5" xml:lang="de" type="auto">Da ist wol müglich, das dises Ludevici königs vettern gewäsen syend Wighardus und <persName>Rupertus</persName><note xml:id="fn13" type="footnote" n="13"><persName>Rupert</persName>, Bruder <persName>Wichards</persName> (s. unten Z. 26), zu dem sonst nichts bekannt ist.</note>, <foreign xml:lang="la">duces militum Sueviae,</foreign> und das die stifftung umb das v. jar<note xml:id="fn14" type="footnote" n="14">Eine Vermutung Bullingers, um auf das Jahr 663 (658+5) zu kommen, welches sich aus der Zahl 503 gut erklären ließe.</note> des rychs Lodovici beschähen sye, welchs ist nach der jar zaal 663.</s>
+					<s n="6" xml:lang="de" type="auto">Da ist ouch wol glouplich, das die iaar zaal im instrument also gestanden sye 663; darfür man gemacht 563; dann wie bald ist es gemacht?</s>
+					<s n="7" xml:lang="de" type="auto">563, das hatt er villicht angesähen für 503.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="de" type="auto">Hierüber begär ich üwers bescheids, und was ir funden habind.</s>
+					<s n="9" xml:lang="de" type="auto">Ich wil dem propst von Lutzern<note xml:id="fn15" type="footnote" n="15"><persName>Jakob Buß</persName>, von 1539/1540 bis 1557 Propst des Chorherrenstiftes St. Leodegar im Hof in <placeName>Luzern</placeName>; s. <bibl>Helvetia Sacra</bibl> II/2 349; <placeName>Luzern</placeName> StA, PAA 175/93, Statuten, Verzeichnis der Stiftpröpste.</note> unser coniectura zuͦschryben, und begären, das er das original besäch<note xml:id="fn16" type="footnote" n="16">Ein entsprechender Brief Bullingers an <persName>Jakob Buß</persName> ist nicht bekannt.</note>.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Gott mitt üch.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Datum 24. octobris anno 1544.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">H[einrich] Bullinger.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="13" xml:lang="la" type="auto">D. <persName>Ioanni Stumpfio</persName> suo.</s>
+					<s n="14" xml:lang="la" type="auto">Stammen<note xml:id="fn17" type="footnote" n="17"><placeName>Stammheim</placeName> (Kt. Zürich).</note>.<pb type="edition" next="480"/></s>
+				</p>
+				<p>
+					<note>[1. Beilage:]</note>
+					<s n="15" xml:lang="de" type="auto"><pb type="scan" next="MsL47-185"/>In der gstift zur propsty zürich alten großen urber stat:<foreign xml:lang="la">In nomine domini etc.</foreign></s>
+					<s n="16" xml:lang="la" type="auto">Notum sit omnibus nobilibus et ignobilibus tam futuris quam praesentibus, qualiter ego, <persName>Wichardus</persName>, et frater meus <persName>Rupertus</persName>, dux militum regis Ludoici, qui nobis ex consanguinitate coniunctus est, omnia predia nostra, quae nobis ex paterna hereditate advenerunt, ex illius permissione et iuvamine divisimus.</s>
+					<s n="17" xml:lang="la" type="auto">Postea frater meus, pro amore dei et remedio animę suaę ductus, omnem partem suam, quae ad eum pertinebat, domino suo regi contradidit ea videlicet ratione, ut in castro Thuricino iuxta fluvium Lindemachi<note xml:id="fn19" type="footnote" n="19">Die <placeName>Limmat</placeName>.</note> ecclesiam construeret et servitium dei ibidem perpetualiter constitueret, unde ego <persName>Wichardus</persName> presbyter, quamvis indignus, ex intimo desiderio conpunctus in quodam loco, qui <placeName>Lucerna</placeName> ex antiquitate est dictus, iuxta fluvium, qui Rüsa vocatur, qui de summitate magni laci fluit, in honore sancti Mauricii et sociorum eius et sancti <persName>Leodegarii</persName><note xml:id="fn20" type="footnote" n="20">Siehe oben Anm. 3.</note> martiris et omnium sanctorum, parvum tugurium construxi, omnem substantiam, quae me attingit, de monte, qui <placeName>Albis</placeName> vocatur, incipiens a predio meo Lunkhuft<note xml:id="fn21" type="footnote" n="21"><placeName>Lunkhofen</placeName>, Bremgarten (Kt. Aargau).</note> et omnibus locis circumquaque iacentibus ex permissione regis, cognati mei, ad ipsum locum contradidi et me illic propter servitium dei collocavi et tantos monachos, quantos potui, illuc congregavi.</s>
+					<s n="18" xml:lang="la" type="auto">Unde vir quidam nobilis et bonus ad me veniens, qui spretis omnibus curis huius seculi, quem ego ipse monachum illic ordinavi nomine <placeName>Alwicus</placeName><note xml:id="fn22" type="footnote" n="22">Aiwic; s. Hans <hi>Schnyder,</hi> Zur Traditionskontroverse ... (wie oben Anm. 12), S. 93-97.</note>, ita, ut benedicam, per omnia dei amicus, prudens in scripturis sanctis, qui suis ammonicionibus<note xml:id="fn23" type="footnote" n="23">admonitionibus.</note> et verbis salutaribus corda omnium hominum illius regionis in dei provocavit affectum.</s>
+					<s n="19" xml:lang="la" type="auto">Inde de die in diem crescente servitio dei ipsum <placeName>Alwicum</placeName><pb type="scan" next="186"/> mei successorem et rectorem ipso loco dereliqui.</s>
+					<s n="20" xml:lang="la" type="auto">Acta sunt hec temporibus Ludoici regis (iste rex prius vocabatur Clodavecus), anno ab incarnatione domini quingentesimo tercio, indictionis 13.<note xml:id="fn24" type="footnote" n="24">Eine Indiktion entspricht einem 15-jährigen Zyklus. Mittelalterliche Urkunden führen oft (jedoch nicht immer korrekt) eine Indiktionszahl als zusätzlichen Anhaltspunkt an. Hier wird die Urkunde auf das 13. Jahr eines solchen Zyklus datiert.</note><pb type="edition" next="481"/></s>
+					<s n="21" xml:lang="la" type="auto">Hec copia scripta est de origenali littera, quae habetur <placeName>Lucerię</placeName> in cenobio dominorum seu fratrum ordinis sancti Benedicti.</s>
+					<s n="22" xml:lang="la" type="auto">Querendum <placeName>Lucernę</placeName>, an ne ille originales littere adhuc extent; petendum, ut exhiberentur et testes ascribere, qui integras cum sigill[is] vidissent etc.</s>
+				</p>
+				<p>
+					<note>[2. Beilage:]</note>
+					<s n="23" xml:lang="la" type="auto"><pb type="scan" next="Ms__L47-187"/> Passio <persName>Leodigarii</persName>.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Eberuinus<note xml:id="fn26" type="footnote" n="26"><persName>Ebroin</persName> (gest. 680/681), fränkischer Hausmeier in Neustrien.</note> a <persName>Brunhilde</persName><note xml:id="fn27" type="footnote" n="27"><persName>Brunhilde (Brunichild</persName>; geb. 545/550, gest. 613), Königin von Austrasien und Burgund. Sie wurde von <persName>Chlothar II.</persName> (s. unten Anm. 28) hingerichtet. - Bullinger datiert die Hinrichtung auf das Jahr 630 (s. unten Z. 60).</note> illectus monasticae vitae valedixit et, maior domus effectus, beatum <persName>Leodigarium</persName> martyrem fecit.</s>
+					<s n="25" xml:lang="la" type="auto">Verum Brunhildis scelerum suorum poenas luens postmodum a Lothario<note xml:id="fn28" type="footnote" n="28"><persName>Chlothar II., gen. der Junge</persName> (geb. 584, gest. 629/630), Frankenkönig zunächst von Neustrien allein und ab 613 auch von Austrasien; s. unten Anm. 32.</note> rege equis distracta est.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Haec <persName>Otto Frisingensis</persName> lib. 5 cap. 7.<persName>Hermann autem Contractus</persName><note xml:id="fn30" type="footnote" n="30">Siehe oben Anm. 6.</note> in chronicis sub anno domini 630: <persName>Sigebertus</persName><note xml:id="fn31" type="footnote" n="31"><persName>Sigibert II.</persName> (geb. 601/602, gest. 613), minderjähriger König von Austrasien.</note>, inquit, rex, filius Theoderici,<note xml:id="fn32" type="footnote" n="32"><persName>Theuderich II.</persName> (geb. ca. 587, gest. 612/613), Vater Sigiberts II., König von Austrasien von 596 bis 612/613. Er starb kurz vor seines Onkels, Chlothars II., Angriff auf Austrasien.</note> a Lothario rege pugna victus, cum proavia <persName>Brunhilde</persName> et tota stirpe trucidatur.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Videtur ergo casus <persName>Leodigarius</persName> circa annum domini 615. <foreign xml:lang="de">und daumb.</foreign></s>
+					<s n="28" xml:lang="la" type="auto">Coniecturae.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Si numerus annorum in instrumento non est falsus (503), necesse est vel plures esse huius nominis <persName>Leodigarios</persName> martyres, vel postea succedentibus temporibus nomen <persName>Leodigarii</persName> esse adiectum.</s>
+					<s n="30" xml:lang="la" type="auto">Si autem <persName>Leodigarii</persName> nomen illius nomen est, qui occisus est per Eberuinum, cui et oculos effossos esse<pb type="edition" next="482"/> refert <persName>Antoninus Flor[entinus]</persName><note xml:id="fn33" type="footnote" n="33"><persName>Antoninus von Florenz (Florentinus)</persName>, geb. 1389, gest. 1459; Dominikaner, Erzbischof von Florenz ab 1446; berühmt als musterhafter Kleriker.</note> ex Speculo <persName>Vincentii</persName> parte histo[riale] 2, tit. 13, cap. 6, §27,<note xml:id="fn35" type="footnote" n="35">Bullinger bezieht sich auf die "Passio <persName>Leodegarii</persName>" in den [Chronica] des Antoninus und mag dabei die bei <persName>Nicolaus Wolff</persName> in Lyon 1512 erschienene Ausgabe (heute in Zürich ZB, IV B 11) herangezogen haben; s. <hi>Germann,</hi> aaO, S. 288.</note> necesse est numerum adiectum esse falsum.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto"><pb type="scan" next="188"/>Si ad alios respicis Ludevicos, qui et Clodovei cognominantur, invenis: Ludevicum 2, filium magni <persName>Dagoberti</persName>, qui regnavit.</s>
+					<s n="32" xml:lang="la" type="auto">Moritur apud <persName>Contractum</persName> <persName>Dagobertus</persName> anno 658.</s>
+					<s n="33" xml:lang="la" type="auto">Regnat Ludevicus annos 16.<note xml:id="fn36" type="footnote" n="36">Siehe oben Anm. 4. 5. 7; ferner Z. 9.</note></s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Ludevicus 3<note xml:id="fn37" type="footnote" n="37"><persName>Ludwig (Chlodwig) III.</persName> (geb. ca. 677, gest. 694), König über das ganze fränkische Reich von 690/691 bis 694.</note>; regnavit circa annum domini 690.</s>
+					<s n="35" xml:lang="la" type="auto">A morte enim Ludevici 2 numerantur ad initium regni Ludevici 3 anni 32<note xml:id="fn39" type="footnote" n="39">Die folgenden Zahlenangaben zu den jeweiligen Regierungszeiten der Könige vor <persName>Ludwig III.</persName> sollten die Zahl 31 ergeben, welche Bullinger hier offensichtlich aufrundet. -Die richtige Zahl wäre 33/34.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">- Lotharius 3<note xml:id="fn40" type="footnote" n="40"><persName>Chlothar III.</persName> (geb. 649/651, gest. 673), Sohn <persName>Ludwigs (Clodwig) II.</persName>, König von Neustrien und Burgund von 657 bis 673.</note> successit Ludevico 2<note xml:id="fn41" type="footnote" n="41">Siehe oben Anm. 4.</note>, regnavit 4. Theoderychus 1<note xml:id="fn42" type="footnote" n="42">Wohl <persName>Theuderich III.</persName> (geb. 649/656, gest. 690/691), Bruder von <persName>Chlothar III.</persName>, umstrittener König von Neustrien und Burgund von 673 bis 675; s. unten Anm. 44f.</note>, 1<note xml:id="fn43" type="footnote" n="43">Als Regierungsjahrangabe zu verstehen.</note>.</s>
+					<s n="37" xml:lang="la" type="auto">Hilderychus 2<note xml:id="fn44" type="footnote" n="44"><persName>Childerich II.</persName> (geb. ca. 655, gest. 675), Bruder von <persName>Theuderich III.</persName>, König von Austrasien von 662 bis 675 und über das ganze fränkische Reich von 673 bis 675, nämlich gegen seinen Bruder <persName>Theuderich III.</persName> (s. oben Anm. 42).</note>, 12. Theodorychus 2<note xml:id="fn45" type="footnote" n="45"><persName>Theuderich III.</persName> (derselbe wie oben Anm. 42!), König des ganzen fränkischen Reichs von 675 bis 690/691.</note>, 14. Ludevicus 3<note xml:id="fn46" type="footnote" n="46">Siehe oben Anm. 37.</note>, 4.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Omnium vetustiss[imam] esse Tigurinam ecclesiam.</s>
+					<s n="39" xml:lang="la" type="auto">1. Si numerus non fallit 503, apparet vetustissima.</s>
+					<s n="40" xml:lang="la" type="auto">2. Si fallit, ex instrumento <persName>Karoli</persName> liquet vetustissima.</s>
+					<s n="41" xml:lang="la" type="auto">Semper memorabilis celebris locus sepulchrum martyrum dictum<note xml:id="fn48" type="footnote" n="48">Im Falle Zürichs, Felix und Regula.</note>.</s>
+					<s n="42" xml:lang="la" type="auto">Est autem vetustissimum<pb type="edition" next="483"/> loca dici et appellari ex martyribus, etc.</s>
+					<s n="43" xml:lang="la" type="auto">A 300 ergo annis post natum Christum a martyribus caesis apparet fidem durasse - et fuisse ecclesiam Christi -, licet pauci fuerint, et plures idololatrae.<pb type="scan" next="189"/></s>
+					<s n="44" xml:lang="la" type="auto">3. Meminit antecessorum <persName>Karolus</persName>, qui dotales donationes fecerint.</s>
+					<s n="45" xml:lang="la" type="auto">4. Fuit et parrochia, priusquam <persName>Karolus</persName> hoc constitueret collegium canonicorum.</s>
+				</p>
+				<p>
+					<s n="46" xml:lang="la" type="auto">Nam in Instrumento suo<note xml:id="fn49" type="footnote" n="49">Siehe oben Anm. 47.</note>: decimationem, inquit, quae ex subdita parrochia ipsi veteri ecclesiae veniet, proposui fratribus ad investituram esse perpetuam.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto">Instrumentum Karolinum datum est anno 810.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

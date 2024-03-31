@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11042" type="Brief" source="HBBW" n="1000">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Jakob Meyer (Maior) / Basel AN Heinrich Bullinger, 24. Mai 1537</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Die gnad gottes, merung des gloubens und min fruntlichen gruͦß zuͦvor, wolgelerter, ersamer, lieber herr und bruder.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="de" type="auto">Herr <persName>Wolfgang Relinger</persName>, burgermeister zuͦ <placeName>Augsburg</placeName>, bringer diß brieffs, ein frommer, gelerter herr und guter christ, der sich am ewangelio trüwlich haltet, der begert in eüwer kuntschaft (als mit einem frommen, gelerten mann) ze kommen<note xml:id="fn2" type="footnote" n="2">eure Bekanntschaft zu machen.</note>.</s>
+					<s n="3" xml:lang="de" type="auto">Versähe mich<note xml:id="fn3" type="footnote" n="3">ich nehme an.</note>, ir werden von im hören (wo es mit hertzen und grund<note xml:id="fn4" type="footnote" n="4">wohlwollend und gründlich.</note> bedocht wirdet) nüt schadlichs, aber zuͦ erhalten gemeinen, christenlichen friden, zuͦ uffbüwung und haußhaltung der kilchen Christi vast<note xml:id="fn5" type="footnote" n="5">sehr.</note> dienstlich<note xml:id="fn6" type="footnote" n="6">Zum Anliegen der <placeName>Augsburger</placeName> Politiker vgl. oben <ref target="file11039">Nr. 997</ref>, Anm. 2.</note>.</s>
+					<s n="4" xml:lang="de" type="auto">Den wöllen euch lassen bevolhen sein.</s>
+					<s n="5" xml:lang="de" type="manual">Zu<pb type="edition" next="164"/> dem hat er einen doctor<note xml:id="fn7" type="footnote" n="7">Dr. <persName>Konrad Heel</persName>.</note>, welcher von wegen siner herrn von <placeName>Ougsburg</placeName> zuͦ <placeName>Schmalckalden</placeName> gsin ist<note xml:id="fn8" type="footnote" n="8">Stadtadvokat <persName>Heel</persName> hatte am Bundestag, der am 10. Februar in <placeName>Schmalkalden</placeName> eröffnet worden war, zusammen mit den Räten <persName>Marx Miller</persName>, <persName>Joachim Langenmantel</persName> und mit Pfarrer <persName>Bonifacius Wolfhart</persName> <placeName>Augsburg</placeName> vertreten (vgl. <hi>Roth</hi> II 374-377).</note> und sonst noch einen<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>.</s>
+					<s n="6" xml:lang="de" type="auto">Sollen alle, dry einander verwant sein<note xml:id="fn10" type="footnote" n="10">Über die Verwandtschaft <persName>Heels</persName> mit <persName>Rehlinger</persName> ist nichts bekannt.</note>.</s>
+					<s n="7" xml:lang="de" type="auto">Ir mögen mit inen vertrüwlich reden.</s>
+					<s n="8" xml:lang="de" type="auto">Sy wöllen gon <placeName>Pfäfers</placeName><note xml:id="fn11" type="footnote" n="11"><placeName>Pfäfers</placeName> (Kt. St. Gallen).</note> ins bad.</s>
+					<s n="9" xml:lang="de" type="auto">Ob es von nöten were, sy dem apt<note xml:id="fn12" type="footnote" n="12"><persName>Johann Jakob Russinger</persName> war 1517-1549 Abt des beim Bad gelegenen Klosters (vgl. <bibl>Helvetia Sacra</bibl> III/1 1018-1020).</note> ze bevelhen oder inen sonst andere hilffliche furdernuß ze thuͦnd, inen dorum beholffen ze sin und für empfolen ze haben.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="de" type="auto">Das concilium ist ein jar uffgeschlagen<note xml:id="fn13" type="footnote" n="13">aufgeschoben. - Vgl. oben <ref target="file11039">Nr. 997</ref>, Anm. 4.</note>, aber warlich uß keiner andren ursach, dann unß ze schaden; dann uff diß mol hatt inen der herr das schwert uß der hand genommen<note xml:id="fn14" type="footnote" n="14">Vgl. Ex 5, 21 und Ez 30, 24f.</note>, das sy es wider unß nit gepruchen mögen, versähen sich<note xml:id="fn15" type="footnote" n="15">erwarten.</note> aber, in einem jar dasselbig wider ze überkommen<note xml:id="fn16" type="footnote" n="16">zu bekommen.</note>.</s>
+					<s n="11" xml:lang="de" type="auto">Lieber herr, die sachen sind wichtig; wir werden unangefochten nit bliben.</s>
+					<s n="12" xml:lang="de" type="auto">Alle rotschleg und pratick<note xml:id="fn17" type="footnote" n="17">alle Pläne und geheimen Umtriebe.</note> seind zuͦ ußtilgung des ewangeli gerichtet; würt man zuͦ gelegner zit (ouch von denen, die unsere besten freund sein solten) wol innen werden.</s>
+					<s n="13" xml:lang="de" type="auto">Doch so würt gott sin eer und wort (ouch in unserem verderben) wol erhalten.</s>
+					<s n="14" xml:lang="de" type="auto">Es were unß warlich in diser sach mer ernsts und gepäts zum herren notwendig, dann wir biß här gehept haben.</s>
+					<s n="15" xml:lang="de" type="auto">Ich hab herrn <persName ref="p6155">Laventer</persName><note xml:id="fn18" type="footnote" n="18"><persName>Hans Rudolf Lavater</persName>.</note> ouch geschriben<note xml:id="fn19" type="footnote" n="19">Nicht erhalten.</note>.</s>
+					<s n="16" xml:lang="de" type="auto">Er würt mit eüch von disen dingen red halten.</s>
+					<s n="17" xml:lang="de" type="auto">Bevilh eüch hiemit dem herren von hertzen.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Grussen mir Meister <persName ref="p2305">Leo</persName><note xml:id="fn20" type="footnote" n="20"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Pellican</persName>, die brueder gemeinlich und alle die, so den herren von hertzen lieben.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="de" type="auto">Uß <placeName>Basel</placeName>, den 24. meyens anno etc. 37.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="de" type="auto">U[wer] <persName>Jacob Meyger</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="21" xml:lang="de" type="auto">Dem wirdigen und in götlicher schrifft wolgelerten Meister Heinrich Bullinger, diener des worts und bischoff der kilchen zuͦ Zürich, minem lieben herrn und bruder.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13122" type="Brief" source="HBBW" n="3073">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Ambrosius Blarer (Blaurer)] / [Konstanz] AN Heinrich Bullinger, 9. November [1547]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Furgeliepter herr und br[uͦder], es hat min l[ieber] v[etter] <persName>C[onrad] Z[wick]</persName> uff gesstert mitt mir gereddt, er trage groß sorg, der bischoff<note xml:id="fn2" type="footnote" n="2"><persName>Johann von Weeze</persName>.</note> habe ain untrüw<note xml:id="fn3" type="footnote" n="3">Verrat.</note> wider die statt im synn.</s>
+					<s n="2" xml:lang="de" type="auto">Dann vorhin, wie sy vom <persName>Granvella</persName> uff ain antwurt gewartet, seyen die mandata<note xml:id="fn5" type="footnote" n="5">Siehe dazu <ref target="file13102">Nr. 3053</ref>, <ptr target="qvfn17321-2" type="qv"/>.</note> ussgangen.</s>
+					<s n="3" xml:lang="de" type="auto">Yetz aber, so sy sich der aussönung halber entlich erpotten und wartind abermal uff bschaid und antwurt, so komme nichts.</s>
+				</p>
+			</div>
+			<div xml:id="div2" corresp="regest2">
+				<p>
+					<s n="4" xml:lang="de" type="auto">Dieweyl dann yetz die Spanyer gen <placeName>Ravenspurg</placeName> schon kommen<note xml:id="fn7" type="footnote" n="7">Am Tag vor der Niederschrift dieses Briefes erreichten die spanischen Söldner <placeName>Ravensburg</placeName>; s. <ref target="file13089">Nr. 3040</ref>, <ptr target="qvfn17309-7" type="qv"/>.</note> und in ainer nacht byß her auch kommen mögind, so furchte er<note xml:id="fn8" type="footnote" n="8">Zwick.</note> nitt unbillich<note xml:id="fn9" type="footnote" n="9">nitt unbillich: nicht zu Unrecht.</note>, man berathschlage ain überfal Peterßhaussen<note xml:id="fn10" type="footnote" n="10">Heute ein <placeName>Konstanzer Stadtteil</placeName>, nördlich der Altstadt und des Rheins.</note> unser vorstatt halber, und darum bedunckt inn<note xml:id="fn11" type="footnote" n="11">bedunckt inn: scheint es ihm.</note>, es were wol von hochen nöten, das sych unsere herren<note xml:id="fn12" type="footnote" n="12">Die <placeName>Konstanzer</placeName> Obrigkeit.</note> mitt ainem zuͦsatz<note xml:id="fn13" type="footnote" n="13">Hilfstruppen; s. <bibl>Fischer</bibl> VI/1 1381.</note> by zyt versechind, damitt sy dem find seinen anschlag brechind.</s>
+				</p>
+			</div>
+			<div xml:id="div3" corresp="regest3">
+				<p>
+					<s n="5" xml:lang="de" type="auto">Diewyl er aber nitt gedencken kan, wa<note xml:id="fn14" type="footnote" n="14">wo.</note> sy ainen uberkommen kondten dann allain usß den Aidgnossen, so ist syn gantz fruntlich bitt, ir wellind ewer hofliche<note xml:id="fn15" type="footnote" n="15">vorsichtige; s. <bibl>Fischer</bibl> III 1738. - Erwartet wurde also, dass Bullinger sich bei den Zürcher Geheimen Räten erkundigt.</note> nachfrag haben, ob nitt möglich were zuͦ erlangen, das man minen herren vergundte<note xml:id="fn16" type="footnote" n="16">gestatten würde.</note>, aintweders ire gerichtsleut<note xml:id="fn17" type="footnote" n="17">Untertanen von (Land)gerichten; s. <bibl>Grimm</bibl> V 3667. - <placeName>Konstanz</placeName> und einige Patrizier besaßen im <placeName>Thurgau</placeName> Landsitze, Vogteien und Gerichtsherrschaften; s. <bibl>Maurer, Übergang</bibl> 40; <bibl>Dobras, Ratsregiment</bibl> 31f, Anm. 33.<ptr target="zfnfn17339-4" type="zfn"/></note>, die sy im <placeName>Turgöw</placeName> habend, zuͦ inen in die statt ze nemmen, oder ob sy by euch ain mann, zwayoder dreihundert<note xml:id="fn18" type="footnote" n="18">ain mann, zway- oder dreihundert: etwa 200 oder 300 Mann; s. <bibl>SI</bibl> I 273 (unter "ein").</note>, uff iren costen ankommen mochten<note xml:id="fn19" type="footnote" n="19">ankommen mochten: erhalten könnten; s. <bibl>Fischer</bibl> I 228.</note>, kainer anderen <pb type="edition" next="653"/> ursach, dann sich vor ainem uberfal zuͦ beschirmen.</s>
+					<s n="6" xml:lang="de" type="auto">Und diß thuͦt myn lieber vetter usß getruwer fürsorg und für sich selb<note xml:id="fn20" type="footnote" n="20">für sich selb: von sich selbst aus.</note>, on aller menschen vorwissen.</s>
+					<s n="7" xml:lang="de" type="auto">Das ist so war, alls es vormals etwan<note xml:id="fn21" type="footnote" n="21">einst.</note> auch war gewesen, ir aber oder die ewern nitt haben glouben wellen; darusß dann in ettlichen sachen vyl unguͦts missverstands gevolget.</s>
+					<s n="8" xml:lang="de" type="auto">Aber, so war gott lebt, so war waist ouch min aigner bruͦder<note xml:id="fn23" type="footnote" n="23"><persName>Thomas Blarer</persName>, damals Bürgermeister von <placeName>Konstanz</placeName>.</note>, noch nieman, nichts davon, etc.</s>
+					<s n="9" xml:lang="de" type="auto">Aber min lieber vetter wolts darum gern wissen, dann so er vermainte, das es möchte erlangt werden oder das ain sölich pitt ewern herrn nitt zuͦwider were, so wurde er allsdann darzuͦ rathen und es uff die ban bringen.<note xml:id="fn24" type="footnote" n="24">uff die ban bringen: in die Wege leiten; zur Sprache bringen; s. <bibl>SI</bibl> IV 1269.</note></s>
+				</p>
+			</div>
+			<div xml:id="div4" corresp="regest4">
+				<p>
+					<s n="10" xml:lang="de" type="auto">Vermainte man aber, es möchte nitt erlangt werden und das besser were, ain solich ansuͦchen bescheche nitt, so wurde er schweygen, und wann dann vylicht sölichs von anderen angeregt wurde, wellte er, sovyl im möglich, davor sein, das es nitt bescheche.</s>
+					<s n="11" xml:lang="de" type="auto">Und das were für ewere und unsere herren, das sölich ansuͦchen nitt geschäche, wa<note xml:id="fn26" type="footnote" n="26">wenn.</note> es sollte abgeschlagen werden, dann usß dem abschlag wurde ain grosser unwill erwachsen, der mitt der zeyt weder den ewern noch unsern möchte zuͦ guͦtem, aber wol zuͦ vyl unrath kommen.</s>
+				</p>
+			</div>
+			<div xml:id="div5" corresp="regest5">
+				<p>
+					<s n="12" xml:lang="de" type="auto">Ich schick euch hieruff disen aignen potten<note xml:id="fn28" type="footnote" n="28">Unbekannt.</note>, dann gewisslich euch und unß etwas an disem uberfal gelegen.</s>
+					<s n="13" xml:lang="de" type="auto">Es möchtend die reuter ainer nacht <pb type="edition" next="654"/> lichtlich von <placeName>Ravenspurg</placeName> byß zuͦ unß her kommen und all kuntschafft uffhalten.<note xml:id="fn29" type="footnote" n="29">all kuntschafft uffhalten: jeden von der Stadt zur Erkundung ausgesandten Boten festnehmen.</note></s>
+					<s n="14" xml:lang="de" type="auto">Nemmen sy dann Petershusen in, so wirts mitt unß gethon sin.</s>
+					<s n="15" xml:lang="de" type="auto">Ich hab<pb type="scan" next="792"/> allweg<note xml:id="fn30" type="footnote" n="30">stets.</note> diß untrüw besorgt.</s>
+					<s n="16" xml:lang="de" type="auto">Furcht nun, es seye mir allso vorgesein<note xml:id="fn31" type="footnote" n="31">es seye mir allso vorgesein: ich habe es geradezu vorhergesehen; s. <bibl>Fischer</bibl> I 152 (s.v. also); und <bibl>Grimm</bibl> XXVI 1554 (s.v. vorsein).</note>, der bischoff wurde disen possen reyssen.</s>
+					<s n="17" xml:lang="de" type="auto">Gerieths im, so wers dem k[aiser]<note xml:id="fn33" type="footnote" n="33">Die Auflösung "k[önig]" wäre auch möglich. - <placeName>Konstanz</placeName> befand sich im vorderösterreichischen Gebiet, das von <persName>König Ferdinand</persName> abhing.</note> wol gemacht.<note xml:id="fn34" type="footnote" n="34">so wers dem k[aiser] wol gemacht: so käme es dem K[aiser] wohl gelegen.</note></s>
+					<s n="18" xml:lang="de" type="auto">Wa nitt, so wirt sich der k. entschuldigen.<note xml:id="fn35" type="footnote" n="35">Nämlich indem er sagen könnte, er hätte nichts vom Angriff gewusst.</note></s>
+					<s n="19" xml:lang="de" type="auto">Es ist warlich gantz argwönig<note xml:id="fn36" type="footnote" n="36">verdächtig.</note>, das meinen herren als gar kain<note xml:id="fn37" type="footnote" n="37">als gar kain: überhaupt keine.</note> antwurt kompt.</s>
+					<s n="20" xml:lang="de" type="auto">Gott well unser wächter, schutz und schirm seyn hie und ewigklich!</s>
+					<s n="21" xml:lang="de" type="auto">Dem sind sampt den ewern allen getrulich bevolchen und bittend on uffhören für unß.</s>
+				</p>
+			</div>
+			<div xml:id="div6" corresp="regest6">
+				<p>
+					<s n="22" xml:lang="de" type="auto">Datum den 9. Novembris zuͦ zeche uren vor mittag.</s>
+					<s n="23" xml:lang="de" type="auto">Den botten mögt ir uffhalten oder hinziechen lassen, nachdem<note xml:id="fn38" type="footnote" n="38">je nachdem wie.</note> euch die sachen ansend.<note xml:id="fn39" type="footnote" n="39">erscheinen.</note></s>
+					<s n="24" xml:lang="de" type="auto">Ich hab gegen dem botten dergleychen thon, alls ob ich euch brieff von <placeName>Augspurg</placeName> zuͦschicken muͤsse.</s>
+				</p>
+			</div>
+			<div xml:id="div7" corresp="regest7">
+				<p>
+					<s n="25" xml:lang="de" type="auto">Sagt dem h. <persName>S. Schärtlin</persName> und <persName>Marcellen</persName> vyl dienst, guͦtz und gruͦtz.</s>
+				</p>
+				<p>
+					<note type="signature">[Ohne Unterschrift.]</note>
+				</p>
+			</div>
+			<div xml:id="div8" corresp="regest8">
+				<p>
+					<s n="26" xml:lang="de" type="auto">Lasst mich wissen, ob die drei Ort<note xml:id="fn41" type="footnote" n="41"><placeName>Uri</placeName>, Schwyz und <placeName>Unterwalden</placeName>.</note> gen <placeName>Pellitz</placeName><note xml:id="fn42" type="footnote" n="42"><placeName>Bellinzona</placeName>. - Zur Angelegenheit s. <ref target="file13111">Nr. 3062</ref>,<ptr target="qvzl17330-14" type="qv"/>; <ref target="file13114">Nr. 3065</ref>,<ptr target="qvzl17331-12" type="qv"/>.</note> gezogen.<pb type="edition" next="655"/></s>
+				</p>
+				<p>
+					<note>[Adresse auf f. 792a,v.:]</note>
+					<s n="27" xml:lang="de" type="auto">Dem ehrwirdigen, hochgelerten herrnn Hainrich Bullinger zuͦ Zürich, meinem fürgeliepten, vertrauten herrnn und bruͦder.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

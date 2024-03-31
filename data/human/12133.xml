@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12133" type="Brief" source="HBBW" n="2086">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[(Kapitel)] / [Neuenburg] AN s.n. / [Zürich], [um den 21. Februar 1545]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Dedit ad vos literas antea d. <persName>Farellus</persName>, quibus sententiam vestram super quadam controversia inter nos et quendam<note xml:id="fn5" type="footnote" n="5"><persName>Jean Chaponneau</persName>.</note> ex simmistis nostris orta elicere<pb type="edition" next="135"/> volebat.</s>
+					<s n="2" xml:lang="la" type="auto">Sed, cum nihil ad nos literarum de sententia vestra dederitis, cogimur iterum de re eadem ad vos scribere scriptumque mittere, in quo descriptus est modus, quo utimur in censendis fratribus, cui repugnare supra dictus conatus est positionibus quibusdam<note xml:id="fn6" type="footnote" n="6">Die von <persName>Chaponneau</persName> aufgestellten Thesen gegen die Art und Weise, wie die Neuenburger damals die Zensur unter sich ausübten. Zum Text dieser Thesen s. unten Anm. 7.</note> in medium prolatis, quarum etiam exemplum ad vos mittimus.</s>
+					<s n="3" xml:lang="la" type="auto">Nam cum illi<note xml:id="fn8" type="footnote" n="8"><persName>Chaponneau</persName>.</note> firmis quantumvis et aequis rationibus satisfacere non potuerimus, nihil nobis honestius nec tutius visum fuit, quam si hęc tota controversia omni contentione omissa ecclesiarum iudicio dirimatur; inter quas vestra non sane contemnenda in primis nobis occurrit.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Vos igitur, fratres charissimi, per Iesum Christum oramus et obsecramus, ut, quid de hac re sentiatis, nobis primo quoque tempore literis significetis.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">Hac ratione fiet, ut nos, iam vobis devinctos, devinctiores reddatis.</s>
+					<s n="6" xml:lang="la" type="auto">Non enim nobis exciderunt, quę superioribus annis pręstitistis, ut labenti et inclinatae ecclesiae nostrae succurreretur<note xml:id="fn9" type="footnote" n="9">So z.B. in den Jahren 1541/42, als einige versuchten, Farel aus Neuenburg zu vertreiben; s. <bibl>HBBW</bibl> XI, <ref target="file11617">Nr. 1574</ref>. 1585, <bibl>HBBW</bibl> XII, <ref target="file11652">Nr. 1609</ref>. 1622; Jules <hi>Pétremand,</hi> in: <persName>Guillaume Farel</persName> 1489-1565. Biographie nouvelle ..., Neuchatel/Paris 1930, S. 443-466.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Nam quid sperandum fuisset de ecclesiae illius statu, in qua, in ministerium verbi sine consensu et suffragio ministrorum quisque admitteretur, et ex qua <persName>Farellus</persName>, vir pius, ministerio cuius dominus eam<note xml:id="fn10" type="footnote" n="10">ecclesiam Neocomensem.</note> fundaverat,<note xml:id="fn11" type="footnote" n="11">1529/30; s. <hi>Pétremand,</hi> aao, S. 206-236.</note> improbitate nonnullorum turpiter tanquam mercenarius quispiam eiectus fuisset?</s>
+					<s n="8" xml:lang="la" type="auto">Dominus autem his nefariis erroribus et vitiis mederi vestris reliquarumque ecclesiarum sanctissimis monitis et consiliis misericordia sua voluit.</s>
+					<s n="9" xml:lang="la" type="auto">A vobis igitur petimus, fratres, ut, quoniam antea bene coepistis ecclesiae domini auxilium ferre, nunc quoque opem vestram eidem feratis.<note xml:id="fn12" type="footnote" n="12">Vgl. 2Kor 8, 10f.</note></s>
+					<s n="10" xml:lang="la" type="manual">Si id non feceritis, mirabimur; sed confidimus vos esse omnino facturos<note xml:id="fn13" type="footnote" n="13">Vgl. 2Kor 8,22; 2Thess 3,4.-Die Zürcher Kirche verfasste ihre Antwort am 12. März 1545 (unten <ref target="file12149">Nr. 2102</ref>).</note>.<pb type="edition" next="136"/></s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Rescripserunt nobis ecclesiae, quarum iudicium subiimus<note xml:id="fn14" type="footnote" n="14">Auch <placeName>Basel</placeName>, <placeName>Genf</placeName>, <placeName>Gex</placeName>, <placeName>Morges</placeName> und <placeName>Straßburg</placeName> waren nach ihrer Meinung gefragt worden und hatten zwischen dem 4. November und dem 29. Dezember 1544 bereits alle geantwortet; s. aao, S. 546 und Anm. 1.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Literarum exempla ad vos mittimus, ut donorum illis a domino collatorum vos nobiscum faciamus participes.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Valete.</s>
+					<s n="14" xml:lang="la" type="auto">Dominus Iesus vos diu incolumes ecclesiae suae servet.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

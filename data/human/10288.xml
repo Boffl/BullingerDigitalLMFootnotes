@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10288" type="Brief" source="HBBW" n="257">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 31. August 1533</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Nihil nunc habeo quod scribam, nisi hoc forsan sit monendum, quod nostrum omnium est, adversus aurum clamitandum esse Gallicum<note xml:id="fn1" type="footnote" n="1">Gemeint sind die französischen «Pensionen», vgl. oben S. 159, 12-160, 15.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Nam si verum est, quod audio, maximae sunt apud Immontanos<note xml:id="fn2" type="footnote" n="2"><placeName>die V Orte</placeName>.</note> factiones illis caesari, his vero regi Gallorum faventibus<note xml:id="fn3" type="footnote" n="3">Vgl. <bibl>EA</bibl> IV/1c 129. 134-136. 140f.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Apud nos alias satis factionum est his ultro catabaptistis, illis pontificiis pulantibus, aliis subinde aliis rebus novis studentibus, ut non sit opus regias et cesareas inter nos oboriri partes.</s>
+					<s n="5" xml:lang="la" type="auto">Nostri strenue se suas tutaturos partem [!] pollicentur.</s>
+					<s n="6" xml:lang="la" type="auto">Dominus adaugeat spiritum suum in suis.</s>
+					<s n="7" xml:lang="la" type="auto">Interim vigilemus egregie.</s>
+					<s n="8" xml:lang="la" type="auto">Apud Immontanos maxima pecuniae vis divisa est<note xml:id="fn4" type="footnote" n="4">Die französischen Gesandten haben der Tagsatzung bereits am 28. Juli 1533 mitgeteilt, «daß sie eine Jahrespension ... bezahlen können», <bibl>EA</bibl> IV/1c 129.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Quibus vero non tantum impertitum est, quantum cupierunt, reclamitant ditioribus non iustitiae, sed invidentiae studio.</s>
+					<s n="10" xml:lang="la" type="auto">Inde vero misera est rerum faties, sed quae istiusmodi solet comitari merces.</s>
+					<s n="11" xml:lang="la" type="auto">Sunt alii, qui nihil sibi deesse gratulantur et se omnino felicissimos esse putant.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Audio te, charissime frater, quaedam doctissimi viri <persName>Ioannis Oecolampadii</persName> dictata aut ex ore eius excepta vulgasse in lucem<note xml:id="fn5" type="footnote" n="5">Gemeint ist das Werk: «Annotationes piae ac doctae in Euangelium Ioannis, D. Ioannae Oecolampadio autore», <placeName>Basel</placeName>, Juni 1533 (<persName>Oekolampad</persName>-Bibliographie 171); Vorrede gedruckt in: <persName>Oekolampad</persName> BA II 969.</note>, quae ut quam primum licet, mittas.</s>
+					<s n="13" xml:lang="la" type="auto">Misi «Commentariorum libros in Acta»<note xml:id="fn6" type="footnote" n="6"><bibl>HBBibl</bibl> I 43.</note> et te plurimum valere iubeo.</s>
+					<s n="14" xml:lang="la" type="auto">Salvum te vult <persName>Utingerus</persName>.</s>
+					<s n="15" xml:lang="la" type="auto">Si <persName>Theodori</persName> Grammat[icas] institutiones quam citissime imprimi curaveris<note xml:id="fn7" type="footnote" n="7"><persName>Theodor Biblianders</persName> Werk wurde dann doch bei <persName>Froschauer</persName> gedruckt: «Institutionum grammaticarum de lingua Hebraea liber unus», Zürich 1535 (Rudolphi 230).</note>, omnibus nobis rem gratissimam feceris.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ultima augusti 1533.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Hein. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="18" xml:lang="la" type="auto">Ornatissimo viro d. <persName>Osvaldo Myconio</persName> <placeName>Basileiensis</placeName> ecclesiae praesuli fidelissimo, fratri dilecto.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12128" type="Brief" source="HBBW" n="2081">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Andrea Coletto / [Imola] AN s.n. / [Zürich], 11. [Februar] 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Quid novi, modo brevibus accipite.</s>
+					<s n="2" xml:lang="la" type="auto">Hic dicitur concilium hinc ad bien[n]ium translatum esse<note xml:id="fn3" type="footnote" n="3">Das Konzil war ausgeschrieben für den 15. März, wurde aber erst am 13. Dezember 1545 eröffnet; s. oben <ref target="file12118">Nr. 2071</ref>, Anm. 24.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Anticristus conatur, quantum potest, tenere imperium in mundo; sed semel dominus spiritu oris sui interficiet eum<note xml:id="fn4" type="footnote" n="4">2Thess 2, 8.</note>.<pb type="edition" next="122"/></s>
+					<s n="4" xml:lang="la" type="auto">His diebus preteritis quidam puer<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note>, an[n]orum natus forte 17, in contione in sum[m]o templo publice reprehendit Franciscanum quendam<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> socolista[rum]<note xml:id="fn7" type="footnote" n="7">socolista: Angehöriger der (wegen ihres Tragens von Holzsandalen) sogenannten Soccolanti, der franziskanischen Einsiedlerbrüder von der regulären Observanz; s. RE VI 213.</note>, qui conci[o]natus erat deum dare paradisum hominibus mediante operibus suis, et nisi haberent opera, non possent ingredi regnum cęlorum.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="la" type="auto">At ille iuvenis in medio stando dixit: „Tu mentiris, tu mendatium maximum dicis, Franciscane“, et sic populo dixit: „Nolite credere, quia vos decipit.“</s>
+					<s n="6" xml:lang="la" type="auto">Illico Franci[s]can[u]s iratus festinans des[c]endit de sug[g]estu et noluit finire concionem.</s>
+					<s n="7" xml:lang="la" type="auto">Et in concione erat vicarius antichristiani episcopi<note xml:id="fn9" type="footnote" n="9">Bischof von <placeName>Imola</placeName> war seit 1533 <persName>Nicolò Ridolfi</persName>, seit 1543 zugleich auch Erzbischof von Florenz.</note> et ius[si]t eum capere, in carceribus ponere.</s>
+					<s n="8" xml:lang="la" type="auto">Et voluerunt eum cecinere palinodiam, et iuvenis ille noluit, et per aliquot dies sic stetit.</s>
+					<s n="9" xml:lang="la" type="auto">Tandem, quia est nobilis, venerunt parentes, af[f]ines omnes, et voluerunt habere et habuerunt.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Et monachus dicebat: „Tu non potes intelligere scripturas.</s>
+					<s n="11" xml:lang="la" type="auto">Tu es puer.</s>
+					<s n="12" xml:lang="la" type="auto">Nondum vidisti bibliam.</s>
+					<s n="13" xml:lang="la" type="auto">Ego vero sum iam senex; totam vitam meam in literis sacris consumpsi, et vis melius me intelligere?</s>
+					<s n="14" xml:lang="la" type="auto">Quę ego dixi, sunt vera!“</s>
+					<s n="15" xml:lang="la" type="auto">Puer tum dixit: „Fateor me puerum; sed scriptura dicit: ’Ex ore infarium<note xml:id="fn10" type="footnote" n="10">Gemeint sind die Kinder.</note> et lactentium perfecisti laudem’ [Ps 8, 3].</s>
+					<s n="16" xml:lang="la" type="auto">Deinde non est in ętate aut in vestitu sita intelligentia scripturarum, sed in spiritu.</s>
+					<s n="17" xml:lang="la" type="auto">Dominus habitat in cordibus hominum iuxta sententiam <persName>Pauli</persName><note xml:id="fn11" type="footnote" n="11">Eph 3, 17.</note> et non in vestibus aut in sectis.“</s>
+					<s n="18" xml:lang="la" type="auto">Et sic dimiserunt eum hac conditione, ut ipse crederet, prout vel[l]et, sed ne ex[c]itaret tumultum in populo.</s>
+					<s n="19" xml:lang="la" type="auto">Et [si] vult excitare, mittent ad triremem.<pb type="edition" next="123"/></s>
+					<s n="20" xml:lang="la" type="auto">Sunt pręterea nonnul[l]i alii, qui sunt novi christiani facti et boni, inter quos unus precipuus est, qui vocatur <persName>Paulus Hubertus</persName><note xml:id="fn13" type="footnote" n="13">Möglicherweise ein Mann namens <persName>Paolo Umberto (Uberto)</persName>, der Rechtsanwalt war; s. unten Z. 351. Näheres nicht ermittelt.</note>, tutor causarum civilium, et factus est tutor causarum spiritualium modo, qui vos omnes in domino salutat et orat vos, ut oretis dominum pro nobis <placeName>Italis</placeName>.</s>
+				</p>
+				<p>
+					<s n="21" xml:lang="la" type="auto"><pb type="scan" next="109v."/>De me autem s[c]iatis hoc: Patrem<note xml:id="fn14" type="footnote" n="14">Nicht ermittelt.</note> meum, ut in superioribus literis<note xml:id="fn15" type="footnote" n="15">Nicht erhalten.</note> scripsi, libenti animo me recepisse et aliquid bene sentire de religione.</s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Spero in domino bene cessurum res meas.</s>
+					<s n="23" xml:lang="la" type="auto">Orate dominum in publicis precationibus pro me, quia sum iam in tribulatione aliqua, quę me vexat multum.</s>
+				</p>
+				<p>
+					<s n="24" xml:lang="la" type="auto">Orate patrem ęternum, ut fortunet prospere, et semper tamen sua voluntas sit facta in omnibus.</s>
+					<s n="25" xml:lang="la" type="auto">Iam sum <placeName>Imolae</placeName>, civitas subdita papę,<note xml:id="fn16" type="footnote" n="16"><placeName>Imola</placeName> war 1504 Teil des Kirchenstaats geworden.</note> quę distat a <placeName>Bononia</placeName><note xml:id="fn17" type="footnote" n="17"><placeName>Bologna</placeName>.</note> 20 miliaribus <placeName>Italicis</placeName>,<note xml:id="fn18" type="footnote" n="18">Die Entfernung zwischen <placeName>Bologna</placeName> und <placeName>Imola</placeName> beträgt etwa 32 Kilometer. Das entspricht 20 Meilen zu je etwa 1,6 Kilometer.</note> quę sunt 4 Germanica,<note xml:id="fn19" type="footnote" n="19">Eine deutsche Meile entspricht ca. 8 Kilometern (oder zwei Wegstunden).</note> et maneo cum isto causidico<note xml:id="fn20" type="footnote" n="20">Bei <persName>Paolo Umberto</persName>.</note>, de quo supra dixi, et scribo causa clientorum suorum, et cum eo in domino vivo et indies melius spero.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto">Bene valete omnes in Christo.</s>
+					<s n="27" xml:lang="la" type="auto"><placeName>Imolae</placeName>, 11. die februarii 1545.</s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Vester omnium minimus frater<lb/> Andreas Colettus <placeName>Italus</placeName>, qui fuit</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto">Tiguri circa principium maii<lb/> in anno 1544, una cum<lb/> Thoma Lüberio<note xml:id="fn21" type="footnote" n="21"><persName>Thomas Erastus</persName>.</note> Germano.</s>
+				</p>
+				<p>
+					<note type="address">[Ohne Adresse.]</note>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

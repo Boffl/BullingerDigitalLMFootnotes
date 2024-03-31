@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11369" type="Brief" source="HBBW" n="1326">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [um Ende Oktober 1539]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Scripsi hoc tempore ad vos rarius ideo, et quia occupationes nobis obstabant et quia nolui quidquam usquam movere, nisi quod dominus ipse nobis hic dedisset.</s>
+					<s n="3" xml:lang="la" type="auto">Multi sunt, qui nos arbitrantur fiducia suorum esse pertinaces<note xml:id="fn2" type="footnote" n="2"><persName>Grynäus</persName> spielt auf den Konflikt um das Verhältnis der Theologen zur Universität an; zu seiner schwierigen Lage s. unten <ref target="file11375">Nr. 1332</ref>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Spero hanc tempestatem aliquando sponte compositum iri.</s>
+					<s n="5" xml:lang="la" type="auto">Te oro per dominum, ut me credas esse amicum vestrę ecclesię aut vestri nominis vestręque authoritatis studiosissimum.</s>
+					<s n="6" xml:lang="la" type="auto">Scio coram domino, syncere vos omnes istic in domino diligo.</s>
+					<s n="7" xml:lang="la" type="auto">Iterum nos hic pestis tentare incipit.</s>
+					<s n="8" xml:lang="la" type="auto">Orabitis dominum, ut ecclesiam suam adversus hostes potentissimos defendat.<pb type="edition" next="247"/></s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">De rege Anglię<note xml:id="fn3" type="footnote" n="3"><persName>Heinrich VIII.</persName></note> vide, mi Bullingere, quid nobis sit sperandum; monstra sunt et portenta hominum hii reges.</s>
+					<s n="10" xml:lang="la" type="auto">Opere precium est, ut ad <persName ref="p4613">Cranmerum</persName> scribamus, si qua reduci in viam possit<note xml:id="fn4" type="footnote" n="4">Erzbischof <persName>Cranmer</persName> hatte dem Sechs-Artikel-Gesetz vom Juni 1539 gegen seine Überzeugung zugestimmt; vgl. oben <ref target="file11351">Nr. 1308</ref>, 41 mit Anm. 18.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Ex hospitibus istis Anglis<note xml:id="fn5" type="footnote" n="5">In Zürich weilende Flüchtlinge aus <placeName>England</placeName> sind auch in Bullingers Brief an <persName>Vadian</persName> vom 3. Oktober erwähnt; s. oben <ref target="file11355">Nr. 1312</ref>.</note> fac, ut diligenter cognoscas de omni re.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale iam in domino Christo, qui te servet incolumem.</s>
+					<s n="13" xml:lang="la" type="auto"><persName>Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName>Theodor Bibliander</persName>.</note>, <persName ref="p2305">Leonem</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Pellicanum</persName>, omnes fratres in Christo mihi diligenter saluta.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName>S. Gryneus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">H. Bullingero suo, amico.</s>
+					<s n="16" xml:lang="la" type="auto">Tygurum.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

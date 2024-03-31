@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12250" type="Brief" source="HBBW" n="2203">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Georg Frölich (Laetus) / [Augsburg] AN Heinrich Bullinger, 28. Juli 1545</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et gratiam a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Dominus d. <persName>Chunradus Gesnerus</persName>,<note xml:id="fn1" type="footnote" n="1"><persName>Anton Fugger</persName> hatte <persName>Gessner</persName> nach <placeName>Augsburg</placeName> in der Hoffnung eingeladen, ihn als Pädagogen für seine Söhne und Neffen zu gewinnen; s. oben <ref target="file12232">Nr. 2185</ref>, 27-36.</note> comitatus viro optimo <persName ref="p5295">Christophoro Froschouer</persName>, typographo insigni,<note xml:id="fn2" type="footnote" n="2">Froschauer war wohl zur Messe nach <placeName>Augsburg</placeName> gereist, die am St.-Ulrichstag (4. Juli) begann; s. Caspar <hi>Wolff</hi> Kalender oder Laaßbüechli sampt der Schreybtafel Massen und Jarmärckten uff das M.D. und LXIX. Jar, Zürich, <persName>Christoph Froschauer</persName>, 1568 (VD 16 W 4240), f. Bvj,v.</note> attulit mihi literas a te<note xml:id="fn3" type="footnote" n="3">Bullingers Brief, auf den <persName>Frölich</persName> im Folgenden öfter verweist, ist nicht erhalten.</note>, vir undiquaque splendidissime mihique observandissime, ad quas respondeam ne an potius me eas tantum accepisse significem, subdubito.</s>
+					<s n="3" xml:lang="la" type="auto">Nam tot modo occupationibus distringor, ut non modo amicos, sed etiam me ipsum plęrumque negligere cogar.</s>
+					<s n="4" xml:lang="la" type="auto">Hinc etiam factum est, ut viros excellentissimos<note xml:id="fn4" type="footnote" n="4"><persName>Gessner</persName> und <persName>Froschauer</persName>.</note> digno honore et humanitate prosequi non potuerim.</s>
+					<s n="5" xml:lang="la" type="auto">Invitavi tamen ipsos ad aedes meas eisque <persName ref="p6127">Michaelis Cellarii</persName>, <persName>Musculi</persName>, Ioannis Henrichi<note xml:id="fn5" type="footnote" n="5">Zu denken ist wohl an <persName>Johann Heinrich Held von Tiefenau</persName>, zu dieser Zeit Pfarrer an St. Ulrich in <placeName>Augsburg</placeName>; s. <hi>Roth</hi> III 537. 541.</note>, parrhecorum<note xml:id="fn6" type="footnote" n="6">Von den Pfarrern.</note>, item doctoris <persName>Claudii Peutingeri</persName> et <persName>Xisti Bethulei</persName><note xml:id="fn7" type="footnote" n="7"><persName>Sixt Birck</persName>.</note> copiam fęci, interque coenandum varia, licet non admodum erudita, non indecora tamen, contulimus.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Mira autem <persName>Gesnerus</persName> et gravitate et modestia usus est; edidit porro mansuetudine et comptis moribus eruditionis etiam rarę maximum exemplum.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Diligendus igitur atque observandus mihi erit in ęternum.</s>
+					<s n="8" xml:lang="la" type="auto">Quid cum <persName>Fuggero</persName><note xml:id="fn8" type="footnote" n="8"><persName>Anton Fugger</persName>.</note> expedierit, ipse declarabit.</s>
+					<s n="9" xml:lang="la" type="auto">Crędo <persName>Fuggerum</persName> pecuniis haud parsurum.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Quam autem periculosum fuerit tantum virum <placeName>Italiam</placeName> adire et incolere, ipse nosti!</s>
+					<s n="11" xml:lang="la" type="auto">Verumtamen cum videam singularem viri et prudentiam et industriam, haud facile puerile aliquid contrahendo commissurus est.</s>
+					<s n="12" xml:lang="la" type="auto">Dominus servet nobis ipsum cum aliis bonis omnibus quam diutissime.</s>
+					<s n="13" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p18889">Lutherum</persName> haud crędo parare fulmen adversum te,<note xml:id="fn11" type="footnote" n="11">Zur nicht erfolgten Verurteilung der Zürcher Lehre durch eine neue Publikation <persName>Luthers</persName> s. oben <ref target="file12205">Nr. 2158</ref>, Anm. 51.</note> nisi quod audieram ipsum cogere voluisse synodum<note xml:id="fn12" type="footnote" n="12">In <bibl>MBW-Reg</bibl> IV 258, Nr. 3988, ist wohl eine Anspielung auf das Vorhaben einer solchen Synode zu finden, wovon Melanchthon in der ersten Hälfte des Monats August mit Schaudern erfuhr.</note> et communibus asseclarum suffragiis Tigurinos<pb type="edition" next="418"/> et adherentes anathemate percutere.</s>
+					<s n="15" xml:lang="la" type="auto">Sed plęrique etiam ex suis dicuntur esse renisi et institutum in bullam abiisse.</s>
+					<s n="16" xml:lang="la" type="auto">Paret et machinetur ipse, quidquid volet, nil nisi risum et ludibrium inde laturus est, cum omnium sit fortissima veritas, cuius te tuosque invictissimos propugnatores nobis dominus pater cęlestis, cui quoque iugis laus, honor et gloria sit, perpetuo servet.</s>
+					<s n="17" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Bibliothecam <persName>Gessneri</persName> mihi comparabo et sancte servabo, presertim eo nomine, quod tantopere a te commendatur et iam nunc authorem ipsum agnorim.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Quantum ad dominum <persName ref="p7512">M[atthiam] Erbium</persName> pertinet, tu prudenter scribis, quod princeps <persName>Georgius</persName><note xml:id="fn14" type="footnote" n="14"><persName>Graf Georg von Württemberg-Mömpelgard</persName>, der <persName>Erb</persName> 1538 nach Reichenweier berufen hatte; s. <bibl>HBBW</bibl> IX <ref target="file11266">[Nr. 1223]</ref> 51, Anm. 1.</note> ipsum egre dimissurus sit, ideoque facile fieri posse, ut magistratui nostro vocationem ipsius graviter succenseat<note xml:id="fn15" type="footnote" n="15">Der Rat von <placeName>Augsburg</placeName> schrieb am 30. Juli 1545 in der gleichen Sache an Bullinger und bat ihn, <persName>Erb</persName> in seiner Vorgehensweise zu beraten, da der Rat die Verärgerung des Grafen Georg befürchtete; s. unten <ref target="file12251">Nr. 2204</ref>.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Accipias ergo ante omnia responsum <persName ref="p7512">Erbii</persName> super literis tuis<note xml:id="fn16" type="footnote" n="16">Nicht erhalten.</note>, atque si potuerit bona venia abitionem parare, primum ad vos concedat.</s>
+					<s n="21" xml:lang="la" type="auto">Deinde nobis accersendus erit; paravi enim illi honestam vocationem.</s>
+					<s n="22" xml:lang="la" type="auto">Hęc autem esset illi apud nos conditio, ut ad aliquot tempus libere in ecclesia nostra concionaretur.</s>
+					<s n="23" xml:lang="la" type="auto">Quamprimum vero m. <persName ref="p6127">Michael Cellarius</persName><note xml:id="fn17" type="footnote" n="17">Der kränkelnde <persName>Keller</persName> war seit 1524 Prediger in <placeName>Augsburg</placeName>, ab 1544 Pfarrer an St. Moritz; s. oben <ref target="file12242">Nr. 2195</ref>, Anm. 13.</note> - qui proh dolor per adversam valetudinem haud diu durabit - vel alius ex parrhecis nostris amplius suę ecclesię preesse nequeat, ut <persName ref="p7512">Erbius</persName> statim in locum surrogetur.</s>
+					<s n="24" xml:lang="la" type="auto">Interim vero et etiam post quasi superattendentem agat.</s>
+					<s n="25" xml:lang="la" type="auto">Statuet etiam magistratus noster in singulos annos 250 vel 300 aureos et aedes, etc., ita, ut honeste hic versari queat<note xml:id="fn18" type="footnote" n="18">Diesen Abschnitt von Z. 31 bis Z. 43 kopierte Bullinger fast wörtlich für <persName>Matthias Erb</persName> in seinem Brief vom 6. August, unten <ref target="file12256">Nr. 2209</ref>, Beilage 2.</note>.</s>
+				</p>
+				<p>
+					<s n="26" xml:lang="la" type="auto"><pb type="scan" next="162v."/>Quod de adventu meo ad vos scriptis<note xml:id="fn19" type="footnote" n="19">Schon in seinem Brief vom 20. Juni 1545 hatte <persName>Frölich</persName> Besuchsabsichten geäußert; s. oben <ref target="file12232">Nr. 2185</ref>, 55-58.</note> attigi, adhuc exequi animus est<note xml:id="fn20" type="footnote" n="20"><persName>Frölich</persName> besuchte Bullinger tatsächlich am 25. September; s. <bibl>HBD</bibl> 33, 10-25; unten <ref target="file12298">Nr. 2251</ref>, Anm. 1.</note>.</s>
+					<s n="27" xml:lang="la" type="auto">Dominus institutum prosperet.<pb type="edition" next="419"/></s>
+				</p>
+				<p>
+					<s n="28" xml:lang="la" type="auto">Quibus conditionibus inter Turcam et nostra capita indutię pactę sint, nondum apud nos vere scitur<note xml:id="fn21" type="footnote" n="21">Schon in seinem Brief vom 20. Juni 1545 hatte <persName>Frölich</persName> einen [provisorischen] Frieden mit den Türken erwähnt; s. oben <ref target="file12232">Nr. 2185</ref>, 59f und Anm. 21.</note>.</s>
+					<s n="29" xml:lang="la" type="auto">Mussitant tamen quidam inter cętera ita conventum esse, ut Turca Hungariam ad <placeName>Presburgum</placeName><note xml:id="fn22" type="footnote" n="22"><placeName>Bratislava (Slowakei)</placeName>, seit 1536 Hauptstadt des Königlichen (habsburgischen) <placeName>Ungarn</placeName>, welches nach der Schlacht von <placeName>Mohács</placeName> 1526 aufgeteilt worden war.</note> usque fere possideat, rex vero <persName>Ferdinandus</persName> illi viginti quatuor millia ducatorum tributum in singulos annos durantibus induciis adnumeret et nostri se tributarios Turcę publice et fateantur et scribant, etc<note xml:id="fn23" type="footnote" n="23">Andere von Ferdinand dem <persName>Sultan Suleiman I.</persName> und verschiedenen Würdenträgern versprochene Geldbeträge finden sich in <hi>Hammer-Purgstall III</hi> 271; darüber hinaus lassen sich keine genaueren Bedingungen ermitteln.</note>.</s>
+					<s n="30" xml:lang="la" type="auto">Nolim tamen hęc pro certo spargi, pręsertim meo nomine.</s>
+				</p>
+				<p>
+					<s n="31" xml:lang="la" type="auto">Transmissum amititię pignus<note xml:id="fn24" type="footnote" n="24">Bullinger hatte <persName>Frölich</persName> am 20. Juni 1545 die Schriften "Der alt gloub", "Bericht der krancken" und "Hoffnung der Glöubigen" übersandt; s. oben <ref target="file12242">Nr. 2195</ref>, Anm. 2-5.</note> mecum dormiet et vigilabit, neque discedet e manibus meis, donec bene imbibitum fructus dignos ferat.</s>
+					<s n="32" xml:lang="la" type="auto">Certum est Henrichum meum memoria mea perpetuo mansurum.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Quod vero papistis et post illos Lutheranis semper invisus fuerim,<note xml:id="fn25" type="footnote" n="25">Vgl. ähnliche Aussagen <persName>Frölichs</persName> in oben <ref target="file12242">Nr. 2195</ref>, 24-30.</note> testabitur dominus, qui me a iuventute et fere ab incunabulis adversarium sacrificulis esse voluit, adeo ut etiam sacerdotium pingue, quod ultro mihi offerebatur ante 23 annos, alteri<note xml:id="fn26" type="footnote" n="26">Unbekannt.</note> gratuito sine omni refusione concesserim<note xml:id="fn27" type="footnote" n="27">Hierzu konnte nichts ermittelt werden.</note>.</s>
+					<s n="34" xml:lang="la" type="auto">Testabuntur id ipsum theologi comitis Palatini, theologi itidem et magistratus <placeName>Norinbergenses</placeName>, qui me letali odio persecuti sunt non aliam ob causam, quam quod nolui cruditati eorum subscribere.</s>
+					<s n="35" xml:lang="la" type="auto">Hęc quoque unica causa est, cur deseruerim Palatini aulam<note xml:id="fn29" type="footnote" n="29"><placeName>Heidelberg</placeName>, wo <persName>Frölich</persName> um das Jahr 1520 an der kurpfälzischen Kanzlei tätig war; s. <hi>Radlkofer,</hi> aao, S. 48f.</note> et <placeName>Norinbergam</placeName> ipsam<note xml:id="fn30" type="footnote" n="30"><persName>Frölich</persName> wirkte vorübergehend 1521/22 und von Oktober 1526 bis Ende 1536 oder Anfang 1537 in der <placeName>Nürnberger</placeName> Ratskanzlei; s. <bibl>HBBW</bibl> XIV <ref target="file12037">[Nr. 1990]</ref> 411, Anm. 8.</note>, ubi splendida mihi erat conditio.</s>
+					<s n="36" xml:lang="la" type="auto">Sed vocationem domini secutus longe et splendidiorem et pinguiorem <placeName>Augustę</placeName> reperii,<note xml:id="fn31" type="footnote" n="31"><persName>Frölich</persName> ist seit Februar 1537 in <placeName>Augsburg</placeName> nachweisbar; s. <hi>Radlkofer,</hi> aao, S. 49f.</note> quanquam neque hic mihi religionis negotio satis fit.</s>
+					<s n="37" xml:lang="la" type="auto">Verum cum nullibi ex omni parte beatitudinem mortales inveniantur, imbecillitas susque deque invicem feramus.</s>
+				</p>
+				<p>
+					<s n="38" xml:lang="la" type="auto">Ut scribis, frater integerrime, ita multi sunt, qui in religionis causa hodie simulant et dissimulant.</s>
+					<s n="39" xml:lang="la" type="auto">Quid autem responsuri sint, cum dominus rationem<pb type="edition" next="420"/> verbi huius „Qui me confitetur coram hominibus“ [Mt 10, 32], etc., exegerit, viderint ipsi!</s>
+					<s n="40" xml:lang="la" type="auto">Ego moralem et politicam hanc excusationem, quam etiam magnos viros nostri seculi<note xml:id="fn32" type="footnote" n="32">Darunter wohl auch <persName>Bucer</persName>.</note> afferre audivi, admittere minime possum.</s>
+					<s n="41" xml:lang="la" type="auto">Dicunt enim ad pręcavendum mala, multa esse condonanda et connivendum, etc., quasi dominus etiam in cęlis possit circumduci et decipi.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto"><persName ref="p6127">Michael Cellarius</persName>, fidelis Christi servus, idem quod tu cupit, nempe se tibi esse quam humanissime commendatum, nihilque malit quam in numerum tuorum recipi vultque te plurima salute impertitum.</s>
+				</p>
+				<p>
+					<s n="43" xml:lang="la" type="auto">Speculum <persName>Osiandri</persName> putabam quam paucissimis esse visum.</s>
+					<s n="44" xml:lang="la" type="auto">Verum, cum tanto loci<note xml:id="fn33" type="footnote" n="33">Ein Druckexemplar des Spottgedichts "Speculum Osiandri" ist nicht erhalten. Deswegen bleiben Drucker und Druckort noch unbekannt; s. <persName>Osiander</persName> GA VIII 304, Anm. 98.</note>, in quo excusum esse censeo intervallo, iam pridem ad te venerit, quam plurimis esse communicatum sentisco!</s>
+					<s n="45" xml:lang="la" type="auto">Mordax sane est carmen et offensioni proximum.</s>
+					<s n="46" xml:lang="la" type="auto">Sed cum <persName>Osiander</persName> tam impie viros optimos,<pb type="scan" next="163r."/> iamiam in Christo dormientes<note xml:id="fn35" type="footnote" n="35">Gemeint sind <persName>Zwingli</persName> und <persName>Oekolampad</persName>; s. oben <ref target="file12242">Nr. 2195</ref>, 38.</note>, lacerare non erubuerit,<note xml:id="fn36" type="footnote" n="36">Nämlich in <persName>Osianders</persName> "Coniecturae de ultimis temporibus ac de fine mundi"; s. oben <ref target="file12242">Nr. 2195</ref>, Anm. 16-17.</note> inertię fuisset, si non aliquis anthogonista<note xml:id="fn37" type="footnote" n="37">Gemeint ist <foreign xml:lang="el">ἀνταγωνιστής</foreign>, ein Opponent.</note>, velut umbratilis vindex, prodiisset.</s>
+					<s n="47" xml:lang="la" type="auto">Quisquis autem Speculi author sit, tu non inaniter de eo suspicaris.</s>
+					<s n="48" xml:lang="la" type="auto">Cur autem author nomen suum presserit et pietate ductus famosi notam non omnino fugerit, auditurus es olim.</s>
+					<s n="49" xml:lang="la" type="auto">Insunt autem versiculis mendę, quas amanuensis in transscribendo forsan oscitando commisit; tu boni consules.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la" type="auto">Plura modo scribere negotia non sinunt.</s>
+					<s n="51" xml:lang="la" type="auto">Salutabis d. <persName>Bibliandrum</persName>, <persName>Pellicanum</persName>, <persName>Gvalterum</persName> et universos doctos.</s>
+					<s n="52" xml:lang="la" type="auto">Tu vero ita vale, ut mihipsi salutem comprecari queam.</s>
+					<s n="53" xml:lang="la" type="auto">28. iulii 1545.</s>
+				</p>
+				<p>
+					<s n="54" xml:lang="la" type="auto">Tuus ex animo <persName>Georgius Lętus</persName>, archigrammateus <placeName>Augustę Vindelicorum</placeName>.</s>
+				</p>
+				<p>
+					<s n="55" xml:lang="la" type="auto">Celerrime.</s>
+				</p>
+				<p>
+					<s n="56" xml:lang="la" type="auto">In gratiam Tigurinorum theologorum hoc distichon mihi subito effunditur: <persName>Hannibal</persName> ad Cannas<note xml:id="fn39" type="footnote" n="39"><persName>Hannibal</persName> besiegte im Zweiten Punischen Krieg 216 v.Chr. die Römer bei <placeName>Cannae</placeName>; s. <bibl>DNP</bibl> II 964.</note> non tanta strage triumphat, Quanta de <placeName>Roma</placeName> magnanimes Tiguri.<pb type="edition" next="421"/></s>
+				</p>
+				<p>
+					<s n="57" xml:lang="la" type="auto">Gratulatorium: Exhilarat me <persName>Gesneri</persName> presentia<note xml:id="fn40" type="footnote" n="40"><persName>Gessners</persName> Besuch in <placeName>Augsburg</placeName>.</note> tantum Quantum Tespiades<note xml:id="fn41" type="footnote" n="41">Die Musen.</note> crispus Apollo deas.</s>
+				</p>
+				<p>
+					<s n="58" xml:lang="la" type="auto">Una nam fatur lingua sermone trilici<note xml:id="fn42" type="footnote" n="42">Gemeint sind wohl Latein, Griechisch und Hebräisch.</note> Doctrinęque capit vas velut omne genus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="59" xml:lang="la" type="auto">[Incompa]rabili viro domino Henricho [Bullingero], ecclesiae Tigurinorum an[tistiti, amic]o et fratri perpetuo, etc.</s>
+				</p>
+				<p>
+					<s n="60" xml:lang="de" type="auto">[Zu]rch.<note xml:id="fn43" type="footnote" n="43">Der möglicherweise von <persName>Gessner</persName> und <persName>Froschauer</persName> überbrachte Brief <hi>traf</hi> am 5. August in Zürich ein; s. unten <ref target="file12256">Nr. 2209</ref>, 171.</note></s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

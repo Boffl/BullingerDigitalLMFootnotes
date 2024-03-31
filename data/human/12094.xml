@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12094" type="Brief" source="HBBW" n="2047">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Wolfgang Musculus (Müsli, Meuslin) / Augsburg AN Heinrich Bullinger, 9. Dezember 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
+					<s n="2" xml:lang="la" type="auto">Quas ad me dedisti 10. octobris,<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> Bullingere charissime, quinta novembris accepi.</s>
+					<s n="3" xml:lang="la" type="auto">Respondissem confestim, nisi Cochleana me tum temporis improbitas alio aversum detinuisset, cui quanquam non sine molestia respondere tamen sum coactus.</s>
+					<s n="4" xml:lang="la" type="auto">Quae illi responderim, hic ad te mitto<note xml:id="fn3" type="footnote" n="3"><persName>Musculus</persName>' Schrift "Adversus libellum Iohannis Cochlaei de sacerdotio ac sacrificio novae legis aeditum Anticochlaeus primus", Augsburg, <persName>Philipp Ulhart</persName>, 1544 (VD 16, M 7270). Das mit einer handschriftlichen Widmung an Bullinger versehene Exemplar ist nicht erhalten.</note> ea conditione, ut, si quid offenderit, candide significes.</s>
+					<s n="5" xml:lang="la" type="auto">Scis has esse amicitiae leges, ut libere amicorum errata corrigamus; quod si feceris, vel amicitiae nomine gratissimum erit, etiamsi error non sit, quod esse videtur.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Quapropter non erat necessarium tantopere petere, ut, quae de sententia mea in causa cęnae dominicae scripsisti,<note xml:id="fn4" type="footnote" n="4">Im nicht mehr erhaltenen Brief. - Vgl. aber dazu oben <ref target="file12057">Nr. 2010</ref>, 40-55.</note> boni consulam.</s>
+					<s n="7" xml:lang="la" type="auto">Crede mihi, mi Bullingere, nisi hoc faceres, amicum non agnoscerem.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Tametsi enim iam antea sciverim in formulis loquendi et exponendi non convenire nobis per omnia in hac causa, cupidissime tamen amicitiam in Christo tecum inivi, quam etiamnum per gratiam illius constantissime illibatam retinere curabo.</s>
+					<s n="9" xml:lang="la" type="auto">Non repugno, quominus, ut sentitis, ita et loquamini et scribatis.</s>
+					<s n="10" xml:lang="la" type="auto">Qua enim libertate usi sunt in ecclesia sancti patres, et ipse uti cupio in tractandis sanctis scripturis.</s>
+					<s n="11" xml:lang="la" type="auto">Quur hanc non pari ratione et aliis permitterem?</s>
+					<s n="12" xml:lang="la" type="auto">Quae itaque in Matheo scripsi pro fide mea, non amicitia, quam omnibus in Christo fratribus debeo, scripsi.</s>
+					<s n="13" xml:lang="la" type="auto">Vestra expositio - etsi non<pb type="edition" next="581"/> sit per omnia reiicienda, sicut etiam eo loco memini -, quem adducis<note xml:id="fn7" type="footnote" n="7">Die Zürcher Auffassung über das Abendmahl im verlorenen Brief Bullingers an <persName>Musculus</persName>; s. oben Z. 1f.</note> (nam ibi expresse positum est, licet enim id non sit alienum a veritate), meo tamen iudicio scopum verborum Christi non attingit; non attingit, inquam - non dico impugnat vel reluctatur -, hoc est non satis consequitur, non satis clare exprimit, sicut in commentariis istis annotavi.</s>
+					<s n="14" xml:lang="la" type="auto">Aliquid dicitis, sed minus quam convenit et spiritus verborum Christi postulat.</s>
+					<s n="15" xml:lang="la" type="auto">Sed non potes sententiam nostram probare et a vestra expositione discedere, quam dicis esse patrum omnium, qui ad tempora antichristi usque sic senserint.</s>
+					<s n="16" xml:lang="la" type="auto">De patribus scio, mi Bullingere, quid<pb type="scan" next="128v."/> scripserint fere omnes<note xml:id="fn9" type="footnote" n="9">Zu <persName>Musculus</persName>' Interesse für die und Vertrautheit mit den Schriften der Kirchenväter s. <hi>Bodenmann,</hi> aaO, S. 451-458.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Etenim si quisquam est, quem haec controversia torserit et ad singulorum scripta volvenda adegerit, arbitror et me talem fuisse, cuius rei perspicua possum indicia in lucem dare.</s>
+					<s n="18" xml:lang="la" type="auto">Sicut in aliis quoque ita et in hac causa varie loquuntur.</s>
+					<s n="19" xml:lang="la" type="auto">De exhibitionis verbo, quod ut novum fugis,<note xml:id="fn10" type="footnote" n="10">Zu Bullingers Abneigung gegenüber dem Worte <hi>exhibitio</hi> im Zusammenhang mit dem Abendmahl s. Bullingers späteren Brief an <persName>Musculus</persName> vom 18. Februar 1546, Zürich StA, E II 345, 355, <bibl>CR</bibl> XII 288-291, <ref target="file10807">Nr. 769</ref>; <hi>Bodenmann,</hi> aaO, S. 532.</note> vellem id te sentire, quod nos sentire non hominis alicuius sed ipsius veritatis authoritate cogimur.</s>
+					<s n="20" xml:lang="la" type="auto">Nihil habet in se crassi, corporei ac carnei, sed in hoc unum usurpatur, ut scopum verborum Christi exprimat, qui omnino non solum indicare discipulis voluit, quid panis, quem dabat, significaret, sed et exponere, quid ipsis daret his symbolis, pane et vino, nempe seipsum, corpus ac sanguinem suum.</s>
+					<s n="21" xml:lang="la" type="auto">Et similia, quae adieci, satis ostendunt non sapere papismum hanc expositionem, quam et <persName>Chrysostomus</persName> dilucide posuit, etsi non „exhibendi“, „tradendi“ tamen verbo usus<note xml:id="fn11" type="footnote" n="11">Siehe <hi><persName>Musculus</persName>,</hi> "In Evangelistam Matthaeum commentarii", Basel 1548, S. 553.</note>.<pb type="edition" next="582"/></s>
+				</p>
+				<p>
+					<s n="22" xml:lang="la" type="auto">Existimo fieri posse, ut, si hanc expositionem admitteretis, finis tandem contendendi fieret, qui in vestra sententia aegerrime sperandus est.</s>
+					<s n="23" xml:lang="la" type="auto">Sed quicquid sit, quod ad me attinet, non exigo a quopiam, ut aliter loquatur, quam sicut sentit, nec ego, gratia domini adiutus, in cuiusquam gratiam contra id, quod sentio, dicam aliquid vel scribam.</s>
+					<s n="24" xml:lang="la" type="auto">Interea cum his, qui Christum Iesum dominum nostrum pura fide confitentur, christianam amicitiam retinebo, quoad eius potero.</s>
+					<s n="25" xml:lang="la" type="auto">Nec ita <persName ref="p18889">Luthero</persName> adherebo, ut, quos ipse condemnat, mox una contemnem et ipse.</s>
+					<s n="26" xml:lang="la" type="auto">Nec vester ita futurus sum amicus, ut, quae vel in <persName ref="p18889">Luthero</persName> vel quopiam alio probantur, propter amicitiam hanc nostram respuam.</s>
+					<s n="27" xml:lang="la" type="auto">In causa fidei unius Christi ac veritatis eius esse volo; in christiana <foreign xml:lang="el">ϕιλαδελϕία</foreign> omnium familiarissimus esse cupio, qui aliquid Christi spirant.</s>
+					<s n="28" xml:lang="la" type="auto">Quomodo Cochlęo de concordia cum <persName ref="p18889">Luthero</persName> inita responderim,<pb type="scan" next="129r."/> potes Biij legere.</s>
+					<s n="29" xml:lang="la" type="auto">Nec puto illum habiturum, quod callide quęrebat.</s>
+					<s n="30" xml:lang="la" type="auto">Caeterum de libello <persName ref="p18889">Lutheri</persName><note xml:id="fn13" type="footnote" n="13">Gemeint ist <persName>Luthers</persName> "Kurtz bekentnis"; s. oben <ref target="file12018">Nr. 1971</ref>, Anm. 20.</note> quid dicam?</s>
+					<s n="31" xml:lang="la" type="auto">Det dominus ministris suis spiritum sobrietatis<note xml:id="fn14" type="footnote" n="14">2Tim 1, 7.</note> ac modestiae<note xml:id="fn15" type="footnote" n="15">1Petr 3, 4.</note> et largiatur, ut magis aedificandis ecclesiis quam privatis affectibus serviant.</s>
+					<s n="32" xml:lang="la" type="auto">Magnus <persName ref="p18889">Lutherus</persName>, magnus <persName>Zvinglius</persName>, sed Christi ecclesia maior utroque<note xml:id="fn16" type="footnote" n="16">Vgl. 1Kor 1, 12f.</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Funiculum hunc contentionis<note xml:id="fn17" type="footnote" n="17"><bibl>Adagia</bibl>, 3, 3, 77 (<bibl>ASD</bibl> II/5 227, <ref target="file12324">Nr. 2277</ref>).</note> spiritu pacis<note xml:id="fn18" type="footnote" n="18">Röm 8, 6; 14, 17; Gal 5, 22.</note> suę abrumpat dominus.</s>
+					<s n="34" xml:lang="la" type="auto">Fertur <persName ref="p18889">Lutherus</persName> suo more coelum terra miscens<note xml:id="fn19" type="footnote" n="19">Vgl. Adagia, 1, 3, 81 (<bibl>ASD</bibl> II/1 384, <ref target="file10312">Nr. 281</ref>).</note>.</s>
+					<s n="35" xml:lang="la" type="auto">Vos, obsecro, servate in respondendo christianam modestiam<note xml:id="fn20" type="footnote" n="20">2Kor 10, 1.</note> et, quod exacerbatum est plus satis, nolite verbis acerbioribus et non necessariis exacerbatius reddere.</s>
+					<s n="36" xml:lang="la" type="auto">Servate futuris temporibus apertas concordiae ianuas.</s>
+					<s n="37" xml:lang="la" type="auto">Non ubique verum est illud: „Qui non est hodie, cras minus aptus erit.“<note xml:id="fn21" type="footnote" n="21">Ovid, Remedia amoris, 94.</note></s>
+					<s n="38" xml:lang="la" type="auto">Spero futurum aliquando, ut, qui iam ineptius et impotentius<pb type="edition" next="583"/> contendunt, aptiores ad concordiam accedant, quam nunc apparent.</s>
+					<s n="39" xml:lang="la" type="auto">Probarem <persName ref="p6490">Philippi</persName><note xml:id="fn22" type="footnote" n="22"><persName>Melanchthon</persName>.</note> sententiam, qui arbitratur non posse melius istis offendiculis occurri quam pertinaci silentio<note xml:id="fn23" type="footnote" n="23">Vgl. <persName>Melanchthon</persName> an <persName>Musculus</persName>, 10. November [1544], <bibl>CR</bibl> V 525, Nr. 3071; MBW, Regesten IV 145f, Nr. 3729.</note>.</s>
+					<s n="40" xml:lang="la" type="auto">Sed forsan sunt, quibus aliud videtur cum apud vos tum alibi.</s>
+					<s n="41" xml:lang="la" type="auto">Verum animus ab affectuum perturbatione aliquanto liberior facile videt, quid paci alendae et dissensionum offendiculis amovendis conducat.</s>
+				</p>
+				<p>
+					<s n="42" xml:lang="la" type="auto">Sed ignosce, mi Bullingere, quod tumultuario hoc scripto literis tuis doctissimis et amicissimis respondeo.</s>
+					<s n="43" xml:lang="la" type="auto">Testudo<note xml:id="fn24" type="footnote" n="24">Hier im Sinne einer Schnecke, die <persName>Cochläus</persName> (griech. <foreign xml:lang="el">κοχλίας</foreign> Schnecke, Wendeltreppe - nach seiner Heimatpfarrei <placeName>Wendelstein</placeName>, bei Schwabach, Mittelfranken) bezeichnet; sterner oben <ref target="file11993">Nr. 1946</ref>, Anm. 6.</note> illa, in qua cum impura spuma<note xml:id="fn25" type="footnote" n="25">Hier der Schneckenschleim, wohl als Bezeichnung für <persName>Cochläus</persName>' schriftliche Tätigkeit.</note> utrique pugnamus, animi placiditatem ac statum nonnihil turbavit.</s>
+					<s n="44" xml:lang="la" type="auto">Cupio videre, quid ad Replicam inepti senis<note xml:id="fn26" type="footnote" n="26"><persName>Cochläus</persName>' "Replica brevis" gegen Bullinger; s. oben <ref target="file12046">Nr. 1999</ref>, Anm. 12.</note> responderis<note xml:id="fn27" type="footnote" n="27">Bullingers "Brevis <foreign xml:lang="el">ἀντιβολή</foreign>" war gerade erschienen; s. oben <ref target="file12057">Nr. 2010</ref> mit Anm. 22; 2033; 2040, 23f.</note>.</s>
+					<s n="45" xml:lang="la" type="auto">Statui post alterum Anticochleum nihil illi amplius respondere.</s>
+					<s n="46" xml:lang="la" type="auto">Gloriosulus quęrit studio, cum quibus altercari possit.</s>
+				</p>
+				<p>
+					<s n="47" xml:lang="la" type="auto">Bene vale in domino fratrum et amicorum charissime.</s>
+					<s n="48" xml:lang="la" type="auto">Saluta fratres, praesertim <persName>Gvaltherum</persName>.</s>
+				</p>
+				<p>
+					<s n="49" xml:lang="la" type="auto"><placeName>Augustae</placeName>, 1544, 9. decembris.</s>
+				</p>
+				<p>
+					<s n="50" xml:lang="la" type="auto"><persName>Wolfg. Musculus</persName>, tuus in domino<note xml:id="fn29" type="footnote" n="29">Dieser Brief blieb längere Zeit in <placeName>Memmingen</placeName> liegen, bevor er am 19. Dezember 1544 von <placeName>Konstanz</placeName> nach Zürich weiter befördert wurde; s. unten <ref target="file12099">Nr. 2052</ref>, 3-5, und Anm. 1.</note>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="51" xml:lang="la" type="auto">Viro doctissimo ac pientissimo d. Heinricho Bullingero, Tigurinae ecclesiae antistiti vigilantissimo, domino ac fratri suo longe charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

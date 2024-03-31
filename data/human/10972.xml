@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10972" type="Brief" source="HBBW" n="930">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Zwick / [Konstanz] AN Konrad Pellikan (Kürschner), [Heinrich Bullinger], 30. Dezember 1536</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Sacculum tuum remitto.</s>
+					<s n="3" xml:lang="la" type="auto">Epistolam meam remitto Bullingero; libellos <persName ref="p18889">Lutheri</persName> et ipsos mitto<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file10958">Nr. 916</ref>, 19f mit Anm. 121.</note>.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Et nuntio vobis me cum fratre germano<note xml:id="fn3" type="footnote" n="3"><persName>Konrad Zwick</persName>.</note> abire <placeName>Argentoratum</placeName> explicandi et forte finiendi negotii causa, quantum scilicet ad nostram ecclesiam adtinet<note xml:id="fn4" type="footnote" n="4">Die Brüder <persName>Zwick</persName> sollten das Bekenntnis der <placeName>Konstanzer</placeName> und ihr Schreiben an <persName>Luther</persName> nach <placeName>Straßburg</placeName> bringen, was jedoch wegen einer Erkrankung <persName>Konrad Zwicks</persName> und wegen der Ausschreibung eines Schmalkaldischen Bundestages unterblieb; s. <hi>Moeller,</hi> <persName>Zwick</persName> 191f.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Abimus missi ab ecclesia cum plena instructione mittenda <persName ref="p18889">Luthero</persName>.</s>
+					<s n="6" xml:lang="la" type="auto">Dominus adsit nobis.</s>
+					<s n="7" xml:lang="la" type="auto">Vos memores estote nostri ad dominum, ut ex illius spiritu cuncta gerantur.</s>
+					<s n="8" xml:lang="la" type="auto">Plura non possum, ita me distrahit profectio.</s>
+				</p>
+				<p>
+					<s n="9" xml:lang="la" type="auto">Valete.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">30. decembris 1536.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Tuus <persName>Io. Zvick</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="12" xml:lang="la" type="auto">Domino <persName>Chunrado Pellicano</persName>, hebraicarum literarum professori, praeceptori et fratri suo charisimo.</s>
+					<s n="13" xml:lang="de" type="auto">Zürch.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

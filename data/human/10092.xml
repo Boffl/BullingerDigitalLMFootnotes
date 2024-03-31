@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10092" type="Brief" source="HBBW" n="63">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Berchtold Haller / Bern AN Heinrich Bullinger, 9. Februar 1532</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Spiritum fortitudinis et intelligentiae<note xml:id="fn1" type="footnote" n="1">Vgl. Jes 11,2.</note> adaugeat tibi dominus et pater domini nostri Iesu Christi.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Charissime frater, binas a te paucis diebus accępi literas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Quibus cum nihil responderim et conterraneus tuus<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> certo pollicitus sit se meas redditurum, nunc respondeo.</s>
+				</p>
+				<p>
+					<s n="4" xml:lang="la" type="auto">Primum commendasti duos<note xml:id="fn4" type="footnote" n="4">Beide unbekannt.</note>, et si plures commendaveris, erunt tuo nomine mihi commendatissimi.</s>
+					<s n="5" xml:lang="la" type="auto">Synodo finita<note xml:id="fn5" type="footnote" n="5">Die <placeName>Berner</placeName> Synode endete am 13. Januar 1532, s. oben <ref target="file10085">[Nr. 56]</ref> S. 30, Anm. 2.</note> provincię omnes ministris delegatę sunt, ut iam locus nullus supersit; tamen non oberit fratres syncęros nobis esse cognitos, ut posthac, cum in ministerio desiderentur, tutius subordinari possint.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Deinde, quae et qualia <persName>Capito</persName> nobiscum egerit, videbis propediem, cum e prelo Frobeniano<note xml:id="fn6" type="footnote" n="6">Zur Geschichte der in <placeName>Basel</placeName> von <persName>Johann Froben</persName> (1460-1527) gegründeten Druckerei s. <hi>Benzing,</hi> Buchdrucker 30 und <hi>Grimm,</hi> Buchführer 1372-1378.</note> exierint<note xml:id="fn7" type="footnote" n="7">Der Druck der Synodalakten wurde noch vor dem 13. Februar vollendet, s. Straßer 83.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Totus eram in hoc, ut <persName>Megandri</persName> causa, quę mirum in modum et inter ministros et inter senatum, diacosios<note xml:id="fn8" type="footnote" n="8">Der Rat der Zweihundert.</note> ac plebem factiosa fuisset, feliciter citra propheticę libertatis iudicium transigi posset et ministri agnoscerent non acerbis scommatis, sed suavi et salsa modestia rem maxime promoveri<note xml:id="fn9" type="footnote" n="9">Siehe oben S. 30, Anm. 3.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Divisit acta per capita et pro hominis imbecillitate plus insumpsit laboris, quam exigere quisquam fuisset ausus.</s>
+					<s n="9" xml:lang="la" type="auto">Donabit latinitate eadem <persName>Simon Sulcerus</persName>, adulescens maxime<pb type="edition" next="46"/> spei, urbis nostrę in studiis alumnus, <persName>Grinęi</persName> discipulus, ut senatus noster suorum studiorum primitias habeat<note xml:id="fn11" type="footnote" n="11"><persName>Sulzers</persName> Übersetzung des Synodus erschien Ende März 1532, s. oben <ref target="file10085">[Nr. 56]</ref> S. 30, Anm. 5.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Quicquid proinde tibi placuerit vel displicuerit, libere commentaberis nobiscum<note xml:id="fn12" type="footnote" n="12">Bullingers Antwort ist nicht bekannt, vgl. <hi>Straßer</hi> 82-85.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Aperte et ex corde velim omnia agi tanquam in conspectu unius dei et domini Iesu Christi, quem etiam unum in omnibus spectare debemus.</s>
+					<s n="12" xml:lang="la" type="auto">Hoc scias, hominem magistratui, plebi et ministris ita gratum fuisse, ac si numen e cęlo delapsum fuisset, et ita omnia egit, ut videantur pacatissima.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Sed rationem studii<note xml:id="fn13" type="footnote" n="13">Siehe unten Nr. 83.</note> et pharaonis obdurationem<note xml:id="fn14" type="footnote" n="14">Siehe oben S. 31, Anm. 12.</note> nondum cum habeam explicatam, velim tamen, cum tantum tibi ocii possis suffurari, habeam.</s>
+					<s n="14" xml:lang="la" type="auto">Quod promittis prophetici officii<note xml:id="fn15" type="footnote" n="15">Siehe oben S. 41, Anm. 1.</note> simul et Hebreorum explicationem<note xml:id="fn16" type="footnote" n="16">Zu Bullingers Hebräerbrief-Kommentar (<bibl>HBBibl</bibl> I 38) s. unten <ref target="file10145">[Nr. 115]</ref> S. 167, Anm. 6.</note>, velim quam fęliciter praestes; nam vix credis, quam mihi et tuus et <persName>Pellicani</persName> spiritus arrideat.</s>
+					<s n="15" xml:lang="la" type="auto">Non vult forte dominus, ut hi, qui optime inter se convenirent, simul sint, quo discamus affectus infringi et alter alteri subiici et deferre.</s>
+					<s n="16" xml:lang="la" type="auto">Miror, quid <persName>Pellicanum</persName> nostrum remoretur, quod sua tandem tam diu expectata non prodeunt; hortare hominem, ne talentum creditum sepeliat<note xml:id="fn18" type="footnote" n="18">Vgl. Mt 25,18.25.</note>, et cogitet, ut dum etiam praestiterit orbi, quae habet, adhuc maiora alios quoque manere.</s>
+					<s n="17" xml:lang="la" type="auto">Serviat et dispenset sua fratribus, nec cogitet exanclari scripturę thesaurum.</s>
+					<s n="18" xml:lang="la" type="auto">Et tu quoque non diutius nos suspendas.</s>
+					<s n="19" xml:lang="la" type="auto"><persName ref="p5295">Froschowero</persName> locutus sum <placeName>Bernę</placeName>, ut quicquid vel tua vel <persName>Pellicani</persName> officina suis prodierit typis, ab initio mittat.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Cęterum <persName>Megander</persName> bene se habet pro contione atque etiam nobiscum.</s>
+					<s n="21" xml:lang="la" type="auto">Omnia reddita sunt pacatiora.</s>
+					<s n="22" xml:lang="la" type="auto">Quod vero sollicitus es pro utriusque civitatis concordia, sollicitus sum et ego, quod noverim utramque sine altera facile perituram.</s>
+					<s n="23" xml:lang="la" type="auto">Scripsit ex vestratibus quidam domino In Hag per <placeName>Basilienses</placeName> optime fieri posse.</s>
+					<s n="24" xml:lang="la" type="auto">Sed aliis initiis opus erit.</s>
+					<s n="25" xml:lang="la" type="auto">Utinam Röstius vester, homo nostris gratissimus<note xml:id="fn19" type="footnote" n="19">Siehe oben S. 32,33-35.</note>, apud nos vel minima haberet negocia et quasi suopte instituto paucis nostrum et cordatioribus loqueretur; facilia forent pacis ineundę initia<note xml:id="fn20" type="footnote" n="20">Vgl. oben S. 32,33-35 und Anm. 31.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Tu cogita et iube, quae velis.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Postremo velim, ubi nam literę nostrę tuto <persName>Capitoni</persName> reddi possent, ocius indicares.</s>
+					<s n="28" xml:lang="la" type="auto">Nam seria illi scripturus eram<note xml:id="fn21" type="footnote" n="21">Der erste erhaltene Brief von <persName>Haller</persName> an <persName>Capito</persName> ist am 16. März 1532 datiert, vgl. <hi>Straßer</hi> 74.84.</note>.</s>
+					<s n="29" xml:lang="la" type="auto"><persName>Andreas</persName> ex Vilmäringen in diaconum vocatus est.</s>
+					<s n="30" xml:lang="la" type="auto">Apud quem scribere poteris.</s>
+					<s n="31" xml:lang="la" type="auto"><persName ref="p2305">Leonem</persName>, <persName>Pellicanum</persName>, parentem<pb type="scan" next="||59v"/> tuum<note xml:id="fn23" type="footnote" n="23">Dekan <persName>Heinrich Bullinger</persName>.</note> et <persName>Zuinglii</persName><pb type="edition" next="47"/> uxorem viduam salutabis.</s>
+					<s n="32" xml:lang="la" type="auto">Nihil sit anxia pro filiolo; noster est totus et bonę indolis puer; officia paterna praestabit Trempius, praestabimus et nos, ubi opera nostra indiguerit.</s>
+					<s n="33" xml:lang="la" type="auto">Fratri tuo audio provinciam demandatam<note xml:id="fn27" type="footnote" n="27">Johannes Bullinger wurde Anfang 1532 Pfarrer in <placeName>Ottenbach</placeName> (s. unten <ref target="file10156">[Nr. 125]</ref> S. 187, Anm. 18).</note>.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto">Vale, ut sepius scribamus.</s>
+					<s n="35" xml:lang="la" type="auto">Tempora et temporum atque hominum turbę et pericula id exigunt.</s>
+				</p>
+				<p>
+					<s n="36" xml:lang="la" type="auto"><placeName>Bernae</placeName>, 9. februarii anno 32.</s>
+				</p>
+				<p>
+					<s n="37" xml:lang="la" type="auto">Tuus ut suus Berch. H.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse darunter:]</note>
+					<s n="38" xml:lang="la" type="auto"><persName>Huldricho</persName> [!] Bullinger, verbi dei praeconi apud Tigurum, viro ins[igniter] docto atque pio, fratri longe omnium et perpetim charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

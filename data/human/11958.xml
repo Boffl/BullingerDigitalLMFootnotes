@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11958" type="Brief" source="HBBW" n="1911">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Johannes Hospinian (Wirth) / [Basel] AN Heinrich Bullinger, 11. Mai 1544</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S[alutem] p[lurimam] d[ico].</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Valetudinem fratris mei <persName>Christiani</persName> puto tibi notam esse,<note xml:id="fn2" type="footnote" n="2">Mitteilungen über <persName>Christian Hospinians</persName> Gesundheitszustand sind in Bullingers Briefwechsel nicht überliefert. <persName>Johannes Hospinian</persName> dachte hier vielleicht an eine Benachrichtigung Bullingers durch den Schultheißen und den Rat von <placeName>Aarau</placeName>.</note> Bullingere colendissime, quandoquidem iam quartum in ea agit mensem et apud me una cum uxore hic fuit septimanas sex.</s>
+					<s n="3" xml:lang="la" type="auto">Et haberem mehercle plura, quae de ea tecum communicarem, si vel tempus vel negocia nostra ferrent, sed quia neque tibi audire omnia neque mihi scribere vacat, eorum te admonebo tantum, quae silentio praetereunda minime videntur.</s>
+					<s n="4" xml:lang="la" type="auto">Quodsi frater ipse prae valetudine potuisset, de omnibus et prolixius et melius me scripsisset.</s>
+					<s n="5" xml:lang="la" type="auto">Bona quidem spes est et nobis et medicis, qui eius curam susceperunt, fore ut pristinae valetudini brevi restitutus ad functionem suam scholasticam<note xml:id="fn4" type="footnote" n="4"><persName>Christian Hospinian</persName> war seit 1542 an der Schule in <placeName>Aarau</placeName> angestellt; s. <bibl>HBBW</bibl> XII 216, 7.</note> revertatur.</s>
+					<s n="6" xml:lang="la" type="auto">Verumtamen quum morbi huius naturam consideramus, non videtur nobis committendum esse, ut eum diutius in triviali ludo degere patiamur.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="la" type="auto">Timendum enim, ne, si ex laboribus istis plusquam taediosis veterem sibi molestiam revocarit et secundo in gravissimum hunc morbum inciderit, non futurus sit postea ullus curae locus.</s>
+					<s n="8" xml:lang="la" type="auto">Proinde ego oro atque obsecro, mi Bullingere, effice, quemadmodum potes, ut temporis successu revocetur ad vos frater meus et ecclesiastico alicui muneri praeficiatur, in cuius administratione paulo quietior atque tranquillior esse queat quam in instituenda<pb type="edition" next="235"/> effera et effroeni huius seculi iuventute<note xml:id="fn5" type="footnote" n="5">effera ... iuventute: Vgl. Vergil, Aeneis, 8, 5f. - 1545 wurde <persName>Christian Hospinian</persName> zum Pfarrer in <placeName>Bassersdorf</placeName> (Kt. Zürich) ernannt; s. <hi>Pfarrerbuch</hi> 620.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Quod si hac in causa gratificatus nobis fueris, experiere, quam acceptum fuerit nobis officium tuum.</s>
+					<s n="10" xml:lang="la" type="auto">Equidem quo animo et erga te caeterosque Tigurinos fratres et vestrates omnes sim, novit is, cui soli cordium penetralia<note xml:id="fn6" type="footnote" n="6">cordium penetralia: der Ausdruck ist selten; s. <persName>Leo I. der Große</persName>, Tractatus septem et nonaginta 47, 1 (<bibl>CChr-L</bibl> CXXXVIII A 275f, 44f); Beda Venerabilis, Homelia II 24 (<bibl>CChr-L</bibl> CXXII 358, 19) und II 25 (CChr-1, ('XXII 368, 6).</note> patent.</s>
+					<s n="11" xml:lang="la" type="auto">Neque enim ingenium meum fert cuiquam animi voluntatem verborum declarare lenociniis, sed malo re ipsa et factis, qualis sim erga quemque, innotescere.</s>
+					<s n="12" xml:lang="la" type="auto">Atque utinam opera mea indigeretis aliqua in re!</s>
+					<s n="13" xml:lang="la" type="auto">Visuri essetis dubio procul studium in vos tantum, quantum a me fortassis non expectastis hactenus.</s>
+					<s n="14" xml:lang="la" type="auto">Sed spero dominum olim occasionem mihi oblaturum, ut certiores vos de mea possim facere voluntate.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Vale et nos tibi commendatos habe.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Ex collegio nostro Augustiniano ad 5. idus maias anni 44.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="la" type="auto">Salutat te officiosissime cum tota familia tua frater meus <persName>Christianus</persName> cum uxore.</s>
+					<s n="18" xml:lang="la" type="auto">Meis verbis salutabis d. <persName>Pellicanum</persName>, <persName>Megandrum</persName>, <persName>Bibliandrum</persName>, <persName>Erasmum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Erasmus Schmid</persName>.</note>, <persName ref="p4196">Binderum</persName> et alios.</s>
+					<s n="19" xml:lang="la" type="auto">Denuo vale.</s>
+				</p>
+				<p>
+					<s n="20" xml:lang="la" type="auto">Tuus ex animo totus <persName>Ioannes Hospinianus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="21" xml:lang="la" type="auto">Sacrarum prophanarumque literarum eruditissimo viro d. Henricho Bullingero, apud inclytum Helvetiorum Tigurum archiepiscopum agenti, domino et fratri suo in Christo semper observandissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

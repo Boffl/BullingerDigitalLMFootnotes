@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10436" type="Brief" source="HBBW" n="401">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Rudolf Weingartner / [Zug] AN Heinrich Bullinger, [zweite Hälfte 1534]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. P. D.</s>
+					<s n="2" xml:lang="la" type="auto">Plura ad te scribere profecto presens tum temporis tum ocii incommoditas obstitit neque tulit.</s>
+					<s n="3" xml:lang="de" type="auto"><foreign xml:lang="la">Unice autem hoc scias, vir ornatissime,</foreign> das ich nütt weiß, wie oder wormitt ichs um üch bschulden<note xml:id="fn2" type="footnote" n="2">verdienen (<bibl>SI</bibl> VIII 659f).</note> und verdienen sol das früntlich enbieten und zuͦschriben<note xml:id="fn3" type="footnote" n="3">Außer <bibl>HBBW I</bibl> <ref target="file10017">Nr. 2</ref> sind keine Briefe Bullingers an <persName>Weingartner</persName> erhalten. Die vorliegende Stelle ist aber ein Hinweis darauf, daß Bullinger trotz seiner kritischen Haltung gegenüber <persName>Weingartner</persName> (s. <bibl>HBBW I</bibl> <ref target="file10017">[Nr. 2]</ref> 47f, Anm. 1) nach wie vor mit diesem in Kontakt stand.</note>, mir von üch jetz zwey oder trü mal beschechen etc.</s>
+					<s n="4" xml:lang="de" type="auto">Ich wil aber gott mitt mund und hertzen bitten, das er üch somlich widergelte etc.</s>
+				</p>
+				<p>
+					<s n="5" xml:lang="de" type="auto">Demnach, min lieber herr und bruͦder, so ist üch wol ze wüssen, wie das ich ein zittlang den handel gottes mitt trüwen harfür an den tag getragen han etc.</s>
+					<s n="6" xml:lang="de" type="auto">Lan üch hie bin wüssen <foreign xml:lang="la">ut intimum meum,</foreign> das ich dess gneigten willens und gmuͤttes bin, so vil mir gott gnad verlicht, dasselbig für und für mitt bescheidenheit ze volfuͤren.</s>
+					<s n="7" xml:lang="de" type="auto">Dess sond ir üch keis anderen gegen mir versen<note xml:id="fn4" type="footnote" n="4">von mir nichts anderes erwarten.</note>, in hoffnung, gott werde gnad geben, das gottes eer und wolstand unsers vatterlands dardurch geufnett und pflanzet werde etc.</s>
+					<s n="8" xml:lang="de" type="auto">Demnach so hett üch min gliebter bruͦder P[eter] Col[in]<note xml:id="fn5" type="footnote" n="5">Bei der Auflösung von <persName>Weingartners</persName> Abkürzung «P. Col.» kommt keinem Namen größere Wahrscheinlichkeit zu als dem des Zugers <persName>Peter Kolin</persName> (s. oben <ref target="file10407">[Nr. 374]</ref> S. 173, Anm. 8).</note> uß mim enpfelch zuͦgschriben<note xml:id="fn6" type="footnote" n="6">Von <persName>Kolin</persName> ist allerdings kein diesbezüglicher Brief an Bullinger erhalten.</note>, was mich hett anglanget<note xml:id="fn7" type="footnote" n="7">worum ich ersucht worden bin (s. <bibl>SI</bibl> III 1329).</note> von wegen deß hußes ze Hitzkilch etc.</s>
+					<s n="9" xml:lang="de" type="auto">Han ich an<note xml:id="fn9" type="footnote" n="9">ohne.</note> üweren rath nüd wellen annemmen.</s>
+					<s n="10" xml:lang="de" type="auto">Ich bin ouch nie deß gmuͤttes gsin, mine schefli ze verlassen, die den handel gottes verstand und ergriffen hand, uff das inen nütt ettwan ein schedlicher wolf uffgsetzt wurd, der der herd Cristi nütt verschonen wurd<note xml:id="fn10" type="footnote" n="10">Apg 20, 29.</note>, und alein angsechen die eer gottes und das heil deß völklis in hoffnung, gott werde weder mich noch mine weysle<note xml:id="fn11" type="footnote" n="11">die (ihm anvertrauten) bedrängten, schutzlosen Menschen (vgl. <bibl>Grimm</bibl> XIII 1050).</note> verlassen.</s>
+					<s n="11" xml:lang="de" type="auto">Und wil also üwerem rath volgen, und hand die sach gar von handen gschlagen<note xml:id="fn12" type="footnote" n="12">abgewiesen (<bibl>SI</bibl> II 1384).</note>, und wil für und für anhalten, den handel gottes ze volfuͤren, nach dem mir gott gnad verlicht.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="de" type="auto">Was mir witer anglegen ist, wil ich jetzmal ruwen lan biß uff andere zitt, so ich der muß bas<note xml:id="fn13" type="footnote" n="13">mehr.</note> han ze schriben.</s>
+					<s n="13" xml:lang="de" type="auto">Doch so wirt min vetter <persName>Hans Siber</persName><note xml:id="fn14" type="footnote" n="14">Ob der in Zürich nachweisbare <persName>Hans Siber</persName>, Vertreter der Schuhmachern im Großen Rat und Schwager von Felix Wingarter (s. <bibl>AZürcherRef</bibl> 336; <hi>Jacob</hi> 111), mit dem hier genannten Vetter <persName>Rudolf Weingartners</persName> identisch ist, bleibt fraglich.</note> witer muntlich den handel üch anzeigen etc.</s>
+					<s n="14" xml:lang="de" type="auto">Handlend mitt mir als mitt einem bruder, deß ich gar kein zwifel han.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Land<note xml:id="fn15" type="footnote" n="15">Laßt.</note> mich üch alwegen enpfolen sin.</s>
+					<s n="16" xml:lang="de" type="auto">Grützent mir unsere brüder, namlich min lieben glatter M. W[erner] Steiner, Con[radum] Pell[icanum] und insunderheit min heren burgenmeister Röysten.</s>
+				</p>
+				<p>
+					<s n="17" xml:lang="de" type="auto">Hiemitt sind gott befolen.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="de" type="auto">Uwer alzitt williger R. W.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Turegiorum eclesie presidi H[enrico] B[ullingero], viro longe integerrimo iuxta inprimis observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

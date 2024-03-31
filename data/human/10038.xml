@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10038" type="Brief" source="HBBW" n="13">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger], Johannes Enzlin / Hausen am Albis AN Christoph Stiltz, 21. Januar 1526</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Effari non potest, quantum me tua delectarit epistola<note xml:id="fn3" type="footnote" n="3">Nicht auffindbar.</note>, partim quod a parente profecta, partim quod paterni tui in me animi plurimam spiraret benevolentiam.</s>
+					<s n="3" xml:lang="la" type="auto">Hac tantum parte durior videbatur, qua tu patribus spiritum ita tribuis, ut nihil fere reliqui facias deploratissimis nostri aevi hominibus.</s>
+					<s n="4" xml:lang="la" type="auto">Sic enim intonas haud verisimile esse patres et vetustate et sanctitate celebres caruisse spiritu, quo indice etiam heccine potuissent depraehendere placita, quae nunc quasi e tripode<note xml:id="fn4" type="footnote" n="4">Sprichwörtliche Redewendung zur Bekräftigung einer Aussage, <bibl>Adagia</bibl> 1, 7, 90 (<bibl>LB</bibl> II 297 E-F).</note> pronuncientur.</s>
+					<s n="5" xml:lang="la" type="auto">Ito ergo, si ignoras, ad ipsum <persName>Augustinum</persName> ac percontare, num antiquitas an sanctorum sanctitas graviorem reddat doctrinam!</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto"><pb type="edition" next="86"/>Docebit is nimirum in epistola ad <persName>Hieronymum</persName> fere postrema istaec conferre nihil, imo id, quod ex scripturis authoritatem non habet, execrandum esse, cui et <persName>Ciprianus</persName><note xml:id="fn6" type="footnote" n="6">Siehe z. B. <persName>Cyprian</persName>, ep. LXXIV, 2 (<bibl>CSEL</bibl> III/2 800, 10ff).</note> in epistolis subscribit.</s>
+					<s n="7" xml:lang="la" type="auto">Ut nunc non referam, quod nolit sibi fidem adhiberi <persName>Augustinus</persName>, nisi scripturis sua muniat, utpote qui non uno loco errarit; testimonia sunt in praefatione 3. lib. «De trinitate»<note xml:id="fn7" type="footnote" n="7"><persName>Augustin</persName>, De trinitate, III, prooemium, [2] (CChr L 128, 38ff).</note>, Ad <persName>Casulanum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Augustin</persName>, ep. XXXVI, 2 (<bibl>CSEL</bibl> XXXIIII 32, 4-19), u. ö.</note>, <persName>Fortunatum</persName> et <persName>Vincentium</persName><note xml:id="fn10" type="footnote" n="10"><persName>Augustin</persName>, ep. XCIII, 35 (<bibl>CSEL</bibl> XXXIIII 480, 9ff), u. ö.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Igiturne patribus alligatus erit<pb type="scan" next="||90v."/> spiritussanctus et uno tempore omnibus omnia revelanda?</s>
+					<s n="9" xml:lang="la" type="auto">Ergo quo torquebimus Christi verba: «Ero vobiscum usque ad consumationem seculi» [Mt 28,20]?</s>
+					<s n="10" xml:lang="la" type="auto">Cur non statim ad primam promissionem orbi terrarum illuxit Christus?</s>
+					<s n="11" xml:lang="la" type="auto">Iniquus sane deus, qui filios Izraelitarum ab Aegyptiaca reduxit captivitate, patres vero non reduxit.</s>
+					<s n="12" xml:lang="la" type="auto">An hoc propterea factum, quod tenor divini oraculi, divinae voluntatis testimonium sic disposuerit?</s>
+					<s n="13" xml:lang="la" type="auto">Cur ergo non videmus et nostram captivitatem iuxta prophetarum, Christi et apostolorum vaticinia talem esse oportere, qualem, proh dolor, conspeximus mortales omnium deploratissimi sub impiissimo Antichristi regno?</s>
+					<s n="14" xml:lang="la" type="auto">Imo, cum Moses<note xml:id="fn11" type="footnote" n="11">Vgl. Dtn 18,15ff.</note> ac Paulus<note xml:id="fn12" type="footnote" n="12">Vgl. 1 Kor 12, 10.28; 14,3ff, u. ö.</note> prophetiam omnibus relinquant liberam, quis adeo omnem pudorem abstersit, ut prophetare quemquam inhibeat?</s>
+					<s n="15" xml:lang="la" type="auto">Interim probandos quoque spiritus censemus iubente <persName>Ioanne</persName><note xml:id="fn13" type="footnote" n="13">1 Joh 4,1.</note> et Paulo<note xml:id="fn14" type="footnote" n="14">1 Thess 5,19-20.</note> et hic adeo certum scimus esse verbum dei lidium nostrum lapidem, ut nihil nos per deum fugere possit, est enim pedum nostrorum lucerna<note xml:id="fn16" type="footnote" n="16">Siehe Ps 119, 105.</note> ac argentum septies defecatum<note xml:id="fn17" type="footnote" n="17">Vgl. Ps 12,7.</note>, infallibilis et aeterna regula<note xml:id="fn18" type="footnote" n="18">Vgl. Ps 33,4; Jes 40,8; 1 Petr 1,23ff.</note>.</s>
+					<s n="16" xml:lang="la" type="manual">Unde non est, quod verearis, ne sub larva pietatis se sceleratissimus ille hominum hostis ingerat nobisque imponat<note xml:id="fn19" type="footnote" n="19">Vgl. 2 Thess 2,8ff.</note>.</s>
+					<s n="17" xml:lang="la" type="manual">«Unctio docebit omnia» [1 Joh 2,27], fides et charitas iudicabunt singula<note xml:id="fn20" type="footnote" n="20">Vgl. 1 Kor 2,13ff.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Tu vide Augusti[num] «In Ioannem tracta[tus]» 16<note xml:id="fn21" type="footnote" n="21">Vermutlich <persName>Augustin</persName>, In Iohannis Evangelium Tractatus XVI, 2 (CChr XXXVI 165, 16ff).</note> et 18<note xml:id="fn22" type="footnote" n="22">Ebenda, XVIII, 2 (CChr XXXVI 180, 16ff), u. ö.</note>, ac <persName>Tertullianum</persName> in «Praescriptione hereticorum»<note xml:id="fn23" type="footnote" n="23"><persName>Tertullian</persName>, De praescriptione haereticorum, VI (CChr I 191, 11ff), s. <bibl>Staedtke</bibl> 73ff.</note>.</s>
+				</p>
+				<p>
+					<s n="19" xml:lang="la" type="auto">Iam quod paulo incivilius <persName>Erasmi</persName> libellum, cui tit[ulus]: «De libero arbitrio<pb type="edition" next="87"/> collatio», tractaverim<note xml:id="fn25" type="footnote" n="25">Vermutlich in einem nicht erhaltenen Brief.</note>, mirum est, quam egre feras; verum nos propterea palinodiam non canimus<note xml:id="fn26" type="footnote" n="26">palinodiam canere seine Meinung ändern, widerrufen, Adagia, 1, 9, 59 (<bibl>LB</bibl> II 356 A-B); <bibl>Otto</bibl> 262, Nr. 1323.</note>, quinimo ne lato quidem cedimus culmo.</s>
+					<s n="20" xml:lang="la" type="auto">Est enim nedum impius, verum blasphemus etiam libellus, omnibus fere scriptis Erasmicis contrarius, ut nunc non referam quam ineptus, impotens, flaccidus, in quo praeter artifitium nemo pius nihil laudavit unquam.</s>
+					<s n="21" xml:lang="la" type="auto">At in tanta contraversia [!] theologum non rhetorculum prestitisset; quid enim pietati cum epichirematis<note xml:id="fn28" type="footnote" n="28">Epichirema ist ein rhetorischer Schluß bzw. Beweis, <bibl>Lausberg</bibl> 371; vgl. <bibl>Z</bibl> XIII 842.</note> <persName>Erasmi</persName>?</s>
+					<s n="22" xml:lang="la" type="auto">Quid cum infinitis sinistre tractatis locis?</s>
+					<s n="23" xml:lang="la" type="auto">Parum interest inter eum, qui nihil e scripturis profert, et eum, qui profert, at ita profert, ut magis de numero quam enargia curet.</s>
+					<s n="24" xml:lang="la" type="auto">Ubi vero Gordii se aliquis offert nodus<note xml:id="fn30" type="footnote" n="30">Vgl. Adagia, 1,1, 6 (<bibl>LB</bibl> II 28 A); <bibl>Otto</bibl> 244, Nr. 1233.</note>, deus bone, quam misere se misellus torquet Erasmiolus, quam belle Protheum induit, quam infantiliter omnia figit et refigit!</s>
+					<s n="25" xml:lang="la" type="auto">An non et ipsi <persName>Origenis</persName> ac aliorum succinentium<note xml:id="fn33" type="footnote" n="33">Etwa <persName>Hieronymus</persName>, s. <persName>Erasmus</persName>, aaO, III b 1ff (S. 61, 15ff), vgl. <hi>Zickendraht,</hi> aaO, 42ff.</note> idem epiphonima excussimus sententiam?</s>
+					<s n="26" xml:lang="la" type="auto">Ergo non patrum dictis placitisque, sed collatione scripturarum locus Roma. 9 [9] rumpendus erat.</s>
+					<s n="27" xml:lang="la" type="auto">Christiani sumus, scripturis pugnamus, non patrum placitis.</s>
+					<s n="28" xml:lang="la" type="auto">Neque infitias eo; adducit ille locos nonnullos, sed omnes eiusdem farinae.</s>
+					<s n="29" xml:lang="la" type="auto">Sophysta quispiam petitionem principii reiiceret, et nos in re tam gravi coccicem<note xml:id="fn36" type="footnote" n="36">«Kuckuck» wird in der Klassik häufig als verächtliche Bezeichnung für einen Menschen gebraucht, <bibl>ThLL</bibl> IV 1281, 60ff.</note> [!] audiemus?</s>
+					<s n="30" xml:lang="la" type="auto">Breviter: si providentia est, liberum arbitrium non est; alias enim providentia non<pb type="scan" next="||91r."/> esset providentia.</s>
+					<s n="31" xml:lang="la" type="auto">Si porro liberum arbitrium, iam non est providentia; alias enim liberum arbitrium non erit liberum arbitrium<note xml:id="fn37" type="footnote" n="37">Zur Vorsehungslehre bei Bullinger s. <hi>Walser.</hi></note>.</s>
+					<s n="32" xml:lang="la" type="auto">Torqueat se hic <persName>Augustinus</persName><pb type="edition" next="88"/> et Boetius, quamquam ille sua posterioribus libris retractarit, hic tamen istaec non nisi ad graecas calendas<note xml:id="fn40" type="footnote" n="40">Entspricht dem deutschen «bis zum St. Nimmerleinstag», Adagia, 1, 5, 84 (<bibl>LB</bibl> II 214 B-C).</note> dissipabit.</s>
+				</p>
+				<p>
+					<s n="33" xml:lang="la" type="auto">Tu haec nostra boni consule, zelus enim pro lege dei in hunc fervorem me excitat<note xml:id="fn41" type="footnote" n="41">Vgl. Ps 69, 10 (Joh 2, 17); Ps 119,138 f.</note>.</s>
+					<s n="34" xml:lang="la" type="manual">Nam dici non potest, quantum divinae naturae ac energiae detrahat impium de libero arbitrio sentimentum<note xml:id="fn42" type="footnote" n="42">Synonym mit sententia, opinio, <bibl>Du Cange</bibl> VII 425.</note>.</s>
+					<s n="35" xml:lang="la" type="manual"><persName>Erasmum</persName> alias ut patrem patriae, eloquentiae principem, bonarum litterarum patronum, humanitatis fontem linguarumque post <persName>Reuchlinum</persName> instauratorem veneror, suspitio, adoro, at in divinis litteris sapientem mundi<note xml:id="fn44" type="footnote" n="44">Siehe 1 Kor 1,20ff; 2,6ff.</note> iudico.</s>
+					<s n="36" xml:lang="la" type="manual">Ii quid de religione vera sentiant, docuit «doctor gentium» [1 Tim 2,7] et «vas electionis» [Apg 9,15] Paulus in eius epistolae frontispitio, quam dedicavit Corinthiorum ecclesie<note xml:id="fn46" type="footnote" n="46">1 Kor 1,17 ff.</note>.</s>
+					<s n="37" xml:lang="la" type="auto">Quid, si <persName>Erasmus</persName> ille tuus alter <persName>Demosthenes</persName> argentagina [!] non secus laboraret in patrocinio veritatis atque ille olim, cum adversus Milesiorum legatos pro Atheniensi republica dicendum erat?</s>
+					<s n="38" xml:lang="la" type="auto">Nec mirum, cum per os prophetae praedixerit spiritussanctus corda sapientum excecari muneribus<note xml:id="fn48" type="footnote" n="48">Siehe Ex 23,8; Dtn 16,19.</note>.</s>
+				</p>
+				<p>
+					<s n="39" xml:lang="la" type="auto">Precor ego deum patrem et dominum nostrum Iesum Christum, ut errantes reducat in viam veritatis<note xml:id="fn49" type="footnote" n="49">Siehe Ps 25,8ff.</note> te imprimis per viam suam ducat, ut in una ecclesia unum deum<note xml:id="fn50" type="footnote" n="50">Vgl. Eph 4,4f.</note> vere agnoscamus; cuius benefitio creati, pasti et redempti resuscitabimur in extrema illa die per spiritum vivificatorem, cui gloria semper.</s>
+				</p>
+				<p>
+					<s n="40" xml:lang="la" type="auto">Vale in domino, parens dilecte, Christum dei filium amplectere et me, ut soles, ama.</s>
+				</p>
+				<p>
+					<s n="41" xml:lang="la" type="auto"><pb type="edition" next="89"/>Ex Husio trans Abbim<note xml:id="fn51" type="footnote" n="51">«<placeName>Hausen ennet dem Albis</placeName>», vgl. <bibl>HBLS</bibl> I 210; s. oben Anm. 1 und unten S. 114,21.</note> [!] Tigurinum montem, 21. januarii anno ab orbe redempto 1526.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

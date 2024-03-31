@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10020" type="Brief" source="HBBW" n="3">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">[Heinrich Bullinger] / Kappel am Albis AN Wolfgang Rüpplin (Joner), Peter Simler (Simmler), [Oktober/November] 1524</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="manual">Reverendissimis dominis d. <persName>Volcatio Ionero</persName> abbati et <persName>Petro Simlero</persName> priori <placeName>Cappellae</placeName> sit gratia et pax a deo patre et domino nostro Jesu Christo.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Quae hic de divina providentia congessimus vobis, viri ornatissimi, duximus dedicanda, partim ut currentes vos in via do [mini] - - -.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

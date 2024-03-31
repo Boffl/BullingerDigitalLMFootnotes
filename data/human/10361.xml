@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10361" type="Brief" source="HBBW" n="329">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Georg Stadler AN Heinrich Bullinger, 24. Februar 1534</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="de" type="auto">Gnad und frid von gott dem vatter und dem heren Jesus Cristus.</s>
+					<s n="2" xml:lang="de" type="auto">Amen.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="de" type="auto">Lieber her und vettere<note xml:id="fn3" type="footnote" n="3">Zur Verwandtschaft mit Bullinger s. Anm. I.</note> ich las eüch, wüsen, das ich frisch und gesünd bin.</s>
+					<s n="4" xml:lang="de" type="auto">Solichs von eüch zuͦ hören, wer mir ein grose fröwd.</s>
+					<s n="5" xml:lang="de" type="auto">Lieber vetter, ich las eüch wüssen, das es noch wol by uns statt, doch sorgt man eins kriegs.</s>
+					<s n="6" xml:lang="de" type="auto">Got wend es ab nach sinem willen.</s>
+				</p>
+				<p>
+					<s n="7" xml:lang="de" type="auto">Ich will auch nach uf osteren<note xml:id="fn4" type="footnote" n="4">um Ostern. - Ostern fiel im Jahr 1534 auf den 5. April.</note> by eüch sin, latt mich gott gessünd.</s>
+					<s n="8" xml:lang="de" type="auto">Darümb wil ich eüch nitt vill schriben.</s>
+					<s n="9" xml:lang="de" type="auto">Ich wil aüch nitt lang zuͦ Zürich sin, dan es werden zwen gessellen<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> mitt mir ziehen.</s>
+					<s n="10" xml:lang="de" type="auto">Mit denen will ich aüch wider wandlen<note xml:id="fn6" type="footnote" n="6">mich auf Wanderschaft begeben (<bibl>Grimm</bibl> XIII 1595-1597).</note>, dan es ist nit vür mich, das ich nach zu<note xml:id="fn7" type="footnote" n="7">dann, darnach (<bibl>SI</bibl> IV 637).</note> Zürich bellib.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="de" type="auto">Nitt me uf dis mal, dan gott sy mitt uns allen.</s>
+					<s n="12" xml:lang="de" type="auto">Amen.</s>
+					<s n="13" xml:lang="de" type="auto">Grussen mir eüwer husfrowen<note xml:id="fn8" type="footnote" n="8"><persName>Anna Adlischwyler</persName>.</note> und min vogtt<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="de" type="auto">Ttatum [!] am sant Matisttag zuͦ nacht im 1534 jar.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="de" type="auto">Von mir, <persName>Jörg Stadler</persName>, allzitt eüwer williger diener.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="de" type="auto">Dem achtbaren und wollgelertten Meister Heinrich Bullinger, beredicant [!] zuͦ Zürich zuͦ dem grosen münster, zuͦ hand.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

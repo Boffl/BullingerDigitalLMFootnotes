@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10523" type="Brief" source="HBBW" n="487">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">s.n. / [St. Gallen] AN Leo Jud, Heinrich Bullinger, [Mitte Dezmber 1534]</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Salus et gratia a deo patre et pax per dominum Iesum Christum nobis dilectissimum sit cum omnibus vobis, charissimi fratres.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Venerunt in manus nostras dilectionis vestrę litterae<note xml:id="fn2" type="footnote" n="2">Dieser (Begleit-)Brief ist nicht mehr erhalten.</note> nobis gratissimę ac cum amoris vestri erga nos tum pietatis testes oculatissimi addito etiam libello, quo confessionem de sacrosancta eucharistia, quam <persName ref="p18198">Bucerus</persName> expostulat, exponitis<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file10518">Nr. 482</ref>.</note> petitisque, ut lecto eo aut nostrum album addamus calculum, aut si quid melius admonere habeamus - ut estis modesti -, hoc ipsum vobis remittamus<note xml:id="fn4" type="footnote" n="4">Vgl. unten Z. 54.</note>.</s>
+				</p>
+				<p>
+					<s n="3" xml:lang="la" type="auto">Legimus ac relegimus pro mediocritate nostra accurate vestramque in<pb type="edition" next="438"/> tam sancta re eruditionem a deo vobis in aecclesiarum aedificationem praestitam - supra hanc mensuram nemo sibi applaudat<note xml:id="fn5" type="footnote" n="5">Vgl. 2 Kor 10, 13.</note> - commendavimus vidimusque eo maxime vos intendere, ut per hanc confessionem testemini: Per sanctam sacri panis fractionem et sancti calicis distributionem communicationem corporis et sanguinis Christi credentibus spiritaliter et vere ministrari<note xml:id="fn6" type="footnote" n="6">Vgl. oben S. 422, 8-12. 424, 87-90. 426 150f. 428, 198f.</note>, incredulis vero non corpus Christi, sed panem sanctum in iudicium<note xml:id="fn7" type="footnote" n="7">Vgl. oben S. 426, 144-146.</note> - siquidem Christus, salvator noster, ipse asserat:</s>
+					<s n="4" xml:lang="la" type="manual">«Nisi manducaveritis» dicens «carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis» [Joh 6, 53] et: «Quicunque edit meam carnem et bibit meum sanguinem, habet vitam ęternam» [Joh 6, 54] et reliqua et iterum: «Qui edit de hoc pane, vivet in ęternum» [Joh 6, 58] et: «Ut ego vivo propter patrem, ita et qui manducat de me, et ipse vivet propter me» [Joh 6, 57], ultra vero divus Paulus dicat: «Qui indigne manducat hunc panem» etc. [1 Kor 11, 27], «iudicium sibi mand[u]cat et bibit» etc. [1 Kor 11, 29].</s>
+					<s n="5" xml:lang="la" type="auto">E quibus hoc conligi est necesse, quod vos multa exegesi simpliciter et syncere profitemini<note xml:id="fn8" type="footnote" n="8">Vgl. oben S.428, 190-193.</note>.</s>
+				</p>
+				<p>
+					<s n="6" xml:lang="la" type="auto">Habetote ergo et nostram, quam efflagitatis, super hac sancta re contestationem, nempe eo nos d[o]ctrina nostra et viribus, quas dominus nobis indignis conpresbyteris per meritum suę passionis donat<note xml:id="fn9" type="footnote" n="9">Vgl. 1 Petr 4, 11.</note>, inniti et usque ad vitę huius terminum innixuros ut, omnes Christi fideles sciant per sacrosancta sacramenta externis sensibus<pb type="scan" next="||70"/> a v. meritum et participationem passionis dominicę preciosę offerri<note xml:id="fn10" type="footnote" n="10">Vgl. oben S. 422, 12-15. 427, 178-180.</note>, quo interior homo per ea vivificatus mediante fide revivisce[ns] cum exteriore homine in die novissimo resurgat<note xml:id="fn11" type="footnote" n="11">Joh 11, 24.</note> et fiat particeps glorię Christi, qui ex mortuis resurexit et vivit de[o] ęterno, idque per poenitentiam et absolutionem peccatorum in sang[uine]agni<note xml:id="fn12" type="footnote" n="12">Vgl. Apk 1, 5; 7, 14.</note> et, ut cum tremore et timore<note xml:id="fn13" type="footnote" n="13">Phil 2, 12; vgl. oben S. 428, 202-206.</note>, fidentes tamen et no[s]ipsos probantes ac corpus et sanguinem Christi diiudicante[s] sic de pane illo edamus et de calice bibamus<note xml:id="fn14" type="footnote" n="14">Vgl. 1 Kor 11, 28f.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Haec confitemur vobis et aliis eadem docendo persuademus sanctę scripturę auctoritate convicti et exemplis.</s>
+					<s n="8" xml:lang="la" type="auto">Placeretque nobis, si libere quoque coram deo, <persName ref="p18889">Luthero</persName> et cęteris fratribus fate[re]mini<note xml:id="fn15" type="footnote" n="15">Vgl. oben S. 430, 257-259.</note>, etiamsi non tam digne aut sancte pro maiestate tam divine communionis essemus locuti, nos libenter emendaturos.</s>
+					<s n="9" xml:lang="la" type="auto">Omnes enim, ut verum fateamur, hallucinati sumus et friguimus [!] neque pro dignitate in hoc minister[io] ut in cęteris quoque conversati sumus.</s>
+					<s n="10" xml:lang="la" type="auto">Sed hęc sunt iniciorum apud plerosque studia, qui exercitatione et sapere incipimus et in dies meliores reddimur.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><pb type="edition" next="439"/>Cęterum et <persName>Vadiano</persName>, domino et fratri nostro, tradidimus perlegendam, qui idem nobiscum sentit nec quicquam magis voto et precibus optat, quam ut sancta inter ęcclesiarum pastores coalescat concordia, quo uno spiritu et mente una<note xml:id="fn16" type="footnote" n="16">Vgl. Phil 1, 27.</note> unicum Christum dominum nostrum possemus profiteri<note xml:id="fn17" type="footnote" n="17">Zu <persName>Vadians</persName> Verständigungswillen s. <hi>Näf,</hi> <persName>Vadian</persName> II 430.</note>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Reliquum est, charissimi fratres et in domino venerandi, ut vobis gratias refferamus ingentes, quod nostri memores estis et nos diligitis in Christo.</s>
+					<s n="13" xml:lang="la" type="auto">Facite tantum, ut dilectionis vestrę fructus carpamus infinitos, et semper, si quid aut admonendum est aut increpandum, sedulo perficite.</s>
+					<s n="14" xml:lang="la" type="auto">Maxime sanctae precationis ęcclesiarum vestrarum nos participes efficitote, ut sermo domini currat<note xml:id="fn18" type="footnote" n="18">2 Thess 3, 1.</note> et vita prestare queamus, quod sermo di-<pb type="scan" next="||70br."/>vinus per ora nostra impura replicat.</s>
+					<s n="15" xml:lang="la" type="auto">Exemplar apud nos mansitabit<note xml:id="fn19" type="footnote" n="19">Also entgegen dem Verlangen der Zürcher, vgl. oben Z. 7f. In <placeName>St. Gallen</placeName> ist nur noch ein Bruchstück enthalten (Kantonsbibliothek Vadiana, Ms 41, <ref target="file10141">Nr. 111</ref>).</note>, nisi rescripto diversum iusseritis.</s>
+					<s n="16" xml:lang="la" type="auto">Gratia domini sit vobis omnibus, qui estis in Christo Iesu, cui sit gloria in sempiternas ęternitates.</s>
+					<s n="17" xml:lang="la" type="manual">Amen.</s>
+				</p>
+				<p>
+					<s n="18" xml:lang="la" type="auto">Vestri fratres <persName>Wolfgangus Wetter</persName>, Matheus Alther, <persName>Sebastianus Cuontz</persName>, <persName>Dominicus Zili</persName> et reliqui.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="19" xml:lang="la" type="auto">Tigurinę aecclesię pastoribus <persName ref="p2305">Leoni Iudę</persName>, Heinrico Bullingero etc., fratribus nostris in Christo venerandis.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

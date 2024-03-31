@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10056" type="Brief" source="HBBW" n="30">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz AN Heinrich Bullinger, 1. September 1528</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratia tecum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Remitto ad te librum<note xml:id="fn2" type="footnote" n="2">De origine erroris in divorum ac simulachrorum cultu, s. oben <hi>S.</hi> 179, Anm. 3.</note> illum tuum quidem, sed iam meum quoque factum tua dedicatione, charissime Heinryche, simul ac gratiam habeo diligentiae tuae non meo solum, sed omnium pie studiosorum nomine, quos tibi, mihi crede, tam sancto labore singulari quodam beneficio unice devinxisti, tametsi prius quoque devinctissimos.</s>
+					<s n="3" xml:lang="la" type="auto">Ego profecto, posteaquam hunc magna voluptate et aviditate pellegi, non dignum modo, sed necessarium propemodum iudicavi, qui omnium manibus versaretur, quandoquidem hinc plane intelligent vel simplicissimi, in quam caducum murum inclinent isti quidam impudentes et inepti vetustatis iactatores, qui se putant omnium errorum suorum felicissimum patrocinium ab illis petere posse, qui Christi et apostolorum temporibus - - - p[rox]imiores [?] fuere, cum re diligentius perpensa adeo nos non premat illor [um au]thoritas, ut consentiat etiam nobiscum doctrinae ipsorum veritas, unde multa et inevitabilia tela in adversarios mutuemur.</s>
+					<s n="4" xml:lang="la" type="auto">Fac igitur maturetur utilissimi libri omnibus profutura editio, nam quod ad typographum adtinet, non inviderem ingens hoc lucrum Spitzenbergio nostro, nisi multorum magis quam sui unius rationem haberem.</s>
+					<s n="5" xml:lang="la" type="auto">Formulas habet parum elegantes, quarum hic ad te specimen mitto, praeterea hebraicis ac gręcis characteribus omnino destituitur, et quanquam meditatur iam instructiorem officinam, incertum est tamen pro hominis infelicitate, quando illa paretur.</s>
+					<s n="6" xml:lang="la" type="auto">Nolim vero sui [!] compendii causa tot studiosorum expectationem diutius remorari, sed liberum tibi facio, ut vel Wolfio vel alii cuipiam librum hunc quamprimum excudendum committas, modo emendatior prodeat quam superior ille<note xml:id="fn5" type="footnote" n="5">De origine erroris in negocio eucharistiae ac missae, 1529, s. <bibl>HBBibl</bibl> 10.</note>, qui tua recognitione opus habuit.</s>
+					<s n="7" xml:lang="la" type="auto">Caeterum, mi<pb type="edition" next="182"/> dulcissime frater, nunc temporis spatio velim nolim excludor, quo minus ad te multa pro animi votis scribere possim.</s>
+					<s n="8" xml:lang="la" type="auto">Sed paucis sic habe me, quantuluscunque sum, tuum esse nec unquam mihi quicquam gratius et iucundius fuisse tua illa syncęra amicicia, qua me tibi iunxit comunis in Christum, communem servatorem, ardor, iunxerunt itidem aliae honestissimae rationes cum occulta quadam, sed efficaci animorum consensione.</s>
+					<s n="9" xml:lang="la" type="auto">Utinam sit aliquando, quo tibi per occasionem aliquam pectus hoc tui amantissimum declarare pariter et totum effundere possim!</s>
+					<s n="10" xml:lang="la" type="auto">Nunc Christo me christianice commenda, in quo bene vale.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Ex <placeName>Constantia</placeName> nostra, calendis septembris.</s>
+					<s n="12" xml:lang="la" type="auto">Saluta meis verbis venerabiles abbatem<note xml:id="fn6" type="footnote" n="6"><persName>Wolfgang Joner</persName>, s. oben S. 481, Anm. 4.</note> et oeconomum<note xml:id="fn7" type="footnote" n="7"><persName>Peter Simler</persName>, s. oben <ref target="file10020">[Nr. 3]</ref> S. 53 f, Anm. 2.</note> vestrum.</s>
+					<s n="13" xml:lang="la" type="auto">Mox plura ad te scripsero; nunc casu incidi in tabell[ionem] Tyguricensem<note xml:id="fn8" type="footnote" n="8">Der Name ist nicht bekannt.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Salutat te germanus frater meus <persName>Thomas</persName>. 28.</s>
+				</p>
+				<p>
+					<s n="15" xml:lang="la" type="auto">Tuus <persName>Ambrosius Blaurerus</persName>.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="16" xml:lang="la" type="auto">Heinrycho Bullingero apud Ceepellam [!] Tygurinorum, amico tanquam fratri charissimo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

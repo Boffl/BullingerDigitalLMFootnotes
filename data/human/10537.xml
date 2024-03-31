@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10537" type="Brief" source="HBBW" n="501">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Petrus Dasypodius (Hasenfratz) / Strassburg AN Heinrich Bullinger, 1. Januar 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S. et conscientię tranquillitatem per Christum.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Haud te clam est, optime vir, quę nunc patriae meae<note xml:id="fn1" type="footnote" n="1">Gemeint ist die eidgenössische Herrschaft <placeName>Thurgau</placeName>; <persName>Dasypodius</persName> stammte aus <placeName>Frauenfeld</placeName>.</note> fortuna sit, ut ibi scilicet omne ius per homines administretur, qui sunt ex professo hostes eius religionis, quam nos sectamur ut veram, quo fit, ut quanto quisque liberius sibi hanc placere fatetur, tanto gravius illorum etiam experiatur potentiam.</s>
+					<s n="3" xml:lang="la" type="auto">Id adeo verum esse tu, qui vicinus es, haud dubie non semel iam ex profugis intellexisti.</s>
+					<s n="4" xml:lang="la" type="auto">Mihi vero per sororium meum Ioannem Sunenmannum hisce diebus abunde satis istud scire licuit, qui tantum ob quędam incautius contra publicum foedus (ut quidam falso detulerunt) dicta cogitur exulare nec (quantum<pb type="edition" next="28"/> ego suspicari possum) de reditu spes ipsi relinquitur ulla<note xml:id="fn5" type="footnote" n="5">Über die Umstände der Vertreibung ist im weiteren nichts bekannt.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Hunc igitur pręter meritum in hanc calamitatem coniectum ab improbis quibusdam hominibus cupio tibi vehementer commendatum esse.</s>
+					<s n="6" xml:lang="la" type="auto">Si quid in eum beneficii collocaveris, nec indigno puto nec ingrato feceris, me certe non mediocriter tibi devinxeris.</s>
+					<s n="7" xml:lang="la" type="auto">E re vehementer ipsius esset, ut aliquandiu theologico studio incumberet apud vos, et istud plane cupit, si paululum modo de bonis ecclesiasticis ei suppeditaretur.</s>
+					<s n="8" xml:lang="la" type="auto">Dabis igitur operam, si qua fieri queat, ut eius etiam aliqua ratio habeatur, donec sese conditio offerat melior vel cui commode pręesse possit munus aliquod.</s>
+					<s n="9" xml:lang="la" type="auto">Quod hoc tam audacter a te postulo, facit amicitia<note xml:id="fn6" type="footnote" n="6">Bullinger kannte <persName>Dasypodius</persName> wahrscheinlich seit 1527 (vgl. <bibl>HBBW II</bibl> <ref target="file10084">[Nr. 55]</ref>, S. 28, Anm. 1).</note>, que mihi iam olim tecum intercessit, cui quicquid peccare videor, imputato.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">Novarum rerum nihil est apud nos, quod operę pretium sit ad vos perscribi, nisi quod de bellico apparatu multa feruntur<note xml:id="fn7" type="footnote" n="7">Seit November 1534 hielten sich Gerüchte über angeblich für <placeName>Italien</placeName> bestimmte Werbungen des Kaisers in Oberdeutschland (vgl. <bibl>PC</bibl> II 228. 229. 234f. 253).</note> et quod Monasteriensium ac eius factionis hominum consilia plerosque valde sollicitos habent, quorsum tandem erumpere velint.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto">Saluta mihi totum istic musarum chorum<note xml:id="fn8" type="footnote" n="8">Musenchor (als Hort der Gelehrsamkeit, vgl. <bibl>Pauly/Wissowa</bibl> XVI/I 797-821).</note>, nominatim vero <persName ref="p2305">Leonem</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Pellicanum</persName> et <persName>Theodorum</persName><note xml:id="fn10" type="footnote" n="10"><persName>Theodor Bibliander</persName>.</note>.</s>
+				</p>
+				<p>
+					<s n="12" xml:lang="la" type="auto">Vale.</s>
+				</p>
+				<p>
+					<s n="13" xml:lang="la" type="auto">Ex ludo nostro literario ad Carmelitas <placeName>Argentorati</placeName>, kalendis ianuariis anno 1535.</s>
+				</p>
+				<p>
+					<s n="14" xml:lang="la" type="auto"><persName>Petrus Dasypodius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="15" xml:lang="la" type="auto">Doctissimo viro pariter et integerrimo d. Henricho Bullingero, summo apud Tigurinos ecclesiastę, amico suo primario ac multum observando.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

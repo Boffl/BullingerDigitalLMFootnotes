@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10641" type="Brief" source="HBBW" n="603">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 30. Juni 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
+				</p>
+				<p>
+					<s n="2" xml:lang="la" type="auto">Nolui nescires Pentacomeorum olygarchas remisisse iram, rescripsisse nostris permissuros se, ut praefectus a nobis Wagadalensibus missus et iusiurandum solius divini nominis obtestatione roget, deinde ad missas neminem cogat.</s>
+					<s n="3" xml:lang="la" type="auto">Se vero curaturos, ut pactis stent, qui promisere paganicam fidem professurum.</s>
+					<s n="4" xml:lang="de" type="auto">Dann die inn Fryen Amptern oder Wagental sind inn gheinem fryden und habend sich ann die 5 ort ergäben.</s>
+					<s n="5" xml:lang="de" type="auto">Daby wöllend sy die lüt behallten.</s>
+					<s n="6" xml:lang="la" type="auto">Ex nostris nemo erat omnium, qui postulationi aquiesceret priori.</s>
+					<s n="7" xml:lang="la" type="auto">Id senserunt nimirum, unde et iram remisere.</s>
+				</p>
+				<p>
+					<s n="8" xml:lang="la" type="auto">Valebis in domino.</s>
+					<s n="9" xml:lang="la" type="auto">Ultima iunii 1535.</s>
+				</p>
+				<p>
+					<s n="10" xml:lang="la" type="auto">H. Bull. tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="11" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, domino suo colendo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

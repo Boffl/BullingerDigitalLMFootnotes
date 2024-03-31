@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11797" type="Brief" source="HBBW" n="1751">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 12. Juni 1543</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Universität Zürich</authority>
+				</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich StA</bibl>
+				</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p>
+					<s n="1" xml:lang="la" type="auto">S.</s>
+					<s n="2" xml:lang="la" type="auto">Quem proximis tuis<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note> commendasti, examinatum misi ad Liechtstal una cum literis deputatorum,<note xml:id="fn2" type="footnote" n="2">Das Schreiben der Deputaten, die für das Kirchen- und Schulwesen auf dem Land zuständig waren, liegt ebenfalls nicht vor.</note> ut ludo praesit illic.</s>
+					<s n="3" xml:lang="la" type="auto">Habet adnexum templum ante oppidum,<note xml:id="fn4" type="footnote" n="4">in <placeName>Lausen</placeName> (vgl. oben Anm. 3).</note> in quo singulis dominicis concionandum est per horę dimidium.</s>
+					<s n="4" xml:lang="la" type="auto">Recepit se idem ipsum diligenter exequuturum.</s>
+					<s n="5" xml:lang="la" type="auto">Latine pulchre legit et bene interpretatur; exercitium tamen deest sententias ad doctrinam adplicandi, quod tanto tempore nunquam de praedicandi munere cogitavit.</s>
+					<s n="6" xml:lang="la" type="auto">Attamen promisit se diligentiam adhibiturum esse tantam, ut et huic officio satisfacere possit et ita se parare ad maius aliquod in posterum.</s>
+					<s n="7" xml:lang="la" type="auto">Commendatio tua iuvit eum potenter.</s>
+					<s n="8" xml:lang="la" type="auto">Accessit et <persName>Hospiniani</persName><note xml:id="fn5" type="footnote" n="5">Gemeint ist wohl <persName>Johannes Hospinian</persName>.</note>, dein et civis cuiusdam<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note> mihi plane grati deprecatio.</s>
+					<s n="9" xml:lang="la" type="auto">Aiebat hic se novisse hominem fere a puero et nihil<pb type="edition" next="150"/> ipsum prae se tulisse unquam nisi probitatem.</s>
+					<s n="10" xml:lang="la" type="auto">Expecto igitur, qualiter se gesturus sit.</s>
+				</p>
+				<p>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> expectatur in dies; <persName>Hedio</persName> locum eius ad tempus subplebit.</s>
+					<s n="12" xml:lang="la" type="auto">Senex<note xml:id="fn8" type="footnote" n="8">Erzbischof <persName>Hermann von Wied</persName>.</note> agit fortiter; episcopus autem Argentinensis quotidie labitur in peius.</s>
+					<s n="13" xml:lang="la" type="auto">Audivi de <placeName>Venetis</placeName>, quod nescio quid ad evangelium spectans a vobis petierint;<note xml:id="fn10" type="footnote" n="10">Zu Bullingers neu entstandenem Kontakt mit Anhängern der Reformation in <placeName>Venedig</placeName> vgl. unten <ref target="file11816">Nr. 1770</ref>f. 1813. 1824.</note> mirum, si ita est, quod ea de re nihil significaris, de monacho<note xml:id="fn11" type="footnote" n="11">Unbekannt.</note> item rufa barba et ea longa velato, ut <placeName>Urii</placeName> pie cum ipso egerint, dum ex <placeName>Italia</placeName> quidam illic comprehenderint persecutores.</s>
+					<s n="14" xml:lang="la" type="auto">Nam et hunc aiunt tandem venisse ad vos et inde in certum aliquem locum dimissum.</s>
+					<s n="15" xml:lang="la" type="auto">Equidem interrogor super huiusmodi rebus a bonis viris, dumque nihil respondeo, pro fabula habent, quod putant nihil me nescire, quę isthic eveniunt.</s>
+				</p>
+				<p>
+					<s n="16" xml:lang="la" type="auto">Et his diebus tandem accepi de d. Christophoro<note xml:id="fn12" type="footnote" n="12">Stadtarzt <persName>Christoph Klauser</persName>.</note>, ut ad tempus miserabiliter egerit, nempe post obitum uxoris suę<note xml:id="fn13" type="footnote" n="13">Das Todesdatum von <persName>Klausers</persName> Ehefrau Margaretha Rüttimann ist nicht bekannt; vgl. G[ustav] A[dolf] <hi>Wehrli,</hi> Der Zürcher Stadtarzt Dr. Christoph Clauser und seine Stellung zur Reformation der Heilkunde im XVI. Jahrhundert, Zürich 1924, S. 11.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Et quis sic putasset?</s>
+					<s n="18" xml:lang="la" type="auto">Ego supra modum condolui et condoleo, praesertim cum audio inutilem fere factum a paralysi.</s>
+					<s n="19" xml:lang="la" type="auto">Quod si verum, opus esset vobis alio medico.</s>
+					<s n="20" xml:lang="la" type="auto">Sed <persName>Gesnerus</persName> nimirum succedet,<note xml:id="fn14" type="footnote" n="14"><persName>Konrad Gessner</persName> wurde tatsächlich <persName>Klausers</persName> Nachfolger als Stadtarzt, allerdings erst 1554; s. <hi>Wehrli,</hi> aaO, S. 27.</note> qui si non esset, Philippum, qui has reddit, commendarem tibi.</s>
+					<s n="21" xml:lang="la" type="auto">Pro licentiato a medicis nostris habetur doctoratum accepturus<pb type="edition" next="151"/> mox, ubi locum certum aliquem habuerit.</s>
+					<s n="22" xml:lang="la" type="auto">De praxi non est, ut quis dubitet; interim enim, dum hic se doctoratui devovit, nemo infirmorum in urbe fere non ad ipsum advolavit, et restituit, qui gravissime laborarunt.</s>
+				</p>
+				<p>
+					<s n="23" xml:lang="la" type="auto">Mihi notus est a multis annis vir bonus et doctus et ęqui amantissimus, quę quidem res ipsum e suggestu deturbavit; parrhisiani<note xml:id="fn16" type="footnote" n="16">Großmäuler (gemeint sind <persName>Hertensteins</persName> Gegner in <placeName>Zofingen</placeName>); vgl. François <hi>Rabelais,</hi> Gargantua, 1, 16 (Première édition critique faite sur l'Editio princeps, Texte établi par Ruth Calder [...], Genf-Paris 1970. Textes littéraires français [163], S. 110, 59-61).</note> enim noluerunt pati, qui expulerunt.</s>
+					<s n="24" xml:lang="la" type="auto">Vellem prorsus ei consultum esse, postquam huc se totum et meo quidem videre non infeliciter adplicuit.</s>
+					<s n="25" xml:lang="la" type="auto">Vocationem relinquere difficulter probo; sed quod Philippus fecit, improbare non ausim; adeo videtur mihi actum esse cum eo nequaquam amice, ne quid aliud dicam.</s>
+					<s n="26" xml:lang="la" type="auto">Quamvis autem propter Cuͦnhardum<note xml:id="fn17" type="footnote" n="17"><persName>Konrad Gessner</persName>.</note> nostrum non commendem virum, quęso tamen, siquid boni consilii dare valeas, vel meo nomine haud deneges.</s>
+				</p>
+				<p>
+					<s n="27" xml:lang="la" type="auto">Vale per Christum cum tuis.</s>
+					<s n="28" xml:lang="la" type="auto">Domino <persName>Theodoro</persName><note xml:id="fn18" type="footnote" n="18"><persName>Theodor Bibliander</persName>.</note> dic, rogo, ut aliquando, nisi prorsus non sit ocium, me salutet.</s>
+				</p>
+				<p>
+					<s n="29" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, 12. iunii anno 1543.</s>
+				</p>
+				<p>
+					<s n="30" xml:lang="la" type="auto">Ut d. <persName>Petrus Caroli</persName>, qui apud nos aliquando fuit, dum et vos essetis praesentes,<note xml:id="fn19" type="footnote" n="19">Bullinger muss <persName>Pierre Caroli</persName> an der Basler Tagung vom 24./25. September 1536 begegnet sein; s. Corr. des réformateurs IV 941, Anm. 1.</note> theologus Sorbonnensis, ut inquam in certamen provocarit <persName>Farellum</persName>, nosti nimirum.</s>
+					<s n="31" xml:lang="la" type="auto">Quodsi nescis et nosse desideras, significato etc.</s>
+					<s n="32" xml:lang="la" type="auto">De cęsare narravit hodie <persName>Martinus Cellarius</persName><note xml:id="fn21" type="footnote" n="21"><persName>Martin Borrhaus</persName>.</note> mihi <placeName>Mediolani</placeName> esse<note xml:id="fn22" type="footnote" n="22"><persName>Kaiser Karl V.</persName> war am 25. Mai in <placeName>Genua</placeName> an Land gegangen und inzwischen nach <placeName>Cremona</placeName> gelangt; s. <bibl>Stälin</bibl> 576.</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Dicito, quęso, si sit verum.</s>
+				</p>
+				<p>
+					<s n="34" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+				</p>
+				<p>
+					<note type="address">[Adresse auf der Rückseite:]</note>
+					<s n="35" xml:lang="la" type="auto">D. Heinricho Bullingero doctissimo, in domino suo.</s>
+					<s n="36" xml:lang="de" type="auto">Z[üric]h.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
