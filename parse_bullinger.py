@@ -235,18 +235,20 @@ def test_downsize():
 
 
 
-
-
 def classify_footnote(text):
 
-    dictionary = r"<bibl.*?>(ZI|Grimm)</bibl>"
-    lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
+    dictionary = r"<bibl.*?>(SI|Grimm)</bibl>"
+    lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
+    # lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$)"
 
     self_ref = r"<bibl.*?>(HBBW|HBBibl)</bibl>"
 
     # Todo: "nicht erhalten", "unbekannt" etc. type='missing'
 
-    if re.findall(dictionary, text) or re.match(lex_regex, text):
+    if re.findall(dictionary, text):
+        return "lex_dict"
+
+    elif re.match(lex_regex, text):
         return "lex"
     
     elif re.findall(self_ref, text):  # drin lassen...
@@ -254,6 +256,7 @@ def classify_footnote(text):
 
     else:
         return "misc"
+
 
 if __name__ == "__main__":
 
