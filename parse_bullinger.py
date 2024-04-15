@@ -1,8 +1,9 @@
 import pandas as pd
-import os, re, csv, sys
+import os, re, csv, sys, re
 from html import unescape  # from xml.sax.saxutils import unescape ->> does not work properly... :/
 from tqdm import tqdm
 from lxml import etree
+import argparse
 
 def make_id_to_edition_map(infolder):
     id_to_edition = {}
@@ -58,7 +59,7 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
     counter = 0
     with open(outfilename, 'w', encoding='utf-8', newline='') as outfile:
         csv_writer = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, doublequote=True)
-        csv_writer.writerow(['letter_id', 'edition', 'n_footnote', "n_sentence", 'xml_footnote', 'xml_sentence', 'text_footnote', 'text_sentence', 'len_footnote', 'pos_footnote'])  # column names
+        csv_writer.writerow(['letter_id', 'edition', 'n_footnote', "n_sentence", 'xml_footnote', 'xml_sentence', 'text_footnote', 'text_sentence', 'len_footnote', 'pos_footnote', 'label'])  # column names
         # footnote_df = pd.DataFrame(columns=[['letter_id', 'edition', 'n_footnote', "n_sentence", 'xml_footnote', 'xml_sentence', 'text_footnote', 'text_sentence', 'len_footnote']])
         for filename in tqdm(os.listdir(infolder)):
 
@@ -100,8 +101,11 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
                 len_footnote = len_text(text_footnote)
                 pos_footnote = footnote_pos(n_footnote, text_sentence)
 
+                # classify the label
+                label = classify_footnote(xml_footnote)
+
                 edition = id_to_edition[int(letter_id)]
-                csv_writer.writerow([letter_id, edition, n_footnote, n_sentence, xml_footnote, xml_sentence, text_footnote, text_sentence, len_footnote, pos_footnote])
+                csv_writer.writerow([letter_id, edition, n_footnote, n_sentence, xml_footnote, xml_sentence, text_footnote, text_sentence, len_footnote, pos_footnote, label])
                 counter += 1
                 
         print(f"Total footnotes found: {counter}")
@@ -216,6 +220,7 @@ def get_node_string(node):
 
     return text
 
+
 def test_downsize():
     # test if the downsizing works well by looking at examples
 
@@ -228,13 +233,42 @@ def test_downsize():
     new_tree = etree.ElementTree(downsize_tei(root, [5, 6, 7, 9]))  # need to get the list of footnotes, could also open the dataframe...
     new_tree.write("downsize_tei.xml", encoding="utf-8", pretty_print=True)
 
+
+
+
+
+def classify_footnote(text):
+
+    dictionary = r"<bibl.*?>(ZI|Grimm)</bibl>"
+    lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
+
+    self_ref = r"<bibl.*?>(HBBW|HBBibl)</bibl>"
+
+    # Todo: "nicht erhalten", "unbekannt" etc. type='missing'
+
+    if re.findall(dictionary, text) or re.match(lex_regex, text):
+        return "lex"
+    
+    elif re.findall(self_ref, text):  # drin lassen...
+        return "self_ref"
+
+    else:
+        return "misc"
+
 if __name__ == "__main__":
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument("mode", choices=["lettter_df", "footnote_df"])
+    parser.add_argument("outfilename", type=str, help="csv filename")
+    parser.add_argument("infolder", help="folder containing the letters")
+    parser.add_argument("--editions", default="../editions/hbbw", help="folder where the letters are organized by edition")
+    args = parser.parse_args()
+    mode = args.mode 
+    outfilename = args.outfilename 
+    infolder = args.infolder
+    editions_folder = args.editions
     # call the model to make the dataframes (takes a long time when calling through the ipynb somehow...)
-    mode = sys.argv[1]  # letter_df or footnote_df
-    outfilename = sys.argv[2]
-    infolder = sys.argv[3]
-    id_to_edition = make_id_to_edition_map("../editions/hbbw")
+    id_to_edition = make_id_to_edition_map(editions_folder)
     # print(id_to_edition)
 
     if mode == "letter_df":
