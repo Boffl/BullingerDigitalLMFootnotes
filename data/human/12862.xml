@@ -23,7 +23,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 		 			<p>
-					<s n="4" xml:lang="de" type="auto">Des kaisers schriben ist gen <placeName>Lutzern</placeName> gewisslich kummen.</s>
+					<s n="4" xml:lang="de" type="auto">Des kaisers<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName> - Gemeint ist dessen Brief an die XIII Orte vom 18. Januar, der erst um den 28. Januar in der Eidgenossenschaft bekannt wurde; s. <ref target="file12850">Nr. 2801</ref>, Anm. 3.</note> schriben ist gen <placeName>Lutzern</placeName> gewisslich kummen.</s>
 					<s n="5" xml:lang="de" type="auto"><persName>Marte Hux</persName> von <placeName>Sant Gallen</placeName> hatt es hoͤren leßen.</s>
 					<s n="6" xml:lang="de" type="auto">Das werdent ir durch d. <persName>Vadianum</persName> woll erfaren kuinden.</s>
 				</p>
@@ -56,15 +56,15 @@
 			<div xml:id="div7" corresp="regest7">
 				<p>
 					<s n="16" xml:lang="de" type="auto">Der <persName>Granvella</persName><note xml:id="fn17" type="footnote" n="17"><persName>Nicolas Perrenot, Herr von Granvelle</persName>, der <placeName ref="513">Ulm</placeName> am 6. Februar verlassen hatte; s. <ref target="file12871">Nr. 2822</ref>, Anm. 10.</note> ryt in das <placeName>Burgund</placeName>.</s>
-					<s n="17" xml:lang="de" type="auto">Ist zuͦ <placeName>Stockach</placeName> fur gezogen.</s>
+					<s n="17" xml:lang="de" type="auto">Ist zuͦ <placeName>Stockach</placeName> fur gezogen.<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file12861">Nr. 2812</ref>,50-54.</note></s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
 					<s n="18" xml:lang="de" type="auto">Der von Lando<note xml:id="fn19" type="footnote" n="19"><persName>Hans Jakob von Landau</persName>. - Siehe dazu <ref target="file12849">Nr. 2800</ref>, Anm. 6.</note> hatt sydert zway mal by minen herren angehalten umb fürderung.<note xml:id="fn20" type="footnote" n="20">hatt angehalten umb fürderung: hat darauf gedrängt, (die Versöhnung <placeName>Konstanz</placeName>' mit dem Kaiser) voranzutreiben.</note></s>
 					<s n="19" xml:lang="de" type="auto">Erbüt sich, so unser ettlich unstarck<note xml:id="fn21" type="footnote" n="21">unschlüssig (sind).</note>, das er gen <placeName>Sipplingen</placeName><note xml:id="fn22" type="footnote" n="22">Etwa 20 km nördlich von <placeName>Konstanz</placeName>, am nördlichen Ufer des Überlinger Sees (der nördliche Zipfel des <placeName>Bodensees</placeName>).</note> <pb type="edition" next="314"/> oder in die <placeName>Maynow</placeName><note xml:id="fn23" type="footnote" n="23">Die 6 km nördlich von <placeName>Konstanz</placeName> gelegene Insel <placeName>Mainau (Bodenseekreis, Baden-Württemberg)</placeName>.</note> biß zinstag<note xml:id="fn24" type="footnote" n="24">15. Februar.</note> kum-<pb type="scan" next="87"/>men welle.</s>
-					<s n="20" xml:lang="de" type="auto">Schribt, der <persName>Granvella</persName> hab ouch geraten, das wir nit lang ußbliben.<note xml:id="fn26" type="footnote" n="26">(den Beschluss, sich mit dem Kaiser zu versöhnen) aufschieben.</note></s>
-					<s n="21" xml:lang="de" type="auto">Wir suchent uffzüg, so vil gott gibt.</s>
+					<s n="20" xml:lang="de" type="auto">Schribt,<note xml:id="fn25" type="footnote" n="25">Vgl. <bibl>Maurer, Übergang</bibl> 18.</note> der <persName>Granvella</persName> hab ouch geraten, das wir nit lang ußbliben.<note xml:id="fn26" type="footnote" n="26">(den Beschluss, sich mit dem Kaiser zu versöhnen) aufschieben.</note></s>
+					<s n="21" xml:lang="de" type="auto">Wir suchent uffzüg<note xml:id="fn27" type="footnote" n="27">Verzögerung. - Schon am Samstag, dem 19. Februar, antwortete <persName>Zwick</persName> <persName>Landau</persName> in diesem Sinne; s. <ref target="file12849">Nr. 2800</ref>, Anm. 6; <ref target="file12869">Nr. 2820</ref>,40-44.</note>, so vil gott gibt.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
@@ -82,7 +82,7 @@
 			</div>
 			<div xml:id="div11" corresp="regest11">
 				<p>
-					<s n="27" xml:lang="de" type="auto">Ir sollend dem jetzigen potten nichts geben, dann ich hab die nechsten 12 ß noch zum vortail.<note xml:id="fn42" type="footnote" n="42">zum vortail: zugute (wohl indem er dem Boten ein voriges Mal mehr bezahlt hatte); vgl. <bibl>SI</bibl> XII 1508.</note></s>
+					<s n="27" xml:lang="de" type="auto">Ir sollend dem jetzigen potten nichts geben, dann ich hab die nechsten 12 ß<note xml:id="fn41" type="footnote" n="41">Schilling. - 1 Pfund (Währung) = 20 Schilling.</note> noch zum vortail.</s>
 					<s n="28" xml:lang="de" type="auto"><persName>Jergen</persName><note xml:id="fn43" type="footnote" n="43"><persName>Georg Müller</persName>; vgl. oben Z. 14. - Welche Angelegenheit <persName>Zwick</persName> hier anspricht, ist unbekannt.</note> ists alles verzigen, und ich halt inn on klag.<pb type="edition" next="315"/></s>
 				</p>
 			</div>

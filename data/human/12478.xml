@@ -33,7 +33,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="9" xml:lang="la" type="auto"><persName>Dux Wirtenbergensis</persName><note xml:id="fn7" type="footnote" n="7"><persName>Herzog Ulrich von Württemberg</persName>.</note> properantem<note xml:id="fn8" type="footnote" n="8"><persName>Kaiser Karl V.</persName> Er war am 10. April 1546 in <placeName>Regensburg</placeName> eingetroffen; s. <ref target="file12378">Nr. 2331</ref>, Anm. 3.</note> <placeName>Ratisbonam</placeName> honorificentissime excepit.</s>
-					<s n="10" xml:lang="la" type="auto">Diu colloquti sunt.</s>
+					<s n="10" xml:lang="la" type="auto">Diu colloquti sunt<note xml:id="fn9" type="footnote" n="9">Wohl ein Gerücht. Auch in <persName>Nicolaus <hi>Mameranus</hi></persName>, D. Caroli V. iter ex inferiore Germania ab anno 1545 usque ad comitia apud Augustam Rheticam indicta ..., <placeName>Augsburg</placeName> 1548 <hi>(VD16</hi> M438), ist nichts darüber zu finden.</note>.</s>
 					<s n="11" xml:lang="la" type="auto">De quibus rebus, dubitatur.<pb type="edition" next="376"/></s>
 				</p>
 			</div>

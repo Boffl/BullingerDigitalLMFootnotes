@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">8. martii sind kaiserlich brieff gen <placeName>Regenspurg</placeName> komenn an die colloquenten.</s>
+					<s n="1" xml:lang="de" type="auto">8. martii sind kaiserlich brieff<note xml:id="fn1" type="footnote" n="1">Von <persName>Karl V.</persName> - Es handelt sich um die zusammen verschickten Briefe des Kaisers vom 3. und 11. Februar, die in <placeName>Regensburg</placeName> am 25. Februar übergeben wurden; s. <bibl>Wolrad, Regensb. RG</bibl> 314; <bibl>Vogel</bibl> 431-434.</note> gen <placeName>Regenspurg</placeName> komenn an die colloquenten.</s>
 					<s n="2" xml:lang="de" type="auto">Was aber darinn, konnen wir noch nitt wissen, dann der bott<note xml:id="fn2" type="footnote" n="2">Unbekannt; wohl ein <placeName>Konstanzer</placeName>.</note> von <placeName>Regenspurg</placeName> geylt, ee und<note xml:id="fn3" type="footnote" n="3">ee und: bevor.</note> die brieff<note xml:id="fn4" type="footnote" n="4">Des Kaisers.</note> verlesen worden.</s>
 				</p>
 			</div>
@@ -43,7 +43,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="11" xml:lang="la" type="auto">Iis ne verbum quidem adiicere licuit.</s>
-					<s n="12" xml:lang="la" type="auto">Scribam proxime<note xml:id="fn15" type="footnote" n="15">Am 19. März (<ref target="file12432">Nr. 2385</ref>).</note> et mitto nunc librum tuum, quem inoffense propemodum percurri, quamquam restiti alicubi, sed ita ut legendi aviditate perrexerim diligentius omnia lecturus, ubi fuerit excusus.</s>
+					<s n="12" xml:lang="la" type="auto">Scribam proxime<note xml:id="fn15" type="footnote" n="15">Am 19. März (<ref target="file12432">Nr. 2385</ref>).</note> et mitto nunc librum tuum<note xml:id="fn16" type="footnote" n="16">Bullingers Schrift "De sacramentis"; s. <ref target="file12413">Nr. 2366</ref>,7f, und zuletzt <ref target="file12423">Nr. 2376</ref>, Anm. 25. Bei Abfassung des vorliegenden Briefes hatte jedoch <persName>Blarer</persName> Bullingers Brief vom 11. März (<ref target="file12423">Nr. 2376</ref>) noch nicht erhalten; s. <ref target="file12432">Nr. 2385</ref>,1f.</note>, quem inoffense propemodum percurri, quamquam restiti alicubi, sed ita ut legendi aviditate perrexerim diligentius omnia lecturus, ubi fuerit excusus.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">

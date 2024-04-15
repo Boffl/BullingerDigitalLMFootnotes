@@ -17,9 +17,9 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Priorem libellum qua de causa nondum legerimus, ostendit, arbitror, <persName>Myconius</persName>.</s>
-					<s n="3" xml:lang="la" type="auto">Nam quod pro indiviso possidebatur, antequam ligatus est, etiam legi posse non credebamus.</s>
-					<s n="4" xml:lang="la" type="auto">Eum ego prius editum esse non memineram.</s>
+					<s n="2" xml:lang="la" type="auto">Priorem libellum<note xml:id="fn2" type="footnote" n="2">Gemeint ist die Neubearbeitung von Bullingers "De origine erroris libri duo" (<bibl>HBBibl</bibl> I 12).</note> qua de causa nondum legerimus, ostendit, arbitror, <persName>Myconius</persName><note xml:id="fn3" type="footnote" n="3">Vgl. oben <ref target="file11300">Nr. 1257</ref>, 2-4.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Nam quod pro indiviso possidebatur<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11282">Nr. 1239</ref>, 10-15.</note>, antequam ligatus est, etiam legi posse non credebamus.</s>
+					<s n="4" xml:lang="la" type="auto">Eum ego prius editum esse<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl>HBBibl</bibl> I 10f.</note> non memineram.</s>
 					<s n="5" xml:lang="la" type="auto">Iam est ligatus, iam est in manibus; videbimus, quid dicas.</s>
 				</p>
 				<p>
@@ -31,7 +31,7 @@
 					<s n="11" xml:lang="la" type="auto">De sentencia nil detraherem (quamquam sunt certe quam plurima, in quibus neque scire potes, quae insit sentencia), tantum dictionem ipsam, quae semilatina-germana-greca-hebręa est, generis unius pro virili latinam facerem.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">De loco, qui in libro tuo de sacramento legitur, videbimus.</s>
+					<s n="12" xml:lang="la" type="auto">De loco, qui in libro tuo de sacramento legitur<note xml:id="fn8" type="footnote" n="8">Der zweite Teil von "De origine erroris" handelt von Abendmahl und Messe; vgl. <bibl>HBBibl</bibl> I 12.</note>, videbimus.</s>
 					<s n="13" xml:lang="la" type="auto">Oro te valde, ut ad concordiam publicam ecclesiarum, non nostram cum <persName ref="p18198">Bucero</persName> et <persName ref="p18889">Luthero</persName><pb type="edition" next="117"/> concordiam respicere velis.</s>
 					<s n="14" xml:lang="la" type="auto">Quae ad te de <persName>Schwenckfeldio</persName> <persName>Myconius</persName> scribit<note xml:id="fn9" type="footnote" n="9">Siehe oben <ref target="file11300">Nr. 1257</ref>, 34-44.</note>, quaeso, ut cures diligenter et incommodum ecclesię maximum ne negligas.</s>
 				</p>

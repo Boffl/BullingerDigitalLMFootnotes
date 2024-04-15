@@ -16,7 +16,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Cum, quid scriberem ad te, nihil haberem, tamen ne tabellarius vacuus veniret ad vos, has dedi literas.</s>
+					<s n="2" xml:lang="la" type="auto">Cum, quid scriberem ad te, nihil haberem, tamen ne tabellarius<note xml:id="fn1" type="footnote" n="1">Unbekannt. - Wohl auch der Beförderer von <persName>Richard Hilles</persName>' Brief desselben Tages (<ref target="file12821">Nr. 2772</ref>).</note> vacuus veniret ad vos, has dedi literas.</s>
 					<s n="3" xml:lang="la" type="auto">Mirarer te ad me nihil scribere, nisi novissem ex d. <persName>Richardo</persName><note xml:id="fn2" type="footnote" n="2"><persName>Richard Hilles</persName>.</note> te saeverioribus negotiis ita occupatum esse, ut liberum non sit bonas horas scribendo consumere.</s>
 				</p>
 			</div>
@@ -51,23 +51,23 @@
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="17" xml:lang="la" type="auto">Motus hi bellici et degeneres Germani ita excruciant animum domini mei, ut non diuturnam huius vitę usuram accepturum putemus.</s>
+					<s n="17" xml:lang="la" type="auto">Motus hi bellici et degeneres Germani ita excruciant animum domini mei<note xml:id="fn20" type="footnote" n="20"><persName>Matthias Zell</persName>, bei dem Ludwig wohnte; s. <bibl>HBBW</bibl> XVIII 145f. 372; und unten Z. 58.</note>, ut non diuturnam huius vitę usuram accepturum putemus.</s>
 					<s n="18" xml:lang="la" type="auto">Iam quod castra Musarum<note xml:id="fn21" type="footnote" n="21">Gemeint ist das <placeName>Straßburger</placeName> Gymnasium.</note> attinet, vereor ne dimissuri<note xml:id="fn22" type="footnote" n="22">Als Subjekt sind die <placeName>Straßburger</placeName> Behörden vorauszusetzen.</note> sint scholam, cum nullus foelix huius belli exitus pateat.</s>
-					<s n="19" xml:lang="la" type="auto">D. <persName>Sturmius</persName>, qui hactenus bellicis negotiis occupatus fuit, ad diu intermissum legendi munus reversus est.</s>
-					<s n="20" xml:lang="la" type="auto">Et nuper coepit dictare librum de elenchis sophisticis,<note xml:id="fn24" type="footnote" n="24">Widerlegungen sophistischer Trugschlüsse. - Siehe dazu Anton <hi>Schindling,</hi> Humanistische Hochschule und freie Reichsstadt. Gymnasium und Akademie in <placeName>Straßburg</placeName> 1538-1621, Wiesbaden 1977, S. 199f.</note> de collocatione et de quaestione<note xml:id="fn26" type="footnote" n="26">Als Terminus in der Rhetorik bezeichnet "quaestio" das Thema oder den Hauptpunkt einer strittigen Frage.</note>: Tractatus ad omnes ad vitę partes perutiles.</s>
+					<s n="19" xml:lang="la" type="auto">D. <persName>Sturmius</persName><note xml:id="fn23" type="footnote" n="23"><persName>Johannes Sturm</persName>, der spätestens am 4. Januar 1547 von seiner Gesandtschaft nach <placeName>Frankreich</placeName> wieder nach <placeName>Straßburg</placeName> zurückgekehrt war; s. <bibl>HBBW</bibl> XVIII 453f, Anm. 23.</note>, qui hactenus bellicis negotiis occupatus fuit, ad diu intermissum legendi munus reversus est.</s>
+					<s n="20" xml:lang="la" type="auto">Et nuper coepit dictare librum de elenchis sophisticis,<note xml:id="fn24" type="footnote" n="24">Widerlegungen sophistischer Trugschlüsse. - Siehe dazu Anton <hi>Schindling,</hi> Humanistische Hochschule und freie Reichsstadt. Gymnasium und Akademie in <placeName>Straßburg</placeName> 1538-1621, Wiesbaden 1977, S. 199f.</note> de collocatione<note xml:id="fn25" type="footnote" n="25">Darunter ist die rhetorische Disposition der Worte und Gedanken zu verstehen. - <persName>Sturm</persName> veröffentlichte im Jahr 1548 eine Abhandlung über diese Thematik (als dritten Teil seiner Dialektik); s. <hi>VD16</hi> S9968.</note> et de quaestione<note xml:id="fn26" type="footnote" n="26">Als Terminus in der Rhetorik bezeichnet "quaestio" das Thema oder den Hauptpunkt einer strittigen Frage.</note>: Tractatus ad omnes ad vitę partes perutiles.</s>
 					<s n="21" xml:lang="la" type="auto">Huius absentia plurimum semper scholę incomodat.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="22" xml:lang="la" type="auto">Memini me superioribus temporibus ad te scripsisse, ut si fieri posset, tempus, quod peregrinationi studiorum conceditur, vel saltem tempus, quo mihi <placeName>Argentinę</placeName> manendum est, signasses, ut possem studiorum ordinem melius instituere et viderem, quid quoque anno mihi discendum esset, ne varietate rerum impedirem potius meipsum, quam promovere possem.</s>
+					<s n="22" xml:lang="la" type="auto">Memini me superioribus temporibus ad te scripsisse,<note xml:id="fn27" type="footnote" n="27">Bezug auf <bibl>HBBW</bibl> XVI 393,52-394,59.</note> ut si fieri posset, tempus, quod peregrinationi studiorum conceditur, vel saltem tempus, quo mihi <placeName>Argentinę</placeName> manendum est, signasses, ut possem studiorum ordinem melius instituere et viderem, quid quoque anno mihi discendum esset, ne varietate rerum impedirem potius meipsum, quam promovere possem.</s>
 					<s n="23" xml:lang="la" type="auto">Id quoniam<pb type="scan" next="718"/> neglexisti, iam tandem video, quantum mali dederit.</s>
-					<s n="24" xml:lang="la" type="auto">Potuissem enim audire initium politicorum <persName>Aristotelis</persName> a doctissimo d. d. <persName>Iusto Velsio</persName> et arithmeticae principia a <persName>Christiano Herlino</persName>.<note xml:id="fn29" type="footnote" n="29">Mathematikprofessor in <placeName>Straßburg</placeName>, gest. im Oktober 1562.</note></s>
+					<s n="24" xml:lang="la" type="auto">Potuissem enim audire initium politicorum <persName>Aristotelis</persName> a doctissimo d. d. <persName>Iusto Velsio</persName><note xml:id="fn28" type="footnote" n="28">Vgl. schon <bibl>HBBW</bibl> XVI 72,90f.</note> et arithmeticae principia a <persName>Christiano Herlino</persName>.<note xml:id="fn29" type="footnote" n="29">Mathematikprofessor in <placeName>Straßburg</placeName>, gest. im Oktober 1562.</note></s>
 					<s n="25" xml:lang="la" type="auto">Sed quoniam putabam me absolvere non posse, nolui libros mihi parare et initium tantum audire.</s>
 					<s n="26" xml:lang="la" type="auto">Hucusque fere audivi lectiones primę classis.<note xml:id="fn30" type="footnote" n="30">Die oberste Klassenstufe.</note></s>
 					<s n="27" xml:lang="la" type="auto">Iam ampliorem rhetoricę et dialecticę fructum et usum consequtus.</s>
 					<s n="28" xml:lang="la" type="auto">Mox me <persName>Euclidem</persName> cum aliis nonnullis spero auditurum.</s>
-					<s n="29" xml:lang="la" type="auto">Postquam infaustum hoc bellum compositum fuerit et nova aliqua academia instituta, spero et te parentibus<note xml:id="fn31" type="footnote" n="31"><persName>Hans Rudolf Lavater</persName> und <persName>Anna, geb. Röichli</persName>.</note> monitorem fore, ut eius usum aliquem habeam.<pb type="edition" next="201"/></s>
+					<s n="29" xml:lang="la" type="auto">Postquam infaustum hoc bellum compositum fuerit et nova aliqua academia instituta, spero et te parentibus<note xml:id="fn31" type="footnote" n="31"><persName>Hans Rudolf Lavater</persName> und <persName>Anna, geb. Röichli</persName>.</note> monitorem fore, ut eius usum aliquem habeam.<note xml:id="fn32" type="footnote" n="32">Vgl. schon <bibl>HBBW</bibl> XVI 393,43-56. - <persName>Lavater</persName> blieb bis etwa Mai 1547 in <placeName>Straßburg</placeName> und studierte danach in Paris und Lausanne weiter; s. <bibl>HBBW</bibl> XV 576f, Anm. 23.</note><pb type="edition" next="201"/></s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">

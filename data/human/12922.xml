@@ -20,8 +20,8 @@
 					<s n="2" xml:lang="la" type="auto">Vir<note xml:id="fn1" type="footnote" n="1"><persName>Hans Wylle, gen. Bapst</persName>, aus <placeName>Luzern</placeName>; s. <bibl>Henrich, Myconius BW</bibl> 954, <ref target="file11112">Nr. 1069</ref>.</note> est hic, qui in ecclesia nostra turbas movet hoc modo: Vivente uxore stupravit ancillam<note xml:id="fn3" type="footnote" n="3"><persName>Anna Bippe</persName>; s. <hi>Henrich,</hi> aaO.</note> fecitque gravidam.</s>
 					<s n="3" xml:lang="la" type="auto">Uxorem reliquit sine solatio et auxilio.</s>
 					<s n="4" xml:lang="la" type="auto">Quicquid laboribus quotidianis acquisivit, dedit scorto, donec uxor coacta est aliunde accipere, ut vitam posset sustinere.</s>
-					<s n="5" xml:lang="la" type="auto"><persName>Marcus</persName> largitus est libram unam <placeName>Basiliensem</placeName>, quam postea tribunus reddidit.</s>
-					<s n="6" xml:lang="la" type="auto">Discessit ille quo-<pb type="edition" next="114"/>que ab uxore senatus permissu propter filium uxoris, cuius ira timebatur.</s>
+					<s n="5" xml:lang="la" type="auto"><persName>Marcus</persName><note xml:id="fn4" type="footnote" n="4"><persName>Markus Bertschi</persName>, Pfarrer zu St. Leonhard in <placeName>Basel</placeName>, der sich gerne für die sozial Benachteiligten einsetzte; s. <bibl>HBBW</bibl> I 219, Anm. 1.</note> largitus est libram unam <placeName>Basiliensem</placeName>, quam postea tribunus reddidit.</s>
+					<s n="6" xml:lang="la" type="auto">Discessit ille quo-<pb type="edition" next="114"/>que ab uxore senatus permissu propter filium<note xml:id="fn6" type="footnote" n="6">Unbekannt. - Wohl ein Sohn der Verstoßenen aus einer früheren Ehe.</note> uxoris, cuius ira timebatur.</s>
 					<s n="7" xml:lang="la" type="auto">Adhęsit beneficentia scorto.</s>
 					<s n="8" xml:lang="la" type="auto">Interea morbo, dolore et multis accidentibus aliis uxor absumpta est.</s>
 					<s n="9" xml:lang="la" type="auto">Duxit adulter, cui coniugium ante promiserat.</s>
@@ -36,12 +36,12 @@
 					<s n="18" xml:lang="la" type="auto">Consultavimus et conclusimus: eum (cuius matrimonium hactenus adprobare nequimus, nec adhuc adprobamus) a mensa domini prohibendum esse!</s>
 					<s n="19" xml:lang="la" type="auto">Qua re intellecta senatum movimus et plebem, ut horror sit cogitare.</s>
 					<s n="20" xml:lang="la" type="auto">Hoc in sinum tibi.</s>
-					<s n="21" xml:lang="la" type="auto">Quęrimus ex te, de isto coniugio quid sentias deque nostro consilio, et cum primum poteris, responsum mittas, obsecramus.</s>
+					<s n="21" xml:lang="la" type="auto">Quęrimus ex te, de isto coniugio quid sentias deque nostro consilio, et cum primum poteris,<note xml:id="fn11" type="footnote" n="11">Myconius fürchtete vermutlich eine unmittelbar bevorstehende Einbürgerung <persName>Wylles</persName> durch den Rat. Dazu kam es auch, und zwar schon am 6. April; s. Basel StA, Protokolle, Öffnungsbuch 8, 118r. - Wir danken Rainer Henrich für die entsprechende Angabe.</note> responsum mittas, obsecramus.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="22" xml:lang="la" type="auto">Pręter hoc miror, cur nova, quę scripsit Vadianus, non miseris etiam ad nos, cum sint tam plausibilia?</s>
+					<s n="22" xml:lang="la" type="auto">Pręter hoc miror, cur nova, quę scripsit Vadianus,<note xml:id="fn12" type="footnote" n="12">Dieser Brief Joachim Vadians, der vielleicht an Myconius gerichtet war, ist nicht mehr erhalten. Darin wird Vadian etwa das Gleiche berichtet haben wie in seinen Briefen vom 28. März an Bullinger (<bibl>HBBW</bibl> XIX, <ref target="file12913">Nr. 2864</ref>); s. nämlich unten <ptr target="qvfn17140-1" type="qv"/>.</note> non miseris etiam ad nos, cum sint tam plausibilia?</s>
 					<s n="23" xml:lang="la" type="auto">Dominus adsit ut hactenus electori!</s>
 					<s n="24" xml:lang="la" type="auto"><foreign xml:lang="el">Κάττος</foreign><note xml:id="fn14" type="footnote" n="14">Landgraf <persName>Philipp von Hessen</persName>.</note> adhuc hęret.</s>
 					<s n="25" xml:lang="la" type="auto">Non habet pecuniam, et nobiles eius dicuntur meditari defectionem.</s>

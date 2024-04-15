@@ -28,7 +28,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="9" xml:lang="la" type="auto">Quę <placeName>Francofordię</placeName> aguntur, paucis accipe, nam hęc a <placeName>Francofordiano</placeName> cive hausi: <foreign xml:lang="de">Es ligent noch 5 fenlin knecht do.</foreign></s>
+					<s n="9" xml:lang="la" type="auto">Quę <placeName>Francofordię</placeName> aguntur, paucis accipe, nam hęc a <placeName>Francofordiano</placeName> cive<note xml:id="fn4" type="footnote" n="4">Vermutlich <persName>Mathias Limberger</persName>, der schon während seiner Mainzer Zeit als <persName>Gasts</persName> Korrespondent nachgewiesen ist; s. zuletzt <bibl>HBBW</bibl> XIV 201; XVI 194.</note> hausi: <foreign xml:lang="de">Es ligent noch 5 fenlin knecht do.</foreign></s>
 					<s n="10" xml:lang="de" type="auto">Die bezalen, was si essen und trincken.</s>
 					<s n="11" xml:lang="de" type="auto">Sy haben allen gwalt in der stat.</s>
 					<s n="12" xml:lang="de" type="auto">Es ist ein muͤnch kommen.</s>
@@ -36,7 +36,7 @@
 					<s n="14" xml:lang="de" type="auto">Das ist bracht an ein rath zuͦ <placeName>Francofort</placeName>.</s>
 					<s n="15" xml:lang="de" type="auto">Diß ist im abgeschlagen.</s>
 					<s n="16" xml:lang="de" type="auto">Und hat der frünfelich muͤnch wider hinweg müssen faren mit siner meß.<note xml:id="fn9" type="footnote" n="9">Siehe dazu <hi>Collischonn,</hi> aaO, S. 93f, wonach von Büren im <placeName>Frankfurter</placeName> Frauenbruderkloster öffentlich Messe lesen ließ, zugleich aber (zum Entsetzen des Rates) den evangelischen Pfarrern die Predigt gestattete.</note></s>
-					<s n="17" xml:lang="de" type="auto">Man hat niemans etwas genomen, nimpt ouch niemans nuit.</s>
+					<s n="17" xml:lang="de" type="auto">Man hat niemans etwas genomen, nimpt ouch niemans nuit.<note xml:id="fn10" type="footnote" n="10">nichts. - Eine Äußerung, die in Bezug auf die in <placeName>Frankfurt</placeName> stationierten kaiserlichen Söldner zu verstehen ist.</note></s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -56,12 +56,12 @@
 					<s n="26" xml:lang="de" type="auto">3. Sy haben inn im züg<note xml:id="fn19" type="footnote" n="19">im zug: in Verdacht.</note>, er sölle dem Frantzosen<note xml:id="fn20" type="footnote" n="20"><persName>König Franz I. von Frankreich</persName>.</note> wellen knecht annemen.</s>
 					<s n="27" xml:lang="de" type="auto">Sy haben 6 pferdt ußgeschickt in willens, alle syne brieff in seim schloß zuͦ erloͤßen; aber sy haben das nit zuͦ wegen kynnen bringen.<note xml:id="fn22" type="footnote" n="22">zü wegen kynnen bringen: zustande bringen können.</note></s>
 					<s n="28" xml:lang="de" type="auto">Der juncker hat ein reisigen krieger by im lang gehan; den im schloß gelossen.</s>
-					<s n="29" xml:lang="de" type="auto">Diser hat den 6 rütteren und etlichen büren das schloß vorgehalten<note xml:id="fn25" type="footnote" n="25">vorenthalten; verschlossen gehalten; s. <bibl>SI</bibl> II 1233 s.v. verhalten.</note>, sy darvon gejagt mit geschützs, die brieff als<note xml:id="fn26" type="footnote" n="26">die brieff als: alle Briefe.</note> verbrent, und hat also das schloß noch ynn.</s>
+					<s n="29" xml:lang="de" type="auto">Diser hat den 6 rütteren und etlichen büren das schloß vorgehalten, sy darvon gejagt mit geschützs, die brieff als<note xml:id="fn26" type="footnote" n="26">die brieff als: alle Briefe.</note> verbrent, und hat also das schloß noch ynn.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="30" xml:lang="de" type="auto">Praeterea das fröwt mich: Die von <placeName>Colmar</placeName> haben den abt von <placeName>Malbrunn</placeName> lang uffgehalten in sym ellendt<note xml:id="fn28" type="footnote" n="28">uffgehalten in sym ellendt: versorgt in seiner Verbannung; s. <bibl>SI</bibl> II 1227; I 177.</note>, der ein huß zuͦ <placeName>Colmar</placeName> hat.</s>
+					<s n="30" xml:lang="de" type="auto">Praeterea das fröwt mich: Die von <placeName>Colmar</placeName> haben den abt von <placeName>Malbrunn</placeName> lang uffgehalten in sym ellendt, der ein huß zuͦ <placeName>Colmar</placeName> hat.</s>
 					<s n="31" xml:lang="de" type="auto">Disem haben sy etwas genomen, daruß ein bolwerck gemacht.</s>
 					<s n="32" xml:lang="de" type="auto">Der apt hat sy verklagt vor <persName>Ferdinando</persName>.<note xml:id="fn29" type="footnote" n="29"><persName>König Ferdinand I.</persName></note></s>
 					<s n="33" xml:lang="de" type="auto">Wider den<note xml:id="fn30" type="footnote" n="30">Gemeint ist <persName>von Lienzingen</persName>.</note> stelt sich der prior <persName>Hoffmeyster</persName>,<note xml:id="fn31" type="footnote" n="31"><persName>Johannes Hoffmeister</persName>, seit 1533 Prior der Augustinereremiten in <placeName>Colmar</placeName>.</note> <persName>Ferdinandi</persName> pre-<pb type="edition" next="302"/>dicent.</s>
@@ -73,7 +73,7 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="37" xml:lang="de" type="auto">Item, der landtgraff lyt zuͦ <placeName>Cassel</placeName>.</s>
-					<s n="38" xml:lang="de" type="auto">Ist in grosser ruͤstung.</s>
+					<s n="38" xml:lang="de" type="auto">Ist in grosser ruͤstung.<note xml:id="fn34" type="footnote" n="34">Vgl. jedoch <ref target="file12837">Nr. 2788</ref>, Anm. 28; und <ref target="file12854">Nr. 2805</ref>,36.</note></s>
 					<s n="39" xml:lang="de" type="auto">Hertzog <persName>Hans</persName>, elector,<note xml:id="fn35" type="footnote" n="35">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> hat <placeName>Lipsig</placeName> mit eim sturm gwonnen, alles kriegsvolck erstochen darinnen, ouch die statt geplünderet.<note xml:id="fn36" type="footnote" n="36">Ein falsches Gerücht; vgl. <ref target="file12806">Nr. 2757</ref>, Anm. 76.</note></s>
 					<s n="40" xml:lang="de" type="auto">Er soll uff die <placeName>Silesiam</placeName> mit eim hüffen ziehen, do grossen schaden thuͦn.</s>
 					<s n="41" xml:lang="de" type="auto">Mit dem anderen huffen ligt er dem hertzog <persName>Albrecht von Brandenburg</persName><note xml:id="fn38" type="footnote" n="38">Markgraf <persName>Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach. - Damals drohte eine kurfürstliche Truppe ins markgräfliche Gebiet einzufallen. Doch kam es nicht dazu; s. <bibl>Voigt, Albrecht</bibl> I 140f.</note> <pb type="scan" next="197a,r."/> im landt, nympt im alles yn.</s>

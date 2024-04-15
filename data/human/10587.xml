@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Ich, <persName>Heinrich Schlitler</persName>, vogtt im <placeName>Ergeu</placeName><note xml:id="fn2" type="footnote" n="2">gemeint sind die Freien Ämter im <placeName>Aargau</placeName>.</note>, jez anheim<note xml:id="fn3" type="footnote" n="3">daheim (<bibl>SI</bibl> II 1280).</note> zu <placeName>Niderurna</placeName><note xml:id="fn4" type="footnote" n="4"><placeName>Niederurnen</placeName> (Kt. <placeName>Glarus</placeName>).</note>, und ein gancze gmein zu <placeName>Niderurna</placeName> etc., unsernn gancz fruntlich unnd willigenn dinnst zuvor, lyeber Meister Heinrich.</s>
+					<s n="1" xml:lang="de" type="auto">Ich, <persName>Heinrich Schlitler</persName>, vogtt im <placeName>Ergeu</placeName><note xml:id="fn2" type="footnote" n="2">gemeint sind die Freien Ämter im <placeName>Aargau</placeName>.</note>, jez anheim zu <placeName>Niderurna</placeName><note xml:id="fn4" type="footnote" n="4"><placeName>Niederurnen</placeName> (Kt. <placeName>Glarus</placeName>).</note>, und ein gancze gmein zu <placeName>Niderurna</placeName> etc., unsernn gancz fruntlich unnd willigenn dinnst zuvor, lyeber Meister Heinrich.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="de" type="auto">Wir dundtt euch kundtt unnd wissenn, das wir lange zeitt sindtt mangelhafftig gesinn eines predikantenn; dan unser predikantt ist unns mitt dott abgangenn.</s>
@@ -24,7 +24,7 @@
 					<s n="4" xml:lang="de" type="auto">Das wollenn wir um euch verdinenn.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="de" type="auto"><pb type="edition" next="151"/>Unnd ist unser pitt und peger jez um her <persName>Augustinn</persName>, das ir unns denn wollentt zu handenn fergenn<note xml:id="fn7" type="footnote" n="7">senden, schicken (<bibl>SI</bibl> I 1004).</note>.</s>
+					<s n="5" xml:lang="de" type="auto"><pb type="edition" next="151"/>Unnd ist unser pitt und peger jez um her <persName>Augustinn</persName>, das ir unns denn wollentt zu handenn fergenn.</s>
 					<s n="6" xml:lang="de" type="auto">Das ist jez zumoll unsser peger an euch, unnd wo wir das kunenn um euch verdinenn ein gancze gmein, so wollenn wir darzu gefflissen sin zu dun.</s>
 					<s n="7" xml:lang="de" type="auto">Nitt mer, dan sind gott peffollenn.</s>
 				</p>

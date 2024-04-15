@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Nimium iam diu est, vir ornatissime, quod de tuo tuaeque sodalitatis mihi charissimae statu nihil audierim.</s>
-					<s n="2" xml:lang="la" type="auto">Amor est semper timidus; postquam enim intellexeram insignem virum tibi ceterisque, qui isthic sunt, eruditis omnibus coniunctissimum <persName>Symonem Grynaeum</persName> e vita excessisse, dii boni, quam sum veritus, ne alii etiam praeclari viri contagione illa impura e medio simul auferrentur.</s>
+					<s n="2" xml:lang="la" type="auto">Amor est semper timidus; postquam enim intellexeram insignem virum tibi ceterisque, qui isthic sunt, eruditis omnibus coniunctissimum <persName>Symonem Grynaeum</persName> e vita excessisse,<note xml:id="fn2" type="footnote" n="2"><persName>Grynäus</persName> war am 1. August 1541 gestorben, s. <bibl>HBBW</bibl> XI <ref target="file11595">[Nr. 1552]</ref>, S. 290, Anm. b.</note> dii boni, quam sum veritus, ne alii etiam praeclari viri contagione illa impura e medio simul auferrentur.</s>
 					<s n="3" xml:lang="la" type="auto">Quae cura animum meum eo magis anxerat, quo propius auram illam pestilentem se intra vestra loca propter vicinitatem penetrare audieram.</s>
 				</p>
 				<p>
@@ -41,7 +41,7 @@
 					<s n="15" xml:lang="la" type="auto">Adde illud, quod his in locis fit et dicitur impune et recte, nobiscum si fieret aut audiretur, extremas lueret penas.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto"><persName>Sadoletus</persName> duos libros De edificatione ecclesię confecit et iam versatur in elucubrando tertio<note xml:id="fn6" type="footnote" n="6">Das erste Buch des Traktats "De christiana ecclesia", der auch unter dem Titel "De aedificatione ecclesiae" bekannt ist, hatte Sadolet bereits 1539 fertiggestellt. Das zweite Buch ist verschollen; ob ein drittes überhaupt geschrieben wurde, ist unbekannt. Siehe Spicilegium Romanum, hg. v. Angelo Mai, Bd. II, Rom 1839, S. 101-178.</note>.</s>
+					<s n="16" xml:lang="la" type="auto"><persName>Sadoletus</persName> duos libros De edificatione ecclesię confecit et iam versatur in elucubrando tertio.</s>
 					<s n="17" xml:lang="la" type="auto">Rumor est cardinalem Tarentinum<note xml:id="fn7" type="footnote" n="7">Gemeint ist: Contarenus (<persName>Gasparo Contarini</persName>).</note>, qui modo hic <placeName>Bononiae</placeName> legatum gerit, in Germaniam reversurum<note xml:id="fn8" type="footnote" n="8"><persName>Contarini</persName> - im Vorjahr päpstlicher Gesandter am Reichstag zu <placeName>Regensburg</placeName> - war seit März Kardinallegat in <placeName>Bologna</placeName>, wo er am 24. August dieses Jahres starb; s. Klaus <hi>Ganzer,</hi> in: <bibl>TRE</bibl> VIII 204f.</note>.</s>
 					<s n="18" xml:lang="la" type="auto">Audiuntur et alia multa, utinam vera, quae quia in coniectatione posita sunt, nolui literis committere, praeterea etiam, quod haecipsa melius cautiusque ab aliis ad te deferri putem.</s>
 				</p>

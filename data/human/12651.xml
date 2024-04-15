@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="de" type="auto">Gnad und frid von gott.</s>
-					<s n="2" xml:lang="de" type="auto">Früntlicher, fürgeliepter herr und gevatter, <persName>Heinrychen</persName>, minen sun, hab ich verhoͤrt und inn befunden, das es mich froͤwt, ouch in ander waͤg gespürt üwer grosse trüw, muͤy und arbeit!</s>
+					<s n="2" xml:lang="de" type="auto">Früntlicher, fürgeliepter herr und gevatter, <persName>Heinrychen</persName>, minen sun,<note xml:id="fn1" type="footnote" n="1"><persName>Heinrich Bullinger d.J.</persName> (gest. 1583) war seit dem 24. April 1543 Schüler in <placeName>Kappel</placeName> und Kostgänger bei <persName>Peter Simler</persName>; s. Zürich StA, E I 17/1, 265v.; <bibl>HBBW</bibl> XVI 219,11-16.</note> hab ich verhoͤrt<note xml:id="fn2" type="footnote" n="2">geprüft (hier: in Bezug auf seine Kenntnisse). - Bullinger war Examinator der Zürcher Schulen; s. <bibl>HBBW</bibl> XVI 407, Anm. 1.</note> und inn befunden, das es mich froͤwt, ouch in ander waͤg gespürt üwer grosse trüw, muͤy und arbeit!</s>
 					<s n="3" xml:lang="de" type="auto">Dorumb ich dann üwer lieb zum hoͤchsten danck mitt erbietung, wo ich soͤlichs umb üch, üwer liebe hußfrowen<note xml:id="fn3" type="footnote" n="3"><persName>Verena, geb. Huser</persName>; s. <hi>HIS</hi> XI 516, Nr. 5.</note> und <persName>Josiam</persName>, unsern sun, verdienen kan, das ich das gar guͦtwillig und flyssig thuͦn wil.</s>
 				</p>
 			</div>
@@ -43,13 +43,13 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="11" xml:lang="de" type="auto">Gott mitt üch und üwer lieben hußfrowen.</s>
-					<s n="12" xml:lang="de" type="auto"><persName>Heinrich</persName> muͦß wider kummen, ze gnaden<note xml:id="fn21" type="footnote" n="21">ze gnaden: Abschied zu nehmen; s. <bibl>SI</bibl> II 662.</note> und sin plünderli<note xml:id="fn22" type="footnote" n="22">Sachen; s. <hi>SI V</hi> 117.</note> ze holen.</s>
+					<s n="12" xml:lang="de" type="auto"><persName>Heinrich</persName> muͦß wider kummen, ze gnaden und sin plünderli<note xml:id="fn22" type="footnote" n="22">Sachen; s. <hi>SI V</hi> 117.</note> ze holen.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="13" xml:lang="la" type="auto">Datum 1. octobris.</s>
-					<s n="14" xml:lang="de" type="auto">Es gruͤst üch und die gefatter<note xml:id="fn23" type="footnote" n="23">Gemeint ist <persName>Simlers</persName> Frau. - Dass "gefatter" sich auch auf eine Frau beziehen kann, geht aus <bibl>SI</bibl> I 1128 und aus dem hier verwendeten Artikel hervor.</note> min<pb type="scan" next="40"/> liebe hußfrow.<note xml:id="fn24" type="footnote" n="24"><persName>Anna, geb. Adlischwyler</persName>.</note></s>
+					<s n="14" xml:lang="de" type="auto">Es gruͤst üch und die gefatter min<pb type="scan" next="40"/> liebe hußfrow.<note xml:id="fn24" type="footnote" n="24"><persName>Anna, geb. Adlischwyler</persName>.</note></s>
 					<s n="15" xml:lang="de" type="auto"><persName>Heinrych</persName> und alle kind<note xml:id="fn25" type="footnote" n="25">Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), <persName>Heinrich</persName> (1534), <persName>Hans Rudolf</persName> (1536), <persName>Christoph</persName> (1537), Veritas (1543) und Dorothea (1545).</note> danckend üch ouch alles guͦten.</s>
 					<s n="16" xml:lang="de" type="auto">Der üwer alle zyt H. Bullinger.</s>
 				</p>

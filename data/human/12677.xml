@@ -25,13 +25,13 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="5" xml:lang="la" type="auto">Fuit hic <placeName>Italus</placeName> nobis notissimus, qui libros fert ex Germania in <placeName>Italiam</placeName>.</s>
-					<s n="6" xml:lang="la" type="auto">Is narravit occurrisse in itinere ad nos legatum, qui esset <placeName>Lucernanus</placeName>, ad papam<note xml:id="fn6" type="footnote" n="6"><persName>Paul III.</persName></note> iturus, ut Quinquepaganos defendat, quod hoc tempore non profecti sint ad cęsarem<note xml:id="fn8" type="footnote" n="8"><persName>Karl V.</persName></note>; nam ita circumvallatos esse hęreticis, ut ex patria tuto exire non licuerit.</s>
+					<s n="6" xml:lang="la" type="auto">Is narravit occurrisse in itinere ad nos legatum, qui esset <placeName>Lucernanus</placeName>, ad papam<note xml:id="fn6" type="footnote" n="6"><persName>Paul III.</persName></note> iturus, ut Quinquepaganos<note xml:id="fn7" type="footnote" n="7">Wortspiel zwischen "pagus" (Orte) und "paganus" ("heidnisch"); vgl. auch die aus <hi>Kessler, Sabbata</hi> zitierte Stelle in <bibl>HBBW</bibl> XVII 344f, Anm. 40. -Ansonsten werden <placeName>die Fünf Orte</placeName> als "Quinquepagici" bezeichnet.</note> defendat, quod hoc tempore non profecti sint ad cęsarem<note xml:id="fn8" type="footnote" n="8"><persName>Karl V.</persName></note>; nam ita circumvallatos esse hęreticis, ut ex patria tuto exire non licuerit.</s>
 					<s n="7" xml:lang="la" type="auto">Ex descriptione visus est mihi <persName>Nicolaus a Meggen</persName>, signifer civitatis <placeName>Lucernanę</placeName>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Idem: Finem habent nunc inducię cum Turca.</s>
+					<s n="8" xml:lang="la" type="auto">Idem: Finem habent nunc inducię cum Turca.<note xml:id="fn9" type="footnote" n="9"><persName>Sultan Suleiman I.</persName> - Zu den Friedensabkommen zwischen dem Reich und den Osmanen, für die <persName>Myconius</persName> stets großes Interesse bekundete, s. zuletzt <bibl>HBBW</bibl> XV 674 mit Anm. 33; 678.</note></s>
 					<s n="9" xml:lang="la" type="auto">Is habuit legationes duas apud <placeName>Venetos</placeName>, sed quid egerint, non potuit cognoscere.</s>
 					<s n="10" xml:lang="la" type="auto">Illud tandem intellexit: Per occasionem illum petiturum <placeName>Siciliam</placeName>.</s>
 				</p>

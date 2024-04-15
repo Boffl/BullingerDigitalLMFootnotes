@@ -17,13 +17,13 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
-					<s n="2" xml:lang="la" type="auto">Quod hunc <persName>Engelbertum</persName> ad nos misisti, colende domine, facis pro tua solita et humanitate et fide, qua omnibus prodesse studes!</s>
+					<s n="2" xml:lang="la" type="auto">Quod hunc <persName>Engelbertum</persName><note xml:id="fn1" type="footnote" n="1">Der Hesse <persName>Engelbert Milander</persName>, den <persName>Hochholzer</persName> während seiner <placeName>Marburger</placeName> Studienzeit kennengelernt hatte; s. <bibl>HBBW</bibl> XVIII 192, Anm. 1.</note> ad nos misisti, colende domine, facis pro tua solita et humanitate et fide, qua omnibus prodesse studes!</s>
 					<s n="3" xml:lang="la" type="auto">Quare nos, d. decanus<note xml:id="fn2" type="footnote" n="2"><persName>Johannes Zehnder</persName>, seit Herbst 1531 Dekan in Aarau. Er starb am 6. Juli 1549; s. <persName>Hochholzers</persName> Brief an Bullinger vom 21. Juli 1549 (Zürich StA, E II 343, 405).</note>, m. <persName>Gabriel</persName><note xml:id="fn3" type="footnote" n="3"><persName>Gabriel Meyer</persName>, der Stadtschreiber von Aarau.</note> et ego<note xml:id="fn4" type="footnote" n="4"><persName>Hochholzer</persName> war damals Prädikant in Aarau.</note> una cum reliquis gratias habemus tibi dominoque <persName>Gvalthero</persName> maximas.<pb type="edition" next="463"/></s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="la" type="auto">Caeterum res aliter se habet, quam forte Rychenerus indicarit: Habemus ludimoderatorem, civem Aaroviensem (ut nosti).</s>
+					<s n="4" xml:lang="la" type="auto">Caeterum res aliter se habet, quam forte Rychenerus indicarit: Habemus ludimoderatorem<note xml:id="fn7" type="footnote" n="7"><persName>Ulrich Trog</persName>, Bürger von <placeName>Aarau</placeName> und seit November 1545 Schulmeister ebenda; s. <bibl>HBBW</bibl> XV 612, Anm. 7; 653f.</note>, civem Aaroviensem (ut nosti).</s>
 					<s n="5" xml:lang="la" type="auto">Hic nondum alio est vocatus nec potest commode iam dimitti.</s>
 					<s n="6" xml:lang="la" type="auto">Speramus autem fore, ut vocetur ad officium praedicandi evangelium.</s>
 					<s n="7" xml:lang="la" type="auto">Ubi vocatus fuerit, tunc demum licebit de alio dispicere.</s>
@@ -36,7 +36,7 @@
 					<s n="14" xml:lang="la" type="auto">Si fieret, tum opus fore, ut (vel Tigurinorum vel aliorum doctorum opera) pium, fidelem, doctum et sincerum haberemus.</s>
 					<s n="15" xml:lang="la" type="auto">Hinc ergo factum, ut Rychenerus te oraverit, si quem talem noveris, indices.</s>
 					<s n="16" xml:lang="la" type="auto">Ubi autem noster ille<note xml:id="fn11" type="footnote" n="11"><persName>Trog</persName>.</note> a dominis <placeName>Bernensibus</placeName> vocatus fuerit, tum curabimus, quantum in nobis, ut hic vocetur, quamvis nihil prorsus certi promittere ausim.</s>
-					<s n="17" xml:lang="la" type="auto">Nam quid accidat, ubi populus indoctus suis suffragiis vocat, iam dudum exploratum habes; plerumque enim tales eliguntur, quales minime vellemus.</s>
+					<s n="17" xml:lang="la" type="auto">Nam quid accidat, ubi populus indoctus suis suffragiis vocat, iam dudum exploratum habes;<note xml:id="fn13" type="footnote" n="13">Vgl. <bibl>HBBW</bibl> XV, <ref target="file12323">Nr. 2276</ref>. 2292.</note> plerumque enim tales eliguntur, quales minime vellemus.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -50,13 +50,13 @@
 				<p>
 					<s n="21" xml:lang="la" type="auto">Quod ad reliqua attinet, legi non sine dolore maximo, quę ex <placeName>Augusta</placeName> scribuntur.</s>
 					<s n="22" xml:lang="la" type="auto">Mirari satis nequeo aliis tam male habentibus, ut nos interim adeo securi cutem curemus et in utramque dormiamus aurem,<note xml:id="fn14" type="footnote" n="14"><bibl>Adagia</bibl> 1, 8, 19 (<bibl>ASD</bibl> II/2 244, <ref target="file10757">Nr. 719</ref>).</note> ut non ploremus cum plorantibus.<note xml:id="fn15" type="footnote" n="15">Röm 12, 15.</note></s>
-					<s n="23" xml:lang="la" type="auto">Metuo iusto dei iudicio gravius nos puniendos fore.</s>
+					<s n="23" xml:lang="la" type="auto">Metuo iusto dei iudicio<note xml:id="fn16" type="footnote" n="16">Vgl. z.B. Röm 2, 5.</note> gravius nos puniendos fore.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="24" xml:lang="la" type="auto">Ego, quod ad me attinet, satis recte cum meis valeo, laus deo.</s>
-					<s n="25" xml:lang="la" type="auto">Brevi propter negotium quoddam Tigurum veniam volente domino.</s>
+					<s n="25" xml:lang="la" type="auto">Brevi propter negotium quoddam Tigurum veniam volente domino.<note xml:id="fn17" type="footnote" n="17"><persName>Hochholzer</persName> hatte Familienangehörige in Zürich; s. <bibl>HBBW</bibl> XVI, <ref target="file12457">Nr. 2410</ref>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -70,7 +70,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="32" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, ecclesiae Tigurinae pastori fidelissimo, domino suo tanquam patri colendissimo.</s>
+					<s n="32" xml:lang="la" type="auto">Clarissimo viro d. Heinrycho Bullingero, ecclesiae Tigurinae pastori fidelissimo, domino suo tanquam patri<note xml:id="fn20" type="footnote" n="20">Bullinger hatte <persName>Hochholzer</persName>, als dieser noch studierte, in sein Haus aufgenommen; s. <bibl>HBBW</bibl> III 260, Anm. 1.</note> colendissimo.</s>
 				</p>
 			</div>
 		</body>

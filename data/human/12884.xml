@@ -47,7 +47,7 @@
 					<s n="13" xml:lang="de" type="auto">Was doͤrffend sich<note xml:id="fn10" type="footnote" n="10">Was dörffend sich: Warum mussten sich.</note> die barmhertzigen lüt also uffzegaͤben?</s>
 					<s n="14" xml:lang="de" type="auto">Was naͤmend sy das tüfelvolck<note xml:id="fn12" type="footnote" n="12">Damit sind die kaiserlichen Söldner gemeint.</note> hinyn?</s>
 					<s n="15" xml:lang="de" type="auto">Was behaltend sy ir stett nitt unbefleckt und unbeherrschet?</s>
-					<s n="16" xml:lang="la" type="auto">Sed <pb type="edition" next="384"/> haec est manus domini percutientis nos propter ingratitudinem nostram et vitam poenitere nesciam.</s>
+					<s n="16" xml:lang="la" type="auto">Sed <pb type="edition" next="384"/> haec est manus domini<note xml:id="fn14" type="footnote" n="14">Vgl. z.B. 1Sam 5, 11.</note> percutientis nos propter ingratitudinem nostram et vitam poenitere nesciam.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -70,9 +70,9 @@
 				<p>
 					<s n="25" xml:lang="la" type="auto"><pb type="scan" next="v."/>Recte iudicas de concordia et discordia caesaris et papae.<note xml:id="fn20" type="footnote" n="20"><persName>Paul III.</persName> -Vgl. <ref target="file12882">Nr. 2833</ref>,23f.</note></s>
 					<s n="26" xml:lang="la" type="auto">Ego arbitror saepiae esse atrorem.<note xml:id="fn21" type="footnote" n="21">die Schwärze (s. <bibl>Kirsch</bibl> 296) der Tinte des Tintenfisches (um die Leute besser verblenden zu können).</note></s>
-					<s n="27" xml:lang="de" type="auto">Es ist buͦbery<note xml:id="fn22" type="footnote" n="22">schändliches Treiben; s. <bibl>SI</bibl> IV 946.</note>, damitt die lüt umbgand.<note xml:id="fn23" type="footnote" n="23">damitt die lüt umbgand: womit diese Leute [hier: Kaiser und Papst] irreführen.</note></s>
+					<s n="27" xml:lang="de" type="auto">Es ist buͦbery, damitt die lüt umbgand.<note xml:id="fn23" type="footnote" n="23">damitt die lüt umbgand: womit diese Leute [hier: Kaiser und Papst] irreführen.</note></s>
 					<s n="28" xml:lang="de" type="auto">Trüw inen<note xml:id="fn24" type="footnote" n="24">Es traue ihnen.</note> ja frylich der tüfel!</s>
-					<s n="29" xml:lang="la" type="auto">Quin potius annunciemus nos regnum dei et salutiferum evangelium filii dei, pontificis et regis nostri,<note xml:id="fn25" type="footnote" n="25">Gemeint ist Christus; vgl. Hebr 4, 14; 7, 1f. 21f; 8, 1; 10, 21.</note> qui syncere agit, neminem fallit et mox venturus est in iustitia, iudicaturus vivos et mortuos.</s>
+					<s n="29" xml:lang="la" type="auto">Quin potius annunciemus nos regnum dei et salutiferum evangelium filii dei, pontificis et regis nostri,<note xml:id="fn25" type="footnote" n="25">Gemeint ist Christus; vgl. Hebr 4, 14; 7, 1f. 21f; 8, 1; 10, 21.</note> qui syncere agit, neminem fallit et mox venturus est in iustitia, iudicaturus vivos et mortuos.<note xml:id="fn26" type="footnote" n="26">Vgl. Ps 96 (Vulg. 95), 13; 98 (Vulg. 97), 9; 2Tim 4, 1; 1Petr 4, 5.</note></s>
 					<s n="30" xml:lang="la" type="auto">Huic placere in omnibus satagamus!</s>
 					<s n="31" xml:lang="la" type="auto">In illo vale cum omnibus bonis.</s>
 					<s n="32" xml:lang="la" type="auto">Tiguri, 4. martii circa 9 antemeridianam 1547.</s>

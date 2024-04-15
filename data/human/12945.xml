@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="el" type="manual">Τῷ θειοτάτῳ καὶ εὐσεβεστάτῳ ἀνδρὶ Ἡνρίκῳ Βουλλιγχέρῳ εὐ πράττειν Ἰωάννης ὁ Ἐθελοντής.</s>
+					<s n="1" xml:lang="el" type="manual">Τῷ θειοτάτῳ καὶ εὐσεβεστάτῳ ἀνδρὶ Ἡνρίκῳ Βουλλιγχέρῳ εὐ πράττειν Ἰωάννης ὁ Ἐθελοντής<note xml:id="fn3" type="footnote" n="3">Wollender. - Gräzisierung von <persName>Vulteius</persName>' Namen, der ursprünglich <persName>Will (bzw. Wöll oder Wöhl)</persName> lautete.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">

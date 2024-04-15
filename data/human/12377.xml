@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Scripsi ad te, mi venerande et charissime frater, nudius tertius<note xml:id="fn2" type="footnote" n="2">Am 7. Januar.</note> per lanios nostros simul et eas literas, quas Lętus dedit,<note xml:id="fn3" type="footnote" n="3"><persName>Frölichs</persName> Brief an Bullinger vom 25. Dezember 1545 <hi>(HBBW</hi> XV, <ref target="file12360">Nr. 2313</ref>).</note> per hos misi.</s>
+					<s n="2" xml:lang="la" type="auto">Scripsi ad te,<note xml:id="fn1" type="footnote" n="1">Nr. 2328 vom 6. Januar 1546.</note> mi venerande et charissime frater, nudius tertius<note xml:id="fn2" type="footnote" n="2">Am 7. Januar.</note> per lanios nostros simul et eas literas, quas Lętus dedit,<note xml:id="fn3" type="footnote" n="3"><persName>Frölichs</persName> Brief an Bullinger vom 25. Dezember 1545 <hi>(HBBW</hi> XV, <ref target="file12360">Nr. 2313</ref>).</note> per hos misi.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -40,7 +40,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="8" xml:lang="la" type="auto">Saluta fratres et amicos, cumprimis <persName>Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note>, <persName>Gvaltherum</persName> et <persName>Pellicanum</persName>.</s>
-					<s n="9" xml:lang="la" type="auto">Commendo tibi diligenter Curionem<note xml:id="fn9" type="footnote" n="9"><persName>Konrad Hofherr</persName>.</note> et <persName>Mezlerum</persName><note xml:id="fn10" type="footnote" n="10"><persName>Jakob Metzler</persName>.</note> nostros.</s>
+					<s n="9" xml:lang="la" type="auto">Commendo tibi diligenter Curionem<note xml:id="fn9" type="footnote" n="9"><persName>Konrad Hofherr</persName>.</note> et <persName>Mezlerum</persName><note xml:id="fn10" type="footnote" n="10"><persName>Jakob Metzler</persName>.</note> nostros<note xml:id="fn11" type="footnote" n="11">1545 waren <persName>Hofherr</persName> und <persName>Metzler</persName> auf Empfehlung <persName>Blarers</persName> zum Studium nach Zürich gekommen, s. <bibl>HBBW</bibl> XV passim.</note>.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">Bene vale.</s>
@@ -50,7 +50,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la" type="auto">D. Heinricho Bullingero, amico et fratri incomparabili.</s>
+					<s n="14" xml:lang="la" type="auto">D. Heinricho Bullingero, amico et fratri incomparabili<note xml:id="fn13" type="footnote" n="13">Dieser Brief wurde <persName>Johannes Haller</persName> auf seiner Durchreise durch <placeName>Konstanz</placeName> anvertraut; vgl. oben Z. 3-7 und <bibl>HBBW</bibl> XV 692 und Anm. 1.</note>.</s>
 				</p>
 			</div>
 		</body>

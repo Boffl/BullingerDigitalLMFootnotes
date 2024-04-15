@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Salutem in domino, Bullingere observande.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Nolui ex <placeName>Austria</placeName> istum vestrum tabellionem ad vos redeuntem vacuum meis literis remittere, tametsi, quod tua cognitione dignum sit, adeo in promptu non habeam.</s>
+					<s n="2" xml:lang="la" type="auto">Nolui ex <placeName>Austria</placeName> istum vestrum tabellionem ad vos redeuntem<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file11229">Nr. 1186</ref>, Anm. 3.</note> vacuum meis literis remittere, tametsi, quod tua cognitione dignum sit, adeo in promptu non habeam.</s>
 					<s n="3" xml:lang="la" type="auto">Quodsi quid habeo, vereor, ne vetus hoc sit, priusquam ad vos veniat.</s>
 				</p>
 				<p>
@@ -43,7 +43,7 @@
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">De Turcicis omnino certi nihil.</s>
-					<s n="14" xml:lang="la" type="auto">Forte harum lator, qui in <placeName>Vienna</placeName> fuit, narrabit aliqua.</s>
+					<s n="14" xml:lang="la" type="auto">Forte harum lator, qui in <placeName>Vienna</placeName> fuit<note xml:id="fn19" type="footnote" n="19">Vgl. oben <ref target="file11229">Nr. 1186</ref>, 56f.</note>, narrabit aliqua.</s>
 					<s n="15" xml:lang="la" type="auto">Ex <placeName>Augusta</placeName> volatilia affert Mercurius nomine suorum, quid enim nostri mercatores non scribunt, proscribenda etiam.</s>
 					<s n="16" xml:lang="la" type="auto">Nunc Turcicus pyrata <persName>Barbarossa</persName> <persName>Andream de Dorea</persName>, cęsareanum ducem, modo <placeName>Venetos</placeName><pb type="edition" next="271"/> coegit terga dare<note xml:id="fn21" type="footnote" n="21"><persName>Cheireddin Barbarossa</persName> hatte am 27. September bei <placeName>Prevesa (Griechenland)</placeName> die Flotte der "Heiligen Liga" in die Flucht geschlagen; s. <bibl>Cardauns</bibl> 24-27.</note>.</s>
 					<s n="17" xml:lang="la" type="auto">Iam Turca<note xml:id="fn22" type="footnote" n="22"><persName>Sultan Suleiman I.</persName></note> Moldam universam subiugasse fertur<note xml:id="fn23" type="footnote" n="23">Im September 1538 hatten sich die Türken die <placeName>Moldau</placeName> unterworfen; vgl. <bibl>Hammer-Purgstall</bibl> III 200-203. 698-700.</note>.</s>
@@ -52,10 +52,10 @@
 				</p>
 				<p>
 					<s n="20" xml:lang="la" type="auto">Publicę et politię et ecclesię res bene se haberent, si demum iuxta euangelion poenitentiam et fidem prędicans viveremus.</s>
-					<s n="21" xml:lang="la" type="auto">Sectarii cum alia doceant, incipiunt ex indulgentia cristas erigere; nam <persName>Schwenckfeldii</persName> (qui hoc die<note xml:id="fn26" type="footnote" n="26"><persName>Schwenckfeld</persName> war seit dem 12. November wieder in <placeName>Ulm</placeName> (s. <bibl>QGT</bibl> XV 297, 9f).</note> apud suum hospitem, consulem nostrum<note xml:id="fn27" type="footnote" n="27"><persName>Bernhard Besserer</persName>.</note>, diversatur) et <persName>Franci</persName> causa in ulteriorem cognitionem reiecta est<note xml:id="fn28" type="footnote" n="28">Am 11. Oktober 1538 hatte der Rat als Antwort auf eine Eingabe <persName>Frechts</persName> und der Schulpfleger beschlossen, daß mit <persName>Kaspar Schwenckfeld</persName> und <persName>Sebastian Franck</persName> eine Einigung gesucht werden müsse (vgl. <hi>Schultz,</hi> Schwenckfeld 247 und <hi>Peuckert,</hi> Franck 371).</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Sectarii cum alia doceant, incipiunt ex indulgentia cristas erigere<note xml:id="fn25" type="footnote" n="25">Vgl. <bibl>Adagia</bibl> 1, 8, 69 (<bibl>LB</bibl> II 324).</note>; nam <persName>Schwenckfeldii</persName> (qui hoc die<note xml:id="fn26" type="footnote" n="26"><persName>Schwenckfeld</persName> war seit dem 12. November wieder in <placeName>Ulm</placeName> (s. <bibl>QGT</bibl> XV 297, 9f).</note> apud suum hospitem, consulem nostrum<note xml:id="fn27" type="footnote" n="27"><persName>Bernhard Besserer</persName>.</note>, diversatur) et <persName>Franci</persName> causa in ulteriorem cognitionem reiecta est<note xml:id="fn28" type="footnote" n="28">Am 11. Oktober 1538 hatte der Rat als Antwort auf eine Eingabe <persName>Frechts</persName> und der Schulpfleger beschlossen, daß mit <persName>Kaspar Schwenckfeld</persName> und <persName>Sebastian Franck</persName> eine Einigung gesucht werden müsse (vgl. <hi>Schultz,</hi> Schwenckfeld 247 und <hi>Peuckert,</hi> Franck 371).</note>.</s>
 					<s n="22" xml:lang="la" type="auto">In hoc labore autem sum, ut tandem vincat veritas.</s>
 					<s n="23" xml:lang="la" type="auto">Orabis itaque, mi Bullingere, dominum, ut encomion pium canamus semel, video siquidem <persName>Schwenckfeldium</persName> hoc modis omnibus evincere velle, forte ex impio <persName>Michaele Serveto</persName><note xml:id="fn29" type="footnote" n="29">Tatsächlich läßt sich <persName>Schwenckfelds</persName> Interesse an der Frage der Geschöpflichkeit Christi bis zu seiner Begegnung mit <persName>Servet</persName> in <placeName>Straßburg</placeName> (1531) zurückverfolgen; vgl. R. Emmet <hi>McLaughlin,</hi> <persName>Caspar Schwenckfeld</persName>, Reluctant Radical. His Life to 1540, New Haven/London 1986, S. 207f.</note>, ut Christus iuxta humanitatem non credatur esse creatura.</s>
-					<s n="24" xml:lang="la" type="auto">Audet, ut subodoror, <persName>Schwenckfeldius</persName> et <persName>Oecolampadium</persName> et <persName>Zwinglium</persName>, sanctę memorię patres, accusare criminis Nestoriani.</s>
+					<s n="24" xml:lang="la" type="auto">Audet, ut subodoror, <persName>Schwenckfeldius</persName> et <persName>Oecolampadium</persName> et <persName>Zwinglium</persName>, sanctę memorię patres, accusare criminis Nestoriani<note xml:id="fn30" type="footnote" n="30">Vgl. <bibl>HBBW I</bibl> <ref target="file10041">[Nr. 16]</ref>, S. 106, Anm. 39.</note>.</s>
 					<s n="25" xml:lang="la" type="auto">Putat enim, si diis placet, ille pneumaticus chrestologus personam in Christo dividi, si Christum ut hominem creaturam catholice confiteamur.</s>
 				</p>
 				<p>

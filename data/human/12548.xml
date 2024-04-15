@@ -25,7 +25,7 @@
 					<s n="3" xml:lang="la" type="auto">Quęsieram de Nurenbergensibus;<note xml:id="fn3" type="footnote" n="3">Siehe <ref target="file12538">Nr. 2491</ref>,64-66.</note> verum de eis novi, quę nolui.</s>
 					<s n="4" xml:lang="la" type="auto">Sunt isti sui similes.</s>
 					<s n="5" xml:lang="la" type="auto">Nunquam mihi placuerunt.</s>
-					<s n="6" xml:lang="la" type="auto">Praeter enim loquacitatem nescio, si quid aliud habeant, unde queant esse vel in speciem aliquid.</s>
+					<s n="6" xml:lang="la" type="auto">Praeter enim loquacitatem nescio, si quid aliud habeant, unde queant esse vel in speciem aliquid<note xml:id="fn4" type="footnote" n="4">Vgl. auch Bullingers Meinung über <placeName>Nürnberg</placeName> in <ref target="file12543">Nr. 2496</ref>,55-60.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -42,10 +42,10 @@
 					<s n="12" xml:lang="la" type="auto">De bello nihil, nisi quod cęsar dicit: „Quid agunt illi<note xml:id="fn13" type="footnote" n="13">Gemeint sind die Schmalkaldener.</note>?</s>
 					<s n="13" xml:lang="la" type="auto">Quis excitat, cum nec lędam ego, nec lędere tentem?“</s>
 					<s n="14" xml:lang="la" type="auto">Equidem his auditis prae iracundia loqui non valui, donec tandem nonnihil restituto verba huiusmodi exciderent:</s>
-					<s n="15" xml:lang="de" type="manual">„Wenn ich were, der ich nit bin, es muͤste mich der <persName>Carli</persName> nit also verachten.</s>
-					<s n="16" xml:lang="de" type="auto">Ich wett imm uff d’hochzytt kon, es warte mirs dann gott<note xml:id="fn17" type="footnote" n="17">es warte mirs ... gott: wenn Gott mir dazu beistehen würde.</note>.</s>
+					<s n="15" xml:lang="de" type="manual">„Wenn ich were, der ich nit bin,<note xml:id="fn14" type="footnote" n="14">D.h. wenn ich einem höheren Stand angehörte.</note> es muͤste mich der <persName>Carli</persName> nit also verachten.</s>
+					<s n="16" xml:lang="de" type="auto">Ich wett imm uff d’hochzytt kon<note xml:id="fn16" type="footnote" n="16">kommen. - Eine Redewendung <hi>(Grimm</hi> X 1641), mit der <persName>Myconius</persName> droht, dass er dem Kaiser seine Meinung sagen würde.</note>, es warte mirs dann gott<note xml:id="fn17" type="footnote" n="17">es warte mirs ... gott: wenn Gott mir dazu beistehen würde.</note>.</s>
 					<s n="17" xml:lang="de" type="auto">Sol man Tuͤtschland also äffen<note xml:id="fn18" type="footnote" n="18">verspotten; s. <bibl>Fischer</bibl> 1108.</note>?“</s>
-					<s n="18" xml:lang="la" type="auto">Utitur vulpes suis artibus.</s>
+					<s n="18" xml:lang="la" type="auto">Utitur vulpes suis artibus<note xml:id="fn19" type="footnote" n="19">Vgl. <bibl>Wander</bibl> I 1240. 1243, Nr. 5. 99.</note>.</s>
 					<s n="19" xml:lang="la" type="auto">Nam tędium incutere tentat nostris, si sic tandem inopinantes queat obprimere.</s>
 					<s n="20" xml:lang="la" type="auto">Sed spero dominum daturum consilium, quo tandem versipellis<note xml:id="fn20" type="footnote" n="20">Gemeint ist <persName>Karl V.</persName></note> eiiciatur.</s>
 				</p>
@@ -81,7 +81,7 @@
 					<s n="35" xml:lang="la" type="auto">Pasquillus ad <persName>Carolum</persName> <placeName>Gandavum</placeName> Quando Germanam statuisti perdere gentem</s>
 				</p>
 				<p>
-					<s n="36" xml:lang="la" type="auto">Et vis tutoris proditor esse loco, Vaticinor tibi te pro tam crudelibus ausis Materni proavi fata manere tui.</s>
+					<s n="36" xml:lang="la" type="auto">Et vis tutoris proditor esse loco, Vaticinor tibi te pro tam crudelibus ausis Materni proavi<note xml:id="fn34" type="footnote" n="34">Karl der Kühne; vgl. <bibl>HBBW</bibl> XVI 214,48f.</note> fata manere tui.</s>
 				</p>
 				<p>
 					<s n="37" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>

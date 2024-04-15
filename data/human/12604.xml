@@ -15,10 +15,10 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Iam vero ad quae tibi responderi vis, non video, cur magnopere sim solicitus, nisi non intellexeris ea aut oblitus sis eorum, quae discedenti tum parens<note xml:id="fn4" type="footnote" n="4"><persName>Hans Rudolf Lavater</persName>.</note> tum ego dedimus in mandatis.</s>
+					<s n="1" xml:lang="la" type="auto">Iam vero ad quae tibi responderi vis, non video, cur magnopere sim solicitus, nisi non intellexeris ea aut oblitus sis eorum, quae discedenti<note xml:id="fn3" type="footnote" n="3">Im Oktober 1545, als <persName>Lavater</persName> nach <placeName>Straßburg</placeName> abging; vgl. <bibl>HBBW</bibl> XV 576,31f.</note> tum parens<note xml:id="fn4" type="footnote" n="4"><persName>Hans Rudolf Lavater</persName>.</note> tum ego dedimus in mandatis.</s>
 					<s n="2" xml:lang="la" type="auto">Quod enim caenam domini attinet et communionem rursus contuli cum patre tuo.</s>
 					<s n="3" xml:lang="la" type="auto">Is vult omnino, ut ea religione imbutus redeas, qua instructus abiisti, praesertim vero quod caenam domini attinet.</s>
-					<s n="4" xml:lang="la" type="auto">Iubetque, ut hospitium mutes (nisi dominus tuus ab instituto suo desistat), et alium quaeras hospitem commodum, ego vero quid consulerem.</s>
+					<s n="4" xml:lang="la" type="auto">Iubetque, ut hospitium mutes (nisi dominus tuus<note xml:id="fn5" type="footnote" n="5"><persName>Johannes Marbach</persName> in <placeName>Straßburg</placeName>, bei dem <persName>Ludwig Lavater</persName> untergebracht war; s. <bibl>HBBW</bibl> XVI 70,56-71,75.</note> ab instituto suo desistat), et alium quaeras hospitem commodum, ego vero quid consulerem.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -29,7 +29,7 @@
 					<s n="8" xml:lang="la" type="auto">Sed hoc credendum est: Christi corpus verum esse corpus et manere in gloria et realiter quidem esse ad dextram patris<note xml:id="fn6" type="footnote" n="6">Apg 2, 33, und passim.</note>, sacramentaliter et spiritualiter in caena; de qua re non est, quod novam disputationem instituam.</s>
 					<s n="9" xml:lang="la" type="auto">Scis, quid responderimus <persName ref="p18889">Luthero</persName><note xml:id="fn7" type="footnote" n="7">Zu dieser Schrift s. oben <ref target="file12501">Nr. 2454</ref>, Anm. 16.</note>.</s>
 					<s n="10" xml:lang="la" type="auto">Dicerem ergo:<note xml:id="fn8" type="footnote" n="8">Gemeint ist, was <persName>Ludwig Lavater</persName> den Straßburgern sagen soll.</note> „Oro, domini, ut hactenus permittatis me mea fide frui et vivere, neque urgeatis ad ea, quibus conscientia mea gravatur.</s>
-					<s n="11" xml:lang="la" type="auto">Vos dicitis eum manducare iudicium, qui non credit Christi corpus realiter exhiberi in caena domini.</s>
+					<s n="11" xml:lang="la" type="auto">Vos dicitis eum manducare iudicium, qui non credit Christi corpus realiter exhiberi in caena domini<note xml:id="fn9" type="footnote" n="9">Vgl. 1 Kor 11, 29.</note>.</s>
 					<s n="12" xml:lang="la" type="auto">Id vero multis de causis credere non possum, maxime cum sentiam, sicut docet Tigurina ecclesia, et sicuti confessa est contra <persName ref="p18889">Lutherum</persName>.</s>
 					<s n="13" xml:lang="la" type="auto">Nolite itaque mihi onus imponere.</s>
 					<s n="14" xml:lang="la" type="auto">Non contemno vestram<pb type="scan" next="645v."/> ecclesiam.</s>
@@ -40,8 +40,8 @@
 				<p>
 					<s n="16" xml:lang="la" type="auto">Haec et similia dixi discedenti.</s>
 					<s n="17" xml:lang="la" type="auto">Miror ergo, cur repetas quaestionem.</s>
-					<s n="18" xml:lang="la" type="auto">Dixi, quid evenerit <persName>Ioachimo Forero</persName> <placeName>Vitudurano</placeName> et quomodo is quoque in hac re<pb type="edition" next="368"/> noluerit communicare, in aliis vero sese non subduxerit ab illorum communione.</s>
-					<s n="19" xml:lang="la" type="auto">Dixi, quid postulaverim a d. <persName>Dasypodio</persName><note xml:id="fn11" type="footnote" n="11"><persName>Petrus Dasypodius</persName>, Schulleiter in <placeName>Straßburg</placeName>.</note>, scilicet ne vos cogeret ad caenam.</s>
+					<s n="18" xml:lang="la" type="auto">Dixi, quid evenerit <persName>Ioachimo Forero</persName> <placeName>Vitudurano</placeName><note xml:id="fn10" type="footnote" n="10"><persName>Joachim Forrer</persName>, der aus <placeName>Winterthur</placeName> stammte. Er hatte auch in <placeName>Straßburg</placeName> studiert und die Teilnahme am Abendmahl verweigert; s. <bibl>HBBW</bibl> XIV 142f, Anm. 6.</note> et quomodo is quoque in hac re<pb type="edition" next="368"/> noluerit communicare, in aliis vero sese non subduxerit ab illorum communione.</s>
+					<s n="19" xml:lang="la" type="auto">Dixi, quid postulaverim a d. <persName>Dasypodio</persName><note xml:id="fn11" type="footnote" n="11"><persName>Petrus Dasypodius</persName>, Schulleiter in <placeName>Straßburg</placeName>.</note>, scilicet ne vos<note xml:id="fn12" type="footnote" n="12">Gemeint sind hier vielleicht schon die beiden früheren Zürcher Studenten <persName>Forrer</persName> und <persName>Hans Zart</persName> aus <placeName>Winterthur</placeName> (s. <bibl>HBBW</bibl> XIV, aaO), gewiss aber <persName>Lavater</persName> und <persName>Jakob Gessner</persName> (zu Letzterem s. <bibl>HBBW</bibl> XVI 70, Anm. 15).</note> cogeret ad caenam.</s>
 					<s n="20" xml:lang="la" type="auto">Ille vero responderit neminem cogi.</s>
 				</p>
 			</div>

@@ -22,7 +22,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="de" type="auto">Die knecht, die vor faßnacht angenomen sindt in disen landen dem keyser mit Ruͦffli von Rischach, sindt geschlagen worden mit anderen knechten uff dem musterplatz nit wyt von <placeName>Brem</placeName> von den Seestetten.</s>
+					<s n="3" xml:lang="de" type="auto">Die knecht, die vor faßnacht angenomen sindt in disen landen dem keyser mit Ruͦffli von Rischach<note xml:id="fn3" type="footnote" n="3"><persName>Ruff (Rudolph) von Reischach</persName>; s. <bibl>HBBW</bibl> XV 672f, Anm. 7.</note>, sindt geschlagen worden mit anderen knechten uff dem musterplatz nit wyt von <placeName>Brem</placeName> von den Seestetten.</s>
 					<s n="4" xml:lang="de" type="auto">Sindt iren wenig darvon kommen.</s>
 					<s n="5" xml:lang="de" type="auto">Hetten die unseren soͤlichs gethan, es stiende baß!</s>
 					<s n="6" xml:lang="de" type="auto">Die Seestett mit Denmarckt syndt uff<note xml:id="fn7" type="footnote" n="7">syndt uff: brechen auf.</note>; wohin, kan mann nit wuͤssen.</s>
@@ -31,7 +31,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="7" xml:lang="de" type="auto">Der künig von <placeName>Polen</placeName> ist gestorben<note xml:id="fn8" type="footnote" n="8"><persName>Sigismund I.</persName> starb erst am 1. April 1548. Vgl. allerdings schon <ref target="file12890">Nr. 2841</ref>,73f und <ref target="file12907">Nr. 2858</ref>,44.</note>; der son<note xml:id="fn9" type="footnote" n="9"><persName>Sigismund II. August</persName>. der später König wurde.</note> des kunig zuͦ <placeName>Cracovia</placeName> gekroͤnet zuͦ ein künig des <placeName>Polenlandt</placeName>.</s>
-					<s n="8" xml:lang="de" type="auto">By der krönung sol gsin des Turcken legat mit 400 pferden, koͤstlich gekleidet, und die sag ist (diß habe ich mundtlich gehoͤrt von eim botten dise tag von <placeName>Breslauw</placeName>), das dem jungen künig der Turck<note xml:id="fn12" type="footnote" n="12"><persName>Sultan Suleiman I.</persName></note> sein tochter vermaͤhelet habe,<note xml:id="fn13" type="footnote" n="13">Ein falsches Gerücht.</note> und dise woͤllen hochzeit haben nach ostern zuͦ Crocauw.</s>
+					<s n="8" xml:lang="de" type="auto">By der krönung sol gsin des Turcken legat mit 400 pferden, koͤstlich gekleidet, und die sag ist (diß habe ich mundtlich gehoͤrt von eim botten dise tag von <placeName>Breslauw</placeName>), das dem jungen künig der Turck<note xml:id="fn12" type="footnote" n="12"><persName>Sultan Suleiman I.</persName></note> sein tochter vermaͤhelet habe,<note xml:id="fn13" type="footnote" n="13">Ein falsches Gerücht.</note> und dise woͤllen hochzeit haben nach ostern<note xml:id="fn14" type="footnote" n="14">D.h. nach dem 10. April 1547.</note> zuͦ Crocauw.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -44,7 +44,7 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="13" xml:lang="de" type="auto">Item <persName>Ferdinandus</persName> hat von der statt Preslauw begert, geschütz und pulver dem keyser zuͦzuͦschicken, das im ettlich der grossen Hansen<note xml:id="fn17" type="footnote" n="17">grossen Hansen: angesehene Persönlichkeiten bzw. hochrangige Militärs; s. <bibl>SI</bibl> II 147 lf: <hi>Grimm X 456f.</hi></note> haben verwilliget.</s>
+					<s n="13" xml:lang="de" type="auto">Item <persName>Ferdinandus</persName> hat von der statt Preslauw begert, geschütz und pulver dem keyser zuͦzuͦschicken, das im ettlich der grossen Hansen haben verwilliget.</s>
 					<s n="14" xml:lang="de" type="auto">Da mans hat wellen richten, do ist die gmein [da g]sin.</s>
 					<s n="15" xml:lang="de" type="auto">Gemurmelt also, das mans im wider abgekündet h[at] von wegen der grossen rustüng des Turckens.<note xml:id="fn19" type="footnote" n="19">Zu den Rüstungen von Suleiman s. <ref target="file12876">Nr. 2827</ref>, Anm. 13; <ref target="file12881">Nr. 2832</ref>,19-23.</note><pb type="edition" next="422"/></s>
 				</p>
@@ -81,14 +81,14 @@
 			<div xml:id="div10" corresp="regest10">
 				<p>
 					<s n="29" xml:lang="de" type="auto">Der <foreign xml:lang="la">elector Saxonię<note xml:id="fn30" type="footnote" n="30"><persName>Johann Friedrich I. von Sachsen</persName>.</note></foreign> sol alß<note xml:id="fn31" type="footnote" n="31">all(es).</note> sin landt wider haben, mit <placeName>Lipsig</placeName>.<note xml:id="fn32" type="footnote" n="32">Ein falsches Gerücht. - Siehe dazu schon <ref target="file12806">Nr. 2757</ref>, Anm. 76.</note></s>
-					<s n="30" xml:lang="de" type="auto">Es soll ouch hertzog <persName>Moritz</persName> zwey mal geschlagen sin.<pb type="edition" next="423"/></s>
+					<s n="30" xml:lang="de" type="auto">Es soll ouch hertzog <persName>Moritz</persName> zwey mal geschlagen sin.<note xml:id="fn33" type="footnote" n="33">Während der Schlacht bei <placeName>Rochlitz</placeName> am 2. März kam es zu zwei Gefechten, in denen die Truppen des Kurfürsten die des Markgrafen <persName>Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach besiegten; s. <hi>Voigi, Albrecht</hi> 149f.</note><pb type="edition" next="423"/></s>
 				</p>
 			</div>
 			<div xml:id="div11" corresp="regest11">
 				<p>
 					<s n="31" xml:lang="de" type="auto">In Behem<note xml:id="fn34" type="footnote" n="34"><placeName>Böhmen</placeName>.</note> ist ein grosser zwitrach wider dem kunig<note xml:id="fn35" type="footnote" n="35"><persName>Ferdinand I.</persName> - Siehe dazu <ref target="file12890">Nr. 2841</ref>, Anm. 54.</note>, <foreign xml:lang="la">hocque certum est.</foreign></s>
 					<s n="32" xml:lang="la" type="auto">Nam ex <placeName>Praga</placeName> <placeName>Augustam</placeName> scriptum est; ab <placeName>Augusta</placeName> nostris.</s>
-					<s n="33" xml:lang="la" type="auto">Nam nolunt incommodare Saxoni propter fędus; sed <persName>Ferdinandus</persName> instat et urget.</s>
+					<s n="33" xml:lang="la" type="auto">Nam nolunt incommodare Saxoni propter fędus;<note xml:id="fn36" type="footnote" n="36">Vgl. <ref target="file12846">Nr. 2797</ref>,50f; <ref target="file12905">Nr. 2856</ref>, Anm. 5; <ref target="file12907">Nr. 2858</ref>,35-37.</note> sed <persName>Ferdinandus</persName> instat et urget.</s>
 					<s n="34" xml:lang="la" type="auto">Propterea et caesar properat, ne <persName>Ferdinandus</persName> rex eiciatur ex Bohemia.</s>
 				</p>
 			</div>

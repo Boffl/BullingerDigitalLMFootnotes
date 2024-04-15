@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Salve, charissime mi <persName>Eberharte</persName>.</s>
 					<s n="2" xml:lang="la" type="auto">Diu iam tuas expecto, amicorum iucundissime, sed nullas recipio prorsus<note xml:id="fn1" type="footnote" n="1"><persName>Rümlang</persName> hatte zuletzt am 7. Dezember 1545 an Bullinger geschrieben <hi>(HBBW</hi> XV, <ref target="file12353">Nr. 2306</ref>) und ihn um seine Versetzung aus <placeName>Bern</placeName> gebeten.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Proinde admoneo te tui officii.</s>
-					<s n="4" xml:lang="la" type="auto">Poteris mihi per hunc respondere ad priores meas.</s>
+					<s n="4" xml:lang="la" type="auto">Poteris mihi per hunc respondere ad priores meas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten; vermutlich die Antwort auf <bibl>HBBW</bibl> XV, <ref target="file12353">Nr. 2306</ref>.</note>.</s>
 					<s n="5" xml:lang="la" type="auto">Fidelis est et fideliter reddet tuas.<pb type="edition" next="379"/></s>
 				</p>
 			</div>
@@ -58,11 +58,11 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="22" xml:lang="la" type="auto"><persName>Caesar</persName> 6. aprilis <placeName>Werdam</placeName> ad Danubium<note xml:id="fn12" type="footnote" n="12"><placeName>Donauwörth</placeName>.</note>, <placeName>Ratisbonam</placeName> contendens, venit.</s>
-					<s n="23" xml:lang="la" type="auto">Salutatus est ibi a consulibus <placeName>Augustanis</placeName>, d. <persName>Welsero</persName> et d. <persName ref="p8087">Herbroto</persName><note xml:id="fn13" type="footnote" n="13"><persName>Jakob Herbrot</persName>.</note>, et <placeName>Augustam</placeName> invitatus, quo se venturum recepit amicissime, finitis comitiis,<note xml:id="fn14" type="footnote" n="14">Der Reichstag zu <placeName>Regensburg</placeName>.</note> siquidem res eius ita ferant.</s>
-					<s n="24" xml:lang="la" type="auto">Totus in eo est caesar, ut blanditiis et promissis<pb type="edition" next="380"/> impediat, tandem et dissolvat foedus Schmalkaldicum.</s>
+					<s n="23" xml:lang="la" type="auto">Salutatus est ibi a consulibus <placeName>Augustanis</placeName>, d. <persName>Welsero</persName> et d. <persName ref="p8087">Herbroto</persName><note xml:id="fn13" type="footnote" n="13"><persName>Jakob Herbrot</persName>.</note>, et <placeName>Augustam</placeName> invitatus, quo se venturum recepit amicissime, finitis comitiis,<note xml:id="fn14" type="footnote" n="14">Der Reichstag zu <placeName>Regensburg</placeName>.</note> siquidem res eius ita ferant<note xml:id="fn15" type="footnote" n="15">Vgl. <ref target="file12469">Nr. 2422</ref>,6-13.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Totus in eo est caesar, ut blanditiis et promissis<pb type="edition" next="380"/> impediat, tandem et dissolvat foedus Schmalkaldicum<note xml:id="fn16" type="footnote" n="16">Vgl. <ref target="file12472">Nr. 2425</ref>,37-42.</note>.</s>
 					<s n="25" xml:lang="la" type="auto">Eam ob rem evocato in colloquium Hesso<note xml:id="fn17" type="footnote" n="17">Landgraf <persName>Philipp von Hessen</persName>. - Zu diesem Treffen s. <ref target="file12453">Nr. 2406</ref> und Anm. 25.</note> et Palatino<note xml:id="fn18" type="footnote" n="18"><persName>Kurfürst Friedrich II. von der Pfalz</persName>. - Zu diesem Treffen s. <ref target="file12456">Nr. 2409</ref> und Anm. 21.</note>, multa cum iis egit; de quibus suo tempore.</s>
 					<s n="26" xml:lang="la" type="auto">Fuit et apud ducem Wirtembergensem<note xml:id="fn19" type="footnote" n="19"><persName>Ulrich von Württemberg</persName>; s. aber <ref target="file12478">Nr. 2431</ref>, Anm. 9.</note>.</s>
-					<s n="27" xml:lang="la" type="auto">Caesar <placeName>Hispanus</placeName> est, et <placeName>Hispanicis</placeName> artibus rem suam conficiet in Germania, nisi deus propitius averterit.</s>
+					<s n="27" xml:lang="la" type="auto">Caesar <placeName>Hispanus</placeName> est, et <placeName>Hispanicis</placeName> artibus rem suam conficiet in Germania, nisi deus propitius averterit<note xml:id="fn20" type="footnote" n="20">Vgl. <ref target="file12422">Nr. 2375</ref>,6f; <ref target="file12471">Nr. 2424</ref>.391: <ref target="file12472">Nr. 2425</ref>,40-42.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">

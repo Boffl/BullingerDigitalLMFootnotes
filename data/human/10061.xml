@@ -17,8 +17,8 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino, charissime Heymryche.</s>
-					<s n="2" xml:lang="la" type="auto">Hic, quem vides, <persName>Carolstadius</persName> est, homo sane talis, qualem se Luterus esse credit, cum tamen non sit alius, quam ipse <persName>Carolstadium</persName> esse prędicat.</s>
-					<s n="3" xml:lang="la" type="auto">Eum deduci ad iter, quod <placeName>Basileam</placeName> pergit, facito.</s>
+					<s n="2" xml:lang="la" type="auto">Hic, quem vides, <persName>Carolstadius</persName> est, homo sane talis, qualem se Luterus esse credit, cum tamen non sit alius, quam ipse <persName>Carolstadium</persName> esse prędicat<note xml:id="fn3" type="footnote" n="3">Die heftigsten Ausfälle <persName>Luthers</persName> gegen <persName>Karlstadt</persName> finden sich in der Schrift «Wider die himmlischen Propheten, von den Bildern und Sakrament», 1525, <bibl>WA</bibl> XVIII 37ff; vgl. <hi>Barge,</hi> aaO, II 266ff.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Eum deduci ad iter, quod <placeName>Basileam</placeName><note xml:id="fn4" type="footnote" n="4"><persName>Karlstadt</persName> ging von Zürich aus nach <placeName>Basel</placeName>, um dort seine Angehörigen abzuholen. Am 25. Juni ist er in <placeName>Basel</placeName> anwesend, <bibl>Z</bibl> X 645,5; s. <hi>Barge,</hi> aaO, II 423f.</note> pergit, facito.</s>
 					<s n="4" xml:lang="la" type="auto">Strennue pauper est, quapropter, qui quid potestis, iuvate et opitulamini, non ut nostra hauriatis, sed ut de nostro quid ei refectionis obveniat.</s>
 				</p>
 				<p>

@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. in domino.</s>
-					<s n="2" xml:lang="la" type="auto">Tabellio Vittenbergensis iis diebus apud nos fuit, <persName>Oporino</persName> librum a <persName>Rivio</persName> adferens, quem diligenter de omnibus rebus, quę <placeName>Witebergę</placeName> aguntur, interrogavi.</s>
+					<s n="2" xml:lang="la" type="auto">Tabellio Vittenbergensis<note xml:id="fn2" type="footnote" n="2">Unbekannt. Wohl derselbe wie schon im Februar 1545 (s. oben <ref target="file12135">Nr. 2088</ref>, 2f. 7f; 2089) und im Jahr zuvor (s. <bibl>HBBW XIV</bibl> 300, 22).</note> iis diebus apud nos fuit, <persName>Oporino</persName> librum a <persName>Rivio</persName> adferens, quem diligenter de omnibus rebus, quę <placeName>Witebergę</placeName> aguntur, interrogavi.</s>
 					<s n="3" xml:lang="la" type="auto">Nihil omnino de responsione <persName ref="p18889">Lutheri</persName><note xml:id="fn4" type="footnote" n="4">Siehe dazu zuletzt oben <ref target="file12269">Nr. 2222</ref>, 19 und Anm. 15.</note> contra libellum vestrum<note xml:id="fn5" type="footnote" n="5">Das "Warhaffte Bekanntnuß" der Zürcher bzw. dessen lateinische Fassung; s. oben <ref target="file12108">Nr. 2061</ref>, Anm. 9.</note> potui ab illo venari, et credo <persName ref="p18889">Lutherum</persName> nihil scripsisse nec etiam velle scribere.</s>
 					<s n="4" xml:lang="la" type="auto">Sed hoc dixit: Libellus Tigurinorum in tota nostra ditione prohibitus<note xml:id="fn6" type="footnote" n="6">Siehe oben <ref target="file12185">Nr. 2138</ref>, Anm. 7.</note>.</s>
 					<s n="5" xml:lang="la" type="auto">Mulcta est amissio omnium bonorum.</s>
@@ -25,15 +25,15 @@
 					<s n="7" xml:lang="la" type="auto">Idem fecit Moritius dux in sua ditione<note xml:id="fn7" type="footnote" n="7"><persName>Herzog Moritz von Sachsen</persName> hatte dem Kurfürsten <persName>Johann Friedrich von Sachsen</persName> am 2. Mai 1545 seinen Entschluss mitgeteilt, die Schrift der Zürcher gleichfalls zu verbieten; s. <persName>Moritz von Sachsen</persName> PK II/1 232f, <ref target="file10729">Nr. 691</ref>.</note>.</s>
 					<s n="8" xml:lang="la" type="auto">Lutherani timent veritatis splendorem.</s>
 					<s n="9" xml:lang="la" type="auto">Formidant nescio quid.</s>
-					<s n="10" xml:lang="la" type="auto">Dixit praeterea <persName ref="p18889">Lutherum</persName> pulverem excussisse e calciamentis suis et ecclesiam Witenbergensem reliquisse, eo quod poenitentiam nullam facere velint.</s>
+					<s n="10" xml:lang="la" type="auto">Dixit praeterea <persName ref="p18889">Lutherum</persName> pulverem excussisse e calciamentis suis<note xml:id="fn8" type="footnote" n="8">Vgl. Mt 10, 14par.; Apg 13,51.</note> et ecclesiam Witenbergensem reliquisse, eo quod poenitentiam nullam facere velint.</s>
 					<s n="11" xml:lang="la" type="auto">Vitia enim apud illos inundant, et nescio quid contentionis sit inter <persName ref="p18889">Lutherum</persName> et d. <persName>Hieronymum<pb type="edition" next="490"/> Schirpffium</persName>, qui omnino papisticus est et sanctorum festa adhuc celebrat in suis aedibus cum tota familia.</s>
 					<s n="12" xml:lang="la" type="auto">Subsecutus est <persName>Pomeranus</persName><note xml:id="fn10" type="footnote" n="10"><persName>Johannes Bugenhagen</persName>.</note>, et multi alii sequuntur <persName ref="p18889">Lutherum</persName>, non ut illi adhęreant, sed ut persuadeant, quo revertatur ac omnino de illis<note xml:id="fn11" type="footnote" n="11">Die <placeName>Wittenberger</placeName>.</note> non desperet.</s>
 					<s n="13" xml:lang="la" type="auto">Agit apud episcopum Meresburgensem.</s>
 					<s n="14" xml:lang="la" type="auto">Hoc exemplo ostendere vult se verum esse apostolum Christi et illius vestigia sequi conatur.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto"><persName>Myconius</persName> pristinę sanitati iterum restitutus.</s>
-					<s n="16" xml:lang="la" type="auto">In comitiis <placeName>Wormatiensibus</placeName><note xml:id="fn14" type="footnote" n="14">Auf dem Reichstag zu <placeName>Worms</placeName>.</note> <placeName>Norembergenses</placeName> et <placeName>Augustani</placeName> contentionem de mercimoniis habuere coram caesare acerbissimam, et caesarem suis dissidiis fere enecarunt; sic etiam didicit mercatorum imposturas.</s>
+					<s n="15" xml:lang="la" type="auto"><persName>Myconius</persName> pristinę sanitati iterum restitutus<note xml:id="fn13" type="footnote" n="13">Vgl. oben <ref target="file12261">Nr. 2214</ref>, 24f.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">In comitiis <placeName>Wormatiensibus</placeName><note xml:id="fn14" type="footnote" n="14">Auf dem Reichstag zu <placeName>Worms</placeName>.</note> <placeName>Norembergenses</placeName> et <placeName>Augustani</placeName> contentionem de mercimoniis habuere coram caesare acerbissimam,<note xml:id="fn15" type="footnote" n="15">Vgl. oben <ref target="file12266">Nr. 2219</ref>, 8f.</note> et caesarem suis dissidiis fere enecarunt; sic etiam didicit mercatorum imposturas.</s>
 					<s n="17" xml:lang="la" type="auto">De concordia inter ecclesiasticos componenda fere nihil est actum.</s>
 					<s n="18" xml:lang="la" type="auto">Dominus nostri misereatur!</s>
 					<s n="19" xml:lang="la" type="auto">Corruptibilia quęrimus et aeterna interim amittimus!</s>

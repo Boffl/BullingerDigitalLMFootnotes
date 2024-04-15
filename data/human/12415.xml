@@ -50,7 +50,7 @@
 				<p>
 					<s n="21" xml:lang="la" type="auto">De <persName>Gilberto</persName><note xml:id="fn29" type="footnote" n="29"><persName>Gilbert Cousin (Cognatus)</persName> von <placeName>Nozeroy</placeName>.</note> nihil audio; peregre profectus est ob pestis saevitiem, quę Nozerethi parum gliscere ceperat.</s>
 					<s n="22" xml:lang="la" type="auto">Nescio an redierit aut adhuc sit in sua peregrinatione.</s>
-					<s n="23" xml:lang="la" type="auto">Spero autem brevi fratrem illius ad nos venturum, qui absque dubio literas ad amicos omnes secum allaturus est.</s>
+					<s n="23" xml:lang="la" type="auto">Spero autem brevi fratrem illius<note xml:id="fn30" type="footnote" n="30"><persName>Cousin</persName> hatte mehrere Brüder. Hier ist vielleicht <persName>Antoine Cousin</persName> gemeint, der sich öfters in <placeName>Basel</placeName> aufhielt; s. <bibl>HBBW</bibl> XIV 324f, Anm. 3; XV 267, Anm. 18.</note> ad nos venturum, qui absque dubio literas ad amicos omnes secum allaturus est.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -80,7 +80,7 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="37" xml:lang="la" type="auto">Caeterum quod deus vestros animos parum exulceratos in pristinam concordiam iterum conglutinaverit, summo gaudio afficior.</s>
+					<s n="37" xml:lang="la" type="auto">Caeterum quod deus vestros animos parum exulceratos in pristinam concordiam iterum conglutinaverit,<note xml:id="fn41" type="footnote" n="41">Vgl. <ref target="file12395">Nr. 2348</ref>,1-14; <ref target="file12409">Nr. 2362</ref>,1-6.</note> summo gaudio afficior.</s>
 					<s n="38" xml:lang="la" type="auto">Scio enim exemplo edoctus, quid invidia semel concepta mala secum adferat et quam tenaces sumus earum rerum, quę semel defendenda suscepimus.</s>
 					<s n="39" xml:lang="la" type="auto"><persName ref="p18889">Lutherum</persName> enim hoc genere morbi laborare, quis dubitat?</s>
 					<s n="40" xml:lang="la" type="auto">Nihilominus pergit furere, quam etiam conscientia sua aliud dictitet et suggerat, aliud etiam scriptura divina.</s>

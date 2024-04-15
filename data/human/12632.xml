@@ -67,7 +67,7 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="31" xml:lang="la" type="auto"><persName>Fridolinum Hospinianum</persName> quoque non vidi<note xml:id="fn22" type="footnote" n="22">Siehe <ref target="file12623">Nr. 2576</ref>,57f.</note>.</s>
-					<s n="32" xml:lang="la" type="auto">Alteram ex duabus hic iam pernoctantibus cohortibus aiunt ex meris constare Tigurinis.</s>
+					<s n="32" xml:lang="la" type="auto">Alteram ex duabus hic iam pernoctantibus cohortibus<note xml:id="fn23" type="footnote" n="23">Vgl. oben Z. 241.</note> aiunt ex meris constare Tigurinis.</s>
 					<s n="33" xml:lang="la" type="auto">Cras videbo.</s>
 				</p>
 			</div>
@@ -80,11 +80,11 @@
 				<p>
 					<s n="35" xml:lang="la" type="auto">Exercitus <placeName>Belgicus</placeName><note xml:id="fn25" type="footnote" n="25">Das niederländische Heer unter der Führung von <persName>Maximilian von Egmont</persName>, Graf von Büren. Zu seiner Route s. <ref target="file12619">Nr. 2572</ref>, Anm. 43.</note> per Franconiam recta ascendit <placeName>Ratisponam</placeName> versus.</s>
 					<s n="36" xml:lang="la" type="auto">In profectione auctus est a 2000 ferme equitibus a perfidis episcopis missis, Treverensi<note xml:id="fn26" type="footnote" n="26"><persName>Johann IV. Ludwig von Hagen</persName>.</note>, Moguntinensi<note xml:id="fn27" type="footnote" n="27"><persName>Sebastian von Heusenstamm</persName>.</note>, Herbipolensi<note xml:id="fn28" type="footnote" n="28"><persName>Melchior Zobel</persName>.</note> et Pabergensi<note xml:id="fn29" type="footnote" n="29"><persName>Weigand von Redwitz</persName>.</note>.</s>
-					<s n="37" xml:lang="la" type="auto">Nostri cum <placeName>Ingolstadii</placeName><pb type="edition" next="468"/> nihil proficerent, relictis caesaris<note xml:id="fn30" type="footnote" n="30"><persName>Karl V.</persName></note> castris huic exercitui obviam processerunt,<note xml:id="fn31" type="footnote" n="31">Zum Aufbruch des schmalkaldischen Heeres aus <placeName>Ingolstadt</placeName> s. die Verweise in <ref target="file12629">Nr. 2582</ref>, Anm. 3. - Zum geplanten Angriff gegen von Büren s. <ref target="file12626">Nr. 2579</ref>,10-12; <ref target="file12629">Nr. 2582</ref>,6; <ref target="file12636">Nr. 2589</ref>,1-7.</note> ut vel cum eo consererent vel caesarem ex sua evocarent cavea.</s>
+					<s n="37" xml:lang="la" type="auto">Nostri cum <placeName>Ingolstadii</placeName><pb type="edition" next="468"/> nihil proficerent, relictis caesaris<note xml:id="fn30" type="footnote" n="30"><persName>Karl V.</persName></note> castris huic exercitui obviam processerunt,<note xml:id="fn31" type="footnote" n="31">Zum Aufbruch des schmalkaldischen Heeres aus <placeName>Ingolstadt</placeName> s. die Verweise in <ref target="file12629">Nr. 2582</ref>, Anm. 3. - Zum geplanten Angriff gegen von Büren s. <ref target="file12626">Nr. 2579</ref>,10-12; <ref target="file12629">Nr. 2582</ref>,6; <ref target="file12636">Nr. 2589</ref>,1-7.</note> ut vel cum eo consererent vel caesarem ex sua evocarent cavea<note xml:id="fn32" type="footnote" n="32">Vgl. <ref target="file12636">Nr. 2589</ref>,1-7. - Zur verschanzten Lage des Kaisers s. <ref target="file12625">Nr. 2578</ref>, Anm. 10.</note>.</s>
 					<s n="38" xml:lang="la" type="auto">Profecti itaque sunt versus Nördlingam et Dinckelspühel<note xml:id="fn33" type="footnote" n="33">Dinkelsbühl (Lkr. Ansbach, Bayern), etwa 30 km nordwestlich von <placeName>Nördlingen</placeName>; s. <ref target="file12628">Nr. 2581</ref>, Anm. 12.</note>.</s>
 					<s n="39" xml:lang="la" type="auto">Qua re cognita Bürensis<note xml:id="fn34" type="footnote" n="34"><persName>Maximilian von Egmont</persName>, Graf von Büren.</note> exercitus festinus abiit Norenbergam versus, iuxta quam urbem praetergressi et plurimi primarii intromissi, caeteri comeatu magnifice tractati sunt.</s>
 					<s n="40" xml:lang="la" type="auto">Hęc est fides illa placentis.</s>
-					<s n="41" xml:lang="la" type="auto">Nostri etiam hac in parte frustra diu laborantes reversi sunt <placeName>Werdam</placeName>, et fama est totum exercitum intra biduum aut triduum ad nos venturum.</s>
+					<s n="41" xml:lang="la" type="auto">Nostri etiam hac in parte frustra diu laborantes reversi sunt <placeName>Werdam</placeName>,<note xml:id="fn36" type="footnote" n="36">Vgl. <ref target="file12635">Nr. 2588</ref>,41; <ref target="file12642">Nr. 2595</ref>,8; <bibl>PC</bibl> IV/1 385, <ref target="file10394">Nr. 362</ref>.</note> et fama est totum exercitum intra biduum aut triduum ad nos venturum<note xml:id="fn37" type="footnote" n="37">Vgl. auch unten Z. 64.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
@@ -99,7 +99,7 @@
 			<div xml:id="div10" corresp="regest10">
 				<p>
 					<s n="47" xml:lang="la" type="auto">Ego, cum video pueriliter satis meo iudicio omnia geri, cum tamen non possim ego his rebus consulere, hortor populum, ut fideliter se remque universam committant domino, cuius omnis est potentia<note xml:id="fn40" type="footnote" n="40">Röm 13, 1.</note>.</s>
-					<s n="48" xml:lang="la" type="auto">Interim poenitentiam agentes ex toto corde ad deum convertantur et ipsius inopinatum,<note xml:id="fn42" type="footnote" n="42">Siehe z.B. Ex 14, 8-31.</note> quod saepius nobis hactenus ostendit, etiam nunc expectent auxilium.</s>
+					<s n="48" xml:lang="la" type="auto">Interim poenitentiam agentes ex toto corde ad deum convertantur<note xml:id="fn41" type="footnote" n="41">Vgl. 1Sam 7, 3:.Jui 2, 12f.</note> et ipsius inopinatum,<note xml:id="fn42" type="footnote" n="42">Siehe z.B. Ex 14, 8-31.</note> quod saepius nobis hactenus ostendit, etiam nunc expectent auxilium<note xml:id="fn43" type="footnote" n="43">Vgl. Klgl 3, 26.</note>.</s>
 					<s n="49" xml:lang="la" type="auto">Melius me puto consulere non posse.</s>
 					<s n="50" xml:lang="la" type="auto">Caetera committo domino et his, penes quos rerum summa consistit, pro quibus fideliter oramus.</s>
 				</p>
@@ -108,7 +108,7 @@
 				<p>
 					<s n="51" xml:lang="la" type="auto">Ammanus <persName>Voglerus</persName><note xml:id="fn44" type="footnote" n="44"><persName>Hans Vogler d.Ä.</persName>, der damals in <placeName>Augsburg</placeName> für den in Lindau wohnenden <persName>Hieronymus Sailer</persName> vermittelte; s. <ref target="file12546">Nr. 2499</ref>, Anm. 2.</note> iam 14. hic agit diem<note xml:id="fn45" type="footnote" n="45"><persName>Vogler</persName> hatte Zürich am 24. August verlassen; s. <ref target="file12591">Nr. 2544</ref> und Anm. 7; Nr. 2556, Anm. 24. Am 1. September traf er in <placeName>Augsburg</placeName> ein; s. <ref target="file12607">Nr. 2560</ref>,1-3.</note>.</s>
 					<s n="52" xml:lang="la" type="auto">Ubi fuerit reversus<note xml:id="fn46" type="footnote" n="46">Gemeint ist: wenn er wieder nach Zürich zurückkehrt.</note>, scribam plura.</s>
-					<s n="53" xml:lang="la" type="auto">Corium tuum, ut iubes, remitto.</s>
+					<s n="53" xml:lang="la" type="auto">Corium tuum, ut iubes, remitto<note xml:id="fn47" type="footnote" n="47">Vielleicht ein lederner Sack (vgl. <ref target="file12643">Nr. 2596</ref>,116f), in dem die für <persName>Haller</persName> bestimmten Bücher durch <persName>Vogler</persName> (s. <ref target="file12607">Nr. 2560</ref>,1-3) oder auch die für <placeName>Augsburg</placeName> bestimmten Exemplare von Bullingers Lukaskommentar (s. <ref target="file12621">Nr. 2574</ref>,2-6; <ref target="file12623">Nr. 2576</ref>,3-5) transportiert wurden.</note>.</s>
 					<s n="54" xml:lang="la" type="auto">Eggsteinio<note xml:id="fn48" type="footnote" n="48"><persName>Utz Eckstein</persName>; s. <ref target="file10286">Nr. 255</ref> 1,37-39.</note> et tibi scribet<pb type="edition" next="469"/> Cellarius<note xml:id="fn49" type="footnote" n="49"><persName>Michael Keller</persName>. - Der nächste bekannte Brief von Keller an Bullinger datiert erst vom 5. März 1547 (Zürich StA, E II 346, 216).</note>.</s>
 					<s n="55" xml:lang="la" type="auto">Expecto in dies reditum nuncii nostri<note xml:id="fn50" type="footnote" n="50">Wohl der unbekannte <placeName>Augsburger</placeName> Bote, der um den 2. September nach Zürich mit der Bitte um Prediger abgefertigt worden war; s. <ref target="file12623">Nr. 2576</ref>,5f. 18-20.</note> vestrumque ad nostras petitiones responsum.</s>
 					<s n="56" xml:lang="la" type="auto"><persName>Naogeorgus</persName><note xml:id="fn51" type="footnote" n="51"><persName>Thomas Naogeorg</persName>.</note> syncerus est omnino, de quo nuper quaedam scripsi<note xml:id="fn52" type="footnote" n="52">In <ref target="file12623">Nr. 2576</ref>,62-69.</note>.</s>
@@ -120,7 +120,7 @@
 			<div xml:id="div12" corresp="regest12">
 				<p>
 					<s n="60" xml:lang="la" type="auto">Ad nostrum veniunt etiam exercitum 20000 peditum et 2000 equitum,<note xml:id="fn56" type="footnote" n="56">Gemeint ist das früher bei <placeName>Frankfurt</placeName> gelegene hessische Heer; s. <ref target="file12622">Nr. 2575</ref>,14-17.</note> qui Rochovensem exercitum<note xml:id="fn57" type="footnote" n="57">Das niederländische Heer, in dem sich auch <persName>Martin von Rossem</persName> befand; s. <ref target="file12611">Nr. 2564</ref>,7f.</note> secuti, non tamen cum eo confligere soli ausi sunt.</s>
-					<s n="61" xml:lang="la" type="auto">Audio omnes copias ad nos venturas.</s>
+					<s n="61" xml:lang="la" type="auto">Audio omnes copias ad nos venturas<note xml:id="fn58" type="footnote" n="58">Vgl. oben Z. 43f.</note>.</s>
 					<s n="62" xml:lang="la" type="auto">Tunc sicut locustae nos exedent!</s>
 				</p>
 			</div>

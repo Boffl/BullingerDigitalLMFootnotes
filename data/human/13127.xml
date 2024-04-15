@@ -24,7 +24,7 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="4" xml:lang="la" type="auto">Nunc autem nolim clam te esse tam <placeName>Italos</placeName> quam Germanos pietate insigniores, consiliorumque secretiorum non expertes, pro certo affirmare omnem belli intempestatem in Constancienses et vicinos eorum recto cursu inevitabiliter vehi, nimirum occasione loci, ubi nunc alioqui hominum vis maxima est,<note xml:id="fn5" type="footnote" n="5">Kaiserliche Truppen waren z.B. in <placeName>Ravensburg</placeName> einquartiert; s. zuletzt <ref target="file13123">Nr. 3074</ref>,<ptr target="qvzl17340-2" type="qv"/>.</note> tum etiam ab vestratium discordia sumpta.</s>
-					<s n="5" xml:lang="la" type="auto">Accedit etiam, quod reliqua Germanię pars sit nunc sub iugo et viribus exhausta.</s>
+					<s n="5" xml:lang="la" type="auto">Accedit etiam, quod reliqua Germanię pars sit nunc sub iugo et viribus exhausta.<note xml:id="fn6" type="footnote" n="6">Die oberdeutschen Städte, die bereits 1546 einen großen Aufwand für den Schmalkaldischen Krieg geleistet hatten, mussten sich zu Beginn des Jahres 1547 dem Kaiser unterwerfen, schwere Geldbußen zahlen und oft noch kaiserliche Truppen bei sich aufnehmen.<ptr target="zfnfn17344-2" type="zfn"/></note></s>
 					<s n="6" xml:lang="la" type="auto">Hanc oportunitatem minime negligendam militie gnari fortassis censent.</s>
 					<s n="7" xml:lang="la" type="auto">Deinde pedem ultra figendum esse,<note xml:id="fn7" type="footnote" n="7">Vermutlich liegt hier ein Germanismus vor, der der Redewendung "Einem den Fuß vorsetzen" (d.h. einem seine Anschläge zunichte machen) entspricht; s. <bibl>Wander</bibl> I 1303, <ref target="file10232">Nr. 201</ref>.</note> etc.<pb type="edition" next="667"/></s>
 				</p>
@@ -48,7 +48,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="16" xml:lang="la" type="auto">Vale et salutem ex me dicito fratribus.</s>
-					<s n="17" xml:lang="la" type="auto">Ego misere iactor.</s>
+					<s n="17" xml:lang="la" type="auto">Ego misere iactor.<note xml:id="fn15" type="footnote" n="15">Vgl. schon <ref target="file13078">Nr. 3029</ref>,<ptr target="qvzl17298-4" type="qv"/>; <ref target="file13119">Nr. 3070</ref>,<ptr target="qvzl17336-8" type="qv"/>. - Vermutlich wurde Frölich gerade zu dieser Zeit gebeten, sein Haus zu räumen, um es Fremden (die zum Reichstag kamen) zur Verfügung zu stellen; s. <ref target="file13133">Nr. 3084</ref>,<ptr target="qvzl17350-1" type="qv"/>.</note></s>
 					<s n="18" xml:lang="la" type="auto">19. novembris.</s>
 					<s n="19" xml:lang="la" type="auto">Plura nunc nequivi.</s>
 					<s n="20" xml:lang="la" type="auto">Sat serio fac, hęc intelligas.</s>

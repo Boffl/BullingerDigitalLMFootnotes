@@ -32,11 +32,11 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="9" xml:lang="de" type="auto">Der <foreign xml:lang="la">Saxo elector<note xml:id="fn6" type="footnote" n="6"><persName>Johann Friedrich I. von Sachsen</persName>.</note></foreign> hat vil hülff von Behemen und <placeName>Polen</placeName>; sol den <persName>Maximiliann</persName>, den son <persName>Ferdinandi</persName>,<note xml:id="fn8" type="footnote" n="8">Der spätere Kaiser Maximilian II. (geb. 1527), Sohn von <persName>König Ferdinand I.</persName></note> gefangen haben, ducem <persName>Moritz</persName><note xml:id="fn9" type="footnote" n="9"><persName>Herzog Moritz von Sachsen</persName>.</note> geschossen.</s>
+					<s n="9" xml:lang="de" type="auto">Der <foreign xml:lang="la">Saxo elector<note xml:id="fn6" type="footnote" n="6"><persName>Johann Friedrich I. von Sachsen</persName>.</note></foreign> hat vil hülff von Behemen<note xml:id="fn7" type="footnote" n="7">Böhmen. - Siehe zuletzt <ref target="file12929">Nr. 2880</ref>,<ptr target="qvzl17146-2" type="qv"/>. <ptr target="qvzl17146-1" type="qv"/>.</note> und <placeName>Polen</placeName>; sol den <persName>Maximiliann</persName>, den son <persName>Ferdinandi</persName>,<note xml:id="fn8" type="footnote" n="8">Der spätere Kaiser Maximilian II. (geb. 1527), Sohn von <persName>König Ferdinand I.</persName></note> gefangen haben, ducem <persName>Moritz</persName><note xml:id="fn9" type="footnote" n="9"><persName>Herzog Moritz von Sachsen</persName>.</note> geschossen.</s>
 					<s n="10" xml:lang="de" type="auto"><persName>Ferdinand</persName> schreitt umb hilff.</s>
-					<s n="11" xml:lang="de" type="auto">Ist umbgeben, belegert in ein stettli.</s>
+					<s n="11" xml:lang="de" type="auto">Ist umbgeben, belegert in ein stettli.<note xml:id="fn11" type="footnote" n="11">Die vorhergehenden Nachrichten sind alle falsch. Die Nachricht einer Belagerung des Königs erklärt sich durch <bibl>HBBW</bibl> XIX 452,39-43. - Kaiser und König hatten am 13. April Eger in Richtung Norden verlassen; s. <ref target="file12929">Nr. 2880</ref>, <ptr target="qvfn17146-1" type="qv"/>.</note></s>
 					<s n="12" xml:lang="de" type="auto">Man sagt, der lantgraff rust sich vast.</s>
-					<s n="13" xml:lang="de" type="auto">Wölle die zuͦ <placeName>Brem</placeName> entschütten<note xml:id="fn13" type="footnote" n="13">befreien; s. <bibl>SI</bibl> VIII 1555.</note>, die belegert sindt vom Marti von Rossen, der ein niderlendischen huffen hatt.</s>
+					<s n="13" xml:lang="de" type="auto">Wölle die zuͦ <placeName>Brem</placeName> entschütten, die belegert sindt vom Marti von Rossen, der ein niderlendischen huffen hatt.</s>
 					<s n="14" xml:lang="de" type="auto">Doch sol er kein geschütz by im haben.</s>
 					<s n="15" xml:lang="la" type="auto">De Bohemis certum est, quod defecerunt a <persName>Ferdinando</persName>.<note xml:id="fn15" type="footnote" n="15">Siehe dazu zuletzt <ref target="file12924">Nr. 2875</ref>, <ptr target="qvfn17107-3" type="qv"/>.</note></s>
 				</p>
@@ -44,7 +44,7 @@
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="16" xml:lang="la" type="auto">Argentinę timent seditionem ob turpem deditionem.</s>
-					<s n="17" xml:lang="la" type="auto">O miseri et bis miseri, imo avari mercatores!</s>
+					<s n="17" xml:lang="la" type="auto">O miseri et bis miseri, imo avari mercatores!<note xml:id="fn17" type="footnote" n="17">Vgl. auch <bibl>HBBW</bibl> XIX 468f.</note></s>
 					<s n="18" xml:lang="la" type="auto">Vale.</s>
 					<s n="19" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 18. aprilis 1547.</s>
 					<s n="20" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName>.</s>

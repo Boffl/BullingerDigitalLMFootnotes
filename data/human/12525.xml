@@ -25,22 +25,22 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la" type="auto">Cęsar<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> mihi vulpes est, sicut <persName>Herodes</persName>.</s>
+					<s n="6" xml:lang="la" type="auto">Cęsar<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> mihi vulpes est, sicut <persName>Herodes</persName><note xml:id="fn4" type="footnote" n="4">Vgl. Lk 13, 31f.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Spero itaque finem eum esse nacturum, qualem et is nactus est<note xml:id="fn5" type="footnote" n="5">Herodes soll bei lebendigem Leib von Würmern zerfressen worden sein; s. Apg 12, 21-23.</note>.</s>
-					<s n="8" xml:lang="la" type="auto">Mirum profecto, quod, cum tot plagis visitetur a deo, non resipiscat; certum signum obduratum esse cor eius qualiter Pharaonis.</s>
+					<s n="8" xml:lang="la" type="auto">Mirum profecto, quod, cum tot plagis visitetur a deo, non resipiscat;<note xml:id="fn6" type="footnote" n="6">Vgl. z.B. <bibl>HBBW</bibl> XVI 85,49-54. 206,13f. 223,9-13. 264,15-18.</note> certum signum obduratum esse cor eius qualiter Pharaonis<note xml:id="fn7" type="footnote" n="7">Vgl. Ex 5-14.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Dominandi cupido, dęmoniorum vehementissimus, hominem agitat.</s>
 					<s n="10" xml:lang="la" type="auto">Scripsit olim Gallus de eo consilium esse inter Germanos ipsum esse nolle, quales fuerint maiores eius, sed monarcham.</s>
 					<s n="11" xml:lang="la" type="auto">Annon ex his, quae tentat hodie, verisimile adparet, quod ille divinavit?</s>
-					<s n="12" xml:lang="la" type="auto">Expugnata <placeName>Augusta</placeName><pb type="edition" next="125"/> (quod dominus prohibeat) habiturus est thesauros, quibus non difficulter totam subiiciet sibi <persName>Germaniam</persName>.</s>
+					<s n="12" xml:lang="la" type="auto">Expugnata <placeName>Augusta</placeName><pb type="edition" next="125"/> (quod dominus prohibeat) habiturus est thesauros,<note xml:id="fn9" type="footnote" n="9">Vgl. <ref target="file12524">Nr. 2477</ref>.</note> quibus non difficulter totam subiiciet sibi <persName>Germaniam</persName>.</s>
 					<s n="13" xml:lang="la" type="auto">Quid tum ex his<note xml:id="fn10" type="footnote" n="10">Gemeint sind wohl die katholisch gebliebenen Fürsten Deutschlands.</note> fiet, qui nunc fratres conantur obprimere?</s>
-					<s n="14" xml:lang="la" type="auto">Erunt servi eius omni libertate, qua gloriata est Germania hactenus, amissa: Digna merces contra fratres temere pugnantium.</s>
+					<s n="14" xml:lang="la" type="auto">Erunt servi eius omni libertate, qua gloriata est Germania hactenus<note xml:id="fn11" type="footnote" n="11">Vgl. auch Exemplaria..., S. 36-39. 50-53. 57f. 67-70.</note>, amissa: Digna merces contra fratres temere pugnantium.</s>
 					<s n="15" xml:lang="la" type="auto">Oppressa illa, quid dicemus de nobis?</s>
-					<s n="16" xml:lang="la" type="auto">Annon tentabit, quod olim concepit contra nos, imbibit cum lacte matris et instillarunt pędagogi?</s>
+					<s n="16" xml:lang="la" type="auto">Annon tentabit, quod olim concepit contra nos, imbibit cum lacte matris<note xml:id="fn14" type="footnote" n="14">Vgl. <bibl>Adagia</bibl> 1, 7, 54 <hi>(ASD</hi> II/2 180, <ref target="file10692">Nr. 654</ref>).</note> et instillarunt pędagogi?</s>
 					<s n="17" xml:lang="la" type="auto">Quod equidem hisce auribus audivi ex <persName>Erasmo</persName> ante annos plus minus 30, vindicaturum se avum suum <persName>Carolum</persName>, Burgundię ducem,<note xml:id="fn16" type="footnote" n="16">Karl der Kühne fiel im Januar 1477 während einer Schlacht bei <placeName>Nancy</placeName>, an der auch Eidgenossen beteiligt waren.</note> ab Helvetiis occisum.</s>
 					<s n="18" xml:lang="la" type="auto">Ab eo tempore quęsivit occasionem, quam nunc oblatam nimirum arbitratur.</s>
 					<s n="19" xml:lang="la" type="auto">Quid nos igitur agemus?</s>
 					<s n="20" xml:lang="la" type="auto">Cessabimus?</s>
-					<s n="21" xml:lang="la" type="auto">Ardet paries proximi.</s>
+					<s n="21" xml:lang="la" type="auto">Ardet paries proximi<note xml:id="fn17" type="footnote" n="17">Vgl. <bibl>Adagia</bibl> 3, 6, 71 <hi>(ASD</hi> II/6 376, <ref target="file12618">Nr. 2571</ref>).</note>.</s>
 					<s n="22" xml:lang="la" type="auto">Nisi igitur cavebimus, ignis et nos adprehendet et consumet.</s>
 				</p>
 			</div>
@@ -52,9 +52,9 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="25" xml:lang="la" type="auto">Qui in hoc sunt, quod cęsar peccare nesciat,<note xml:id="fn23" type="footnote" n="23">So z.B. <persName>Ludwig von Reischach</persName>; s. <ref target="file12517">Nr. 2470</ref>,7-9.</note> postquam negare non possunt, quod nunc male sanus conatur, aiunt: Virgam agit contra nos profecto, missam a domino propter nostram ingratitudinem.</s>
+					<s n="25" xml:lang="la" type="auto">Qui in hoc sunt, quod cęsar peccare nesciat,<note xml:id="fn23" type="footnote" n="23">So z.B. <persName>Ludwig von Reischach</persName>; s. <ref target="file12517">Nr. 2470</ref>,7-9.</note> postquam negare non possunt, quod nunc male sanus conatur, aiunt: Virgam agit contra nos<note xml:id="fn24" type="footnote" n="24">Vgl. z.B. Ps. 89 (Vulg. 88), 33; Hebr 12,6.</note> profecto, missam a domino propter nostram ingratitudinem.</s>
 					<s n="26" xml:lang="la" type="auto">Ego vero publice<note xml:id="fn25" type="footnote" n="25">Wohl während eines Gesprächs (mit <persName>Ludwig von Reischach</persName>?) auf der Gasse. wie Z. 34-36 es vermuten lassen.</note>: „Aisne?</s>
-					<s n="27" xml:lang="la" type="auto">Vis ergo flagellum esse dei atque adeo impium; nam deus populum suum nunquam adflixit nisi per impios idolatras.</s>
+					<s n="27" xml:lang="la" type="auto">Vis ergo flagellum esse dei atque adeo impium; nam deus populum suum nunquam adflixit nisi per impios idolatras<note xml:id="fn26" type="footnote" n="26">Vgl. Jes 10, 5. 24f.</note>.</s>
 					<s n="28" xml:lang="la" type="auto">Placet itaque tibi cęsar ęque ut mihi.</s>
 					<s n="29" xml:lang="la" type="auto"><persName>Herodes</persName> est mihi, Turcus, papae antichristi filius, Maximino et <persName>Maxentio</persName><note xml:id="fn27" type="footnote" n="27">Die römischen Kaiser <persName>Maximinus Daia (Gaius Galerius Valerius Maximinus)</persName> und <persName>Maxentius (Marcus Aurelius Valerius Maxentius</persName>).</note> peior, quod hactenus amicum se simulavit Germanorum et nunc talem se exhibet; et tibi igitur talis est, sentis mecum.“</s>
 					<s n="30" xml:lang="la" type="auto">(Hic hic intervenit <persName>Petrus Wegerich</persName>, civis noster, ex Tiguro.</s>
@@ -75,12 +75,12 @@
 					<s n="41" xml:lang="la" type="auto">Aliud fuit pugnare contra Gallum; aliud erit per Germanos delere velle Germanos: Id, quod tu ipse melius expendere nosti.</s>
 					<s n="42" xml:lang="la" type="auto">Videat ergo, quid inceptet!</s>
 					<s n="43" xml:lang="la" type="auto">Dominus stat a nobis, quem ipse<note xml:id="fn34" type="footnote" n="34"><persName>Karl V.</persName></note> tentat e medio nostri tollere.</s>
-					<s n="44" xml:lang="la" type="auto">Unde pugnabit non contra nos, sed contra dominum, qui et se conabitur tueri, imo tuebitur se fortiter.</s>
+					<s n="44" xml:lang="la" type="auto">Unde pugnabit non contra nos, sed contra dominum,<note xml:id="fn35" type="footnote" n="35">Vgl. Apg 9, 5; 26, 14.</note> qui et se conabitur tueri, imo tuebitur se fortiter.</s>
 					<s n="45" xml:lang="la" type="auto">Ipsum deprecemur ex fide, ut ita faciat, et faciet.</s>
 					<s n="46" xml:lang="la" type="auto">Si marchio de Mussus ille est, quem nos novimus, infeliciter aget cęsar eodem duce.</s>
 					<s n="47" xml:lang="la" type="auto">Scis, quis iste et qualis.</s>
 					<s n="48" xml:lang="la" type="auto">Infelix, qui cum tanto latrone communicat!</s>
-					<s n="49" xml:lang="la" type="auto">Id, quod sensit Sabaudus<note xml:id="fn37" type="footnote" n="37"><persName>Karl III. von Savoyen</persName>.</note>, sentiat idem cęsar, et ego ridebo in domino.</s>
+					<s n="49" xml:lang="la" type="auto">Id, quod sensit Sabaudus<note xml:id="fn37" type="footnote" n="37"><persName>Karl III. von Savoyen</persName>.</note>, sentiat idem cęsar,<note xml:id="fn38" type="footnote" n="38">Siehe <bibl>HBBW</bibl> V 163, Anm. 12.</note> et ego ridebo in domino.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">

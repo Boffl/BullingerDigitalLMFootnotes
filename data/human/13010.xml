@@ -17,13 +17,13 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Tabellarium habeo idoneum,<note xml:id="fn1" type="footnote" n="1">Siehe dazu unten <ptr target="qvfn17226-1" type="qv"/>.</note> materiam autem scribendi ad te minus congruam.</s>
+					<s n="2" xml:lang="la" type="auto">Tabellarium habeo idoneum,<note xml:id="fn1" type="footnote" n="1">Siehe dazu unten <ptr target="qvfn17226-1" type="qv"/>.</note> materiam autem scribendi ad te minus congruam.<note xml:id="fn2" type="footnote" n="2">Vgl. schon <ref target="file13002">Nr. 2953</ref>, <ptr target="qvfn17219-2" type="qv"/>.</note></s>
 					<s n="3" xml:lang="la" type="auto">Dabis igitur veniam negligentię.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="la" type="auto">Rumanus<note xml:id="fn3" type="footnote" n="3">(Hans) Thoman Ruman (Römer).</note> noster omnino decrevit hinc discedere atque, cum perseveranter abitionem postularet, senatus eum dimisit, quod mihi inconsultissimum factum visum est.</s>
+					<s n="4" xml:lang="la" type="auto">Rumanus<note xml:id="fn3" type="footnote" n="3">(Hans) Thoman Ruman (Römer).</note> noster omnino decrevit hinc discedere atque, cum perseveranter abitionem postularet,<note xml:id="fn4" type="footnote" n="4">Vgl. <ref target="file13000">Nr. 2951</ref>, <ptr target="qvfn17216-1" type="qv"/>; <ref target="file13002">Nr. 2953</ref>,<ptr target="qvzl17219-5" type="qv"/>.</note> senatus eum dimisit, quod mihi inconsultissimum factum visum est.<note xml:id="fn5" type="footnote" n="5">Vgl. <ref target="file12969">Nr. 2920</ref>,<ptr target="qvzl17185-1" type="qv"/>.</note></s>
 					<s n="5" xml:lang="la" type="auto">Audio quoque ipsi, quantum ad itineris sumptus, etc., pertinet, minime, ut decuerat, prospectum esse, quod nimię festinationi tum etiam pertinati discessus decreto imputetur.</s>
 					<s n="6" xml:lang="la" type="auto">Ego in his turbis bonum virum iuvare non potui.</s>
 				</p>
@@ -40,7 +40,7 @@
 				<p>
 					<s n="11" xml:lang="la" type="auto">Inter Helvetios optime convenire communis frater noster <persName>Ambrosius B[laurerus]</persName> mihi scripsit.<note xml:id="fn9" type="footnote" n="9">Mit einem nicht in <bibl><persName>Blarer</persName> BW</bibl> erhaltenen Brief. - Vgl. zum damaligen guten Verhältnis der Eidgenossen untereinander <ref target="file13003">Nr. 2954</ref>,<ptr target="qvzl17220-3" type="qv"/>; <ref target="file13007">Nr. 2958</ref>,<ptr target="qvzl17224-3" type="qv"/>.<ptr target="zfnfn17226-2" type="zfn"/></note></s>
 					<s n="12" xml:lang="la" type="auto">Inter cętera asserit ipsos tam flagranti studio, nunquam ut modo, animos iunxisse.</s>
-					<s n="13" xml:lang="la" type="auto">Maximum sane vectigal est concordia!</s>
+					<s n="13" xml:lang="la" type="auto">Maximum sane vectigal est concordia!<note xml:id="fn10" type="footnote" n="10">Vgl. das deutsche Sprichwort "Eintracht trägt ein (ist einträglich)"; s. <bibl>Wander</bibl> I 798, Nr. 8.</note></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -55,7 +55,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="21" xml:lang="la" type="auto">Domino Henricho Bullingero, amico incomparabili.</s>
+					<s n="21" xml:lang="la" type="auto">Domino Henricho Bullingero, amico incomparabili.<note xml:id="fn12" type="footnote" n="12">Dieser Brief wurde Ruman mitgegeben (s. oben Z. <ptr target="qvzl17226-1" type="qv"/>), und zwar zusammen mit <persName>Wolfgang Musculus</persName>' Zeugnis für Ruman vom 14. Juli (s. <ref target="file13000">Nr. 2951</ref>) und mit Hallers Briefen vom 15. und 22. Juli (s. <ref target="file13011">Nr. 2962</ref>,<ptr target="qvzl17227-1" type="qv"/>).<ptr target="zfnfn17226-1" type="zfn"/></note></s>
 				</p>
 			</div>
 		</body>

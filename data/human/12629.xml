@@ -32,7 +32,7 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="9" xml:lang="la" type="auto">Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris.</s>
+					<s n="9" xml:lang="la" type="auto">Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl>NBD</bibl> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso...".</note>.</s>
 					<s n="10" xml:lang="la" type="auto">Hoc placeret, modo cauti sint nostri.</s>
 					<s n="11" xml:lang="la" type="auto">Scis enim consilium famis<note xml:id="fn6" type="footnote" n="6">consilium famis; vgl. <bibl>Wander</bibl> II 913, Nr. 84: "Hunger ist ein schlimmer (harter) Rathgeber".</note>.</s>
 				</p>
@@ -48,7 +48,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="16" xml:lang="la" type="auto">Quare nos inter hęc ita desidemus?</s>
-					<s n="17" xml:lang="la" type="auto">Domine Iesu, adesto ecclesiaę tuę!</s>
+					<s n="17" xml:lang="la" type="auto">Domine Iesu, adesto ecclesiaę tuę<note xml:id="fn10" type="footnote" n="10">Vgl. <ref target="file12610">Nr. 2563</ref>,50f.</note>!</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">

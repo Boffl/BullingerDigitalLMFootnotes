@@ -17,11 +17,11 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Quomodo autem tibi, amicorum et fratrum devinctissime, pro tot et tantis diligentissimis et utilissimis scriptitacionibus officiisque responsurus sim unquam, non habeo.</s>
+					<s n="2" xml:lang="la" type="auto">Quomodo autem tibi, amicorum et fratrum devinctissime, pro tot et tantis diligentissimis et utilissimis scriptitacionibus<note xml:id="fn1" type="footnote" n="1">das viele Schreiben; s. <bibl>Hoven</bibl> 497. - Bullingers Briefe an <persName>Frölich</persName> sind (bis auf <bibl>HBBW</bibl> XVII, <ref target="file12511">Nr. 2464</ref>) nicht erhalten.</note> officiisque responsurus sim unquam, non habeo.</s>
 					<s n="3" xml:lang="la" type="auto">Ego etsi neminem hinc sine literis meis ad te ire sciens permitto, tamen ex tuis facile deprehendo meas aliquando intercipi.</s>
 					<s n="4" xml:lang="la" type="auto">Hinc fit, ut de rebus nostris sepius incerti sitis.</s>
 					<s n="5" xml:lang="la" type="auto">Pluries equidem de inauspicati huius belli gestis scribere, quam scripsi, nihil proderat.</s>
-					<s n="6" xml:lang="la" type="auto">Nam nihil scitu memorabile unquam in illo factum est, cum hostis<note xml:id="fn2" type="footnote" n="2"><persName>Kaiser Karl V.</persName></note> conflictum suis subterfugiis<note xml:id="fn3" type="footnote" n="3">mittels Listen.</note> semper declinarit, castra nunc hac, nunc illac moverit et bellum in hunc usque diem protraxerit, nimirum facile sibi persuadens nostros<note xml:id="fn4" type="footnote" n="4">die Schmalkaldener.</note> tot sumptus diu ferre non posse, ipsum vero ab universo papatu pecuniis iuvari,<note xml:id="fn6" type="footnote" n="6">Siehe zuletzt <ref target="file12705">Nr. 2658</ref>,56-58.</note> neminem autem nos; id quod sane vanum non est.</s>
+					<s n="6" xml:lang="la" type="auto">Nam nihil scitu memorabile unquam in illo factum est, cum hostis<note xml:id="fn2" type="footnote" n="2"><persName>Kaiser Karl V.</persName></note> conflictum suis subterfugiis<note xml:id="fn3" type="footnote" n="3">mittels Listen.</note> semper declinarit, castra nunc hac, nunc illac moverit et bellum in hunc usque diem protraxerit, nimirum facile sibi persuadens nostros<note xml:id="fn4" type="footnote" n="4">die Schmalkaldener.</note> tot sumptus diu ferre non posse,<note xml:id="fn5" type="footnote" n="5">Vgl. <ref target="file12731">Nr. 2684</ref>,16-19 und Anm. 8.</note> ipsum vero ab universo papatu pecuniis iuvari,<note xml:id="fn6" type="footnote" n="6">Siehe zuletzt <ref target="file12705">Nr. 2658</ref>,56-58.</note> neminem autem nos; id quod sane vanum non est.</s>
 					<s n="7" xml:lang="la" type="auto">Summa: Nos hactenus fecimus, quod potuimus; facturi porro in posterum, quantum dominus concesserit.</s>
 				</p>
 			</div>
@@ -59,7 +59,7 @@
 					<s n="25" xml:lang="de" type="auto">Wie ir treulich unnd freundtlich schryben<note xml:id="fn13" type="footnote" n="13">In einem nicht erhaltenen Brief.</note> unnd erinnerend, wol zuͦ wachen unnd nit zw viel trawen, das geschieht furwar mit allem vleiß.</s>
 					<s n="26" xml:lang="de" type="auto">So hat man sich stieff unnd keckh<note xml:id="fn14" type="footnote" n="14">stieff unnd keckh: beharrlich und furchtlos; s. <bibl>Fischer</bibl> IV 1698; V 301.</note> gehalten, unnd verhoffe, es soll am selben, so viel gott genade verleihet unnd so weit sich unnser vermoͤgen erstreckt, nit manglen.</s>
 					<s n="27" xml:lang="de" type="auto">Der krieg kan und mag kainswegs on entlich<note xml:id="fn15" type="footnote" n="15">on entlich: ohne endgültiges.</note> verterben teutscher nation durch ainig mittl<note xml:id="fn16" type="footnote" n="16">ainig mini: irgendeine Vermittlung; s. <bibl>Fischer</bibl> II 617 s.v. einig; IV 1710 s.v. Mittel.</note> gericht werden, sonnder da muͦß ain tail furziehen.</s>
-					<s n="28" xml:lang="de" type="auto">Sobald aber ain vertrage gemacht wurdt, so wollt ich gern arm unnd weitt von hinnen sein.</s>
+					<s n="28" xml:lang="de" type="auto">Sobald aber ain vertrage gemacht wurdt, so wollt ich gern arm unnd weitt von hinnen sein.<note xml:id="fn18" type="footnote" n="18">Gemeint ist, dass, falls es (durch die Verhandlungen des <placeName>Augsburger</placeName> Patriziats) zu einem Frieden kommen sollte, <persName>Frölich</persName> fest entschlossen ist, seine Stelle aufzugeben ("arm" zu sein) und seinen Wohnort zu wechseln ("weitt von hinnen" zu sein).</note></s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -89,7 +89,7 @@
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="38" xml:lang="la" type="auto">Filius<note xml:id="fn39" type="footnote" n="39"><persName>Wolfgang Lavater</persName>.</note> d. consulis Lavatheri, ut nuper scripsi, iamdudum ex <placeName>Ulma</placeName> abivit, domum haud dubie concessurus.</s>
+					<s n="38" xml:lang="la" type="auto">Filius<note xml:id="fn39" type="footnote" n="39"><persName>Wolfgang Lavater</persName>.</note> d. consulis Lavatheri, ut nuper scripsi,<note xml:id="fn40" type="footnote" n="40">Vgl. <ref target="file12731">Nr. 2684</ref>,71-74.</note> iamdudum ex <placeName>Ulma</placeName> abivit, domum haud dubie concessurus.</s>
 					<s n="39" xml:lang="la" type="auto">Spero ipsum nunc advenisse.</s>
 				</p>
 			</div>

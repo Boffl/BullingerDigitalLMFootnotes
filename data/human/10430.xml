@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Reconciliatus es.</s>
+					<s n="2" xml:lang="la" type="auto">Reconciliatus es<note xml:id="fn1" type="footnote" n="1">Vgl. oben <ref target="file13151">Nr. 389</ref>. <persName>Myconius</persName> bezieht sich hier nicht auf Bullingers Schreiben vom 4. Juni (oben <ref target="file10422">Nr. 388</ref>), sondern auf einen verlorenen Bullingerbrief oder einen Bericht von aus Zürich zurückgekehrten Basler Gesandten.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Quid addam amplius?</s>
 					<s n="4" xml:lang="la" type="auto">Verum audi.</s>
 					<s n="5" xml:lang="la" type="auto">Nam ut omnia, ita et hoc ausim in sinum tuum effundere: Mirum, quam mihi displiceat prudentia illa Tigurina, tum quod sit vel utre inflatior, tum quod formidinem ex proxima calamitate<note xml:id="fn2" type="footnote" n="2">Dem Zweiten <placeName>Kappeler</placeName> Krieg.</note> conceptam semper habeat a latere.</s>
@@ -32,11 +32,11 @@
 					<s n="14" xml:lang="la" type="auto">Hoc nimirum, quod accidit Phaethonti<note xml:id="fn9" type="footnote" n="9"><persName>Phaëthon</persName>, Sohn des Sol, der als Lenker des Sonnenwagens von Jupiters Blitz erschlagen wurde; s. <bibl>Georges</bibl> II 1677.</note>.</s>
 					<s n="15" xml:lang="la" type="auto">Quid igitur, ubi pueri praeficiuntur, qui horum nihil unquam viderunt aut experti sunt?</s>
 					<s n="16" xml:lang="la" type="auto">De foedere non erat tam cito concludendum, nec id requisivit princeps.</s>
-					<s n="17" xml:lang="la" type="auto">Sed coacti estis propter ora futilissima, quae iamiam effuderunt ad Pagos usque, quicquid dux ad vos perscripsit.</s>
+					<s n="17" xml:lang="la" type="auto">Sed coacti estis propter ora futilissima, quae iamiam effuderunt ad Pagos usque, quicquid dux ad vos perscripsit<note xml:id="fn10" type="footnote" n="10">Vgl. oben Anm. 8. - Zur mehrfach wiederholten Anklage des <persName>Myconius</persName>, im Zürcher Rat sei die Geheimhaltung nicht gewährleistet, siehe z. B. oben S. 60, 49-55 und 98, 4-6.</note>.</s>
 					<s n="18" xml:lang="la" type="auto">Flagitium ingens, ita me deus bene amet, et, ut vereor, immedicabile.</s>
 					<s n="19" xml:lang="la" type="auto">Mitteremus autem legationem nos, quibus cursus ille foelicissimus per deum aeque conducturus est ut principibus<note xml:id="fn11" type="footnote" n="11"><persName>Myconius</persName> spielt auf den erfolgreichen Feldzug Philipps zur Wiedereinsetzung <persName>Herzog Ulrichs</persName> in <placeName>Württemberg</placeName> an.</note>?</s>
 					<s n="20" xml:lang="la" type="auto">Aut iungeremus nos eis, qui hostes sunt principum et omnis eorum actionis hostilissimi?</s>
-					<s n="21" xml:lang="de" type="auto">Wolan, ich kan imm nüt thun; es ist also<note xml:id="fn12" type="footnote" n="12">verstärktes so (<bibl>SI</bibl> I 201).</note> an der zyt!</s>
+					<s n="21" xml:lang="de" type="auto">Wolan, ich kan imm nüt thun; es ist also an der zyt!</s>
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="auto">Fuerunt simul <placeName>Ensheimenses</placeName><note xml:id="fn14" type="footnote" n="14"><placeName>Ensisheimer</placeName>. - <placeName>Ensisheim</placeName>, im Oberelsaß gelegen, Dép. Haut-Rhin, war Sitz der Verwaltung für die vorderösterreichischen Besitzungen im <placeName>Breisgau</placeName> und im <placeName>Elsaß</placeName>.</note> his diebus et <placeName>Enipontani</placeName><note xml:id="fn15" type="footnote" n="15"><placeName>Innsbrucker</placeName>. - <placeName>Innsbruck</placeName> war Sitz der vorderösterreichischen Behörden.</note> sed consilio carentes, omni, atque ita digressi sunt.</s>

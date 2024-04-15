@@ -26,9 +26,9 @@
 					<s n="8" xml:lang="la" type="auto">Falli possum mea coniectura; atque utinam fallar!</s>
 					<s n="9" xml:lang="la" type="auto"><persName>Caesari</persName> nihil fido!</s>
 					<s n="10" xml:lang="la" type="auto">A caesare omne malum expecto!</s>
-					<s n="11" xml:lang="la" type="auto">Rursus autem fido misericordiae divinae<note xml:id="fn8" type="footnote" n="8">Ps 52 (Vulg. 51), 10.</note> et expecto liberationem et omne bonum a domino, qui, ut iustus est et clemens, ita et veracissimus<note xml:id="fn10" type="footnote" n="10">1Joh 5, 20.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Rursus autem fido misericordiae divinae<note xml:id="fn8" type="footnote" n="8">Ps 52 (Vulg. 51), 10.</note> et expecto liberationem et omne bonum a domino,<note xml:id="fn9" type="footnote" n="9">Vgl. Jes 12, 2; 2Kor 9, 8.</note> qui, ut iustus est et clemens, ita et veracissimus<note xml:id="fn10" type="footnote" n="10">1Joh 5, 20.</note>.</s>
 					<s n="12" xml:lang="la" type="auto">Oremus hunc, ut nunquam nos in dubiis hisce rebus deserat<note xml:id="fn11" type="footnote" n="11">Jer 14, 9.</note>!</s>
-					<s n="13" xml:lang="la" type="auto">Hortemur omnes fidei nostrae creditos ad veram fidem et poenitentiam!</s>
+					<s n="13" xml:lang="la" type="auto">Hortemur omnes fidei nostrae creditos ad veram fidem et poenitentiam<note xml:id="fn12" type="footnote" n="12">Vgl. <bibl>HBBW</bibl> XV 674,52-56. 680,26-30.</note>!</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -62,7 +62,7 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="31" xml:lang="la" type="auto"><ptr target="fne" type="footnote" n="e"/>De daemonio Rotvilensi varius est rumor.</s>
+					<s n="31" xml:lang="la" type="auto"><ptr target="fne" type="footnote" n="e"/>De daemonio Rotvilensi varius est rumor<note xml:id="fn38" type="footnote" n="38">Vgl. <ref target="file12426">Nr. 2379</ref> und Anm. 30.</note>.</s>
 					<s n="32" xml:lang="la" type="auto">Ego, cum non curo, nil certi dixero.</s>
 					<s n="33" xml:lang="la" type="auto">De nube ad Cellam<note xml:id="fn39" type="footnote" n="39"><placeName>Radolfzell</placeName>. - Vgl. <ref target="file12426">Nr. 2379</ref>, Anm. 31.</note> ignem vomente nihil audivi.</s>
 				</p>

@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Adeo grata sunt mihi omnia, candidissime Heinrice, quae hactenus ad me misisti<note xml:id="fn2" type="footnote" n="2">Gemeint sind die Briefe und andere Schriften bzw. Bücher, die <persName>Haller</persName> von Bullinger im Laufe der Zeit erhalten hat. Ein Brief Bullingers an <persName>Haller</persName> aus dieser Zeit ist nicht erhalten.</note>, quod gratiora non acceperim nec accepturum me credam, cum ipsa sis anima mea totaque vita.</s>
+					<s n="2" xml:lang="la" type="auto">Adeo grata sunt mihi omnia, candidissime Heinrice, quae hactenus ad me misisti<note xml:id="fn2" type="footnote" n="2">Gemeint sind die Briefe und andere Schriften bzw. Bücher, die <persName>Haller</persName> von Bullinger im Laufe der Zeit erhalten hat. Ein Brief Bullingers an <persName>Haller</persName> aus dieser Zeit ist nicht erhalten.</note>, quod gratiora non acceperim nec accepturum me credam, cum ipsa sis anima mea<note xml:id="fn3" type="footnote" n="3">Vgl. <bibl>Otto</bibl> 25f, Nr. 111.</note> totaque vita.</s>
 					<s n="3" xml:lang="la" type="auto">Adulatores et minus syncęros fratres etiam multos novi pluresque indies experior.</s>
 					<s n="4" xml:lang="la" type="auto">Te cum primis exosculor sic, ut in fratrum amicorumque calculo primas obtineas.</s>
 					<s n="5" xml:lang="la" type="auto">Post te de paucis hoc mihi vere persuadere possum.</s>
@@ -34,7 +34,7 @@
 					<s n="12" xml:lang="la" type="auto">Petieram collationem locorum Deut. 13 [1-5] et 18 [9- 20] de pseudoprophetis occidendis et Math. 13 [30]: «Sinite utraque» etc., ad Titum [3,10]: «Hereticum hominem» etc.<note xml:id="fn5" type="footnote" n="5">Siehe <persName>Hallers</persName> frühere Anfrage in dieser Sache, oben S. 62, 4-63, 17 und Anm. 8.</note>, quam et adhuc a te audire percuperem.</s>
 					<s n="13" xml:lang="la" type="auto">Sic sumus tres<note xml:id="fn6" type="footnote" n="6"><persName>Haller</persName>, <persName>Kolb</persName> und <persName>Megander</persName>, die drei Pfarrer am <placeName>Berner</placeName> Münster.</note>, ut plane confitear, quod parum in conferendis scripturis nos invicem iuvare possimus.</s>
 					<s n="14" xml:lang="la" type="auto"><persName>Franciscus</persName><note xml:id="fn7" type="footnote" n="7"><persName>Franz Kolb</persName>.</note> et ego linguarum dono caremus.</s>
-					<s n="15" xml:lang="la" type="auto">Ille senex iam est et ad internum hominem ędificandum quotidie<pb type="edition" next="84"/> pergit, ego vero, quemadmodum <persName>Eccius</persName> <persName>Zuinglio</persName> improperabat, <foreign xml:lang="de">«ein selbs gwachsner theologus»,</foreign> qui nullis praecęptoribus a multo tempore usus, qui nec studii rationem habuerim nec ullum hominem, cum quo conferrem.</s>
+					<s n="15" xml:lang="la" type="auto">Ille senex iam est et ad internum hominem ędificandum<note xml:id="fn8" type="footnote" n="8">Vgl. Eph 3, 16.</note> quotidie<pb type="edition" next="84"/> pergit, ego vero, quemadmodum <persName>Eccius</persName> <persName>Zuinglio</persName> improperabat, <foreign xml:lang="de">«ein selbs gwachsner theologus»,</foreign> qui nullis praecęptoribus a multo tempore usus, qui nec studii rationem habuerim nec ullum hominem, cum quo conferrem.</s>
 					<s n="16" xml:lang="la" type="auto"><persName>Megander</persName> talis est, qui et iudicium et donum linguarum habet, cęterum sui propositi tam tenax, quod vel contendere cogar vel sine fructu abire.</s>
 				</p>
 				<p>
@@ -50,7 +50,7 @@
 					<s n="26" xml:lang="la" type="auto">Iam dudum ad te scripsi, qui fuerim ab ovo<note xml:id="fn13" type="footnote" n="13">Siehe oben Z. 17-21.</note>.</s>
 					<s n="27" xml:lang="la" type="auto">Repeto nunc denuo, quo pergas eo libentius tua eruditione iuvare me, quemadmodum cępisti.</s>
 					<s n="28" xml:lang="la" type="auto">Quod vero times inter nos<note xml:id="fn14" type="footnote" n="14">Zwischen <persName>Haller</persName> und <persName>Megander</persName>. Zu ihrem gespannten Verhältnis <hi>s. Kirchhofer,</hi> <persName>Haller</persName> 210-212; <bibl>Hundeshagen</bibl> 62-64.</note> ali simultatem, de me sentias nihil simultatis et invidię esse erga ullum mortalium.</s>
-					<s n="29" xml:lang="la" type="auto">Si qui vero ambitione victi suam gloriam quaerunt, cum contemptu saltem nominis mei nihil penitus moror.</s>
+					<s n="29" xml:lang="la" type="auto">Si qui vero ambitione victi suam gloriam quaerunt<note xml:id="fn15" type="footnote" n="15">Vgl. Joh 7, 18.</note>, cum contemptu saltem nominis mei nihil penitus moror.</s>
 					<s n="30" xml:lang="de" type="manual">Es ist mir leid, daß min namm je truckt ist worden<note xml:id="fn16" type="footnote" n="16">Gemeint ist vor allem die Widmung von Bullingers Römerbriefkommentar an <persName>Haller</persName>, oben <ref target="file10217">Nr. 186</ref>, S. 59-61.</note>, <foreign xml:lang="la">nisi aliquando orbi vestigia nominis praestare possem.</foreign></s>
 				</p>
 				<p>
@@ -71,7 +71,7 @@
 					<s n="43" xml:lang="la" type="auto">Nam si alia non scribit, quam quae palam docuit, facile a quoquam iudicari possunt.</s>
 				</p>
 				<p>
-					<s n="44" xml:lang="la" type="auto">Quod vero mihi, qui nihil de te meritus sum, tam egregiam foeturam in Romanorum epistolam nuncupare dignatus es, quando credis gratias me acturum, quas deberem?</s>
+					<s n="44" xml:lang="la" type="auto">Quod vero mihi, qui nihil de te meritus sum, tam egregiam foeturam in Romanorum epistolam nuncupare dignatus es<note xml:id="fn21" type="footnote" n="21">Zu Bullingers Römerbriefkommentar (<bibl>HBBibl</bibl> I 42) und der an <persName>Haller</persName> gerichteten Widmung s. oben <ref target="file10217">Nr. 186</ref>, und S. 59, Anm. 2.</note>, quando credis gratias me acturum, quas deberem?</s>
 					<s n="45" xml:lang="la" type="auto">Quando licebit beneficium hoc compensare, quo animum meum abunde saginasti?</s>
 					<s n="46" xml:lang="la" type="auto">Praeterea in multis, quae pro tenuitate mea attigi, testimonium spiritui meo reddidisti.</s>
 					<s n="47" xml:lang="la" type="auto">Nam 26. februarii huius anni pro contione epistolam eandem finiveram.</s>
@@ -80,7 +80,7 @@
 					<s n="50" xml:lang="la" type="auto">Cum ita nec dignas agere gratias possim nec munus hoc alio simili munere rependere, curabo, ut vel indicium aut testem quantulumcunque gratitudinis accipias.</s>
 					<s n="51" xml:lang="la" type="auto">Id sane confiteor, me piis tuis meditationibus in eandem epistolam plus gaudii accepisse, quod sciam, quantum profuturę sint multis fratribus orbis christiani, quam quod mihi ascribere dignatus sis.</s>
 					<s n="52" xml:lang="la" type="auto">Amor et munificentia est erga me summa, sed donum dei, a quo hęc profecta sunt, longe magis veneror.</s>
-					<s n="53" xml:lang="la" type="auto">In Epistolam Petri promiseras, sed utinam quae in Ioannis evangelium et Thessalonicenses habes, aliquando invulgarentur.</s>
+					<s n="53" xml:lang="la" type="auto">In Epistolam Petri promiseras<note xml:id="fn24" type="footnote" n="24">Bullingers diesbezüglicher Brief ist nicht erhalten. Sein Kommentar zu den Petrusbriefen erschien im März 1534 (<bibl>HBBibl</bibl> I 52).</note>, sed utinam quae in Ioannis evangelium et Thessalonicenses habes, aliquando invulgarentur.</s>
 					<s n="54" xml:lang="la" type="auto">Promittit <persName>Megander</persName> in Epistolam Iacobi, et utinam ita invulgaret<note xml:id="fn26" type="footnote" n="26">Dazu kam es offenbar nicht. Nach der Herausgabe von <persName>Zwinglis</persName> Auslegung des Jakobusbriefes durch Leo Jud (s. unten Anm. 28) verzichtete <persName>Megander</persName> auf die Veröffentlichung seines Kommentars zum Jakobusbrief, s. <persName>Rhellikans</persName> Epistel in <persName>Meganders</persName> Buch «In epistolam Pauli ad Ephesios commentarius...», Basel 1534, S. 239f.</note>, quemadmodum docuit.</s>
 					<s n="55" xml:lang="la" type="auto">Testaretur, quam nimius sit aliquando<pb type="edition" next="86"/> in commendando, cum eandem omnibus epistolis Paulinis praetulerit, nullibique exactius fidei pietatisque rationem descriptam atque in ea.</s>
 					<s n="56" xml:lang="la" type="auto">Item et in Ephesios<note xml:id="fn27" type="footnote" n="27">Siehe die vorige Anmerkung.</note>.</s>
@@ -103,8 +103,8 @@
 					<s n="69" xml:lang="la" type="auto">Cuperemus et nos hunc libellum videre.</s>
 				</p>
 				<p>
-					<s n="70" xml:lang="la" type="auto">Tandem contendit quidam ex nostris<note xml:id="fn36" type="footnote" n="36">Wahrscheinlich <persName>Megander</persName>, vgl. auch die Bemerkung <persName>J. J. Simlers</persName>, aaO.</note> nos esse etiam carnalem Israelem, ad quem spectent promissiones et minę legis et prophetarum, ita quod et nobis liceat, ut intelligas, in Antronios<note xml:id="fn37" type="footnote" n="37">Spottname für <placeName>die V Orte</placeName>, s. oben <ref target="file10214">[Nr. 183]</ref> S. 55, Anm. 10.</note> invehi non secus ac in Cananeos bellorum tumultibus.</s>
-					<s n="71" xml:lang="la" type="auto">Contendit item iudicialia in hodiernum diem nos ligare perperamque factum, quod caesareę leges iis praeferantur, et ita contendit, quasi oraculum attulerit e cęlo.</s>
+					<s n="70" xml:lang="la" type="auto">Tandem contendit quidam ex nostris<note xml:id="fn36" type="footnote" n="36">Wahrscheinlich <persName>Megander</persName>, vgl. auch die Bemerkung <persName>J. J. Simlers</persName>, aaO.</note> nos esse etiam carnalem Israelem, ad quem spectent promissiones et minę legis et prophetarum, ita quod et nobis liceat, ut intelligas, in Antronios<note xml:id="fn37" type="footnote" n="37">Spottname für <placeName>die V Orte</placeName>, s. oben <ref target="file10214">[Nr. 183]</ref> S. 55, Anm. 10.</note> invehi non secus ac in Cananeos bellorum tumultibus<note xml:id="fn38" type="footnote" n="38">Vgl. Dtn 7, 1-5; Ri 1, 1ff. Die Problematik wird von <persName>Haller</persName> im Dezember 1533 nochmals aufgegriffen, s. unten <ref target="file10323">[Nr. 292]</ref> S. 241, 24-242, 57 und 274, 4-275, 18.</note>.</s>
+					<s n="71" xml:lang="la" type="auto">Contendit item iudicialia in hodiernum diem nos ligare perperamque factum, quod caesareę leges iis praeferantur, et ita contendit, quasi oraculum attulerit e cęlo<note xml:id="fn39" type="footnote" n="39">Vgl. Adagia, 1, 7, 90 (<bibl>LB</bibl> II 297f).</note>.</s>
 					<s n="72" xml:lang="la" type="auto">Ceremonias admittit abrogatas et quod sine lege Christus non possit praedicari.</s>
 					<s n="73" xml:lang="la" type="auto">A quo <persName>Capito</persName> in synodo nostra dissentit.</s>
 					<s n="74" xml:lang="la" type="auto">Iam repeto, quod supra precatus sum: Te non<pb type="edition" next="87"/> pęniteat tuum in hac re iudicium indicare.</s>

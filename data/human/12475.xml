@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Tu nescis, quid scribas, et tamen scribis, quae me et docuerunt, quę volui, et delectarunt pulchre.</s>
+					<s n="2" xml:lang="la" type="auto">Tu nescis, quid scribas, et tamen scribis, quae me et docuerunt, quę volui, et delectarunt pulchre<note xml:id="fn1" type="footnote" n="1">Ein nicht erhaltenes Schreiben Bullingers, das dieser schon in <ref target="file12454">Nr. 2407</ref>,14f angekündigt hatte, und dem der von <persName>Johannes Haller</persName> abgeschriebene Brief über die Ermordung von <persName>Juan Diaz</persName> (<ref target="file12453">Nr. 2406</ref>,50-102) beigelegt war; s. unten Z. 6-9.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Ego nescio, quid scribam, et tamen scribo, verum non qualiter tu, sed ut scribam, quicquid id sit.</s>
 				</p>
 			</div>
@@ -43,7 +43,7 @@
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="15" xml:lang="la" type="auto">Protestantes autem, quid proposituri essent in comitiis Badensibus vel ideo nosse desyderavi, quod abituriens legatus noster<note xml:id="fn9" type="footnote" n="9">Der Basler Rats- und Pannerherr <persName>Bernhard Meyer (Meiger) zum Pfeil</persName>, Bruder des damals amtierenden Bürgermeisters <persName>Adelberg Meyer</persName>; s. <bibl>EA</bibl> IV/1d 598.</note> ad me dixerat cęsarem<note xml:id="fn10" type="footnote" n="10"><persName>Karl V.</persName></note> Hesso<note xml:id="fn11" type="footnote" n="11">Landgraf <persName>Philipp von Hessen</persName>.</note> obiicienti venia impetrata respondisse conficta esse omnia, etc<note xml:id="fn12" type="footnote" n="12">Anspielung auf das Treffen von <persName>Karl V.</persName> und <persName>Landgraf Philipp</persName> am 28. und 29. März 1546 in <placeName>Speyer</placeName>; s. <ref target="file12453">Nr. 2406</ref>, Anm. 25.</note>.</s>
-					<s n="16" xml:lang="la" type="auto">Obiecerat autem, quod bellum pararet contra protestantes; quod in hoc inducias confecisset cum Turca<note xml:id="fn13" type="footnote" n="13"><persName>Suleiman I.</persName></note> quinquennales; quod Galli<note xml:id="fn15" type="footnote" n="15"><persName>Franz I.</persName></note> evocaturus esset auxilium vi pacis; quod concilium <placeName>Tridentinum</placeName> impelleret ad condemnationem Lutheranorum, ut commodius ista posset efficere; et tandem quod Coloniensem<note xml:id="fn17" type="footnote" n="17">Erzbischof <persName>Hermann von Wied</persName>.</note> divexarit mandatis gravissimis,<note xml:id="fn18" type="footnote" n="18">Siehe <ref target="file12428">Nr. 2381</ref>,10-17 mit Anm. 11.</note> etc.</s>
+					<s n="16" xml:lang="la" type="auto">Obiecerat autem, quod bellum pararet contra protestantes; quod in hoc inducias confecisset cum Turca<note xml:id="fn13" type="footnote" n="13"><persName>Suleiman I.</persName></note> quinquennales;<note xml:id="fn14" type="footnote" n="14">Zu dem allerdings nicht auf fünf, sondern auf anderthalb Jahre geschlossenen Waffenstillstand s. <bibl>HBBW</bibl> XV 674, Anm. 33.</note> quod Galli<note xml:id="fn15" type="footnote" n="15"><persName>Franz I.</persName></note> evocaturus esset auxilium vi pacis;<note xml:id="fn16" type="footnote" n="16">Anspielung auf den im September 1544 geschlossenen Frieden von <placeName>Crépy-en-Laonnois</placeName>; s. <bibl>HBBW</bibl> XIV 419f, Anm. 8.</note> quod concilium <placeName>Tridentinum</placeName> impelleret ad condemnationem Lutheranorum, ut commodius ista posset efficere; et tandem quod Coloniensem<note xml:id="fn17" type="footnote" n="17">Erzbischof <persName>Hermann von Wied</persName>.</note> divexarit mandatis gravissimis,<note xml:id="fn18" type="footnote" n="18">Siehe <ref target="file12428">Nr. 2381</ref>,10-17 mit Anm. 11.</note> etc.</s>
 					<s n="17" xml:lang="la" type="auto">Breviter bonis verbis obcurrit cęsar.</s>
 					<s n="18" xml:lang="la" type="auto">Ad postremum oportuit, inquit, nos sic tueri honorem nostrum adversus contemptorem<note xml:id="fn19" type="footnote" n="19">Gemeint ist vor allem Erzbischof <persName>Hermann von Wied</persName>.</note> omnium mandatorum, quę miseramus.</s>
 					<s n="19" xml:lang="la" type="auto">Vir imprudens<note xml:id="fn20" type="footnote" n="20"><persName>Karl V.</persName></note> non intellexerat deo magis obediendum quam hominibus,<note xml:id="fn21" type="footnote" n="21">Apg 5, 29.</note> neque hodie intelligit, alioqui papę<note xml:id="fn22" type="footnote" n="22"><persName>Paul III.</persName></note> se non ita devoveret, ut agnosceret se filium sedis apostolicę.</s>
@@ -59,9 +59,9 @@
 				<p>
 					<s n="26" xml:lang="la" type="auto">De concordia fratrum <placeName>Augustanorum</placeName> et ecclesię totius libenter audivi.</s>
 					<s n="27" xml:lang="la" type="auto">Verebar enim, ne ingenia, quę illic novi, se proditura essent ad adventum <persName>Halleri</persName><note xml:id="fn24" type="footnote" n="24">Vermutlich hatte Bullinger in seinem Brief den Zustand der <placeName>Augsburger</placeName> Kirche beschönigt, um <persName>Myconius</persName> zu beruhigen. Vgl. die bei Bullinger später eingetroffene Darstellung <persName>Hallers</persName> in <ref target="file12469">Nr. 2422</ref>,34-38.</note>.</s>
-					<s n="28" xml:lang="la" type="auto">Et succurrebat nihil pestilentius illi reipublicae posse accidere, propter luxus, qui illic est, immanitatem.</s>
+					<s n="28" xml:lang="la" type="auto">Et succurrebat nihil pestilentius illi reipublicae posse accidere, propter luxus, qui illic est, immanitatem<note xml:id="fn25" type="footnote" n="25">Ähnlich hatte <persName>Myconius</persName> sich auch schon früher über <placeName>Augsburg</placeName> geäußert; s. <bibl>HBBW</bibl> XV 569,87f.</note>.</s>
 					<s n="29" xml:lang="la" type="auto">Sed mirum de <persName ref="p6843">Bernhardino</persName><note xml:id="fn26" type="footnote" n="26"><persName>Bernardino Ochino</persName>.</note>, quod <persName>Antonium Fuccherum</persName><note xml:id="fn27" type="footnote" n="27"><persName>Anton Fugger</persName>.</note> ita cepit, quem nullus concionatorum unquam vel movere potuit.</s>
-					<s n="30" xml:lang="la" type="auto">Bene factum, si tantas opes poterit in coelum aliquando subvehere, ut et dominus habeat, quod suis largiatur, hactenus plus nimio tenuibus!</s>
+					<s n="30" xml:lang="la" type="auto">Bene factum, si tantas opes poterit in coelum aliquando subvehere,<note xml:id="fn28" type="footnote" n="28">Vgl. Mt 6, 20.</note> ut et dominus habeat, quod suis largiatur, hactenus plus nimio tenuibus!</s>
 					<s n="31" xml:lang="la" type="auto">Verum extra iocum: Lingua nimirum placet <persName>Antonio</persName> et omnia enunciandi simplicitas sine morsu.</s>
 					<s n="32" xml:lang="la" type="auto">Nam nosti, quam facile tenera ingenia, blandiciis adsueta, abarceantur initio, si durius adloquaris.</s>
 					<s n="33" xml:lang="la" type="auto">Dominus adsit sua gratia, ut sanctificetur nomen eius.</s>
@@ -78,7 +78,7 @@
 				<p>
 					<s n="37" xml:lang="la" type="auto">De Walchis<note xml:id="fn33" type="footnote" n="33">Was Bullinger über Fremde geschrieben hatte, wird in <ref target="file12478">Nr. 2431</ref>,31-33 erörtert.</note> tandem addis.</s>
 					<s n="38" xml:lang="la" type="manual">Non intelligo.</s>
-					<s n="39" xml:lang="la" type="auto">Transierunt his diebus Macedones, duces militum,<placeName>Itali</placeName> quoque et <placeName>Hispani</placeName>, singuli seorsim, nec multi.</s>
+					<s n="39" xml:lang="la" type="auto">Transierunt his diebus Macedones, duces militum,<placeName>Itali</placeName> quoque et <placeName>Hispani</placeName>, singuli seorsim, nec multi<note xml:id="fn35" type="footnote" n="35">Vgl. <bibl>HBBW</bibl> XV 702,97-102.</note>.</s>
 					<s n="40" xml:lang="la" type="auto">Venit et <persName ref="p4920">Maurus</persName><note xml:id="fn36" type="footnote" n="36"><persName>Antoine Morelet du Museau</persName>.</note>, sed in propria.</s>
 					<s n="41" xml:lang="la" type="auto">Emit enim domum in monte divi <persName>Petri</persName>.</s>
 					<s n="42" xml:lang="la" type="auto">Ibi paucis diebus manens iterum abiit.</s>
@@ -90,7 +90,7 @@
 					<s n="46" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
 				</p>
 				<p>
-					<s n="47" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> ne iotam quidem post reditum<note xml:id="fn40" type="footnote" n="40"><persName>Bucer</persName> befand sich am 4. April wieder in <placeName>Straßburg</placeName>; s. <ref target="file12446">Nr. 2399</ref> und Anm. 11.</note> scripsit.</s>
+					<s n="47" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> ne iotam quidem<note xml:id="fn39" type="footnote" n="39">Vgl. <bibl>Adagia</bibl> 1, 8, 3 <hi>(ASD</hi> II/2 234, <ref target="file10741">Nr. 703</ref>).</note> post reditum<note xml:id="fn40" type="footnote" n="40"><persName>Bucer</persName> befand sich am 4. April wieder in <placeName>Straßburg</placeName>; s. <ref target="file12446">Nr. 2399</ref> und Anm. 11.</note> scripsit.</s>
 					<s n="48" xml:lang="la" type="auto">Interim tamen ego implevi hanc chartulam praeter spem.</s>
 				</p>
 				<p>

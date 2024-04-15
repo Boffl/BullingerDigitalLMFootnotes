@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Princeps <placeName>Wirtenbergensis</placeName><note xml:id="fn2" type="footnote" n="2"><persName>Herzog Ulrich von Württemberg</persName>.</note> pronuntiavit contra idola, Bullingere charissime, quamobrem quidam satis turbati sunt; sed vicit veritas.</s>
+					<s n="2" xml:lang="la" type="auto">Princeps <placeName>Wirtenbergensis</placeName><note xml:id="fn2" type="footnote" n="2"><persName>Herzog Ulrich von Württemberg</persName>.</note> pronuntiavit contra idola<note xml:id="fn3" type="footnote" n="3">Vgl. oben <ref target="file11089">Nr. 1046</ref>, 13-15 mit Anm. 10.</note>, Bullingere charissime, quamobrem quidam satis turbati sunt; sed vicit veritas.</s>
 					<s n="3" xml:lang="la" type="auto">Testimonium <placeName>Bernensium</placeName><note xml:id="fn4" type="footnote" n="4">Zum Zeugnis, das der <placeName>Berner</placeName> Rat <persName>Capito</persName> und <persName>Bucer</persName> ausgestellt hatte, s. oben <ref target="file11088">Nr. 1045</ref>, 209-216 mit Anm. 46.</note> legi; quale sit, non iudico.</s>
 					<s n="4" xml:lang="la" type="auto">Satis est nobis, bene convenire illis cum <placeName>Argentinensibus</placeName>; futurum spero, ut tandem finis imponatur istis vexationibus.</s>
 					<s n="5" xml:lang="la" type="manual">Amen.</s>
@@ -25,7 +25,7 @@
 					<s n="7" xml:lang="la" type="auto">Haec ad tuas literas paucis.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">De <persName>Thoma Blarero</persName> age gratias domino; nam convaluit.</s>
+					<s n="8" xml:lang="la" type="auto">De <persName>Thoma Blarero</persName> age gratias domino; nam convaluit<note xml:id="fn8" type="footnote" n="8">Vgl. oben <ref target="file11085">Nr. 1043</ref>, 43.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Salutat te diligenter.</s>
 					<s n="10" xml:lang="de" type="auto">Min bruͦder<note xml:id="fn9" type="footnote" n="9"><persName>Konrad Zwick</persName>.</note> ist verhertet; es gilt ym glich, wie nach ir ym zuͦ redend<note xml:id="fn10" type="footnote" n="10">Ein entsprechender Brief Bullingers an <persName>Konrad Zwick</persName> ist nicht nachweisbar.</note> aber er wils nit, gston, das er vil zuͦgsagt hab<note xml:id="fn12" type="footnote" n="12">Gemeint ist vielleicht das Versprechen, Bullinger in Zürich zu besuchen; vgl. oben <ref target="file11064">Nr. 1022</ref> und <ref target="file11085">Nr. 1043</ref>, 34f.</note>.</s>
 					<s n="11" xml:lang="de" type="auto">Er lat uch ernstlich grutzen.</s>
@@ -38,8 +38,8 @@
 					<s n="18" xml:lang="de" type="auto">Doch so ists nit minder die wil wir des, jungen gunn<note xml:id="fn23" type="footnote" n="23">Gunst, Geneigtheit.</note> vernemend und uns hoch anglegen, das mins bruders kind byzyt und wol underwisen wurdi[nd], so were es uns nit ain klainer dienst, so uns der jung werden möcht<note xml:id="fn25" type="footnote" n="25">wenn wir den jungen Mann bekommen könnten.</note> doch on, uwern verdacht und unwillen, dann wie ich uch schrib, also ists gangen.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">De novitatibus nihil habeo, quam quod precibus tuis commendo Margaritam nostram Blaureriam, qua[e] graviter decumbit.</s>
-					<s n="20" xml:lang="la" type="auto">Ora dominum, ut eam precibus piorum donet, praecipue ecclesiae nostrę.</s>
+					<s n="19" xml:lang="la" type="auto">De novitatibus nihil habeo, quam quod precibus tuis commendo Margaritam nostram Blaureriam, qua[e] graviter decumbit<note xml:id="fn26" type="footnote" n="26">Vgl. <persName>Blarer</persName> BW I 861.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Ora dominum, ut eam precibus piorum donet<note xml:id="fn27" type="footnote" n="27">Vgl. Phlm 22; <persName>Augustin</persName>, De civitate dei 21, 18, 8; 21, 24, 4 (CChr XLVIII 784, 8f bzw. 789, 4f).</note>, praecipue ecclesiae nostrę.</s>
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">Vale, amantissime omnium.</s>

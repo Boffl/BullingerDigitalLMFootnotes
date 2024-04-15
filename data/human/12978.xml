@@ -39,7 +39,7 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="8" xml:lang="de" type="auto">Das hab ich euch, hern burgermaister <persName ref="p5543">Hans Hab</persName> sampt erpietung meiner willigen diensten, nit verhaltenn sollen <ptr target="fna" type="footnote" n="a"/>[mi]t meins [ansa]gens nit hab bergen [w]öllenn.</s>
+					<s n="8" xml:lang="de" type="auto">Das hab ich euch, hern burgermaister <persName ref="p5543">Hans Hab</persName> sampt erpietung<note xml:id="fn9" type="footnote" n="9">Anerbietung. - Am Abfassungstag des vorliegenden Briefes wurde Johannes Haab erneut amtierender Bürgermeister von <placeName>Zürich</placeName>.</note> meiner willigen diensten, nit verhaltenn sollen <ptr target="fna" type="footnote" n="a"/>[mi]t meins [ansa]gens nit hab bergen [w]öllenn.</s>
 					<s n="9" xml:lang="de" type="auto">Datum <placeName>Constantz</placeName>, den tag Johannis anno 1547.</s>
 					<s n="10" xml:lang="la" type="auto"><persName>Schertlin</persName>, ritter, subscripsit.</s>
 				</p>

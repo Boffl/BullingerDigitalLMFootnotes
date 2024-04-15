@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Ich erfar onversechner sach<note xml:id="fn3" type="footnote" n="3">onversechner sach: unerwartet.</note>, das H. Peter Wellenberg hie ist, und kan warliche nitt schriben in solicher yl.</s>
+					<s n="1" xml:lang="de" type="auto">Ich erfar onversechner sach<note xml:id="fn3" type="footnote" n="3">onversechner sach: unerwartet.</note>, das H. Peter Wellenberg<note xml:id="fn4" type="footnote" n="4"><persName>Hans Peter Wellenberg</persName>, in <placeName>Zürich</placeName> ansässig, ein Verwandter <persName>Konrad Zwicks</persName>; s. <bibl>HBBW</bibl> VII 198.</note> hie ist, und kan warliche nitt schriben in solicher yl.</s>
 					<s n="2" xml:lang="de" type="auto">Sorgen, er entgang mir.</s>
 					<s n="3" xml:lang="de" type="auto">Darum in hoͤchster yl.</s>
 				</p>
@@ -63,14 +63,14 @@
 					<s n="21" xml:lang="de" type="auto">Ich hoff zuͦ dem lieben gott, die unsern werden nichts unerbars oder unverantwurtlichs annemen.</s>
 					<s n="22" xml:lang="la" type="auto"><foreign xml:lang="de">Da helffe uns der lieb und truw gott, zuͦ</foreign> quem pro nobis ut sedulo interpelles, per Christum Iesum obsecro et obtestor.</s>
 					<s n="23" xml:lang="de" type="auto">Es darff sin gar wol!</s>
-					<s n="24" xml:lang="de" type="auto">Es steckt nichts guͦts in allen menschenkindern.</s>
+					<s n="24" xml:lang="de" type="auto">Es steckt nichts guͦts in allen menschenkindern.<note xml:id="fn35" type="footnote" n="35">Vgl. Pred 9, 3.</note></s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
 					<s n="25" xml:lang="de" type="auto"><pb type="scan" next="622"/>Es wellend die conjecture ymmer zuͦsammenlouffen und ainander treffen, das der kaiser ouch etwas wider die Aidgnossen im synn habe.</s>
 					<s n="26" xml:lang="de" type="auto">Es hat kurtzverruckter tag<note xml:id="fn37" type="footnote" n="37">kurtzverruckter tag: vor wenigen Tagen.</note> ain fuͤrnemer kaiserischer gesagt: „Es thuͦt denen von <placeName>Costentz</placeName> nitt unnot<note xml:id="fn39" type="footnote" n="39">Es thüt [ihnen] nitt unnot: es hat seinen Grund; es ist nicht umsonst.</note>, das sy nitt glich wie ander in die ussoͤnung bewilligen konnen, dann ir gelegenhait ist darnach.“<note xml:id="fn40" type="footnote" n="40">Als ironische Bemerkung zu verstehen, die auf eine spätere, größere Bedrohung hinweist.</note></s>
-					<s n="27" xml:lang="de" type="auto">Und under ander ursachen hat er ouch gemeldt: „Sollt inen der kaiser zuͦmuͦten, pasß zuͦ geben<note xml:id="fn41" type="footnote" n="41">pasß zü geben: (den kaiserlichen Truppen) Durchgang zu gewähren.</note> wider die Aidgnossen, wurde inen ouch on zwyfel usß vyl ursachen gantz beschwerlich.“</s>
+					<s n="27" xml:lang="de" type="auto">Und under ander ursachen hat er ouch gemeldt: „Sollt inen der kaiser zuͦmuͦten, pasß zuͦ geben<note xml:id="fn41" type="footnote" n="41">pasß zü geben: (den kaiserlichen Truppen) Durchgang zu gewähren.</note> wider die Aidgnossen, wurde inen ouch on zwyfel usß vyl ursachen gantz beschwerlich.“<note xml:id="fn42" type="footnote" n="42">Vgl. <ref target="file12863">Nr. 2814</ref>,1-4; <ref target="file12869">Nr. 2820</ref>,74-81.</note></s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
@@ -81,7 +81,7 @@
 					<s n="31" xml:lang="de" type="auto">Dem sollte er sein mainung eroffnen.</s>
 					<s n="32" xml:lang="de" type="auto">Zuͦ dem hat nun der abbt under anderm gesagt: „Die von <placeName>Costentz</placeName> sechind nun<note xml:id="fn49" type="footnote" n="49">sechind nun: sollen nur aufpassen; nur schauen.</note> und henckind sich nitt an die Schwytzer!</s>
 					<s n="33" xml:lang="de" type="auto">Dann sy<note xml:id="fn50" type="footnote" n="50">die Eidgenossen.</note> haben nieman geholfen.</s>
-					<s n="34" xml:lang="de" type="auto">Im was vor baß.</s>
+					<s n="34" xml:lang="de" type="auto">Im was vor baß.<note xml:id="fn51" type="footnote" n="51">Zu verstehen: Es ging früher [bevor man sich mit den Eidgenossen einließ] besser. - Die <placeName>Konstanzer</placeName> hatten schon vor den 1530er Jahren vergebens versucht, von den Eidgenossen aufgenommen zu werden; s. <hi><placeName>Konstanz</placeName></hi> 116-119.</note></s>
 					<s n="35" xml:lang="de" type="auto">Darzuͦ werden sy selbs ouch nitt unangefochten belyben.“</s>
 					<s n="36" xml:lang="de" type="auto">Nun waist er wol um all anschleg.</s>
 					<s n="37" xml:lang="de" type="auto">Er ist ouch yetz ain kaiserlicher comissarius in den oberlendischen stetten.</s>
@@ -113,7 +113,7 @@
 					<s n="55" xml:lang="de" type="auto">Was aber sein fuͤrnemen<note xml:id="fn66" type="footnote" n="66">Vorhaben, Absicht.</note> gewesen, lasst man nieman wissen.</s>
 					<s n="56" xml:lang="de" type="auto">Allain gibt man fuͤr, er hab zuͦ seinem vatter dem konig<note xml:id="fn67" type="footnote" n="67"><persName>Ferdinand I.</persName></note> gewellt und inn klagen um die muͦtter.<note xml:id="fn68" type="footnote" n="68"><persName>Anna Jagiello</persName> von Böhmen und Ungarn, die am 27. Januar verstorben war.</note></s>
 					<s n="57" xml:lang="de" type="auto">Aber das rympt sich gar nitt uff das brieffli, wie ir merckt.</s>
-					<s n="58" xml:lang="de" type="auto">Man hat vyl und mancherlay rechnung<note xml:id="fn69" type="footnote" n="69">Überlegung, Erwägung; s. <bibl>SI</bibl> VI 131.</note> daruff und sonderlich aber, diewyl er wisse, das diser nitt der recht kaiser seye, hab er nitt wellen nach moͤgen lenger da sein.</s>
+					<s n="58" xml:lang="de" type="auto">Man hat vyl und mancherlay rechnung daruff und sonderlich aber, diewyl er wisse, das diser nitt der recht kaiser seye, hab er nitt wellen nach moͤgen lenger da sein.</s>
 				</p>
 			</div>
 			<div xml:id="div12" corresp="regest12">
@@ -124,7 +124,7 @@
 			</div>
 			<div xml:id="div13" corresp="regest13">
 				<p>
-					<s n="61" xml:lang="de" type="auto">Der Stadelman<note xml:id="fn74" type="footnote" n="74"><persName>Hans Stadelmann</persName>.</note> ist wendig worden<note xml:id="fn75" type="footnote" n="75">wendig worden: zurückgekehrt.</note>, dann sin sach sonst<note xml:id="fn76" type="footnote" n="76">auf andere Weise; s. <bibl>SI</bibl> VII 1395. - Zur Sache s. <ref target="file12853">Nr. 2804</ref>.</note> ussgericht<note xml:id="fn77" type="footnote" n="77">geregelt; s. <bibl>Fischer</bibl> I 499. - Siehe dazu die nächste Anm.</note> worden.</s>
+					<s n="61" xml:lang="de" type="auto">Der Stadelman<note xml:id="fn74" type="footnote" n="74"><persName>Hans Stadelmann</persName>.</note> ist wendig worden<note xml:id="fn75" type="footnote" n="75">wendig worden: zurückgekehrt.</note>, dann sin sach sonst ussgericht<note xml:id="fn77" type="footnote" n="77">geregelt; s. <bibl>Fischer</bibl> I 499. - Siehe dazu die nächste Anm.</note> worden.</s>
 					<s n="62" xml:lang="de" type="auto">Bringt mir yetz den brieff.</s>
 					<s n="63" xml:lang="de" type="auto">Schick ich euch nichts dest weniger.</s>
 					<s n="64" xml:lang="de" type="auto">Hab euch sonst ouch naiswas zeytung darinn geschriben.</s>

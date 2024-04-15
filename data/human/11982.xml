@@ -22,8 +22,8 @@
 					<s n="4" xml:lang="la" type="auto">Quod quia nunc non facio, quęso, ut boni consulas, quęrendi nanque non erat ocium.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Monachum abs te commendatum octo diebus integris fovi.</s>
-					<s n="6" xml:lang="la" type="auto">Exutum eleemosynarii nostri ad tempus volebant recipere ad Augustinios; verum id quia non placuit, <placeName>Bernam</placeName> dimisimus.</s>
+					<s n="5" xml:lang="la" type="auto">Monachum abs te commendatum<note xml:id="fn3" type="footnote" n="3">Unbekannt. Bullingers Empfehlungsschreiben ist nicht erhalten. Der Mönch wird auch in Bullingers Antwort an <persName>Myconius</persName> vom 12. Juli (unten <ref target="file11988">Nr. 1941</ref>) erwähnt.</note> octo diebus integris fovi.</s>
+					<s n="6" xml:lang="la" type="auto">Exutum eleemosynarii nostri ad tempus volebant recipere ad Augustinios<note xml:id="fn4" type="footnote" n="4">D.h. im Augustinerkollegium.</note>; verum id quia non placuit, <placeName>Bernam</placeName> dimisimus.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Commendo iterum tibi <persName>Ioannem Fabricium</persName><note xml:id="fn5" type="footnote" n="5"><persName>Johannes Fabricius (Hans Schmid)</persName>; s. oben <ref target="file11963">Nr. 1916</ref> mit Anm. 1.</note>, nam intelligo commendatos tibi nemini non commendatos.</s>
@@ -42,7 +42,7 @@
 					<s n="16" xml:lang="la" type="auto">Quid magistratus sit facturus, nescio.</s>
 					<s n="17" xml:lang="la" type="auto">Andernacus medicus<note xml:id="fn7" type="footnote" n="7">Zu <persName>Johannes Winter</persName> s. oben <ref target="file11929">Nr. 1883</ref>, Anm. 18.</note> et <persName>Velsius</persName>, vir doctissimus, <placeName>Lovanio</placeName> eiecti nunc sunt <placeName>Argentinę</placeName>.</s>
 					<s n="18" xml:lang="la" type="auto">Probatur hinc fides caesaris<note xml:id="fn9" type="footnote" n="9"><persName>Kaiser Karl V.</persName></note>, quicquid de pace dicatur religionis.</s>
-					<s n="19" xml:lang="la" type="auto">Si ille victor fuerit contra Gallum, Coronę<note xml:id="fn11" type="footnote" n="11">In Kronstadt (<placeName>Siebenbürgen</placeName>).</note> malim esse inter Turcas cum Hentzio<note xml:id="fn13" type="footnote" n="13"><persName>Martin Hentius</persName>.</note><pb type="edition" next="297"/> quam in Germania.</s>
+					<s n="19" xml:lang="la" type="auto">Si ille victor fuerit contra Gallum<note xml:id="fn10" type="footnote" n="10"><persName>König Franz I.</persName>; er hatte <persName>Kaiser Karl V.</persName> am 12. Juli 1542 den Krieg erklärt; s. <bibl>HBBW</bibl> XII <ref target="file11686">[Nr. 1643]</ref> 115, Anm. 71.</note>, Coronę<note xml:id="fn11" type="footnote" n="11">In Kronstadt (<placeName>Siebenbürgen</placeName>).</note> malim esse inter Turcas cum Hentzio<note xml:id="fn13" type="footnote" n="13"><persName>Martin Hentius</persName>.</note><pb type="edition" next="297"/> quam in Germania.</s>
 					<s n="20" xml:lang="la" type="auto">Augeat deus in nobis spiritum suum.</s>
 					<s n="21" xml:lang="la" type="manual">Amen.</s>
 					<s n="22" xml:lang="la" type="auto">Vale cum tuis in domino.</s>

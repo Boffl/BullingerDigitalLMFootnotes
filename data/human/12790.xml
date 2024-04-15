@@ -30,7 +30,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="6" xml:lang="la" type="auto">Cogitatur iam apud nos de transactione sive potius turpi dedicione, qualem <placeName>Ulmenses</placeName> invenerunt.</s>
-					<s n="7" xml:lang="la" type="auto">Primores nostri omnem exuerunt virilitatem, precipue vero is, cui tua sacrosancta dedicasti.</s>
+					<s n="7" xml:lang="la" type="auto">Primores nostri omnem exuerunt virilitatem, precipue vero is, cui tua sacrosancta dedicasti.<note xml:id="fn6" type="footnote" n="6"><persName>Hans Welser</persName>, <placeName>Augsburger</placeName> Bürgermeister, dem Bullinger im August 1546 seinen Lukaskommentar gewidmet hatte; s. <bibl>HBBW</bibl> XVII, <ref target="file12592">Nr. 2545</ref>.</note></s>
 					<s n="8" xml:lang="la" type="auto">Senatus vero et populus iugum fortiter recusat.</s>
 					<s n="9" xml:lang="la" type="auto">Hinc timendum erit, ne ex contrariis consultationibus tumultus oriatur.</s>
 				</p>
@@ -45,7 +45,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="13" xml:lang="la" type="auto">Princeps Saxonię elector<note xml:id="fn7" type="footnote" n="7"><persName>Johann Friedrich I. von Sachsen</persName>.</note> intravit diciones suas recuperaturus atque, ut audio, fere singulas recepit.</s>
-					<s n="14" xml:lang="la" type="auto"><persName>Landgravius</persName><note xml:id="fn8" type="footnote" n="8"><persName>Philipp von Hessen</persName>.</note> cum comite a <persName>Buren</persName><note xml:id="fn9" type="footnote" n="9"><persName>Maximilian von Egmont</persName>, Graf von Büren.</note>, qui in agrum Cattorum irrupit, negotium habet.</s>
+					<s n="14" xml:lang="la" type="auto"><persName>Landgravius</persName><note xml:id="fn8" type="footnote" n="8"><persName>Philipp von Hessen</persName>.</note> cum comite a <persName>Buren</persName><note xml:id="fn9" type="footnote" n="9"><persName>Maximilian von Egmont</persName>, Graf von Büren.</note>, qui in agrum Cattorum<note xml:id="fn10" type="footnote" n="10"><placeName>Hessen</placeName>. -Zum Einmarsch von Bürens in <placeName>Hessen</placeName> im Dezember 1546 s. <bibl>HBBW</bibl> XVIII 375, Anm. 21; <bibl>PC</bibl> IVII, <ref target="file10555">Nr. 519</ref> (Brief <persName>Philipps von Hessen</persName> vom 7. Januar 1547).</note> irrupit, negotium habet.</s>
 					<s n="15" xml:lang="la" type="auto">Qua autem fortuna utatur, nescio.</s>
 					<s n="16" xml:lang="la" type="auto">Nullas enim amplius literas a nostris principibus habere possumus; adeo omnes vię sunt perclusę!</s>
 				</p>
@@ -54,7 +54,7 @@
 				<p>
 					<s n="17" xml:lang="la" type="auto"><persName>Hallerus</persName> valet et est multum sollicitus.</s>
 					<s n="18" xml:lang="la" type="auto">Ego ipsum solor, quantum possum.</s>
-					<s n="19" xml:lang="la" type="auto">Si domino ita visum esset, ut ego cum vestris concionatoribus<note xml:id="fn11" type="footnote" n="11">Gemeint sind die aus Zürich stammenden, in <placeName>Augsburg</placeName> wirkenden Pfarrer <persName>Johannes Haller</persName>, <persName>Lorenz Meyer (Agricola)</persName>, <persName>(Hans) Thoman Ruman (Römer)</persName> und <persName>Rudolf Schwyzer d.Ä.</persName></note>, quando contingeret magistratum nostrum impias conditiones cum cesare<note xml:id="fn12" type="footnote" n="12"><persName>Karl V.</persName></note> inire (quod deus avertat), Tigurum concederem exulatum, bene mecum comparatum esse censerem.</s>
+					<s n="19" xml:lang="la" type="auto">Si domino ita visum esset, ut ego cum vestris concionatoribus<note xml:id="fn11" type="footnote" n="11">Gemeint sind die aus Zürich stammenden, in <placeName>Augsburg</placeName> wirkenden Pfarrer <persName>Johannes Haller</persName>, <persName>Lorenz Meyer (Agricola)</persName>, <persName>(Hans) Thoman Ruman (Römer)</persName> und <persName>Rudolf Schwyzer d.Ä.</persName></note>, quando contingeret magistratum nostrum impias conditiones cum cesare<note xml:id="fn12" type="footnote" n="12"><persName>Karl V.</persName></note> inire (quod deus avertat), Tigurum concederem exulatum,<note xml:id="fn13" type="footnote" n="13">Vgl. dazu auch <persName>Hallers</persName> Bemerkung in <ref target="file12793">Nr. 2744</ref>,53-55.</note> bene mecum comparatum esse censerem.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">

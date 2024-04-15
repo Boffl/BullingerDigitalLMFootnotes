@@ -35,7 +35,7 @@
 					<s n="13" xml:lang="la" type="auto">Una spes hic mihi est: Non diutius ita fore.</s>
 					<s n="14" xml:lang="la" type="auto">Sed interea fiunt latrocinia, incendia, stuprationes et alia mala, quod dolendum propter eos, qui patiuntur.</s>
 					<s n="15" xml:lang="la" type="auto">Nam eadem debent esse nobis veluti stimulus<note xml:id="fn15" type="footnote" n="15">Anspielung auf Lk 21, 28.</note> ad precandum et ad vitam emendandam.</s>
-					<s n="16" xml:lang="la" type="auto">Adeo vero, dum stuprationes illas violentas audio, exhorresco, ut fide plaenus dicam apud me: Haud feret dominus!</s>
+					<s n="16" xml:lang="la" type="auto">Adeo vero, dum stuprationes illas violentas<note xml:id="fn16" type="footnote" n="16">Anspielung auf die Misshandlungen der Frauen in <placeName>Neuburg</placeName> ad. Donau unter Bezug auf Bullingers Mitteilungen in <bibl>HBBW</bibl> XVII 513,3-6, und <ref target="file12654">Nr. 2607</ref>.3 1f.</note> audio, exhorresco, ut fide plaenus dicam apud me: Haud feret dominus!</s>
 					<s n="17" xml:lang="la" type="auto">Fuit hic vir nobilis, non nostras, qui narravit Neoburgi<note xml:id="fn18" type="footnote" n="18"><placeName>Neuburg</placeName> ad. Donau.</note> concionatorem senem ab <placeName>Hispanis</placeName> comprehensum (duos enim evasisse) et super mensam ligatum exectis pudendis acutissimis, quales gerunt, pugionibus tamdiu stimulatum, dum animam exhalarit.</s>
 					<s n="18" xml:lang="la" type="auto">Habemus exemplum tyrannidis et crudelitatis <placeName>Hispanicę</placeName> contra ministros Christi.<pb type="edition" next="133"/></s>
 				</p>
@@ -50,7 +50,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="23" xml:lang="la" type="auto">Nescio, si hoc noris: Audivi ex ore tabellionis nostratis, qui nudiusquintus<note xml:id="fn29" type="footnote" n="29">Am 10. Oktober. Aus <bibl>PC</bibl> aaO geht aber hervor, dass der Bote sich schon am 9. Oktober in <placeName>Basel</placeName> befand.</note> venit ex <placeName>Mediolano</placeName>, se vidisse et audisse aeneatorem<note xml:id="fn30" type="footnote" n="30">Trompeter (offizieller Bote); s. <bibl>Kirsch</bibl> 82. - Unbekannt.</note> per totam urbem pronunciasse, ut omnia bona, quę per ducatum <placeName>Mediolanensem</placeName> pertineant ad papam<note xml:id="fn31" type="footnote" n="31"><persName>Paul III.</persName></note>, in cameram inferantur cęsaream sub poena gravi.</s>
+					<s n="23" xml:lang="la" type="auto">Nescio, si hoc noris: Audivi ex ore tabellionis nostratis<note xml:id="fn28" type="footnote" n="28">Unbekannt. - Siehe <bibl>PC</bibl> IV/1 431, <ref target="file10440">Nr. 405</ref>, wo diese Angelegenheit ausführlich beschrieben ist.</note>, qui nudiusquintus<note xml:id="fn29" type="footnote" n="29">Am 10. Oktober. Aus <bibl>PC</bibl> aaO geht aber hervor, dass der Bote sich schon am 9. Oktober in <placeName>Basel</placeName> befand.</note> venit ex <placeName>Mediolano</placeName>, se vidisse et audisse aeneatorem<note xml:id="fn30" type="footnote" n="30">Trompeter (offizieller Bote); s. <bibl>Kirsch</bibl> 82. - Unbekannt.</note> per totam urbem pronunciasse, ut omnia bona, quę per ducatum <placeName>Mediolanensem</placeName> pertineant ad papam<note xml:id="fn31" type="footnote" n="31"><persName>Paul III.</persName></note>, in cameram inferantur cęsaream sub poena gravi.</s>
 					<s n="24" xml:lang="la" type="auto">Adiecit causam: Papam promisisse 12000 peditum et mille equitum suis expensis.</s>
 					<s n="25" xml:lang="la" type="auto">Hactenus tamen ne teruncium<note xml:id="fn32" type="footnote" n="32">ne teruncium: sprichwörtlich: nicht einen Heller; vgl. <hi><persName>Cicero</persName>,</hi> Epistulae ad Atticum, 6,2,4.</note> solvisse.</s>
 					<s n="26" xml:lang="la" type="auto">Ego vero: Salva res cacodęmonibus inter se invicem depilantibus!</s>
@@ -59,7 +59,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="27" xml:lang="la" type="auto">De Francis equitibus<note xml:id="fn33" type="footnote" n="33">Die fränkischen Ritter; s. <ref target="file12654">Nr. 2607</ref>,24 mit Anm. 33.</note> Francum nobilem rogavi, qui respondit meliorem partem esse apud Saxonem<note xml:id="fn35" type="footnote" n="35">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> et Hessum.<note xml:id="fn36" type="footnote" n="36">Landgraf <persName>Philipp von Hessen</persName>.</note></s>
-					<s n="28" xml:lang="la" type="auto">Wirtzburgensem<note xml:id="fn37" type="footnote" n="37"><persName>Melchior Zobel</persName>, Bischof von Würzburg.</note> suos misisse iam pridem.</s>
+					<s n="28" xml:lang="la" type="auto">Wirtzburgensem<note xml:id="fn37" type="footnote" n="37"><persName>Melchior Zobel</persName>, Bischof von Würzburg.</note> suos misisse<note xml:id="fn38" type="footnote" n="38">Nämlich dem Kaiser; s. <bibl>HBBW</bibl> XVII 467,34-36.</note> iam pridem.</s>
 					<s n="29" xml:lang="la" type="auto">Qui domi sint, tales esse, ut capita non facile gladiis submittant.</s>
 				</p>
 			</div>

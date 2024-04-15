@@ -26,7 +26,7 @@
 					<s n="6" xml:lang="la" type="auto">Quatenus civitates<note xml:id="fn10" type="footnote" n="10">Die evangelischen Städte, vor allem <placeName>Bern</placeName> und Zürich, s. oben <ref target="file10085">[Nr. 56]</ref> S. 32, Anm. 29.</note> componantur, laborat <persName>Megander</persName> tum apud vos tum apud <placeName>Schaffhusanos</placeName> per <persName>Erasmum</persName><note xml:id="fn11" type="footnote" n="11"><persName>Erasmus Ritter</persName>.</note>, sed quantum hactenus promoverit, compertum non habeo.</s>
 					<s n="7" xml:lang="la" type="auto">Sua enim silentio premit, nec nisi quae nulla honestate celare potest, communicat.</s>
 					<s n="8" xml:lang="la" type="auto"><persName ref="p2305">Leoni</persName> multoties et vicissim ipse scribit<note xml:id="fn12" type="footnote" n="12">Nicht erhalten.</note>, ad te credo nunquam.</s>
-					<s n="9" xml:lang="la" type="auto">Nam ut homines affectibus obnoxii sumus, vereor, ne gloriam (quae domini est), quam apud tuos et nostros habeas, invideat.</s>
+					<s n="9" xml:lang="la" type="auto">Nam ut homines affectibus obnoxii sumus, vereor, ne gloriam (quae domini est<note xml:id="fn13" type="footnote" n="13">Vgl. u. a. 1 Chr 29, 11f; Mt 6,13.</note>), quam apud tuos et nostros habeas, invideat.</s>
 					<s n="10" xml:lang="la" type="auto">Sed sit et hoc meum carnis iudicium, perversum scilicet.</s>
 					<s n="11" xml:lang="la" type="auto">Vellem ego primam haberet auctoritatem coram magistratu et plebe.</s>
 					<s n="12" xml:lang="la" type="auto">Quam vix recuperabit, quantumvis alium nunc agat pro contionibus.</s>
@@ -38,8 +38,8 @@
 					<s n="16" xml:lang="la" type="auto">Consensit senatus, sed ut redeat<note xml:id="fn14" type="footnote" n="14"><persName>Jakob Otter</persName> nahm die Berufung nach <placeName>Augsburg</placeName> wegen dieser obrigkeitlichen Bedingung nicht an, s. <bibl>Blarer BW</bibl> I 336.</note>.</s>
 					<s n="17" xml:lang="la" type="auto"><placeName>Augustam</placeName> reliquit <persName>Capito</persName> iam dudum <placeName>Ulmę</placeName> <persName>Otherum</persName> expectans<note xml:id="fn15" type="footnote" n="15">Zu <persName>Wolfgang Capitos</persName> Reiseroute s. oben <ref target="file10101">[Nr. 72]</ref> S. 66, Anm. 6.</note>.</s>
 					<s n="18" xml:lang="la" type="auto">Ex cuius literis<note xml:id="fn16" type="footnote" n="16">Nicht erhalten.</note> intellexi lutheranos plus negocii nobis facturos quam papistas.</s>
-					<s n="19" xml:lang="la" type="auto">Maius piaculum praedicant nostris communicare sacramentis quam papistarum.</s>
-					<s n="20" xml:lang="la" type="auto">Reperit <placeName>Augustae</placeName> saducęorum sectam de resurrectione pessime sentientem<note xml:id="fn19" type="footnote" n="19">Über diese Sekte ist nichts weiter bekannt.</note> nihilque aliud ad nos quam quod et ad te scripsit<note xml:id="fn20" type="footnote" n="20">Oben Nr. 72.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Maius piaculum praedicant nostris communicare sacramentis quam papistarum<note xml:id="fn17" type="footnote" n="17">Vgl. <hi>Baum 487f; Köhler,</hi> ZL II 281.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Reperit <placeName>Augustae</placeName> saducęorum<note xml:id="fn18" type="footnote" n="18">Vgl. Mt 22,23ff; Apg 23,6ff.</note> sectam de resurrectione pessime sentientem<note xml:id="fn19" type="footnote" n="19">Über diese Sekte ist nichts weiter bekannt.</note> nihilque aliud ad nos quam quod et ad te scripsit<note xml:id="fn20" type="footnote" n="20">Oben Nr. 72.</note>.</s>
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">Quod de Romanorum epistola scribis, planam scilicet, modo plane et pure tractetur, interim addis paucos vel nullos hoc attigisse, ecce, quid ego ex ea assequar.</s>
@@ -48,7 +48,7 @@
 					<s n="24" xml:lang="la" type="auto">Hic cum putarem me aliquid assecuturum - sed parum admodum.</s>
 					<s n="25" xml:lang="la" type="auto">Quae omnia epistolam hanc ferme mihi desperatam relinquunt.</s>
 					<s n="26" xml:lang="la" type="auto">Sed placet, quod tu polliceris in novum testamentum, saltem in Paulum, praestares.</s>
-					<s n="27" xml:lang="de" type="auto">Allein lass dich die trucker nitt überilen<note xml:id="fn23" type="footnote" n="23">zu übermäßiger Eile antreiben (<bibl>SI</bibl> I 179).</note>.</s>
+					<s n="27" xml:lang="de" type="auto">Allein lass dich die trucker nitt überilen.</s>
 				</p>
 				<p>
 					<s n="28" xml:lang="la" type="auto">Orationem de functione prophetica<note xml:id="fn24" type="footnote" n="24">Siehe oben S. 41, Anm. 1.</note> pellegi, non sine fructu.</s>
@@ -58,14 +58,14 @@
 					<s n="32" xml:lang="la" type="auto">Immo pro contione dicebatur eos esse pseudoprophetas, qui praedicarent evangelium, id est «Sic deus dilexit mundum» [Joh 3,16], et non tam dire inveherentur in omnes.</s>
 					<s n="33" xml:lang="la" type="auto">Satisfactum est conscientiae meae.</s>
 					<s n="34" xml:lang="la" type="auto">Sinam alios furere, debachari et stomachari.</s>
-					<s n="35" xml:lang="la" type="auto">Ego, quicquid cum lenitate possum, attentabo, sale tamen suo non neglecto.</s>
+					<s n="35" xml:lang="la" type="auto">Ego, quicquid cum lenitate possum, attentabo, sale tamen suo non neglecto<note xml:id="fn26" type="footnote" n="26">Vgl. Adagia, 1,1,2 (<bibl>LB</bibl> II 23 E).</note>.</s>
 				</p>
 				<p>
 					<s n="36" xml:lang="la" type="auto">Quę in Ioannem dedisti<note xml:id="fn27" type="footnote" n="27">Siehe oben S. 57, Anm. 19.</note>, absoluta sunt, brevia, locorum genuinum sensum plausibiliter adeo aperiunt, ut ipse de me mirari cogar, quare aliquot locos obscuriores censuerim, quos tu luce clariores ostendis.</s>
 					<s n="37" xml:lang="la" type="auto">Iudicium tuum de testimonio aquę, sanguinis et spiritus<note xml:id="fn28" type="footnote" n="28">1 Joh 5,6ff.</note> arridet, et primus es, apud quem tam facilem et apertum reperio sensum.</s>
 					<s n="38" xml:lang="la" type="auto">Certe nisi extorsisses, iudicium meum non dedissem, quod iam dudum putarem apud te indubitatum, quantę sis apud me auctoritatis, quantum mihi tuus arrideat genius.</s>
 					<s n="39" xml:lang="la" type="auto">Acervatim fratres emunt apud nos, quae a te prodeunt.</s>
-					<s n="40" xml:lang="la" type="auto">Expectant item tanto etiam desiderio, quae <persName>Pellicanus</persName> parturit.</s>
+					<s n="40" xml:lang="la" type="auto">Expectant item tanto etiam desiderio, quae <persName>Pellicanus</persName> parturit<note xml:id="fn29" type="footnote" n="29">Vgl. oben S. 46, Anm. 17.</note>.</s>
 					<s n="41" xml:lang="la" type="auto"><persName>Megander</persName> noster nullorum annotationes aut spiritus legere dignatur.</s>
 					<s n="42" xml:lang="la" type="auto">Omnia respuit, nisi quae a <persName>Zuinglio</persName> sunt, admittat.</s>
 					<s n="43" xml:lang="la" type="auto">Hinc etiam mirabile iudicium et inconsideratum in multis effutit.</s>
@@ -76,7 +76,7 @@
 				</p>
 				<p>
 					<s n="48" xml:lang="la" type="auto">Interim ora deum, ne ministerium nostrum irritum fiat, et labora mature diligenterque in Hebręis<note xml:id="fn33" type="footnote" n="33">Siehe unten S. 167, Anm. 6.</note>.</s>
-					<s n="49" xml:lang="de" type="auto">Eins lit mir träffelich an<note xml:id="fn34" type="footnote" n="34">liegt mir besonders am Herzen (<bibl>SI</bibl> III 1210).</note>:</s> 
+					<s n="49" xml:lang="de" type="auto">Eins lit mir träffelich an:</s> 
 					<s n="50" xml:lang="la" type="manual">Nescio cogitabundus excogitare, quo pacto catechismum iuventuti urbis nostrę instituamus<note xml:id="fn35" type="footnote" n="35">Zum Katechismusunterricht in <placeName>Bern</placeName> s. <bibl>Guggisberg</bibl> 164f.</note>.</s>
 					<s n="51" xml:lang="la" type="auto">Videmus eos palam<pb type="edition" next="86"/> neglegi, utcunque exhortemur ad piam sanctamque educationem, nec scio, ut apud vos hec sint institute.</s>
 					<s n="52" xml:lang="de" type="auto">In summa: je meer ich schrib, je mer mir zuͤfalt<note xml:id="fn37" type="footnote" n="37">fällt mir ein.</note>.</s>
@@ -94,7 +94,7 @@
 					<s n="58" xml:lang="la" type="auto">Tuus Berch. H.</s>
 				</p>
 				<p>
-					<s n="59" xml:lang="la" type="auto">Sępius scribas Tilmanno, ut totus revocetur, item et Hagio.</s>
+					<s n="59" xml:lang="la" type="auto">Sępius scribas Tilmanno, ut totus revocetur<note xml:id="fn39" type="footnote" n="39">Diese Bemerkung scheint auf eine Schwankung oder Unsicherheit des Seckelmeisters <persName>Bernhard Tillmann</persName> im Frühjahr 1532 hinzudeuten. Durch Bullinger soll er nun offenbar in seiner reformationsfreundlichen Haltung wieder bestärkt werden, vgl. auch unten S. 91,18-20 und noch <bibl>Feller</bibl> II 328f und <hi>Guggisberg 195.</hi></note>, item et Hagio.</s>
 					<s n="60" xml:lang="la" type="auto"><persName>Zuinglius</persName><note xml:id="fn40" type="footnote" n="40"><persName>Wilhelm Zwingli</persName>, s. oben <ref target="file10092">[Nr. 63]</ref> S. 47, Anm. 25.</note> optime valet nobis omnibus commendatissimus.</s>
 					<s n="61" xml:lang="la" type="auto">Cuius matrem<note xml:id="fn41" type="footnote" n="41"><persName>Anna Zwingli, geb. Reinhart</persName>.</note> salutabis, <persName>Pellicanum</persName>, <persName ref="p2305">Leonem</persName>, <persName>Carolstadium</persName> et alios.</s>
 				</p>

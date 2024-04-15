@@ -29,15 +29,15 @@
 					<s n="7" xml:lang="de" type="manual">„Sy<note xml:id="fn5" type="footnote" n="5">Gemeint sind die Kaiserlichen.</note> habent zwegen bracht, das under das mel ist kalch gethon.</s>
 					<s n="8" xml:lang="de" type="auto">Deßhalb der knechten vil gstorben, die dasselb brott hand gessen.</s>
 					<s n="9" xml:lang="de" type="auto">Ettlich sind ufgeloffen und gschwollen.</s>
-					<s n="10" xml:lang="de" type="auto">Item sy vergiften inen die wasser und brunnen, darob man ettliche tütsche bößwicht gfunden.“</s>
+					<s n="10" xml:lang="de" type="auto">Item sy vergiften inen die wasser und brunnen,<note xml:id="fn8" type="footnote" n="8">Vgl. schon <bibl>HBBW</bibl> XVII 409, Anm. 2; 430, Anm. 72; 437, Anm. 68 und 74; 456, Anm. 12.</note> darob man ettliche tütsche bößwicht gfunden.“</s>
 					<s n="11" xml:lang="de" type="auto">Er schribt ouch, „das der tütsch meister von Preussen vordrigs tags zuͦ den unseren<note xml:id="fn11" type="footnote" n="11">den Schmalkaldenern.</note> geschickt hab 2000 reisiger und 4000 knecht.</s>
 					<s n="12" xml:lang="de" type="auto">Landgraf<note xml:id="fn13" type="footnote" n="13"><persName>Philipp von Hessen</persName>.</note> hett ein brugg gmacht über die Duͦnow, das<note xml:id="fn14" type="footnote" n="14">weil; s. <hi>FNHDW</hi> VII 246, Nr. 5.</note> sy verhoffen, bald zesamen zkomen.<note xml:id="fn15" type="footnote" n="15">zesamen zkomen: aufeinander zu stoßen.</note></s>
 					<s n="13" xml:lang="de" type="auto">Grosse scharmutzel thuͦt man alle tag, das zuͦ verwundern.</s>
-					<s n="14" xml:lang="de" type="auto">Graff <persName>Wilhelm</persName> ist schon imm leger.</s>
+					<s n="14" xml:lang="de" type="auto">Graff <persName>Wilhelm</persName><note xml:id="fn16" type="footnote" n="16">Gemeint ist <persName>Wilhelm von Fürstenberg</persName>; vgl. <bibl>HBBW</bibl> XVII 497,136, mit Anm. 95; <ref target="file12659">Nr. 2612</ref>,82-84.</note> ist schon imm leger.</s>
 					<s n="15" xml:lang="de" type="auto">Im leger ists wolfeil.<note xml:id="fn17" type="footnote" n="17">Anspielung auf die relativ günstige Versorgung mit Lebensmitteln im Lager der Schmalkaldener; s. <ref target="file12654">Nr. 2607</ref>,16-18.</note></s>
 					<s n="16" xml:lang="de" type="auto">Die pestis ist under den keyserischen.</s>
-					<s n="17" xml:lang="de" type="auto">Und louffen die <placeName>Italianer</placeName> und Spanier hinweg mit gantzen huffen, und kan sy der keyser<note xml:id="fn18" type="footnote" n="18"><persName>Karl V.</persName></note> nit bhan.<note xml:id="fn19" type="footnote" n="19">zurückhalten; s. <bibl>SI</bibl> II 918.</note></s>
-					<s n="18" xml:lang="de" type="auto">Ladt<note xml:id="fn20" type="footnote" n="20">lässt; s. <bibl>SI</bibl> III 1393.</note> alle die, so er ergretscht<note xml:id="fn21" type="footnote" n="21">erwischt; s. <hi>.SI</hi> II 829f. - Siehe dazu <ref target="file12659">Nr. 2612</ref>,76-80.</note>, hencken.</s>
+					<s n="17" xml:lang="de" type="auto">Und louffen die <placeName>Italianer</placeName> und Spanier hinweg mit gantzen huffen, und kan sy der keyser<note xml:id="fn18" type="footnote" n="18"><persName>Karl V.</persName></note> nit bhan.</s>
+					<s n="18" xml:lang="de" type="auto">Ladt alle die, so er ergretscht<note xml:id="fn21" type="footnote" n="21">erwischt; s. <hi>.SI</hi> II 829f. - Siehe dazu <ref target="file12659">Nr. 2612</ref>,76-80.</note>, hencken.</s>
 					<s n="19" xml:lang="de" type="auto">Die unseren haben noch nit vil krancheiten erlitten.“</s>
 					<s n="20" xml:lang="la" type="auto">Hęc ille.<pb type="edition" next="105"/></s>
 				</p>
@@ -56,7 +56,7 @@
 				<p>
 					<s n="27" xml:lang="de" type="auto">Es sol der landgraff zum keyser gschickt han und reden lassen: Heb er ein bluͦtztropfen kriegisch bluͦt in sim lyb, soͤll er mit imm schlachen.</s>
 					<s n="28" xml:lang="de" type="auto">Hatt der keyser geantwort: Nit nun ein tropfen, sunder der lyb vol; das welle er aber nit in einer schlacht zeigen, sunder fünf, ja sechs jar.</s>
-					<s n="29" xml:lang="de" type="auto">Das muͤß er innen werden.<note xml:id="fn28" type="footnote" n="28">das müß er innen werden: das werde er erfahren; s. <bibl>SI</bibl> I 293.</note></s>
+					<s n="29" xml:lang="de" type="auto">Das muͤß er innen werden.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -77,17 +77,17 @@
 			<div xml:id="div7" corresp="regest7">
 				<p>
 					<s n="37" xml:lang="la" type="auto">Dryander<note xml:id="fn34" type="footnote" n="34"><persName>Francisco de Enzinas</persName>. - <persName>Myconius</persName> bezieht sich auf Bullingers Frage in <ref target="file12654">Nr. 2607</ref>,29f.</note> accepit omnia et apud me aperuit.</s>
-					<s n="38" xml:lang="la" type="auto">Commentarius erat <persName ref="p6843">Ochini</persName>, scriptus Italice, una cum literis<note xml:id="fn36" type="footnote" n="36">Ein unbekannter Brief <persName>Bernardino Ochinos</persName>.</note> eiusdem.</s>
+					<s n="38" xml:lang="la" type="auto">Commentarius erat <persName ref="p6843">Ochini</persName>, scriptus Italice,<note xml:id="fn35" type="footnote" n="35">Entweder die italienische Fassung von <persName>Ochinos</persName> anonym gedrucktem Dialog "Ein Gesprech des Teütschen Lands und der Hoffnung" oder eine Abschrift der ursprünglichen italienischen Fassung der in <placeName>Augsburg</placeName> gehaltenen Predigten <persName>Ochinos</persName> über den Galaterbrief; s. <ref target="file12654">Nr. 2607</ref>, Anm. 41.</note> una cum literis<note xml:id="fn36" type="footnote" n="36">Ein unbekannter Brief <persName>Bernardino Ochinos</persName>.</note> eiusdem.</s>
 					<s n="39" xml:lang="la" type="auto">Salutationem grate accepit resalutavitque.</s>
 					<s n="40" xml:lang="la" type="auto">Ostendit hodie mihi libellum Gallice scriptum, iterum a <placeName>Lovaniensibus</placeName><note xml:id="fn38" type="footnote" n="38">Die Theologen zu Löwen.</note> ęditum.</s>
-					<s n="41" xml:lang="de" type="auto">Ich gloub, das alle die narrichtigen tüfel in sy <pb type="edition" next="106"/> gschloffen<note xml:id="fn40" type="footnote" n="40">geschlüpft; s. <bibl>SI</bibl> IX 161. - Vermutliche Anspielung auf Mt 8, 31f par.; 12, 43-45.</note> syen, die ienen<note xml:id="fn41" type="footnote" n="41">irgendwo; s. <bibl>SI</bibl> I 296f.</note> sind:</s>
+					<s n="41" xml:lang="de" type="auto">Ich gloub, das alle die narrichtigen tüfel in sy <pb type="edition" next="106"/> gschloffen syen, die ienen sind:</s>
 					<s n="42" xml:lang="la" type="manual">Innotant libros omnium disciplinarum non legendos (tum etiam legendos proponunt), ubi quidem sic evacuant ludos literarios, ut et catechismos prohibeant.</s>
 					<s n="43" xml:lang="la" type="auto">Faciet<note xml:id="fn42" type="footnote" n="42">Subjekt ist Dryander.</note> eum Latinum.</s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="44" xml:lang="la" type="auto">Vale cum tuis et <persName>Gvalthero</persName>, cuius Antichristum postquam legendo finiero, et ipsi scribam.</s>
+					<s n="44" xml:lang="la" type="auto">Vale cum tuis et <persName>Gvalthero</persName>, cuius Antichristum<note xml:id="fn44" type="footnote" n="44">Zu <persName>Rudolf Gwalthers</persName> Mitte August 1546 erschienenem "Endtchrist" s. <bibl>HBBW</bibl> XVII 400, Anm. 7.</note> postquam legendo finiero, et ipsi scribam.</s>
 					<s n="45" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 7. octobris anno 1546.</s>
 					<s n="46" xml:lang="la" type="auto">Tuus <persName>Os[wald] Myconius</persName>.</s>
 				</p>

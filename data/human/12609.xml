@@ -16,7 +16,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Recepi a chirurgo<note xml:id="fn1" type="footnote" n="1"><persName>Jakob Ruf</persName>.</note> tuas, ac te, amice et frater charissime, id ex meis<note xml:id="fn3" type="footnote" n="3">Brief <ref target="file12603">Nr. 2556</ref> vom 29. August, in dem Bullinger tatsächlich bereits den Brief <ref target="file12593">Nr. 2546</ref> verdankt hatte; s. <ref target="file12603">Nr. 2556</ref>,1.</note> intellexisse putavi.</s>
+					<s n="2" xml:lang="la" type="auto">Recepi a chirurgo<note xml:id="fn1" type="footnote" n="1"><persName>Jakob Ruf</persName>.</note> tuas<note xml:id="fn2" type="footnote" n="2">Nr. 2546 vom 24. August, wie aus <ref target="file12605">Nr. 2558</ref>,2f, und aus unten Anm. 3 hervorgeht.</note>, ac te, amice et frater charissime, id ex meis<note xml:id="fn3" type="footnote" n="3">Brief <ref target="file12603">Nr. 2556</ref> vom 29. August, in dem Bullinger tatsächlich bereits den Brief <ref target="file12593">Nr. 2546</ref> verdankt hatte; s. <ref target="file12603">Nr. 2556</ref>,1.</note> intellexisse putavi.</s>
 					<s n="3" xml:lang="la" type="auto">Sed bene habet; in fine enim literarum<note xml:id="fn4" type="footnote" n="4"><persName>Blarers</persName> Brief <ref target="file12605">Nr. 2558</ref> vom 31. August/1. September, in dem in Z. 60f der Empfang von Bullingers zuletzt verfasstem Brief <ref target="file12603">Nr. 2556</ref> bestätigt wurde.</note> significas te accepisse omnes, et ego vicissim tuas omnes accepi<note xml:id="fn5" type="footnote" n="5">Bullinger reagiert hier auf die von <persName>Blarer</persName> in seinem letzten Schreiben geäußerte Sorge, dass die zwischen ihnen ausgetauschten Briefe vielleicht nicht alle angekommen seien; s. <ref target="file12605">Nr. 2558</ref>,1-7.</note>.</s>
 				</p>
 			</div>
@@ -24,7 +24,7 @@
 				<p>
 					<s n="4" xml:lang="la" type="auto"><persName>Welseri</persName> nostri nova<note xml:id="fn6" type="footnote" n="6">Der in <ref target="file12605">Nr. 2558</ref>,8-17 oder 8-20, zitierte Abschnitt eines Briefes von <persName>Hans Welser</persName> an <persName>Blarer</persName>.</note> libenter legi.</s>
 					<s n="5" xml:lang="la" type="auto">Interim et de attacta fulmine Męchlina libellum impressum ut folium accepi.</s>
-					<s n="6" xml:lang="la" type="auto">Mira profecto dei iudicia!</s>
+					<s n="6" xml:lang="la" type="auto">Mira profecto dei iudicia<note xml:id="fn8" type="footnote" n="8">Vgl. Röm 11, 33.</note>!</s>
 					<s n="7" xml:lang="la" type="auto">Utinam prognostico quodam significarit dominus, quid facturus sit caesari<note xml:id="fn9" type="footnote" n="9"><persName>Karl V.</persName></note> et papisticae religioni!</s>
 					<s n="8" xml:lang="la" type="auto">Lego enim nullum templum intactum mansisse!</s>
 				</p>
@@ -34,7 +34,7 @@
 					<s n="9" xml:lang="la" type="auto">Caesar, ut detrectet certamen et pugnam, in hunc modum iam huc, iam illuc se confert.</s>
 					<s n="10" xml:lang="la" type="auto">Utinam apprehendatur tandem!</s>
 					<s n="11" xml:lang="la" type="auto">Certamen ad <placeName>Ingolstadium</placeName> commissum libenter audivi nostris fuisse incruentum<note xml:id="fn10" type="footnote" n="10">Dies ist allerdings nicht ganz richtig; vgl. nämlich <ref target="file12608">Nr. 2561</ref>,26-28 - ein Brief, den Bullinger aber noch nicht erhalten hatte.</note>.</s>
-					<s n="12" xml:lang="la" type="auto">Faxit dominus, ut bono principio melior finis respondeat!</s>
+					<s n="12" xml:lang="la" type="auto">Faxit dominus, ut bono principio melior finis respondeat<note xml:id="fn11" type="footnote" n="11">Vgl. <bibl>TPMA</bibl> I 141, <ref target="file10217">Nr. 186</ref>.</note>!</s>
 					<s n="13" xml:lang="la" type="auto">Video nostros alacres esse et vigilantes.</s>
 					<s n="14" xml:lang="la" type="auto">Si <placeName>Belgicus</placeName> exercitus<note xml:id="fn12" type="footnote" n="12">Das von <persName>Maximilian von Egmont</persName>, Graf von Büren, aus den <placeName>Niederlanden</placeName> zum Kaiser geführte Heer.</note> prohiberi poterit, quominus caesaris castris coniungatur, bene habebit res.</s>
 					<s n="15" xml:lang="la" type="auto">Videbis et multa consilia caesaris perire et plurimum omnibus nostris male decedere adversariis.</s>
@@ -73,15 +73,15 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="31" xml:lang="de" type="auto">Zuͦ Aarow verganges tags<note xml:id="fn26" type="footnote" n="26">Die Tagsatzung der Vier protestantischen Stadtkantone zu <placeName>Aarau</placeName> vom 29. August; s. <ref target="file12591">Nr. 2544</ref>, Anm. 4.</note> ist nut sunders gehandlet, onet<note xml:id="fn27" type="footnote" n="27">außer.</note> daß <placeName>Bern</placeName> gewoͤllt, für die gmeinden<pb type="scan" next="191v."/> in die Laͤnder<note xml:id="fn28" type="footnote" n="28">Die drei katholischen Orte <placeName>Uri</placeName>, Schwyz und Unterwalden (vgl. <bibl>SI</bibl> III 1298).</note> botten schicken, sy ze berichten, wie sich der krieg erhept, etc<note xml:id="fn29" type="footnote" n="29">Der <placeName>Berner</placeName> Vorschlag mit dem Ziel, die bösen Absichten von Kaiser und Papst aufzuzeigen, wurde gutgeheißen, aber die Ausführung auf später verschoben; s. <bibl>EA</bibl> IV/1d 678a.</note>.</s>
+					<s n="31" xml:lang="de" type="auto">Zuͦ Aarow verganges tags<note xml:id="fn26" type="footnote" n="26">Die Tagsatzung der Vier protestantischen Stadtkantone zu <placeName>Aarau</placeName> vom 29. August; s. <ref target="file12591">Nr. 2544</ref>, Anm. 4.</note> ist nut sunders gehandlet, onet<note xml:id="fn27" type="footnote" n="27">außer.</note> daß <placeName>Bern</placeName> gewoͤllt, für die gmeinden<pb type="scan" next="191v."/> in die Laͤnder botten schicken, sy ze berichten, wie sich der krieg erhept, etc<note xml:id="fn29" type="footnote" n="29">Der <placeName>Berner</placeName> Vorschlag mit dem Ziel, die bösen Absichten von Kaiser und Papst aufzuzeigen, wurde gutgeheißen, aber die Ausführung auf später verschoben; s. <bibl>EA</bibl> IV/1d 678a.</note>.</s>
 					<s n="32" xml:lang="de" type="auto">Diewyl aber die Lender ye laͤnger ye verherter in irem unglouben werdent, etc., weiß ich nitt, ob ützid uß dem schicken wirt.</s>
 					<s n="33" xml:lang="de" type="auto">Sunst<note xml:id="fn32" type="footnote" n="32">Außerdem.</note> wirt man dem bapst<note xml:id="fn33" type="footnote" n="33"><persName>Paul III.</persName></note> und keyser nitt vil guͦts bescheidts gaͤben<note xml:id="fn34" type="footnote" n="34">Die Stadtkantone sollten nämlich dem Papst und dem Kaiser eine Antwort auf deren Schreiben geben; s. <bibl>EA</bibl> IV/Id d. 684 k u. 687 zu k; <ref target="file12593">Nr. 2546</ref>, Anm. 13.</note>.<pb type="edition" next="391"/></s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
-					<s n="34" xml:lang="de" type="auto">Ich acht, vertruws üch in guͦtem, wenn ir bedoͤrfftend 12000 oder 16000 mann und die begaͤrtend, einem houptman gaͤbind 50 gl., lütinampt 40, fenrych 30 oder 25, einem gemeinen knaͤcht 5 oder 6 gl. durch und durch<note xml:id="fn38" type="footnote" n="38">durch und durch: durchschnittlich; s. <bibl>SI</bibl> XIII 1462.</note>, ir wurdint nitt unwillig lüt finden, und das vilicht die Stett<note xml:id="fn39" type="footnote" n="39">Die eidgenössischen Stadtkantone.</note> selbs schicken wurdint, so es nodt thaͤt.</s>
-					<s n="35" xml:lang="de" type="auto">Und wurde man dorumb nitt so schwerr soͤld wie in Franckrych forderen, daß<note xml:id="fn41" type="footnote" n="41">da; s. <bibl>SI</bibl> XIII 1729.</note> die sach ouch uns betrifft und jeder das sin ouch darzuͦsetzen wurde.</s>
+					<s n="34" xml:lang="de" type="auto">Ich acht, vertruws üch in guͦtem, wenn ir bedoͤrfftend 12000 oder 16000 mann und die begaͤrtend, einem houptman gaͤbind 50 gl., lütinampt 40, fenrych 30 oder 25, einem gemeinen knaͤcht 5 oder 6 gl. durch und durch, ir wurdint nitt unwillig lüt finden, und das vilicht die Stett<note xml:id="fn39" type="footnote" n="39">Die eidgenössischen Stadtkantone.</note> selbs schicken wurdint, so es nodt thaͤt.</s>
+					<s n="35" xml:lang="de" type="auto">Und wurde man dorumb nitt so schwerr soͤld wie in Franckrych forderen, daß die sach ouch uns betrifft und jeder das sin ouch darzuͦsetzen wurde.</s>
 					<s n="36" xml:lang="la" type="auto">Ego haec ex coniecturis scribo et ex iis, quae audio; nihil certi promitto.</s>
 					<s n="37" xml:lang="de" type="auto">Das ist aber gewüß, daß der unsern<note xml:id="fn42" type="footnote" n="42">Gemeint sind hauptsächlich die Stadtkantone.</note> hertz gantz und guͦt gen wch ist, etc.</s>
 				</p>

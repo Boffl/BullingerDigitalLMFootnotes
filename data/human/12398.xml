@@ -16,8 +16,8 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">S. in domino per Christum, vindicem nostrum.</s>
-					<s n="2" xml:lang="la" type="auto">Quod ad proximas tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten. - Es handelte sich um Bullingers Antwort auf <persName>Frölichs</persName> Brief vom 5. Januar 1546 (<ref target="file12374">Nr. 2327</ref>), welchen <persName>Johannes Haller</persName> nach Zürich mitgebracht hatte.</note> cum equite <placeName>Augustano</placeName> mihi transmissas nondum responderim, Henriche colendissime, partim occupationes, partim vero corporis imbecillitas in causa fuerunt.</s>
+					<s n="1" xml:lang="la" type="auto">S. in domino per Christum, vindicem<note xml:id="fn1" type="footnote" n="1">Vgl. 2Thess 4, 6.</note> nostrum.</s>
+					<s n="2" xml:lang="la" type="auto">Quod ad proximas tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten. - Es handelte sich um Bullingers Antwort auf <persName>Frölichs</persName> Brief vom 5. Januar 1546 (<ref target="file12374">Nr. 2327</ref>), welchen <persName>Johannes Haller</persName> nach Zürich mitgebracht hatte.</note> cum equite <placeName>Augustano</placeName><note xml:id="fn3" type="footnote" n="3">Unbekannt. - <persName>Haller</persName> war demnach auf seinem Weg von <placeName>Augsburg</placeName> nach Zürich von einem <placeName>Augsburger</placeName> Reiter begleitet worden.</note> mihi transmissas nondum responderim, Henriche colendissime, partim occupationes, partim vero corporis imbecillitas in causa fuerunt.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -31,7 +31,7 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Munusculi nostri repulsa nonnihil tristicię mihi peperit, maxime eo nomine, quod alium tibi gratificandi modum nesciam, nisi propensum in te nostrorum animum tanti fęceris, qui certe vix propensior et maior esse queat.</s>
+					<s n="8" xml:lang="la" type="auto">Munusculi nostri repulsa<note xml:id="fn5" type="footnote" n="5">Siehe dazu <bibl>HBBW</bibl> XV 633,24f. 648,44. 699,27-32. - Offensichtlich wurde durch den offiziellen Begleiter <persName>Hallers</persName> Bullinger ein Geschenk des <placeName>Augsburger</placeName> Rats angeboten, welches Bullinger nicht annahm.</note> nonnihil tristicię mihi peperit, maxime eo nomine, quod alium tibi gratificandi modum nesciam, nisi propensum in te nostrorum animum tanti fęceris, qui certe vix propensior et maior esse queat.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -41,23 +41,23 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="10" xml:lang="la" type="auto">Disquirit non semel, sed iterum atque iterum, quomodo se gratam exhibeat; oro igitur, ut uxori tuę gratias agas ingentes salutemque ei ex costa mea dicas copiosissimam.</s>
+					<s n="10" xml:lang="la" type="auto">Disquirit non semel, sed iterum atque iterum, quomodo se gratam exhibeat; oro igitur, ut uxori tuę gratias agas ingentes salutemque ei ex costa<note xml:id="fn10" type="footnote" n="10">Vgl. Gen 2, 21f.</note> mea dicas copiosissimam.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="11" xml:lang="la" type="auto">Scribitur<note xml:id="fn11" type="footnote" n="11">Nicht ermittelt.</note> ex <placeName>Ratisbona</placeName> die Veneris proxime elapsa<note xml:id="fn12" type="footnote" n="12">Am 8. Februar 1546.</note> colloquium, vaniloquium potius, esse inchoatum<note xml:id="fn14" type="footnote" n="14">Das Zweite <placeName>Regensburger</placeName> Religionsgespräch; s. <ref target="file12375">Nr. 2328</ref>, Anm. 17.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Scribitur<note xml:id="fn11" type="footnote" n="11">Nicht ermittelt.</note> ex <placeName>Ratisbona</placeName> die Veneris proxime elapsa<note xml:id="fn12" type="footnote" n="12">Am 8. Februar 1546.</note> colloquium, vaniloquium<note xml:id="fn13" type="footnote" n="13">Siehe schon <bibl>HBBW</bibl> XV 699,36.</note> potius, esse inchoatum<note xml:id="fn14" type="footnote" n="14">Das Zweite <placeName>Regensburger</placeName> Religionsgespräch; s. <ref target="file12375">Nr. 2328</ref>, Anm. 17.</note>.</s>
 					<s n="12" xml:lang="la" type="auto">Quod autem dicunt et colloquuntur miseri homines, adeo arduum est, ut pro Eleusinis sacris<note xml:id="fn15" type="footnote" n="15">Die Mysterien von Eleusis; vgl. <bibl>Adagia</bibl> 2, 5, 66 <hi>(ASD</hi> II/3 448, <ref target="file11509">Nr. 1466</ref>). Die Teilnehmer waren unter Androhung der Todesstrafe zum Schweigen verpflichtet.</note> habeatur; nam nihil eorum verborum aut eliminari aut divulgari licet, sed chartis mandari oportet, quę tandem <placeName>Ratisbonensi</placeName> senatui consignatę debent custodię tradi.</s>
-					<s n="13" xml:lang="la" type="auto">O stolidos et impios loquaculos, qui, si pro gloria dei et veritate decertarent, cur lucem fugerent?</s>
+					<s n="13" xml:lang="la" type="auto">O stolidos et impios loquaculos, qui, si pro gloria dei et veritate decertarent, cur lucem fugerent<note xml:id="fn16" type="footnote" n="16">Vgl. Joh 3, 20.</note>?</s>
 					<s n="14" xml:lang="la" type="auto"><persName ref="p6490">Philippus Melanchton</persName> <placeName>Ratisbonam</placeName> non venit<note xml:id="fn17" type="footnote" n="17">Siehe dazu <ref target="file12380">Nr. 2333</ref>, Anm. 36.</note>.</s>
-					<s n="15" xml:lang="la" type="auto">Bucephalus ergo habiturus est primus; bucephalus dico, quoniam <persName ref="p18198">Butzerus</persName> scriptis suis<note xml:id="fn19" type="footnote" n="19">Wohl in einem nicht bekannten Brief.</note> me ridiculose taxans hippographum<note xml:id="fn20" type="footnote" n="20">"Pferdeschreiber". - Wohl eine Anspielung auf das Trojanische Pferd, mit dem die Feinde (hier <persName>Haller</persName>) in die Stadt gelangten.</note> vocat.</s>
+					<s n="15" xml:lang="la" type="auto">Bucephalus<note xml:id="fn18" type="footnote" n="18">griech. <foreign xml:lang="el">Βουκέϕαλος</foreign> der Name des Pferdes von Alexander dem Großen. - Gemeint ist <persName>Bucer</persName>. - Schon <persName>Erasmus</persName> machte von dieser Bezeichnung Gebrauch; s. <hi>Allen</hi> IX 260,28f; wir danken Herrn Rainer Henrich für den Hinweis.</note> ergo habiturus est primus; bucephalus dico, quoniam <persName ref="p18198">Butzerus</persName> scriptis suis<note xml:id="fn19" type="footnote" n="19">Wohl in einem nicht bekannten Brief.</note> me ridiculose taxans hippographum<note xml:id="fn20" type="footnote" n="20">"Pferdeschreiber". - Wohl eine Anspielung auf das Trojanische Pferd, mit dem die Feinde (hier <persName>Haller</persName>) in die Stadt gelangten.</note> vocat.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="16" xml:lang="la" type="auto"><persName>Hallerus</persName> eo, quo dignus est, honore hic acceptus non est; manent autem ipsum digna offitia, nos vero messis suę agriculturę.</s>
+					<s n="16" xml:lang="la" type="auto"><persName>Hallerus</persName> eo, quo dignus est, honore hic acceptus non est; manent autem ipsum digna offitia, nos vero messis<note xml:id="fn21" type="footnote" n="21">Vgl. Joh 4, 35.</note> suę agriculturę.</s>
 					<s n="17" xml:lang="la" type="auto">Ringuntur et disperiunt adversarii ad vocationem hanc; hinc etiam Lętus, frater tuus, nonnihil tolerat et patitur.</s>
-					<s n="18" xml:lang="la" type="auto">Mures enim et feles ad principem electorem Saxonię<note xml:id="fn24" type="footnote" n="24"><persName>Johann Friedrich I. von Sachsen</persName>.</note> et ad landgravium<note xml:id="fn25" type="footnote" n="25"><persName>Philipp von Hessen</persName>.</note> usque me detulere<note xml:id="fn26" type="footnote" n="26">Näheres nicht ermittelt.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Mures<note xml:id="fn22" type="footnote" n="22">Anspielung auf <persName>Wolfgang Musculus</persName>; s. <bibl>HBBW</bibl> XV 699 mit Anm. 22.</note> enim et feles<note xml:id="fn23" type="footnote" n="23">Anspielung auf <persName>Bucer</persName>; s. <bibl>HBBW</bibl> XV 699 mit Anm. 21.</note> ad principem electorem Saxonię<note xml:id="fn24" type="footnote" n="24"><persName>Johann Friedrich I. von Sachsen</persName>.</note> et ad landgravium<note xml:id="fn25" type="footnote" n="25"><persName>Philipp von Hessen</persName>.</note> usque me detulere<note xml:id="fn26" type="footnote" n="26">Näheres nicht ermittelt.</note>.</s>
 					<s n="19" xml:lang="la" type="auto">Ego autem fucos illos constanti animo floccipendo<note xml:id="fn27" type="footnote" n="27">floccipendere = verachten, geringschätzen; s. <bibl>Kirsch</bibl> 1213.</note>.</s>
 					<s n="20" xml:lang="la" type="auto">Incredibile est dictu, quam vehementer mihi insidiantur homines isti.</s>
 					<s n="21" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> totus in hoc est, quomodo sibi vocationem ex <placeName>Ratisbona</placeName> in nostram civitatem paret.</s>
@@ -69,7 +69,7 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="26" xml:lang="la" type="auto"><persName>Hallerum</persName> ardenti desyderio expectamus, nec dubito, quin adventum suum cum uxore<note xml:id="fn31" type="footnote" n="31"><persName>Elsbeth, geb. Kambli</persName>.</note> et familia maturaturus sit<note xml:id="fn33" type="footnote" n="33"><persName>Haller</persName> verließ Zürich zwischen dem 19. und 21. Februar, also kurz nach Eintreffen dieses Briefes; s. <ref target="file12379">Nr. 2332</ref>, Anm. 19.</note>.</s>
+					<s n="26" xml:lang="la" type="auto"><persName>Hallerum</persName> ardenti desyderio expectamus, nec dubito, quin adventum suum cum uxore<note xml:id="fn31" type="footnote" n="31"><persName>Elsbeth, geb. Kambli</persName>.</note> et familia<note xml:id="fn32" type="footnote" n="32"><persName>Hallers</persName> Tochter Agnes; s. <bibl>HBBW</bibl> XV 699, Anm. 11.</note> maturaturus sit<note xml:id="fn33" type="footnote" n="33"><persName>Haller</persName> verließ Zürich zwischen dem 19. und 21. Februar, also kurz nach Eintreffen dieses Briefes; s. <ref target="file12379">Nr. 2332</ref>, Anm. 19.</note>.</s>
 					<s n="27" xml:lang="la" type="auto">Senatus porro noster sibi persuasum habet <persName>Hallerum</persName> neque literas neque aliam amplius vocationem expectare, sed sarcinis et reticulis suis curatis recta huc advolaturum.</s>
 					<s n="28" xml:lang="la" type="auto">De impensis et sumptibus itineris ei hic respondebitur.</s>
 				</p>
@@ -85,7 +85,7 @@
 				<p>
 					<s n="32" xml:lang="la" type="auto">Quod <persName ref="p18889">Lutherus</persName> libello suo, flabello potius dixerim, in <placeName>Lovanienses</placeName> denigravit<note xml:id="fn35" type="footnote" n="35"><hi><persName>Luther</persName>,</hi> Contra 32 articulos Lovaniensium theologistarum, die <persName>Frölich</persName> Bullinger am 5. Januar zukommen ließ; s. <ref target="file12374">Nr. 2327</ref>, Anm. 8.</note>, videtur apud nonnullos libello adnexo parumper dealbicasse.</s>
 					<s n="33" xml:lang="la" type="auto">Fęcit in hoc aliquid, non tamen sine more suo.</s>
-					<s n="34" xml:lang="la" type="auto">Nihil dum audivi, quod contra vos denuo ędiderit; docebunt tamen nundinę Franckofurdianę<note xml:id="fn39" type="footnote" n="39">Die <placeName>Frankfurter</placeName> Frühjahrsmesse begann etwa 24 Tage vor Ostern und dauerte 20 Tage; s. <bibl>Vanautgaerden</bibl> 10. - Der Ostersonntag fiel im Jahr 1546 auf den 25. April.</note> aliquid.</s>
+					<s n="34" xml:lang="la" type="auto">Nihil dum audivi, quod contra vos denuo ędiderit;<note xml:id="fn38" type="footnote" n="38">Vgl. <ref target="file12379">Nr. 2332</ref> und Anm. 21; Nr. 2335 und Anm. 6.</note> docebunt tamen nundinę Franckofurdianę<note xml:id="fn39" type="footnote" n="39">Die <placeName>Frankfurter</placeName> Frühjahrsmesse begann etwa 24 Tage vor Ostern und dauerte 20 Tage; s. <bibl>Vanautgaerden</bibl> 10. - Der Ostersonntag fiel im Jahr 1546 auf den 25. April.</note> aliquid.</s>
 					<s n="35" xml:lang="la" type="auto">Malim autem crędere ipsum labra compressurum, quam ineptias plures effutiturum esse.</s>
 				</p>
 			</div>
@@ -93,14 +93,14 @@
 				<p>
 					<s n="36" xml:lang="la" type="auto">Quomodo ego ipse casum et periculum meum inopinate perpessum interpretatus sim,<note xml:id="fn40" type="footnote" n="40"><persName>Frölich</persName> hatte darauf schon in seinem Brief an Bullinger vom 5. Januar angespielt; s. <ref target="file12374">Nr. 2327</ref>,70-73.</note> <persName>Hallerus</persName>, ni fallor, novit.</s>
 					<s n="37" xml:lang="la" type="auto">Scio equidem patrem illum cęlestem vitę meę ęmendationem hac ratione urgere, cuius gratiam et misericordiam tu mecum exnixe<note xml:id="fn41" type="footnote" n="41">Eine Verstärkung von "nixe".</note> implorabis, ne in impietatem me labi sinat.</s>
-					<s n="38" xml:lang="la" type="auto">Enimvero non est, quod quęram, in quo peccem; imo, si fateor me esse peccatum ipsum, minime erro.</s>
-					<s n="39" xml:lang="la" type="auto">Deo autem misericordi oviculas suas ad caulas reducenti gloria imperpetuum!</s>
+					<s n="38" xml:lang="la" type="auto">Enimvero non est, quod quęram, in quo peccem; imo, si fateor me esse peccatum ipsum,<note xml:id="fn42" type="footnote" n="42">Vgl. Ps 51 (Vulg. 50), 7.</note> minime erro.</s>
+					<s n="39" xml:lang="la" type="auto">Deo autem misericordi oviculas suas ad caulas reducenti<note xml:id="fn43" type="footnote" n="43">Vgl. Lk 15, 1-7.</note> gloria imperpetuum!</s>
 					<s n="40" xml:lang="de" type="auto">Amen.<pb type="edition" next="150"/></s>
 				</p>
 			</div>
 			<div xml:id="div12" corresp="regest12">
 				<p>
-					<s n="41" xml:lang="la" type="auto">Putabam mentem tibi meam iampridem significatam esse, <persName>Ioanni Welsero</persName> ne soli, an <persName ref="p8087">Iacobo Herproto</persName> consulibus coniunctim, Lucam tuum dedicare consultum sit.</s>
+					<s n="41" xml:lang="la" type="auto">Putabam mentem tibi meam iampridem significatam esse, <persName>Ioanni Welsero</persName> ne soli, an <persName ref="p8087">Iacobo Herproto</persName> consulibus coniunctim, Lucam tuum<note xml:id="fn44" type="footnote" n="44">Bullingers Lukaskommentar, dessen Widmungsvorrede von August 1546 datiert <hi>(HBBibl</hi> I 173). Diese richtete sich lediglich an <persName>Hans Welser</persName> (f. AA2r.). - Siehe dazu bereits <bibl>HBBW</bibl> XV 318 mit Anm. 10.</note> dedicare consultum sit.</s>
 					<s n="42" xml:lang="la" type="auto">In quo consulere nescio.</s>
 					<s n="43" xml:lang="la" type="auto">Hoc autem scio, institutum tuum plus arrisurum, si alteri quam utrique opus tuum inscripseris, idque hoc unico argumento, quod fere universę hominum naturę quędam zelotipia, pręsertim in rebus ad gloriam et honorem spectantibus, insit.</s>
 					<s n="44" xml:lang="la" type="auto"><persName>Welserus</persName> patritii ordinis et generis vetustissimi consul est, cuius abathavorum consulum in hac urbe literas ante 400 annos ęditas, illesas et fide dignas, oculis meis vidi; alter vero ex plębe et novellus est.</s>
@@ -152,16 +152,16 @@
 			</div>
 			<div xml:id="div18" corresp="regest18">
 				<p>
-					<s n="65" xml:lang="de" type="auto">Eurn ratsamen, trewen unnd vernuͦnfftigen bericht, mir in teutscher sprach ubersenndt, hab ich an gebuerliche ort gelanngen lassen guter zuversicht,<pb type="edition" next="152"/> die verhoffte frucht soll daraus inn kurtz erscheinen.</s>
+					<s n="65" xml:lang="de" type="auto">Eurn ratsamen, trewen unnd vernuͦnfftigen bericht<note xml:id="fn59" type="footnote" n="59">Die Aufzeichnung über die Zürcher Kirche, die <persName>Frölich</persName> von Bullinger erbeten hatte; s. dazu <bibl>HBBW</bibl> XV 586,69-77. 635,22-24.</note>, mir in teutscher sprach ubersenndt, hab ich an gebuerliche ort gelanngen lassen guter zuversicht,<pb type="edition" next="152"/> die verhoffte frucht soll daraus inn kurtz erscheinen.</s>
 					<s n="66" xml:lang="de" type="auto">Sag euch deshalb hohen, freundtlichen unnd bruederlichen dannckh.</s>
-					<s n="67" xml:lang="de" type="auto">Es will ye von nöten sein, das yederman, wer orn hab, höre,<note xml:id="fn60" type="footnote" n="60">Mk 4. 23.</note> wer augen hab, sehe, wache unnd nit inn tag schlaffe; dann die sach ist unnser.</s>
+					<s n="67" xml:lang="de" type="auto">Es will ye von nöten sein, das yederman, wer orn hab, höre,<note xml:id="fn60" type="footnote" n="60">Mk 4. 23.</note> wer augen hab, sehe,<note xml:id="fn61" type="footnote" n="61">Vgl. Ez 12, 2.</note> wache unnd nit inn tag schlaffe<note xml:id="fn62" type="footnote" n="62">Vgl. 1Thess 5, 6.</note>; dann die sach ist unnser.</s>
 				</p>
 			</div>
 			<div xml:id="div19" corresp="regest19">
 				<p>
 					<s n="68" xml:lang="de" type="auto">Alle evangelische stennde haben sich wider in den bundt<note xml:id="fn63" type="footnote" n="63">Den Schmalkaldischen Bund.</note> zu kumen bewilligt.</s>
 					<s n="69" xml:lang="de" type="auto">Ist auch schon ain newe ainigungsnotul begriffen, darein auch der zeitlich frieden unnd recht (weil das chamergericht yetzt uffgehaben ist) verleibt<note xml:id="fn66" type="footnote" n="66">inbegriffen ist.</note>.</s>
-					<s n="70" xml:lang="de" type="auto">Unnd ist zu enntlichem bschluß berürter bundtnus uff den ersten aprilis gen <placeName>Wormbs</placeName> tag angesetzt, dahin pfaltzgraf Friderich, churfurst<note xml:id="fn68" type="footnote" n="68"><persName>Kurfürst Friedrich II. von der Pfalz</persName>.</note>, unnd ettlich viel stennde, die vor nit inn dieser ainigung gewesen, auch kumen unnd enntlichen schliessen<note xml:id="fn70" type="footnote" n="70">enntlichen schliessen: etwas Endgültiges beschließen.</note> werden.</s>
+					<s n="70" xml:lang="de" type="auto">Unnd ist zu enntlichem bschluß berürter bundtnus uff den ersten aprilis gen <placeName>Wormbs</placeName> tag angesetzt, dahin pfaltzgraf Friderich, churfurst<note xml:id="fn68" type="footnote" n="68"><persName>Kurfürst Friedrich II. von der Pfalz</persName>.</note>, unnd ettlich viel stennde, die vor nit inn dieser ainigung gewesen,<note xml:id="fn69" type="footnote" n="69">Vgl. <ref target="file12392">Nr. 2345</ref>.16f: <ref target="file12400">Nr. 2353</ref>; <ref target="file12401">Nr. 2354</ref>.5f: und <hi>Fabian, Quellen</hi> 241.</note> auch kumen unnd enntlichen schliessen<note xml:id="fn70" type="footnote" n="70">enntlichen schliessen: etwas Endgültiges beschließen.</note> werden.</s>
 					<s n="71" xml:lang="de" type="auto">So erzaigt sich der neue bischof zu Menntz<note xml:id="fn71" type="footnote" n="71"><persName>Sebastian von Heusenstamm</persName>, 1545-1555 Erzbischof und Kurfürst von Mainz; s. <ref target="file12409">Nr. 2362</ref> und Anm. 13.</note> auch freundtlich unnd leidlich.</s>
 					<s n="72" xml:lang="de" type="auto">Die gegenpractic<note xml:id="fn72" type="footnote" n="72">Intrigen der Gegner.</note><pb type="scan" next="197v."/> sind wol groß, werden aber nit helffen.</s>
 					<s n="73" xml:lang="de" type="auto">Innsonnderhait wurdt nit hindern, was sonnder personen von stetten unnd höfen ganntz aigennutzige ding hierinn suchen; das ist der feder nit zu vertrawen.</s>
@@ -181,7 +181,7 @@
 					<s n="79" xml:lang="de" type="auto">Man sagt, ist aber bei mir ganntz ungewiß, die kay. mt. werd irn wege uff <placeName>Straßburg</placeName>, <placeName>Ulme</placeName> unnd <placeName>Augspurg</placeName> nach <placeName>Regenspurg</placeName> nemen.</s>
 					<s n="80" xml:lang="de" type="auto">Das must durch besonndere vorberaittung, ich sag nit verretterei, zugeen; dann der wege ist weitt umb.</s>
 					<s n="81" xml:lang="de" type="auto">So zeucht man aus besonnder gnad unnd gunnst nit gern inn die lutherischen stett.</s>
-					<s n="82" xml:lang="de" type="auto">Solanng unns aber gott der vatter allso unnter seiner ruten unnd forcht hellt, hat er unns lieb unnd ist unns hailsam.</s>
+					<s n="82" xml:lang="de" type="auto">Solanng unns aber gott der vatter allso unnter seiner ruten unnd forcht hellt, hat er unns lieb unnd ist unns hailsam<note xml:id="fn82" type="footnote" n="82">Spr. 3, 12; Hebr 12, 6; Apk 3, 19.</note>.</s>
 				</p>
 				<p>
 					<s n="83" xml:lang="de" type="auto">Wöllennd mein gebiettennden, gunnstigen herrn burgermaistern<note xml:id="fn83" type="footnote" n="83"><persName>Hans Rudolf Lavater</persName> und <persName>Johannes Haab</persName>.</note>, dem herren statschreiber<note xml:id="fn84" type="footnote" n="84"><persName>Hans Escher vom Luchs</persName>.</note> unnd allen mir wolwöllennden mein ganntz willig diennst ansagen.</s>

@@ -104,8 +104,8 @@
 				<p>
 					<s n="39" xml:lang="la" type="auto">Quod ad fratres et symmistas attinet, longe videntur esse mitiores quam antea.</s>
 					<s n="40" xml:lang="la" type="auto"><persName>Musculus</persName> dissimulat, quid scripseris ei<note xml:id="fn21" type="footnote" n="21">Bullinger an <persName>Musculus</persName>, 18. Februar 1546 (<ref target="file12405">Nr. 2358</ref>).</note>.</s>
-					<s n="41" xml:lang="la" type="auto">Spero autem tandem mortuo <persName ref="p18889">Luthero</persName> eos magis pie suam interpretaturos concordiam.</s>
-					<s n="42" xml:lang="la" type="auto">Svenckfeldius formam, cuius aliquando ad te misi exemplar, miris glossis interpretatus est cavillando et carpendo omnia.</s>
+					<s n="41" xml:lang="la" type="auto">Spero autem tandem mortuo <persName ref="p18889">Luthero</persName> eos magis pie suam interpretaturos concordiam<note xml:id="fn22" type="footnote" n="22">Damit ist die <placeName>Augsburger</placeName> Kirchenordnung gemeint, die unter dem Titel "Forma" erschien; s. <bibl>HBBW</bibl> XV 693,27 und Anm. 10.</note>.</s>
+					<s n="42" xml:lang="la" type="auto">Svenckfeldius formam, cuius aliquando ad te misi exemplar,<note xml:id="fn23" type="footnote" n="23">Ein Exemplar dieser Kirchenordnung hatte <persName>Haller</persName> seinem Brief an Bullinger vom 22. November 1545 beigelegt; s. <bibl>HBBW</bibl> XV 657f,1-9.</note> miris glossis interpretatus est cavillando et carpendo omnia.</s>
 					<s n="43" xml:lang="la" type="auto">Falsa tamen et impia multa miscuit; aliquando tamen a veritate non aberrans, ostendens, quomodo in omnibus aliquid habeant, in toto nihil.</s>
 					<s n="44" xml:lang="la" type="auto">Missum est exemplar hoc (sed scriptum est tantum ex margine formae) conventui nostro,<note xml:id="fn25" type="footnote" n="25">Dem Konvent der Pfarrer in <placeName>Augsburg</placeName>.</note> ubi dubitatum a multis, an illi<note xml:id="fn26" type="footnote" n="26"><persName>Schwenckfeld</persName>.</note> vellent respondere necne.</s>
 					<s n="45" xml:lang="la" type="auto">Tandem evicit haec sententia: ipsos nolle ei publice respondere, quia nec ipse has calumnias in publicum dederit.</s>
@@ -122,7 +122,7 @@
 			<div xml:id="div15" corresp="regest15">
 				<p>
 					<s n="50" xml:lang="la" type="auto">Tu dominum ora, ut conservet nos in puritate doctrinae, quae cavillari nisi a plane impiis non potest.</s>
-					<s n="51" xml:lang="la" type="auto">Cellarius<note xml:id="fn28" type="footnote" n="28"><persName>Michael Keller</persName>.</note> fortis est ut semper, talis, qualis apud Tigurum fuit <persName>Megander</persName>.</s>
+					<s n="51" xml:lang="la" type="auto">Cellarius<note xml:id="fn28" type="footnote" n="28"><persName>Michael Keller</persName>.</note> fortis est ut semper, talis, qualis apud Tigurum fuit <persName>Megander</persName><note xml:id="fn29" type="footnote" n="29"><persName>Megander</persName> war im August 1545 gestorben; s. <bibl>HBBW</bibl> XV 481,10f.</note>.</s>
 					<s n="52" xml:lang="la" type="auto">Bonus autem vir infirmatur nunc podagra.</s>
 					<s n="53" xml:lang="la" type="auto">D. <persName>Laetus</persName><note xml:id="fn30" type="footnote" n="30">Der <placeName>Augsburger</placeName> Stadtschreiber <persName>Georg Frölich</persName>.</note> etiam subinde debilitatur,<note xml:id="fn31" type="footnote" n="31">Siehe schon <persName>Frölich</persName> an Bullinger, 2. März 1546 (<ref target="file12414">Nr. 2367</ref>,3-5).</note> nescio quo morbo.</s>
 					<s n="54" xml:lang="la" type="auto">Statuit brevi invisere Thermas nostras<note xml:id="fn32" type="footnote" n="32"><placeName>Baden</placeName> (Kt. Aargau).</note>, ubi eum convenire potestis.</s>
@@ -132,7 +132,7 @@
 			</div>
 			<div xml:id="div16" corresp="regest16">
 				<p>
-					<s n="57" xml:lang="la" type="auto">Reddidere mihi consules omnes, quos feci in itinere, sumptus, simulque ad angariam<note xml:id="fn36" type="footnote" n="36">Hier die Frühlingsfronfasten, die dem Zeitraum vom 10. bis 14. März 1546 entsprechen.</note> praeteritam 50 fl. pro initio stipendii.</s>
+					<s n="57" xml:lang="la" type="auto">Reddidere mihi consules omnes, quos feci in itinere, sumptus, simulque ad angariam<note xml:id="fn36" type="footnote" n="36">Hier die Frühlingsfronfasten, die dem Zeitraum vom 10. bis 14. März 1546 entsprechen.</note> praeteritam 50 fl. pro initio stipendii<note xml:id="fn37" type="footnote" n="37">Vgl. schon <ref target="file12374">Nr. 2327</ref>,15-19.</note>.</s>
 					<s n="58" xml:lang="la" type="auto">Honorifice etiam alias me tractant, ut nihil habeam, quo plus angar quam invidiosa fratrum simultate; cum quibus non libenter contendo.</s>
 					<s n="59" xml:lang="la" type="auto">Nolo tamen etiam de veritate vel latum cedere culmum.</s>
 					<s n="60" xml:lang="la" type="auto">Tui ergo paterni erit officii me iuvenem crebris confortare et animare literis.</s>

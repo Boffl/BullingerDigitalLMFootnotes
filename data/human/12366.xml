@@ -20,7 +20,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="2" xml:lang="la" type="auto">Licet vana sint, quae narrantur de langravii captivitate, ego tamen deteriora expecto, nam coram caesare<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> et statibus sive ordinibus imperii accusarunt eum rerum in orbe crudelissimarum, quem ipsis<note xml:id="fn4" type="footnote" n="4"><persName>Philipp von Hessen</persName> und <persName>Herzog Moritz von Sachsen</persName>.</note> in manum dedit dominus, cui pro agnata, ut aiunt, principum clemencia parcitur.</s>
+					<s n="2" xml:lang="la" type="auto">Licet vana sint, quae narrantur de langravii captivitate,<note xml:id="fn1" type="footnote" n="1">Zum falschen Gerücht von der Gefangennahme Philipps von Hessen durch <persName>Christoph von Braunschweig</persName>, Erzbischof von Bremen, s. <bibl>HBBW</bibl> XV 691,44-51, und 707,7-9.</note> ego tamen deteriora expecto, nam coram caesare<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> et statibus sive ordinibus imperii accusarunt eum<note xml:id="fn3" type="footnote" n="3"><persName>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>. - Zur Gefangennahme Heinrichs und seines Sohnes Karl Viktor in der Nacht zum 21. Oktober 1545 s. <bibl>HBBW</bibl> XV 622 und Anm. 4.</note> rerum in orbe crudelissimarum, quem ipsis<note xml:id="fn4" type="footnote" n="4"><persName>Philipp von Hessen</persName> und <persName>Herzog Moritz von Sachsen</persName>.</note> in manum dedit dominus, cui pro agnata, ut aiunt, principum clemencia parcitur.</s>
 					<s n="3" xml:lang="la" type="auto">Male audiebat caesar, quod ferret adulterum, virginum constupratorem, sacrilegum, latronem, incendiarium.</s>
 					<s n="4" xml:lang="la" type="auto">Iam bene audiunt clementes principes Saxo<note xml:id="fn5" type="footnote" n="5"><persName>Moritz von Sachsen</persName>.</note> et Luneburgensis<note xml:id="fn6" type="footnote" n="6"><persName>Herzog Erich II. von Braunschweig-Lüneburg</persName>-Calenberg.</note>, qui intercesserunt pro latrone<note xml:id="fn7" type="footnote" n="7">Zu deren Einsatz für Herzog Heinrich s. Simon <hi>Ißleib,</hi> <persName>Herzog Moritz von Sachsen</persName> und der braunschweigische Handel 1545, in: Archiv für die Sächsische Geschichte 5, 1879, 110.</note>.<pb type="edition" next="65"/></s>
 				</p>
@@ -31,7 +31,7 @@
 					<s n="6" xml:lang="la" type="auto">Intercessere <placeName>Bernates</placeName> et alii.</s>
 					<s n="7" xml:lang="la" type="auto">Parsum est illis.</s>
 					<s n="8" xml:lang="la" type="auto">Sed mox nostri traditi sunt in manus pensionariorum, et <persName>Zvinglius</persName>, qui singulariter illos persequebatur, manu caesus est pensionarii.</s>
-					<s n="9" xml:lang="la" type="auto">Manent sua fata et alios.</s>
+					<s n="9" xml:lang="la" type="auto">Manent sua fata<note xml:id="fn10" type="footnote" n="10">Vgl. <hi><persName>Vergil</persName>,</hi> Aeneis, 10, 438.</note> et alios.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -52,15 +52,15 @@
 					<s n="19" xml:lang="de" type="auto">Das ist bißhar mitt allen gebrucht.</s>
 					<s n="20" xml:lang="de" type="auto">Demnach last man sy one taͤgen<note xml:id="fn36" type="footnote" n="36">Degen (ein Zeichen bürgerlicher Ehre).</note> gan.</s>
 					<s n="21" xml:lang="de" type="auto">Da ist wol war, das man den gmeinen knaͤchten vor Joannis Baptistae<note xml:id="fn37" type="footnote" n="37">24. Juni 1545.</note> d[ie] daͤgen wider ze tragen erloupt hat.</s>
-					<s n="22" xml:lang="de" type="auto">Wenn Moͤtili oder ander anders sagend, so ists ze vil<note xml:id="fn39" type="footnote" n="39">zu ergänzen: gesagt.</note>.<pb type="scan" next="94v."/></s>
-					<s n="23" xml:lang="de" type="auto">Es ist ouch nitt nüw, das man inen die taͤgen wider erloupt, dann es ouch vornaher vor 16 jaren gebrucht, wenn der gmein mann sich wol gehallten, ein zyt buͦß gethan und ein zyt angestanden, das man inen wider die gwerr erloupt.</s>
+					<s n="22" xml:lang="de" type="auto">Wenn Moͤtili<note xml:id="fn38" type="footnote" n="38"><persName>Joachim Mötteli vom Rappenstein</persName>, der in <placeName>Konstanz</placeName> erzählt hatte, dass Zürich von heimkehrenden Söldnern keine Buße verlangte, woraufhin sich <persName>Blarer</persName> am 30. Dezember 1545 nach der korrekten Sachlage erkundigt hatte; s. <bibl>HBBW</bibl> XV 708,18-23.</note> oder ander anders sagend, so ists ze vil<note xml:id="fn39" type="footnote" n="39">zu ergänzen: gesagt.</note>.<pb type="scan" next="94v."/></s>
+					<s n="23" xml:lang="de" type="auto">Es ist ouch nitt nüw, das man inen die taͤgen wider erloupt, dann es ouch vornaher vor 16 jaren gebrucht, wenn der gmein mann sich wol gehallten, ein zyt buͦß gethan und ein zyt angestanden, das man inen wider die gwerr erloupt<note xml:id="fn43" type="footnote" n="43">Die ersten erhaltenen Schriftstücke Bullingers zur Söldnerfrage und zu den die Söldner anwerbenden Pensionenempfängern stammen aus den Jahren 1547 und 1549; s. <bibl>HBBW</bibl> XV 325f. Anm. 15.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="24" xml:lang="la" type="auto">Literas uxori Roͤystii<note xml:id="fn44" type="footnote" n="44"><persName>Barbara, geb. von Ulm</persName>, die Frau <persName>Jakob Röists</persName>.</note> protinus afferri curavi.</s>
-					<s n="25" xml:lang="la" type="auto">Nil dubito, quin caesar, papa<note xml:id="fn46" type="footnote" n="46"><persName>Paul III.</persName></note>, Gallus<note xml:id="fn47" type="footnote" n="47"><persName>Franz I.</persName></note> et multi alii conspirent contra Christum, sed qui in coelis<pb type="edition" next="67"/> habitat, ridebit eos.</s>
-					<s n="26" xml:lang="la" type="auto">Scriptum Saxonis remitto et oro, ut ea, quae accipies a <placeName>Francfordiensibus</placeName> comitiis, communices.</s>
+					<s n="24" xml:lang="la" type="auto">Literas uxori Roͤystii<note xml:id="fn44" type="footnote" n="44"><persName>Barbara, geb. von Ulm</persName>, die Frau <persName>Jakob Röists</persName>.</note> protinus afferri curavi<note xml:id="fn45" type="footnote" n="45">Zu diesem unbekannten Brief s. <bibl>HBBW</bibl> XV 708,15f.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Nil dubito, quin caesar, papa<note xml:id="fn46" type="footnote" n="46"><persName>Paul III.</persName></note>, Gallus<note xml:id="fn47" type="footnote" n="47"><persName>Franz I.</persName></note> et multi alii conspirent contra Christum, sed qui in coelis<pb type="edition" next="67"/> habitat, ridebit eos<note xml:id="fn48" type="footnote" n="48">Vgl. Ps 2, 4.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Scriptum Saxonis remitto et oro, ut ea, quae accipies a <placeName>Francfordiensibus</placeName> comitiis<note xml:id="fn50" type="footnote" n="50">Der Schmalkaldische Bundestag in <placeName>Frankfurt</placeName> a. M. vom 15. Dezember 1545 bis 8. Februar 1546, dem <persName>Thomas Blarer</persName> beiwohnte; s. <bibl>HBBW</bibl> XV 689 und Anm. 12.</note>, communices.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">

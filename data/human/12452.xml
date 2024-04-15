@@ -24,17 +24,17 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="4" xml:lang="la" type="auto">Si magnifęceris <placeName>Augustanorum</placeName> amicitiam, ut sane nimium facis, non errabis, si persuasum habueris te inter theologos nostrę aetatis apud eos primas occupaturum.</s>
-					<s n="5" xml:lang="la" type="auto">Tuum enim nomen, ingenium et sanctissimi in vinea domini labores urbi nostrę, orbi inquam toti innotuerunt.</s>
+					<s n="5" xml:lang="la" type="auto">Tuum enim nomen, ingenium et sanctissimi in vinea domini labores<note xml:id="fn2" type="footnote" n="2">Vgl. z.B. Mt 20, 1-16.</note> urbi nostrę, orbi inquam toti innotuerunt.</s>
 					<s n="6" xml:lang="la" type="auto">Ecquis non poterit te amare, observare?</s>
 					<s n="7" xml:lang="la" type="auto">Interim nec <persName>Homerus</persName> quidem carebit emulis.</s>
-					<s n="8" xml:lang="la" type="auto">Scio et non fallor senatum nostrum non modo tibi bene velle, verum etiam bene facere in votis habere.</s>
+					<s n="8" xml:lang="la" type="auto">Scio et non fallor senatum nostrum non modo tibi bene velle, verum etiam bene facere in votis habere<note xml:id="fn3" type="footnote" n="3">Vgl. <bibl>HBBW</bibl> XV 699,27-32; und oben <ref target="file12398">Nr. 2351</ref> und Anm. 5.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="9" xml:lang="la" type="auto">Vaniloquium <placeName>Ratisbonense</placeName>,<note xml:id="fn4" type="footnote" n="4">Das Zweite <placeName>Regensburger</placeName> Religionsgespräch.</note> ut sine zelo bono inchoatum, ita etiam ridiculosum finem sortitum est.</s>
-					<s n="10" xml:lang="la" type="auto">Adversarii<note xml:id="fn5" type="footnote" n="5">Die Katholiken.</note> pro eorum astutia et perversitate non contra confessionem nostram tam quam contra <persName ref="p18889">Lutheri</persName> calumnias se opposuerunt tempusque inaniter triverunt, donec mandatum ab imperatore<note xml:id="fn7" type="footnote" n="7"><persName>Karl V.</persName></note> venit eius nimirum tenoris:<note xml:id="fn8" type="footnote" n="8">Zu der kaiserlichen Resolution über die Geschäftsordnung s. <ref target="file12446">Nr. 2399</ref>, Anm. 6.</note> Scribas omnes a colloquio abesse, colloquentes iuramento astringi, ne quid interlocutionum unquam divulgetur, nisi conciliata volumus, etc.</s>
-					<s n="11" xml:lang="la" type="auto">His auditis timuerunt tam colloquentes quam adiuncti, ne sacramentum et fides super mandato ab eis extorqueretur.</s>
+					<s n="10" xml:lang="la" type="auto">Adversarii<note xml:id="fn5" type="footnote" n="5">Die Katholiken.</note> pro eorum astutia et perversitate non contra confessionem nostram tam quam contra <persName ref="p18889">Lutheri</persName> calumnias<note xml:id="fn6" type="footnote" n="6">Wohl eine Anspielung auf <persName>Luthers</persName> Schrift "Wider das Papstum"; vgl. <bibl>HBBW</bibl> XV 361.</note> se opposuerunt tempusque inaniter triverunt, donec mandatum ab imperatore<note xml:id="fn7" type="footnote" n="7"><persName>Karl V.</persName></note> venit eius nimirum tenoris:<note xml:id="fn8" type="footnote" n="8">Zu der kaiserlichen Resolution über die Geschäftsordnung s. <ref target="file12446">Nr. 2399</ref>, Anm. 6.</note> Scribas omnes a colloquio abesse, colloquentes iuramento astringi, ne quid interlocutionum unquam divulgetur, nisi conciliata volumus, etc.</s>
+					<s n="11" xml:lang="la" type="auto">His auditis timuerunt tam colloquentes quam adiuncti,<note xml:id="fn9" type="footnote" n="9">Zu den Namen der Teilnehmer und deren Helfer (oder Auditoren) s. <bibl>HBBW</bibl> XV 636, Anm. 19; <bibl>Neudecker</bibl> 787f; <bibl>Vogel</bibl> 220-266.</note> ne sacramentum et fides super mandato ab eis extorqueretur.</s>
 					<s n="12" xml:lang="la" type="auto">Et reversus est<pb type="edition" next="297"/> unusquisque per aliam viam in regionem suam, presertim <persName ref="p18198">Bucerus</persName> et <persName ref="p5074">Frechtus</persName> tanquam delicatulę cutes.</s>
 					<s n="13" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName>, ut audio, contendit <placeName>Heidelbergam</placeName>, ubi comes Palatinus<note xml:id="fn11" type="footnote" n="11"><persName>Friedrich II. von der Pfalz</persName>.</note> reformationem ecclesię secundum <persName ref="p18198">Bucerum</persName> molitur.</s>
 				</p>
@@ -55,7 +55,7 @@
 				<p>
 					<s n="22" xml:lang="la" type="auto"><pb type="scan" next="201v."/>Quomodo gratificetur coniugi tuę<note xml:id="fn24" type="footnote" n="24"><persName>Anna, geb. Adlischwyler</persName>.</note>, uxorcula mea<note xml:id="fn25" type="footnote" n="25"><persName>Anna, geb. Lochner</persName>.</note> valde sollicita est, ut debet.</s>
 					<s n="23" xml:lang="la" type="auto">Nam munus suum non levi,<note xml:id="fn26" type="footnote" n="26">Zu diesem Geschenk s. <ref target="file12398">Nr. 2351</ref>,19-23.</note> sed maximi facit, cupitque ab illa in numerum castarum sororum recipi.</s>
-					<s n="24" xml:lang="la" type="auto">Ait enim: „Quo iure mihi sororium<pb type="edition" next="298"/> nomen cum Bullingeri uxore non competit, si utriusque viri fratres sunt.“</s>
+					<s n="24" xml:lang="la" type="auto">Ait enim: „Quo iure mihi sororium<pb type="edition" next="298"/> nomen cum Bullingeri uxore non competit, si utriusque viri fratres sunt<note xml:id="fn27" type="footnote" n="27">Vgl. z.B. <bibl>HBBW</bibl> XV 421,104. 454,44. 583,3f; und oben <ref target="file12398">Nr. 2351</ref>,35.</note>.“</s>
 					<s n="25" xml:lang="la" type="auto">Precatur illi vicissim omnia lęta, etc.</s>
 				</p>
 			</div>
@@ -69,7 +69,7 @@
 			<div xml:id="div7" corresp="regest7">
 				<p>
 					<s n="29" xml:lang="la" type="auto">Senatus noster me Francofurti apud eos, ad quos delatus sum, excusavit; quę quidem excusatio illis abunde adeoque satisfęcit, ut mihi pręconia cecinerint neque quidquam in me desiderarint, quam quod nolim esse Lutheranus.</s>
-					<s n="30" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> neque per glires<note xml:id="fn31" type="footnote" n="31">Wohl <persName>Wolfgang Rehlinger</persName> und dessen Gesinnungsgenossen; vgl. <ref target="file12370">Nr. 2323</ref>,18f; <ref target="file12404">Nr. 2357</ref>,24f.</note> neque musculos<note xml:id="fn32" type="footnote" n="32">Anspielung auf <persName>Wolfgang Musculus</persName> und ihm Gleichgesinnte.</note> potuit commode sibi viam huc preparare; propterea moenia, non cives, salutando longe pręteriit.</s>
+					<s n="30" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> neque per glires<note xml:id="fn31" type="footnote" n="31">Wohl <persName>Wolfgang Rehlinger</persName> und dessen Gesinnungsgenossen; vgl. <ref target="file12370">Nr. 2323</ref>,18f; <ref target="file12404">Nr. 2357</ref>,24f.</note> neque musculos<note xml:id="fn32" type="footnote" n="32">Anspielung auf <persName>Wolfgang Musculus</persName> und ihm Gleichgesinnte.</note> potuit commode sibi viam huc preparare; propterea moenia, non cives, salutando longe pręteriit<note xml:id="fn33" type="footnote" n="33">Vgl. <bibl>HBBW</bibl> XV 699,33-36; und oben <ref target="file12398">Nr. 2351</ref>,39-45.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
@@ -88,9 +88,9 @@
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="37" xml:lang="la" type="auto">De <persName ref="p18889">Lutheri</persName> morte<note xml:id="fn41" type="footnote" n="41"><persName>Luther</persName> war am 18. Februar 1546 gestorben.</note> iam nunc certior factus es, et per <persName>Hallerum</persName> magis certior fies, qui descriptionem parentationis et exequiarum suarum ad te missurus est<note xml:id="fn43" type="footnote" n="43">Siehe zu diesen Schriften <ref target="file12436">Nr. 2389</ref>,40. 43f.</note>.</s>
+					<s n="37" xml:lang="la" type="auto">De <persName ref="p18889">Lutheri</persName> morte<note xml:id="fn41" type="footnote" n="41"><persName>Luther</persName> war am 18. Februar 1546 gestorben.</note> iam nunc certior factus es,<note xml:id="fn42" type="footnote" n="42">Vgl. <ref target="file12411">Nr. 2364</ref>,20f; <ref target="file12414">Nr. 2367</ref>.441.</note> et per <persName>Hallerum</persName> magis certior fies, qui descriptionem parentationis et exequiarum suarum ad te missurus est<note xml:id="fn43" type="footnote" n="43">Siehe zu diesen Schriften <ref target="file12436">Nr. 2389</ref>,40. 43f.</note>.</s>
 					<s n="38" xml:lang="la" type="auto">Ego exemplari cuidam<note xml:id="fn44" type="footnote" n="44">Allerdings nicht auf die in Zürich ZB erhaltenen Exemplare dieser Schriften.</note> hunc versiculum adieci: Aspice, mi lector, redeuntis signa papismi.</s>
-					<s n="39" xml:lang="la" type="auto">Bucephalus<note xml:id="fn45" type="footnote" n="45">Gemeint ist <persName>Bucer</persName>; s. <ref target="file12398">Nr. 2351</ref>, Anm. 18.</note>, Protheus ille, denuo nunc suas ostendit figuras.</s>
+					<s n="39" xml:lang="la" type="auto">Bucephalus<note xml:id="fn45" type="footnote" n="45">Gemeint ist <persName>Bucer</persName>; s. <ref target="file12398">Nr. 2351</ref>, Anm. 18.</note>, Protheus<note xml:id="fn46" type="footnote" n="46">Der griechische Meeresgott <persName>Proteus</persName> als Synonym für eine stets sich wandelnde Gestalt; vgl. <bibl>HBBW</bibl> XV 236,26 und Anm. 10.</note> ille, denuo nunc suas ostendit figuras.</s>
 				</p>
 			</div>
 			<div xml:id="div11" corresp="regest11">
@@ -110,7 +110,7 @@
 			<div xml:id="div13" corresp="regest13">
 				<p>
 					<s n="46" xml:lang="la" type="auto">Quaestionem tuam<note xml:id="fn51" type="footnote" n="51">Es konnte nicht ermittelt werden, für welche Angelegenheit Bullinger von <persName>Frölich</persName> die Abfassung von Versen erbat.</note> iamdudum <persName>Hallero</persName> teste solvi et in rithmos congessi, ut vides<note xml:id="fn52" type="footnote" n="52">Unbekannte Beilage.</note>.</s>
-					<s n="47" xml:lang="la" type="auto">Videbis etiam antigraphum super „Aspice nudatas, barbara terra, nates“,<note xml:id="fn54" type="footnote" n="54">Zu diesem Vers <persName>Campanos</persName> s. <ref target="file12414">Nr. 2367</ref> und Anm. 27.</note> etc.<pb type="edition" next="300"/></s>
+					<s n="47" xml:lang="la" type="auto">Videbis etiam antigraphum<note xml:id="fn53" type="footnote" n="53">Gegenschrift. - Gemeint ist <persName>Frölichs</persName> Antiphon gegen <persName>Giovanni Antonio Campano</persName>; s. Beilage.</note> super „Aspice nudatas, barbara terra, nates“,<note xml:id="fn54" type="footnote" n="54">Zu diesem Vers <persName>Campanos</persName> s. <ref target="file12414">Nr. 2367</ref> und Anm. 27.</note> etc.<pb type="edition" next="300"/></s>
 				</p>
 			</div>
 			<div xml:id="div14" corresp="regest14">
@@ -121,7 +121,7 @@
 					<s n="51" xml:lang="la" type="auto">Quod si ita est et opinione mea non fallor, mearum partium esse duco, ut tibi meam sententiam et, quę ab aliis tanquam mutuata hac in re percepi, fideliter communicem.</s>
 					<s n="52" xml:lang="la" type="auto">Sunt equidem mercatores, qui asserunt ex Venetiis <placeName>Constantinopolim</placeName>, Alexandriam et <placeName>Alchiram</placeName> usque secure cum mercatoribus concedi posse, etiamsi quis suam religionem profiteatur.</s>
 					<s n="53" xml:lang="la" type="auto">At quamprimum contra Mahometicam sectam aliquis vel verbum dixerit, capitale esse adeoque, ut hactenus aliquem vivum evasisse auditum non sit.</s>
-					<s n="54" xml:lang="la" type="auto">Ego te per Christum oro, si de viro illo tibi quid constat, ut ipsum ab hac profectione dehorteris, ne ignes vitans in profundum aquarum incidat et eos amittamus nunc, quibus ipsi maxime caremus.</s>
+					<s n="54" xml:lang="la" type="auto">Ego te per Christum oro, si de viro illo tibi quid constat, ut ipsum ab hac profectione dehorteris, ne ignes vitans in profundum aquarum incidat<note xml:id="fn57" type="footnote" n="57">Vgl. <bibl>Adagia</bibl> 3, 3, 72 <hi>(ASD</hi> II/5 226, <ref target="file12319">Nr. 2272</ref>): ne cinerem vitans in prunas incidas.</note> et eos amittamus nunc, quibus ipsi maxime caremus.</s>
 				</p>
 			</div>
 			<div xml:id="div15" corresp="regest15">
