@@ -29,7 +29,7 @@
 					<s n="7" xml:lang="la" type="auto">Aiunt eum valde debilem et morbo infectum Gallico.</s>
 					<s n="8" xml:lang="la" type="auto">Secuti sunt eum episcopi et cardinales tot, ut non imperatorem, sed papam quis dicere potuisset.</s>
 					<s n="9" xml:lang="la" type="auto">Crastina, 7. aprilis, sacramentum Werdensibus imposuit, sic tamen, ut diceret <foreign xml:lang="de">„als uns gott helff undt das heilig evangelium“.</foreign></s>
-					<s n="10" xml:lang="la" type="auto">Qua forma ipsi contenti fidem dederunt<note xml:id="fn6" type="footnote" n="6">Vgl. Coelestin <hi>Königsdorfer,</hi> Geschichte des Klosters zum Heiligkreuz in <placeName>Donauwörth</placeName>, Bd. 2, <placeName>Donauwörth</placeName> 1825, S. 108; Maria <hi>Zelzer,</hi> Geschichte der Stadt <placeName>Donauwörth</placeName> von den Anfängen bis 1618, Bd. 1, <placeName>Donauwörth</placeName> 1958, S. 182f.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Qua forma ipsi contenti fidem dederunt.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -45,13 +45,13 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="18" xml:lang="la" type="auto"><persName ref="p8087">Herbrotus</persName> ad te scripsit,<note xml:id="fn16" type="footnote" n="16">Nr. 2392 vom 24. März.</note> ut ipse mihi retulit, cupiens conciliare nos cum <persName ref="p6490">Philippo</persName><note xml:id="fn17" type="footnote" n="17"><persName>Melanchthon</persName>. - Zu <persName>Herbrots</persName> Bemühungen um Verständigung zwischen deutschen und eidgenössischen Protestanten s. <ref target="file12439">Nr. 2392</ref>,22-31.</note>; sed nugae sunt.</s>
+					<s n="18" xml:lang="la" type="auto"><persName ref="p8087">Herbrotus</persName> ad te scripsit, ut ipse mihi retulit, cupiens conciliare nos cum <persName ref="p6490">Philippo</persName><note xml:id="fn17" type="footnote" n="17"><persName>Melanchthon</persName>. - Zu <persName>Herbrots</persName> Bemühungen um Verständigung zwischen deutschen und eidgenössischen Protestanten s. <ref target="file12439">Nr. 2392</ref>,22-31.</note>; sed nugae sunt.</s>
 					<s n="19" xml:lang="la" type="auto">Videmus, quid <persName ref="p18198">Bucerus</persName> sua effecerit concordantia:<note xml:id="fn18" type="footnote" n="18">Gemeint ist die <placeName>Wittenberger</placeName> Konkordie von 1536.</note> Nihil nisi turbas et dissidia.</s>
 					<s n="20" xml:lang="la" type="auto">Simus ergo fortes.</s>
 					<s n="21" xml:lang="la" type="auto"><placeName>Constantia</placeName> plus efficiemus quam ulla concordia.</s>
 					<s n="22" xml:lang="la" type="auto">Conatur ille <persName>Vertumnus</persName><note xml:id="fn19" type="footnote" n="19">Damit ist <persName>Bucer</persName> gemeint; vgl. <ref target="file12424">Nr. 2377</ref> und Anm. 14.</note> etiam aliquam cum pontificiis facere concordiam.</s>
 					<s n="23" xml:lang="la" type="auto">Sed illorum pertinax obstinatia nobis est saluberrima et utilissima.</s>
-					<s n="24" xml:lang="la" type="auto">Facile enim, si vel in uno cederent articulo, in vetus relaberemur fermentum<note xml:id="fn20" type="footnote" n="20">Vgl. 1Kor 5, 7f.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Facile enim, si vel in uno cederent articulo, in vetus relaberemur fermentum.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -90,7 +90,7 @@
 					<s n="40" xml:lang="la" type="auto">Boni consulas, oro.</s>
 					<s n="41" xml:lang="la" type="auto">Ita te amo, ut finem scribendi vix possim invenire.</s>
 					<s n="42" xml:lang="la" type="auto">Saluta dilectos<pb type="scan" next="11v."/> patres et dominos <persName>Pellicanum</persName>, <persName>Bibliandrum</persName>, <persName>Gvaltherum</persName> et familiam tuam inprimis.</s>
-					<s n="43" xml:lang="la" type="auto">Si quid mittere velis,<note xml:id="fn30" type="footnote" n="30">Nämlich einen Brief; vgl. <ref target="file12436">Nr. 2389</ref>,87f, wo <persName>Haller</persName> Bullinger gebeten hatte, ihm des Öfteren zu schreiben.</note><pb type="edition" next="353"/> sicut in prioribus rogavi literis, per hunc nuncium<note xml:id="fn31" type="footnote" n="31">Unbekannt.</note> facile poteris.</s>
+					<s n="43" xml:lang="la" type="auto">Si quid mittere velis,<note xml:id="fn30" type="footnote" n="30">Nämlich einen Brief; vgl. <ref target="file12436">Nr. 2389</ref>,87f, wo <persName>Haller</persName> Bullinger gebeten hatte, ihm des Öfteren zu schreiben.</note><pb type="edition" next="353"/> sicut in prioribus rogavi literis, per hunc nuncium facile poteris.</s>
 					<s n="44" xml:lang="la" type="auto"><placeName>Augustae Vindelicorum</placeName>, 14. aprilis anno 1546.</s>
 				</p>
 				<p>

@@ -21,7 +21,7 @@
 					<s n="3" xml:lang="la" type="auto">Scripsi proxime semel atque iterum.<note xml:id="fn1" type="footnote" n="1">Bezug auf die Briefe vom 23. und 27. Dezember 1546 <hi>(HBBW XVIII,</hi> <ref target="file12770">Nr. 2723</ref>. 2726).</note></s>
 					<s n="4" xml:lang="la" type="auto">Anxius tuum expecto consilium et responsum.</s>
 					<s n="5" xml:lang="la" type="auto">Declinant animi plurimorum apud nos.</s>
-					<s n="6" xml:lang="la" type="auto">Ministri<note xml:id="fn2" type="footnote" n="2">Zu den Namen der damals in <placeName>Augsburg</placeName> wirkenden Pfarrer s. <bibl>HBBW</bibl> XVII 379, Anm. 46.</note> tamen verbi sumus omnes concordes.</s>
+					<s n="6" xml:lang="la" type="auto">Ministri tamen verbi sumus omnes concordes.</s>
 					<s n="7" xml:lang="la" type="auto">Talis inter nos nunquam adhuc fuit concordia et consensus.</s>
 					<s n="8" xml:lang="la" type="auto">Instamus, ne deficiant, ne impiis se tradant conditionibus, sed metuo parum nos effecturos.</s>
 					<s n="9" xml:lang="la" type="auto">Plebs quidem constans est.</s>
@@ -44,7 +44,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="20" xml:lang="la" type="auto">Reversi sunt in urbem <persName>Fuggeri</persName>.<note xml:id="fn7" type="footnote" n="7">Unter anderem <persName>Anton Fugger</persName>, der am 3. Januar 1547 aus <placeName>Schwaz</placeName> in <placeName>Tirol</placeName> nach <placeName>Augsburg</placeName> zurückgekehrt war; s. <bibl>Kirch, Fugger</bibl> 119.</note></s>
-					<s n="21" xml:lang="la" type="auto">Quid monstri alant,<note xml:id="fn8" type="footnote" n="8">Vgl. <bibl>Adagia</bibl> 2, 4, 98 <hi>(ASD</hi> II/3 394, <ref target="file11441">Nr. 1398</ref>).</note> nescio, sed facile coniicio hoc unum moliri, ut in aliquas pacis conditiones urbem trahant.</s>
+					<s n="21" xml:lang="la" type="auto">Quid monstri alant, nescio, sed facile coniicio hoc unum moliri, ut in aliquas pacis conditiones urbem trahant.</s>
 					<s n="22" xml:lang="la" type="auto">Seditionem metuo valde eamque tandem nostris capitibus finiendam.<pb type="edition" next="97"/></s>
 				</p>
 			</div>
@@ -63,7 +63,7 @@
 					<s n="29" xml:lang="la" type="auto"><placeName>Memminga</placeName>, <placeName>Bibracum</placeName> et aliae civitates etiam declinant.<note xml:id="fn12" type="footnote" n="12">Siehe dazu s. <ref target="file12790">Nr. 2741</ref>, Anm. 4.</note></s>
 					<s n="30" xml:lang="la" type="auto"><persName>Gervasius</persName><note xml:id="fn13" type="footnote" n="13"><persName>Gervasius Schuler</persName>.</note>, nescio quo spiritu indutus insano, pro publica concione laudat pium caesaris animum.</s>
 					<s n="31" xml:lang="la" type="auto">Suadet, ut dedant se.</s>
-					<s n="32" xml:lang="la" type="auto">Eum esse conversum; non enim quaerere evangelii internicionem<note xml:id="fn14" type="footnote" n="14">= internecionem.</note>, sed nescio quae alia.</s>
+					<s n="32" xml:lang="la" type="auto">Eum esse conversum; non enim quaerere evangelii internicionem, sed nescio quae alia.</s>
 					<s n="33" xml:lang="la" type="auto">Audio <persName ref="p5074">Frechtum</persName> <placeName>Ulmae</placeName> quoque nimium in hanc rem concessisse.</s>
 				</p>
 			</div>
@@ -76,12 +76,12 @@
 			<div xml:id="div7" corresp="regest7">
 				<p>
 					<s n="36" xml:lang="la" type="auto">Age!</s>
-					<s n="37" xml:lang="la" type="auto">Commendamus nos et ecclesiam domino, cuius est; qui solus est caput eius.<note xml:id="fn16" type="footnote" n="16">Vgl. Eph 1, 22; 5 23; Kol 1,18.</note></s>
-					<s n="38" xml:lang="la" type="auto">Oportet probetur.<note xml:id="fn17" type="footnote" n="17">Vgl. Sach 13; 1Kor 3, 13.</note><pb type="scan" next="45v."/></s>
+					<s n="37" xml:lang="la" type="auto">Commendamus nos et ecclesiam domino, cuius est; qui solus est caput eius.</s>
+					<s n="38" xml:lang="la" type="auto">Oportet probetur.<pb type="scan" next="45v."/></s>
 					<s n="39" xml:lang="la" type="auto">Quid vero nobis in his turbis sit agendum, consule, obsecro.</s>
 					<s n="40" xml:lang="la" type="auto">Dum steterint<note xml:id="fn18" type="footnote" n="18">Gemeint sind die <placeName>Augsburger</placeName> Obrigkeit und Bevölkerung.</note> apud veritatem, ad sanguinem usque manebimus.</s>
 					<s n="41" xml:lang="la" type="auto">Ubi vero se tradiderint aut si eos se tradituros sentiamus, non puto ullo modo nobis esse manendum.</s>
-					<s n="42" xml:lang="la" type="auto">Si inciderimus in manus eorum, erimus deo e superius contribuente spiritum suum animosi et alacres in testimonio Iesu.<note xml:id="fn19" type="footnote" n="19">Vgl. Apk 1, 9; 12, 17; 19, 10; 20, 4.</note></s>
+					<s n="42" xml:lang="la" type="auto">Si inciderimus in manus eorum, erimus deo e superius contribuente spiritum suum animosi et alacres in testimonio Iesu.</s>
 					<s n="43" xml:lang="la" type="auto">Si vero contigerit commoda elabendi occasio, utamur ea prudenter.</s>
 					<s n="44" xml:lang="la" type="auto">Non enim possum manere apud hanc ecclesiam, quae societatem cum <persName>Belial</persName><note xml:id="fn20" type="footnote" n="20">Teufel; vgl. 2Kor 6, 15.</note> init; ubi non dabitur libera veritatis professio.</s>
 					<s n="45" xml:lang="la" type="auto">Nolunt domini nostri remittere 3 fratres, ne videantur defectionem meditari, quam tamen revera meditantur.</s>
@@ -89,12 +89,12 @@
 					<s n="47" xml:lang="la" type="auto">Nobis enim sic instantibus aperte dicunt, annon insani simus?</s>
 					<s n="48" xml:lang="la" type="auto">Quid cum plebe simus effecturi?</s>
 					<s n="49" xml:lang="la" type="auto">Plebem ipsam in nos irruituram, ubi aliquid ipsi sit patiendum.</s>
-					<s n="50" xml:lang="la" type="auto">In summa: Inter sacrum et saxum stamus.<note xml:id="fn23" type="footnote" n="23">Vgl. <bibl>Adagia</bibl> 1, 1, 15 <hi>(ASD</hi> II/1 128f, Nr. 15).</note><pb type="edition" next="98"/></s>
+					<s n="50" xml:lang="la" type="auto">In summa: Inter sacrum et saxum stamus.<pb type="edition" next="98"/></s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="51" xml:lang="de" type="auto"><foreign xml:lang="la"><placeName>Tigurini</placeName> bene faciunt, quod interdixerunt, ne quis abeat militatum,</foreign> dann<note xml:id="fn25" type="footnote" n="25">denn.</note> vil lüt, hoh und nider, redend den Eidtgnossen so übel, das mirs hertz bluͤten moͤcht.</s>
+					<s n="51" xml:lang="de" type="auto"><foreign xml:lang="la"><placeName>Tigurini</placeName> bene faciunt, quod interdixerunt, ne quis abeat militatum,</foreign> dann vil lüt, hoh und nider, redend den Eidtgnossen so übel, das mirs hertz bluͤten moͤcht.</s>
 					<s n="52" xml:lang="de" type="auto">Wil gern sehen, was si usrichtind.</s>
 					<s n="53" xml:lang="de" type="auto">Man sichts aber leider wol.</s>
 					<s n="54" xml:lang="de" type="auto">Der <persName>Schertlin</persName> laßt nun auch daugen ins tüfels nammen vergülden.</s>
@@ -130,7 +130,7 @@
 			<div xml:id="div13" corresp="regest13">
 				<p>
 					<s n="66" xml:lang="la" type="auto"><persName>Zollerus</persName><note xml:id="fn32" type="footnote" n="32"><persName>Hans Wilpert Zoller d.J.</persName></note> valet.</s>
-					<s n="67" xml:lang="la" type="auto"><persName>Heinrych Rychmuͦt</persName><note xml:id="fn33" type="footnote" n="33">Der Zürcher <persName>Heinrich Richmut</persName>, der im Schmalkaldischen Krieg als Hauptmann fungierte; s. <bibl>HBBW</bibl> XVIII 207, Anm. 28.</note> torquem aureum (nisi me materia fallit) de collo depensum gestat hic; miror, si domi quoque.</s>
+					<s n="67" xml:lang="la" type="auto"><persName>Heinrych Rychmuͦt</persName> torquem aureum (nisi me materia fallit) de collo depensum gestat hic; miror, si domi quoque.</s>
 					<s n="68" xml:lang="la" type="auto">Alter eius comes <persName>Braevaldus</persName> est honestus homo et gravis.<pb type="edition" next="99"/></s>
 				</p>
 			</div>

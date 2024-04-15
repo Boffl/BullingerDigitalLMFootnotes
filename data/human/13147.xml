@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratia domini tecum!</s>
-					<s n="2" xml:lang="la" type="auto">Ante triennium fere fuit <persName>Petro Tossano</persName> superstitiosa et acris disputatio de communione impiorum<note xml:id="fn1" type="footnote" n="1">Die lutherische Lehre, laut der die am Abendmahl teilnehmenden Gottlosen auch des Leibes und Blutes Christi teilhaftig werden, was ihnen jedoch zum Fluch und nicht zum Segen gereicht.</note> et Iudę.<note xml:id="fn2" type="footnote" n="2">Ende 1544 und 1545; s. <bibl>Viénot</bibl> I 102-134; II 37. 42f; <bibl>HBBW</bibl> XIV 440f; XV 138f und Anm. 31f; 290f.</note></s>
+					<s n="2" xml:lang="la" type="auto">Ante triennium fere fuit <persName>Petro Tossano</persName> superstitiosa et acris disputatio de communione impiorum<note xml:id="fn1" type="footnote" n="1">Die lutherische Lehre, laut der die am Abendmahl teilnehmenden Gottlosen auch des Leibes und Blutes Christi teilhaftig werden, was ihnen jedoch zum Fluch und nicht zum Segen gereicht.</note> et Iudę.</s>
 					<s n="3" xml:lang="la" type="auto">Scripsit ad me <persName>Tossanus</persName>, cui ego ea, quę tum meditabar, atque ut nunc ad te mitto, indolata misi, ut suo ingenio expumicaret et expoliret.</s>
 					<s n="4" xml:lang="la" type="auto">Quum vero princeps<note xml:id="fn3" type="footnote" n="3"><persName>Graf Georg von Württemberg-Mömpelgard</persName>.</note> tuum iuditium<note xml:id="fn4" type="footnote" n="4">Bullingers damals nur handschriftlich vorhandenes "Bedencken ob der verraͤther Judas auch an dem Tisch deß Herren gesessen"; s. dazu <ref target="file13097">Nr. 3048</ref>, <ptr target="qvfn17317-1" type="qv"/>.</note> ad me miserit diebus superioribus,<note xml:id="fn5" type="footnote" n="5">Siehe <ref target="file13097">Nr. 3048</ref>, <ptr target="qvfn17317-3" type="qv"/>.</note> doctissime Bullingere, voluit, ut <pb type="edition" next="718"/> mea ad te mitterem meditata, etc.</s>
 					<s n="5" xml:lang="la" type="auto">Habes ergo meas litteras et nugas.</s>
@@ -36,7 +36,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="12" xml:lang="la" type="auto">Vale perpetuo cum familia et ecclesia Christi.</s>
-					<s n="13" xml:lang="la" type="auto">Salutabis d. <persName>Gvaltherum</persName> et <persName>Geroldum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Gerold Meyer von Knonau d.J.</persName>, der 1545/46 eine Lehre als Schreiber in Reichenweier absolviert hatte; s. <bibl>HBBW</bibl> XV und XVI Reg.</note> cum reliquis piis.</s>
+					<s n="13" xml:lang="la" type="auto">Salutabis d. <persName>Gvaltherum</persName> et <persName>Geroldum</persName> cum reliquis piis.</s>
 					<s n="14" xml:lang="la" type="auto">Raptissime, Richenvillę, 22. Decembris 1547.</s>
 					<s n="15" xml:lang="la" type="auto">Tuus ex animo <persName ref="p7512">Erbius</persName>.</s>
 				</p>

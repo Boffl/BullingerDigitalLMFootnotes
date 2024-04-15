@@ -17,10 +17,10 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Non dubito, observande d. Bullingere, quin iamdudum mihi ita irascaris, ut magis non possis, quod testamentum in hanc diem usque non remisi, imo<pb type="edition" next="166"/> iam dudum procul dubio me aut perdidisse aut ita foedasse credis, ut non audeam reddere, aut omnino reddere nolle.</s>
+					<s n="2" xml:lang="la" type="auto">Non dubito, observande d. Bullingere, quin iamdudum mihi ita irascaris, ut magis non possis, quod testamentum<note xml:id="fn2" type="footnote" n="2">Gemeint ist offenbar "Zvinglii exemplum novi testamenti", das Bullinger am 3. November 1537 an <persName>Platter</persName> ausgeliehen hatte (s. <bibl>HBBW VII</bibl> <ref target="file11105">[Nr. 1062]</ref>, S. 292, 14-22). Wahrscheinlich handelt es sich um <persName>Zwinglis</persName> Abschrift der Paulusbriefe (s. ebd., Anm. 5), die <persName>Platter</persName> für seine Ausgabe des Neuen Testaments (vgl. unten Anm. 4) beiziehen wollte.</note> in hanc diem usque non remisi, imo<pb type="edition" next="166"/> iam dudum procul dubio me aut perdidisse aut ita foedasse credis, ut non audeam reddere, aut omnino reddere nolle.</s>
 					<s n="3" xml:lang="la" type="auto">Verum nihil horum est, quod vereare; tale adhuc mecum habeo, quale accepi.</s>
 					<s n="4" xml:lang="la" type="auto">Caeterum quod non citius reddiderim, eae sunt causae, et, aut nunquam salver, verissimae.</s>
-					<s n="5" xml:lang="la" type="auto">Prima, quod antequam <placeName>Francofordiam</placeName> abirem<note xml:id="fn3" type="footnote" n="3">Zur Frühjahrsmesse, wie nachfolgend deutlich wird.</note>, mittere potuerim nequaquam, quia vix absolvi testamentum ante nundinas.</s>
+					<s n="5" xml:lang="la" type="auto">Prima, quod antequam <placeName>Francofordiam</placeName> abirem<note xml:id="fn3" type="footnote" n="3">Zur Frühjahrsmesse, wie nachfolgend deutlich wird.</note>, mittere potuerim nequaquam, quia vix absolvi testamentum ante nundinas<note xml:id="fn4" type="footnote" n="4"><persName>Platters</persName> Ausgabe des griechischen Neuen Testaments erschien laut Kolophon im März 1538; s. Historical Catalogue of the Printed Editions of Holy Scripture in the Library of the British and Foreign Bible Society, compiled by T. H. Darlow and H. F. Moule, Bd. II/2. London 1911 (Nachdruck: Cambridge 1993), Nr. 4611.</note>.</s>
 					<s n="6" xml:lang="la" type="auto">Ubi <placeName>Basileam</placeName> redii, daturus eram <persName ref="p5295">Froschouero</persName>, sed ille abiit, antequam ego scirem.</s>
 					<s n="7" xml:lang="la" type="auto">Tum volui <persName>Myconio</persName> dare<note xml:id="fn5" type="footnote" n="5"><persName>Myconius</persName> reiste Ende April zur Konkordientagung nach Zürich; vgl. oben <ref target="file11171">Nr. 1128</ref>, Anm. 1.</note>, sed videbam illum alioqui onustum.</s>
 					<s n="8" xml:lang="la" type="auto">Comittibus credere non audebam; sciebam enim, quam sępe negligentes sient, praesertim si, ut ipsi inquiunt, pfaffis servire debeant.</s>
@@ -31,7 +31,7 @@
 					<s n="11" xml:lang="la" type="auto">Tandem accidit, ut eundum esset in patriam, in qua (ut haec obiter dicam et habeas, mi d. Heinrice, quod laeteris, nam scio te adeoque omnes pios homines haec libenter audire) ita omnia offendi, ut sit certissima spes, certissima, inquam, illos quoque veritatem accepturos.</s>
 					<s n="12" xml:lang="la" type="auto">Nam quod differunt, nulla alia ratio est, quam quod boni illic viri occasionem expectant, dum hoc possint citra tumultum.</s>
 					<s n="13" xml:lang="la" type="auto">Et episcopus<note xml:id="fn7" type="footnote" n="7"><persName>Adrian von Riedmatten</persName>, Bischof von Sitten.</note> ipse, quo cum diu colloquutus sum et prandium sumpsi, videtur vir minime malus.</s>
-					<s n="14" xml:lang="la" type="auto">Is ad auram rusticorum sua vela pandit<note xml:id="fn8" type="footnote" n="8">Zur Redensart vgl. <bibl>Grimm</bibl> X/I 85.</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Is ad auram rusticorum sua vela pandit.</s>
 					<s n="15" xml:lang="la" type="auto">Rustici omnes uno ore clamant in sacerdotes (nam vivunt turpissime); tamen Lutheranismum nolunt, quia putant nescio quid abominabile esse et plane impium, quod apud nos docetur, ut sunt a pfaffis seducti et persuasi.</s>
 				</p>
 				<p>
@@ -62,7 +62,7 @@
 					<s n="34" xml:lang="la" type="auto">Et est hodie vix res, quę plus offendat, non apud<pb type="scan" next="449v."/> illos solum, sed ubique, quod boni viri verentur, ne hic peccetur.</s>
 					<s n="35" xml:lang="la" type="auto">Atque utinam aliquis sit, qui eum locum tractet!</s>
 					<s n="36" xml:lang="la" type="auto">Et vix scio, qui melius istud possit quam tu, si animum adieceris.</s>
-					<s n="37" xml:lang="la" type="auto">At non oporteret haec ad meos scribere, nam tum Pagis Quinque suspecti forent, et fortassis struerent insidias, ut Christum in pueris innocentibus, ut conabatur Herodes<note xml:id="fn10" type="footnote" n="10">Vgl. Mt 2, 16.</note>, perderent.</s>
+					<s n="37" xml:lang="la" type="auto">At non oporteret haec ad meos scribere, nam tum Pagis Quinque suspecti forent, et fortassis struerent insidias, ut Christum in pueris innocentibus, ut conabatur Herodes, perderent.</s>
 					<s n="38" xml:lang="la" type="auto">Verum si scirem te haec propter Christum aut velle aut propter negotia posse tractare, dicerem, quid illos maxime hic torqueret etc.</s>
 					<s n="39" xml:lang="la" type="auto">Indicabis igitur, si quid etc.</s>
 					<s n="40" xml:lang="de" type="auto">Ich bitten uch umb der eer gottes willen, mag es sin<note xml:id="fn11" type="footnote" n="11">falls es möglich ist.</note>.</s>
@@ -80,7 +80,7 @@
 					<s n="50" xml:lang="la" type="auto">Redii <placeName>Basileam</placeName> ea die, cum a vobis <persName>Otho</persName> noster ad nos rediit<note xml:id="fn14" type="footnote" n="14"><persName>Otto Werdmüller</persName> reiste am 18. Juni von <placeName>Basel</placeName> nach Zürich (s. oben <ref target="file11182">Nr. 1139</ref>, 28-30) und muß kurz darauf wieder nach <placeName>Basel</placeName> zurückgekehrt sein (vgl. auch unten <ref target="file11189">Nr. 1146</ref>, Anm. 5).</note>.</s>
 					<s n="51" xml:lang="la" type="auto">Cepi denuo nuntium quaerere.</s>
 					<s n="52" xml:lang="la" type="auto">Hic <persName>Melchior Wirtius</persName><note xml:id="fn15" type="footnote" n="15"><persName>Melchior Wirz</persName>.</note> cum aliis duobus dixit se iturum ad thermas<note xml:id="fn16" type="footnote" n="16">Gemeint ist wohl <placeName>Baden</placeName> (Kt. Aargau) oder eines der zürcherischen Bäder.</note>; huic dare decrevi tuum testamentum.</s>
-					<s n="53" xml:lang="la" type="auto">Intervenit mulier<note xml:id="fn17" type="footnote" n="17">Unbekannt.</note> quaedam mihi nota et nata ex Tyguro; haec promisit se accepturam et abiit me nescio.</s>
+					<s n="53" xml:lang="la" type="auto">Intervenit mulier quaedam mihi nota et nata ex Tyguro; haec promisit se accepturam et abiit me nescio.</s>
 					<s n="54" xml:lang="la" type="auto">Ita ego denuo delusus admodum dolui.</s>
 					<s n="55" xml:lang="la" type="auto">Hasce literas igitur scripsi, ut, si nullus alius inveniretur nuntius, mitterem proprium.</s>
 					<s n="56" xml:lang="la" type="auto">Adiunxi et alium libellum ex Vittęberga<note xml:id="fn18" type="footnote" n="18">Worum es sich handelte, ist nicht bekannt (vgl. auch unten <ref target="file11195">Nr. 1152</ref>, 11f).</note>; hunc, si potes, mittito ad <placeName>Elggi</placeName><note xml:id="fn19" type="footnote" n="19">Als möglicher Adressat in <placeName>Elgg</placeName> kommt <persName>Johannes Schlegel</persName> in Frage.</note>.</s>

@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Examinavi <persName>Schnebergerum</persName>, a quo et quur coronatus tot petierit.</s>
+					<s n="2" xml:lang="la" type="auto">Examinavi <persName>Schnebergerum</persName><note xml:id="fn1" type="footnote" n="1"><persName>Kaspar Schneeberger</persName>, immatrikuliert zu <placeName>Basel</placeName> 1542 (<placeName>Basel</placeName>, Matrikel II 29, Nr. 13). Nach Carl <hi>Keller-Escher,</hi> Promptuarium genealogicum, Bd. VI (Zürich ZB, Ms Z II 6), S. 1025 kommt infrage: Kaspar, 1524-1615, Sohn von <persName>Kaspar von Schneeberger</persName> (gest. 1531) und <persName>Magdalena, geb. Rollenbutz</persName>; zünftig zur Meisen.</note>, a quo et quur coronatus tot petierit.</s>
 					<s n="3" xml:lang="la" type="auto">Coepit lachrymari nihil respondens, usque dum a lachrymis cessabat.</s>
 					<s n="4" xml:lang="la" type="auto">Tum inquit: „Persuasus a sodalibus in barbito<note xml:id="fn2" type="footnote" n="2">Gemeint ist die Laute.</note> ludere discere volebam.“</s>
 					<s n="5" xml:lang="la" type="auto">Habet enim <persName>Blatterus</persName><note xml:id="fn3" type="footnote" n="3"><persName>Thomas Platter d.Ä.</persName></note> in aedibus artificem eiusmodi, a quo discunt idem omnes fere<pb type="edition" next="109"/> discipuli ipsius.</s>
@@ -27,8 +27,8 @@
 					<s n="9" xml:lang="la" type="auto">Flens abunde promisit in posterum se cautiorem futurum.</s>
 					<s n="10" xml:lang="la" type="auto">Consolaberis itaque matrem<note xml:id="fn5" type="footnote" n="5"><persName>Magdalena, geb. Rollenbutz</persName>; s. Anm. 1.</note>; nam quamdiu fuerit apud me filius, non patiar, ut aliquid agat, quod sit incommodaturum vel rei vel famae.</s>
 					<s n="11" xml:lang="la" type="auto">Tempus est autem, quod filium tandem per te commendat; hactenus enim satis imprudenter tacuit.</s>
-					<s n="12" xml:lang="la" type="auto">Hic fuit mos meus, quousque pueros seu adulescentes fovi, ut, quacunque re opus haberent, postularent a me seu ab uxore<note xml:id="fn6" type="footnote" n="6">Margret.</note>, ad emendum videlicet calceos, papyrum, atramentum etc.</s>
-					<s n="13" xml:lang="la" type="auto">Ille quia habet alium<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note>, unde petit pecuniam, possem ego falli non difficulter sine tamen culpa mea.</s>
+					<s n="12" xml:lang="la" type="auto">Hic fuit mos meus, quousque pueros seu adulescentes fovi, ut, quacunque re opus haberent, postularent a me seu ab uxore, ad emendum videlicet calceos, papyrum, atramentum etc.</s>
+					<s n="13" xml:lang="la" type="auto">Ille quia habet alium, unde petit pecuniam, possem ego falli non difficulter sine tamen culpa mea.</s>
 					<s n="14" xml:lang="la" type="auto">Videant hic cognati, ut dispensatio recte commendetur.</s>
 					<s n="15" xml:lang="la" type="auto">Hucusque nihil, quod sciam, erratum est.</s>
 					<s n="16" xml:lang="la" type="auto">Caveant illi in futurum.</s>
@@ -42,8 +42,8 @@
 				<p>
 					<s n="23" xml:lang="la" type="auto">Comitia et actiones<note xml:id="fn8" type="footnote" n="8">Die Rede ist vom Reichstag zu <placeName>Speyer</placeName>.</note> cępisse dicuntur.</s>
 					<s n="24" xml:lang="la" type="auto">Protestantes, Saxo<note xml:id="fn9" type="footnote" n="9">Kurfürst <persName>Johann Friedrich von Sachsen</persName>.</note> et Hessus<note xml:id="fn10" type="footnote" n="10">Landgraf <persName>Philipp von Hessen</persName>.</note> primi ex obedientibus fuerunt, id quod aiunt agnoscere cęsarem<note xml:id="fn11" type="footnote" n="11"><persName>Karl V.</persName></note>.</s>
-					<s n="25" xml:lang="la" type="auto">D. <persName>Sebastianus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Sebastian Sinckeler</persName>.</note> medicus dicit pacem datam protestantibus perpetuam, ut sint auxilio contra Turcam.</s>
-					<s n="26" xml:lang="la" type="auto">Mihi fit verisimile, quod his diebus Gallus<note xml:id="fn14" type="footnote" n="14">Unbekannt.</note>, vir magnus, narravit: hoc anno Germaniam a Turca fore tutam, eo quod tantum numerum habeat collectarum navium adversus <placeName>Hispaniam</placeName>,<note xml:id="fn15" type="footnote" n="15">Die türkische Flotte befand sich vor der südfranzösischen Küste und blockierte das Auslaufen spanischer Schiffe nach <placeName>Italien</placeName>; s. Ion <hi>Ursu,</hi> La politique orientale de François I er (1515-1547), Paris 1908, S. 152.</note> ut vix credi possit.</s>
+					<s n="25" xml:lang="la" type="auto">D. <persName>Sebastianus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Sebastian Sinckeler</persName>.</note> medicus dicit pacem datam protestantibus perpetuam, ut sint auxilio contra Turcam<note xml:id="fn13" type="footnote" n="13"><persName>Sultan Suleiman I.</persName> - Ein dauernder Frieden wurde den protestantischen Ständen nicht gegeben. Für die Dauer des Reichstags ordnete <persName>Karl V.</persName> zur Eröffnung am 20. Februar in einer kaiserlichen Proposition Land- und Religionsfrieden an (RTA JR XVI/1, Nr. 74, S. 353-362, bes. 360f).</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Mihi fit verisimile, quod his diebus Gallus, vir magnus, narravit: hoc anno Germaniam a Turca fore tutam, eo quod tantum numerum habeat collectarum navium adversus <placeName>Hispaniam</placeName>,<note xml:id="fn15" type="footnote" n="15">Die türkische Flotte befand sich vor der südfranzösischen Küste und blockierte das Auslaufen spanischer Schiffe nach <placeName>Italien</placeName>; s. Ion <hi>Ursu,</hi> La politique orientale de François I er (1515-1547), Paris 1908, S. 152.</note> ut vix credi possit.</s>
 					<s n="27" xml:lang="la" type="auto">Aiunt item secretarium nescio quem captum esse <placeName>Spirae</placeName>.</s>
 					<s n="28" xml:lang="la" type="auto">Verum<pb type="edition" next="110"/> hęc omnia ex rumoribus, nihil certi.</s>
 					<s n="29" xml:lang="la" type="auto">Nactus postquam aliquid fuero, significabo.</s>

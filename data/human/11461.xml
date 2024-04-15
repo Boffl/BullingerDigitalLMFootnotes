@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Tametsi non erat mihi animus aliquid ad te scribere, doctissime Bullingere, tamen, cum <persName>Conradum N.</persName>, ecclesiasten Seburgensem<note xml:id="fn2" type="footnote" n="2"><persName>Konrad Lüthard</persName>, Pfarrer von <placeName>Seeburg</placeName> (Urach, <placeName>Baden-Württemberg</placeName>).</note>, apud te verba fecisse de causa mea comperissem<note xml:id="fn3" type="footnote" n="3">Ein entsprechender Brief <persName>Lüthards</persName> ist nicht bekannt.</note>, adhortante ad hoc me <persName>S[imone] Grinaeo</persName>, viro omnium doctissimo, non potui non has breves literas ad te dare, praesertim cum tam commodum haberem tabellarium<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note>.</s>
+					<s n="1" xml:lang="la" type="auto">Tametsi non erat mihi animus aliquid ad te scribere, doctissime Bullingere, tamen, cum <persName>Conradum N.</persName>, ecclesiasten Seburgensem<note xml:id="fn2" type="footnote" n="2"><persName>Konrad Lüthard</persName>, Pfarrer von <placeName>Seeburg</placeName> (Urach, <placeName>Baden-Württemberg</placeName>).</note>, apud te verba fecisse de causa mea comperissem<note xml:id="fn3" type="footnote" n="3">Ein entsprechender Brief <persName>Lüthards</persName> ist nicht bekannt.</note>, adhortante ad hoc me <persName>S[imone] Grinaeo</persName>, viro omnium doctissimo, non potui non has breves literas ad te dare, praesertim cum tam commodum haberem tabellarium.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">De causa mea fortasse olim plura audies; mihi de ea scribere, quae vellem, non licet.</s>
@@ -27,7 +27,7 @@
 					<s n="7" xml:lang="la" type="auto">Sed quid querar?</s>
 					<s n="8" xml:lang="la" type="auto">Bonum est, quod humiliavit me dominus, ut discam iustificationes suas.</s>
 					<s n="9" xml:lang="la" type="auto">Hęc scribo iubente <persName>Grinaeo</persName>, ut, si forte apud vos vacaret aliqua conditio, cui commode possem praefici, tu quoque, qua es erga studiosos benevolentia praeditus, iuvares.</s>
-					<s n="10" xml:lang="la" type="auto">Mitto tibi ingenioli mei specimen aliquod, ex quo coniicere possis,<pb type="edition" next="157"/> quid ferre humeri mei possint; nolim enim quidquam ultra vires meas tractare.</s>
+					<s n="10" xml:lang="la" type="auto">Mitto tibi ingenioli mei specimen aliquod<note xml:id="fn8" type="footnote" n="8">Nach der nicht näher belegten, aber plausiblen Angabe von <hi>Schmidt</hi> (aaO, S. 22) handelte es sich um das 1540 in <placeName>Straßburg</placeName> gedruckte allegorische Gedicht "Querela anseris vel de ingratitudine hominum elegia" (zum Inhalt vgl. <hi>Schmidt,</hi> aaO, S. 11-15).</note>, ex quo coniicere possis,<pb type="edition" next="157"/> quid ferre humeri mei possint; nolim enim quidquam ultra vires meas tractare.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Vale et hanc meam barbariem boni consule.</s>

@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
-					<s n="2" xml:lang="la" type="auto">Sex istas tuas, <persName>Gervasi</persName> dilecte, quaestiones<note xml:id="fn3" type="footnote" n="3">Nicht erhaltenes Dokument; s. <bibl>HBBW</bibl> XV 584 und Anm. 13.</note> legi et expendi pro mea quidem tenuitate non indiligenter, ac re ipsa experior te genus universum dicendi de coena domini mutasse ab eo, quo aliquando utebaris, dum eiusdem gregis<note xml:id="fn4" type="footnote" n="4">In <placeName>Bremgarten</placeName>, zwischen Mai 1529 und November 1531; s. <bibl>Pestalozzi</bibl> 57. 67.</note> essemus pastores et unius ecclesię doctores.</s>
+					<s n="2" xml:lang="la" type="auto">Sex istas tuas, <persName>Gervasi</persName> dilecte, quaestiones legi et expendi pro mea quidem tenuitate non indiligenter, ac re ipsa experior te genus universum dicendi de coena domini mutasse ab eo, quo aliquando utebaris, dum eiusdem gregis<note xml:id="fn4" type="footnote" n="4">In <placeName>Bremgarten</placeName>, zwischen Mai 1529 und November 1531; s. <bibl>Pestalozzi</bibl> 57. 67.</note> essemus pastores et unius ecclesię doctores.</s>
 					<s n="3" xml:lang="la" type="auto">Valde id me turbat, ac cuperem te rem expendisse diligentius.</s>
 					<s n="4" xml:lang="la" type="auto">Non nescio sic doceri fere a Luthero, non nescio verba sic usurpari et torqueri, figi et refigi ab illis, qui videntur sibi mediam tenere sententiam inter Lutheranam et nostram.</s>
 					<s n="5" xml:lang="la" type="auto">Ego vero existimo pastores ecclesię doctrinę genus petere debere ab archipastore<note xml:id="fn5" type="footnote" n="5">Christus; vgl. Hebr 13, 20.</note>, non ex hominibus.</s>
@@ -35,9 +35,9 @@
 					<s n="13" xml:lang="la" type="auto">Et apostolus: „Quoties panem hunc ederitis et poculum biberitis, mortem domini<pb type="edition" next="173"/> annuntiate.“<note xml:id="fn7" type="footnote" n="7">1Kor 11, 26.</note></s>
 					<s n="14" xml:lang="la" type="auto">Sic usum coenę et finem indicans hominum traditiones sequeris, non simplicem evangelii doctrinam.</s>
 					<s n="15" xml:lang="la" type="auto">Ex ea discimus finem coenę esse memoriam celebrare traditi corporis, gratias agere, sicuti modo dictum est, coalescere in unum corpus (1. Cor. 10 [16f]), exercere fidem in Christum, qui sacramentis institutis testificatur visibiliter et obsignat promissiones evangelii sui (Rom. 4).</s>
-					<s n="16" xml:lang="la" type="auto">Evangelio autem docemur fide in Christum remitti peccata,<note xml:id="fn8" type="footnote" n="8">Eph 1, 7; Kol 1, 14.</note> heredes nos fieri vitę ęternę,<note xml:id="fn9" type="footnote" n="9">Tit 3, 7.</note> adeoque et Christi et omnium bonorum participes fieri<note xml:id="fn10" type="footnote" n="10">Vgl. 2Kor 9, 8; 2Thess 1, 11; Phlm 1, 6; Hebr 13, 21.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Evangelio autem docemur fide in Christum remitti peccata,<note xml:id="fn8" type="footnote" n="8">Eph 1, 7; Kol 1, 14.</note> heredes nos fieri vitę ęternę,<note xml:id="fn9" type="footnote" n="9">Tit 3, 7.</note> adeoque et Christi et omnium bonorum participes fieri.</s>
 					<s n="17" xml:lang="la" type="auto">Non tunc demum participamus Christo, cum coena participamus, sed quia participes Christi facti sumus<note xml:id="fn11" type="footnote" n="11">Hebr 3, 14.</note>.</s>
-					<s n="18" xml:lang="la" type="auto">Ideo accedimus<note xml:id="fn12" type="footnote" n="12">Gemeint ist: accedimus ad mensam domini.</note> apostolo dicente, probet se homo et deinde edat<note xml:id="fn13" type="footnote" n="13">Vgl. 1Kor 11, 28.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Ideo accedimus<note xml:id="fn12" type="footnote" n="12">Gemeint ist: accedimus ad mensam domini.</note> apostolo dicente, probet se homo et deinde edat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -52,7 +52,7 @@
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="24" xml:lang="la" type="auto">Vellem itaque nunc sicuti quondam pure et simpliciter diceres, quod scripturis probare posses, quod nullam ansam adversariis papistis suos errores statuendi praeberet: Remissio peccatorum et vita ęterna datur gratuito per Christum credentibus; at Christus testificatur, significat, repraesentat, invocat et obsignat in coena nobis redemptionem suam, ac dona nobis collata, quae per fidem possidemus, non in coena demum percipimus.</s>
-					<s n="25" xml:lang="la" type="auto">Acceptabulum<note xml:id="fn16" type="footnote" n="16">= Acetabulum: Gefäß, Saugnäpfchen.</note> salutis fides est, non signum; <ptr target="fnd" type="footnote" n="d"/>coena domini signum est et in genere signi manet.</s>
+					<s n="25" xml:lang="la" type="auto">Acceptabulum salutis fides est, non signum; <ptr target="fnd" type="footnote" n="d"/>coena domini signum est et in genere signi manet.</s>
 					<s n="26" xml:lang="la" type="auto">Signum testificatur ac obsignat ac, nisi fides prius adsit et Christus in cordibus habitet, non dat signum quicquam.</s>
 				</p>
 			</div>
@@ -63,11 +63,11 @@
 					<s n="29" xml:lang="la" type="auto">Dicis: „At coenę tanta non propter coenam et quia opus externum est, sed quia cum fide coniuncta est adeoque et propter fidem, tribuo.“<ptr target="fne" type="footnote" n="e"/></s>
 					<s n="30" xml:lang="la" type="auto">Sic papistę operibus propter fidem tribuunt iustitiam impure.</s>
 					<s n="31" xml:lang="la" type="auto">Cur ergo non rite distinguis et iuste agis?</s>
-					<s n="32" xml:lang="la" type="auto">Iustitia<pb type="edition" next="174"/> suum cuique tribuit<note xml:id="fn17" type="footnote" n="17">Vgl. <bibl>Adagia</bibl> 1, 2, 15 <hi>(ASD</hi> II/1 228-232, <ref target="file10145">Nr. 115</ref>).</note>.</s>
+					<s n="32" xml:lang="la" type="auto">Iustitia<pb type="edition" next="174"/> suum cuique tribuit.</s>
 					<s n="33" xml:lang="la" type="auto">Ita loquere, ne qua sit confusio.</s>
 					<s n="34" xml:lang="la" type="auto">Dic: Fidem iustificare nos, sacramenta testari.</s>
 					<s n="35" xml:lang="la" type="auto">Sic <persName>Paulus</persName>: Abrahamne ante circumcisionem, an post circumcisionem, an per circumcisionem iustificatus est?</s>
-					<s n="36" xml:lang="la" type="auto">Respondet: Non per circumcisionem, sed ante accepisse autem circumcisionem signaculum, etc<note xml:id="fn18" type="footnote" n="18">Vgl. Röm 4, 1-12.</note>.</s>
+					<s n="36" xml:lang="la" type="auto">Respondet: Non per circumcisionem, sed ante accepisse autem circumcisionem signaculum, etc.</s>
 					<s n="37" xml:lang="la" type="auto">Scis eandem esse rationem sacramentorum.</s>
 					<s n="38" xml:lang="la" type="auto">Ante ergo iustificati sumus, quam coenaremus.</s>
 					<s n="39" xml:lang="la" type="auto">Additur, coena signum adeoque et signaculum iustitię fidei, quae est in coenantibus, etc.</s>
@@ -77,7 +77,7 @@
 				<p>
 					<s n="40" xml:lang="la" type="auto">Unde, obsecro, probabis neganti aut dubitanti, quod dicis:</s>
 					<s n="41" xml:lang="de" type="manual">Die wort bringent alleß mitt inen?</s>
-					<s n="42" xml:lang="la" type="auto">Sic <persName ref="p18889">Lutherus</persName> dicit<note xml:id="fn19" type="footnote" n="19">Vgl. z.B. <persName>Luthers</persName> "Sermon von dem Sakrament wider die Schwarmgeister" (1526), <bibl>WA</bibl> XIX 491,13-16.</note>!</s>
+					<s n="42" xml:lang="la" type="auto">Sic <persName ref="p18889">Lutherus</persName> dicit!</s>
 					<s n="43" xml:lang="la" type="auto">Ab eo hoc accepisti et proposuisti ecclesię tuę.</s>
 					<s n="44" xml:lang="la" type="auto">At certum est verba nihil posse quam significare et significando docere, monere, etc.</s>
 					<s n="45" xml:lang="la" type="auto">Nulla verba in ęternum secum ferent, quod significant, nisi placeat incantationi aliquid tribuere.</s>

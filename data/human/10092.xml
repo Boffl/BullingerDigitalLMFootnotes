@@ -16,11 +16,11 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Spiritum fortitudinis et intelligentiae<note xml:id="fn1" type="footnote" n="1">Vgl. Jes 11,2.</note> adaugeat tibi dominus et pater domini nostri Iesu Christi.</s>
+					<s n="1" xml:lang="la" type="auto">Spiritum fortitudinis et intelligentiae adaugeat tibi dominus et pater domini nostri Iesu Christi.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Charissime frater, binas a te paucis diebus accępi literas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>.</s>
-					<s n="3" xml:lang="la" type="auto">Quibus cum nihil responderim et conterraneus tuus<note xml:id="fn3" type="footnote" n="3">Unbekannt.</note> certo pollicitus sit se meas redditurum, nunc respondeo.</s>
+					<s n="3" xml:lang="la" type="auto">Quibus cum nihil responderim et conterraneus tuus certo pollicitus sit se meas redditurum, nunc respondeo.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" type="auto">Primum commendasti duos<note xml:id="fn4" type="footnote" n="4">Beide unbekannt.</note>, et si plures commendaveris, erunt tuo nomine mihi commendatissimi.</s>
@@ -37,9 +37,9 @@
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Sed rationem studii<note xml:id="fn13" type="footnote" n="13">Siehe unten Nr. 83.</note> et pharaonis obdurationem<note xml:id="fn14" type="footnote" n="14">Siehe oben S. 31, Anm. 12.</note> nondum cum habeam explicatam, velim tamen, cum tantum tibi ocii possis suffurari, habeam.</s>
-					<s n="14" xml:lang="la" type="auto">Quod promittis prophetici officii<note xml:id="fn15" type="footnote" n="15">Siehe oben S. 41, Anm. 1.</note> simul et Hebreorum explicationem<note xml:id="fn16" type="footnote" n="16">Zu Bullingers Hebräerbrief-Kommentar (<bibl>HBBibl</bibl> I 38) s. unten <ref target="file10145">[Nr. 115]</ref> S. 167, Anm. 6.</note>, velim quam fęliciter praestes; nam vix credis, quam mihi et tuus et <persName>Pellicani</persName> spiritus arrideat.</s>
+					<s n="14" xml:lang="la" type="auto">Quod promittis prophetici officii<note xml:id="fn15" type="footnote" n="15">Siehe oben S. 41, Anm. 1.</note> simul et Hebreorum explicationem, velim quam fęliciter praestes; nam vix credis, quam mihi et tuus et <persName>Pellicani</persName> spiritus arrideat.</s>
 					<s n="15" xml:lang="la" type="auto">Non vult forte dominus, ut hi, qui optime inter se convenirent, simul sint, quo discamus affectus infringi et alter alteri subiici et deferre.</s>
-					<s n="16" xml:lang="la" type="auto">Miror, quid <persName>Pellicanum</persName> nostrum remoretur, quod sua tandem tam diu expectata non prodeunt; hortare hominem, ne talentum creditum sepeliat<note xml:id="fn18" type="footnote" n="18">Vgl. Mt 25,18.25.</note>, et cogitet, ut dum etiam praestiterit orbi, quae habet, adhuc maiora alios quoque manere.</s>
+					<s n="16" xml:lang="la" type="auto">Miror, quid <persName>Pellicanum</persName> nostrum remoretur, quod sua tandem tam diu expectata non prodeunt<note xml:id="fn17" type="footnote" n="17">Gemeint sind <persName>Pellikans</persName> Kommentare zum Alten Testament, deren Drucklegung <persName>Haller</persName> bereits im Dezember 1531 ungeduldig erwartet hatte (s. <bibl>HBBW I</bibl> 243,15f); der erste Band erschien im August 1532 (s. ebenda, Anm. 17; vgl. <bibl>AZürcherRef</bibl> 2002, S. 886; <hi>Zürcher</hi> 111f).</note>; hortare hominem, ne talentum creditum sepeliat, et cogitet, ut dum etiam praestiterit orbi, quae habet, adhuc maiora alios quoque manere.</s>
 					<s n="17" xml:lang="la" type="auto">Serviat et dispenset sua fratribus, nec cogitet exanclari scripturę thesaurum.</s>
 					<s n="18" xml:lang="la" type="auto">Et tu quoque non diutius nos suspendas.</s>
 					<s n="19" xml:lang="la" type="auto"><persName ref="p5295">Froschowero</persName> locutus sum <placeName>Bernę</placeName>, ut quicquid vel tua vel <persName>Pellicani</persName> officina suis prodierit typis, ab initio mittat.</s>
@@ -50,7 +50,7 @@
 					<s n="22" xml:lang="la" type="auto">Quod vero sollicitus es pro utriusque civitatis concordia, sollicitus sum et ego, quod noverim utramque sine altera facile perituram.</s>
 					<s n="23" xml:lang="la" type="auto">Scripsit ex vestratibus quidam domino In Hag per <placeName>Basilienses</placeName> optime fieri posse.</s>
 					<s n="24" xml:lang="la" type="auto">Sed aliis initiis opus erit.</s>
-					<s n="25" xml:lang="la" type="auto">Utinam Röstius vester, homo nostris gratissimus<note xml:id="fn19" type="footnote" n="19">Siehe oben S. 32,33-35.</note>, apud nos vel minima haberet negocia et quasi suopte instituto paucis nostrum et cordatioribus loqueretur; facilia forent pacis ineundę initia<note xml:id="fn20" type="footnote" n="20">Vgl. oben S. 32,33-35 und Anm. 31.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Utinam Röstius vester, homo nostris gratissimus<note xml:id="fn19" type="footnote" n="19">Siehe oben S. 32,33-35.</note>, apud nos vel minima haberet negocia et quasi suopte instituto paucis nostrum et cordatioribus loqueretur; facilia forent pacis ineundę initia.</s>
 					<s n="26" xml:lang="la" type="auto">Tu cogita et iube, quae velis.</s>
 				</p>
 				<p>

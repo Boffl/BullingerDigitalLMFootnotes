@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Exemplar operis evangelici<note xml:id="fn1" type="footnote" n="1">Gemeint ist möglicherweise eine Probe aus Bullingers noch unfertigem Matthäuskommentar (<bibl>HBBibl</bibl> I 144), wie sie auch an <persName>Vadian</persName> geschickt wurde (vgl. unten <ref target="file11613">Nr. 1570</ref>).</note> hic remitto, Bullingere charissime, et laudamus operam istam tuam, qua communia sacrarum literarum studia tam indefesse iuvas.</s>
+					<s n="2" xml:lang="la" type="auto">Exemplar operis evangelici hic remitto, Bullingere charissime, et laudamus operam istam tuam, qua communia sacrarum literarum studia tam indefesse iuvas.</s>
 					<s n="3" xml:lang="la" type="auto">Iuvet te Christus suo spiritu.</s>
 					<s n="4" xml:lang="la" type="manual">Amen.</s>
 				</p>
@@ -32,7 +32,7 @@
 					<s n="8" xml:lang="la" type="auto"><persName>Rodolpho Gvalthero</persName> tuo, adolescenti eruditissimo, coniugium precor et diuturnum et felix.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de" type="auto">Unser lieber, frummer bartman<note xml:id="fn5" type="footnote" n="5">bärtige Mann.</note> jungher<note xml:id="fn6" type="footnote" n="6">Junker.</note> <persName>Wilhelm von Zell</persName> ist zuͦ unserm hergott; wais nit, ob ir in kennend oder nit.</s>
+					<s n="9" xml:lang="de" type="auto">Unser lieber, frummer bartman<note xml:id="fn5" type="footnote" n="5">bärtige Mann.</note> jungher<persName>Wilhelm von Zell</persName> ist zuͦ unserm hergott; wais nit, ob ir in kennend oder nit.</s>
 					<s n="10" xml:lang="de" type="auto">Also verkriechend wir uns all gmach<note xml:id="fn7" type="footnote" n="7">nach und nach.</note>.</s>
 				</p>
 				<p>

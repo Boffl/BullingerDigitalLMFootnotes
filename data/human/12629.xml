@@ -26,13 +26,13 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="6" xml:lang="la" type="auto">Aiunt cęsaris<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> castra relicta ab Hesso<note xml:id="fn3" type="footnote" n="3">Landgraf <persName>Philipp von Hessen</persName>. - Das schmalkaldische Lager um <placeName>Ingolstadt</placeName> wurde am 4. September aufgehoben; s. <ref target="file12621">Nr. 2574</ref>,37-42; <ref target="file12623">Nr. 2576</ref>,33f; <ref target="file12628">Nr. 2581</ref>, 105-108.</note> et exercitum divisum.</s>
-					<s n="7" xml:lang="la" type="auto">Unam partem mansuram, alteram ituram obviam Burensi.</s>
+					<s n="7" xml:lang="la" type="auto">Unam partem mansuram, alteram ituram obviam Burensi<note xml:id="fn4" type="footnote" n="4"><persName>Maximilian von Egmont</persName>, Graf von Büren; vgl. <ref target="file12626">Nr. 2579</ref>,10-12; <ref target="file12632">Nr. 2585</ref>,36- 39; <ref target="file12636">Nr. 2589</ref>,1-7. Er war Anführer des niederländischen Heeres; s. <ref target="file12619">Nr. 2572</ref>, Anm. 43; sowie die in <ref target="file12622">Nr. 2575</ref>, Anm. 5, angeführten Stellen.</note>.</s>
 					<s n="8" xml:lang="la" type="auto">Nescio, quid hic cogitandum.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="9" xml:lang="la" type="auto">Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl>NBD</bibl> IX 259, Nr. 79: "In campo havemo non solamente carestia di pane et vino, ma mancamento ben spesso...".</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Enshemii rogatum e suggestu, ut dominus invocetur, nam futurum esse, ut commeatus ab exercitu prohibeatur cęsaris.</s>
 					<s n="10" xml:lang="la" type="auto">Hoc placeret, modo cauti sint nostri.</s>
 					<s n="11" xml:lang="la" type="auto">Scis enim consilium famis<note xml:id="fn6" type="footnote" n="6">consilium famis; vgl. <bibl>Wander</bibl> II 913, Nr. 84: "Hunger ist ein schlimmer (harter) Rathgeber".</note>.</s>
 				</p>
@@ -48,7 +48,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="16" xml:lang="la" type="auto">Quare nos inter hęc ita desidemus?</s>
-					<s n="17" xml:lang="la" type="auto">Domine Iesu, adesto ecclesiaę tuę<note xml:id="fn10" type="footnote" n="10">Vgl. <ref target="file12610">Nr. 2563</ref>,50f.</note>!</s>
+					<s n="17" xml:lang="la" type="auto">Domine Iesu, adesto ecclesiaę tuę!</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">

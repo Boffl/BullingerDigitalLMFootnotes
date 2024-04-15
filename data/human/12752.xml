@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Superioribus diebus ad te scripsi<note xml:id="fn4" type="footnote" n="4">am 26. November.</note> per famulum<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> <persName ref="p5295">Christophori</persName> typographi<note xml:id="fn6" type="footnote" n="6"><persName>Christoph Froschauer</persName>.</note>, cui tradidi sarcinulam librorum, quam arbitror tibi esse traditam.</s>
+					<s n="2" xml:lang="la" type="auto">Superioribus diebus ad te scripsi<note xml:id="fn4" type="footnote" n="4">am 26. November.</note> per famulum<persName ref="p5295">Christophori</persName> typographi<note xml:id="fn6" type="footnote" n="6"><persName>Christoph Froschauer</persName>.</note>, cui tradidi sarcinulam librorum, quam arbitror tibi esse traditam.</s>
 					<s n="3" xml:lang="la" type="auto">In ea continebatur alia quaedam parva mittenda ad <persName>Sailerum</persName>.</s>
 					<s n="4" xml:lang="la" type="auto">Rursus per hunc aurigam alios libellos mitto, quos ut transmittas ad eundem <persName>Sailerum</persName> magnopere oro.</s>
 				</p>

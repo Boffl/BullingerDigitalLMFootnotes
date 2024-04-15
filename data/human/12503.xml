@@ -17,17 +17,17 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Salutem a deo per Iesum Christum.</s>
-					<s n="2" xml:lang="la" type="auto">Mitto tandem (pater charissime) libellum hunc a me versum, sed non mitto, sicut volebam, quippe mendis ubique<pb type="edition" next="78"/> scatentem, et nuncius hic<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> mihi serius, quam optarim, optigit.</s>
+					<s n="2" xml:lang="la" type="auto">Mitto tandem (pater charissime) libellum hunc a me versum, sed non mitto, sicut volebam, quippe mendis ubique<pb type="edition" next="78"/> scatentem, et nuncius hic mihi serius, quam optarim, optigit.</s>
 					<s n="3" xml:lang="la" type="auto">Quę citantur ex scripturis, non verti, sed sicut iam olim versa fuerunt (paucis exceptis) descripsi, ut calumniandi ansam papistis eriperem.</s>
 					<s n="4" xml:lang="la" type="auto">Libellum, qua diligentia potui, recognovi, ut, si videatur operę precium, Tiguri tersior exeat<note xml:id="fn3" type="footnote" n="3">Dazu kam es nicht.</note>.</s>
-					<s n="5" xml:lang="la" type="auto">Huius etiam rei gratia brevem hanc praeliminarem<note xml:id="fn4" type="footnote" n="4">vorangestellten.</note> epistolam<note xml:id="fn5" type="footnote" n="5">In <placeName>Bern</placeName> war die Schrift ohne Einleitung oder Widmungsepistel erschienen.</note> adieci, consilium meum satis explicantem.</s>
+					<s n="5" xml:lang="la" type="auto">Huius etiam rei gratia brevem hanc praeliminarem epistolam<note xml:id="fn5" type="footnote" n="5">In <placeName>Bern</placeName> war die Schrift ohne Einleitung oder Widmungsepistel erschienen.</note> adieci, consilium meum satis explicantem.</s>
 					<s n="6" xml:lang="la" type="auto">Eam ostendi fratribus, qui non improbant quidem, sed aiunt <placeName>Bernatem</placeName><note xml:id="fn6" type="footnote" n="6">Gemeint ist: senatum Bernatem.</note> de me conqueri posse, si viderit me instigante Tiguri impressum.</s>
 					<s n="7" xml:lang="la" type="auto">Quare melius esse, ut sine mei nominis additione <persName ref="p5295">Froschouerus</persName><note xml:id="fn7" type="footnote" n="7">Der Zürcher Drucker <persName>Christoph Froschauer</persName>. - Diese Übersetzung wurde in Zürich nicht nachgedruckt.</note> tanquam ex sese prelis mandet.</s>
 					<s n="8" xml:lang="la" type="auto">Tu, quod videbitur, facito.</s>
 					<s n="9" xml:lang="la" type="auto">Ego non curo quicquam.</s>
 					<s n="10" xml:lang="la" type="auto">Cur enim aliis commandem, facile videbunt, quicunque contulerint exemplaria vetera cum novis.</s>
 					<s n="11" xml:lang="la" type="auto">Proinde meam epistolam vel emenda vel muta vel etiam reiice omnino.</s>
-					<s n="12" xml:lang="la" type="auto">Scio, quod hoc meo labore oleum fundam in ignem<note xml:id="fn8" type="footnote" n="8">Vgl. Lk 12, 49.</note> dudum Badenę accensum, sed deus mihi murus aheneus<note xml:id="fn10" type="footnote" n="10"><bibl>Adagia</bibl> 2, 10, 25 <hi>(ASD</hi> II/4 2921, <ref target="file11972">Nr. 1925</ref>). Vgl. Sach 2, 5.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Scio, quod hoc meo labore oleum fundam in ignem dudum Badenę accensum, sed deus mihi murus aheneus<note xml:id="fn10" type="footnote" n="10"><bibl>Adagia</bibl> 2, 10, 25 <hi>(ASD</hi> II/4 2921, <ref target="file11972">Nr. 1925</ref>). Vgl. Sach 2, 5.</note>.</s>
 					<s n="13" xml:lang="la" type="auto">Statueram singulis singula mitte exemplaria, sed non ausus sum tam impura.</s>
 					<s n="14" xml:lang="la" type="auto">Quo nomine me excusabis apud amicos atque parentes meos.</s>
 				</p>
@@ -52,7 +52,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="25" xml:lang="la" type="auto">Salutant te nostri, praesertim uxor mea<note xml:id="fn21" type="footnote" n="21">Unbekannt.</note> te tuosque omnes, quibus etiam omnibus pro exhibitis beneficiis summas gratias agit.</s>
+					<s n="25" xml:lang="la" type="auto">Salutant te nostri, praesertim uxor mea te tuosque omnes, quibus etiam omnibus pro exhibitis beneficiis summas gratias agit.</s>
 					<s n="26" xml:lang="la" type="auto">Salutabis meo nomine tuos, item dominum <persName>Theodorum</persName><note xml:id="fn22" type="footnote" n="22"><persName>Theodor Bibliander</persName>.</note>, <persName>Gvaltherum</persName>, etc.</s>
 					<s n="27" xml:lang="la" type="auto">Vale.</s>
 					<s n="28" xml:lang="la" type="auto"><placeName>Biellnis</placeName>, 6. iunii 1546.</s>

@@ -28,7 +28,7 @@
 					<s n="8" xml:lang="la" type="auto">Hęc ille.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Libellos duos <persName>Oecolampadii</persName> mitto.</s>
+					<s n="9" xml:lang="la" type="auto">Libellos duos <persName>Oecolampadii</persName><note xml:id="fn7" type="footnote" n="7">Vielleicht zwei Exemplare der Ende 1544 erschienenen Schrift "Inn die clag Hieremie" (s. <bibl>HBBW XIV</bibl> <ref target="file12085">[Nr. 2038]</ref> 555f); vielleicht aber auch frühere Schriften <persName>Oekolampads</persName>, die damals für die Herausgabe der Werke <persName>Zwinglis</persName> (s. <bibl>HBBW XIV</bibl> <ref target="file11919">[Nr. 1873]</ref> 140, Anm. 4) oder für die Abschlussarbeiten am "Warhafften Bekanntnuß"benötigt wurden.</note> mitto.</s>
 					<s n="10" xml:lang="la" type="auto">Choclei libellus<note xml:id="fn8" type="footnote" n="8"><persName>Cochläus</persName>' "In primum Musculi Anticochlaeum Replica brevis" (s. oben <ref target="file12125">Nr. 2078</ref>, Anm. 4), in der eine "Responsio in Anti-hole Bullingeri" als "Epilog" veröffentlicht ist.</note> non extat apud nos.</s>
 					<s n="11" xml:lang="la" type="auto">Si opus habes, emam in nundinis Francofordanis<note xml:id="fn9" type="footnote" n="9">Die <placeName>Frankfurter</placeName> Frühjahrsmesse begann etwa 24 Tage vor Ostern und dauerte 20 Tage; s. Alexandre <hi>Vanautgaerden,</hi> Erasme typographe. Humanisme et imprimerie au début du XVI e siècle, Genf 2012-Travaux d'Humanisme et Renaissance <hi>503, S.</hi> 10.</note>.</s>
 				</p>
@@ -37,10 +37,10 @@
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto"><persName>Lepusculum</persName><note xml:id="fn10" type="footnote" n="10"><persName>Sebastian Lepusculus (Häslin)</persName>.</note> admonebo, ne quid novi incendii suscitet, ne <persName>Grynęi</persName> nomen celebre hiis scriptis ignobile reddat.</s>
-					<s n="14" xml:lang="la" type="auto">Quid ad me scripserit <persName>Gilbertus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Gilbert Cousin</persName>.</note>, hic habes<note xml:id="fn13" type="footnote" n="13"><persName>Gilbert Cousin</persName> an <persName>Johannes Gast</persName>, 15. Februar 1545 (Zürich StA, E II 345, 288). Darin erwähnt Cousin Bullingers Brief (nicht erhalten; s. <bibl>HBBW</bibl> XIV <ref target="file11974">[Nr. 1927]</ref> 268, Anm. 15) mit Dankbarkeit, vermisst eine Antwort von <persName>Bibliander</persName> und erkundigt sich nach <persName>Konrad Gessner</persName>.</note>.<pb type="edition" next="142"/></s>
+					<s n="14" xml:lang="la" type="auto">Quid ad me scripserit <persName>Gilbertus</persName><note xml:id="fn12" type="footnote" n="12"><persName>Gilbert Cousin</persName>.</note>, hic habes.<pb type="edition" next="142"/></s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Vale iterum atque iterum diu salvus ecclesiis nostris, quę a lupo crudelissimo<note xml:id="fn14" type="footnote" n="14">Vgl. Mt 7, 15; Apg 20, 29.</note> devastantur.</s>
+					<s n="15" xml:lang="la" type="auto">Vale iterum atque iterum diu salvus ecclesiis nostris, quę a lupo crudelissimo devastantur.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 28. februarii 1545.</s>

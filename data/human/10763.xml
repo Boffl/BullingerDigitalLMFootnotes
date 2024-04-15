@@ -17,10 +17,10 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">En epistolam ad <persName ref="p6490">Melanchthonem</persName> tibi<note xml:id="fn1" type="footnote" n="1">Gemeint ist vielleicht die Abschrift von Bullingers Brief an <persName>Melanchthon</persName> (<bibl>HBBW</bibl> V, <ref target="file10674">Nr. 636</ref>), um deren Rücksendung Bullinger gebeten hatte (s. <bibl>HBBW V</bibl> <ref target="file10694">[Nr. 656]</ref>, S. 380, 25f).</note>.</s>
+					<s n="2" xml:lang="la" type="auto">En epistolam ad <persName ref="p6490">Melanchthonem</persName> tibi.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">De Zviccio priusquam tu monueris<note xml:id="fn2" type="footnote" n="2"><persName>Konrad Zwick</persName> hatte sich kurz vorher in Zürich aufgehalten, s. den ausführlichen Bericht Bullingers unten <ref target="file10769">Nr. 731</ref>, 59-81. Der Brief, in dem Bullinger erstmals darüber berichtet hatte, ist nicht erhalten.</note>, patri nostro<note xml:id="fn3" type="footnote" n="3"><persName>Jakob Meyer zum Hirzen</persName> (vgl. <bibl>HBBW</bibl> IV, s. 448, Anm. c).</note> dixi ex scriptis aliorum<note xml:id="fn4" type="footnote" n="4">Vom Besuch <persName>Zwicks</persName> in Zürich ist im Brief <persName>Biblianders</persName> an <persName>Myconius</persName> vom 7. Januar (Zürich StA, E II 340, 79b) die Rede; vgl. auch den warnenden Brief <persName>Thomas Blarer</persName>s an <persName>Johannes Oporin</persName> vom 5. Januar (<bibl>Blarer BW</bibl> I 768).</note>, quam caveat cum <persName>Thoma Blaurero</persName>, ne forte quis nobis per concordiam imponat.</s>
+					<s n="3" xml:lang="la" type="auto">De Zviccio priusquam tu monueris<note xml:id="fn2" type="footnote" n="2"><persName>Konrad Zwick</persName> hatte sich kurz vorher in Zürich aufgehalten, s. den ausführlichen Bericht Bullingers unten <ref target="file10769">Nr. 731</ref>, 59-81. Der Brief, in dem Bullinger erstmals darüber berichtet hatte, ist nicht erhalten.</note>, patri nostro dixi ex scriptis aliorum<note xml:id="fn4" type="footnote" n="4">Vom Besuch <persName>Zwicks</persName> in Zürich ist im Brief <persName>Biblianders</persName> an <persName>Myconius</persName> vom 7. Januar (Zürich StA, E II 340, 79b) die Rede; vgl. auch den warnenden Brief <persName>Thomas Blarer</persName>s an <persName>Johannes Oporin</persName> vom 5. Januar (<bibl>Blarer BW</bibl> I 768).</note>, quam caveat cum <persName>Thoma Blaurero</persName>, ne forte quis nobis per concordiam imponat.</s>
 					<s n="4" xml:lang="la" type="auto">Dolet supra modum et quidem anxius.</s>
 					<s n="5" xml:lang="la" type="auto">Vellet, ut ad nos dares, quicquid est, quod egit, antequam conveniamus, ut melius res expendi valeat.</s>
 					<s n="6" xml:lang="la" type="auto">Non est enim levis momenti.</s>
@@ -50,7 +50,7 @@
 					<s n="20" xml:lang="la" type="auto">Consul<note xml:id="fn12" type="footnote" n="12"><persName>Jakob Meyer zum Hirzen</persName>.</note> mecum ad hunc modum: "Videretur scribendum ad Tigurinos, ut diligenter ex <placeName>Constantiensibus</placeName>, ubi rediissent, exquirerent comitiorum acta.</s>
 					<s n="21" xml:lang="la" type="auto">Nam inde potest intelligi clare de concordiae compositione."</s>
 					<s n="22" xml:lang="la" type="auto">Tibi igitur hoc unice commendatum servabis.</s>
-					<s n="23" xml:lang="la" type="auto">Narrabat deinde alius quispiam<note xml:id="fn13" type="footnote" n="13">Unbekannt.</note> foedus non coiturum, nisi prius facta concordia, quamobrem hactenus ita festinassent <placeName>Argentinenses</placeName>.</s>
+					<s n="23" xml:lang="la" type="auto">Narrabat deinde alius quispiam foedus non coiturum, nisi prius facta concordia, quamobrem hactenus ita festinassent <placeName>Argentinenses</placeName>.</s>
 					<s n="24" xml:lang="la" type="auto">Verum negligebatur hic sermo.</s>
 				</p>
 				<p>
@@ -67,7 +67,7 @@
 					<s n="35" xml:lang="la" type="auto">Patet, unde sit ortum istud mali contra tuos.</s>
 					<s n="36" xml:lang="la" type="auto">Commendas item virtutem dei inter tuos.</s>
 					<s n="37" xml:lang="la" type="auto">Agimus gratias deo precamurque, ut eam in dies augeat ad suam gloriam.</s>
-					<s n="38" xml:lang="la" type="auto">Membro vellem carere, ut ista commendatio fuisset a proximo bello<note xml:id="fn16" type="footnote" n="16">d. h. seit dem Zweiten Kappelerkrieg (1531).</note> usque huc perpetua.</s>
+					<s n="38" xml:lang="la" type="auto">Membro vellem carere, ut ista commendatio fuisset a proximo bello usque huc perpetua.</s>
 					<s n="39" xml:lang="la" type="auto">Nam quia non fuit, est, quod verear, admodum grave et noxium.</s>
 					<s n="40" xml:lang="la" type="auto">Sed id sepultum continebo in corde meo magno cum dolore, usque dum vel in nihilum redigetur vel per sese prodibit in lucem.</s>
 					<s n="41" xml:lang="la" type="auto">Quae scribo, apud te depono.</s>

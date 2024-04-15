@@ -60,7 +60,7 @@
 					<s n="26" xml:lang="la" type="auto">Omnes parochos, qui uxores duxerunt, eiicit.</s>
 					<s n="27" xml:lang="la" type="auto">Concubinarios scortatores restituit.<pb type="edition" next="414"/></s>
 					<s n="28" xml:lang="la" type="auto">Privantur ecclesiae pabulo coelesti.</s>
-					<s n="29" xml:lang="la" type="auto">Damnant nos, qui eas ita lupo lacerandas<note xml:id="fn15" type="footnote" n="15">Vgl. Mt 7, 15; Joh 10, 12; Apg 20, 29. - Vgl. <bibl>HBBW</bibl> XV 502,32f mit Anm. 30.</note> dederimus, nec immerito.</s>
+					<s n="29" xml:lang="la" type="auto">Damnant nos, qui eas ita lupo lacerandas dederimus, nec immerito.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -71,14 +71,14 @@
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="32" xml:lang="la" type="auto">Nostri<note xml:id="fn17" type="footnote" n="17">Gemeint sind hier wie auch unten Z. 31 alle in <placeName>Augsburg</placeName> wirkenden Pfarrer.</note> nulla habetur ratio; sumus peripsemata<note xml:id="fn18" type="footnote" n="18">Abschaum. - In Anspielung auf 1Kor 4, 13.</note> mundi.</s>
+					<s n="32" xml:lang="la" type="auto">Nostri<note xml:id="fn17" type="footnote" n="17">Gemeint sind hier wie auch unten Z. 31 alle in <placeName>Augsburg</placeName> wirkenden Pfarrer.</note> nulla habetur ratio; sumus peripsemata mundi.</s>
 					<s n="33" xml:lang="la" type="auto">Alienantur etiam benevolorum a nobis animi.</s>
 					<s n="34" xml:lang="la" type="auto"><persName>Musculus</persName> et Cellarius sunt constantes.</s>
 					<s n="35" xml:lang="la" type="auto">Caeteri omnes claudicant.</s>
 					<s n="36" xml:lang="la" type="auto">Clamamus intrepide poenitentibus<note xml:id="fn19" type="footnote" n="19">Bereuende; s. <bibl>Kirsch</bibl> 2189f.</note> ad salutem, nebulonibus illis nequam ad iudicium.</s>
 					<s n="37" xml:lang="la" type="auto">Non video ergo, quomodo nobis diu hic manendum.</s>
 					<s n="38" xml:lang="la" type="auto">Tentabimus prius omnia, nam dolet mihi supra modum!</s>
-					<s n="39" xml:lang="la" type="auto">Cuperem anathema<note xml:id="fn20" type="footnote" n="20">verflucht. - In Anlehnung an Röm 9, 3.</note> esse pro hac ecclesia, quia nulla ex omnibus Suevicis Tigurinae confessioni proximior fuit unquam!</s>
+					<s n="39" xml:lang="la" type="auto">Cuperem anathema esse pro hac ecclesia, quia nulla ex omnibus Suevicis Tigurinae confessioni proximior fuit unquam!</s>
 					<s n="40" xml:lang="la" type="auto">Spero deum, qui propter 10 iustos noluit perdere <placeName>Sodomam</placeName>,<note xml:id="fn21" type="footnote" n="21">Gen 18, 32.</note> propter paucos nebulones, qui haec omnia suis dolis fabricant, non extincturum tam numerosam et meo iudicio satis piam (ut sumus homines) et christianam ecclesiam.</s>
 					<s n="41" xml:lang="la" type="auto">Ora pro nobis diligenter, si det dominus, ut sine timore de manu inimicorum nostrorum liberati serviamus ipsi in sanctitate et iustitia coram ipso omnibus diebus vitae nostrae.<note xml:id="fn22" type="footnote" n="22">Lk 1, 74f.</note></s>
 					<s n="42" xml:lang="la" type="manual">Amen.</s>
@@ -101,7 +101,7 @@
 			<div xml:id="div9" corresp="regest9">
 				<p>
 					<note type="attachment">[Beilage:]</note>
-					<s n="50" xml:lang="la" type="auto"><pb type="scan" next="558"/>S. Postquam occlusi meas literas, mittit ad me archigrammataeus<note xml:id="fn24" type="footnote" n="24"><persName>Georg Frölich</persName>.</note> et orat, ut ipsum apud te excusem (se enim scribere non potuisse propter intervenientia negotia<note xml:id="fn25" type="footnote" n="25">Vgl. oben Z. 4 und schon <ref target="file12887">Nr. 2838</ref>,13f.</note>) et ut addam venisse novitates certas, quod elector conflixerit cum marchione Brandenburgensi<note xml:id="fn26" type="footnote" n="26"><persName>Albrecht II.</persName> Alcibiades, Markgraf von Brandenburg-Kulmbach; s. <ref target="file12881">Nr. 2832</ref>, Anm. 35.</note> (qui venit in auxilium ducis Mauritii) et insignem victoriam reportarit.</s>
+					<s n="50" xml:lang="la" type="auto"><pb type="scan" next="558"/>S. Postquam occlusi meas literas, mittit ad me archigrammataeus<note xml:id="fn24" type="footnote" n="24"><persName>Georg Frölich</persName>.</note> et orat, ut ipsum apud te excusem (se enim scribere non potuisse propter intervenientia negotia) et ut addam venisse novitates certas, quod elector conflixerit cum marchione Brandenburgensi<note xml:id="fn26" type="footnote" n="26"><persName>Albrecht II.</persName> Alcibiades, Markgraf von Brandenburg-Kulmbach; s. <ref target="file12881">Nr. 2832</ref>, Anm. 35.</note> (qui venit in auxilium ducis Mauritii) et insignem victoriam reportarit.</s>
 					<s n="51" xml:lang="la" type="auto">Deo laus!</s>
 					<s n="52" xml:lang="la" type="auto">Vale.</s>
 					<s n="53" xml:lang="la" type="auto">Omnis negotii, ubi comperero, te faciam certiorem.</s>
