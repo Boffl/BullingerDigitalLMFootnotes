@@ -1,5 +1,5 @@
 import pandas as pd
-import os, re, csv, sys, re
+import os, re, csv, json, re
 from html import unescape  # from xml.sax.saxutils import unescape ->> does not work properly... :/
 from tqdm import tqdm
 from lxml import etree
@@ -261,18 +261,18 @@ def classify_footnote(text):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("mode", choices=["lettter_df", "footnote_df"])
-    parser.add_argument("outfilename", type=str, help="csv filename")
+    parser.add_argument("mode", choices=["letter_df", "footnote_df", "id_to_edition_map"])
+    parser.add_argument("outfilename", type=str, help="csv filename for the DFs and json filename for the map")
     parser.add_argument("infolder", help="folder containing the letters")
-    parser.add_argument("--editions", default="../editions/hbbw", help="folder where the letters are organized by edition")
+    parser.add_argument("--id_to_edition_map", default="data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
     args = parser.parse_args()
     mode = args.mode 
     outfilename = args.outfilename 
     infolder = args.infolder
-    editions_folder = args.editions
+    id_to_edition_map = args.editions
     # call the model to make the dataframes (takes a long time when calling through the ipynb somehow...)
-    id_to_edition = make_id_to_edition_map(editions_folder)
-    # print(id_to_edition)
+    with open("data/id_to_edition_map.json", "r", encoding="utf-8") as injson:
+        id_to_edition = json.load(injson)
 
     if mode == "letter_df":
         letter_df = make_letter_df(infolder, id_to_edition)
@@ -281,5 +281,10 @@ if __name__ == "__main__":
 
     elif mode == "footnote_df":
         make_footnote_df(infolder, outfilename, id_to_edition)
+
+    elif mode == "id_to_edition_map":
+        id_to_edition = make_id_to_edition_map(infolder) 
+        with open(outfilename, "w", encoding="utf-8") as outjson:
+            json.dump(id_to_edition, outjson)
         
         
