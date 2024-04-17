@@ -12,7 +12,7 @@ def make_id_to_edition_map(infolder):
             filename = filename.split(".")[0]  # remove file extension
             edition, _, letter_id = filename.split("_")  # middle name would be the id of the letter in that edition
             edition = re.search(r"(\d\d)(\w\d?)?", edition).group(1)  # 01A1 -> 01 etc.
-            id_to_edition[int(letter_id)] = edition
+            id_to_edition[letter_id] = edition
     return id_to_edition
 
 
@@ -28,7 +28,7 @@ def make_letter_df(infolder, id_to_edition):
         root = tree.getroot()
         letter_id = filename.split(".")[0]
 
-        if int(letter_id) not in id_to_edition:  # only work on edited letters...
+        if letter_id not in id_to_edition:  # only work on edited letters...
             continue
         
         footnotes = root.findall(".//note[@type='footnote']", namespaces_none)
@@ -47,7 +47,7 @@ def make_letter_df(infolder, id_to_edition):
         if len(sentences) == 0:  # empty letters, not published in the edition?
             continue
 
-        letter_df.loc[len(letter_df)] = [letter_id, id_to_edition[int(letter_id)], len(sentences), cont_footnote_count, ed_footnote_count]
+        letter_df.loc[len(letter_df)] = [letter_id, id_to_edition[letter_id], len(sentences), cont_footnote_count, ed_footnote_count]
 
     return letter_df
 
@@ -68,8 +68,9 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
             root = tree.getroot()
             letter_id = filename.split(".")[0]
 
-            if int(letter_id) not in id_to_edition:  # only work on edited letters...
+            if letter_id not in id_to_edition:  # only work on edited letters...
                 continue
+
 
             # get the footnotes
             footnotes = root.findall(".//note[@type='footnote']", namespaces_none)
@@ -104,7 +105,7 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
                 # classify the label
                 label = classify_footnote(xml_footnote)
 
-                edition = id_to_edition[int(letter_id)]
+                edition = id_to_edition[letter_id]
                 csv_writer.writerow([letter_id, edition, n_footnote, n_sentence, xml_footnote, xml_sentence, text_footnote, text_sentence, len_footnote, pos_footnote, label])
                 counter += 1
                 
@@ -239,20 +240,36 @@ def classify_footnote(text):
 
     dictionary = r"<bibl.*?>(SI|Grimm)</bibl>"
     lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
-    # lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$)"
+    no_caps = r"[^A-ZÖÄÜ]+$"
+    
+    missing = r"([Uu]nbekannt.|[Nn]icht erhalten.)$"
 
-    self_ref = r"<bibl.*?>(HBBW|HBBibl)</bibl>"
+    
 
-    # Todo: "nicht erhalten", "unbekannt" etc. type='missing'
+    self_ref = r"<bibl.*?>(HBBW)</bibl>"
+
+    # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
+    # vgl. oben
+    # sonstige Querverweise? 
+    inner_ref = r"([Ss]iehe (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"
 
     if re.findall(dictionary, text):
         return "lex_dict"
 
+    if re.match(missing, text):
+        return "missing"
+    
     elif re.match(lex_regex, text):
+        return "lex"
+    
+    elif re.match(no_caps, text):
         return "lex"
     
     elif re.findall(self_ref, text):  # drin lassen...
         return "self_ref"
+    
+    elif re.findall(inner_ref, text):
+        return "inner_ref"
 
     else:
         return "misc"
@@ -269,7 +286,7 @@ if __name__ == "__main__":
     mode = args.mode 
     outfilename = args.outfilename 
     infolder = args.infolder
-    id_to_edition_map = args.editions
+    id_to_edition_map = args.id_to_edition_map
     # call the model to make the dataframes (takes a long time when calling through the ipynb somehow...)
     with open("data/id_to_edition_map.json", "r", encoding="utf-8") as injson:
         id_to_edition = json.load(injson)
