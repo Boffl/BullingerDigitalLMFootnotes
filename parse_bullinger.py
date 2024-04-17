@@ -242,7 +242,7 @@ def classify_footnote(text):
     lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
     no_caps = r"[^A-ZÖÄÜ]+$"
     
-    missing = r"([Uu]nbekannt.|[Nn]icht erhalten.)$"
+    missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)$"
 
     
 
@@ -251,7 +251,7 @@ def classify_footnote(text):
     # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
     # vgl. oben
     # sonstige Querverweise? 
-    inner_ref = r"([Ss]iehe (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"
+    inner_ref = r"([Ss]iehe( dazu)? (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"
 
     if re.findall(dictionary, text):
         return "lex_dict"
@@ -268,8 +268,11 @@ def classify_footnote(text):
     elif re.findall(self_ref, text):  # drin lassen...
         return "self_ref"
     
-    elif re.findall(inner_ref, text):
+    elif re.match(inner_ref, text):
         return "inner_ref"
+    
+    elif len(text.split()) < 6:
+        return "short"
 
     else:
         return "misc"
