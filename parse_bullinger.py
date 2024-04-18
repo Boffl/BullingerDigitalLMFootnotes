@@ -103,7 +103,7 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
                 pos_footnote = footnote_pos(n_footnote, text_sentence)
 
                 # classify the label
-                label = classify_footnote(xml_footnote)
+                label = classify_footnote(text_footnote, xml_footnote)
 
                 edition = id_to_edition[letter_id]
                 csv_writer.writerow([letter_id, edition, n_footnote, n_sentence, xml_footnote, xml_sentence, text_footnote, text_sentence, len_footnote, pos_footnote, label])
@@ -236,40 +236,55 @@ def test_downsize():
 
 
 
-def classify_footnote(text):
+def classify_footnote(text, xml_str):
     # quoting a dictionary
     dictionary = r"<bibl.*?>(SI|Grimm)</bibl>"
-    # Regex for lexical footnotes, that do not quote any dictionary
-    lex_regex = r"(^=|[A-Za-zäöüÄÖÜß]+\.$|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
-    no_caps = r"[^A-ZÖÄÜß]+$"
+    # referencing another edition
+    self_ref = r"<bibl.*?>(HBBW( (II?I?)?V?I?I?I?X?X?)?)</bibl>"
+
+    # referencing the bible (and indicated in the xml)
+    bible_ref = r"(Vgl\. |Siehe )?<cit[^>]+?type=\"bible\""
+
+
+    # Regex for the text of the footnote:
+
     # indicating a missing source (like a previous letter that is mentioned)
     missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)$"
-    # referencing another edition
-    self_ref = r"<bibl.*?>(HBBW)</bibl>"
+
+    # referencing the same edition
+    inner_ref = r"([Ss]iehe( dazu)? (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"  # S.O. and S.u. etc, seem not to be used
+
+    # Regex for lexical footnotes, that do not quote any dictionary
+    lex_regex = (r"(^="  # starts with =
+                "|([A-Za-zäöüÄÖÜß]+,? ?){1,3}[\.!]$"  # no more than 3 words, sometimes ending in ! if a verb in imperative
+                "|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
+                "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
+
+
 
     # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
     # vgl. oben
     # sonstige Querverweise? 
-    # referencing the same edition
-    inner_ref = r"([Ss]iehe( dazu)? (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"
 
-    if re.findall(dictionary, text):
+
+    if re.findall(dictionary, xml_str):
         return "lex_dict"
 
+    elif re.findall(self_ref, xml_str):  # drin lassen...
+        return "self_ref"
+    
+    elif re.match(bible_ref, xml_str):
+        return "bible"
+    
     if re.match(missing, text):
         return "missing"
     
-    elif re.match(lex_regex, text):
-        return "lex"
-    
-    elif re.match(no_caps, text):
-        return "lex"
-    
-    elif re.findall(self_ref, text):  # drin lassen...
-        return "self_ref"
-    
     elif re.match(inner_ref, text):
         return "inner_ref"
+    
+    elif re.match(lex_regex, text):
+        return "lex"
+
     
     elif len(text.split()) < 6:
         return "short"
