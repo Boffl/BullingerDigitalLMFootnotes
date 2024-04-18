@@ -237,20 +237,20 @@ def test_downsize():
 
 
 def classify_footnote(text):
-
+    # quoting a dictionary
     dictionary = r"<bibl.*?>(SI|Grimm)</bibl>"
-    lex_regex = r"(^=|[A-Za-zäöüÄÖÜ]+\.$|[A-Za-zäöüÄÖÜ]+: [A-Za-zäöüÄÖÜ]+)"
-    no_caps = r"[^A-ZÖÄÜ]+$"
-    
+    # Regex for lexical footnotes, that do not quote any dictionary
+    lex_regex = r"(^=|[A-Za-zäöüÄÖÜß]+\.$|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
+    no_caps = r"[^A-ZÖÄÜß]+$"
+    # indicating a missing source (like a previous letter that is mentioned)
     missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)$"
-
-    
-
+    # referencing another edition
     self_ref = r"<bibl.*?>(HBBW)</bibl>"
 
     # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
     # vgl. oben
     # sonstige Querverweise? 
+    # referencing the same edition
     inner_ref = r"([Ss]iehe( dazu)? (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"
 
     if re.findall(dictionary, text):
