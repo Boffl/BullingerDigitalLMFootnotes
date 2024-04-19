@@ -260,7 +260,7 @@ def classify_footnote(text, xml_str):
                 "|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
                 "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
 
-
+    no_xml = r"[^<]+$"
 
     # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
     # vgl. oben

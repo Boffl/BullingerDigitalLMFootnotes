@@ -1,8 +1,12 @@
 import matplotlib.pyplot as plt
 from collections import Counter
+import pandas as pd
 
 # Example Counter object
 counter_obj = Counter(['a', 'b', 'a', 'c', 'a', 'b', 'c', 'c', 'a', 'b'])
+
+# nice color map:
+cmap = plt.get_cmap('tab10')
 
 def pie(counter_obj, max):
     # Sort the Counter object by values
@@ -37,32 +41,6 @@ def pie(counter_obj, max):
     plt.legend(wedges, legend_labels, loc='center left', bbox_to_anchor=(1, 0.5), fontsize='small')
     plt.title('Distribution of Values')
     
-    plt.show()
-    return
-
-    # Plotting the pie chart
-    plt.figure(figsize=(8, 6))
-    wedges, texts, autotexts = plt.pie(sizes, autopct='', startangle=140)
-
-    # Adding labels outside the pie with proper spacing
-    plt.gca().legend(wedges, labels, loc='center left', bbox_to_anchor=(1, 0, 0.5, 1))
-    plt.title('Distribution of Values')
-
-    # Adding percentages outside the pie
-    for autotext in autotexts:
-        autotext.set_visible(False)
-
-    for i, (item, size) in enumerate(zip(labels, sizes)):
-        plt.text(1.1, i / len(labels), f'{item}: {size / total_count:.1%}', transform=plt.gca().transAxes)
-
-    plt.show()
-    return
-
-    # Plotting the pie chart
-    plt.figure(figsize=(8, 6))
-    plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
-    plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    plt.title('Distribution of Values')
     plt.show()
 
 
@@ -102,3 +80,62 @@ def bar(counter_obj, max, exeed=True):
         plt.text(bar.get_x() + bar.get_width() / 2, height, f'{pct:.1f}%', ha='center', va='bottom', color='black')
 
     plt.show()
+
+
+def label_trends(df):
+    # Todo: use this template...
+    
+
+
+    # Group by Year and Label, and calculate the count of each label in each year
+    grouped = df.groupby(['edition', 'label']).size().reset_index(name='Count')
+
+    # Pivot the table to have years as rows and labels as columns
+    pivot_table = grouped.pivot_table(index='edition', columns='label', values='Count', fill_value=0)
+
+    # Calculate the percentage of each label in each year
+    percentages = pivot_table.div(pivot_table.sum(axis=1), axis=0) * 100
+
+    # Set edition column as index
+    percentages.index = pd.Categorical(percentages.index)
+
+    # Sort the index
+    percentages = percentages.sort_index()
+
+
+    # Generate a list of colors for each label
+    num_colors = len(percentages.columns)
+    colors = [cmap(i) for i in range(num_colors)]
+
+    # Remove the misc label, as it does not add more information
+    percentages = percentages.drop(columns=['misc'])
+
+    # Plot the percentages
+    percentages.plot(kind='line', marker='o', color=colors)
+    plt.title('Percentage of footnotes, per edition')
+    plt.xlabel('Edition')
+    plt.ylabel('Percentage')
+    plt.legend(title='')
+    plt.grid(True)
+    # Move legend to the right of the plot
+    plt.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
+
+    plt.tight_layout()
+    plt.show()
+
+
+def label_pie(df):
+    grouped = df.groupby('label').size().reset_index(name='Count')
+
+    # Generate a list of colors for each label
+    num_colors = len(grouped)
+    colors = [cmap(i) for i in range(num_colors)]
+
+    # Plot a pie chart
+    plt.figure(figsize=(8, 8))
+    plt.pie(grouped['Count'], labels=grouped['label'], autopct='%1.1f%%', startangle=140, colors=colors, radius=0.5)
+    plt.title('')
+    plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle
+
+    plt.show()
+
