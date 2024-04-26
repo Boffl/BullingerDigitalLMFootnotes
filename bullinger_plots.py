@@ -83,10 +83,7 @@ def bar(counter_obj, max, exeed=True):
 
 
 def label_trends(df):
-    # Todo: use this template...
-    
-
-
+  
     # Group by Year and Label, and calculate the count of each label in each year
     grouped = df.groupby(['edition', 'label']).size().reset_index(name='Count')
 
