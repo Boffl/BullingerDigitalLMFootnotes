@@ -237,16 +237,15 @@ def test_downsize():
 
 
 def classify_footnote(text, xml_str):
-    # quoting a dictionary
-    dictionary = r"<bibl.*?>(SI|Grimm)</bibl>"
+    # quoting a dictionary: Schweizer Idiotikon, Grimm, Otto (latin)
+    # Note that "Fischer" is used for quoting from "schwäbisches Wörterbuch" AND "Conrrad Gessner 1515-1565". But from all I can tell only in one instance it is the latter...
+    dictionary = r"<bibl.*?>(SI|Grimm|Otto|Fischer)</bibl>"
     # referencing another edition
     self_ref = r"<bibl.*?>(HBBW( (II?I?)?V?I?I?I?X?X?)?)</bibl>"
 
     # referencing the bible (and indicated in the xml)
     bible_ref = r"(Vgl\. |Siehe )?<cit[^>]+?type=\"bible\""
 
-
-    # Regex for the text of the footnote:
 
     # indicating a missing source (like a previous letter that is mentioned)
     missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)$"
@@ -260,23 +259,18 @@ def classify_footnote(text, xml_str):
                 "|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
                 "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
 
-    no_xml = r"[^<]+$"
-
-    # Todo: "Siehe Oben|unten" oder "Oben" gehört auch zu den self_refs?
-    # vgl. oben
-    # sonstige Querverweise? 
 
 
     if re.findall(dictionary, xml_str):
         return "lex_dict"
 
-    elif re.findall(self_ref, xml_str):  # drin lassen...
+    elif re.findall(self_ref, xml_str):  
         return "self_ref"
     
     elif re.match(bible_ref, xml_str):
         return "bible"
     
-    if re.match(missing, text):
+    elif re.match(missing, text):
         return "missing"
     
     elif re.match(inner_ref, text):
@@ -284,9 +278,8 @@ def classify_footnote(text, xml_str):
     
     elif re.match(lex_regex, text):
         return "lex"
-
     
-    elif len(text.split()) < 6:
+    elif len(text.split()) < 6:  # on the text without markup!!
         return "short"
 
     else:
