@@ -258,6 +258,9 @@ def classify_footnote(text, xml_str):
                 "|([A-Za-zäöüÄÖÜß]+,? ?){1,3}[\.!]$"  # no more than 3 words, sometimes ending in ! if a verb in imperative
                 "|[A-Za-zäöüÄÖÜß]+: [A-Za-zäöüÄÖÜß]+)"
                 "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
+    
+    # biliographien (only the bullinger bibliography that is cited enough to care)
+    bibl = r"<bibl.*?>HBBibl</bibl>"
 
 
 
@@ -278,6 +281,9 @@ def classify_footnote(text, xml_str):
     
     elif re.match(lex_regex, text):
         return "lex"
+    
+    elif re.findall(bibl, xml_str):
+        return "bibl"
     
     elif len(text.split()) < 6:  # on the text without markup!!
         return "short"
