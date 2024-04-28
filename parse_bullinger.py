@@ -95,9 +95,9 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
                 xml_sentence = get_node_string(sentence)
 
                 # replace footnote elements with all content by '__<n>'
-                xml_sentence = footnote_placeholder(xml_sentence)
+                xml_sentence_no_fn = footnote_placeholder(xml_sentence)
                 # remove all other markup (assumption is that everything not in footnotes is purely for markup reasons)
-                text_sentence = remove_markup(xml_sentence)
+                text_sentence = remove_markup(xml_sentence_no_fn)
                 text_footnote = remove_markup(xml_footnote)
                 len_footnote = len_text(text_footnote)
                 pos_footnote = footnote_pos(n_footnote, text_sentence)
