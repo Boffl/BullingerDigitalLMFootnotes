@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11795" type="Brief" source="HBBW" n="1749">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11795" type="Brief" source="HBBW-13" n="1749">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 31. Mai 1543</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 31. Mai 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,15 +18,15 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Ebrius ille, qui huc venerat explorandi gratia, num laepra sit infectus, insalutato me discessit; unde literas, quas tibi scripseram, huc usque retinui; eas nunc per d. <persName>Clarerum</persName>, fratrem dilectum, mitto.</s>
-					<s n="3" xml:lang="la" type="auto">Iuvi, quantum potui, et porro non negabo operam meam <persName>Clarero</persName>, verum ita, ut nihil praeter decorum egisse videar.</s>
-					<s n="4" xml:lang="la" type="auto">Sunt multi civium filii, quibus nondum obtigit, quod illius<note xml:id="fn3" type="footnote" n="3"><persName>Klarer</persName> bemühte sich bei der Zürcher Schulbehörde um eine Aufbesserung der Stipendien für seine Söhne Abraham und Lukas, welche die Fraumünsterschule besuchten; vgl. <hi>Egli,</hi> aaO, S. 370f.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Ebrius ille<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>, qui huc venerat explorandi gratia, num laepra sit infectus, insalutato me discessit; unde literas, quas tibi scripseram, huc usque retinui; eas nunc per d. <persName ref="p1861" cert="high">Clarerum</persName>, fratrem dilectum, mitto.</s>
+					<s n="3" xml:lang="la" type="auto">Iuvi, quantum potui, et porro non negabo operam meam <persName ref="p1861" cert="high">Clarero</persName>, verum ita, ut nihil praeter decorum egisse videar.</s>
+					<s n="4" xml:lang="la" type="auto">Sunt multi civium filii, quibus nondum obtigit, quod illius<note xml:id="fn3" type="footnote" n="3"><persName ref="p1861" cert="high">Klarer</persName> bemühte sich bei der Zürcher Schulbehörde um eine Aufbesserung der Stipendien für seine Söhne Abraham und Lukas, welche die Fraumünsterschule besuchten; vgl. <hi>Egli,</hi> aaO, S. 370f.</note>.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Novarum, ut vocant, rerum habeo nihil, nisi quod audimus multos de morte caesaris<note xml:id="fn4" type="footnote" n="4">Zu den Gerüchten über den Tod Kaiser <persName>Kaiser Karls V.</persName> vgl. oben <ref target="file11756">Nr. 1711</ref>, 25-33 mit Anm. 16.</note> nescio quid spargere, alios rursus constanter asseverare caesarem venisse in <placeName>Italiam</placeName>.</s>
-					<s n="6" xml:lang="la" type="auto">Putavi iam olim te vidisse breve apostolicum, quo <placeName>Helvetios</placeName> vocat <placeName>Tridentum</placeName>,<note xml:id="fn5" type="footnote" n="5"><persName>Papst Paul III.</persName> hatte am 22. bzw. 23. Dezember 1542 ein Schreiben an <placeName>Luzern</placeName> und ein anderes an Zürich, <placeName>Bern</placeName>, Basel und <placeName>Schaffhausen</placeName> gerichtet; s. <bibl>CT</bibl> IV 295f, <ref target="file10262">Nr. 231</ref>f.</note> alioqui misissem citius; nunc per d. <persName>Klarerum</persName> mitto, sed ita, ut reddas.</s>
+					<s n="5" xml:lang="la" type="auto">Novarum, ut vocant, rerum habeo nihil, nisi quod audimus multos de morte caesaris<note xml:id="fn4" type="footnote" n="4">Zu den Gerüchten über den Tod Kaiser <persName ref="p18538" cert="high">Kaiser Karls V.</persName> vgl. oben <ref target="file11756">Nr. 1711</ref>, 25-33 mit Anm. 16.</note> nescio quid spargere, alios rursus constanter asseverare caesarem venisse in <placeName ref="l16" cert="high">Italiam</placeName>.</s>
+					<s n="6" xml:lang="la" type="auto">Putavi iam olim te vidisse breve apostolicum, quo <placeName ref="l196" cert="high">Helvetios</placeName> vocat <placeName ref="l1107" cert="high">Tridentum</placeName>,<note xml:id="fn5" type="footnote" n="5"><persName ref="p19981" cert="high">Papst Paul III.</persName> hatte am 22. bzw. 23. Dezember 1542 ein Schreiben an <placeName ref="l300" cert="high">Luzern</placeName> und ein anderes an Zürich, <placeName ref="l41" cert="high">Bern</placeName>, Basel und <placeName ref="l441" cert="high">Schaffhausen</placeName> gerichtet; s. <bibl>CT</bibl> IV 295f, <ref target="file10262">Nr. 231</ref>f.</note> alioqui misissem citius; nunc per d. <persName ref="p1861" cert="high">Klarerum</persName> mitto, sed ita, ut reddas.</s>
 					<s n="7" xml:lang="la" type="auto">Iste<note xml:id="fn6" type="footnote" n="6">D. h. der Papst.</note> more suo agit, nos more nostro agemus.<pb type="edition" next="147"/></s>
-					<s n="8" xml:lang="la" type="auto">Vale, mi <persName>Vadiane</persName>, et me ama.</s>
+					<s n="8" xml:lang="la" type="auto">Vale, mi <persName ref="p8049" cert="high">Vadiane</persName>, et me ama.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la" type="auto">Tiguri, ultima maii, hora nocturna 9., anno 1543.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12950" type="Brief" source="HBBW" n="2901">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12950" type="Brief" source="HBBW-20" n="2901">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 16. Mai 1547</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 16. Mai 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Tu taces,<note xml:id="fn1" type="footnote" n="1">Daraus wird deutlich, dass Myconius zu diesem Zeitpunkt Bullingers Brief vom 18. Mai (<ref target="file12952">Nr. 2903</ref>) noch nicht erhalten hatte. Bullinger entschuldigte sich darin für sein langes Schweigen.</note> et mihi non est, quod scribam, non ob argumentorum inopiam, sed copiam potius, unde tamen seligere haud licet, quod velim.</s>
 					<s n="3" xml:lang="la" type="auto">Misera sunt omnia et nos miseri cum primis!</s>
-					<s n="4" xml:lang="la" type="auto">Nemo eorum, qui circum nos sunt<note xml:id="fn2" type="footnote" n="2">Die Bewohner der vorderösterreichischen Gebiete um <placeName>Basel</placeName>.</note>, non clamant nunc tandem finem instare cęsare<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> perpetuo per Germaniam victore foederis superbi Helvetiorum; nunc talionem illos laturos effusi per totum orbem sanguinis!</s>
+					<s n="4" xml:lang="la" type="auto">Nemo eorum, qui circum nos sunt<note xml:id="fn2" type="footnote" n="2">Die Bewohner der vorderösterreichischen Gebiete um <placeName ref="l28" cert="high">Basel</placeName>.</note>, non clamant nunc tandem finem instare cęsare<note xml:id="fn3" type="footnote" n="3"><persName ref="p18538" cert="high">Karl V.</persName></note> perpetuo per Germaniam victore foederis superbi Helvetiorum; nunc talionem illos laturos effusi per totum orbem sanguinis!</s>
 					<s n="5" xml:lang="la" type="auto">Et profecto, inquiunt, tempus est, ut insolentes istorum spiritus aliquando compescantur.</s>
 					<s n="6" xml:lang="la" type="auto">Omnia mala induxerunt ipsi in Germaniam usque etiam ad blasphemias!</s>
 					<s n="7" xml:lang="la" type="auto">Summa: Visitabuntur a Carolo.</s>
@@ -47,9 +47,9 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="20" xml:lang="la" type="auto">Tantilla hęc potui ob festinam <persName>Wolfii</persName><note xml:id="fn4" type="footnote" n="4"><persName>Johannes Wolf</persName>, der sich immer wieder nach <placeName>Basel</placeName> begab.</note> abitionem.</s>
-					<s n="21" xml:lang="la" type="auto">Vale in domino cum tuis, <persName>Pellicano</persName>, <persName>Theodoro</persName><note xml:id="fn5" type="footnote" n="5"><persName>Theodor Bibliander</persName>.</note> et <persName>Gvalthero</persName>, cui scripsissem, si novissem in tempore adesse <persName>Wolfium</persName>.</s>
-					<s n="22" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim 16. maii anno 1547.</s>
+					<s n="20" xml:lang="la" type="auto">Tantilla hęc potui ob festinam <persName ref="p3988" cert="high">Wolfii</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p3988" cert="high">Johannes Wolf</persName>, der sich immer wieder nach <placeName ref="l28" cert="high">Basel</placeName> begab.</note> abitionem.</s>
+					<s n="21" xml:lang="la" type="auto">Vale in domino cum tuis, <persName ref="p8127" cert="high">Pellicano</persName>, <persName ref="p8171" cert="high">Theodoro</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> et <persName ref="p8011" cert="high">Gvalthero</persName>, cui scripsissem, si novissem in tempore adesse <persName ref="p3988" cert="high">Wolfium</persName>.</s>
+					<s n="22" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, raptim 16. maii anno 1547.</s>
 					<s n="23" xml:lang="la" type="auto">Tuus Os. Myc.<pb type="edition" next="198"/></s>
 				</p>
 				<p>

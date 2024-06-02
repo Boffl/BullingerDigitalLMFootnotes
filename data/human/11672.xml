@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11672" type="Brief" source="ET" n="108">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11672" type="Brief" source="ET-I" n="108">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Richard Hilles / Straßburg AN Heinrich Bullinger, 10. Mai 1542</title>
+				<title subtype="file">Richard Hilles / Straßburg an Heinrich Bullinger, 10. Mai 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,9 +21,9 @@
 					<s n="3" xml:lang="la" type="auto">Deus Optimus Maximus propositum tuum bene fortunet, atque eidem felicem det successum!</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">De tonso panno nihil cum H. Falcknero <placeName>Francofordiae</placeName> actum est; atque de pretio non est cur speret me vel batzium unum libenter velle aut posse abscindere.</s>
+					<s n="4" xml:lang="la" type="auto">De tonso panno nihil cum H. Falcknero <placeName ref="l157" cert="high">Francofordiae</placeName> actum est; atque de pretio non est cur speret me vel batzium unum libenter velle aut posse abscindere.</s>
 					<s n="5" xml:lang="la" type="auto">Si tamen aliquid ejusdem panni superest, mihi illud huc mittat in nostris nundinis contentus sum; ac tam lubenti animo recipiam reliquum pannum quam pecuniam ipsam: non enim me fallit, qualis erat pannus ille.</s>
-					<s n="6" xml:lang="la" type="auto">Ulnae <placeName>Francofordiensis</placeName> vix pretium posui 11 batziorum cum crucifero; et si hic habuissem eundem pannum, pro duodecim batziis per integrum ulnam <placeName>Argentinensem</placeName> cito potuissem vendere.</s>
+					<s n="6" xml:lang="la" type="auto">Ulnae <placeName ref="l157" cert="high">Francofordiensis</placeName> vix pretium posui 11 batziorum cum crucifero; et si hic habuissem eundem pannum, pro duodecim batziis per integrum ulnam <placeName ref="l492" cert="high">Argentinensem</placeName> cito potuissem vendere.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Obsecro te, mi domine, ut ne diutius differemus aliquid de eo constituere, quod propter pauperes exules de eodem panno destinavi; dimidium pretii ejusdem scilicet, aut, si mavis, totum.</s>
@@ -35,11 +35,11 @@
 					<s n="13" xml:lang="la" type="auto">Si objiciat, non tanti valuisse pannum, tum precor, ut quantum sit reliquum ab eo recipias, atque isthic amicis tuis, si poteris, vendas; aut, quod malim (ne tuis studiis foret impedimento), mihi huc per aliquem mercatorem transferri cures: atque ego tibi vicissim tantam pecuniam Tiguri fideliter mittam.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto">Quod tuis literis <persName>Petrum</persName> Hurtzel, imprimis autem Andream Rappenstein, ita mihi commendas gaudeo; atque si tantum cognovisset uxor mea in proximis nundinis, non postulasset C. Froschoverum pro illis fideijussorem.</s>
+					<s n="14" xml:lang="la" type="auto">Quod tuis literis <persName ref="p5353" cert="high">Petrum Hurtzel</persName>, imprimis autem <persName ref="p6168" cert="high">Andream Rappenstein</persName>, ita mihi commendas gaudeo; atque si tantum cognovisset uxor mea in proximis nundinis, non postulasset <persName ref="p1227" cert="high">C. Froschoverum</persName> pro illis fideijussorem.</s>
 					<s n="15" xml:lang="la" type="auto">Oro tamen ut ne aegre ferant, quod per meam uxorem hac in re actum sit.</s>
 					<s n="16" xml:lang="la" type="auto">Illa namque nunquam antea eos viderat, neque, quod memini, unquam illos a me commendatos, ut digni sunt, audierat.</s>
-					<s n="17" xml:lang="la" type="auto">Isti duo boni homines <placeName>Francofordiae</placeName> me fideliter tractarunt in praecedentibus nundinis: debuerunt enim tum mihi circiter 133 florenos, quos omnes praeter tres mihi per D. Conradum Ebleum miserunt.</s>
-					<s n="18" xml:lang="la" type="auto">Henricus autem non mecum tam bona fide agit: ille namque debuit mihi praeteritis nundinis (praeter praedictum pannum tonsum) circa 200 florenos; ex quibus loco batziorum (in Rabpemintze) 46 tantum florenos et 14 batzios Basilee solvit pro amico quodam meo: atque eosdem tam intempestive solvebat, ut amicum illum meum oportuisset ab Argentorato servum suum cum 20 ex eisdem florenis 46 in quadragesima misisse <placeName>Basileae</placeName>, quia Falcknerus in tam parva etiam re, quod promisit, non praestitisset.</s>
+					<s n="17" xml:lang="la" type="auto">Isti duo boni homines <placeName ref="l157" cert="high">Francofordiae</placeName> me fideliter tractarunt in praecedentibus nundinis: debuerunt enim tum mihi circiter 133 florenos, quos omnes praeter tres mihi per D. Conradum Ebleum miserunt.</s>
+					<s n="18" xml:lang="la" type="auto">Henricus autem non mecum tam bona fide agit: ille namque debuit mihi praeteritis nundinis (praeter praedictum pannum tonsum) circa 200 florenos; ex quibus loco batziorum (in Rabpemintze) 46 tantum florenos et 14 batzios Basilee solvit pro amico quodam meo: atque eosdem tam intempestive solvebat, ut amicum illum meum oportuisset ab Argentorato servum suum cum 20 ex eisdem florenis 46 in quadragesima misisse <placeName ref="l28" cert="high">Basileae</placeName>, quia Falcknerus in tam parva etiam re, quod promisit, non praestitisset.</s>
 					<s n="19" xml:lang="la" type="auto">Butlerus frater patrimonium suum in Anglia totum, ut per literas accepi, in quadragesima proxima vendidit: sed omnem suam pecuniam tum non adhuc recepit.</s>
 					<s n="20" xml:lang="la" type="auto">Metuo autem illi, ne postquam per sororium suum illum aulicum hoc quod fecit ad aures regis pervenerit, denuo exire regnum interdicatur.</s>
 					<s n="21" xml:lang="la" type="auto">Eliotus studet juri civili, vel, ut rectius dicam, regni nostri legibus: tantumque profecit in eo ordine, ut jam munus habeat, unde proventus fere 200 florenorum annuatim accipiat.</s>

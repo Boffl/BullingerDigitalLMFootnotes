@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12783" type="Brief" source="HBBW" n="2734">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12783" type="Brief" source="HBBW-19" n="2734">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Matthias Claudius (Clodius) / [St. Gallen] AN Heinrich Bullinger, 1. Januar 1547</title>
+				<title subtype="file">Matthias Claudius (Clodius) / [St. Gallen] an Heinrich Bullinger, 1. Januar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,7 +21,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="2" xml:lang="la" type="auto">Quoniam ad inanes meas et petaces literas,<note xml:id="fn1" type="footnote" n="1"><persName>Claudius</persName>' Brief vom 1. Dezember 1546 <hi>(HBBW</hi> XVIII, <ref target="file12746">Nr. 2699</ref>).</note> vir doctissime et longe humanissime, tam blande et amice per dominum d. <persName>Vadianum</persName>,<note xml:id="fn2" type="footnote" n="2">Mit einem nicht erhaltenen Brief, mit dem Bullinger vermutlich auf <persName>Vadians</persName> Brief vom 11. Dezember <hi>(HBBW</hi> XVIII, <ref target="file12761">Nr. 2714</ref>) antwortete.</note> unicum (quod venia tua dixerim) Helvetiae ornamentum, me resalutasti et ad scribendum invitasti, inhumanum et ab omni mansuetudine alienum me facere existimarem, nisi eum animi candorem, quem propter humanitatis studia video mihi propensum, offitio aliquo vel literis studeam demereri.</s>
+					<s n="2" xml:lang="la" type="auto">Quoniam ad inanes meas et petaces literas,<note xml:id="fn1" type="footnote" n="1"><persName ref="p8311" cert="high">Claudius</persName>' Brief vom 1. Dezember 1546 <hi>(HBBW</hi> XVIII, <ref target="file12746">Nr. 2699</ref>).</note> vir doctissime et longe humanissime, tam blande et amice per dominum d. <persName ref="p8049" cert="high">Vadianum</persName>,<note xml:id="fn2" type="footnote" n="2">Mit einem nicht erhaltenen Brief, mit dem Bullinger vermutlich auf <persName ref="p8049" cert="high">Vadians</persName> Brief vom 11. Dezember <hi>(HBBW</hi> XVIII, <ref target="file12761">Nr. 2714</ref>) antwortete.</note> unicum (quod venia tua dixerim) Helvetiae ornamentum, me resalutasti et ad scribendum invitasti, inhumanum et ab omni mansuetudine alienum me facere existimarem, nisi eum animi candorem, quem propter humanitatis studia video mihi propensum, offitio aliquo vel literis studeam demereri.</s>
 					<s n="3" xml:lang="la" type="auto">Etsi indignus sim consuetudine et familiaritate tantorum virorum perfrui, tamen id non virtuti aut eruditioni aut ullis meritis meis tribuendum, sed humanitati, comitati et mansuetudini vestrae, quae in vobis prae aliis virtutibus elucent, acceptum referendum puto.</s>
 					<s n="4" xml:lang="la" type="auto">Siquidem verus studiorum fructus est iis esse moribus, quos omnes ament, eaque gloria praeditum, quae virtute comparata omnes homines in admirationem, studium atque emulationem sui invitet, rapiat et pertrahat.</s>
 					<s n="5" xml:lang="la" type="auto">Nam ego istiusmodi viros, in quibus antiquae virtutis et integritatis vestigia expressa et elucere video, qualem profecto te in animo <pb type="edition" next="72"/> meo esse iudico, tanquam numen aliquod amplector, amo et veneror, atque declaratus sum re ipsa, ubi occasio aliqua tuae humanitati inserviendi data fuerit.</s>
@@ -30,23 +30,23 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="6" xml:lang="la" type="auto">Iam multa non habeo, quae scribam.</s>
-					<s n="7" xml:lang="la" type="auto">Nova ab hero<note xml:id="fn3" type="footnote" n="3"><persName>Hieronymus Sailer</persName>; vgl. <bibl>HBBW</bibl> XVIII 351 und Anm. 3; 421 und Anm. 30.</note> petii, ut tibi communicaret, qui te quam offitiosissime salutat.</s>
+					<s n="7" xml:lang="la" type="auto">Nova ab hero<note xml:id="fn3" type="footnote" n="3"><persName ref="p6355" cert="high">Hieronymus Sailer</persName>; vgl. <bibl>HBBW</bibl> XVIII 351 und Anm. 3; 421 und Anm. 30.</note> petii, ut tibi communicaret, qui te quam offitiosissime salutat.</s>
 					<s n="8" xml:lang="la" type="auto">Petit autem se excusatum haberi, qui rerum novarum nihil sibi nunc esse, quae vobis non sint notae.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="9" xml:lang="la" type="auto">Ceterum <placeName>Ulmenses</placeName> ab imperialibus civitatibus defecisse certum est, et a caesare<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> his conditionibus in deditionem accepti sunt, ut iure iurando confirment, primo ne ullum unquam foedus cum quibuscunque ineant; secundo ut possessiones sacerdotum, praeter ius occupatas olim, illis integras restituant; tertio ut iugo papistico sese sub-<pb type="scan" next="64"/>mittant vel sacerdotes et monachos recipiant; quarto ut auxilium adversus Turcas, si opus fuerit, mittant.</s>
-					<s n="10" xml:lang="la" type="auto">Quae defectio quam periculosa sit reliquis imperii civitatibus, praesertim <placeName>Augustae</placeName>, futura, pro tua prudentia expende.</s>
+					<s n="9" xml:lang="la" type="auto">Ceterum <placeName ref="l513" cert="high">Ulmenses</placeName> ab imperialibus civitatibus defecisse certum est, et a caesare<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538" cert="high">Karl V.</persName></note> his conditionibus in deditionem accepti sunt, ut iure iurando confirment, primo ne ullum unquam foedus cum quibuscunque ineant; secundo ut possessiones sacerdotum, praeter ius occupatas olim, illis integras restituant; tertio ut iugo papistico sese sub-<pb type="scan" next="64"/>mittant vel sacerdotes et monachos recipiant; quarto ut auxilium adversus Turcas, si opus fuerit, mittant.</s>
+					<s n="10" xml:lang="la" type="auto">Quae defectio quam periculosa sit reliquis imperii civitatibus, praesertim <placeName ref="l1976" cert="high">Augustae</placeName>, futura, pro tua prudentia expende.</s>
 					<s n="11" xml:lang="la" type="auto">Nam si has conditiones detrectabunt, undique hostibus septi, pedem extra moenia collocare tutum non erit.</s>
 					<s n="12" xml:lang="la" type="auto">Si accipient, quanta piacula committent, quantum nefas in deum et homines parent?</s>
-					<s n="13" xml:lang="la" type="auto">Quid vero aliud expectandum sit quam nobilis Germaniae exitium,<note xml:id="fn7" type="footnote" n="7">Vgl. die von <placeName>Augsburg</placeName> an <placeName>Ulm</placeName> am 22. Dezember 1546 gerichteten Vorwürfe; s. <hi>Keim,</hi> aaO, S. 385.</note> quam restauratio idololatriae, prophanatio sacrorum omnium,<note xml:id="fn8" type="footnote" n="8">Vgl. Dan 11, 31; Mt 24, 15.</note> abusus sacramentorum, denique Christi abnegatio.</s>
+					<s n="13" xml:lang="la" type="auto">Quid vero aliud expectandum sit quam nobilis Germaniae exitium,<note xml:id="fn7" type="footnote" n="7">Vgl. die von <placeName ref="l1976" cert="high">Augsburg</placeName> an <placeName ref="l513" cert="high">Ulm</placeName> am 22. Dezember 1546 gerichteten Vorwürfe; s. <hi>Keim,</hi> aaO, S. 385.</note> quam restauratio idololatriae, prophanatio sacrorum omnium,<note xml:id="fn8" type="footnote" n="8">Vgl. <cit type="bible"><ref>Dan 11, 31</ref></cit>; <cit type="bible"><ref>Mt 24, 15</ref></cit>.</note> abusus sacramentorum, denique Christi abnegatio.</s>
 					<s n="14" xml:lang="la" type="auto">Quis est, qui dubitat?</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="15" xml:lang="la" type="auto">Ex <placeName>Antverpia</placeName> scribitur domino<note xml:id="fn9" type="footnote" n="9"><persName>Sailer</persName>.</note> lantgravium<note xml:id="fn10" type="footnote" n="10"><persName>Philipp von Hessen</persName>.</note> cum <persName>Heinricho</persName>, duce Brunsvicense in vinculis retento,<note xml:id="fn11" type="footnote" n="11"><persName>Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>, der seit dem 21. Oktober 1545 vom Landgrafen gefangen gehalten wurde; s. <bibl>HBBW</bibl> XVI 26 und Anm. 107.</note> collocutum esse, inde se ad Mauritium ducem<note xml:id="fn12" type="footnote" n="12"><persName>Moritz von Sachsen</persName>.</note> contulisse;<note xml:id="fn13" type="footnote" n="13">Beide Nachrichten sind falsch. Allerdings war geplant, dass der Landgraf am 21. Dezember <persName>Moritz</persName> in Leipzig hätte treffen sollen; s. <hi><persName>Moritz von Sachsen</persName> PK</hi> II/2 969, <ref target="file11126">Nr. 1083</ref>; 975f, <ref target="file11130">Nr. 1087</ref>.</note> item magnum pondus argenti colligi in Inferiori Germania et alteram partem annuorum censuum sacerdotum recidere ad restaurandum multo saevius bellum quam ante.<pb type="edition" next="73"/></s>
+					<s n="15" xml:lang="la" type="auto">Ex <placeName ref="l15" cert="high">Antverpia</placeName> scribitur domino<note xml:id="fn9" type="footnote" n="9"><persName ref="p6355" cert="high">Sailer</persName>.</note> lantgravium<note xml:id="fn10" type="footnote" n="10"><persName ref="p3590" cert="high">Philipp von Hessen</persName>.</note> cum <persName ref="p18770" cert="high">Heinricho</persName>, duce Brunsvicense in vinculis retento,<note xml:id="fn11" type="footnote" n="11"><persName ref="p18770" cert="high">Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>, der seit dem 21. Oktober 1545 vom Landgrafen gefangen gehalten wurde; s. <bibl>HBBW</bibl> XVI 26 und Anm. 107.</note> collocutum esse, inde se ad <persName ref="p18250" cert="high">Mauritium ducem</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p18250" cert="high">Moritz von Sachsen</persName>.</note> contulisse; item magnum pondus argenti colligi in <placeName ref="l20" cert="high">Inferiori Germania</placeName> et alteram partem annuorum censuum sacerdotum recidere ad restaurandum multo saevius bellum quam ante.<pb type="edition" next="73"/></s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -54,8 +54,8 @@
 					<s n="16" xml:lang="la" type="auto">Christus suam ecclesiam inter mille pericula conservet, gubernet et liberet!</s>
 					<s n="17" xml:lang="la" type="auto">Vale.</s>
 					<s n="18" xml:lang="la" type="auto">Calendis ianuarii 1547.</s>
-					<s n="19" xml:lang="la" type="auto"><persName>Mathias Claudius</persName>, filiorum<note xml:id="fn14" type="footnote" n="14">Bartholomäus und Anton.</note> Hie.</s>
-					<s n="20" xml:lang="la" type="auto"><persName>Saileri</persName> paedagogus, amplitudini tuae studiosissimus.</s>
+					<s n="19" xml:lang="la" type="auto"><persName ref="p8311" cert="high">Mathias Claudius</persName>, filiorum<note xml:id="fn14" type="footnote" n="14">Bartholomäus und Anton.</note> Hie.</s>
+					<s n="20" xml:lang="la" type="auto"><persName ref="p6355" cert="high">Saileri</persName> paedagogus, amplitudini tuae studiosissimus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>

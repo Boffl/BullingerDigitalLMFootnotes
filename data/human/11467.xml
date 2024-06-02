@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11467" type="Brief" source="HBBW" n="1424">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11467" type="Brief" source="HBBW-10" n="1424">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [Herbst 1540]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [Herbst 1540]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -34,7 +34,7 @@
 				<p>
 					<s n="13" xml:lang="la" type="auto">Vale in domino Christo.</s>
 					<s n="14" xml:lang="la" type="manual">Amen.</s>
-					<s n="15" xml:lang="la" type="auto"><persName>Grynęus</persName> tuus.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Grynęus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

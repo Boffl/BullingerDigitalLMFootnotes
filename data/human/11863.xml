@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11863" type="Brief" source="GR" n="43">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11863" type="Brief" source="GR-I" n="43">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 19. November 1543</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 19. November 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -22,7 +22,7 @@
 					<s n="4" xml:lang="la" type="auto">Pensionarii ante annos fere duos offensi et correctionis impatientes vindictam querunt, cum papistis conspirant, episcopum inflant et ad deteriora dirigunt, opem pollicentur.</s>
 					<s n="5" xml:lang="la" type="auto">Nos divexamur variis modis, ut sub ipsius potestatem denuo redigamur.</s>
 					<s n="6" xml:lang="la" type="auto">Deus optimus maximus suis adesse dignetur.</s>
-					<s n="7" xml:lang="la" type="auto"><persName ref="p4253">Ioanni Blasio</persName>, collegae meo, male suus cessit dyalogus.</s>
+					<s n="7" xml:lang="la" type="auto"><persName ref="p396" cert="high">Ioanni Blasio</persName>, collegae meo, male suus cessit dyalogus.</s>
 					<s n="8" xml:lang="la" type="auto">Utinam continuisset se a scribendo, quod illi nobisque perutile fuisset!</s>
 					<s n="9" xml:lang="la" type="auto">Ego iam per integrum annum et plus male habui in capite meo morbo quodam, quem ego medicinae inexpertus diffinire non scio.</s>
 					<s n="10" xml:lang="la" type="auto">Ego fere mihi aliisque inutilis factus, maxime in isto tempore, cum omnia perplexa, intricata confusaque sunt, ut vix sim ferendo.</s>

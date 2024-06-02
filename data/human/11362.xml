@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11362" type="Brief" source="HBBW" n="1319">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11362" type="Brief" source="HBBW-9" n="1319">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leonhard Brunner (Fontanus) / Worms AN Heinrich Bullinger, 20. Oktober 1539</title>
+				<title subtype="file">Leonhard Brunner (Fontanus) / Worms an Heinrich Bullinger, 20. Oktober 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Salutem tibi per Christum precor, doctissime simulac charissime Heinrice.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Cum nuncius iste mihi contingeret, volui multa ad te scribere.</s>
+					<s n="2" xml:lang="la" type="auto">Cum nuncius<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> iste mihi contingeret, volui multa ad te scribere.</s>
 					<s n="3" xml:lang="la" type="auto">Att[!] soli mihi tot incumbunt onera tam domestica quam ecclesiastica, ut vix hiscere detur.</s>
 					<s n="4" xml:lang="la" type="auto">Ne tamen nihil ad te, unicum id te scire volo.</s>
 				</p>
@@ -35,7 +35,7 @@
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Vale, [ex Worma]tia, in domino, 20. octobris anno 1539.</s>
-					<s n="12" xml:lang="la" type="auto"><persName>Leonhartus Fontanus</persName>, verbi minister apud<lb/> <placeName>Vangiones</placeName><note xml:id="fn6" type="footnote" n="6">d. h. in <placeName>Worms</placeName>.</note>.</s>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p8302" cert="high">Leonhartus Fontanus</persName>, verbi minister apud<lb/> <placeName ref="l569" cert="high">Vangiones</placeName><note xml:id="fn6" type="footnote" n="6">d. h. in <placeName ref="l569" cert="high">Worms</placeName>.</note>.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Habeo certe seria, quae tibi scribam, sed hodie non vacat; quaeram tamen nuncium, cum quo cetera.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11740" type="Brief" source="HBBW" n="1695">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11740" type="Brief" source="HBBW-12" n="1695">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Stumpf, 24. November 1542</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Stumpf, 24. November 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -15,7 +15,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">H. Bullingerus Stumphio.</s>
+					<s n="1" xml:lang="la" type="auto">H. Bullingerus <persName ref="p3067" cert="high">Stumphio</persName>.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Gratiam et pacem etc.</s>
@@ -28,15 +28,15 @@
 					<s n="7" xml:lang="la" type="auto">Adieci quaedam, quae invenies; iis, ubi fueris usus, remittas.</s>
 					<s n="8" xml:lang="la" type="auto">Cupio enim ex animo institutum tuum promovere, ne dum iuvare.</s>
 					<s n="9" xml:lang="la" type="auto">Nec parcam laboribus ac sumptibus meae quidem tenuitati congruentibus etc.</s>
-					<s n="10" xml:lang="la" type="auto">Digestio 13 librorum videtur plus habitura lucis, gratiae, evidentiae<note xml:id="fn3" type="footnote" n="3"><persName>Stumpf</persName> hielt an seiner Einteilung in dreizehn Bücher fest, wie der Druck des Jahres 1547/48 zeigt.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Digestio 13 librorum videtur plus habitura lucis, gratiae, evidentiae<note xml:id="fn3" type="footnote" n="3"><persName ref="p3067" cert="high">Stumpf</persName> hielt an seiner Einteilung in dreizehn Bücher fest, wie der Druck des Jahres 1547/48 zeigt.</note>.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Proinde perge eum sequi ordinem, quem instituis.</s>
-					<s n="12" xml:lang="la" type="auto">Expecto tuam Germaniam<note xml:id="fn4" type="footnote" n="4">Im Druck des Jahres 1547/48 handelt das zweite Buch von <placeName>Deutschland</placeName>.</note> et quae absolvisti.</s>
+					<s n="12" xml:lang="la" type="auto">Expecto tuam Germaniam<note xml:id="fn4" type="footnote" n="4">Im Druck des Jahres 1547/48 handelt das zweite Buch von <placeName ref="l7" cert="high">Deutschland</placeName>.</note> et quae absolvisti.</s>
 					<s n="13" xml:lang="la" type="auto">Mira cum voluptate illa lego, quae mittis.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto">Dominus servet te una cum uxore<note xml:id="fn5" type="footnote" n="5"><persName>Regula, geb. Brennwald</persName>.</note> incolumem.</s>
+					<s n="14" xml:lang="la" type="auto">Dominus servet te una cum uxore<note xml:id="fn5" type="footnote" n="5"><persName ref="p6730" cert="high">Regula, geb. Brennwald</persName>.</note> incolumem.</s>
 					<s n="15" xml:lang="la" type="auto">Tiguri, 24. novembris 1542.</s>
 				</p>
 			</div>

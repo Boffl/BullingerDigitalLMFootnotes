@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11488" type="Brief" source="HBBW" n="1445">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11488" type="Brief" source="HBBW-10A" n="1445">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [September 1535 oder März/April 1537]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [September 1535 oder März/April 1537]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">De Melchiore<note xml:id="fn2" type="footnote" n="2">Gemeint ist zweifellos der in Briefen aus <placeName>Basel</placeName> öfter erwähnte Zürcher Student Melchior Wirz (vgl. HBBW VI <ref target="file10923">[Nr. 882]</ref>, S. 402f, Anm. 4).</note> quod verebare, ne ingenio esset feroculo, securum esse te iubeo; aut enim fallit ille me vehementer aut est iuvenis optimus.</s>
+					<s n="2" xml:lang="la" type="auto">De Melchiore<note xml:id="fn2" type="footnote" n="2">Gemeint ist zweifellos der in Briefen aus <placeName ref="l28" cert="high">Basel</placeName> öfter erwähnte Zürcher Student Melchior Wirz (vgl. HBBW VI <ref target="file10923">[Nr. 882]</ref>, S. 402f, Anm. 4).</note> quod verebare, ne ingenio esset feroculo, securum esse te iubeo; aut enim fallit ille me vehementer aut est iuvenis optimus.</s>
 					<s n="3" xml:lang="la" type="auto">Exercet discendo se vehementer et studio fervet, neque dubium est, quin sit profecturus egregie.</s>
 					<s n="4" xml:lang="la" type="auto">Dolet hoc solum mihi, quod defungi ego meo officio satis non possim.</s>
 				</p>
@@ -29,13 +29,13 @@
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Libellum Zwinglii nostri de providentia<note xml:id="fn4" type="footnote" n="4">Gemeint ist Zwinglis "Sermonis de providentia dei anamnema" von 1530 (Z VI/III 1-230).</note> inspexi iam aliquando ac haud scio, an animi mihi tantum sit, qui per hos abyssos sequi herois illius sublimitatem queam.</s>
-					<s n="8" xml:lang="la" type="auto">Cupio de scripto sententiam tuam audire prius, ac facies vehementer gratam mihi rem, si eam, cum vacat, perscripseris, magis etiam gratam, si de eadem re Leonis<note xml:id="fn5" type="footnote" n="5"><persName ref="p6796">Leo Jud</persName>.</note> nostri iudicium identidem indicaris.</s>
+					<s n="8" xml:lang="la" type="auto">Cupio de scripto sententiam tuam audire prius, ac facies vehementer gratam mihi rem, si eam, cum vacat, perscripseris, magis etiam gratam, si de eadem re <persName ref="1753" type="auto_name">Leonis</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p1753" cert="high">Leo Jud</persName>.</note> nostri iudicium identidem indicaris.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la" type="auto">Vale nunc et me ama.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto"><persName>Grynaeus</persName> tuus.</s>
+					<s n="10" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Grynaeus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

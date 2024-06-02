@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11112" type="Brief" source="GR" n="10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11112" type="Brief" source="GR-I" n="10">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 18. November 1537</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 18. November 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,7 +28,7 @@
 					<s n="10" xml:lang="la" type="auto">Nihil apud nos agitur neque fertur, quod tuis auribus dignum sit; tantum hoc praecor, ut me in amicorum tuorum albo recenseas.</s>
 					<s n="11" xml:lang="la" type="auto">Vale, vir doctissime.</s>
 					<s n="12" xml:lang="la" type="auto">Ex Curia Rhetiae, quarta decima kalendas Decembres 37.</s>
-					<s n="13" xml:lang="la" type="auto">Plurimum salvere iubeo Leonem nostrum et Cůnradum Pellicanum.</s>
+					<s n="13" xml:lang="la" type="auto">Plurimum salvere iubeo Leonem nostrum et Cůnradum <persName ref="p8127" cert="high">Pellicanum</persName>.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Tuus Ioannes Comander.</s>

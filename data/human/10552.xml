@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10552" type="Brief" source="HBBW" n="516">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10552" type="Brief" source="HBBW-5" n="516">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ludwig Lopadius (Hafa) / [Konstanz] AN Heinrich Bullinger, zwischen [19.] Januar 1535 und [24.] Januar 1535</title>
+				<title subtype="file">Ludwig Lopadius (Hafa) / [Konstanz] an Heinrich Bullinger, zwischen [19.] Januar 1535 und [24.] Januar 1535</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,23 +26,23 @@
 					<s n="6" xml:lang="la" type="auto">Est autem compendiaria Graecae grammaticae institutio.</s>
 					<s n="7" xml:lang="la" type="auto">Ea nunc in manibus est; brevi composuero.</s>
 					<s n="8" xml:lang="la" type="auto">Meis et aliis puto non mediocriter posse prodesse, qui volent graecari.</s>
-					<s n="9" xml:lang="la" type="auto">Prolixior est <persName ref="p6490">Melanchthonis</persName> grammatica<note xml:id="fn4" type="footnote" n="4"><persName>Melanchthons</persName> Griechisch-Grammatik war erstmals im Jahre 1518 erschienen (vgl. <bibl>MO</bibl> XX 3-180).</note>, quam ut libeat tocies praelegere puerique assequi valeant.</s>
+					<s n="9" xml:lang="la" type="auto">Prolixior est <persName ref="p2095" cert="high">Melanchthonis</persName> grammatica<note xml:id="fn4" type="footnote" n="4"><persName ref="p2095" cert="high">Melanchthons</persName> Griechisch-Grammatik war erstmals im Jahre 1518 erschienen (vgl. <bibl>MO</bibl> XX 3-180).</note>, quam ut libeat tocies praelegere puerique assequi valeant.</s>
 					<s n="10" xml:lang="la" type="auto">Tu vero vel solus omnium huius rei confector esse videris.</s>
 					<s n="11" xml:lang="la" type="auto">Scio enim tuas preces apud librorum excusores multum habere momenti et ponderis.</s>
 					<s n="12" xml:lang="la" type="auto">Peto igitur, ut haec epitome apud vos excudatur, ubi commodum fuerit.</s>
-					<s n="13" xml:lang="la" type="auto">Exacto mense februario grammaticam illam gręcam breviusculam per nuncium mittam, si prius tuum recepero responsum et consilium<note xml:id="fn6" type="footnote" n="6">Vgl. den <persName>Lopadius</persName>-Brief vom 7. Februar, unten <ref target="file10559">Nr. 523</ref>.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Exacto mense februario grammaticam illam gręcam breviusculam per nuncium mittam, si prius tuum recepero responsum et consilium<note xml:id="fn6" type="footnote" n="6">Vgl. den <persName ref="p8405" cert="high">Lopadius</persName>-Brief vom 7. Februar, unten <ref target="file10559">Nr. 523</ref>.</note>.</s>
 					<s n="14" xml:lang="la" type="auto">Tu ergo, si quod datur scribendi temporis, des sodes mihi te paululum.</s>
 					<s n="15" xml:lang="la" type="auto">In pręsens ne diutius animum tuum obtundam.</s>
-					<s n="16" xml:lang="la" type="auto">Nihil addam deinceps, nisi quod et <persName>Bibliandro</persName> de hoc nonnihil scripsi<note xml:id="fn7" type="footnote" n="7">Nicht erhalten.</note>, quem non arbitror mihi defuturum.</s>
+					<s n="16" xml:lang="la" type="auto">Nihil addam deinceps, nisi quod et <persName ref="p8171" cert="high">Bibliandro</persName> de hoc nonnihil scripsi<note xml:id="fn7" type="footnote" n="7">Nicht erhalten.</note>, quem non arbitror mihi defuturum.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">Saluta <persName>Pellicanum</persName> et omnes mei amantes, in primis vero tuam laudatissimam familiam.</s>
+					<s n="17" xml:lang="la" type="auto">Saluta <persName ref="p8127" cert="high">Pellicanum</persName> et omnes mei amantes, in primis vero tuam laudatissimam familiam.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la" type="auto">24. calendas februarii 35.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Tuus <persName>Ludovicus Lopadius</persName>.</s>
+					<s n="19" xml:lang="la" type="auto">Tuus <persName ref="p8405" cert="high">Ludovicus Lopadius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

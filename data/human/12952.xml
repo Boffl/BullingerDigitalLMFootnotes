@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12952" type="Brief" source="HBBW" n="2903">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12952" type="Brief" source="HBBW-20" n="2903">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 18. [Mai] 1547</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Oswald Myconius (Geißhüsler), 18. [Mai] 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,54 +18,54 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
 					<s n="2" xml:lang="la" type="auto">Quamquam nihil modo, quod scribam, habeo, vir colendissime, volui tamen diuturnum illud silentium meum excusare.</s>
-					<s n="3" xml:lang="la" type="auto">Lavimus una <persName>Pellicanus</persName> et ego cum aliquot bonis civibus <placeName>Urdorffii</placeName>, quo post Pascha<note xml:id="fn2" type="footnote" n="2">1547 fiel Ostern auf den 10. April. - Die Badenden hielten sich vom 17. April bis zum 11. Mai in <placeName>Urdorf</placeName> (<placeName>Kt. Zürich</placeName>) auf; s. <ref target="file12935">Nr. 2886</ref>, <ptr target="qvfn17153-2" type="qv"/>.</note> abivimus; redivimus superioribus diebus.</s>
+					<s n="3" xml:lang="la" type="auto">Lavimus una <persName ref="p8127" cert="high">Pellicanus</persName> et ego cum aliquot bonis civibus <placeName ref="l515" cert="high">Urdorffii</placeName>, quo post Pascha<note xml:id="fn2" type="footnote" n="2">1547 fiel Ostern auf den 10. April. - Die Badenden hielten sich vom 17. April bis zum 11. Mai in <placeName ref="l515" cert="high">Urdorf</placeName> (<placeName ref="l803" cert="high">Kt. Zürich</placeName>) auf; s. <ref target="file12935">Nr. 2886</ref>, <ptr target="qvfn17153-2" type="qv"/>.</note> abivimus; redivimus superioribus diebus.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="4" xml:lang="la" type="auto">Plures literas amicorum, etiam tuas 23. aprilis datas<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note>, accepi.</s>
-					<s n="5" xml:lang="la" type="auto">Caeterum illis, quas ex Suevia scribunt amici,<note xml:id="fn4" type="footnote" n="4">Gemeint ist, wie es aus unten Z. <ptr target="qvzl17169-1" type="qv"/> hervorgeht, die Niederlage und die Gefangennahme des Kurfürsten (<hi>elector</hi>) <persName>Johann Friedrich I. von Sachsen</persName>. - Siehe dazu <ref target="file12943">Nr. 2894</ref>, <ptr target="qvfn17159-1" type="qv"/>.</note> credere non possum.</s>
+					<s n="5" xml:lang="la" type="auto">Caeterum illis, quas ex Suevia scribunt amici,<note xml:id="fn4" type="footnote" n="4">Gemeint ist, wie es aus unten Z. <ptr target="qvzl17169-1" type="qv"/> hervorgeht, die Niederlage und die Gefangennahme des Kurfürsten (<hi>elector</hi>) <persName ref="p19065" cert="high">Johann Friedrich I. von Sachsen</persName>. - Siehe dazu <ref target="file12943">Nr. 2894</ref>, <ptr target="qvfn17159-1" type="qv"/>.</note> credere non possum.</s>
 					<s n="6" xml:lang="la" type="auto">Non enim congruit et constat sibi narratio.</s>
 					<s n="7" xml:lang="la" type="auto">Expectamus ergo in diem certiora et planiora.</s>
-					<s n="8" xml:lang="la" type="auto">De electoris captivitate et rursus de strage caesaris<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> facta a Saxonibus et Bohemis<note xml:id="fn6" type="footnote" n="6">Solche Nachrichten waren in Bullingers Briefwechsel schon älter und kamen nicht alle aus  <placeName>Süddeutschland</placeName>; s. <ref target="file12931">Nr. 2882</ref>,<ptr target="qvzl17149-1" type="qv"/>; <ref target="file12932">Nr. 2883</ref>,<ptr target="qvzl17150-3" type="qv"/>; und <ref target="file12934">Nr. 2885</ref>,<ptr target="qvzl17152-2" type="qv"/>. Vielleicht hatte er Ähnliches aus Briefen an Drittpersonen erfahren.</note> loquor.</s>
-					<s n="9" xml:lang="la" type="auto">Sunt enim, qui dicant electore semel captum, mox red-<pb type="edition" next="200"/>emptum esse!<note xml:id="fn7" type="footnote" n="7">Bullinger hatte (vgl. nämlich unten Z. <ptr target="qvzl17169-6" type="qv"/>) eine entsprechende Nachricht von <persName>Haller</persName> aus <placeName>Augsburg</placeName> erhalten (s. <ref target="file12943">Nr. 2894</ref>,<ptr target="qvzl17159-13" type="qv"/>), hielt sie aber offenbar für unsicher!</note></s>
-					<s n="10" xml:lang="la" type="auto">Certum tamen est caesareanos <placeName>Augustae</placeName> et <placeName>Ulmae</placeName> calendis maii et pridie calendarum triumphasse:</s>
-					<s n="11" xml:lang="de" type="manual">Die <placeName>Augspurger</placeName> habend fröud geschossen, das der wal by dem roten thoor inen yngefallen ist!<note xml:id="fn8" type="footnote" n="8">Vgl. <ref target="file12943">Nr. 2894</ref>,<ptr target="qvzl17159-14" type="qv"/>.</note></s>
+					<s n="8" xml:lang="la" type="auto">De electoris captivitate et rursus de strage caesaris<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538" cert="high">Karl V.</persName></note> facta a Saxonibus et Bohemis<note xml:id="fn6" type="footnote" n="6">Solche Nachrichten waren in Bullingers Briefwechsel schon älter und kamen nicht alle aus  <placeName ref="l119" cert="high">Süddeutschland</placeName>; s. <ref target="file12931">Nr. 2882</ref>,<ptr target="qvzl17149-1" type="qv"/>; <ref target="file12932">Nr. 2883</ref>,<ptr target="qvzl17150-3" type="qv"/>; und <ref target="file12934">Nr. 2885</ref>,<ptr target="qvzl17152-2" type="qv"/>. Vielleicht hatte er Ähnliches aus Briefen an Drittpersonen erfahren.</note> loquor.</s>
+					<s n="9" xml:lang="la" type="auto">Sunt enim, qui dicant electore semel captum, mox red-<pb type="edition" next="200"/>emptum esse!<note xml:id="fn7" type="footnote" n="7">Bullinger hatte (vgl. nämlich unten Z. <ptr target="qvzl17169-6" type="qv"/>) eine entsprechende Nachricht von <persName ref="p8018" cert="high">Haller</persName> aus <placeName ref="l1976" cert="high">Augsburg</placeName> erhalten (s. <ref target="file12943">Nr. 2894</ref>,<ptr target="qvzl17159-13" type="qv"/>), hielt sie aber offenbar für unsicher!</note></s>
+					<s n="10" xml:lang="la" type="auto">Certum tamen est caesareanos <placeName ref="l1976" cert="high">Augustae</placeName> et <placeName ref="l513" cert="high">Ulmae</placeName> calendis maii et pridie calendarum triumphasse:</s>
+					<s n="11" xml:lang="de" type="manual">Die <placeName ref="l1976" cert="high">Augspurger</placeName> habend fröud geschossen, das der wal by dem roten thoor inen yngefallen ist!<note xml:id="fn8" type="footnote" n="8">Vgl. <ref target="file12943">Nr. 2894</ref>,<ptr target="qvzl17159-14" type="qv"/>.</note></s>
 					<s n="12" xml:lang="la" type="auto">Haec est videlicet Mercurialium hominum fides!</s>
-					<s n="13" xml:lang="la" type="auto">Tonare bombardis et epulari et iubilare, cum capiuntur et caeduntur sotii ac optimi quique viri.</s>
+					<s n="13" xml:lang="la" type="auto">Tonare bombardis et epulari et iubilare, cum capiuntur et caeduntur sotii<note xml:id="fn9" type="footnote" n="9">= socii.</note> ac optimi quique viri.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="14" xml:lang="la" type="auto">Senatus noster unanimi consensu revocat ab <placeName>Augusta</placeName> <persName>Hallerum</persName> et Romanum in patriam.</s>
+					<s n="14" xml:lang="la" type="auto">Senatus noster unanimi consensu revocat ab <placeName ref="l1976" cert="high">Augusta</placeName> <persName ref="p8018" cert="high">Hallerum</persName> et Romanum in patriam.</s>
 					<s n="15" xml:lang="la" type="auto">Nemo est, qui perfidis illis urbibus<note xml:id="fn11" type="footnote" n="11">Jene Städte nämlich, die sich dem Kaiser unterworfen hatten.</note> faveat.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="16" xml:lang="la" type="auto">Audio et <persName ref="p18198">Bucerum</persName> deditioni <placeName>Argentinensium</placeName> val[de] patrocinari et caesarisare fortiter.<note xml:id="fn12" type="footnote" n="12">Bullinger wurde offenbar von in <placeName>Basel</placeName> wohnenden Personen über den Inhalt des von <persName>Bucer</persName> an <persName>Myconius</persName> gerichteten Briefes vom 30. März 1547 (<bibl>Henrich, <persName>Myconius</persName> BW</bibl> 953, <ref target="file11111">Nr. 1068</ref>) informiert.</note></s>
+					<s n="16" xml:lang="la" type="auto">Audio et <persName ref="p467" cert="high">Bucerum</persName> deditioni <placeName ref="l492" cert="high">Argentinensium</placeName> val[de] patrocinari et caesarisare fortiter.<note xml:id="fn12" type="footnote" n="12">Bullinger wurde offenbar von in <placeName ref="l28" cert="high">Basel</placeName> wohnenden Personen über den Inhalt des von <persName ref="p467" cert="high">Bucer</persName> an <persName ref="p8418" cert="high">Myconius</persName> gerichteten Briefes vom 30. März 1547 (<bibl>Henrich, <persName ref="p8418" cert="high">Myconius</persName> BW</bibl> 953, <ref target="file11111">Nr. 1068</ref>) informiert.</note></s>
 					<s n="17" xml:lang="la" type="auto">Quo[d] si verum est, eveniet illi, quod diu ia[m] ipsi eventurum timui.</s>
-					<s n="18" xml:lang="la" type="auto">Dominus liberet n[os] a malo!<note xml:id="fn13" type="footnote" n="13">Mt 6, 13.</note></s>
+					<s n="18" xml:lang="la" type="auto">Dominus liberet n[os] a malo!<note xml:id="fn13" type="footnote" n="13"><cit type="bible"><ref>Mt 6, 13</ref></cit>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="19" xml:lang="la" type="auto">D. <persName ref="p18518">Gastio</persName> fasciculum hunc t[ra]di mox curato.</s>
+					<s n="19" xml:lang="la" type="auto">D. <persName ref="p1278" cert="high">Gastio</persName> fasciculum hunc t[ra]di mox curato.</s>
 					<s n="20" xml:lang="la" type="auto">Valeto.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="21" xml:lang="la" type="auto">Scribunt ex Ma[r]purgo <persName>Thamerus</persName> et <persName ref="p7618">Happelius</persName> 27. Aprilis datis literis Hessum<note xml:id="fn15" type="footnote" n="15"><persName>Philipp von Hessen</persName>.</note> esse in armis ac propediem moturum in papistas.<note xml:id="fn16" type="footnote" n="16">Siehe <ref target="file12932">Nr. 2883</ref>,<ptr target="qvzl17150-4" type="qv"/> (<persName>Wigand Happels</persName> Brief vom 18. April); <ref target="file12938">Nr. 2889</ref>,[5] (<persName>Theobald Thamers</persName> Brief vom 27. April).</note></s>
+					<s n="21" xml:lang="la" type="auto">Scribunt ex Ma[r]purgo <persName ref="p3138" cert="high">Thamerus</persName> et <persName ref="p1456" cert="high">Happelius</persName> 27. Aprilis datis literis <persName ref="3590" type="auto_name">Hessum</persName><note xml:id="fn15" type="footnote" n="15"><persName ref="p3590" cert="high">Philipp von Hessen</persName>.</note> esse in armis ac propediem moturum in papistas.<note xml:id="fn16" type="footnote" n="16">Siehe <ref target="file12932">Nr. 2883</ref>,<ptr target="qvzl17150-4" type="qv"/> (<persName ref="p1456" cert="high">Wigand Happels</persName> Brief vom 18. April); <ref target="file12938">Nr. 2889</ref>,[5] (<persName ref="p3138" cert="high">Theobald Thamers</persName> Brief vom 27. April).</note></s>
 					<s n="22" xml:lang="la" type="auto">Dominus servet illum!</s>
-					<s n="23" xml:lang="la" type="auto"><placeName>Tiguri</placeName>, 18. aprilis 1547.</s>
+					<s n="23" xml:lang="la" type="auto"><placeName ref="l587" cert="high">Tiguri</placeName>, 18. aprilis 1547.</s>
 					<s n="24" xml:lang="la" type="auto">Tuas expecto avide!</s>
 					<s n="25" xml:lang="la" type="auto">Bullingerus tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="26" xml:lang="la" type="auto">Clarissimo viro d. <persName>Osvaldo Myconio</persName>, fidelissimo <placeName>Basiliensis</placeName> ecclesię ministro, domino et fratri suo colendissimo.</s>
-					<s n="27" xml:lang="de" type="auto"><placeName>Basel</placeName>.</s>
+					<s n="26" xml:lang="la" type="auto">Clarissimo viro d. <persName ref="p8418" cert="high">Osvaldo Myconio</persName>, fidelissimo <placeName ref="l28" cert="high">Basiliensis</placeName> ecclesię ministro, domino et fratri suo colendissimo.</s>
+					<s n="27" xml:lang="de" type="auto"><placeName ref="l28" cert="high">Basel</placeName>.</s>
 				</p>
 			</div>
 		</body>

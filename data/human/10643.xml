@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10643" type="Brief" source="HBBW" n="605">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10643" type="Brief" source="HBBW-5" n="605">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Melchior Volmar (Rufus, Wolmar) / Isny AN Heinrich Bullinger, Kirche / [Zürich], 1. Juli 1535</title>
+				<title subtype="file">Melchior Volmar (Rufus, Wolmar) / Isny an Heinrich Bullinger, Kirche / [Zürich], 1. Juli 1535</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,7 +24,7 @@
 				</p>
 				<p>
 					<s n="4" xml:lang="la" type="auto">De rebus meis scribere nihildum certi possum.</s>
-					<s n="5" xml:lang="la" type="auto">Hic adhuc residemus, ego atque uxor<note xml:id="fn2" type="footnote" n="2"><persName>Margaretha, geb. Edel</persName> (vgl. Correspondance de <persName>Théodore de Bèze</persName>, hg. v. H. Aubert, F. Aubert und H. Meylan, Bd. I, Genf 1960. - Travaux d'Humanisme et Renaissance 40, S. 189, und Barbara <hi>Zeller-Lorenz,</hi> aaO, S. 152, Anm. 61).</note>, apud socerum<note xml:id="fn3" type="footnote" n="3"><persName>Volmars</persName> Schwiegervater war Münzmeister in <placeName>Isny</placeName> (vgl. ebd.).</note> expectantes voluntatem domini, cuius pax semper vobiscum.</s>
+					<s n="5" xml:lang="la" type="auto">Hic adhuc residemus, ego atque uxor<note xml:id="fn2" type="footnote" n="2"><persName ref="p20100" cert="high">Margaretha, geb. Edel</persName> (vgl. Correspondance de <persName ref="p8033" cert="high">Théodore de Bèze</persName>, hg. v. H. Aubert, F. Aubert und H. Meylan, Bd. I, Genf 1960. - Travaux d'Humanisme et Renaissance 40, S. 189, und Barbara <hi>Zeller-Lorenz,</hi> aaO, S. 152, Anm. 61).</note>, apud socerum<note xml:id="fn3" type="footnote" n="3"><persName ref="p8113" cert="high">Volmars</persName> Schwiegervater war Münzmeister in <placeName ref="l234" cert="high">Isny</placeName> (vgl. ebd.).</note> expectantes voluntatem domini, cuius pax semper vobiscum.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto">Datum Isnę, Rhetiae oppido, calendis iulii 1535.</s>
@@ -33,7 +33,7 @@
 					<s n="7" xml:lang="la" type="auto">Vester ex animo</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto"><persName>Melchior Rufus Volmarius</persName>.</s>
+					<s n="8" xml:lang="la" type="auto"><persName ref="p8113" cert="high">Melchior Rufus Volmarius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

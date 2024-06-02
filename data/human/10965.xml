@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10965" type="Brief" source="HBBW" n="923">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10965" type="Brief" source="HBBW-6" n="923">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN [Heinrich Bullinger], [frühestens Ende November 1536]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an [Heinrich Bullinger], [frühestens Ende November 1536]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -40,9 +40,9 @@
 					<s n="20" xml:lang="la" type="auto">Sed paucis dicam tibi: Nihil est, quod hic sis sollicitus.</s>
 					<s n="21" xml:lang="la" type="auto">Ego metaphysica mea ad alium usum utar.</s>
 					<s n="22" xml:lang="la" type="auto">Hoc solum animadverto et esse receptum charissimis authoribus video: ne, quod contra suprave naturam corporis est, etiam a Christi corpore totum removeamus.</s>
-					<s n="23" xml:lang="la" type="auto"><persName>Augustini</persName> 24. cap. De agone christiano<note xml:id="fn6" type="footnote" n="6"><bibl>CSEL</bibl> XLI 124f.</note> locum nosti.</s>
-					<s n="24" xml:lang="la" type="auto">Neque ego in defensionem<pb type="scan" next="||199r."/> causae eius, quam cum minime defendam, communibus vobiscum viribus semper oppugnavi, adduco, sed ut ne temere vel falsis illorum<note xml:id="fn7" type="footnote" n="7">Gemeint sind die Gegner <persName>Augustins</persName>.</note> praesidiis terreamur vel causae studio vera contemnamus.</s>
-					<s n="25" xml:lang="la" type="auto">Verum esse etiam divus <persName>Augustinus</persName> fatetur de suo corpore dominum potuisse quidvisne facere.</s>
+					<s n="23" xml:lang="la" type="auto"><persName ref="p18700" cert="high">Augustini</persName> 24. cap. De agone christiano<note xml:id="fn6" type="footnote" n="6"><bibl>CSEL</bibl> XLI 124f.</note> locum nosti.</s>
+					<s n="24" xml:lang="la" type="auto">Neque ego in defensionem<pb type="scan" next="||199r."/> causae eius, quam cum minime defendam, communibus vobiscum viribus semper oppugnavi, adduco, sed ut ne temere vel falsis illorum<note xml:id="fn7" type="footnote" n="7">Gemeint sind die Gegner <persName ref="p18700" cert="high">Augustins</persName>.</note> praesidiis terreamur vel causae studio vera contemnamus.</s>
+					<s n="25" xml:lang="la" type="auto">Verum esse etiam divus <persName ref="p18700" cert="high">Augustinus</persName> fatetur de suo corpore dominum potuisse quidvisne facere.</s>
 					<s n="26" xml:lang="la" type="auto">Locum scis,, authorem agnoscis.</s>
 					<s n="27" xml:lang="la" type="auto">Quid?</s>
 					<s n="28" xml:lang="la" type="auto">Audebimus hoc negare?</s>
@@ -54,8 +54,8 @@
 					<s n="34" xml:lang="la" type="auto">Ergo, quantumvis hoc vere dicatur, nullo tamen dicitur vel illorum causae praesidio vel nostre detrimento.</s>
 				</p>
 				<p>
-					<s n="35" xml:lang="la" type="auto">Volebam igitur, ut ultimum illum ex <persName>Vadiani</persName> libello locum <persName>Theodoro</persName> ostenderes<note xml:id="fn8" type="footnote" n="8">Siehe oben <ref target="file10955">Nr. 913</ref>, 10f.</note> sous instar in totum mundum divinitatis radios emittens corpus Christi inducentem.</s>
-					<s n="36" xml:lang="la" type="auto">Si quid in <persName ref="p18198">Bucero</persName> ferre non potest, in concive ferat facilius.</s>
+					<s n="35" xml:lang="la" type="auto">Volebam igitur, ut ultimum illum ex <persName ref="p8049" cert="high">Vadiani</persName> libello locum <persName ref="p8171" cert="high">Theodoro</persName> ostenderes<note xml:id="fn8" type="footnote" n="8">Siehe oben <ref target="file10955">Nr. 913</ref>, 10f.</note> sous instar in totum mundum divinitatis radios emittens corpus Christi inducentem.</s>
+					<s n="36" xml:lang="la" type="auto">Si quid in <persName ref="p467" cert="high">Bucero</persName> ferre non potest, in concive ferat facilius.</s>
 					<s n="37" xml:lang="la" type="auto">Idem enim uterque dicit: Christum totum, immo Christi corpus luce divinitatis plenum sous instar vim suam spargere.</s>
 					<s n="38" xml:lang="la" type="auto">Nulla darem, quam quod ex finito utrinque corpore hinc quidem finita, istic infinita vis egressa haec cuncta potenter et infinite, illa non omnem, sed sensibilem hunc mundum totum replet.</s>
 					<s n="39" xml:lang="la" type="auto">De scripto meo et quidem ad epistolam tuam hactenus.</s>
@@ -69,13 +69,13 @@
 					<s n="45" xml:lang="la" type="auto">Incumbes igitur coram domino, ut in vera simplicitate cordis nostri coram domino magis magisque semper coalescamus.</s>
 				</p>
 				<p>
-					<s n="46" xml:lang="la" type="auto">De <persName>Melchiore</persName><note xml:id="fn10" type="footnote" n="10"><persName>Melchior Wirz</persName>.</note> vereor, ut possim respondere postulatis vestris.</s>
-					<s n="47" xml:lang="la" type="auto">Dudum promissa propemodum <placeName>Monstero</placeName> nostro conditio est tenui admodum stipendio apud nos merenti<note xml:id="fn12" type="footnote" n="12">Zur materiellen Lage <persName>Münsters</persName> s. <hi>Burmeister,</hi> Versuch, S. 56-59.</note>.</s>
+					<s n="46" xml:lang="la" type="auto">De <persName ref="p8465" cert="high">Melchiore</persName><note xml:id="fn10" type="footnote" n="10"><persName ref="p8465" cert="high">Melchior Wirz</persName>.</note> vereor, ut possim respondere postulatis vestris.</s>
+					<s n="47" xml:lang="la" type="auto">Dudum promissa propemodum <placeName ref="l210" cert="high">Monstero</placeName> nostro conditio est tenui admodum stipendio apud nos merenti<note xml:id="fn12" type="footnote" n="12">Zur materiellen Lage <persName ref="p2270" cert="high">Münsters</persName> s. <hi>Burmeister,</hi> Versuch, S. 56-59.</note>.</s>
 					<s n="48" xml:lang="la" type="auto">Sed videbo.</s>
 				</p>
 				<p>
 					<s n="49" xml:lang="la" type="auto">Vale tu iam in domino.</s>
-					<s n="50" xml:lang="la" type="auto">Fratres studiose omnes saluta, <persName>Theodorum</persName> nostrum in primis.</s>
+					<s n="50" xml:lang="la" type="auto">Fratres studiose omnes saluta, <persName ref="p8171" cert="high">Theodorum</persName> nostrum in primis.</s>
 				</p>
 				<p>
 					<s n="51" xml:lang="la" type="auto">Gry.</s>

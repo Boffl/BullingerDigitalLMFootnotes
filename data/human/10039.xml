@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10039" type="Brief" source="HBBW" n="14">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10039" type="Brief" source="HBBW-1" n="14">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Kappel am Albis AN Johannes Burchard, 26. Januar 1526</title>
+				<title subtype="file">Heinrich Bullinger / Kappel am Albis an Johannes Burchard, 26. Januar 1526</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,20 +16,20 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Theologiae professiori [!] eximio <persName ref="p4079">Ioanni Burckardi</persName>, <placeName>Bremgartentium</placeName> concionatori ad manus.</s>
+					<s n="1" xml:lang="la" type="auto">Theologiae professiori [!] eximio <persName ref="p263" cert="high">Ioanni Burckardi</persName>, <placeName ref="l62" cert="high">Bremgartentium</placeName> concionatori ad manus.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">Scripsimus, reverende pater, superioribus annis epistolam quandam, cui titulum fecimus: «Aetiologia, cur missa non sit sacrifitium.»<note xml:id="fn3" type="footnote" n="3">Es handelt sich um Bullingers Schreiben an Pfarrer <persName>Jakob [Frey?]</persName> vom 16. November 1524 (s. unten, Anhang II, Nr. 2).</note></s>
+					<s n="3" xml:lang="la" type="auto">Scripsimus, reverende pater, superioribus annis epistolam quandam, cui titulum fecimus: «Aetiologia, cur missa non sit sacrifitium.»</s>
 					<s n="4" xml:lang="la" type="manual">Adversus eam cum tu apologiam scripseris, proculdubio, ut fratrem errantem in viam veram reduceres, peto, ut mihi eius exemplaris facias copiam.</s>
 					<s n="5" xml:lang="la" type="auto">Paratus enim sum meliora doctus cedere, aut, si videbitur, tuis respondere.</s>
 					<s n="6" xml:lang="la" type="auto">Erit autem pro re tua non modo, quod<pb type="edition" next="91"/> fratrem lucrefacis [!] ostendisque nullo te contendendi, calumniandi aut gloriandi morbo scripsisse aliis potius quam mihi, sed hoc potissimum nomine, quod minus tua periclitabitur eruditio.</s>
 					<s n="7" xml:lang="la" type="auto">Quae proculdubio non parum videretur nutatura, etsi alias satis firma, si tantum incorrectum aliquod vitio librariorum exemplar<pb type="scan" next="||91v."/> nactus cogerer corruptis inherere paginis.</s>
 					<s n="8" xml:lang="la" type="auto">Obsecramus ergo per christianam charitatem, ut tibi et mihi consulere velis, correctum exemplar mittas et hoc tibi certo persuadeas, quod inde nec apiculus peribit.</s>
 					<s n="9" xml:lang="la" type="auto">Nam ita integrum remittam, ut neque desit gratiarum actio.</s>
-					<s n="10" xml:lang="la" type="auto">Quod si morem mihi in re honesta, optima, utili, nec minus tibi facili, gerere nolueris, quid possum ego, nisi semilaceris et male a tuo exemplare [!] rescriptis (si modo adsequar quod promissum) herere aut etiam respondere chartis<note xml:id="fn6" type="footnote" n="6">Es ist nicht bekannt, von wem Bullinger ein Exemplar des «Gesprächbüchlin» erhielt, kaum von <persName>Burchard</persName> selbst. Über das weitere Verhalten <persName>Burchards</persName> in diesem Streit schweigen die Quellen.</note>?</s>
+					<s n="10" xml:lang="la" type="auto">Quod si morem mihi in re honesta, optima, utili, nec minus tibi facili, gerere nolueris, quid possum ego, nisi semilaceris et male a tuo exemplare [!] rescriptis (si modo adsequar quod promissum) herere aut etiam respondere chartis?</s>
 					<s n="11" xml:lang="la" type="auto">Proinde fac, ut tuam decet professionem; neque enim credo, quod doctor hanc rem mihi deneges et theologie professor aliud quam theologum prestare pergas.</s>
 				</p>
 				<p>

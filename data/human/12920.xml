@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12920" type="Brief" source="HBBW" n="2871">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12920" type="Brief" source="HBBW-20" n="2871">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Blasius / [Chur] AN Heinrich Bullinger, [Ende März/Anfang April 1547]</title>
+				<title subtype="file">Johannes Blasius / [Chur] an Heinrich Bullinger, [Ende März/Anfang April 1547]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,8 +16,8 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Wie ich disen brieff bschlossen, würdt ich bericht gloubwürdig, wie in disen tagen 7000 Taliener gen Meyland komen söllendt, den negsten durch <placeName>Venediger</placeName> land uff Triendt zu ziehen, und würdt dapy ouch anzeigt, die <placeName>Venediger</placeName> werdent ynen den paas abschlahn.</s>
-					<s n="2" xml:lang="de" type="auto">Würdt diser tagen noch eigentlicher von Meyland durch specht und kaupflüdt komen, wil ich üch eigentlich berichten.</s>
+					<s n="1" xml:lang="de" type="auto">Wie ich disen brieff bschlossen, würdt ich bericht gloubwürdig, wie in disen tagen 7000 Taliener gen Meyland komen söllendt, den negsten durch <placeName ref="l522" cert="high">Venediger</placeName> land uff Triendt zu ziehen, und würdt dapy ouch anzeigt, die <placeName ref="l522" cert="high">Venediger</placeName> werdent ynen den paas<note xml:id="fn5" type="footnote" n="5">Durchgang; s. <bibl>SI</bibl> IV 1655.</note> abschlahn.</s>
+					<s n="2" xml:lang="de" type="auto">Würdt diser tagen noch eigentlicher von Meyland durch specht<note xml:id="fn6" type="footnote" n="6">Kundschafter; s. <bibl>SI</bibl> X 45.</note> und kaupflüdt komen, wil ich üch eigentlich berichten.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">Vale per d[ominum], etc.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11956" type="Brief" source="CR" n="1350">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11956" type="Brief" source="CR-9" n="1350">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Béat Comte (Comes Donzarensis) / Lausanne AN Heinrich Bullinger, 7. Mai 1544</title>
+				<title subtype="file">Béat Comte (Comes Donzarensis) / Lausanne an Heinrich Bullinger, 7. Mai 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -25,7 +25,7 @@
 					<s n="7" xml:lang="la" type="auto">Posthac ergo impera et invenies me non minus tibi obsequentem, quam par est filium esse parenti.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Responsionem tuam ad Cochlei librum adcepi, eandem symmistis ac fratribus meis communicabo simul atque perlegero: ante tamen, si quidem id fieri potest, explebo me atque exsatiabo eam ipsam saepius legendo.</s>
+					<s n="8" xml:lang="la" type="auto">Responsionem tuam ad <persName ref="p8312" cert="high">Cochlei</persName> librum adcepi, eandem symmistis ac fratribus meis communicabo simul atque perlegero: ante tamen, si quidem id fieri potest, explebo me atque exsatiabo eam ipsam saepius legendo.</s>
 					<s n="9" xml:lang="la" type="auto">Caeterum gratias tibi ago, doctissime vir et pater summe mihi observande, quod tanto munere me et dignum judicaveris et donaveris.</s>
 					<s n="10" xml:lang="la" type="auto">Atque utinam tibi ego doni possem aliquid mittere, quando nimirum beatius est dare quam adcipere.</s>
 					<s n="11" xml:lang="la" type="auto">Sed non ita visum est Domino, cujus fiat voluntas.</s>

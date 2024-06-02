@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11971" type="Brief" source="CO" n="557">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11971" type="Brief" source="CO-XI" n="557">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Calvin, 8. Juni 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Calvin, 8. Juni 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,7 +23,7 @@
 				<p>
 					<s n="3" xml:lang="la" type="auto">Guardianus fuit in coenobio quodam Franciscanorum apud Mediolanum.</s>
 					<s n="4" xml:lang="la" type="auto">Aufugit autem ne in vincula coniiceretur propter Christum.</s>
-					<s n="5" xml:lang="la" type="auto">Excepit ipsum D. Hieronymus Frickerus Bernas, qui nunc praesidem agit Mendrisii, scripsitque ad D. Pellicanum literas quas hic attulit, consilium a nobis atque auxilium postulans.</s>
+					<s n="5" xml:lang="la" type="auto">Excepit ipsum D. Hieronymus Frickerus Bernas, qui nunc praesidem agit Mendrisii, scripsitque ad D. <persName ref="p8127" cert="high">Pellicanum</persName> literas quas hic attulit, consilium a nobis atque auxilium postulans.</s>
 					<s n="6" xml:lang="la" type="auto">Ego quum viderem et intelligerom hominem esse bonum, sed non perinde doctum, qui tamen gallicae et italicae linguae peritus esset, sed huius profecto magis quam illius, ita ut nullus eius usus esset futurus in ecclesia nostra, quae alioquin etiam onerata est, literis ac viatico instructum ad vos proficisci, ac ibi locum aliquem in quo haereat quaerere suasi.</s>
 					<s n="7" xml:lang="la" type="auto">Nam non pauci referunt ecclesias in agro Bernensi et Genevensi inopia laborare ministrorum.</s>
 					<s n="8" xml:lang="la" type="auto">Commendo itaque hunc fratrem tuae caritati, si forte locus ei certus daretur, ne perpetuo cogatur oberrare.</s>

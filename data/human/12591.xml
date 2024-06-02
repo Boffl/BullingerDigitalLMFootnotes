@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12591" type="Brief" source="TUSTEP" n="2544">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12591" type="Brief" source="TUSTEP-17" n="2544">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 24. August 1546</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 24. August 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,14 +16,14 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Reddidit ammannus <persName>Voglerus</persName> omnia, quae credidisti, domine colendissime, tum etiam responsionem tuam de silentio tuo, qua mihi satisfecisti, quamquam interim de fide et amicitia tua erga me nunquam dubitarim.</s>
+					<s n="2" xml:lang="la" type="auto">Reddidit ammannus <persName ref="p8455" cert="high">Voglerus</persName> omnia, quae credidisti, domine colendissime, tum etiam responsionem tuam de silentio tuo, qua mihi satisfecisti, quamquam interim de fide et amicitia tua erga me nunquam dubitarim.</s>
 					<s n="3" xml:lang="la" type="auto">Aegre profecto tuis careo et ideo nonnunquam querelam instituo.</s>
 					<s n="4" xml:lang="la" type="auto">Scio autem, apud quem loquar.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="5" xml:lang="la" type="auto">Libellum <persName ref="p18889">Lutheri</persName> beatae memoriae, ubi ocium nactus fuero, legam; ago interim gratias, quod eo me donaveras.</s>
+					<s n="5" xml:lang="la" type="auto">Libellum <persName ref="p1974" cert="high">Lutheri</persName> beatae memoriae, ubi ocium nactus fuero, legam; ago interim gratias, quod eo me donaveras.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -40,16 +40,16 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="10" xml:lang="la" type="auto">Ex <placeName>Inferiore Germania</placeName> nihil habemus, quod ignores.</s>
-					<s n="11" xml:lang="la" type="auto">Dani, Svedi et Lacustres urbes caesaris <placeName>Brabantiam</placeName> infestare dicuntur, quibus obviam eunt dominus a <persName>Büren</persName><note xml:id="fn8" type="footnote" n="8"><persName>Maximilian von Egmont</persName>, Graf von Büren.</note> et <persName>Martinus Rossheymius</persName><note xml:id="fn9" type="footnote" n="9"><persName>Martin von Rossem</persName>.</note>, qui alioqui caesaris castra erant sequturi.</s>
+					<s n="10" xml:lang="la" type="auto">Ex <placeName ref="l20" cert="high">Inferiore Germania</placeName> nihil habemus, quod ignores.</s>
+					<s n="11" xml:lang="la" type="auto">Dani, Svedi et Lacustres urbes caesaris <placeName ref="l8" cert="high">Brabantiam</placeName> infestare dicuntur, quibus obviam eunt dominus a <persName ref="p7459" cert="high">Büren</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p7459" cert="high">Maximilian von Egmont</persName>, Graf von Büren.</note> et <persName ref="p7364" cert="high">Martinus Rossheymius</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p7364" cert="high">Martin von Rossem</persName>.</note>, qui alioqui caesaris castra erant sequturi.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Hodie finivi 9 libros commentariorum in evangelium Lucae, quos inscripsi d. <persName>Ioanni Welsero</persName>, consuli Augustano.</s>
+					<s n="12" xml:lang="la" type="auto">Hodie finivi 9 libros commentariorum in evangelium Lucae, quos inscripsi d. <persName ref="p3927" cert="high">Ioanni Welsero</persName>, consuli Augustano.</s>
 					<s n="13" xml:lang="la" type="auto">Intra quadriduum absolventur; restant enim 4 folia imprimenda.</s>
-					<s n="14" xml:lang="la" type="auto">Froschouerus non abibit <placeName>Francfordiam</placeName> propter pericula itineris.</s>
-					<s n="15" xml:lang="la" type="auto">Caetera adiiciet <persName>Voglerus</persName>.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p1227" cert="high">Froschouerus</persName> non abibit <placeName ref="l157" cert="high">Francfordiam</placeName> propter pericula itineris.</s>
+					<s n="15" xml:lang="la" type="auto">Caetera adiiciet <persName ref="p8455" cert="high">Voglerus</persName>.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
@@ -65,11 +65,11 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="19" xml:lang="la" type="auto">Has, quaeso, literas <placeName>Constantiam</placeName> perferri curato.</s>
+					<s n="19" xml:lang="la" type="auto">Has, quaeso, literas <placeName ref="l457" cert="high">Constantiam</placeName> perferri curato.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="20" xml:lang="la" type="auto">Clarissimo viro d. d[octori] <persName>Ioachimo Vadiano</persName>, consuli Sangallensis, domino suo colendissimo.</s>
+					<s n="20" xml:lang="la" type="auto">Clarissimo viro d. d[octori] <persName ref="p8049" cert="high">Ioachimo Vadiano</persName>, consuli Sangallensis, domino suo colendissimo.</s>
 					<s n="21" xml:lang="la" type="auto">Sangallen.</s>
 				</p>
 			</div>

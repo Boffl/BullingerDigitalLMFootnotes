@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12651" type="Brief" source="HBBW" n="2604">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12651" type="Brief" source="HBBW-18" n="2604">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Peter Simler (Simmler), 1. Oktober 1546</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Peter Simler (Simmler), 1. Oktober 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,13 +17,13 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="de" type="auto">Gnad und frid von gott.</s>
-					<s n="2" xml:lang="de" type="auto">Früntlicher, fürgeliepter herr und gevatter, <persName>Heinrychen</persName>, minen sun,<note xml:id="fn1" type="footnote" n="1"><persName>Heinrich Bullinger d.J.</persName> (gest. 1583) war seit dem 24. April 1543 Schüler in <placeName>Kappel</placeName> und Kostgänger bei <persName>Peter Simler</persName>; s. Zürich StA, E I 17/1, 265v.; <bibl>HBBW</bibl> XVI 219,11-16.</note> hab ich verhoͤrt<note xml:id="fn2" type="footnote" n="2">geprüft (hier: in Bezug auf seine Kenntnisse). - Bullinger war Examinator der Zürcher Schulen; s. <bibl>HBBW</bibl> XVI 407, Anm. 1.</note> und inn befunden, das es mich froͤwt, ouch in ander waͤg gespürt üwer grosse trüw, muͤy und arbeit!</s>
-					<s n="3" xml:lang="de" type="auto">Dorumb ich dann üwer lieb zum hoͤchsten danck mitt erbietung, wo ich soͤlichs umb üch, üwer liebe hußfrowen<note xml:id="fn3" type="footnote" n="3"><persName>Verena, geb. Huser</persName>; s. <hi>HIS</hi> XI 516, Nr. 5.</note> und <persName>Josiam</persName>, unsern sun, verdienen kan, das ich das gar guͦtwillig und flyssig thuͦn wil.</s>
+					<s n="2" xml:lang="de" type="auto">Früntlicher, fürgeliepter herr und gevatter, <persName ref="p487" cert="high">Heinrychen</persName>, minen sun,<note xml:id="fn1" type="footnote" n="1"><persName ref="p487" cert="high">Heinrich Bullinger d.J.</persName> (gest. 1583) war seit dem 24. April 1543 Schüler in <placeName ref="l242" cert="high">Kappel</placeName> und Kostgänger bei <persName ref="p8443" cert="high">Peter Simler</persName>; s. Zürich StA, E I 17/1, 265v.; <bibl>HBBW</bibl> XVI 219,11-16.</note> hab ich verhoͤrt<note xml:id="fn2" type="footnote" n="2">geprüft (hier: in Bezug auf seine Kenntnisse). - Bullinger war Examinator der Zürcher Schulen; s. <bibl>HBBW</bibl> XVI 407, Anm. 1.</note> und inn befunden, das es mich froͤwt, ouch in ander waͤg gespürt üwer grosse trüw, muͤy und arbeit!</s>
+					<s n="3" xml:lang="de" type="auto">Dorumb ich dann üwer lieb zum hoͤchsten danck mitt erbietung, wo ich soͤlichs umb üch, üwer liebe hußfrowen<note xml:id="fn3" type="footnote" n="3"><persName ref="p1400" cert="high">Verena, geb. Huser</persName>; s. <hi>HIS</hi> XI 516, Nr. 5.</note> und <persName ref="p8442" cert="high">Josiam</persName>, unsern sun, verdienen kan, das ich das gar guͦtwillig und flyssig thuͦn wil.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="de" type="auto">Demnach fuͤg ich üch gantz früntlicher meinung ze wüssen<note xml:id="fn5" type="footnote" n="5">füg ich ze wüssen: teile ich mit.</note>, das ich <persName>Heinrychen</persName> fürohin hie by mir daheym behallten wil uß volgenden ursachen: das ich acht, die schuͦl allhie werde nunmee wol für inn sin; das der wynter aber uns uff dem halß ligt und ich üch sampt üwer eeren hußfrowen diser unruͦw<note xml:id="fn8" type="footnote" n="8">Störung, Belastung.</note> ouch einfart<note xml:id="fn9" type="footnote" n="9">nun einmal.</note> entlade, und willige roß nitt übertrybe.<note xml:id="fn10" type="footnote" n="10">Im Sinne von nicht überbeanspruchen. - Zum Sprichwort s. <bibl>Wander</bibl> III 1734, Nr. 61.</note></s>
+					<s n="4" xml:lang="de" type="auto">Demnach fuͤg ich üch gantz früntlicher meinung ze wüssen<note xml:id="fn5" type="footnote" n="5">füg ich ze wüssen: teile ich mit.</note>, das ich <persName ref="p487" cert="high">Heinrychen</persName> fürohin hie by mir daheym behallten wil uß volgenden ursachen: das ich acht, die schuͦl allhie werde nunmee<note xml:id="fn6" type="footnote" n="6">nunmehr.</note> wol<note xml:id="fn7" type="footnote" n="7">gut.</note> für inn sin; das der wynter aber uns uff dem halß ligt und ich üch sampt üwer eeren hußfrowen diser unruͦw<note xml:id="fn8" type="footnote" n="8">Störung, Belastung.</note> ouch einfart<note xml:id="fn9" type="footnote" n="9">nun einmal.</note> entlade, und willige roß nitt übertrybe.<note xml:id="fn10" type="footnote" n="10">Im Sinne von nicht überbeanspruchen. - Zum Sprichwort s. <bibl>Wander</bibl> III 1734, Nr. 61.</note></s>
 					<s n="5" xml:lang="de" type="auto">Er wirts zwaren rüher<note xml:id="fn11" type="footnote" n="11">rauher, strenger.</note> by mir haben; er ist des aber notwendig.<pb type="edition" next="60"/></s>
 				</p>
 			</div>
@@ -31,31 +31,31 @@
 				<p>
 					<s n="6" xml:lang="de" type="auto">Wyter ist min gar ernstlich begaͤr, das ir nunmee die raͤchnung stellen und mir anzeigen woͤllind, was ich üch schuldig und ze thuͦn sye, es sye des tischs halb, über das<note xml:id="fn12" type="footnote" n="12">über das: über die Zeit hinaus.</note> er laͤnger by üch dann Josias by mir xin<note xml:id="fn13" type="footnote" n="13">gewesen (ist).</note>, ouch alles des, das ir imm gelihen und für inn uußgaͤben habend.</s>
 					<s n="7" xml:lang="de" type="auto">Und woͤllind mir das kurtz in einer summa<note xml:id="fn14" type="footnote" n="14">Aufzeichnung, Rechnung.</note> verzeichnet zuͦschicken.</s>
-					<s n="8" xml:lang="de" type="auto">Darumb wil ich üch, ob gott wil, eerlich und guͦtwillig abtragen und vernuͤgen.</s>
+					<s n="8" xml:lang="de" type="auto">Darumb wil ich üch, ob<note xml:id="fn15" type="footnote" n="15">wenn.</note> gott wil, eerlich und guͦtwillig abtragen<note xml:id="fn16" type="footnote" n="16">entschädigen.</note> und vernuͤgen.<note xml:id="fn17" type="footnote" n="17">zufriedenstellen.</note></s>
 					<s n="9" xml:lang="de" type="auto">Hiemitt woͤllend wir dorumb nitt teylt haben,<note xml:id="fn18" type="footnote" n="18">nitt teylt haben: die Zusammenarbeit (die Beziehung) nicht beendet haben.</note> sunder allte liebe und früntschafft bewaren und meeren biß in unser grab.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="10" xml:lang="de" type="auto">Nüwer zytung halb<note xml:id="fn19" type="footnote" n="19">Nüwer zytung halb: Was Neuigkeiten anbetrifft.</note> wirt üch <persName ref="p7614">Wolphgangus</persName> berichten.</s>
+					<s n="10" xml:lang="de" type="auto">Nüwer zytung halb<note xml:id="fn19" type="footnote" n="19">Nüwer zytung halb: Was Neuigkeiten anbetrifft.</note> wirt üch <persName ref="p1453" cert="high">Wolphgangus</persName> berichten.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="11" xml:lang="de" type="auto">Gott mitt üch und üwer lieben hußfrowen.</s>
-					<s n="12" xml:lang="de" type="auto"><persName>Heinrich</persName> muͦß wider kummen, ze gnaden und sin plünderli<note xml:id="fn22" type="footnote" n="22">Sachen; s. <hi>SI V</hi> 117.</note> ze holen.</s>
+					<s n="12" xml:lang="de" type="auto"><persName ref="p487" cert="high">Heinrich</persName> muͦß wider kummen, ze gnaden<note xml:id="fn21" type="footnote" n="21">ze gnaden: Abschied zu nehmen; s. <bibl>SI</bibl> II 662.</note> und sin plünderli<note xml:id="fn22" type="footnote" n="22">Sachen; s. <hi>SI V</hi> 117.</note> ze holen.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="13" xml:lang="la" type="auto">Datum 1. octobris.</s>
-					<s n="14" xml:lang="de" type="auto">Es gruͤst üch und die gefatter min<pb type="scan" next="40"/> liebe hußfrow.<note xml:id="fn24" type="footnote" n="24"><persName>Anna, geb. Adlischwyler</persName>.</note></s>
-					<s n="15" xml:lang="de" type="auto"><persName>Heinrych</persName> und alle kind<note xml:id="fn25" type="footnote" n="25">Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), <persName>Heinrich</persName> (1534), <persName>Hans Rudolf</persName> (1536), <persName>Christoph</persName> (1537), Veritas (1543) und Dorothea (1545).</note> danckend üch ouch alles guͦten.</s>
+					<s n="14" xml:lang="de" type="auto">Es gruͤst üch und die gefatter<note xml:id="fn23" type="footnote" n="23">Gemeint ist <persName ref="p8443" cert="high">Simlers</persName> Frau. - Dass "gefatter" sich auch auf eine Frau beziehen kann, geht aus <bibl>SI</bibl> I 1128 und aus dem hier verwendeten Artikel hervor.</note> min<pb type="scan" next="40"/> liebe hußfrow.<note xml:id="fn24" type="footnote" n="24"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note></s>
+					<s n="15" xml:lang="de" type="auto"><persName ref="p487" cert="high">Heinrych</persName> und alle kind<note xml:id="fn25" type="footnote" n="25">Von Bullingers Kindern lebten zu diesem Zeitpunkt Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), <persName ref="p487" cert="high">Heinrich</persName> (1534), <persName ref="p477" cert="high">Hans Rudolf</persName> (1536), <persName ref="p475" cert="high">Christoph</persName> (1537), Veritas (1543) und Dorothea (1545).</note> danckend üch ouch alles guͦten.</s>
 					<s n="16" xml:lang="de" type="auto">Der üwer alle zyt H. Bullinger.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>
-					<s n="17" xml:lang="de" type="auto">Sinem früntlichen, fürgeliepten herren und gevattern, h. <persName>Pettern Simlern</persName>, predicanten zuͦ <placeName>Cappell</placeName>.</s>
+					<s n="17" xml:lang="de" type="auto">Sinem früntlichen, fürgeliepten herren und gevattern, h. <persName ref="p8443" cert="high">Pettern Simlern</persName>, predicanten zuͦ <placeName ref="l242" cert="high">Cappell</placeName>.</s>
 				</p>
 			</div>
 		</body>

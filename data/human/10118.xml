@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10118" type="Brief" source="HBBW" n="89">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10118" type="Brief" source="HBBW-2" n="89">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 20. April [1532]</title>
+				<title subtype="file">Berchtold Haller / [Bern] an Heinrich Bullinger, 20. April [1532]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,35 +19,35 @@
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Tanto gratiores mihi semper sunt epistolae tuae, charissime Heinrice, quod non inanibus verbis, sed pietate et doctrina abundant.</s>
 					<s n="3" xml:lang="la" type="auto">Videor mihi ex illis doctior reddi nec minus etiam accedere pietati.</s>
-					<s n="4" xml:lang="la" type="auto">Dominum in te, vase suo<note xml:id="fn2" type="footnote" n="2">Vgl. Apg 9,15.</note>, non desino mirari, nec interim etiam sine sollicitudine sum, ne a sathana impetaris nimio.</s>
+					<s n="4" xml:lang="la" type="auto">Dominum in te, vase suo<note xml:id="fn2" type="footnote" n="2">Vgl. <cit type="bible"><ref>Apg 9,15</ref></cit>.</note>, non desino mirari, nec interim etiam sine sollicitudine sum, ne a sathana impetaris nimio.</s>
 					<s n="5" xml:lang="la" type="auto">Qui vitiis dediti sunt totique sathanę, hi pacem habent, qui vero tot et tantis dei donis ditati pietateque illustrati, hic non cessat.</s>
 					<s n="6" xml:lang="la" type="auto">Quare, mi charissime frater, pro te orare non desino, tibi timere non cesso, monere non abhorreo, quo perpetuo in timore domini illius donis citra philautiam omnemque ambitionem utaris.</s>
-					<s n="7" xml:lang="la" type="auto">Expertus scribo, nec a me<pb type="edition" next="108"/> olim <persName>Zuinglius</persName> identidem egre ferebat.</s>
-					<s n="8" xml:lang="la" type="auto">Applaudit tibi totus mundus, id est, quotquot vel micam pietatis habent, immo et urbis utriusque<note xml:id="fn3" type="footnote" n="3"><placeName>Bern</placeName> und Zürich.</note> papistae.</s>
+					<s n="7" xml:lang="la" type="auto">Expertus scribo, nec a me<pb type="edition" next="108"/> olim <persName ref="p4091" cert="high">Zuinglius</persName> identidem egre ferebat.</s>
+					<s n="8" xml:lang="la" type="auto">Applaudit tibi totus mundus, id est, quotquot vel micam pietatis habent, immo et urbis utriusque<note xml:id="fn3" type="footnote" n="3"><placeName ref="l41" cert="high">Bern</placeName> und Zürich.</note> papistae.</s>
 					<s n="9" xml:lang="la" type="auto">Sed quid addit sathan!</s>
 					<s n="10" xml:lang="la" type="auto">Praebet gustum, imponit superbia et nescio quibus aliis vitiis.</s>
 					<s n="11" xml:lang="la" type="auto">Dominus te nobis talem conservet, qualem dedit, qualem speramus.</s>
 					<s n="12" xml:lang="la" type="auto">Prospere procede, regnet per te Christus, et vive.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto">Rumor erat apud nos uxorem tuam<note xml:id="fn4" type="footnote" n="4"><persName>Anna Bullinger, geb. Adlischwyler</persName>.</note> et liberos<note xml:id="fn5" type="footnote" n="5">Anna und Margaretha.</note> peste periisse, sed aliter retulit tabellio.</s>
-					<s n="14" xml:lang="la" type="auto"><persName>Philippum</persName> vero Grozium in Balstal absumpsit.</s>
+					<s n="13" xml:lang="la" type="auto">Rumor erat apud nos uxorem tuam<note xml:id="fn4" type="footnote" n="4"><persName ref="p8051" cert="high">Anna Bullinger, geb. Adlischwyler</persName>.</note> et liberos<note xml:id="fn5" type="footnote" n="5">Anna und Margaretha.</note> peste periisse, sed aliter retulit tabellio<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note>.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p5028" cert="high">Philippum</persName> vero <persName ref="5028" type="auto_name">Grozium</persName> in Balstal absumpsit.</s>
 					<s n="15" xml:lang="la" type="auto">Apud nos multi male valent capitis dolore, multi moriuntur optimi viri.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Ceterum, nuncius cum festinaret, non potui ad omnia respondere, ocio tamen dato id faciam.</s>
 					<s n="17" xml:lang="la" type="auto">Nolui, ut ad te vacuus veniret, ea spe, quod nec a te vacuus redeat.</s>
-					<s n="18" xml:lang="la" type="auto">Libelli<note xml:id="fn8" type="footnote" n="8">Gemeint ist der «Tanngrotz» von <persName>Johannes Salat</persName>, s. oben <ref target="file10105">[Nr. 76]</ref> S. 80, Anm. 17.</note> illi plane mendaces utinam uno, et eo, tam brevi quam veraci a vobis diluerentur, ne tot mendaciis toti orbi traduceremur<note xml:id="fn9" type="footnote" n="9">Zu Bullingers Gegenschrift s. oben <ref target="file10111">[Nr. 82]</ref> S. 92, Anm. 33.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Libelli<note xml:id="fn8" type="footnote" n="8">Gemeint ist der «Tanngrotz» von <persName ref="p6360" cert="high">Johannes Salat</persName>, s. oben <ref target="file10105">[Nr. 76]</ref> S. 80, Anm. 17.</note> illi plane mendaces utinam uno, et eo, tam brevi quam veraci a vobis diluerentur, ne tot mendaciis toti orbi traduceremur<note xml:id="fn9" type="footnote" n="9">Zu Bullingers Gegenschrift s. oben <ref target="file10111">[Nr. 82]</ref> S. 92, Anm. 33.</note>.</s>
 					<s n="19" xml:lang="la" type="auto">Ah, si daretur vel semel tecum ad saturitatem confabulari.</s>
-					<s n="20" xml:lang="la" type="auto">Diem hunc vereor me non victurum<note xml:id="fn10" type="footnote" n="10">Vgl. <hi>Kirchhofer,</hi> <persName>Haller</persName> 209.</note>.</s>
+					<s n="20" xml:lang="la" type="auto">Diem hunc vereor me non victurum<note xml:id="fn10" type="footnote" n="10">Vgl. <hi>Kirchhofer,</hi> <persName ref="p1391" cert="high">Haller</persName> 209.</note>.</s>
 					<s n="21" xml:lang="la" type="auto">Canescunt capilli quam maxime, valetudinarius fio quam maxime, optimaque egerem valetudine.</s>
 					<s n="22" xml:lang="la" type="auto">Ora deum pro me et vale.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto"><persName>Otherus</persName> Eslingam vocatus est<note xml:id="fn11" type="footnote" n="11">Zur Berufung von <persName>Jakob Otter</persName> nach <placeName>Esslingen</placeName> s. Otter an <persName>Ambrosius Blarer</persName>, 10. April 1532 (<bibl>Blarer BW</bibl> I 335f).</note>.</s>
+					<s n="23" xml:lang="la" type="auto"><persName ref="p6022" cert="high">Otherus</persName> Eslingam vocatus est<note xml:id="fn11" type="footnote" n="11">Zur Berufung von <persName ref="p6022" cert="high">Jakob Otter</persName> nach <placeName ref="l145" cert="high">Esslingen</placeName> s. Otter an <persName ref="p8055" cert="high">Ambrosius Blarer</persName>, 10. April 1532 (<bibl>Blarer BW</bibl> I 335f).</note>.</s>
 					<s n="24" xml:lang="la" type="auto">Senatus noster ad annum permisit.</s>
-					<s n="25" xml:lang="la" type="auto"><persName ref="p2305">Leoni</persName> scripsit <persName>Megander</persName><note xml:id="fn12" type="footnote" n="12">Ein Meganderbrief dieses Inhalts an <persName ref="p6796">Leo Jud</persName> ist nicht erhalten.</note>, si quis apud vos fuerit<note xml:id="fn13" type="footnote" n="13">Nämlich einer, der zum Nachfolger <persName>Otters</persName> geeignet ist.</note>, nos visitet, modo lingua nostra non sit usque adeo barbarus.</s>
-					<s n="26" xml:lang="la" type="auto"><persName>Paulum Rasdorfer</persName> vellem, si posset ad nos solum divertere, ut audiremus eum.</s>
+					<s n="25" xml:lang="la" type="auto"><persName ref="p1753" cert="high">Leoni</persName> scripsit <persName ref="p8412" cert="high">Megander</persName><note xml:id="fn12" type="footnote" n="12">Ein Meganderbrief dieses Inhalts an <persName ref="p1753" cert="high">Leo Jud</persName> ist nicht erhalten.</note>, si quis apud vos fuerit<note xml:id="fn13" type="footnote" n="13">Nämlich einer, der zum Nachfolger <persName ref="p6022" cert="high">Otters</persName> geeignet ist.</note>, nos visitet, modo lingua nostra non sit usque adeo barbarus.</s>
+					<s n="26" xml:lang="la" type="auto"><persName ref="p8426" cert="high">Paulum Rasdorfer</persName> vellem, si posset ad nos solum divertere, ut audiremus eum.</s>
 					<s n="27" xml:lang="la" type="auto">Quem alioqui scimus pie doctum.</s>
 					<s n="28" xml:lang="la" type="auto">Curabimus pro ere viatico.</s>
 				</p>

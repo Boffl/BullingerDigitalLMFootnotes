@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11097" type="Brief" source="CO" n="78">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11097" type="Brief" source="CO-X" n="78">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Heinrich Bullinger, Leo Jud, 13. Oktober 1537</title>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern an Heinrich Bullinger, Leo Jud, 13. Oktober 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam a Domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Placuit hoc nuncio Genevensis ecclesiae confessionem eucharistiae, vocis item Adonai explicationem perspicuam, visitatoribus Capitoni et Bucero iam pridem Bernae oblatam transmittere, quo quid boni viri illi et doctissimi hisce in rebus sentiant appareat.</s>
+					<s n="2" xml:lang="la" type="auto">Placuit hoc nuncio Genevensis ecclesiae confessionem eucharistiae, vocis item Adonai explicationem perspicuam, visitatoribus <persName ref="p5565" cert="high">Capitoni</persName> et <persName ref="p467" cert="high">Bucero</persName> iam pridem Bernae oblatam transmittere, quo quid boni viri illi et doctissimi hisce in rebus sentiant appareat.</s>
 					<s n="3" xml:lang="la" type="auto">Spero me vigesima huius mensis prima sub noctem vobiscum Tiguri futurum.</s>
 					<s n="4" xml:lang="la" type="auto">Dominus vobiscum.</s>
 					<s n="5" xml:lang="la" type="auto">Bernae, 13. Octobris anno XXXVII.</s>

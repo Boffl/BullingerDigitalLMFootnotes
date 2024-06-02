@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11709" type="Brief" source="GR" n="36">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11709" type="Brief" source="GR-I" n="36">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 26. September 1542</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 26. September 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,9 +24,9 @@
 					<s n="6" xml:lang="la" type="auto">Ex illo nempe omnia ad amussim et certissima audies.</s>
 					<s n="7" xml:lang="la" type="auto">Tu me deinceps ut hucusque commendatum habeas et ex me salutem dicas fratribus.</s>
 					<s n="8" xml:lang="la" type="auto">Vale.</s>
-					<s n="9" xml:lang="la" type="auto">Ex Rhetiae <placeName>Curia</placeName>, sexto kalendas Octobris 1542.</s>
-					<s n="10" xml:lang="la" type="auto">Salutat te et omnes fratres Tigurinos frater noster Iohannes Blasius.</s>
-					<s n="11" xml:lang="la" type="auto">Tibi deditissimus <persName ref="p4564">Iohannes Comander</persName>.</s>
+					<s n="9" xml:lang="la" type="auto">Ex Rhetiae <placeName ref="l98" cert="high">Curia</placeName>, sexto kalendas Octobris 1542.</s>
+					<s n="10" xml:lang="la" type="auto">Salutat te et omnes fratres Tigurinos frater noster <persName ref="p396" cert="high">Iohannes Blasius</persName>.</s>
+					<s n="11" xml:lang="la" type="auto">Tibi deditissimus <persName ref="p654" cert="high">Iohannes Comander</persName>.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la" type="auto">Clarissimo viro magistro Heinricho Bullingero, Tigurinae urbis episcopo, domino ac fratri suo observandissimo.</s>

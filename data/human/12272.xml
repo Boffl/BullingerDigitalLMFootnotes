@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12272" type="Brief" source="HBBW" n="2225">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12272" type="Brief" source="HBBW-15" n="2225">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Gervasius Schuler (Scholasticus) / Memmingen AN Heinrich Bullinger, 25. August 1545</title>
+				<title subtype="file">Gervasius Schuler (Scholasticus) / Memmingen an Heinrich Bullinger, 25. August 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,53 +17,53 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Cum praesentium lator, vir patritius, Tigurum abiturus esset, placuit per illum ad te meas dare litteras, quibus de rebus meis certior esses, Bullingere amice incomparabilis.</s>
-					<s n="3" xml:lang="la" type="auto">Accepi primum, quos misisti, caseos,<note xml:id="fn2" type="footnote" n="2"><persName>Schuler</persName> hatte Bullinger am 23. März 1545 (s. oben <ref target="file12168">Nr. 2121</ref>, 84-87) und am 27. Mai 1545 (s. oben <ref target="file12213">Nr. 2166</ref>, 33-39) um Zusendung zweier Kräuterkäse gebeten.</note> quibus summe delector, pro quo tuo beneficio michi impenso ingentes gratias ago.</s>
-					<s n="4" xml:lang="la" type="auto">Quod vere petis a me uxori tuę<note xml:id="fn3" type="footnote" n="3"><persName>Anna, geb. Adlischwyler</persName>.</note> pro exposita pecunia linum mitti,<note xml:id="fn4" type="footnote" n="4"><persName>Schuler</persName> hatte Bullinger am 23. März 1545 (s. oben <ref target="file12168">Nr. 2121</ref>, 84-87) angeboten, seiner Ehefrau Anna (zur Bezahlung der Käse) Flachs zu senden.</note> curavi, ut decem librę optimi lini mitterentur, quas praesentium nunctius curavit, ut inde ad te veherentur.</s>
+					<s n="2" xml:lang="la" type="auto">Cum praesentium lator, vir patritius,<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> Tigurum abiturus esset, placuit per illum ad te meas dare litteras, quibus de rebus meis certior esses, Bullingere amice incomparabilis.</s>
+					<s n="3" xml:lang="la" type="auto">Accepi primum, quos misisti, caseos,<note xml:id="fn2" type="footnote" n="2"><persName ref="p8440" cert="high">Schuler</persName> hatte Bullinger am 23. März 1545 (s. oben <ref target="file12168">Nr. 2121</ref>, 84-87) und am 27. Mai 1545 (s. oben <ref target="file12213">Nr. 2166</ref>, 33-39) um Zusendung zweier Kräuterkäse gebeten.</note> quibus summe delector, pro quo tuo beneficio michi impenso ingentes gratias ago.</s>
+					<s n="4" xml:lang="la" type="auto">Quod vere petis a me uxori tuę<note xml:id="fn3" type="footnote" n="3"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note> pro exposita pecunia linum mitti,<note xml:id="fn4" type="footnote" n="4"><persName ref="p8440" cert="high">Schuler</persName> hatte Bullinger am 23. März 1545 (s. oben <ref target="file12168">Nr. 2121</ref>, 84-87) angeboten, seiner Ehefrau Anna (zur Bezahlung der Käse) Flachs zu senden.</note> curavi, ut decem librę<note xml:id="fn5" type="footnote" n="5">Pfund.</note> optimi lini mitterentur, quas praesentium nunctius curavit, ut inde ad te veherentur.</s>
 					<s n="5" xml:lang="la" type="auto">Poterit fortassis ad diem sequentem Martini<note xml:id="fn6" type="footnote" n="6">D.h. am Tag nach St. Martin, also am 12. November.</note> minoris<note xml:id="fn7" type="footnote" n="7">für einen geringeren Preis.</note> vendi, ubi temperie presenti perrexerit nobis favere dominus.</s>
 					<s n="6" xml:lang="la" type="auto">Si tibi gratum fuerit, non gravabor uxori tuę maiore comodo gratificari.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto">Ceterum quid in <placeName>Vormatiensibus</placeName> comitiis<note xml:id="fn8" type="footnote" n="8">Auf dem Reichstag zu <placeName>Worms</placeName>.</note> fixum et refixum, tandem in recessu permissum sit, non puto te latere.</s>
+					<s n="7" xml:lang="la" type="auto">Ceterum quid in <placeName ref="l569" cert="high">Vormatiensibus</placeName> comitiis<note xml:id="fn8" type="footnote" n="8">Auf dem Reichstag zu <placeName ref="l569" cert="high">Worms</placeName>.</note> fixum et refixum, tandem in recessu permissum sit, non puto te latere.</s>
 					<s n="8" xml:lang="la" type="auto">Pontificii sęviunt supra modum, exerunt omnes vires adversus veritatem.</s>
-					<s n="9" xml:lang="la" type="auto">A parte nostra aiunt d. <persName ref="p18198">Butzerum</persName>, <persName ref="p6490">Melanctonem</persName>, d. d. <persName>Casparem Crutziegerum</persName> et <persName>Vitum Dietrich</persName>, Nurnburgensem ecclesiasten, ad colloquium futurum destinatum.</s>
+					<s n="9" xml:lang="la" type="auto">A parte nostra aiunt d. <persName ref="p467" cert="high">Butzerum</persName>, <persName ref="p2095" cert="high">Melanctonem</persName>, d. d. <persName ref="p8441" cert="high">Casparem Crutziegerum</persName> et <persName ref="p4637" cert="high">Vitum Dietrich</persName>, Nurnburgensem ecclesiasten, ad colloquium futurum destinatum.</s>
 					<s n="10" xml:lang="la" type="auto">Quem pontificii selecturi sint, ignoro<note xml:id="fn10" type="footnote" n="10">Zu den Teilnehmern am Religionsgespräch s. <bibl>Vogel</bibl>, aao, S. 220-266.</note>.</s>
-					<s n="11" xml:lang="la" type="auto">Durum est contra stimulum calcitrare<note xml:id="fn11" type="footnote" n="11">Apg 9, 5; 26, 14.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Durum est contra stimulum calcitrare<note xml:id="fn11" type="footnote" n="11"><cit type="bible"><ref>Apg 9, 5</ref></cit>; <cit type="bible"><ref>26, 14.</ref></cit></note>.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la" type="auto">Svenckfeldiani magnum ecclesiis nobis circumiacentibus facessunt negotium.</s>
 					<s n="13" xml:lang="la" type="auto">Egregie tandem produnt sua venena, fuco hypochriseos oblita.</s>
-					<s n="14" xml:lang="la" type="auto">Kauffbire extrema tentarunt,<note xml:id="fn12" type="footnote" n="12">Zur Rolle der Anhänger <persName>Schwenckfelds</persName> in <placeName>Kaufbeuren (Bayern)</placeName> s. <hi>Litz,</hi> 236; Christopher W. <hi>Close,</hi> The Negotiated Reformation. Imperial Cities and the Politics of Urban Reform, 1525-1550, Cambridge 2009, S. 150-157.</note> sed vicit dominus per suam veritatem, ut tota illic ecclesia nostrum dogma receperit per omnia.</s>
-					<s n="15" xml:lang="la" type="auto">Octava die augusti me praesente sacram ędem a nundinatione missarum et idolis repurgavit <placeName>Augustanus</placeName>, <placeName>Ulmensis</placeName>, <placeName>Memmingensis</placeName> et Kampidunensis senatus; illuc nunctios<pb type="edition" next="480"/> misit viros senatorios.</s>
-					<s n="16" xml:lang="la" type="auto">Ego cum Funckio<note xml:id="fn14" type="footnote" n="14"><persName>Balthasar Funk</persName>, Bürgermeister in <placeName>Memmingen</placeName>.</note> adfui.</s>
+					<s n="14" xml:lang="la" type="auto">Kauffbire extrema tentarunt,<note xml:id="fn12" type="footnote" n="12">Zur Rolle der Anhänger <persName ref="p8441" cert="high">Schwenckfelds</persName> in <placeName ref="l245" cert="high">Kaufbeuren (Bayern)</placeName> s. <hi>Litz,</hi> 236; Christopher W. <hi>Close,</hi> The Negotiated Reformation. Imperial Cities and the Politics of Urban Reform, 1525-1550, Cambridge 2009, S. 150-157.</note> sed vicit dominus per suam veritatem, ut tota illic ecclesia nostrum dogma receperit per omnia.</s>
+					<s n="15" xml:lang="la" type="auto">Octava die augusti me praesente sacram ędem a nundinatione missarum et idolis repurgavit <placeName ref="l1976" cert="high">Augustanus</placeName>, <placeName ref="l513" cert="high">Ulmensis</placeName>, <placeName ref="l320" cert="high">Memmingensis</placeName> et Kampidunensis senatus; illuc nunctios<pb type="edition" next="480"/> misit viros senatorios.</s>
+					<s n="16" xml:lang="la" type="auto">Ego cum Funckio<note xml:id="fn14" type="footnote" n="14"><persName ref="p1257" cert="high">Balthasar Funk</persName>, Bürgermeister in <placeName ref="l320" cert="high">Memmingen</placeName>.</note> adfui.</s>
 					<s n="17" xml:lang="la" type="auto">Hii omnes nomine suorum Kouffbirenses consolati sunt auxilia promittentes, ne ullis minis absterrerentur.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la" type="auto">In summa: Dominus adfuit suis, utcunque catabaptiste et Svenckfeldiani reniterentur.</s>
 					<s n="19" xml:lang="de" type="auto">Ich hab kein boͤßer, schalckhafftiger volck nie erfaren dann die Svenckfeldianer, vollen neyd und haß, das sy übergohnd<note xml:id="fn15" type="footnote" n="15">das sy übergohnd: so dass sie überfließen.</note>, verechter aller sacramenten und alles außerlichen diensts der kirchen Christi.</s>
-					<s n="20" xml:lang="de" type="auto">Riemend sich vyl der nuwen gepurt, und sind aber in der alten gar und gantz erstorben.</s>
-					<s n="21" xml:lang="de" type="auto">Waß soll ich sagen? eß ist die recht sucht aller gotseligkeyt!</s>
-					<s n="22" xml:lang="de" type="auto">Gangend die widerteuffer schlaaffenn<note xml:id="fn18" type="footnote" n="18">Gemeint ist, dass die Schwenckfelder schlimmer als die Wiedertäufer sind; vgl. <persName>Niklaus Manuel</persName>, Krankheit und Testament der Messe, Vers 5.</note>!</s>
+					<s n="20" xml:lang="de" type="auto">Riemend<note xml:id="fn16" type="footnote" n="16">Rühmen.</note> sich vyl der nuwen gepurt, und sind aber in der alten gar und gantz erstorben.</s>
+					<s n="21" xml:lang="de" type="auto">Waß soll ich sagen? eß ist die recht sucht<note xml:id="fn17" type="footnote" n="17">Krankheit.</note> aller gotseligkeyt!</s>
+					<s n="22" xml:lang="de" type="auto">Gangend die widerteuffer schlaaffenn<note xml:id="fn18" type="footnote" n="18">Gemeint ist, dass die Schwenckfelder schlimmer als die Wiedertäufer sind; vgl. <persName ref="p5755" cert="high">Niklaus Manuel</persName>, Krankheit und Testament der Messe, Vers 5.</note>!</s>
 					<s n="23" xml:lang="la" type="auto">Dominus liberet ecclesiam suam ab hac execranda peste.</s>
 				</p>
 				<p>
 					<s n="24" xml:lang="la" type="auto">Apud nos Memminge per dominum omnia tranquilla sunt.</s>
-					<s n="25" xml:lang="la" type="auto">Uxor mea<note xml:id="fn19" type="footnote" n="19">[...], <persName>geb. Lübegger</persName>; s. <bibl>HBBW</bibl> 1222, Anm. 4.</note> ante tres septimanas peperit filium<note xml:id="fn20" type="footnote" n="20">[...].-Siehe dazu oben <ref target="file12168">Nr. 2121</ref>, Anm. 48.</note>.</s>
+					<s n="25" xml:lang="la" type="auto">Uxor mea<note xml:id="fn19" type="footnote" n="19">[...], <persName ref="p19837" cert="high">geb. Lübegger</persName>; s. <bibl>HBBW</bibl> 1222, Anm. 4.</note> ante tres septimanas peperit filium<note xml:id="fn20" type="footnote" n="20">[...].-Siehe dazu oben <ref target="file12168">Nr. 2121</ref>, Anm. 48.</note>.</s>
 					<s n="26" xml:lang="la" type="auto">Sed dum hec scribo, extremum vitae agit infans.</s>
 					<s n="27" xml:lang="la" type="auto">Dominus illum reducat ad eternam patriam.</s>
 				</p>
 				<p>
 					<s n="28" xml:lang="la" type="auto">Puerpera mediocriter valet.</s>
 					<s n="29" xml:lang="la" type="auto">Optat cumprimis te tuamque uxorem plurimum salvere.</s>
-					<s n="30" xml:lang="la" type="auto">Salutat te d. Funckius consul, <persName ref="p17793">Bartholomeus Bertlinus</persName>.</s>
+					<s n="30" xml:lang="la" type="auto">Salutat te d. <persName ref="p1257" cert="high">Funckius</persName> consul, <persName ref="p330" cert="high">Bartholomeus Bertlinus</persName>.</s>
 					<s n="31" xml:lang="la" type="auto">Dominus Iesus servet te ecclesie sue et nobis diu incolumem.</s>
 					<s n="32" xml:lang="la" type="auto">Vale, vir optime, et precibus tuis me commendatum habeto.</s>
 				</p>
 				<p>
-					<s n="33" xml:lang="la" type="auto">Datę Memminge, 25. augusti anno 1545.</s>
+					<s n="33" xml:lang="la" type="auto">Datę <placeName ref="l320" cert="high">Memminge</placeName>, 25. augusti anno 1545.</s>
 				</p>
 				<p>
-					<s n="34" xml:lang="la" type="auto"><persName>Gervasius</persName> tuus <persName>Schuler</persName>.</s>
+					<s n="34" xml:lang="la" type="auto"><persName ref="p8440" cert="high">Gervasius tuus Schuler</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

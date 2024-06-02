@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12288" type="Brief" source="GR" n="60">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12288" type="Brief" source="GR-I" n="60">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes (Gian) Travers / Zuoz AN Heinrich Bullinger, 10. September 1545</title>
+				<title subtype="file">Johannes (Gian) Travers / Zuoz an Heinrich Bullinger, 10. September 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11056" type="Brief" source="HBBW" n="1014">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11056" type="Brief" source="HBBW-7" n="1014">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz AN Heinrich Bullinger, 8. Juli 1537</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / Konstanz an Heinrich Bullinger, 8. Juli 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,32 +19,32 @@
 					<s n="1" xml:lang="la" type="auto">Salve, mi venerande Bullingere.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Proscriptum hunc <persName>Hieronymum</persName> quam possum amanter tibi cęterisque fratribus commendo.</s>
+					<s n="2" xml:lang="la" type="auto">Proscriptum hunc <persName ref="p8087" cert="high">Hieronymum</persName> quam possum amanter tibi cęterisque fratribus commendo.</s>
 					<s n="3" xml:lang="la" type="auto">Nullum vir bonus dignum proscriptione facinus designavit<pb type="edition" next="184"/> et omnibus piis ecclesię, cuius presbyterum egit, vehementer dolet ereptum sibi tam bonum pastorem, in cuius nec vita nec doctrina quicquam desiderarunt.</s>
 					<s n="4" xml:lang="la" type="auto">Interim tamen ita visum domino est, ut nebulonibus nonnullis omnia invertentibus crederetur, quo de negocio multa tibi, si coram liceret, dicerem, quę prudens nunc obtineo.</s>
 					<s n="5" xml:lang="la" type="auto">Sed ita habe fratrem hunc vere dignum, qui Christi ovibus praeficiatur, id quod re ipsa, si tuo beneficio istuc sibi contingat, experiere.</s>
 					<s n="6" xml:lang="la" type="auto">Rogo autem, ut vel mea quoque caussa illi adsis.</s>
-					<s n="7" xml:lang="la" type="auto"><placeName>Constantienses</placeName> mei haudquaquam illum dimitterent, si nunc usui nobis esse posset.</s>
+					<s n="7" xml:lang="la" type="auto"><placeName ref="l457" cert="high">Constantienses</placeName> mei haudquaquam illum dimitterent, si nunc usui nobis esse posset.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Bene vale, mi charissime frater, meque cum uxore<note xml:id="fn3" type="footnote" n="3"><persName>Anna, geb. Adlischwyler</persName>.</note>, quam meis verbis diligenter salutabis, Christo piis votis sedulo commenda.</s>
-					<s n="9" xml:lang="la" type="auto">Salveant <persName>Pellicanus</persName>, <persName ref="p2305">Leo</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Theodorus</persName><note xml:id="fn5" type="footnote" n="5"><persName>Theodor Bibliander</persName>.</note> cum cęteris administris tuis.</s>
+					<s n="8" xml:lang="la" type="auto">Bene vale, mi charissime frater, meque cum uxore<note xml:id="fn3" type="footnote" n="3"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note>, quam meis verbis diligenter salutabis, Christo piis votis sedulo commenda.</s>
+					<s n="9" xml:lang="la" type="auto">Salveant <persName ref="p8127" cert="high">Pellicanus</persName>, <persName ref="p1753" cert="high">Leo</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p1753" cert="high">Leo Jud</persName>.</note>, <persName ref="p8171" cert="high">Theodorus</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> cum cęteris administris tuis.</s>
 					<s n="10" xml:lang="la" type="auto">Iterum vale.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto"><placeName>Constantiae</placeName>, 8. iulii anno 37.</s>
+					<s n="11" xml:lang="la" type="auto"><placeName ref="l457" cert="high">Constantiae</placeName>, 8. iulii anno 37.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Salutant te frater meus germanus<note xml:id="fn6" type="footnote" n="6"><persName>Thomas Blarer</persName>.</note> cum sorore<note xml:id="fn7" type="footnote" n="7"><persName>Margaretha Blarer</persName>.</note> et altero <persName>Zviccio</persName><note xml:id="fn8" type="footnote" n="8"><persName>Johannes Zwick</persName>.</note>, nam <persName>Conradus</persName><note xml:id="fn9" type="footnote" n="9"><persName>Konrad Zwick</persName>.</note> abest.</s>
+					<s n="12" xml:lang="la" type="auto">Salutant te frater meus germanus<note xml:id="fn6" type="footnote" n="6"><persName ref="p8178" cert="high">Thomas Blarer</persName>.</note> cum sorore<note xml:id="fn7" type="footnote" n="7"><persName ref="p4320" cert="high">Margaretha Blarer</persName>.</note> et altero <persName ref="p4079" cert="high">Zviccio</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p4079" cert="high">Johannes Zwick</persName>.</note>, nam <persName ref="p4082" cert="high">Conradus</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p4082" cert="high">Konrad Zwick</persName>.</note> abest.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto"><pb type="edition" next="185"/>De aliis multis malui nunc omnino nihil quam non satis scribere.</s>
-					<s n="14" xml:lang="la" type="auto">Ut habeant res Wirtempergenses, non pridem ex d. doctore <persName>Philippo Langio</persName> discere potuisti<note xml:id="fn10" type="footnote" n="10">Der württembergische Gesandte Dr. <persName>Philipp Lang</persName> hatte im Juni 1537 auf dem Weg nach <placeName>Bern</placeName> auch Bullinger besucht (vgl. oben <ref target="file11045">Nr. 1003</ref>).</note>.</s>
+					<s n="14" xml:lang="la" type="auto">Ut habeant res Wirtempergenses, non pridem ex d. doctore <persName ref="p5590" cert="high">Philippo Langio</persName> discere potuisti<note xml:id="fn10" type="footnote" n="10">Der württembergische Gesandte Dr. <persName ref="p5590" cert="high">Philipp Lang</persName> hatte im Juni 1537 auf dem Weg nach <placeName ref="l41" cert="high">Bern</placeName> auch Bullinger besucht (vgl. oben <ref target="file11045">Nr. 1003</ref>).</note>.</s>
 					<s n="15" xml:lang="la" type="auto">Mihi cras aut postridie rursum hinc abeundum erit et ad ecclesiarum inspectionem redeundum.</s>
 					<s n="16" xml:lang="la" type="auto">Multa tibi debeo, mi Bullingere, et olim, Christo fiderim, intelliges nec immemorem me nec ingratum.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">Tuus <persName>Ambrosius Blaurerus</persName>.</s>
+					<s n="17" xml:lang="la" type="auto">Tuus <persName ref="p8055" cert="high">Ambrosius Blaurerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

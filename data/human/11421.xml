@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11421" type="Brief" source="ET" n="289">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11421" type="Brief" source="ET-II" n="289">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">John Butler / Basel AN Heinrich Bullinger, 29. März 1540</title>
+				<title subtype="file">John Butler / Basel an Heinrich Bullinger, 29. März 1540</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -32,7 +32,7 @@
 					<s n="12" xml:lang="la" type="auto">Tu igitur super hac re, quod tuae erga hunc benignitati videbitur consultum, facias oro.</s>
 					<s n="13" xml:lang="la" type="auto">Vale in Domino felicissime.</s>
 					<s n="14" xml:lang="la" type="auto">Porro conjugi optimae matronae ex me salutem dicas totique familiae, obsecro.</s>
-					<s n="15" xml:lang="la" type="auto"><placeName>Basileae</placeName>, circa noctis horam undecimam datae Hart. 29, 1540.</s>
+					<s n="15" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, circa noctis horam undecimam datae Hart. 29, 1540.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Tuus ex imo pectore, JO. BUTLERUS.</s>

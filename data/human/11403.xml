@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11403" type="Brief" source="CR" n="853">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11403" type="Brief" source="CR-6" n="853">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Béat Comte (Comes Donzarensis) / Lausanne AN Heinrich Bullinger, 21. Februar 1540</title>
+				<title subtype="file">Béat Comte (Comes Donzarensis) / Lausanne an Heinrich Bullinger, 21. Februar 1540</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

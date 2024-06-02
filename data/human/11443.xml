@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11443" type="Brief" source="HBBW" n="1400">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11443" type="Brief" source="HBBW-10" n="1400">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger / [Zürich], 28. Mai 1540</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger / [Zürich], 28. Mai 1540</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Quę d. <persName>Grynęus</persName> scribit ex mandato, per dominum communemque causam oro, ut vos moveant.</s>
+					<s n="2" xml:lang="la" type="auto">Quę d. <persName ref="p1365" cert="high">Grynęus</persName> scribit ex mandato, per dominum communemque causam oro, ut vos moveant.</s>
 					<s n="3" xml:lang="la" type="auto">Mihi videtur rem cessuram in magnum evangelii et patrię nostrę commodum.</s>
 					<s n="4" xml:lang="la" type="auto">Non ignoro, quam odio habeatis conventus<note xml:id="fn2" type="footnote" n="2">Vgl. z. B. <bibl>HBBW VII</bibl> 99, 12-28; VIII 59f, 30-32; IX 60f, 14-17. 31-34.</note>.</s>
 				</p>
@@ -27,16 +27,16 @@
 					<s n="7" xml:lang="la" type="auto">Et quantum erit in posterum, vos vel spectatores fuisse non solum negocii, sed etiam fratrum?</s>
 					<s n="8" xml:lang="la" type="auto">Absentiam vestram non bene interpretaturi essent principes, civitates, docti.</s>
 					<s n="9" xml:lang="la" type="auto">Adversaria vero pars ex eadem revera intumescet.</s>
-					<s n="10" xml:lang="la" type="auto">Facite, per Christum oro, ne frustra vocemini, postquam consilium hoc non est <placeName>Argentinensium</placeName> solum, sed et electoris<note xml:id="fn3" type="footnote" n="3">Kurfürst <persName>Johann Friedrich von Sachsen</persName>.</note> et Hessi<note xml:id="fn4" type="footnote" n="4">Landgraf <persName>Philipp von Hessen</persName>.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Facite, per Christum oro, ne frustra vocemini, postquam consilium hoc non est <placeName ref="l492" cert="high">Argentinensium</placeName> solum, sed et electoris<note xml:id="fn3" type="footnote" n="3">Kurfürst <persName ref="p19065" cert="high">Johann Friedrich von Sachsen</persName>.</note> et <persName ref="18574" type="auto_name">Hessi</persName><note xml:id="fn4" type="footnote" n="4">Landgraf <persName ref="p18574" cert="high">Philipp von Hessen</persName>.</note>.</s>
 					<s n="11" xml:lang="la" type="auto">Dominus in consiliis sit vestris.</s>
 					<s n="12" xml:lang="la" type="manual">Amen.</s>
 					<s n="13" xml:lang="la" type="auto">Valete in Christo.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, 28. maii anno 1540.</s>
+					<s n="14" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, raptim, 28. maii anno 1540.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto"><persName>Os. Myconius</persName> vester.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p8418" cert="high">Os. Myconius</persName> vester.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

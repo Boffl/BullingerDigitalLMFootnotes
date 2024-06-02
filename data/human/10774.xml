@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10774" type="Brief" source="HBBW" n="736">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10774" type="Brief" source="HBBW-6" n="736">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Martin Mötteli / Weinfelden AN Heinrich Bullinger, 27. Januar 1536</title>
+				<title subtype="file">Martin Mötteli / Weinfelden an Heinrich Bullinger, 27. Januar 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,31 +19,31 @@
 					<s n="1" xml:lang="la" type="auto">Gratia Christi tecum, optime vir.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Literę a dominis nostris Tigurinis ad pręfectum<note xml:id="fn1" type="footnote" n="1"><persName>Christoph von Sonnenberg</persName>, eidgenössischer Landvogt im <placeName>Thurgau</placeName>.</note> script<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> ad successum rerum nostrarum nihil effecerunt, sed <placeName>Lucernam</placeName> ad confęderatorum comitias nos ablegavit summis expensis nos expilans, quemadmodum per hominem illum pene funesta sunt nostra omnia.</s>
+					<s n="2" xml:lang="la" type="auto">Literę a dominis nostris Tigurinis ad pręfectum<note xml:id="fn1" type="footnote" n="1"><persName ref="p7797" cert="high">Christoph von Sonnenberg</persName>, eidgenössischer Landvogt im <placeName ref="l774" cert="high">Thurgau</placeName>.</note> script<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note> ad successum rerum nostrarum nihil effecerunt, sed <placeName ref="l300" cert="high">Lucernam</placeName> ad confęderatorum comitias nos ablegavit summis expensis nos expilans, quemadmodum per hominem illum pene funesta sunt nostra omnia.</s>
 					<s n="3" xml:lang="la" type="auto">Dominus illi, quod sibi visum fuerit, reddat.</s>
 					<s n="4" xml:lang="la" type="auto">Tu, quantum potes, legatos dominorum tuorum nostri causa adhortato, enixe precor.</s>
 					<s n="5" xml:lang="la" type="auto">Res dei est; ipse vel hoc modo provehet negotium Christi sui.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Provectionem tuam cum aliquot fratribus ac dominis tuis <placeName>Basileam</placeName><note xml:id="fn4" type="footnote" n="4">Bullinger und <persName ref="p6796">Leo Jud</persName> reisten am 28. Januar 1536 zusammen mit <persName>Kaspar Nasal</persName> und Stadtschreiber <persName>Beyel</persName> zu den Bekenntnisverhandlungen nach <placeName>Basel</placeName> (vgl. unten <ref target="file10775">Nr. 737</ref>, Anm. 1).</note> nunciavi fratribus nonnullis<note xml:id="fn5" type="footnote" n="5">Dazu gehörten wohl die unten, Z. 18f, Genannten.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Provectionem tuam cum aliquot fratribus ac dominis tuis <placeName ref="l28" cert="high">Basileam</placeName><note xml:id="fn4" type="footnote" n="4">Bullinger und <persName ref="p1753" cert="high">Leo Jud</persName> reisten am 28. Januar 1536 zusammen mit <persName ref="p5935" cert="high">Kaspar Nasal</persName> und Stadtschreiber <persName ref="p257" cert="high">Beyel</persName> zu den Bekenntnisverhandlungen nach <placeName ref="l28" cert="high">Basel</placeName> (vgl. unten <ref target="file10775">Nr. 737</ref>, Anm. 1).</note> nunciavi fratribus nonnullis<note xml:id="fn5" type="footnote" n="5">Dazu gehörten wohl die unten, Z. 18f, Genannten.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Ipsi (ut dignum est) plurimum lętantur, praesertim vero, quod sciant te prudentia, pietate et doctrina omnium locum facile posse supplere ac veri inimicos confundere et convincere, ad quod faustum fęlixque<pb type="edition" next="100"/> summi numinis opitulamen multo studio precantur omnes.</s>
-					<s n="8" xml:lang="la" type="auto">Narrabam etiam ea, quae per epistolam ad te transmissa sunt a Schmalkhaldensibus, quemadmodum praelegeras<note xml:id="fn6" type="footnote" n="6">Zur Tagung des Schmalkaldischen Bundes vom 6. bis 24. Dezember 1535 vgl. Fabian, Bundesabschiede 59-78. Möglicherweise hatte Bullinger <persName>Martin Mötteli</persName> den Brief von <persName>Johannes Zwick</persName> vom 19. Januar (oben <ref target="file10768">Nr. 730</ref>) vorgelesen.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Narrabam etiam ea, quae per epistolam ad te transmissa sunt a Schmalkhaldensibus, quemadmodum praelegeras<note xml:id="fn6" type="footnote" n="6">Zur Tagung des Schmalkaldischen Bundes vom 6. bis 24. Dezember 1535 vgl. Fabian, Bundesabschiede 59-78. Möglicherweise hatte Bullinger <persName ref="p2237" cert="high">Martin Mötteli</persName> den Brief von <persName ref="p4079" cert="high">Johannes Zwick</persName> vom 19. Januar (oben <ref target="file10768">Nr. 730</ref>) vorgelesen.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Fratres multa lęticia domino gratias agunt.</s>
-					<s n="10" xml:lang="la" type="auto">Actionem <placeName>Basiliensem</placeName>, quum fęlicibus (ut pręcor) avibus redieris, nobis per epistolam significare velis; nam et nos scisse frugi speramus.</s>
+					<s n="10" xml:lang="la" type="auto">Actionem <placeName ref="l28" cert="high">Basiliensem</placeName>, quum fęlicibus (ut pręcor) avibus redieris, nobis per epistolam significare velis; nam et nos scisse frugi speramus.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Vale, ac omnes ecclesias nostras tibi velis commendatas habere.</s>
-					<s n="12" xml:lang="la" type="auto">Salutant te omnes fratres, presertim <persName>Huldrychus Amantius</persName>, <persName>Ioannes Schmid</persName>, <persName>Ruͦdolffus Mundprat</persName>, <persName>Ioannes Fridinger</persName> etc.</s>
+					<s n="12" xml:lang="la" type="auto">Salutant te omnes fratres, presertim <persName ref="p8483" cert="high">Huldrychus Amantius</persName>, <persName ref="p8009" cert="high">Ioannes Schmid</persName>, <persName ref="p18320" cert="high">Ruͦdolffus Mundprat</persName>, <persName ref="p4841" cert="high">Ioannes Fridinger</persName> etc.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto"><pb type="edition" next="101"/><placeName>Winfeldę</placeName>, 27. ianuarii anno etc. 36.</s>
+					<s n="13" xml:lang="la" type="auto"><pb type="edition" next="101"/><placeName ref="l538" cert="high">Winfeldę</placeName>, 27. ianuarii anno etc. 36.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto"><persName ref="p6713">Martinus Möttily</persName>, tui semper observantissimus.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p2237" cert="high">Martinus Möttily</persName>, tui semper observantissimus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="15" xml:lang="la" type="auto">Summe tam pio quam docto viro Gheym Rycho<note xml:id="fn11" type="footnote" n="11">Zur Schreibung des Vornamens vgl. <persName>Möttelis</persName> Ausführungen oben <ref target="file10747">Nr. 709</ref>, 19-23.</note> Bullinger, suo domino charissimo.</s>
+					<s n="15" xml:lang="la" type="auto">Summe tam pio quam docto viro Gheym Rycho<note xml:id="fn11" type="footnote" n="11">Zur Schreibung des Vornamens vgl. <persName ref="p2237" cert="high">Möttelis</persName> Ausführungen oben <ref target="file10747">Nr. 709</ref>, 19-23.</note> Bullinger, suo domino charissimo.</s>
 					<s n="16" xml:lang="la" type="auto">Tiguri.</s>
 				</p>
 			</div>

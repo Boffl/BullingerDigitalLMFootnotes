@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11242" type="Brief" source="HBBW" n="1199">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11242" type="Brief" source="HBBW-8" n="1199">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Fridolin Brunner (Fonteius) / [Betschwanden] AN Heinrich Bullinger, 20. November 1538</title>
+				<title subtype="file">Fridolin Brunner (Fonteius) / [Betschwanden] an Heinrich Bullinger, 20. November 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,16 +20,16 @@
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Animus est, vir candide, agere, quae vero tuo absque consilio non sum facturus.</s>
-					<s n="3" xml:lang="la" type="auto">In dei equidem negotio hactenus semper syncere curam habui, ne quid offendiculi infirmis tam negligentia quam temeritate parerem<note xml:id="fn1" type="footnote" n="1">Vgl. 1 Kor 8, 9.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">In dei equidem negotio hactenus semper syncere curam habui, ne quid offendiculi infirmis tam negligentia quam temeritate parerem<note xml:id="fn1" type="footnote" n="1">Vgl. <cit type="bible"><ref>1 Kor 8, 9</ref></cit>.</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Idem eciam perpetuo abs me fiat, pro viribus adnitar.</s>
-					<s n="5" xml:lang="la" type="auto">Sed sic se habet negotium: Ecclesia Vallis Limagi<note xml:id="fn2" type="footnote" n="2"><placeName>Linthal</placeName> (Kt. Glarus).</note>, mihi vicina, iam ad anni spacium sacrifico caruit<note xml:id="fn3" type="footnote" n="3">Über die kirchlichen Verhältnisse in <placeName>Betschwanden</placeName> und <placeName>Linthal</placeName> - letzteres war 1531 rekatholisiert worden - vgl. Gottfried <hi>Heer,</hi> <persName>Fridolin Brunner</persName>. Reformator des Landes Glarus, Zürich 1917, S. 39-41.</note>; interim ad sermones audiendi meos dominica die quidam venerunt.</s>
+					<s n="5" xml:lang="la" type="auto">Sed sic se habet negotium: Ecclesia Vallis Limagi<note xml:id="fn2" type="footnote" n="2"><placeName ref="l1342" cert="high">Linthal</placeName> (Kt. Glarus).</note>, mihi vicina, iam ad anni spacium sacrifico caruit<note xml:id="fn3" type="footnote" n="3">Über die kirchlichen Verhältnisse in <placeName ref="l44" cert="high">Betschwanden</placeName> und <placeName ref="l1342" cert="high">Linthal</placeName> - letzteres war 1531 rekatholisiert worden - vgl. Gottfried <hi>Heer,</hi> <persName ref="p8303" cert="high">Fridolin Brunner</persName>. Reformator des Landes Glarus, Zürich 1917, S. 39-41.</note>; interim ad sermones audiendi meos dominica die quidam venerunt.</s>
 					<s n="6" xml:lang="la" type="auto">Ad haec eciam, quicquid illis in rebus spiritualibus defuit, praecipue baptismi sacramentum<pb type="edition" next="268"/> administrando, fideliter et sponte servivi.</s>
 					<s n="7" xml:lang="la" type="auto">Excepto, quod in templo suo evangelium praedicare me nunquam admiserunt.</s>
 					<s n="8" xml:lang="la" type="auto">Id enim non tantum ad illud anni tempus, verum ad sex perpetuos iam annos idem est factitatum, quibus missarium ad breve tempus habuere, multo vero caruerunt.</s>
 					<s n="9" xml:lang="la" type="auto">Interim autem missario deficiente huius ecclesię parochiani baptismi ministerium a me postularunt.</s>
 					<s n="10" xml:lang="la" type="auto">Ad quae eorum facta spe melioris hucusque convivi et postulatis lubenter obsecundavi.</s>
 					<s n="11" xml:lang="la" type="auto">Nunc profecto videor mihi hoc in negocio satis superque obsecutum; tuo igitur consilio baptismum in posterum eis rescindam, praecipue hanc ob causam, quod baptismum tantum, nequaquam vero verbum dei missario absente a me petunt et recipiunt, praesertim eciam, quum sese maior pars devoverit evangelicum praeconem ad cathedram ecclesiasticam absque missa papistica non admissurum.</s>
-					<s n="12" xml:lang="la" type="auto">Quare hac in re quid prudenter pieque faciundum sit, ne quid turbę exoriatur, hoc nuncio, nempe praefecto aerario<note xml:id="fn4" type="footnote" n="4"><persName>Hans Wichser</persName>, Glarner Landessäckelmeister seit 1529; zur Person s. Gottfried <hi>Heer,</hi> <persName>Hans Wichser</persName> us der Rüti. Ein Zeitbild aus den Tagen der Reformationszeit, <placeName>Glarus</placeName> 1903.</note>, negotiis tuis admittentibus, scriptis consule.</s>
+					<s n="12" xml:lang="la" type="auto">Quare hac in re quid prudenter pieque faciundum sit, ne quid turbę exoriatur, hoc nuncio, nempe praefecto aerario<note xml:id="fn4" type="footnote" n="4"><persName ref="p7028" cert="high">Hans Wichser</persName>, Glarner Landessäckelmeister seit 1529; zur Person s. Gottfried <hi>Heer,</hi> <persName ref="p7028" cert="high">Hans Wichser</persName> us der Rüti. Ein Zeitbild aus den Tagen der Reformationszeit, <placeName ref="l646" cert="high">Glarus</placeName> 1903.</note>, negotiis tuis admittentibus, scriptis consule.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Vale in domino.</s>
@@ -40,7 +40,7 @@
 					<s n="16" xml:lang="la" type="auto">Iterum vale.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">F. <persName>Fonteius Glareanus</persName>.</s>
+					<s n="17" xml:lang="la" type="auto">F. <persName ref="p8303" cert="high">Fonteius Glareanus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12457" type="Brief" source="HBBW" n="2410">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12457" type="Brief" source="HBBW-16" n="2410">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Christian Hochholzer / Aarau AN Heinrich Bullinger, 4. April 1546</title>
+				<title subtype="file">Christian Hochholzer / Aarau an Heinrich Bullinger, 4. April 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,30 +17,30 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
-					<s n="2" xml:lang="la" type="auto">Ubi domum a vobis redii, domine et pater observande, negotium, quod mihi commisisti de castris, eorum conditoribus et possessoribus,<note xml:id="fn2" type="footnote" n="2">Bullinger bat <persName>Hochholzer</persName> um Notizen betreffend Burgen im <placeName>Aargau</placeName>; s. dazu Anm. 4.</note> contuli cum m. <persName>Gabriele</persName><note xml:id="fn3" type="footnote" n="3"><persName>Gabriel Meyer</persName>, Stadtschreiber von <placeName>Aarau</placeName>.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Ubi domum a vobis redii, domine et pater observande, negotium, quod mihi commisisti de castris, eorum conditoribus et possessoribus,<note xml:id="fn2" type="footnote" n="2">Bullinger bat <persName ref="p1553" cert="high">Hochholzer</persName> um Notizen betreffend Burgen im <placeName ref="l594" cert="high">Aargau</placeName>; s. dazu Anm. 4.</note> contuli cum m. <persName ref="p2121" cert="high">Gabriele</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p2121" cert="high">Gabriel Meyer</persName>, Stadtschreiber von <placeName ref="l2" cert="high">Aarau</placeName>.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Is suam in hac re pollicetur operam; consignabimus quaedam et ad te transmittemus.</s>
-					<s n="4" xml:lang="la" type="auto">Plurima habet,<pb type="edition" next="318"/> quę commodius coram communicare posset viso tractationis vestrae ordine,<note xml:id="fn5" type="footnote" n="5">Anspielung auf die damals in Arbeit befindliche Eidgenössische Chronik von <persName>Johannes Stumpf</persName>, an der auch Bullinger sich beteiligte. Die Notizen über die <placeName>Aargauer</placeName> Burgen dienten also als Zuarbeiten dafür; vgl. auch Anm. 4.</note> quid deesset aut quid conferret; sed ubi videris, si quid desyderaveris ultra, indicabis.</s>
+					<s n="4" xml:lang="la" type="auto">Plurima habet,<pb type="edition" next="318"/> quę commodius coram communicare posset viso tractationis vestrae ordine,<note xml:id="fn5" type="footnote" n="5">Anspielung auf die damals in Arbeit befindliche Eidgenössische Chronik von <persName ref="p3067" cert="high">Johannes Stumpf</persName>, an der auch Bullinger sich beteiligte. Die Notizen über die <placeName ref="l594" cert="high">Aargauer</placeName> Burgen dienten also als Zuarbeiten dafür; vgl. auch Anm. 4.</note> quid deesset aut quid conferret; sed ubi videris, si quid desyderaveris ultra, indicabis.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="5" xml:lang="la" type="auto">Caeterum quod nunc maxime te scire volo: <persName>Heinrychus Lochman</persName><note xml:id="fn6" type="footnote" n="6"><persName>Heinrich Lochmann</persName>, Weinherr in Zürich.</note> reversus ex itinere suo Aaroviam, cum diligentius quidam perconctarentur, anne liceret Tiguri ludere pro nummis, confessus est se ioco dixisse ac paenitere dictum.</s>
+					<s n="5" xml:lang="la" type="auto">Caeterum quod nunc maxime te scire volo: <persName ref="p1953" cert="high">Heinrychus Lochman</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p1953" cert="high">Heinrich Lochmann</persName>, Weinherr in Zürich.</note> reversus ex itinere suo Aaroviam, cum diligentius quidam perconctarentur, anne liceret Tiguri ludere pro nummis, confessus est se ioco dixisse ac paenitere dictum.</s>
 					<s n="6" xml:lang="la" type="auto">Sic enim se voluisse subterfugere frequentes propinationes, quod Tiguri vetitum legibus propinare, loco eius lusum permissum, idque non eo animo, quod credi vellet, sed magis ut illuderet.</s>
-					<s n="7" xml:lang="la" type="auto">Haec eo significo, quo et tu d. <persName ref="p6155">Lavatero</persName> consuli<note xml:id="fn9" type="footnote" n="9"><persName>Hans Rudolf Lavater</persName>.</note> prudentissimo et vigilantissimo rem, quomodo se habeat, exponas, idque summopere orat m. <persName>Gabriel</persName>, ne quid mali <persName>Heinrychus</persName> hanc ob causam patiatur.</s>
-					<s n="8" xml:lang="la" type="auto">Iocus fuit, sed non decens; vergit enim in ignominiam civitatis nostrae<note xml:id="fn10" type="footnote" n="10">Hier ist Zürich gemeint, <persName>Hochholzers</persName> Heimat.</note> religionisque verae.</s>
-					<s n="9" xml:lang="la" type="auto">Nostri<note xml:id="fn11" type="footnote" n="11">Gemeint sind die <placeName>Aarauer</placeName>.</note> iam sciunt non sine magno gaudio fabulas esse.</s>
+					<s n="7" xml:lang="la" type="auto">Haec eo significo, quo et tu d. <persName ref="p1888" cert="high">Lavatero</persName> consuli<note xml:id="fn9" type="footnote" n="9"><persName ref="p1888" cert="high">Hans Rudolf Lavater</persName>.</note> prudentissimo et vigilantissimo rem, quomodo se habeat, exponas, idque summopere orat m. <persName ref="p2121" cert="high">Gabriel</persName>, ne quid mali <persName ref="p1953" cert="high">Heinrychus</persName> hanc ob causam patiatur.</s>
+					<s n="8" xml:lang="la" type="auto">Iocus fuit, sed non decens; vergit enim in ignominiam civitatis nostrae<note xml:id="fn10" type="footnote" n="10">Hier ist Zürich gemeint, <persName ref="p1553" cert="high">Hochholzers</persName> Heimat.</note> religionisque verae.</s>
+					<s n="9" xml:lang="la" type="auto">Nostri<note xml:id="fn11" type="footnote" n="11">Gemeint sind die <placeName ref="l2" cert="high">Aarauer</placeName>.</note> iam sciunt non sine magno gaudio fabulas esse.</s>
 					<s n="10" xml:lang="la" type="auto">Ridetur praetor noster vel scultetus (ut vocant), cui tam facile impositum sit.</s>
 					<s n="11" xml:lang="la" type="auto">Non est, quod solliciti sitis de vana illa persuasione <ptr target="fna" type="footnote" n="a"/>apud nos interim tamen divulgatum pro certo in alias civitates.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Fui praeterea quandam ob rem hisce diebus Tiguri,<note xml:id="fn13" type="footnote" n="13">Ein weiterer Aufenthalt <persName>Hochholzers</persName> in Zürich, der erst wenige Tage zurücklag.</note> quam tibi communicatam voluissem; caeterum multitudo negotiorum tibi incumbentium fecit,<pb type="edition" next="319"/> ut non ausus fuerim tecum conferre.</s>
+					<s n="12" xml:lang="la" type="auto">Fui praeterea quandam ob rem hisce diebus Tiguri,<note xml:id="fn13" type="footnote" n="13">Ein weiterer Aufenthalt <persName ref="p1553" cert="high">Hochholzers</persName> in Zürich, der erst wenige Tage zurücklag.</note> quam tibi communicatam voluissem; caeterum multitudo negotiorum tibi incumbentium fecit,<pb type="edition" next="319"/> ut non ausus fuerim tecum conferre.</s>
 					<s n="13" xml:lang="la" type="auto">Quia autem foelicius me omnia acturum tuo consilio plane persuasum mihi habeo, non possum, quin, quid sit, aperiam.</s>
-					<s n="14" xml:lang="la" type="auto">Meditabar de puella honesta fratri meo matrimonio iungenda, filia<note xml:id="fn15" type="footnote" n="15"><persName>Anna Thumysen</persName>, die jedoch am 27. Mai 1546 eine Ehe mit <persName>Jakob Rüegger</persName> einging; s. Erhard <hi>Dürsteler,</hi> Stammtafeln zürcherischer Geschlechter, Bd. 3 (Zürich ZB, Ms E 96), f. 127v.</note> fratris<note xml:id="fn16" type="footnote" n="16"><persName>Großhans Thumysen</persName>, 1528 Zwölfer zur Schmiden, von Beruf Hafengießer (Gießer von ehernem Kochgeschirr), Stadtfähnrich im Zweiten <placeName>Kappeler</placeName> Krieg von Oktober 1531, wo er umkam. Er war mit Anna Werdmüller aus <placeName>Jona</placeName> verheiratet; s. <hi>Dürsteler,</hi> aaO.</note> d. <persName>Rodolphi Dumysen</persName>, qui<note xml:id="fn18" type="footnote" n="18">Bezieht sich auf Großhans.</note> occubuit bello illo nostro inauspicato, quam d. <persName>Rodolphus</persName> in suis alit aedibus.</s>
-					<s n="15" xml:lang="la" type="auto">Id, quia per te agi voluissem, metuebam tamen molestum tibi fore, quippe cum frater meus minus tibi sit notus, commisi rem m. Ioanni Frisio meo nomine transigendam.</s>
+					<s n="14" xml:lang="la" type="auto">Meditabar de puella honesta fratri meo matrimonio iungenda, filia<note xml:id="fn15" type="footnote" n="15"><persName ref="p6791" cert="high">Anna Thumysen</persName>, die jedoch am 27. Mai 1546 eine Ehe mit <persName ref="p6334" cert="high">Jakob Rüegger</persName> einging; s. Erhard <hi>Dürsteler,</hi> Stammtafeln zürcherischer Geschlechter, Bd. 3 (Zürich ZB, Ms E 96), f. 127v.</note> fratris d. <persName ref="p6796" cert="high">Rodolphi Dumysen</persName>, qui<note xml:id="fn18" type="footnote" n="18">Bezieht sich auf Großhans.</note> occubuit bello illo nostro inauspicato, quam d. <persName ref="p6796" cert="high">Rodolphus</persName> in suis alit aedibus.</s>
+					<s n="15" xml:lang="la" type="auto">Id, quia per te agi voluissem, metuebam tamen molestum tibi fore, quippe cum frater meus minus tibi sit notus, commisi rem m. <persName ref="p1214" cert="high">Ioanni Frisio</persName> meo nomine transigendam.</s>
 					<s n="16" xml:lang="la" type="auto">In hac re haud parum profuerit vel tuum consilium vel auxilium.</s>
-					<s n="17" xml:lang="la" type="auto">Perconctabitur fortassis aliqua d. <persName>Rodolphus Dumysen</persName>.</s>
+					<s n="17" xml:lang="la" type="auto">Perconctabitur fortassis aliqua d. <persName ref="p6796" cert="high">Rodolphus Dumysen</persName>.</s>
 					<s n="18" xml:lang="la" type="auto">Tum rogo ea agas, quae e mea fratrisque mei re esse noveris.</s>
 					<s n="19" xml:lang="la" type="auto">Nolo enim tuis humeris totum negotium imponi.</s>
 					<s n="20" xml:lang="la" type="auto">Honestam aliquam velim fratri meo dari, etsi non dives sit.</s>
@@ -49,17 +49,17 @@
 					<s n="23" xml:lang="la" type="auto">Est tamen honestis parentibus<note xml:id="fn19" type="footnote" n="19">Zu ihnen s. oben Anm. 16.</note> nata, casta et pudica, ut audio.</s>
 					<s n="24" xml:lang="la" type="auto">Fratri meo, quantum facultates meae permiserint, non deero.</s>
 					<s n="25" xml:lang="la" type="auto">Laborare novit, artificium suum tam callet quam quisquam alius.</s>
-					<s n="26" xml:lang="la" type="auto">Si quid ergo potes (ut certe potes plurimum), rogo facias vel cum Frisio rem conferendo vel cum d. <persName>Rodolpho Dumysen</persName>, patruo puellę; is enim prae caeteris fratribus<note xml:id="fn20" type="footnote" n="20">Geschwistern. - Zu deren Namen s. oben Anm. 17.</note> puellam accepit in sua ac tantum non filiae loco habet.</s>
+					<s n="26" xml:lang="la" type="auto">Si quid ergo potes (ut certe potes plurimum), rogo facias vel cum <persName ref="p1214" cert="high">Frisio</persName> rem conferendo vel cum d. <persName ref="p6796" cert="high">Rodolpho Dumysen</persName>, patruo puellę; is enim prae caeteris fratribus<note xml:id="fn20" type="footnote" n="20">Geschwistern. - Zu deren Namen s. oben Anm. 17.</note> puellam accepit in sua ac tantum non filiae loco habet.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="27" xml:lang="la" type="auto">Vale et me ut totum tuum commendatum habe.</s>
-					<s n="28" xml:lang="la" type="auto">Salutem plurimam precatur uxor mea<note xml:id="fn21" type="footnote" n="21"><persName>Agathe, geb. Näf</persName>.</note> omnibus tuis.</s>
+					<s n="28" xml:lang="la" type="auto">Salutem plurimam precatur uxor mea<note xml:id="fn21" type="footnote" n="21"><persName ref="p5976" cert="high">Agathe, geb. Näf</persName>.</note> omnibus tuis.</s>
 					<s n="29" xml:lang="la" type="auto">Aarovię, 4. aprilis anno 1546.</s>
 				</p>
 				<p>
-					<s n="30" xml:lang="la" type="auto">Totus tuus <persName ref="p5708">Christianus Hochholzer</persName>.</s>
+					<s n="30" xml:lang="la" type="auto">Totus tuus <persName ref="p1553" cert="high">Christianus Hochholzer</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

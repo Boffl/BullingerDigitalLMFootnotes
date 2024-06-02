@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11768" type="Brief" source="HBBW" n="1723">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11768" type="Brief" source="HBBW-13" n="1723">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Lening, 18. Februar 1543</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Lening, 18. Februar 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,13 +19,13 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Litteras<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file11755">Nr. 1710</ref>.</note> tuas, Lenyngne, 16. ianuarii datas 16. februarii per publicum principis vestri<note xml:id="fn2" type="footnote" n="2">Landgraf <persName>Philipp von Hessen</persName>.</note> cursorem<note xml:id="fn3" type="footnote" n="3">Unbekannt; vgl. auch oben <ref target="file11767">Nr. 1722</ref>, 16-18, sowie unten Z. 95-98.</note> accepi et legi, et dolet quidem mihi non mediocriter, quod intelligo te, amicum et fratrem, quem annis iam aliquot novi et amavi,<note xml:id="fn4" type="footnote" n="4">Von einer früheren Bekanntschaft der beiden ist sonst nichts bekannt.</note> impexae prorsus causae polygamiae innexum haerere.</s>
+					<s n="2" xml:lang="la" type="auto">Litteras<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file11755">Nr. 1710</ref>.</note> tuas, Lenyngne, 16. ianuarii datas 16. februarii per publicum principis vestri<note xml:id="fn2" type="footnote" n="2">Landgraf <persName ref="p18574" cert="high">Philipp von Hessen</persName>.</note> cursorem<note xml:id="fn3" type="footnote" n="3">Unbekannt; vgl. auch oben <ref target="file11767">Nr. 1722</ref>, 16-18, sowie unten Z. 95-98.</note> accepi et legi, et dolet quidem mihi non mediocriter, quod intelligo te, amicum et fratrem, quem annis iam aliquot novi et amavi,<note xml:id="fn4" type="footnote" n="4">Von einer früheren Bekanntschaft der beiden ist sonst nichts bekannt.</note> impexae prorsus causae polygamiae innexum haerere.</s>
 					<s n="3" xml:lang="la" type="auto">Mallem ego huiusmodi causas exulceratissimis nostris temporibus omnino consopitas prorsus manere sepultas.</s>
 					<s n="4" xml:lang="la" type="auto">Mallem, plures uxores ducere cupientibus ministri verbi non tam id, quod licitum est, indicarent, si tamen illud per omnia licitum viro evangelium profitenti sit, quam illud inculcarent apostoli<note xml:id="fn5" type="footnote" n="5">d. h. jenen Spruch des Apostels Paulus.</note>: „Omnia mihi licent, sed non omnia conducunt.</s>
-					<s n="5" xml:lang="la" type="auto">Omnium mihi potestas est, at ego non redigar sub ullius potestatem.“<note xml:id="fn6" type="footnote" n="6">1Kor 6, 12.</note></s>
+					<s n="5" xml:lang="la" type="auto">Omnium mihi potestas est, at ego non redigar sub ullius potestatem.“<note xml:id="fn6" type="footnote" n="6"><cit type="bible"><ref>1Kor 6, 12</ref></cit>.</note></s>
 					<s n="6" xml:lang="la" type="auto">Mallem de iis, quae infirmos in<pb type="edition" next="85"/> fide offendunt, hostes evangelii iuvant et omnibus occasionem calumniandi doctrinam evangelii praebent, quasi illa licentiae, non libertatis sanctae doctrina sit, nihil scriptis publicis spargi in vulgus.</s>
-					<s n="7" xml:lang="la" type="auto">Neque ego unquam, Lenyngne, mihi crede, quicquam contra polygamiam vel de digamia, sicuti tu civiliter appellas, scripsissem, nisi aeditos vidissem libellos aliquot Germanicos<note xml:id="fn7" type="footnote" n="7">Gemeint ist der von <persName>Lening</persName> pseudonym veröffentlichte "Dialogus Neobuli"; vgl. <bibl>HBBW</bibl> XI <ref target="file11631">[Nr. 1588]</ref>. S. 353, Anm. 16.</note> tantum non praedicantes illam nullis legibus dei caesarisve aut ullius classici scriptoris nota damnatam et ideo christianis licitam utpote iustam, sanctam, bonam.</s>
-					<s n="8" xml:lang="la" type="auto">Displicuit ea mihi disputatio vehementer ac displicet etiam hodie vehementissime, nec mihi soli, sed omnibus quoque aliis symmistis, neque Tigurinis tantum, sed reliquis per <placeName>Helvetiam</placeName> et vicinas ecclesias ministris fidelibus.</s>
+					<s n="7" xml:lang="la" type="auto">Neque ego unquam, Lenyngne, mihi crede, quicquam contra polygamiam vel de digamia, sicuti tu civiliter appellas, scripsissem, nisi aeditos vidissem libellos aliquot Germanicos<note xml:id="fn7" type="footnote" n="7">Gemeint ist der von <persName ref="p1903" cert="high">Lening</persName> pseudonym veröffentlichte "Dialogus Neobuli"; vgl. <bibl>HBBW</bibl> XI <ref target="file11631">[Nr. 1588]</ref>. S. 353, Anm. 16.</note> tantum non praedicantes illam nullis legibus dei caesarisve aut ullius classici scriptoris nota damnatam et ideo christianis licitam utpote iustam, sanctam, bonam.</s>
+					<s n="8" xml:lang="la" type="auto">Displicuit ea mihi disputatio vehementer ac displicet etiam hodie vehementissime, nec mihi soli, sed omnibus quoque aliis symmistis, neque Tigurinis tantum, sed reliquis per <placeName ref="l196" cert="high">Helvetiam</placeName> et vicinas ecclesias ministris fidelibus.</s>
 					<s n="9" xml:lang="la" type="auto">Quid, quod concertationes non rarae obortae sunt inter fratres de polygamia, licita ne sit an illicita?</s>
 					<s n="10" xml:lang="la" type="auto">Et si licita utpote nullis legibus prohibita, nihil porro obstare, quo minus liceat cuivis certas afferenti causas plures ducere uxores.</s>
 					<s n="11" xml:lang="la" type="auto">Addebant enim nemini certas, nemini porro necessarias defore causas, nisi ei, qui amet frigide.</s>
@@ -40,7 +40,7 @@
 					<s n="18" xml:lang="la" type="auto">Nil hic egi ex affectu, nil simulate, nil in gratiam aut odium cuiusquam, utpote cum authores istius dogmatis mihi essent incognitissimi.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Simpliciter ergo, quod credidi, professus sum idque in utilitatem ecclesiarum, quibus prodesse, non obesse volui<note xml:id="fn8" type="footnote" n="8">Vgl. <persName>Paulinus von Aquileja</persName>, Liber exhortationis, vulgo De salutaribus documentis, 65 (<bibl>MPL</bibl> XL 1077): "cunctis simul prodesse, non obesse". Die Schrift ist in der von Bullinger verwendeten Ausgabe der Werke <persName>Augustins</persName> enthalten (s. <bibl>HBBibl</bibl> III 10/4).</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Simpliciter ergo, quod credidi, professus sum idque in utilitatem ecclesiarum, quibus prodesse, non obesse volui<note xml:id="fn8" type="footnote" n="8">Vgl. <persName ref="p18281" cert="high">Paulinus von Aquileja</persName>, Liber exhortationis, vulgo De salutaribus documentis, 65 (<bibl>MPL</bibl> XL 1077): "cunctis simul prodesse, non obesse". Die Schrift ist in der von Bullinger verwendeten Ausgabe der Werke <persName ref="p18700" cert="high">Augustins</persName> enthalten (s. <bibl>HBBibl</bibl> III 10/4).</note>.</s>
 					<s n="20" xml:lang="la" type="auto">Nec pudet vel poenitet me facti illius ac consilii mei.</s>
 					<s n="21" xml:lang="la" type="auto">Nam quod egi, bona coram deo conscientia egi.</s>
 				</p>
@@ -48,7 +48,7 @@
 					<s n="22" xml:lang="la" type="auto">At videntur tibi ac fortasse tuis quoque argumenta illa mea, quibus polygamiam oppugnavi, admodum esse imbecillia, adeo ut optent amici etiam mei, qui et ipsi polygamiae parum sunt propitii, huiusmodi ulcus me vel<pb type="edition" next="86"/> non attigisse vel forcioribus probatioribusque medicamentis aggressum esse<note xml:id="fn9" type="footnote" n="9">Vgl. oben <ref target="file11755">Nr. 1710</ref>, 9-13.</note>.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto">Atqui meminisse oportebat, amice, me commentatoris functum offitio<note xml:id="fn10" type="footnote" n="10">Die von <persName>Lening</persName> kritisierte Äußerung Bullingers ist Teil seiner Auslegung von Mt 19, 7-9; vgl. oben <ref target="file11755">Nr. 1710</ref>, Anm. 1f.</note> vix supremos argumentorum apices in transcursu consignasse aut adumbrasse potius.</s>
+					<s n="23" xml:lang="la" type="auto">Atqui meminisse oportebat, amice, me commentatoris functum offitio<note xml:id="fn10" type="footnote" n="10">Die von <persName ref="p1903" cert="high">Lening</persName> kritisierte Äußerung Bullingers ist Teil seiner Auslegung von <cit type="bible"><ref>Mt 19, 7-9</ref></cit>; vgl. oben <ref target="file11755">Nr. 1710</ref>, Anm. 1f.</note> vix supremos argumentorum apices in transcursu consignasse aut adumbrasse potius.</s>
 					<s n="24" xml:lang="la" type="auto">Quod si videro e re fore veritatis, ecclesiarum fratrumque, non gravabor aspirante domini gratia contracta et brevia illa nostra locis diductis dilatare copiosius, adumbrata inceptaque pro virili absolvere, confusa et indigesta digerere, obscura expolire, involuta planius explicare, infirma sive imbecillia confirmare et munire validius, argumenta denique contraria excutere ac confutare.</s>
 					<s n="25" xml:lang="la" type="auto">Nolui in commentariis et aliud fere agens plene ea de re scribere; quia tamen nihil prorsus de ea dicere nec debui nec commode potui, volui sententiam modo meam, quam multi audire cupiebant, utcunque aliquot argumentis suffultam perstringere.</s>
 					<s n="26" xml:lang="la" type="auto">Ita forte factum est, ut in hac causa nec tibi nec aliis (utcunque interim multi viri boni et docti nil amplius desiderent) in hac disceptatione fecerim satis.</s>
@@ -95,7 +95,7 @@
 				</p>
 				<p>
 					<s n="57" xml:lang="la" type="auto">Iam quod finem mihi certum omnium tuorum proponis, Lenygne, frater et amice, ut scilicet magis sobrie de digamia cogitem, ne oleum camino addam aut rem fere consopitam excitem denuo, gratias ago.</s>
-					<s n="58" xml:lang="la" type="auto">Non enim possum magis sobrie de connubio cogitare, quam si, quod feci hactenus, cogitem dominum ab initio dixisse: „Erunt duo in carne una“ [Gen 2, 24] atque ideo viro iunxisse uxorem, non uxores, maximeque sobrios esse, qui unica contenti uxore concupiscentias carnis imperio spiritus subiugare contendunt.</s>
+					<s n="58" xml:lang="la" type="auto">Non enim possum magis sobrie de connubio cogitare, quam si, quod feci hactenus, cogitem dominum ab initio dixisse: „Erunt duo in carne una“ <cit type="bible"><ref>[Gen 2, 24]</ref></cit> atque ideo viro iunxisse uxorem, non uxores, maximeque sobrios esse, qui unica contenti uxore concupiscentias carnis imperio spiritus subiugare contendunt.</s>
 					<s n="59" xml:lang="la" type="auto">Et in hac causa aquam potius incendio affundere, non oleum camino addere studui.</s>
 					<s n="60" xml:lang="la" type="auto">Qui primi hoc incendium excitarunt ac<pb type="edition" next="89"/> publicis scriptis rem novam et hactenus non usitatam in vulgus alioqui cupiditatibus plus satis obnoxium sparserunt, oleum verius videntur addidisse camino.</s>
 					<s n="61" xml:lang="la" type="auto">Ego certe rem infelicem feliciter consopitam non cupio infeliciter exuscitare.</s>
@@ -103,7 +103,7 @@
 					<s n="63" xml:lang="la" type="auto">Quodsi causa digamiae aut polygamiae propemodum consopita est, bene est, gaudeo, gratias ago deo nostro, nil amplius volo aut peto neque aliud in commentariis illis meis spectavi, quam ut feliciter consopiatur et a nemine porro usurpetur.</s>
 				</p>
 				<p>
-					<s n="64" xml:lang="la" type="auto">Dominus Iesus sit cum spiritu tuo<note xml:id="fn18" type="footnote" n="18">Vgl. 2Tim 4, 22.</note> et tuorum omnium.</s>
+					<s n="64" xml:lang="la" type="auto">Dominus Iesus sit cum spiritu tuo<note xml:id="fn18" type="footnote" n="18">Vgl. <cit type="bible"><ref>2Tim 4, 22</ref></cit>.</note> et tuorum omnium.</s>
 					<s n="65" xml:lang="la" type="auto">Festinanter scripsi, quare boni consule meam illam rusticitatem.</s>
 				</p>
 				<p>

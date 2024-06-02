@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12244" type="Brief" source="VBS" n="1408">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12244" type="Brief" source="VBS-6" n="1408">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 15. Juli 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 15. Juli 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -29,8 +29,8 @@
 					<s n="11" xml:lang="la" type="auto">Unicum hoc regis exemplum doceret nos, ut arctius coniungeremus nos deo et caveremus nobis tanquam a publica peste a principibus.</s>
 					<s n="12" xml:lang="la" type="auto">Commendo tuis tuorumque precibus nihilominus causam afflictorum.</s>
 					<s n="13" xml:lang="la" type="auto">Dominus Iesus consoletur illos et servet in regnum suum aeternum.</s>
-					<s n="14" xml:lang="la" type="auto">A <placeName>Wormatia</placeName> nihil habemus memoria dignum.</s>
-					<s n="15" xml:lang="la" type="auto">Spirat et <persName>Caesar</persName> minas et caedes contra deum et Christum eius.</s>
+					<s n="14" xml:lang="la" type="auto">A <placeName ref="l569" cert="high">Wormatia</placeName> nihil habemus memoria dignum.</s>
+					<s n="15" xml:lang="la" type="auto">Spirat et <persName ref="p18538" cert="high">Caesar</persName> minas et caedes contra deum et Christum eius.</s>
 					<s n="16" xml:lang="la" type="auto">Tu vale in Christo et rescribe.</s>
 					<s n="17" xml:lang="la" type="auto">Salutant te consul uterque et scriba quoque urbis.</s>
 					<s n="18" xml:lang="la" type="auto">Tiguri, 15. Iulii, anno 1545.</s>

@@ -20,6 +20,7 @@ def make_letter_df(infolder, id_to_edition):
     """make some stats about letters, return pandas df"""
     letter_df = pd.DataFrame(columns=["letter_id", "edition", "sent_count", "cont_footnote_count", "ed_footnote_count"])
     namespaces_none = {None: 'http://www.tei-c.org/ns/1.0'}  # works well with findall, but not with .xpath
+    total_footnote_count = 0
     # namespaces_tei = {'tei': 'http://www.tei-c.org/ns/1.0'}  # when using .xpath, but need to use prefix in path
     for filename in tqdm(os.listdir(infolder)):
 
@@ -48,11 +49,12 @@ def make_letter_df(infolder, id_to_edition):
             continue
 
         letter_df.loc[len(letter_df)] = [letter_id, id_to_edition[letter_id], len(sentences), cont_footnote_count, ed_footnote_count]
-
+        total_footnote_count += cont_footnote_count
+    print("total content footnotes: ", total_footnote_count)
     return letter_df
 
 
-def make_footnote_df(infolder, outfilename, id_to_edition):
+def make_footnote_df(infolder, outfilename, id_to_edition, test_letter = False):  # todo: write test option
     """get all footnotes into a csv file"""  # with a DataFrame it takes to much time...
     namespaces_none = {None: 'http://www.tei-c.org/ns/1.0'}  # works well with findall, but not with .xpath
     namespaces_tei = {'tei': 'http://www.tei-c.org/ns/1.0'}  # when using .xpath, but need to use prefix in path
@@ -63,13 +65,18 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
         # footnote_df = pd.DataFrame(columns=[['letter_id', 'edition', 'n_footnote', "n_sentence", 'xml_footnote', 'xml_sentence', 'text_footnote', 'text_sentence', 'len_footnote']])
         for filename in tqdm(os.listdir(infolder)):
 
-            with open(os.path.join(infolder, filename), "r", encoding="utf-8") as f:
-                tree = etree.parse(f)
-            root = tree.getroot()
             letter_id = filename.split(".")[0]
 
             if letter_id not in id_to_edition:  # only work on edited letters...
                 continue
+            
+            if test_letter:
+                if letter_id != test_letter:
+                    continue
+
+            with open(os.path.join(infolder, filename), "r", encoding="utf-8") as f:
+                tree = etree.parse(f)
+            root = tree.getroot()
 
 
             # get the footnotes
@@ -77,8 +84,8 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
             for footnote in footnotes:
                 try:
                     n_footnote = int(footnote.get("n"))
-                    footnote.tail = None  # we don't care about the tail here...
-                    xml_footnote = get_node_string(footnote)
+                    # footnote.tail = None  # can't remove it here, otherwise it is also gone in the sentence... 
+                    xml_footnote = etree.tostring(footnote, encoding="unicode", with_tail=False) # have to specify the encoding argument as such, bc otherwise it returns a byte string... get_node_string(footnote)
                 except ValueError:  # editorial footnotes
                     continue
 
@@ -92,7 +99,7 @@ def make_footnote_df(infolder, outfilename, id_to_edition):
 
                 n_sentence = sentence.get('n')
                 sentence.tail = None
-                xml_sentence = get_node_string(sentence)
+                xml_sentence = etree.tostring(sentence, encoding="unicode") # get_node_string(sentence)
 
                 # replace footnote elements with all content by '__<n>'
                 xml_sentence_no_fn = footnote_placeholder(xml_sentence)
@@ -188,9 +195,13 @@ def downsize_tei(root, footnotes_to_keep=[]):
 def footnote_placeholder(sent):
     """replaces <footnote n='xyz'> and all its contents by '__xyz'
     Thus both editorial and content footnotes get a placeholder"""
-    # don't know why this REGEX does not work on all notes, see idx 317.... but the other does seem to work, sooooo
-    # return re.sub(rf" ?<note .*? xml\:id=\".*?\" type=\"footnote\" n=\"(\d+)\">.*?</note>", r'__\1', sent)
-    return re.sub(rf" ?<note .*? type=\"footnote\" n=\"(.*?)\">.*?</note>", r'__\1', sent)
+
+    footnote_regex = (r" ?<note [^>]*? type=\"footnote\" n=\"(.*?)\">" # matching the opening tag, capturing the FN number
+                      r".*?(?=<\/note>)"  # matching everything up until the closing tag (positive lookup!!)
+                      r"<\/note>"  # matching the endtag
+    )
+
+    return re.sub(footnote_regex, r'__\1', sent)
 
 def remove_markup(sent):
     # For now I assume that any other xml tags are purely markup
@@ -215,9 +226,9 @@ def get_node_string(node):
     """get the string of the xml in a node"""
     text = node.text
     if text:  # sometimes text will be none
-        text += ''.join([etree.tostring(sub).decode('utf-8') for sub in node])
+        text += ''.join([etree.tostring(sub, with_tail=True).decode('utf-8') for sub in node])
     else:
-        text = ''.join([etree.tostring(sub).decode('utf-8') for sub in node])
+        text = ''.join([etree.tostring(sub, with_tail=True).decode('utf-8') for sub in node])
 
     return text
 
@@ -297,13 +308,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("mode", choices=["letter_df", "footnote_df", "id_to_edition_map"])
     parser.add_argument("outfilename", type=str, help="csv filename for the DFs and json filename for the map")
-    parser.add_argument("infolder", help="folder containing the letters")
+    parser.add_argument("--infolder", default="../bullinger_source_data/letters" ,help="folder containing the letters")
     parser.add_argument("--id_to_edition_map", default="data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
+    parser.add_argument("--test_letter", default="", help="for testing cases, run only on a specific letter")
     args = parser.parse_args()
     mode = args.mode 
     outfilename = args.outfilename 
     infolder = args.infolder
     id_to_edition_map = args.id_to_edition_map
+    test_letter = args.test_letter
     # call the model to make the dataframes (takes a long time when calling through the ipynb somehow...)
     with open("data/id_to_edition_map.json", "r", encoding="utf-8") as injson:
         id_to_edition = json.load(injson)
@@ -314,7 +327,7 @@ if __name__ == "__main__":
         letter_df.to_csv(outfilename)
 
     elif mode == "footnote_df":
-        make_footnote_df(infolder, outfilename, id_to_edition)
+        make_footnote_df(infolder, outfilename, id_to_edition, test_letter=test_letter)
 
     elif mode == "id_to_edition_map":
         id_to_edition = make_id_to_edition_map(infolder) 

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11555" type="Brief" source="VBS" n="1167">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11555" type="Brief" source="VBS-6" n="1167">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 2. Mai 1541</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 2. Mai 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,11 +18,11 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Non est, doctissime Bullingere, ut ullum mei contemptum depreceris, velut ulla eius mihi suspicio in mentem venerit, qui tam persuasum tot argumentis habeo, a nemine amicorum nostrorum me magis non cultum solum, sed propemodum observatum, quam te ipso, quem ego iustissimis de caussis dudum mihi colendum observandumque delegi.</s>
-					<s n="3" xml:lang="la" type="auto">Neque ego quicquam eius rei <persName>Voglero</persName> innuebam; sed significabam, hoc unum mihi permolestum esse et, cur saepe mecum vel solus maererem, in caussa esse, quod tam esse te abalienato a D. Bucero animo viderem, ut ne me quidem, quem unice tamen ames et colas, intercessorem laturus videare, atque istuc quidem ipsum omnem mihi spem intercepisse sincerae concordię inter te tuosque et Bernates ministros instaurandę, quam multa tamen horum voluntate et humanitate nec unis nec paucis (ut nosti) literis ad te meis moliebar; postremis vero literis tuis factum esse, ut animum desponderim, nisi nos numen iuvet, ut veterem tecum in gratiam restitui Bucerum aliquando liceat.</s>
+					<s n="3" xml:lang="la" type="auto">Neque ego quicquam eius rei <persName ref="p8071" cert="high">Voglero</persName> innuebam; sed significabam, hoc unum mihi permolestum esse et, cur saepe mecum vel solus maererem, in caussa esse, quod tam esse te abalienato a D. <persName ref="p467" cert="high">Bucero</persName> animo viderem, ut ne me quidem, quem unice tamen ames et colas, intercessorem laturus videare, atque istuc quidem ipsum omnem mihi spem intercepisse sincerae concordię inter te tuosque et Bernates ministros instaurandę, quam multa tamen horum voluntate et humanitate nec unis nec paucis (ut nosti) literis ad te meis moliebar; postremis vero literis tuis factum esse, ut animum desponderim, nisi nos numen iuvet, ut veterem tecum in gratiam restitui <persName ref="p467" cert="high">Bucerum</persName> aliquando liceat.</s>
 					<s n="4" xml:lang="la" type="auto">Verum alio tempore de iis.</s>
 					<s n="5" xml:lang="la" type="auto">Scito, me libros commodatos recepisse illaesos et plane tales, quales miseram.</s>
 					<s n="6" xml:lang="la" type="auto">Ex Ratispona novi nihil, nisi quod Caesar 6 viros a partibus delegit, qui concordiam auspicentur.</s>
-					<s n="7" xml:lang="la" type="auto">A nostra lecti sunt Philippus, Bucerus, Pistorius, magna cautione veritatis per omnia retinendę, ab altera duo praefracti Eccius et Groperus, tertius Iulius Pluͦgus, cuius cum aequitas, tum integritas commendatur.</s>
+					<s n="7" xml:lang="la" type="auto">A nostra lecti sunt Philippus, <persName ref="p467" cert="high">Bucerus</persName>, Pistorius, magna cautione veritatis per omnia retinendę, ab altera duo praefracti Eccius et Groperus, tertius Iulius Pluͦgus, cuius cum aequitas, tum integritas commendatur.</s>
 					<s n="8" xml:lang="la" type="auto">Operimur tabellarium urbis nostrae iuratum; qui ubi redierit, tum te faciam e mercatorum literis nihil non insinuantibus omnibus de rebus certiorem.</s>
 					<s n="9" xml:lang="la" type="auto">Vale et salvum iube meo nomine collegium tuum.</s>
 					<s n="10" xml:lang="la" type="auto">Sangalli, postridie Kalendarum Maii, anno MDXLI.</s>

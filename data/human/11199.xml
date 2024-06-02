@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11199" type="Brief" source="HBBW" n="1156">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11199" type="Brief" source="HBBW-8" n="1156">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Erasmus Ritter, Peter Kunz (Conzenus) / Bern AN Heinrich Bullinger, 6. August 1538</title>
+				<title subtype="file">Erasmus Ritter, Peter Kunz (Conzenus) / Bern an Heinrich Bullinger, 6. August 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Nisi tam commodam scribis pro <persName>Hieronymo</persName> excusationem<note xml:id="fn2" type="footnote" n="2">Ein Schreiben Bullingers in dieser Sache ist nicht erhalten.</note>, frater in domino amande, minimo certe minus aberat, quin in suspitionem trahi poterat usque adeo festina illius vocatio.</s>
+					<s n="2" xml:lang="la" type="auto">Nisi tam commodam scribis pro <persName ref="p8393" cert="high">Hieronymo</persName> excusationem<note xml:id="fn2" type="footnote" n="2">Ein Schreiben Bullingers in dieser Sache ist nicht erhalten.</note>, frater in domino amande, minimo certe minus aberat, quin in suspitionem trahi poterat usque adeo festina illius vocatio.</s>
 					<s n="3" xml:lang="la" type="auto">Sed audimus facti rationem bonique consulimus.</s>
 				</p>
 				<p>
@@ -27,21 +27,21 @@
 					<s n="5" xml:lang="la" type="auto">Utinam gratificari vobis contingat aliquando!</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Sed quo minus suffectus sit <persName>Hieronymo Clauserus</persName><note xml:id="fn3" type="footnote" n="3"><persName>Konrad Klauser</persName>.</note>, et tu audi.</s>
-					<s n="7" xml:lang="la" type="auto">Perlatae sunt literae tuae ad nos vix tandem 5. augusti, alio iam in vicem prioris subrogato<note xml:id="fn4" type="footnote" n="4">Der Name des neuen Schulmeisters ist nicht bekannt; auch im <placeName>Berner</placeName> Ratsmanual, wo die Bestätigung seiner Wahl unter dem 7. August vermerkt ist, wird er nur als "der <placeName>Walliser</placeName>" bezeichnet (s. <placeName>Bern</placeName> StA, A II 134, S. 116, vgl. auch S. 91 und 110).</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Sed quo minus suffectus sit <persName ref="p8398" cert="high">Hieronymo Clauserus</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p8398" cert="high">Konrad Klauser</persName>.</note>, et tu audi.</s>
+					<s n="7" xml:lang="la" type="auto">Perlatae sunt literae tuae ad nos vix tandem 5. augusti, alio iam in vicem prioris subrogato.</s>
 					<s n="8" xml:lang="la" type="auto">Is Vallesianus est ob Christi confessionem patria pulsus, quem iam commiserari oportuit, quo minus desponderet animum homo pius.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Caetera vero nihil addubitandum erat, quo non exceptus fuisset <persName>Clauserus</persName>, si modo in tempore venisset.</s>
+					<s n="9" xml:lang="la" type="auto">Caetera vero nihil addubitandum erat, quo non exceptus fuisset <persName ref="p8398" cert="high">Clauserus</persName>, si modo in tempore venisset.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">Vale et conscriptionis<note xml:id="fn5" type="footnote" n="5">Gemeint ist wohl der Abschied der Zürcher Tagung vom 28. April bis 3. Mai (vgl. oben <ref target="file11171">Nr. 1128</ref>, Anm. 1).</note> nos optime memores et constanter perseveraturos scitote fideliter.</s>
 					<s n="11" xml:lang="la" type="auto">Dispereant ii, qui hanc interturbaturi sunt.</s>
 					<s n="12" xml:lang="la" type="auto">Salutato symmistas tuos omnes.<pb type="edition" next="191"/></s>
-					<s n="13" xml:lang="la" type="auto">6. augusti 1538, <placeName>Bernae</placeName>.</s>
+					<s n="13" xml:lang="la" type="auto">6. augusti 1538, <placeName ref="l41" cert="high">Bernae</placeName>.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto"><persName>Erasmus Ritter</persName> et <persName>Petrus Conzenus</persName>, tui in domino.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p2810" cert="high">Erasmus Ritter</persName> et  <persName ref="p8401" cert="high">Petrus Conzenus</persName>, tui in domino.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11541" type="Brief" source="VBS" n="1160">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11541" type="Brief" source="VBS-6" n="1160">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 11. April 1541</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 11. April 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -35,7 +35,7 @@
 					<s n="17" xml:lang="la" type="auto">Verum hactenus de his; nam atrocia ex literis nostratium intelligimus.</s>
 					<s n="18" xml:lang="la" type="auto">Gallus Taurinensem urbem in tractu Pedemontano operis sumptuosissimis munit et fossis novis aggeribusque cingit, duorum milium hominum operis singulos propemodum et continuos quidem in dies conductis.</s>
 					<s n="19" xml:lang="la" type="auto">Aiunt nostri et Italię imminere instructissima classe Turcam; sed eius rei nos eventus ipse certiores faciet.</s>
-					<s n="20" xml:lang="la" type="auto">Haec te latere nolui, mi Bullingere, quamquam Voglerus referre coram pluscula potuisset; sed de Buceri negotio ut tecum agat meo nomine, ei dedi mandati nonnihil.</s>
+					<s n="20" xml:lang="la" type="auto">Haec te latere nolui, mi Bullingere, quamquam Voglerus referre coram pluscula potuisset; sed de <persName ref="p467" cert="high">Buceri</persName> negotio ut tecum agat meo nomine, ei dedi mandati nonnihil.</s>
 					<s n="21" xml:lang="la" type="auto">Vale cum tuis et nostris omnibus; salvere cupio nominatim consulem Roscium et Lavaterum meum.</s>
 					<s n="22" xml:lang="la" type="auto">Sangalli, XI. Aprilis, anno MDXLI.</s>
 				</p>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12291" type="Brief" source="VBS" n="84">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12291" type="Brief" source="VBS-7" n="84">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Joachim Vadian (von Watt)] / [St. Gallen] AN [Heinrich Bullinger], [zweite Hälfte September 1545]</title>
+				<title subtype="file">[Joachim Vadian (von Watt)] / [St. Gallen] an [Heinrich Bullinger], [zweite Hälfte September 1545]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -15,10 +15,10 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">De Megandri, doctissimi viri, obitu doleo, et eo ipso acutior factus est dolor, quem in excessu Binderi nostri acceperam.</s>
+					<s n="1" xml:lang="la" type="auto">De Megandri, doctissimi viri, obitu doleo, et eo ipso acutior factus est dolor, quem in excessu <persName ref="p344" cert="high">Binderi</persName> nostri acceperam.</s>
 					<s n="2" xml:lang="la" type="auto">Verum omnia ut mitigem, lex facit irrefragabilis, quae omnibus hominibus iam olim indixit mortem.</s>
 					<s n="3" xml:lang="la" type="auto">Admonent autem casus isti amicorum me longe aetate inferiorum, ut ipse multum iam et spe de moriendo cogitem et ita in animum inducam, ferendum quidem carni, quod vitari non possit, spiritui autem exoptandum, ut e saeculo migrare et apud Christum agere liceat.</s>
-					<s n="4" xml:lang="la" type="auto"><persName ref="p18198">Buceri</persName> libellum legi et desultoriam hominis sollicitudinem intueor, qua certe varius est; verum eum tenet morem, quem solent, qui partes amant et concordes esse cupiunt.</s>
+					<s n="4" xml:lang="la" type="auto"><persName ref="p467" cert="high">Buceri</persName> libellum legi et desultoriam hominis sollicitudinem intueor, qua certe varius est; verum eum tenet morem, quem solent, qui partes amant et concordes esse cupiunt.</s>
 					<s n="5" xml:lang="la" type="auto">Vix enim mihi persuadere possum, sic eum vel maligni vel versuti esse aut fluctuantis animi, ut et in hoc dogmate non sequatur certam aliquam fidei rationem et non perspectum habeat, quid ei Scriptura inprimis permittat et quem in portum sit velificandum; quo et ego quidem animo sum, haud quidem fluctuans vacillansque (probo enim dogma vestrum et pium esse iudico), sed ita me ipsum continens, ut existimem referre plurimum, quo genere sermonis in explicandis mysteriis docendisve utaris et quam sequaris locutionis formulam.</s>
 					<s n="6" xml:lang="la" type="auto">Quod admones, te ab amico fidei minime fluxae accepisse etc., dolere me, quod Tigurini mei Lutherum tam inique tractarint, sic habe: Rogavit me Frechtus sententiam et, quo iudicio essem, scire voluit.</s>
 					<s n="7" xml:lang="la" type="auto">Respondi ego, me librum nondum legisse, dolere vero me, quod audiam, Tigurinos in eo ipso virum tantopere meritum perinique tractasse etc.</s>

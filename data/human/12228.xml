@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12228" type="Brief" source="VBS" n="1401">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12228" type="Brief" source="VBS-6" n="1401">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 16. Juni 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 16. Juni 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
 					<s n="2" xml:lang="la" type="auto">Scio, pios et studiosos tuae humanitati, domine et frater colende idemque dilectissime, alias commendatos esse.</s>
-					<s n="3" xml:lang="la" type="auto">Quia tamen multi errones saepe bonis imponunt et se venditant pro studiosis, cum sint nebulones, volui huic D. Gerhardo Frisio testimonium dare fidele, ne inter errones numeretur.</s>
+					<s n="3" xml:lang="la" type="auto">Quia tamen multi errones saepe bonis imponunt et se venditant pro studiosis, cum sint nebulones, volui huic D. <persName ref="p4112" cert="high">Gerhardo Frisio</persName> testimonium dare fidele, ne inter errones numeretur.</s>
 					<s n="4" xml:lang="la" type="auto">Est hic honesto loco et nobili familia natus, natione Frisius.</s>
 					<s n="5" xml:lang="la" type="auto">Venit ad nos Tigurum pietatis et literarum ergo.</s>
 					<s n="6" xml:lang="la" type="auto">Egit in aedibus D. Pellicani.</s>

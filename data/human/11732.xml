@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11732" type="Brief" source="CO" n="434">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11732" type="Brief" source="CO-XI" n="434">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 8. November 1542</title>
+				<title subtype="file">Johannes Calvin / Genf an Heinrich Bullinger, 8. November 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -30,7 +30,7 @@
 					<s n="9" xml:lang="la" type="auto">Mors Leonis nostri, ut merito bonis omnibus fuit luctuosa, ita me vehementer afflixit.</s>
 					<s n="10" xml:lang="la" type="auto">Nam et privatim singularem amoris affectum mihi semper ostendit, et dum reputo quantam in huius viri morte iacturam fecerit ecclesia, non possum non graviter commoveri.</s>
 					<s n="11" xml:lang="la" type="auto">Superior annus nobis plus satis fuit funestus.</s>
-					<s n="12" xml:lang="la" type="auto">Nam et Grynaeum et Capitonem et multos alios insignes viros una cum Leone nobis abstulit.</s>
+					<s n="12" xml:lang="la" type="auto">Nam et Grynaeum et <persName ref="p5565" cert="high">Capitonem</persName> et multos alios insignes viros una cum Leone nobis abstulit.</s>
 					<s n="13" xml:lang="la" type="auto">Quo magis danda est nobis opera, ut novum semen excitemus, ne ecclesia destituta maneat.</s>
 					<s n="14" xml:lang="la" type="auto">Qua in re quum senatus vester egregiam operam navare ab initio non destiterit, audio eum novam adhuo accessionem nuper fecisse.</s>
 					<s n="15" xml:lang="la" type="auto">Hac spe fratrem huno mittendum ad vos censuimus.</s>

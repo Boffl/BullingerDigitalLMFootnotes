@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12121" type="Brief" source="GR" n="56">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12121" type="Brief" source="GR-I" n="56">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Pontisella d.J. / Chur AN Heinrich Bullinger, 22. Januar 1545</title>
+				<title subtype="file">Johannes Pontisella d.J. / Chur an Heinrich Bullinger, 22. Januar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,7 +24,7 @@
 					<s n="6" xml:lang="la" type="auto">Cum autem ad te scribere susceperim, scholae, cui me praefectum scis, statum apperire tibi debebam; sed commodius fore putavi, ut eum ex domini Comandri, patroni mei singularis, literis, qui propediem ad te scripturus est, cognosceres.</s>
 					<s n="7" xml:lang="la" type="auto">In praesentiarum autem hoc tantum significatum tibi volo ludum literarium nostrum tanto puerorum numero esse obrutum, ut his docendis erudiendisque duo soli sufficere nequeant.</s>
 					<s n="8" xml:lang="la" type="auto">Vereor autem, ne Lemnium, quod et prius attentaverant, mihi obtrudere velint, si collaboratorem deposcam.</s>
-					<s n="9" xml:lang="la" type="auto">Te itaque, domine humanissime, rogatum vellem, quo hac de re consuli nostro Curiensi Lucio Heym et domino <persName>Ioanni Traversio</persName> aliquid scribere digneris; idque si fiat, non est, quod amplius mihi metuam eos mihi Lemnio, homine impuro, molestos futuros.</s>
+					<s n="9" xml:lang="la" type="auto">Te itaque, domine humanissime, rogatum vellem, quo hac de re consuli nostro Curiensi Lucio Heym et domino <persName ref="p6831" cert="high">Ioanni Traversio</persName> aliquid scribere digneris; idque si fiat, non est, quod amplius mihi metuam eos mihi Lemnio, homine impuro, molestos futuros.</s>
 					<s n="10" xml:lang="la" type="auto">Authoritatem enim tuam, sat scio, reverebuntur.</s>
 					<s n="11" xml:lang="la" type="auto">Domini commissarii, ut vocant, ad proxime futuras Paulinas nundinas convenient, si quid humanitati tuae scribere vacaret.</s>
 					<s n="12" xml:lang="la" type="auto">Vale nunc, vir praestantissime Mecoenasque colendissime, meque tuae fidei semper commendatum habe.</s>

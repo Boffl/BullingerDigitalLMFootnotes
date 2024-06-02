@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10565" type="Brief" source="HBBW" n="529">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10565" type="Brief" source="HBBW-5" n="529">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ludwig Lopadius (Hafa) / [Konstanz] AN Heinrich Bullinger, 13. Februar 1535</title>
+				<title subtype="file">Ludwig Lopadius (Hafa) / [Konstanz] an Heinrich Bullinger, 13. Februar 1535</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -15,7 +15,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto"><persName>Ludovicus Lopadius</persName> Henrico Bullingero s[alutem].</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p8405" cert="high">Ludovicus Lopadius</persName> Henrico Bullingero s[alutem].</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Quum literae magno doctissimorum hominum consensu atque calculo primas partes mereantur easque cunctis rerum possessionibus praestare constet, nec iniuria a nobis quoque in precio habeantur.</s>

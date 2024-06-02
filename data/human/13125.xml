@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13125" type="Brief" source="TUSTEP" n="3076">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13125" type="Brief" source="TUSTEP-20" n="3076">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 14. November 1547</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 14. November 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -29,8 +29,8 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="6" xml:lang="la" type="auto">Ex Augusta didicimus duos insignes turbarum omnium coryphaeos, Augustanum cardinalem et Tridentinum, caesaris iussu abiisse <placeName>Tridentum</placeName>, instauratum videlicet probe ceptum concilium, in quod continuandum tres ordines imperii consenserint: Electores scilicet et principes lusciosi, praeterea et praelati, qui quo animo in Christum sint, orbis novit.</s>
-					<s n="7" xml:lang="la" type="auto">Caesar interim unum ex aulicis, qui est a confessionibus, cuculla tectum, praeterea Magunciacensem suffraganeum<note xml:id="fn25" type="footnote" n="25">Weihbischof Michael Helding.</note> et doctorem quendam Coloniensem (nescio, an Gropperus sit) negocio praefecit, ut de modo et ordine tractent et deliberent servandae religionis, quoadusque <placeName>Tridentino</placeName> concilio finis imponi queat.</s>
+					<s n="6" xml:lang="la" type="auto">Ex Augusta didicimus duos insignes turbarum omnium coryphaeos, Augustanum cardinalem et Tridentinum, caesaris iussu abiisse <placeName ref="l1107" cert="high">Tridentum</placeName>, instauratum videlicet probe ceptum concilium, in quod continuandum tres ordines imperii consenserint: Electores scilicet et principes lusciosi, praeterea et praelati, qui quo animo in Christum sint, orbis novit.</s>
+					<s n="7" xml:lang="la" type="auto">Caesar interim unum ex aulicis, qui est a confessionibus, cuculla tectum, praeterea Magunciacensem suffraganeum<note xml:id="fn25" type="footnote" n="25">Weihbischof Michael Helding.</note> et doctorem quendam Coloniensem (nescio, an Gropperus sit) negocio praefecit, ut de modo et ordine tractent et deliberent servandae religionis, quoadusque <placeName ref="l1107" cert="high">Tridentino</placeName> concilio finis imponi queat.</s>
 					<s n="8" xml:lang="la" type="auto">Quid isti sint meditaturi, facile est coniicere.</s>
 					<s n="9" xml:lang="la" type="auto">Nemo ex aliis ordinibus, praesertim nostrae fidei, allectus est.</s>
 					<s n="10" xml:lang="la" type="auto">Opposuere quidem suam protestationem urbes saniores.</s>
@@ -74,8 +74,8 @@
 					<s n="28" xml:lang="la" type="auto">Faciet autem patrię salus, facient coniuges et coniugibus amantiores liberi, ut nostrorum fidem, utcunque vel donis vel largitionibus tentatam, minime collapsuram aut quicquam prodituram esse perfidiam ullam certo mihi persuadeam.</s>
 					<s n="29" xml:lang="la" type="auto">Proinde remoram nullam tuo magistratui ingeres, quin, si pro rerum praesentium statu paciscendum aut foedus ullum honestum cum Gallo ineundum ceteri pagi consultum duxerint, tui sese non eximant, sed aliis sese libenter adiungant, <pb type="scan" next="530r."/> ut enim omittam, quod in tanta rei publicę et tam latę patentis societate odiosa est paucorum singularitas (satis constat dissidii et alienati animi suspitione non carere, si pauci non probent, quod a pluribus publicorum commodorum gratia est receptum).</s>
 					<s n="30" xml:lang="de" type="auto">Ir werdt erfaren, das kayser Karol doch ettliche stett und ordt der aydgnoschaft mit anforderungen nit fürkhommen laßen wirt, und so er ain aydgnoschaft ie in krieg zuͦ werfen und ghorsam zuͦ machen (wie man dussen sagt) sich underneme, wurde er vor allen dingen uns an bayden orten dess Rhins und an allemm Bodensee, dessgleychen enend dem gebirg, was an Maland stoßt, der provant halber aller dingen endtsetzen und ainen beharrlichen krieg für sich nemen.</s>
-					<s n="31" xml:lang="de" type="auto">Wo uns dan Frankreych nitt offen sein solte, wurde er uns mit demm ainigen hunger paschgen und erzwingen.</s>
-					<s n="32" xml:lang="de" type="auto">Darum ain aydgnoschafft khainen besseren ruggen haben khan noch mag dann an Frankreych, mitt welcher kron man on dess in ainem fridstand und ainer veraynung stadt.</s>
+					<s n="31" xml:lang="de" type="auto">Wo uns dan <placeName ref="l28" cert="high">Frankreych</placeName> nitt offen sein solte, wurde er uns mit demm ainigen hunger paschgen<note xml:id="fn26" type="footnote" n="26">bändigen.</note> und erzwingen.</s>
+					<s n="32" xml:lang="de" type="auto">Darum ain aydgnoschafft khainen besseren ruggen haben khan noch mag dann an <placeName ref="l28" cert="high">Frankreych</placeName>, mitt welcher kron man on dess in ainem fridstand und ainer veraynung stadt.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
@@ -86,7 +86,7 @@
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="35" xml:lang="la" type="auto">De <placeName>Constantia</placeName> quod scribis, verum est.</s>
+					<s n="35" xml:lang="la" type="auto">De <placeName ref="l457" cert="high">Constantia</placeName> quod scribis, verum est.</s>
 					<s n="36" xml:lang="la" type="auto">Iuvari illi vi a nobis non potuissent, nisi et in nos transferre bellum libuerit.</s>
 					<s n="37" xml:lang="la" type="auto">Minor autem est periculi ratio, si ipsi a caesare oppressi militem admitterent, qui vexaret Helvetiam.</s>
 					<s n="38" xml:lang="la" type="auto">Sed mihi semper ea ratio probata est, qua de intercedendo posset constitui, vel legatione ad caesarem missa vel literis.</s>

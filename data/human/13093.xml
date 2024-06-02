@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13093" type="Brief" source="HBBW" n="3044">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13093" type="Brief" source="HBBW-20" n="3044">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Sigismund Stier (Taurus) / Basel AN [Heinrich Bullinger], 17. Oktober 1547</title>
+				<title subtype="file">Sigismund Stier (Taurus) / Basel an [Heinrich Bullinger], 17. Oktober 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Es hatt <persName>Melchior Schlosser</persName>, Stattbott zuͦ Zürich, zaiger diß<note xml:id="fn3" type="footnote" n="3">Damit ist sowohl vorliegender wie auch Brief <ref target="file13094">Nr. 3045</ref> vom gleichen Tag gemeint; s. unten Z. <ptr target="qvzl17380-2" type="qv"/>.</note>, den hochgebornen Fürsten und hern, hern <persName>Georgen, graven zu Wirtemberg und zu Muͦmpelgart</persName>, etc., uf den 16. octobris diß lauffenden 47ten jars der mynder zaal<note xml:id="fn4" type="footnote" n="4">Gemeint ist die Zahl "47" vom ganz ausgeschriebenen Jahr 1547.</note>, gantz spath, zwen brief (namlich einen von der statt <placeName>Lindow</placeName> und den andern von <persName>Hansen Voglern dem juͤngern</persName>), fuͤrderungbrief mitzuͦtailen, etc., zu Basel uberantwort.<pb type="edition" next="567"/></s>
+					<s n="1" xml:lang="de" type="auto">Es hatt <persName ref="p6435" cert="high">Melchior Schlosser</persName>, Stattbott zuͦ Zürich, zaiger diß<note xml:id="fn3" type="footnote" n="3">Damit ist sowohl vorliegender wie auch Brief <ref target="file13094">Nr. 3045</ref> vom gleichen Tag gemeint; s. unten Z. <ptr target="qvzl17380-2" type="qv"/>.</note>, den hochgebornen Fürsten und hern, hern <persName ref="p8098" cert="high">Georgen, graven zu Wirtemberg und zu Muͦmpelgart</persName>, etc., uf den 16. octobris diß lauffenden 47ten jars der mynder zaal<note xml:id="fn4" type="footnote" n="4">Gemeint ist die Zahl "47" vom ganz ausgeschriebenen Jahr 1547.</note>, gantz spath, zwen brief (namlich einen von der statt <placeName ref="l291" cert="high">Lindow</placeName> und den andern von <persName ref="p8071" cert="high">Hansen Voglern dem juͤngern</persName>), fuͤrderungbrief<note xml:id="fn5" type="footnote" n="5">Empfehlungsschreiben.</note> mitzuͦtailen, etc., zu Basel uberantwort.<pb type="edition" next="567"/></s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -24,7 +24,7 @@
 					<s n="2" xml:lang="de" type="auto">Ist mit denselben fürbittlichen gschrifften deß andern und negsten tags darnach<note xml:id="fn7" type="footnote" n="7">Also am Abfassungstag des vorliegenden Briefes.</note> umb die drey uhr nachmittag wider abgefertigt worden.</s>
 					<s n="3" xml:lang="de" type="auto">Und dwyll die bemelten zway schryben, er hieher gebracht, hochgedachten mynen gnedigen hern, etc., gar nit berüren, ist ime sein bottenlon, dass er dan ungestümelich und mit ungepürlichen worthen gefordert, alhie nit entricht worden (wiewol er syn gnaden vorn heuptern alhie desselbenn verclagt<note xml:id="fn8" type="footnote" n="8">Gemeint ist: Obwohl er sich in Anwesenheit von einigen Amtsträgern von Basel über den Grafen [= syn gnaden] beschwert hat.</note>), aber ime der beschaidt worden: Er möcht wol ein irrigen kopf haben; hab sich unbillich beklagt; soll die antwort von synen gnaden<note xml:id="fn9" type="footnote" n="9">Brief <ref target="file13094">Nr. 3045</ref>.</note> nemmen, sampt einer bekanthnus<note xml:id="fn10" type="footnote" n="10">Bescheinigung. - Damit ist das vorliegende Schreiben der gräflichen Kanzlei gemeint.</note> von dero gnaden cantzley, daß ime sein bottenlon noch ußstehe, und hinziehen!</s>
 					<s n="4" xml:lang="de" type="auto">Datum Basel, den 17. octobris anno, etc., 47.</s>
-					<s n="5" xml:lang="de" type="auto"><persName>Stier S.</persName></s>
+					<s n="5" xml:lang="de" type="auto"><persName ref="p8103" cert="high">Stier S.</persName></s>
 					<note> [Ohne Adresse.]</note>
 				</p>
 			</div>

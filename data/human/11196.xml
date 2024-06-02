@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11196" type="Brief" source="HBBW" n="1153">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11196" type="Brief" source="HBBW-8" n="1153">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Michael Drome / Oxford AN Heinrich Bullinger, 31. Juli 1538</title>
+				<title subtype="file">Michael Drome / Oxford an Heinrich Bullinger, 31. Juli 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et salutem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Etsi nulla mihi tecum intercessit unquam familiaritas, virorum doctissime, quae ad scribendum subinvitare iam posset, attamen generosus ille animi tui candor, comitas tanta ac suavitas, quae mihi Nicolaus<note xml:id="fn2" type="footnote" n="2"><persName>Nicholas Partridge</persName>. -Partridge hielt sich zweimal mehrere Monate lang in Zürich auf, erstmals von August bis Dezember 1536 (s. <bibl>HBBW</bibl> VI, S. 386, 2f, und 493, 78f), ein zweites Mal von Juni bis November 1537 (s. <bibl>HBBW</bibl> VII. S. 173, <ref target="file11049">Nr. 1007</ref>, und S. 289, <ref target="file11103">Nr. 1060</ref>).</note> meus summopere praedicaverat in te apud tuos tam praeclaro loco viro, extorserunt hanc impresentiarum epistolam, ut quod nullo hactenus veteris amicitiae titulo ausus essem tentare, hae tuae egregiae virtutes et in amicum praeterea exhibita humanitas vel ab ignotissimo alias evincere valebant.</s>
+					<s n="2" xml:lang="la" type="auto">Etsi nulla mihi tecum intercessit unquam familiaritas, virorum doctissime, quae ad scribendum subinvitare iam posset, attamen generosus ille animi tui candor, comitas tanta ac suavitas, quae mihi Nicolaus meus summopere praedicaverat in te apud tuos tam praeclaro loco viro, extorserunt hanc impresentiarum epistolam, ut quod nullo hactenus veteris amicitiae titulo ausus essem tentare, hae tuae egregiae virtutes et in amicum praeterea exhibita humanitas vel ab ignotissimo alias evincere valebant.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">Semper fui hac opinione eos, qui ex animo faverent evangelio, maxime vero, qui antesignani essent in illo pure praedicando, non solere admodum morosos esse vel aditu difficiles.</s>
@@ -54,10 +54,10 @@
 					<s n="22" xml:lang="la" type="auto">Vale et temeritati meae parce.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto"><placeName>Oxoniae</placeName>, e collegio Magdaleniano, pridie kalendas augusti.</s>
+					<s n="23" xml:lang="la" type="auto"><placeName ref="l376" cert="high">Oxoniae</placeName>, e collegio Magdaleniano, pridie kalendas augusti.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la" type="auto">Tuus <persName>Michael Drumaeus</persName>.</s>
+					<s n="24" xml:lang="la" type="auto">Tuus <persName ref="p840" cert="high">Michael Drumaeus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11490" type="Brief" source="HBBW" n="1447">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11490" type="Brief" source="HBBW-10A" n="1447">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [zwischen 1539 und 1541]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [zwischen 1539 und 1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,7 +24,7 @@
 					<s n="4" xml:lang="la" type="auto">Vale in domino Christo.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Tuus <persName>Grynęus</persName>.</s>
+					<s n="5" xml:lang="la" type="auto">Tuus <persName ref="p1365" cert="high">Grynęus</persName>.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto">Saluta omnes in domino.</s>

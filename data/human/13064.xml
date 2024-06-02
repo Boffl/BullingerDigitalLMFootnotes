@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13064" type="Brief" source="TUSTEP" n="3015">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13064" type="Brief" source="TUSTEP-20" n="3015">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 19. September 1547</title>
+				<title subtype="file">Johannes Calvin / Genf an Heinrich Bullinger, 19. September 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,12 +26,12 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="la" type="auto">De Germanię calamitate plura audire cogor, quam vellem, et tamen, quomodo se habeat <placeName>Constantia</placeName>, quę animo meo penitus insidet, non dicitur.</s>
-					<s n="8" xml:lang="la" type="auto">Magna fuit <placeName>Argentinę</placeName> trepidatio, cum putarent imperatorem illic hyematurum; quin etiam hodie quoque apertas illi fore portas negant, si aliunde fulciantur.</s>
+					<s n="7" xml:lang="la" type="auto">De Germanię calamitate plura audire cogor, quam vellem, et tamen, quomodo se habeat <placeName ref="l457" cert="high">Constantia</placeName>, quę animo meo penitus insidet, non dicitur.</s>
+					<s n="8" xml:lang="la" type="auto">Magna fuit <placeName ref="l492" cert="high">Argentinę</placeName> trepidatio, cum putarent imperatorem illic hyematurum; quin etiam hodie quoque apertas illi fore portas negant, si aliunde fulciantur.</s>
 					<s n="9" xml:lang="la" type="auto">Quid Helveticę civitates cogitent, nescio; paululum quidem de bello illis inferendo conticuerunt rumores propter Italicos motus.</s>
 					<s n="10" xml:lang="la" type="auto">Sed quid, si eius terrore illic omnes perculsi nihil movere audeant!</s>
-					<s n="11" xml:lang="la" type="auto">Iam Placentiam  et Parmam occiso, ut quidam aiunt, vel certe profligato Petro Loysio<note xml:id="fn11" type="footnote" n="11"><persName>Pièr Luigi Farnese</persName>.</note> occupat, et fieri potest, ut Italiam in hunc annum tanto successu sibi pacaverit.</s>
-					<s n="12" xml:lang="la" type="auto">Si <placeName>Argentinam</placeName> ingressus fuerit, castra occupari vides, unde vos invadat.</s>
+					<s n="11" xml:lang="la" type="auto">Iam Placentiam <note xml:id="fn10" type="footnote" n="10">Piacenza.</note> et Parmam occiso, ut quidam aiunt, vel certe profligato <persName ref="4758" type="auto_name">Petro Loysio</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p4758" cert="high">Pièr Luigi Farnese</persName>.</note> occupat, et fieri potest, ut Italiam in hunc annum tanto successu sibi pacaverit.</s>
+					<s n="12" xml:lang="la" type="auto">Si <placeName ref="l492" cert="high">Argentinam</placeName> ingressus fuerit, castra occupari vides, unde vos invadat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -50,7 +50,7 @@
 				<p>
 					<s n="21" xml:lang="la" type="auto">Cęterum hic puer, qui meas tibi literas reddidit, filius est senatoris cuiusdam, quocum mihi plurimum est familiaritas.</s>
 					<s n="22" xml:lang="la" type="auto">Is me per nostram amicitiam rogavit, ut commendationem illi darem.</s>
-					<s n="23" xml:lang="la" type="auto">Aget apud quaestorem vestrum<note xml:id="fn12" type="footnote" n="12"><persName>Jakob Werdmüller</persName>.</note>, quantum intelligo.</s>
+					<s n="23" xml:lang="la" type="auto">Aget apud quaestorem vestrum<note xml:id="fn12" type="footnote" n="12"><persName ref="p7019" cert="high">Jakob Werdmüller</persName>.</note>, quantum intelligo.</s>
 					<s n="24" xml:lang="la" type="auto">Sed consilium patris est, ut in literis proficiat, quarum iam habet initia.</s>
 					<s n="25" xml:lang="la" type="auto">Et est ingenio docili nec alieno a musis.</s>
 					<s n="26" xml:lang="la" type="auto">Peto igitur abs te, ut scholę vestrę magistris, tuo simul ac meo nomine, non vulgariter eum commendes, ut maior eius habeatur ratio quam ignoti.</s>
@@ -61,13 +61,13 @@
 				<p>
 					<s n="28" xml:lang="la" type="auto">Vale, ornatissime vir et amice plurimum in domino colende, una cum symmystis et fratribus, quos nomine meo salutabis omnes, et fratrum meorum.</s>
 					<s n="29" xml:lang="la" type="auto">Dominus vobis adsit perpetuo vestrisque laboribus benedicat.</s>
-					<s n="30" xml:lang="la" type="auto">Uxori etiam tuę<note xml:id="fn13" type="footnote" n="13"><persName>Anna, geb. Adlischwyler</persName>.</note> plurimam salutem precor ac liberis.</s>
+					<s n="30" xml:lang="la" type="auto">Uxori etiam tuę<note xml:id="fn13" type="footnote" n="13"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note> plurimam salutem precor ac liberis.</s>
 				</p>
 				<p>
-					<s n="31" xml:lang="la" type="auto"><placeName>Genevę</placeName>, 13. cal. octobr. 1547.</s>
+					<s n="31" xml:lang="la" type="auto"><placeName ref="l167" cert="high">Genevę</placeName>, 13. cal. octobr. 1547.</s>
 				</p>
 				<p>
-					<s n="32" xml:lang="la" type="auto"><persName>Ioannes Calvinus</persName> tuus.</s>
+					<s n="32" xml:lang="la" type="auto"><persName ref="p540" cert="high">Ioannes Calvinus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

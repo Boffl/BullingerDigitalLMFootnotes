@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11087" type="Brief" source="HBBW" n="1044a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11087" type="Brief" source="HBBW-10A" n="1044a">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, 22. September [1537]</title>
+				<title subtype="file">Johannes Zwick / [Konstanz] an Heinrich Bullinger, 22. September [1537]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12597" type="Brief" source="HBBW" n="2550">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12597" type="Brief" source="HBBW-17" n="2550">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leonhard Serin (Soerinus) / Ulm AN Heinrich Bullinger, 25. August 1546</title>
+				<title subtype="file">Leonhard Serin (Soerinus) / Ulm an Heinrich Bullinger, 25. August 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Quinta huius etiam ad te literas<note xml:id="fn1" type="footnote" n="1">Brief <ref target="file12574">Nr. 2527</ref> vom 5. August.</note> dedi, vir observandissime, easque iam accepisse te arbitror.</s>
-					<s n="3" xml:lang="la" type="auto">Ego vero post eas, quas attulit Vilhelmus<note xml:id="fn2" type="footnote" n="2"><persName>Wilhelm Reublin</persName>. Er überbrachte Bullingers Brief vom 18. Juni (nicht erhalten); s. <ref target="file12574">Nr. 2527</ref>.1f.</note>, a te nullas accepi nec id quidem miror probe sancta tua negotia considerans.</s>
+					<s n="3" xml:lang="la" type="auto">Ego vero post eas, quas attulit Vilhelmus<note xml:id="fn2" type="footnote" n="2"><persName ref="p8427" cert="high">Wilhelm Reublin</persName>. Er überbrachte Bullingers Brief vom 18. Juni (nicht erhalten); s. <ref target="file12574">Nr. 2527</ref>.1f.</note>, a te nullas accepi nec id quidem miror probe sancta tua negotia considerans.</s>
 					<s n="4" xml:lang="la" type="auto">Porro, quando fortuito oportunus ille tabellarius obtigit eidemque gratificarer tibi per illum scribendo, quo adeundi te commodiorem haberet occasionem et tibi aliquanto esset commendatior, non potui omittere, quin hisce te salutarem pro meo in te studio.</s>
 				</p>
 			</div>
@@ -27,17 +27,17 @@
 					<s n="5" xml:lang="la" type="auto">De novis ita se iam habet apud nos, ut, dum nova sunt, plerumque incerta sint.</s>
 					<s n="6" xml:lang="la" type="auto">Qui enim rerum scriptu dignarum certi sunt, eas rarissime vulgo communicant.</s>
 					<s n="7" xml:lang="la" type="auto">Cęterum, quę iam certo constant, ea nova esse desierunt.</s>
-					<s n="8" xml:lang="la" type="auto">Nihil igitur nunc in mentem venit festinantius scribenti, quod non omittendum ducerem, nisi quod magnus contra nos adventat exercitus ex Germania illa nostra Inferiore, aiuntque eum iam Rhenum etiam traiicisse,<note xml:id="fn4" type="footnote" n="4">Anspielung auf das Heer von <persName>Maximilian von Egmont</persName>, Graf von Büren; s. zuletzt <ref target="file12595">Nr. 2548</ref>,67-75 und Anm. 50.</note> sed Helvetios vestros cum aliis obviaturos illis, deinde nostros cum cęsareanis hisce diebus in <placeName>Bavaria</placeName> inter <placeName>Ratisponam</placeName> forte et <placeName>Ingolstadium</placeName> conflicturos.</s>
+					<s n="8" xml:lang="la" type="auto">Nihil igitur nunc in mentem venit festinantius scribenti, quod non omittendum ducerem, nisi quod magnus contra nos adventat exercitus ex Germania illa nostra Inferiore, aiuntque eum iam Rhenum etiam traiicisse,<note xml:id="fn4" type="footnote" n="4">Anspielung auf das Heer von <persName ref="p7459" cert="high">Maximilian von Egmont</persName>, Graf von Büren; s. zuletzt <ref target="file12595">Nr. 2548</ref>,67-75 und Anm. 50.</note> sed Helvetios vestros cum aliis obviaturos illis, deinde nostros cum cęsareanis hisce diebus in <placeName ref="l619" cert="high">Bavaria</placeName> inter <placeName ref="l410" cert="high">Ratisponam</placeName> forte et <placeName ref="l231" cert="high">Ingolstadium</placeName> conflicturos.</s>
 					<s n="9" xml:lang="la" type="auto">Dominus confundat hostes ecclesię suę.</s>
 					<s n="10" xml:lang="la" type="auto">Sed heus, Bullingere, nova sunt hęc!</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="11" xml:lang="la" type="auto">Quod illi duo vestri cives<note xml:id="fn5" type="footnote" n="5">Die Zürcher <persName>Meinrat Oggenfuß</persName> und <persName>Hans Hug</persName>, die sich via <placeName>Ulm</placeName> nach <placeName>Mähren</placeName> begeben hatten und bereits via <placeName>Augsburg</placeName> nach Zürich zurückgereist waren; s. <ref target="file12574">Nr. 2527</ref>,44-53, und <ref target="file12573">Nr. 2526</ref>.</note> ex <placeName>Moravia</placeName> redierunt nec quicquam inde mihi responsi retulerunt, non possum satis mirari, nam id se facturos obnixe roganti mihi polliciti sunt.</s>
+					<s n="11" xml:lang="la" type="auto">Quod illi duo vestri cives<note xml:id="fn5" type="footnote" n="5">Die Zürcher <persName ref="p5998" cert="high">Meinrat Oggenfuß</persName> und <persName ref="p8039" cert="high">Hans Hug</persName>, die sich via <placeName ref="l513" cert="high">Ulm</placeName> nach <placeName ref="l45" cert="high">Mähren</placeName> begeben hatten und bereits via <placeName ref="l1976" cert="high">Augsburg</placeName> nach Zürich zurückgereist waren; s. <ref target="file12574">Nr. 2527</ref>,44-53, und <ref target="file12573">Nr. 2526</ref>.</note> ex <placeName ref="l45" cert="high">Moravia</placeName> redierunt nec quicquam inde mihi responsi retulerunt, non possum satis mirari, nam id se facturos obnixe roganti mihi polliciti sunt.</s>
 					<s n="12" xml:lang="la" type="auto">Rogo igitur, ex illis discas, quaenam causa impedierit illos, quominus id officii prestarent, precipue alter ille Meyerath, et deinde vel paucissimis mihi significes.</s>
 					<s n="13" xml:lang="la" type="auto">Forte nonnihil adhuc habebunt, quod per te mihi nuncient.</s>
-					<s n="14" xml:lang="la" type="auto">Alter hyalurgus<note xml:id="fn7" type="footnote" n="7">Glasmacher; vgl. <bibl>Kirsch</bibl> s.v.</note> est, alter mercenarius lanioniam vietoriamque<note xml:id="fn8" type="footnote" n="8">Als Fassbinder (Böttcher) und nicht als Korbflechter zu verstehen; s. <bibl>Kirsch</bibl> s.v.</note> artem, etc., exercens, et, ni fallor, nomen habet apud nos ignotum Meyerath; nam tale quoddam in commendatitiis illis literis ad <placeName>Moravios</placeName>, quos a senatu vestro habebat, legisse mihi videor.</s>
+					<s n="14" xml:lang="la" type="auto">Alter hyalurgus<note xml:id="fn7" type="footnote" n="7">Glasmacher; vgl. <bibl>Kirsch</bibl> s.v.</note> est, alter mercenarius lanioniam vietoriamque<note xml:id="fn8" type="footnote" n="8">Als Fassbinder (Böttcher) und nicht als Korbflechter zu verstehen; s. <bibl>Kirsch</bibl> s.v.</note> artem, etc., exercens, et, ni fallor, nomen habet apud nos ignotum Meyerath; nam tale quoddam in commendatitiis illis literis ad <placeName ref="l45" cert="high">Moravios</placeName>, quos a senatu vestro habebat, legisse mihi videor.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -47,7 +47,7 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="16" xml:lang="la" type="auto"><placeName>Ulmę</placeName>,<pb type="scan" next="313v."/> 25. augusti anno, etc., 46.<pb type="edition" next="354"/></s>
+					<s n="16" xml:lang="la" type="auto"><placeName ref="l513" cert="high">Ulmę</placeName>,<pb type="scan" next="313v."/> 25. augusti anno, etc., 46.<pb type="edition" next="354"/></s>
 					<s n="17" xml:lang="la" type="auto">Dixit tabellarius ille habere se Tiguri conterraneos aliquot et amicum doctorem quend[am].</s>
 					<s n="18" xml:lang="la" type="auto">Quod si ita est, illis procul dubio satis erit commendatus.</s>
 					<s n="19" xml:lang="la" type="auto">Si rescripturus es, fac sciam, num et has et illas, quas 5. huius dedi, accepe[ris]<ptr target="fnd" type="footnote" n="d"/>.</s>
@@ -56,8 +56,8 @@
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="21" xml:lang="la" type="auto">Hac hora venerunt, qui nunciant cęsarem<note xml:id="fn10" type="footnote" n="10"><persName>Karl V.</persName></note> deserta <placeName>Ratispona</placeName> cum e[xer]citu suo versus nos ascendere.</s>
-					<s n="22" xml:lang="la" type="auto">Et si quos timor invadit, Helveticos fieri consultissimum fore putant, ut tandem Sibyllicum quodd[am] oraculum impleatur: bovem in ponte Danubiano <placeName>Ulmę</placeName> boaturum, u[t] media audiatur Helvetia.</s>
+					<s n="21" xml:lang="la" type="auto">Hac hora venerunt, qui nunciant cęsarem<note xml:id="fn10" type="footnote" n="10"><persName ref="p18538" cert="high">Karl V.</persName></note> deserta <placeName ref="l410" cert="high">Ratispona</placeName> cum e[xer]citu suo versus nos ascendere.</s>
+					<s n="22" xml:lang="la" type="auto">Et si quos timor invadit, Helveticos fieri consultissimum fore putant, ut tandem Sibyllicum quodd[am] oraculum impleatur: bovem in ponte Danubiano <placeName ref="l513" cert="high">Ulmę</placeName> boaturum, u[t] media audiatur Helvetia.</s>
 					<s n="23" xml:lang="la" type="auto">Sed hęc ego a vulgo tantum audio.</s>
 					<s n="24" xml:lang="la" type="auto">M[ag]num certe auxilium ab Helvetiis mediante domine Zebaoth<note xml:id="fn11" type="footnote" n="11">Siehe dazu <ref target="file12552">Nr. 2505</ref>, Anm. 41.</note> sperant n[ostri] magnamque in illis ut domini instrumentis fiduciam reponun[t]<note xml:id="fn12" type="footnote" n="12">Vgl. z.B. <ref target="file12514">Nr. 2467</ref>,251: <ref target="file12539">Nr. 2492</ref>,2-12; <ref target="file12555">Nr. 2508</ref>,39-43; <ref target="file12576">Nr. 2529</ref>,11-14.</note>.</s>
 				</p>

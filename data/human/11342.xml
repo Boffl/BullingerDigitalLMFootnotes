@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11342" type="Brief" source="HBBW" n="1299">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11342" type="Brief" source="HBBW-9" n="1299">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [nach 18. August 1539]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [nach 18. August 1539]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,8 +17,8 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Is, qui has ad te perfert, consul <placeName>Memmingensis</placeName><note xml:id="fn2" type="footnote" n="2"><persName>Balthasar Funk</persName>, s. oben Anm. 1.</note>, vir optimus, quaerit scolę, quam diligentius paulo adornant, <foreign xml:lang="el">ὑποδιδάσκαλον</foreign>.</s>
-					<s n="3" xml:lang="la" type="manual">Indicabimus <persName>Sebastianum Goldebeckium</persName> idoneum ei provincię<note xml:id="fn3" type="footnote" n="3"><persName>Guldibeck</persName> war Provisor an der Großmünsterschule, eine Funktion übrigens, die auch Bullinger gelegentlich mit "hypodidascalus" umschreibt (vgl. Zürich ZB, Ms F 37, 405v.).</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Is, qui has ad te perfert, consul <placeName ref="l320" cert="high">Memmingensis</placeName><note xml:id="fn2" type="footnote" n="2"><persName ref="p1257" cert="high">Balthasar Funk</persName>, s. oben Anm. 1.</note>, vir optimus, quaerit scolę, quam diligentius paulo adornant, <foreign xml:lang="el">ὑποδιδάσκαλον</foreign>.</s>
+					<s n="3" xml:lang="la" type="manual">Indicabimus <persName ref="p5072" cert="high">Sebastianum Goldebeckium</persName> idoneum ei provincię<note xml:id="fn3" type="footnote" n="3"><persName ref="p5072" cert="high">Guldibeck</persName> war Provisor an der Großmünsterschule, eine Funktion übrigens, die auch Bullinger gelegentlich mit "hypodidascalus" umschreibt (vgl. Zürich ZB, Ms F 37, 405v.).</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Oro te, ut hic quoque velis Christi negotium promovere.</s>
 					<s n="5" xml:lang="la" type="auto">Non addo plura; scio, quae est humanitas et synceritas tua, frater mihi dilectissime.</s>
 				</p>
@@ -26,10 +26,10 @@
 					<s n="6" xml:lang="la" type="auto">Vale in domino.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto"><persName>Simon Gryn.</persName> tuus.</s>
+					<s n="7" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Simon Gryn.</persName> tuus.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Saluta fratres omnes diligenter, pręsertim <persName>Theodorum</persName><note xml:id="fn4" type="footnote" n="4"><persName>Theodor Bibliander</persName>.</note> nostrum.</s>
+					<s n="8" xml:lang="la" type="auto">Saluta fratres omnes diligenter, pręsertim <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> nostrum.</s>
 					<s n="9" xml:lang="la" type="auto">Christus dominus nos conservet.</s>
 					<s n="10" xml:lang="de" type="auto">A[men].</s>
 				</p>

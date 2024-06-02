@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12578" type="Brief" source="HBBW" n="2531">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12578" type="Brief" source="HBBW-17" n="2531">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Hans (I.) Vogler] / [Augsburg] AN Heinrich Bullinger, Jakob Rordorf, [Heinrich Brennwald], [den 10., 11. oder 12. August 1546]</title>
+				<title subtype="file">[Hans (I.) Vogler] / [Augsburg] an Heinrich Bullinger, Jakob Rordorf, [Heinrich Brennwald], [den 10., 11. oder 12. August 1546]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,28 +16,28 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto"><pb type="scan" next="123"/>Alß mich die ernnvesten, wysen, mine gunstigen hern und ginner, baid burgermaister <persName ref="p8087">Jacob Hernnprot</persName> und <persName>Johann Waͤlser</persName> der statt <placeName>Augspurg</placeName>, uß sundrer früntschaft, ernn und gselschaft mitt inn gelassen (uff <placeName>Thonnenwert</placeName><note xml:id="fn5" type="footnote" n="5"><placeName>Donauwörth</placeName>; vgl. <ref target="file12571">Nr. 2524</ref>.34f.</note> zuͦ), damit ich so vil muglich ersechen mechte der zwayger fursten Sachssen<note xml:id="fn6" type="footnote" n="6">Kurfürst <persName>Johann Friedrich I. von Sachsen</persName>.</note> und <placeName>Hessen</placeName><note xml:id="fn7" type="footnote" n="7">Landgraf <persName>Philipp von Hessen</persName>.</note> sampt andrer fursten inzug durch <placeName>Thonnenwert</placeName>, harnach zuͦ kurtz<note xml:id="fn8" type="footnote" n="8">harnach zu kurtz: im Folgendem kurz.</note> verzaichnett.</s>
+					<s n="1" xml:lang="de" type="auto"><pb type="scan" next="123"/>Alß mich die ernnvesten, wysen, mine gunstigen hern und ginner<note xml:id="fn3" type="footnote" n="3">Gönner.</note>, baid burgermaister <persName ref="p1410" cert="high">Jacob Hernnprot</persName> und <persName ref="p3927" cert="high">Johann Waͤlser</persName> der statt <placeName ref="l1976" cert="high">Augspurg</placeName>, uß sundrer früntschaft, ernn und gselschaft mitt inn<note xml:id="fn4" type="footnote" n="4">ihnen.</note> gelassen (uff <placeName ref="l119" cert="high">Thonnenwert</placeName><note xml:id="fn5" type="footnote" n="5"><placeName ref="l119" cert="high">Donauwörth</placeName>; vgl. <ref target="file12571">Nr. 2524</ref>.34f.</note> zuͦ), damit ich so vil muglich ersechen mechte der zwayger fursten <persName ref="19065" type="auto_name">Sachssen</persName><note xml:id="fn6" type="footnote" n="6">Kurfürst <persName ref="p19065" cert="high">Johann Friedrich I. von Sachsen</persName>.</note> und <placeName ref="l664" cert="high">Hessen</placeName><note xml:id="fn7" type="footnote" n="7">Landgraf <persName ref="p18574" cert="high">Philipp von Hessen</persName>.</note> sampt andrer fursten inzug durch <placeName ref="l119" cert="high">Thonnenwert</placeName>, harnach zuͦ kurtz<note xml:id="fn8" type="footnote" n="8">harnach zu kurtz: im Folgendem kurz.</note> verzaichnett.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="2" xml:lang="de" type="auto">Item erstlichen sind diß die fursten (dero 11 sin sollend ingeritten mitt irem zug und aller kriegsrustung) aignen person <ptr target="fnd" type="footnote" n="d"/>(luth b[urger]m[aister] <persName ref="p8087">Hernbroten</persName> hantschrift):</s>
+					<s n="2" xml:lang="de" type="auto">Item erstlichen sind diß die fursten (dero 11 sin sollend ingeritten mitt irem zug und aller kriegsrustung) aignen person <ptr target="fnd" type="footnote" n="d"/>(luth b[urger]m[aister] <persName ref="p1410" cert="high">Hernbroten</persName> hantschrift):</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="de" type="auto">Der churfurst von Sachssen.</s>
-					<s n="4" xml:lang="de" type="auto">Der lantgraff von <placeName>Hessen</placeName>.</s>
-					<s n="5" xml:lang="de" type="auto">Deß churfursten der eltest son<note xml:id="fn9" type="footnote" n="9"><persName>Johann Friedrich II. der Mittlere</persName> von <placeName>Sachsen</placeName>.</note>.</s>
-					<s n="6" xml:lang="de" type="auto">Deß churfursten zu Sachssen bruͦder<note xml:id="fn10" type="footnote" n="10"><persName>Johann Ernst von Sachsen-Coburg</persName>.</note>.</s>
+					<s n="4" xml:lang="de" type="auto">Der lantgraff von <placeName ref="l664" cert="high">Hessen</placeName>.</s>
+					<s n="5" xml:lang="de" type="auto">Deß churfursten der eltest son<note xml:id="fn9" type="footnote" n="9"><persName ref="p19065" cert="high">Johann Friedrich II. der Mittlere</persName> von <placeName ref="l749" cert="high">Sachsen</placeName>.</note>.</s>
+					<s n="6" xml:lang="de" type="auto">Deß churfursten zu Sachssen bruͦder<note xml:id="fn10" type="footnote" n="10"><persName ref="p18872" cert="high">Johann Ernst von Sachsen-Coburg</persName>.</note>.</s>
 					<s n="7" xml:lang="de" type="auto">Dryg fursten von Bruͦnschwig<note xml:id="fn11" type="footnote" n="11">Siehe dazu <ref target="file12571">Nr. 2524</ref>, Anm. 27.</note>.</s>
-					<s n="8" xml:lang="de" type="auto"><persName>Hertzog Frantz von Lynenburg</persName><note xml:id="fn12" type="footnote" n="12">Herzog <persName>Franz von Braunschweig-Lüneburg-Gifhorn</persName>.</note>.</s>
-					<s n="9" xml:lang="de" type="auto">Der furst von <persName>Anhalt</persName><note xml:id="fn13" type="footnote" n="13"><persName>Wolfgang von Anhalt</persName>; s. <ref target="file12571">Nr. 2524</ref>, Anm. 31.</note>.</s>
+					<s n="8" xml:lang="de" type="auto"><persName ref="p7637" cert="high">Hertzog Frantz von Lynenburg</persName><note xml:id="fn12" type="footnote" n="12">Herzog <persName ref="p7637" cert="high">Franz von Braunschweig-Lüneburg-Gifhorn</persName>.</note>.</s>
+					<s n="9" xml:lang="de" type="auto">Der furst von <persName ref="p18404" cert="high">Anhalt</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p18404" cert="high">Wolfgang von Anhalt</persName>; s. <ref target="file12571">Nr. 2524</ref>, Anm. 31.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="10" xml:lang="de" type="auto">Dise rustungen obgemelter fürsten, wie die zuͦ <placeName>Thonnenwert</placeName> ingezogen sint, achtet man 6000 wolgrüster pfärt und 25000 fußknecht<note xml:id="fn14" type="footnote" n="14">Vgl. aber <ref target="file12576">Nr. 2529</ref>,23-25.</note>.</s>
+					<s n="10" xml:lang="de" type="auto">Dise rustungen obgemelter fürsten, wie die zuͦ <placeName ref="l119" cert="high">Thonnenwert</placeName> ingezogen sint, achtet man 6000 wolgrüster pfärt und 25000 fußknecht<note xml:id="fn14" type="footnote" n="14">Vgl. aber <ref target="file12576">Nr. 2529</ref>,23-25.</note>.</s>
 					<s n="11" xml:lang="de" type="auto">Noch sollen iro vil harnach komen.</s>
-					<s n="12" xml:lang="de" type="auto">Wie aber dise zuͦ <placeName>Thonnenwert</placeName> nach ainandern ingezogen, harnach<note xml:id="fn15" type="footnote" n="15">Auf S. 126f der hessische Zug; auf S. 124f der sächsische Zug.</note> ongfar yn yl verzaichnet.<pb type="edition" next="297"/></s>
+					<s n="12" xml:lang="de" type="auto">Wie aber dise zuͦ <placeName ref="l119" cert="high">Thonnenwert</placeName> nach ainandern ingezogen, harnach<note xml:id="fn15" type="footnote" n="15">Auf S. 126f der hessische Zug; auf S. 124f der sächsische Zug.</note> ongfar yn yl verzaichnet.<pb type="edition" next="297"/></s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -47,20 +47,20 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="14" xml:lang="de" type="auto">Item uf mitwoch, den 4. augusti anno 1546, sind wir zu <placeName>Tonnenwert</placeName> inkomen.</s>
+					<s n="14" xml:lang="de" type="auto">Item uf mitwoch, den 4. augusti anno 1546, sind wir zu <placeName ref="l119" cert="high">Tonnenwert</placeName> inkomen.</s>
 					<s n="15" xml:lang="de" type="auto">Morgenß<note xml:id="fn16" type="footnote" n="16">Am folgenden Tag, Donnerstag, 5. August.</note> bin ich mit baiden hern burgermaistern hinuß geritten gegen ainem berg, daruff der lantgraff ligen, aber das leger noch nit gschlagen.</s>
 					<s n="16" xml:lang="de" type="auto">Wolten die baid b[urgermaister] zu ime.</s>
-					<s n="17" xml:lang="de" type="auto">Also wurden sy gewent<note xml:id="fn18" type="footnote" n="18">[davon] abgehalten.</note> mit disem bschaid: Der lantgraff wurd morg<note xml:id="fn19" type="footnote" n="19">Freitag, 6. August.</note> mit andern f[ursten] in stat komen - als<note xml:id="fn20" type="footnote" n="20">wie es.</note> och beschach.</s>
-					<s n="18" xml:lang="de" type="auto">Morgens<note xml:id="fn21" type="footnote" n="21">Also am Freitag.</note> giengen die baid b[urgermaister] in ain huß, darin Sachsen<note xml:id="fn22" type="footnote" n="22">Gerade eingetroffen; s. unten Z. 106.</note>, <persName>Hessen</persName> und die kriegßrät in ainer stuben sassen by 2 stunden, da ain post, ain brieff, uber den andern komen.</s>
-					<s n="19" xml:lang="de" type="auto">Da sassen Sachsen und <persName>Hessen</persName> by ainandern.</s>
+					<s n="17" xml:lang="de" type="auto">Also<note xml:id="fn17" type="footnote" n="17">Daraufhin.</note> wurden sy gewent<note xml:id="fn18" type="footnote" n="18">[davon] abgehalten.</note> mit disem bschaid: Der lantgraff wurd morg<note xml:id="fn19" type="footnote" n="19">Freitag, 6. August.</note> mit andern f[ursten] in stat komen - als<note xml:id="fn20" type="footnote" n="20">wie es.</note> och beschach.</s>
+					<s n="18" xml:lang="de" type="auto">Morgens<note xml:id="fn21" type="footnote" n="21">Also am Freitag.</note> giengen die baid b[urgermaister] in ain huß, darin Sachsen<note xml:id="fn22" type="footnote" n="22">Gerade eingetroffen; s. unten Z. 106.</note>, <persName ref="p18574" cert="high">Hessen</persName> und die kriegßrät in ainer stuben sassen by 2 stunden, da<note xml:id="fn23" type="footnote" n="23">währenddem.</note> ain post<note xml:id="fn24" type="footnote" n="24">Bote.</note>, ain brieff, uber den andern komen.</s>
+					<s n="19" xml:lang="de" type="auto">Da sassen Sachsen und <persName ref="p18574" cert="high">Hessen</persName> by ainandern.</s>
 					<s n="20" xml:lang="de" type="auto">Was brieffen komen, verlaß schnell der lantgraff selb, etc.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="21" xml:lang="de" type="auto"><pb type="scan" next="128"/>Item in das leger (dero 2 sind: Sachsen und <persName>Hessen</persName>) bin ich mitt baiden hern b[urgermaister] geriten, da wir zuͦ des churfursten und <persName>Hessen</persName> zelgen ritend.</s>
-					<s n="22" xml:lang="de" type="auto">Aber dise leger dermassen gstaltet, gerust und schön sindt, das ich nit sagen kan, desglich ir grosse, alle gegen der statt Rain, welche dess fursten von Payern<note xml:id="fn28" type="footnote" n="28"><persName>Wilhelm IV. von Bayern</persName>.</note> ist, und ain pass an der Tanow und <placeName>Lech</placeName>.</s>
-					<s n="23" xml:lang="de" type="auto">Item alle leger, one beder fursten, sind uff Payerlandt zogen; dann 18 fenly lantzknecht (darunder 1 fenrich<note xml:id="fn30" type="footnote" n="30">Unbekannt; vgl. unten Z. 102-105.</note> uß Schwitz miten under den lantzknechtfenrich, sin fenly nach der Schwitzer ard tragen<note xml:id="fn32" type="footnote" n="32">getragen hat.</note>, by 600 knecht darunder) sind diß tags och durch statt Tannawertt uff Payern zogen.</s>
+					<s n="21" xml:lang="de" type="auto"><pb type="scan" next="128"/>Item in das leger (dero 2 sind: Sachsen und <persName ref="p18574" cert="high">Hessen</persName>) bin ich mitt baiden hern b[urgermaister] geriten, da<note xml:id="fn25" type="footnote" n="25">als.</note> wir zuͦ des churfursten und <persName ref="p18574" cert="high">Hessen</persName> zelgen<note xml:id="fn26" type="footnote" n="26">Lagern.</note> ritend.</s>
+					<s n="22" xml:lang="de" type="auto">Aber dise leger dermassen gstaltet, gerust und schön sindt, das ich nit sagen kan, desglich ir grosse, alle gegen der statt Rain, welche dess fursten von <persName ref="18604" type="auto_name">Payern</persName><note xml:id="fn28" type="footnote" n="28"><persName ref="p18604" cert="high">Wilhelm IV. von Bayern</persName>.</note> ist, und ain pass an der Tanow<note xml:id="fn29" type="footnote" n="29">Donau.</note> und <placeName ref="l28" cert="high">Lech</placeName>.</s>
+					<s n="23" xml:lang="de" type="auto">Item alle leger, one beder fursten, sind uff Payerlandt zogen; dann 18 fenly lantzknecht (darunder 1 fenrich<note xml:id="fn30" type="footnote" n="30">Unbekannt; vgl. unten Z. 102-105.</note> uß Schwitz miten under den lantzknechtfenrich, sin fenly nach der Schwitzer ard<note xml:id="fn31" type="footnote" n="31">Art.</note> tragen<note xml:id="fn32" type="footnote" n="32">getragen hat.</note>, by 600 knecht darunder) sind diß tags och durch statt Tannawertt uff Payern zogen.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
@@ -70,30 +70,30 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="25" xml:lang="de" type="auto">Item baid fursten, Chur und <placeName>Hessen</placeName>, haben kay[serlicher] m[ajesta]t gschriben,<note xml:id="fn34" type="footnote" n="34">Der Brief, den der Kurfürst von Sachsen und der <persName>Landgraf von Hessen</persName> gemeinsam an <persName>Kaiser Karl V.</persName> am 4. Juli 1546 adressierten; s. <ref target="file12574">Nr. 2527</ref>, Anm. 41.</note> gantz früntlich, doch erbärmklich diser sachen,<note xml:id="fn35" type="footnote" n="35">doch erbärmklich diser sachen: sich jedoch der Lage annehmend.</note> daby siner k. mt. ir lehen uffgesagt, und ir er<note xml:id="fn37" type="footnote" n="37">ir er: ihre Ehre.</note> hiemit bewart halten.<pb type="edition" next="298"/></s>
+					<s n="25" xml:lang="de" type="auto">Item baid fursten, Chur und <placeName ref="l664" cert="high">Hessen</placeName>, haben kay[serlicher] m[ajesta]t gschriben,<note xml:id="fn34" type="footnote" n="34">Der Brief, den der Kurfürst von Sachsen und der <persName ref="p18574" cert="high">Landgraf von Hessen</persName> gemeinsam an <persName ref="p18538" cert="high">Kaiser Karl V.</persName> am 4. Juli 1546 adressierten; s. <ref target="file12574">Nr. 2527</ref>, Anm. 41.</note> gantz früntlich, doch erbärmklich diser sachen,<note xml:id="fn35" type="footnote" n="35">doch erbärmklich diser sachen: sich jedoch der Lage annehmend.</note> daby siner k. mt. ir lehen<note xml:id="fn36" type="footnote" n="36">Untertanenverhältnis.</note> uffgesagt, und ir er<note xml:id="fn37" type="footnote" n="37">ir er: ihre Ehre.</note> hiemit bewart halten.<pb type="edition" next="298"/></s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
-					<s n="26" xml:lang="de" type="auto">Item dem f[ursten] uß Paygern haben sy gschriben,<note xml:id="fn38" type="footnote" n="38">Zu diesen Schreiben 1546 s. <ref target="file12577">Nr. 2530</ref>, Anm. 29.</note> sich nit netral, sonder uff k[ayserlicher] oder protestierenden siten zu halten, oder ir er bwart haben<note xml:id="fn41" type="footnote" n="41">Herzog Wilhelm hatte bis zu diesem Zeitpunkt den Vorstoß des schmalkaldischen Heeres durch List aufgehalten und auf diese Weise die Zusammenführung und Organisation der kaiserlichen Truppen ermöglicht; s. <bibl>Schüz, Donaufeldzug</bibl> 28-30.</note>.</s>
+					<s n="26" xml:lang="de" type="auto">Item dem f[ursten] uß Paygern haben sy gschriben,<note xml:id="fn38" type="footnote" n="38">Zu diesen Schreiben 1546 s. <ref target="file12577">Nr. 2530</ref>, Anm. 29.</note> sich nit netral<note xml:id="fn39" type="footnote" n="39">neutral.</note>, sonder uff k[ayserlicher] oder protestierenden siten<note xml:id="fn40" type="footnote" n="40">Seiten.</note> zu halten, oder ir er bwart haben<note xml:id="fn41" type="footnote" n="41">Herzog Wilhelm hatte bis zu diesem Zeitpunkt den Vorstoß des schmalkaldischen Heeres durch List aufgehalten und auf diese Weise die Zusammenführung und Organisation der kaiserlichen Truppen ermöglicht; s. <bibl>Schüz, Donaufeldzug</bibl> 28-30.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="27" xml:lang="de" type="auto">Item kay. mt. ist uß <placeName>Regenspurg</placeName> zogen in die statt <placeName>Lantzhuͦt</placeName>, in Paygern glegen<note xml:id="fn42" type="footnote" n="42">Siehe <ref target="file12580">Nr. 2533</ref>, Anm. 22.</note>.</s>
+					<s n="27" xml:lang="de" type="auto">Item kay. mt. ist uß <placeName ref="l410" cert="high">Regenspurg</placeName> zogen in die statt <placeName ref="l276" cert="high">Lantzhuͦt</placeName>, in Paygern glegen<note xml:id="fn42" type="footnote" n="42">Siehe <ref target="file12580">Nr. 2533</ref>, Anm. 22.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div11" corresp="regest11">
 				<p>
 					<s n="28" xml:lang="de" type="auto">Item das ytalianisch volck, dessglich 11 fenly Spanier, sollen by k. mt. sin.</s>
-					<s n="29" xml:lang="de" type="auto"><ptr target="fnj" type="footnote" n="j"/>Item suma aller fenlin, so die 2 tag durch <placeName>Tonnenwert</placeName> zogen sind, 84 fenlin,<note xml:id="fn44" type="footnote" n="44">Vgl. auch unten Z. 99f.</note> noch one der Schwitzer und Oberlantschen.</s>
+					<s n="29" xml:lang="de" type="auto"><ptr target="fnj" type="footnote" n="j"/>Item suma aller fenlin, so die 2 tag durch <placeName ref="l119" cert="high">Tonnenwert</placeName> zogen sind, 84 fenlin,<note xml:id="fn44" type="footnote" n="44">Vgl. auch unten Z. 99f.</note> noch one der Schwitzer und Oberlantschen<note xml:id="fn45" type="footnote" n="45">Süddeutschen.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div12" corresp="regest12">
 				<p>
 					<note type="signature">[Ohne Unterschrift.]</note>
-					<s n="30" xml:lang="de" type="auto"><pb type="scan" next="126"/>Deß landtgraffen von <placeName>Hessen</placeName> inzug durch <placeName>Tonnawerdten</placeName> mit aller kriegsrustung uff den 5. augusty<note xml:id="fn46" type="footnote" n="46">Ein Donnerstag.</note> (item morgenß 5 ur hat eß angfangen und gewert biß halby viery nach mittag onufhorlich):</s>
-					<s n="31" xml:lang="de" type="auto">Erstlich der tross, dess gantz vyl, darunder wib und kinder, wie der Hessischen bruch ist, etlich kind an prusten, voranhin gsogt<note xml:id="fn48" type="footnote" n="48">voranhin gsogt: zuvor durchgezogen.</note>.</s>
+					<s n="30" xml:lang="de" type="auto"><pb type="scan" next="126"/>Deß landtgraffen von <placeName ref="l664" cert="high">Hessen</placeName> inzug durch <placeName ref="l119" cert="high">Tonnawerdten</placeName> mit aller kriegsrustung uff den 5. augusty<note xml:id="fn46" type="footnote" n="46">Ein Donnerstag.</note> (item morgenß 5 ur hat eß angfangen und gewert biß halby viery nach mittag onufhorlich):</s>
+					<s n="31" xml:lang="de" type="auto">Erstlich der tross<note xml:id="fn47" type="footnote" n="47">Gepäckzug des Heeres; s. <bibl>SI</bibl> XIV 1321.</note>, dess gantz vyl, darunder wib und kinder, wie der Hessischen bruch ist, etlich kind an prusten, voranhin gsogt<note xml:id="fn48" type="footnote" n="48">voranhin gsogt: zuvor durchgezogen.</note>.</s>
 				</p>
 				<p>
 					<s n="32" xml:lang="de" type="auto">Item uff allen wagen merthails 1 hanen und hennen,<note xml:id="fn49" type="footnote" n="49">Siehe dazu <ref target="file12545">Nr. 2498</ref>,87-89.</note> och etlich hundt under den wagen.</s>
@@ -108,7 +108,7 @@
 					<s n="35" xml:lang="de" type="auto">Aber daruff 2 schantzfenly.</s>
 				</p>
 				<p>
-					<s n="36" xml:lang="de" type="auto">Daruff 1 herr mit sinen pfarten.</s>
+					<s n="36" xml:lang="de" type="auto">Daruff 1 herr<note xml:id="fn51" type="footnote" n="51">Unbekannt.</note> mit sinen pfarten<note xml:id="fn52" type="footnote" n="52">Pferden.</note>.</s>
 				</p>
 				<p>
 					<s n="37" xml:lang="de" type="auto">Daruff fenly knecht mit spiessen.</s>
@@ -117,7 +117,7 @@
 					<s n="38" xml:lang="de" type="auto">Daruff 2 fenly buchssenschützen.</s>
 				</p>
 				<p>
-					<s n="39" xml:lang="de" type="auto">Daruff 5 fenly lantzknecht, so by dem Frantzosen<note xml:id="fn53" type="footnote" n="53">König Franz I.</note> wider Engellandt glegen,<note xml:id="fn54" type="footnote" n="54">Nachdem <placeName>Frankreich</placeName> und <placeName>England</placeName> im Juni 1546 Frieden geschlossenen hatten (s. <ref target="file12517">Nr. 2470</ref>, Anm. 15), waren diese Fähnlein <placeName>Frankreich</placeName> nicht mehr von Nutzen.</note> und die von <placeName>Strasburg</placeName> dem lantgraffen zugschickt und angenomen<pb type="edition" next="299"/> haben;<note xml:id="fn55" type="footnote" n="55">Siehe dazu <ref target="file12528">Nr. 2481</ref>,5-9; <ref target="file12530">Nr. 2483</ref>,37- 39; <ref target="file12558">Nr. 2511</ref>,42-46.</note> welche knecht all gantz wol bezugt<note xml:id="fn56" type="footnote" n="56">gerüstet; s. <bibl>Fischer</bibl> I 994.</note>, kainer lär<note xml:id="fn57" type="footnote" n="57">d.h. keiner unbewaffnet.</note>, darzu gantz gros, starck, alt krieger, die ich min tag nie gesechen hab.</s>
+					<s n="39" xml:lang="de" type="auto">Daruff 5 fenly lantzknecht, so by dem Frantzosen<note xml:id="fn53" type="footnote" n="53">König Franz I.</note> wider Engellandt glegen,<note xml:id="fn54" type="footnote" n="54">Nachdem <placeName ref="l11" cert="high">Frankreich</placeName> und <placeName ref="l9" cert="high">England</placeName> im Juni 1546 Frieden geschlossenen hatten (s. <ref target="file12517">Nr. 2470</ref>, Anm. 15), waren diese Fähnlein <placeName ref="l11" cert="high">Frankreich</placeName> nicht mehr von Nutzen.</note> und die von <placeName ref="l492" cert="high">Strasburg</placeName> dem lantgraffen zugschickt und angenomen<pb type="edition" next="299"/> haben;<note xml:id="fn55" type="footnote" n="55">Siehe dazu <ref target="file12528">Nr. 2481</ref>,5-9; <ref target="file12530">Nr. 2483</ref>,37- 39; <ref target="file12558">Nr. 2511</ref>,42-46.</note> welche knecht all gantz wol bezugt<note xml:id="fn56" type="footnote" n="56">gerüstet; s. <bibl>Fischer</bibl> I 994.</note>, kainer lär<note xml:id="fn57" type="footnote" n="57">d.h. keiner unbewaffnet.</note>, darzu gantz gros, starck, alt krieger, die ich min tag nie gesechen hab.</s>
 				</p>
 				<p>
 					<s n="40" xml:lang="de" type="auto">Daruf 3 fenly schön knecht mit spiessen, och wol bezugt.</s>
@@ -134,14 +134,14 @@
 			</div>
 			<div xml:id="div13" corresp="regest13">
 				<p>
-					<s n="44" xml:lang="de" type="auto">Daruff 1 fenly raysiger, 60 glid, alweg dryg by ainandern.<pb type="scan" next="127"/></s>
+					<s n="44" xml:lang="de" type="auto">Daruff 1 fenly raysiger, 60 glid, alweg<note xml:id="fn60" type="footnote" n="60">stets.</note> dryg<note xml:id="fn61" type="footnote" n="61">drei.</note> by ainandern.<pb type="scan" next="127"/></s>
 					<s n="45" xml:lang="de" type="auto">[Umzug] deß lantgraffen</s>
 				</p>
 			</div>
 			<div xml:id="div14" corresp="regest14">
 				<p>
 					<note>[Fortsetzung:]</note>
-					<s n="46" xml:lang="de" type="auto">Daruff 14 hoptstuck buchsen, vor vilen, 20 grosser gulen, zugen.</s>
+					<s n="46" xml:lang="de" type="auto">Daruff 14 hoptstuck buchsen<note xml:id="fn62" type="footnote" n="62">Kanonen.</note>, vor vilen, 20 grosser gulen<note xml:id="fn63" type="footnote" n="63">Streitpferde; s. <bibl>SI</bibl> II 219.</note>, zugen.</s>
 				</p>
 				<p>
 					<s n="47" xml:lang="de" type="auto">Daruff 1 fenly knecht.</s>
@@ -162,7 +162,7 @@
 					<s n="52" xml:lang="de" type="auto">Daruff 1 paner mitt raysigem zug.</s>
 				</p>
 				<p>
-					<s n="53" xml:lang="de" type="auto"><ptr target="fnq" type="footnote" n="q"/>In allen panern und fenlin deß lantgraff stet: V. D. M. Y. Æ.</s>
+					<s n="53" xml:lang="de" type="auto"><ptr target="fnq" type="footnote" n="q"/>In allen panern und fenlin deß lantgraff stet: V. D. M. Y. Æ.<note xml:id="fn64" type="footnote" n="64">= Verbum Dei Manet In AEternum.</note></s>
 				</p>
 				<p>
 					<s n="54" xml:lang="de" type="auto">Item auff den 8. augusty<note xml:id="fn65" type="footnote" n="65">Ein Sonntag.</note> hatt die stat Ogspurg ins leger gschickt 4 stuck buchsen: Die erst wigt 92 zenthner 16 pfund; dye ander 69 zenthner 8 pfund; die dritt 55 zenthner 25 pfund; die 4. 15 zenthner 53 pfund<ptr target="fnu" type="footnote" n="u"/>.</s>
@@ -177,13 +177,13 @@
 					<s n="57" xml:lang="de" type="auto">Item daruff mitt proviant, gschutz, rustungen, das eß by 100 wagen betroffen.</s>
 				</p>
 				<p>
-					<s n="58" xml:lang="de" type="auto"><pb type="scan" next="124"/> [Umzug der] <placeName>Sachsen</placeName>:</s>
+					<s n="58" xml:lang="de" type="auto"><pb type="scan" next="124"/> [Umzug der] <placeName ref="l749" cert="high">Sachsen</placeName>:</s>
 				</p>
 				<p>
-					<s n="59" xml:lang="de" type="manual">Aller fennlinen, so durch <placeName>Thonnenwert</placeName> zogen sind uff das landt Paygern, och das stätly Rain zuͦ, semend 84 fenly.<pb type="edition" next="300"/></s>
+					<s n="59" xml:lang="de" type="manual">Aller fennlinen, so durch <placeName ref="l119" cert="high">Thonnenwert</placeName> zogen sind uff das landt Paygern, och das stätly Rain zuͦ, semend<note xml:id="fn66" type="footnote" n="66">insgesamt.</note> 84 fenly.<pb type="edition" next="300"/></s>
 				</p>
 				<p>
-					<s n="60" xml:lang="de" type="auto">Vorhin<note xml:id="fn67" type="footnote" n="67">Vor dem Umzug der <placeName>Sachsen</placeName> also.</note> zugend durch noch 6 fenly.</s>
+					<s n="60" xml:lang="de" type="auto">Vorhin<note xml:id="fn67" type="footnote" n="67">Vor dem Umzug der <placeName ref="l749" cert="high">Sachsen</placeName> also.</note> zugend durch noch 6 fenly.</s>
 				</p>
 				<p>
 					<s n="61" xml:lang="de" type="auto">Under den obgemelten<note xml:id="fn68" type="footnote" n="68">Oben Z. 37-39.</note> etlichen 18 fenli ist in miten dem zug 1 fenr[ich] uß dem Schwitzerland gsin, by 600 Schwitzer.</s>
@@ -191,25 +191,25 @@
 					<s n="63" xml:lang="de" type="auto">Die Schwitzer waren starck knecht, aber wenig harnasch.</s>
 				</p>
 				<p>
-					<s n="64" xml:lang="de" type="auto">Uff den fritig augusty<note xml:id="fn69" type="footnote" n="69">Gemeint ist Freitag, 6. August.</note> <placeName>Sachsen</placeName> ingezogen.</s>
+					<s n="64" xml:lang="de" type="auto">Uff den fritig augusty<note xml:id="fn69" type="footnote" n="69">Gemeint ist Freitag, 6. August.</note> <placeName ref="l749" cert="high">Sachsen</placeName> ingezogen.</s>
 					<s n="65" xml:lang="de" type="auto">Item erstlichen am morgen um 5 ur angfangen durchziehen und gewert biß 3 ur nach mitag.</s>
 				</p>
 				<p>
-					<s n="66" xml:lang="de" type="auto">Item die raiswagen mitt proviant, prugger<note xml:id="fn70" type="footnote" n="70">Gerüsten; vgl. <bibl>Fischer</bibl> I 1460.</note> und aller kriegßrustung mit gar tapffern rossen und schwarer fuͦr, ongfar by 1500 wagen.</s>
+					<s n="66" xml:lang="de" type="auto">Item die raiswagen mitt proviant, prugger<note xml:id="fn70" type="footnote" n="70">Gerüsten; vgl. <bibl>Fischer</bibl> I 1460.</note> und aller kriegßrustung mit gar tapffern rossen und schwarer fuͦr<note xml:id="fn71" type="footnote" n="71">Ladung.</note>, ongfar by 1500 wagen.</s>
 				</p>
 				<p>
 					<s n="67" xml:lang="de" type="auto">Daruf 1 raysiger züg, wol gerust, 1 fenly.</s>
 				</p>
 				<p>
-					<s n="68" xml:lang="de" type="auto">Daruf 1 wiß fenly mitt Schantzpuren, aller rustung und irem huptman, bickel, schuflen, axen, howen, by 300.</s>
+					<s n="68" xml:lang="de" type="auto">Daruf 1 wiß fenly mitt Schantzpuren<note xml:id="fn72" type="footnote" n="72">Schanzenbauern.</note>, aller rustung und irem huptman<note xml:id="fn73" type="footnote" n="73">Unbekannt.</note>, bickel, schuflen, axen, howen, by 300.</s>
 				</p>
 				<p>
-					<s n="69" xml:lang="de" type="auto">Daruf kam ein hangetter wagen<note xml:id="fn74" type="footnote" n="74">hangetter wagen: Hängewagen (Kalesche).</note>, ain schoͤner alter herr.</s>
-					<s n="70" xml:lang="de" type="auto">Auff disen hernn sin raysiger züg.</s>
+					<s n="69" xml:lang="de" type="auto">Daruf kam ein hangetter wagen<note xml:id="fn74" type="footnote" n="74">hangetter wagen: Hängewagen (Kalesche).</note>, ain<note xml:id="fn75" type="footnote" n="75">Gemeint: darauf ein.</note> schoͤner alter herr<note xml:id="fn76" type="footnote" n="76">Unbekannt.</note>.</s>
+					<s n="70" xml:lang="de" type="auto">Auff<note xml:id="fn77" type="footnote" n="77">Nach.</note> disen hernn sin raysiger züg.</s>
 				</p>
 				<p>
-					<s n="71" xml:lang="de" type="auto">Aber ain wagen, daruff ain grosser her.</s>
-					<s n="72" xml:lang="de" type="auto">Auff inn 24 stuck schöner büchsen, gross, gantz grossy pfärt.</s>
+					<s n="71" xml:lang="de" type="auto">Aber<note xml:id="fn78" type="footnote" n="78">Nochmals.</note> ain wagen, daruff ain grosser her<note xml:id="fn79" type="footnote" n="79">Unbekannt.</note>.</s>
+					<s n="72" xml:lang="de" type="auto">Auff inn<note xml:id="fn80" type="footnote" n="80">ihn.</note> 24 stuck schöner büchsen, gross, gantz grossy pfärt.</s>
 				</p>
 				<p>
 					<s n="73" xml:lang="de" type="auto">Daruff by 300 schöner raisiger pfarten.</s>
@@ -235,7 +235,7 @@
 			<div xml:id="div15" corresp="regest15">
 				<p>
 					<s n="81" xml:lang="de" type="auto">Daruff aber 3 fenly knecht mit spies und halbarten.</s>
-					<s n="82" xml:lang="de" type="auto"><pb type="scan" next="125"/>[Umzug der] <placeName>Sachsen</placeName></s>
+					<s n="82" xml:lang="de" type="auto"><pb type="scan" next="125"/>[Umzug der] <placeName ref="l749" cert="high">Sachsen</placeName></s>
 					<note>[Fortsetzung]:</note>
 					<s n="83" xml:lang="de" type="manual">Demnach 1 fenly knecht mit spiessen.</s>
 				</p>
@@ -243,24 +243,24 @@
 					<s n="84" xml:lang="de" type="auto">Uff das etlich buchssenschutzen.</s>
 				</p>
 				<p>
-					<s n="85" xml:lang="de" type="auto">Daruff ain schöner raysiger züg kürisser, N., der herr von Burgfeld<note xml:id="fn81" type="footnote" n="81"><persName>Henning von Burtfeld (Bortfeld)</persName>; s. <hi><persName>Mameranus</persName>, Rebel.</hi> B3v.</note> aygner person.</s>
+					<s n="85" xml:lang="de" type="auto">Daruff ain schöner raysiger züg kürisser, N., der herr von Burgfeld<note xml:id="fn81" type="footnote" n="81"><persName ref="p18030" cert="high">Henning von Burtfeld (Bortfeld)</persName>; s. <hi><persName ref="p5743" cert="high">Mameranus</persName>, Rebel.</hi> B3v.</note> aygner person.</s>
 				</p>
 				<p>
 					<s n="86" xml:lang="de" type="auto">Auff inn 1 fenly raysiger, 160 pfärt.<pb type="edition" next="301"/></s>
 					<s n="87" xml:lang="de" type="auto">Auff disen etlich fenly raysiger, gantz schoͤner raysiger kurisser, 270 pfart, darunder der churfurst aigner person in ainer schwartzsamatin hocket<note xml:id="fn82" type="footnote" n="82">schwartzsamatin hocket: ein schwarzer Leibrock aus Samt.</note> geritten, und sin son<note xml:id="fn83" type="footnote" n="83">Siehe oben Anm. 9.</note>.<ptr target="fnaa" type="footnote" n="aa"/></s>
-					<s n="88" xml:lang="de" type="manual">By dem churfursten oblut waren sine trabanten, alle roten hosen und wameß.</s>
+					<s n="88" xml:lang="de" type="manual">By dem churfursten oblut<note xml:id="fn84" type="footnote" n="84">By dem churfursten oblut: Bei den oben vermerkten (s. <bibl>SI</bibl> III 1506) Kurfürsten.</note> waren sine<note xml:id="fn85" type="footnote" n="85">deren.</note> trabanten<note xml:id="fn86" type="footnote" n="86">Leibwächter.</note>, alle roten hosen und wameß<note xml:id="fn87" type="footnote" n="87">Jacken.</note>.</s>
 				</p>
 				<p>
-					<s n="89" xml:lang="de" type="auto">Und 6 thrumeten uff in.</s>
+					<s n="89" xml:lang="de" type="auto">Und 6 thrumeten<note xml:id="fn88" type="footnote" n="88">Trompeten.</note> uff in.</s>
 				</p>
 				<p>
 					<s n="90" xml:lang="de" type="auto">Und ainer uff ainem schönen schwartzen pfärt.</s>
-					<s n="91" xml:lang="de" type="auto">Hat 2 tromen daruff.</s>
+					<s n="91" xml:lang="de" type="auto">Hat 2 tromen<note xml:id="fn89" type="footnote" n="89">Trommeln.</note> daruff.</s>
 					<s n="92" xml:lang="de" type="auto">Der schlug uff baiden tromen gantz frolich<ptr target="fnab" type="footnote" n="ab"/>.</s>
 					<s n="93" xml:lang="de" type="auto">Auff diß, den fursten, ritten 7 fursten, darunter hertzog Ernst, hertzog von Brünschwig,<note xml:id="fn90" type="footnote" n="90">Vgl. <ref target="file12571">Nr. 2524</ref>, Anm. 27.</note> und ander,<note xml:id="fn91" type="footnote" n="91">Vgl. <ref target="file12571">Nr. 2524</ref>,35-40.</note> 1 fenly gantz schöner kurisser: Waren 142 glid, alweg 3 kurisen nebet ainandern.</s>
 				</p>
 				<p>
-					<s n="94" xml:lang="de" type="auto">Daruff aber ain raysiger züg by 100 pfärt, ringy.</s>
+					<s n="94" xml:lang="de" type="auto">Daruff aber ain raysiger züg by 100 pfärt, ringy<note xml:id="fn92" type="footnote" n="92">schnelle, agile; s. <bibl>SI</bibl> VI 1071.</note>.</s>
 					<s n="95" xml:lang="de" type="auto">Daruff etlich fenly mit halbarten, spiessen, buchsenschutzen,<ptr target="fnac" type="footnote" n="ac"/> by 300.</s>
 					<s n="96" xml:lang="de" type="manual">Auff dise aber 3 fenly<ptr target="fnad" type="footnote" n="ad"/> mitt spiessen.</s>
 				</p>
@@ -284,12 +284,12 @@
 					<s n="103" xml:lang="de" type="auto">Daruff schaff.</s>
 				</p>
 				<p>
-					<s n="104" xml:lang="de" type="auto">Daruff waͤgen und rossparn.</s>
+					<s n="104" xml:lang="de" type="auto">Daruff waͤgen und rossparn<note xml:id="fn93" type="footnote" n="93">Pferdekrippen; s. <bibl>SI</bibl> IV 1442.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf f. 128v.:]</note>
-					<s n="105" xml:lang="de" type="auto">An meister Heinrich Bullinger zu handen, minem lieben gfattern <persName>Jacob Rordorff</persName> und hern propsten <persName ref="p4315">Brynwald</persName><note xml:id="fn94" type="footnote" n="94">Propst <persName>Heinrich Brennwald</persName>.</note>.</s>
-					<s n="106" xml:lang="de" type="auto">So irs<note xml:id="fn95" type="footnote" n="95">ihr es.</note> glesen, lassentz och horn, biß ich komen.</s>
+					<s n="105" xml:lang="de" type="auto">An meister Heinrich Bullinger zu handen, minem lieben gfattern <persName ref="p2815" cert="high">Jacob Rordorff</persName> und hern propsten <persName ref="p459" cert="high">Brynwald</persName><note xml:id="fn94" type="footnote" n="94">Propst <persName ref="p459" cert="high">Heinrich Brennwald</persName>.</note>.</s>
+					<s n="106" xml:lang="de" type="auto">So irs<note xml:id="fn95" type="footnote" n="95">ihr es.</note> glesen, lassentz och horn<note xml:id="fn96" type="footnote" n="96">hören: Die Empfänger sollen also diese Nachrichten weitererzählen.</note>, biß ich komen.</s>
 				</p>
 			</div>
 		</body>

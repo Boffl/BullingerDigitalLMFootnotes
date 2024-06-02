@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11046" type="Brief" source="GR" n="7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11046" type="Brief" source="GR-I" n="7">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Philipp Gallicius (Saluz) / Malans AN Heinrich Bullinger, 3. Juni 1537</title>
+				<title subtype="file">Philipp Gallicius (Saluz) / Malans an Heinrich Bullinger, 3. Juni 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

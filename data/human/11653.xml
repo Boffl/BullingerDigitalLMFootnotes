@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11653" type="Brief" source="VBS" n="1226">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11653" type="Brief" source="VBS-6" n="1226">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 2. März 1542</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Joachim Vadian (von Watt), 2. März 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,10 +17,10 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
-					<s n="2" xml:lang="la" type="auto">Non vacat quicquam ad te perscribere, colendissime mi Vadiane, nisi quod Bucerus ante sesquimensem ad Coloniensem episcopum, qui elector Romani imperii est, vocatus abiit.</s>
+					<s n="2" xml:lang="la" type="auto">Non vacat quicquam ad te perscribere, colendissime mi Vadiane, nisi quod <persName ref="p467" cert="high">Bucerus</persName> ante sesquimensem ad Coloniensem episcopum, qui elector Romani imperii est, vocatus abiit.</s>
 					<s n="3" xml:lang="la" type="auto">Meditatur iam dudum et parturit evangelicum quiddam archiepiscopus ille, ut dominum precari merito debeamus, ne infeliciter enitatur neve, quod multi solent, monstrosum aliquid pariat, verbi puritate pharisaico et papistico fermento macerata.</s>
 					<s n="4" xml:lang="la" type="auto">Retulit praeterea Basileam rediens nobilis ille Ioannes Uͦtenheim, Metim cum toto agro suo recepisse evangelium.</s>
-					<s n="5" xml:lang="la" type="auto">Limpergius, contionator <placeName>Francfordiensis</placeName>, scribit, civitatem et ipsam grandem, cuius nomen excidit Myconio indicanti mihi, recepisse evangelium, et ad illam vocatum, quo erudiat.</s>
+					<s n="5" xml:lang="la" type="auto">Limpergius, contionator <placeName ref="l157" cert="high">Francfordiensis</placeName>, scribit, civitatem et ipsam grandem, cuius nomen excidit <persName ref="p8418" cert="high">Myconio</persName> indicanti mihi, recepisse evangelium, et ad illam vocatum, quo erudiat.</s>
 					<s n="6" xml:lang="la" type="auto">Rumor est, duces Bavariae ambire foedus Schmalkaldiense.</s>
 					<s n="7" xml:lang="la" type="auto">Spirae intra paucos dies nihildum serii coeptum est.</s>
 					<s n="8" xml:lang="de" type="auto">Vilicht thuͦnd sy es, das der Türck ouch dist länger verzyhe.</s>

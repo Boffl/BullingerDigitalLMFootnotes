@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11670" type="Brief" source="GR" n="33">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11670" type="Brief" source="GR-I" n="33">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Nikolaus Pfister (Artopoeus, Baling) / Chur AN Heinrich Bullinger, 30. April [1542]</title>
+				<title subtype="file">Nikolaus Pfister (Artopoeus, Baling) / Chur an Heinrich Bullinger, 30. April [1542]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -81,11 +81,11 @@
 					<s n="57" xml:lang="la" type="auto">Ex Tribus Foederibus aliquot ad regem Galliae iverunt militatum, sed praeter expectationem regis, si credere fas est.</s>
 					<s n="58" xml:lang="la" type="auto">Post illorum abitum prohibitum est a nostro magistratu gravi poena, ne quis hos sequatur.</s>
 					<s n="59" xml:lang="la" type="auto">Vale, doctissime Bullingere.</s>
-					<s n="60" xml:lang="la" type="auto">Saluta meo nomine <persName ref="p2305">Leonem</persName> et <persName>Megandrum</persName>, quibus hac communices, rogo, et aliis, qui tibi placuere.</s>
+					<s n="60" xml:lang="la" type="auto">Saluta meo nomine <persName ref="p1753" cert="high">Leonem</persName> et <persName ref="p8412" cert="high">Megandrum</persName>, quibus hac communices, rogo, et aliis, qui tibi placuere.</s>
 					<s n="61" xml:lang="la" type="auto">Chirographum meum diligenter servato.</s>
 					<s n="62" xml:lang="la" type="auto">Si quid habes Germanicarum rerum, nobis significato; hic nihil harum rerum audimus.</s>
 					<s n="63" xml:lang="la" type="auto">Curiae, pridie calendas Maias.</s>
-					<s n="64" xml:lang="la" type="auto">Comander et Blasius te plurimum salutant.</s>
+					<s n="64" xml:lang="la" type="auto">Comander et <persName ref="p396" cert="high">Blasius</persName> te plurimum salutant.</s>
 					<s n="65" xml:lang="la" type="auto">Heinrico Bullingero, viro non minus eloquio quam magna eruditione praedito.</s>
 				</p>
 			</div>

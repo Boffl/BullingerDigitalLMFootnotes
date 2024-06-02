@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10209" type="Brief" source="HBBW" n="178">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10209" type="Brief" source="HBBW-3" n="178">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Wolfgang Köpffel] / [Strassburg] AN Heinrich Bullinger, [nach dem 14. Januar 1533]</title>
+				<title subtype="file">[Wolfgang Köpffel] / [Strassburg] an Heinrich Bullinger, [nach dem 14. Januar 1533]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

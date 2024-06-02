@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12117" type="Brief" source="HBBW" n="2070">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12117" type="Brief" source="HBBW-15" n="2070">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Fridolin Brunner (Fonteius) / Glarus AN Heinrich Bullinger, 19. Januar 1545</title>
+				<title subtype="file">Fridolin Brunner (Fonteius) / Glarus an Heinrich Bullinger, 19. Januar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,23 +20,23 @@
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Te, vir ornatissime, cum tua familia feliciter valere perquam gratissimum foret, quia ego bene valeo.</s>
-					<s n="3" xml:lang="la" type="auto">Miraris fortasse, cur ego tam diu nihil mearum literarum ad te miserim<note xml:id="fn1" type="footnote" n="1">Der letzte bekannte Brief <persName>Brunners</persName> an Bullinger stammt vom 23. August 1540 (<bibl>HBBW</bibl> X, <ref target="file11459">Nr. 1416</ref>).</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Miraris fortasse, cur ego tam diu nihil mearum literarum ad te miserim<note xml:id="fn1" type="footnote" n="1">Der letzte bekannte Brief <persName ref="p8303" cert="high">Brunners</persName> an Bullinger stammt vom 23. August 1540 (<bibl>HBBW</bibl> X, <ref target="file11459">Nr. 1416</ref>).</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Coniectaris haud dubie me Endymionis somnum<pb type="edition" next="94"/> dormire,<note xml:id="fn2" type="footnote" n="2"><bibl>Adagia</bibl>, 1,9,63 (<bibl>ASD</bibl> II/2 384f, <ref target="file10903">Nr. 863</ref>).</note> diuturno versari in otio, nec ullis me negotiis exercere, sed mollem agere vitam.</s>
 					<s n="5" xml:lang="la" type="auto">Quo hanc declinem suspitionem, libuit literulas, saltim aliquas, mittere, quibus excusationis tuę causam praetenderem, nempe nullam hactenus argumenti rationem pre manibus fuisse.</s>
 					<s n="6" xml:lang="la" type="auto">Quum vero nunc aliquantula ad te scribendi materia administrata sit, sepositis omnibus negotiis meis tibi ut amico singulari obsecundare placuit.</s>
-					<s n="7" xml:lang="la" type="auto">Et pro argumenti ratione te certiorem facio sudores in vinea Christi<note xml:id="fn3" type="footnote" n="3">Jes 5,3; Jer 12, 10; Jo 1,7; Mt 20, 1-16.</note> tuos non incassos et inanes hactenus fuisse, quibus cottidie gloriam Christi sparsim propagari et augeri videmus iis praecipue in locis, ubi minime sperabamus, nempe <placeName>Italię</placeName> partibus.</s>
+					<s n="7" xml:lang="la" type="auto">Et pro argumenti ratione te certiorem facio sudores in vinea Christi<note xml:id="fn3" type="footnote" n="3"><cit type="bible"><ref>Jes 5,3</ref></cit>; <cit type="bible"><ref>Jer 12, 10</ref></cit>; <cit type="bible"><ref>Jo 1,7</ref></cit>; <cit type="bible"><ref>Mt 20, 1-16</ref></cit>.</note> tuos non incassos et inanes hactenus fuisse, quibus cottidie gloriam Christi sparsim propagari et augeri videmus iis praecipue in locis, ubi minime sperabamus, nempe <placeName ref="l16" cert="high">Italię</placeName> partibus.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Nam certum habeto me praeteritis diebus quosdam elucubrationum tuarum et <persName>Erasmi</persName> libellos<placeName>Lucarnum</placeName><note xml:id="fn5" type="footnote" n="5">nach <placeName>Locarno</placeName>.</note> per praefectum <persName ref="p4028">Beldi</persName> minoritę cuidam<pb type="edition" next="95"/> misisse, quo ad tempus ibidem evangelium praedicavit, tandem communibus totius ecclesię calculis <placeName>Veneciis</placeName> ministerium verbi obtinuit, in templo divi Marci omnium votis Christum diu ebuccinavit<note xml:id="fn8" type="footnote" n="8">verherrlicht hat; s. <bibl>Hoven</bibl> 180.</note>.</s>
-					<s n="9" xml:lang="la" type="auto"><placeName>Genua</placeName> nunc temporis, <placeName>Liguriae</placeName> partibus sita, divini verbi curam suę fidei commisit.</s>
+					<s n="8" xml:lang="la" type="auto">Nam certum habeto me praeteritis diebus quosdam elucubrationum tuarum et <persName ref="p18722" cert="high">Erasmi</persName> libellos<placeName ref="l294" cert="high">Lucarnum</placeName><note xml:id="fn5" type="footnote" n="5">nach <placeName ref="l294" cert="high">Locarno</placeName>.</note> per praefectum <persName ref="p252" cert="high">Beldi</persName> minoritę cuidam<pb type="edition" next="95"/> misisse, quo ad tempus ibidem evangelium praedicavit, tandem communibus totius ecclesię calculis <placeName ref="l522" cert="high">Veneciis</placeName> ministerium verbi obtinuit, in templo divi Marci omnium votis Christum diu ebuccinavit<note xml:id="fn8" type="footnote" n="8">verherrlicht hat; s. <bibl>Hoven</bibl> 180.</note>.</s>
+					<s n="9" xml:lang="la" type="auto"><placeName ref="l1121" cert="high">Genua</placeName> nunc temporis, <placeName ref="l1121" cert="high">Liguriae</placeName> partibus sita, divini verbi curam suę fidei commisit.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto">Flagitaverat ille opes<note xml:id="fn9" type="footnote" n="9">Wortspiel mit <hi>opera.</hi></note> et monimenta tua tam importunis precibus<note xml:id="fn10" type="footnote" n="10">Vgl. Lk 11,5-9. 18, 2-8.</note>, ut ei iuste denegare non licuerit; cui etiam eo lubentius sum obsequtus, quod sperem ecclesię Christi plurimum profuturum.</s>
+					<s n="10" xml:lang="la" type="auto">Flagitaverat ille opes<note xml:id="fn9" type="footnote" n="9">Wortspiel mit <hi>opera.</hi></note> et monimenta tua tam importunis precibus<note xml:id="fn10" type="footnote" n="10">Vgl. <cit type="bible"><ref>Lk 11,5-9. 18, 2-8</ref></cit>.</note>, ut ei iuste denegare non licuerit; cui etiam eo lubentius sum obsequtus, quod sperem ecclesię Christi plurimum profuturum.</s>
 					<s n="11" xml:lang="la" type="auto">Fatetur minorita opera tua ubique gentium valde grata et accepta esse, eo quod et eruditionis et pietatis referta sint.</s>
 					<s n="12" xml:lang="la" type="auto">Scribo hęc absque fuco<note xml:id="fn11" type="footnote" n="11">Vgl. Adagia, 1, 5, 52 (<bibl>ASD</bibl> II/1 525f, <ref target="file10487">Nr. 452</ref>).</note> et adulatione; laudandi te campus pateret quidem maxime, sed mea simplicitas tibi non ignota est; non ab adulatione tantum, verum ab omni blandiloquentię specie me vehementer abhorrere.</s>
 					<s n="13" xml:lang="la" type="auto">Eciam tua singularis modestia nihil minus pati solet quam laudes eciam modestissimas.</s>
-					<s n="14" xml:lang="la" type="auto">Quare, dum tuum sanctum conatum et studium laudo, ea potissimum gratia facere soleo, ut currenti bene calcaria addam<note xml:id="fn13" type="footnote" n="13"><bibl>Adagia</bibl>, 1,2,47 (<bibl>ASD</bibl> II/1 364, <ref target="file10178">Nr. 147</ref>). - Vgl. auch 1Kor 9, 24-27; Hebr 12, 1.</note> adhorterque, ut, laborum tuorum te ne pigeat, cum evidenter intelligas tum iucundos tum frugiferos omnibus, quibus sacrę literę cordi sunt.</s>
-					<s n="15" xml:lang="la" type="auto">Et quemadmodum hactenus Germaniam nostram, sic Galliam et <placeName>Italiam</placeName> tuis monumentis aureis illustrabis.</s>
+					<s n="14" xml:lang="la" type="auto">Quare, dum tuum sanctum conatum et studium laudo, ea potissimum gratia facere soleo, ut currenti bene calcaria addam<note xml:id="fn13" type="footnote" n="13"><bibl>Adagia</bibl>, 1,2,47 (<bibl>ASD</bibl> II/1 364, <ref target="file10178">Nr. 147</ref>). - Vgl. auch <cit type="bible"><ref>1Kor 9, 24-27</ref></cit>; <cit type="bible"><ref>Hebr 12, 1</ref></cit>.</note> adhorterque, ut, laborum tuorum te ne pigeat, cum evidenter intelligas tum iucundos tum frugiferos omnibus, quibus sacrę literę cordi sunt.</s>
+					<s n="15" xml:lang="la" type="auto">Et quemadmodum hactenus Germaniam nostram, sic Galliam et <placeName ref="l16" cert="high">Italiam</placeName> tuis monumentis aureis illustrabis.</s>
 					<s n="16" xml:lang="la" type="auto">Nostrum erit vicissim tuis conatibus bene favere et precari, ut dominus te in ecclesię suę commodum diu vivere sinat propositoque tuo tam sancto firmam constantiam et pacientiam largiatur.<pb type="edition" next="96"/></s>
 				</p>
 				<p>
@@ -45,17 +45,17 @@
 				</p>
 				<p>
 					<s n="19" xml:lang="la" type="auto">Preterea, quo pacto nostrę res Glarianę apud nos sese habeant, puto tibi non ignotum.</s>
-					<s n="20" xml:lang="la" type="auto">Pacata sunt apud nos satis omnia, ea autem lege, ut antichristus eciam locum suum habeat;<note xml:id="fn16" type="footnote" n="16">2Thess 2, 3f.</note> quem faxit deus, brevi quoque proscribat.</s>
+					<s n="20" xml:lang="la" type="auto">Pacata sunt apud nos satis omnia, ea autem lege, ut antichristus eciam locum suum habeat;<note xml:id="fn16" type="footnote" n="16"><cit type="bible"><ref>2Thess 2, 3f</ref></cit>.</note> quem faxit deus, brevi quoque proscribat.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Vale, decus eximium<note xml:id="fn17" type="footnote" n="17">Vgl. <hi>Catull,</hi> Carmina, 64, 320.</note> nostrae <placeName>Helvetię</placeName>.</s>
+					<s n="21" xml:lang="la" type="auto">Vale, decus eximium<note xml:id="fn17" type="footnote" n="17">Vgl. <hi>Catull,</hi> Carmina, 64, 320.</note> nostrae <placeName ref="l196" cert="high">Helvetię</placeName>.</s>
 					<s n="22" xml:lang="la" type="auto">Datum Glar[onae], 19. die ianuarii anno 1545.</s>
 				</p>
 				<p>
 					<s n="23" xml:lang="la" type="auto">Scripsi tibi hanc epistolam in testimonium, ut intelligas me in negotio Christi pergere et Spartam, quam nactus sim, pro virili decorare<note xml:id="fn18" type="footnote" n="18"><bibl>Adagia</bibl>, 2, 5, 1 (<bibl>ASD</bibl> II/3 397-406, <ref target="file11444">Nr. 1401</ref>).</note>.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la" type="auto"><persName>Fridolinus Fonteius</persName>.</s>
+					<s n="24" xml:lang="la" type="auto"><persName ref="p8303" cert="high">Fridolinus Fonteius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

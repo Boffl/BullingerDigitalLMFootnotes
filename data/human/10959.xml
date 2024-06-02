@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10959" type="Brief" source="HBBW" n="917">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10959" type="Brief" source="HBBW-6" n="917">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Werner Beyel] / Zürich AN Heinrich Bullinger, [28. November 1536]</title>
+				<title subtype="file">[Werner Beyel] / Zürich an Heinrich Bullinger, [28. November 1536]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

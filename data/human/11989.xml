@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11989" type="Brief" source="HBBW" n="1942">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11989" type="Brief" source="HBBW-14" n="1942">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Gast / Basel AN Heinrich Bullinger, 15. Juli 1544</title>
+				<title subtype="file">Johannes Gast / Basel an Heinrich Bullinger, 15. Juli 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,39 +24,39 @@
 					<s n="6" xml:lang="la" type="auto">Si illi prodesse tuo consilio aut opera potes, scio, quod nihil omittes[!] annitere.</s>
 					<s n="7" xml:lang="la" type="auto">Inconstans habet ingenium monachorum more.</s>
 					<s n="8" xml:lang="la" type="auto">Uxorem habet et liberos.</s>
-					<s n="9" xml:lang="la" type="auto">Audivi apud Claronenses conditiones scholasticas vacare<note xml:id="fn2" type="footnote" n="2">Über die Schule in <placeName>Glarus</placeName> liegen aus dieser Zeit keine Nachrichten vor.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Audivi apud Claronenses conditiones scholasticas vacare<note xml:id="fn2" type="footnote" n="2">Über die Schule in <placeName ref="l646" cert="high">Glarus</placeName> liegen aus dieser Zeit keine Nachrichten vor.</note>.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">Si aliquid comperti habes, indica illi, aut si nosti alios, qui maiorem harum rerum cognitionem habent, hos alloquere, quo homini isto[!] vel aliquid officii obtingat.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">De caesare<note xml:id="fn3" type="footnote" n="3"><persName>Karl V.</persName></note> nihil omnino percipimus nisi vagum rumorem.</s>
+					<s n="11" xml:lang="la" type="auto">De caesare<note xml:id="fn3" type="footnote" n="3"><persName ref="p18538" cert="high">Karl V.</persName></note> nihil omnino percipimus nisi vagum rumorem.</s>
 					<s n="12" xml:lang="la" type="auto">Quidam dicunt exercitum illius infestari disenteria ob famem, quam iam patiuntur<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11987">Nr. 1940</ref>, 14-16.</note>.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Quid deinde, quum nihil omnino cibi habituri sunt, deus cum illis aget?</s>
 					<s n="14" xml:lang="la" type="auto">Sed principes non sapiunt, consilia dei contemnunt, admonitiones piorum prophetarum irrident.</s>
-					<s n="15" xml:lang="la" type="auto">Dominus brevi iram suam effundet super hanc gentem, quę deum non novit<note xml:id="fn5" type="footnote" n="5">Vgl. Ps 79 (Vulg. 78), 6; Jer 4, 22.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Dominus brevi iram suam effundet super hanc gentem, quę deum non novit<note xml:id="fn5" type="footnote" n="5">Vgl. <cit type="bible"><ref>Ps 79 (Vulg. 78), 6</ref></cit>; <cit type="bible"><ref>Jer 4, 22</ref></cit>.</note>.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Omnium rerum annona indies crescit.</s>
 					<s n="17" xml:lang="la" type="auto">Senatus nostri liberalitatem erga cives non satis praedicare possum, quod et dolet fęneratoribus nostris.</s>
-					<s n="18" xml:lang="la" type="auto">Non audent vinum exteris vendere, non audent maiori pretio vendere mensuram vini quam 7 rap[pis], sed minoris possunt.</s>
+					<s n="18" xml:lang="la" type="auto">Non audent vinum exteris vendere, non audent maiori pretio vendere mensuram vini quam 7 rap[pis]<note xml:id="fn6" type="footnote" n="6">Rappen.</note>, sed minoris possunt.</s>
 					<s n="19" xml:lang="la" type="auto">Item senatus dat somum<note xml:id="fn7" type="footnote" n="7">Saum (Hohlmaß); s. Paul <hi>Kläui,</hi> Ortsgeschichte, 2., überarb. Aufl., Zürich 1956, S. 123.</note> vini pro 2 fl., quum alii dent pro 4 fl. vel 5.</s>
 					<s n="20" xml:lang="la" type="auto">Similiter agit cum frumento.</s>
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">Vale in domino.</s>
-					<s n="22" xml:lang="la" type="auto"><persName>Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note> nomine meo salvere iubebis cum Frisio<note xml:id="fn9" type="footnote" n="9"><persName>Johannes Fries</persName>.</note> nostro.</s>
+					<s n="22" xml:lang="la" type="auto"><persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> nomine meo salvere iubebis cum <persName ref="p1214" cert="high">Frisio</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p1214" cert="high">Johannes Fries</persName>.</note> nostro.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 15. iulii 1544.</s>
+					<s n="23" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 15. iulii 1544.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la" type="auto">Brevi mittam et ad te catalogum operum <persName>Oecolampadii</persName>.</s>
+					<s n="24" xml:lang="la" type="auto">Brevi mittam et ad te catalogum operum <persName ref="p2442" cert="high">Oecolampadii</persName>.</s>
 				</p>
 				<p>
-					<s n="25" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName> ex animo.</s>
+					<s n="25" xml:lang="la" type="auto">Tuus <persName ref="p1278" cert="high">Gastius</persName> ex animo.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11408" type="Brief" source="HBBW" n="1365">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11408" type="Brief" source="HBBW-10" n="1365">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Hermann Aquilomontanus / Emden AN Heinrich Bullinger, 27. Februar 1540</title>
+				<title subtype="file">Hermann Aquilomontanus / Emden an Heinrich Bullinger, 27. Februar 1540</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,10 +16,10 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto"><persName ref="p6265">Hermannus Aquilomontanus</persName> d. Henrico Bullingero s[alutem] d[icit].</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p179" cert="high">Hermannus Aquilomontanus</persName> d. Henrico Bullingero s[alutem] d[icit].</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Literas<note xml:id="fn1" type="footnote" n="1"><bibl>HBBW</bibl> IX, <ref target="file11337">Nr. 1294</ref>.</note> prolixas ad te misi in nundinis posterioribus<note xml:id="fn2" type="footnote" n="2">Am 10. August 1539 (zum Termin der <placeName>Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <ref target="file10925">[Nr. 884]</ref>, S. 406, Anm. 5).</note>, virorum optime, quibus tuam amicitiam ambivi et in dubiis meis resolutionem.</s>
+					<s n="2" xml:lang="la" type="auto">Literas<note xml:id="fn1" type="footnote" n="1"><bibl>HBBW</bibl> IX, <ref target="file11337">Nr. 1294</ref>.</note> prolixas ad te misi in nundinis posterioribus<note xml:id="fn2" type="footnote" n="2">Am 10. August 1539 (zum Termin der <placeName ref="l157" cert="high">Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <ref target="file10925">[Nr. 884]</ref>, S. 406, Anm. 5).</note>, virorum optime, quibus tuam amicitiam ambivi et in dubiis meis resolutionem.</s>
 					<s n="3" xml:lang="la" type="auto">Decet enim manus adiutrices mutuo porrigere, postquam in eadem navi simus<note xml:id="fn3" type="footnote" n="3"><bibl>Adagia</bibl>, 2, 1, 10 (<bibl>LB</bibl> II 410).</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Spero te pro tua humanitate innata paucis modo respondisse.</s>
 				</p>

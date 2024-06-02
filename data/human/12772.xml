@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12772" type="Brief" source="HBBW" n="2724a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12772" type="Brief" source="HBBW-20A" n="2724a">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Johannes Bullinger] / [Ottenbach] AN Heinrich Bullinger, [Ende Dezember 1546]</title>
+				<title subtype="file">[Johannes Bullinger] / [Ottenbach] an Heinrich Bullinger, [Ende Dezember 1546]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,27 +17,27 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Salus a Christo, etc.</s>
-					<s n="2" xml:lang="de" type="auto">Es ist nit gnuͦg, das du myr z’drincken gist, duͦmuͦst ouch<note xml:id="fn3" type="footnote" n="3">duͦ muͦst ouch: du fühlst dich auch dazu veranlasst. - Heinrich hat also dem unten in Z. 21f erwähnten und an seinen Bruder gesandten Wein auch Esswaren beigelegt.</note> z’essen geen!</s>
-					<s n="3" xml:lang="de" type="auto">Ist als guͦtt byeinanderen.<note xml:id="fn6" type="footnote" n="6">Zu verstehen: Alles ist gut angekommen.</note></s>
-					<s n="4" xml:lang="de" type="auto">Dorum ich dyr, und besunder myn suppenschmidt, uich allen dancket.</s>
-					<s n="5" xml:lang="de" type="auto">Sy wil sich ouch rytterlich und redlich<note xml:id="fn9" type="footnote" n="9">rytterlich und redlich: großzügig und gerecht.</note> mit den kynden<note xml:id="fn10" type="footnote" n="10">Gemeint sind Heinrichs Kinder. - Zu deren Namen zum Zeitpunkt des vorliegenden Briefes s. <bibl>HBBW</bibl> XIX 75.</note> mit yrem guͦttjar halten, sobald wyr fuͦr fyndendt und versorget<note xml:id="fn13" type="footnote" n="13">die Vorkehrung (für den Transport) getroffen.</note> ist.</s>
+					<s n="2" xml:lang="de" type="auto">Es ist nit gnuͦg, das du myr z’drincken gist<note xml:id="fn2" type="footnote" n="2">gibst.</note>, duͦmuͦst ouch<note xml:id="fn3" type="footnote" n="3">duͦ muͦst ouch: du fühlst dich auch dazu veranlasst. - Heinrich hat also dem unten in Z. 21f erwähnten und an seinen Bruder gesandten Wein auch Esswaren beigelegt.</note> z’essen geen!<note xml:id="fn4" type="footnote" n="4">geben.</note></s>
+					<s n="3" xml:lang="de" type="auto">Ist als<note xml:id="fn5" type="footnote" n="5">alles.</note> guͦtt byeinanderen.<note xml:id="fn6" type="footnote" n="6">Zu verstehen: Alles ist gut angekommen.</note></s>
+					<s n="4" xml:lang="de" type="auto">Dorum ich dyr, und besunder myn suppenschmidt<note xml:id="fn7" type="footnote" n="7">Gemeint ist Johannes’ Gattin; vgl. <bibl>SI</bibl> IX 866. - Zu dieser s. unten Anm. 18.</note>, uich<note xml:id="fn8" type="footnote" n="8">euch.</note> allen dancket.</s>
+					<s n="5" xml:lang="de" type="auto">Sy wil sich ouch rytterlich und redlich<note xml:id="fn9" type="footnote" n="9">rytterlich und redlich: großzügig und gerecht.</note> mit den kynden<note xml:id="fn10" type="footnote" n="10">Gemeint sind Heinrichs Kinder. - Zu deren Namen zum Zeitpunkt des vorliegenden Briefes s. <bibl>HBBW</bibl> XIX 75.</note> mit yrem guͦttjar<note xml:id="fn11" type="footnote" n="11">Neujahrsgeschenk.</note> halten, sobald wyr fuͦr<note xml:id="fn12" type="footnote" n="12">Transportgelegenheit; s. <bibl>SI</bibl> I 970.</note> fyndendt und versorget<note xml:id="fn13" type="footnote" n="13">die Vorkehrung (für den Transport) getroffen.</note> ist.</s>
 					<s n="6" xml:lang="de" type="auto">Dyn guͦttjar, das du von myr bist warten, flügt noch weiß nit wo.</s>
-					<s n="7" xml:lang="de" type="auto">Der schwester gib den dicken<note xml:id="fn16" type="footnote" n="16">Damit ist eine vollwertige, konkrete Münze gemeint.</note> zuͦ eynem zeichen eynes guͦtten säligen jars, das und min frow<note xml:id="fn18" type="footnote" n="18">Johannes war seit Mai 1532 mit seiner zweiten Frau <persName>Margaretha, geb. Berker</persName> (gest. 9. Januar 1565), verheiratet; s. Stettler, aaO, S. 35f.</note> uich allen wünsch, dan wyr des nach dynem schriben<note xml:id="fn20" type="footnote" n="20">Nicht erhalten (auch unten in Z. 24 erwähnt).</note> wol dörffendt.</s>
+					<s n="7" xml:lang="de" type="auto">Der schwester<note xml:id="fn15" type="footnote" n="15">Da Johannes und Heinrich keine Schwester hatten (s. Stettler, aaO, S. 30), wird hier Heinrichs Gattin, <persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>, Johannes’ Schwägerin, gemeint sein; vgl. <bibl>SI</bibl> IX 2229.</note> gib den dicken<note xml:id="fn16" type="footnote" n="16">Damit ist eine vollwertige, konkrete Münze gemeint.</note> zuͦ eynem zeichen eynes guͦtten säligen jars, das und<note xml:id="fn17" type="footnote" n="17">auch.</note> min frow<note xml:id="fn18" type="footnote" n="18">Johannes war seit Mai 1532 mit seiner zweiten Frau <persName ref="p4444" cert="high">Margaretha, geb. Berker</persName> (gest. 9. Januar 1565), verheiratet; s. Stettler, aaO, S. 35f.</note> uich allen wünsch, dan<note xml:id="fn19" type="footnote" n="19">da.</note> wyr des nach dynem schriben<note xml:id="fn20" type="footnote" n="20">Nicht erhalten (auch unten in Z. 24 erwähnt).</note> wol dörffendt.<note xml:id="fn21" type="footnote" n="21">bedürfen.</note></s>
 					<s n="8" xml:lang="de" type="auto">Laaß här gan!<note xml:id="fn22" type="footnote" n="22">Zu verstehen: Warten wir ab!</note></s>
-					<s n="9" xml:lang="la" type="auto">Non vidi iustum derelictum.<note xml:id="fn23" type="footnote" n="23">Ps 37 (Vulg. 36), 25.</note></s>
-					<s n="10" xml:lang="la" type="auto">Saltem simus fortes in bello contra omnes insultus diaboli,<note xml:id="fn24" type="footnote" n="24">Vgl. Eph 6, 11.</note> etc.<pb type="edition" next="769"/></s>
+					<s n="9" xml:lang="la" type="auto">Non vidi iustum derelictum.<note xml:id="fn23" type="footnote" n="23"><cit type="bible"><ref>Ps 37 (Vulg. 36), 25</ref></cit>.</note></s>
+					<s n="10" xml:lang="la" type="auto">Saltem simus fortes in bello contra omnes insultus diaboli,<note xml:id="fn24" type="footnote" n="24">Vgl. <cit type="bible"><ref>Eph 6, 11</ref></cit>.</note> etc.<pb type="edition" next="769"/></s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="11" xml:lang="de" type="auto">Minethalben ist es vast yn eym.<note xml:id="fn25" type="footnote" n="25">Zu verstehen: Was mich betrifft, gibt es beinahe keine Änderung.</note></s>
-					<s n="12" xml:lang="de" type="auto">An mitwuchen<note xml:id="fn26" type="footnote" n="26">Vermutlich am 22. oder 29. Dezember 1546.</note> waß ich um halbe 4<note xml:id="fn28" type="footnote" n="28">nachmittags. - Dieser Stelle zufolge scheint Johannes am Mittwoch im etwa 19 km von Ottenbach gelegenen Zürich gewesen zu sein.</note> daheim.</s>
-					<s n="13" xml:lang="de" type="auto">Hat mich so vil geuͤbt,<note xml:id="fn29" type="footnote" n="29">Zu verstehen: Es hatte zur Folge.</note> das es des anderen tags etwas mee mitterung<note xml:id="fn31" type="footnote" n="31">Vermutlich ist „Milderung“ gemeint.</note>, aber mit grosser muͤde hat.</s>
+					<s n="12" xml:lang="de" type="auto">An mitwuchen<note xml:id="fn26" type="footnote" n="26">Vermutlich am 22. oder 29. Dezember 1546.</note> waß<note xml:id="fn27" type="footnote" n="27">war.</note> ich um halbe 4<note xml:id="fn28" type="footnote" n="28">nachmittags. - Dieser Stelle zufolge scheint Johannes am Mittwoch im etwa 19 km von Ottenbach gelegenen Zürich gewesen zu sein.</note> daheim.</s>
+					<s n="13" xml:lang="de" type="auto">Hat mich so vil geuͤbt,<note xml:id="fn29" type="footnote" n="29">Zu verstehen: Es hatte zur Folge.</note> das es des anderen tags etwas mee<note xml:id="fn30" type="footnote" n="30">mehr.</note> mitterung<note xml:id="fn31" type="footnote" n="31">Vermutlich ist „Milderung“ gemeint.</note>, aber mit grosser muͤde<note xml:id="fn32" type="footnote" n="32">Müdigkeit.</note> hat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="14" xml:lang="de" type="auto">Uff huitt<note xml:id="fn33" type="footnote" n="33">heute (ein Samstag; vgl. unten Z. 23).</note> han ich verseen zuͦ Maschwanden mit predigen.</s>
+					<s n="14" xml:lang="de" type="auto">Uff huitt<note xml:id="fn33" type="footnote" n="33">heute (ein Samstag; vgl. unten Z. 23).</note> han<note xml:id="fn34" type="footnote" n="34">habe.</note> ich verseen zuͦ Maschwanden mit predigen.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -45,24 +45,24 @@
 					<s n="15" xml:lang="de" type="auto">An frytag han ich ußgen<note xml:id="fn35" type="footnote" n="35">eingebüßt (nicht erhalten).</note> 17 lib.<note xml:id="fn36" type="footnote" n="36">Pfund (libra).</note> 4 ß.<note xml:id="fn37" type="footnote" n="37">Batzen. - Ein Pfund entsprach 12 Batzen.</note></s>
 					<s n="16" xml:lang="de" type="auto">Han ich vertröschtet.<note xml:id="fn38" type="footnote" n="38">Zu verstehen: Ich habe dafür eine Bürgschaft erhalten.</note></s>
 					<s n="17" xml:lang="de" type="auto">Weer myr schier wäger gsyn,<note xml:id="fn39" type="footnote" n="39">Zu verstehen: Es wäre aus meiner Sicht fast besser gewesen.</note> den zenden ze verlychen.<note xml:id="fn40" type="footnote" n="40">den zenden ze verlychen: den Zehnten zu verpachten.</note></s>
-					<s n="18" xml:lang="de" type="auto">Wie ichs anfan, gad es nüt myr uff.</s>
+					<s n="18" xml:lang="de" type="auto">Wie ichs anfan, gad es nüt myr uff.<note xml:id="fn41" type="footnote" n="41">Zu verstehen: Egal wie, es wird sich für mich nicht lohnen; vgl. <bibl>SI</bibl> II 14 (s.v. „ufgan“).</note></s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="19" xml:lang="de" type="auto">Als ich mein,<note xml:id="fn42" type="footnote" n="42">Zu verstehen: Wie ich annehme.</note> schickst du myr ein stuck Capperer.</s>
+					<s n="19" xml:lang="de" type="auto">Als ich mein,<note xml:id="fn42" type="footnote" n="42">Zu verstehen: Wie ich annehme.</note> schickst du myr ein stuck<note xml:id="fn43" type="footnote" n="43">Fass; s. <bibl>SI</bibl> X 1800.</note> Capperer.</s>
 					<s n="20" xml:lang="de" type="auto">Dargegen schickt ich dyr ein stuck Murner.</s>
 					<s n="21" xml:lang="de" type="auto">Den versuͦch gegen einanderen.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="22" xml:lang="de" type="auto">Nit mee, dan gott sig mit uich allen!</s>
+					<s n="22" xml:lang="de" type="auto">Nit mee, dan gott sig<note xml:id="fn45" type="footnote" n="45">sei.</note> mit uich allen!</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="23" xml:lang="de" type="auto">Zum nechsten<note xml:id="fn46" type="footnote" n="46">Zum nechsten: Kürzlich (nämlich am Mittwoch, als Johannes in Zürich war; vgl. oben Z. 11f).</note> han ich dyr nit den laderlon<note xml:id="fn47" type="footnote" n="47">die Transportkosten.</note> von dem win gen.</s>
+					<s n="23" xml:lang="de" type="auto">Zum nechsten<note xml:id="fn46" type="footnote" n="46">Zum nechsten: Kürzlich (nämlich am Mittwoch, als Johannes in Zürich war; vgl. oben Z. 11f).</note> han ich dyr nit den laderlon<note xml:id="fn47" type="footnote" n="47">die Transportkosten.</note> von dem win gen.<note xml:id="fn48" type="footnote" n="48">gegeben.</note></s>
 					<s n="24" xml:lang="de" type="auto">Hab<note xml:id="fn49" type="footnote" n="49">Erhalte!</note> den uberwächsel<note xml:id="fn50" type="footnote" n="50">Hier ist vermutlich das für den Weintransport geschuldete Geld gemeint.</note> an den 5 gl., so sy dyr werden.<note xml:id="fn51" type="footnote" n="51">Zu verstehen: 5 Gulden (wenn du sie bekommen haben wirst).</note></s>
 				</p>
 			</div>
@@ -73,7 +73,7 @@
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="26" xml:lang="de" type="auto">Uß dinem vilfaltigen schriben<note xml:id="fn53" type="footnote" n="53">Den oben in Z. 7-10 erwähnten Brief.</note> wil ich neen<note xml:id="fn54" type="footnote" n="54">(ent)nehmen.</note> zuͦ gluͦben, was ich mein, das im änlich sig.<note xml:id="fn56" type="footnote" n="56">Zu verstehen: Aus deinem mit vielen Nachrichten versehenen („vilfaltigen“) Brief werde ich das glauben, was mir als wahrscheinlich erscheint.</note></s>
+					<s n="26" xml:lang="de" type="auto">Uß dinem vilfaltigen schriben<note xml:id="fn53" type="footnote" n="53">Den oben in Z. 7-10 erwähnten Brief.</note> wil ich neen<note xml:id="fn54" type="footnote" n="54">(ent)nehmen.</note> zuͦ gluͦben, was ich mein, das im<note xml:id="fn55" type="footnote" n="55">dem.</note> änlich sig.<note xml:id="fn56" type="footnote" n="56">Zu verstehen: Aus deinem mit vielen Nachrichten versehenen („vilfaltigen“) Brief werde ich das glauben, was mir als wahrscheinlich erscheint.</note></s>
 					<s n="27" xml:lang="la" type="auto">Io. tuus.</s>
 				</p>
 				<p>

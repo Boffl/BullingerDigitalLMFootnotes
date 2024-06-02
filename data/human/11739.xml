@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11739" type="Brief" source="HBBW" n="1694">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11739" type="Brief" source="HBBW-12" n="1694">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 22. November 1542</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 22. November 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Mirum, quod scribis: „Nolui te vasto onerare codice“ etc<note xml:id="fn1" type="footnote" n="1"><persName>Myconius</persName> bezieht sich auf ein nicht erhaltenes Schreiben Bullingers, in dem dieser begründete, weshalb er <persName>Myconius</persName> seinen im August erschienenen Kommentar zum Matthäusevangelium (<bibl>HBBibl</bibl> I 144) nicht zugesandt hatte (vgl. oben <ref target="file11731">Nr. 1686</ref>, 1-9).</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Mirum, quod scribis: „Nolui te vasto onerare codice“ etc<note xml:id="fn1" type="footnote" n="1"><persName ref="p8418" cert="high">Myconius</persName> bezieht sich auf ein nicht erhaltenes Schreiben Bullingers, in dem dieser begründete, weshalb er <persName ref="p8418" cert="high">Myconius</persName> seinen im August erschienenen Kommentar zum Matthäusevangelium (<bibl>HBBibl</bibl> I 144) nicht zugesandt hatte (vgl. oben <ref target="file11731">Nr. 1686</ref>, 1-9).</note>.</s>
 					<s n="3" xml:lang="la" type="auto">An ignoras libros ad aurum habere comparationem?</s>
 					<s n="4" xml:lang="la" type="auto">Atqui illud quo maius, eo gratius.</s>
 				</p>
@@ -27,14 +27,14 @@
 					<s n="7" xml:lang="la" type="auto">Nec velim, hęc interpreteris, tanquam aliquid petam; sed tuis sic amice et simpliciter respondere volui.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Dominum a Rischach<note xml:id="fn2" type="footnote" n="2"><persName>Ludwig von Reischach</persName>.</note> nomine tuo salutavi et exposui, quę scripsisti de Gallo;<note xml:id="fn3" type="footnote" n="3">Zürich hatte sich an der <placeName>Badener</placeName> Tagsatzung vom 23. Oktober gegen den von <persName>König Franz I.</persName> erhobenen Vorwurf der Parteilichkeit verwahrt; vgl. oben <ref target="file11731">Nr. 1686</ref>, 10-13 mit Anm. 7.</note> placent itaque magis magisque Tigurini, quod hunc nolint, precaturque constantiam eis in domino.</s>
+					<s n="8" xml:lang="la" type="auto">Dominum a Rischach<note xml:id="fn2" type="footnote" n="2"><persName ref="p7730" cert="high">Ludwig von Reischach</persName>.</note> nomine tuo salutavi et exposui, quę scripsisti de Gallo;<note xml:id="fn3" type="footnote" n="3">Zürich hatte sich an der <placeName ref="l21" cert="high">Badener</placeName> Tagsatzung vom 23. Oktober gegen den von <persName ref="p7637" cert="high">König Franz I.</persName> erhobenen Vorwurf der Parteilichkeit verwahrt; vgl. oben <ref target="file11731">Nr. 1686</ref>, 10-13 mit Anm. 7.</note> placent itaque magis magisque Tigurini, quod hunc nolint, precaturque constantiam eis in domino.</s>
 					<s n="9" xml:lang="la" type="auto">Et profecto prudenter mihi facere videntur, quia nihil respondent, ne veniant in colloquium; adeo vafer est enim diabolus<pb type="edition" next="253"/> ille, ut eo male usurus esset.</s>
 					<s n="10" xml:lang="la" type="auto">Perdurent, et dominus erit cum ipsis.</s>
 					<s n="11" xml:lang="la" type="auto">Nos hic certe pessime nobis constamus in negocio Gallicano, dum post mandatum adeo severum<note xml:id="fn4" type="footnote" n="4">Vgl. oben <ref target="file11731">Nr. 1686</ref>, 15f mit Anm. 9.</note> poena irrogatur, ut optimi quique dicant stimulum fore multis ineunte vere turmatim excurrendi.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Diebus hisce civis et senator <placeName>Basiliensis</placeName> civitate renunciata migrare parat Salodorum, non nisi propter aurum Gallicanum, quo tamen adeo non indiget, ut stupendum sit hominem divitem et iuvenem sic agere.</s>
-					<s n="13" xml:lang="la" type="auto">Nomine Tigurinus est de familia Aescherorum.</s>
+					<s n="12" xml:lang="la" type="auto">Diebus hisce civis et senator <placeName ref="l28" cert="high">Basiliensis</placeName> civitate renunciata migrare parat Salodorum, non nisi propter aurum Gallicanum, quo tamen adeo non indiget, ut stupendum sit hominem divitem et iuvenem sic agere.</s>
+					<s n="13" xml:lang="la" type="auto">Nomine Tigurinus est de familia <persName ref="18259" type="auto_name">Aescherorum</persName>.</s>
 					<s n="14" xml:lang="la" type="auto">Sunt ex primoribus, qui mirantur cathenas ex coronatis convolutis factas atque id coram stultis non dissimulant.</s>
 				</p>
 				<p>
@@ -42,34 +42,34 @@
 					<s n="16" xml:lang="la" type="auto">In sinum haec tibi.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">Ducatus Iuliacensis totus miserrime vastatus est et occupatus a <placeName>Brabantis</placeName>,<note xml:id="fn6" type="footnote" n="6">Vgl. oben <ref target="file11731">Nr. 1686</ref>, 22f mit Anm. 13.</note> et quamvis Gallus redierit in agrum Lucelburgensem<note xml:id="fn7" type="footnote" n="7">Zu den diesbezüglichen, von <placeName>Straßburg</placeName> an <placeName>Basel</placeName> übermittelten Nachrichten vgl. <bibl>PC</bibl> III 336 (mit Anm. 1), <bibl>Vadian BW VI</bibl> 170 sowie unten Z. 29-36. Der erneute französische Vormarsch beschränkte sich im Wesentlichen auf die Einnahme von <placeName>Montmédy</placeName> (Dép. Meuse); s. <bibl>Henne</bibl> VIII 45.</note> et de integro vastet, quicquid est reliqui, forsitan si exercitum reginae<note xml:id="fn8" type="footnote" n="8"><persName>Maria von Ungarn</persName>, Statthalterin der <placeName>Niederlande</placeName>.</note> distrahere sic possit, non video tamen, quę inde sit utilitas Iuliacensi<note xml:id="fn9" type="footnote" n="9">Herzog <persName>Wilhelm von Jülich</persName>, Berg und <placeName>Kleve</placeName>.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Ducatus Iuliacensis totus miserrime vastatus est et occupatus a <placeName ref="l8" cert="high">Brabantis</placeName>,<note xml:id="fn6" type="footnote" n="6">Vgl. oben <ref target="file11731">Nr. 1686</ref>, 22f mit Anm. 13.</note> et quamvis Gallus redierit in agrum Lucelburgensem et de integro vastet, quicquid est reliqui, forsitan si exercitum reginae<note xml:id="fn8" type="footnote" n="8"><persName ref="p18215" cert="high">Maria von Ungarn</persName>, Statthalterin der <placeName ref="l20" cert="high">Niederlande</placeName>.</note> distrahere sic possit, non video tamen, quę inde sit utilitas Iuliacensi<note xml:id="fn9" type="footnote" n="9">Herzog <persName ref="p18605" cert="high">Wilhelm von Jülich</persName>, Berg und <placeName ref="l1049" cert="high">Kleve</placeName>.</note>.</s>
 					<s n="18" xml:lang="la" type="auto">Clivenses et Geldrii arma nunc tandem expediunt.</s>
 					<s n="19" xml:lang="la" type="auto">Hic timendum, nisi pax fiat, bellum fore valde cruentum.</s>
 				</p>
 				<p>
 					<s n="20" xml:lang="la" type="auto">Hactenus scripsi ante concionem; post concionem dominus a Rischach inter colloquendum: „Heri“, inquit, „in ponte obviam habui equites aliquot, qui recta venerunt ab exercitu reginio.</s>
-					<s n="21" xml:lang="la" type="auto">Hos dum rogo de ducibus et exercitu, sic reddiderunt: ’Duces ad reginam profecti recessum, ut vocant, requisituri sunt<note xml:id="fn11" type="footnote" n="11">Vgl. <hi>Heidrich,</hi> Erbfolgestreit 71.</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Hos dum rogo de ducibus et exercitu, sic reddiderunt: ’Duces ad reginam profecti recessum<note xml:id="fn10" type="footnote" n="10">Entlassung.</note>, ut vocant, requisituri sunt<note xml:id="fn11" type="footnote" n="11">Vgl. <hi>Heidrich,</hi> Erbfolgestreit 71.</note>.</s>
 					<s n="22" xml:lang="la" type="auto">Milites dimissi sunt aliquot vexillis exceptis, quę in ducatu Lucelburgensi hibernabunt.’ Vides“, inquit, „mendacia, quę seruntur de Gallo,<pb type="edition" next="254"/> quod rediisset ad Lucelburgenses.“</s>
-					<s n="23" xml:lang="la" type="auto">Hęreo itaque, postquam ex <placeName>Argentina</placeName> superiora cognoverim<note xml:id="fn12" type="footnote" n="12">Vgl. oben Z. 23-28.</note>.</s>
+					<s n="23" xml:lang="la" type="auto">Hęreo itaque, postquam ex <placeName ref="l492" cert="high">Argentina</placeName> superiora cognoverim<note xml:id="fn12" type="footnote" n="12">Vgl. oben Z. 23-28.</note>.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la" type="auto">Pręterea vir mercator Sangallensis diebus superioribus hic dixit illud se per ditionem Palatini<note xml:id="fn14" type="footnote" n="14">Gemeint ist wohl Kurfürst <persName>Ludwig V. von der Pfalz</persName>.</note> accepisse, nisi clades Hungarica incidisset, bellum certo iam illatum esse confoederatis.</s>
-					<s n="25" xml:lang="la" type="auto">Et timendum vere aliquid, maxime si rumor, qui volat de cęsare<note xml:id="fn15" type="footnote" n="15"><persName>Kaiser Karl V.</persName></note>, quod <placeName>Mediolanum</placeName> sit ad tempus occupaturus, verus efficiatur.</s>
+					<s n="24" xml:lang="la" type="auto">Pręterea vir mercator Sangallensis<note xml:id="fn13" type="footnote" n="13">Unbekannt.</note> diebus superioribus hic dixit illud se per ditionem Palatini<note xml:id="fn14" type="footnote" n="14">Gemeint ist wohl Kurfürst <persName ref="p18548" cert="high">Ludwig V. von der Pfalz</persName>.</note> accepisse, nisi clades Hungarica incidisset, bellum certo iam illatum esse confoederatis.</s>
+					<s n="25" xml:lang="la" type="auto">Et timendum vere aliquid, maxime si rumor, qui volat de cęsare<note xml:id="fn15" type="footnote" n="15"><persName ref="p18538" cert="high">Kaiser Karl V.</persName></note>, quod <placeName ref="l306" cert="high">Mediolanum</placeName> sit ad tempus occupaturus, verus efficiatur.</s>
 				</p>
 				<p>
 					<s n="26" xml:lang="la" type="auto">Sic res habent.</s>
-					<s n="27" xml:lang="la" type="auto">Bene illis, qui ex corde possunt dicere: „Domini ego sum.“<note xml:id="fn16" type="footnote" n="16">Vgl. Jes 44, 5.</note></s>
+					<s n="27" xml:lang="la" type="auto">Bene illis, qui ex corde possunt dicere: „Domini ego sum.“<note xml:id="fn16" type="footnote" n="16">Vgl. <cit type="bible"><ref>Jes 44, 5</ref></cit>.</note></s>
 				</p>
 				<p>
 					<s n="28" xml:lang="la" type="auto">Vale in domino cum bonis omnibus.</s>
-					<s n="29" xml:lang="la" type="auto">Salutabis <persName>Theodorum</persName><note xml:id="fn17" type="footnote" n="17"><persName>Theodor Bibliander</persName>.</note>.</s>
-					<s n="30" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 22. novembris anno 1542.</s>
+					<s n="29" xml:lang="la" type="auto">Salutabis <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn17" type="footnote" n="17"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>.</s>
+					<s n="30" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 22. novembris anno 1542.</s>
 				</p>
 				<p>
-					<s n="31" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+					<s n="31" xml:lang="la" type="auto"><persName ref="p8418" cert="high">Os. Myconius</persName> tuus.</s>
 				</p>
 				<p>
-					<s n="32" xml:lang="la" type="auto">Pręvenit me festinando tabellio.</s>
+					<s n="32" xml:lang="la" type="auto">Pręvenit me festinando tabellio<note xml:id="fn18" type="footnote" n="18">Unbekannt.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11991" type="Brief" source="CO" n="565">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11991" type="Brief" source="CO-XI" n="565">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Calvin, 20. Juli 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Calvin, 20. Juli 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,8 +17,8 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a Domino.</s>
-					<s n="2" xml:lang="la" type="auto">Orat te, Calvine doctissime, D. Erasmus Fabricius, ecclesiae nostrae minister fidelis ao doctus, et eius nomine ego quoque te oro, ut hunc filium eius commendatum habeas.</s>
-					<s n="3" xml:lang="la" type="auto">Manebit apud mercatorem Genevae.</s>
+					<s n="2" xml:lang="la" type="auto">Orat te, <persName ref="p540" cert="high">Calvine</persName> doctissime, D. <persName ref="p8437" cert="high">Erasmus Fabricius</persName>, ecclesiae nostrae minister fidelis ao doctus, et eius nomine ego quoque te oro, ut hunc filium eius commendatum habeas.</s>
+					<s n="3" xml:lang="la" type="auto">Manebit apud mercatorem <placeName ref="l167" cert="high">Genevae</placeName>.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="la" type="auto">Mercatoris nomen excidit, quod tamen ex puero discere poteris.</s>
@@ -39,14 +39,14 @@
 				<p>
 					<s n="16" xml:lang="la" type="auto">Pretium ascendit fere ad duos aureos.</s>
 					<s n="17" xml:lang="la" type="auto">Iam vero mos est apud nostros ut dimidiatam partem pro victu numerandam mox ab initio appendant.</s>
-					<s n="18" xml:lang="la" type="auto">Proinde nisi parum commodum esset mercatori, cuperem ut 8 coronatos mitteret, ubi fidelem inveniret nuncium qui illos ad me perferret, una cum illis quoque pecuniis quas pro libris debet Froschovero.</s>
+					<s n="18" xml:lang="la" type="auto">Proinde nisi parum commodum esset mercatori, cuperem ut 8 coronatos mitteret, ubi fidelem inveniret nuncium qui illos ad me perferret, una cum illis quoque pecuniis quas pro libris debet <persName ref="p1227" cert="high">Froschovero</persName>.</s>
 					<s n="19" xml:lang="la" type="auto">Caeterum rem maxime necessariam feceris si puero scripseris, diligentior sit porro et tractabilior.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">Queritur scriba urbis D. Wernherus Bygelius, dominus eius, puerum esse negligentem, praefractum et animi elati.</s>
+					<s n="20" xml:lang="la" type="auto">Queritur scriba urbis D. <persName ref="p257" cert="high">Wernherus Bygelius</persName>, dominus eius, puerum esse negligentem, praefractum et animi elati.</s>
 					<s n="21" xml:lang="la" type="auto">Ego pro meo officio illum admonui ac spero ipsum aures habere ad consilia.</s>
-					<s n="22" xml:lang="la" type="auto">Vale, doctissime mi Calvine, et me ama.</s>
-					<s n="23" xml:lang="la" type="auto">Salutant te fratres omnes, Megander, Pellicanus, Bibliander, Gualtherus, Gesnerus, pueri huius pater E. Fabricius ac reliqui.</s>
+					<s n="22" xml:lang="la" type="auto">Vale, doctissime mi <persName ref="p540" cert="high">Calvine</persName>, et me ama.</s>
+					<s n="23" xml:lang="la" type="auto">Salutant te fratres omnes, <persName ref="p8412" cert="high">Megander</persName>, <persName ref="p8127" cert="high">Pellicanus</persName>, <persName ref="p8171" cert="high">Bibliander</persName>, <persName ref="p8011" cert="high">Gualtherus</persName>, <persName ref="p1283" cert="high">Gesnerus</persName>, pueri huius pater <persName ref="p8437" cert="high">E. Fabricius</persName> ac reliqui.</s>
 				</p>
 				<p>
 					<s n="24" xml:lang="la" type="auto">Tiguri 20. Iulii anno 1544.</s>
@@ -55,7 +55,7 @@
 					<s n="25" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
 				</p>
 				<p>
-					<s n="26" xml:lang="la" type="auto">Clarissimo viro D. Ioanni Calvino fratri suo longe carissimo Genevae.</s>
+					<s n="26" xml:lang="la" type="auto">Clarissimo viro D. <persName ref="p540" cert="high">Ioanni Calvino</persName> fratri suo longe carissimo <placeName ref="l167" cert="high">Genevae</placeName>.</s>
 				</p>
 			</div>
 		</body>

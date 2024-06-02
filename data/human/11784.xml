@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11784" type="Brief" source="GR" n="38">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11784" type="Brief" source="GR-I" n="38">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 11. April [1543]</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 11. April [1543]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,10 +28,10 @@
 					<s n="10" xml:lang="la" type="auto">Ex Rhetiae Curia, 10. Aprilis 43.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Tuus <persName ref="p4564">Ioannes Comander</persName>.</s>
+					<s n="11" xml:lang="la" type="auto">Tuus <persName ref="p654" cert="high">Ioannes Comander</persName>.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Salutant te fratres Ioannes Blasius et Philippus.</s>
+					<s n="12" xml:lang="la" type="auto">Salutant te fratres <persName ref="p396" cert="high">Ioannes Blasius</persName> et Philippus.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Clarissimo viro magistro Heinricho Bullingero, Tigurinae ecclesiae antistiti vigilantissimo, domino et fratri suo inprimis observando.</s>

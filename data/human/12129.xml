@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12129" type="Brief" source="HBBW" n="2082">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12129" type="Brief" source="HBBW-15" n="2082">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Erasmus Ritter / [Bern] AN Heinrich Bullinger, Kaspar Megander (Großmann), 14. Februar 1545</title>
+				<title subtype="file">Erasmus Ritter / [Bern] an Heinrich Bullinger, Kaspar Megander (Großmann), 14. Februar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,20 +20,20 @@
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Amplissimum ostium nobis apertum est semel expellendi Lutheranismum, sed quanto amplius, tanto periculosius.</s>
-					<s n="3" xml:lang="la" type="auto">Iussit senatus noster, ut catechismum, quem <persName ref="p18198">Bucerus</persName> ad turbandam ecclesiam nostram reliquerat nobis, corrigeremus, si esset, quod indigeret correctione.</s>
-					<s n="4" xml:lang="la" type="auto">Hic inter nos timendum,<pb type="edition" next="125"/> ne dissensio oriatur, nam <persName>Ioannes</persName><note xml:id="fn2" type="footnote" n="2"><persName>Johannes Wäber</persName>.</note> abhorret a verbis, quae significent, ut aliquid ad nos redeat fructus et utilitatis (putans ante actionem ista omnia recepta esse; proinde non opus esse, ut in coena primum recipiamus) ex sumptione coenae dominicae.</s>
-					<s n="5" xml:lang="la" type="auto">Ego vero puto magis nos debere circumspectos<pb type="edition" next="126"/> esse, quid recipiamus; nam toties hactenus confessi sumus<note xml:id="fn4" type="footnote" n="4">Anspielung auf die "Confessio Helvetica prior".</note> in coena Christum dare nobis communicationem sui corporis et sanguinis<note xml:id="fn5" type="footnote" n="5">1Kor 10, 16. - In der von <persName>Bucer</persName> revidierten Fassung des Katechismus (s. oben Anm. 1 und 3) steht: "da man [im Abendmahl]die gemeynschafft deß lybs unnd blitz Christi empfacht" (f. Eiv,v.).</note> et coenam non tantum constare pane et vino, sed maxime fructu et virtute passionis domini nostri<note xml:id="fn6" type="footnote" n="6">Vgl. die Aussage der "Confessio Helvetica prior": "Inn disen wesenlichen geystlichen dingen stat [steht] die gantze krafft, würkung und frucht der Sacramenten" (<bibl>BSRK</bibl> V/I 106, 351).</note>.</s>
-					<s n="6" xml:lang="la" type="auto">Igitur confessi sumus Christi corpus nobis adesse in coena, sed per fructum et efficatiam partam salutem per traditum corpus fidei nostrae offerri<note xml:id="fn7" type="footnote" n="7">In der "Confessio Helvetica prior" werden auch die Verben "anbütet" (offerre), "fürgetragen und dargebotten" (exhibere) gebraucht (<bibl>BSRK</bibl> V/I 106,40. 107,13f. 107, 21); und doch kritisierte Bullinger den Gebrauch der Wörter "exhibere" und "exhibitio" bei <persName>Bucer</persName> heftig (s. <bibl>HBBW XIV</bibl> 461, 47-49. 581, 30-32 und Anm. 10).</note> per sacramenta.</s>
-					<s n="7" xml:lang="la" type="auto">Haec omnia constanter negat <persName>Ioannes</persName>.</s>
-					<s n="8" xml:lang="la" type="auto">Ego cum negare non possim, dissentire cum <persName>Iohanne</persName> cogor et parti adversae in tantum accedere.</s>
+					<s n="3" xml:lang="la" type="auto">Iussit senatus noster, ut catechismum, quem <persName ref="p467" cert="high">Bucerus</persName> ad turbandam ecclesiam nostram reliquerat nobis, corrigeremus, si esset, quod indigeret correctione.</s>
+					<s n="4" xml:lang="la" type="auto">Hic inter nos timendum,<pb type="edition" next="125"/> ne dissensio oriatur, nam <persName ref="p6811" cert="high">Ioannes</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p6811" cert="high">Johannes Wäber</persName>.</note> abhorret a verbis, quae significent, ut aliquid ad nos redeat fructus et utilitatis (putans ante actionem ista omnia recepta esse; proinde non opus esse, ut in coena primum recipiamus) ex sumptione coenae dominicae.</s>
+					<s n="5" xml:lang="la" type="auto">Ego vero puto magis nos debere circumspectos<pb type="edition" next="126"/> esse, quid recipiamus; nam toties hactenus confessi sumus<note xml:id="fn4" type="footnote" n="4">Anspielung auf die "Confessio Helvetica prior".</note> in coena Christum dare nobis communicationem sui corporis et sanguinis<note xml:id="fn5" type="footnote" n="5"><cit type="bible"><ref>1Kor 10, 16.</ref></cit> - In der von <persName ref="p467" cert="high">Bucer</persName> revidierten Fassung des Katechismus (s. oben Anm. 1 und 3) steht: "da man [im Abendmahl]die gemeynschafft deß lybs unnd blitz Christi empfacht" (f. Eiv,v.).</note> et coenam non tantum constare pane et vino, sed maxime fructu et virtute passionis domini nostri<note xml:id="fn6" type="footnote" n="6">Vgl. die Aussage der "Confessio Helvetica prior": "Inn disen wesenlichen geystlichen dingen stat [steht] die gantze krafft, würkung und frucht der Sacramenten" (<bibl>BSRK</bibl> V/I 106, 351).</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Igitur confessi sumus Christi corpus nobis adesse in coena, sed per fructum et efficatiam partam salutem per traditum corpus fidei nostrae offerri per sacramenta.</s>
+					<s n="7" xml:lang="la" type="auto">Haec omnia constanter negat <persName ref="p6811" cert="high">Ioannes</persName>.</s>
+					<s n="8" xml:lang="la" type="auto">Ego cum negare non possim, dissentire cum <persName ref="p6811" cert="high">Iohanne</persName> cogor et parti adversae in tantum accedere.</s>
 					<s n="9" xml:lang="la" type="auto">Quid hoc apud nostros parere possit, ipsi iudicate!</s>
-					<s n="10" xml:lang="la" type="auto">Etsi ego tantum concedere vellem <persName>Ioanni</persName>, timeo periculum totius ecclesiae; nam inde occasionem arripere possint adversarii vocandi <persName ref="p18198">Butzerum</persName> vel alium quendam Lutheranum, ut simul in periculum veniret tota religio.</s>
+					<s n="10" xml:lang="la" type="auto">Etsi ego tantum concedere vellem <persName ref="p6811" cert="high">Ioanni</persName>, timeo periculum totius ecclesiae; nam inde occasionem arripere possint adversarii vocandi <persName ref="p467" cert="high">Butzerum</persName> vel alium quendam Lutheranum, ut simul in periculum veniret tota religio.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Proinde vos queso, fratres charissimi, si erro, indicate errorem; si non, monete Ioannem, ut prudentius agat et vos tantum audiat.</s>
 					<s n="12" xml:lang="la" type="auto">Res enim dilata est in 20. huius mensis diem.<note xml:id="fn8" type="footnote" n="8">Es kam erst am 23. Februar dazu; s. oben Anm. 1.</note></s>
-					<s n="13" xml:lang="la" type="auto">Optarem quoque a Caspere<note xml:id="fn9" type="footnote" n="9"><persName>Kaspar Megander</persName>.</note> moneri Gyronum<note xml:id="fn10" type="footnote" n="10"><persName>Peter Cyro</persName>.</note> et Sepinum<note xml:id="fn11" type="footnote" n="11"><persName>Peter Im Haag</persName>.</note>, qui ferme eadem sententia laborant, maxime Gyronus, alias fidelis et constans frater.</s>
-					<s n="14" xml:lang="la" type="auto">Ego ad vos mitto catechismum<note xml:id="fn12" type="footnote" n="12">Der im Februar und März 1541 entstandene Neudruck des durch <persName>Bucer</persName> revidierten Katechismus; s. oben Anm. 1.</note> et pręceptum senatus nostri.</s>
+					<s n="13" xml:lang="la" type="auto">Optarem quoque a <persName ref="8412" type="auto_name">Caspere</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p8412" cert="high">Kaspar Megander</persName>.</note> moneri <persName ref="4610" type="auto_name">Gyronum</persName><note xml:id="fn10" type="footnote" n="10"><persName ref="p4610" cert="high">Peter Cyro</persName>.</note> et <persName ref="8389" type="auto_name">Sepinum</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p8389" cert="high">Peter Im Haag</persName>.</note>, qui ferme eadem sententia laborant, maxime Gyronus, alias fidelis et constans frater.</s>
+					<s n="14" xml:lang="la" type="auto">Ego ad vos mitto catechismum<note xml:id="fn12" type="footnote" n="12">Der im Februar und März 1541 entstandene Neudruck des durch <persName ref="p467" cert="high">Bucer</persName> revidierten Katechismus; s. oben Anm. 1.</note> et pręceptum senatus nostri.</s>
 					<s n="15" xml:lang="la" type="auto">Legite et ipsi ordinate; nam libenter ego in hoc vobis meam tradam potestatem.<pb type="edition" next="127"/></s>
 				</p>
 				<p>
@@ -43,14 +43,14 @@
 					<s n="17" xml:lang="la" type="auto">Datum 14. februarii die anno 1545.</s>
 				</p>
 				<p>
-					<s n="18" xml:lang="la" type="auto"><persName>Erasmus Ritter</persName>.</s>
+					<s n="18" xml:lang="la" type="auto"><persName ref="p2810" cert="high">Erasmus Ritter</persName>.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Meam valetudinem facile iudicare poteritis, quum iam tercia manus adhibenda esset, quatinus heę litere pararentur<note xml:id="fn14" type="footnote" n="14">Dass <persName>Ritter</persName> damals kränkelnd war, geht auch aus <hi><persName>Stettler</persName>,</hi> aao, f. 115v., und aus oben <ref target="file12110">Nr. 2063</ref>, 53. hervor. Er verstarb am 1. August 1546; s. <bibl>Z</bibl> IX 2, Anm. 1.</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Meam valetudinem facile iudicare poteritis, quum iam tercia manus adhibenda esset, quatinus heę litere pararentur<note xml:id="fn14" type="footnote" n="14">Dass <persName ref="p2810" cert="high">Ritter</persName> damals kränkelnd war, geht auch aus <hi><persName ref="p6703" cert="high">Stettler</persName>,</hi> aao, f. 115v., und aus oben <ref target="file12110">Nr. 2063</ref>, 53. hervor. Er verstarb am 1. August 1546; s. <bibl>Z</bibl> IX 2, Anm. 1.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="20" xml:lang="la" type="auto">Doctissimis et piissimis fratribus magistro Henricho Bullingero et <persName>Gaspero Megandro</persName>, ecclesie Tigurine pastoribus vigilantissimis.</s>
+					<s n="20" xml:lang="la" type="auto">Doctissimis et piissimis fratribus magistro Henricho Bullingero et <persName ref="p8412" cert="high">Gaspero Megandro</persName>, ecclesie Tigurine pastoribus vigilantissimis.</s>
 				</p>
 			</div>
 		</body>

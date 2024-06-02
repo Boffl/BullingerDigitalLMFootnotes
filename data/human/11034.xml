@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11034" type="Brief" source="HBBW" n="992">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11034" type="Brief" source="HBBW-7" n="992">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Peter Schnyder (Sartorius, Frick) / Biel AN Heinrich Bullinger, 13. April 1537</title>
+				<title subtype="file">Peter Schnyder (Sartorius, Frick) / Biel an Heinrich Bullinger, 13. April 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,38 +20,38 @@
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Quoties ad te possum habere, frater charissime, nuncios, penes quos omnia tuta sunt, paratus est animus meus quedam ad te scribere, non ob aliam rem quam ut non arbitreris me tui tuorumque esse oblitum, quamvis certo sciam ob crebras tuas occupationes tibi non tantum spatium temporis superesse, ut mea valeas pervidere, quid petam aut postulem.</s>
-					<s n="3" xml:lang="la" type="auto">Ideo brevibus edoctus es a <persName>Iohanne</persName> Gesslero<note xml:id="fn1" type="footnote" n="1">Über <persName>Hans Geßler</persName> ist weiter nichts bekannt.</note>, quid egerim coram senatu ex parte illorum Tigurinorum <persName>Frölich</persName> et reliquorum<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11016">Nr. 974</ref>, 2-8.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Ideo brevibus edoctus es a <persName ref="p4948" cert="high">Iohanne</persName> Gesslero<note xml:id="fn1" type="footnote" n="1">Über <persName ref="p4948" cert="high">Hans Geßler</persName> ist weiter nichts bekannt.</note>, quid egerim coram senatu ex parte illorum Tigurinorum <persName ref="p4857" cert="high">Frölich</persName> et reliquorum<note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11016">Nr. 974</ref>, 2-8.</note>.</s>
 					<s n="4" xml:lang="la" type="auto">In eadem sententia perstat adhuc senatus.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Nunc mihi commilitonique<note xml:id="fn3" type="footnote" n="3"><persName>Jakob Würben</persName>.</note> meo negotium est cum pentionariis quibusdam, inter quos precipuus est scriba<note xml:id="fn4" type="footnote" n="4"><persName>Ludwig Sterner</persName>. - Zur Persönlichkeit des <placeName>Bieler</placeName> Stadtschreibers vgl. Werner <hi>Bourquin,</hi> <persName>Ludwig Sterner</persName>, Stadtschreiber zu <placeName>Biel</placeName> 1510-1541, in: Werner <hi>Bourquin,</hi> Beiträge zur Geschichte <placeName>Biels</placeName>, <placeName>Biel</placeName> 1922, S. 163-167.</note> noster, Harpyiarum<note xml:id="fn5" type="footnote" n="5">Mythische raffende Wesen, eine Art widerlicher Aasvögel (vgl. <bibl>LAW</bibl> 1192).</note> istarum alumnus,<pb type="edition" next="149"/> callidus et versutus, ut alias est hoc genus hominum, miris contra nos technis laborans operam nostram cessare.</s>
-					<s n="6" xml:lang="la" type="auto">Det igitur nobis ille, cuius totum est, quod gerimus, prudentiam serpentinam et simplicitatem collumbinam<note xml:id="fn6" type="footnote" n="6">Vgl. Mt 10, 16.</note>; tandem hominis astus evademus.</s>
-					<s n="7" xml:lang="la" type="auto">Unum autem est, quod absque te peto, quousque portendant sese hec verba in obligatione iurisiurandi: <foreign xml:lang="de">"trewlich unnd ungefärlich."</foreign></s>
+					<s n="5" xml:lang="la" type="auto">Nunc mihi commilitonique<note xml:id="fn3" type="footnote" n="3"><persName ref="p7147" cert="high">Jakob Würben</persName>.</note> meo negotium est cum pentionariis quibusdam, inter quos precipuus est scriba<note xml:id="fn4" type="footnote" n="4"><persName ref="p6702" cert="high">Ludwig Sterner</persName>. - Zur Persönlichkeit des <placeName ref="l49" cert="high">Bieler</placeName> Stadtschreibers vgl. Werner <hi>Bourquin,</hi> <persName ref="p6702" cert="high">Ludwig Sterner</persName>, Stadtschreiber zu <placeName ref="l49" cert="high">Biel</placeName> 1510-1541, in: Werner <hi>Bourquin,</hi> Beiträge zur Geschichte <placeName ref="l49" cert="high">Biels</placeName>, <placeName ref="l49" cert="high">Biel</placeName> 1922, S. 163-167.</note> noster, Harpyiarum<note xml:id="fn5" type="footnote" n="5">Mythische raffende Wesen, eine Art widerlicher Aasvögel (vgl. <bibl>LAW</bibl> 1192).</note> istarum alumnus,<pb type="edition" next="149"/> callidus et versutus, ut alias est hoc genus hominum, miris contra nos technis laborans operam nostram cessare.</s>
+					<s n="6" xml:lang="la" type="auto">Det igitur nobis ille, cuius totum est, quod gerimus, prudentiam serpentinam et simplicitatem collumbinam<note xml:id="fn6" type="footnote" n="6">Vgl. <cit type="bible"><ref>Mt 10, 16</ref></cit>.</note>; tandem hominis astus evademus.</s>
+					<s n="7" xml:lang="la" type="auto">Unum autem est, quod absque te peto, quousque portendant sese hec verba in obligatione iurisiurandi: <foreign xml:lang="de">"trewlich unnd ungefärlich."<note xml:id="fn7" type="footnote" n="7">formelhaft in Eiden enthalten: unverbrüchlich und ohne böse Absicht (vgl. <bibl>SI</bibl> I 884).</note></foreign></s>
 					<s n="8" xml:lang="la" type="auto">Semel atque iterum a te audivi, sed ob varias vexationes, quo tum laborabam, sensus elapsus est.</s>
 					<s n="9" xml:lang="de" type="auto">Deinde redt der statschriber: "Ist das geltt recht in den gemeynen seckel, so ists mir ouch recht."</s>
 					<s n="10" xml:lang="la" type="manual">Ita argumentatur apud omnes.</s>
-					<s n="11" xml:lang="la" type="auto">Quid super ea respondendum, brevibus absolvas, sive quid in scriptis habeas, per illum bonum virum<note xml:id="fn8" type="footnote" n="8"><persName>Hans Geßler</persName> (vgl. oben Z. 7).</note> mihi communicare velis.</s>
+					<s n="11" xml:lang="la" type="auto">Quid super ea respondendum, brevibus absolvas, sive quid in scriptis habeas, per illum bonum virum<note xml:id="fn8" type="footnote" n="8"><persName ref="p4948" cert="high">Hans Geßler</persName> (vgl. oben Z. 7).</note> mihi communicare velis.</s>
 					<s n="12" xml:lang="la" type="auto">Optarim tantummodo unicam horulam tecum esse.</s>
 					<s n="13" xml:lang="la" type="auto">Id autem possibile non est, ut tecum de istis negociis agerem.</s>
-					<s n="14" xml:lang="la" type="auto">Vitis<note xml:id="fn9" type="footnote" n="9"><persName>Rudolf Rebstock</persName>.</note>, qui etiam est ex illorum hominum numero, attamen haud repugnat, relicturum munus honorarium, ut ipsi loquuntur, sese confessus est iuxta Tigurinorum ac <placeName>Bernatium</placeName> statuta.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="6179" type="auto_name">Vitis</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p6179" cert="high">Rudolf Rebstock</persName>.</note>, qui etiam est ex illorum hominum numero, attamen haud repugnat, relicturum munus honorarium, ut ipsi loquuntur, sese confessus est iuxta Tigurinorum ac <placeName ref="l41" cert="high">Bernatium</placeName> statuta.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Deinde, charissime frater, penes nos fama est, velim ut non esset sinistra Luterum nobiscum convenisse in re eucharistiae<note xml:id="fn11" type="footnote" n="11">Dieses Gerücht basiert wohl auf einem Bericht über die freundliche Aufnahme des <placeName>Schweizer</placeName> Schreibens durch <persName>Luther</persName> (vgl. oben Nr. 975, 42-44).</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Deinde, charissime frater, penes nos fama est, velim ut non esset sinistra Luterum nobiscum convenisse in re eucharistiae<note xml:id="fn11" type="footnote" n="11">Dieses Gerücht basiert wohl auf einem Bericht über die freundliche Aufnahme des <placeName ref="l28" cert="high">Schweizer</placeName> Schreibens durch <persName ref="p1974" cert="high">Luther</persName> (vgl. oben Nr. 975, 42-44).</note>.</s>
 					<s n="16" xml:lang="la" type="auto">Id si verum, haud credo, attamen, si verum est, fecit, quod nunquam credidissem; veritatem autem abs te scire desidero.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">Huldrichus<note xml:id="fn12" type="footnote" n="12">Gemeint ist wohl <persName>Ulrich Fischer</persName> (vgl. <bibl>HBBW III</bibl> <ref target="file10210">[Nr. 179]</ref>, S. 49, Anm. 1).</note> noster, bonus et eruditus vir, multum me eruditione sua Grecis literis commendatum habet.</s>
-					<s n="18" xml:lang="la" type="auto">Timeo autem, ne vir ille quandoque rationem redditurus illi, cuius talentum abscondit<note xml:id="fn13" type="footnote" n="13">Vgl. Mt 25, 14-30.</note>.</s>
+					<s n="17" xml:lang="la" type="auto">Huldrichus<note xml:id="fn12" type="footnote" n="12">Gemeint ist wohl <persName ref="p1045" cert="high">Ulrich Fischer</persName> (vgl. <bibl>HBBW III</bibl> <ref target="file10210">[Nr. 179]</ref>, S. 49, Anm. 1).</note> noster, bonus et eruditus vir, multum me eruditione sua Grecis literis commendatum habet.</s>
+					<s n="18" xml:lang="la" type="auto">Timeo autem, ne vir ille quandoque rationem redditurus illi, cuius talentum abscondit<note xml:id="fn13" type="footnote" n="13">Vgl. <cit type="bible"><ref>Mt 25, 14-30</ref></cit>.</note>.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Eius nomine meoque matrem<note xml:id="fn14" type="footnote" n="14"><persName>Anna, geb. Wiederkehr</persName>.</note> tuam charissimam saluta una cum uxore<note xml:id="fn15" type="footnote" n="15"><persName>Anna, geb. Adlischwyler</persName>.</note>, fratresque omnes, amicum corarium, <persName>Petri</persName> hospitem; tandem Iohannem, fratrem tuum, quem ut eque omnes deus ille optimus maximus provideat atque defendat a malis rusticis, malis dico; bonorum enim haud ingens<pb type="edition" next="150"/> numerus<note xml:id="fn17" type="footnote" n="17">Johannes Bullinger war an der Frühjahrssynode 1535 gerügt worden, weil er gegenüber einem Bauern handgreiflich geworden war (Zürich StA, E III, 194).</note>.</s>
+					<s n="19" xml:lang="la" type="auto">Eius nomine meoque matrem<note xml:id="fn14" type="footnote" n="14"><persName ref="p7042" cert="high">Anna, geb. Wiederkehr</persName>.</note> tuam charissimam saluta una cum uxore<note xml:id="fn15" type="footnote" n="15"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note>, fratresque omnes, amicum corarium, <persName ref="p8014" cert="high">Petri</persName> hospitem<note xml:id="fn16" type="footnote" n="16">Unbekannt.</note>; tandem Iohannem, fratrem tuum, quem ut eque omnes deus ille optimus maximus provideat atque defendat a malis rusticis, malis dico; bonorum enim haud ingens<pb type="edition" next="150"/> numerus<note xml:id="fn17" type="footnote" n="17">Johannes Bullinger war an der Frühjahrssynode 1535 gerügt worden, weil er gegenüber einem Bauern handgreiflich geworden war (Zürich StA, E III, 194).</note>.</s>
 					<s n="20" xml:lang="la" type="auto">Postremo, sicuti sepe dixi, verum et nunc dico, fidei et caritati tue me ipsum commendo, charissime frater.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Ex <placeName>Biela</placeName>, 13. aperilis anno 37.</s>
+					<s n="21" xml:lang="la" type="auto">Ex <placeName ref="l49" cert="high">Biela</placeName>, 13. aperilis anno 37.</s>
 				</p>
 				<p>
-					<s n="22" xml:lang="la" type="auto"><persName>Petrus</persName> tuus.</s>
+					<s n="22" xml:lang="la" type="auto"><persName ref="p8014" cert="high">Petrus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

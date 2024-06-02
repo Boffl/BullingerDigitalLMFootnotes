@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12765" type="Brief" source="TUSTEP" n="2718">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12765" type="Brief" source="TUSTEP-18" n="2718">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 17. Dezember 1546</title>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel an Heinrich Bullinger, 17. Dezember 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,7 +21,7 @@
 					<s n="3" xml:lang="la" type="auto">Voluntas mihi non defuit, si parem habuissem dicendi facultatem.</s>
 					<s n="4" xml:lang="la" type="auto">Sed iuvabit extare quomodocunque scriptam istius exempli memoriam.</s>
 					<s n="5" xml:lang="la" type="auto">Si vita longior contingat, non negligam aliam oportunitatem.</s>
-					<s n="6" xml:lang="la" type="auto">Sed vereor, ne prius opprimamur omnes vel cladibus ecclesiae confecti vel crudelitate perditissimi tyranni<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> laniati.</s>
+					<s n="6" xml:lang="la" type="auto">Sed vereor, ne prius opprimamur omnes vel cladibus ecclesiae confecti vel crudelitate perditissimi tyranni<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538" cert="high">Karl V.</persName></note> laniati.</s>
 					<s n="7" xml:lang="la" type="auto">Audio illum occupare praecipu[a]s imperii civitates, accipere nova auxilia ex Italia, moliri denique crudelissima.</s>
 					<s n="8" xml:lang="la" type="auto">Victoria nobis erit expectanda de coelo, alioqui viribus humanis nimium sumus labefactati.</s>
 					<s n="9" xml:lang="la" type="auto">Nuper accepi ex Sancto Gallo tyrannum ipsum esse vita defunctum, quod quia non video postea alicuius gravioris sententiae autoritate confirmatum, arbitror fuisse vanum rumorem.</s>
@@ -46,7 +46,7 @@
 					<s n="14" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 17. decembris 1546.</s>
+					<s n="15" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, 17. decembris 1546.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
@@ -54,7 +54,7 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="17" xml:lang="la" type="auto"><ptr target="zzlzl16407-1A" type="zzl"/>Literas, quas mitto, accepi ex Venetiis ad te a quodam Italo<note xml:id="fn6" type="footnote" n="6">Altieri. Nicht zu verstehen ist vermutlich: accepi a quodam Italo literas ad te, sondern eher: accepi literas ad te a quodam Italo. Mit dem Brief ist wohl <ref target="file11679">Nr. 1636</ref> 0 vom 13. November gemeint.</note>, de quo plura coram deo volente<ptr target="zzlzl16407-1E" type="zzl"/>.</s>
+					<s n="17" xml:lang="la" type="auto"><ptr target="zzlzl16407-1A" type="zzl"/>Literas, quas mitto, accepi ex Venetiis ad te a quodam Italo, de quo plura coram deo volente<ptr target="zzlzl16407-1E" type="zzl"/>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

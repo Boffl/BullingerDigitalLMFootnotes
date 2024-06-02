@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11062" type="Brief" source="HBBW" n="1020">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11062" type="Brief" source="HBBW-7" n="1020">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Dominik Zili / [St. Gallen] AN Heinrich Bullinger, 11. Juli [1537]</title>
+				<title subtype="file">Dominik Zili / [St. Gallen] an Heinrich Bullinger, 11. Juli [1537]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,7 +23,7 @@
 					<s n="3" xml:lang="la" type="auto">Sit venia verbo, sunt etenim et piae confabulationes.</s>
 					<s n="4" xml:lang="la" type="auto">Distulisti quidem diu tuarum litterarum desideratissimam comunionem, sed non citra usuram.</s>
 					<s n="5" xml:lang="la" type="auto">Quare quid tibi rependam, amice dilectissime, non habeo.</s>
-					<s n="6" xml:lang="la" type="auto">Hoc tantum mihi relictum est, ut te tuique similes domino quantuliscunque precibus nostris commendemus, quo faxit vos in sui nominis gloriam excrescere, vestri autem, quod carnem spectat, detrimentum; erimus enim, ut nosti, magni, si in hoc sęculo peripsima<note xml:id="fn4" type="footnote" n="4"><foreign xml:lang="el">περίπσημα</foreign>, Unrat.</note> et mundo<note xml:id="fn5" type="footnote" n="5">Vgl. 1Kor 4, 13; auch Joh 3, 30.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Hoc tantum mihi relictum est, ut te tuique similes domino quantuliscunque precibus nostris commendemus, quo faxit vos in sui nominis gloriam excrescere, vestri autem, quod carnem spectat, detrimentum; erimus enim, ut nosti, magni, si in hoc sęculo peripsima<note xml:id="fn4" type="footnote" n="4"><foreign xml:lang="el">περίπσημα</foreign>, Unrat.</note> et mundo<note xml:id="fn5" type="footnote" n="5">Vgl. <cit type="bible"><ref>1Kor 4, 13</ref></cit>; auch Joh 3, 30.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Videbar mihi (citra assentationem loquor) cornucopiae<note xml:id="fn6" type="footnote" n="6"><bibl>Otto</bibl> 94, Nr. 441.</note> appręhendisse; ut enim iocundissime variegata est s[anctorum] apostolorum dictio, ita et tua scholia, ut sint multimemora oportet eorum sane, quae sacra scriptura alibi commemorat.</s>
 					<s n="8" xml:lang="la" type="auto">Aliud enim non decet theologi fidelis esse paraphrases, quam sacrarum litterarum decentem et commodam compositionem.</s>
 					<s n="9" xml:lang="la" type="auto">Commodum etiam se nobis liber ille obtulit, cum iam in ęcclesia nostra nobis (licet ad hanc provinciam imparibus) necesse sit ex apostolorum aepistolis admonere; si quid mea opella profecerit, ministrante hac sancto spiritu, ad ęcclesię sanctimoniam eris tu quoque non postremo consors.</s>
@@ -36,17 +36,17 @@
 					<s n="14" xml:lang="la" type="auto">Scis enim, quot nos infestare queant contagia et gregi Christi obesse; quare sane oportet et vos nobiscum sedulo procurare, ut quam diligentissime custodiatur atque aliquando in sanctam, innocentem et immaculatam sponsam Christi, eius domini nostri, emergat, consummante hoc domini gratia, cui velitis nos, charissimi fratres, enixe efflagitationibus vestris insinuare.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Velis quoque <persName ref="p2305">Leonem Iudę</persName> meo nomine salutare meque ei, viro iam pene emerito, diligenter commendare, cui pręstet deus optimus maximus usque ad decrepitam fortem et homini pio dignam muneris absolutionem.</s>
+					<s n="15" xml:lang="la" type="auto">Velis quoque <persName ref="p1753" cert="high">Leonem Iudę</persName> meo nomine salutare meque ei, viro iam pene emerito, diligenter commendare, cui pręstet deus optimus maximus usque ad decrepitam fortem et homini pio dignam muneris absolutionem.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Vale in Christo Iesu, et me in albo amicorum tuorum habe postremum, obsecro.</s>
-					<s n="17" xml:lang="la" type="auto">Salutant te <persName>Furtmüllerus</persName> et cęteri fratres, et mihi servias, rogo, salutando fratrem meum uterinum una cum tota domo.</s>
+					<s n="17" xml:lang="la" type="auto">Salutant te <persName ref="p8083" cert="high">Furtmüllerus</persName> et cęteri fratres, et mihi servias, rogo, salutando fratrem meum uterinum una cum tota domo.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la" type="auto">11. iulii anni 1537.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto"><persName>Dominicus Zili</persName> tuus, si daretur, amicus integer.</s>
+					<s n="19" xml:lang="la" type="auto"><persName ref="p4107" cert="high">Dominicus Zili</persName> tuus, si daretur, amicus integer.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>

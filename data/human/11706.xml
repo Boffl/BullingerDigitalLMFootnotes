@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11706" type="Brief" source="VBS" n="1257">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11706" type="Brief" source="VBS-6" n="1257">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 19. September 1542</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 19. September 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

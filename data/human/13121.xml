@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13121" type="Brief" source="TUSTEP" n="3072">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13121" type="Brief" source="TUSTEP-20" n="3072">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, [7.] November 1547</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, [7.] November 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Tua omnnia accepi bona fide et omnia obiter perlecta hocce nostro tabellione remitto magna cum gratiarum actione.</s>
+					<s n="2" xml:lang="la" type="auto">Tua omnnia accepi bona fide et omnia obiter perlecta hocce nostro tabellione<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> remitto magna cum gratiarum actione.</s>
 					<s n="3" xml:lang="la" type="auto">Tuis vero e literis, quid sentias et quid tibi factu optimum videatur in his tam diris turbis rerum ac periculorum, satis clare intellexi.</s>
 				</p>
 			</div>
@@ -44,7 +44,7 @@
 					<s n="10" xml:lang="la" type="auto">S. Galli, postridie nonarum novembrium anno 1547.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto"><persName>Ioachimus Vadianus</persName>.</s>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p8049" cert="high">Ioachimus Vadianus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

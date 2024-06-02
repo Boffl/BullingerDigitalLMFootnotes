@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11549" type="Brief" source="CO" n="304">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11549" type="Brief" source="CO-XI" n="304">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Pierre Viret / Genf AN Heinrich Bullinger, 27. April [1541]</title>
+				<title subtype="file">Pierre Viret / Genf an Heinrich Bullinger, 27. April [1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

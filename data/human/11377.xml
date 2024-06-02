@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11377" type="Brief" source="HBBW" n="1334">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11377" type="Brief" source="HBBW-9" n="1334">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 8. Dezember 1539</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Joachim Vadian (von Watt), 8. Dezember 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam in domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Ab ea hora, qua petebas, <persName>Vadiane</persName> doctissime, de matrimoniis rite contrahendis scriberem<note xml:id="fn1" type="footnote" n="1">Die Rede ist offenbar von Bullingers Buch "Der christliche Ehestand" (<bibl>HBBibl</bibl> I 129), das im Februar 1540 erschien. Von einer entsprechenden Aufforderung <persName>Vadians</persName> ist sonst nichts bekannt.</note>, nunquam desii inquirere, quid commode et pie ea de re dici possit, et reperio copiosissimam materiam, sed multis difficultatibus implicatissimam.</s>
+					<s n="2" xml:lang="la" type="auto">Ab ea hora, qua petebas, <persName ref="p8049" cert="high">Vadiane</persName> doctissime, de matrimoniis rite contrahendis scriberem<note xml:id="fn1" type="footnote" n="1">Die Rede ist offenbar von Bullingers Buch "Der christliche Ehestand" (<bibl>HBBibl</bibl> I 129), das im Februar 1540 erschien. Von einer entsprechenden Aufforderung <persName ref="p8049" cert="high">Vadians</persName> ist sonst nichts bekannt.</note>, nunquam desii inquirere, quid commode et pie ea de re dici possit, et reperio copiosissimam materiam, sed multis difficultatibus implicatissimam.</s>
 					<s n="3" xml:lang="la" type="auto">Video doctos pleraque dissimulare et transire intacta.</s>
 					<s n="4" xml:lang="la" type="auto">Quae de gradibus prohibitis in lege repererim, hic tibi exhibeo in hoc, ut legas et, quae monenda viderentur, adiungas, hocque ipsum exemplar primo quoque tempore remittas; apographum enim non habeo et hoc exemplar expecto.</s>
 				</p>

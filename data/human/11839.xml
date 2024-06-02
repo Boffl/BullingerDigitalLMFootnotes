@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11839" type="Brief" source="HBBW" n="1793">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11839" type="Brief" source="HBBW-13" n="1793">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Matthias Erb, 2. Oktober 1543</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Matthias Erb, 2. Oktober 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,13 +19,13 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Qui hasce tibi fert, iuvenis Vuilpertus <persName>Zollerus</persName>, honestissima satus familia, aulam principis vestri<note xml:id="fn2" type="footnote" n="2">Graf <persName>Georg von Württemberg</persName>.</note> ambit ac cupit famulitio accenseri principis.</s>
+					<s n="2" xml:lang="la" type="auto">Qui hasce tibi fert, iuvenis Vuilpertus <persName ref="p7197" cert="high">Zollerus</persName>, honestissima satus familia, aulam principis vestri<note xml:id="fn2" type="footnote" n="2">Graf <persName ref="p8098" cert="high">Georg von Württemberg</persName>.</note> ambit ac cupit famulitio accenseri principis.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">Nec aliud spectat familia eius, quam ut honeste educetur inter optimos.</s>
 					<s n="4" xml:lang="la" type="auto">Placent principis mores sancti, aula temperans, religio integra.</s>
 					<s n="5" xml:lang="la" type="auto">Ubi aliquot annis servierit principi, revocabitur aut, si placuerit principi iuvenis obsequium, diutius illi servire placebit.</s>
-					<s n="6" xml:lang="la" type="auto">Duo ergo abs te peto: Prius, ut iuves, quo recipiatur a principe, iuves autem vel apud ipsum principem vel d. Trugseß<note xml:id="fn3" type="footnote" n="3"><persName>Hans Henman Truchsess von Rheinfelden</persName>, Vogt zu <placeName>Reichenweier</placeName>; vgl. unten <ref target="file11852">Nr. 1806</ref>, Z. 5 mit Anm. 8.</note> aut alios viros nobiles.</s>
+					<s n="6" xml:lang="la" type="auto">Duo ergo abs te peto: Prius, ut iuves, quo recipiatur a principe, iuves autem vel apud ipsum principem vel d. Trugseß<note xml:id="fn3" type="footnote" n="3"><persName ref="p17986" cert="high">Hans Henman Truchsess von Rheinfelden</persName>, Vogt zu <placeName ref="l411" cert="high">Reichenweier</placeName>; vgl. unten <ref target="file11852">Nr. 1806</ref>, Z. 5 mit Anm. 8.</note> aut alios viros nobiles.</s>
 					<s n="7" xml:lang="la" type="auto">Posterius, ut receptum semper instituas in pietate, retrahas, si luxus crimini per consortium atque contagium velit esse obnoxius.</s>
 				</p>
 				<p>
@@ -36,28 +36,28 @@
 				<p>
 					<s n="11" xml:lang="la" type="auto">Res nostrae in turbis istis periculosissimis bene satis habent, deo gratia.</s>
 					<s n="12" xml:lang="la" type="auto">Ecclesia nostra est tranquilla.</s>
-					<s n="13" xml:lang="la" type="auto">Galli signa opido pauci ex urbe et agro sequuti graviter mulctati sunt a magistratu, qui mercenariam militiam gravi aedicto prohibuit<note xml:id="fn5" type="footnote" n="5">Zum Mandat gegen den Reislauf vom 25. November 1542 s. <bibl>HBBW</bibl> XII <ref target="file11743">[Nr. 1698]</ref>, S. 260, Anm. 10. Akten zu einigen Verfahren gegen Reisläufer aus dem Jahr 1543 finden sich in Zürich StAA 166. 2, <ref target="file10158">Nr. 127</ref>. 143. 145. 147-157.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Galli signa opido pauci ex urbe et agro sequuti graviter mulctati sunt a magistratu, qui mercenariam militiam gravi aedicto prohibuit.</s>
 					<s n="14" xml:lang="la" type="auto">Gravia et periculosa sunt tempora, sed novit deus pios e tentatione<pb type="edition" next="273"/> cum Loth, Noe, Abraham, Ieremia et apostolis educere, impios in iuditium servare puniendos.</s>
 					<s n="15" xml:lang="la" type="auto">Hortemur ergo omnes fidei nostrae concreditos ad pietatis studium.</s>
 					<s n="16" xml:lang="la" type="auto">Hoc suppeditabit consilia in consultationibus, vires in tentationibus, tandem et felicem exitum.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" type="auto">Dominus Iesus servet te cum tuis omnibus.</s>
-					<s n="18" xml:lang="la" type="auto">Salutabis charissimum d. <persName>Nicolaum Regium</persName><note xml:id="fn6" type="footnote" n="6"><persName>Nikolaus König</persName>.</note> ac reliquos fratres.</s>
+					<s n="18" xml:lang="la" type="auto">Salutabis charissimum d. <persName ref="p8088" cert="high">Nicolaum Regium</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8088" cert="high">Nikolaus König</persName>.</note> ac reliquos fratres.</s>
 				</p>
 				<p>
 					<s n="19" xml:lang="la" type="auto">Tiguri, 2. octobris anno 1543.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">Salutat te d. <persName>Megander</persName> dilectus compater<note xml:id="fn7" type="footnote" n="7"><persName>Megander</persName> war seit dem 27. März dieses Jahres Pate von Bullingers Tochter Veritas; s. <bibl>HBD</bibl> 32, 1-3.</note> una cum reliquis fratribus.</s>
+					<s n="20" xml:lang="la" type="auto">Salutat te d. <persName ref="p8412" cert="high">Megander</persName> dilectus compater<note xml:id="fn7" type="footnote" n="7"><persName ref="p8412" cert="high">Megander</persName> war seit dem 27. März dieses Jahres Pate von Bullingers Tochter Veritas; s. <bibl>HBD</bibl> 32, 1-3.</note> una cum reliquis fratribus.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto"><persName>Voglerum</persName> imprimis salutabis et habebis commendatum.</s>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p8071" cert="high">Voglerum</persName> imprimis salutabis et habebis commendatum.</s>
 					<s n="22" xml:lang="la" type="auto">H. Bullingerus tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="23" xml:lang="la" type="auto">Praestantissimo viro d. <persName ref="p7512">Matthiae Erbio</persName> Rychenvillae Christum docenti apud illustrissimum principem et comitem Wirtembergensem, domino et fratri tum colendo tum dilecto.</s>
+					<s n="23" xml:lang="la" type="auto">Praestantissimo viro d. <persName ref="p1010" cert="high">Matthiae Erbio</persName> Rychenvillae Christum docenti apud illustrissimum principem et comitem Wirtembergensem, domino et fratri tum colendo tum dilecto.</s>
 				</p>
 			</div>
 		</body>

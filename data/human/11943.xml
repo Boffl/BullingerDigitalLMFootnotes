@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11943" type="Brief" source="GR" n="52">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11943" type="Brief" source="GR-I" n="52">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes (Gian) Travers / Zuoz AN Heinrich Bullinger, 20. April 1544</title>
+				<title subtype="file">Johannes (Gian) Travers / Zuoz an Heinrich Bullinger, 20. April 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,7 +24,7 @@
 					<s n="6" xml:lang="la" type="auto">Verum Vitus ille, cuius sumus tui gratia aliquo tempore opera usi, vino sepissime obruitur ac mores admodum incompositos pre se fert, crescenti iuventuti maxime damnosos, de quibus exacte Comander te certiorem fecit.</s>
 					<s n="7" xml:lang="la" type="auto">Hiis moti dydascali munus Vito ipsi abdicavimus; eapropter bono successore egemus.</s>
 					<s n="8" xml:lang="la" type="auto">Iuva, ut soles omnes.</s>
-					<s n="9" xml:lang="la" type="auto">Commentarios in <persName>Ioannem</persName> et Matheum tuos a typographo liberabit presencium lator, scole nostre yconomus, quem tibi ex corde com(m)e(n)do.</s>
+					<s n="9" xml:lang="la" type="auto">Commentarios in <persName ref="p8312" cert="high">Ioannem</persName> et Matheum tuos a typographo liberabit presencium lator, scole nostre yconomus, quem tibi ex corde com(m)e(n)do.</s>
 					<s n="10" xml:lang="la" type="auto">Vale.</s>
 					<s n="11" xml:lang="la" type="auto">Filium pro tum consuetudinis humanitate interdum bonis hortamentis ad litteras invitare perge.</s>
 					<s n="12" xml:lang="la" type="auto">Iterum vale.</s>

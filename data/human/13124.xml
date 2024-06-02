@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13124" type="Brief" source="HBBW" n="3075">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13124" type="Brief" source="HBBW-20" n="3075">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johann Leopold (Lüpold) Frey / Biel AN Heinrich Bullinger, 13. November 1547</title>
+				<title subtype="file">Johann Leopold (Lüpold) Frey / Biel an Heinrich Bullinger, 13. November 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,9 +23,9 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="la" type="auto">Paucis accipe: Quum legerem et in locos communes<note xml:id="fn1" type="footnote" n="1"><persName>Frey</persName> erstellte offenbar "Loci communes", d.h. eine Sammlung von Notizen zu theologischen Hauptbegriffen. In <bibl>HBBW</bibl> XIX 117 ist z.B. seine Beschäftigung mit dem Thema "Habgier" belegt.</note> digererem caput Geneseos 29., in <persName>Iacobi</persName> connubia incidens mecum coepi cogitare (quum illi<note xml:id="fn2" type="footnote" n="2">Gemeint sind die Patriarchen (zu denen auch <persName>Jakob</persName> zählte), in deren Herzen (obwohl sie vor der Gesetzgebung durch Moses lebten) Gottes Gesetz bereits eingeprägt gewesen sein soll; vgl. Röm 4; Gal 3.</note>, quam scripturę tradunt, legem cordibus habuerint insculptam), rectene an secus egerit <persName>Iacob</persName>, quod filias<note xml:id="fn3" type="footnote" n="3">Lea und Rachel.</note> patrui<note xml:id="fn4" type="footnote" n="4">Laban. - Als Bruder von <persName>Jakobs</persName> Mutter Rebekka wäre er eher als "avunculus" zu bezeichnen.</note> sui duxit.</s>
-					<s n="5" xml:lang="la" type="auto">Contuli Levit. 18.<note xml:id="fn5" type="footnote" n="5">Wo die verbotenen Geschlechtsbeziehungen aufgelistet werden, jedoch im Falle von Cousinen und Cousins nichts vorgeschrieben wird.</note> et ea, quae in libello de matrimonio tu edidisti,<note xml:id="fn6" type="footnote" n="6">Gemeint ist Bullingers Schrift "Der christlich eestand", die 1540 zum ersten Mal erschienen war (<bibl>VD16</bibl> B9578). Zu einer Neuausgabe des Werks kam es erst 1548 (<bibl>VD16</bibl> B9579).<ptr target="zfnfn17341-1" type="zfn"/></note> et quo magis me explicitum iri sperabam, hoc magis implicitus subinde reddebar.</s>
-					<s n="6" xml:lang="la" type="auto">Habet enim Leviticus sicut et tu ex illo: „Ne ducat vel habeat vir uxoris suę sororis filiam“; verum quod <persName>Iacob</persName> fecit, non inhibetur (ut scilicet vir ducat vel patrui vel materterę vel etiam avunculi sui filiam).</s>
+					<s n="4" xml:lang="la" type="auto">Paucis accipe: Quum legerem et in locos communes<note xml:id="fn1" type="footnote" n="1"><persName ref="p8082" cert="high">Frey</persName> erstellte offenbar "Loci communes", d.h. eine Sammlung von Notizen zu theologischen Hauptbegriffen. In <bibl>HBBW</bibl> XIX 117 ist z.B. seine Beschäftigung mit dem Thema "Habgier" belegt.</note> digererem caput Geneseos 29., in <persName ref="p8129" cert="high">Iacobi</persName> connubia incidens mecum coepi cogitare (quum illi<note xml:id="fn2" type="footnote" n="2">Gemeint sind die Patriarchen (zu denen auch <persName ref="p8129" cert="high">Jakob</persName> zählte), in deren Herzen (obwohl sie vor der Gesetzgebung durch Moses lebten) Gottes Gesetz bereits eingeprägt gewesen sein soll; vgl. <cit type="bible"><ref>Röm 4</ref></cit>; <cit type="bible"><ref>Gal 3</ref></cit>.</note>, quam scripturę tradunt, legem cordibus habuerint insculptam), rectene an secus egerit <persName ref="p8129" cert="high">Iacob</persName>, quod filias<note xml:id="fn3" type="footnote" n="3">Lea und Rachel.</note> patrui<note xml:id="fn4" type="footnote" n="4">Laban. - Als Bruder von <persName ref="p8129" cert="high">Jakobs</persName> Mutter Rebekka wäre er eher als "avunculus" zu bezeichnen.</note> sui duxit.</s>
+					<s n="5" xml:lang="la" type="auto">Contuli Levit. 18.<note xml:id="fn5" type="footnote" n="5">Wo die verbotenen Geschlechtsbeziehungen aufgelistet werden, jedoch im Falle von Cousinen und Cousins nichts vorgeschrieben wird.</note> et ea, quae in libello de matrimonio tu edidisti,<note xml:id="fn6" type="footnote" n="6">Gemeint ist Bullingers Schrift "Der christlich eestand", die 1540 zum ersten Mal erschienen war (<bibl>VD16 B9578</bibl>). Zu einer Neuausgabe des Werks kam es erst 1548 (<bibl>VD16 B9579</bibl>).<ptr target="zfnfn17341-1" type="zfn"/></note> et quo magis me explicitum iri sperabam, hoc magis implicitus subinde reddebar.</s>
+					<s n="6" xml:lang="la" type="auto">Habet enim Leviticus sicut et tu ex illo: „Ne ducat vel habeat vir uxoris suę sororis filiam“; verum quod <persName ref="p8129" cert="high">Iacob</persName> fecit, non inhibetur (ut scilicet vir ducat vel patrui vel materterę vel etiam avunculi sui filiam).</s>
 					<s n="7" xml:lang="la" type="auto">Quęsivi diu, si fortasse (ut loquuntur) implicite ista prohibentur, sed nec ego inveni, nec fratres mihi potuerunt indicare.</s>
 				</p>
 			</div>
@@ -40,21 +40,21 @@
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="12" xml:lang="la" type="auto">Iam cum non dubitem divinum spiritum per Mosem leges coniugii necessarias plene tradidisse (sive verbis apertis, sive ita, ut ex uno vel pluribus cętera facile per se sequantur), neque quicquam oblitum esse, quod necessarium sit, nihil aliud quam hęreo et, quomodo ista explicari debeant, circumspecto, nec aliis libenter hac (ut fortasse est) frivola quaestione molestus nec etiam libenter solutionis ignarus.</s>
-					<s n="13" xml:lang="la" type="auto">Tu, si vacat, tuam super hac re mihi sententiam communica, et quamvis non dubitem tibi ridiculam quaestiunculam fore, non tamen rideri gravabor, dummodo erudiri contingat.<note xml:id="fn9" type="footnote" n="9">Bullinger versuchte, dieser Frage mit einer unzutreffenden Antwort auszuweichen; s. <ref target="file13136">Nr. 3087</ref>,<ptr target="qvzl17354-1" type="qv"/>. Den Grund dafür findet man aaO, <ptr target="qvfn17354-2" type="qv"/>. Auch in der 1548 erschienenen Ausgabe von Bullingers "Christlich Eestand" (s. dazu oben <ptr target="qvfn17341-1" type="qv"/>) wurde diesbezüglich nichts hinzugefügt oder geändert.</note></s>
+					<s n="13" xml:lang="la" type="auto">Tu, si vacat, tuam super hac re mihi sententiam communica, et quamvis non dubitem tibi ridiculam quaestiunculam fore, non tamen rideri gravabor, dummodo erudiri contingat.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="14" xml:lang="la" type="auto">Salutat te tuosque mea fidelissima,<note xml:id="fn10" type="footnote" n="10"><persName>Freys</persName> Gattin ist namentlich unbekannt.</note> necnon amici pariter omnes.</s>
+					<s n="14" xml:lang="la" type="auto">Salutat te tuosque mea fidelissima,<note xml:id="fn10" type="footnote" n="10"><persName ref="p8082" cert="high">Freys</persName> Gattin ist namentlich unbekannt.</note> necnon amici pariter omnes.</s>
 					<s n="15" xml:lang="la" type="auto">Saluta nomine meo tuos.</s>
 					<s n="16" xml:lang="la" type="auto">Vale felix.</s>
-					<s n="17" xml:lang="la" type="auto"><placeName>Biellnis</placeName>, idibus novembris 1547.</s>
-					<s n="18" xml:lang="la" type="auto">Totus ex animo tuus <persName>Io. Leopoldus Fry</persName>.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName ref="l49" cert="high">Biellnis</placeName>, idibus novembris 1547.</s>
+					<s n="18" xml:lang="la" type="auto">Totus ex animo tuus <persName ref="p8082" cert="high">Io. Leopoldus Fry</persName>.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="19" xml:lang="la" type="auto">Alo nunc filium <persName>Heinrychi Kammerarii</persName>, praefecti quondam in arce Lentzburg, nunc in vicinia nostra Nydow, quem (cum apud te essem) saepius te invitasse memini.</s>
+					<s n="19" xml:lang="la" type="auto">Alo nunc filium <persName ref="p18015" cert="high">Heinrychi Kammerarii</persName>, praefecti quondam in arce Lentzburg, nunc in vicinia nostra Nydow, quem (cum apud te essem) saepius te invitasse memini.</s>
 					<s n="20" xml:lang="la" type="auto">Is<note xml:id="fn14" type="footnote" n="14">Gemeint ist der Vater.</note> te plurimum salvere iubet.<pb type="edition" next="660"/></s>
 				</p>
 				<p>

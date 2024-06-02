@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10838" type="Brief" source="HBBW" n="799">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10838" type="Brief" source="HBBW-6" n="799">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Benedikt Kromer / Basel AN Heinrich Bullinger, 18. April 1536</title>
+				<title subtype="file">Benedikt Kromer / Basel an Heinrich Bullinger, 18. April 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,17 +16,17 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto"><persName ref="p5990">Benedictus Kromerus</persName> <placeName>Pirnensis</placeName> Henrico Bullingero, ecclesiastae Tigurino.</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p1760" cert="high">Benedictus Kromerus</persName> <placeName ref="l1567" cert="high">Pirnensis</placeName> Henrico Bullingero, ecclesiastae Tigurino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="de" type="auto">S. p. d. Lieber her Henricus Bullingher, ich habe euch eynsmals erzelet, dieweyl ich nach in Zürich was, meyns handels halben myt dem Sidicus, wie ehr mich auß zorn unerlich gescholten und doch keynen ghenuͤghen darab gehabt, sonder weyter mich gheschmehet myt etzlichenn wortenn, wye ich dieselben solt in der truckerey<note xml:id="fn2" type="footnote" n="2"><persName>Benedikt Kromer</persName> hatte im Jahr 1535 noch als Buchdruckergeselle bei <persName>Christoph Froschauer</persName> gearbeitet (vgl. Rainer <hi>Henrich,</hi> Der Brief Dietrich Bitters an Heinrich Bullinger vom 27. Oktober 1535, in: <bibl>Zwa</bibl> XVIII/4+5, 1990/1991, S. 346, sowie das Schreiben des Ehegerichtes an den Rat, 1538, in: Zürich StA, A 7.1).</note> geret haben des sacraments halben<note xml:id="fn3" type="footnote" n="3">Zur Streitsache <persName>Kromers</persName> mit <persName>Sitkust</persName> ist nichts Genaueres bekannt.</note>, dieselben wort auff sich geladen und nach seynem muͦtwyllen yn argwan ghezogen und dieselben hynder meynem rucken under eyn oberkeyt gebrocht.</s>
-					<s n="3" xml:lang="de" type="auto">Uber das alles yst ehr nyt gesettigt worden, sonder auch yn <placeName>Basel</placeName> komen und mich desselben handels weyter anghetraghen, nehmlich an Myconium, an her Marcum<note xml:id="fn6" type="footnote" n="6"><persName>Markus Bertschi</persName>.</note>, an Gastum und an den eerichter<note xml:id="fn7" type="footnote" n="7">Mit dem Eherichter meint er wohl die Institution. - Zur Zusammensetzung vgl. Adrian <hi>Staehelin,</hi> Die Einführung der Ehescheidung in <placeName>Basel</placeName> zur Zeit der Reformation, <placeName>Basel</placeName> 1957. - Basler Studien zur Rechtswissenschaft 45, S. 30.</note>, mich armen gesellen myt synem falschen, untreyen hertzen vormeynt zu vorhyndern, welches myr von etzlichen<pb type="edition" next="242"/> anghezeyghet ist worden, und ich mich gegen die frummen herren vorantwurtet habe, wies eynem erlichen gesellen zustheyt.</s>
+					<s n="2" xml:lang="de" type="auto">S. p. d. Lieber her Henricus Bullingher, ich habe euch eynsmals erzelet, dieweyl ich nach in Zürich was, meyns handels halben myt dem <persName ref="6626" type="auto_name">Sidicus</persName>, wie ehr mich auß zorn unerlich gescholten und doch keynen ghenuͤghen darab gehabt, sonder weyter mich gheschmehet myt etzlichenn wortenn, wye ich dieselben solt in der truckerey geret haben des sacraments halben<note xml:id="fn3" type="footnote" n="3">Zur Streitsache <persName ref="p1760" cert="high">Kromers</persName> mit <persName ref="p6626" cert="high">Sitkust</persName> ist nichts Genaueres bekannt.</note>, dieselben wort auff sich geladen<note xml:id="fn4" type="footnote" n="4">zu seiner Sache gemacht (vgl. <bibl>SI</bibl> III 1059).</note> und nach seynem muͦtwyllen yn argwan ghezogen und dieselben hynder meynem rucken under eyn oberkeyt gebrocht.</s>
+					<s n="3" xml:lang="de" type="auto">Uber das alles yst ehr nyt gesettigt worden, sonder auch yn <placeName ref="l28" cert="high">Basel</placeName> komen und mich desselben handels weyter anghetraghen<note xml:id="fn5" type="footnote" n="5">bezichtigt, angezeigt (<bibl>SI</bibl> XIV 496).</note>, nehmlich an <persName ref="p8418" cert="high">Myconium</persName>, an her Marcum<note xml:id="fn6" type="footnote" n="6"><persName ref="p8054" cert="high">Markus Bertschi</persName>.</note>, an Gastum und an den eerichter<note xml:id="fn7" type="footnote" n="7">Mit dem Eherichter meint er wohl die Institution. - Zur Zusammensetzung vgl. Adrian <hi>Staehelin,</hi> Die Einführung der Ehescheidung in <placeName ref="l28" cert="high">Basel</placeName> zur Zeit der Reformation, <placeName ref="l28" cert="high">Basel</placeName> 1957. - Basler Studien zur Rechtswissenschaft 45, S. 30.</note>, mich armen gesellen myt synem falschen, untreyen hertzen vormeynt zu vorhyndern<note xml:id="fn8" type="footnote" n="8">aufzuhalten (<bibl>SI</bibl> II 1419). - <persName ref="p1760" cert="high">Kromer</persName> hatte bereits am 22. Februar beim Basler Ehegericht sein Scheidungsverfahren eingeleitet (vgl. <hi>Henrich,</hi> aaO, und unten Anm. 14).</note>, welches myr von etzlichen<pb type="edition" next="242"/> anghezeyghet ist worden, und ich mich gegen die frummen herren vorantwurtet habe, wies eynem erlichen gesellen zustheyt.</s>
 					<s n="4" xml:lang="de" type="auto">Aber es vorwundert mich nicht eyn weynig, wie das eyn mensch so gar eyn falsch, ungetrew hertz yn seynem leyb mag haben, eynen falschlich zu vorraten, hynderauk, der yhn nie eyn unzüchtig wort zugesprochen habe.</s>
-					<s n="5" xml:lang="de" type="auto">War ist es, ich het mich nit sülches vorsehen<note xml:id="fn9" type="footnote" n="9">ich hätte solches nicht erwartet.</note> in Zürich, das ich sulche leut solt funden haben, die so falschlich handlen solten an ursache.</s>
-					<s n="6" xml:lang="de" type="auto">Warlich so ist es auch nicht der brauch des heyligen evangelii, das man synen negsten also vorvorteylen sol.</s>
+					<s n="5" xml:lang="de" type="auto">War ist es, ich het mich nit sülches vorsehen<note xml:id="fn9" type="footnote" n="9">ich hätte solches nicht erwartet.</note> in Zürich, das ich sulche leut solt funden haben, die so falschlich handlen solten an<note xml:id="fn10" type="footnote" n="10">ohne.</note> ursache.</s>
+					<s n="6" xml:lang="de" type="auto">Warlich so ist es auch nicht der brauch des heyligen evangelii, das man synen negsten also vorvorteylen<note xml:id="fn11" type="footnote" n="11">ihm unrecht tun (<bibl>Grimm</bibl> XII/I 2062).</note> sol.</s>
 					<s n="7" xml:lang="de" type="auto">Darumb byt ich euch, meyn herr Henrice, umb gottes willenn, yhr wolten eyn sulchen unnützen mensch underrichten, das er weyter der sachen müssig ghan; den er schendet nicht mich, sonder sich selber.</s>
-					<s n="8" xml:lang="de" type="auto">Ich byn yhn vorhoffen, ich solt meyn sache wol außtraghen sonder yhn, und wen er gleüch schon alle lyst brauchoty, so hylfft es ym nyt.</s>
-					<s n="9" xml:lang="de" type="auto">Darumb byt ich euch, yhr wöllen sulche boßheyt helffen straffen von gottes weges, des dyner yr syndt.</s>
+					<s n="8" xml:lang="de" type="auto">Ich byn yhn vorhoffen, ich solt meyn sache wol außtraghen sonder<note xml:id="fn12" type="footnote" n="12">ohne.</note> yhn, und wen er gleüch schon alle lyst brauchoty, so hylfft es ym nyt.</s>
+					<s n="9" xml:lang="de" type="auto">Darumb byt ich euch, yhr wöllen sulche boßheyt helffen straffen<note xml:id="fn13" type="footnote" n="13">maßregeln, zurechtweisen (<bibl>SI</bibl> XI 2092-2095).</note> von gottes weges, des dyner yr syndt.</s>
 					<s n="10" xml:lang="de" type="auto">Den yhr wyssend zu gutter maßen wol, das ich yn Zürich nicht anders begeret habe den das göttlich recht; und so myr das nicht hat möghen werden und sich die von Zürich keyner frembden annehmen, so mag mirs an anderen orten vorgünnet</s>
 				</p>
 				<p>
@@ -34,10 +34,10 @@
 					<s n="12" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="de" type="auto">Datum <placeName>Basileę</placeName>, anno etc. 1536, den 18. tag aprilis.</s>
+					<s n="13" xml:lang="de" type="auto">Datum <placeName ref="l28" cert="high">Basileę</placeName>, anno etc. 1536, den 18. tag aprilis.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="de" type="auto"><persName ref="p5990">Benedictus Kromer</persName>, e[wer] w[illiger].</s>
+					<s n="14" xml:lang="de" type="auto"><persName ref="p1760" cert="high">Benedictus Kromer</persName>, e[wer] w[illiger].</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

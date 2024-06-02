@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13058" type="Brief" source="HBBW" n="3009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13058" type="Brief" source="HBBW-20" n="3009">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 10. September 1547</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 10. September 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,11 +17,11 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Tantum comperi, ut, si Helvetii una cum Gallo<note xml:id="fn1" type="footnote" n="1"><persName>König Heinrich II. von Frankreich</persName>.</note> reciperent <placeName>Argentinenses</placeName> in tutelam, non essent ad hyberna cęsarem admissuri.</s>
+					<s n="2" xml:lang="la" type="auto">Tantum comperi, ut, si Helvetii una cum <persName ref="18500" type="auto_name">Gallo</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p18500" cert="high">König Heinrich II. von Frankreich</persName>.</note> reciperent <placeName ref="l492" cert="high">Argentinenses</placeName> in tutelam, non essent ad hyberna cęsarem admissuri.</s>
 					<s n="3" xml:lang="la" type="auto">Norunt enim, quod, id si fecerint, exitiale sibi futurum sit.</s>
 					<s n="4" xml:lang="la" type="auto">Clam apud nostros, qui secreta tractant,<note xml:id="fn3" type="footnote" n="3">Die Geheimen Räte in Basel.</note> negocium egi et responsum inveni valde adcommodum, nempe si illi Gallum urgerent, ut rem referret ad Confoederatos, efficatius fore.</s>
 					<s n="5" xml:lang="la" type="auto">Hactenus enim, quicquid evangelicę civitates<note xml:id="fn4" type="footnote" n="4">Basel, Bern, Schaffhausen und Zürich.</note> eiusmodi negociorum retulerint ad reliquos<note xml:id="fn5" type="footnote" n="5">Den übrigen Neun Orten der Eidgenossenschaft.</note>, suspectum fuerit, tanquam seipsos quęrerent, non bonum commune.</s>
-					<s n="6" xml:lang="la" type="auto">Consilium hoc ideo expono, ut rectius omnia apud tuos, quibus secreta sunt exponenda tuto,<note xml:id="fn6" type="footnote" n="6">Gemeint sind vor allem die beiden Zürcher Bürgermeister <persName>Johannes Haab</persName> und <persName>Hans Rudolf Lavater</persName>, wie auch <persName>Georg Müller</persName> und <persName>Itelhans Thumysen</persName>; vgl. <bibl>HBBW</bibl> XIX 27 und Anm. 90.</note> queas agere.</s>
+					<s n="6" xml:lang="la" type="auto">Consilium hoc ideo expono, ut rectius omnia apud tuos, quibus secreta sunt exponenda tuto,<note xml:id="fn6" type="footnote" n="6">Gemeint sind vor allem die beiden Zürcher Bürgermeister <persName ref="p1419" cert="high">Johannes Haab</persName> und <persName ref="p1888" cert="high">Hans Rudolf Lavater</persName>, wie auch <persName ref="p8123" cert="high">Georg Müller</persName> und <persName ref="p6793" cert="high">Itelhans Thumysen</persName>; vgl. <bibl>HBBW</bibl> XIX 27 und Anm. 90.</note> queas agere.</s>
 					<s n="7" xml:lang="la" type="auto">Quales quidem si non invenias, tutius erit omnino tacere.</s>
 					<s n="8" xml:lang="la" type="auto">Hoc est igitur, quod volo, ut inquiras clam, si quid illius defensionis possit sperari una cum Gallo, deinde ut renuncies in tempore.</s>
 					<s n="9" xml:lang="la" type="auto">Certum est, si cęsar illum nidum<note xml:id="fn7" type="footnote" n="7">Straßburg.</note> occuparit, nobis facesset negocium, si non in totum deleverit.</s>
@@ -30,22 +30,22 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="11" xml:lang="la" type="auto">Rediit ex nobilibus quidam a vobis domum, Ostheimerus<note xml:id="fn8" type="footnote" n="8"><persName>Heinrich von Ostheim</persName>, ein Basler Söldnerhauptmann; s. <bibl>AK</bibl> V 118, Anm. 1; VI 42, Anm. 1, u.ö.</note>, qui narravit iram Quinquepagicorum contra cęsaris dolos.</s>
+					<s n="11" xml:lang="la" type="auto">Rediit ex nobilibus quidam a vobis domum, Ostheimerus<note xml:id="fn8" type="footnote" n="8"><persName ref="p7702" cert="high">Heinrich von Ostheim</persName>, ein Basler Söldnerhauptmann; s. <bibl>AK</bibl> V 118, Anm. 1; VI 42, Anm. 1, u.ö.</note>, qui narravit iram Quinquepagicorum contra cęsaris dolos.</s>
 					<s n="12" xml:lang="la" type="auto">Indicato, quęso, quid rei sit.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="13" xml:lang="la" type="auto">Ex <placeName>Antwerpia</placeName> civium nostrorum quidam domum reversus certo nunciat de fuso Burensi<note xml:id="fn10" type="footnote" n="10"><persName>Maximilian von Egmont</persName>, Graf von Büren; vgl. <ref target="file13044">Nr. 2995</ref>,<ptr target="qvzl17261-1" type="qv"/>. - Ein falsches Gerücht.</note>, et addit rumorem glande periisse illum; aliter non adserit.<pb type="edition" next="471"/></s>
+					<s n="13" xml:lang="la" type="auto">Ex <placeName ref="l15" cert="high">Antwerpia</placeName> civium nostrorum quidam<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note> domum reversus certo nunciat de fuso Burensi<note xml:id="fn10" type="footnote" n="10"><persName ref="p7459" cert="high">Maximilian von Egmont</persName>, Graf von Büren; vgl. <ref target="file13044">Nr. 2995</ref>,<ptr target="qvzl17261-1" type="qv"/>. - Ein falsches Gerücht.</note>, et addit rumorem glande periisse illum; aliter non adserit.<pb type="edition" next="471"/></s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="14" xml:lang="la" type="auto">Quantaquanta pecunia est, queruntur landsknechti nihil sibi solvi; id quod fit et <placeName>Augustę</placeName>.<note xml:id="fn11" type="footnote" n="11">Vgl. <ref target="file13052">Nr. 3003</ref>, <ptr target="qvfn17270-1" type="qv"/>; <ref target="file13054">Nr. 3005</ref>,<ptr target="qvzl17272-3" type="qv"/>; <ref target="file13059">Nr. 3010</ref>,[2]. - Myconius hatte diese Nachricht aus dem im nächsten Satz erwähnten Brief <persName>Hallers</persName> erfahren.</note></s>
-					<s n="15" xml:lang="la" type="auto">Scripsit <persName>Hallerus</persName> his diebus breviter copiosas.<note xml:id="fn12" type="footnote" n="12">copiosas literas. - Der Brief war an <persName>Hieronymus Gunz</persName> gerichtet, und Myconius fertigte sich eine Teilabschrift davon an; s. <ref target="file13052">Nr. 3003</ref>, <ptr target="qvfn17270-1" type="qv"/>.</note></s>
+					<s n="14" xml:lang="la" type="auto">Quantaquanta pecunia est, queruntur landsknechti nihil sibi solvi; id quod fit et <placeName ref="l1976" cert="high">Augustę</placeName>.<note xml:id="fn11" type="footnote" n="11">Vgl. <ref target="file13052">Nr. 3003</ref>, <ptr target="qvfn17270-1" type="qv"/>; <ref target="file13054">Nr. 3005</ref>,<ptr target="qvzl17272-3" type="qv"/>; <ref target="file13059">Nr. 3010</ref>,[2]. - Myconius hatte diese Nachricht aus dem im nächsten Satz erwähnten Brief <persName ref="p8018" cert="high">Hallers</persName> erfahren.</note></s>
+					<s n="15" xml:lang="la" type="auto">Scripsit <persName ref="p8018" cert="high">Hallerus</persName> his diebus breviter copiosas.<note xml:id="fn12" type="footnote" n="12">copiosas literas. - Der Brief war an <persName ref="p5075" cert="high">Hieronymus Gunz</persName> gerichtet, und Myconius fertigte sich eine Teilabschrift davon an; s. <ref target="file13052">Nr. 3003</ref>, <ptr target="qvfn17270-1" type="qv"/>.</note></s>
 					<s n="16" xml:lang="la" type="auto">Equidem video, quod ubi cęsar est, ibi et infernum esse.</s>
-					<s n="17" xml:lang="la" type="auto">Videtur, quod in <placeName>Sodomis</placeName> non ita sit turpiter actum,<note xml:id="fn13" type="footnote" n="13">Vgl. Gen 13, 13; 18, 20; Ez 16, 49; Jud 1, 7.</note> ut agitur <placeName>Augustae</placeName> a militibus omnis generis,<note xml:id="fn14" type="footnote" n="14">Vgl. z.B. <ref target="file13027">Nr. 2978</ref>,<ptr target="qvzl17244-5" type="qv"/>.</note> ne quid dicam de pfaffis.<note xml:id="fn15" type="footnote" n="15">Vgl. <ref target="file12991">Nr. 2942</ref>,<ptr target="qvzl17207-5" type="qv"/>.</note></s>
-					<s n="18" xml:lang="la" type="auto">Timore domini et magna prudentia<note xml:id="fn16" type="footnote" n="16">Vgl. Ps 111 (Vulg. 110), 10; Spr 15, 33; 19, 23; usw.</note> opus est itaque Helvetiis nostris, si voluerint esse incolumes.</s>
+					<s n="17" xml:lang="la" type="auto">Videtur, quod in <placeName ref="l2202" cert="high">Sodomis</placeName> non ita sit turpiter actum,<note xml:id="fn13" type="footnote" n="13">Vgl. <cit type="bible"><ref>Gen 13, 13</ref></cit>; <cit type="bible"><ref>18, 20</ref></cit>; <cit type="bible"><ref>Ez 16, 49</ref></cit>; <cit type="bible"><ref>Jud 1, 7</ref></cit>.</note> ut agitur <placeName ref="l1976" cert="high">Augustae</placeName> a militibus omnis generis,<note xml:id="fn14" type="footnote" n="14">Vgl. z.B. <ref target="file13027">Nr. 2978</ref>,<ptr target="qvzl17244-5" type="qv"/>.</note> ne quid dicam de pfaffis.<note xml:id="fn15" type="footnote" n="15">Vgl. <ref target="file12991">Nr. 2942</ref>,<ptr target="qvzl17207-5" type="qv"/>.</note></s>
+					<s n="18" xml:lang="la" type="auto">Timore domini et magna prudentia<note xml:id="fn16" type="footnote" n="16">Vgl. <cit type="bible"><ref>Ps 111 (Vulg. 110), 10</ref></cit>; <cit type="bible"><ref>Spr 15, 33</ref></cit>; <cit type="bible"><ref>19, 23</ref></cit>; usw.</note> opus est itaque Helvetiis nostris, si voluerint esse incolumes.</s>
 					<s n="19" xml:lang="la" type="auto">Petit cęsar amiciciam, nonnisi ut fallat.<note xml:id="fn17" type="footnote" n="17">Bezug auf den Brief des Kaisers an die Eidgenossen vom 28. Juli; s. dazu <ref target="file13016">Nr. 2967</ref>, <ptr target="qvfn17232-2" type="qv"/>.</note></s>
 					<s n="20" xml:lang="la" type="auto">Differt enim ita nos et securos reddit, ut imparatos obruat et obprimat, qualiter et Suevis tempore fecit brumę.</s>
 					<s n="21" xml:lang="la" type="auto">Fraude et dolo refertus est, et his illudit, usque dum voti compos efficitur.</s>
@@ -61,13 +61,13 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="25" xml:lang="la" type="auto">Vale in Christo cum tuis, etc.</s>
-					<s n="26" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 10. septembris anno 1547.</s>
+					<s n="26" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 10. septembris anno 1547.</s>
 					<s n="27" xml:lang="la" type="auto">Tuus Os. Myc.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
 					<s n="28" xml:lang="la" type="auto">D. Heinricho Bullingero, viro praestantissimo, ministro Christi optimo, domino in Christo venerando suo.</s>
-					<s n="29" xml:lang="de" type="auto">Zu[m Münste]r<placeName>Züri[c]h</placeName>.</s>
+					<s n="29" xml:lang="de" type="auto">Zu[m Münste]r<placeName ref="l587" cert="high">Züri[c]h</placeName>.</s>
 				</p>
 			</div>
 		</body>

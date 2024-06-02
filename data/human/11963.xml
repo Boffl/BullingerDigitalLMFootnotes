@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11963" type="Brief" source="HBBW" n="1916">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11963" type="Brief" source="HBBW-14" n="1916">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, Konrad Pellikan (Kürschner), Theodor Bibliander (Buchmann), 21. Mai 1544</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, Konrad Pellikan (Kürschner), Theodor Bibliander (Buchmann), 21. Mai 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,12 +19,12 @@
 					<s n="1" xml:lang="la" type="auto">S. et pacem in domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Petiit a me <persName>Ioannes Fabricius</persName>, qui has reddit, ut testimonio sibi apud vos adsim pro eo tempore, quo in ędibus meis versatus est, nam ita opus se habere adseruit.</s>
-					<s n="3" xml:lang="la" type="auto">Ego qualisqualis sim coram animis vestris<note xml:id="fn2" type="footnote" n="2">Im Dezember 1544 waren die Zürcher immer noch wegen <persName>Myconius</persName> verstimmt; s. Corr. des réformateurs IX 434.</note>, quod petiit, negare non potui.</s>
+					<s n="2" xml:lang="la" type="auto">Petiit a me <persName ref="p8009" cert="high">Ioannes Fabricius</persName>, qui has reddit, ut testimonio sibi apud vos adsim pro eo tempore, quo in ędibus meis versatus est, nam ita opus se habere adseruit.</s>
+					<s n="3" xml:lang="la" type="auto">Ego qualisqualis sim coram animis vestris<note xml:id="fn2" type="footnote" n="2">Im Dezember 1544 waren die Zürcher immer noch wegen <persName ref="p8418" cert="high">Myconius</persName> verstimmt; s. Corr. des réformateurs IX 434.</note>, quod petiit, negare non potui.</s>
 					<s n="4" xml:lang="la" type="auto">Brevibus itaque dico, ne multis sim molestus.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Talem equidem reperi, qualem M. Cunhardus, d. <persName>Pellicani</persName> cognatus,<note xml:id="fn4" type="footnote" n="4"><persName>Konrad Lycosthenes</persName> war der Sohn von <persName>Pellikans</persName> Schwester, also <persName>Pellikans</persName> Neffe; s. <hi><persName>Pellikan</persName>,</hi> Chronikon 119; 162.</note> priusquam ad me reciperem, commendavit, nam illi plane hac in re tum<pb type="edition" next="244"/> inserviebam.</s>
+					<s n="5" xml:lang="la" type="auto">Talem equidem reperi, qualem <persName ref="8406" type="auto_name">M. Cunhardus</persName>, d. <persName ref="p8127" cert="high">Pellicani</persName> cognatus,<note xml:id="fn4" type="footnote" n="4"><persName ref="p8406" cert="high">Konrad Lycosthenes</persName> war der Sohn von <persName ref="p8127" cert="high">Pellikans</persName> Schwester, also <persName ref="p8127" cert="high">Pellikans</persName> Neffe; s. <hi><persName ref="p8127" cert="high">Pellikan</persName>,</hi> Chronikon 119; 162.</note> priusquam ad me reciperem, commendavit, nam illi plane hac in re tum<pb type="edition" next="244"/> inserviebam.</s>
 					<s n="6" xml:lang="la" type="auto">Bonus est, placidus, et qui vivere possit cum quovis probo sine eius molestia.</s>
 					<s n="7" xml:lang="la" type="auto">Diligentiam in literis ex praeceptoribus eius licebit cognoscere, nam ei rei ego quidem intendere aliis occupatus non valeo.</s>
 					<s n="8" xml:lang="la" type="auto">Quamvis interea dicam libere, pro ludimagistro darem, modo prius egisset ad tempus hypodidascalum.</s>
@@ -33,14 +33,14 @@
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Valete in Christo et commendatiunculam hanc boni consulite.</s>
-					<s n="12" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 21. maii anno 1544.</s>
+					<s n="12" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, 21. maii anno 1544.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto"><persName>Os. Myconius</persName> vester.</s>
+					<s n="13" xml:lang="la" type="auto"><persName ref="p8418" cert="high">Os. Myconius</persName> vester.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="14" xml:lang="la" type="auto">D. d. Heinricho Bullingero, <persName>Cunhardo Pellicano</persName> et <persName>Theodoro Bibliandro</persName>, viris undecunque doctissimis, suis in domino maioribus observandissimis.</s>
+					<s n="14" xml:lang="la" type="auto">D. d. Heinricho Bullingero, <persName ref="p8127" cert="high">Cunhardo Pellicano</persName> et <persName ref="p8171" cert="high">Theodoro Bibliandro</persName>, viris undecunque doctissimis, suis in domino maioribus observandissimis.</s>
 				</p>
 			</div>
 		</body>

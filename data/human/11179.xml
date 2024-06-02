@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11179" type="Brief" source="CO" n="121">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11179" type="Brief" source="CO-X" n="121">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Guillaume Farel, Johannes Calvin / [Basel] AN Heinrich Bullinger, [ca. 6. - 10. Juni 1538]</title>
+				<title subtype="file">Guillaume Farel, Johannes Calvin / [Basel] an Heinrich Bullinger, [ca. 6. - 10. Juni 1538]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,10 +18,10 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Quia nunc vobiscum agere coram non licet quod in primis cuperemus, confugiendum est ad id quod secundo loco restat: ut per literas summam rerum nostrarum vobis exponamus, vel saltem indicemus.</s>
-					<s n="3" xml:lang="la" type="auto">Iam ex aliis literis intellexistis, octavo demum die, postquam <placeName>Bernam</placeName> appuleramus, Cunzenum ot Erasmum eo se recepisse, qui tamen nihil diligentiae reliquum facturi videbantur.</s>
+					<s n="3" xml:lang="la" type="auto">Iam ex aliis literis intellexistis, octavo demum die, postquam <placeName ref="l41" cert="high">Bernam</placeName> appuleramus, <persName ref="p8401" cert="high">Cunzenum</persName> ot Erasmum eo se recepisse, qui tamen nihil diligentiae reliquum facturi videbantur.</s>
 					<s n="4" xml:lang="la" type="auto">Ita ex composito putavimus patientiam nostram tentari, ut si taedio fracti causam istam abiecissemus, tota culpa speciose in nos conferri posset.</s>
-					<s n="5" xml:lang="la" type="auto">Ubi advenisse illos renunciatum est, in aedes Cunzeni mox convenimus: aderant Sebastianus et Erasmus.</s>
-					<s n="6" xml:lang="la" type="auto">Hic, quod minime exspectabamus, exorsus est Cunzenus longas expostulationes, a quibus tandem ad gravissimas contumelias prosiliit.</s>
+					<s n="5" xml:lang="la" type="auto">Ubi advenisse illos renunciatum est, in aedes <persName ref="p8401" cert="high">Cunzeni</persName> mox convenimus: aderant Sebastianus et Erasmus.</s>
+					<s n="6" xml:lang="la" type="auto">Hic, quod minime exspectabamus, exorsus est <persName ref="p8401" cert="high">Cunzenus</persName> longas expostulationes, a quibus tandem ad gravissimas contumelias prosiliit.</s>
 					<s n="7" xml:lang="la" type="auto">Nos vero eiusmodi atrocitatem excepimus, quam potuimus maxima lenitate, quod videbamus nil aliud maiore vehementia nos profecturos quam quod sponte insanientem in extremam rabiem impulissemus.</s>
 					<s n="8" xml:lang="la" type="auto">Iuverunt nos etiam in eo compescendo ipsius collegae.</s>
 					<s n="9" xml:lang="la" type="auto">Post ea rogare coepit, an vellemus suam operam in negotio nostro peragendo intercedere: rationem addebat, quoniam providebat fore, si res male cederet, ut malae fidei a nobis argueretur.</s>
@@ -35,7 +35,7 @@
 					<s n="15" xml:lang="la" type="auto">Dixerunt enim expendendos articulos, qui conventui propositi a nobis fuerant et sic placuerant, ut nihil prorsus denegatum esset.</s>
 					<s n="16" xml:lang="la" type="auto">Quanquam videbamus inique iam agi nobiscum, eam tamen indignitatem dissimulanter pertulimus.</s>
 					<s n="17" xml:lang="la" type="auto">Nulla paene syllaba erat de qua non litigarent.</s>
-					<s n="18" xml:lang="la" type="auto">Inter excutiendum secundum, quo de panis genere tractabatur, Cunzenus iam non sibi temperare, sed in multa convicia prorumpere, e quibus unum duntaxat commemorabimus.</s>
+					<s n="18" xml:lang="la" type="auto">Inter excutiendum secundum, quo de panis genere tractabatur, <persName ref="p8401" cert="high">Cunzenus</persName> iam non sibi temperare, sed in multa convicia prorumpere, e quibus unum duntaxat commemorabimus.</s>
 					<s n="19" xml:lang="la" type="auto">Exprobravit enim ecclesias omnes Germaniae, quae alioqui tranquillae erant, importuna novitatis affectatione fuisse a nobis perturbatas.</s>
 				</p>
 				<p>
@@ -46,7 +46,7 @@
 					<s n="24" xml:lang="la" type="auto">Ubi se paululum recollegit, non ferendam vafritiem in eo apparere dixit, quod omnia exceptionibus plena forent.</s>
 					<s n="25" xml:lang="la" type="auto">Respondimus, nos sinceritati potius studuisse, quum apud conventum excepissemus simpliciter et aperte, quae viderentur excipienda.</s>
 					<s n="26" xml:lang="la" type="auto">Audite iam hominis impudentiam.</s>
-					<s n="27" xml:lang="la" type="auto">Non meminerat articulos unquam fuisse a nobis confectos: quando non habebamus ad manum testes quibus tam aperta vanitas refelleretur, diximus nos ad ecclesiae arbitrium provocare, paratos nos subire quamlibet infamiam, nisi ab universo consessu illi omnes articuli agnoscerentur, ex quibus <persName ref="p18198">Buzerus</persName> egisset causam nostram, ex quibus pronunciasset fratrum sententiam, quae per omnia nostris postulatis consentiebat: ac quo sitis ipsi certiores eos vobis descriptos fideliter mittimus.</s>
+					<s n="27" xml:lang="la" type="auto">Non meminerat articulos unquam fuisse a nobis confectos: quando non habebamus ad manum testes quibus tam aperta vanitas refelleretur, diximus nos ad ecclesiae arbitrium provocare, paratos nos subire quamlibet infamiam, nisi ab universo consessu illi omnes articuli agnoscerentur, ex quibus <persName ref="p467" cert="high">Buzerus</persName> egisset causam nostram, ex quibus pronunciasset fratrum sententiam, quae per omnia nostris postulatis consentiebat: ac quo sitis ipsi certiores eos vobis descriptos fideliter mittimus.</s>
 					<s n="28" xml:lang="la" type="auto">Quum nos vanitatis arguere vellet, quomodo, inquit, hoc fratrum placito convenit, quod vultis legationis nostrae testimonio ritus vestros approbari, quos fratres omnes Tiguri improbarunt?</s>
 					<s n="29" xml:lang="la" type="auto">Videtis, fratres integerrimi, nobis cum homine non fuisse negotium, tantum abest ut Christi servum in negotio tam arduo se exhibuerit.</s>
 					<s n="30" xml:lang="la" type="auto">Quum urgeretur a nobis evidentioribus argumentis quam ut elabi posset: novi, inquit, levitatem et inconstantiam vestram plus satis: nam in conventu asserebatis vos fuisse Lausannae paratos nobis in duobus cedere capitibus, in tertio duntaxat restitisse, quum illic ne tantillum quidem concedere volueritis nobis, imo ne audire quidem nos sustinuistis.</s>
@@ -60,7 +60,7 @@
 					<s n="36" xml:lang="la" type="auto">Ille tamen perfricta fronte nihilominus negare ad extremum institit.</s>
 					<s n="37" xml:lang="la" type="auto">Ergo spe omni proiecta descendimus.</s>
 					<s n="38" xml:lang="la" type="auto">Ubi ventum est in viam publicam rogavit Sebastianus an verum putaremus quod narrabatur a quibusdam, tantam esse in certis fratribus severitatem ut eos lupos vocarent et pseudoprophetas qui in locum nostrum irrepsissent: respondimus, nostrum non esse aliud de ipsis iudicium.</s>
-					<s n="39" xml:lang="la" type="auto">Ergo, inquit, eodem iure damnabimur qui eiecto Megandro hic consistimus.</s>
+					<s n="39" xml:lang="la" type="auto">Ergo, inquit, eodem iure damnabimur qui eiecto <persName ref="p8412" cert="high">Megandro</persName> hic consistimus.</s>
 					<s n="40" xml:lang="la" type="auto">Negavimus eandem esse causam, et rationes reddidimus cur non possemus de lupis illis clementius sentire.</s>
 					<s n="41" xml:lang="la" type="auto">Hinc cognoscite, qualemcunque praetextum captasse quomodo se a nobis explicaret.</s>
 				</p>
@@ -86,7 +86,7 @@
 					<s n="58" xml:lang="la" type="auto">Cognitionem ad plebem esse revocandam uterque senatus pronunciavit.</s>
 					<s n="59" xml:lang="la" type="auto">Illic tanta gravitate Ludovicus Ammanus alter legatus et Viretus, qui Erasmi ac suo nomine loquebatur, causam tractarunt, ut flecti multitudinis animi ad aequitatem viderentur: donec illis egressis unus ex praesidibus senatus articulos nostros recitare coepit, quanta potuit invidia, quibusdam etiam illi succinentibus.</s>
 					<s n="60" xml:lang="la" type="auto">Ita enim convenerat, ut illo recitante ad inflammandos plebis animos acclamarint.</s>
-					<s n="61" xml:lang="la" type="auto">Tria duntaxat habuerunt quae carperent ad conflandum nobis odium: quod ecclesiam Genevensem vocabamus nostram, quod sine praefatione honoris <placeName>Bernates</placeName> suo nomine appellaremus, quod excommunicationis faceremus mentionem.</s>
+					<s n="61" xml:lang="la" type="auto">Tria duntaxat habuerunt quae carperent ad conflandum nobis odium: quod ecclesiam Genevensem vocabamus nostram, quod sine praefatione honoris <placeName ref="l41" cert="high">Bernates</placeName> suo nomine appellaremus, quod excommunicationis faceremus mentionem.</s>
 					<s n="62" xml:lang="la" type="auto">Ecce, inquiunt, ut ecclesiam ausint vocare suam, quasi in eius possessionem iam venerint.</s>
 					<s n="63" xml:lang="la" type="auto">Ecce, ut principes ipsos superbissime contemnant.</s>
 					<s n="64" xml:lang="la" type="auto">Ecce, ut ad tyrannidem aspirent.</s>
@@ -95,11 +95,11 @@
 					<s n="67" xml:lang="la" type="auto">Valuerunt tamen illa flabella ad accendendos in rabiem omnium animos.</s>
 					<s n="68" xml:lang="la" type="auto">Decreverunt potius moriendum, quam ut ad reddendam rationem audiremur.</s>
 					<s n="69" xml:lang="la" type="auto">Articulos quidem attulerant legati, sed cum hoc mandato, ne ante ad populum promulgarent quam ipsi adessemus, quibus promptum erat tollere si quid scrupuli exortum esset.</s>
-					<s n="70" xml:lang="la" type="auto">Verum aliud fuit Cunzeni nostri consilium.</s>
-					<s n="71" xml:lang="la" type="auto">Nam clanculum illos submisit per insignem quendam proditorem cui nomen est <persName>Petro</persName> Vandelio, ne obscuris coniecturis putetis nos inniti.</s>
+					<s n="70" xml:lang="la" type="auto">Verum aliud fuit <persName ref="p8401" cert="high">Cunzeni</persName> nostri consilium.</s>
+					<s n="71" xml:lang="la" type="auto">Nam clanculum illos submisit per insignem quendam proditorem cui nomen est <persName ref="p18299" cert="high">Petro Vandelio</persName>, ne obscuris coniecturis putetis nos inniti.</s>
 					<s n="72" xml:lang="la" type="auto">Perfidia eius hac in parte manu tenetur: solus enim cum Sebastiano descriptos habebat, et Vandelius ille apud multos gloriose in via effutivit, se venenum nobis letale ferre.</s>
 					<s n="73" xml:lang="la" type="auto">Sane quo esset erga nos animo non potuit dissimulare: nam in conventu fratrum Nidonii habito sic loquutum accepimus: Deliberabat senatus ut Genevam concederem ad restituendos istos expulsos (sic enim ignominiose nuncupabat), sed potius abdicarim me ministerio et patria cesserim, quam ut illos iuvem a quibus scio me fuisse immaniter traductum.</s>
-					<s n="74" xml:lang="la" type="auto">Haec est scilicet fides vobis et ecclesiae Christi solenniter data, cuius fallendae praereptam facultatem Cunzeno putabatis.</s>
+					<s n="74" xml:lang="la" type="auto">Haec est scilicet fides vobis et ecclesiae Christi solenniter data, cuius fallendae praereptam facultatem <persName ref="p8401" cert="high">Cunzeno</persName> putabatis.</s>
 				</p>
 				<p>
 					<s n="75" xml:lang="la" type="auto">Proinde nunc tandem experimento credite, non fuisse vanum timorem quo sic apud vos consternabamur, ut ecclesiae autoritate aegerrime fuerimus inducti ad ingrediendum hunc labyrinthum.</s>
@@ -109,9 +109,9 @@
 					<s n="79" xml:lang="la" type="auto">Vae illi per quem tale scandalum excitatum est.</s>
 					<s n="80" xml:lang="la" type="auto">Vae illis potius qui simul in scelestum hoc consilium conspirarunt.</s>
 					<s n="81" xml:lang="la" type="auto">Bona pars, etsi nos incolumes stare cupiebat, quia tamen non poterat consequi quod appetebat, nisi exstincto veritatis lumine, non dubitavit ea mercede servire perversae cupiditati.</s>
-					<s n="82" xml:lang="la" type="auto">Cunzenus quia nos evertere non poterat sine ecclesiae ruina, non dubitavit illam nobisoum trahere: ac nostram quidem aedificationem videtur diruisse, hos vero solidi in Domino consistimus ac melius etiam consistemus, ubi ipse cum tota impiorum natione corruet.</s>
+					<s n="82" xml:lang="la" type="auto"><persName ref="p8401" cert="high">Cunzenus</persName> quia nos evertere non poterat sine ecclesiae ruina, non dubitavit illam nobisoum trahere: ac nostram quidem aedificationem videtur diruisse, hos vero solidi in Domino consistimus ac melius etiam consistemus, ubi ipse cum tota impiorum natione corruet.</s>
 					<s n="83" xml:lang="la" type="auto">Iam ecclesiam prorsus destitutam esse pastoribus praestiterit, quam a talibus proditoribus sub pastorum larva latitantibus occupari.</s>
-					<s n="84" xml:lang="la" type="auto">Duo enim sunt qui locum nostrum invaserunt, quorum alter gardianus <placeName>Franciscanorum</placeName> quum esset inter evangelii exordia, hostiliter semper repugnavit, donec Christum aliquando in uxoris forma contemplatus est, quam simul atque habuit secum modis omnibus corrupit.</s>
+					<s n="84" xml:lang="la" type="auto">Duo enim sunt qui locum nostrum invaserunt, quorum alter gardianus <placeName ref="l11" cert="high">Franciscanorum</placeName> quum esset inter evangelii exordia, hostiliter semper repugnavit, donec Christum aliquando in uxoris forma contemplatus est, quam simul atque habuit secum modis omnibus corrupit.</s>
 					<s n="85" xml:lang="la" type="auto">In ipso monachatu vixerat foedissime et impurissime, et sine ulla non superstitione modo, sed superstitionis simulatione.</s>
 					<s n="86" xml:lang="la" type="auto">Proinde ne videatur episcoporum ordine merito expugnandus, saepe clamat in suggestu non requiri episcopum a Paulo qui sine crimine fuerit, sed qui incipiat esse, ubi primum in eam dignitatem cooptatur.</s>
 					<s n="87" xml:lang="la" type="auto">Ex quo nomen evangelio dedit ita se gessit, ut omnibus appareat pectus Dei timore atque adeo religione omni prorsus vacuum.</s>

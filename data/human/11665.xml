@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11665" type="Brief" source="CO" n="392">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11665" type="Brief" source="CO-XI" n="392">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Guillaume Farel / Neuenburg AN s.n. / [Zürich], 19. April 1542</title>
+				<title subtype="file">Guillaume Farel / Neuenburg an s.n. / [Zürich], 19. April 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -29,7 +29,7 @@
 					<s n="11" xml:lang="la" type="auto">Admonitus unusquisque officii intellexit, quid et quo esset animo gerendum, et in quo non satis responderet vocationi.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Inter quos ego ingenue testor tantum mihi accessisse, ut meam apud me detestatus socordiam (ut alia praeteream quae audivi gemens et me deflens) quod tam procul ab eo quem depingitis essem, ut iam non de petendo procul secessu amplius cogitarim, ut prius, dum indigne ferrem quod a piis fratribus, praecipue a symmystis, iterum in has angustias coniectus fuissem, ad quas dum <placeName>Basileae</placeName> essem obsecrabam ne me rursus iniicerent, praedicens tunc eis ventura haec omnia, ut privatus in literis (a quibus me totum paene haec vocatio abduxit) vitam transigerem, nec amplius pellerer, non a pontificiis et iis qui evangelium detestantur, quod leve esset, sed, quod gravissimum est, ab iis qui evangelium profitentur.</s>
+					<s n="12" xml:lang="la" type="auto">Inter quos ego ingenue testor tantum mihi accessisse, ut meam apud me detestatus socordiam (ut alia praeteream quae audivi gemens et me deflens) quod tam procul ab eo quem depingitis essem, ut iam non de petendo procul secessu amplius cogitarim, ut prius, dum indigne ferrem quod a piis fratribus, praecipue a symmystis, iterum in has angustias coniectus fuissem, ad quas dum <placeName ref="l28" cert="high">Basileae</placeName> essem obsecrabam ne me rursus iniicerent, praedicens tunc eis ventura haec omnia, ut privatus in literis (a quibus me totum paene haec vocatio abduxit) vitam transigerem, nec amplius pellerer, non a pontificiis et iis qui evangelium detestantur, quod leve esset, sed, quod gravissimum est, ab iis qui evangelium profitentur.</s>
 					<s n="13" xml:lang="la" type="auto">Verum sic affectus fui vestra admonitione ut maioribus animi viribus esse perdurandum statuerim, invocato Domino, ut mihi ea largiretur quae vos mihi partim adesse, ex vobis ipsis me ipsum metientes, scribitis, ac quae ut praestem admonetis.</s>
 					<s n="14" xml:lang="la" type="auto">Si pro hac gratia qua usus est Dominus in me et fratres symmystas, per integritatem vestram absolutam, neglectus a vobis fuissem, ut multa quae in Dominum admisi merentur, ne dicam longe graviora, quid mihi contigisset misero?</s>
 					<s n="15" xml:lang="la" type="auto">Urebat me huius ecclesiae ruina longe magis quam si mille rotis omnia mea confringerentur ossa, et supra omnes maleficos dilaniarer.</s>

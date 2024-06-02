@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11218" type="Brief" source="HBBW" n="1175">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11218" type="Brief" source="HBBW-8" n="1175">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [nach Mitte September 1538]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [nach Mitte September 1538]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -36,10 +36,10 @@
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Saluta omnes istic mihi charissimos fratres.</s>
-					<s n="15" xml:lang="la" type="auto"><persName>Gryneus</persName> tuus.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Gryneus</persName> tuus.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto">Hunc librum Ptolomęi obsecro, ut ad <persName>Vadianum</persName> meo nomine mittas.</s>
+					<s n="16" xml:lang="la" type="auto">Hunc librum Ptolomęi obsecro, ut ad <persName ref="p8049" cert="high">Vadianum</persName> meo nomine mittas.</s>
 					<s n="17" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>

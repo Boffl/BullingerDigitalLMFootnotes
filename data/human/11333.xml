@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11333" type="Brief" source="HBBW" n="1290">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11333" type="Brief" source="HBBW-9" n="1290">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Valentin Tschudi / Glarus AN Leo Jud, Heinrich Bullinger, 23. Juli 1539</title>
+				<title subtype="file">Valentin Tschudi / Glarus an Leo Jud, Heinrich Bullinger, 23. Juli 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,10 +20,10 @@
 					<s n="2" xml:lang="la" type="manual">Amen.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">Indicabit vobis, viri doctissimi, d. <persName ref="p6051">Iodocus Kilchmeyer</persName>, communis noster frater, rem quandam mea causa, ubi vestrum consilium expeto; nam sola vestra ope levari potero.</s>
-					<s n="4" xml:lang="la" type="auto">Mirabimini forsitan in animum me induxisse, ut meos rellinquerem, cum antea tanta sedulitate pro eis apud vos intercesserim<note xml:id="fn2" type="footnote" n="2">Ein entsprechendes Schreiben <persName>Tschudis</persName> ist nicht vorhanden.</note>, quo vestra cura piis pastoribus providerentur.</s>
+					<s n="3" xml:lang="la" type="auto">Indicabit vobis, viri doctissimi, d. <persName ref="p1804" cert="high">Iodocus Kilchmeyer</persName>, communis noster frater, rem quandam mea causa, ubi vestrum consilium expeto; nam sola vestra ope levari potero.</s>
+					<s n="4" xml:lang="la" type="auto">Mirabimini forsitan in animum me induxisse, ut meos rellinquerem, cum antea tanta sedulitate pro eis apud vos intercesserim<note xml:id="fn2" type="footnote" n="2">Ein entsprechendes Schreiben <persName ref="p3206" cert="high">Tschudis</persName> ist nicht vorhanden.</note>, quo vestra cura piis pastoribus providerentur.</s>
 					<s n="5" xml:lang="la" type="auto">Patriae certe plurimum debere me fateor, quantumque in me erit, pro illius commodo impendere non pigebit.</s>
-					<s n="6" xml:lang="la" type="auto">Sed nemo interim liberos<note xml:id="fn3" type="footnote" n="3">Über <persName>Tschudis</persName> Kinder ist nichts Näheres bekannt.</note> meos respicit, quibus non haereditatem, sed victum quaero; nam ea ampla satis haereditas est, si probe educantur.</s>
+					<s n="6" xml:lang="la" type="auto">Sed nemo interim liberos<note xml:id="fn3" type="footnote" n="3">Über <persName ref="p3206" cert="high">Tschudis</persName> Kinder ist nichts Näheres bekannt.</note> meos respicit, quibus non haereditatem, sed victum quaero; nam ea ampla satis haereditas est, si probe educantur.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Quodsi mors eis me praeripuerit, non diffido dominum ipsis ut aliis quoque pupillis provisurum, sed eo usque mea in hoc requiritur opera, ut igitur, quo benevolis consuletur, in hac studiorum divisione ferendum sit capistrum verbo, quod liberum esse debebat, impositum, id vero moribus, qui tamen cohercendi erant, ademptum adeo, ut summa licentia peccetur, malum alioquin Christi zelo vere accenso intolerabile.</s>
@@ -50,11 +50,11 @@
 					<s n="22" xml:lang="la" type="auto">Ex Glarona, 23. iulii 1539.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto"><persName>Valentinus</persName> Schudus vester.</s>
+					<s n="23" xml:lang="la" type="auto"><persName ref="p3206" cert="high">Valentinus</persName> Schudus vester.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>
-					<s n="24" xml:lang="la" type="auto">Doctissimis ac summa integritate praeditis d. <persName ref="p2305">Leoni Iudae</persName> et d. Heynricho Bullingero, episcopis Tigurinis, dominis ac fratribus observandissimis.</s>
+					<s n="24" xml:lang="la" type="auto">Doctissimis ac summa integritate praeditis d. <persName ref="p1753" cert="high">Leoni Iudae</persName> et d. Heynricho Bullingero, episcopis Tigurinis, dominis ac fratribus observandissimis.</s>
 				</p>
 			</div>
 		</body>

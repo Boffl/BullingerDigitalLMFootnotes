@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11207" type="Brief" source="HBBW" n="1164">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11207" type="Brief" source="HBBW-8" n="1164">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 30. August 1538</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 30. August 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,10 +26,10 @@
 					<s n="6" xml:lang="la" type="auto">Vale cum tuis et me redamato.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 30. augusti anno 38.</s>
+					<s n="7" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 30. augusti anno 38.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Tuus <persName>Myconius</persName>.</s>
+					<s n="8" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

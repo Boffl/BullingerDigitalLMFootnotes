@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12707" type="Brief" source="HBBW" n="2660">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12707" type="Brief" source="HBBW-18" n="2660">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leonhard Serin (Soerinus) / Ulm AN Heinrich Bullinger, 5. November 1546</title>
+				<title subtype="file">Leonhard Serin (Soerinus) / Ulm an Heinrich Bullinger, 5. November 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,9 +16,9 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Gratia tibi multiplicetur<note xml:id="fn1" type="footnote" n="1">Vgl. 1Petr 1, 2.</note> per dominum nostrum Iesum Christum.</s>
-					<s n="2" xml:lang="la" type="auto">Dudum tibi rescripsissem, observandissime Bullingere, si vel commodus quispiam obtigisset nuncius vel minimum quiddam novorum scriptorum ab eo tempore, quo tuas proximas literas<note xml:id="fn2" type="footnote" n="2">Bullingers Brief vom 4. September <hi>(HBBW</hi> XVII, <ref target="file12612">Nr. 2565</ref>); s. unten Z. 19-21.</note> cum Antichristo<note xml:id="fn3" type="footnote" n="3"><persName>Rudolf <hi>Gwalther</hi></persName>, Der Endtchrist, Zürich, <persName>Froschauer</persName>, 1546 (<bibl>BZD</bibl> C 361-368); s. <bibl>HBBW</bibl> XVII 400, Anm. 7. - Bullinger hatte das Werk an <persName>Serin</persName> mit seinem Brief vom 4. September übersandt; s. <bibl>HBBW</bibl> XVII 400,7f.</note> accepi, prodiisset.</s>
-					<s n="3" xml:lang="la" type="auto">Tandem vero, etsi nihil habeam, quod mittam, non potui diutius cessare, quin tibi scriberem, maxime cum bonus ille et (ut mihi videtur) valde pius senex miles ex Stammen<note xml:id="fn5" type="footnote" n="5">Unbekannt. - In <placeName>Stammheim</placeName> (Kt. Zürich) übermittelte er vorliegenden Brief an <persName>Johannes Stumpf</persName>, welcher ihn mit einem Schreiben vom 10. November an Bullinger weiterleitete; s. <ref target="file12715">Nr. 2668</ref>,1-4.</note> ultro se mihi tabellarium offerret.</s>
+					<s n="1" xml:lang="la" type="auto">Gratia tibi multiplicetur<note xml:id="fn1" type="footnote" n="1">Vgl. <cit type="bible"><ref>1Petr 1, 2</ref></cit>.</note> per dominum nostrum Iesum Christum.</s>
+					<s n="2" xml:lang="la" type="auto">Dudum tibi rescripsissem, observandissime Bullingere, si vel commodus quispiam obtigisset nuncius vel minimum quiddam novorum scriptorum ab eo tempore, quo tuas proximas literas<note xml:id="fn2" type="footnote" n="2">Bullingers Brief vom 4. September <hi>(HBBW</hi> XVII, <ref target="file12612">Nr. 2565</ref>); s. unten Z. 19-21.</note> cum Antichristo accepi, prodiisset.</s>
+					<s n="3" xml:lang="la" type="auto">Tandem vero, etsi nihil habeam, quod mittam, non potui diutius cessare, quin tibi scriberem, maxime cum bonus ille et (ut mihi videtur) valde pius senex miles ex Stammen<note xml:id="fn5" type="footnote" n="5">Unbekannt. - In <placeName ref="l486" cert="high">Stammheim</placeName> (Kt. Zürich) übermittelte er vorliegenden Brief an <persName ref="p3067" cert="high">Johannes Stumpf</persName>, welcher ihn mit einem Schreiben vom 10. November an Bullinger weiterleitete; s. <ref target="file12715">Nr. 2668</ref>,1-4.</note> ultro se mihi tabellarium offerret.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -29,32 +29,32 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="5" xml:lang="la" type="auto">Ad tua ergo tantum paucis respondebo.</s>
-					<s n="6" xml:lang="la" type="auto">In primis autem gratias ago ingentes pro dono christianę et praeclarę lucubrationis <persName>Waltheri</persName><note xml:id="fn7" type="footnote" n="7">Siehe oben Anm. 3.</note>, mihi hoc etiam nomine acceptiore, quod in tempore obtigit tractandi modo pro concionibus posteriorem ad Thessalonicenses.<note xml:id="fn8" type="footnote" n="8">Besonders in Hinsicht auf 2Thess 2, 1-12.</note></s>
-					<s n="7" xml:lang="la" type="auto">Scias etiam <persName ref="p5074">Frechto</persName><note xml:id="fn9" type="footnote" n="9"><persName>Martin Frecht</persName>, der angesichts der hier und unten in Z. 20f gemachten Angaben etwa Mitte September von seinem Predigereinsatz in <placeName>Dillingen</placeName> wieder zurückgekehrt sein muss; s. <bibl>HBBW</bibl> XVII 286,104-106 mit Anm. 42.</note> mirum immodum <pb type="edition" next="232"/> hunc laborem probatum fuisse.</s>
-					<s n="8" xml:lang="la" type="auto">Nam, ut prius in manus ipsius quam meas errore latoris<note xml:id="fn10" type="footnote" n="10">Der Überbringer von Bullingers Brief an <persName>Serin</persName> vom 4. September war <persName>Heinrich Thomann</persName>; s. <bibl>HBBW</bibl> XVII 3991, Anm. 1.</note> (quem ignoro, quisnam fuerit) pervenit, tam avide legit, ut mihi nonnisi perlecta folia<note xml:id="fn11" type="footnote" n="11">Gemeint sind die einzelnen Lagen des noch nicht gebundenen Exemplars.</note> traderet optaretque Varnirium<note xml:id="fn12" type="footnote" n="12">Die Druckeroffizin des <persName>Hans Varnier d.Ä.</persName>: s. <bibl>Reske</bibl> 934f. - Es scheint nicht zu einem solchen Druck gekommen zu sein.</note> etiam excudere.</s>
+					<s n="6" xml:lang="la" type="auto">In primis autem gratias ago ingentes pro dono christianę et praeclarę lucubrationis <persName ref="p8011" cert="high">Waltheri</persName><note xml:id="fn7" type="footnote" n="7">Siehe oben Anm. 3.</note>, mihi hoc etiam nomine acceptiore, quod in tempore obtigit tractandi modo pro concionibus posteriorem ad Thessalonicenses.<note xml:id="fn8" type="footnote" n="8">Besonders in Hinsicht auf <cit type="bible"><ref>2Thess 2, 1-12</ref></cit>.</note></s>
+					<s n="7" xml:lang="la" type="auto">Scias etiam <persName ref="p1055" cert="high">Frechto</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p1055" cert="high">Martin Frecht</persName>, der angesichts der hier und unten in Z. 20f gemachten Angaben etwa Mitte September von seinem Predigereinsatz in <placeName ref="l1603" cert="high">Dillingen</placeName> wieder zurückgekehrt sein muss; s. <bibl>HBBW</bibl> XVII 286,104-106 mit Anm. 42.</note> mirum immodum <pb type="edition" next="232"/> hunc laborem probatum fuisse.</s>
+					<s n="8" xml:lang="la" type="auto">Nam, ut prius in manus ipsius quam meas errore latoris<note xml:id="fn10" type="footnote" n="10">Der Überbringer von Bullingers Brief an <persName ref="p8504" cert="high">Serin</persName> vom 4. September war <persName ref="p8105" cert="high">Heinrich Thomann</persName>; s. <bibl>HBBW</bibl> XVII 3991, Anm. 1.</note> (quem ignoro, quisnam fuerit) pervenit, tam avide legit, ut mihi nonnisi perlecta folia<note xml:id="fn11" type="footnote" n="11">Gemeint sind die einzelnen Lagen des noch nicht gebundenen Exemplars.</note> traderet optaretque Varnirium<note xml:id="fn12" type="footnote" n="12">Die Druckeroffizin des <persName ref="p6897" cert="high">Hans Varnier d.Ä.</persName>: s. <bibl>Reske</bibl> 934f. - Es scheint nicht zu einem solchen Druck gekommen zu sein.</note> etiam excudere.</s>
 					<s n="9" xml:lang="la" type="auto">Quid autem cum epistola actum sit, nescio.</s>
 					<s n="10" xml:lang="la" type="auto">Cum enim ignorarem, quisnam fuisset lator, non potui perdiscere.</s>
-					<s n="11" xml:lang="la" type="auto">Resignatam quippe accepi 17. septembris,<note xml:id="fn13" type="footnote" n="13">Die Umstände dieses Empfangs hatte <persName>Serin</persName> auch auf Bullingers Brief vermerkt; s. <bibl>HBBW</bibl> XVII 401, Anm. a und c.</note> quam tu scripseras eiusdem 4.</s>
+					<s n="11" xml:lang="la" type="auto">Resignatam quippe accepi 17. septembris,<note xml:id="fn13" type="footnote" n="13">Die Umstände dieses Empfangs hatte <persName ref="p8504" cert="high">Serin</persName> auch auf Bullingers Brief vermerkt; s. <bibl>HBBW</bibl> XVII 401, Anm. a und c.</note> quam tu scripseras eiusdem 4.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Ab <persName>Hallero</persName> nuncium nullum, nedum literas ullas hactenus accepi.<note xml:id="fn14" type="footnote" n="14">Vgl. nämlich <bibl>HBBW</bibl> XVII 284,54-56; 400,5f.</note></s>
-					<s n="13" xml:lang="la" type="auto"><persName ref="p5074">Frechtus</persName> te resalutari iussit.</s>
-					<s n="14" xml:lang="la" type="auto"><persName>Piscatorium</persName><note xml:id="fn15" type="footnote" n="15">Der seit Februar 1546 in <placeName>Ulm</placeName> wirkende <persName>Johannes Piscatorius (Fischer)</persName> wurde im August zum Feldprediger ernannt; s. <bibl>HBBW</bibl> XVII 286,107-111.</note> putassem ipsum per literas te resalutaturum, sed aiebat se in hisce turbis nec velle nec posse scribere.<note xml:id="fn16" type="footnote" n="16">Außer einem Brief von <persName>Piscatorius</persName> an Bullinger und dessen Kollegen aus dem Jahr 1543 <hi>(HBBW</hi> XIII 29-34, <ref target="file11754">Nr. 1709</ref>) ist kein weiteres Schreiben zwischen Bullinger und <persName>Piscatorius</persName> erhalten.</note></s>
+					<s n="12" xml:lang="la" type="auto">Ab <persName ref="p8018" cert="high">Hallero</persName> nuncium nullum, nedum literas ullas hactenus accepi.<note xml:id="fn14" type="footnote" n="14">Vgl. nämlich <bibl>HBBW</bibl> XVII 284,54-56; 400,5f.</note></s>
+					<s n="13" xml:lang="la" type="auto"><persName ref="p1055" cert="high">Frechtus</persName> te resalutari iussit.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p8344" cert="high">Piscatorium</persName><note xml:id="fn15" type="footnote" n="15">Der seit Februar 1546 in <placeName ref="l513" cert="high">Ulm</placeName> wirkende <persName ref="p8344" cert="high">Johannes Piscatorius (Fischer)</persName> wurde im August zum Feldprediger ernannt; s. <bibl>HBBW</bibl> XVII 286,107-111.</note> putassem ipsum per literas te resalutaturum, sed aiebat se in hisce turbis nec velle nec posse scribere.<note xml:id="fn16" type="footnote" n="16">Außer einem Brief von <persName ref="p8344" cert="high">Piscatorius</persName> an Bullinger und dessen Kollegen aus dem Jahr 1543 <hi>(HBBW</hi> XIII 29-34, <ref target="file11754">Nr. 1709</ref>) ist kein weiteres Schreiben zwischen Bullinger und <persName ref="p8344" cert="high">Piscatorius</persName> erhalten.</note></s>
 					<s n="15" xml:lang="la" type="auto">Mihi autem mandavit, ut suo nomine tam diligenter te resalutarem, quam tu salutaveris ipsum.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="16" xml:lang="la" type="auto">Ecclesię <placeName>Augustanę</placeName> vehementer gratulor urbi ipsius talem esse consulem<note xml:id="fn17" type="footnote" n="17">Altbürgermeister <persName>Hans Welser</persName>.</note>, qui eiusmodi scriptorem, qualis tu es, recipiat<note xml:id="fn18" type="footnote" n="18"><persName>Serin</persName> spielt auf die Widmung an <persName>Welser</persName> an <hi>(HBBW</hi> XVII 334f, <ref target="file12592">Nr. 2545</ref>), die dem Lukaskommentar von Bullinger vorangestellt wurde. Bullinger hatte diese in seinem Brief an <persName>Serin</persName> erwähnt; s. <bibl>HBBW</bibl> XVII 400f, 16.</note> invitis procul dubio multis superstitiosis sacramentariis<note xml:id="fn19" type="footnote" n="19">Gemeint sind die Lutheraner.</note>, id est iis, qui sacrosanctis sacramentis tribuunt et includunt suis opinionibus, quę nunquam nec habuerunt nec habitura sunt.</s>
+					<s n="16" xml:lang="la" type="auto">Ecclesię <placeName ref="l1976" cert="high">Augustanę</placeName> vehementer gratulor urbi ipsius talem esse consulem<note xml:id="fn17" type="footnote" n="17">Altbürgermeister <persName ref="p3927" cert="high">Hans Welser</persName>.</note>, qui eiusmodi scriptorem, qualis tu es, recipiat invitis procul dubio multis superstitiosis sacramentariis<note xml:id="fn19" type="footnote" n="19">Gemeint sind die Lutheraner.</note>, id est iis, qui sacrosanctis sacramentis tribuunt et includunt suis opinionibus, quę nunquam nec habuerunt nec habitura sunt.</s>
 					<s n="17" xml:lang="la" type="auto">Nam sacramentariorum vocabulo utor ego ea ratione, qua utimur voculis operariorum, iustitiariorum, etc.</s>
 					<s n="18" xml:lang="la" type="auto">Idque opinor rectius quam illi alii.<note xml:id="fn20" type="footnote" n="20">Zu verstehen ist: quam illi alii [diese anderen - die Lutheraner] (hoc vocabulo utuntur).</note></s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="19" xml:lang="la" type="auto">Benedictus<pb type="scan" next="62"/> dominus, qui non sinit maledicos pro sua libidine veritatem opprimere, quem et nuper in hoc Norlingę<note xml:id="fn21" type="footnote" n="21"><placeName>Nördlingen</placeName>.</note> (ubi sacramentaria superstitio cum missariis cęremoniis sub evangelio obtinuerat) excitavisse quendam ex verbi ministris audio!</s>
+					<s n="19" xml:lang="la" type="auto">Benedictus<pb type="scan" next="62"/> dominus, qui non sinit maledicos pro sua libidine veritatem opprimere, quem et nuper in hoc <placeName ref="360" type="auto_name">Norlingę</placeName><note xml:id="fn21" type="footnote" n="21"><placeName ref="l360" cert="high">Nördlingen</placeName>.</note> (ubi sacramentaria superstitio cum missariis cęremoniis sub evangelio obtinuerat) excitavisse quendam ex verbi ministris audio!</s>
 					<s n="20" xml:lang="la" type="auto">Quodsi ita est (non enim satis certo mihi constat adhuc), dominum pręcor, coeptis faveat idemque subinde in locis pluribus faciat!<pb type="edition" next="233"/></s>
 				</p>
 			</div>
@@ -63,7 +63,7 @@
 					<s n="21" xml:lang="la" type="auto">Plus spei et presidii (quod pie scribis<note xml:id="fn23" type="footnote" n="23">Vgl. <bibl>HBBW</bibl> XVII 401,29f.</note>) in precibus quam in armis esse collocandum vel excitati tandem Boemi<note xml:id="fn24" type="footnote" n="24">Zu den böhmischen Truppenbewegungen s. <ref target="file12696">Nr. 2649</ref> und Anm. 11: <ref target="file12700">Nr. 2653</ref>,27- 31; <ref target="file12701">Nr. 2654</ref>.</note> et 5 Helvetiorum vestrorum ditiones<note xml:id="fn25" type="footnote" n="25">Die Fünf katholischen Orte; s. zuletzt <ref target="file12700">Nr. 2653</ref>,6-11 und Anm. 9.</note>, ut rumor fert, nos docebunt!</s>
 					<s n="22" xml:lang="la" type="auto">Dominus custodiat nos in viis suis, utut illi visum fuerit, vel per vitam vel per mortem.</s>
 					<s n="23" xml:lang="la" type="auto">Bene vale.</s>
-					<s n="24" xml:lang="la" type="auto"><placeName>Ulmę</placeName>, 5. novembris anno, etc., 46.</s>
+					<s n="24" xml:lang="la" type="auto"><placeName ref="l513" cert="high">Ulmę</placeName>, 5. novembris anno, etc., 46.</s>
 					<s n="25" xml:lang="la" type="auto">Leonhartus Soerinus.</s>
 				</p>
 				<p>

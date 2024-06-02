@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12027" type="Brief" source="HBBW" n="1980">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12027" type="Brief" source="HBBW-14" n="1980">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Pistorius (Niddanus, Becker) d.Ä. / Frankfurt am Main AN Heinrich Bullinger, 10. September 1544</title>
+				<title subtype="file">Johannes Pistorius (Niddanus, Becker) d.Ä. / Frankfurt am Main an Heinrich Bullinger, 10. September 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -25,8 +25,8 @@
 					<s n="5" xml:lang="la" type="auto">Itaque vicissim abs te peto, ut benevolentia me tua complectare.</s>
 					<s n="6" xml:lang="la" type="auto">Fatebor autem, quod res est, me tua oratione non solum oblectatum, sed etiam confirmatum esse in hisce ęrumnis ac ecclesię miseriis, licet non minime movear alioqui imagine, qua me de omnibus ecclesię temporibus admonere soleo, beneque intuendam mihi perpetuo in omnibus periculis propono, videlicet sathanam sibi maximas accersere clades, cum acerrime pro suo regno pugnat et atrocissime sevit.</s>
 					<s n="7" xml:lang="la" type="auto">Nunquam pugnavit acrius, quam cum evertere ducem nostrum Christum ipsum conatus est, maxime autem in eo praelio succubuit, et sequuta est postea universi orbis mutacio.</s>
-					<s n="8" xml:lang="la" type="auto">Maximę rerum conversiones post Pharaonis<note xml:id="fn3" type="footnote" n="3">Vgl. Ex 1, 8-14.</note> Maxentiique furores secutę sunt, qua de re et nos quantumvis in periculosissimis temporibus melius sperare decet, quo magis crescere videtur robur diaboli tum in sycophantis<note xml:id="fn5" type="footnote" n="5">Betrüger; Adagia, 2, 3, 81 (<bibl>ASD</bibl> II/3 298, <ref target="file11324">Nr. 1281</ref>).</note> tum in tyrannis.</s>
-					<s n="9" xml:lang="la" type="auto">Licet enim ecclesia Christi nunquam in adversarios rabiosiores et impudentiores incidisse videatur, et ruinę mutacionesque imperiorum sepe duriter quassaverint ecclesiam dei, non tamen dubitandum deum optimum maximum propter filium aliqua ecclesię hospitia servaturum esse<note xml:id="fn6" type="footnote" n="6">Apk 12, 6.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Maximę rerum conversiones post Pharaonis<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>Ex 1, 8-14</ref></cit>.</note> Maxentiique furores secutę sunt, qua de re et nos quantumvis in periculosissimis temporibus melius sperare decet, quo magis crescere videtur robur diaboli tum in sycophantis<note xml:id="fn5" type="footnote" n="5">Betrüger; Adagia, 2, 3, 81 (<bibl>ASD</bibl> II/3 298, <ref target="file11324">Nr. 1281</ref>).</note> tum in tyrannis.</s>
+					<s n="9" xml:lang="la" type="auto">Licet enim ecclesia Christi nunquam in adversarios rabiosiores et impudentiores incidisse videatur, et ruinę mutacionesque imperiorum sepe duriter quassaverint ecclesiam dei, non tamen dubitandum deum optimum maximum propter filium aliqua ecclesię hospitia servaturum esse<note xml:id="fn6" type="footnote" n="6"><cit type="bible"><ref>Apk 12, 6</ref></cit>.</note>.</s>
 					<s n="10" xml:lang="la" type="auto">Interim nos nostrum officium<pb type="edition" next="390"/> modeste faciamus ac deo exitus commendemus, cui curę erit, ne funditus pereant ecclesię, quantumvis aliqua membra trucidentur.</s>
 					<s n="11" xml:lang="la" type="auto">Et fortassis ideo in Germanicis urbibus collocavit aliquot ecclesias, quę aliquanto habent tranquilliora et moderatiora imperia quam ullę alię gentes.</s>
 					<s n="12" xml:lang="la" type="auto">Sepe igitur multis modis vos beatos esse et cogito et praedico, qui et a principum negotiis plerumque insulsissimis abestis et studiis literarum sacrarum frui in illa vestrarum urbium tranquillitate potestis.</s>
@@ -48,37 +48,37 @@
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="manual">si spiritum sanctum in scriptura nulla non loco ad pacem, concordiam, unitatem et veritatem inhortantem audire detrectant!</s>
-					<s n="23" xml:lang="la" type="auto">Sed, quo rapit me impetus, ne dicam zelus domus domini<note xml:id="fn9" type="footnote" n="9">Vgl. Ps 69 (Vulg. 68), 10.</note>.</s>
+					<s n="23" xml:lang="la" type="auto">Sed, quo rapit me impetus, ne dicam zelus domus domini<note xml:id="fn9" type="footnote" n="9">Vgl. <cit type="bible"><ref>Ps 69 (Vulg. 68), 10</ref></cit>.</note>.</s>
 					<s n="24" xml:lang="la" type="auto">Utinam deus propter Christum hanc in ecclesia dissensionem tollat huicque finem semel imponat, quo pietas non solum in malis, verum etiam in piis quibusdam gravissime obleditur<note xml:id="fn10" type="footnote" n="10">oblaeditur, eigtl. obliditur.</note>!</s>
 				</p>
 				<p>
-					<s n="25" xml:lang="la" type="auto">Audio d. <persName>Bibliandrum</persName> modo prolegere publice Apocalypsim Ioannis, qui liber infirmitatem, scandala et ęrumnas ecclesię Christi graphice depingit atque simul in hisce pios gravissime consolatur.</s>
-					<s n="26" xml:lang="la" type="auto">Quare cupiunt omnes boni<pb type="edition" next="391"/> et pii apud nos, ut suas meditaciones in hunc librum <persName>Bibliander</persName> ecclesię legendas publice proponat pręlo committens, quo tamen in hisce tantis malis solatium aliquod habeat, quo per spiritum sanctum se sustentare possit.</s>
+					<s n="25" xml:lang="la" type="auto">Audio d. <persName ref="p8171" cert="high">Bibliandrum</persName> modo prolegere publice Apocalypsim Ioannis, qui liber infirmitatem, scandala et ęrumnas ecclesię Christi graphice depingit atque simul in hisce pios gravissime consolatur.</s>
+					<s n="26" xml:lang="la" type="auto">Quare cupiunt omnes boni<pb type="edition" next="391"/> et pii apud nos, ut suas meditaciones in hunc librum <persName ref="p8171" cert="high">Bibliander</persName> ecclesię legendas publice proponat pręlo committens, quo tamen in hisce tantis malis solatium aliquod habeat, quo per spiritum sanctum se sustentare possit.</s>
 				</p>
 				<p>
-					<s n="27" xml:lang="la" type="auto">Quod si omnino nolit publicare, rogo, ut meo nomine <persName>Rodolphum</persName><note xml:id="fn12" type="footnote" n="12"><persName>Rudolf Gwalther</persName>.</note> obsecres, quo meo sumptu describi procuret mihique per <persName ref="p5295">Froschouerum</persName> mittat.</s>
+					<s n="27" xml:lang="la" type="auto">Quod si omnino nolit publicare, rogo, ut meo nomine <persName ref="p8011" cert="high">Rodolphum</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p8011" cert="high">Rudolf Gwalther</persName>.</note> obsecres, quo meo sumptu describi procuret mihique per <persName ref="p1227" cert="high">Froschouerum</persName> mittat.</s>
 				</p>
 				<p>
-					<s n="28" xml:lang="la" type="auto">Adolescentes vestri eruditi et pii Martispurgum<note xml:id="fn14" type="footnote" n="14"><placeName>Marburg</placeName>, wo <persName>Johannes Pincier</persName> und zeitweise <persName>Wigand Happel</persName> wohnten.</note> post mensis spatium reliquerunt salvique et incolumes petierunt <placeName>Wittenbergam</placeName>, ut audio, deo volente vos revisuros ad festum Michaelis<note xml:id="fn15" type="footnote" n="15">29. September.</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Adolescentes vestri eruditi et pii Martispurgum<note xml:id="fn14" type="footnote" n="14"><placeName ref="l311" cert="high">Marburg</placeName>, wo <persName ref="p8115" cert="high">Johannes Pincier</persName> und zeitweise <persName ref="p1456" cert="high">Wigand Happel</persName> wohnten.</note> post mensis spatium reliquerunt salvique et incolumes petierunt <placeName ref="l558" cert="high">Wittenbergam</placeName>, ut audio, deo volente vos revisuros ad festum Michaelis<note xml:id="fn15" type="footnote" n="15">29. September.</note>.</s>
 				</p>
 				<p>
 					<s n="29" xml:lang="la" type="auto">Hisce vale in domino Iesu quam foelicissime, clarissime Bulingere, una cum tota tua domo et ecclesia, atque rogo, nos nostramque universam ecclesiam tuis precibus deo commendare velis.</s>
 					<s n="30" xml:lang="la" type="auto">Hac spe nos praecipue sustentamus.</s>
 				</p>
 				<p>
-					<s n="31" xml:lang="la" type="auto">Quorum enim mentes deus excitavit ad munus evangelii et vocavit, eorum labores et certamina invocatus proculdubio etiam est adiuturus, ut vel saltem aliqua pars generis humani praestet offitia deo grata, ne totum genus humanum furenter adversetur deo et pereat<note xml:id="fn16" type="footnote" n="16">Vgl. Gen 6, 5-7; 18, 20-33.</note>.</s>
-					<s n="32" xml:lang="la" type="auto">Impendio precor, ut symmistas<pb type="edition" next="392"/> tuos omnes, dominos ac fratres meos observandos, offitiosissime ac diligentissime salutes, <persName>Bibliandrum</persName>, <persName>Pellicanum</persName> ac reliquos, praesertim d. <persName>Rudolphum Gvaltherum</persName>, veterem amicum, quem velim admoneas etiam, ut aliquid certi de bello Gallico<note xml:id="fn17" type="footnote" n="17">Der Krieg zwischen <persName>König Franz I. von Frankreich</persName> und <persName>Kaiser Karl V.</persName></note> (dum licet per nuntium) mihi scribat; potest enim id propter vicinitatem<note xml:id="fn18" type="footnote" n="18"><persName>Pistorius</persName>, seit 1540/1541 mit <persName>Gwalther</persName> bekannt, weiß wohl, wie gut in Zürich Pfarrer und Ratsherren zusammengearbeitet haben.</note>.</s>
-					<s n="33" xml:lang="la" type="auto">Literas dum vult mittere, potest facillime, dummodo habeat nuntium, qui petat <placeName>Francofordiam</placeName> atque ibi in domum d. <persName>Melchioris</persName>, ecclesiastę, offerat.</s>
+					<s n="31" xml:lang="la" type="auto">Quorum enim mentes deus excitavit ad munus evangelii et vocavit, eorum labores et certamina invocatus proculdubio etiam est adiuturus, ut vel saltem aliqua pars generis humani praestet offitia deo grata, ne totum genus humanum furenter adversetur deo et pereat<note xml:id="fn16" type="footnote" n="16">Vgl. <cit type="bible"><ref>Gen 6, 5-7</ref></cit>; <cit type="bible"><ref>18, 20-33.</ref></cit></note>.</s>
+					<s n="32" xml:lang="la" type="auto">Impendio precor, ut symmistas<pb type="edition" next="392"/> tuos omnes, dominos ac fratres meos observandos, offitiosissime ac diligentissime salutes, <persName ref="p8171" cert="high">Bibliandrum</persName>, <persName ref="p8127" cert="high">Pellicanum</persName> ac reliquos, praesertim d. <persName ref="p8011" cert="high">Rudolphum Gvaltherum</persName>, veterem amicum, quem velim admoneas etiam, ut aliquid certi de bello Gallico<note xml:id="fn17" type="footnote" n="17">Der Krieg zwischen <persName ref="p7637" cert="high">König Franz I. von Frankreich</persName> und <persName ref="p18538" cert="high">Kaiser Karl V.</persName></note> (dum licet per nuntium) mihi scribat; potest enim id propter vicinitatem<note xml:id="fn18" type="footnote" n="18"><persName ref="p9046" cert="high">Pistorius</persName>, seit 1540/1541 mit <persName ref="p8011" cert="high">Gwalther</persName> bekannt, weiß wohl, wie gut in Zürich Pfarrer und Ratsherren zusammengearbeitet haben.</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Literas dum vult mittere, potest facillime, dummodo habeat nuntium, qui petat <placeName ref="l157" cert="high">Francofordiam</placeName> atque ibi in domum d. <persName ref="p4170" cert="high">Melchioris</persName>, ecclesiastę, offerat.</s>
 					<s n="34" xml:lang="la" type="auto">Is quotidie potest hasce mihi offerre<note xml:id="fn20" type="footnote" n="20">Siehe hierzu W[alther] <hi>Köhler,</hi> Die Post von Hessen nach der Schweiz zur Zeit Zwinglis und Bullingers, in: <bibl>Zwa</bibl> 2/6, 1907, 172-180, bes. 178.</note>.</s>
 					<s n="35" xml:lang="la" type="auto">Valetudinem<pb type="scan" next="271"/> vobis omnibus faustam ex animo precor.</s>
-					<s n="36" xml:lang="la" type="auto">Aiunt a cesare<note xml:id="fn21" type="footnote" n="21"><persName>Karl V.</persName></note> rursum indictum esse conventum Wormacie in causa religionis.</s>
+					<s n="36" xml:lang="la" type="auto">Aiunt a cesare<note xml:id="fn21" type="footnote" n="21"><persName ref="p18538" cert="high">Karl V.</persName></note> rursum indictum esse conventum Wormacie in causa religionis.</s>
 					<s n="37" xml:lang="la" type="auto">Quod si verum est, rursum vexabimur fucosis conciliationibus, maxime cum adversarii religionem non intelligant.</s>
-					<s n="38" xml:lang="la" type="auto">Quamvis omnia conabor, ut me hisce eximam<note xml:id="fn23" type="footnote" n="23">Zu <persName>Pistorius</persName>' ehemaligen Teilnahmen an solchen Gesprächen s. oben <ref target="file11934">Nr. 1888</ref>, Anm. 12.</note>.</s>
-					<s n="39" xml:lang="la" type="auto">Salutant vos aliquot ministri verbi per agrum <placeName>Niddanum</placeName><note xml:id="fn24" type="footnote" n="24"><placeName>Nidda (Wetteraukreis, Hessen)</placeName>.</note>.</s>
-					<s n="40" xml:lang="la" type="auto">Raptim, ex <placeName>Francofordia</placeName>, 10. septembris anno domini 1544.</s>
+					<s n="38" xml:lang="la" type="auto">Quamvis omnia conabor, ut me hisce eximam<note xml:id="fn23" type="footnote" n="23">Zu <persName ref="p9046" cert="high">Pistorius</persName>' ehemaligen Teilnahmen an solchen Gesprächen s. oben <ref target="file11934">Nr. 1888</ref>, Anm. 12.</note>.</s>
+					<s n="39" xml:lang="la" type="auto">Salutant vos aliquot ministri verbi per agrum <placeName ref="l1678" cert="high">Niddanum</placeName><note xml:id="fn24" type="footnote" n="24"><placeName ref="l1678" cert="high">Nidda (Wetteraukreis, Hessen)</placeName>.</note>.</s>
+					<s n="40" xml:lang="la" type="auto">Raptim, ex <placeName ref="l157" cert="high">Francofordia</placeName>, 10. septembris anno domini 1544.</s>
 				</p>
 				<p>
-					<s n="41" xml:lang="la" type="auto"><persName>Iohannes Pistorius Niddanus</persName> ex animo tuus totus.</s>
+					<s n="41" xml:lang="la" type="auto"><persName ref="p9046" cert="high">Iohannes Pistorius Niddanus</persName> ex animo tuus totus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

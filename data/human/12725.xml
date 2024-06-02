@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12725" type="Brief" source="HBBW" n="2678">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12725" type="Brief" source="HBBW-18" n="2678">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Thomann (Domman) / Giengen AN Heinrich Bullinger, 15. November 1546</title>
+				<title subtype="file">Heinrich Thomann (Domman) / Giengen an Heinrich Bullinger, 15. November 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,16 +17,16 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="de" type="auto">Erwirdiger, hochgelerter, sunders günstiger, vertruwter, lieber herr, üch syen min unverdrossen, willig dienst allzyt zuͦvor.</s>
-					<s n="2" xml:lang="de" type="auto">Der tagen<note xml:id="fn1" type="footnote" n="1">Nach Abfassung von <persName>Thomanns</persName> Brief vom 13. Oktober; vgl. <ref target="file12721">Nr. 2674</ref>,7-9.</note> han ich minem gnedigen herren, dem lanndtgraven<note xml:id="fn2" type="footnote" n="2"><persName>Philipp von Hessen</persName>.</note>, uwer schryben<note xml:id="fn3" type="footnote" n="3">Bullingers Brief <ref target="file12698">Nr. 2651</ref> vom 31. Oktober.</note> zu handen gstelt, und nachdem er den glesen, sagt er nüt anders zuͦ mir, dann er wolt üch wider schryben.<note xml:id="fn4" type="footnote" n="4">Eine Antwort des Landgrafen ist nicht bekannt.</note></s>
+					<s n="2" xml:lang="de" type="auto">Der tagen<note xml:id="fn1" type="footnote" n="1">Nach Abfassung von <persName ref="p8105" cert="high">Thomanns</persName> Brief vom 13. Oktober; vgl. <ref target="file12721">Nr. 2674</ref>,7-9.</note> han ich minem gnedigen herren, dem lanndtgraven<note xml:id="fn2" type="footnote" n="2"><persName ref="p3590" cert="high">Philipp von Hessen</persName>.</note>, uwer schryben<note xml:id="fn3" type="footnote" n="3">Bullingers Brief <ref target="file12698">Nr. 2651</ref> vom 31. Oktober.</note> zu handen gstelt, und nachdem er den glesen, sagt er nüt anders zuͦ mir, dann er wolt üch wider schryben.<note xml:id="fn4" type="footnote" n="4">Eine Antwort des Landgrafen ist nicht bekannt.</note></s>
 					<s n="3" xml:lang="de" type="auto">Unnd redt sunst gnediger meynung mit mir.</s>
 					<s n="4" xml:lang="de" type="auto">Fragt mich, wie es gstalt miner krankeyt halb umb mich hett.</s>
 					<s n="5" xml:lang="de" type="auto">Welches ich üch nit wollen bergen, dann üch zuͦ dienen, bin ich willig.<pb type="edition" next="288"/></s>
-					<s n="6" xml:lang="de" type="auto">Datum im feldleger by <placeName>Giengen</placeName>, montag, den 15. novembris anno 46.</s>
-					<s n="7" xml:lang="de" type="manual">Üwer gantz williger <persName>Heynrich Domman</persName>.</s>
+					<s n="6" xml:lang="de" type="auto">Datum im feldleger by <placeName ref="l171" cert="high">Giengen</placeName>, montag, den 15. novembris anno 46.</s>
+					<s n="7" xml:lang="de" type="manual">Üwer gantz williger <persName ref="p8105" cert="high">Heynrich Domman</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="de" type="auto">Dem erwirdigen, hochgelerten herrn Heynrich Bullinger, helger gschrifft Magister zuͦ Zürich, minenn gunstigen, lieben herren.</s>
+					<s n="8" xml:lang="de" type="auto">Dem erwirdigen, hochgelerten herrn Heynrich Bullinger, helger<note xml:id="fn6" type="footnote" n="6">heiliger.</note> gschrifft Magister zuͦ Zürich, minenn gunstigen, lieben herren.</s>
 				</p>
 			</div>
 		</body>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11014" type="Brief" source="HBBW" n="972">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11014" type="Brief" source="HBBW-7" n="972">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Kuster / [Wiesendangen] AN Heinrich Bullinger, 19. März 1537</title>
+				<title subtype="file">Heinrich Kuster / [Wiesendangen] an Heinrich Bullinger, 19. März 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Non possum non tibi gracias agere, Heinrice doctissime, quod tantum in mea re<note xml:id="fn3" type="footnote" n="3"><persName>Kusters</persName> Dank bezieht sich offensichtlich auf Bullingers Hilfe bei der Wahl zum Pfarrer von <placeName>Bülach</placeName>. Er dürfte den Brief noch in <placeName>Wiesendangen</placeName>, bevor er sein neues Amt übernahm, geschrieben haben. Vgl. auch oben <ref target="file11006">Nr. 964</ref>.</note> laboraveris.</s>
+					<s n="1" xml:lang="la" type="auto">Non possum non tibi gracias agere, Heinrice doctissime, quod tantum in mea re<note xml:id="fn3" type="footnote" n="3"><persName ref="p1761" cert="high">Kusters</persName> Dank bezieht sich offensichtlich auf Bullingers Hilfe bei der Wahl zum Pfarrer von <placeName ref="l82" cert="high">Bülach</placeName>. Er dürfte den Brief noch in <placeName ref="l547" cert="high">Wiesendangen</placeName>, bevor er sein neues Amt übernahm, geschrieben haben. Vgl. auch oben <ref target="file11006">Nr. 964</ref>.</note> laboraveris.</s>
 					<s n="2" xml:lang="la" type="auto">Verum si tibi magis nota fuisset mea erudicio, quae profecto nulla est, non me huic provinciae pręfecisses.</s>
 					<s n="3" xml:lang="la" type="auto">Veruntamen non<pb type="edition" next="104"/> dubito, quin ita deus voluerit, cum me nesciente et nolente res acta atque transacta siet, rogaturusque eum, ut mihi sapientiam suarum sedium assistricem<note xml:id="fn4" type="footnote" n="4">Sap. 9, 4 (Vulgata).</note> superne demittat, quo suam gloriam evehere valeam.</s>
 				</p>

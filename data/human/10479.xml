@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10479" type="Brief" source="HBBW" n="444">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10479" type="Brief" source="HBBW-4" n="444">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Andreas Bodenstein / Basel AN Heinrich Bullinger, 27. September 1534</title>
+				<title subtype="file">Andreas Bodenstein / Basel an Heinrich Bullinger, 27. September 1534</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,10 +19,10 @@
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Graciam tibi, prudentissime Bullingere, habeo.</s>
 					<s n="3" xml:lang="la" type="auto">Nam munera gratissima<note xml:id="fn1" type="footnote" n="1">Möglicherweise handelte es sich um Büchergeschenke.</note>, quae misisti, cepi.</s>
-					<s n="4" xml:lang="la" type="auto">Caeterum fama est te id, quod infirmitatis caussa fecit d. <pb type="edition" next="329"/>Plaurerus<note xml:id="fn2" type="footnote" n="2">Gemeint ist die von <persName>Ambrosius Blarer</persName> mit <persName>Erhard Schnepf</persName> geschlossene <placeName>Württemberger</placeName> Abendmahlskonkordie, s. oben <ref target="file10459">[Nr. 424]</ref> S. 279, Anm. 47; vgl. <hi>Köhler,</hi> ZL II 320-358.</note>, immo quod fecit, ut sibi Christum infirmis adnunciare liceret<note xml:id="fn3" type="footnote" n="3">Vgl. Röm 15, 1; 1 Kor 8, 7-12.</note>, sic approbare, quod plerique verentur istic te similia per publicas conciones evulgaturum.</s>
+					<s n="4" xml:lang="la" type="auto">Caeterum fama est te id, quod infirmitatis caussa fecit d. <pb type="edition" next="329"/>Plaurerus<note xml:id="fn2" type="footnote" n="2">Gemeint ist die von <persName ref="p8055" cert="high">Ambrosius Blarer</persName> mit <persName ref="p6469" cert="high">Erhard Schnepf</persName> geschlossene <placeName ref="l572" cert="high">Württemberger</placeName> Abendmahlskonkordie, s. oben <ref target="file10459">[Nr. 424]</ref> S. 279, Anm. 47; vgl. <hi>Köhler,</hi> ZL II 320-358.</note>, immo quod fecit, ut sibi Christum infirmis adnunciare liceret<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>Röm 15, 1</ref></cit>; <cit type="bible"><ref>1 Kor 8, 7-12</ref></cit>.</note>, sic approbare, quod plerique verentur istic te similia per publicas conciones evulgaturum.</s>
 					<s n="5" xml:lang="la" type="auto">Quod ego minime credo.</s>
 					<s n="6" xml:lang="la" type="auto">Novi enim tuam et eruditionem et constanciam.</s>
-					<s n="7" xml:lang="la" type="auto">Quare e re tua feceris, si mihi de re ea vel schedam mittes, ut ora quorundam obstruam suspicantium te robustis iam et ędificatis in domino infirmitatis lac inserturum<note xml:id="fn4" type="footnote" n="4">Vgl. 1 Kor 3, 2.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Quare e re tua feceris, si mihi de re ea vel schedam mittes, ut ora quorundam obstruam suspicantium te robustis iam et ędificatis in domino infirmitatis lac inserturum<note xml:id="fn4" type="footnote" n="4">Vgl. <cit type="bible"><ref>1 Kor 3, 2</ref></cit>.</note>.</s>
 					<s n="8" xml:lang="la" type="auto">Sic talique lenitate, quod illi paulo durius garriunt, narrare iam libitum fuit.</s>
 					<s n="9" xml:lang="la" type="auto">Si pro vulnere ducis quod dico, scias e charitate profectum nec aliud me quęrere, nisi ut honorem de me bene meriti ratione certa defendam.</s>
 					<s n="10" xml:lang="la" type="auto">Idcirco remittes quam primum Assertionem<note xml:id="fn5" type="footnote" n="5">Gemeint ist Bullingers «Assertio utriusque in Christo naturae», die in Zürich am 1. Oktober 1534 erschien (<bibl>HBBibl</bibl> I 62; vgl. unten S.338, 25f).</note>, quoniam honorem et famam tuam omniumque Tigurinorum conservare pro mea semper virili adnitor.</s>
@@ -32,10 +32,10 @@
 					<s n="12" xml:lang="la" type="auto">Saluta dominos et fautores amanter.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto"><placeName>Basileę</placeName>, die septembris 27. anno 1534.</s>
+					<s n="13" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, die septembris 27. anno 1534.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto">Tuus <persName>Carolostadius</persName>.</s>
+					<s n="14" xml:lang="la" type="auto">Tuus <persName ref="p4349" cert="high">Carolostadius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

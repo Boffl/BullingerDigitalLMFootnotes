@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11487" type="Brief" source="HBBW" n="1444">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11487" type="Brief" source="HBBW-10A" n="1444">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [zwischen 1534 und 1541]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [zwischen 1534 und 1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

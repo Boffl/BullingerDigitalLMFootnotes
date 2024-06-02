@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12378" type="Brief" source="HBBW" n="2331">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12378" type="Brief" source="HBBW-16" n="2331">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Matthias Claudius (Clodius) / [Lindau] AN Heinrich Bullinger, 9. Januar 1546</title>
+				<title subtype="file">Matthias Claudius (Clodius) / [Lindau] an Heinrich Bullinger, 9. Januar 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Etsi multa quotidie nova vobis adferri sciam, praesertim in comitiis, tamen non dubitavi mea quoque te lecturum, quae partim a senatoribus <placeName>Ulmensibus</placeName>, partim a <placeName>Augustensibus</placeName> huc perscribuntur.</s>
+					<s n="1" xml:lang="la" type="auto">Etsi multa quotidie nova vobis adferri sciam, praesertim in comitiis, tamen non dubitavi mea quoque te lecturum, quae partim a senatoribus <placeName ref="l513" cert="high">Ulmensibus</placeName>, partim a <placeName ref="l1976" cert="high">Augustensibus</placeName> huc perscribuntur.</s>
 					<s n="2" xml:lang="la" type="auto">Quae quidem certa esse, minime est dubitandum, eaque schedulis inclusis<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note> invenies.</s>
 					<s n="3" xml:lang="la" type="auto">Spero me ab humanitate tua, quid in comitiis actum vel agetur (de iis rebus, quae dicenda sunt), certiorem fieri.</s>
 					<s n="4" xml:lang="la" type="auto">Plura non habeo, quod nunc scribam.</s>
@@ -24,7 +24,7 @@
 					<s n="6" xml:lang="la" type="auto">Sabato post epiphaniae 46.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto"><persName>Mathias Claudius</persName> tui deditus.</s>
+					<s n="7" xml:lang="la" type="auto"><persName ref="p8311" cert="high">Mathias Claudius</persName> tui deditus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

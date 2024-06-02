@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12466" type="Brief" source="TUSTEP" n="2419">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12466" type="Brief" source="TUSTEP-16" n="2419">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Peter Medmann / Buschhoven AN Heinrich Bullinger, 10. April 1546</title>
+				<title subtype="file">Peter Medmann / Buschhoven an Heinrich Bullinger, 10. April 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -27,15 +27,15 @@
 				<p>
 					<s n="6" xml:lang="la" type="auto">Quae de me Westerburgus apud te commemoravit et apud alios tribuere solet, ea certe ex amoris, quo me aliquot in annos prosequitur, abundantia proficiscuntur.</s>
 					<s n="7" xml:lang="la" type="auto">Etenim, quod ad me attinet, satis intelligo, quam leviter literarum studia<pb type="scan" next="1425v."/> attigerim; sed interim tamen lubenter fateri soleo nihil mihi augustius studiis esse, et imprimis sacris, si modo tantum ocii, quantum ego requiro et meis studiis opus esse sentio, concederetur, tametsi non verser in publico docendi munere.</s>
-					<s n="8" xml:lang="la" type="auto">Cum autem intelligam hoc ipsum, quod per me reverendissimus <placeName>Coloniensis</placeName> elector quandoque exequitur, et ecclesiae hic nascenti et reipublicae prodesse, aequius fero me certis in negociis exercer[i] (etiamsi cum meorum studiorum iactura fiat), et ecclesiarum reformationem his in locis coeptam promovere perrexero semper omnipotente benigne, ut quidem confido, me regente.</s>
-					<s n="9" xml:lang="la" type="auto">Et in ditione hac nostra melius et inst[i]tuta fuisset et maius incrementum ecclesiarum resta[u]ratio accepisset, si non <persName>Carolus imperator</persName>, mihi h[oc] credas, mi Bullingere, singularem contra nostrum elect[orem] aversionem, ne quid durius dixero, propter constitutam ecclesiarum emendationem declarasset, cuius publice certa testimonia circumferuntur, fortassis et suo temp[o]re alia proferuntur, quae et tu et alii pietate conspicui non sine magna admiratione, quod sat scio, legeritis.</s>
+					<s n="8" xml:lang="la" type="auto">Cum autem intelligam hoc ipsum, quod per me reverendissimus <placeName ref="l267" cert="high">Coloniensis</placeName> elector quandoque exequitur, et ecclesiae hic nascenti et reipublicae prodesse, aequius fero me certis in negociis exercer[i] (etiamsi cum meorum studiorum iactura fiat), et ecclesiarum reformationem his in locis coeptam promovere perrexero semper omnipotente benigne, ut quidem confido, me regente.</s>
+					<s n="9" xml:lang="la" type="auto">Et in ditione hac nostra melius et inst[i]tuta fuisset et maius incrementum ecclesiarum resta[u]ratio accepisset, si non <persName ref="p18538" cert="high">Carolus imperator</persName>, mihi h[oc] credas, mi Bullingere, singularem contra nostrum elect[orem] aversionem, ne quid durius dixero, propter constitutam ecclesiarum emendationem declarasset, cuius publice certa testimonia circumferuntur, fortassis et suo temp[o]re alia proferuntur, quae et tu et alii pietate conspicui non sine magna admiratione, quod sat scio, legeritis.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="10" xml:lang="la" type="auto">Tantum hoc tempore ad tuam epistolam, vir clarissime.</s>
-					<s n="11" xml:lang="la" type="auto">Alias, ubi plus ocii nactus ero, copiosius de <persName>Caroli caesaris</persName> in nos affectu deque meorum <placeName>Coloniensium</placeName>, ut vocantur, ecclesiasticorum moliminibus scripsero, et si quid his in locis acciderit, quod te a me cognoscere velim vel scire retulerit.</s>
-					<s n="12" xml:lang="la" type="auto">Quicquid miseris <placeName>Argentinam</placeName> vel ad d. B[u]cerum vel ad d. <persName>Hedionem</persName> vel ad alios, id cert[e]<pb type="scan" next="1426r."/> mihi redditur; quod adiicere volui, si forte quandoque respondere volueris.</s>
+					<s n="11" xml:lang="la" type="auto">Alias, ubi plus ocii nactus ero, copiosius de <persName ref="p18538" cert="high">Caroli caesaris</persName> in nos affectu deque meorum <placeName ref="l267" cert="high">Coloniensium</placeName>, ut vocantur, ecclesiasticorum moliminibus scripsero, et si quid his in locis acciderit, quod te a me cognoscere velim vel scire retulerit.</s>
+					<s n="12" xml:lang="la" type="auto">Quicquid miseris <placeName ref="l492" cert="high">Argentinam</placeName> vel ad d. B[u]cerum vel ad d. <persName ref="p8374" cert="high">Hedionem</persName> vel ad alios, id cert[e]<pb type="scan" next="1426r."/> mihi redditur; quod adiicere volui, si forte quandoque respondere volueris.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -47,7 +47,7 @@
 					<s n="15" xml:lang="la" type="auto">Ex sylva Buschovia, 10 aprilis 1546.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto">Tuus <persName ref="p6742">Petrus Medmannus</persName> <placeName>Coloniensis</placeName>.</s>
+					<s n="16" xml:lang="la" type="auto">Tuus <persName ref="p2262" cert="high">Petrus Medmannus</persName> <placeName ref="l267" cert="high">Coloniensis</placeName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

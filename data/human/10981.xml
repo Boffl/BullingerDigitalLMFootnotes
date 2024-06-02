@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10981" type="Brief" source="BucerDS" n="20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10981" type="Brief" source="BucerDS-VI" n="20">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Martin Bucer / Strassburg AN s.n. / [Basel], 27. Januar 1537</title>
+				<title subtype="file">Martin Bucer / Strassburg an s.n. / [Basel], 27. Januar 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -49,7 +49,7 @@
 					<s n="29" xml:lang="la" type="auto">Orate Dominum vt conuentus qui iam Schmalchaldi cogitur omnia ex ipsius spiritu statuat.</s>
 				</p>
 				<p>
-					<s n="30" xml:lang="la" type="auto">M. Bucerus, qui de Ecclesiis vestris semper bene, male nunquam mereri voluit, vtcunque eius officia erga vos ceciderint vel accepta sunt.</s>
+					<s n="30" xml:lang="la" type="auto">M. <persName ref="p467" cert="high">Bucerus</persName>, qui de Ecclesiis vestris semper bene, male nunquam mereri voluit, vtcunque eius officia erga vos ceciderint vel accepta sunt.</s>
 					<s n="31" xml:lang="la" type="auto">Doctiss[imis] atque religiosiss[imis] viris christique ministris Ecclesiarum Basiliensibus, Bernatibus et Tigurinis in Domino obseruandis fratribus.</s>
 				</p>
 			</div>

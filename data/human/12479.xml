@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12479" type="Brief" source="TUSTEP" n="2432">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12479" type="Brief" source="TUSTEP-16" n="2432">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Lucius (Luci) Heim / Chur AN Heinrich Bullinger, 26. April 1546</title>
+				<title subtype="file">Lucius (Luci) Heim / Chur an Heinrich Bullinger, 26. April 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -34,10 +34,10 @@
 					<s n="8" xml:lang="de" type="auto">Amen.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de" type="manual">Zu <placeName>Cur</placeName>, am 26. aprilis anno 1546.</s>
+					<s n="9" xml:lang="de" type="manual">Zu <placeName ref="l98" cert="high">Cur</placeName>, am 26. aprilis anno 1546.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de" type="auto"><persName>Luci Heim</persName>, burgermeister, ü[wer] alzit g[antz] w[illiger].</s>
+					<s n="10" xml:lang="de" type="auto"><persName ref="p8013" cert="high">Luci Heim</persName>, burgermeister, ü[wer] alzit g[antz] w[illiger].</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

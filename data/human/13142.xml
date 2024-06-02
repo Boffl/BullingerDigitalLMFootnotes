@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13142" type="Brief" source="TUSTEP" n="3093">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13142" type="Brief" source="TUSTEP-20" n="3093">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Blasius / Chur AN Heinrich Bullinger, 12. Dezember 1547</title>
+				<title subtype="file">Johannes Blasius / Chur an Heinrich Bullinger, 12. Dezember 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,17 +17,17 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Io. Blas. d. H. Bullingero suo s[alutem].</s>
-					<s n="2" xml:lang="la" type="auto">Quem hic coram cernis, observandissime vir, cęnobiorum nostrorum administrator est, vir alias bonus atque syncerus, qui et ipse gracia studiorum duos ad vos ducit iuvenes, quos cum <persName>Paulo</persName> meo atque eciam in eius hospicium collocare exoptat, quo illis <persName>Paulo</persName> tanquam pedagogo uti liceat.</s>
+					<s n="2" xml:lang="la" type="auto">Quem hic coram cernis, observandissime vir, cęnobiorum nostrorum administrator est, vir alias bonus atque syncerus, qui et ipse gracia studiorum duos ad vos ducit iuvenes, quos cum Paulo meo atque eciam in eius hospicium collocare exoptat, quo illis Paulo tanquam pedagogo uti liceat.</s>
 					<s n="3" xml:lang="la" type="auto">Eos vero tibi multis comendare superfluum esse scio, cum tocies ipse (quam promptus sis studia studiososque iuvare) expertus sum.</s>
-					<s n="4" xml:lang="la" type="auto">Quo cum et pecunias ante 14 dies d. m. Othoni<note xml:id="fn11" type="footnote" n="11"><persName>Otto Werdmüller</persName>.</note> destinatas mittere libuit.</s>
+					<s n="4" xml:lang="la" type="auto">Quo cum et pecunias ante 14 dies d. m. <persName ref="8459" type="auto_name">Othoni</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p8459" cert="high">Otto Werdmüller</persName>.</note> destinatas mittere libuit.</s>
 					<s n="5" xml:lang="la" type="auto">Is enim cum eo et raciocinaturus est atque pro beneficiis in filium collocatis gracias acturus.</s>
-					<s n="6" xml:lang="la" type="auto">Deinde <persName>Paulum</persName> meum una cum suis pueris te monstrante honesto alicui civi comendaturus.</s>
+					<s n="6" xml:lang="la" type="auto">Deinde Paulum meum una cum suis pueris te monstrante honesto alicui civi comendaturus.</s>
 					<s n="7" xml:lang="la" type="auto">Fac ergo, collendissime frater, quo id bona d. Othonis et pace et gracia fiat, ne me aut stupidum aut omnino ingratum esse estimet, etc.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Porro ex Italia nihil interea preter has tibi ac domino Gessnero<note xml:id="fn12" type="footnote" n="12"><persName>Konrad Gessner</persName>.</note> destinatas accepimus literas, quibus nimirum omnium, quorum scitu dignum est, cerciores reddimini.</s>
+					<s n="8" xml:lang="la" type="auto">Porro ex Italia nihil interea preter has tibi ac domino <persName ref="1283" type="auto_name">Gessnero</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p1283" cert="high">Konrad Gessner</persName>.</note> destinatas accepimus literas, quibus nimirum omnium, quorum scitu dignum est, cerciores reddimini.</s>
 					<s n="9" xml:lang="la" type="auto">Insuper et proximas tuas magna cum gratulacione legimus literas<note xml:id="fn13" type="footnote" n="13">Nicht erhalten.</note> tibique gracias ingentes habentes, quod nobis in angulis ac Alpibus mundi versantibus omnium earum rerum, que modo per Germaniam agitantur, tam diligenter significas, etc.</s>
 				</p>
 			</div>
@@ -44,7 +44,7 @@
 				<p>
 					<s n="15" xml:lang="la" type="auto">His vale, vir in domino omnibus nobis colendissime, per Iesum d. nostrum, qui te benignitate sua sue trepidanti ecclesię diu conservare dignetur.</s>
 					<s n="16" xml:lang="de" type="auto">Amen.</s>
-					<s n="17" xml:lang="la" type="auto"><placeName>Curie</placeName>, 12. die decembris anno 1547.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName ref="l98" cert="high">Curie</placeName>, 12. die decembris anno 1547.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -52,7 +52,7 @@
 					<s n="18" xml:lang="la" type="auto">Literas Basileam destinatas fac certo transferantur nunccio, etc.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Idem tuus ex animo <persName ref="p4253">Blasius</persName>, apud d[ivam] Regulam ecclesiastes.</s>
+					<s n="19" xml:lang="la" type="auto">Idem tuus ex animo <persName ref="p396" cert="high">Blasius</persName>, apud d[ivam] Regulam ecclesiastes.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf f. 351b, v.:]</note>

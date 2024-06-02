@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12655" type="Brief" source="TUSTEP" n="2608">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12655" type="Brief" source="TUSTEP-18" n="2608">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 5. Oktober 1546</title>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel an Heinrich Bullinger, 5. Oktober 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -44,13 +44,13 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="17" xml:lang="la" type="auto">Saluta meo nomine d. Pellicanum et Iohannem, qui apud eum habitat, cuius literas misi ad Bucerum, sed nondum accepi responsum.</s>
-					<s n="18" xml:lang="la" type="auto">Mitto ad te vaticinium, quod a Bucero accepi.</s>
-					<s n="19" xml:lang="la" type="auto">Expecto chartam, quam debebat mittere typographus, quem oro, ut selectam mittat et cito, aut si id facere non potest, me admoneat, ut eam curem ex <placeName>Francofordia</placeName>.</s>
+					<s n="17" xml:lang="la" type="auto">Saluta meo nomine d. <persName ref="p8127" cert="high">Pellicanum</persName> et Iohannem, qui apud eum habitat, cuius literas misi ad <persName ref="p467" cert="high">Bucerum</persName>, sed nondum accepi responsum.</s>
+					<s n="18" xml:lang="la" type="auto">Mitto ad te vaticinium, quod a <persName ref="p467" cert="high">Bucero</persName> accepi.</s>
+					<s n="19" xml:lang="la" type="auto">Expecto chartam, quam debebat mittere typographus, quem oro, ut selectam mittat et cito, aut si id facere non potest, me admoneat, ut eam curem ex <placeName ref="l157" cert="high">Francofordia</placeName>.</s>
 					<s n="20" xml:lang="la" type="auto">Bene vale.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 5. die octobris 1546.</s>
+					<s n="21" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, 5. die octobris 1546.</s>
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="auto">Tuus ex animo Franciscus Dryander.</s>

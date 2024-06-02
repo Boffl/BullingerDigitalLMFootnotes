@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12140" type="Brief" source="VBS" n="82">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12140" type="Brief" source="VBS-7" n="82">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Joachim Vadian (von Watt)] / [St. Gallen] AN [Heinrich Bullinger], 6. März [1545]</title>
+				<title subtype="file">[Joachim Vadian (von Watt)] / [St. Gallen] an [Heinrich Bullinger], 6. März [1545]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Tuas semper mihi mire iucundas et gratissimas literas mature accepi una cum parte responsionis Germanicae ad Lutheri calumnias de eucharistiae dogmate.</s>
-					<s n="2" xml:lang="la" type="auto">Attulit et ille Wittenbergensis tabellio mihi ab uno <persName ref="p18198">Bucero</persName> dictatas literas, quibus mihi eximiam illam et singularem constantiam herois illius Coloniensis depraedicat, orans, ut et ipsum ecclesiae nostrae ministris depingam suis vere coloribus, quo et nostrae communionis precibus adiutus talem porro agere pergat, qualem hactenus praestitit.</s>
+					<s n="2" xml:lang="la" type="auto">Attulit et ille Wittenbergensis tabellio mihi ab uno <persName ref="p467" cert="high">Bucero</persName> dictatas literas, quibus mihi eximiam illam et singularem constantiam herois illius Coloniensis depraedicat, orans, ut et ipsum ecclesiae nostrae ministris depingam suis vere coloribus, quo et nostrae communionis precibus adiutus talem porro agere pergat, qualem hactenus praestitit.</s>
 					<s n="3" xml:lang="la" type="auto">Egent enim et apostolici viri de puro corde proficiscente ecclesiarum oratione et intercessione fidelium et sanctorum domini, ne tanta in pugna et tam violenta in tentationem inducantur.</s>
 					<s n="4" xml:lang="la" type="auto">De lite nostra cum Luthero nihil aliud quam dolorem et eum quidem peracerbum prodit, nec accusans interim nos nec Lutherum purgans; sola offensio, solum <foreign xml:lang="el">σκάνδαλον</foreign> ei cordi est, quo dubitari nequit, quin mediofirmorum animi vehementer interturbentur et adversariorum conatus recta victoriae persuasione confirmetur.</s>
 					<s n="5" xml:lang="la" type="auto">6. Martii 1545.</s>

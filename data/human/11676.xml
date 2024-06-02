@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11676" type="Brief" source="GR" n="34">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11676" type="Brief" source="GR-I" n="34">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Blasius / Chur AN Heinrich Bullinger, 24. Mai 1542</title>
+				<title subtype="file">Johannes Blasius / Chur an Heinrich Bullinger, 24. Mai 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Ioannes Blasius clarissimo Heinricho Bullingero gratiam et pacem vitaeque longevitatem precatur a Domino etc.</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p396" cert="high">Ioannes Blasius</persName> clarissimo Heinricho Bullingero gratiam et pacem vitaeque longevitatem precatur a Domino etc.</s>
 					<s n="2" xml:lang="la" type="auto">Literas tuas, doctissime ac humanissime vir, quas ad Balingium nostrum misisti, vidimus et nos, quibus te ultro contra inhumanam nephariamque istam hominis foeditatem, quam praelo nuper publicari ausus homo vanissimus, affers scripturum.</s>
 					<s n="3" xml:lang="la" type="auto">Facies certo rem reipublice nostrae maxime necessariam, nobis omnino gratissimam, cum mihi inprimis, cui hactenus schole nostre cura imposita est, optatam, qui et tua, que apud nostros multum ponderis habet, authoritate aliorumque piorum et opera et auxilio impurum istum eliographum e collegio nostro eiicere, Nicolaum vero nostrum retinere meditor; sin minus, factum esse vereor cum ludo nostro litterario, quandoquidem nonnullae Foederis nostri ecclesie bona illa ecclesiastica inter sese dividere conantur.</s>
 					<s n="4" xml:lang="la" type="auto">Fac igitur, observandissime frater, ut soles omnibus Christi ecclesiis succur(r)ere Zwinglium, imo apostolum Paulum imitando: „Quis infirmatur et ego non infirmor?“ etc.</s>

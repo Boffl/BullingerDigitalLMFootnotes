@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11279" type="Brief" source="VBS" n="1047">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11279" type="Brief" source="VBS-5" n="1047">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 7. März 1539</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 7. März 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

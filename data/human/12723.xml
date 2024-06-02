@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12723" type="Brief" source="HBBW" n="2676">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12723" type="Brief" source="HBBW-18" n="2676">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / [Griesenberg] AN Heinrich Bullinger, 14. November [1546]</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Griesenberg] an Heinrich Bullinger, 14. November [1546]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,18 +16,18 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Griessembergi iam d[ies] aliquot apud moribundum sororium<note xml:id="fn3" type="footnote" n="3"><persName>Heinrich von Ulm</persName>.</note> hęreo, mi venerande et charissime Bullingere, quo missę mihi sunt epistolę tuę om-<pb type="edition" next="276"/>nes<note xml:id="fn4" type="footnote" n="4">Nicht erhaltene Schreiben.</note>, ad quas tamen nihil prorsus respondere licet, tantisper dum sororius carnis vinculis laxatus ad cęlestes sedes migrarit; nam animam nunc toto fere biduo agit, firma in dominum fiducia pręditus.</s>
+					<s n="1" xml:lang="la" type="auto">Griessembergi iam d[ies] aliquot apud moribundum sororium<note xml:id="fn3" type="footnote" n="3"><persName ref="p2300" cert="high">Heinrich von Ulm</persName>.</note> hęreo, mi venerande et charissime Bullingere, quo missę mihi sunt epistolę tuę om-<pb type="edition" next="276"/>nes<note xml:id="fn4" type="footnote" n="4">Nicht erhaltene Schreiben.</note>, ad quas tamen nihil prorsus respondere licet, tantisper dum sororius carnis vinculis laxatus ad cęlestes sedes migrarit; nam animam nunc toto fere biduo agit, firma in dominum fiducia pręditus.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="2" xml:lang="la" type="auto">Eas literas, quę <persName>Peutingero</persName><note xml:id="fn5" type="footnote" n="5"><persName>Claudius Pius Peutinger</persName>. - Es handelte sich wohl um Bullingers Antwort auf Peutingers Brief vom 24. Oktober (<ref target="file12688">Nr. 2641</ref>).</note> inscriptę sunt, praeterea scriptum illud Germanicum in urbem<note xml:id="fn7" type="footnote" n="7"><placeName>Konstanz</placeName>.</note> remisi (quamquam sero, ut vereor, ut illinc Arbam<note xml:id="fn8" type="footnote" n="8"><placeName>Arbon (Thurgau)</placeName>, von wo es damals offensichtlich eine schnellere Verbindung nach <placeName>Lindau</placeName> bzw. <placeName>Augsburg</placeName> gab, als direkt von <placeName>Konstanz</placeName> aus.</note> et <placeName>Augustam</placeName> perferantur).</s>
-					<s n="3" xml:lang="la" type="auto">Valde dolet scriptum illud perferri non potuisse <placeName>Augustam</placeName> per Ramum nec me potuisse illum <placeName>Augustanis</placeName> meis amicis commendare.</s>
+					<s n="2" xml:lang="la" type="auto">Eas literas, quę <persName ref="p2449" cert="high">Peutingero</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p2449" cert="high">Claudius Pius Peutinger</persName>. - Es handelte sich wohl um Bullingers Antwort auf Peutingers Brief vom 24. Oktober (<ref target="file12688">Nr. 2641</ref>).</note> inscriptę sunt, praeterea scriptum illud Germanicum in urbem<note xml:id="fn7" type="footnote" n="7"><placeName ref="l457" cert="high">Konstanz</placeName>.</note> remisi (quamquam sero, ut vereor, ut illinc Arbam<note xml:id="fn8" type="footnote" n="8"><placeName ref="l977" cert="high">Arbon (Thurgau)</placeName>, von wo es damals offensichtlich eine schnellere Verbindung nach <placeName ref="l291" cert="high">Lindau</placeName> bzw. <placeName ref="l1976" cert="high">Augsburg</placeName> gab, als direkt von <placeName ref="l457" cert="high">Konstanz</placeName> aus.</note> et <placeName ref="l1976" cert="high">Augustam</placeName> perferantur).</s>
+					<s n="3" xml:lang="la" type="auto">Valde dolet scriptum illud perferri non potuisse <placeName ref="l1976" cert="high">Augustam</placeName> per <persName ref="8055" type="auto_name">Ramum</persName> nec me potuisse illum <placeName ref="l1976" cert="high">Augustanis</placeName> meis amicis commendare.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="4" xml:lang="la" type="auto">Mitto literas <persName>Schönero</persName><note xml:id="fn10" type="footnote" n="10"><persName>Hans Schöner</persName>; s. <bibl>HBBW</bibl> XVII 307 mit Anm. 3.</note> missas.</s>
+					<s n="4" xml:lang="la" type="auto">Mitto literas <persName ref="p6552" cert="high">Schönero</persName><note xml:id="fn10" type="footnote" n="10"><persName ref="p6552" cert="high">Hans Schöner</persName>; s. <bibl>HBBW</bibl> XVII 307 mit Anm. 3.</note> missas.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">

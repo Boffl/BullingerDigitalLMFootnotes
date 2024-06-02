@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11491" type="Brief" source="HBBW" n="1448">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11491" type="Brief" source="HBBW-10A" n="1448">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Diethelm Keller (Cellarius) / [Zürich] AN Heinrich Bullinger, [zwischen 1537 und 1541]</title>
+				<title subtype="file">Diethelm Keller (Cellarius) / [Zürich] an Heinrich Bullinger, [zwischen 1537 und 1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -36,7 +36,7 @@
 					<s n="14" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto"><persName ref="p2463">Diethelmus Keller</persName> ad omnia promptus.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p1783" cert="high">Diethelmus Keller</persName> ad omnia promptus.</s>
 				</p>
 			</div>
 		</body>

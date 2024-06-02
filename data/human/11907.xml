@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11907" type="Brief" source="VBS" n="1329">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11907" type="Brief" source="VBS-6" n="1329">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 8. März 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 8. März 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,12 +16,12 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">G(ratiam) et p(acem).</s>
-					<s n="2" xml:lang="la" type="auto">Finivi tandem responsionem meam ad libellum Cochlęi, intra 14 septimanas et scriptam et editam.</s>
+					<s n="2" xml:lang="la" type="auto">Finivi tandem responsionem meam ad libellum <persName ref="p8312" cert="high">Cochlęi</persName>, intra 14 septimanas et scriptam et editam.</s>
 					<s n="3" xml:lang="la" type="auto">Multum sane molestiarum devoravi adeoque et concoxi.</s>
 					<s n="4" xml:lang="la" type="auto">Recte enim putas, me hic et sani et voracis esse stomachi.</s>
 					<s n="5" xml:lang="la" type="auto">Interim et non sine maximo cum labore scripsi, quae vides.</s>
 					<s n="6" xml:lang="la" type="auto">Dono te libro illo et oro, ut munusculum boni consulas libereque indices et, quodcunque tibi fuerit visum, liberrime significes.</s>
-					<s n="7" xml:lang="de" type="auto">Wo mag aber Cochlęus sin?</s>
+					<s n="7" xml:lang="de" type="auto">Wo mag aber <persName ref="p8312" cert="high">Cochlęus</persName> sin?</s>
 					<s n="8" xml:lang="de" type="auto">Ich wolt gern im ein exemplar mittsampt einer epistel zuͦschryben; so weiß ich nitt eigentlich, ob er sye zuͦ Yngolstadt oder Ittenbüren.</s>
 					<s n="9" xml:lang="de" type="auto">Wüssend irs, so lassend michs wüssen.</s>
 				</p>
@@ -41,7 +41,7 @@
 					<s n="22" xml:lang="la" type="auto">H(enricus) B(ullingerus) tuus.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto">D. D. <persName>Ioachimo Vadiano</persName>, colendissimo domino suo.</s>
+					<s n="23" xml:lang="la" type="auto">D. D. <persName ref="p8049" cert="high">Ioachimo Vadiano</persName>, colendissimo domino suo.</s>
 				</p>
 			</div>
 		</body>

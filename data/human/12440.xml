@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12440" type="Brief" source="HBBW" n="2393">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12440" type="Brief" source="HBBW-16" n="2393">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Gilbert Cousin (Cognatus Nozerenus) / Nozeroy AN Heinrich Bullinger, 25. März 1546</title>
+				<title subtype="file">Gilbert Cousin (Cognatus Nozerenus) / Nozeroy an Heinrich Bullinger, 25. März 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.P.</s>
-					<s n="2" xml:lang="la" type="auto">Cum hic, qui has <persName ref="p18518">Gastio</persName> nostro reddet isthuc<note xml:id="fn2" type="footnote" n="2">nach Zürich.</note> transmittendas, se recta <placeName>Basileam</placeName> iturum significaret, meae erga te observantiae esse duxi, si te his longo post tempore salutarem, significaremque post meum a Gallica legatione reditum<note xml:id="fn3" type="footnote" n="3">Vgl. <ref target="file12415">Nr. 2368</ref>,25-27.</note> hic me pristinae molae operam dare, ut scires, ubi gentium tuo prisco in me iure uti valeas.</s>
+					<s n="2" xml:lang="la" type="auto">Cum hic<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>, qui has <persName ref="p1278" cert="high">Gastio</persName> nostro reddet isthuc<note xml:id="fn2" type="footnote" n="2">nach Zürich.</note> transmittendas, se recta <placeName ref="l28" cert="high">Basileam</placeName> iturum significaret, meae erga te observantiae esse duxi, si te his longo post tempore salutarem, significaremque post meum a Gallica legatione reditum<note xml:id="fn3" type="footnote" n="3">Vgl. <ref target="file12415">Nr. 2368</ref>,25-27.</note> hic me pristinae molae operam dare, ut scires, ubi gentium tuo prisco in me iure uti valeas.</s>
 					<s n="3" xml:lang="la" type="auto">Nam si unquam alias, nunc maxime meum illud erga te studium viget; quod re potius quam verbis testari recipio.</s>
 					<s n="4" xml:lang="la" type="auto">Certe, si cuiusquam, tui maxime, causa nihil non conabor, mi Bullingere, et, ut periculum facias, te etiam atque etiam rogo.</s>
 				</p>
@@ -29,7 +29,7 @@
 					<s n="7" xml:lang="la" type="auto">Inprimisque sum tuis defensionibus mirabiliter delectatus.</s>
 					<s n="8" xml:lang="la" type="auto">Summam enim illae doctrinam et illam, quam ego maxime probo, egregie redolent animi moderationem<note xml:id="fn4" type="footnote" n="4">Zu diesen Büchern Bullingers siehe bereits <bibl>HBBW</bibl> XV 378 und Anm. 7.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Annotationum tuarum iam bonam perlegi partem.</s>
-					<s n="10" xml:lang="la" type="auto">Bene atque optime vale, et me in tuo aere<note xml:id="fn6" type="footnote" n="6"><hi><persName>Cicero</persName>,</hi> Epistulae ad familiares, 15, 14, 1.</note> semper censeas et, ut vales et si quid novi excudis, significes quandoque, rogo atque obsecro.</s>
+					<s n="10" xml:lang="la" type="auto">Bene atque optime vale, et me in tuo aere<note xml:id="fn6" type="footnote" n="6"><hi><persName ref="p4544" cert="high">Cicero</persName>,</hi> Epistulae ad familiares, 15, 14, 1.</note> semper censeas et, ut vales et si quid novi excudis, significes quandoque, rogo atque obsecro.</s>
 					<s n="11" xml:lang="la" type="auto">Iterum vale.<pb type="edition" next="263"/></s>
 				</p>
 			</div>
@@ -41,8 +41,8 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="14" xml:lang="la" type="auto"><persName>Gilbertus Cognatus</persName> Nozerenus<ptr target="fnb" type="footnote" n="b"/>.</s>
-					<s n="15" xml:lang="la" type="auto"><persName>Conradum Gesnerum</persName>, medicum excellentem, cuius opus Bibliotheces<note xml:id="fn7" type="footnote" n="7"><persName>Gessners</persName> Bibliotheca universalis sive catalogus omnium scriptorum locupletissimus, in tribus linguis, Latina, Graeca, et Hebraica Zürich, <persName>Christoph Froschauer</persName>, 1545 <hi>(VD16</hi> G 1698; <hi>BZD</hi> C350).</note> nondum mihi contingere nec videre licuit, <persName>Bibliandrum</persName>, <persName>Pellicanum</persName> caeterosque ecclesiastes salvere iubeo.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p8073" cert="high">Gilbertus Cognatus</persName> Nozerenus<ptr target="fnb" type="footnote" n="b"/>.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p1283" cert="high">Conradum Gesnerum</persName>, medicum excellentem, cuius opus Bibliotheces<note xml:id="fn7" type="footnote" n="7"><persName ref="p1283" cert="high">Gessners</persName> Bibliotheca universalis sive catalogus omnium scriptorum locupletissimus, in tribus linguis, Latina, Graeca, et Hebraica Zürich, <persName ref="p1227" cert="high">Christoph Froschauer</persName>, 1545 <bibl>(VD16 G 1698</bibl>; <hi>BZD</hi> C350).</note> nondum mihi contingere nec videre licuit, <persName ref="p8171" cert="high">Bibliandrum</persName>, <persName ref="p8127" cert="high">Pellicanum</persName> caeterosque ecclesiastes salvere iubeo.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

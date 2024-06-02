@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11786" type="Brief" source="BBW" n="1003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11786" type="Brief" source="BBW-II" n="1003">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 11. April [1543]</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] an Heinrich Bullinger, 11. April [1543]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

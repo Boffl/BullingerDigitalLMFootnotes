@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12874" type="Brief" source="TUSTEP" n="2825">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12874" type="Brief" source="TUSTEP-19" n="2825">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 25. Februar 1547</title>
+				<title subtype="file">Johannes Calvin / Genf an Heinrich Bullinger, 25. Februar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -50,7 +50,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="21" xml:lang="la" type="auto">3. Capite tertio locum Pauli: Omnia illis contigerunt in figuris [1Kor 10, 6. 11], alio transfers quam ferat mens apostoli.</s>
+					<s n="21" xml:lang="la" type="auto">3. Capite tertio locum Pauli: Omnia illis contigerunt in figuris <cit type="bible"><ref>[1Kor 10, 6. 11]</ref></cit>, alio transfers quam ferat mens apostoli.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
@@ -65,7 +65,7 @@
 				</p>
 				<p>
 					<s n="27" xml:lang="la" type="auto">Argumentum quo illic uteris nullum apud me pondus habet.</s>
-					<s n="28" xml:lang="la" type="auto">Negas haec domini verba: Facite in mei memoriam [Lk 22, 19; 1Kor 24f], permittere ut realem eorum praesentiam statuamus quorum meminisse debemus.</s>
+					<s n="28" xml:lang="la" type="auto">Negas haec domini verba: Facite in mei memoriam [<cit type="bible"><ref>Lk 22, 19</ref></cit>; <cit type="bible"><ref>1Kor 24</ref></cit>f], permittere ut realem eorum praesentiam statuamus quorum meminisse debemus.</s>
 					<s n="29" xml:lang="la" type="auto">Eadem accipio pro vera.</s>
 					<s n="30" xml:lang="la" type="auto">Quid enim aliud res quam veritas?</s>
 					<s n="31" xml:lang="la" type="auto">Dico memoriam rei praesentis in coena esse.</s>
@@ -76,7 +76,7 @@
 					<s n="36" xml:lang="la" type="auto">Coena peragitur in terris.</s>
 					<s n="37" xml:lang="la" type="auto">Longa distantia.</s>
 					<s n="38" xml:lang="la" type="auto">Sed adest piis animis per spiritus sui virtutem, quia non impedit Christi distantia, quominus suos mirabiliter pascat.</s>
-					<s n="39" xml:lang="la" type="auto">Eiusdem est rationis locus ille Pauli: Celebrate mortem donec veniat [1Kor 11, 26].</s>
+					<s n="39" xml:lang="la" type="auto">Eiusdem est rationis locus ille Pauli: Celebrate mortem donec veniat <cit type="bible"><ref>[1Kor 11, 26]</ref></cit>.</s>
 					<s n="40" xml:lang="la" type="auto">Neque enim descendit ad nos Christus e coelo, neque oculis cernitur, sed fide tantum nobis adest.</s>
 					<s n="41" xml:lang="la" type="auto">Itaque non pugnat spiritualis eius coniunctio nobiscum et extremus adventus.</s>
 					<s n="42" xml:lang="la" type="auto">Nec quidquam obstat quominus essentialiter, hoc est, ipsemet revera Christus exhibeatur nobis, et tamen venturus exspectetur usque ad diem resurrectionis, quia in coelo manet.</s>
@@ -93,7 +93,7 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="47" xml:lang="la" type="auto">Capite sexto, quod verbum benedictionis pro consecratione usquam accipi negas, in eo abs te dissentio.</s>
-					<s n="48" xml:lang="la" type="auto">Nam quum scribit Paulus: Calix benedictionis cui benedicimus [1Kor 10, 16], haec syntaxis gratiarum actioni non congruit.</s>
+					<s n="48" xml:lang="la" type="auto">Nam quum scribit Paulus: Calix benedictionis cui benedicimus <cit type="bible"><ref>[1Kor 10, 16]</ref></cit>, haec syntaxis gratiarum actioni non congruit.</s>
 					<s n="49" xml:lang="la" type="auto">Et certe sanctificantur symbola quum destinantur in proprium usum secundum Christi institutionem.</s>
 					<s n="50" xml:lang="la" type="auto">Quod tu quoque fateris.</s>
 				</p>
@@ -131,7 +131,7 @@
 					<s n="69" xml:lang="la" type="auto">Ubi enim spiritus in imagine caesaris, qui ipsam quodammodo vivificet, quo efficax sit in cordibus nostris?</s>
 					<s n="70" xml:lang="la" type="auto">Scio multos bonos viros abhorruisse a Zwinglii doctrina, quod toties occurreret ista comparatio absque correctione.</s>
 					<s n="71" xml:lang="la" type="auto">Inde enim colligebant fieri ex coena theatricum spectaculum.</s>
-					<s n="72" xml:lang="la" type="auto">Atque in his etiam est Philippus<note xml:id="fn42" type="footnote" n="42"><persName>Philipp Melanchthon</persName>.</note>.</s>
+					<s n="72" xml:lang="la" type="auto">Atque in his etiam est <persName ref="2095" type="auto_name">Philippus</persName><note xml:id="fn42" type="footnote" n="42"><persName ref="p2095" cert="high">Philipp Melanchthon</persName>.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div10" corresp="regest10">
@@ -404,15 +404,15 @@
 			<div xml:id="div17" corresp="regest17">
 				<p>
 					<s n="278" xml:lang="la" type="auto">Vale, frater in Christo carissime et mihi honorande, atque in huius epistolae argumento subinde tibi occurrat illud Augustini: Quod in sacramentis geritur per homines quidem geri, sed divinitus, in terra, sed humanitus.</s>
-					<s n="279" xml:lang="la" type="auto">Salutabis reverenter meo et totius collegii nostri nomine symmystas tuos, d. Pellicanum, d. Theodorum, d. Gvaltherum, d. Ioannem<note xml:id="fn44" type="footnote" n="44">Möglicher weise ist hier der 26jährige <persName>Johannes Wolf</persName>, Pfarrer der Predigerkirche (als solcher in einem Filialverhältnis mit dem Großmünster) gemeint.</note> et reliquos.</s>
+					<s n="279" xml:lang="la" type="auto">Salutabis reverenter meo et totius collegii nostri nomine symmystas tuos, d. <persName ref="p8127" cert="high">Pellicanum</persName>, d. Theodorum<note xml:id="fn43" type="footnote" n="43">Bibliander.</note>, d. <persName ref="p8011" cert="high">Gvaltherum</persName>, d. Ioannem<note xml:id="fn44" type="footnote" n="44">Möglicher weise ist hier der 26jährige <persName ref="p3988" cert="high">Johannes Wolf</persName>, Pfarrer der Predigerkirche (als solcher in einem Filialverhältnis mit dem Großmünster) gemeint.</note> et reliquos.</s>
 					<s n="280" xml:lang="la" type="auto">Dominus vos omnes regat suo spiritu et vestris laboribus benedicat.</s>
 					<s n="281" xml:lang="la" type="manual">Amen.</s>
 				</p>
 				<p>
-					<s n="282" xml:lang="la" type="auto"><placeName>Genevae</placeName>, 25. februarii 1547.</s>
+					<s n="282" xml:lang="la" type="auto"><placeName ref="l167" cert="high">Genevae</placeName>, 25. februarii 1547.</s>
 				</p>
 				<p>
-					<s n="283" xml:lang="la" type="auto"><persName>Ioannes Calvinus</persName> tuus.</s>
+					<s n="283" xml:lang="la" type="auto"><persName ref="p540" cert="high">Ioannes Calvinus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

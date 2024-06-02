@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11910" type="Brief" source="HBBW" n="1864">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11910" type="Brief" source="HBBW-14" n="1864">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Eberhard von Rümlang / Bern AN Heinrich Bullinger, 11. März 1544</title>
+				<title subtype="file">Eberhard von Rümlang / Bern an Heinrich Bullinger, 11. März 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,24 +17,24 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Fasciculum, quem funiculis convolutum misisti, commisi cuidam Lausanensi ad <persName ref="p7454">Coelium</persName><note xml:id="fn2" type="footnote" n="2"><persName>Celio Secondo Curione</persName>.</note> perferendum;<note xml:id="fn3" type="footnote" n="3">Zu Bullingers Sendung s. oben <ref target="file11887">Nr. 1841</ref>, 230f mit Anm. 69. -Die für <persName>Béat Comte</persName> bestimmte Schrift Bullingers gegen Cochläus (s. unten <ref target="file11956">Nr. 1909</ref>), die Ende Februar erschienen war (s. oben <ref target="file11904">Nr. 1858</ref>, Anm. 1) ist offensichtlich hier nicht gemeint.</note> confido ipsum hoc satis fideliter exequuturum etc.</s>
+					<s n="2" xml:lang="la" type="auto">Fasciculum, quem funiculis convolutum misisti, commisi cuidam Lausanensi<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> ad <persName ref="p714" cert="high">Coelium</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p714" cert="high">Celio Secondo Curione</persName>.</note> perferendum;<note xml:id="fn3" type="footnote" n="3">Zu Bullingers Sendung s. oben <ref target="file11887">Nr. 1841</ref>, 230f mit Anm. 69. -Die für <persName ref="p8031" cert="high">Béat Comte</persName> bestimmte Schrift Bullingers gegen Cochläus (s. unten <ref target="file11956">Nr. 1909</ref>), die Ende Februar erschienen war (s. oben <ref target="file11904">Nr. 1858</ref>, Anm. 1) ist offensichtlich hier nicht gemeint.</note> confido ipsum hoc satis fideliter exequuturum etc.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">Adfuit vicecomes, quem vulgo dicimus visconten, qui secundus est a duce <placeName>Sabaudiensi</placeName><note xml:id="fn5" type="footnote" n="5">Herzog <persName>Karl III. von Savoyen</persName>.</note> illique consanguinitate coniunctus, qui restitui sibi iura censusque suos in <placeName>Viviaco</placeName><note xml:id="fn6" type="footnote" n="6"><placeName>Vevey</placeName> (Kt. Waadt).</note> et <placeName>Dernie</placeName><note xml:id="fn7" type="footnote" n="7"><placeName>Ternier</placeName> bei <placeName>Saint-Julien-en-Genevois</placeName> (Dép. Haute-Savoie).</note> postulavit idque ea causa, quod nullam belli exacti culpam habuerit neque unquam quicquam hostile adversus <placeName>Bernates</placeName> gesserit; cupere itaque se in nostra esse gratia et illorum locorum nomine posthac <placeName>Bernatibus</placeName> omnia prestiturum, quę antea duci tanquam superiori suo debuerit.</s>
-					<s n="4" xml:lang="la" type="auto">Et quamvis hęc petitio non usquequaque iniqua sit visa, ut quę <placeName>Bernatibus</placeName> nihil dominii in homines et ad expeditiones bellicas nec item in illis plantatę religionis detraheret, quod census duntaxat et dominia inferiora attineret, tamen suspensum est negotium et sic illi responsum datum: nos adhuc in aperto bello esse cum duce <placeName>Sabaudiensi</placeName> nec cum illo reconciliatos; nemini itaque nos quicquam reddituros, et si conciliati cum duce fuerimus, nos deinde, quod commodum videatur, facturos.</s>
+					<s n="3" xml:lang="la" type="auto">Adfuit vicecomes, quem vulgo dicimus visconten, qui secundus est a duce <placeName ref="l75" cert="high">Sabaudiensi</placeName><note xml:id="fn5" type="footnote" n="5">Herzog <persName ref="p18536" cert="high">Karl III. von Savoyen</persName>.</note> illique consanguinitate coniunctus, qui restitui sibi iura censusque suos in <placeName ref="l952" cert="high">Viviaco</placeName><note xml:id="fn6" type="footnote" n="6"><placeName ref="l952" cert="high">Vevey</placeName> (Kt. Waadt).</note> et <placeName ref="l2063" cert="high">Dernie</placeName><note xml:id="fn7" type="footnote" n="7"><placeName ref="l2063" cert="high">Ternier</placeName> bei <placeName ref="l1225" cert="high">Saint-Julien-en-Genevois</placeName> (Dép. Haute-Savoie).</note> postulavit idque ea causa, quod nullam belli exacti culpam habuerit neque unquam quicquam hostile adversus <placeName ref="l41" cert="high">Bernates</placeName> gesserit; cupere itaque se in nostra esse gratia et illorum locorum nomine posthac <placeName ref="l41" cert="high">Bernatibus</placeName> omnia prestiturum, quę antea duci tanquam superiori suo debuerit.</s>
+					<s n="4" xml:lang="la" type="auto">Et quamvis hęc petitio non usquequaque iniqua sit visa, ut quę <placeName ref="l41" cert="high">Bernatibus</placeName> nihil dominii in homines et ad expeditiones bellicas nec item in illis plantatę religionis detraheret, quod census duntaxat et dominia inferiora attineret, tamen suspensum est negotium et sic illi responsum datum: nos adhuc in aperto bello esse cum duce <placeName ref="l75" cert="high">Sabaudiensi</placeName> nec cum illo reconciliatos; nemini itaque nos quicquam reddituros, et si conciliati cum duce fuerimus, nos deinde, quod commodum videatur, facturos.</s>
 					<s n="5" xml:lang="la" type="auto">Sic abiit.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto">Constat inter nos excludendos esse, qui tam potentes sunt in principum aulis, quod contagio nociva in subditos inde serpat, ut qui nec religioni nostrę nec libertati nostrę faveant.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto">Vale cum omnibus doctis, quos omnes meo nomine salutatos cupio, et tu rursus cum uxore<note xml:id="fn8" type="footnote" n="8"><persName>Anna, geb. Adlischwyler</persName>.</note>, liberis<note xml:id="fn9" type="footnote" n="9">Zu Bullingers Kindern s. oben <ref target="file11884">Nr. 1838</ref>, Anm. 19.</note> universaque familia optime vale meque commendatum habeto.</s>
+					<s n="7" xml:lang="la" type="auto">Vale cum omnibus doctis, quos omnes meo nomine salutatos cupio, et tu rursus cum uxore<note xml:id="fn8" type="footnote" n="8"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note>, liberis<note xml:id="fn9" type="footnote" n="9">Zu Bullingers Kindern s. oben <ref target="file11884">Nr. 1838</ref>, Anm. 19.</note> universaque familia optime vale meque commendatum habeto.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Datum <placeName>Bernę</placeName>, 11. martii anno 44.</s>
+					<s n="8" xml:lang="la" type="auto">Datum <placeName ref="l41" cert="high">Bernę</placeName>, 11. martii anno 44.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Ex animo tuus <persName>Eberart<lb/> a Rumlang</persName>.</s>
+					<s n="9" xml:lang="la" type="auto">Ex animo tuus <persName ref="p3700" cert="high">Eberart<lb/> a Rumlang</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

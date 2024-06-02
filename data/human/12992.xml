@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12992" type="Brief" source="HBBW" n="2943">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12992" type="Brief" source="HBBW-20" n="2943">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 5. Juli 1547</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 5. Juli 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,15 +18,15 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Post coenam scribo praeter morem, nam mulier haec<note xml:id="fn1" type="footnote" n="1">Unbekannt. - Vermutlich dieselbe Frau wie in <ref target="file12986">Nr. 2937</ref>,<ptr target="qvzl17204-2" type="qv"/>.</note> post coenam dixit se abituram Tigurum.</s>
-					<s n="3" xml:lang="la" type="auto">Nolui dimittere sine salutatione tui, et praeter hanc succurrit, quę in coena accepi: Caiserum<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> fecisse pacem cum omnibus usque ad mare<note xml:id="fn3" type="footnote" n="3">Gemeint ist die <placeName>Nordsee</placeName> und folglich die daran angrenzenden Gebiete, u.a. die Hansestädte; vgl. <ref target="file13001">Nr. 2952</ref>,<ptr target="qvzl17218-1" type="qv"/>.</note>, id, quod tametsi non credo, volui tamen significare tibi, an tu certius quiddam ea de re haberes.</s>
-					<s n="4" xml:lang="la" type="auto">Apud me etenim ratum est: Si verum est, quod rumor habet, contra nos<note xml:id="fn4" type="footnote" n="4">die Eidgenossen.</note> esse; nam his diebus audivi pro certo in animo esse cęsari pacem facere qualemcumque cum omnibus, tantum, ut queat rusticos illos, etiam Iovi<note xml:id="fn5" type="footnote" n="5"><persName>Jupiter</persName>, der oberste römische Gott. Hier auf den katholischen Kaiser gemünzt.</note> obpedentes<note xml:id="fn6" type="footnote" n="6">Gemeint sind die Eidgenossen; vgl. zuletzt <ref target="file12983">Nr. 2934</ref>,<ptr target="qvzl17202-3" type="qv"/>.</note>, domare.</s>
+					<s n="3" xml:lang="la" type="auto">Nolui dimittere sine salutatione tui, et praeter hanc succurrit, quę in coena accepi: <persName ref="18538" type="auto_name">Caiserum</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p18538" cert="high">Karl V.</persName></note> fecisse pacem cum omnibus usque ad mare<note xml:id="fn3" type="footnote" n="3">Gemeint ist die <placeName ref="l12" cert="high">Nordsee</placeName> und folglich die daran angrenzenden Gebiete, u.a. die Hansestädte; vgl. <ref target="file13001">Nr. 2952</ref>,<ptr target="qvzl17218-1" type="qv"/>.</note>, id, quod tametsi non credo, volui tamen significare tibi, an tu certius quiddam ea de re haberes.</s>
+					<s n="4" xml:lang="la" type="auto">Apud me etenim ratum est: Si verum est, quod rumor habet, contra nos<note xml:id="fn4" type="footnote" n="4">die Eidgenossen.</note> esse; nam his diebus audivi pro certo in animo esse cęsari pacem facere qualemcumque cum omnibus, tantum, ut queat rusticos illos, etiam Iovi<note xml:id="fn5" type="footnote" n="5"><persName ref="p18802" cert="high">Jupiter</persName>, der oberste römische Gott. Hier auf den katholischen Kaiser gemünzt.</note> obpedentes<note xml:id="fn6" type="footnote" n="6">Gemeint sind die Eidgenossen; vgl. zuletzt <ref target="file12983">Nr. 2934</ref>,<ptr target="qvzl17202-3" type="qv"/>.</note>, domare.</s>
 					<s n="5" xml:lang="la" type="auto">Utinam crederent id omnes Helvetii ut ego, dein se converterent ad dominum, nam sic in ventum abiturum esset consilium cadaveris (nihil est enim nisi cadaver cęsar<note xml:id="fn7" type="footnote" n="7">Vgl. <ref target="file12921">Nr. 2872</ref>, <ptr target="qvfn17139-7" type="qv"/>.</note>).</s>
-					<s n="6" xml:lang="la" type="auto">Comes enim Georgius Wirtembergensis, qui hic exulat, ex <placeName>Nuremberga</placeName> habet cęsarem laborare iugiter gravissime.</s>
+					<s n="6" xml:lang="la" type="auto">Comes enim Georgius Wirtembergensis, qui hic exulat, ex <placeName ref="l361" cert="high">Nuremberga</placeName> habet cęsarem laborare iugiter gravissime.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="la" type="auto">Pręter hęc ex Roma literas<note xml:id="fn9" type="footnote" n="9">Über diesen oder einen ähnlichen Bericht aus Rom hatte Bullinger bereits durch <persName>Luzi Heim</persName> mit Brief <ref target="file12964">Nr. 2915</ref> erfahren.</note> habemus de <placeName>Neapoli</placeName> esse vera omnia, et nunc esse congregata <placeName>Neapolitanorum</placeName> usque ad triginta millia contra proregem<note xml:id="fn10" type="footnote" n="10"><persName>Pedro Álvarez de Toledo</persName>. - Vgl. <ref target="file12964">Nr. 2915</ref>,<ptr target="qvzl17181-1" type="qv"/>.</note>, qui tamen fugit Caietam<note xml:id="fn11" type="footnote" n="11"><placeName>Gaeta (Latina, Italien)</placeName>, etwa 90 km nördlich von <placeName>Neapel</placeName>.</note> usque et imploravit auxilium ducis Florentini.<note xml:id="fn12" type="footnote" n="12"><persName>Cosimo I. de' Medici</persName>.</note></s>
+					<s n="7" xml:lang="la" type="auto">Pręter hęc ex Roma literas<note xml:id="fn9" type="footnote" n="9">Über diesen oder einen ähnlichen Bericht aus Rom hatte Bullinger bereits durch <persName ref="p8013" cert="high">Luzi Heim</persName> mit Brief <ref target="file12964">Nr. 2915</ref> erfahren.</note> habemus de <placeName ref="l994" cert="high">Neapoli</placeName> esse vera omnia, et nunc esse congregata <placeName ref="l994" cert="high">Neapolitanorum</placeName> usque ad triginta millia contra proregem<note xml:id="fn10" type="footnote" n="10"><persName ref="p18285" cert="high">Pedro Álvarez de Toledo</persName>. - Vgl. <ref target="file12964">Nr. 2915</ref>,<ptr target="qvzl17181-1" type="qv"/>.</note>, qui tamen fugit Caietam<note xml:id="fn11" type="footnote" n="11"><placeName ref="l955" cert="high">Gaeta (Latina, Italien)</placeName>, etwa 90 km nördlich von <placeName ref="l994" cert="high">Neapel</placeName>.</note> usque et imploravit auxilium ducis Florentini.<note xml:id="fn12" type="footnote" n="12"><persName ref="p7659" cert="high">Cosimo I. de' Medici</persName>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -41,7 +41,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="14" xml:lang="la" type="auto">De <placeName>Ulmensibus</placeName> comitiis<note xml:id="fn14" type="footnote" n="14">Die Versammlung der Reichsstände in <placeName>Ulm</placeName>; s. dazu <ref target="file12937">Nr. 2888</ref>, <ptr target="qvfn17155-2" type="qv"/>; <ref target="file12976">Nr. 2927</ref>, <ptr target="qvfn17194-2" type="qv"/>.</note> nosti omnia.</s>
+					<s n="14" xml:lang="la" type="auto">De <placeName ref="l513" cert="high">Ulmensibus</placeName> comitiis<note xml:id="fn14" type="footnote" n="14">Die Versammlung der Reichsstände in <placeName ref="l513" cert="high">Ulm</placeName>; s. dazu <ref target="file12937">Nr. 2888</ref>, <ptr target="qvfn17155-2" type="qv"/>; <ref target="file12976">Nr. 2927</ref>, <ptr target="qvfn17194-2" type="qv"/>.</note> nosti omnia.</s>
 					<s n="15" xml:lang="la" type="auto">Mihi placet, quicquid illic est actum.</s>
 					<s n="16" xml:lang="la" type="auto">Rogo dominum, ut confirmet.<pb type="edition" next="292"/></s>
 				</p>
@@ -49,7 +49,7 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="17" xml:lang="la" type="auto">Vale in Christo cum tuis.</s>
-					<s n="18" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 5. iulii anno 1547.</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 5. iulii anno 1547.</s>
 					<s n="19" xml:lang="la" type="auto">Tuus Os. Myc.</s>
 				</p>
 				<p>

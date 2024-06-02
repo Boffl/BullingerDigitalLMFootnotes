@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11733" type="Brief" source="GR" n="37">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11733" type="Brief" source="GR-I" n="37">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Camillo Renato / Tirano AN Heinrich Bullinger, 9. November 1542</title>
+				<title subtype="file">Camillo Renato / Tirano an Heinrich Bullinger, 9. November 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

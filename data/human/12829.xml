@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12829" type="Brief" source="HBBW" n="2780">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12829" type="Brief" source="HBBW-19" n="2780">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Haller d.J., 30. Januar 1547</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Haller d.J., 30. Januar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,18 +16,18 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Recepi tuas 25. ianuarii scriptas,<note xml:id="fn2" type="footnote" n="2">Brief <ref target="file12818">Nr. 2769</ref>.</note> ex quibus intelligo te non accepisse meas litteras, quanquam non dubitem te iamiam meas<note xml:id="fn4" type="footnote" n="4">Bullingers nicht erhaltener Brief an Hal- 1er vom 22. Januar; s. <ref target="file12835">Nr. 2786</ref>,1.</note> saltem ab affine tuo accepisse.</s>
-					<s n="2" xml:lang="la" type="auto">Mature satis meum tibi consilium scripsi.<note xml:id="fn6" type="footnote" n="6">Bezug auf <persName>Hallers</persName> Vorwurf in Nr. 2769,1-5. Bullinger hatte schon mit <ref target="file12801">Nr. 2752</ref>,4-12, zum Ausharren geraten und dies in <ref target="file12819">Nr. 2770</ref>,14-27, wiederholt.</note></s>
+					<s n="2" xml:lang="la" type="auto">Mature satis meum tibi consilium scripsi.<note xml:id="fn6" type="footnote" n="6">Bezug auf <persName ref="p8018" cert="high">Hallers</persName> Vorwurf in Nr. 2769,1-5. Bullinger hatte schon mit <ref target="file12801">Nr. 2752</ref>,4-12, zum Ausharren geraten und dies in <ref target="file12819">Nr. 2770</ref>,14-27, wiederholt.</note></s>
 					<s n="3" xml:lang="la" type="auto">Consulo, ut tamdiu haereas, quamdiu salva potes conscientia, quamdiu regnum Christi promovere potes.</s>
 					<s n="4" xml:lang="la" type="auto">Hic, hic amor et studium erga gregem domini declaratur.</s>
-					<s n="5" xml:lang="la" type="auto">Caeterum, quia ipse Christus dominus et divinus ille <persName>Paulus</persName> frequentissime fuga furorem hostium declinarunt, nollem te ipsum et fratres reliquos tres<note xml:id="fn7" type="footnote" n="7"><persName>Lorenz Meyer (Agricola)</persName>. <persName>(Hans) Thoman Ruman (Römer)</persName> und <persName>Rudolf Schwyzer d.Ä.</persName></note> con-<pb type="edition" next="221"/>iiceres in flammam.</s>
+					<s n="5" xml:lang="la" type="auto">Caeterum, quia ipse Christus dominus et divinus ille <persName ref="p19981" cert="high">Paulus</persName> frequentissime fuga furorem hostium declinarunt, nollem te ipsum et fratres reliquos tres<note xml:id="fn7" type="footnote" n="7"><persName ref="p8130" cert="high">Lorenz Meyer (Agricola)</persName>. <persName ref="p2812" cert="high">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="p6544" cert="high">Rudolf Schwyzer d.Ä.</persName></note> con-<pb type="edition" next="221"/>iiceres in flammam.</s>
 					<s n="6" xml:lang="la" type="auto">Quod si divina dispositione contigerit te in manus incidere hostium, invoca dominum, fortis esto et cogita veritatis sententiam illam pronunciatam a domino: „Nolite timere eos, qui corpus occidunt, animam occidere non possunt“, etc.</s>
-					<s n="7" xml:lang="la" type="auto">Nosti doctrinam salvatoris nostri Mt 10.<note xml:id="fn8" type="footnote" n="8">Mt 10, 28.</note></s>
+					<s n="7" xml:lang="la" type="auto">Nosti doctrinam salvatoris nostri <cit type="bible"><ref>Mt 10</ref></cit>.<note xml:id="fn8" type="footnote" n="8"><cit type="bible"><ref>Mt 10, 28</ref></cit>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Ego tuas<note xml:id="fn9" type="footnote" n="9"><persName>Hallers</persName> Brief an Bullinger vom 19. Januar (<ref target="file12808">Nr. 2759</ref>).</note> heri recepi et consulibus<note xml:id="fn10" type="footnote" n="10"><persName>Johannes Haab</persName>, <persName>Hans Rudolf Lavater</persName>.</note> suas<note xml:id="fn11" type="footnote" n="11"><persName>Hallers</persName> Brief an den Zürcher Rat vom 18. Januar; s. Nr. 2759, Anm. 32.</note> tradi curavi.</s>
-					<s n="9" xml:lang="la" type="auto">Illi omnem operam pollicebantur et recta ibant in consilium consultaturi, quid tibi, fratribus et <placeName>Augustanae</placeName> urbi responderi possit.</s>
+					<s n="8" xml:lang="la" type="auto">Ego tuas<note xml:id="fn9" type="footnote" n="9"><persName ref="p8018" cert="high">Hallers</persName> Brief an Bullinger vom 19. Januar (<ref target="file12808">Nr. 2759</ref>).</note> heri recepi et consulibus<note xml:id="fn10" type="footnote" n="10"><persName ref="p1419" cert="high">Johannes Haab</persName>, <persName ref="p1888" cert="high">Hans Rudolf Lavater</persName>.</note> suas<note xml:id="fn11" type="footnote" n="11"><persName ref="p8018" cert="high">Hallers</persName> Brief an den Zürcher Rat vom 18. Januar; s. Nr. 2759, Anm. 32.</note> tradi curavi.</s>
+					<s n="9" xml:lang="la" type="auto">Illi omnem operam pollicebantur et recta ibant in consilium consultaturi, quid tibi, fratribus et <placeName ref="l1976" cert="high">Augustanae</placeName> urbi responderi possit.</s>
 					<s n="10" xml:lang="la" type="auto">Sederunt autem solicite diutius usque ad 10.<note xml:id="fn12" type="footnote" n="12">decimam horam.</note></s>
 					<s n="11" xml:lang="la" type="auto">Iam quid consultarint, certo scire non possum.</s>
 					<s n="12" xml:lang="la" type="auto">Spero tamen tibi et fratribus recte esse consultum et reditum apertum, si amplius non libeat libere praedicare verbum veritatis.</s>
@@ -36,7 +36,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="13" xml:lang="la" type="auto">Interea este fortes in domino.</s>
-					<s n="14" xml:lang="la" type="auto">Cogitate, quid prophetae et apostoli sint passi, et ipse dominus noster, et perseverate in confessione veri in finem usque.<note xml:id="fn13" type="footnote" n="13">Vgl. Mt 24, 13; Hebr 3, 6. 14: Apk 2, 26.</note></s>
+					<s n="14" xml:lang="la" type="auto">Cogitate, quid prophetae et apostoli sint passi, et ipse dominus noster, et perseverate in confessione veri in finem usque.<note xml:id="fn13" type="footnote" n="13">Vgl. <cit type="bible"><ref>Mt 24, 13</ref></cit>; <cit type="bible"><ref>Hebr 3, 6. 14</ref></cit>: <cit type="bible"><ref>Apk 2, 26</ref></cit>.</note></s>
 					<s n="15" xml:lang="la" type="auto">Dominus Iesus servet te et reliquos.</s>
 					<note type="address">[Ohne Adresse]</note>
 				</p>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11969" type="Brief" source="HBBW" n="1922">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11969" type="Brief" source="HBBW-14" n="1922">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Gast / [Basel] AN Heinrich Bullinger, zwischen [5.] Juni 1544 und [8.] Juni 1544</title>
+				<title subtype="file">Johannes Gast / [Basel] an Heinrich Bullinger, zwischen [5.] Juni 1544 und [8.] Juni 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,12 +18,12 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Hęc<note xml:id="fn1" type="footnote" n="1">Über die Briefbeilage ist nichts Näheres bekannt.</note> heri ad me venerunt.</s>
-					<s n="3" xml:lang="la" type="auto">Quod fama apud nos habet, dicam: Lutzenburgum abhinc octo dies a duce Gulielmo a <persName>Furstenberg</persName> esse captum,<note xml:id="fn2" type="footnote" n="2"><placeName>Luxemburg</placeName> ergab sich am 29. Mai dem Belagerungsheer <persName>Fürstenbergs</persName>; s. <persName>Du Bellay</persName>, Mémoires IV 239; <bibl>Paillard</bibl> 29-43.</note> milites in subsidio oppidi collocatos vita et transitu donatos relictis post se armis instrumentisque bellicis omnibus; destituti enim comeatu a Gallo<note xml:id="fn3" type="footnote" n="3"><persName>König Franz I.</persName></note> non potuisse obsidionis vim diutius perferre.</s>
-					<s n="4" xml:lang="la" type="auto">Cives loci, qui in oppido manserunt, sunt fere omnes suspensi<note xml:id="fn4" type="footnote" n="4">Dies ist wohl kaum im wörtlichen Sinn zu verstehen ("sind gehängt worden"); passender scheint hier die übertragene Bedeutung ("sind in in der Schwebe, in ängstlicher Erwartung").</note>, ut qui hosti cuivis victori omnia secreta victi aperuerint; intra annos enim paucos quater nunc Gallo, nunc [ca]esari<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> sese dediderunt.</s>
+					<s n="3" xml:lang="la" type="auto">Quod fama apud nos habet, dicam: Lutzenburgum abhinc octo dies a duce Gulielmo a <persName ref="p7492" cert="high">Furstenberg</persName> esse captum,<note xml:id="fn2" type="footnote" n="2"><placeName ref="l39" cert="high">Luxemburg</placeName> ergab sich am 29. Mai dem Belagerungsheer <persName ref="p7492" cert="high">Fürstenbergs</persName>; s. <persName ref="p17970" cert="high">Du Bellay</persName>, Mémoires IV 239; <bibl>Paillard</bibl> 29-43.</note> milites in subsidio oppidi collocatos vita et transitu donatos relictis post se armis instrumentisque bellicis omnibus; destituti enim comeatu a <persName ref="7637" type="auto_name">Gallo</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p7637" cert="high">König Franz I.</persName></note> non potuisse obsidionis vim diutius perferre.</s>
+					<s n="4" xml:lang="la" type="auto">Cives loci, qui in oppido manserunt, sunt fere omnes suspensi<note xml:id="fn4" type="footnote" n="4">Dies ist wohl kaum im wörtlichen Sinn zu verstehen ("sind gehängt worden"); passender scheint hier die übertragene Bedeutung ("sind in in der Schwebe, in ängstlicher Erwartung").</note>, ut qui hosti cuivis victori omnia secreta victi aperuerint; intra annos enim paucos quater nunc Gallo, nunc [ca]esari<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538" cert="high">Karl V.</persName></note> sese dediderunt.</s>
 					<s n="5" xml:lang="la" type="auto">Ager eorum aliquot miliaribus circumquaque est [de]vastatissimus et in solitudinem quasi reductus.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Turca<note xml:id="fn6" type="footnote" n="6"><persName>Sultan Suleiman I.</persName></note> Blindeburgum, arcem munitissimam, et alia occupavit abductis et<pb type="edition" next="261"/> interfectis circiter viginti quatuor milibus hominum<note xml:id="fn7" type="footnote" n="7">Zur Einnahme von Blindenburg (Plintenburg, <placeName>Visegrád</placeName>, Ungarn) s. oben <ref target="file11953">Nr. 1906</ref>, Anm. 16.</note>.</s>
+					<s n="6" xml:lang="la" type="auto"><persName ref="18593" type="auto_name">Turca</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p18593" cert="high">Sultan Suleiman I.</persName></note> Blindeburgum, arcem munitissimam, et alia occupavit abductis et<pb type="edition" next="261"/> interfectis circiter viginti quatuor milibus hominum<note xml:id="fn7" type="footnote" n="7">Zur Einnahme von Blindenburg (Plintenburg, <placeName ref="l2072" cert="high">Visegrád</placeName>, Ungarn) s. oben <ref target="file11953">Nr. 1906</ref>, Anm. 16.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Sic deus nostros punit, ut in se mutuo ruant.</s>
 					<s n="8" xml:lang="la" type="auto">5. die iunii.</s>
 				</p>
@@ -31,11 +31,11 @@
 					<s n="9" xml:lang="la" type="auto">Audio insuper in Pedemontana regione iam alterum conflictum fuisse; caesareani iterum succubuerunt.</s>
 					<s n="10" xml:lang="la" type="auto">Fortassis ea tu melius nosti quam ego.</s>
 					<s n="11" xml:lang="la" type="auto">Vale.</s>
-					<s n="12" xml:lang="la" type="auto">Manes <persName>Carolstadii</persName> mihi et <persName>Oporino</persName> negotium facessunt.</s>
+					<s n="12" xml:lang="la" type="auto">Manes <persName ref="p4349" cert="high">Carolstadii</persName> mihi et <persName ref="p8126" cert="high">Oporino</persName> negotium facessunt.</s>
 					<s n="13" xml:lang="la" type="auto">8. iunii 1544.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="la" type="auto">Tuus <persName ref="p18518">Gastius</persName>.</s>
+					<s n="14" xml:lang="la" type="auto">Tuus <persName ref="p1278" cert="high">Gastius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

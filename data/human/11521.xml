@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11521" type="Brief" source="HBBW" n="1478">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11521" type="Brief" source="HBBW-11" n="1478">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Erasmus Ritter / Bern AN Heinrich Bullinger, 14. März 1541</title>
+				<title subtype="file">Erasmus Ritter / Bern an Heinrich Bullinger, 14. März 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,17 +19,17 @@
 					<s n="1" xml:lang="la" type="auto">Gratia et pax a deo per Iesum Christum etc.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Nichil habeo, quod scribam, quoniam id, de quo percunctabaris aliquando, videlicet quid imprimeretur etc., tunc respondi,<note xml:id="fn1" type="footnote" n="1">Am 11. Februar, s. oben <ref target="file11506">Nr. 1463</ref>, 21-25.</note> quod calcographus<note xml:id="fn2" type="footnote" n="2"><persName>Mathias Apiarius</persName>.</note> iussus esset subsistere.</s>
-					<s n="3" xml:lang="la" type="auto">Sed interim nescio quo consilio fretus perrexit et catechismum excussit<note xml:id="fn3" type="footnote" n="3">Vgl. Rainer <hi>Henrich,</hi> Ein <placeName>Berner</placeName> "Kunzechismus" von 1541. <persName>Bucers</persName> verloren geglaubte Bearbeitung des Meganderschen Katechismus, in: <bibl>Zwa</bibl> XXIV, 1997, S. 81-94. - Ein weiteres Exemplar dieser Ausgabe findet sich in der Universitätsbibliothek Edinburgh (freundlicher Hinweis von Dr. Thomas Wilhelmi, Heidelberg).</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Nichil habeo, quod scribam, quoniam id, de quo percunctabaris aliquando, videlicet quid imprimeretur etc., tunc respondi,<note xml:id="fn1" type="footnote" n="1">Am 11. Februar, s. oben <ref target="file11506">Nr. 1463</ref>, 21-25.</note> quod calcographus<note xml:id="fn2" type="footnote" n="2"><persName ref="p4191" cert="high">Mathias Apiarius</persName>.</note> iussus esset subsistere.</s>
+					<s n="3" xml:lang="la" type="auto">Sed interim nescio quo consilio fretus perrexit et catechismum excussit<note xml:id="fn3" type="footnote" n="3">Vgl. Rainer <hi>Henrich,</hi> Ein <placeName ref="l41" cert="high">Berner</placeName> "Kunzechismus" von 1541. <persName ref="p467" cert="high">Bucers</persName> verloren geglaubte Bearbeitung des Meganderschen Katechismus, in: <bibl>Zwa</bibl> XXIV, 1997, S. 81-94. - Ein weiteres Exemplar dieser Ausgabe findet sich in der Universitätsbibliothek Edinburgh (freundlicher Hinweis von Dr. Thomas Wilhelmi, Heidelberg).</note>.</s>
 					<s n="4" xml:lang="la" type="auto">At pars altera iussit quoque, ut libellus agendarum statim imprimeretur, qui veterem modum loquendi observat, quapropter nos una ex officina et calidum et frigidum<note xml:id="fn5" type="footnote" n="5">Vgl. Adagia, 1, 8, 30 (<bibl>LB</bibl> II 309f).</note> evulgabimus.</s>
-					<s n="5" xml:lang="la" type="auto">Sed id unice quaeso, ut possim abs te impetrare, quatinus tua scripta non differas ad eos, de quibus admonitus es,<note xml:id="fn6" type="footnote" n="6"><persName>Ritter</persName> erwartete offenbar briefliche Unterstützung in der Auseinandersetzung mit seinen theologisch mehr von <persName>Bucer</persName> geprägten Amtsbrüdern (besonders <persName>Sebastian Meyer</persName> und <persName>Peter Kunz</persName>); vgl. oben <ref target="file11511">Nr. 1468</ref>, 2-42.</note> quoniam tu non credis, quantum ecclesie nostre utilitatis adferre possis.</s>
+					<s n="5" xml:lang="la" type="auto">Sed id unice quaeso, ut possim abs te impetrare, quatinus tua scripta non differas ad eos, de quibus admonitus es,<note xml:id="fn6" type="footnote" n="6"><persName ref="p2810" cert="high">Ritter</persName> erwartete offenbar briefliche Unterstützung in der Auseinandersetzung mit seinen theologisch mehr von <persName ref="p467" cert="high">Bucer</persName> geprägten Amtsbrüdern (besonders <persName ref="p5837" cert="high">Sebastian Meyer</persName> und  <persName ref="p8401" cert="high">Peter Kunz</persName>); vgl. oben <ref target="file11511">Nr. 1468</ref>, 2-42.</note> quoniam tu non credis, quantum ecclesie nostre utilitatis adferre possis.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Vale, ex [<placeName>Berna</placeName>], 14. martii 1541.</s>
+					<s n="6" xml:lang="la" type="auto">Vale, ex [<placeName ref="l41" cert="high">Berna</placeName>], 14. martii 1541.</s>
 					<s n="7" xml:lang="la" type="auto">Res se optime haberet, modo vos vestram operam adiungeretis; non dubito brevi fore, ut a novatoribus illis liberaremur etc.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto"><persName>Erasmus Ritter</persName>, ex animo tuus.<pb type="edition" next="105"/></s>
+					<s n="8" xml:lang="la" type="auto"><persName ref="p2810" cert="high">Erasmus Ritter</persName>, ex animo tuus.<pb type="edition" next="105"/></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

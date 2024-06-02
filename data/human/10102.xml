@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10102" type="Brief" source="HBBW" n="73">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10102" type="Brief" source="HBBW-2" n="73">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Berchtold Haller / Bern AN Heinrich Bullinger, 11. März 1532</title>
+				<title subtype="file">Berchtold Haller / Bern an Heinrich Bullinger, 11. März 1532</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,23 +21,23 @@
 					<s n="3" xml:lang="la" type="auto">Quid intentatum relinquet sathan, quo pietatem veram faciat alienam, idolatriam vero reducem?</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">Iam video, quod <persName>Capiton</persName> persuadere non poterat multis etiam conatibus, te Tigurinis scilicet magis necessarium quam <placeName>Bernatibus</placeName><note xml:id="fn2" type="footnote" n="2">Zu Bullingers Berufung nach <placeName>Bern</placeName> s. <bibl>HBBW</bibl> I <ref target="file10074">[Nr. 46]</ref> 229f.</note>, in veritate sic se habere, quamvis animus meus ita tibi sit addictus, ut omnia etiam durissima mihi te fratre et symmista putarem levissima.</s>
+					<s n="4" xml:lang="la" type="auto">Iam video, quod <persName ref="p5565" cert="high">Capiton</persName> persuadere non poterat multis etiam conatibus, te Tigurinis scilicet magis necessarium quam <placeName ref="l41" cert="high">Bernatibus</placeName><note xml:id="fn2" type="footnote" n="2">Zu Bullingers Berufung nach <placeName ref="l41" cert="high">Bern</placeName> s. <bibl>HBBW</bibl> I <ref target="file10074">[Nr. 46]</ref> 229f.</note>, in veritate sic se habere, quamvis animus meus ita tibi sit addictus, ut omnia etiam durissima mihi te fratre et symmista putarem levissima.</s>
 					<s n="5" xml:lang="la" type="auto">Victoriam illam insignem fratribus nostris indicavi, qui dolenter audiunt, Tigurum eo venisse, quod collegii substantiam in belli aut aęrarii usum vertere voluit<note xml:id="fn3" type="footnote" n="3">Siehe <bibl>Pestalozzi</bibl> 123; <hi>Weisz,</hi> aaO.</note>.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto">Nostrates post synodum 10 diaconos in agro statuerunt, cuilibet 60 gl., qui parochis infirmis ministrabunt et mortuis succedent.</s>
 					<s n="7" xml:lang="la" type="auto">Duos etiam in urbe habemus, ut perpetuo habeantur duodecim, qui ecclesiis praefici possint.</s>
-					<s n="8" xml:lang="la" type="auto">Id tamen fateri cogor, quod nostrates in statuendo praecipites sunt, ad destituendum proclives<note xml:id="fn4" type="footnote" n="4">Zur endgültigen Regelung des Helferwesens, deren Notwendigkeit <persName>Capito</persName> nach der <placeName>Berner</placeName> Synode ebenfalls betont hatte, wie auch zur Wahl der zwölf «Helfer» bzw. «diaconi» im Februar/März 1532 s. <hi>de Quervain</hi> 8.14f.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Id tamen fateri cogor, quod nostrates in statuendo praecipites sunt, ad destituendum proclives<note xml:id="fn4" type="footnote" n="4">Zur endgültigen Regelung des Helferwesens, deren Notwendigkeit <persName ref="p5565" cert="high">Capito</persName> nach der <placeName ref="l41" cert="high">Berner</placeName> Synode ebenfalls betont hatte, wie auch zur Wahl der zwölf «Helfer» bzw. «diaconi» im Februar/März 1532 s. <hi>de Quervain</hi> 8.14f.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Facundia mihi nulla penitus est, orandi latera nulla, ad persuadendum etiam coram senatu aut privatis penitius nullus.</s>
 					<s n="10" xml:lang="la" type="auto">Novi ego curtam meam supellectilem.</s>
-					<s n="11" xml:lang="la" type="auto">Praestat <persName>Megander</persName> in hoc, etsi autoritati suę praeterita tragędia<note xml:id="fn5" type="footnote" n="5">Siehe oben S. 30, Anm. 3.</note> plurimum decesserit.</s>
+					<s n="11" xml:lang="la" type="auto">Praestat <persName ref="p8412" cert="high">Megander</persName> in hoc, etsi autoritati suę praeterita tragędia<note xml:id="fn5" type="footnote" n="5">Siehe oben S. 30, Anm. 3.</note> plurimum decesserit.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la" type="auto">Veniet ad vos Rellicanus.</s>
 					<s n="13" xml:lang="la" type="auto">Cui quae inter nos, te scilicet et me, scribuntur non communices.</s>
 					<s n="14" xml:lang="la" type="auto">Apud quem ego, quae misisti, remittam.</s>
 					<s n="15" xml:lang="la" type="auto">Bonus vir et studiosus alioqui simultatem sibi finxit in me, quasi a nobis amandandum curaverim.</s>
-					<s n="16" xml:lang="la" type="auto">Laboravit senatus pro <persName>Melchiore Volmario</persName>, viro doctissimo apud Byturiges<note xml:id="fn7" type="footnote" n="7">In <placeName>Bourges</placeName>.</note> praelegenti greca.</s>
+					<s n="16" xml:lang="la" type="auto">Laboravit senatus pro <persName ref="p8113" cert="high">Melchiore Volmario</persName>, viro doctissimo apud Byturiges<note xml:id="fn7" type="footnote" n="7">In <placeName ref="l59" cert="high">Bourges</placeName>.</note> praelegenti greca.</s>
 					<s n="17" xml:lang="la" type="auto">Id ipse ęgre ferens hactenus tamen dissimulavit.</s>
 					<s n="18" xml:lang="la" type="auto">Conditionem certe habet in precio nobis ęquam, in labore longe dissimilem, quam certe illi optime faveo, modo se etiam aliorum ecclesię negociorum participem faceret, quod hactenus noluit.</s>
 					<s n="19" xml:lang="la" type="auto">Senatus enim petierat, ut aliquando concionandi provinciam susciperet, dum nostrum aliquis infirmaretur, [quod r]enuit.</s>
@@ -51,9 +51,9 @@
 					<s n="25" xml:lang="la" type="auto">Non [!] igitur negligas et cura omnino, ut ante festum palmarum habeam<note xml:id="fn9" type="footnote" n="9">Bullingers Antwort ist nicht erhalten.</note>.</s>
 				</p>
 				<p>
-					<s n="26" xml:lang="la" type="auto">Scripseram per <persName>Waltherum Schwiger</persName><note xml:id="fn10" type="footnote" n="10">Siehe oben S. 55, Anm. 1.</note>.</s>
+					<s n="26" xml:lang="la" type="auto">Scripseram per <persName ref="p6537" cert="high">Waltherum Schwiger</persName><note xml:id="fn10" type="footnote" n="10">Siehe oben S. 55, Anm. 1.</note>.</s>
 					<s n="27" xml:lang="la" type="manual">Nescio, num redditę sint literae.</s>
-					<s n="28" xml:lang="la" type="auto">Si fuerint, illis respondeas, sin minus, denuo scribam, quod scilicet <persName>Capito</persName> binis indicavit epistolis<note xml:id="fn11" type="footnote" n="11">Nicht erhalten.</note>.</s>
+					<s n="28" xml:lang="la" type="auto">Si fuerint, illis respondeas, sin minus, denuo scribam, quod scilicet <persName ref="p5565" cert="high">Capito</persName> binis indicavit epistolis<note xml:id="fn11" type="footnote" n="11">Nicht erhalten.</note>.</s>
 				</p>
 				<p>
 					<s n="29" xml:lang="la" type="auto">Apud nos se res bene habent et utinam tam constanter quam bene.</s>
@@ -72,22 +72,22 @@
 					<s n="38" xml:lang="la" type="auto">Vale, mea animula charissima, et me in fratrum tibi charissimorum albo situm amare non desinas.</s>
 				</p>
 				<p>
-					<s n="39" xml:lang="la" type="auto"><placeName>Bernae</placeName>, II. martii anno 32.</s>
+					<s n="39" xml:lang="la" type="auto"><placeName ref="l41" cert="high">Bernae</placeName>, II. martii anno 32.</s>
 				</p>
 				<p>
 					<s n="40" xml:lang="la" type="auto">Mitto ad te acta sinodalia<note xml:id="fn17" type="footnote" n="17">Siehe oben S. 30, Anm. 5.</note>.</s>
 					<s n="41" xml:lang="la" type="auto">Quae cum perlegeris, si quid desideres, indica.</s>
-					<s n="42" xml:lang="la" type="auto">Latinitate donavit magnę spei adulescens <placeName>Bernas</placeName>, <persName>Simon Sultzerus</persName> apud <persName>Grinęum</persName>, et a Cratandro, ni fallar, excudetur.</s>
+					<s n="42" xml:lang="la" type="auto">Latinitate donavit magnę spei adulescens <placeName ref="l41" cert="high">Bernas</placeName>, <persName ref="p3099" cert="high">Simon Sultzerus</persName> apud <persName ref="p1365" cert="high">Grinęum</persName>, et a <persName ref="4581" type="auto_name">Cratandro</persName>, ni fallar, excudetur.</s>
 				</p>
 				<p>
-					<s n="43" xml:lang="la" type="auto">Salutabis <persName>Pellicanum</persName>, et sollicitabis, ut <persName ref="p5295">Froschowerus</persName> primas commentarii paginas misit, ita deinceps mittat, quicquid fuerit excusum<note xml:id="fn19" type="footnote" n="19">Siehe oben S. 46, 32f.</note>.</s>
+					<s n="43" xml:lang="la" type="auto">Salutabis <persName ref="p8127" cert="high">Pellicanum</persName>, et sollicitabis, ut <persName ref="p1227" cert="high">Froschowerus</persName> primas commentarii paginas misit, ita deinceps mittat, quicquid fuerit excusum<note xml:id="fn19" type="footnote" n="19">Siehe oben S. 46, 32f.</note>.</s>
 				</p>
 				<p>
 					<s n="44" xml:lang="la" type="auto">Tuum minimum numisma.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="45" xml:lang="la" type="auto"><persName>Huldricho</persName> [!] Bullingero, Tigurinorum ecclesiastę fidelissimo, fratri suo longe omnium charissimo.</s>
+					<s n="45" xml:lang="la" type="auto"><persName ref="p4091" cert="high">Huldricho</persName> [!] Bullingero, Tigurinorum ecclesiastę fidelissimo, fratri suo longe omnium charissimo.</s>
 				</p>
 			</div>
 		</body>

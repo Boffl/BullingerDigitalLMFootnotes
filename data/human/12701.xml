@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12701" type="Brief" source="TUSTEP" n="2654">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12701" type="Brief" source="TUSTEP-18" n="2654">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel AN Heinrich Bullinger, 1. November 1546</title>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / Basel an Heinrich Bullinger, 1. November 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,7 +26,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="la" type="auto">Interim fuit pergratum audire, quod nunciasti de caesarianis fugatis, quorum tamen ductorem libentius sublatum audivissem, quo vivo, non video, quomodo firma pax <persName>Germaniae</persName> restituatur, quamvis ad extremos Garamantas semel fugatus videatur.</s>
+					<s n="7" xml:lang="la" type="auto">Interim fuit pergratum audire, quod nunciasti de caesarianis fugatis, quorum tamen ductorem libentius sublatum audivissem, quo vivo, non video, quomodo firma pax <persName ref="p18477" cert="high">Germaniae</persName> restituatur, quamvis ad extremos Garamantas semel fugatus videatur.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -36,20 +36,20 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="9" xml:lang="la" type="auto">Quodsi Helvetii quoque prudenter considerarent, quod gravissime ab <persName>Euripide</persName> dictum est:... nec imminentem frigoris tempestatem timerent et acrius ac celerius rem aggrederentur.</s>
+					<s n="9" xml:lang="la" type="auto">Quodsi Helvetii quoque prudenter considerarent, quod gravissime ab <persName ref="p19890" cert="high">Euripide</persName> dictum est:... nec imminentem frigoris tempestatem timerent et acrius ac celerius rem aggrederentur.</s>
 					<s n="10" xml:lang="la" type="auto">Utinam illi cunctando nobis possent restituere rem, quam adversarius impigre sane perdere conatur.</s>
 					<s n="11" xml:lang="la" type="auto">Sed vivit adhuc deus, qui tam immanes adversariorum crudelitates non permittet impunitas.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Ad d. <persName>Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName>Theodor Bibliander</persName>.</note> nunc scriberem, si per tempus liceret; sed nondum accepi ab eo responsum, cuius equidem literis vehementer cupiam recreari.</s>
-					<s n="13" xml:lang="la" type="auto">Historia <persName>Diazii</persName> est sub prelo, qua perfecta ad vos mittam.</s>
+					<s n="12" xml:lang="la" type="auto">Ad d. <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> nunc scriberem, si per tempus liceret; sed nondum accepi ab eo responsum, cuius equidem literis vehementer cupiam recreari.</s>
+					<s n="13" xml:lang="la" type="auto">Historia <persName ref="p4631" cert="high">Diazii</persName> est sub prelo, qua perfecta ad vos mittam.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="14" xml:lang="la" type="auto">Vidi apud te primam, secundam et terciam sessionem concilii <placeName>Tridentini</placeName>, quam rogo ut primo nuncio ad me mittas, etiam si meo sumptu ab aliquo studioso transcribatur, ea lege, ut paulo post typis editam ad te mittam cum aliis non paucis eiusdem argumenti, quae nunc imprimuntur, quem ad libellum perficiendum tres istas sessiones tantum desideramus.</s>
+					<s n="14" xml:lang="la" type="auto">Vidi apud te primam, secundam et terciam sessionem concilii <placeName ref="l1107" cert="high">Tridentini</placeName>, quam rogo ut primo nuncio ad me mittas, etiam si meo sumptu ab aliquo studioso transcribatur, ea lege, ut paulo post typis editam ad te mittam cum aliis non paucis eiusdem argumenti, quae nunc imprimuntur, quem ad libellum perficiendum tres istas sessiones tantum desideramus.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
@@ -57,7 +57,7 @@
 					<s n="15" xml:lang="la" type="auto">Vale et omnes fratres nominatim meis verbis salutabis.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto"><placeName>Basileae</placeName>, calendis novembris 1546.</s>
+					<s n="16" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, calendis novembris 1546.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>

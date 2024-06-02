@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12086" type="Brief" source="HBBW" n="2039">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12086" type="Brief" source="HBBW-14" n="2039">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Eberhard von Rümlang / Bern AN Heinrich Bullinger, 26. November 1544</title>
+				<title subtype="file">Eberhard von Rümlang / Bern an Heinrich Bullinger, 26. November 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,21 +17,21 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Adfuerunt a singulis capitulis agri nostri Germanici deputati quidam, quorum a quinque<note xml:id="fn2" type="footnote" n="2">Darunter <placeName>Thun</placeName>, <placeName>Büren</placeName> und <placeName>Aarau</placeName>; s. <bibl>Hundeshagen</bibl> 191.</note> capitulis legati petiere disceptationem concionatorum<pb type="edition" next="558"/> nostrorum componi, a tribus<note xml:id="fn3" type="footnote" n="3"><placeName>Aarau</placeName>, <placeName>Brugg</placeName> und <placeName>Nidau</placeName>; s. <bibl>Hundeshagen</bibl> 189, Anm. a; 191-193; <persName>Michael Stettler</persName>, <placeName>Berner</placeName> Chronik (StA <placeName>Bern</placeName>, DQ 11), Bd. D: 1541-1550, f. 91r.-v.</note> vero veritatem in Disputatione<note xml:id="fn4" type="footnote" n="4">Die <placeName>Berner</placeName> Disputation von Januar 1528.</note> evictam et obtentam ursere et, ne quid tale posthac contingat, iuramento omnes concionatores obstringi efflagitarunt.</s>
+					<s n="2" xml:lang="la" type="auto">Adfuerunt a singulis capitulis agri nostri Germanici deputati quidam, quorum a quinque<note xml:id="fn2" type="footnote" n="2">Darunter <placeName ref="l503" cert="high">Thun</placeName>, <placeName ref="l1438" cert="high">Büren</placeName> und <placeName ref="l2" cert="high">Aarau</placeName>; s. <bibl>Hundeshagen</bibl> 191.</note> capitulis legati petiere disceptationem concionatorum<pb type="edition" next="558"/> nostrorum componi, a tribus<note xml:id="fn3" type="footnote" n="3"><placeName ref="l2" cert="high">Aarau</placeName>, <placeName ref="l69" cert="high">Brugg</placeName> und <placeName ref="l1483" cert="high">Nidau</placeName>; s. <bibl>Hundeshagen</bibl> 189, Anm. a; 191-193; <persName ref="p6703" cert="high">Michael Stettler</persName>, <placeName ref="l41" cert="high">Berner</placeName> Chronik (StA <placeName ref="l41" cert="high">Bern</placeName>, DQ 11), Bd. D: 1541-1550, f. 91r.-v.</note> vero veritatem in Disputatione<note xml:id="fn4" type="footnote" n="4">Die <placeName ref="l41" cert="high">Berner</placeName> Disputation von Januar 1528.</note> evictam et obtentam ursere et, ne quid tale posthac contingat, iuramento omnes concionatores obstringi efflagitarunt.</s>
 					<s n="3" xml:lang="la" type="auto">Dimissi sunt omnes cum hoc responso, quod senatus cum ducentis<note xml:id="fn5" type="footnote" n="5">Der Kleine Rat und der Rat der Zweihundert (d.h. der Große Rat); s. <bibl>Hundeshagen</bibl> 193: "Hiemit wurde die ziemlich unbefriedigt gelassene Deputation verabschiedet".</note> hoc negotium pertractandum suscipere velit diemque constituere, Iovis videlicet post Andreę festum, et quicquid ad hanc rem conducat, tunc universum audiri.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">Ad hunc ergo diem et scripta senatus vestri<note xml:id="fn7" type="footnote" n="7">Siehe zuletzt oben <ref target="file12081">Nr. 2034</ref> mit Anm. 1. Im <placeName>Berner</placeName> Ratsmanual findet sich unter dem 4. Dezember 1544 der Eintrag: "Der Brieff von Zurich verlaßen. Ist angstellt Inen ze antwurten bis zum beschluss des sacramentischen spans." (<placeName>Bern</placeName> StA, A II 160, <ref target="file10321">Nr. 290</ref>, S. 201).</note> servantur, quę plurimum promovere neque parum Buceranos consternatos reddidere.</s>
+					<s n="4" xml:lang="la" type="auto">Ad hunc ergo diem et scripta senatus vestri servantur, quę plurimum promovere neque parum Buceranos consternatos reddidere.</s>
 					<s n="5" xml:lang="la" type="auto">Orabimus deum, ut eventum suę glorię condignum et nobis salutarem largiri dignetur.</s>
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto">Valete omnes.</s>
-					<s n="7" xml:lang="la" type="auto">Indignatur <persName>Sultzerus</persName> ob <persName>Megandri</persName> literas<note xml:id="fn8" type="footnote" n="8"><persName>Kaspar Meganders</persName> Brief und dessen Adressat wurden nicht ermittelt.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Indignatur <persName ref="p3099" cert="high">Sultzerus</persName> ob <persName ref="p8412" cert="high">Megandri</persName> literas<note xml:id="fn8" type="footnote" n="8"><persName ref="p8412" cert="high">Kaspar Meganders</persName> Brief und dessen Adressat wurden nicht ermittelt.</note>.</s>
 					<s n="8" xml:lang="la" type="auto">Habete me commendatum.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de" type="auto">Datum <placeName>Bernę</placeName>, 26. die novembris anno 1544.</s>
-					<s n="10" xml:lang="la" type="auto">Totus tuus <persName>Eb. a Rumlang</persName>.</s>
+					<s n="9" xml:lang="de" type="auto">Datum <placeName ref="l41" cert="high">Bernę</placeName>, 26. die novembris anno 1544.</s>
+					<s n="10" xml:lang="la" type="auto">Totus tuus <persName ref="p3700" cert="high">Eb. a Rumlang</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

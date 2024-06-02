@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11346" type="Brief" source="GR" n="15">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11346" type="Brief" source="GR-I" n="15">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes (Gian) Travers, 28. August 1539</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes (Gian) Travers, 28. August 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,7 +28,7 @@
 					<s n="10" xml:lang="la" type="auto">Tiguri, 28. Augusti 1539.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Qui tibi has offert, consul Curiensis, mirum, quam animum refocillaverit meum, mirum, quam placuerit eius pietas, sinceritas et modestia.</s>
+					<s n="11" xml:lang="la" type="auto">Qui tibi has offert, consul <placeName ref="l98" cert="high">Curiensis</placeName>, mirum, quam animum refocillaverit meum, mirum, quam placuerit eius pietas, sinceritas et modestia.</s>
 					<s n="12" xml:lang="la" type="auto">Utinam plures huiusmodi consules haberet Helvetia nostra!</s>
 					<s n="13" xml:lang="la" type="auto">Commendabis me ei.</s>
 					<s n="14" xml:lang="la" type="auto">Dominus adsit vobis.</s>
@@ -37,7 +37,7 @@
 					<s n="15" xml:lang="la" type="auto">Heinrychus Bullingerus tuus.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto">Clarissimo viro D. Ioanni Traverso, domino suo colendissimo.</s>
+					<s n="16" xml:lang="la" type="auto">Clarissimo viro D. <persName ref="p6831" cert="high">Ioanni Traverso</persName>, domino suo colendissimo.</s>
 				</p>
 			</div>
 		</body>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12210" type="Brief" source="GR" n="58">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12210" type="Brief" source="GR-I" n="58">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Camillo Renato / Chiavenna AN Heinrich Bullinger, 15. Mai 1545</title>
+				<title subtype="file">Camillo Renato / Chiavenna an Heinrich Bullinger, 15. Mai 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

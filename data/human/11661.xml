@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11661" type="Brief" source="HBBW" n="1618">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11661" type="Brief" source="HBBW-12" n="1618">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">s.n. / Zürich AN s.n. / [Biel], 3. April 1542</title>
+				<title subtype="file">s.n. / Zürich an s.n. / [Biel], 3. April 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,13 +19,13 @@
 				</p>
 				<p>
 					<s n="2" xml:lang="de" type="auto">Frommen, vesten, ersammen, fürsichtigen und wysen, günstigen, lieben herren, üwer träffenliche dancksagung, uns gschrifftlich zuͦgesandt<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file11658">Nr. 1615</ref>.</note>, habend wir empfangen und verläsen, und unsern dienst und arbeit nie so hoch geschetzt, alls aber irs verrächnet, ye doch werdent wir durch üwer vilfaltig danckbarckeit darzuͦ bewegt, das wir ye länger ye me begärend üch zuͦ dienen, wiewol wir üch bißhar ouch willig und gern gedient habend.</s>
-					<s n="3" xml:lang="de" type="auto">Wir bittend ouch gott, das er üch alle zyt dappffern bestand in allem guͦten verlyhen wölle.</s>
+					<s n="3" xml:lang="de" type="auto">Wir bittend ouch gott, das er üch alle zyt dappffern bestand<note xml:id="fn3" type="footnote" n="3">Standhaftigkeit.</note> in allem guͦten verlyhen wölle.</s>
 					<s n="4" xml:lang="de" type="auto">Was wir üch dann ouch zuͦ aller dappffergkeit und beständiger, einfalter warheyt hälffen und üch gedienen könnend, wöllend wir alle zyt gantz willig sin.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="de" type="auto">Es kummend jetzund zuͦ üch h[err] <persName>Michael Schlatter</persName>, üwer p[re]dicant, und Johans Lüpoldt <persName>Fry</persName>, üwer schuͦlmeister, unsere lieben bruͤder, die empfälhend wir üwer trüw und lieb zum aller trüwlichisten.</s>
+					<s n="5" xml:lang="de" type="auto">Es kummend jetzund zuͦ üch h[err] <persName ref="p2919" cert="high">Michael Schlatter</persName>, üwer p[re]dicant, und Johans Lüpoldt <persName ref="p8082" cert="high">Fry</persName>, üwer schuͦlmeister, unsere lieben bruͤder, die empfälhend wir üwer trüw und lieb zum aller trüwlichisten.</s>
 					<s n="6" xml:lang="de" type="auto">Sy habend sich under und by uns gar eerlich, unsträfflich, fridlich, flyssig und trüwlich gehallten, das wir nitt zwyfflend, sy werdint ouch by üch aller gepür nach christlich und trüwlich nach üwerm und aller erbargheit gefallen sich hallten.<pb type="edition" next="66"/></s>
-					<s n="7" xml:lang="de" type="auto">Gott aller eeren, trüw und liebe wölle üwere kylchen, üch und üwere diener in sinen göttlichen gnaden krefftencklich und vätterlich erhallten.</s>
+					<s n="7" xml:lang="de" type="auto">Gott aller eeren, trüw und liebe wölle üwere kylchen, üch und üwere diener in sinen göttlichen gnaden krefftencklich<note xml:id="fn5" type="footnote" n="5">kräftig.</note> und vätterlich erhallten.</s>
 					<s n="8" xml:lang="de" type="auto">Amen.</s>
 				</p>
 				<p>
@@ -37,7 +37,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="12" xml:lang="de" type="auto">Den frommen, fürsichtigen und wysen meyern und radt der statt <placeName>Biel</placeName>, iren insonders günstigen, fürgeliepten herrenn.</s>
+					<s n="12" xml:lang="de" type="auto">Den frommen, fürsichtigen und wysen meyern und radt der statt <placeName ref="l49" cert="high">Biel</placeName>, iren insonders günstigen, fürgeliepten herrenn.</s>
 				</p>
 			</div>
 		</body>

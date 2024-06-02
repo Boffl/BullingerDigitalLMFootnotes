@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10665" type="Brief" source="HBBW" n="627">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10665" type="Brief" source="HBBW-5" n="627">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Hans (I.) Vogler / St. Gallen AN Heinrich Bullinger, 5. August 1535</title>
+				<title subtype="file">Hans (I.) Vogler / St. Gallen an Heinrich Bullinger, 5. August 1535</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,51 +20,51 @@
 					<s n="2" xml:lang="de" type="auto">Amen etc.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="de" type="auto">Min herr, gelieptter bruͦder, wissend unnssernn wolstand, und das unns warlich zuͦ üch verlangtt etc.</s>
-					<s n="4" xml:lang="de" type="auto">Nächstmals hab ich üch geschriben<note xml:id="fn2" type="footnote" n="2">Vermutlich ein nach dem 22. Juni 1535 (oben <ref target="file10634">Nr. 596</ref>) geschriebener, nicht mehr erhaltener Brief <persName>Voglers</persName>.</note>, daby ettlich brieff, so mir min herr und vatter doctor von Wadt geben<note xml:id="fn3" type="footnote" n="3"><persName>Vadians</persName> Beilagen sind nicht zu identifizieren.</note>, uch zuͦzeschickenn, mitt beger, by dissem zöger<note xml:id="fn4" type="footnote" n="4">Der Überbringer ist unbekannt.</note> wider zuͦ handen schickenn (wie wol ers fillicht selpst holn möchtt) etc.</s>
+					<s n="3" xml:lang="de" type="auto">Min herr, gelieptter bruͦder, wissend unnssernn wolstand<note xml:id="fn1" type="footnote" n="1">Wohlergehen.</note>, und das unns warlich zuͦ üch verlangtt etc.</s>
+					<s n="4" xml:lang="de" type="auto">Nächstmals hab ich üch geschriben<note xml:id="fn2" type="footnote" n="2">Vermutlich ein nach dem 22. Juni 1535 (oben <ref target="file10634">Nr. 596</ref>) geschriebener, nicht mehr erhaltener Brief <persName ref="p8071" cert="high">Voglers</persName>.</note>, daby ettlich brieff, so mir min herr und vatter doctor von Wadt geben<note xml:id="fn3" type="footnote" n="3"><persName ref="p8049" cert="high">Vadians</persName> Beilagen sind nicht zu identifizieren.</note>, uch zuͦzeschickenn, mitt beger, by dissem zöger<note xml:id="fn4" type="footnote" n="4">Der Überbringer ist unbekannt.</note> wider zuͦ handen schickenn (wie wol ers fillicht selpst holn möchtt) etc.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="de" type="auto">Demnach hatt mir min herr doctor abermals in trüwen ettlich uffgezaichnett artickel, imme von vertruwten in stille überhar zuͦgeschribenn, üch die abzuͦschriben, darus zuͦvernemenn:</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de" type="auto">Ittem das der bischoff von <placeName>Costentz</placeName> Rychenow sol koft habenn, und aber die von Costenntz nitt liden wellend.</s>
+					<s n="6" xml:lang="de" type="auto">Ittem das der bischoff von <placeName ref="l457" cert="high">Costentz</placeName> Rychenow sol koft habenn, und aber die von Costenntz nitt liden wellend.</s>
 					<s n="7" xml:lang="de" type="auto">Wil kain thail sines fürnemens abston.</s>
 					<s n="8" xml:lang="de" type="auto">Zuͦ besorgen, es werd unruͦw geben.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de" type="auto"><pb type="edition" next="319"/>Ittem das küng[liche] m[aieste]t von <placeName>Franckrych</placeName><note xml:id="fn6" type="footnote" n="6"><persName>König Franz I.</persName></note> werde vorm winter in Mayland fallen.</s>
-					<s n="10" xml:lang="de" type="auto">Daruff ettlichen hopttlütten in Tütschiand zuͦgeschriben.</s>
-					<s n="11" xml:lang="de" type="auto">Melcher von Knörigen uff 18. tag ougsten zuͦ <placeName>Lyon</placeName> ze sin.</s>
+					<s n="9" xml:lang="de" type="auto"><pb type="edition" next="319"/>Ittem das küng[liche] m[aieste]t von <placeName ref="l301" cert="high">Franckrych</placeName><note xml:id="fn6" type="footnote" n="6"><persName ref="p7637" cert="high">König Franz I.</persName></note> werde vorm winter in Mayland fallen.</s>
+					<s n="10" xml:lang="de" type="auto">Daruff ettlichen hopttlütten<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> in Tütschiand zuͦgeschriben.</s>
+					<s n="11" xml:lang="de" type="auto">Melcher von Knörigen uff 18. tag ougsten zuͦ <placeName ref="l301" cert="high">Lyon</placeName> ze sin.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="de" type="auto">Ittem das in kurtzenn tagen söllend im rych drü kriegsregimentt uffbrechen, kayserisch etc.</s>
-					<s n="13" xml:lang="de" type="auto">Ains sölle der herr von Thamis fuͤren, das ander der von Bomelberg, und das dritt herr <persName>Kaspar von Fronsperg</persName>.</s>
-					<s n="14" xml:lang="de" type="auto">Söllend an seltzame ortt brucht werden unnd wunderbarlich praticken vor handen sin.</s>
+					<s n="13" xml:lang="de" type="auto">Ains sölle der herr von <persName ref="7539" type="auto_name">Thamis</persName> fuͤren, das ander der von <persName ref="5221" type="auto_name">Bomelberg</persName>, und das dritt herr <persName ref="p7480" cert="high">Kaspar von Fronsperg</persName>.</s>
+					<s n="14" xml:lang="de" type="auto">Söllend an seltzame ortt brucht werden unnd wunderbarlich praticken<note xml:id="fn12" type="footnote" n="12">seltsame Umtriebe (<bibl>Grimm</bibl> XIV/II 1855. <bibl>SI</bibl> V 568f).</note> vor handen sin.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="de" type="auto">Ittem das fürstenn und stett nitt vergebenns by ain andren zuͦ <placeName>Kassel</placeName> sygennd<note xml:id="fn13" type="footnote" n="13"><persName>Vogler</persName> stützt sich wohl auf eine Mitteilung <persName>Sebastian Grübels</persName> an Vadian vom 27. Juli (vgl. <bibl>Vadian BW V</bibl> 239); zu den Gesprächen der Städtegesandten in <placeName>Hessen</placeName> und <placeName>Sachsen</placeName> im Juli 1535 s. <bibl>Fabian, Städtetage</bibl> III 247-254 sowie <bibl>PC</bibl> II 277-283. 285. 288f.</note>; sy schmeckend dye pratten, die vorhanden sygend.</s>
+					<s n="15" xml:lang="de" type="auto">Ittem das fürstenn und stett nitt vergebenns by ain andren zuͦ <placeName ref="l244" cert="high">Kassel</placeName> sygennd; sy schmeckend dye pratten<note xml:id="fn14" type="footnote" n="14">sie merken, was gespielt wird (<bibl>Grimm</bibl> II 309f).</note>, die vorhanden sygend.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="de" type="auto">Ittem das vyl von praticken der V ortten red um gang, darumm die evangelischen stett in der Aydtgnoschaft ouch wol für sich zuͦ sechen habend.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="de" type="auto"><pb type="edition" next="320"/>Von <placeName>Nürmbergk</placeName> sayt<note xml:id="fn15" type="footnote" n="15">Aus <placeName>Nürnberg</placeName> kommt die Kunde.</note>: Ittem das die stett treffenlich by ain andren zuͦ <placeName>Regenspurg</placeName> versamlett sygend, schiessens wyß<note xml:id="fn16" type="footnote" n="16">anläßlich eines Schützenfestes.</note>.</s>
+					<s n="17" xml:lang="de" type="auto"><pb type="edition" next="320"/>Von <placeName ref="l361" cert="high">Nürmbergk</placeName> sayt<note xml:id="fn15" type="footnote" n="15">Aus <placeName ref="l361" cert="high">Nürnberg</placeName> kommt die Kunde.</note>: Ittem das die stett treffenlich by ain andren zuͦ <placeName ref="l410" cert="high">Regenspurg</placeName> versamlett sygend, schiessens wyß<note xml:id="fn16" type="footnote" n="16">anläßlich eines Schützenfestes.</note>.</s>
 				</p>
 				<p>
-					<s n="18" xml:lang="de" type="auto">Ainer gsagtt: Ittem das man zuͦ Lutzernn waffen und harnasch gebotten hab und die V ortt zuͦ Bronnen tagett<note xml:id="fn17" type="footnote" n="17"><placeName>Die V Orte</placeName> tagten am 30. Juli 1535 in <placeName>Brunnen</placeName> (Kt. Schwyz); vgl. <bibl>EA</bibl> IV/1c 532 c.</note>.</s>
-					<s n="19" xml:lang="de" type="auto">Ittem es sol ain kayserliche bottschaft och zuͦ Lutzern gsin sin<note xml:id="fn18" type="footnote" n="18">Gemeint ist wohl <persName>Jakob Sturzel</persName>, der in dieser Zeit mit dem Erbeinungsgeld unterwegs war und an der Tagung in <placeName>Brunnen</placeName> nach <placeName>Baden</placeName> gewiesen wurde (vgl. ebd., S. 532 b).</note>.</s>
+					<s n="18" xml:lang="de" type="auto">Ainer gsagtt: Ittem das man zuͦ Lutzernn waffen und harnasch gebotten hab und die V ortt zuͦ Bronnen tagett<note xml:id="fn17" type="footnote" n="17"><placeName ref="l2448" cert="high">Die V Orte</placeName> tagten am 30. Juli 1535 in <placeName ref="l1142" cert="high">Brunnen</placeName> (Kt. Schwyz); vgl. <bibl>EA</bibl> IV/1c 532 c.</note>.</s>
+					<s n="19" xml:lang="de" type="auto">Ittem es sol ain kayserliche bottschaft och zuͦ Lutzern gsin sin<note xml:id="fn18" type="footnote" n="18">Gemeint ist wohl <persName ref="p6736" cert="high">Jakob Sturzel</persName>, der in dieser Zeit mit dem Erbeinungsgeld unterwegs war und an der Tagung in <placeName ref="l1142" cert="high">Brunnen</placeName> nach <placeName ref="l21" cert="high">Baden</placeName> gewiesen wurde (vgl. ebd., S. 532 b).</note>.</s>
 				</p>
 				<p>
 					<s n="20" xml:lang="de" type="auto">Disses sond und mögen ir minem lieben hernn burgermaister Rösten mines aydes und von üch anzaigen, mir von minem hern doctor überantwurtett, och ime dis harnach volgend: Unruͦw vorhanden im land Apenzell.</s>
-					<s n="21" xml:lang="de" type="auto">Namlich ain mergklich unruͦw und sorg von etlichen unzämen über aman Ysenhuͦt und ander von wegen der statt zaichen zuͦ <placeName>S. Gallen</placeName>, als ob sy das vor zitten gwonnen, und aber kurtzlich durch Isenhuͦt und etlich der statt <placeName>Sant Gallen</placeName> hinder in<note xml:id="fn21" type="footnote" n="21">hinter ihrem Rücken.</note> überantwurt.</s>
-					<s n="22" xml:lang="de" type="auto">Dessglich dess sygels halb, daß aman Ysenhuͦt us dem land, dem apt<note xml:id="fn23" type="footnote" n="23"><persName>Diethelm Blarer von Wartensee</persName>, Abt des Klosters <placeName>St. Gallen</placeName>.</note> nach, zuͦ syglen gen <placeName>Sant Gallen</placeName> in hoff nachtragen; daß er aber im land sölt gsiglet haben und nit nache tragen.</s>
-					<s n="23" xml:lang="de" type="auto">Vil vil byreden.</s>
-					<s n="24" xml:lang="de" type="auto">Doch gester mitwoch ist lang grosser rat ine<note xml:id="fn25" type="footnote" n="25">drinnen, im Lande <placeName>Appenzell</placeName>.</note> gsin.</s>
+					<s n="21" xml:lang="de" type="auto">Namlich ain mergklich unruͦw und sorg von etlichen unzämen<note xml:id="fn19" type="footnote" n="19">Wilden, Zänkischen (<bibl>Grimm</bibl> XI/III 2270f).</note> über aman Ysenhuͦt und ander von wegen der statt zaichen zuͦ <placeName ref="l474" cert="high">S. Gallen</placeName>, als ob sy das vor zitten gwonnen, und aber kurtzlich durch Isenhuͦt und etlich der statt <placeName ref="l474" cert="high">Sant Gallen</placeName> hinder in<note xml:id="fn21" type="footnote" n="21">hinter ihrem Rücken.</note> überantwurt.</s>
+					<s n="22" xml:lang="de" type="auto">Dessglich dess sygels halb, daß aman Ysenhuͦt us dem land, dem apt<note xml:id="fn23" type="footnote" n="23"><persName ref="p8179" cert="high">Diethelm Blarer von Wartensee</persName>, Abt des Klosters <placeName ref="l474" cert="high">St. Gallen</placeName>.</note> nach, zuͦ syglen gen <placeName ref="l474" cert="high">Sant Gallen</placeName> in hoff nachtragen; daß er aber im land sölt gsiglet haben und nit nache tragen.</s>
+					<s n="23" xml:lang="de" type="auto">Vil vil byreden<note xml:id="fn24" type="footnote" n="24">Vorwände (<bibl>Grimm</bibl> I 1389).</note>.</s>
+					<s n="24" xml:lang="de" type="auto">Doch gester mitwoch ist lang grosser rat ine<note xml:id="fn25" type="footnote" n="25">drinnen, im Lande <placeName ref="l2451" cert="high">Appenzell</placeName>.</note> gsin.</s>
 					<s n="25" xml:lang="de" type="auto">Ist aman Ysenhuͦt da gstanden, des rechten erwarten<note xml:id="fn26" type="footnote" n="26">hat sich dem Rechtsverfahren gestellt.</note> dargegen das unruͤwig partfolck.</s>
-					<s n="26" xml:lang="de" type="auto">Hat nit verfangen, dann schlechtz ain lantzgmainen von jetz sontag über acht tag darum zuͦ haben, wie wol es filen layd.</s>
-					<s n="27" xml:lang="de" type="auto">Und sorg daby, daß sy fillich über from, sonders personen uffloff, under in schlachen oder ergers entspringe, wie wol dise stat hie losett<note xml:id="fn29" type="footnote" n="29">beobachtend zuwartet.</note> und zuͦ letst villicht sich um vil zuͦreden verantwurtten, nach<pb type="edition" next="321"/> gepür handlen.</s>
-					<s n="28" xml:lang="de" type="auto">Ob guͦtt wär, wais ich nit, alls vilicht etwar maint, ja das ettliche ortt uff die gmaind<note xml:id="fn31" type="footnote" n="31">an der Gemeindeversammlung teilnehmen. - Diese außerordentliche Landsgemeinde fand am 29. August 1535 in <placeName>Appenzell</placeName> statt (vgl. <hi>Büchler</hi> 38; <bibl>Bodemer</bibl> 14; <placeName>Appenzeller</placeName> Urk. II 108, <ref target="file12039">Nr. 1992</ref>).</note>, zuͦ fürkomen bluͦt under inen oder anders, als m[ine] g[nedigen] h[erren] von Zürich oder ander.</s>
-					<s n="29" xml:lang="de" type="auto">Mag min her Röst<note xml:id="fn33" type="footnote" n="33"><persName>Diethelm Röist</persName>.</note> nach sinem gfallen darinn handlen.</s>
+					<s n="26" xml:lang="de" type="auto">Hat nit verfangen, dann schlechtz<note xml:id="fn27" type="footnote" n="27">ohne Umschweife (<bibl>Grimm</bibl> IX 544f).</note> ain lantzgmainen von jetz sontag über acht tag darum zuͦ haben, wie wol es filen layd.</s>
+					<s n="27" xml:lang="de" type="auto">Und sorg daby, daß sy fillich über from, sonders personen uffloff, under in schlachen oder ergers entspringe<note xml:id="fn28" type="footnote" n="28">machen (vgl. <bibl>SI</bibl> IX 294).</note>, wie wol dise stat hie losett<note xml:id="fn29" type="footnote" n="29">beobachtend zuwartet.</note> und zuͦ letst villicht sich um vil zuͦreden verantwurtten, nach<pb type="edition" next="321"/> gepür handlen.</s>
+					<s n="28" xml:lang="de" type="auto">Ob guͦtt wär, wais ich nit, alls vilicht etwar<note xml:id="fn30" type="footnote" n="30">jemand.</note> maint, ja das ettliche ortt uff die gmaind<note xml:id="fn31" type="footnote" n="31">an der Gemeindeversammlung teilnehmen. - Diese außerordentliche Landsgemeinde fand am 29. August 1535 in <placeName ref="l2451" cert="high">Appenzell</placeName> statt (vgl. <hi>Büchler</hi> 38; <bibl>Bodemer</bibl> 14; <placeName ref="l2451" cert="high">Appenzeller</placeName> Urk. II 108, <ref target="file12039">Nr. 1992</ref>).</note>, zuͦ fürkomen bluͦt under inen oder anders, als<note xml:id="fn32" type="footnote" n="32">wie.</note> m[ine] g[nedigen] h[erren] von Zürich oder ander.</s>
+					<s n="29" xml:lang="de" type="auto">Mag min her Röst<note xml:id="fn33" type="footnote" n="33"><persName ref="p2816" cert="high">Diethelm Röist</persName>.</note> nach sinem gfallen darinn handlen.</s>
 					<s n="30" xml:lang="de" type="auto">Zayg ich pflicht halb an.</s>
 					<s n="31" xml:lang="de" type="auto">Bitt üch, mir in zuͦ gruͤssen.</s>
 				</p>
@@ -73,18 +73,18 @@
 					<s n="33" xml:lang="de" type="auto">Acht<note xml:id="fn34" type="footnote" n="34">Ich nehme an.</note>, ich kom erst uff den herpst, miner hab halb etc.</s>
 				</p>
 				<p>
-					<s n="34" xml:lang="de" type="auto">Gruͤssend uns üwer hus, maistren <persName>Kaspar</persName><note xml:id="fn35" type="footnote" n="35"><persName>Kaspar Nasal</persName>.</note>, maister <persName ref="p5543">Haben</persName>.</s>
+					<s n="34" xml:lang="de" type="auto">Gruͤssend uns üwer hus, maistren <persName ref="p5935" cert="high">Kaspar</persName><note xml:id="fn35" type="footnote" n="35"><persName ref="p5935" cert="high">Kaspar Nasal</persName>.</note>, maister <persName ref="p1419" cert="high">Haben</persName>.</s>
 				</p>
 				<p>
 					<s n="35" xml:lang="de" type="auto">Was ir nüws, schribend by zöger.</s>
-					<s n="36" xml:lang="de" type="auto">Ich hab minem gliepten <persName>Rordorffer</persName> gschriben<note xml:id="fn36" type="footnote" n="36">Nicht erhalten.</note> vor, ob er mir etwas zuͦschriben well.</s>
+					<s n="36" xml:lang="de" type="auto">Ich hab minem gliepten <persName ref="p2815" cert="high">Rordorffer</persName> gschriben<note xml:id="fn36" type="footnote" n="36">Nicht erhalten.</note> vor, ob er mir etwas zuͦschriben well.</s>
 					<s n="37" xml:lang="de" type="auto">Pitt ich uch, min knecht zuͦ sin, im anzuͦzaigen, dem botten zuͦ geben.</s>
 				</p>
 				<p>
 					<s n="38" xml:lang="de" type="auto">Actum S. G[allen], donstag, den 5. tag augusty anno 35. jar.</s>
 				</p>
 				<p>
-					<s n="39" xml:lang="de" type="auto">U[wer] schuldiger, williger <persName>Hans Vogler</persName> zuͦ S. G[allen], burger Zurych.</s>
+					<s n="39" xml:lang="de" type="auto">U[wer] schuldiger, williger <persName ref="p8071" cert="high">Hans Vogler</persName> zuͦ S. G[allen], burger Zurych.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

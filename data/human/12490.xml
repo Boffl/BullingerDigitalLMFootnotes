@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12490" type="Brief" source="HBBW" n="2443">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12490" type="Brief" source="HBBW-16" n="2443">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Haller d.J. / Augsburg AN Heinrich Bullinger, 9. Mai 1546</title>
+				<title subtype="file">Johannes Haller d.J. / Augsburg an Heinrich Bullinger, 9. Mai 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,14 +20,14 @@
 					<s n="2" xml:lang="la" type="auto">Accepi literas tuas, vir maxime, statim post enarratam passionis dominicae historiam (ut scribis) scriptas, ex quarum quantitate intelligo, quam me ames, qui fessus dicendo<note xml:id="fn2" type="footnote" n="2">Vgl. <ref target="file12478">Nr. 2431</ref>,40.</note> tantum scribendo etiam laboris mei causa susceperis.</s>
 					<s n="3" xml:lang="la" type="auto">Sed licet longae fuerint, non tamen meum potuerunt satiare legendo desiderium,<note xml:id="fn3" type="footnote" n="3">Vgl. <ref target="file12469">Nr. 2422</ref>,1-3.</note> nedum taedio capere.</s>
 					<s n="4" xml:lang="la" type="auto">Ago igitur tibi gratias, mi pater, qui tanto me spiritu confortes; atqui tuum facis debitum officium!</s>
-					<s n="5" xml:lang="la" type="auto">Concredidit tibi dominus talenta innumerabilia, quae (sentio nunc) quanto foenore tuo redditurus sis domino<note xml:id="fn4" type="footnote" n="4">Vgl. Mt 25, 14-30.</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Concredidit tibi dominus talenta innumerabilia, quae (sentio nunc) quanto foenore tuo redditurus sis domino<note xml:id="fn4" type="footnote" n="4">Vgl. <cit type="bible"><ref>Mt 25, 14-30</ref></cit>.</note>.</s>
 					<s n="6" xml:lang="la" type="auto">Debemus igitur omnes non modo tibi multum, sed plurimum deo, qui te nobis dederit.</s>
 					<s n="7" xml:lang="la" type="auto">Perge igitur non tam tuam quam nos et nostram etiam amare ecclesiam, quae erga te, si liceret, ingrata non esset.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Contulimus literas d. <persName>Laetus</persName> et ego a vobis omnibus scriptas, quarum tot fuere,<note xml:id="fn5" type="footnote" n="5">Offensichtlich schrieben mehrere Zürcher nach <placeName>Augsburg</placeName>. Darunter mag wohl auch ein Brief von Bullinger an <persName>Georg Frölich</persName> gewesen sein, der allerdings nicht erhalten ist.</note> ut aliquot horis his legendis non occupati sed oblectati fuerimus.</s>
+					<s n="8" xml:lang="la" type="auto">Contulimus literas d. <persName ref="p8354" cert="high">Laetus</persName> et ego a vobis omnibus scriptas, quarum tot fuere,<note xml:id="fn5" type="footnote" n="5">Offensichtlich schrieben mehrere Zürcher nach <placeName ref="l1976" cert="high">Augsburg</placeName>. Darunter mag wohl auch ein Brief von Bullinger an <persName ref="p8354" cert="high">Georg Frölich</persName> gewesen sein, der allerdings nicht erhalten ist.</note> ut aliquot horis his legendis non occupati sed oblectati fuerimus.</s>
 					<s n="9" xml:lang="la" type="auto">Vir is mirum quam te amet!</s>
 					<s n="10" xml:lang="la" type="auto">Solum Bullingerum semper in ore habet mihique propter tuum nomen multum benefacit, ut domino deo dignas agere non possim gratias, qui talem in tanta laboranti mihi provincia dederit patronum.</s>
 					<s n="11" xml:lang="la" type="auto">Cuperem ergo, etiam illi ageres gratias meo nomine.</s>
@@ -35,8 +35,8 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Consul <persName>Welserus</persName><note xml:id="fn6" type="footnote" n="6">Altbürgermeister <persName>Hans Welser</persName>.</note> etiam plurimis me prosequitur officiis, humanus et pius valde.</s>
-					<s n="13" xml:lang="la" type="auto">Hic unus me urget scrupulus, quod aliqua nec parva etiam inter ipsum<pb type="edition" next="400"/> et d. Cellarium<note xml:id="fn7" type="footnote" n="7"><persName>Michael Keller</persName>, Pfarrer an der Kirche St. Moritz. - Hier und unten beruhen die Angaben über die jeweils von den Pfarrern betreuten Kirchen auf <hi>Pf-Schwaben.</hi></note> sit simultas, quam utrique (prudenter tamen) eximere laboro.</s>
+					<s n="12" xml:lang="la" type="auto">Consul <persName ref="p3927" cert="high">Welserus</persName><note xml:id="fn6" type="footnote" n="6">Altbürgermeister <persName ref="p3927" cert="high">Hans Welser</persName>.</note> etiam plurimis me prosequitur officiis, humanus et pius valde.</s>
+					<s n="13" xml:lang="la" type="auto">Hic unus me urget scrupulus, quod aliqua nec parva etiam inter ipsum<pb type="edition" next="400"/> et d. Cellarium<note xml:id="fn7" type="footnote" n="7"><persName ref="p1860" cert="high">Michael Keller</persName>, Pfarrer an der Kirche St. Moritz. - Hier und unten beruhen die Angaben über die jeweils von den Pfarrern betreuten Kirchen auf <hi>Pf-Schwaben.</hi></note> sit simultas, quam utrique (prudenter tamen) eximere laboro.</s>
 					<s n="14" xml:lang="la" type="auto">Ego enim dum alteri adhaereo, alteri fio suspectus.</s>
 					<s n="15" xml:lang="la" type="auto">Unde fit, ut ita utriusque utar familiaritate, ut neutrum offendam.</s>
 					<s n="16" xml:lang="la" type="auto">Cellarius est valetudinarius valde,<note xml:id="fn8" type="footnote" n="8">Wohl wegen eines Gichtleidens; s. schon <ref target="file12436">Nr. 2389</ref>,78.</note> unde plurimum mihi facit negotii concionando.</s>
@@ -46,7 +46,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="19" xml:lang="la" type="auto">D. <persName>Musculum</persName><note xml:id="fn9" type="footnote" n="9"><persName>Wolfgang Musculus</persName>, Dompfarrer.</note>, sicut praecipis,<note xml:id="fn10" type="footnote" n="10">Vgl. <bibl>HBBW</bibl> XV 676,14-16.</note> magni facio omnemque ei defero honorem.</s>
+					<s n="19" xml:lang="la" type="auto">D. <persName ref="p8417" cert="high">Musculum</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p8417" cert="high">Wolfgang Musculus</persName>, Dompfarrer.</note>, sicut praecipis,<note xml:id="fn10" type="footnote" n="10">Vgl. <bibl>HBBW</bibl> XV 676,14-16.</note> magni facio omnemque ei defero honorem.</s>
 					<s n="20" xml:lang="la" type="auto">Convenio ipsum frequenter, adiungo me ei comitem deambulandi.</s>
 					<s n="21" xml:lang="la" type="auto">De locis obscurioribus eum interrogo.</s>
 					<s n="22" xml:lang="la" type="auto">In rebus agendis sua peto consilia et, quacunque ipsum re honorare possum, honoro.</s>
@@ -54,13 +54,13 @@
 					<s n="24" xml:lang="la" type="auto">Turbas et dissidia detestor!</s>
 					<s n="25" xml:lang="la" type="auto">Concordiam piam et synceram exopto!</s>
 					<s n="26" xml:lang="la" type="auto">Quibus rebus tantum apud ipsum effeci, ut, si me non amet, simulet tamen.</s>
-					<s n="27" xml:lang="la" type="auto">Contuli etiam proxime cum eo de negotio eucharistiae, maxime de indigne manducantibus (instabat enim pascha<note xml:id="fn11" type="footnote" n="11">Am 25. April 1546.</note>), ubi ego inter alia dixi impium eatenus tantum manducare corpus domini, quatenus panis sacramentali modo corpus domini dicatur; quam ille sententiam approbavit dicens nec pios aliter comedere dominum, nisi quatenus per fidem edatur, id est noster fiat et in nobis maneat<note xml:id="fn12" type="footnote" n="12">Vgl. Kol 1, 27.</note>.<pb type="scan" next="185v."/></s>
+					<s n="27" xml:lang="la" type="auto">Contuli etiam proxime cum eo de negotio eucharistiae, maxime de indigne manducantibus (instabat enim pascha<note xml:id="fn11" type="footnote" n="11">Am 25. April 1546.</note>), ubi ego inter alia dixi impium eatenus tantum manducare corpus domini, quatenus panis sacramentali modo corpus domini dicatur; quam ille sententiam approbavit dicens nec pios aliter comedere dominum, nisi quatenus per fidem edatur, id est noster fiat et in nobis maneat<note xml:id="fn12" type="footnote" n="12">Vgl. <cit type="bible"><ref>Kol 1, 27</ref></cit>.</note>.<pb type="scan" next="185v."/></s>
 					<s n="28" xml:lang="la" type="auto">Deveniebamus etiam ad ceremonias.</s>
 					<s n="29" xml:lang="la" type="auto">Ad quam quaestionem ipse dixit: „Tam sunt hae ceremoniae Lutheranorum papismo similes quam unum ovum altero.“</s>
 					<s n="30" xml:lang="la" type="auto">Qua ego voce valde exhilaratus magis eum amare et honorare cepi.</s>
-					<s n="31" xml:lang="la" type="auto">Spero igitur eum facile in viam reduci posse, si saltem non ita prorsus tanquam larva circumduceretur et penderet a <persName ref="p18198">Bucero</persName>.</s>
+					<s n="31" xml:lang="la" type="auto">Spero igitur eum facile in viam reduci posse, si saltem non ita prorsus tanquam larva circumduceretur et penderet a <persName ref="p467" cert="high">Bucero</persName>.</s>
 					<s n="32" xml:lang="la" type="auto">Quicquid enim ille dicit aut scribit, hic pro oraculo adorat<note xml:id="fn13" type="footnote" n="13">Was allerdings schon damals nicht zutraf; s. <bibl>Bodenmann</bibl> 327-333.</note>.</s>
-					<s n="33" xml:lang="la" type="auto">Fallitur enim bonus vir dulcedine concordiae<note xml:id="fn14" type="footnote" n="14">Die <placeName>Wittenberger</placeName> Konkordie von 1536.</note>, cuius titulo multa destruit.</s>
+					<s n="33" xml:lang="la" type="auto">Fallitur enim bonus vir dulcedine concordiae<note xml:id="fn14" type="footnote" n="14">Die <placeName ref="l558" cert="high">Wittenberger</placeName> Konkordie von 1536.</note>, cuius titulo multa destruit.</s>
 					<s n="34" xml:lang="la" type="auto">Amat etiam te valde.</s>
 					<s n="35" xml:lang="la" type="auto">Hoc unum conqueritur te eum non intelligere, <foreign xml:lang="de">wie ers meine.</foreign></s>
 					<s n="36" xml:lang="la" type="auto">Quod ulcus (si solum sit) facile curabitur.</s>
@@ -68,11 +68,11 @@
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="37" xml:lang="la" type="auto">Venit etiam ad nos quidam iuvenis patria <placeName>Augustanus</placeName>, qui aliquamdiu <placeName>Wittenbergę</placeName> literis operam dedit, nunc autem in patriam ad ministerium<pb type="edition" next="401"/> revocatus.</s>
-					<s n="38" xml:lang="la" type="auto">Is mira retulit, quomodo nomen meum <placeName>Wittenbergę</placeName> traducatur, quam impudens sim schwermerus et quantas in ecclesia <placeName>Augustana</placeName> excitem turbas!</s>
-					<s n="39" xml:lang="la" type="auto">Quod, ubi audivi, d. <persName>Musculum</persName> accessi, indicavi ei, rogavi, ut pro me scribat et me apud sibi notos defendat.</s>
-					<s n="40" xml:lang="la" type="auto">Quod ille fecit et scripsit d. <persName ref="p6490">Philippo</persName><note xml:id="fn16" type="footnote" n="16"><persName>Philipp Melanchthon</persName>. Ein entsprechender Brief ist nicht erhalten.</note>, ut etiam is aliis hanc de me eximat opinionem, me prorsus non turbarum, sed pacis esse studiosissimum.</s>
-					<s n="41" xml:lang="la" type="auto">Rogo itaque etiam te, ut, si aliquando <persName ref="p6490">Philippo</persName> scripseris,<note xml:id="fn17" type="footnote" n="17">Zu einem solchen Brief kam es nicht.</note> meam etiam defendas innocentiam et, qualis sim, testeris.</s>
+					<s n="37" xml:lang="la" type="auto">Venit etiam ad nos quidam iuvenis patria <placeName ref="l1976" cert="high">Augustanus</placeName>, qui aliquamdiu <placeName ref="l558" cert="high">Wittenbergę</placeName> literis operam dedit, nunc autem in patriam ad ministerium<pb type="edition" next="401"/> revocatus.</s>
+					<s n="38" xml:lang="la" type="auto">Is mira retulit, quomodo nomen meum <placeName ref="l558" cert="high">Wittenbergę</placeName> traducatur, quam impudens sim schwermerus et quantas in ecclesia <placeName ref="l1976" cert="high">Augustana</placeName> excitem turbas!</s>
+					<s n="39" xml:lang="la" type="auto">Quod, ubi audivi, d. <persName ref="p8417" cert="high">Musculum</persName> accessi, indicavi ei, rogavi, ut pro me scribat et me apud sibi notos defendat.</s>
+					<s n="40" xml:lang="la" type="auto">Quod ille fecit et scripsit d. <persName ref="p2095" cert="high">Philippo</persName><note xml:id="fn16" type="footnote" n="16"><persName ref="p2095" cert="high">Philipp Melanchthon</persName>. Ein entsprechender Brief ist nicht erhalten.</note>, ut etiam is aliis hanc de me eximat opinionem, me prorsus non turbarum, sed pacis esse studiosissimum.</s>
+					<s n="41" xml:lang="la" type="auto">Rogo itaque etiam te, ut, si aliquando <persName ref="p2095" cert="high">Philippo</persName> scripseris,<note xml:id="fn17" type="footnote" n="17">Zu einem solchen Brief kam es nicht.</note> meam etiam defendas innocentiam et, qualis sim, testeris.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -89,28 +89,28 @@
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="50" xml:lang="la" type="auto">Consilium tuum in concionando sequerer, nisi <persName>Musculus</persName> <persName>Ioannem</persName> et Cellarius Lucam interpretarentur.</s>
+					<s n="50" xml:lang="la" type="auto">Consilium tuum in concionando sequerer, nisi <persName ref="p8417" cert="high">Musculus</persName> <persName ref="p18113" cert="high">Ioannem</persName> et Cellarius Lucam interpretarentur.</s>
 					<s n="51" xml:lang="la" type="auto">Pro Luca ergo Matheum in manus sumam diebus lunae.</s>
-					<s n="52" xml:lang="la" type="auto">Nullus enim evangelista in ecclesia Mauriciana<note xml:id="fn19" type="footnote" n="19">Die Kirche St. Moritz in <placeName>Augsburg</placeName>.</note> diebus prophanis.</s>
+					<s n="52" xml:lang="la" type="auto">Nullus enim evangelista in ecclesia Mauriciana<note xml:id="fn19" type="footnote" n="19">Die Kirche St. Moritz in <placeName ref="l1976" cert="high">Augsburg</placeName>.</note> diebus prophanis.</s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="53" xml:lang="la" type="auto">Sic enim distinctae sunt conciones hebdomadales: Die lunae in ecclesia Mauritiana: <persName>Hallerus</persName> habet<note xml:id="fn20" type="footnote" n="20">Hier und unten zu verstehen: habet concionem super.</note> Ad<note xml:id="fn21" type="footnote" n="21">Hier und unten zu verstehen: Epistolam ad.</note> Timoth.<note xml:id="fn22" type="footnote" n="22">Vgl. <ref target="file12436">Nr. 2389</ref>,1-7. 31.</note> Die Martis, in Mariana<note xml:id="fn23" type="footnote" n="23">Der Dom, der "Unserer lieben Frau" geweiht ist.</note>: <persName>Musculus</persName> habet Psalmos.</s>
+					<s n="53" xml:lang="la" type="auto">Sic enim distinctae sunt conciones hebdomadales: Die lunae in ecclesia Mauritiana: <persName ref="p8018" cert="high">Hallerus</persName> habet<note xml:id="fn20" type="footnote" n="20">Hier und unten zu verstehen: habet concionem super.</note> Ad<note xml:id="fn21" type="footnote" n="21">Hier und unten zu verstehen: Epistolam ad.</note> Timoth.<note xml:id="fn22" type="footnote" n="22">Vgl. <ref target="file12436">Nr. 2389</ref>,1-7. 31.</note> Die Martis, in Mariana<note xml:id="fn23" type="footnote" n="23">Der Dom, der "Unserer lieben Frau" geweiht ist.</note>: <persName ref="p8417" cert="high">Musculus</persName> habet Psalmos.</s>
 					<s n="54" xml:lang="la" type="auto">Die Mercurii, in ecclesia Mauritiana: Cellarius habet Primam ad Corinth.</s>
-					<s n="55" xml:lang="la" type="auto">Die Iovis, in Mariana: <persName ref="p5007">Ehingerus</persName><note xml:id="fn24" type="footnote" n="24"><persName>Johannes Ehinger</persName>, Pfarrer an der Kirche St. Stephan.</note> habet Regum primum.</s>
+					<s n="55" xml:lang="la" type="auto">Die Iovis, in Mariana: <persName ref="p1000" cert="high">Ehingerus</persName><note xml:id="fn24" type="footnote" n="24"><persName ref="p1000" cert="high">Johannes Ehinger</persName>, Pfarrer an der Kirche St. Stephan.</note> habet Regum primum.</s>
 					<s n="56" xml:lang="la" type="auto">Die Veneris, in ecclesia Mauritiana: Heldius habet Ad Rom.</s>
-					<s n="57" xml:lang="la" type="auto">Die Saturni, in Mariana: Mecardus<note xml:id="fn25" type="footnote" n="25"><persName>Johann Meckart</persName>, Pfarrer an der Kirche St. Georg.</note> habet evangelium Luc.</s>
+					<s n="57" xml:lang="la" type="auto">Die Saturni, in Mariana: Mecardus<note xml:id="fn25" type="footnote" n="25"><persName ref="p18113" cert="high">Johann Meckart</persName>, Pfarrer an der Kirche St. Georg.</note> habet evangelium Luc.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
 					<s n="58" xml:lang="la" type="auto"><pb type="scan" next="186r."/>Vides in Mauriciana omnes habere epistolas.</s>
-					<s n="59" xml:lang="la" type="auto">Ego itaque Matheum accipiam; nam Lucam habet Cellarius, <persName>Musculus</persName> <persName>Ioannem</persName> diebus sabbatinis.</s>
-					<s n="60" xml:lang="la" type="auto">Ordiar autem una vetus et novum testamentum: Genesim die solis vesperi<note xml:id="fn26" type="footnote" n="26">Nr. 2389,12-18.</note> et Mathaeum die lunae absoluta tamen prius ea, quę ad Timoth. posterior est.</s>
+					<s n="59" xml:lang="la" type="auto">Ego itaque Matheum accipiam; nam Lucam habet Cellarius, <persName ref="p8417" cert="high">Musculus</persName> <persName ref="p18113" cert="high">Ioannem</persName> diebus sabbatinis.</s>
+					<s n="60" xml:lang="la" type="auto">Ordiar autem una vetus et novum testamentum: Genesim die solis vesperi<note xml:id="fn26" type="footnote" n="26">Nr. 2389,12-18.</note> et Mathaeum die lunae absoluta tamen prius ea<note xml:id="fn27" type="footnote" n="27">epistola.</note>, quę ad Timoth. posterior est.</s>
 					<s n="61" xml:lang="la" type="auto">Suadet mihi animus eam ad Hebraeos,<note xml:id="fn28" type="footnote" n="28">Vgl. <ref target="file12406">Nr. 2359</ref>.30f.</note> sed difficultas ipsius me valde<pb type="edition" next="402"/> impedit.</s>
 					<s n="62" xml:lang="la" type="auto">Sed parum interest.</s>
-					<s n="63" xml:lang="la" type="auto">Omnis enim scriptura divinitus inspirata utilis est ad docendum, ad doctrinam, ad redargutionem, ad correctionem, ad institutionem, quae est in iustitia, ut integer sit dei homo ad omne bonum opus apparatus<note xml:id="fn29" type="footnote" n="29">2Tim 3, 16f.</note>.</s>
+					<s n="63" xml:lang="la" type="auto">Omnis enim scriptura divinitus inspirata utilis est ad docendum, ad doctrinam, ad redargutionem, ad correctionem, ad institutionem, quae est in iustitia, ut integer sit dei homo ad omne bonum opus apparatus<note xml:id="fn29" type="footnote" n="29"><cit type="bible"><ref>2Tim 3, 16f</ref></cit>.</note>.</s>
 					<s n="64" xml:lang="la" type="auto">Ago autem pro tuo consilio gratias.</s>
 					<s n="65" xml:lang="la" type="auto">Domini erit laus, si quid inde fructus oritur.</s>
 				</p>
@@ -118,27 +118,27 @@
 			<div xml:id="div10" corresp="regest10">
 				<p>
 					<s n="66" xml:lang="la" type="auto">Vale.</s>
-					<s n="67" xml:lang="la" type="auto">Salutabis familiam tuam omnem, socerum meum<note xml:id="fn30" type="footnote" n="30"><persName>Ulrich Kambli</persName>, damals Zunftmeister in Zürich. Zu ihm s. <bibl>HBBW</bibl> III 79, Anm. 10; <hi>Bähler, <persName>Haller</persName></hi> 14, Anm. 47; René <hi>Hauswirth,</hi> Die Zürcher Obristmeister (Oberstzunftmeister) 1518-1547, in: <bibl>Zwa</bibl> 12, 1967, 596-602; <bibl>HLS</bibl> VII 56.</note> et fratres ac symmistas omnes.</s>
-					<s n="68" xml:lang="la" type="auto">Salvum te cupit d. <persName ref="p6843">Bernhardinus</persName><note xml:id="fn31" type="footnote" n="31"><persName>Bernardino Ochino</persName>, der an der Kirche St. Anna predigte.</note>, qui proxime etiam candide de coena locutus est publice, et uxor mea<note xml:id="fn32" type="footnote" n="32"><persName>Elsbeth, geb. Kambli</persName>.</note>.</s>
-					<s n="69" xml:lang="la" type="auto"><placeName>Augustae Vindelicorum</placeName>, 9. maii anno, etc., 1546.</s>
+					<s n="67" xml:lang="la" type="auto">Salutabis familiam tuam omnem, socerum meum et fratres ac symmistas omnes.</s>
+					<s n="68" xml:lang="la" type="auto">Salvum te cupit d. <persName ref="p2336" cert="high">Bernhardinus</persName><note xml:id="fn31" type="footnote" n="31"><persName ref="p2336" cert="high">Bernardino Ochino</persName>, der an der Kirche St. Anna predigte.</note>, qui proxime etiam candide de coena locutus est publice, et uxor mea<note xml:id="fn32" type="footnote" n="32"><persName ref="p5131" cert="high">Elsbeth, geb. Kambli</persName>.</note>.</s>
+					<s n="69" xml:lang="la" type="auto"><placeName ref="l1976" cert="high">Augustae Vindelicorum</placeName>, 9. maii anno, etc., 1546.</s>
 				</p>
 			</div>
 			<div xml:id="div11" corresp="regest11">
 				<p>
-					<s n="70" xml:lang="la" type="auto">Si quid novi attulerint bibliopolę de <persName ref="p18889">Lutheri</persName> obitu, mittam.</s>
-					<s n="71" xml:lang="la" type="auto">Tui studiosissimus <persName>Ioan. Hallerus</persName>.</s>
+					<s n="70" xml:lang="la" type="auto">Si quid novi attulerint bibliopolę de <persName ref="p1974" cert="high">Lutheri</persName> obitu, mittam.</s>
+					<s n="71" xml:lang="la" type="auto">Tui studiosissimus <persName ref="p8018" cert="high">Ioan. Hallerus</persName>.</s>
 				</p>
 			</div>
 			<div xml:id="div12" corresp="regest12">
 				<p>
-					<s n="72" xml:lang="la" type="auto">Mitto hic <persName>Sebastiani Cocii</persName>, ludimagistri, ut audio, Hallensis<note xml:id="fn33" type="footnote" n="33">Hier: <placeName>Schwäbisch Hall</placeName>.</note>, Refutationes 12 articulorum <persName>Schvenckfeldii</persName>; quod negotium mihi non infoeliciter tractare videtur, si non nimium Smalkaldianae tribueret excommunicationi, quasi haereticum sit, quidquid illi proscripserunt.</s>
+					<s n="72" xml:lang="la" type="auto">Mitto hic <persName ref="p4549" cert="high">Sebastiani Cocii</persName>, ludimagistri, ut audio, Hallensis<note xml:id="fn33" type="footnote" n="33">Hier: <placeName ref="l964" cert="high">Schwäbisch Hall</placeName>.</note>, Refutationes 12 articulorum <persName ref="p8441" cert="high">Schvenckfeldii</persName>; quod negotium mihi non infoeliciter tractare videtur, si non nimium Smalkaldianae tribueret excommunicationi, quasi haereticum sit, quidquid illi proscripserunt.</s>
 					<s n="73" xml:lang="la" type="auto">Scio enim, quales illi omnes sint (quorum hic posuit catalogum) erga nos.</s>
 				</p>
 				<p>
-					<s n="74" xml:lang="la" type="auto">Rogo autem vicissim mittas, quamprimum potes, unum atque alterum exemplar tui de resurrectione enchiridii, sicut transtulit Frisius; plurimi enim meum videntes exemplar cupiunt habere etiam.</s>
+					<s n="74" xml:lang="la" type="auto">Rogo autem vicissim mittas, quamprimum potes, unum atque alterum exemplar tui de resurrectione enchiridii, sicut transtulit <persName ref="p1214" cert="high">Frisius</persName>; plurimi enim meum videntes exemplar cupiunt habere etiam.</s>
 					<s n="75" xml:lang="la" type="auto">Nostri vero non habent bibliopolae.</s>
-					<s n="76" xml:lang="la" type="auto"><persName ref="p5295">Froschouerus</persName>, a quo accipies, ascribet debitum fratri meo<note xml:id="fn37" type="footnote" n="37"><persName>Wolfgang Haller</persName>.</note>, cui ego satisfaciam.</s>
-					<s n="77" xml:lang="la" type="auto">Libellum <persName>Ioannis a Lasco</persName> nondum inveni; scribam tamen <placeName>Basilaeam</placeName> pro eo.<pb type="edition" next="403"/></s>
+					<s n="76" xml:lang="la" type="auto"><persName ref="p1227" cert="high">Froschouerus</persName>, a quo accipies, ascribet debitum fratri meo<note xml:id="fn37" type="footnote" n="37"><persName ref="p1453" cert="high">Wolfgang Haller</persName>.</note>, cui ego satisfaciam.</s>
+					<s n="77" xml:lang="la" type="auto">Libellum <persName ref="p8041" cert="high">Ioannis a Lasco</persName> nondum inveni; scribam tamen <placeName ref="l28" cert="high">Basilaeam</placeName> pro eo.<pb type="edition" next="403"/></s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

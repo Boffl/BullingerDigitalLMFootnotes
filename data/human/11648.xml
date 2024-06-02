@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11648" type="Brief" source="GR" n="30">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11648" type="Brief" source="GR-I" n="30">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Blasius, Johannes Comander / [Chur] AN Heinrich Bullinger, 21. Februar 1542</title>
+				<title subtype="file">Johannes Blasius, Johannes Comander / [Chur] an Heinrich Bullinger, 21. Februar 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -27,7 +27,7 @@
 					<s n="9" xml:lang="la" type="auto">21. Februarii 42.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto">Tui Ioannes Blasius, Ioannes Comander.</s>
+					<s n="10" xml:lang="la" type="auto">Tui <persName ref="p396" cert="high">Ioannes Blasius</persName>, Ioannes Comander.</s>
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Praesentium lator Stephanus omnem rem melius indicabit, quam scribere potuerimus; hunc et tibi commendatum fore rogamus.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10852" type="Brief" source="HBBW" n="813">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10852" type="Brief" source="HBBW-6" n="813">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 30. April 1536</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Oswald Myconius (Geißhüsler), 30. April 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,20 +19,20 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">De bannitis quae iniunxisti, exequutus sum<note xml:id="fn1" type="footnote" n="1"><persName>Myconius</persName> hatte Bullinger mehrfach aufgefordert, den Zürcher Rat zu einer harten Haltung in den Verhandlungen über die <placeName>Solothurner</placeName> "Banditen" zu veranlassen; vgl. oben <ref target="file10843">Nr. 804</ref>, 1-23. 805. 811, 1-15.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">De bannitis quae iniunxisti, exequutus sum<note xml:id="fn1" type="footnote" n="1"><persName ref="p8418" cert="high">Myconius</persName> hatte Bullinger mehrfach aufgefordert, den Zürcher Rat zu einer harten Haltung in den Verhandlungen über die <placeName ref="l760" cert="high">Solothurner</placeName> "Banditen" zu veranlassen; vgl. oben <ref target="file10843">Nr. 804</ref>, 1-23. 805. 811, 1-15.</note>.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">De conventu Saxonico quid senatui nostro nos roganti responderimus, habes apographum.</s>
-					<s n="4" xml:lang="la" type="auto">Petiit <persName>Capito</persName>, scriberemus amicas literas<note xml:id="fn3" type="footnote" n="3">Siehe oben <ref target="file10835">Nr. 796</ref>, 2-7, und 797, 11-13.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Petiit <persName ref="p5565" cert="high">Capito</persName>, scriberemus amicas literas<note xml:id="fn3" type="footnote" n="3">Siehe oben <ref target="file10835">Nr. 796</ref>, 2-7, und 797, 11-13.</note>.</s>
 					<s n="5" xml:lang="la" type="auto">Scripsimus.</s>
-					<s n="6" xml:lang="la" type="auto">Harum hic quoque copiam habes<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file10851">Nr. 812</ref>; zu der nach <placeName>Basel</placeName> gesandten Abschrift s. ebd., Anm. a.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Harum hic quoque copiam habes<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file10851">Nr. 812</ref>; zu der nach <placeName ref="l28" cert="high">Basel</placeName> gesandten Abschrift s. ebd., Anm. a.</note>.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Quid agatur Arowie, nescimus.</s>
 					<s n="8" xml:lang="la" type="auto">Orabis dominum, ut omnia bene vertat.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto"><persName>Gryneum</persName> salvere iubebis millies.</s>
+					<s n="9" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Gryneum</persName> salvere iubebis millies.</s>
 					<s n="10" xml:lang="la" type="auto">Cui haec omnia communicabis.</s>
 					<s n="11" xml:lang="la" type="auto">Occupatissimus plura non potui.</s>
 				</p>
@@ -50,8 +50,8 @@
 				</p>
 				<p>
 					<note type="address">[Adresse:]</note>
-					<s n="16" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, fratri charissimo.</s>
-					<s n="17" xml:lang="la" type="auto"><placeName>Basileae</placeName>.</s>
+					<s n="16" xml:lang="la" type="auto">Domino <persName ref="p8418" cert="high">Osvaldo Myconio</persName>, fratri charissimo.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>.</s>
 				</p>
 			</div>
 		</body>

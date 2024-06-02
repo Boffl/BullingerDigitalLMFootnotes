@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10521" type="Brief" source="HBBW" n="485">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10521" type="Brief" source="HBBW-4" n="485">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 10. Dezember 1534</title>
+				<title subtype="file">Berchtold Haller / [Bern] an Heinrich Bullinger, 10. Dezember 1534</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Ad literas proximas<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file10512">Nr. 476</ref>.</note> cum non responderis, charissime Heinrice, responsum expectare non desino.</s>
-					<s n="3" xml:lang="la" type="auto">Caeterum, quod ad confessionem vestram de eucharistia<note xml:id="fn2" type="footnote" n="2">Gemeint ist das zürcherische Abendmahlsbekenntnis vom Dezember 1534 (<ref target="file10518">Nr. 482</ref>).</note> pertinet, convocavimus ex agro nostro fratres<note xml:id="fn3" type="footnote" n="3">Namentlich nicht bekannt. Zur Organisation der <placeName>Berner</placeName> Kirche während der Reformation s. <bibl>Guggisberg</bibl> 154-156.</note> cuiusque capituli potiores - 14 habet <placeName>Bernensis</placeName> ager -, absque quorum consensu, immo et magistratus ecclesiarum nomine nobis nihil penitus agendum censuimus.</s>
+					<s n="3" xml:lang="la" type="auto">Caeterum, quod ad confessionem vestram de eucharistia<note xml:id="fn2" type="footnote" n="2">Gemeint ist das zürcherische Abendmahlsbekenntnis vom Dezember 1534 (<ref target="file10518">Nr. 482</ref>).</note> pertinet, convocavimus ex agro nostro fratres<note xml:id="fn3" type="footnote" n="3">Namentlich nicht bekannt. Zur Organisation der <placeName ref="l41" cert="high">Berner</placeName> Kirche während der Reformation s. <bibl>Guggisberg</bibl> 154-156.</note> cuiusque capituli potiores - 14 habet <placeName ref="l41" cert="high">Bernensis</placeName> ager -, absque quorum consensu, immo et magistratus ecclesiarum nomine nobis nihil penitus agendum censuimus.</s>
 					<s n="4" xml:lang="la" type="auto">Nescimus vero, num vos soli apud Tigurum absque iis, quos habetis in agro, arduum hoc onus suscępturi sitis.</s>
 					<s n="5" xml:lang="la" type="auto">Videbitis nimirum, ubi Luterus vestram apprehenderit confessionem, utcumque eam vel implicaveritis vel explicatam tradideritis, quanto cum triumpho et victorię encomio totum sit orbem repleturus.</s>
 					<s n="6" xml:lang="la" type="auto">Sed de his proxime.</s>
@@ -26,9 +26,9 @@
 					<s n="8" xml:lang="la" type="auto">Interim perpetuo curabis, utcumque libertatem aut potius ignorantiam meam hac in re prodidero, firma maneat, constans et perpetua inter nos amicicia, quam nisi dudum perspectissimam teneres, non facile sinum cordis mei aperuisses.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Si quae fuerint excusa in 2. Corinth.<note xml:id="fn4" type="footnote" n="4">Bullingers «Commentarius in posteriorem Pauli ad Corinthios epistolam» erschien im März 1535 (<bibl>HBBibl</bibl> I 71).</note>, vel nuncius ille vel <persName ref="p5295">Christophorus</persName><note xml:id="fn6" type="footnote" n="6"><persName>Christoph Froschauer</persName>.</note>, quem ad ferias natalicias expectamus, adferat.</s>
-					<s n="10" xml:lang="la" type="auto"><persName>Brunfelsius</persName> e vivis migravit.</s>
-					<s n="11" xml:lang="la" type="auto">Salutabis symmistas, uxorem<note xml:id="fn7" type="footnote" n="7"><persName>Anna Bullinger, geb. Adlischwyler</persName>.</note> et familiam.</s>
+					<s n="9" xml:lang="la" type="auto">Si quae fuerint excusa in 2. Corinth.<note xml:id="fn4" type="footnote" n="4">Bullingers «Commentarius in posteriorem Pauli ad Corinthios epistolam» erschien im März 1535 (<bibl>HBBibl</bibl> I 71).</note>, vel nuncius<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> ille vel <persName ref="p1227" cert="high">Christophorus</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p1227" cert="high">Christoph Froschauer</persName>.</note>, quem ad ferias natalicias expectamus, adferat.</s>
+					<s n="10" xml:lang="la" type="auto"><persName ref="p4409" cert="high">Brunfelsius</persName> e vivis migravit.</s>
+					<s n="11" xml:lang="la" type="auto">Salutabis symmistas, uxorem<note xml:id="fn7" type="footnote" n="7"><persName ref="p8051" cert="high">Anna Bullinger, geb. Adlischwyler</persName>.</note> et familiam.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la" type="auto">Vale.</s>

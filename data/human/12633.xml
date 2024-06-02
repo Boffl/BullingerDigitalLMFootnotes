@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12633" type="Brief" source="HBBW" n="2586">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12633" type="Brief" source="HBBW-17" n="2586">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Eberhard von Rümlang] / [Bern] AN Heinrich Bullinger, 15. September 1546</title>
+				<title subtype="file">[Eberhard von Rümlang] / [Bern] an Heinrich Bullinger, 15. September 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,15 +16,15 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Scias, Bullingere, quod turbatores<note xml:id="fn2" type="footnote" n="2"><persName>Beat Gering</persName> und <persName>Simon Sulzer</persName>.</note> nostri egerrime ferant, quod magistratus Tigurinum<note xml:id="fn3" type="footnote" n="3">Zur Wahl des <persName>Jodocus Kilchmeyer</persName> s. <ref target="file12630">Nr. 2583</ref>, Anm. 5.</note> elegerit, quem ipsi non nominarunt<note xml:id="fn4" type="footnote" n="4">Zu den von <persName>Gering</persName> und <persName>Sulzer</persName> vorgeschlagenen Kandidaten s. <ref target="file12630">Nr. 2583</ref>, Anm. 2.</note>.</s>
+					<s n="1" xml:lang="la" type="auto">Scias, Bullingere, quod turbatores<note xml:id="fn2" type="footnote" n="2"><persName ref="p8364" cert="high">Beat Gering</persName> und <persName ref="p3099" cert="high">Simon Sulzer</persName>.</note> nostri egerrime ferant, quod magistratus Tigurinum<note xml:id="fn3" type="footnote" n="3">Zur Wahl des <persName ref="p1804" cert="high">Jodocus Kilchmeyer</persName> s. <ref target="file12630">Nr. 2583</ref>, Anm. 5.</note> elegerit, quem ipsi non nominarunt<note xml:id="fn4" type="footnote" n="4">Zu den von <persName ref="p8364" cert="high">Gering</persName> und <persName ref="p3099" cert="high">Sulzer</persName> vorgeschlagenen Kandidaten s. <ref target="file12630">Nr. 2583</ref>, Anm. 2.</note>.</s>
 					<s n="2" xml:lang="la" type="auto">Voluerunt itaque impedire eius vocationem quasi non legitimam, et quod violarant<note xml:id="fn5" type="footnote" n="5">Subjekt sind die Ratsherren.</note> ecclesiasticam autoritatem<note xml:id="fn6" type="footnote" n="6">Vgl. <ref target="file12634">Nr. 2587</ref>,1-5. - Zur Autoritätsfrage der Geistlichen s. <ref target="file12631">Nr. 2584</ref>,50-52. 68f.</note>.</s>
-					<s n="3" xml:lang="la" type="auto">Sed novimus de <persName>Josaphat</persName>, <persName>Josia</persName>, Ezechia, Iudeo Machabeo et <persName>Cyro</persName> rege, quid magistratus possit in ecclesiasticis rebus ministrisque ordinandis.</s>
+					<s n="3" xml:lang="la" type="auto">Sed novimus de <persName ref="p19737" cert="high">Josaphat</persName>, <persName ref="p19560" cert="high">Josia</persName>, Ezechia, Iudeo Machabeo et <persName ref="p18542" cert="high">Cyro</persName> rege, quid magistratus possit in ecclesiasticis rebus ministrisque ordinandis.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="4" xml:lang="la" type="auto">Proinde effice omni modo, ne recuset<note xml:id="fn8" type="footnote" n="8">Subjekt ist <persName>Kilchmeyer</persName>.</note> vocationem a spiritu sancto pręstitam.</s>
-					<s n="5" xml:lang="la" type="auto">Habebit constantes adstipulatores<note xml:id="fn9" type="footnote" n="9">Nämlich die zwinglisch Orientierten in <placeName>Bern</placeName>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Proinde effice omni modo, ne recuset<note xml:id="fn8" type="footnote" n="8">Subjekt ist <persName ref="p1804" cert="high">Kilchmeyer</persName>.</note> vocationem a spiritu sancto pręstitam.</s>
+					<s n="5" xml:lang="la" type="auto">Habebit constantes adstipulatores<note xml:id="fn9" type="footnote" n="9">Nämlich die zwinglisch Orientierten in <placeName ref="l41" cert="high">Bern</placeName>.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12906" type="Brief" source="TUSTEP" n="2857">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12906" type="Brief" source="TUSTEP-19" n="2857">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 23. März 1547</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 23. März 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Recepi tuas, vir praestantissime, mihi longe gratissimas una cum scripto <placeName>Constantiensi</placeName>.</s>
+					<s n="2" xml:lang="la" type="auto">Recepi tuas, vir praestantissime, mihi longe gratissimas una cum scripto <placeName ref="l457" cert="high">Constantiensi</placeName>.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -38,7 +38,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="9" xml:lang="la" type="auto">Clarissimo viro d. d. <persName>Ioachimo Vadiano</persName>, consuli Sangallensi, domino suo semper observandissimo.</s>
+					<s n="9" xml:lang="la" type="auto">Clarissimo viro d. d. <persName ref="p8049" cert="high">Ioachimo Vadiano</persName>, consuli Sangallensi, domino suo semper observandissimo.</s>
 					<s n="10" xml:lang="la" type="auto">Sangallen.</s>
 				</p>
 			</div>

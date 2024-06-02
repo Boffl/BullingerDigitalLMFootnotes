@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10044" type="Brief" source="HBBW" n="19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10044" type="Brief" source="HBBW-1" n="19">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leo Jud / [Zürich] AN Heinrich Bullinger, [Mai/Juni 1526]</title>
+				<title subtype="file">Leo Jud / [Zürich] an Heinrich Bullinger, [Mai/Juni 1526]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -24,15 +24,15 @@
 					<s n="4" xml:lang="la" type="auto">Quedam ferro, quedam sanguine molliuntur, ut de adamante ferunt<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl>Otto</bibl> 4, Nr. 17.</note>, neque beneficiis ducuntur neque poenis tenentur.</s>
 				</p>
 				<p>
-					<s n="5" xml:lang="la" type="auto">Iam quoniam te video totum huc spectare, ut gloria Christi quam latissime propagetur, rogo te, ut, si quid ex lectione Erasmica<note xml:id="fn6" type="footnote" n="6">Zu Bullingers Einstellung zu <persName>Erasmus</persName> s. oben <ref target="file10038">[Nr. 13]</ref> S. 86,25ff und S. 88, Anm. 45.</note> aut Lutherana<note xml:id="fn7" type="footnote" n="7">Zu <persName>Luthers</persName> Einfluß auf Bullinger s. <bibl>Staedtke</bibl> 46-48 u. ö.; <bibl>Hausammann</bibl> 23f. 192-198. 203ff. 211ff.</note> collegeris<pb type="edition" next="118"/> atque memorie (qua plurimum vales) mandaveris, quod ad eucharistiam adtinet, ocyssime ad me mittas.</s>
+					<s n="5" xml:lang="la" type="auto">Iam quoniam te video totum huc spectare, ut gloria Christi quam latissime propagetur, rogo te, ut, si quid ex lectione Erasmica<note xml:id="fn6" type="footnote" n="6">Zu Bullingers Einstellung zu <persName ref="p18722" cert="high">Erasmus</persName> s. oben <ref target="file10038">[Nr. 13]</ref> S. 86,25ff und S. 88, Anm. 45.</note> aut Lutherana<note xml:id="fn7" type="footnote" n="7">Zu <persName ref="p1974" cert="high">Luthers</persName> Einfluß auf Bullinger s. <bibl>Staedtke</bibl> 46-48 u. ö.; <bibl>Hausammann</bibl> 23f. 192-198. 203ff. 211ff.</note> collegeris<pb type="edition" next="118"/> atque memorie (qua plurimum vales) mandaveris, quod ad eucharistiam adtinet, ocyssime ad me mittas.</s>
 					<s n="6" xml:lang="la" type="auto">Nam illorum de eucharistia sententiam hoc libellulo, quem ad te mitto, christianis proposui, ut omnes videant quid ambo de hac re olim apud se senserint, ac si sapere velint, nobis accedant.</s>
-					<s n="7" xml:lang="la" type="auto">Volo enim quae hic breviter congessi et quasi gustanda praebui, diligentius ac fusius tractare, idque latine<note xml:id="fn9" type="footnote" n="9">Dazu hatte <persName ref="p6796">Jud</persName> keinen Anlaß mehr, da <persName>Erasmus</persName> schwieg und im Abendmahlsstreit keine Rolle mehr spielte (s. oben Anm. 8; auch <hi>Köhler,</hi> ZL 1150).</note>, ut sic vel hypocritis tandem persona detrahatur aut certe infirmitas sanetur.</s>
+					<s n="7" xml:lang="la" type="auto">Volo enim quae hic breviter congessi et quasi gustanda praebui, diligentius ac fusius tractare, idque latine, ut sic vel hypocritis tandem persona detrahatur aut certe infirmitas sanetur.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" type="auto">Vale, charissime Henrice.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto"><persName ref="p2305">Leo Jud</persName> tuus.</s>
+					<s n="9" xml:lang="la" type="auto"><persName ref="p1753" cert="high">Leo Jud</persName> tuus.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">Que tibi scripsi, lapidi dixerim<note xml:id="fn10" type="footnote" n="10">Vgl. <bibl>Otto</bibl> 185f, Nr. 911. Dieser Wunsch betrifft zweifellos die Geheimhaltung seines Namens als Verfasser.</note>.</s>

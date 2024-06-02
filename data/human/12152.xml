@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12152" type="Brief" source="AB" n="2703">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12152" type="Brief" source="AB-VI" n="2703">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Bonifacius Amerbach, 14. März 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Bonifacius Amerbach, 14. März 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,7 +28,7 @@
 					<s n="10" xml:lang="la" type="auto">Perge studiis et pietati fauere.</s>
 					<s n="11" xml:lang="la" type="auto">Vale.</s>
 					<s n="12" xml:lang="la" type="auto">Tiguri 14 Martij, 1545.</s>
-					<s n="13" xml:lang="la" type="auto">Salutant te D. Pellicanus, D. Bibliander ac caeteri.</s>
+					<s n="13" xml:lang="la" type="auto">Salutant te D. <persName ref="p8127" cert="high">Pellicanus</persName>, D. <persName ref="p8171" cert="high">Bibliander</persName> ac caeteri.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Tuus ex animo Heinrychus Bullingerus.</s>

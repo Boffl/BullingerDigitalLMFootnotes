@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13020" type="Brief" source="HBBW" n="2971">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13020" type="Brief" source="HBBW-20" n="2971">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 30. Juli 1547</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 30. Juli 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,11 +20,11 @@
 					<s n="2" xml:lang="la" type="auto">Multa circumferuntur, illud tamen inprimis: Helvetiam obpugnatum iri.<note xml:id="fn1" type="footnote" n="1">Siehe schon Myconius' Mitteilung in <ref target="file12992">Nr. 2943</ref>,<ptr target="qvzl17208-1" type="qv"/>. Vgl. zuletzt <ref target="file12994">Nr. 2945</ref>,<ptr target="qvzl17217-10" type="qv"/>.</note></s>
 					<s n="3" xml:lang="la" type="auto">Sic scribitur, sic dicitur, sic omnia omnium externorum colloquia ferunt.</s>
 					<s n="4" xml:lang="la" type="auto">„Hoc anno forsitan nihil,“ inquiunt, „fiet, sed proximo.</s>
-					<s n="5" xml:lang="la" type="auto">Habet caesar<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> milites plane exhaustos, et eos quidem paucos (numerum enim 12 millium non excedunt).</s>
+					<s n="5" xml:lang="la" type="auto">Habet caesar<note xml:id="fn2" type="footnote" n="2"><persName ref="p18538" cert="high">Karl V.</persName></note> milites plane exhaustos, et eos quidem paucos (numerum enim 12 millium non excedunt).</s>
 					<s n="6" xml:lang="la" type="auto">Necesse est igitur, ut illos reficiat et reliqua paret de integro, quibus opus est ad expugnandam gentem hactenus propemodum invincibilem.“</s>
 					<s n="7" xml:lang="la" type="auto">Hęc cognita nostros debebant excitare, ut tandem cogitarent, qualiter hosti, tam usque hinc felici, foret in tempore occurrendum.</s>
 					<s n="8" xml:lang="la" type="auto">Suevi quidam de nobis sentiunt, quales si essemus, non pręveniremur, sed praeveniremus.</s>
-					<s n="9" xml:lang="la" type="auto">Nam in proximo conventu <placeName>Ulmę</placeName> habito<note xml:id="fn3" type="footnote" n="3">Der vom Kaiser einberufene Tag zu <placeName>Ulm</placeName> von Juni/Juli; s. <ref target="file12976">Nr. 2927</ref>, <ptr target="qvfn17194-2" type="qv"/>.</note>, dum de foedere novo<note xml:id="fn4" type="footnote" n="4">Die vom Kaiser geplante Wiedererrichtung des Schwäbischen Bundes; s. <ref target="file13009">Nr. 2960</ref>, <ptr target="qvfn17225-2" type="qv"/>.</note> relatum esset, responderunt civitates pleraeque nihil in mandatis habere se de ullo foedere.</s>
+					<s n="9" xml:lang="la" type="auto">Nam in proximo conventu <placeName ref="l513" cert="high">Ulmę</placeName> habito<note xml:id="fn3" type="footnote" n="3">Der vom Kaiser einberufene Tag zu <placeName ref="l513" cert="high">Ulm</placeName> von Juni/Juli; s. <ref target="file12976">Nr. 2927</ref>, <ptr target="qvfn17194-2" type="qv"/>.</note>, dum de foedere novo<note xml:id="fn4" type="footnote" n="4">Die vom Kaiser geplante Wiedererrichtung des Schwäbischen Bundes; s. <ref target="file13009">Nr. 2960</ref>, <ptr target="qvfn17225-2" type="qv"/>.</note> relatum esset, responderunt civitates pleraeque nihil in mandatis habere se de ullo foedere.</s>
 					<s n="10" xml:lang="la" type="auto">Privatim autem ad amicos dicebant: „Si de hac re intellecturi essent Helvetii, quia rem contra se esse interpretarentur, priusquam cęsar posset nos defendere novo exercitu, periissemus.</s>
 					<s n="11" xml:lang="la" type="auto">Scimus enim promptitudinem illorum; nihil morantur, ubi quid in animo est facere, pręsertim dum cavendum est periculum.“</s>
 					<s n="12" xml:lang="la" type="auto">Utinam omnes<note xml:id="fn5" type="footnote" n="5">Alle Eidgenossen.</note> probe et fideliter expenderent illa!</s>
@@ -33,8 +33,8 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="14" xml:lang="la" type="auto"><placeName>Augustam</placeName> convocavit suos cęsar ad kalendas septembris,<note xml:id="fn6" type="footnote" n="6">Zur Einberufung des Reichstags nach <placeName>Augsburg</placeName> s. <ref target="file13001">Nr. 2952</ref>, <ptr target="qvfn17218-1" type="qv"/>; zur Pest in <placeName>Augsburg</placeName> und <placeName>Ulm</placeName> <ref target="file13007">Nr. 2958</ref>, <ptr target="qvfn17224-2" type="qv"/>; <ref target="file13017">Nr. 2968</ref>,<ptr target="qvzl17233-5" type="qv"/>.<ptr target="zfnfn17237-3" type="zfn"/></note> quamvis ipse illic non sit ob pestem grassari incipientem.</s>
-					<s n="15" xml:lang="la" type="auto">Neoburgi<note xml:id="fn7" type="footnote" n="7"><placeName>Neuburg a.d. Donau</placeName>.</note> et <placeName>Landsbergii</placeName><note xml:id="fn8" type="footnote" n="8"><placeName>Landsberg am Lech</placeName>.</note> diversatum dicunt hactenus.<note xml:id="fn9" type="footnote" n="9">Ein Gerücht. Der Kaiser kam nicht durch <placeName>Neuburg</placeName> und <placeName>Landsberg</placeName>. Er reiste auf einer anderen Route nach <placeName>Augsburg</placeName>; vgl. <bibl>Stälin</bibl> 580. Myconius wusste noch nicht, dass <persName>Karl V.</persName> am 23. Juli (s. <ref target="file13019">Nr. 2970</ref>,<ptr target="qvzl17236-4" type="qv"/>) in <placeName>Augsburg</placeName> eingeritten war.</note></s>
+					<s n="14" xml:lang="la" type="auto"><placeName ref="l1976" cert="high">Augustam</placeName> convocavit suos cęsar ad kalendas septembris,<note xml:id="fn6" type="footnote" n="6">Zur Einberufung des Reichstags nach <placeName ref="l1976" cert="high">Augsburg</placeName> s. <ref target="file13001">Nr. 2952</ref>, <ptr target="qvfn17218-1" type="qv"/>; zur Pest in <placeName ref="l1976" cert="high">Augsburg</placeName> und <placeName ref="l513" cert="high">Ulm</placeName> <ref target="file13007">Nr. 2958</ref>, <ptr target="qvfn17224-2" type="qv"/>; <ref target="file13017">Nr. 2968</ref>,<ptr target="qvzl17233-5" type="qv"/>.<ptr target="zfnfn17237-3" type="zfn"/></note> quamvis ipse illic non sit ob pestem grassari incipientem.</s>
+					<s n="15" xml:lang="la" type="auto"><placeName ref="337" type="auto_name">Neoburgi</placeName><note xml:id="fn7" type="footnote" n="7"><placeName ref="l337" cert="high">Neuburg a.d. Donau</placeName>.</note> et <placeName ref="l2286" cert="high">Landsbergii</placeName><note xml:id="fn8" type="footnote" n="8"><placeName ref="l2286" cert="high">Landsberg am Lech</placeName>.</note> diversatum dicunt hactenus.</s>
 					<s n="16" xml:lang="la" type="auto">Legatum Gallum aiunt venisse ad cęsarem.</s>
 					<s n="17" xml:lang="la" type="auto">Quid adtulerit, nescitur.</s>
 					<s n="18" xml:lang="la" type="auto">Conspecti sunt tamen vultus omnium procerum deiecti, et sermo spargi incipiebat comitia forsitan nulla futura.</s>
@@ -42,29 +42,29 @@
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="19" xml:lang="la" type="auto">Heri venit <placeName>Argentinensis</placeName> quidam ex <placeName>Constantia</placeName> in aedes meas.<note xml:id="fn12" type="footnote" n="12">Myconius wohnte damals im Basler "Schürhof" (Münsterplatz 19); s. <bibl>Henrich, Myconius BW</bibl> 20.</note></s>
-					<s n="20" xml:lang="la" type="auto">Dixit <placeName>Constantiae</placeName> domus quinque incendio periisse.<note xml:id="fn13" type="footnote" n="13">Siehe dazu <ref target="file13017">Nr. 2968</ref>,<ptr target="qvzl17233-2" type="qv"/>.</note></s>
+					<s n="19" xml:lang="la" type="auto">Heri venit <placeName ref="l492" cert="high">Argentinensis</placeName> quidam<note xml:id="fn11" type="footnote" n="11">Unbekannt.</note> ex <placeName ref="l457" cert="high">Constantia</placeName> in aedes meas.<note xml:id="fn12" type="footnote" n="12">Myconius wohnte damals im Basler "Schürhof" (Münsterplatz 19); s. <bibl>Henrich, Myconius BW</bibl> 20.</note></s>
+					<s n="20" xml:lang="la" type="auto">Dixit <placeName ref="l457" cert="high">Constantiae</placeName> domus quinque incendio periisse.<note xml:id="fn13" type="footnote" n="13">Siehe dazu <ref target="file13017">Nr. 2968</ref>,<ptr target="qvzl17233-2" type="qv"/>.</note></s>
 					<s n="21" xml:lang="la" type="auto">Ignem subiectum putant ab <pb type="edition" next="367"/> hostibus.</s>
 					<s n="22" xml:lang="la" type="auto">Ego mox: „Postquam incendiarius Brunsvicensis liberatus est, quid aliud expectaremus?“</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="23" xml:lang="la" type="auto"><persName>Petrus Scher</persName> senior<note xml:id="fn15" type="footnote" n="15"><persName>Peter Scher d.Ä.</persName> von Schwarzenburg. - Ein solcher Brief ist nicht bekannt.</note> his diebus scripsit literis significatum <placeName>Pragam</placeName> in Boemis se dedidisse maiestati regię<note xml:id="fn16" type="footnote" n="16"><persName>Ferdinand I.</persName> - Siehe dazu <ref target="file12984">Nr. 2935</ref>, <ptr target="qvfn17193-6" type="qv"/>.</note> una cum omnibus privilegiis, tormentis, munitionibus.</s>
-					<s n="24" xml:lang="la" type="auto">Hodie venit dominus <persName ref="p3700">Gabriel</persName><note xml:id="fn17" type="footnote" n="17"><persName>Gabriel Arnold</persName>.</note>, quem nosti.</s>
+					<s n="23" xml:lang="la" type="auto"><persName ref="p8500" cert="high">Petrus Scher</persName> senior<note xml:id="fn15" type="footnote" n="15"><persName ref="p6407" cert="high">Peter Scher d.Ä.</persName> von Schwarzenburg. - Ein solcher Brief ist nicht bekannt.</note> his diebus scripsit literis significatum <placeName ref="l396" cert="high">Pragam</placeName> in Boemis se dedidisse maiestati regię<note xml:id="fn16" type="footnote" n="16"><persName ref="p18477" cert="high">Ferdinand I.</persName> - Siehe dazu <ref target="file12984">Nr. 2935</ref>, <ptr target="qvfn17193-6" type="qv"/>.</note> una cum omnibus privilegiis, tormentis, munitionibus.</s>
+					<s n="24" xml:lang="la" type="auto">Hodie venit dominus <persName ref="p182" cert="high">Gabriel</persName><note xml:id="fn17" type="footnote" n="17"><persName ref="p182" cert="high">Gabriel Arnold</persName>.</note>, quem nosti.</s>
 					<s n="25" xml:lang="la" type="auto">Narratque milites regios aliquot signis per stragem imminutos Boemorum.</s>
 					<s n="26" xml:lang="la" type="auto">Ego credo, quod placet, usquedum contrarium cognovero.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="27" xml:lang="la" type="auto">Nescio quid narrent quidam de Gallo; nam obiter audivi: scripsisse Helvetiis, quod milites, quos habeat collectos ex <persName>Germania</persName>, pro ipsis collegisse.</s>
+					<s n="27" xml:lang="la" type="auto">Nescio quid narrent quidam de Gallo; nam obiter audivi: scripsisse Helvetiis, quod milites, quos habeat collectos ex <persName ref="p18477" cert="high">Germania</persName>, pro ipsis collegisse.</s>
 					<s n="28" xml:lang="la" type="auto">Dicito per ocium, si quid habes; et de his etiam, quę in proximis petii.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="29" xml:lang="la" type="auto">De sopito Antichristo <persName>Gvaltheri</persName><note xml:id="fn20" type="footnote" n="20">Bezug auf Bullingers Mitteilung in <ref target="file13003">Nr. 2954</ref>,<ptr target="qvzl17220-7" type="qv"/>.</note> mirabiliter gaudeo!</s>
+					<s n="29" xml:lang="la" type="auto">De sopito Antichristo <persName ref="p8011" cert="high">Gvaltheri</persName><note xml:id="fn20" type="footnote" n="20">Bezug auf Bullingers Mitteilung in <ref target="file13003">Nr. 2954</ref>,<ptr target="qvzl17220-7" type="qv"/>.</note> mirabiliter gaudeo!</s>
 					<s n="30" xml:lang="la" type="auto">Permoverat enim ea res ab initio valde vehementer animum meum.</s>
 					<s n="31" xml:lang="la" type="auto">Nam praeter alia mala, si 5 Pagici perstitissent, evangelio per totam Helvetiam male fuisset consultum.</s>
 					<s n="32" xml:lang="la" type="auto">Prohibeat dominus, ne quando malum illud redeat.</s>
@@ -77,17 +77,17 @@
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="34" xml:lang="la" type="auto">Apud <placeName>Urios</placeName><note xml:id="fn22" type="footnote" n="22">die Urner.</note> dominus <persName>Lucas Iselius</persName><note xml:id="fn23" type="footnote" n="23">Der Basler Bürger und Gewürzhändler <persName>Johann Lukas Iselin</persName> war katholisch geblieben, weswegen er 1529 seinen Sitz im Rat verlor. 1542 Meister der Safranzunft, 1546 erneut Ratsherr; s. <bibl>AK</bibl> IV 421, Anm. 4 (zu <ref target="file12090">Nr. 2043</ref>).</note>, civis noster, audivit disputationem de concilio futuro, et rogatus est diligenter, ut, si quando res perveniat ad <pb type="edition" next="368"/> nos, nihil recusemus.</s>
+					<s n="34" xml:lang="la" type="auto">Apud <placeName ref="l781" cert="high">Urios</placeName><note xml:id="fn22" type="footnote" n="22">die Urner.</note> dominus <persName ref="p18763" cert="high">Lucas Iselius</persName>, civis noster, audivit disputationem de concilio futuro, et rogatus est diligenter, ut, si quando res perveniat ad <pb type="edition" next="368"/> nos, nihil recusemus.</s>
 					<s n="35" xml:lang="la" type="auto">Eum vero sermonem difficulter audivit nec etiam intellexit.</s>
 					<s n="36" xml:lang="la" type="auto">Nihil igitur potuit dicere aliud.</s>
-					<s n="37" xml:lang="la" type="auto">Hęc ideo, si tu forsitan audieris aliquid certius ex legato, redeunte a Lagarne.<note xml:id="fn26" type="footnote" n="26"><placeName>Locarno</placeName>.</note></s>
+					<s n="37" xml:lang="la" type="auto">Hęc ideo, si tu forsitan audieris aliquid certius ex legato, redeunte a Lagarne.<note xml:id="fn26" type="footnote" n="26"><placeName ref="l294" cert="high">Locarno</placeName>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
 					<s n="38" xml:lang="la" type="auto">Vale in Christo cum tuis.</s>
-					<s n="39" xml:lang="la" type="auto">Salutabis <persName>Gvaltherum</persName>.</s>
-					<s n="40" xml:lang="la" type="auto"><placeName>Basileae</placeName>, 30. iulii anno 1547.</s>
+					<s n="39" xml:lang="la" type="auto">Salutabis <persName ref="p8011" cert="high">Gvaltherum</persName>.</s>
+					<s n="40" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, 30. iulii anno 1547.</s>
 					<s n="41" xml:lang="la" type="auto">T[uus] O. M.</s>
 				</p>
 				<p>

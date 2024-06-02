@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13041" type="Brief" source="VBS" n="1555">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13041" type="Brief" source="VBS-6" n="1555">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Heinrich Bullinger] / Zürich AN [Joachim Vadian (von Watt)], 15. August 1547</title>
+				<title subtype="file">[Heinrich Bullinger] / Zürich an [Joachim Vadian (von Watt)], 15. August 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -35,7 +35,7 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="12" xml:lang="de" type="auto">Gester sind in 300 burger mitt gschütz und Spiessen den frömbden zuͦ eeren umbzogen.</s>
-					<s n="13" xml:lang="de" type="auto">Hütt hand den ersten schutz gethan Apptzell, San Gallen, gottshußlüt und <placeName>Constantz</placeName>.</s>
+					<s n="13" xml:lang="de" type="auto">Hütt hand den ersten schutz gethan Apptzell, San Gallen, gottshußlüt und <placeName ref="l457" cert="high">Constantz</placeName>.</s>
 					<s n="14" xml:lang="de" type="auto">Die habend das erst loß überkummen; das ander hatt die von Schwytz, Underwalden und Zug troffen etc.</s>
 					<s n="15" xml:lang="de" type="auto">Ich hoff vil guͦts.</s>
 				</p>

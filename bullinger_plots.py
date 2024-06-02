@@ -104,7 +104,8 @@ def label_trends(df):
     num_colors = len(percentages.columns)
     colors = [cmap(i) for i in range(num_colors)]
 
-    # Remove the misc label, as it does not add more information
+    # Remove the misc label, as it does not add more information, it is just what is left from the pie
+    # also, if it is in the picture we loose a lot of detail in the graph fro the smaller categories.
     percentages = percentages.drop(columns=['misc'])
 
     # Plot the percentages

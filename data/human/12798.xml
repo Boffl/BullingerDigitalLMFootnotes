@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12798" type="Brief" source="HBBW" n="2749">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12798" type="Brief" source="HBBW-19" n="2749">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Georg Frölich (Laetus) / Augsburg AN Heinrich Bullinger, 12. Januar 1547</title>
+				<title subtype="file">Georg Frölich (Laetus) / Augsburg an Heinrich Bullinger, 12. Januar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Ursachen, das ain ersamer ratte zu <placeName>Augspurg</placeName> sich der kay. mt. nitt widersetzen soll, unnd was für unrat daraus ervolge, wann man ir nit wie <placeName>Ulm</placeName> unnd annder stette gehorsame</s>
+					<s n="1" xml:lang="de" type="auto">Ursachen, das ain ersamer ratte zu <placeName ref="l1976" cert="high">Augspurg</placeName> sich der kay. mt. nitt widersetzen soll, unnd was für unrat daraus ervolge, wann man ir nit wie <placeName ref="l513" cert="high">Ulm</placeName> unnd annder stette gehorsame</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="de" type="manual">1. Die hailig schrifft will ...</s>
@@ -24,7 +24,7 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="de" type="auto">Ursachen, warumb ain ersamer rat zu <placeName>Augspurg</placeName> der kay. mt. inn obgemeltem fall nit gehorsamen soll, unnd was für unrat daraus ervolge, wann man sich wie <placeName>Ulme</placeName> unnd anndere ergebe</s>
+					<s n="3" xml:lang="de" type="auto">Ursachen, warumb ain ersamer rat zu <placeName ref="l1976" cert="high">Augspurg</placeName> der kay. mt. inn obgemeltem fall nit gehorsamen soll, unnd was für unrat daraus ervolge, wann man sich wie <placeName ref="l513" cert="high">Ulme</placeName> unnd anndere ergebe</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="de" type="manual">1. Es ist war, man soll dem kunig ...</s>
@@ -32,7 +32,7 @@
 				<p>
 					<note type="date">[Datum am Ende des Gutachtens:]</note>
 					<s n="5" xml:lang="de" type="auto">12. Januarii 1546.</s>
-					<s n="6" xml:lang="de" type="auto"><persName>Georg Frölich</persName>, Stadtschreiber zu <placeName>Augspurg</placeName>.</s>
+					<s n="6" xml:lang="de" type="auto"><persName ref="p8354" cert="high">Georg Frölich</persName>, Stadtschreiber zu <placeName ref="l1976" cert="high">Augspurg</placeName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11572" type="Brief" source="GR" n="28">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11572" type="Brief" source="GR-I" n="28">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 7. Juni 1541</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 7. Juni 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a Domino.</s>
-					<s n="2" xml:lang="la" type="auto">Literas humanitatis tuae ante dies quindecim accepi, colendissime Bullingere, quibus nos earum rerum, quae <placeName>Ratisbonae</placeName> aguntur, certiores reddidisti, illasque avidissime legimus, - Deus optimus faxit, ut, quae bono ordine coepta sunt, optima fruge finiantur -, denuoque praecamur, ut, si quae recentiora nactus fueris usque ad nostras nundinas, nobis ea impartiri non graveris.</s>
+					<s n="2" xml:lang="la" type="auto">Literas humanitatis tuae ante dies quindecim accepi, colendissime Bullingere, quibus nos earum rerum, quae <placeName ref="l410" cert="high">Ratisbonae</placeName> aguntur, certiores reddidisti, illasque avidissime legimus, - Deus optimus faxit, ut, quae bono ordine coepta sunt, optima fruge finiantur -, denuoque praecamur, ut, si quae recentiora nactus fueris usque ad nostras nundinas, nobis ea impartiri non graveris.</s>
 					<s n="3" xml:lang="la" type="auto">Ex Italia certi penitus nihil habemus.</s>
 					<s n="4" xml:lang="la" type="auto">Romanus episcopus bello infestat comites de Columna, sed quibus modis ignoramus.</s>
 					<s n="5" xml:lang="la" type="auto">In nundinis vero iam futuris ex Italis diligenter inquiram, ut certi quid ad te scribere queam.</s>
@@ -31,8 +31,8 @@
 					<s n="13" xml:lang="la" type="auto">Vale.</s>
 					<s n="14" xml:lang="la" type="auto">Ex Rhetiae Curia, septimo idus Iunii 41.</s>
 					<s n="15" xml:lang="la" type="auto">Salvos cupimus fratres omnes.</s>
-					<s n="16" xml:lang="la" type="auto">Te quoque plurima salute impertire iussit dominus Ieorgius Vögeli <placeName>Constantiensis</placeName>, qui nunc Curiae suam exercet artem.</s>
-					<s n="17" xml:lang="la" type="auto">Tibi deditissimus <persName ref="p4564">Ioannes Comander</persName>.</s>
+					<s n="16" xml:lang="la" type="auto">Te quoque plurima salute impertire iussit dominus Ieorgius Vögeli <placeName ref="l457" cert="high">Constantiensis</placeName>, qui nunc Curiae suam exercet artem.</s>
+					<s n="17" xml:lang="la" type="auto">Tibi deditissimus <persName ref="p654" cert="high">Ioannes Comander</persName>.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la" type="auto">Ornatissimo doctissimoque viro magistro Heinricho Bullingero, Tigurinae ecclesiae episcopo vigilantissimo, domino ac fratri suo cum primis observando.</s>

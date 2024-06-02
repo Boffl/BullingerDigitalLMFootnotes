@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12326" type="Brief" source="GR" n="63">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12326" type="Brief" source="GR-I" n="63">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Camillo Renato / Chiavenna AN Heinrich Bullinger, 2. November 1545</title>
+				<title subtype="file">Camillo Renato / Chiavenna an Heinrich Bullinger, 2. November 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -74,7 +74,7 @@
 					<s n="42" xml:lang="la" type="auto">Vale nosque, ut facis, ama, idque in Domino.</s>
 					<s n="43" xml:lang="de" type="auto">2° Novembris 1545.</s>
 					<s n="44" xml:lang="la" type="auto">Clavennae Augustinus Mainardus Pedemontanus, Claven(n)ensis ecclesiae minister, vir sane scientia et pietate non mediocri, tibi salutem plurimam dicit maximasque gratias agit, quod illi gratissimum certe libellum dono transmiseris, repensurus plane, si qua in re illum tibi putes posse commodare.</s>
-					<s n="45" xml:lang="la" type="auto">Is te rogat, ut Pellicanum reliquosque suo nomine salutes.</s>
+					<s n="45" xml:lang="la" type="auto">Is te rogat, ut <persName ref="p8127" cert="high">Pellicanum</persName> reliquosque suo nomine salutes.</s>
 					<s n="46" xml:lang="la" type="auto">Iterum vale.</s>
 				</p>
 				<p>

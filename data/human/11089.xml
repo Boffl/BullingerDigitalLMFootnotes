@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11089" type="Brief" source="HBBW" n="1046">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11089" type="Brief" source="HBBW-7" n="1046">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Zwick / [Konstanz] AN Heinrich Bullinger, 24. September 1537</title>
+				<title subtype="file">Johannes Zwick / [Konstanz] an Heinrich Bullinger, 24. September 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,21 +19,21 @@
 					<s n="1" xml:lang="la" type="auto">Salus.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">16. septembris Uracum<note xml:id="fn1" type="footnote" n="1">Zum Uracher "Götzentag" vom 10. [!] September 1537 s. Hermann <hi>Ehmer,</hi> Das Uracher Bildergespräch 1537, in: <bibl>BWKG</bibl> 90, 1990, S. 65-91; vgl. auch <persName>Zwicks</persName> Bericht an <persName>Vadian</persName> (<persName>Vadian</persName> BW V 4460.</note> vocati sunt <persName ref="p17881">Brentius</persName>, Schnepfius, Matheus Rutlingensis cum diacono <persName>Schradino</persName>, <persName>Caspar Greterus</persName> episcopus Herenbergensis<pb type="edition" next="252"/>, Wenceslaus Uracensis, doctor <persName>Paulus Phrigio</persName> et <persName>Ambrosius</persName><note xml:id="fn6" type="footnote" n="6"><persName>Ambrosius Blarer</persName>.</note> noster.</s>
-					<s n="3" xml:lang="la" type="auto">Conferendum per illos amice fuit praesentibus aliquot, qui principi<note xml:id="fn7" type="footnote" n="7"><persName>Herzog Ulrich von Württemberg</persName>.</note> sunt a consiliis<note xml:id="fn8" type="footnote" n="8">Erbmarschall <persName>Hans Konrad Thumb</persName>, Hofkanzler <persName>Hans Knoder</persName> sowie die Räte bei der Kanzlei <persName>Balthasar von Gültlingen</persName> und <persName>Philipp Lang</persName>; s. <hi>Ehmer,</hi> aaO, S. 70f.</note>, de imaginibus e templo tollendis vel non tollendis.</s>
-					<s n="4" xml:lang="la" type="auto">Schnepfius perpetuo contendit non ferri solum posse, sed etiam utiles esse in templis christianorum, si non prostent ad cultum.</s>
-					<s n="5" xml:lang="la" type="auto"><persName>Ambrosius</persName> semper contra putavit, quanquam harum causa nullam tragędiam movere voluit.</s>
+					<s n="2" xml:lang="la" type="auto">16. septembris Uracum<note xml:id="fn1" type="footnote" n="1">Zum Uracher "Götzentag" vom 10. [!] September 1537 s. Hermann <hi>Ehmer,</hi> Das Uracher Bildergespräch 1537, in: <bibl>BWKG</bibl> 90, 1990, S. 65-91; vgl. auch <persName ref="p4079" cert="high">Zwicks</persName> Bericht an <persName ref="p8049" cert="high">Vadian</persName> (<persName ref="p8049" cert="high">Vadian</persName> BW V 4460.</note> vocati sunt <persName ref="p458" cert="high">Brentius</persName>, <persName ref="p6469" cert="high">Schnepfius</persName>, <persName ref="4153" type="auto_name">Matheus Rutlingensis</persName> cum diacono <persName ref="p6486" cert="high">Schradino</persName>, <persName ref="p5051" cert="high">Caspar Greterus</persName> episcopus Herenbergensis<pb type="edition" next="252"/>, <persName ref="6719" type="auto_name">Wenceslaus Uracensis</persName>, doctor <persName ref="p19958" cert="high">Paulus Phrigio</persName> et <persName ref="p8055" cert="high">Ambrosius</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p8055" cert="high">Ambrosius Blarer</persName>.</note> noster.</s>
+					<s n="3" xml:lang="la" type="auto">Conferendum per illos amice fuit praesentibus aliquot, qui principi<note xml:id="fn7" type="footnote" n="7"><persName ref="p9780" cert="high">Herzog Ulrich von Württemberg</persName>.</note> sunt a consiliis<note xml:id="fn8" type="footnote" n="8">Erbmarschall <persName ref="p2284" cert="high">Hans Konrad Thumb</persName>, Hofkanzler <persName ref="p5487" cert="high">Hans Knoder</persName> sowie die Räte bei der Kanzlei <persName ref="p7521" cert="high">Balthasar von Gültlingen</persName> und <persName ref="p5590" cert="high">Philipp Lang</persName>; s. <hi>Ehmer,</hi> aaO, S. 70f.</note>, de imaginibus e templo tollendis vel non tollendis.</s>
+					<s n="4" xml:lang="la" type="auto"><persName ref="p6469" cert="high">Schnepfius</persName> perpetuo contendit non ferri solum posse, sed etiam utiles esse in templis christianorum, si non prostent ad cultum.</s>
+					<s n="5" xml:lang="la" type="auto"><persName ref="p8055" cert="high">Ambrosius</persName> semper contra putavit, quanquam harum causa nullam tragędiam movere voluit.</s>
 					<s n="6" xml:lang="la" type="auto">Vocati autem sunt<pb type="edition" next="253"/> etiam aliqui docti viri<note xml:id="fn9" type="footnote" n="9">Gemeint sind wohl die oben genannten Theologen; über weitere Teilnehmer am Gespräch ist nichts bekannt.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Certatum est inter illos toto die, nec potuit inter illos convenire.</s>
 					<s n="8" xml:lang="la" type="auto">Postremo iussi sunt, ut singuli suam sententiam scripto altera die exhiberent et simpliciter responderent, scilicet liceretne principi omnes in universum statuas et imagines e templis auferre.</s>
 					<s n="9" xml:lang="la" type="auto">Hoc factum est.</s>
 					<s n="10" xml:lang="la" type="auto">Princeps omnibus omnium scriptis excussis sententiam tulit, quae nondum est promulgata.</s>
 					<s n="11" xml:lang="la" type="auto">Suspicantur quidam pro nobis esse.</s>
-					<s n="12" xml:lang="la" type="auto">A Schnepfio steterunt <persName ref="p17881">Brentius</persName> et Wenceslaus.</s>
+					<s n="12" xml:lang="la" type="auto">A <persName ref="p6469" cert="high">Schnepfio</persName> steterunt <persName ref="p458" cert="high">Brentius</persName> et Wenceslaus.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Haec te scire volui; sed non omnibus hęc spargenda.</s>
-					<s n="14" xml:lang="la" type="auto">Ora autem dominum cum <persName>Pellicano</persName>, Leone<note xml:id="fn11" type="footnote" n="11"><persName ref="p6796">Leo Jud</persName>.</note> et <persName>Theodoro</persName><note xml:id="fn12" type="footnote" n="12"><persName>Theodor Bibliander</persName>.</note>, charissimis fratribus et dominis meis, ut missis nugis istis ad seria studium conferatur.</s>
+					<s n="14" xml:lang="la" type="auto">Ora autem dominum cum <persName ref="p8127" cert="high">Pellicano</persName>, <persName ref="p1753" cert="high">Leone</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p1753" cert="high">Leo Jud</persName>.</note> et <persName ref="p8171" cert="high">Theodoro</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>, charissimis fratribus et dominis meis, ut missis nugis istis ad seria studium conferatur.</s>
 				</p>
 				<p>
 					<s n="15" xml:lang="la" type="auto">Valete.</s>

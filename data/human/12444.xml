@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12444" type="Brief" source="HBBW" n="2397">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12444" type="Brief" source="HBBW-16" n="2397">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Georg Hertwig / Solothurn AN Heinrich Bullinger, 29. März 1546</title>
+				<title subtype="file">Georg Hertwig / Solothurn an Heinrich Bullinger, 29. März 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,14 +17,14 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Salutem d. plurimam.</s>
-					<s n="2" xml:lang="la" type="auto">Reddidit michi litteras tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>, Henrice doctissime, una cum Theodereto noviter impresso<note xml:id="fn3" type="footnote" n="3">Die von <persName>Gwalther</persName> besorgte griechisch-lateinische Ausgabe von <persName>Theodorets</persName> Schrift "De providentia sermones X"; s. <ref target="file12373">Nr. 2326</ref>, Anm. 1.</note> (cuius iampridem feceras mentionem<note xml:id="fn4" type="footnote" n="4">In einem nicht erhaltenen, früheren Brief.</note>), harum lator, d. Tigurinorum nuncius<note xml:id="fn5" type="footnote" n="5">Wohl <persName>Hans Heinrich Tischmacher</persName>; s. Zürich StA, Seckelamt Rechnungen F III 32, Rechnungsbuch 1545/46, f. 64 der Ausgabenabteilung.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Reddidit michi litteras tuas<note xml:id="fn2" type="footnote" n="2">Nicht erhalten.</note>, Henrice doctissime, una cum Theodereto noviter impresso<note xml:id="fn3" type="footnote" n="3">Die von <persName ref="p8011" cert="high">Gwalther</persName> besorgte griechisch-lateinische Ausgabe von <persName ref="p18346" cert="high">Theodorets</persName> Schrift "De providentia sermones X"; s. <ref target="file12373">Nr. 2326</ref>, Anm. 1.</note> (cuius iampridem feceras mentionem<note xml:id="fn4" type="footnote" n="4">In einem nicht erhaltenen, früheren Brief.</note>), harum lator, d. Tigurinorum nuncius<note xml:id="fn5" type="footnote" n="5">Wohl <persName ref="p6808" cert="high">Hans Heinrich Tischmacher</persName>; s. Zürich StA, Seckelamt Rechnungen F III 32, Rechnungsbuch 1545/46, f. 64 der Ausgabenabteilung.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Quid autem ad te scribam aut quomodo respondeam illi tue erga me benevolentiae et humanitati, haud quaquam mihi sim conscius.</s>
-					<s n="4" xml:lang="la" type="auto">Accumulas enim officium beneficio munereque addito muneri, gratiarum actionem meritam et condignam prorsus tulisti e medio, nec est relliquum iam aliud, quam quod me tibi debere fatear, omnia tuique iuris faciam, que dominus concessit internorum et externorum bonorum, qui et suppleat, quod in me defuerit<note xml:id="fn6" type="footnote" n="6">Vgl. 2Kor 9, 8f; Phil 4, 19.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Accumulas enim officium beneficio munereque addito muneri, gratiarum actionem meritam et condignam prorsus tulisti e medio, nec est relliquum iam aliud, quam quod me tibi debere fatear, omnia tuique iuris faciam, que dominus concessit internorum et externorum bonorum, qui et suppleat, quod in me defuerit<note xml:id="fn6" type="footnote" n="6">Vgl. <cit type="bible"><ref>2Kor 9, 8f</ref></cit>; <cit type="bible"><ref>Phil 4, 19</ref></cit>.</note>.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="5" xml:lang="la" type="auto">Librum, de quo scripsisti,<note xml:id="fn7" type="footnote" n="7">Es bleibt unbekannt, welches Buch Bullinger in seinem Brief erwähnt hatte.</note> eme tradeque <persName>Iacobo Stapfer</persName>, affini dilecto.</s>
+					<s n="5" xml:lang="la" type="auto">Librum, de quo scripsisti,<note xml:id="fn7" type="footnote" n="7">Es bleibt unbekannt, welches Buch Bullinger in seinem Brief erwähnt hatte.</note> eme tradeque <persName ref="p7801" cert="high">Iacobo Stapfer</persName>, affini dilecto.</s>
 					<s n="6" xml:lang="la" type="auto">Is ad me deferet; nam brevi (sicuti indicavit michi) ad nos collaturus se est.</s>
 					<s n="7" xml:lang="la" type="auto">Is pretium signifficatum ad te reportabit.</s>
 					<s n="8" xml:lang="la" type="auto">Ob nuncii discessum prolixiori michi esse non licuit.</s>
@@ -37,7 +37,7 @@
 					<s n="11" xml:lang="la" type="auto">Tui studiosissimus</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto"><persName ref="p5522">Georgius Hertvigus</persName>.</s>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p1411" cert="high">Georgius Hertvigus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12847" type="Brief" source="TUSTEP" n="2798">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12847" type="Brief" source="TUSTEP-19" n="2798">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">John Hooper / [Basel] AN Heinrich Bullinger, [7. Februar 1547]</title>
+				<title subtype="file">John Hooper / [Basel] an Heinrich Bullinger, [7. Februar 1547]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. P.</s>
-					<s n="2" xml:lang="la" type="auto"><placeName>Argentorati</placeName> anno iam fere lapso, praestantissime domine atque in Christo colendissime, literas tuas aeque doctas ac pias recepi, quibus mihi persuadere omnino voluisti verum cultum dei cum externa ydolatria nullam coniunctionem recipere; ideo consultius atque magis pium esse existimaveras iacturam patriae et fortunae pro Christo sustinere quam impiis missis interesse.</s>
+					<s n="2" xml:lang="la" type="auto"><placeName ref="l492" cert="high">Argentorati</placeName> anno iam fere lapso, praestantissime domine atque in Christo colendissime, literas tuas aeque doctas ac pias recepi, quibus mihi persuadere omnino voluisti verum cultum dei cum externa ydolatria nullam coniunctionem recipere; ideo consultius atque magis pium esse existimaveras iacturam patriae et fortunae pro Christo sustinere quam impiis missis interesse.</s>
 					<s n="3" xml:lang="la" type="auto">Id consilii veneror et colo; in eandem sentenciam lubens descendo.</s>
 					<s n="4" xml:lang="la" type="auto">Tue dominationi meritas gratias referre nequeo; sed rogo, ut is, qui omnia in omnibus potest, et qui vera fide invocatus propter filium suum Iesum Christum vult ultra quam credi potest, abundanter ut sua clementia et pietas sit merces tua atque remuneratio.</s>
 					<s n="5" xml:lang="la" type="auto">De hoc non dubito, quin eris, hoc caduco plasmate soluto, eternus amicus dei.</s>
@@ -26,12 +26,12 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="la" type="auto">De longo et periculosissimo itinere meo in <placeName>Angliam</placeName> viva voce coram prestantiam tuam alloquar; multa passus in terra, bis in vincula et cathenas sustinui; dei clementia (magna fortunae tamen iactura) mirabiliter liberatus, in mari per tres menses ab hostibus et undis misere vexatus; sed nondum finis; quod huius calamitose vitae restat, precor ut sit ad gloriam nominis dei et ad edificationem ecclesiae sue.</s>
+					<s n="7" xml:lang="la" type="auto">De longo et periculosissimo itinere meo in <placeName ref="l3002" cert="high">Angliam</placeName> viva voce coram prestantiam tuam alloquar; multa passus in terra, bis in vincula et cathenas sustinui; dei clementia (magna fortunae tamen iactura) mirabiliter liberatus, in mari per tres menses ab hostibus et undis misere vexatus; sed nondum finis; quod huius calamitose vitae restat, precor ut sit ad gloriam nominis dei et ad edificationem ecclesiae sue.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Ex flammis et aqua liberatus in Martem veni; nihil video preter interitum omnis pietatis et religionis; hostis dei interficiat (si fieri possibile sit ut fides <persName>Petris</persName> pereat) omne os sonans Christum et matrem cum filiis, hoc est universam ecclesiam; sed dominus respiciet populum suum, non dubito, et non permittet crudelis hostis tyrannidem grassari quo voluerit.</s>
+					<s n="8" xml:lang="la" type="auto">Ex flammis et aqua liberatus in Martem veni; nihil video preter interitum omnis pietatis et religionis; hostis dei interficiat (si fieri possibile sit ut fides <persName ref="p19981" cert="high">Petris</persName> pereat) omne os sonans Christum et matrem cum filiis, hoc est universam ecclesiam; sed dominus respiciet populum suum, non dubito, et non permittet crudelis hostis tyrannidem grassari quo voluerit.</s>
 					<s n="9" xml:lang="la" type="auto">Interim convertamur ex animo et vere ad dominum, et haud dubie suspiciet lachrimas nostras.</s>
 					<s n="10" xml:lang="la" type="auto">Sed, proh dolor, optime domine, in summo periculo in summo securitate stertimus, et ideo non mirum est, si iram dei et nostre impietatis onera crudeliter sentiamus.</s>
 					<s n="11" xml:lang="la" type="auto">Emendamus igitur, ne graviora nobis immittat, scilicet ut fiamus post hanc vitam eterni hostes dei; ut tempus postulat, patienter feramus fortunam quam nostra peccata meruerunt; nam propter iniquitatem corrupit filios hominum.</s>
@@ -39,13 +39,13 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="12" xml:lang="la" type="auto">Que laeta heri accepimus ex <placeName>Argentina</placeName>, iste nuntius dominationem tuam certiorem faciet.</s>
+					<s n="12" xml:lang="la" type="auto">Que laeta heri accepimus ex <placeName ref="l492" cert="high">Argentina</placeName>, iste nuntius dominationem tuam certiorem faciet.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="13" xml:lang="la" type="auto">In <placeName>Anglia</placeName> erit religionis mutacio, et rex<note xml:id="fn17" type="footnote" n="17"><persName>Heinrich VIII.</persName></note> suscipiet Christi evangelium, si in hoc pestilentissimo bello caesar<note xml:id="fn18" type="footnote" n="18"><persName>Karl V.</persName></note> fuerit victus; si evangelium cladem sustinuerit, tunc retinebit impias suas missas, pro quibus hac aestate quattuor pios et nobiles viros combussit.</s>
-					<s n="14" xml:lang="la" type="auto">Iam rex noster<note xml:id="fn19" type="footnote" n="19"><persName>Heinrich VIII.</persName></note> tenet in carcere Londini ducem Norforkiae[!] atque filium illius maiorem natu et heredem; dicunt patrem et filium conspirasse mortem regis et principis nostri; horrendum facinus, si vere sint mee litere.</s>
+					<s n="13" xml:lang="la" type="auto">In <placeName ref="l3002" cert="high">Anglia</placeName> erit religionis mutacio, et rex<note xml:id="fn17" type="footnote" n="17"><persName ref="p18505" cert="high">Heinrich VIII.</persName></note> suscipiet Christi evangelium, si in hoc pestilentissimo bello caesar<note xml:id="fn18" type="footnote" n="18"><persName ref="p18538" cert="high">Karl V.</persName></note> fuerit victus; si evangelium cladem sustinuerit, tunc retinebit impias suas missas, pro quibus hac aestate quattuor pios et nobiles viros combussit.</s>
+					<s n="14" xml:lang="la" type="auto">Iam rex noster<note xml:id="fn19" type="footnote" n="19"><persName ref="p18505" cert="high">Heinrich VIII.</persName></note> tenet in carcere Londini ducem Norforkiae[!] atque filium illius maiorem natu et heredem; dicunt patrem et filium conspirasse mortem regis et principis nostri; horrendum facinus, si vere sint mee litere.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
@@ -61,14 +61,14 @@
 				<p>
 					<s n="20" xml:lang="la" type="auto">Dominus Iesus servet te diu incolumem, ad gloriam nominis illius et ad utilitatem ecclesiae suae.</s>
 					<s n="21" xml:lang="la" type="manual">Amen.</s>
-					<s n="22" xml:lang="la" type="auto">Saluta meo nomine d. Bibliandrum, Pellicanum, Gvaltherum et reliquos omnes.</s>
+					<s n="22" xml:lang="la" type="auto">Saluta meo nomine d. <persName ref="p8171" cert="high">Bibliandrum</persName>, <persName ref="p8127" cert="high">Pellicanum</persName>, <persName ref="p8011" cert="high">Gvaltherum</persName> et reliquos omnes.</s>
 					<s n="23" xml:lang="la" type="auto">Vestre ecclesiae precibus sol[l]icite me commendo.</s>
 					<s n="24" xml:lang="la" type="auto">Parce, precor, calamo nimium properanti.</s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="25" xml:lang="la" type="auto">Rogo dominationem tuam, ut nomine meo et uxoris mee salutes piam matronam Falkner, que nobiscum venit <placeName>Basileam</placeName> <placeName>Argentina</placeName>, quam ipsa reliquit virgo, sed iam cum concensu parentum eam duxi in uxorem.</s>
+					<s n="25" xml:lang="la" type="auto">Rogo dominationem tuam, ut nomine meo et uxoris mee salutes piam matronam Falkner, que nobiscum venit <placeName ref="l28" cert="high">Basileam</placeName> <placeName ref="l492" cert="high">Argentina</placeName>, quam ipsa reliquit virgo, sed iam cum concensu parentum eam duxi in uxorem.</s>
 				</p>
 				<p>
 					<s n="26" xml:lang="la" type="auto">Tue prestantiae addictissimus Ioannes Hoperus.</s>

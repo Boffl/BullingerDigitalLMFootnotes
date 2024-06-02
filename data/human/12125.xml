@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12125" type="Brief" source="HBBW" n="2078">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12125" type="Brief" source="HBBW-15" n="2078">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Cochläus (Dobneck), 1. Februar 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Cochläus (Dobneck), 1. Februar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,47 +17,47 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">G[ratiam] et p[acem].</s>
-					<s n="2" xml:lang="la" type="auto">Literas tuas, <persName>Cochlee</persName>, una cum libellis mihi missis per cursorem publicum<note xml:id="fn3" type="footnote" n="3">Unbekannt. - Aus <persName>Cochläus</persName>' Antwort vom 11. März (unten <ref target="file12142">Nr. 2095</ref>, 1f) geht hervor, dass es sich dabei um <persName>Cochläus</persName>' eigenen Boten handelte.</note> accepi.<pb type="edition" next="113"/></s>
-					<s n="3" xml:lang="la" type="auto">Quid vero de tua replica<note xml:id="fn5" type="footnote" n="5">Siehe oben Anm. 1.</note> sentiam, intelliges ex hac mea responsione<note xml:id="fn6" type="footnote" n="6">Bullingers "Brevis <foreign xml:lang="el">ἀντιβολή</foreign>" von Dezember 1544; s. <bibl>HBBW</bibl> XIV <ref target="file12057">[Nr. 2010]</ref> 460, Anm. 22.</note>, quam - licet ante mensem miserim amicis, quos rogaveram, ut mature tibi tradi curarent<note xml:id="fn7" type="footnote" n="7">Bullinger hatte Adam Bartholomäus durch <persName>Wolfgang Musculus</persName> zwei Exemplare übermitteln lassen, von denen Bartholomäus wiederum eines an <persName>Cochläus</persName> weiterleiten sollte; s. unten <ref target="file12126">Nr. 2079</ref>, 13-16 und Anm. 5.</note> - nec dubitem, quin modo acceperis.</s>
-					<s n="4" xml:lang="la" type="auto">Volui tamen et hoc exemplum addere, quo certius scirem te mea accepisse<note xml:id="fn8" type="footnote" n="8">Im "Epilog" (s. oben Anm. 4) seiner kollektiven Gegenschrift "In primum Musculi Anticochlaeum replica", f. K lv., erwähnt <persName>Cochläus</persName> nur das ihm durch Bartholomäus' Vermittlung zugesandte Exemplar der "Brevis <foreign xml:lang="el">ἀντιβολή</foreign> und nicht dasjenige, das dem vorliegenden Brief beigelegt wurde; s. auch unten <ref target="file12142">Nr. 2095</ref>, Anm.3.</note>.</s>
-					<s n="5" xml:lang="la" type="auto">De meis, ut voles, iudica, <persName>Cochlee</persName>!</s>
+					<s n="2" xml:lang="la" type="auto">Literas tuas, <persName ref="p8312" cert="high">Cochlee</persName>, una cum libellis mihi missis per cursorem publicum<note xml:id="fn3" type="footnote" n="3">Unbekannt. - Aus <persName ref="p8312" cert="high">Cochläus</persName>' Antwort vom 11. März (unten <ref target="file12142">Nr. 2095</ref>, 1f) geht hervor, dass es sich dabei um <persName ref="p8312" cert="high">Cochläus</persName>' eigenen Boten handelte.</note> accepi.<pb type="edition" next="113"/></s>
+					<s n="3" xml:lang="la" type="auto">Quid vero de tua replica<note xml:id="fn5" type="footnote" n="5">Siehe oben Anm. 1.</note> sentiam, intelliges ex hac mea responsione<note xml:id="fn6" type="footnote" n="6">Bullingers "Brevis <foreign xml:lang="el">ἀντιβολή</foreign>" von Dezember 1544; s. <bibl>HBBW</bibl> XIV <ref target="file12057">[Nr. 2010]</ref> 460, Anm. 22.</note>, quam - licet ante mensem miserim amicis, quos rogaveram, ut mature tibi tradi curarent<note xml:id="fn7" type="footnote" n="7">Bullinger hatte Adam Bartholomäus durch <persName ref="p8417" cert="high">Wolfgang Musculus</persName> zwei Exemplare übermitteln lassen, von denen Bartholomäus wiederum eines an <persName ref="p8312" cert="high">Cochläus</persName> weiterleiten sollte; s. unten <ref target="file12126">Nr. 2079</ref>, 13-16 und Anm. 5.</note> - nec dubitem, quin modo acceperis.</s>
+					<s n="4" xml:lang="la" type="auto">Volui tamen et hoc exemplum addere, quo certius scirem te mea accepisse.</s>
+					<s n="5" xml:lang="la" type="auto">De meis, ut voles, iudica, <persName ref="p8312" cert="high">Cochlee</persName>!</s>
 					<s n="6" xml:lang="la" type="auto">Ego aliter loqui non possum nec debeo, quam sentio in pectore et animo meo.</s>
-					<s n="7" xml:lang="la" type="auto">Et dominus, iudex universorum iustissimus,<note xml:id="fn9" type="footnote" n="9">Vgl. 2Tim 4, 8.</note> quid singuli spectent, quid quaerant, novit et videt<note xml:id="fn10" type="footnote" n="10">Vgl. Ps 139 (Vulg. 138), 3-5.</note>.</s>
-					<s n="8" xml:lang="la" type="auto">Huic ego caussam meam iudicandam permitto,<note xml:id="fn11" type="footnote" n="11">1Sam 24,16.</note> imo humiliter offero.</s>
+					<s n="7" xml:lang="la" type="auto">Et dominus, iudex universorum iustissimus,<note xml:id="fn9" type="footnote" n="9">Vgl. <cit type="bible"><ref>2Tim 4, 8</ref></cit>.</note> quid singuli spectent, quid quaerant, novit et videt<note xml:id="fn10" type="footnote" n="10">Vgl. <cit type="bible"><ref>Ps 139 (Vulg. 138), 3-5.</ref></cit></note>.</s>
+					<s n="8" xml:lang="la" type="auto">Huic ego caussam meam iudicandam permitto,<note xml:id="fn11" type="footnote" n="11"><cit type="bible"><ref>1Sam 24,16</ref></cit>.</note> imo humiliter offero.</s>
 					<s n="9" xml:lang="la" type="auto">Defendam autem apostolicam, quam corde infixam ex spiritu dei et scripturis sanctis fidem teneo, privatim et publice, scriptis et sermonibus, quoad spiritus hos rexerit artus<note xml:id="fn12" type="footnote" n="12">Vgl. <hi>Vergil,</hi> Aeneis, 4, 336.</note>.</s>
-					<s n="10" xml:lang="la" type="auto">Scio enim, cui credidi<note xml:id="fn13" type="footnote" n="13">2Tim 1, 12.</note>.</s>
-					<s n="11" xml:lang="la" type="auto">Scio, quorum nitar testimoniis,<note xml:id="fn14" type="footnote" n="14">Vgl. Eph 2, 10; Hebr 11.</note> neque hic terrebunt ulli adversarii ullis convitiis, scriptionibus, artibus.</s>
+					<s n="10" xml:lang="la" type="auto">Scio enim, cui credidi<note xml:id="fn13" type="footnote" n="13"><cit type="bible"><ref>2Tim 1, 12</ref></cit>.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Scio, quorum nitar testimoniis,<note xml:id="fn14" type="footnote" n="14">Vgl. <cit type="bible"><ref>Eph 2, 10</ref></cit>; <cit type="bible"><ref>Hebr 11</ref></cit>.</note> neque hic terrebunt ulli adversarii ullis convitiis, scriptionibus, artibus.</s>
 					<s n="12" xml:lang="la" type="auto">Nec ullis parcam laboribus.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto">Ac sat scio ipsum quoque dominum mihi nunquam defuturum,<note xml:id="fn15" type="footnote" n="15">Dtn 4, 31; 31, 6. 8; 1Chr28, 20; Jes41, 10.</note> in cuius manu sunt sortes meae<note xml:id="fn16" type="footnote" n="16">Ps 31 (Vulg. 30), 16.</note>.</s>
-					<s n="14" xml:lang="la" type="auto">Vide tu interim, <persName>Cochlee</persName>, quid agas!</s>
-					<s n="15" xml:lang="la" type="auto">Brevi reddes domino rationem omnium eorum, quae egisti<note xml:id="fn17" type="footnote" n="17">Jud 1, 15. - <persName>Cochläus</persName> starb am 11. Januar 1552.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Ac sat scio ipsum quoque dominum mihi nunquam defuturum,<note xml:id="fn15" type="footnote" n="15"><cit type="bible"><ref>Dtn 4, 31</ref></cit>; <cit type="bible"><ref>31, 6. 8</ref></cit>; <cit type="bible"><ref>1Chr28, 20</ref></cit>; <cit type="bible"><ref>Jes41, 10</ref></cit>.</note> in cuius manu sunt sortes meae<note xml:id="fn16" type="footnote" n="16"><cit type="bible"><ref>Ps 31 (Vulg. 30), 16.</ref></cit></note>.</s>
+					<s n="14" xml:lang="la" type="auto">Vide tu interim, <persName ref="p8312" cert="high">Cochlee</persName>, quid agas!</s>
+					<s n="15" xml:lang="la" type="auto">Brevi reddes domino rationem omnium eorum, quae egisti<note xml:id="fn17" type="footnote" n="17"><cit type="bible"><ref>Jud 1, 15.</ref></cit> - <persName ref="p8312" cert="high">Cochläus</persName> starb am 11. Januar 1552.</note>.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto">Narras mihi nescio quae de generali consilio<note xml:id="fn18" type="footnote" n="18">Das Konzil von <placeName>Trient</placeName> war für den 15. März 1545 einberufen, wurde aber tatsächlich erst am 13. Dezember eröffnet; s. oben <ref target="file12118">Nr. 2071</ref>, Anm. 24. - <persName>Cochläus</persName> war ein eifriger Verfechter eines Konzils; s. <bibl>Spahn</bibl> 246-268. 303-307.</note>: Utinam cogitares, quae dominus nobis cogitanda reliquit de universali iuditio suo<note xml:id="fn19" type="footnote" n="19">Mat 25, 31-46 par.</note>!</s>
-					<s n="17" xml:lang="la" type="auto">Quod, etsi iuxta<pb type="edition" next="114"/> <persName>Osiandri</persName> supputationem certo tempori non affigam, non procul tamen abesse cogito, quod omnia fere impleta sint, quae praecessura dicuntur iudicium<note xml:id="fn21" type="footnote" n="21">Lk 21, 5-38.</note>.</s>
-					<s n="18" xml:lang="la" type="auto">Quid de consilio, quod papa<note xml:id="fn22" type="footnote" n="22"><persName>Paul III.</persName></note> cum suis instituit, sentiamus, non nescis.</s>
-					<s n="19" xml:lang="la" type="auto">Habemus nos magni consilii angelum<note xml:id="fn24" type="footnote" n="24">Christus; vgl. Jes 9, 5 (Vulg. 6): Christus als "consiliarius"; in der Septuaginta als "<foreign xml:lang="el">μεγάλης βουλῆς ἄγγελος</foreign>"; s. auch <hi>Thomas von Aquin,</hi> Summa theologiae, isia, quaest. 83, art. 4 ad 9: Christus als "magni consilii angelus".</note>; habemus prophetarum et apostolorum sacrosanctum consilium<note xml:id="fn25" type="footnote" n="25">Vgl. Eph 2, 20.</note> atque consessum in coelis<note xml:id="fn26" type="footnote" n="26">Eph 2, 6.</note>, quorum definitiones et decreta leguntur in bibliis.</s>
+					<s n="16" xml:lang="la" type="auto">Narras mihi nescio quae de generali consilio<note xml:id="fn18" type="footnote" n="18">Das Konzil von <placeName ref="l1107" cert="high">Trient</placeName> war für den 15. März 1545 einberufen, wurde aber tatsächlich erst am 13. Dezember eröffnet; s. oben <ref target="file12118">Nr. 2071</ref>, Anm. 24. - <persName ref="p8312" cert="high">Cochläus</persName> war ein eifriger Verfechter eines Konzils; s. <bibl>Spahn</bibl> 246-268. 303-307.</note>: Utinam cogitares, quae dominus nobis cogitanda reliquit de universali iuditio suo<note xml:id="fn19" type="footnote" n="19">Mat 25, 31-46 par.</note>!</s>
+					<s n="17" xml:lang="la" type="auto">Quod, etsi iuxta<pb type="edition" next="114"/> <persName ref="p2301" cert="high">Osiandri</persName> supputationem certo tempori non affigam, non procul tamen abesse cogito, quod omnia fere impleta sint, quae praecessura dicuntur iudicium<note xml:id="fn21" type="footnote" n="21"><cit type="bible"><ref>Lk 21, 5-38</ref></cit>.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Quid de consilio, quod <persName ref="19981" type="auto_name">papa</persName><note xml:id="fn22" type="footnote" n="22"><persName ref="p19981" cert="high">Paul III.</persName></note> cum suis instituit, sentiamus, non nescis.</s>
+					<s n="19" xml:lang="la" type="auto">Habemus nos magni consilii angelum<note xml:id="fn24" type="footnote" n="24">Christus; vgl. <cit type="bible"><ref>Jes 9, 5 (Vulg. 6)</ref></cit>: Christus als "consiliarius"; in der Septuaginta als "<foreign xml:lang="el">μεγάλης βουλῆς ἄγγελος</foreign>"; s. auch <hi>Thomas von Aquin,</hi> Summa theologiae, isia, quaest. 83, art. 4 ad 9: Christus als "magni consilii angelus".</note>; habemus prophetarum et apostolorum sacrosanctum consilium<note xml:id="fn25" type="footnote" n="25">Vgl. <cit type="bible"><ref>Eph 2, 20</ref></cit>.</note> atque consessum in coelis<note xml:id="fn26" type="footnote" n="26"><cit type="bible"><ref>Eph 2, 6</ref></cit>.</note>, quorum definitiones et decreta leguntur in bibliis.</s>
 					<s n="20" xml:lang="la" type="auto">His deo favente immoriemur.</s>
-					<s n="21" xml:lang="la" type="auto">Propheta pronunciat: „Beatus vir, qui non abiit in consilio impiorum et in via peccatorum non stetit, et in cathedra pestilentiae non sedit, sed in lege domini voluntas eius“, etc. [Ps 1, 1].</s>
-					<s n="22" xml:lang="la" type="auto">Libenter ea, quae pacis sunt,<note xml:id="fn27" type="footnote" n="27">Röm 14, 19.</note> cogitabo, et pacem habebo cum illis, qui verbo pacis,<note xml:id="fn28" type="footnote" n="28">Sir 12; Röm 10, IS.</note> praedicationi videl<pb type="scan" next="12v."/> icet evangelii, sese non opponunt.</s>
+					<s n="21" xml:lang="la" type="auto">Propheta pronunciat: „Beatus vir, qui non abiit in consilio impiorum et in via peccatorum non stetit, et in cathedra pestilentiae non sedit, sed in lege domini voluntas eius“, etc. <cit type="bible"><ref>[Ps 1, 1]</ref></cit>.</s>
+					<s n="22" xml:lang="la" type="auto">Libenter ea, quae pacis sunt,<note xml:id="fn27" type="footnote" n="27"><cit type="bible"><ref>Röm 14, 19</ref></cit>.</note> cogitabo, et pacem habebo cum illis, qui verbo pacis,<note xml:id="fn28" type="footnote" n="28"><cit type="bible"><ref>Sir 12</ref></cit>; <cit type="bible"><ref>Röm 10,</ref></cit> IS.</note> praedicationi videl<pb type="scan" next="12v."/> icet evangelii, sese non opponunt.</s>
 					<s n="23" xml:lang="la" type="auto">Cum oppugnantibus certare quam colludere malo.</s>
 				</p>
 				<p>
-					<s n="24" xml:lang="la" type="auto">Si negaverimus, et ille negabit nos<note xml:id="fn29" type="footnote" n="29">Mt 10, 33 par.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Si negaverimus, et ille negabit nos<note xml:id="fn29" type="footnote" n="29"><cit type="bible"><ref>Mt 10, 33 par</ref></cit>.</note>.</s>
 					<s n="25" xml:lang="la" type="auto">Ergo quamdiu alii perrexerint oppugnare scripturis traditam religionem et doctrinam, tamdiu non cessabo illam pro mea facultate tueri defendereque.<pb type="edition" next="115"/></s>
 				</p>
 				<p>
-					<s n="26" xml:lang="la" type="auto">Monachum apostaticum appellas <persName ref="p18889">Lutherum</persName>.</s>
+					<s n="26" xml:lang="la" type="auto">Monachum apostaticum appellas <persName ref="p1974" cert="high">Lutherum</persName>.</s>
 					<s n="27" xml:lang="la" type="auto">Addis: „Quis tu sis, aut qualis aliquando fueris, nondum intelligere potui nec curiose inquiro.“</s>
 					<s n="28" xml:lang="la" type="auto">Suspicaris ergo nescio quid.</s>
 					<s n="29" xml:lang="la" type="manual">Age ergo!</s>
 					<s n="30" xml:lang="la" type="auto">Inquiras curiose, etiam licet.</s>
-					<s n="31" xml:lang="la" type="auto">In nulla tamen re gloriari licet mihi<note xml:id="fn30" type="footnote" n="30">Vgl. Gal 6, 14.</note>.</s>
-					<s n="32" xml:lang="la" type="auto">Peccator sum, sed qui omnem spem interim fixi in Christo<note xml:id="fn31" type="footnote" n="31">Vgl. Eph 1, 12.</note>.</s>
-					<s n="33" xml:lang="la" type="auto">Nunc sum minister Tigurinae ecclesiae, legitime ab ecclesia ad id muneris vocatus<note xml:id="fn32" type="footnote" n="32">Nachdem Bullinger von 1529-1531 das Pfarramt in <placeName>Bremgarten</placeName> bekleidet hatte, war er am 9. Dezember 1531 vom Zürcher Rat zum Antistes gewählt worden; s. <bibl>Pestalozzi</bibl> 72; <hi>Büsser,</hi> Bullinger I 93-107.</note>.</s>
-					<s n="34" xml:lang="la" type="auto">Antequam vero vocarer, docui palam bonas et pias literas<note xml:id="fn33" type="footnote" n="33">Bullinger hatte von 1523 bis 1529 an der Klosterschule in <placeName>Kappel</placeName> unterrichtet; s. <bibl>Pestalozzi</bibl> 20-53; <hi>Büsser,</hi> Bullinger I 27-59.</note>.</s>
+					<s n="31" xml:lang="la" type="auto">In nulla tamen re gloriari licet mihi<note xml:id="fn30" type="footnote" n="30">Vgl. <cit type="bible"><ref>Gal 6, 14</ref></cit>.</note>.</s>
+					<s n="32" xml:lang="la" type="auto">Peccator sum, sed qui omnem spem interim fixi in Christo<note xml:id="fn31" type="footnote" n="31">Vgl. <cit type="bible"><ref>Eph 1, 12</ref></cit>.</note>.</s>
+					<s n="33" xml:lang="la" type="auto">Nunc sum minister Tigurinae ecclesiae, legitime ab ecclesia ad id muneris vocatus<note xml:id="fn32" type="footnote" n="32">Nachdem Bullinger von 1529-1531 das Pfarramt in <placeName ref="l62" cert="high">Bremgarten</placeName> bekleidet hatte, war er am 9. Dezember 1531 vom Zürcher Rat zum Antistes gewählt worden; s. <bibl>Pestalozzi</bibl> 72; <hi>Büsser,</hi> Bullinger I 93-107.</note>.</s>
+					<s n="34" xml:lang="la" type="auto">Antequam vero vocarer, docui palam bonas et pias literas<note xml:id="fn33" type="footnote" n="33">Bullinger hatte von 1523 bis 1529 an der Klosterschule in <placeName ref="l242" cert="high">Kappel</placeName> unterrichtet; s. <bibl>Pestalozzi</bibl> 20-53; <hi>Büsser,</hi> Bullinger I 27-59.</note>.</s>
 					<s n="35" xml:lang="la" type="auto">A puero Christo domino credidi.</s>
 					<s n="36" xml:lang="la" type="auto">A puero in sacris literis et lectione sanctorum patrum<note xml:id="fn34" type="footnote" n="34">In seinem Diarium erzählt Bullinger, wie er sich mit 16 Jahren entschloss, die Kirchenväter zu lesen, und führt dabei seine Lektüre an (<bibl>HBD</bibl> 5f. 8). In seiner mit 24 Jahren verfassten "Studiorum ratio" (<bibl>HBSR</bibl> 108) werden auch einige Schriften der Kirchenväter empfohlen.</note> memet ęxercitavi.</s>
 					<s n="37" xml:lang="la" type="auto">Nunquam iuravi in cuiusquam episcopi, abbatis aut prioris praescripta.</s>
@@ -67,14 +67,14 @@
 					<s n="41" xml:lang="la" type="auto">Inquiras, ergo licet!</s>
 				</p>
 				<p>
-					<s n="42" xml:lang="la" type="auto">Nihil deo gratia invenies mea in vita, cuius me pudeat, nisi quod homo peccator sum coram domino; neque pigeret facti, <persName>Cochlee</persName>, si aliquando hominibus imprudens nomen dedissem, nunc autem meliora doctus ac resipiscens desertis hominibus uni me Christo domino consecrassem.</s>
+					<s n="42" xml:lang="la" type="auto">Nihil deo gratia invenies mea in vita, cuius me pudeat, nisi quod homo peccator sum coram domino; neque pigeret facti, <persName ref="p8312" cert="high">Cochlee</persName>, si aliquando hominibus imprudens nomen dedissem, nunc autem meliora doctus ac resipiscens desertis hominibus uni me Christo domino consecrassem.</s>
 				</p>
 				<p>
-					<s n="43" xml:lang="la" type="auto">Dominus servet me in sancta sua voluntate et concedat <persName>Cochleo</persName> facultatem recte iudicandi de syncera pietate!</s>
-					<s n="44" xml:lang="la" type="auto">Cito enim veniet dominus in iudicium<note xml:id="fn36" type="footnote" n="36">Vgl. Jud 14f.</note>.</s>
+					<s n="43" xml:lang="la" type="auto">Dominus servet me in sancta sua voluntate et concedat <persName ref="p8312" cert="high">Cochleo</persName> facultatem recte iudicandi de syncera pietate!</s>
+					<s n="44" xml:lang="la" type="auto">Cito enim veniet dominus in iudicium<note xml:id="fn36" type="footnote" n="36">Vgl. <cit type="bible"><ref>Jud 14f</ref></cit>.</note>.</s>
 				</p>
 				<p>
-					<s n="45" xml:lang="la" type="auto">Beati, qui Christum revera induerunt<note xml:id="fn37" type="footnote" n="37">Vgl. Röm 13, 14.</note>.</s>
+					<s n="45" xml:lang="la" type="auto">Beati, qui Christum revera induerunt<note xml:id="fn37" type="footnote" n="37">Vgl. <cit type="bible"><ref>Röm 13, 14</ref></cit>.</note>.</s>
 					<s n="46" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
@@ -85,7 +85,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf f. 17v.:]</note>
-					<s n="49" xml:lang="la" type="auto">Domino <persName>Ioanni Cochlaeo</persName> Aychstettae agenti.</s>
+					<s n="49" xml:lang="la" type="auto">Domino <persName ref="p8312" cert="high">Ioanni Cochlaeo</persName> Aychstettae agenti.</s>
 				</p>
 			</div>
 		</body>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10841" type="Brief" source="HBBW" n="802">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10841" type="Brief" source="HBBW-6" n="802">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Wolfgang Köpffel / [Strassburg] AN Heinrich Bullinger, 19. April 1536</title>
+				<title subtype="file">Wolfgang Köpffel / [Strassburg] an Heinrich Bullinger, 19. April 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Hoc certius statuo non omittendum, quin adfueris<note xml:id="fn1" type="footnote" n="1">Nämlich am Theologenkonvent, der am 14. Mai in <placeName>Eisenach</placeName> beginnen sollte; vgl. oben <ref target="file10835">Nr. 796</ref>, 1-7 mit Anm. 1.</note>, quo cogito expendoque diutius.</s>
+					<s n="2" xml:lang="la" type="auto">Hoc certius statuo non omittendum, quin adfueris<note xml:id="fn1" type="footnote" n="1">Nämlich am Theologenkonvent, der am 14. Mai in <placeName ref="l1564" cert="high">Eisenach</placeName> beginnen sollte; vgl. oben <ref target="file10835">Nr. 796</ref>, 1-7 mit Anm. 1.</note>, quo cogito expendoque diutius.</s>
 					<s n="3" xml:lang="la" type="auto">Nam es, quo utetur deus ad maxima adeoque iam utitur.</s>
 					<s n="4" xml:lang="la" type="auto">Iuvenis es et autoritate canus non unis Tigurinis.</s>
 					<s n="5" xml:lang="la" type="auto">Illic autem esses auditurus et reliquos, quorum existimatio vigebit apud posteros, nec sine fructu auditurus; nam parvi temporis colloquium plus intelligentię utrinque prodit, quam multorum mensium lectio aperuerit.</s>
@@ -29,7 +29,7 @@
 				</p>
 				<p>
 					<s n="11" xml:lang="la" type="auto">Vale.</s>
-					<s n="12" xml:lang="la" type="auto"><persName>Bibliandro</persName> et <persName>Pellicano</persName> ex nobis salutem dicas.</s>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p8171" cert="high">Bibliandro</persName> et <persName ref="p8127" cert="high">Pellicano</persName> ex nobis salutem dicas.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">19. aprilis anno 1536.</s>

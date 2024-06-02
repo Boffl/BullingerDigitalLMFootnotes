@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13025" type="Brief" source="TUSTEP" n="2976">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13025" type="Brief" source="TUSTEP-20" n="2976">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Blasius / Chur AN Heinrich Bullinger, 2. August 1547</title>
+				<title subtype="file">Johannes Blasius / Chur an Heinrich Bullinger, 2. August 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,27 +16,27 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto"><persName ref="p4253">Ioannes Blasius</persName> d. Bullingero suo S.</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p396" cert="high">Ioannes Blasius</persName> d. Bullingero suo S.</s>
 					<s n="2" xml:lang="la" type="auto">Graciam et misericordiam a domino etc.</s>
-					<s n="3" xml:lang="de" type="auto">Hertzgeliepter bruͤder, unser ernstlich pit ist, wellend uns (so es üch jenen müglich) uff die zween nachvolgenden punctn, wie mir uns hierin halten sollend, ein bericht geben, etc.</s>
+					<s n="3" xml:lang="de" type="auto">Hertzgeliepter bruͤder, unser ernstlich pit ist, wellend uns (so es üch jenen<note xml:id="fn12" type="footnote" n="12">irgendwie; s. <bibl>SI</bibl> I 296, s.v. ienen.</note> müglich) uff die zween nachvolgenden punctn, wie mir uns hierin halten sollend, ein bericht<note xml:id="fn13" type="footnote" n="13">Mitteilung.</note> geben, etc.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="de" type="auto">Erstlich wirbt der k[üng] us Franckhrich<note xml:id="fn14" type="footnote" n="14"><persName>Heinrich II.</persName></note> mit den <placeName>Pündten</placeName><note xml:id="fn15" type="footnote" n="15"><placeName>Graubünden</placeName>, bestehend aus Gotteshausbund, Oberem oder Grauen Bund und Zehngerichtebund.</note> (acht wol, ouch mit den Eidgnosen) die alt vereinigung, vor jarn mit sinem vatter<note xml:id="fn16" type="footnote" n="16"><persName>Franz I.</persName></note> getroffen, zu ernüwern!</s>
-					<s n="5" xml:lang="de" type="auto">Würd uff 15. tag augusti hierumb hie zuͦ <placeName>Cur</placeName> ein treffenlicher tag gehalten, da die gmeinden hierüber söllendt antwurten.</s>
-					<s n="6" xml:lang="de" type="auto">Was nun mit und darwider geredt würdt, mögend ir ermessen; ja, ouch die guetwilligen und fridsamen vermeinen, hiemit des keisers<note xml:id="fn18" type="footnote" n="18"><persName>Karl V.</persName></note> macht zuͦ weren, etc.</s>
+					<s n="4" xml:lang="de" type="auto">Erstlich wirbt der <persName ref="p18500" cert="high">k[üng] us Franckhrich</persName><note xml:id="fn14" type="footnote" n="14"><persName ref="p18500" cert="high">Heinrich II.</persName></note> mit den <placeName ref="l648" cert="high">Pündten</placeName><note xml:id="fn15" type="footnote" n="15"><placeName ref="l648" cert="high">Graubünden</placeName>, bestehend aus Gotteshausbund, Oberem oder Grauen Bund und Zehngerichtebund.</note> (acht wol, ouch mit den Eidgnosen) die alt vereinigung, vor jarn mit sinem vatter<note xml:id="fn16" type="footnote" n="16"><persName ref="p7637" cert="high">Franz I.</persName></note> getroffen, zu ernüwern!</s>
+					<s n="5" xml:lang="de" type="auto">Würd uff 15. tag augusti hierumb hie zuͦ <placeName ref="l98" cert="high">Cur</placeName> ein treffenlicher tag gehalten, da die gmeinden hierüber söllendt antwurten.</s>
+					<s n="6" xml:lang="de" type="auto">Was nun mit und darwider<note xml:id="fn17" type="footnote" n="17">mit und darwider: Zu verstehen: dafür und dagegen; pro und contra; vgl. auch <bibl>SI</bibl> XV 623 (oben, mit Angabe der vorliegenden Stelle).</note> geredt würdt, mögend ir ermessen; ja, ouch die guetwilligen und fridsamen vermeinen, hiemit des keisers<note xml:id="fn18" type="footnote" n="18"><persName ref="p18538" cert="high">Karl V.</persName></note> macht zuͦ weren, etc.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="de" type="auto">Zum andren, nachdem und der potestat zu Trahona in unserem Veltlin den predicanten zuͦ Caspan<note xml:id="fn20" type="footnote" n="20"><placeName>Caspano (Veltlin)</placeName>.</note> unversehenlich im vergangnen julio nach gehaltner predig gefangen und yn wider des [land]s statuta ans seyl geschlagen und in also grusamlich gemartret, also das er wider sin wissen un[d] willen vergehen, er hab das crucifix nachts in der kilchen kholffen zerschlahn.</s>
-					<s n="8" xml:lang="de" type="auto">Nach der bekantnus hat der potestat geurteilt und in umb 140 kronen gestrafft und die Dry <placeName>Pündt</placeName> verpotten, etc.</s>
-					<s n="9" xml:lang="de" type="auto">Und wie er gen Cleven komen, hand sy in u[ns] gen <placeName>Cur</placeName> gschickt.</s>
+					<s n="7" xml:lang="de" type="auto">Zum andren, nachdem und der potestat zu Trahona in unserem Veltlin den predicanten<note xml:id="fn19" type="footnote" n="19">Unbekannt.</note> zuͦ <placeName ref="88" type="auto_name">Caspan</placeName><note xml:id="fn20" type="footnote" n="20"><placeName ref="l88" cert="high">Caspano (Veltlin)</placeName>.</note> unversehenlich<note xml:id="fn21" type="footnote" n="21">unerwartet.</note> im vergangnen julio nach gehaltner predig gefangen und yn wider des [land]s statuta ans seyl geschlagen<note xml:id="fn22" type="footnote" n="22">ans seyl geschlagen: an das Folterseil gebunden; s. <bibl>SI</bibl> VII 744.</note> und in also grusamlich gemartret, also das er wider sin wissen un[d] willen vergehen<note xml:id="fn23" type="footnote" n="23">= verjechen: bekennen; s. <bibl>SI</bibl> III 6, sowie <bibl>Grimm</bibl> XXV 607 s.v. verjehen.</note>, er hab das crucifix nachts in der kilchen kholffen zerschlahn.</s>
+					<s n="8" xml:lang="de" type="auto">Nach der bekantnus hat der potestat geurteilt und in umb 140 kronen gestrafft und die Dry <placeName ref="l648" cert="high">Pündt</placeName> verpotten, etc.</s>
+					<s n="9" xml:lang="de" type="auto">Und wie er gen <placeName ref="l96" cert="high">Cleven</placeName><note xml:id="fn24" type="footnote" n="24"><placeName ref="l96" cert="high">Chiavenna</placeName>.</note> komen, hand sy in u[ns] gen <placeName ref="l98" cert="high">Cur</placeName> gschickt.</s>
 					<s n="10" xml:lang="de" type="auto">Hand mir disen handel für den jetz gehaltnen bytag bracht in der gstalt, mir syendt in hoffnung, unsere gnädigen herren habendt disem potestaten den bevelch, also mit den predicanten zuͦ handlen, nit gebn.</s>
 					<s n="11" xml:lang="de" type="auto">Und ist der potestat uff künfftigen gmeinen puntztag citiert, da uff unser klag antwurdt zu geben.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="de" type="auto">Nun vermeinendt etlich guetwillig, Paravicinus von Caspan<note xml:id="fn25" type="footnote" n="25">[...] Paravicini.</note>, der jetz Zürich studiert, der habe dem götzn das unglück angethan, welchs, so er gegen üch (als er schuldig ist) <pb type="scan" next="v."/> bekant, wurde im in mitler zit<note xml:id="fn28" type="footnote" n="28">in mitler zit: unterdessen.</note> wol gescheiden, dem gueten brüder und uns allen treffenlich wol geholffen.</s>
-					<s n="13" xml:lang="de" type="auto">Es sindt wol me götzn zerschlagen und in <placeName>Pündten</placeName> verprendt; hat keis also lud gschrüen.</s>
+					<s n="12" xml:lang="de" type="auto">Nun vermeinendt etlich guetwillig, Paravicinus von Caspan<note xml:id="fn25" type="footnote" n="25">[...] Paravicini.</note>, der jetz Zürich studiert, der habe dem götzn<note xml:id="fn26" type="footnote" n="26">Heiligenbild; s. <bibl>SI</bibl> II 580.</note> das unglück angethan, welchs, so<note xml:id="fn27" type="footnote" n="27">wenn.</note> er gegen üch (als er schuldig ist) <pb type="scan" next="v."/> bekant, wurde im in mitler zit<note xml:id="fn28" type="footnote" n="28">in mitler zit: unterdessen.</note> wol gescheiden<note xml:id="fn29" type="footnote" n="29">im gescheiden: ihm aus der Bedrängnis durch Vermittlung geholfen; s. <bibl>SI</bibl> VIII 233.</note>, dem gueten brüder und uns allen treffenlich wol geholffen.</s>
+					<s n="13" xml:lang="de" type="auto">Es sindt wol me götzn zerschlagen und in <placeName ref="l648" cert="high">Pündten</placeName> verprendt; hat keis<note xml:id="fn30" type="footnote" n="30">keines.</note> also lud gschrüen.</s>
 					<s n="14" xml:lang="de" type="auto">In 1 1/2 jar kompt ein ander potestat dar.</s>
 					<s n="15" xml:lang="de" type="auto">Ist dem handel schon geholffen.</s>
 					<s n="16" xml:lang="de" type="auto">Hierumb, hat ers than, so mag ers fry und on minndern nachteil (dan diser bruͤder) liden, bekennenn.</s>
@@ -49,10 +49,10 @@
 					<s n="19" xml:lang="de" type="auto">Die landschafft Fidris habendt im ein ogsen gschenckt, etc.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">Datum <placeName>Curie</placeName>, 2. augusti, anno 1547.</s>
+					<s n="20" xml:lang="la" type="auto">Datum <placeName ref="l98" cert="high">Curie</placeName>, 2. augusti, anno 1547.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Idem totus tuus <persName ref="p4253">Blasius</persName>.</s>
+					<s n="21" xml:lang="la" type="auto">Idem totus tuus <persName ref="p396" cert="high">Blasius</persName>.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">

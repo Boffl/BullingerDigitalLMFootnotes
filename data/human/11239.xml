@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11239" type="Brief" source="HBBW" n="1196">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11239" type="Brief" source="HBBW-8" n="1196">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 9. November 1538</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 9. November 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -33,7 +33,7 @@
 					<s n="9" xml:lang="la" type="auto">Pręter cętera de novo me petunt universitatenses hoc conatu, ut ministerium sanctum ecclesię sibi subiectum habeant.</s>
 					<s n="10" xml:lang="la" type="auto">Qualem tu putas hic superbire satanam?</s>
 					<s n="11" xml:lang="la" type="auto">Prętexunt unum corpus se velle suum et ministrorum.</s>
-					<s n="12" xml:lang="la" type="auto">Ergo, inquio, iam non sunt de corpore Christi, hoc est ecclesię; nos enim eius membra sumus<note xml:id="fn3" type="footnote" n="3">Vgl. 1 Kor 12, 12-27.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Ergo, inquio, iam non sunt de corpore Christi, hoc est ecclesię; nos enim eius membra sumus<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>1 Kor 12, 12-27</ref></cit>.</note>.</s>
 					<s n="13" xml:lang="la" type="auto">Quid igitur?</s>
 					<s n="14" xml:lang="la" type="auto">Aliquid sint oportet ab ecclesia diversum.</s>
 					<s n="15" xml:lang="la" type="auto">Accedant ad nos, et unum efficietur corpus.</s>
@@ -45,15 +45,15 @@
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">In fasciculo literarum invenies literas<note xml:id="fn4" type="footnote" n="4">Nicht erhalten.</note>, in quibus inclusa est pecunia.</s>
-					<s n="22" xml:lang="la" type="auto">Ex <placeName>Berna</placeName> venit et <persName>Stephano Willio</persName> pertinet; quęso, reddas.</s>
-					<s n="23" xml:lang="la" type="auto">Arbitror esse apud <persName>Pellicanum</persName><note xml:id="fn5" type="footnote" n="5"><persName>Willi</persName> war im Winter 1538 Kostgänger <persName>Pellikans</persName>; s. <persName>Pellikan</persName>, Chronikon 149.</note>.</s>
+					<s n="22" xml:lang="la" type="auto">Ex <placeName ref="l41" cert="high">Berna</placeName> venit et <persName ref="p3958" cert="high">Stephano Willio</persName> pertinet; quęso, reddas.</s>
+					<s n="23" xml:lang="la" type="auto">Arbitror esse apud <persName ref="p8127" cert="high">Pellicanum</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p3958" cert="high">Willi</persName> war im Winter 1538 Kostgänger <persName ref="p8127" cert="high">Pellikans</persName>; s. <persName ref="p8127" cert="high">Pellikan</persName>, Chronikon 149.</note>.</s>
 				</p>
 				<p>
 					<s n="24" xml:lang="la" type="auto">Vale per Christum cum tuis et me semper ama.</s>
-					<s n="25" xml:lang="la" type="auto">Raptim, <placeName>Basileę</placeName>, 9. novembris anno 38.</s>
+					<s n="25" xml:lang="la" type="auto">Raptim, <placeName ref="l28" cert="high">Basileę</placeName>, 9. novembris anno 38.</s>
 				</p>
 				<p>
-					<s n="26" xml:lang="la" type="auto">Tuus <persName>Myconius</persName>.</s>
+					<s n="26" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

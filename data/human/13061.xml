@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13061" type="Brief" source="TUSTEP" n="3012">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13061" type="Brief" source="TUSTEP-20" n="3012">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 11. September 1547</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 11. September 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,14 +17,14 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Hoc die ad me ex <placeName>Augusta</placeName> allatę literae sunt amicorum, privatis dumtaxat de rebus mentionem facientes, quibus propositio Caroli<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> primae illius comitiorum sessionis archiduce <persName>Maximiliano</persName> praefante et Calliopium quendam agente adiuncta erat, satis sinceriter scripta, quam mittere libuit, ut ea te non carere penes me certus fierem.</s>
+					<s n="2" xml:lang="la" type="auto">Hoc die ad me ex <placeName ref="l1976" cert="high">Augusta</placeName> allatę literae sunt amicorum, privatis dumtaxat de rebus mentionem facientes, quibus propositio <persName ref="18538" type="auto_name">Caroli</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p18538" cert="high">Karl V.</persName></note> primae illius comitiorum sessionis archiduce <persName ref="p18557" cert="high">Maximiliano</persName> praefante et Calliopium quendam agente adiuncta erat, satis sinceriter scripta, quam mittere libuit, ut ea te non carere penes me certus fierem.</s>
 					<s n="3" xml:lang="la" type="auto">In ipsa intelliges, quo spectent omnia.</s>
-					<s n="4" xml:lang="la" type="auto">Frigide proponitur <placeName>Tridentini</placeName> concilii continuatio et aesca ad hamum attrahitur Germanicam libertatem tentatura, placeatne ista sentina errorum et factionum iam defessis et plus satis oppressis necne.</s>
+					<s n="4" xml:lang="la" type="auto">Frigide proponitur <placeName ref="l1107" cert="high">Tridentini</placeName> concilii continuatio et aesca ad hamum attrahitur Germanicam libertatem tentatura, placeatne ista sentina errorum et factionum iam defessis et plus satis oppressis necne.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="5" xml:lang="la" type="auto">De ordinario camerę iudicio omnia lubricissime proponuntur, et ita tractatur res omnis, ut ex animi sententia omnia se moderaturum caesar<note xml:id="fn7" type="footnote" n="7"><persName>Karl V.</persName></note> haud dubie decrerit et simul belli anteacti tragoedia miseriaque universa eo tendere perrexerit, ut ad papę et suorum nutum et votum abominatio omnis non rata modo, sed sacro etiam sancta fieret et diris poenis observanda orbi toto proponeretur, nisi vero credendum, quod in proponendo iniquum petat lumen illud Hispanicum, ut demum apud status aequum ferat.</s>
+					<s n="5" xml:lang="la" type="auto">De ordinario camerę iudicio omnia lubricissime proponuntur, et ita tractatur res omnis, ut ex animi sententia omnia se moderaturum caesar<note xml:id="fn7" type="footnote" n="7"><persName ref="p18538" cert="high">Karl V.</persName></note> haud dubie decrerit<note xml:id="fn8" type="footnote" n="8">= decreverit.</note> et simul belli anteacti tragoedia miseriaque universa eo tendere perrexerit, ut ad papę et suorum nutum et votum abominatio omnis non rata modo, sed sacro etiam sancta fieret et diris poenis observanda orbi toto proponeretur, nisi vero credendum, quod in proponendo iniquum petat lumen illud Hispanicum, ut demum apud status aequum ferat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -39,13 +39,13 @@
 					<s n="9" xml:lang="la" type="auto">Sangalli, 11. die septembris ocyssime anno domini 1547.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto"><persName>Ioachimus Vadianus</persName>.</s>
+					<s n="10" xml:lang="la" type="auto"><persName ref="p8049" cert="high">Ioachimus Vadianus</persName>.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="11" xml:lang="la" type="auto"><pb type="scan" next="v."/>Statuum responsionem quamprimum fuero nactus, nulla mora ad te deferendam curabo.</s>
-					<s n="12" xml:lang="la" type="auto">Male enim perpetuo apud illos audit Helvetia et creditur tacito confe[c]to foedere, quod caesar molitur et, ut existimo, assequi[tur], etiam mox <placeName>Constantiam</placeName>, deinde etiam Helvetiam petitum iri.</s>
+					<s n="12" xml:lang="la" type="auto">Male enim perpetuo apud illos audit Helvetia et creditur tacito confe[c]to foedere, quod caesar molitur et, ut existimo, assequi[tur], etiam mox <placeName ref="l457" cert="high">Constantiam</placeName>, deinde etiam Helvetiam petitum iri.</s>
 					<s n="13" xml:lang="la" type="auto">Caesar aegrotus et alienis alis suffu[ltus] in comitiorum sessione prima comparuit; sed in e[a] praeter personam, ut audio, momenti nihil.</s>
 					<s n="14" xml:lang="la" type="auto">Granvel[la] mens et animus caesaris est, etc.</s>
 				</p>

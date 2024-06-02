@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10784" type="Brief" source="HBBW" n="746">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10784" type="Brief" source="HBBW-6" n="746">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / Basel AN Heinrich Bullinger, 15. Februar [1536]</title>
+				<title subtype="file">Simon Grynäus / Basel an Heinrich Bullinger, 15. Februar [1536]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,10 +28,10 @@
 				<p>
 					<s n="7" xml:lang="la" type="auto">Vale in domino Christo, qui te in voluntate sua gubernet.</s>
 					<s n="8" xml:lang="la" type="manual">Amen.</s>
-					<s n="9" xml:lang="la" type="auto">Saluta fratres omnes, saluta uxorem<note xml:id="fn5" type="footnote" n="5"><persName>Anna Adlischwyler</persName>.</note></s>
+					<s n="9" xml:lang="la" type="auto">Saluta fratres omnes, saluta uxorem<note xml:id="fn5" type="footnote" n="5"><persName ref="p8051" cert="high">Anna Adlischwyler</persName>.</note></s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto"><persName>Simon Gryneus</persName> tuus.</s>
+					<s n="10" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Simon Gryneus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

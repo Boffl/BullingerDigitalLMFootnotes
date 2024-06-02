@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12923" type="Brief" source="HBBW" n="2874">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12923" type="Brief" source="HBBW-20" n="2874">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Bartolomeo Del Prato / Venedig AN Heinrich Bullinger, 5. April 1547</title>
+				<title subtype="file">Bartolomeo Del Prato / Venedig an Heinrich Bullinger, 5. April 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,13 +16,13 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">B. Pratensius d. Henrico Bullingero S. P. D. Valde sum delectatus eo, quod in ultimis tuis ad se literis adscriptum<note xml:id="fn2" type="footnote" n="2">Wohl eine nicht mehr erhaltene Antwort Bullingers auf <persName>Baldassare Altieris</persName> Brief vom 29. Januar 1547 (<bibl>HBBW</bibl> XIX, <ref target="file12826">Nr. 2777</ref>).</note> mihi nuper demonstravit ornatissimus vir d. <persName>Baltasar Alterius</persName>, idque utroque nomine: privatim, quod nondum animo tuo memoriam nostri excidisse testificaris, publice, quod inter regem nostrum<note xml:id="fn3" type="footnote" n="3">Die Krone <placeName>Frankreichs</placeName>, die gerade an den 28jährigen <persName>Heinrich II.</persName> übertragen worden war (Del Prato wird noch nichts davon gewusst haben).</note> et vestros Helvetios tam bene convenire significas; id quod mihi quidem non fuerat dubium, sed, quod scribis, emphasim quandam habere videtur, et, ut tua mihi amicitia nulla cuiusquam alterius antiquior fuerit, ita ad Gallię nostrę prosperum statum et simul Helvetiorum plurimum referre arbitror hanc ipsam publicam cum vobis societatem et coniunctionem.</s>
+					<s n="1" xml:lang="la" type="auto">B. Pratensius d. Henrico Bullingero S. P. D. Valde sum delectatus eo, quod in ultimis tuis ad se literis adscriptum<note xml:id="fn2" type="footnote" n="2">Wohl eine nicht mehr erhaltene Antwort Bullingers auf <persName ref="p152" cert="high">Baldassare Altieris</persName> Brief vom 29. Januar 1547 (<bibl>HBBW</bibl> XIX, <ref target="file12826">Nr. 2777</ref>).</note> mihi nuper demonstravit ornatissimus vir d. <persName ref="p152" cert="high">Baltasar Alterius</persName>, idque utroque nomine: privatim, quod nondum animo tuo memoriam nostri excidisse testificaris, publice, quod inter regem nostrum<note xml:id="fn3" type="footnote" n="3">Die Krone <placeName ref="l11" cert="high">Frankreichs</placeName>, die gerade an den 28jährigen <persName ref="p18500" cert="high">Heinrich II.</persName> übertragen worden war (Del Prato wird noch nichts davon gewusst haben).</note> et vestros Helvetios tam bene convenire significas; id quod mihi quidem non fuerat dubium, sed, quod scribis, emphasim quandam habere videtur, et, ut tua mihi amicitia nulla cuiusquam alterius antiquior fuerit, ita ad Gallię nostrę prosperum statum et simul Helvetiorum plurimum referre arbitror hanc ipsam publicam cum vobis societatem et coniunctionem.</s>
 					<s n="2" xml:lang="la" type="auto">Qua de causa et ego utranque<note xml:id="fn4" type="footnote" n="4">i.e. societatem et coniunctionem.</note>, quoad eius per me fieri poterit (ut sit exiguum), sanctissime atque ogni<note xml:id="fn5" type="footnote" n="5">Der Schreiber ist ins Italienische abgeglitten. - Ogni studio: quovis studio.</note> studio colam, tuear atque observabo, teque ipsum obsecro atque obtestor, ut et quam tenacem benevolentię memoriam mihi demonstras, prestare pergas et omni authoritate tua inter vestros (quam maximi momenti esse duco) ad fovendam hanc publicam coniunctionem inter Gallos et Helvetios incumbas, ut multo magis magisque de rebus christianorum bene merearis.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="3" xml:lang="la" type="auto">Huc omnibus (pręter paucos, quos aliter affectos esse necesse est) gratissimi adferuntur nuncii de successibus ducis Saxonię<note xml:id="fn6" type="footnote" n="6"><persName>Johann Friedrich I. von Sachsen</persName>. - Anspielung auf den Sieg des kurfürstlichen Heeres in <placeName>Rochlitz</placeName> am 2. März 1547; s. <ref target="file12921">Nr. 2872</ref>, <ptr target="qvfn17139-1" type="qv"/>.</note>; sed ad vos recentiores perveniunt.</s>
+					<s n="3" xml:lang="la" type="auto">Huc omnibus (pręter paucos, quos aliter affectos esse necesse est) gratissimi adferuntur nuncii de successibus ducis Saxonię<note xml:id="fn6" type="footnote" n="6"><persName ref="p19065" cert="high">Johann Friedrich I. von Sachsen</persName>. - Anspielung auf den Sieg des kurfürstlichen Heeres in <placeName ref="l2396" cert="high">Rochlitz</placeName> am 2. März 1547; s. <ref target="file12921">Nr. 2872</ref>, <ptr target="qvfn17139-1" type="qv"/>.</note>; sed ad vos recentiores perveniunt.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -34,14 +34,14 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="7" xml:lang="la" type="auto">Coeterum cuperem aliquid intelligere de <persName>Maturino</persName>, bibliopola Gallo, qui <placeName>Tiguri</placeName> agebat.<pb type="edition" next="117"/></s>
+					<s n="7" xml:lang="la" type="auto">Coeterum cuperem aliquid intelligere de <persName ref="p6924" cert="high">Maturino</persName>, bibliopola Gallo, qui <placeName ref="l587" cert="high">Tiguri</placeName> agebat.<pb type="edition" next="117"/></s>
 					<s n="8" xml:lang="la" type="auto">Venetiis, ad nonas apriles 1547.</s>
 					<s n="9" xml:lang="la" type="auto">Vale!</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
 					<s n="10" xml:lang="la" type="auto">Celeberrimo viro d. Henrico Bullingero, ecclesiastae doctissimo et eloquentissimo.</s>
-					<s n="11" xml:lang="la" type="auto"><placeName>Tiguri</placeName>.<note xml:id="fn8" type="footnote" n="8">Vorliegender Brief wurde erst am 13. Mai zusammen mit Brief <ref target="file12949">Nr. 2900</ref> abgeschickt.</note></s>
+					<s n="11" xml:lang="la" type="auto"><placeName ref="l587" cert="high">Tiguri</placeName>.<note xml:id="fn8" type="footnote" n="8">Vorliegender Brief wurde erst am 13. Mai zusammen mit Brief <ref target="file12949">Nr. 2900</ref> abgeschickt.</note></s>
 				</p>
 			</div>
 		</body>

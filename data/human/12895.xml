@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12895" type="Brief" source="TUSTEP" n="2846">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12895" type="Brief" source="TUSTEP-19" n="2846">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / [St. Gallen] AN [Heinrich Bullinger], [nach dem 15. und vor dem 24. März 1547]</title>
+				<title subtype="file">Joachim Vadian (von Watt) / [St. Gallen] an [Heinrich Bullinger], [nach dem 15. und vor dem 24. März 1547]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Unser abt<note xml:id="fn4" type="footnote" n="4"><persName>Diethelm Blarer</persName> von Wartensee.</note> treybt alle wonder mit seinen krommen anschlegen gegen unser statt zuͦ <placeName>S. Gallen</placeName>.</s>
+					<s n="1" xml:lang="de" type="auto">Unser abt<note xml:id="fn4" type="footnote" n="4"><persName ref="p8179" cert="high">Diethelm Blarer</persName> von Wartensee.</note> treybt alle wonder mit seinen krommen anschlegen gegen unser statt zuͦ <placeName ref="l474" cert="high">S. Gallen</placeName>.</s>
 					<s n="2" xml:lang="de" type="auto">Hat abermals ain neuw ansprach aufgetriben, sam wir mit ettwas anlagen seine gotzhaußleut in unserm leimvatgewerb über billichs zuͦ beschwären vorhabind, daß sich aber nit befinden sol noch wirt, und masset imm den handel an, als ob er von seinen underthuͦnen zuͦ söllichem seinem anlangen beworben seyge.</s>
 					<s n="3" xml:lang="de" type="auto">Vernemend aber wir landtmerßweyß und habend desse nit ongegröndte anzaygen, daß seine rädt und amptleut söllichs in die pauren gestoßen und ettlichen gegninen (die nit darinn verwilgen wellen, sonder gegen ainer statt vast dankbar sind) getröuwt worden ist, item ain vogt vor ainer gmaind die sach anbracht, etc., und geredt haben sol: welchem gefall, das man sich gegen ainer statt beschwäre, der heb sein hand auf, etc., und aber niemand wellen aufheben, sol er gwüsslich gsagt haben: "Hebend auf, das euch gotz lyden schend!</s>
 					<s n="4" xml:lang="de" type="auto">Wend ir üwern aygnen nutz und frommen nit betrachten?", etc.</s>
@@ -39,7 +39,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="12" xml:lang="la" type="auto"><persName>Vadianus</persName> tuus.</s>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p8049" cert="high">Vadianus</persName> tuus.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Si exemplum dominis consulibus<note xml:id="fn5" type="footnote" n="5">Lavater und Haab.</note> ostensurus es, ut ego sane vellem, describe, obsecro, velut sis e Latino interpretatus, ne, quod in margine est, quisquam praeter te solum et d. Dommysium resciscat.</s>

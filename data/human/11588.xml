@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11588" type="Brief" source="VBS" n="1186">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11588" type="Brief" source="VBS-6" n="1186">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 13. Juli [1541]</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 13. Juli [1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,7 +28,7 @@
 					<s n="10" xml:lang="la" type="auto">Vale et collegium meo nomine (saluta).</s>
 					<s n="11" xml:lang="la" type="auto">Si quid nostratium tabularii attulerint, confestim scies.</s>
 					<s n="12" xml:lang="la" type="auto">Sangalli, XIII. Iulii, anno MDXL(I).</s>
-					<s n="13" xml:lang="la" type="auto">Tuus <persName>Vadianus</persName>.</s>
+					<s n="13" xml:lang="la" type="auto">Tuus <persName ref="p8049" cert="high">Vadianus</persName>.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Doctissimo viro domino Henrycho Bullingero, clarissimę ecclesię Tigurinę episcopo, domino suo colendo.</s>

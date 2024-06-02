@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11378" type="Brief" source="CO" n="199">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11378" type="Brief" source="CO-X" n="199">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Simon Grynäus, 12. Dezember 1539</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Simon Grynäus, 12. Dezember 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,11 +16,11 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">Intelligo Bucerum irasci mihi serio et graviter, idque propter editam epistolam Vadiani, praesertim propter meam Vadiani praefixam.</s>
+					<s n="1" xml:lang="la" type="auto">Intelligo <persName ref="p467" cert="high">Bucerum</persName> irasci mihi serio et graviter, idque propter editam epistolam Vadiani, praesertim propter meam Vadiani praefixam.</s>
 					<s n="2" xml:lang="la" type="auto">Suspicatur ille in se et Argentoratensem ecclesiam sanctissimam dictum quod scripsi in homines inconstantes.</s>
 					<s n="3" xml:lang="la" type="auto">Neque enim illo vel verbo evincet, mea Argentoratensi ecclesiae competere, nisi ille talem fecerit qualem ego esse non arbitror.</s>
 					<s n="4" xml:lang="la" type="auto">Ex generalibus ille specialia facit.</s>
-					<s n="5" xml:lang="la" type="auto">Tu nosti, mi Grynaee, te et Myconium potissimos fuisse autores quod illam ediderim.</s>
+					<s n="5" xml:lang="la" type="auto">Tu nosti, mi Grynaee, te et <persName ref="p8418" cert="high">Myconium</persName> potissimos fuisse autores quod illam ediderim.</s>
 					<s n="6" xml:lang="la" type="auto">Quum enim intelligerem ex literis vestris, admodum probari vobis epistolam Vadiani, et conducere si communicaretur pluribus, idque nunc maxime quum Schwenkfeldii pravum dogma multis imponat simplicioribus, ego omnibus bonis gratam rem facere volens edidi, et epistolam praefixi a libello, ni fallor, non alienam, et quam maxime in Schwenkfeldianos et sui similes turgentes spiritus strinxi, id quod ipse contextus operis testabitur.</s>
 					<s n="7" xml:lang="la" type="auto">Praeterea in papistas, pseudoevangelicos et in vertumnos quosdam etiam scripsi.</s>
 					<s n="8" xml:lang="la" type="auto">Verum quis dicet me scripsisse falsa, quum tot inconstantium hominum hodie exempla ubique redundent, qui ad verbum id quod ego notavi explent?</s>
@@ -28,11 +28,11 @@
 					<s n="10" xml:lang="la" type="auto">Haec ergo quum ita habeant, et tu noris, nulla alia occasione epistolam editam, oro ut apud Argentoratenses me excuses.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Nolui ego Bucero scribere.</s>
+					<s n="11" xml:lang="la" type="auto">Nolui ego <persName ref="p467" cert="high">Bucero</persName> scribere.</s>
 					<s n="12" xml:lang="la" type="auto">Non quod odiam virum, aut quod illi hanc ob rem irascar, sed, quum satis alioqui irritabilis sit, ne offenderem gravius.</s>
 					<s n="13" xml:lang="la" type="auto">Haud enim suave mihi est concertare cum fratribus.</s>
 					<s n="14" xml:lang="la" type="auto">Multo foret amarius tecto sermone acerbius illos pungere et vellicare.</s>
-					<s n="15" xml:lang="la" type="auto">Scripsit hac de re ad Ioannem Sturmium quoque Bibliander compater carissimus excusans me.</s>
+					<s n="15" xml:lang="la" type="auto">Scripsit hac de re ad Ioannem Sturmium quoque <persName ref="p8171" cert="high">Bibliander</persName> compater carissimus excusans me.</s>
 					<s n="16" xml:lang="la" type="auto">Fac igitur tu quoque, mi Grynaee, amici officium.</s>
 					<s n="17" xml:lang="la" type="auto">Ego posthac huius rei non meminero amplius, nec apud quemquam porro conquerar amplius.</s>
 					<s n="18" xml:lang="la" type="auto">Amo et veneror fratres Argentoratenses et ecclesiam illam sanctissimam.</s>

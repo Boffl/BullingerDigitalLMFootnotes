@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11513" type="Brief" source="HBBW" n="1470">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11513" type="Brief" source="HBBW-11" n="1470">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Pergener / Zittau AN Heinrich Bullinger, 1. März 1541</title>
+				<title subtype="file">Oswald Pergener / Zittau an Heinrich Bullinger, 1. März 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -30,7 +30,7 @@
 					<s n="10" xml:lang="la" type="auto">Ideo mori christianis nihil aliud est quam mundum relinquere et ire ad deum etc.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Historiam evangelicam, quam nobis et precipue ecclesię Christi explanare statuisti,<note xml:id="fn3" type="footnote" n="3">Bullingers Evangelienkommentare erschienen in den Jahren 1542-1546; vgl. <bibl>HBBibl</bibl> I 144, 153, 170 und 173.</note> summo desiderio expecto; plane Phinonide<note xml:id="fn4" type="footnote" n="4">Gemeint ist <persName>Philonides</persName>, der von den griechischen Komödiendichtern als überaus groß gewachsen und dumm geschildert wird; vgl. <bibl>Pauly/Wissowa</bibl> XX/1 61; Adagia, 2, 6, 30 (<bibl>LB</bibl> II 592).</note> indoctior essem, ni deus sua gratia vestras lucubrationes ad nos perferri voluisset.</s>
+					<s n="11" xml:lang="la" type="auto">Historiam evangelicam, quam nobis et precipue ecclesię Christi explanare statuisti,<note xml:id="fn3" type="footnote" n="3">Bullingers Evangelienkommentare erschienen in den Jahren 1542-1546; vgl. <bibl>HBBibl</bibl> I 144, 153, 170 und 173.</note> summo desiderio expecto; plane Phinonide<note xml:id="fn4" type="footnote" n="4">Gemeint ist <persName ref="p19972" cert="high">Philonides</persName>, der von den griechischen Komödiendichtern als überaus groß gewachsen und dumm geschildert wird; vgl. <bibl>Pauly/Wissowa</bibl> XX/1 61; Adagia, 2, 6, 30 (<bibl>LB</bibl> II 592).</note> indoctior essem, ni deus sua gratia vestras lucubrationes ad nos perferri voluisset.</s>
 					<s n="12" xml:lang="la" type="auto">Quicquid<pb type="edition" next="87"/> habeo, hoc me a deo et vobis accepisse citra fucum fateor.</s>
 					<s n="13" xml:lang="la" type="auto">Quare non immerito precor deum optimum, ut tibi in omnibus adsit.</s>
 				</p>
@@ -39,7 +39,7 @@
 					<s n="15" xml:lang="la" type="auto">Zitte, prima martii 1541.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto"><persName ref="p6985">Osvaldus Pergenerus</persName> tuus et fratrum.</s>
+					<s n="16" xml:lang="la" type="auto"><persName ref="p2448" cert="high">Osvaldus Pergenerus</persName> tuus et fratrum.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

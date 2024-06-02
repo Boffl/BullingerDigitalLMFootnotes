@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12044" type="Brief" source="VBS" n="1363">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12044" type="Brief" source="VBS-6" n="1363">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 28. September 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 28. September 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,10 +17,10 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">G(ratiam) et p(acem).</s>
-					<s n="2" xml:lang="la" type="auto">Vides iam et audies coram ad satietatem D. doctorem Albertum Hardenbergium, Frisium, Lovaniensem theologum, immo vere pium et ex scripturis doctissimum theologum.</s>
+					<s n="2" xml:lang="la" type="auto">Vides iam et audies coram ad satietatem D. doctorem <persName ref="p8371" cert="high">Albertum Hardenbergium</persName>, <persName ref="p1214" cert="high">Frisium</persName>, Lovaniensem theologum, immo vere pium et ex scripturis doctissimum theologum.</s>
 					<s n="3" xml:lang="la" type="auto">Qui enim has tibi exhibet, is est, cuius et literas ex Argentorato ad me scriptas nuper communicavi.</s>
 					<s n="4" xml:lang="la" type="auto">Venit nulla alia causa nisi te videndi.</s>
-					<s n="5" xml:lang="la" type="auto">Deinde <placeName>Constantiam</placeName> petet, inde Argentoratum.</s>
+					<s n="5" xml:lang="la" type="auto">Deinde <placeName ref="l457" cert="high">Constantiam</placeName> petet, inde <placeName ref="l492" cert="high">Argentoratum</placeName>.</s>
 					<s n="6" xml:lang="la" type="auto">Habet suas vocationes a multis principibus et urbibus.</s>
 					<s n="7" xml:lang="la" type="auto">Deliberat apud se, quos adeat et quibus addicet suum laborem.</s>
 					<s n="8" xml:lang="la" type="auto">Nunc archiepiscopi Coloniensis sumptibus vivit.</s>
@@ -31,9 +31,9 @@
 					<s n="13" xml:lang="la" type="auto">- Aiunt, pacem esse compositam inter Caesarem et Gallum.</s>
 					<s n="14" xml:lang="la" type="auto">Capita nondum sciuntur.</s>
 					<s n="15" xml:lang="la" type="auto">Utinam cesset aliquando crudelis illa laniena!</s>
-					<s n="16" xml:lang="la" type="auto">Froschouerus nondum rediit; ubi redierit et aliqua scitu digna attulerit, scies.</s>
-					<s n="17" xml:lang="la" type="auto">Gastius scribit, ad Troiam in castris reperta 8000 aureorum nummum, quorum singuli valeant ad 4 g(ulden); se vidisse unum et alterum allatum Basileam, sed characteres non agnovisse.</s>
-					<s n="18" xml:lang="la" type="auto">Exspecto et desidero tua scholia in <persName>Cochlaeum</persName> meum.</s>
+					<s n="16" xml:lang="la" type="auto"><persName ref="p1227" cert="high">Froschouerus</persName> nondum rediit; ubi redierit et aliqua scitu digna attulerit, scies.</s>
+					<s n="17" xml:lang="la" type="auto"><persName ref="p1278" cert="high">Gastius</persName> scribit, ad Troiam in castris reperta 8000 aureorum nummum, quorum singuli valeant ad 4 g(ulden); se vidisse unum et alterum allatum Basileam, sed characteres non agnovisse.</s>
+					<s n="18" xml:lang="la" type="auto">Exspecto et desidero tua scholia in <persName ref="p8312" cert="high">Cochlaeum</persName> meum.</s>
 					<s n="19" xml:lang="la" type="auto">Vale cum omnibus tuis.</s>
 					<s n="20" xml:lang="la" type="auto">Audies mira ex D. D. Alberto de furiis anabaptistarum etc.</s>
 					<s n="21" xml:lang="la" type="auto">Tiguri, 28. Septembris, anno 1544.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12134" type="Brief" source="CO" n="615">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12134" type="Brief" source="CO-XII" n="615">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Guillaume Farel / Neuenburg AN s.n. / [Zürich], 21. Februar 1545</title>
+				<title subtype="file">Guillaume Farel / Neuenburg an s.n. / [Zürich], 21. Februar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,8 +21,8 @@
 					<s n="3" xml:lang="la" type="auto">Exspectatum fuit diu, et multis actum et scripturis et exemplis, quae a nobis proposita fuerunt, et nonnunquam ab aliis qui in coetu nostro cum repugnante egerunt, sed nihil profectum fuit.</s>
 					<s n="4" xml:lang="la" type="auto">Demum, ne quid omitteretur intentatum quin ad veram concordiam adduceremus ultro resilientem, rogatus fuit an ecclesiarum iudicio stare vellet.</s>
 					<s n="5" xml:lang="la" type="auto">Quod ubi admisit se facturum, magnas Deo gratias egimus.</s>
-					<s n="6" xml:lang="la" type="auto">Rogatae fuerunt aliquot ecclesiae, prout vestram quoque rogavimus, literis ad Megandrum datis, qui hic per Domini spiritum autor nobis fuit censurae.</s>
-					<s n="7" xml:lang="la" type="auto">Scriptum itidem fuit ad Bullingerum, magnum cum <persName>Caspare</persName> pastorem istius ecclesiae.</s>
+					<s n="6" xml:lang="la" type="auto">Rogatae fuerunt aliquot ecclesiae, prout vestram quoque rogavimus, literis ad<persName ref="p8412" cert="high">Megandrum</persName> datis, qui hic per Domini spiritum autor nobis fuit censurae.</s>
+					<s n="7" xml:lang="la" type="auto">Scriptum itidem fuit ad Bullingerum, magnum cum <persName ref="p8441" cert="high">Caspare</persName> pastorem istius ecclesiae.</s>
 					<s n="8" xml:lang="la" type="auto">Quum ab aliis responsum acceperimus, a vobis non item.</s>
 					<s n="9" xml:lang="la" type="auto">Unde fit ut vereamur ne redditae vobis nostrae fuerint, aut, si forte rescribere duxeritis, vestrae interceptae fuerint literae.</s>
 					<s n="10" xml:lang="la" type="auto">Quare iusserunt me fratres ut ad vos scriberem, et censuram qua utimur paucis explicatam mitterem, una cum positis repugnantis quibus putat censuram nostram eversum iri, si ea posita steterint.</s>

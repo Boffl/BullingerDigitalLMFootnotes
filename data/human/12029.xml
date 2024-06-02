@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12029" type="Brief" source="CO" n="572">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12029" type="Brief" source="CO-XI" n="572">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Johannes Calvin, 12. September 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Johannes Calvin, 12. September 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -31,7 +31,7 @@
 					<s n="9" xml:lang="la" type="auto">Pro libris nihil expendit.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto">Nam per meam intercessionem factum est ut minister bibliopolae et typographi Froschoveri libros receperit pro pecunia.</s>
+					<s n="10" xml:lang="la" type="auto">Nam per meam intercessionem factum est ut minister bibliopolae et typographi <persName ref="p1227" cert="high">Froschoveri</persName> libros receperit pro pecunia.</s>
 					<s n="11" xml:lang="la" type="auto">Praeterea coronatos 4 dedi scribae, 2 puero pro debitis solvendis et viatico, sicuti ipse referet.</s>
 					<s n="12" xml:lang="la" type="auto">Ego praeterea de meo scribae dedi 5 talenta tigurina, id est, batzones vestrates 40 vel duos coronatos, minus 10 batzonibus.</s>
 					<s n="13" xml:lang="la" type="auto">Hos tu mihi debes, vel pueri pater.</s>

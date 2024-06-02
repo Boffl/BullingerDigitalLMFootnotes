@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10327" type="Brief" source="HBBW" n="296">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10327" type="Brief" source="HBBW-3" n="296">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 12. Dezember 1533</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Oswald Myconius (Geißhüsler), 12. Dezember 1533</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,7 +26,7 @@
 				<p>
 					<s n="5" xml:lang="la" type="auto">Iam vero audi, frater charissime, inflictum a nuperis literis<note xml:id="fn2" type="footnote" n="2">Oben <ref target="file10324">Nr. 293</ref>.</note> alterum vulnus.</s>
 					<s n="6" xml:lang="la" type="auto">Nescio, quibus fomentis leniam.</s>
-					<s n="7" xml:lang="la" type="auto">Nam <persName>Andreas Faber</persName>, Fabri consulis<note xml:id="fn4" type="footnote" n="4"><persName>Felix Schmid (Faber)</persName>, 1454-1524, war seit 1489 als Zunftmeister der Meisen Mitglied des Kleinen Rates, 1505-1507 und nochmals 1510 Landvogt zu <placeName>Kyburg</placeName>. Im Jahre 1511 wurde er zum Bürgermeister gewählt. Der Reformation scheint er, soweit nachweisbar, wohlwollend gegenübergestanden zu sein. - Lit.: <hi>Corrodi-Sulzer,</hi> aaO, S. 27-32; <hi>Jacob</hi> 240f; <bibl>HBLS</bibl> VI 211.</note> filius, in senatum est lectus nobis maxime pro publica contione reclamantibus.</s>
+					<s n="7" xml:lang="la" type="auto">Nam <persName ref="p8436" cert="high">Andreas Faber</persName>, Fabri consulis filius, in senatum est lectus nobis maxime pro publica contione reclamantibus.</s>
 					<s n="8" xml:lang="la" type="auto">Cerberus - nosti, <foreign xml:lang="de">das ich den Rüden<note xml:id="fn5" type="footnote" n="5">Die Gesellschaft zu Konstaffel, nach ihrem Zunfthaus auch «zum Rüden» genannt. Sie stellte zahlenmäßig mehr Reformationsgegner als irgendeine Zunft, ohne daß diese jedoch eine Mehrheit in ihren Reihen hätten bilden können, s. <hi>Jacob</hi> 64-66. 108f. 115.</note> meyn</foreign> - eiusmodi homines subinde in senatum vocat, nec quisquam nostrorum est, qui forti et intrepido animo sese temerariis ausis obiiciat: Fuco imponitur stolidis<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Otto</bibl> 148, Nr. 723.</note>.</s>
 					<s n="9" xml:lang="la" type="auto">Non inviderem magistratum, si integros esse constaret.</s>
 					<s n="10" xml:lang="la" type="auto">Publice quidem nostram fidem confessus est, in nostram fidem coniuravit, pontifitiam abnegavit, eucharistiam una cum fratribus fregit et fracturum se posthac stipulabatur, sed subinde hypocrisim et nescio quid mali latere vereor.</s>
@@ -37,7 +37,7 @@
 					<s n="15" xml:lang="la" type="auto">Dominus misereatur nostri propter gloriam nominis sui.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto"><pb type="edition" next="250"/>Nuntius ita festinabat, ut non potuerim certo experiri, an a nostris legati sint missi.</s>
+					<s n="16" xml:lang="la" type="auto"><pb type="edition" next="250"/>Nuntius<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> ita festinabat, ut non potuerim certo experiri, an a nostris legati sint missi<note xml:id="fn8" type="footnote" n="8">Nämlich: nach Bern, s. oben S. 248, 21.</note>.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" type="auto">Vale.</s>
@@ -50,7 +50,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="20" xml:lang="la" type="auto">Domino <persName>Os. Myconio</persName> suo, <placeName>Basileae</placeName>.</s>
+					<s n="20" xml:lang="la" type="auto">Domino <persName ref="p8418" cert="high">Os. Myconio</persName> suo, <placeName ref="l28" cert="high">Basileae</placeName>.</s>
 				</p>
 			</div>
 		</body>

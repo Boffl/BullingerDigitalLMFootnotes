@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11807" type="Brief" source="ET" n="175">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11807" type="Brief" source="ET-I" n="175">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Francis Warner / Straßburg AN Heinrich Bullinger, 8. Juli [1543]</title>
+				<title subtype="file">Francis Warner / Straßburg an Heinrich Bullinger, 8. Juli [1543]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

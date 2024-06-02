@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12305" type="Brief" source="HBBW" n="2258">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12305" type="Brief" source="HBBW-15" n="2258">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Heinrich Bullinger] / [Zürich] AN [Rudolf Gwalther (Walter, Gualtherus, Walthart) d.Ä.], [Herbst 1545]</title>
+				<title subtype="file">[Heinrich Bullinger] / [Zürich] an [Rudolf Gwalther (Walter, Gualtherus, Walthart) d.Ä.], [Herbst 1545]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -29,13 +29,13 @@
 					<s n="5" xml:lang="de" type="auto"><pb type="scan" next="v."/>Nitt volgen gott, macht arme lüt, Gotts wort darff unsers hebens<note xml:id="fn3" type="footnote" n="3">darff unsers hebens: bedarf unserer Stütze.</note> nüt.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="de" type="auto">Oza<note xml:id="fn4" type="footnote" n="4"><persName>Ussa</persName>.</note> ruͤrt die pundts laden an und fallt.</s>
+					<s n="6" xml:lang="de" type="auto"><persName ref="20017" type="auto_name">Oza</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p20017" cert="high">Ussa</persName>.</note> ruͤrt die pundts laden an und fallt.</s>
 					<s n="7" xml:lang="la" type="auto">2. Sam. 6 [6-8].</s>
-					<s n="8" xml:lang="de" type="auto">Nadab und Abihu<note xml:id="fn5" type="footnote" n="5">Zwei Söhne <persName>Aarons</persName>.</note> oppfferend froͤmbd fhür und verbrünnend.</s>
+					<s n="8" xml:lang="de" type="auto">Nadab und <persName ref="18979" type="auto_name">Abihu</persName><note xml:id="fn5" type="footnote" n="5">Zwei Söhne <persName ref="p18979" cert="high">Aarons</persName>.</note> oppfferend froͤmbd fhür und verbrünnend.</s>
 					<s n="9" xml:lang="la" type="auto">Levit. 10 [1-5].</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de" type="auto">Ottho, <persName>Wolff</persName>, <persName>Zingg</persName>.</s>
+					<s n="10" xml:lang="de" type="auto">Ottho, <persName ref="p7092" cert="high">Wolff</persName>, <persName ref="p7194" cert="high">Zingg</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>
@@ -45,7 +45,7 @@
 					<s n="11" xml:lang="la" type="auto"><pb type="edition" next="566"/>Quid domini iuvat, ah miseri, contemnere verbum?</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Viribus a vestris non petit illud opem<note xml:id="fn7" type="footnote" n="7">Das Distichon findet sich auch in <persName>Gwalthers</persName> Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Viribus a vestris non petit illud opem<note xml:id="fn7" type="footnote" n="7">Das Distichon findet sich auch in <persName ref="p8011" cert="high">Gwalthers</persName> Gedichtsammlung 1542-1582 (Zürich ZB, Ms D 152, 66v.).</note>.</s>
 				</p>
 			</div>
 		</body>

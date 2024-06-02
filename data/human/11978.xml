@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11978" type="Brief" source="CO" n="559">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11978" type="Brief" source="CO-XI" n="559">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Philipp Melanchthon, 22. Juni 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Philipp Melanchthon, 22. Juni 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,10 +16,13 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
+					<note type="print">[Transkription gemäss Teildruck:]</note>
+				</p>
+				<p>
 					<s n="1" xml:lang="la" type="auto">Hortaris ut, si quae ex vestris ad nos regionibus horridiores literae scribuntur, malum id obruamus silentio nostraque arte leniamus.</s>
 					<s n="2" xml:lang="la" type="auto">Verum quid dices, mi Philippe, si literae huiusmodi sint ut difficile sit ad eas silere, nec ulla possint arte leniri?</s>
 					<s n="3" xml:lang="la" type="auto">De D. Martini Lutheri literis loquor.</s>
-					<s n="4" xml:lang="la" type="auto">Noris an nescias ignoramus, tales Lutherum ad Froschoverum nostrum scripsisse literas (quas haud dubie nos non ignorare minimeque latere voluit) ut non satis possint mirari qui eas legunt viri boni et docti, quid Luthero evenerit, quod tanta cum immodestia, ut no quid dicam acerbius, tam diras in nos effuderit criminationes atque contumelias.</s>
+					<s n="4" xml:lang="la" type="auto">Noris an nescias ignoramus, tales Lutherum ad <persName ref="p1227" cert="high">Froschoverum</persName> nostrum scripsisse literas (quas haud dubie nos non ignorare minimeque latere voluit) ut non satis possint mirari qui eas legunt viri boni et docti, quid Luthero evenerit, quod tanta cum immodestia, ut no quid dicam acerbius, tam diras in nos effuderit criminationes atque contumelias.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la" type="auto">Et quia forte ignoras quas scripserit, paucis in sinum amici et fratris effundam quidquid id est iniuriarum.</s>

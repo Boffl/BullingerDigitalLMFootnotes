@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10843" type="Brief" source="HBBW" n="804">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10843" type="Brief" source="HBBW-6" n="804">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 21. April 1536</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 21. April 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Non dubitant hic viri prudentes, quin conventus, qui nunc est propter captivos Salodorenses, non sit finiturus controversiam.</s>
 					<s n="3" xml:lang="la" type="auto">Quamobrem ita videtur illis agendum: Legatos videlicet post reditum animandos, ut constantiam contra Salodorenses adversarios induant et perdurent; nam constare tandem hos cessuros.</s>
-					<s n="4" xml:lang="la" type="auto">Equidem, quae novi, dicam: Fuerunt hic ex istis duo, qui conati sunt remorari Hugonem, veterem Salodorens[ium] signiferum<note xml:id="fn2" type="footnote" n="2">Alt Venner <persName>Hans Hugi</persName>.</note>, et <persName ref="p6756">Io[annem] Heinrichum Wincelium</persName>, Leonis cognatum<note xml:id="fn3" type="footnote" n="3">Zur Verwandtschaft <persName>Hans Heinrich Winkelis</persName> mit <persName ref="p6796">Leo Jud</persName> s. <bibl>HBBW</bibl> III <ref target="file10314">[Nr. 283]</ref>, S. 226, Anm. 44.</note>, ne proficiscantur <placeName>Araugiam</placeName>; timere se, ne praesentia ipsorum gravatura sit causam, quo minus veniatur ad pacem.</s>
+					<s n="4" xml:lang="la" type="auto">Equidem, quae novi, dicam: Fuerunt hic ex istis duo, qui conati sunt remorari Hugonem, veterem Salodorens[ium] signiferum<note xml:id="fn2" type="footnote" n="2">Alt Venner <persName ref="p5315" cert="high">Hans Hugi</persName>.</note>, et <persName ref="p2275" cert="high">Io[annem] Heinrichum Wincelium</persName>, <persName ref="p1753" cert="high">Leonis</persName> cognatum<note xml:id="fn3" type="footnote" n="3">Zur Verwandtschaft <persName ref="p2275" cert="high">Hans Heinrich Winkelis</persName> mit <persName ref="p1753" cert="high">Leo Jud</persName> s. <bibl>HBBW</bibl> III <ref target="file10314">[Nr. 283]</ref>, S. 226, Anm. 44.</note>, ne proficiscantur <placeName ref="l2" cert="high">Araugiam</placeName>; timere se, ne praesentia ipsorum gravatura sit causam, quo minus veniatur ad pacem.</s>
 					<s n="5" xml:lang="la" type="auto">Tum dixerunt ad eosdem, verum in aurem, Salodorenses omnino pacem petere:</s> 
 					<s n="6" xml:lang="de" type="manual">"Si wend ein friden han."</s>
 					<s n="7" xml:lang="la" type="auto">Interea tamen tales primo se congressu verbis exhibituros, tanquam causę fidant.</s>
@@ -28,30 +28,30 @@
 					<s n="10" xml:lang="la" type="auto">Zvinglianam vero tam abest ut queamus recipere, quam violare iusiurandum, quod contra eandem dedimus."</s>
 					<s n="11" xml:lang="la" type="auto">Haec ita loquuntur apud se suosque; sacerdotes enim papales tanto prosequuntur odio, ut majore non queant.</s>
 					<s n="12" xml:lang="la" type="auto">Nuper praefectus Dornacensis gladio per vaginam plebeianum [!] suum vulneravit, quod ipsum acusasset apud senatum de non integre persoluto sacerdotio.</s>
-					<s n="13" xml:lang="la" type="auto">Ille, qui testes amisit, <placeName>Friburgum</placeName> concessit magna querela, quod, quę pollicitus sit senatus, haud praestiterit.</s>
+					<s n="13" xml:lang="la" type="auto">Ille, qui testes amisit, <placeName ref="l160" cert="high">Friburgum</placeName> concessit magna querela, quod, quę pollicitus sit senatus, haud praestiterit.</s>
 					<s n="14" xml:lang="la" type="auto">Et multa huius generis numerare possem.</s>
 					<s n="15" xml:lang="la" type="auto">Quamobrem his ipsis apud tuos sic utaris, postquam audieris, quae sint acta, ut, si opus fuerit, constantiam contra adversantes paenitus iniicias.</s>
 					<s n="16" xml:lang="la" type="auto">Haec tibi.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" type="auto">De negocio concordiae<note xml:id="fn5" type="footnote" n="5">Gemeint sind die Verhandlungen über eine Abendmahlskonkordie mit den Lutheranern.</note> nihil audio.</s>
-					<s n="18" xml:lang="la" type="auto">Misit per errorem nuper scriba noster<note xml:id="fn6" type="footnote" n="6">Stadtschreiber <persName>Heinrich Ryhiner</persName>.</note> Argentinens[ium] confessionem cum apologia<note xml:id="fn7" type="footnote" n="7">Zur Confessio Tetrapolitana und zu <persName>Bucers</persName> Apologie s. oben <ref target="file10814">Nr. 776</ref>, Anm. 2 und 6.</note>, Germanice omnia.</s>
+					<s n="18" xml:lang="la" type="auto">Misit per errorem nuper scriba noster<note xml:id="fn6" type="footnote" n="6">Stadtschreiber <persName ref="p6310" cert="high">Heinrich Ryhiner</persName>.</note> Argentinens[ium] confessionem cum apologia<note xml:id="fn7" type="footnote" n="7">Zur Confessio Tetrapolitana und zu <persName ref="p467" cert="high">Bucers</persName> Apologie s. oben <ref target="file10814">Nr. 776</ref>, Anm. 2 und 6.</note>, Germanice omnia.</s>
 					<s n="19" xml:lang="la" type="auto">Ego mox remisi non legens; petieram enim non hanc, ut de qua nescieram, sed nostram Germanicam<note xml:id="fn8" type="footnote" n="8">Die deutsche Fassung des Ersten Helvetischen Bekenntnisses (<bibl>BSRK</bibl> 101-109).</note>, quam in hunc usque diem nondum vidi.</s>
 					<s n="20" xml:lang="la" type="auto">Promiserat quidem, sed verbis duntaxat.</s>
-					<s n="21" xml:lang="la" type="auto">Neque <persName>Grynęus</persName> adhuc vidit, quamobrem non est, ut tibi<pb type="edition" next="251"/> obtemperemus<note xml:id="fn9" type="footnote" n="9">Bullinger hatte <persName>Myconius</persName> und <persName>Simon Grynäus</persName> aufgefordert, die lateinische Fassung des Bekenntnisses an <persName ref="p6796">Leo Juds</persName> deutsche Übersetzung anzugleichen; s. oben <ref target="file10806">Nr. 768</ref>, 86-88; 770, 32-35.</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Neque <persName ref="p1365" cert="high">Grynęus</persName> adhuc vidit, quamobrem non est, ut tibi<pb type="edition" next="251"/> obtemperemus<note xml:id="fn9" type="footnote" n="9">Bullinger hatte <persName ref="p8418" cert="high">Myconius</persName> und <persName ref="p1365" cert="high">Simon Grynäus</persName> aufgefordert, die lateinische Fassung des Bekenntnisses an <persName ref="p1753" cert="high">Leo Juds</persName> deutsche Übersetzung anzugleichen; s. oben <ref target="file10806">Nr. 768</ref>, 86-88; 770, 32-35.</note>.</s>
 					<s n="22" xml:lang="la" type="auto">Equidem in hac fui sententia aliquoties, ut laborem, quem insumpsimus, iudicarem frustraneum.</s>
 					<s n="23" xml:lang="la" type="auto">Argentinenses tacent.</s>
-					<s n="24" xml:lang="la" type="auto"><persName ref="p18198">Bucerus</persName> nescio quid agat apud <placeName>Augustanos</placeName> illo vocatus<note xml:id="fn10" type="footnote" n="10">Zum erneuten Aufenthalt <persName>Bucers</persName> in <placeName>Augsburg</placeName> im April 1536 s. <hi>Roth</hi> II 290-292.</note>.</s>
+					<s n="24" xml:lang="la" type="auto"><persName ref="p467" cert="high">Bucerus</persName> nescio quid agat apud <placeName ref="l1976" cert="high">Augustanos</placeName> illo vocatus<note xml:id="fn10" type="footnote" n="10">Zum erneuten Aufenthalt <persName ref="p467" cert="high">Bucers</persName> in <placeName ref="l1976" cert="high">Augsburg</placeName> im April 1536 s. <hi>Roth</hi> II 290-292.</note>.</s>
 					<s n="25" xml:lang="la" type="manual">Minę bellorum undique circumvolant; consilia clam sunt.</s>
 					<s n="26" xml:lang="la" type="auto">Opus oculis acutis et circumspectis est, nostris praesertim magnatibus.</s>
 					<s n="27" xml:lang="la" type="auto">Haec me quandoque perturbare incipiunt.</s>
 					<s n="28" xml:lang="la" type="auto">At evanescit omnis turbatio, ubi respicio ad communem rectorem omnium.</s>
 				</p>
 				<p>
-					<s n="29" xml:lang="la" type="auto">Vale cum tuis salubriter et cum <persName>Utingero</persName> nostro.</s>
+					<s n="29" xml:lang="la" type="auto">Vale cum tuis salubriter et cum <persName ref="p3242" cert="high">Utingero</persName> nostro.</s>
 				</p>
 				<p>
-					<s n="30" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 21. aprilis anno 36.</s>
+					<s n="30" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 21. aprilis anno 36.</s>
 				</p>
 				<p>
 					<s n="31" xml:lang="la" type="auto">Tuus Myco.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12640" type="Brief" source="TUSTEP" n="2593">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12640" type="Brief" source="TUSTEP-17" n="2593">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 20. September 1546</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 20. September 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et pacem a domino.</s>
 					<s n="2" xml:lang="la" type="auto">Ab omnibus, qui a vobis ad nos veniunt, male audimus et improperatur ingratitudo nostra et oblivio offitiorum in nos collatorum, eo quod comitia civitatum evangelium colentium neglexerimus.</s>
-					<s n="3" xml:lang="la" type="auto">De qua re pridem rationem dedimus; nam eo devenerat, ut mitteretur, si nos <placeName>Curienses</placeName> voluissemus, sed omnino idem ille, qui Badenam destinatus fuerat, et non alius.</s>
+					<s n="3" xml:lang="la" type="auto">De qua re pridem rationem dedimus; nam eo devenerat, ut mitteretur, si nos <placeName ref="l98" cert="high">Curienses</placeName> voluissemus, sed omnino idem ille, qui Badenam destinatus fuerat, et non alius.</s>
 					<s n="4" xml:lang="la" type="auto">Videbatur itaque nostro magistratui satius esse nullum mittere quam cacum illum et hypocritam et pietatis inimicum pessimum.</s>
 					<s n="5" xml:lang="la" type="auto">Tu igitur, charissime frater, quantum poteris, excusare et placare digneris.</s>
 				</p>
@@ -42,7 +42,7 @@
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Vale.</s>
-					<s n="17" xml:lang="la" type="auto">Ex Rhetiae <placeName>Curia</placeName>, 20. septembris 46.</s>
+					<s n="17" xml:lang="la" type="auto">Ex Rhetiae <placeName ref="l98" cert="high">Curia</placeName>, 20. septembris 46.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
@@ -53,10 +53,10 @@
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="19" xml:lang="la" type="auto">Salutem nostro nomine dicas fratribus omnibus.</s>
-					<s n="20" xml:lang="la" type="auto">Salutant te Ioannes Blasius et Heimius<note xml:id="fn4" type="footnote" n="4"><persName>Luzi Heim</persName>.</note>, consul noster.</s>
+					<s n="20" xml:lang="la" type="auto">Salutant te <persName ref="p396" cert="high">Ioannes Blasius</persName> et <persName ref="8013" type="auto_name">Heimius</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p8013" cert="high">Luzi Heim</persName>.</note>, consul noster.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Tuus ex animo <persName ref="p4564">Ioannes Comander</persName>.</s>
+					<s n="21" xml:lang="la" type="auto">Tuus ex animo <persName ref="p654" cert="high">Ioannes Comander</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

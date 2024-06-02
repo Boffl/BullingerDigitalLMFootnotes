@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11629" type="Brief" source="HBBW" n="1586">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11629" type="Brief" source="HBBW-11" n="1586">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Kaspar Megander (Großmann), Heinrich Bullinger / Zürich AN Johannes Stumpf, 15. November 1541</title>
+				<title subtype="file">Kaspar Megander (Großmann), Heinrich Bullinger / Zürich an Johannes Stumpf, 15. November 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -15,13 +15,13 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto"><persName>Caspar Megander</persName> et H. Bullingerus <persName>Stumpfio</persName> suo.</s>
+					<s n="1" xml:lang="la" type="auto"><persName ref="p8412" cert="high">Caspar Megander</persName> et H. Bullingerus <persName ref="p3067" cert="high">Stumpfio</persName> suo.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">Gratiam et pacem etc.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">Oramus tuam humanitatem, Stumphi doctissime, ut causam suscipias Finssleri<note xml:id="fn1" type="footnote" n="1"><persName>Benedikt Finsler</persName>, bis 1540 Diakon in Goßau (Kt. Zürich).</note> atque a fratribus capituli per preces nostras impetres, quo paupertatulam illius ipsi concedant, dissoluto iuris vinculo<note xml:id="fn2" type="footnote" n="2">Über Verbindlichkeiten <persName>Finslers</persName> gegenüber den Pfarrern des Kapitels <placeName>Wetzikon</placeName> ist sonst nichts bekannt.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Oramus tuam humanitatem, <persName ref="p3067" cert="high">Stumphi</persName> doctissime, ut causam suscipias Finssleri<note xml:id="fn1" type="footnote" n="1"><persName ref="p4790" cert="high">Benedikt Finsler</persName>, bis 1540 Diakon in Goßau (Kt. Zürich).</note> atque a fratribus capituli per preces nostras impetres, quo paupertatulam illius ipsi concedant, dissoluto iuris vinculo<note xml:id="fn2" type="footnote" n="2">Über Verbindlichkeiten <persName ref="p4790" cert="high">Finslers</persName> gegenüber den Pfarrern des Kapitels <placeName ref="l544" cert="high">Wetzikon</placeName> ist sonst nichts bekannt.</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Pollicitus est nobis proxima in synodo<note xml:id="fn3" type="footnote" n="3">Da die Herbstsynode ausfiel (vgl. oben <ref target="file11615">Nr. 1572</ref>), muss die Frühjahrssynode vom 3. Mai 1541 gemeint sein. Im Protokoll (Zürich StA, E II 1, 265-274) ist über diese Angelegenheit nichts zu finden.</note> appensurum, quicquid instructi a vobis indixerimus.</s>
 					<s n="5" xml:lang="la" type="auto">Nos quia scimus miserum praemi paupertate et inopia, non gravatim has ad vos scripsimus precantes, ut concedatis sponte, quae hactenus auferre per vos non potuit.</s>
 					<s n="6" xml:lang="la" type="auto">Speramus autem preces nostras apud vos valituras.</s>

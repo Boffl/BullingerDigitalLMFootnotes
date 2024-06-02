@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10022" type="Brief" source="HBBW" n="4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10022" type="Brief" source="HBBW-1" n="4">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leo Jud / Zürich AN Heinrich Bullinger, 15. November 1524</title>
+				<title subtype="file">Leo Jud / Zürich an Heinrich Bullinger, 15. November 1524</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratia et pax a deo patre per Christum.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Quod me tam amice hortaris, imo urges<note xml:id="fn2" type="footnote" n="2">Bullingers Brief ist nicht erhalten.</note>, frater in Christo charissime, ut libellos quosdam <persName>Tertuliani</persName> [!]<note xml:id="fn3" type="footnote" n="3">Quintus Septimius Florens Tertullianus, etwa 160 bis etwa 230. - Auf Bullingers theologisches Denken übte er einen bedeutenden Einfluß aus (s. <bibl>Staedtke</bibl> 42f. 280; über Bullingers Handexemplar des <persName>Tertullian</persName> s. Anm. 4).</note> a te versos pellegam, non gravabor tibi morem gerere, siquidem cum tempore id fieri patiaris, nam illico non licet.</s>
+					<s n="2" xml:lang="la" type="auto">Quod me tam amice hortaris, imo urges<note xml:id="fn2" type="footnote" n="2">Bullingers Brief ist nicht erhalten.</note>, frater in Christo charissime, ut libellos quosdam <persName ref="p17746" cert="high">Tertuliani</persName> [!] a te versos pellegam, non gravabor tibi morem gerere, siquidem cum tempore id fieri patiaris, nam illico non licet.</s>
 					<s n="3" xml:lang="la" type="auto">Quamquam quis ego, mi frater, quem in re tanta iudicem eligis?</s>
 					<s n="4" xml:lang="la" type="auto">Tu videris, quid agas, nam officium christiani hominis ego haud detrecto.</s>
 					<s n="5" xml:lang="la" type="auto">Quare tibi persuade me nihil tibi<pb type="edition" next="56"/> denegaturum, quod vel ad tuam vel publicam christianorum omnium utilitatem prodesse sensero.</s>
@@ -31,7 +31,7 @@
 					<s n="7" xml:lang="la" type="auto">Ex Tyguro, 15. novembris 1524.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Tuus <persName ref="p2305">Leo Jud</persName>.</s>
+					<s n="8" xml:lang="la" type="auto">Tuus <persName ref="p1753" cert="high">Leo Jud</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

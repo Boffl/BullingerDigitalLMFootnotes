@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11069" type="Brief" source="HBBW" n="1027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11069" type="Brief" source="HBBW-7" n="1027">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Kaspar Megander (Großmann) / [Bern] AN Heinrich Bullinger, Leo Jud, 27. Juli 1537</title>
+				<title subtype="file">Kaspar Megander (Großmann) / [Bern] an Heinrich Bullinger, Leo Jud, 27. Juli 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,7 +23,7 @@
 					<s n="3" xml:lang="la" type="auto">Negocium tentandum esse plane non videtur.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">Quantum ad responsionem <persName ref="p18198">Buceri</persName><note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file11052">Nr. 1010</ref>, 69-71 mit Anm. 16.</note>, hoc modo homini responsum esse inteligo: Quando non solum nostri, sed aliarum quoque Helve[ticarum] ecclesiarum mentionem scriptis suis facit, scire cupiunt domini, an solum nobiscum et apud nos, quo cum aut contra quem agere velit; quo intelecto latius, quid agant, se consulturos pollicentur.</s>
+					<s n="4" xml:lang="la" type="auto">Quantum ad responsionem <persName ref="p467" cert="high">Buceri</persName><note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file11052">Nr. 1010</ref>, 69-71 mit Anm. 16.</note>, hoc modo homini responsum esse inteligo: Quando non solum nostri, sed aliarum quoque Helve[ticarum] ecclesiarum mentionem scriptis suis facit, scire cupiunt domini, an solum nobiscum et apud nos, quo cum aut contra quem agere velit; quo intelecto latius, quid agant, se consulturos pollicentur.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la" type="auto">Quo vero ad rem meam accedam: Verbis certo adsequi non possem, quanto subinde labyrintho versat.</s>
@@ -31,20 +31,20 @@
 					<s n="7" xml:lang="la" type="auto">Per Christum igitur rogo, ut ex illo me reducatis.</s>
 					<s n="8" xml:lang="la" type="auto">Sunt certe, qui sedulo sursum ac deorsum cursitando neminem non exosum adversarium et hostem mihi reddere conantur; quam ob rem, nemo surdus non inteligit.</s>
 					<s n="9" xml:lang="la" type="auto">Rogo igitur per Christum et mutuam nostram amiciciam et fraternitatem, ut in hoc sitis, quo domus mihi curetur, hoc est, modo proxime praescripto<note xml:id="fn4" type="footnote" n="4">Siehe oben <ref target="file11053">Nr. 1011</ref>.</note> promittatur.</s>
-					<s n="10" xml:lang="la" type="auto">Quo facto domum me recipiam et suppellectilem meam vel in Pinderi edes<note xml:id="fn5" type="footnote" n="5">Gemeint ist <persName>Georg Binders</persName> Haus "zum Loch", s. oben <ref target="file11041">Nr. 999</ref>, Anm. 4.</note> vel aliquem alium in locum transferam.</s>
+					<s n="10" xml:lang="la" type="auto">Quo facto domum me recipiam et suppellectilem meam vel in Pinderi edes<note xml:id="fn5" type="footnote" n="5">Gemeint ist <persName ref="p344" cert="high">Georg Binders</persName> Haus "zum Loch", s. oben <ref target="file11041">Nr. 999</ref>, Anm. 4.</note> vel aliquem alium in locum transferam.</s>
 					<s n="11" xml:lang="la" type="manual">Iuvate me, obsecro; necessitas instat.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Mulier, de qua proxime <persName ref="p2305">Leo</persName> plura<note xml:id="fn7" type="footnote" n="7">Ein entsprechendes Schreiben <persName ref="p6796">Leo Juds</persName> ist nicht erhalten.</note>, vana est, futilis, mendax, maledica, sediciosa, perturba[trix] reipublicae, iniqua non solum erga maritum suum, sed in nos omnes.</s>
-					<s n="13" xml:lang="la" type="auto">Ego illa nunquam cogitavi, ne dicam <persName>Berchtoldus</persName><note xml:id="fn8" type="footnote" n="8"><persName>Berchtold Haller</persName>.</note>, quae<pb type="edition" next="209"/> contra nos effutivit mendaciter.</s>
+					<s n="12" xml:lang="la" type="auto">Mulier<note xml:id="fn6" type="footnote" n="6">Unbekannt.</note>, de qua proxime <persName ref="p1753" cert="high">Leo</persName> plura<note xml:id="fn7" type="footnote" n="7">Ein entsprechendes Schreiben <persName ref="p1753" cert="high">Leo Juds</persName> ist nicht erhalten.</note>, vana est, futilis, mendax, maledica, sediciosa, perturba[trix] reipublicae, iniqua non solum erga maritum suum, sed in nos omnes.</s>
+					<s n="13" xml:lang="la" type="auto">Ego illa nunquam cogitavi, ne dicam <persName ref="p1391" cert="high">Berchtoldus</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p1391" cert="high">Berchtold Haller</persName>.</note>, quae<pb type="edition" next="209"/> contra nos effutivit mendaciter.</s>
 					<s n="14" xml:lang="la" type="auto">Ex quo facile coniicere poteritis, et reliqua omnia esse ficta et mendaciter et maliciose excogitata.</s>
 					<s n="15" xml:lang="la" type="auto">Verum quidem est, ut narrat, quod hisce nugis non semel domi meę obtudit.</s>
 					<s n="16" xml:lang="la" type="auto">Sed quia cognita mulier, semper nihili fęci et adhuc facio.</s>
-					<s n="17" xml:lang="la" type="auto"><placeName>Basileę</placeName> longe aliam tragediam et plane diversam movit.</s>
-					<s n="18" xml:lang="de" type="auto">Sy ist ein klapper und verlogen wyb, uff deren red nutz ze setzen ist.</s>
+					<s n="17" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName> longe aliam tragediam et plane diversam movit.</s>
+					<s n="18" xml:lang="de" type="auto">Sy ist ein klapper<note xml:id="fn9" type="footnote" n="9">Verleumderin.</note> und verlogen wyb, uff deren red nutz<note xml:id="fn10" type="footnote" n="10">nichts.</note> ze setzen ist.</s>
 					<s n="19" xml:lang="de" type="auto">Synd yr wol ze fryden?</s>
 					<s n="20" xml:lang="la" type="auto">O sectio, o heresis, quam odiosae et hostiles ex te oboriuntur partes!</s>
-					<s n="21" xml:lang="la" type="auto"><persName>Megander</persName> hoc nunquam credidisset, nisi ipse suis vidisset oculis et fere per crucem expertus esset.</s>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p8412" cert="high">Megander</persName> hoc nunquam credidisset, nisi ipse suis vidisset oculis et fere per crucem expertus esset.</s>
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="auto">Festinate cum domo, et habebitis brevi rem coram me narrantem.</s>
@@ -57,7 +57,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="25" xml:lang="la" type="auto">Charissimis suis et amicis et fratribus Bullingero et <persName ref="p2305">Leoni</persName>, Tiguri a concionibus.</s>
+					<s n="25" xml:lang="la" type="auto">Charissimis suis et amicis et fratribus Bullingero et <persName ref="p1753" cert="high">Leoni</persName>, Tiguri a concionibus.</s>
 				</p>
 			</div>
 		</body>

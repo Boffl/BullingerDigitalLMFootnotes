@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11336" type="Brief" source="HBBW" n="1293">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11336" type="Brief" source="HBBW-9" n="1293">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Oswald Pergener] / Zittau AN Heinrich Bullinger, 5. August 1539</title>
+				<title subtype="file">[Oswald Pergener] / Zittau an Heinrich Bullinger, 5. August 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,7 +19,7 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a deo patre et domino nostro Iesu Christo.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Litteras tuas<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, charissime Bullingere, 13. die martii Tiguri scriptas pius iuvenis <persName>Iohannes Hensenstein</persName><placeName>Francfordianus</placeName>, qui modo in Montibus Chutnis<note xml:id="fn3" type="footnote" n="3"><placeName>Kuttenberg</placeName> (Kutna Hora, <placeName>Böhmen</placeName>).</note> in Bohemia uxorem duxit, 23. die mensis aprilis huius anni mihi obtulit, ex quibus audio ecclesiam vestram bene habere per gratiam domini.</s>
+					<s n="2" xml:lang="la" type="auto">Litteras tuas<note xml:id="fn1" type="footnote" n="1">Nicht erhalten.</note>, charissime Bullingere, 13. die martii Tiguri scriptas pius iuvenis <persName ref="p5197" cert="high">Iohannes Hensenstein</persName><placeName ref="l157" cert="high">Francfordianus</placeName>, qui modo in Montibus Chutnis<note xml:id="fn3" type="footnote" n="3"><placeName ref="l1647" cert="high">Kuttenberg</placeName> (Kutna Hora, <placeName ref="l2449" cert="high">Böhmen</placeName>).</note> in Bohemia uxorem<note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> duxit, 23. die mensis aprilis huius anni mihi obtulit, ex quibus audio ecclesiam vestram bene habere per gratiam domini.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">Libere currere verbum evangelii notum est; dominum ministros subinde dare doctos et pios testantur et hoc vestra scripta, quę in utilitatem reip[ublicę] christianę editis.</s>
@@ -28,25 +28,25 @@
 					<s n="6" xml:lang="la" type="auto">Promittis te fortassis scripturum in evangelicam lectionem<note xml:id="fn6" type="footnote" n="6">Bullingers Evangelienkommentare erschienen erst ab 1542 (vgl. <bibl>HBBW VIII</bibl> <ref target="file11212">[Nr. 1169]</ref>, S. 210, Anm. 11).</note>; id ut fiat, sincero precor animo.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto">Non libet modo plura scribere, nam litterę tradendę erant prętori<note xml:id="fn7" type="footnote" n="7"><persName>Kaspar Teudel</persName>, Stadtrichter in <placeName>Wittenberg</placeName> (s. <bibl>Seeliger</bibl> 44).</note> <placeName>Wittenbergensi</placeName>, qui hiis diebus cum doctissimo viro d. <persName>Matheo Aurigallo</persName>, professore hebraicarum litterarum, in hac civitate fuit.<pb type="edition" next="187"/></s>
+					<s n="7" xml:lang="la" type="auto">Non libet modo plura scribere, nam litterę tradendę erant prętori<note xml:id="fn7" type="footnote" n="7"><persName ref="p18178" cert="high">Kaspar Teudel</persName>, Stadtrichter in <placeName ref="l558" cert="high">Wittenberg</placeName> (s. <bibl>Seeliger</bibl> 44).</note> <placeName ref="l558" cert="high">Wittenbergensi</placeName>, qui hiis diebus cum doctissimo viro d. <persName ref="p4221" cert="high">Matheo Aurigallo</persName>, professore hebraicarum litterarum, in hac civitate fuit.<pb type="edition" next="187"/></s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" type="auto">De Turcarum sev[itia] nulli sunt modo rumores in hiis finibus.</s>
-					<s n="9" xml:lang="la" type="auto">Papistę ubique lugent ob principem <persName>Georgium</persName> Saxonię sublatum<note xml:id="fn9" type="footnote" n="9">Georg "der Bärtige", Herzog von Sachsen, war am 17. April 1539 gestorben (vgl. oben <ref target="file11316">Nr. 1273</ref>, 22-36.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Papistę ubique lugent ob principem <persName ref="p19058" cert="high">Georgium</persName> Saxonię sublatum<note xml:id="fn9" type="footnote" n="9">Georg "der Bärtige", Herzog von Sachsen, war am 17. April 1539 gestorben (vgl. oben <ref target="file11316">Nr. 1273</ref>, 22-36.</note>.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto">Ad vernas nundinas Francfordianas<note xml:id="fn10" type="footnote" n="10">Die <placeName>Frankfurter</placeName> Frühjahrsmesse fand in der Regel von Oculi bis Freitag vor Palmarum, im Jahr 1540 somit vom 29. Februar bis zum 19. März statt; vgl. Alexander <hi>Dietz,</hi> <placeName>Frankfurter</placeName> Handelsgeschichte, Bd. I, <placeName>Frankfurt</placeName> a. M. 1910, S. 37-40.</note> pluribus vobiscum per litteras colloquar.</s>
-					<s n="11" xml:lang="la" type="auto"><persName>Iohannes ille Hensenstein</persName> constituit singulis vernis nundinis <placeName>Francfordium</placeName> sese profecturum; is erit idoneus et fidelis nunctius.</s>
+					<s n="10" xml:lang="la" type="auto">Ad vernas nundinas <placeName ref="l157" cert="high">Francfordianas</placeName><note xml:id="fn10" type="footnote" n="10">Die <placeName ref="l157" cert="high">Frankfurter</placeName> Frühjahrsmesse fand in der Regel von Oculi bis Freitag vor Palmarum, im Jahr 1540 somit vom 29. Februar bis zum 19. März statt; vgl. Alexander <hi>Dietz,</hi> <placeName ref="l157" cert="high">Frankfurter</placeName> Handelsgeschichte, Bd. I, <placeName ref="l157" cert="high">Frankfurt</placeName> a. M. 1910, S. 37-40.</note> pluribus vobiscum per litteras colloquar.</s>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p5197" cert="high">Iohannes ille Hensenstein</persName> constituit singulis vernis nundinis <placeName ref="l157" cert="high">Francfordium</placeName> sese profecturum; is erit idoneus et fidelis nunctius.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Salutant vos et vestram ecclesiam, inprimis <persName>Pellicanum</persName>, <persName ref="p2305">Leonem Iud</persName>, <persName>Theodorum Puchman</persName><note xml:id="fn11" type="footnote" n="11"><persName>Theodor Bibliander</persName>.</note>, <persName>Megandrum</persName>, multi pii et vestri studiosi fratres.</s>
+					<s n="12" xml:lang="la" type="auto">Salutant vos et vestram ecclesiam, inprimis <persName ref="p8127" cert="high">Pellicanum</persName>, <persName ref="p1753" cert="high">Leonem Iud</persName>, <persName ref="p8171" cert="high">Theodorum Puchman</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>, <persName ref="p8412" cert="high">Megandrum</persName>, multi pii et vestri studiosi fratres.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Cursim, Zittę, 5. die mensis augusti 1539.</s>
-					<s n="14" xml:lang="la" type="auto">Salutavi et d. Iohannem Hessum <placeName>Wratislaviensem</placeName>, cui vestra salutatio fuit gratissima.</s>
+					<s n="14" xml:lang="la" type="auto">Salutavi et d. Iohannem Hessum <placeName ref="l66" cert="high">Wratislaviensem</placeName>, cui vestra salutatio fuit gratissima.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Tuus <persName ref="p6985">Osvaldus</persName> etc.</s>
+					<s n="15" xml:lang="la" type="auto">Tuus <persName ref="p2448" cert="high">Osvaldus</persName> etc.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

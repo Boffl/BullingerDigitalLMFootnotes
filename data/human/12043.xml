@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12043" type="Brief" source="BBW" n="1127">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12043" type="Brief" source="BBW-II" n="1127">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 28. September 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Ambrosius Blarer (Blaurer), 28. September 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,7 +23,7 @@
 					<s n="6" xml:lang="la" type="auto">Vocationes habet multas a multis principibus et urbibus.</s>
 					<s n="7" xml:lang="la" type="auto">Spero illum Christi regnum strenue propagaturum.</s>
 					<s n="8" xml:lang="la" type="auto">Dominus sit vobiscum!</s>
-					<s n="9" xml:lang="de" type="manual">Es sol ein frid in Franckrych gemacht sin.</s>
+					<s n="9" xml:lang="de" type="manual">Es sol ein frid in <placeName ref="l28" cert="high">Franckrych</placeName> gemacht sin.</s>
 					<s n="10" xml:lang="de" type="manual">O wölt gott, damitt doch die armen lüt ettwas erliberung hättend und uff den wintter nitt so jämerlich verbränt und verhergt wurdent!</s>
 					<s n="11" xml:lang="la" type="auto">Tiguri 28. Septembris 1544.</s>
 					<s n="12" xml:lang="la" type="auto">H(einrychus) Bullingerus.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11612" type="Brief" source="HBBW" n="1569">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11612" type="Brief" source="HBBW-11" n="1569">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Richard Hilles / Straßburg AN Heinrich Bullinger, zwischen [18.] September 1541 und [25.] September 1541</title>
+				<title subtype="file">Richard Hilles / Straßburg an Heinrich Bullinger, zwischen [18.] September 1541 und [25.] September 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -12,9 +12,34 @@
 				</sourceDesc>
 		</fileDesc>
 		</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-1" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F00%20E_II_369__fol__73_a_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">11612/Beilage/00 E_II_369__fol__73_a_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-1" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F01%20E_II_369__fol__73_a_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">11612/Beilage/01 E_II_369__fol__73_a_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-2" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F00%20E_II_369__fol__72_b_2_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">11612/Beilage/00 E_II_369__fol__72_b_2_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-2" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F01%20E_II_369__fol__72_b_2_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">11612/Beilage/01 E_II_369__fol__72_b_2_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-2" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F02%20E_II_369__fol__72_b_3_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">11612/Beilage/02 E_II_369__fol__72_b_3_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-2" url="https://iiif.bullinger-digital.ch/iiif/3/11612%2FBeilage%2F03%20E_II_369__fol__72_b_3_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">11612/Beilage/03 E_II_369__fol__72_b_3_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
 	<text xml:lang="la">
 		<body>
 			<div xml:id="div1" corresp="regest1">
+				<p>
+					<note type="print">[Brief gedruckt (ohne Beilagen): Epistolae Tigurinae 143–147; Transkription der Beilagen in HBBW Band 11]</note>
+				</p>
 				<p>
 					<note type="attachment">[Beilage 1 von Capito:]</note>
 					<s n="1" xml:lang="la" type="manual"><pb type="scan" next="73a__r."/>Proposita de lege.</s>
@@ -33,11 +58,11 @@
 					<s n="14" xml:lang="la" type="auto">12. Liber est igitur a decalogo atque ab animi iudicio se accusante, qui fide domini omnem vicit accusationem; cęteri tanquam servi peccati sub damnatione relinquuntur.</s>
 				</p>
 				<p>
-					<note type="author">[Richard Hilles’ autographe Bemerkungen dazu:]</note>
+					<note type="author">[<persName ref="p1548" cert="high">Richard Hilles</persName>’ autographe Bemerkungen dazu:]</note>
 					<s n="15" xml:lang="la" type="auto"><pb type="scan" next="73a__v."/>Occasio 3. et 4. propositi fuit contensio[!] quedam ante quatuordecem dies circa usum idolorum, priusquam proposuit ista.</s>
-					<s n="16" xml:lang="la" type="auto">Nam in precidentibus propositis ex Esaia<note xml:id="fn3" type="footnote" n="3">Vgl. Jes 44, 9-20.</note> collegit idolorum fabricationem non fuisse a deo prohibitam, modo non fuerint adorata.</s>
+					<s n="16" xml:lang="la" type="auto">Nam in precidentibus propositis ex Esaia<note xml:id="fn3" type="footnote" n="3">Vgl. <cit type="bible"><ref>Jes 44, 9-20</ref></cit>.</note> collegit idolorum fabricationem non fuisse a deo prohibitam, modo non fuerint adorata.</s>
 					<s n="17" xml:lang="la" type="auto">Ac propterea potuisse absque superstitione proponi in templis imaginem Christi crucifixi ad admonendum homines,<pb type="edition" next="319"/> deum verum hominem pro nobis passum fuisse.</s>
-					<s n="18" xml:lang="la" type="auto">Illa erant ipsa verba unius propositi d. Capitonis.</s>
+					<s n="18" xml:lang="la" type="auto">Illa erant ipsa verba unius propositi d. <persName ref="p5565" cert="high">Capitonis</persName>.</s>
 				</p>
 				<p>
 					<s n="19" xml:lang="la" type="auto">Precipuum fere argumentum eius erat 1. Cor. 8 [4].</s>
@@ -46,7 +71,7 @@
 					<s n="22" xml:lang="la" type="auto">Plane annumerat idola per se inter res medias.</s>
 				</p>
 				<p>
-					<s n="23" xml:lang="la" type="auto">Habes hic preterea alia d. <persName ref="p18198">Martini Bu[ceri]</persName> proposita, tanquam meis auribus fere nova et, ni fallor, ab ipsa sincera evangelii doctrina in aliquibus diversa.</s>
+					<s n="23" xml:lang="la" type="auto">Habes hic preterea alia d. <persName ref="p467" cert="high">Martini Bu[ceri]</persName> proposita, tanquam meis auribus fere nova et, ni fallor, ab ipsa sincera evangelii doctrina in aliquibus diversa.</s>
 				</p>
 				<p>
 					<s n="24" xml:lang="la" type="auto">Ipse non sepe intersum disputationibus ac ideo, utrum plura fuerint huiuscemodi proposite propositiones nec ne, ignoro.</s>

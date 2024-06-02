@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11315" type="Brief" source="CR" n="788">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11315" type="Brief" source="CR-5" n="788">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Pierre Viret / Lausanne AN Heinrich Bullinger, 15. Mai 1539</title>
+				<title subtype="file">Pierre Viret / Lausanne an Heinrich Bullinger, 15. Mai 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -33,10 +33,10 @@
 					<s n="13" xml:lang="la" type="auto">Nihil certe vidisti mansuetius et modestius unquam, aut a fastu magis alienum.</s>
 					<s n="14" xml:lang="la" type="auto">Perplacent mihi ista ingenia, in quibus cum sancta eruditione relucet illa Christianae innocentiae et simplicitatis imago.</s>
 					<s n="15" xml:lang="la" type="auto">Salutant te fratres omnes qui sunt apud nos.</s>
-					<s n="16" xml:lang="la" type="auto">Ne graveris obsecro salutem dicere D. Pellicano, Bibiiandro, Megandro, Leoni et reliquis fratribus meo nomine.</s>
+					<s n="16" xml:lang="la" type="auto">Ne graveris obsecro salutem dicere D. <persName ref="p8127" cert="high">Pellicano</persName>, <persName ref="p8171" cert="high">Bibliandro</persName>, <persName ref="p8412" cert="high">Megandro</persName>, <persName ref="p1753" cert="high">Leoni</persName> et reliquis fratribus meo nomine.</s>
 					<s n="17" xml:lang="la" type="auto">Vale.</s>
-					<s n="18" xml:lang="la" type="auto">Lausannae, 15 Maii 1539.</s>
-					<s n="19" xml:lang="la" type="auto">Tuus ex animo Petrus Viretus.</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l280" cert="high">Lausannae</placeName>, 15 Maii 1539.</s>
+					<s n="19" xml:lang="la" type="auto">Tuus ex animo <persName ref="p3429" cert="high">Petrus Viretus</persName>.</s>
 				</p>
 				<p>
 					<s n="20" xml:lang="la" type="auto">Singulari eruditione ac pietate ornatiss.</s>

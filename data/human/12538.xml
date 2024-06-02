@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12538" type="Brief" source="HBBW" n="2491">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12538" type="Brief" source="HBBW-17" n="2491">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 8. Juli 1546</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 8. Juli 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,91 +18,91 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gaudeo, quoties manum tuam video.</s>
 					<s n="2" xml:lang="la" type="auto">Semper habet aliquid, quod nosse et iuvat et prodest.</s>
-					<s n="3" xml:lang="la" type="auto">Adfecit me pulchre postrema epistola tua<note xml:id="fn1" type="footnote" n="1">Nicht erhalten. - Damit hatte Bullinger auf <persName>Myconius</persName>' Brief <ref target="file12529">Nr. 2482</ref> vom 29. Juni geantwortet; s. unten Anm. 16.</note>, quia continet de Helvetiorum contra cęsaris<note xml:id="fn2" type="footnote" n="2"><persName>Karl V.</persName></note> arma scelestissima profectione<note xml:id="fn3" type="footnote" n="3">Zur Bereitschaft vieler Eidgenossen, u.a. aus dem Gebiet von Zürich, den schmalkaldischen Verbündeten gegen den Kaiser zuzuziehen, s. <ref target="file12530">Nr. 2483</ref>,35f; <ref target="file12536">Nr. 2489</ref>,25-34; <ref target="file12540">Nr. 2493</ref>,2-8. 21-23; <ref target="file12541">Nr. 2494</ref>,36f. 47-50.</note>.</s>
-					<s n="4" xml:lang="la" type="auto">Spes est enim consilia capi iam in comitiis<note xml:id="fn4" type="footnote" n="4">Die <placeName>Badener</placeName> Tagsatzung, die am 5. Juli begonnen hatte; s. <ref target="file12521">Nr. 2474</ref>, Anm. 6.</note> ab ea occasione commodius<note xml:id="fn5" type="footnote" n="5">Siehe aber <ref target="file12536">Nr. 2489</ref>, Anm. 33.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Adfecit me pulchre postrema epistola tua<note xml:id="fn1" type="footnote" n="1">Nicht erhalten. - Damit hatte Bullinger auf <persName ref="p8418" cert="high">Myconius</persName>' Brief <ref target="file12529">Nr. 2482</ref> vom 29. Juni geantwortet; s. unten Anm. 16.</note>, quia continet de Helvetiorum contra cęsaris<note xml:id="fn2" type="footnote" n="2"><persName ref="p18538" cert="high">Karl V.</persName></note> arma scelestissima profectione<note xml:id="fn3" type="footnote" n="3">Zur Bereitschaft vieler Eidgenossen, u.a. aus dem Gebiet von Zürich, den schmalkaldischen Verbündeten gegen den Kaiser zuzuziehen, s. <ref target="file12530">Nr. 2483</ref>,35f; <ref target="file12536">Nr. 2489</ref>,25-34; <ref target="file12540">Nr. 2493</ref>,2-8. 21-23; <ref target="file12541">Nr. 2494</ref>,36f. 47-50.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Spes est enim consilia capi iam in comitiis<note xml:id="fn4" type="footnote" n="4">Die <placeName ref="l21" cert="high">Badener</placeName> Tagsatzung, die am 5. Juli begonnen hatte; s. <ref target="file12521">Nr. 2474</ref>, Anm. 6.</note> ab ea occasione commodius<note xml:id="fn5" type="footnote" n="5">Siehe aber <ref target="file12536">Nr. 2489</ref>, Anm. 33.</note>.</s>
 					<s n="5" xml:lang="la" type="auto">Det dominus, ut et pro patria sint et pro verbo domini.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la" type="auto">Ex tuis illis hodie meos<note xml:id="fn6" type="footnote" n="6">Die Kirchgänger des Basler Münsters, in dem <persName>Myconius</persName> predigte.</note> sum pro virili hortatus, ut tuorum sequantur exemplum, subiectos ad vitę et morum emendationem diligentemque precationem extimulando.</s>
+					<s n="6" xml:lang="la" type="auto">Ex tuis illis hodie meos<note xml:id="fn6" type="footnote" n="6">Die Kirchgänger des Basler Münsters, in dem <persName ref="p8418" cert="high">Myconius</persName> predigte.</note> sum pro virili hortatus, ut tuorum sequantur exemplum, subiectos ad vitę et morum emendationem diligentemque precationem extimulando.</s>
 					<s n="7" xml:lang="la" type="auto">Manebo, quid effecerim.</s>
-					<s n="8" xml:lang="la" type="auto">Orandum est enim prorsus, ut dominus corda et animos nostros accendat ad nominis sui studium, subpeditet consilia salutaria et fortiter agendi contra hostem versutissimum et impiissimum<note xml:id="fn7" type="footnote" n="7">Damit ist <persName>Kaiser Karl V.</persName> und seine Anhängerschaft gemeint.</note> praestet fortitudinem ac robur, si res huc queat perduci, ut et ipse de domino recte sentire condiscat.</s>
+					<s n="8" xml:lang="la" type="auto">Orandum est enim prorsus, ut dominus corda et animos nostros accendat ad nominis sui studium, subpeditet consilia salutaria et fortiter agendi contra hostem versutissimum et impiissimum<note xml:id="fn7" type="footnote" n="7">Damit ist <persName ref="p18538" cert="high">Kaiser Karl V.</persName> und seine Anhängerschaft gemeint.</note> praestet fortitudinem ac robur, si res huc queat perduci, ut et ipse de domino recte sentire condiscat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="9" xml:lang="la" type="auto">De vexillario <persName>Zollero</persName><note xml:id="fn8" type="footnote" n="8"><persName>Hans Wilpert Zoller</persName>, der als Bannerträger im Dienste des Schmalkaldischen Bundes stand; s. <ref target="file12514">Nr. 2467</ref>,23f.</note> libenter audivi.</s>
-					<s n="10" xml:lang="la" type="auto">Et de concordibus animis principum et civitatum, qui fuerunt <placeName>Ulmę</placeName>,<note xml:id="fn9" type="footnote" n="9">An der Tagung der oberländischen Städte des Schmalkaldischen Bundes; s. <ref target="file12518">Nr. 2471</ref>, Anm. 14.</note> adhuc audivi libentius.</s>
+					<s n="9" xml:lang="la" type="auto">De vexillario <persName ref="p7197" cert="high">Zollero</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p7197" cert="high">Hans Wilpert Zoller</persName>, der als Bannerträger im Dienste des Schmalkaldischen Bundes stand; s. <ref target="file12514">Nr. 2467</ref>,23f.</note> libenter audivi.</s>
+					<s n="10" xml:lang="la" type="auto">Et de concordibus animis principum et civitatum, qui fuerunt <placeName ref="l513" cert="high">Ulmę</placeName>,<note xml:id="fn9" type="footnote" n="9">An der Tagung der oberländischen Städte des Schmalkaldischen Bundes; s. <ref target="file12518">Nr. 2471</ref>, Anm. 14.</note> adhuc audivi libentius.</s>
 					<s n="11" xml:lang="la" type="auto">Spero etenim concordiam eam esse in domino.</s>
-					<s n="12" xml:lang="la" type="auto">Quod, si sic est, sine dubio adest dominus, utpote deus pacis<note xml:id="fn10" type="footnote" n="10">Phil 4, 9; 1 Thess 5, 23.</note>.</s>
+					<s n="12" xml:lang="la" type="auto">Quod, si sic est, sine dubio adest dominus, utpote deus pacis<note xml:id="fn10" type="footnote" n="10"><cit type="bible"><ref>Phil 4, 9</ref></cit>; <cit type="bible"><ref>1 Thess 5, 23</ref></cit>.</note>.</s>
 					<s n="13" xml:lang="la" type="auto">Titulum facis, Carolo puto, <foreign xml:lang="de">gottspuͤssigen Spangerli;</foreign> non capio<note xml:id="fn12" type="footnote" n="12">Weil "spüssig" (spissig) auch spitzig, scharf oder rauh bedeuten kann; s. <hi>SI X 559.</hi></note>.</s>
-					<s n="14" xml:lang="la" type="auto">Miror autem, quod <persName>Ferdinandi</persName> nuncium de Turcę<note xml:id="fn13" type="footnote" n="13"><persName>Sultan Suleiman I.</persName></note> adventatione putes mendaciter confictum.</s>
+					<s n="14" xml:lang="la" type="auto">Miror autem, quod <persName ref="p18477" cert="high">Ferdinandi</persName> nuncium de <persName ref="18593" type="auto_name">Turcę</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p18593" cert="high">Sultan Suleiman I.</persName></note> adventatione<note xml:id="fn14" type="footnote" n="14">adventatio: das Heranrücken; vgl. Thesaurus Linguae Latinae, Bd. I, Leipzig 1900, Sp. 834.</note> putes mendaciter confictum.</s>
 					<s n="15" xml:lang="la" type="auto">Ad quid enim confingeret, nisi forsitan hoc modo suorum pedes referre conaretur alio, postquam intelligit nostros tam animose concursare?</s>
-					<s n="16" xml:lang="la" type="auto">Nam quod nostros terrere sic tentet, non possum coniicere<note xml:id="fn15" type="footnote" n="15">Dieses Gerücht diente wohl dazu, die Musterungen in <placeName>Österreich</placeName> und Vorderösterreich zu rechtfertigen. Vgl. auch <bibl>HBBW</bibl> XVI 27 und Anm. 127.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Nam quod nostros terrere sic tentet, non possum coniicere<note xml:id="fn15" type="footnote" n="15">Dieses Gerücht diente wohl dazu, die Musterungen in <placeName ref="l35" cert="high">Österreich</placeName> und Vorderösterreich zu rechtfertigen. Vgl. auch <bibl>HBBW</bibl> XVI 27 und Anm. 127.</note>.</s>
 					<s n="17" xml:lang="la" type="auto">Intelligo nunc de nobilitate Rhenensi<note xml:id="fn16" type="footnote" n="16">Vgl. <ref target="file12529">Nr. 2482</ref>,19-21.</note>.</s>
-					<s n="18" xml:lang="la" type="auto"><placeName>Curienses</placeName> opus haberent subsidio;<placeName>Italico</placeName> enim exercitu praepedito omnia per dominum melius sunt<pb type="edition" next="162"/> habitura.</s>
-					<s n="19" xml:lang="la" type="auto">Proditor<note xml:id="fn18" type="footnote" n="18">Der Kaiser.</note> <placeName>Ratisbonę</placeName><note xml:id="fn19" type="footnote" n="19">Am Reichstag.</note> recte defendit fratricidam; sed vide in malis quę memoria<note xml:id="fn21" type="footnote" n="21">Anspielung auf die in <ref target="file12527">Nr. 2480</ref>,51-53. von <persName>Ambrosius Blarer</persName> übermittelte Nachricht, die Bullinger offensichtlich an <persName>Myconius</persName> weitergeleitet hatte.</note>!</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l98" cert="high">Curienses</placeName> opus haberent subsidio;<placeName ref="l16" cert="high">Italico</placeName> enim exercitu praepedito omnia per dominum melius sunt<pb type="edition" next="162"/> habitura.</s>
+					<s n="19" xml:lang="la" type="auto">Proditor<note xml:id="fn18" type="footnote" n="18">Der Kaiser.</note> <placeName ref="l410" cert="high">Ratisbonę</placeName><note xml:id="fn19" type="footnote" n="19">Am Reichstag.</note> recte defendit fratricidam; sed vide in malis quę memoria<note xml:id="fn21" type="footnote" n="21">Anspielung auf die in <ref target="file12527">Nr. 2480</ref>,51-53. von <persName ref="p8055" cert="high">Ambrosius Blarer</persName> übermittelte Nachricht, die Bullinger offensichtlich an <persName ref="p8418" cert="high">Myconius</persName> weitergeleitet hatte.</note>!</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
 					<s n="20" xml:lang="la" type="auto">Bohemos audieram nihil laturos auxilii contra Germanos.</s>
-					<s n="21" xml:lang="la" type="auto">Nunc ex <placeName>Argentina</placeName> aliud accipio.</s>
+					<s n="21" xml:lang="la" type="auto">Nunc ex <placeName ref="l492" cert="high">Argentina</placeName> aliud accipio.</s>
 					<s n="22" xml:lang="la" type="auto">Nescio, utrum verum.</s>
-					<s n="23" xml:lang="la" type="auto">Et miror, quod Ungari et <placeName>Austriaci</placeName> dicuntur subpetias ferre Carolo, cum ipsimet habeant domi, quod agant<note xml:id="fn23" type="footnote" n="23">Nämlich sich gegen die Einfälle der Türken zu verteidigen.</note>.</s>
-					<s n="24" xml:lang="la" type="auto">Scribit vir quidam egregius<note xml:id="fn24" type="footnote" n="24"><persName>Bucer</persName>, im oben erwähnten Brief.</note> in hęc verba: „Orandus est dominus, ut iungat nostram gentem cum piis Suevis et Rhenanis; sic quam minimo negocio confieret, ut unus populus esset, quicquid inter Galliam est et <placeName>Franciam</placeName> Orientalem<note xml:id="fn25" type="footnote" n="25">Francia orientalis: das Frankenland; s. <hi><persName>Dasypodius</persName>, Dic.</hi> 261v.</note> et <placeName>Bavaros</placeName>.“</s>
+					<s n="23" xml:lang="la" type="auto">Et miror, quod Ungari et <placeName ref="l35" cert="high">Austriaci</placeName> dicuntur subpetias ferre Carolo, cum ipsimet habeant domi, quod agant<note xml:id="fn23" type="footnote" n="23">Nämlich sich gegen die Einfälle der Türken zu verteidigen.</note>.</s>
+					<s n="24" xml:lang="la" type="auto">Scribit vir quidam egregius<note xml:id="fn24" type="footnote" n="24"><persName ref="p467" cert="high">Bucer</persName>, im oben erwähnten Brief.</note> in hęc verba: „Orandus est dominus, ut iungat nostram gentem cum piis Suevis et Rhenanis; sic quam minimo negocio confieret, ut unus populus esset, quicquid inter Galliam est et <placeName ref="l11" cert="high">Franciam</placeName> Orientalem<note xml:id="fn25" type="footnote" n="25">Francia orientalis: das Frankenland; s. <hi><persName ref="p8320" cert="high">Dasypodius</persName>, Dic.</hi> 261v.</note> et <placeName ref="l619" cert="high">Bavaros</placeName>.“</s>
 					<s n="25" xml:lang="la" type="auto">Aliquid tum contra tantam multitudinem per dominum posset confici.</s>
 					<s n="26" xml:lang="la" type="auto">Sed opus est celeritate, etc.</s>
-					<s n="27" xml:lang="la" type="auto">Saxo<note xml:id="fn26" type="footnote" n="26"><persName>Johann Friedrich I. von Sachsen</persName>.</note> et lantgravius<note xml:id="fn27" type="footnote" n="27"><persName>Philipp von Hessen</persName>.</note> se parant fortissime (nam ita scribunt), ac impediunt pro virili, ne impiorum exercitus conveniant.</s>
+					<s n="27" xml:lang="la" type="auto"><persName ref="19065" type="auto_name">Saxo</persName><note xml:id="fn26" type="footnote" n="26"><persName ref="p19065" cert="high">Johann Friedrich I. von Sachsen</persName>.</note> et lantgravius<note xml:id="fn27" type="footnote" n="27"><persName ref="p3590" cert="high">Philipp von Hessen</persName>.</note> se parant fortissime (nam ita scribunt), ac impediunt pro virili, ne impiorum exercitus conveniant.</s>
 					<s n="28" xml:lang="la" type="auto">Premit interim lantgravium vis magna Belgarum.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="29" xml:lang="la" type="auto">Atqui Danus his se totum obiiciet - rex eximię pietatis, virtutis et<pb type="edition" next="163"/> felicitatis in proeliis.</s>
-					<s n="30" xml:lang="la" type="auto">Pruteni<note xml:id="fn31" type="footnote" n="31"><persName>Herzog Albrecht von Preußen</persName>.</note> pietas et virtus eximia est; de quo non dubium est, quin sit facturus officium.</s>
+					<s n="30" xml:lang="la" type="auto"><persName ref="8616" type="auto_name">Pruteni</persName><note xml:id="fn31" type="footnote" n="31"><persName ref="p8616" cert="high">Herzog Albrecht von Preußen</persName>.</note> pietas et virtus eximia est; de quo non dubium est, quin sit facturus officium.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="31" xml:lang="la" type="auto">Literas Caroli Hispani ad Helvetios<note xml:id="fn32" type="footnote" n="32">Gemeint ist der Brief <persName>Karls V.</persName> an die Eidgenossen vom 12. März 1546 (s. <ref target="file12499">Nr. 2452</ref>, Anm. 5). Offensichtlich ließ Bullinger davon eine Kopie für <persName>Myconius</persName> anfertigen. Siehe dazu schon <ref target="file12499">Nr. 2452</ref>,4; <ref target="file12516">Nr. 2469</ref>,12f; <ref target="file12526">Nr. 2479</ref>,6.</note> legi.</s>
+					<s n="31" xml:lang="la" type="auto">Literas Caroli Hispani ad Helvetios legi.</s>
 					<s n="32" xml:lang="la" type="auto">Bone deus, quam sunt et vafrę et mendaces et impię!</s>
 					<s n="33" xml:lang="la" type="auto">Possem hęc omnia vel ego probare.</s>
 					<s n="34" xml:lang="la" type="auto">Putat simplices (ne dicam stultos) Helvetios, non intellecturos suam fraudem, dum promittit aureos montes<note xml:id="fn33" type="footnote" n="33"><bibl>Adagia</bibl> 1, 9, IS <hi>(ASD</hi> II/2 338, Nr. 815).</note>.</s>
-					<s n="35" xml:lang="la" type="auto">Equidem spero dominum daturum, ut simplici prudentia fallacem Hispanum<note xml:id="fn34" type="footnote" n="34">fallacem Hispanum: <persName>Karl V.</persName></note> sine labore sint intellecturi, ut dicant cum vulpe Aesopico: „Vestigia me terrent omnia, te adversum spectantia nulla retrorsum.“<note xml:id="fn36" type="footnote" n="36"><hi><persName>Horaz</persName>,</hi> Epistulae 1, 1, 74f.</note></s>
+					<s n="35" xml:lang="la" type="auto">Equidem spero dominum daturum, ut simplici prudentia fallacem Hispanum<note xml:id="fn34" type="footnote" n="34">fallacem Hispanum: <persName ref="p18538" cert="high">Karl V.</persName></note> sine labore sint intellecturi, ut dicant cum vulpe Aesopico: „Vestigia me terrent omnia, te adversum spectantia nulla retrorsum.“<note xml:id="fn36" type="footnote" n="36"><hi><persName ref="p19882" cert="high">Horaz</persName>,</hi> Epistulae 1, 1, 74f.</note></s>
 					<s n="36" xml:lang="la" type="auto">Mentitur contra principes evangelium hactenus foventes,<note xml:id="fn37" type="footnote" n="37">Indem er den protestantischen Fürsten versprach, einen neuen Religionsfrieden mit ihnen auszuhandeln; s. <bibl>HBBW</bibl> XV 241.</note> ut nihil eis adscribat nisi tyrannidem et totius imperii occupationem, si nemo praepediret.</s>
-					<s n="37" xml:lang="la" type="auto">Impietatis signum est numisma, quod ex <placeName>Italia</placeName> hic circumfe[r]tur.</s>
+					<s n="37" xml:lang="la" type="auto">Impietatis signum est numisma, quod ex <placeName ref="l16" cert="high">Italia</placeName> hic circumfe[r]tur.</s>
 					<s n="38" xml:lang="la" type="auto">Ab una parte Caroli caput habens et hanc scripturam: „Carolus V. Augustus, imperator, cę[sar].“</s>
 					<s n="39" xml:lang="la" type="auto">Ab altera mulieris imaginem, quę religio est, in dextra gerens crucifixum, in sinistra cali[cem] cum hostia, ad pedes libros Moysi; scriptura marginalis hęc est: „Propugnator religio[nis] catholicę.“</s>
-					<s n="40" xml:lang="la" type="auto">Convenit hic cum literis, ubi scribis, quibus utatur in <placeName>Italia</placeName> technis<note xml:id="fn39" type="footnote" n="39">Möglicherweise überlieferte Bullinger die ihm von <persName>Ambrosius Blarer</persName> mitgeteilte Nachricht (<ref target="file12532">Nr. 2485</ref>,48-53), dass in Italien die Söldner angeworben wurden, indem man ihnen einen Ablass sowie auch das Hab und Gut der Lutheraner versprach.</note>, ut milites e[x]citet contra Germanos.</s>
-					<s n="41" xml:lang="la" type="auto">Mirum, si illi<note xml:id="fn40" type="footnote" n="40"><persName>Karl V.</persName></note> non eveniant, quę Brunsvicensi<note xml:id="fn41" type="footnote" n="41"><persName>Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>.</note>, qui<pb type="edition" next="164"/> pariter gloriab[atur] commissarium se esse et ministrum fidelem sanctimonię papalis, item ducem summum cęsareę maiestatis et foederis <placeName>Nurembergensis</placeName><note xml:id="fn42" type="footnote" n="42">Der katholische <placeName>Nürnberger</placeName> Bund von 1538.</note> et veteris religionis.</s>
+					<s n="40" xml:lang="la" type="auto">Convenit hic cum literis, ubi scribis, quibus utatur in <placeName ref="l16" cert="high">Italia</placeName> technis, ut milites e[x]citet contra Germanos.</s>
+					<s n="41" xml:lang="la" type="auto">Mirum, si illi<note xml:id="fn40" type="footnote" n="40"><persName ref="p18538" cert="high">Karl V.</persName></note> non eveniant, quę <persName ref="18770" type="auto_name">Brunsvicensi</persName><note xml:id="fn41" type="footnote" n="41"><persName ref="p18770" cert="high">Herzog Heinrich d.J. von Braunschweig-Wolfenbüttel</persName>.</note>, qui<pb type="edition" next="164"/> pariter gloriab[atur] commissarium se esse et ministrum fidelem sanctimonię papalis, item ducem summum cęsareę maiestatis et foederis <placeName ref="l361" cert="high">Nurembergensis</placeName><note xml:id="fn42" type="footnote" n="42">Der katholische <placeName ref="l361" cert="high">Nürnberger</placeName> Bund von 1538.</note> et veteris religionis.</s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="42" xml:lang="la" type="auto"><persName>Ducem Mauricium</persName><note xml:id="fn43" type="footnote" n="43"><persName>Moritz von Sachsen</persName>.</note> dicunt esse blandiciis Caroli sic captum, ut plane tepescat.</s>
-					<s n="43" xml:lang="la" type="auto">Et de Palatin[o]<note xml:id="fn44" type="footnote" n="44"><persName>Friedrich II. von der Pfalz</persName>.</note> ne verbum quidem audio, etiam dum rogo.</s>
-					<s n="44" xml:lang="la" type="auto">De duce Wirtembergensi<note xml:id="fn45" type="footnote" n="45"><persName>Ulrich von Württemberg</persName>.</note> omnia bona, sancta ac [for]tia.</s>
-					<s n="45" xml:lang="la" type="auto">Dominus robur addat, ut, quemadmodum ipse prius a Fercilando privatus est patria, ita [nunc] contra et hunc et fratrem<note xml:id="fn47" type="footnote" n="47"><persName>Karl V.</persName></note> spoliet <persName>Germania</persName><ptr target="fne" type="footnote" n="e"/>.</s>
+					<s n="42" xml:lang="la" type="auto"><persName ref="p18250" cert="high">Ducem Mauricium</persName><note xml:id="fn43" type="footnote" n="43"><persName ref="p18250" cert="high">Moritz von Sachsen</persName>.</note> dicunt esse blandiciis Caroli sic captum, ut plane tepescat.</s>
+					<s n="43" xml:lang="la" type="auto">Et de Palatin[o]<note xml:id="fn44" type="footnote" n="44"><persName ref="p17927" cert="high">Friedrich II. von der Pfalz</persName>.</note> ne verbum quidem audio, etiam dum rogo.</s>
+					<s n="44" xml:lang="la" type="auto">De duce <persName ref="9780" type="auto_name">Wirtembergensi</persName><note xml:id="fn45" type="footnote" n="45"><persName ref="p9780" cert="high">Ulrich von Württemberg</persName>.</note> omnia bona, sancta ac [for]tia.</s>
+					<s n="45" xml:lang="la" type="auto">Dominus robur addat, ut, quemadmodum ipse prius a Fercilando privatus est patria, ita [nunc] contra et hunc et fratrem<note xml:id="fn47" type="footnote" n="47"><persName ref="p18538" cert="high">Karl V.</persName></note> spoliet <persName ref="p18477" cert="high">Germania</persName><ptr target="fne" type="footnote" n="e"/>.</s>
 					<s n="46" xml:lang="la" type="auto">De hoc et illud fertur, quod Carolo nunciarit se in diem 15. huius mensis cum eo conflicturum, ubiubi inveniat.</s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="47" xml:lang="la" type="auto"><placeName>Nurembergenses</placeName> an aliquid agant, nescio.</s>
+					<s n="47" xml:lang="la" type="auto"><placeName ref="l361" cert="high">Nurembergenses</placeName> an aliquid agant, nescio.</s>
 					<s n="48" xml:lang="la" type="auto">R[u]mor erat tonulas (ut quidam vocant) centum apud illos esse ad bellum Turcicum collectas et nunc servituras bello praesenti.</s>
 					<s n="49" xml:lang="la" type="auto">Hac de re vellem reddi certior.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
-					<s n="50" xml:lang="la" type="auto">Bene vale in Christo cum domo tua, <persName>Gvalthero</persName> et <persName>Pellicano</persName> et piis fratribus omnibus.</s>
+					<s n="50" xml:lang="la" type="auto">Bene vale in Christo cum domo tua, <persName ref="p8011" cert="high">Gvalthero</persName> et <persName ref="p8127" cert="high">Pellicano</persName> et piis fratribus omnibus.</s>
 					<s n="51" xml:lang="la" type="auto">Oremus una cum ecclesiis vestris ad dominum, ut nostr[i] misereatur in tentatione hac multo gravissima.</s>
-					<s n="52" xml:lang="la" type="auto"><placeName>Basileę</placeName> raptim, 8. iulii anno 1546.</s>
+					<s n="52" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName> raptim, 8. iulii anno 1546.</s>
 				</p>
 				<p>
-					<s n="53" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+					<s n="53" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Os. Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

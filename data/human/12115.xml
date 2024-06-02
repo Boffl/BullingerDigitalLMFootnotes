@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12115" type="Brief" source="HBBW" n="2068">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12115" type="Brief" source="HBBW-15" n="2068">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / [Basel] AN Heinrich Bullinger, 16. Januar 1545</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / [Basel] an Heinrich Bullinger, 16. Januar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,18 +17,18 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Gasparem Schneberger<note xml:id="fn1" type="footnote" n="1"><persName>Kaspar Schneeberger</persName>, der Kostgänger bei <persName>Myconius</persName> gewesen war.</note>, quęso, sic excipias, ut omnium simplicissimum et ex simplicitate stultulum atque nonnihil superbulum; quod intelligit, quę recta sunt, verum nescit uti.</s>
+					<s n="2" xml:lang="la" type="auto">Gasparem Schneberger<note xml:id="fn1" type="footnote" n="1"><persName ref="p6463" cert="high">Kaspar Schneeberger</persName>, der Kostgänger bei <persName ref="p8418" cert="high">Myconius</persName> gewesen war.</note>, quęso, sic excipias, ut omnium simplicissimum et ex simplicitate stultulum atque nonnihil superbulum; quod intelligit, quę recta sunt, verum nescit uti.</s>
 					<s n="3" xml:lang="la" type="auto">Literarum quoque non est omnino expers (quod valde miror), sed itidem sine bono usu.</s>
-					<s n="4" xml:lang="la" type="auto">Si amici et cognati<note xml:id="fn2" type="footnote" n="2">Zu <persName>Kaspar Schneebergers</persName> Eltern s. <bibl>HBBW</bibl> XIV, <ref target="file11902">Nr. 1856</ref>, Anm. 1.</note> permiserint eum suis moribus vivere, iucundus esse valebit; sin conabuntur mutare, plane perdent.</s>
+					<s n="4" xml:lang="la" type="auto">Si amici et cognati<note xml:id="fn2" type="footnote" n="2">Zu <persName ref="p6463" cert="high">Kaspar Schneebergers</persName> Eltern s. <bibl>HBBW</bibl> XIV, <ref target="file11902">Nr. 1856</ref>, Anm. 1.</note> permiserint eum suis moribus vivere, iucundus esse valebit; sin conabuntur mutare, plane perdent.</s>
 					<s n="5" xml:lang="la" type="auto">Rogavit me, ut se tibi commendarem.</s>
 					<s n="6" xml:lang="la" type="auto">Fac ergo, ut sit commendatissimus vel hoc nomine, quod est minime malus, nisi nimium vexando talis reddatur.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto">Omisi in altera epistola<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file12111">Nr. 2064</ref>.</note>, quod, postquam obsignavi, rediit ad me cum literis<note xml:id="fn4" type="footnote" n="4">Vermutlich an Bullinger gerichtet; nicht erhalten.</note> nepos tuus<note xml:id="fn5" type="footnote" n="5"><persName>Josua Bullinger</persName>.</note> - ut nosse vales, quia eas mitto.</s>
+					<s n="7" xml:lang="la" type="auto">Omisi in altera epistola<note xml:id="fn3" type="footnote" n="3">Oben <ref target="file12111">Nr. 2064</ref>.</note>, quod, postquam obsignavi, rediit ad me cum literis<note xml:id="fn4" type="footnote" n="4">Vermutlich an Bullinger gerichtet; nicht erhalten.</note> nepos tuus<note xml:id="fn5" type="footnote" n="5"><persName ref="p499" cert="high">Josua Bullinger</persName>.</note> - ut nosse vales, quia eas mitto.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Item octo millibus <placeName>Hispanorum</placeName> gravare cęsar<note xml:id="fn6" type="footnote" n="6"><persName>Karl V.</persName></note> voluit Lothoringiam, quam antea tamen exhausit.</s>
-					<s n="9" xml:lang="la" type="auto">Sed dux<note xml:id="fn7" type="footnote" n="7"><persName>François I. von Lothringen</persName> (1517-1545).</note> collecto exercitu dum eos vi conatus erat eiicere, venit intercessor, vir magnus, vimque prohibuit et Lothoringum levavit, Concordiensibus<note xml:id="fn9" type="footnote" n="9">Gemeint sind vermutlich die vom Schmalkaldischen Bund bereitgestellten Truppenteile; s. <bibl>HBBW</bibl> XIV, <ref target="file11932">Nr. 1886</ref>, 42-44; 1890, 1-10.</note>, Suntgaudiensibus<note xml:id="fn10" type="footnote" n="10">den Sundgauern (südliches Elsass).</note> et Brisgaviensibus<note xml:id="fn11" type="footnote" n="11">den Breisgauern.</note> imminens.<pb type="edition" next="88"/></s>
+					<s n="8" xml:lang="la" type="auto">Item octo millibus <placeName ref="l29" cert="high">Hispanorum</placeName> gravare cęsar<note xml:id="fn6" type="footnote" n="6"><persName ref="p18538" cert="high">Karl V.</persName></note> voluit Lothoringiam, quam antea tamen exhausit.</s>
+					<s n="9" xml:lang="la" type="auto">Sed dux<note xml:id="fn7" type="footnote" n="7"><persName ref="p7637" cert="high">François I. von Lothringen</persName> (1517-1545).</note> collecto exercitu dum eos vi conatus erat eiicere, venit intercessor<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note>, vir magnus, vimque prohibuit et Lothoringum levavit, Concordiensibus<note xml:id="fn9" type="footnote" n="9">Gemeint sind vermutlich die vom Schmalkaldischen Bund bereitgestellten Truppenteile; s. <bibl>HBBW</bibl> XIV, <ref target="file11932">Nr. 1886</ref>, 42-44; 1890, 1-10.</note>, Suntgaudiensibus<note xml:id="fn10" type="footnote" n="10">den Sundgauern (südliches Elsass).</note> et Brisgaviensibus<note xml:id="fn11" type="footnote" n="11">den Breisgauern.</note> imminens.<pb type="edition" next="88"/></s>
 					<s n="10" xml:lang="la" type="auto">Et nisi nobilitas, quę propterea convenit Selestadię, deprecatura est apud cęsarem, fiet aliquid.</s>
 				</p>
 				<p>
@@ -36,7 +36,7 @@
 					<s n="12" xml:lang="la" type="auto">16. ianuarii anno 1545.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto">Tuus Mycon.</s>
+					<s n="13" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Mycon</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

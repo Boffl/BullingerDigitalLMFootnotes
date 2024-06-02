@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10798" type="Brief" source="HBBW" n="760">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10798" type="Brief" source="HBBW-6" n="760">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Lüthi (Lucius) / [Winterthur] AN Heinrich Bullinger, 8. März 1536</title>
+				<title subtype="file">Heinrich Lüthi (Lucius) / [Winterthur] an Heinrich Bullinger, 8. März 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,13 +19,13 @@
 					<s n="1" xml:lang="la" type="auto">S[alutem] ac conscientie pacem per Christum.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Dominus a Vischingen, <persName>Heinrichus Stoll</persName>, affinis meus<note xml:id="fn2" type="footnote" n="2">Der Bekanntschafts- bzw. Verwandtschaftsgrad ließ sich nicht ermitteln. Vgl. auch Z. 8.</note>, hodie a contione publica abiturum domum apprehendit, secretum petit, obnuntiat mortem Ioannis Bosshardi, optimi viri, episcopi in <placeName>Oberwinterthur</placeName>, cuius episcopatum ambire cum aliis multis intelligo.</s>
+					<s n="2" xml:lang="la" type="auto">Dominus a Vischingen, <persName ref="p8448" cert="high">Heinrichus Stoll</persName>, affinis meus<note xml:id="fn2" type="footnote" n="2">Der Bekanntschafts- bzw. Verwandtschaftsgrad ließ sich nicht ermitteln. Vgl. auch Z. 8.</note>, hodie a contione publica abiturum domum apprehendit, secretum petit, obnuntiat mortem <persName ref="4370" type="auto_name">Ioannis Bosshardi</persName>, optimi viri, episcopi in <placeName ref="l556" cert="high">Oberwinterthur</placeName>, cuius episcopatum ambire cum aliis multis intelligo.</s>
 					<s n="3" xml:lang="la" type="auto">Orat me atque obsecrat, ut se tibi commendem.</s>
 					<s n="4" xml:lang="la" type="auto">Quando sibi persuasissimum esse video se nullo labore obtenturum, quod petit, si tuum in hac re favorem senserit, provinciam mihi iniunctam habes, quam detrectare non potui; obsequendum enim fuit amico.</s>
 					<s n="5" xml:lang="la" type="auto">Tu dispicies, quid tibi faciundum potissimum censeas.</s>
 					<s n="6" xml:lang="la" type="auto">Vir alias est bonus, ni fallor, ac pius, rem sacram haud improbe doctus, cui episcopale munus concredere tamen tuto possim praeter conscientie mee offensam, quem alio spectaturum sane haud crediderim, quam ad dei nostri gloriam unice provehendam.</s>
 					<s n="7" xml:lang="la" type="manual">Multos<pb type="edition" next="162"/> habebit competitores; du faxint, ut potius praeclarum opus quam praeclarum censum expetant!</s>
-					<s n="8" xml:lang="la" type="auto">Que porro essent perscribenda de hominis statu ac suis rebus, quo in loco sint posite quamque reditus sint circumcisi, qui familie sue alende haud sufficiunt, ex fratribus suis, quos habet Thiguri senatorii ordinis viros praestantes<note xml:id="fn4" type="footnote" n="4"><persName>Ulrich Stoll</persName>, 1523-1532 und 1534-1541, sowie <persName>Rudolf Stoll</persName>, 1520-1553 im Kleinen Rat (vgl. <bibl>Schnyder, Ratslisten</bibl> 607f).</note>, fortasse cognosces; poterunt hii namque ambitionis sue causam ac omnia, que te scire forte proderit, melius praesentes praesenti exponere paucis, quam ego multis deumbrare literis, neque vacat in presentia pluribus tecum agere ob praeproperam ac repentinam nuntii abitionem.</s>
+					<s n="8" xml:lang="la" type="auto">Que porro essent perscribenda de hominis statu ac suis rebus, quo in loco sint posite quamque reditus sint circumcisi, qui familie sue alende haud sufficiunt, ex fratribus suis, quos habet Thiguri senatorii ordinis viros praestantes<note xml:id="fn4" type="footnote" n="4"><persName ref="p2835" cert="high">Ulrich Stoll</persName>, 1523-1532 und 1534-1541, sowie <persName ref="p6714" cert="high">Rudolf Stoll</persName>, 1520-1553 im Kleinen Rat (vgl. <bibl>Schnyder, Ratslisten</bibl> 607f).</note>, fortasse cognosces; poterunt hii namque ambitionis sue causam ac omnia, que te scire forte proderit, melius praesentes praesenti exponere paucis, quam ego multis deumbrare literis, neque vacat in presentia pluribus tecum agere ob praeproperam ac repentinam nuntii<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> abitionem.</s>
 				</p>
 				<p>
 					<s n="9" xml:lang="la" type="auto">De libero arbitrio adeoque fato ipso ac dei providentia librum te meditari anno superiori aiebas.</s>
@@ -36,7 +36,7 @@
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Valebis atque salubriter.</s>
-					<s n="15" xml:lang="la" type="auto">De expeditione<placeName>Bernatium</placeName><note xml:id="fn7" type="footnote" n="7">Zum bernischen Feldzug in die <placeName>Waadt</placeName> s. zuletzt <ref target="file10790">Nr. 752</ref>.</note>, si quid certi habes, literis fac me certiorem quantumvis brevibus, te etiam atque etiam oro obsecroque.</s>
+					<s n="15" xml:lang="la" type="auto">De expeditione<placeName ref="l41" cert="high">Bernatium</placeName><note xml:id="fn7" type="footnote" n="7">Zum bernischen Feldzug in die <placeName ref="l788" cert="high">Waadt</placeName> s. zuletzt <ref target="file10790">Nr. 752</ref>.</note>, si quid certi habes, literis fac me certiorem quantumvis brevibus, te etiam atque etiam oro obsecroque.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Octavo idus martias anno 1536.</s>

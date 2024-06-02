@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12221" type="Brief" source="VBS" n="1399">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12221" type="Brief" source="VBS-6" n="1399">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 8. Juni 1545</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 8. Juni 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,7 +23,7 @@
 					<s n="5" xml:lang="la" type="auto">- Phrisii nostri adventus incolumis cum toto illo suo comitatu mire nos exhilaravit.</s>
 					<s n="6" xml:lang="la" type="auto">Iactarunt, scio, se magnifice hic tractatos; verum insperato adventu factum est, ut nec pro animi sententia neque pro merito et nostra singulari erga ipsos benevolentia sint excepti.</s>
 					<s n="7" xml:lang="la" type="auto">Arbitror autem, ipsum tibi quaedam narrasse, quę mandaram.</s>
-					<s n="8" xml:lang="la" type="auto">Stumpfio nostro significabo tempus, quo nos mutuo conveniamus.</s>
+					<s n="8" xml:lang="la" type="auto"><persName ref="p3067" cert="high">Stumpfio</persName> nostro significabo tempus, quo nos mutuo conveniamus.</s>
 					<s n="9" xml:lang="la" type="auto">Interim calamo non parco, longe minus animo, quo fidem meam redimam.</s>
 					<s n="10" xml:lang="la" type="auto">- Si quid de Caesare habes certi, fac, oro, sciam.</s>
 					<s n="11" xml:lang="la" type="auto">Miro odio laborare eum una cum fratre apud ordines etiam suos ferunt, et nemo tam hebetis animi est, qui perspicere non queat, non tam hoc spectari in illis suis tam lubricis versutisque conatibus, ut religioni adsit suae, quam ut suam tandem in servitutem avitam illam Germanię libertatem redigat atque hoc modo uno in venatu duos lepores capiat.</s>
@@ -35,7 +35,7 @@
 					<s n="17" xml:lang="la" type="auto">Hic status est factionis.</s>
 					<s n="18" xml:lang="de" type="auto"><foreign xml:lang="la">Verum ego reponerem:</foreign> Wellend dan ir uns sinken lassen, so wellend wir hilf suͦchen, dar wir sy ze finden vertrauwend, und nüntz desterminder euwer eydgnoßen sein etc.</s>
 					<s n="19" xml:lang="la" type="auto">Ceterum istic apparebit Apelles noster clitellarius, quem tibi una cum Ioanne nostro commendo.</s>
-					<s n="20" xml:lang="la" type="auto">Mone vero Froschoerum, ut eius operae rationem sibi curae esse sinat; id quod ego et mea vicissim diligentia recompensabo.</s>
+					<s n="20" xml:lang="la" type="auto">Mone vero <persName ref="p1227" cert="high">Froschoerum</persName>, ut eius operae rationem sibi curae esse sinat; id quod ego et mea vicissim diligentia recompensabo.</s>
 					<s n="21" xml:lang="la" type="auto">Vale.</s>
 					<s n="22" xml:lang="la" type="auto">S. Galli VIII. die Iunii, anno MDXLV.</s>
 					<s n="23" xml:lang="la" type="auto">Ioachimus Vadianus.</s>

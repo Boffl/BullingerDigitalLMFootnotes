@@ -2,7 +2,7 @@
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Hans Widenhuber / St. Gallen AN Heinrich Bullinger, 14. Mai 1545</title>
+				<title subtype="file">Hans Widenhuber / St. Gallen an Heinrich Bullinger, 14. Mai 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="de" type="auto">Mein freüntlich, willig dienst zů vor.</s>
 					<s n="2" xml:lang="de" type="auto">Besonders günstiger, lieber Herr.</s>
-					<s n="3" xml:lang="de" type="auto">Ich vernim, dass M: Cristoffel Froschouer mit dem werch, Nämlich des her Joann Stumpfen Chronic fürderlich arbaiten lass, wie ich von minem gfatter, M. Joann Friesen, vor etlichen ziten verstanden etc.</s>
+					<s n="3" xml:lang="de" type="auto">Ich vernim, dass M: <persName ref="p1227" cert="high">Cristoffel Froschouer</persName> mit dem werch, Nämlich des her <persName ref="p3067" cert="high">Joann Stumpfen</persName> Chronic fürderlich arbaiten lass, wie ich von minem gfatter, M. <persName ref="p1214" cert="high">Joann Friesen</persName>, vor etlichen ziten verstanden etc.</s>
 					<s n="4" xml:lang="de" type="auto">Nun hab ich ainen gůten gsellen, der hat Miner herren statt hie fleissig abgemalt oder Conterfeyt; der ist willens selbst gen Zürich, dann er dem formschnider gern selb stuck (so sunst nit gar bekantlich) wolt an zaigen, damit alle ding fleisig gemacht wurd.</s>
 					<s n="5" xml:lang="de" type="auto">So wird ich selbs ouch mit im kommen, dann er nun auff mich an zit har gewartet.</s>
 					<s n="6" xml:lang="de" type="auto">Das sol geschehen ietz (wils Gott) in 14 tagen oder 3 wuchen etc.</s>

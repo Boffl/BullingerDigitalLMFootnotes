@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11202" type="Brief" source="ET" n="283">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11202" type="Brief" source="ET-II" n="283">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Nicholas Eliott AN Heinrich Bullinger, 21. August 1538</title>
+				<title subtype="file">Nicholas Eliott an Heinrich Bullinger, 21. August 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

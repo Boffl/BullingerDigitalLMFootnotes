@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12394" type="Brief" source="HBBW" n="2347">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12394" type="Brief" source="HBBW-16" n="2347">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Wigand Happel / Marburg AN Heinrich Bullinger, 8. Februar 1546</title>
+				<title subtype="file">Wigand Happel / Marburg an Heinrich Bullinger, 8. Februar 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,14 +21,14 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="2" xml:lang="la" type="auto">Iuvenes<note xml:id="fn1" type="footnote" n="1">Die aus Zürich stammenden Studenten <persName>Heinrich Hindermann</persName>, <persName>Johannes Schmid (Fabricius Montanus)</persName>, <persName>Karl Schweninger</persName>, <persName>Hans Rudolf Funk</persName> und <persName>Wilhelm Meyer</persName> hatten sich am 21. September 1545 in <placeName>Marburg</placeName> immatrikuliert; s. <bibl>HBBW</bibl> XV 542f, Anm. 2.</note>, qui ecclesiae vestrae hic aliuntur subsidio, bene quidem se gerunt, diligenter literis operam navant, tam in moribus quam in literis multum sane proficiunt, adeo ut confidam cum laude et honore eos aliquando ad vos redituros esse, si quidem ita pergant, quemadmodum coeperunt, ut certe mihi magnam et certissimam spem faciunt.</s>
+					<s n="2" xml:lang="la" type="auto">Iuvenes, qui ecclesiae vestrae hic aliuntur subsidio, bene quidem se gerunt, diligenter literis operam navant, tam in moribus quam in literis multum sane proficiunt, adeo ut confidam cum laude et honore eos aliquando ad vos redituros esse, si quidem ita pergant, quemadmodum coeperunt, ut certe mihi magnam et certissimam spem faciunt.</s>
 					<s n="3" xml:lang="la" type="auto">Ex animo vobis consulo, ut patiamini illos et proxima aestate hic permanere, quo cęptis studiis foeliciter insistere queant, neque interrumpant cursum, ubi vixdum dimidiam itineris partem ad metam propositam decurrerint.</s>
 					<s n="4" xml:lang="la" type="auto">Quantum enim profuerit audivisse saltem aliquam dialectices partem, totam ne degustasse quidem recte unquam?</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="5" xml:lang="la" type="auto">Equidem crebrę mutationes locorum et peregrinationes non tam ingenium excolunt et erudiunt, quam loculos<note xml:id="fn2" type="footnote" n="2">loculus = "locellus", ein kleines Täschlein (hier: die Geldbörse); vgl. <hi><persName>Dasypodius</persName>,</hi> Dic. 116v.</note> exhausiunt, multorum oblivionem inducunt, quae magno antea labore didiceris.</s>
+					<s n="5" xml:lang="la" type="auto">Equidem crebrę mutationes locorum et peregrinationes non tam ingenium excolunt et erudiunt, quam loculos<note xml:id="fn2" type="footnote" n="2">loculus = "locellus", ein kleines Täschlein (hier: die Geldbörse); vgl. <hi><persName ref="p8320" cert="high">Dasypodius</persName>,</hi> Dic. 116v.</note> exhausiunt, multorum oblivionem inducunt, quae magno antea labore didiceris.</s>
 					<s n="6" xml:lang="la" type="auto">Mitto, quod prębeant occasionem multis periculis et malis, invitent ad ebrietatem, scortationem, colloquia prava auribus nostris et ori ingerant in hospitiis maxime publicis, ubi sepe confluunt feces et excrementa mundi.</s>
 					<s n="7" xml:lang="la" type="auto">Quid me lapidum et lignorum structurae erudirent?</s>
 					<s n="8" xml:lang="la" type="auto">Rerumpublicarum statuta, consuetudines, ritus, res gestas audire, legere, audire iuvat, sed hoc vix datur iis, qui toto decennio hęrent in civitate aliqua celebri.</s>
@@ -41,10 +41,10 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="14" xml:lang="la" type="auto">Quod ad me attinet, ago deo optumo maximo et habeo gratias maximas pro conditione professionis linguae sanctae,<note xml:id="fn4" type="footnote" n="4"><persName>Happel</persName> war seit 1545 Professor für Hebräisch an der Universität <placeName>Marburg</placeName>; s. <bibl>HBBW</bibl> XIII 155, Anm. 2.</note> qua me ornavit.</s>
+					<s n="14" xml:lang="la" type="auto">Quod ad me attinet, ago deo optumo maximo et habeo gratias maximas pro conditione professionis linguae sanctae,<note xml:id="fn4" type="footnote" n="4"><persName ref="p1456" cert="high">Happel</persName> war seit 1545 Professor für Hebräisch an der Universität <placeName ref="l311" cert="high">Marburg</placeName>; s. <bibl>HBBW</bibl> XIII 155, Anm. 2.</note> qua me ornavit.</s>
 					<s n="15" xml:lang="la" type="auto">Faxit idem, ut eam bene tuear ad gloriam nominis sui!</s>
 					<s n="16" xml:lang="la" type="manual">Amen.</s>
-					<s n="17" xml:lang="la" type="auto">18. ianuarii celebravi nuptias<pb type="scan" next="948"/> cum filia<persName>Ioannis Ferrarii</persName>, doctoris iuris, ac vicecancellarii huius universitatis:<pb type="edition" next="138"/> virgine honesta forma, insigni morum probitate et suavitate, eximia pudicitia et industria.</s>
+					<s n="17" xml:lang="la" type="auto">18. ianuarii celebravi nuptias<pb type="scan" next="948"/> cum filia<persName ref="p18103" cert="high">Ioannis Ferrarii</persName>, doctoris iuris, ac vicecancellarii huius universitatis:<pb type="edition" next="138"/> virgine honesta forma, insigni morum probitate et suavitate, eximia pudicitia et industria.</s>
 					<s n="18" xml:lang="la" type="auto">In dotem contulerunt parentes mei<note xml:id="fn7" type="footnote" n="7">Nicht ermittelt.</note> 400 aureos; tantundem a socero accepi praeter suppellectilem domesticam.</s>
 					<s n="19" xml:lang="la" type="auto">Invitati ad nuptias donaverunt nos ducentis septuaginta quinque fl. et uno argenteo poculo.</s>
 					<s n="20" xml:lang="la" type="auto">Optime mihi cum uxore convenit; existimo me commodiorem ad mores ingenium et res omnes meos non potuisse nancisci in patria nostra, vel etiam omnium, qui norunt et me et illam, iudicio.</s>
@@ -58,14 +58,14 @@
 					<s n="24" xml:lang="la" type="auto">Tum enim vel maxime orandum iudico, quando secundae res sunt nostrae ac serenę, ne in tempestatem aliquam incidant improvisam, et subito demergantur et concidant.</s>
 				</p>
 				<p>
-					<s n="25" xml:lang="la" type="auto">Bene vale et meo nomine diligenter salutes d. <persName>Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName>Theodor Bibliander</persName>.</note>, cui velim hasce meas ad te literas esse tem[pore] communes, ut certe debent esse omnia inter bonos et doctos viros.</s>
+					<s n="25" xml:lang="la" type="auto">Bene vale et meo nomine diligenter salutes d. <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>, cui velim hasce meas ad te literas esse tem[pore] communes, ut certe debent esse omnia inter bonos et doctos viros.</s>
 				</p>
 				<p>
-					<s n="26" xml:lang="la" type="auto">Datae <placeName>Marpurgi</placeName>, 8. februarii anno 1546.</s>
+					<s n="26" xml:lang="la" type="auto">Datae <placeName ref="l311" cert="high">Marpurgi</placeName>, 8. februarii anno 1546.</s>
 					<s n="27" xml:lang="la" type="auto">Tuae celsitudini addictissimus</s>
 				</p>
 				<p>
-					<s n="28" xml:lang="la" type="auto"><persName ref="p7618">Vigandus Happelius</persName>.</s>
+					<s n="28" xml:lang="la" type="auto"><persName ref="p1456" cert="high">Vigandus Happelius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>

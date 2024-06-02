@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11726" type="Brief" source="BBW" n="975">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11726" type="Brief" source="BBW-II" n="975">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) AN Heinrich Bullinger, nach 23. Oktober 1542</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) an Heinrich Bullinger, nach 23. Oktober 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,7 +16,7 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="manual">17. October in Antorff: 6. Octobris ist unser volck für <placeName>Dury</placeName> komen, 6 schütz thon, sprach gehalten, und nachdems durchs rathuß geschossen, ist concordiert und Dury uffgeben worden uff gnad und ungnad; habend muessen sechtzigtusend fl. geben, davon zehentusend gewendt sollen werden, die statt vest zů machen.</s>
+					<s n="1" xml:lang="de" type="manual">17. October in Antorff: 6. Octobris ist unser volck für <placeName ref="l1950" cert="high">Dury</placeName> komen, 6 schütz thon, sprach gehalten, und nachdems durchs rathuß geschossen, ist concordiert und Dury uffgeben worden uff gnad und ungnad; habend muessen sechtzigtusend fl. geben, davon zehentusend gewendt sollen werden, die statt vest zů machen.</s>
 					<s n="2" xml:lang="de" type="manual">7. Octobris sind die grossen Hansen mit 400 pferden hinin geritten, haben den rat abgesetzt, ouch jung und allt schweren muessen dem hertzog von Braband und kaisser, muessend ouch 200 knecht halten uff iren kosten; der schultbaiß ist gewichen.</s>
 				</p>
 				<p>
@@ -37,7 +37,7 @@
 				<p>
 					<s n="14" xml:lang="de" type="manual">So sagt man für war, delphin seye tod und der könig krank.</s>
 					<s n="15" xml:lang="de" type="manual">In Gulch sind 800 knecht und 300 pferdt; habend all dem kaiser schweren muessen; was aber für rüter daby sind gewesen, die mitt Martin von Rossa gewesen sind, denen wirts ubel gohn.</s>
-					<s n="16" xml:lang="de" type="manual">Es ist vyl gůts in Gülch gewesen, das von Franckfurt, Lypsig und <placeName>Augspurg</placeName> kommen; ist alles uffgehowen und pryßgemacht; die knecht haben gůt peut gehapt; ist zů besorgen, seye taler und silber daby gewesen.</s>
+					<s n="16" xml:lang="de" type="manual">Es ist vyl gůts in Gülch gewesen, das von <placeName ref="l157" cert="high">Franckfurt</placeName>, Lypsig und <placeName ref="l1976" cert="high">Augspurg</placeName> kommen; ist alles uffgehowen und pryßgemacht; die knecht haben gůt peut gehapt; ist zů besorgen, seye taler und silber daby gewesen.</s>
 					<s n="17" xml:lang="de" type="manual">Es sind yetzund die gellrischen stett hie in Antorff, handlen mitt der konigin; möcht noch vom frid ghandelt werden.</s>
 				</p>
 				<p>
@@ -50,7 +50,7 @@
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="auto">Nihil praeterea, mi Bullingere, licuit.</s>
-					<s n="23" xml:lang="la" type="auto">Scribo hic sanctissimo Pellicano nostro de Io(annis) Z(viccii) morte, quę ita me conficit, ut vitę pertęsus valde cupiam et ipse me carnis istius vinculis et mundi colluvione quam primum relaxare.</s>
+					<s n="23" xml:lang="la" type="auto">Scribo hic sanctissimo <persName ref="p8127" cert="high">Pellicano</persName> nostro de Io(annis) Z(viccii) morte, quę ita me conficit, ut vitę pertęsus valde cupiam et ipse me carnis istius vinculis et mundi colluvione quam primum relaxare.</s>
 					<s n="24" xml:lang="la" type="auto">Saluta, quam potes amanter, meis verbis Gualtherum, optimum amicum, cui utinam, quam volo, tam possem etiam temporis beneficio scribere.</s>
 				</p>
 			</div>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11628" type="Brief" source="CO" n="375">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11628" type="Brief" source="CO-XI" n="375">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Leo Jud, Kaspar Megander (Großmann), Erasmus Schmid (Fabricius), Konrad Pellikan (Kürschner), Theodor Bibliander (Buchmann), Heinrich Bullinger / Zürich AN Volk / [Neuenburg], 15. November 1541</title>
+				<title subtype="file">Leo Jud, Kaspar Megander (Großmann), Erasmus Schmid (Fabricius), Konrad Pellikan (Kürschner), Theodor Bibliander (Buchmann), Heinrich Bullinger / Zürich an Volk / [Neuenburg], 15. November 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -161,7 +161,7 @@
 					<s n="107" xml:lang="la" type="auto">Tiguri, 15. Novemb. anno Domini 1541.</s>
 				</p>
 				<p>
-					<s n="108" xml:lang="la" type="auto">Vestri amantissimi, studiosissimique Leo Iudae, Caspar Megander, <persName>Erasmus Fabritius</persName>, <persName>Conradus Pellicanus</persName>, Theodorus Bibliander, Heinrychus Bullingerus, ac reliqui ministri ecclesiae Tigurinae.</s>
+					<s n="108" xml:lang="la" type="auto">Vestri amantissimi, studiosissimique Leo Iudae, <persName ref="p8412" cert="high">Caspar Megander</persName>, <persName ref="p8437" cert="high">Erasmus Fabritius</persName>, <persName ref="p8127" cert="high">Conradus Pellicanus</persName>, <persName ref="p8171" cert="high">Theodorus Bibliander</persName>, Heinrychus Bullingerus, ac reliqui ministri ecclesiae Tigurinae.</s>
 				</p>
 				<p>
 					<s n="109" xml:lang="la" type="auto">Fidelissimis ecclesiarum ministris, Praefecto, Senatui utrique totique populo apud Neocomum fratribus ac Dominis carissimis colendissimisque.</s>

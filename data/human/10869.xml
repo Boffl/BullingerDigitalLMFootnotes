@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10869" type="Brief" source="HBBW" n="830">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10869" type="Brief" source="HBBW-6" n="830">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Bartholomäus Bertlin] / [Waltenhofen] AN Heinrich Bullinger, 25. Mai 1536</title>
+				<title subtype="file">[Bartholomäus Bertlin] / [Waltenhofen] an Heinrich Bullinger, 25. Mai 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

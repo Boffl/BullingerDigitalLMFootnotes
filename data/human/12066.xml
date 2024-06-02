@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12066" type="Brief" source="GR" n="55">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12066" type="Brief" source="GR-I" n="55">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Camillo Renato / Caspano AN Heinrich Bullinger, 22. Oktober 1544</title>
+				<title subtype="file">Camillo Renato / Caspano an Heinrich Bullinger, 22. Oktober 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

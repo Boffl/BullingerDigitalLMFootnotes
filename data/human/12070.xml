@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12070" type="Brief" source="CO" n="580">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12070" type="Brief" source="CO-XI" n="580">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Guillaume Farel] / [Neuenburg] AN Heinrich Bullinger, [um 28. Oktober 1544]</title>
+				<title subtype="file">[Guillaume Farel] / [Neuenburg] an Heinrich Bullinger, [um 28. Oktober 1544]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

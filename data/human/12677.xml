@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12677" type="Brief" source="HBBW" n="2630">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12677" type="Brief" source="HBBW-18" n="2630">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 17. Oktober 1546</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 17. Oktober 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,51 +18,51 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Huc tu me adduxisti diligenter et frequenter scribendo in temporum hac miseria, ut non credam (nisi tuis), etiamsi certa sunt, <ptr target="fnc" type="footnote" n="c"/>quae scribuntur aut referuntur.</s>
-					<s n="3" xml:lang="la" type="auto">Miror itaque, qui fiat, ut mala, quę feruntur de sale infecto deque <placeName>Werda</placeName> occupata<note xml:id="fn2" type="footnote" n="2"><placeName>Donauwörth</placeName>, welches am 9. Oktober von den kaiserlichen Truppen eingenommen worden war; s. <ref target="file12666">Nr. 2619</ref>, Anm. 2.</note>, non significaris, nam scio quidem utrumque<note xml:id="fn3" type="footnote" n="3">die beiden Gerüchte.</note> esse <pb type="edition" next="148"/> nonnihil; veritatem vero nescio.</s>
+					<s n="3" xml:lang="la" type="auto">Miror itaque, qui fiat, ut mala, quę feruntur de sale infecto deque <placeName ref="l119" cert="high">Werda</placeName> occupata<note xml:id="fn2" type="footnote" n="2"><placeName ref="l119" cert="high">Donauwörth</placeName>, welches am 9. Oktober von den kaiserlichen Truppen eingenommen worden war; s. <ref target="file12666">Nr. 2619</ref>, Anm. 2.</note>, non significaris, nam scio quidem utrumque<note xml:id="fn3" type="footnote" n="3">die beiden Gerüchte.</note> esse <pb type="edition" next="148"/> nonnihil; veritatem vero nescio.</s>
 					<s n="4" xml:lang="la" type="auto">Nam dum varie narrantur, ego suspendor dubius.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="5" xml:lang="la" type="auto">Fuit hic <placeName>Italus</placeName> nobis notissimus, qui libros fert ex Germania in <placeName>Italiam</placeName>.</s>
-					<s n="6" xml:lang="la" type="auto">Is narravit occurrisse in itinere ad nos legatum, qui esset <placeName>Lucernanus</placeName>, ad papam<note xml:id="fn6" type="footnote" n="6"><persName>Paul III.</persName></note> iturus, ut Quinquepaganos<note xml:id="fn7" type="footnote" n="7">Wortspiel zwischen "pagus" (Orte) und "paganus" ("heidnisch"); vgl. auch die aus <hi>Kessler, Sabbata</hi> zitierte Stelle in <bibl>HBBW</bibl> XVII 344f, Anm. 40. -Ansonsten werden <placeName>die Fünf Orte</placeName> als "Quinquepagici" bezeichnet.</note> defendat, quod hoc tempore non profecti sint ad cęsarem<note xml:id="fn8" type="footnote" n="8"><persName>Karl V.</persName></note>; nam ita circumvallatos esse hęreticis, ut ex patria tuto exire non licuerit.</s>
-					<s n="7" xml:lang="la" type="auto">Ex descriptione visus est mihi <persName>Nicolaus a Meggen</persName>, signifer civitatis <placeName>Lucernanę</placeName>.</s>
+					<s n="5" xml:lang="la" type="auto">Fuit hic <placeName ref="l16" cert="high">Italus</placeName><note xml:id="fn4" type="footnote" n="4">Unbekannt.</note> nobis notissimus, qui libros fert ex Germania in <placeName ref="l16" cert="high">Italiam</placeName>.</s>
+					<s n="6" xml:lang="la" type="auto">Is narravit occurrisse in itinere ad nos legatum, qui esset <placeName ref="l300" cert="high">Lucernanus</placeName>, ad <persName ref="19981" type="auto_name">papam</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p19981" cert="high">Paul III.</persName></note> iturus, ut Quinquepaganos<note xml:id="fn7" type="footnote" n="7">Wortspiel zwischen "pagus" (Orte) und "paganus" ("heidnisch"); vgl. auch die aus <hi>Kessler, Sabbata</hi> zitierte Stelle in <bibl>HBBW</bibl> XVII 344f, Anm. 40. -Ansonsten werden <placeName ref="l2448" cert="high">die Fünf Orte</placeName> als "Quinquepagici" bezeichnet.</note> defendat, quod hoc tempore non profecti sint ad cęsarem<note xml:id="fn8" type="footnote" n="8"><persName ref="p18538" cert="high">Karl V.</persName></note>; nam ita circumvallatos esse hęreticis, ut ex patria tuto exire non licuerit.</s>
+					<s n="7" xml:lang="la" type="auto">Ex descriptione visus est mihi <persName ref="p7666" cert="high">Nicolaus a Meggen</persName>, signifer civitatis <placeName ref="l300" cert="high">Lucernanę</placeName>.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="la" type="auto">Idem: Finem habent nunc inducię cum Turca.<note xml:id="fn9" type="footnote" n="9"><persName>Sultan Suleiman I.</persName> - Zu den Friedensabkommen zwischen dem Reich und den Osmanen, für die <persName>Myconius</persName> stets großes Interesse bekundete, s. zuletzt <bibl>HBBW</bibl> XV 674 mit Anm. 33; 678.</note></s>
-					<s n="9" xml:lang="la" type="auto">Is habuit legationes duas apud <placeName>Venetos</placeName>, sed quid egerint, non potuit cognoscere.</s>
-					<s n="10" xml:lang="la" type="auto">Illud tandem intellexit: Per occasionem illum petiturum <placeName>Siciliam</placeName>.</s>
+					<s n="8" xml:lang="la" type="auto">Idem: Finem habent nunc inducię cum Turca.<note xml:id="fn9" type="footnote" n="9"><persName ref="p18593" cert="high">Sultan Suleiman I.</persName> - Zu den Friedensabkommen zwischen dem Reich und den Osmanen, für die <persName ref="p8418" cert="high">Myconius</persName> stets großes Interesse bekundete, s. zuletzt <bibl>HBBW</bibl> XV 674 mit Anm. 33; 678.</note></s>
+					<s n="9" xml:lang="la" type="auto">Is habuit legationes duas apud <placeName ref="l522" cert="high">Venetos</placeName>, sed quid egerint, non potuit cognoscere.</s>
+					<s n="10" xml:lang="la" type="auto">Illud tandem intellexit: Per occasionem illum petiturum <placeName ref="l5" cert="high">Siciliam</placeName>.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="11" xml:lang="la" type="auto"><persName ref="p18518">Gastius</persName> habet libellum de tyrannide, qua utitur cęsar in <placeName>Inferiore Germania</placeName> ut <placeName>Antverpię</placeName> et alibi.</s>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p1278" cert="high">Gastius</persName> habet libellum de tyrannide, qua utitur cęsar in <placeName ref="l20" cert="high">Inferiore Germania</placeName> ut <placeName ref="l15" cert="high">Antverpię</placeName> et alibi.</s>
 					<s n="12" xml:lang="la" type="auto">Nihil tale auditum est unquam.</s>
 					<s n="13" xml:lang="la" type="auto">Libellum mittet nimirum.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="14" xml:lang="la" type="auto"><persName>Hallerus</persName> scripsit ex <placeName>Augusta</placeName>.<note xml:id="fn11" type="footnote" n="11">Unbekannter Brief.</note></s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p8018" cert="high">Hallerus</persName> scripsit ex <placeName ref="l1976" cert="high">Augusta</placeName>.<note xml:id="fn11" type="footnote" n="11">Unbekannter Brief.</note></s>
 					<s n="15" xml:lang="la" type="auto">Petit inter cętera, ut aliquid scribam novi.</s>
 					<s n="16" xml:lang="la" type="auto">In tempore tristissimo subrisi, dum petit ad me, quorum copiam ab ipso expectaram.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="17" xml:lang="la" type="auto">Abbas<note xml:id="fn12" type="footnote" n="12">Nicht ermittelt.</note> non longe a Mechlinia<note xml:id="fn13" type="footnote" n="13"><placeName>Mechelen</placeName> (Prov. <placeName>Antwerpen</placeName>, B).</note>, attamen alterius civitatis, promisit cęsari 50000 gl.</s>
+					<s n="17" xml:lang="la" type="auto">Abbas<note xml:id="fn12" type="footnote" n="12">Nicht ermittelt.</note> non longe a Mechlinia<note xml:id="fn13" type="footnote" n="13"><placeName ref="l2306" cert="high">Mechelen</placeName> (Prov. <placeName ref="l15" cert="high">Antwerpen</placeName>, B).</note>, attamen alterius civitatis, promisit cęsari 50000 gl.</s>
 					<s n="18" xml:lang="la" type="auto">Iam petit 100000.</s>
-					<s n="19" xml:lang="la" type="auto">Civitas rescivit et pecuniam numeratam retinuit, dimittensque nuncium iniunxit, ne redeat, ne velit suspendi.<pb type="edition" next="149"/></s>
+					<s n="19" xml:lang="la" type="auto">Civitas rescivit et pecuniam numeratam retinuit, dimittensque nuncium<note xml:id="fn14" type="footnote" n="14">Unbekannt.</note> iniunxit, ne redeat, ne velit suspendi.<pb type="edition" next="149"/></s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="20" xml:lang="la" type="auto">Vale in Christo cum tuis, <persName>Pellicano</persName> et <persName>Theodoro</persName><note xml:id="fn15" type="footnote" n="15"><persName>Theodor Bibliander</persName>.</note>, <persName>Myconii</persName> neglectore!</s>
-					<s n="21" xml:lang="la" type="auto"><persName>Gvaltherus</persName> valeat!</s>
-					<s n="22" xml:lang="la" type="auto"><placeName>Basileę</placeName> raptim, 17. octobris anno 1546.</s>
-					<s n="23" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+					<s n="20" xml:lang="la" type="auto">Vale in Christo cum tuis, <persName ref="p8127" cert="high">Pellicano</persName> et <persName ref="p8171" cert="high">Theodoro</persName><note xml:id="fn15" type="footnote" n="15"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>, <persName ref="p8418" cert="high">Myconii</persName> neglectore!</s>
+					<s n="21" xml:lang="la" type="auto"><persName ref="p8011" cert="high">Gvaltherus</persName> valeat!</s>
+					<s n="22" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName> raptim, 17. octobris anno 1546.</s>
+					<s n="23" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Os. Myconius</persName>.</s>
 					<note type="address">[Adresse unlesbar]</note>
 				</p>
 			</div>

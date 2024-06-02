@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12257" type="Brief" source="HBBW" n="2210">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12257" type="Brief" source="HBBW-15" n="2210">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 10. August 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Ambrosius Blarer (Blaurer), 10. August 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,13 +16,13 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
-					<s n="2" xml:lang="la" type="auto">Cum nihil, quod scriberem, haberem, vir amantissime, hoc unicum tamen unice a te impetratum cupio, ut praeceptorem et fratrem nostrum colendissimum <persName>Theodorum</persName><note xml:id="fn1" type="footnote" n="1"><persName>Theodor Bibliander</persName>.</note> amice excipias commendatumque habeas.</s>
+					<s n="2" xml:lang="la" type="auto">Cum nihil, quod scriberem, haberem, vir amantissime, hoc unicum tamen unice a te impetratum cupio, ut praeceptorem et fratrem nostrum colendissimum <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> amice excipias commendatumque habeas.</s>
 				</p>
 				<p>
 					<s n="3" xml:lang="la" type="auto">Res nostras ex ipso omnes audies.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">Si quid certi habes de comitiorum<note xml:id="fn3" type="footnote" n="3">Der Reichstag zu <placeName>Worms</placeName>, der am 4. August beendet worden war; s. oben <ref target="file12232">Nr. 2185</ref>, Anm. 17.</note> exitu et d. <persName ref="p18889">Luthero</persName>, significa, quaeso.</s>
+					<s n="4" xml:lang="la" type="auto">Si quid certi habes de comitiorum<note xml:id="fn3" type="footnote" n="3">Der Reichstag zu <placeName ref="l569" cert="high">Worms</placeName>, der am 4. August beendet worden war; s. oben <ref target="file12232">Nr. 2185</ref>, Anm. 17.</note> exitu et d. <persName ref="p1974" cert="high">Luthero</persName>, significa, quaeso.</s>
 					<s n="5" xml:lang="la" type="auto">Vale.</s>
 					<s n="6" xml:lang="la" type="auto">Tiguri, 10. augusti 1545.</s>
 				</p>
@@ -31,8 +31,8 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="la" type="auto">Clarissimo viro d. <persName>Ambrosio Blaurero</persName>, colendissimo domino suo.</s>
-					<s n="9" xml:lang="la" type="auto"><placeName>Constantz</placeName>.</s>
+					<s n="8" xml:lang="la" type="auto">Clarissimo viro d. <persName ref="p8055" cert="high">Ambrosio Blaurero</persName>, colendissimo domino suo.</s>
+					<s n="9" xml:lang="la" type="auto"><placeName ref="l457" cert="high">Constantz</placeName>.</s>
 				</p>
 			</div>
 		</body>

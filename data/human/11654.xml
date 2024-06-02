@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11654" type="Brief" source="GR" n="32">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11654" type="Brief" source="GR-I" n="32">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 6. März 1542</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 6. März 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

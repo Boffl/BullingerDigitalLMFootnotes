@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12082" type="Brief" source="CO" n="586">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12082" type="Brief" source="CO-XI" n="586">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, [15. November 1544]</title>
+				<title subtype="file">Johannes Calvin / Genf an Heinrich Bullinger, [15. November 1544]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

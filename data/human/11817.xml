@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11817" type="Brief" source="CR" n="1267">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11817" type="Brief" source="CR-8" n="1267">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Bartolomeo Del Prato / Venedig AN Heinrich Bullinger, 11. August 1543</title>
+				<title subtype="file">Bartolomeo Del Prato / Venedig an Heinrich Bullinger, 11. August 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

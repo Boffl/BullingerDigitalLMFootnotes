@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10909" type="Brief" source="HBBW" n="869">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10909" type="Brief" source="HBBW-6" n="869">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 28. Juli 1536</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Oswald Myconius (Geißhüsler), 28. Juli 1536</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -23,53 +23,53 @@
 					<s n="3" xml:lang="la" type="auto">Verum nunc mitto.</s>
 				</p>
 				<p>
-					<s n="4" xml:lang="la" type="auto">Placent, imo perplacent, quae respondistis super confessione Saxonica senatui<note xml:id="fn2" type="footnote" n="2"><persName>Myconius</persName> und <persName>Grynäus</persName> hatten den Dreizehn ein ablehnendes Gutachten zur <placeName>Wittenberger</placeName> Konkordie (vgl. Anm. 3) vorgelegt; s. oben <ref target="file10906">Nr. 866</ref>, 25-29 mit Anm. 14.</note>.</s>
-					<s n="5" xml:lang="la" type="manual">Nolumus subscribere nos neque conscriptioni <placeName>Wittembergensi</placeName> neque confessioni Saxonicae<note xml:id="fn3" type="footnote" n="3"><persName>Myconius</persName> verwendet die Bezeichnung "sächsische Konfession" auch für die <placeName>Wittenberger</placeName> Konkordie, während Bullinger darunter die <placeName>Confessio Augustana</placeName> versteht; vgl. oben <ref target="file10903">Nr. 863</ref>, Anm. 1.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Placent, imo perplacent, quae respondistis super confessione Saxonica senatui<note xml:id="fn2" type="footnote" n="2"><persName ref="p8418" cert="high">Myconius</persName> und <persName ref="p1365" cert="high">Grynäus</persName> hatten den Dreizehn ein ablehnendes Gutachten zur <placeName ref="l558" cert="high">Wittenberger</placeName> Konkordie (vgl. Anm. 3) vorgelegt; s. oben <ref target="file10906">Nr. 866</ref>, 25-29 mit Anm. 14.</note>.</s>
+					<s n="5" xml:lang="la" type="manual">Nolumus subscribere nos neque conscriptioni <placeName ref="l558" cert="high">Wittembergensi</placeName> neque confessioni Saxonicae<note xml:id="fn3" type="footnote" n="3"><persName ref="p8418" cert="high">Myconius</persName> verwendet die Bezeichnung "sächsische Konfession" auch für die <placeName ref="l558" cert="high">Wittenberger</placeName> Konkordie, während Bullinger darunter die <placeName ref="l1976" cert="high">Confessio Augustana</placeName> versteht; vgl. oben <ref target="file10903">Nr. 863</ref>, Anm. 1.</note>.</s>
 					<s n="6" xml:lang="la" type="auto">Responsionem vestram remitto et gratia[s] ago.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Inter caetera scribis<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file10906">Nr. 866</ref>, 34f.</note>: "Tum et de conventu communi erit consultatio."</s>
-					<s n="8" xml:lang="la" type="manual">Scias igitur, venerande mi <persName>Myconi</persName>, nos posthac in nullum venturos conventum.</s>
-					<s n="9" xml:lang="la" type="auto">Semel convenimus <placeName>Basileae</placeName>, semel confessi sumus<note xml:id="fn5" type="footnote" n="5">Zum Ersten Helvetischen Bekenntnis s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1.</note>.</s>
+					<s n="8" xml:lang="la" type="manual">Scias igitur, venerande mi <persName ref="p8418" cert="high">Myconi</persName>, nos posthac in nullum venturos conventum.</s>
+					<s n="9" xml:lang="la" type="auto">Semel convenimus <placeName ref="l28" cert="high">Basileae</placeName>, semel confessi sumus<note xml:id="fn5" type="footnote" n="5">Zum Ersten Helvetischen Bekenntnis s. oben <ref target="file10775">Nr. 737</ref>, Anm. 1.</note>.</s>
 					<s n="10" xml:lang="la" type="auto">Nihil causae est, cur conveniamus amplius, nisi in confessa veritate perseverare nolimus.</s>
 					<s n="11" xml:lang="la" type="auto">Quid sollicitamur ac te[n]tamur toties?</s>
-					<s n="12" xml:lang="de" type="auto">Kurtz dannen: Ee wil ich di[e] ein mol gestellt confession hälffend scherppff[en] dann miltern.</s>
-					<s n="13" xml:lang="de" type="auto">Was tript man hür und fer[n] mit unß?</s>
-					<s n="14" xml:lang="la" type="auto">Si <persName ref="p18889">Lutherus</persName> cum suis nostram ferre potest confessionem, gratias ago deo.</s>
+					<s n="12" xml:lang="de" type="auto">Kurtz dannen<note xml:id="fn6" type="footnote" n="6">kurzweg (<bibl>SI</bibl> XIII 96).</note>: Ee<note xml:id="fn7" type="footnote" n="7">eher.</note> wil ich di[e] ein mol gestellt confession hälffend scherppff[en] dann miltern.</s>
+					<s n="13" xml:lang="de" type="auto">Was tript man hür und fer[n]<note xml:id="fn8" type="footnote" n="8">treibt man immerzu (<bibl>SI</bibl> II 1585).</note> mit unß?</s>
+					<s n="14" xml:lang="la" type="auto">Si <persName ref="p1974" cert="high">Lutherus</persName> cum suis nostram ferre potest confessionem, gratias ago deo.</s>
 					<s n="15" xml:lang="la" type="auto">Si non potest, nobis de confessione vel tantillum mutare non erit integrum, nisi erroris prius convicerin[t].</s>
-					<s n="16" xml:lang="la" type="manual">Subscripserunt <placeName>Argentoratenses</placeName> sancte pollic[i]ti posthac se contra hanc confessionem nil daturos, sine nobis<pb type="edition" next="375"/> acturos nihil<note xml:id="fn9" type="footnote" n="9">Im Abschied vom 4. Februar ist nur festgehalten, Dass keine eidgenössische Stadt ohne Vorwissen der anderen etwas am gemeinsamen Bekenntnis ändern oder dieses drucken lassen dürfe (<bibl>EA</bibl> IV/1c 617 c; vgl. <hi>Köhler,</hi> ZL II 460).</note>.</s>
+					<s n="16" xml:lang="la" type="manual">Subscripserunt <placeName ref="l492" cert="high">Argentoratenses</placeName> sancte pollic[i]ti posthac se contra hanc confessionem nil daturos, sine nobis<pb type="edition" next="375"/> acturos nihil<note xml:id="fn9" type="footnote" n="9">Im Abschied vom 4. Februar ist nur festgehalten, Dass keine eidgenössische Stadt ohne Vorwissen der anderen etwas am gemeinsamen Bekenntnis ändern oder dieses drucken lassen dürfe (<bibl>EA</bibl> IV/1c 617 c; vgl. <hi>Köhler,</hi> ZL II 460).</note>.</s>
 					<s n="17" xml:lang="la" type="auto">Expecto eventum rei.</s>
 					<s n="18" xml:lang="la" type="auto">Non est, quod illi aliud [ex]pectent de nobis; quod semel sumus confessi, confitemur hodie quoque.</s>
 					<s n="19" xml:lang="la" type="auto">Quid quaerunt amplius?</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">Vale, mi charissime frater, una cum <persName>Gryneo</persName>, domino observando.</s>
+					<s n="20" xml:lang="la" type="auto">Vale, mi charissime frater, una cum <persName ref="p1365" cert="high">Gryneo</persName>, domino observando.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Onoffrius Setzstabius urbe el[ap]sus clanculo militiam ingressus est mercen[na]riam<note xml:id="fn10" type="footnote" n="10">Wegen des unerlaubten Solddienstes für <placeName>Frankreich</placeName> wurde <persName>Setzstab</persName>, wie aus einem Begnadigungsgesuch der X Orte vom 16. April 1540 (Zürich StA, A 26. 2, Nr. 72) hervorgeht, des Landes verwiesen; vgl. Georg <hi>Gerig,</hi> Reisläufer und Pensionenherren in Zürich 1519-1532, Zürich 1947. - <placeName>Schweizer</placeName> Studien zur Geschichtswissenschaft, NF 12, S. 113.</note>.</s>
-					<s n="22" xml:lang="la" type="auto">Svitii et Togeni tribus, ut aiunt, sign[is] ad Gallum<note xml:id="fn11" type="footnote" n="11"><persName>König Franz I.</persName></note> profecti sunt.</s>
-					<s n="23" xml:lang="la" type="auto">Profecturos aiunt e[t]<placeName>Lucernates</placeName>.</s>
+					<s n="21" xml:lang="la" type="auto">Onoffrius Setzstabius urbe el[ap]sus clanculo militiam ingressus est mercen[na]riam.</s>
+					<s n="22" xml:lang="la" type="auto">Svitii et Togeni tribus, ut aiunt, sign[is] ad <persName ref="7637" type="auto_name">Gallum</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p7637" cert="high">König Franz I.</persName></note> profecti sunt.</s>
+					<s n="23" xml:lang="la" type="auto">Profecturos aiunt e[t]<placeName ref="l300" cert="high">Lucernates</placeName>.</s>
 					<s n="24" xml:lang="la" type="auto">Nostri perpetuo sui similes perseverant nec ullius se partibus iungunt.</s>
 				</p>
 				<p>
-					<s n="25" xml:lang="la" type="auto">Abbas<pb type="scan" next="||69"/>Sangallensis<note xml:id="fn12" type="footnote" n="12"><persName>[Diethelm] Blarer von Wartensee</persName>.</note> comitatus legatis <placeName>Lucernatum</placeName> et Schviciorum in senatum nostrum ingressus petiit quaedam contra Doggios<note xml:id="fn13" type="footnote" n="13">Zu den Verhandlungen über den Loskauf des <placeName>Toggenburgs</placeName> s. oben <ref target="file10905">Nr. 865</ref>, 5-10, und 868, 2-12.</note>, sed nihil impetravit.</s>
-					<s n="26" xml:lang="la" type="auto">Nostri <persName ref="p6155">Lavaterum</persName> miserunt ad Doggios; huius expectamus reditum.</s>
-					<s n="27" xml:lang="de" type="auto">Er, der apt, näm inen gern den kouff wider und brächt sy widerumb an das klotzhuss.</s>
+					<s n="25" xml:lang="la" type="auto">Abbas<pb type="scan" next="||69"/><persName ref="8179" type="auto_name">Sangallensis</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p8179" cert="high">[Diethelm] Blarer von Wartensee</persName>.</note> comitatus legatis <placeName ref="l300" cert="high">Lucernatum</placeName> et Schviciorum in senatum nostrum ingressus petiit quaedam contra Doggios<note xml:id="fn13" type="footnote" n="13">Zu den Verhandlungen über den Loskauf des <placeName ref="l90" cert="high">Toggenburgs</placeName> s. oben <ref target="file10905">Nr. 865</ref>, 5-10, und 868, 2-12.</note>, sed nihil impetravit.</s>
+					<s n="26" xml:lang="la" type="auto">Nostri <persName ref="p1888" cert="high">Lavaterum</persName> miserunt ad Doggios; huius expectamus reditum.</s>
+					<s n="27" xml:lang="de" type="auto">Er, der apt, näm inen gern den kouff wider und brächt sy widerumb an das klotzhuss<note xml:id="fn14" type="footnote" n="14">Die verächtliche Bezeichnung eines Klosters abs Klotz- oder Kotzhaus (statt: Gotteshaus) spielt auf die Völlerei der Mönche an; s. <bibl>SI</bibl> II 1715f.</note>.</s>
 					<s n="28" xml:lang="la" type="auto">Nos pro publica contione monacho detraximus leoninum<note xml:id="fn15" type="footnote" n="15">Bullinger scheint auf die Fabel vom Esel in der Löwenhaut anzuspielen; vgl. <bibl>Röhrich</bibl> I 242.</note>.</s>
-					<s n="29" xml:lang="la" type="auto">Adortus est illum et <persName>Pellicanus</persName> in diversorio monens, ut resipiscat; sed contempsit Antronius<note xml:id="fn16" type="footnote" n="16">Abschätzige Bezeichnung für den Abt; vgl. <bibl>HBBW</bibl> II <ref target="file10110">[Nr. 81]</ref>, S. 88, Anm. 3; 263, Anm. 6.</note>.</s>
+					<s n="29" xml:lang="la" type="auto">Adortus est illum et <persName ref="p8127" cert="high">Pellicanus</persName> in diversorio monens, ut resipiscat; sed contempsit Antronius<note xml:id="fn16" type="footnote" n="16">Abschätzige Bezeichnung für den Abt; vgl. <bibl>HBBW</bibl> II <ref target="file10110">[Nr. 81]</ref>, S. 88, Anm. 3; 263, Anm. 6.</note>.</s>
 				</p>
 				<p>
 					<s n="30" xml:lang="la" type="auto">Vale.</s>
 					<s n="31" xml:lang="la" type="auto">Plura iam non sinunt occupationes.</s>
 				</p>
 				<p>
-					<s n="32" xml:lang="la" type="auto">Responde mihi ad hanc quaestionem, obsecro<note xml:id="fn17" type="footnote" n="17"><persName>Myconius</persName>' Antwort ist nicht überliefert.</note>:</s> 
-					<s n="33" xml:lang="de" type="manual">Ob man by üch zuͦliesse, das ein keybenschynder oder hänckersbuͦb oder sust ein unerliche person einem frommen burger sin dochter zuͦ der ee näme?</s>
-					<s n="34" xml:lang="de" type="auto">By unß ist sömlichs beschähen; hatt deß <persName>Heytzen</persName><note xml:id="fn23" type="footnote" n="23"><persName>Heitz (Heinz, Heinrich) Großholz</persName>; vgl. Wilhelm Heinrich <hi>Ruoff,</hi> Von ehrlichen und unehrlichen Berufen, besonders vom Scharfrichter und Wasenmeister im alten Zürich, in: Zürcher Taschenbuch 54, 1934, S. 28 (Anm. 7) und 34.</note> sun einem sin dochter genommen und sy inn.</s>
+					<s n="32" xml:lang="la" type="auto">Responde mihi ad hanc quaestionem, obsecro<note xml:id="fn17" type="footnote" n="17"><persName ref="p8418" cert="high">Myconius</persName>' Antwort ist nicht überliefert.</note>:</s> 
+					<s n="33" xml:lang="de" type="manual">Ob man by üch zuͦliesse, das ein keybenschynder<note xml:id="fn18" type="footnote" n="18">Wasenmeister, Abdecker (<bibl>SI</bibl> VIII 914f).</note> oder hänckersbuͦb<note xml:id="fn19" type="footnote" n="19">Henkersknecht (<bibl>SI</bibl> IV 932).</note> oder sust ein unerliche<note xml:id="fn20" type="footnote" n="20">unehrenhafte (<bibl>SI</bibl> I 395).</note> person einem frommen<note xml:id="fn21" type="footnote" n="21">ehrenwerten (<bibl>SI</bibl> I 1295).</note> burger sin dochter zuͦ der ee näme?</s>
+					<s n="34" xml:lang="de" type="auto">By unß ist sömlichs beschähen; hatt deß <persName ref="p5032" cert="high">Heytzen</persName><note xml:id="fn23" type="footnote" n="23"><persName ref="p5032" cert="high">Heitz (Heinz, Heinrich) Großholz</persName>; vgl. Wilhelm Heinrich <hi>Ruoff,</hi> Von ehrlichen und unehrlichen Berufen, besonders vom Scharfrichter und Wasenmeister im alten Zürich, in: Zürcher Taschenbuch 54, 1934, S. 28 (Anm. 7) und 34.</note> sun einem sin dochter genommen und sy inn.</s>
 				</p>
 				<p>
-					<s n="35" xml:lang="de" type="auto"><pb type="edition" next="376"/>Der vatter<note xml:id="fn24" type="footnote" n="24"><persName>Konrad Hottinger</persName>.</note> ist allt; hatt gemeindt, es muͤsse sin.</s>
-					<s n="36" xml:lang="de" type="auto">Allß er aber underrycht, hatt er sich mitt der früntschafft darwider gestellt, und sind geteylt<note xml:id="fn26" type="footnote" n="26">getrennt worden.</note>.</s>
+					<s n="35" xml:lang="de" type="auto"><pb type="edition" next="376"/>Der vatter<note xml:id="fn24" type="footnote" n="24"><persName ref="p5297" cert="high">Konrad Hottinger</persName>.</note> ist allt; hatt gemeindt, es muͤsse sin.</s>
+					<s n="36" xml:lang="de" type="auto">Allß er aber underrycht, hatt er sich mitt der früntschafft<note xml:id="fn25" type="footnote" n="25">Verwandtschaft.</note> darwider gestellt, und sind geteylt<note xml:id="fn26" type="footnote" n="26">getrennt worden.</note>.</s>
 					<s n="37" xml:lang="de" type="auto">Dann noch sy nitt zamen gäben noch bygelägen.</s>
 				</p>
 				<p>
@@ -80,7 +80,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>
-					<s n="40" xml:lang="la" type="auto">Optimo viro d. <persName>Osvaldo Myconio</persName>, charissimo fratri.</s>
+					<s n="40" xml:lang="la" type="auto">Optimo viro d. <persName ref="p8418" cert="high">Osvaldo Myconio</persName>, charissimo fratri.</s>
 					<s n="41" xml:lang="la" type="auto">B[asileae].</s>
 				</p>
 			</div>

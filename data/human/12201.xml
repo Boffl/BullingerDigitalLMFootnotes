@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12201" type="Brief" source="VBS" n="86">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12201" type="Brief" source="VBS-7" n="86">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger AN Joachim Vadian (von Watt), um den 10. Mai 1545</title>
+				<title subtype="file">Heinrich Bullinger an Joachim Vadian (von Watt), um den 10. Mai 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

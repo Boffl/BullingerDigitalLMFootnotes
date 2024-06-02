@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10591" type="Brief" source="HBBW" n="555">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10591" type="Brief" source="HBBW-5" n="555">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Berchtold Haller / [Bern] AN Heinrich Bullinger, 16. März 1535</title>
+				<title subtype="file">Berchtold Haller / [Bern] an Heinrich Bullinger, 16. März 1535</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,25 +17,25 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Tametsi nuncius ille suum maturarit abitum, charissime Heinrice, tamen propter fidem illius erga utrunque nolui, ut vacuus veniret.</s>
-					<s n="3" xml:lang="la" type="auto">Accaepi per legatos vestros<note xml:id="fn2" type="footnote" n="2">Die Zürcher Gesandten <persName>Johannes Haab</persName> und <persName>Heinrich Rahn</persName> verhandelten am 16./17. März 1535 mit <placeName>Bern</placeName> über die <placeName>Genfer</placeName> Angelegenheit, vgl. <bibl>EA</bibl> IV/1c 479f.</note> epistolam tuam 11. martii datam<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note>, qua intellexi meas<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file10584">Nr. 548</ref>.</note> vos omnes nondum accepisse.</s>
+					<s n="2" xml:lang="la" type="auto">Tametsi nuncius ille<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note> suum maturarit abitum, charissime Heinrice, tamen propter fidem illius erga utrunque nolui, ut vacuus veniret.</s>
+					<s n="3" xml:lang="la" type="auto">Accaepi per legatos vestros<note xml:id="fn2" type="footnote" n="2">Die Zürcher Gesandten <persName ref="p1419" cert="high">Johannes Haab</persName> und <persName ref="p6157" cert="high">Heinrich Rahn</persName> verhandelten am 16./17. März 1535 mit <placeName ref="l41" cert="high">Bern</placeName> über die <placeName ref="l167" cert="high">Genfer</placeName> Angelegenheit, vgl. <bibl>EA</bibl> IV/1c 479f.</note> epistolam tuam 11. martii datam<note xml:id="fn3" type="footnote" n="3">Nicht erhalten.</note>, qua intellexi meas<note xml:id="fn4" type="footnote" n="4">Oben <ref target="file10584">Nr. 548</ref>.</note> vos omnes nondum accepisse.</s>
 					<s n="4" xml:lang="la" type="auto">Nunc vero, cum procul dubio omnia acceperis, referet mercator mihi a te responsum; sin minus, fiat id per alterum<note xml:id="fn5" type="footnote" n="5">Die beiden nicht näher bekannten Boten sind bereits oben <ref target="file10585">Nr. 549</ref>, 35-37 genannt.</note>.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="la" type="auto">Quod ad bombardas et signa attinet<note xml:id="fn6" type="footnote" n="6">Siehe oben <ref target="file10560">Nr. 524</ref>, 11-33.</note>, mihi ipsi videbantur fabulę, sed quod nolebam, cogebar.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Sepianus<note xml:id="fn7" type="footnote" n="7"><persName>Peter Im Haag</persName>.</note> proh dolor alius factus est, id quod multo iam tempore dissimulavi, sicque se res habent apud nostrates, ut gloriari nihil possim, nec quod me anxium reddit, cartę committere.</s>
+					<s n="6" xml:lang="la" type="auto"><persName ref="8389" type="auto_name">Sepianus</persName><note xml:id="fn7" type="footnote" n="7"><persName ref="p8389" cert="high">Peter Im Haag</persName>.</note> proh dolor alius factus est, id quod multo iam tempore dissimulavi, sicque se res habent apud nostrates, ut gloriari nihil possim, nec quod me anxium reddit, cartę committere.</s>
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Multa et ea quidem innumera mihi tecum essent tractanda, quae certe nulli mortalium communicare ausim.</s>
 					<s n="8" xml:lang="la" type="auto">Sed sic per omnia comparatum video, ut nusquam tecum convenire possim.</s>
-					<s n="9" xml:lang="la" type="auto">Mallem ego solus extra omnia negocia in Lenczburg vel Campo Regio<note xml:id="fn8" type="footnote" n="8"><placeName>Königsfelden</placeName> (Kt. Aargau).</note> secretissime convenire, si per corporis molestiam liceret, quod aliquando, nisi brevi moriar, licebit.</s>
+					<s n="9" xml:lang="la" type="auto">Mallem ego solus extra omnia negocia in Lenczburg vel Campo Regio<note xml:id="fn8" type="footnote" n="8"><placeName ref="l269" cert="high">Königsfelden</placeName> (Kt. Aargau).</note> secretissime convenire, si per corporis molestiam liceret, quod aliquando, nisi brevi moriar, licebit.</s>
 					<s n="10" xml:lang="la" type="auto">Ubi tu veneris, veniam et ego, si possum, ad conventum nunc habendum; ut possim autem, meus in te amor et animus trahet.</s>
-					<s n="11" xml:lang="la" type="auto">Ubi non veneris, <persName>Megandrum</persName> cum aliquo nostrum habebitis, quemadmodum scripsimus.</s>
+					<s n="11" xml:lang="la" type="auto">Ubi non veneris, <persName ref="p8412" cert="high">Megandrum</persName> cum aliquo nostrum habebitis, quemadmodum scripsimus.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto"><pb type="edition" next="157"/><persName>Hemman Haberer</persName>, oeconomus <persName>Hartmanni</persName> a <placeName>Hallwil</placeName>, amicus noster communis, hodie in scribam ditionis Lenczburgensis creatus est<note xml:id="fn10" type="footnote" n="10">Laut Ratsmanual (<placeName>Bern</placeName> StA, A II 122, 83) erfolgte seine Ernennung bereits am 15. März.</note> et in oppido habitabit.</s>
+					<s n="12" xml:lang="la" type="auto"><pb type="edition" next="157"/><persName ref="p8369" cert="high">Hemman Haberer</persName>, oeconomus <persName ref="p3559" cert="high">Hartmanni</persName> a <placeName ref="l203" cert="high">Hallwil</placeName>, amicus noster communis, hodie in scribam ditionis Lenczburgensis creatus est<note xml:id="fn10" type="footnote" n="10">Laut Ratsmanual (<placeName ref="l41" cert="high">Bern</placeName> StA, A II 122, 83) erfolgte seine Ernennung bereits am 15. März.</note> et in oppido habitabit.</s>
 					<s n="13" xml:lang="la" type="auto">Quicquid illi commiseris literarum, ad me deferri curabit fidelissime.</s>
 				</p>
 				<p>

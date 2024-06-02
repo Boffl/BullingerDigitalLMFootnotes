@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11762" type="Brief" source="VBS" n="79">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11762" type="Brief" source="VBS-7" n="79">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 3. Februar 1543</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 3. Februar 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -44,7 +44,7 @@
 					<s n="26" xml:lang="la" type="auto">S. Galli, III. Nonas Februarias, anno MDXLIIII.</s>
 				</p>
 				<p>
-					<s n="27" xml:lang="la" type="auto"><persName>Ioachimus Vadianus</persName>, lippus.</s>
+					<s n="27" xml:lang="la" type="auto"><persName ref="p8049" cert="high">Ioachimus Vadianus</persName>, lippus.</s>
 				</p>
 				<p>
 					<s n="28" xml:lang="la" type="auto">Pientissimo et eruditissimo viro domino Henrycho Bullingero, clarissimae ecclesiae Tigurinę episcopo, domino et amico inprimis colendo.</s>

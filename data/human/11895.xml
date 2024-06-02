@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11895" type="Brief" source="CO" n="532">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11895" type="Brief" source="CO-XI" n="532">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Calvin / Genf AN Heinrich Bullinger, 17. Februar 1544</title>
+				<title subtype="file">Johannes Calvin / Genf an Heinrich Bullinger, 17. Februar 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -31,15 +31,15 @@
 				<p>
 					<s n="9" xml:lang="la" type="auto">Nunc ergo Dei beneficio non pacem modo, sed summam quoque concordiam habemus, quam firmam fore confido.</s>
 					<s n="10" xml:lang="la" type="auto">Vale, eruditissime vir et frater mihi in Domino carissime.</s>
-					<s n="11" xml:lang="la" type="auto">Saluta reverenter D. Pellicanum, Theodorum, Megandrum, Gualtherum et reliquos fratres.</s>
+					<s n="11" xml:lang="la" type="auto">Saluta reverenter D. <persName ref="p8127" cert="high">Pellicanum</persName>, <persName ref="p8171" cert="high">Theodorum</persName>, <persName ref="p8412" cert="high">Megandrum</persName>, <persName ref="p8011" cert="high">Gualtherum</persName> et reliquos fratres.</s>
 					<s n="12" xml:lang="la" type="auto">Dominus vos omnes suo spiritu semper gubernet.</s>
-					<s n="13" xml:lang="la" type="auto">Genevae, 17. Februar. 1544.</s>
+					<s n="13" xml:lang="la" type="auto"><placeName ref="l167" cert="high">Genevae</placeName>, 17. Februar. 1544.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Collegae mei vos omnes salutant.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Ioannes Calvinus tuus.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p540" cert="high">Ioannes Calvinus</persName> tuus.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Ornatissimo viro et eximia eruditione praedito D. Henricho Bullingero Tigurinae ecclesiae pastori fidelissimo fratri et amico colendissimo.</s>

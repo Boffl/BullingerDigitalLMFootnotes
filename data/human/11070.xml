@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11070" type="Brief" source="VBS" n="968">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11070" type="Brief" source="VBS-5" n="968">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 5. August 1537</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Joachim Vadian (von Watt), 5. August 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -22,7 +22,7 @@
 					<s n="4" xml:lang="la" type="auto">Involvet et inter sese committet certo Germaniam totam.</s>
 					<s n="5" xml:lang="la" type="auto">Certe merentur hoc mores nostri.</s>
 					<s n="6" xml:lang="la" type="auto">Verum domini interim gratiam imploro, ut hic vel per Hessum vel alium virum fortem et religiosum hoc bellum dirimat, nisi forte divina Maiestas statuerit, semel funestos illos e medio ecclesiae episcopos tollere, quibus salvis nescio an ecclesia salva esse possit.</s>
-					<s n="7" xml:lang="la" type="auto">Si tu interim aliquid eius accepisti compositionis, cuius meministi in postremis literis, a Melanchthone ac Bucero conscriptae, obsecro videam, siquidem optimus quidam vir nescio quae infausta mihi retulit de actis quibusdam Buceri Augustae in negotio idolorum habitis etc.</s>
+					<s n="7" xml:lang="la" type="auto">Si tu interim aliquid eius accepisti compositionis, cuius meministi in postremis literis, a Melanchthone ac <persName ref="p467" cert="high">Bucero</persName> conscriptae, obsecro videam, siquidem optimus quidam vir nescio quae infausta mihi retulit de actis quibusdam <persName ref="p467" cert="high">Buceri</persName> Augustae in negotio idolorum habitis etc.</s>
 					<s n="8" xml:lang="la" type="auto">Ego in praesenti nihil possum certi nuntiare e Luceria; legatum enim nostrum nondum vidi.</s>
 					<s n="9" xml:lang="la" type="auto">Quodsi aliquid didicero, quod e re tua fuerit novisse, scies.</s>
 					<s n="10" xml:lang="la" type="auto">Tu perge, me, quod facis, amare et frequentissime scribere.</s>

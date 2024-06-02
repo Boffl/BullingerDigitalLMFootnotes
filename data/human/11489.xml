@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11489" type="Brief" source="HBBW" n="1446">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11489" type="Brief" source="HBBW-10A" n="1446">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [um 1539/40]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [um 1539/40]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Commendat hunc mihi Sturmius<note xml:id="fn3" type="footnote" n="3">Johannes Sturms Empfehlungsschreiben scheint verloren zu sein.</note> simplicitatis et pietatis ergo, olim Parrhysiis convictorem et socium suum.</s>
+					<s n="2" xml:lang="la" type="auto">Commendat hunc<note xml:id="fn2" type="footnote" n="2">Unbekannt.</note> mihi Sturmius<note xml:id="fn3" type="footnote" n="3">Johannes Sturms Empfehlungsschreiben scheint verloren zu sein.</note> simplicitatis et pietatis ergo, olim Parrhysiis convictorem et socium suum.</s>
 					<s n="3" xml:lang="la" type="auto">Cupit vos et vestram ecclesiam cognoscere.</s>
 				</p>
 				<p>
@@ -43,7 +43,7 @@
 					<s n="17" xml:lang="la" type="manual">Amen.</s>
 				</p>
 				<p>
-					<s n="18" xml:lang="la" type="auto"><persName>S. Grynęus</persName> tuus.</s>
+					<s n="18" xml:lang="la" type="auto"><persName ref="p1365" cert="high">S. Grynęus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

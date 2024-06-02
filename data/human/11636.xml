@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11636" type="Brief" source="BBW" n="922">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11636" type="Brief" source="BBW-II" n="922">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 24. Dezember [1541]</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] an Heinrich Bullinger, 24. Dezember [1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -29,17 +29,17 @@
 					<s n="9" xml:lang="de" type="manual">Acht man gentzlich, die österrichischen land werdin mer thain, allso das man hofft, es werde vyl geltz vorhanden sin.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="de" type="manual">Der konig usß <placeName>Engeland</placeName> hat seim yetzigen gemachel lassen ader schlachen und allso pluetten lassen, by(s) sy gestorben ist; schuldiget sy, das sy solle bůlt haben.</s>
+					<s n="10" xml:lang="de" type="manual">Der konig usß <placeName ref="l9" cert="high">Engeland</placeName> hat seim yetzigen gemachel lassen ader schlachen und allso pluetten lassen, by(s) sy gestorben ist; schuldiget sy, das sy solle bůlt haben.</s>
 					<s n="11" xml:lang="de" type="manual">Der konig hat kurtzlich 32 groß herren und frauwen gefangen, zwen groß herren richten lassen, also das man inen die gemecht abgeschnitten und darnach mitt für verbrent hat; auch der kungin junckfrau aine sampt noch 3 herren lassen enthopten, darunder der hertzog von Norsack, sein mutter und brůder.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="de" type="manual">Item der Barbarossa mit 130 seyl im mehr, sterckt in der Turck treffelich, und ist der Turck zů wasser und land in grosser rüsstung.</s>
 					<s n="13" xml:lang="de" type="manual">Innerhalb drey wochen habends auff Stoll-Weyssenburg ain straiff thon, ettlich dorffer blundert, vyl leut hinweggefuert; ist ain schlechter fridstand uff den frueling; versieht man sich alles unglucks.</s>
-					<s n="14" xml:lang="de" type="manual">Des Turcken bottschafft hat sich zů Venedig erfröwt mitt der herrschafft von der victoria wegen, so ir herr vor Ofen gehapt, daneben begert, sy wellen dem Turcken und konig von Franckreych helffen.</s>
+					<s n="14" xml:lang="de" type="manual">Des Turcken bottschafft hat sich zů Venedig erfröwt mitt der herrschafft von der victoria wegen, so ir herr vor Ofen gehapt, daneben begert, sy wellen dem Turcken und konig von <placeName ref="l28" cert="high">Franckreych</placeName> helffen.</s>
 				</p>
 				<p>
 					<s n="15" xml:lang="de" type="manual">Zů Paryß seind vyl teutscher hoptleut; hab brieff von dem 14. Decembris, der konig wer gern gen Mailand, darffs doch nitt wol wagen, so der kaiser in Hyspan(ien) glücklich ankommen ist.</s>
-					<s n="16" xml:lang="de" type="manual">Franckreich stat in ainem hürat mitt <placeName>Engeland</placeName>, den hertzogen von Orlientz der eltesten tochter in <placeName>Engeland</placeName> ze geben, alles dem kaiser zuwider; nitt waist man, ob der hurat furgang wirt haben oder nitt.</s>
+					<s n="16" xml:lang="de" type="manual"><placeName ref="l28" cert="high">Franckreich</placeName> stat in ainem hürat mitt <placeName ref="l9" cert="high">Engeland</placeName>, den hertzogen von Orlientz der eltesten tochter in <placeName ref="l9" cert="high">Engeland</placeName> ze geben, alles dem kaiser zuwider; nitt waist man, ob der hurat furgang wirt haben oder nitt.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="de" type="manual">Der rö(misch) konig lasst vyl proffant usß Wien gen Gran fueren, der mainung, uff konfftigen summer Offen widerum zů erobern.</s>

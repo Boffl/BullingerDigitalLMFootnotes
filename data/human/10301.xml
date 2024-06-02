@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10301" type="Brief" source="HBBW" n="270">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10301" type="Brief" source="HBBW-3" n="270">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 1. Oktober 1533</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 1. Oktober 1533</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -52,13 +52,13 @@
 				</p>
 				<p>
 					<s n="30" xml:lang="la" type="auto">Vale per dominum.</s>
-					<s n="31" xml:lang="la" type="auto">Salvos opto <persName>Utingerum</persName>, <persName ref="p2305">Leonem</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p6796">Leo Jud</persName>.</note>, omnes.</s>
+					<s n="31" xml:lang="la" type="auto">Salvos opto <persName ref="p3242" cert="high">Utingerum</persName>, <persName ref="p1753" cert="high">Leonem</persName><note xml:id="fn8" type="footnote" n="8"><persName ref="p1753" cert="high">Leo Jud</persName>.</note>, omnes.</s>
 				</p>
 				<p>
-					<s n="32" xml:lang="la" type="auto"><placeName>Basileae</placeName>, kalendas octobris anno 33.</s>
+					<s n="32" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName>, kalendas octobris anno 33.</s>
 				</p>
 				<p>
-					<s n="33" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+					<s n="33" xml:lang="la" type="auto"><persName ref="p8418" cert="high">Os. Myconius</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12220" type="Brief" source="HBBW" n="2173">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12220" type="Brief" source="HBBW-15" n="2173">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] AN Heinrich Bullinger, 3. Juni 1545</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Konstanz] an Heinrich Bullinger, 3. Juni 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,39 +19,39 @@
 					<s n="1" xml:lang="la" type="auto">Salve, mi venerande et charissime Bullingere.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">In hoc unum epistolium hoc mitto, ut te, quam possum, rogem, quo vel mea caussa, quantum quidem in te est, caveas, ne typographi vestri istic mox suis typis excudant, quę noster hic iam magnis sumptibus pro sua tenuitate invulgat, idque ex optimi <persName>Zvicci</persName> nostri<note xml:id="fn2" type="footnote" n="2"><persName>Johannes Zwick</persName>.</note> enarrationibus in septem postrema domini verba cum aliis nonnullis, etc.</s>
+					<s n="2" xml:lang="la" type="auto">In hoc unum epistolium hoc mitto, ut te, quam possum, rogem, quo vel mea caussa, quantum quidem in te est, caveas, ne typographi vestri istic mox suis typis excudant, quę noster hic iam magnis sumptibus pro sua tenuitate invulgat, idque ex optimi <persName ref="p4079" cert="high">Zvicci</persName> nostri<note xml:id="fn2" type="footnote" n="2"><persName ref="p4079" cert="high">Johannes Zwick</persName>.</note> enarrationibus in septem postrema domini verba cum aliis nonnullis, etc.</s>
 					<s n="3" xml:lang="la" type="auto">Aequum enim videtur, ut<pb type="edition" next="351"/> charitas istuc ab eis impetret, ut lubenter primum videant lucro, qui priores hac in re sumptus fecit, praesertim quum alioqui satis illis sit materię, unde lucrum venentur, et vos ipsis abunde suppeditetis argumenta, quibus prela sua exerceant.</s>
 					<s n="4" xml:lang="la" type="auto">Age igitur, mi Bullingere!</s>
 					<s n="5" xml:lang="la" type="auto">Pro tua apud illos authoritate effice, ne intempestiva ipsorum sedulitas miselli huius nostri honestis conatibus quicquam officiat.</s>
-					<s n="6" xml:lang="la" type="auto">Quodsi forte senatus aut consulum vestrorum<note xml:id="fn4" type="footnote" n="4"><persName>Johannes Haab</persName> und <persName>Hans Rudolf Lavater</persName>.</note> officium implorare hic oportet, tu etiam istuc nostra caussa haud gravatim, scio, facies, nisi me forte facere hoc malis.</s>
-					<s n="7" xml:lang="la" type="auto">Gratificaberis non mediocriter non mihi solum et typographo nostro, verum etiam <persName>Conrado Z.</persName><note xml:id="fn5" type="footnote" n="5">Zu <persName>Konrad Zwicks</persName> Rolle s. oben Anm. 3.</note> nostro, qui non ignoras, quam te amet pariter et observet.</s>
+					<s n="6" xml:lang="la" type="auto">Quodsi forte senatus aut consulum vestrorum<note xml:id="fn4" type="footnote" n="4"><persName ref="p1419" cert="high">Johannes Haab</persName> und <persName ref="p1888" cert="high">Hans Rudolf Lavater</persName>.</note> officium implorare hic oportet, tu etiam istuc nostra caussa haud gravatim, scio, facies, nisi me forte facere hoc malis.</s>
+					<s n="7" xml:lang="la" type="auto">Gratificaberis non mediocriter non mihi solum et typographo nostro, verum etiam <persName ref="p4082" cert="high">Conrado Z.</persName><note xml:id="fn5" type="footnote" n="5">Zu <persName ref="p4082" cert="high">Konrad Zwicks</persName> Rolle s. oben Anm. 3.</note> nostro, qui non ignoras, quam te amet pariter et observet.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto">Misi ad te epistolam <persName>Welseri</persName><note xml:id="fn6" type="footnote" n="6">Der Brief <persName>Hans Welsers</persName> vom 10. Mai, oben <ref target="file12203">Nr. 2156</ref>.</note>, Augustani consulis, per Röstium, cui sororius noster<note xml:id="fn8" type="footnote" n="8"><persName>Heinrich von Ulm</persName>.</note> hanc tibi reddendam mandavit.</s>
+					<s n="8" xml:lang="la" type="auto">Misi ad te epistolam <persName ref="p3927" cert="high">Welseri</persName><note xml:id="fn6" type="footnote" n="6">Der Brief <persName ref="p3927" cert="high">Hans Welsers</persName> vom 10. Mai, oben <ref target="file12203">Nr. 2156</ref>.</note>, Augustani consulis, per Röstium, cui sororius noster<note xml:id="fn8" type="footnote" n="8"><persName ref="p2300" cert="high">Heinrich von Ulm</persName>.</note> hanc tibi reddendam mandavit.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Induciae cum Turco<note xml:id="fn9" type="footnote" n="9"><persName>Suleiman I.</persName></note> an impetratę sint, a nostris etiamnum ignorantur, nec existimant rediisse adhuc legatos<note xml:id="fn10" type="footnote" n="10">Von <persName>Karl V.</persName> wurde Gerhard Veltwyck, von <persName>Ferdinand I.</persName> wurden Nikolaus Sick und <persName>Giovanni Maria Malvezzi</persName> an die Pforte entsandt; s. oben <ref target="file12200">Nr. 2153</ref>, Anm. 16. Ein Waffenstillstand kam aber erst am 10. November 1545 zustande; s. unten <ref target="file12348">Nr. 2301</ref>, Anm. 33.</note>.</s>
-					<s n="10" xml:lang="la" type="auto">Sunt, qui plane sibi persuadent caesarem<note xml:id="fn11" type="footnote" n="11"><persName>Karl V.</persName></note> et Gallum<note xml:id="fn12" type="footnote" n="12">Franz I.</note> miris modis colludere<note xml:id="fn13" type="footnote" n="13">Seit dem Frieden von <placeName>Crépy</placeName> von September 1544 ist dies durchaus vorstellbar. So reiste etwa der kaiserliche Gesandte Veltwyck zusammen mit dem Gesandten Franz' I., <persName>Jean de Montluc</persName>, nach Konstantinopel; s. oben <ref target="file12200">Nr. 2153</ref>, Anm. 16.</note> totosque in eo esse, ut totum etiam orbem, si fieri possit, inter se partiantur non defraudato interim <persName>Romano</persName> pontifice<note xml:id="fn14" type="footnote" n="14"><persName>Paul III.</persName></note>.</s>
+					<s n="9" xml:lang="la" type="auto">Induciae cum <persName ref="18593" type="auto_name">Turco</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p18593" cert="high">Suleiman I.</persName></note> an impetratę sint, a nostris etiamnum ignorantur, nec existimant rediisse adhuc legatos<note xml:id="fn10" type="footnote" n="10">Von <persName ref="p18538" cert="high">Karl V.</persName> wurde Gerhard Veltwyck, von <persName ref="p18477" cert="high">Ferdinand I.</persName> wurden Nikolaus Sick und <persName ref="p7358" cert="high">Giovanni Maria Malvezzi</persName> an die Pforte entsandt; s. oben <ref target="file12200">Nr. 2153</ref>, Anm. 16. Ein Waffenstillstand kam aber erst am 10. November 1545 zustande; s. unten <ref target="file12348">Nr. 2301</ref>, Anm. 33.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">Sunt, qui plane sibi persuadent caesarem<note xml:id="fn11" type="footnote" n="11"><persName ref="p18538" cert="high">Karl V.</persName></note> et Gallum<note xml:id="fn12" type="footnote" n="12">Franz I.</note> miris modis colludere<note xml:id="fn13" type="footnote" n="13">Seit dem Frieden von <placeName ref="l2110" cert="high">Crépy</placeName> von September 1544 ist dies durchaus vorstellbar. So reiste etwa der kaiserliche Gesandte Veltwyck zusammen mit dem Gesandten Franz' I., <persName ref="p18087" cert="high">Jean de Montluc</persName>, nach Konstantinopel; s. oben <ref target="file12200">Nr. 2153</ref>, Anm. 16.</note> totosque in eo esse, ut totum etiam orbem, si fieri possit, inter se partiantur non defraudato interim <persName ref="p18477" cert="high">Romano</persName> pontifice<note xml:id="fn14" type="footnote" n="14"><persName ref="p19981" cert="high">Paul III.</persName></note>.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">De consobrini<note xml:id="fn15" type="footnote" n="15"><persName>Konrad Zwick</persName>. - Er versuchte, seine Kriegskunst durch Vermittlung der Zürcher an die Eidgenossen zu verkaufen; s. zuletzt oben <ref target="file12200">Nr. 2153</ref> und Anm. 23.</note> negocio sororius ad te nonnihil perscribet<note xml:id="fn16" type="footnote" n="16">Nicht erhalten.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">De consobrini<note xml:id="fn15" type="footnote" n="15"><persName ref="p4082" cert="high">Konrad Zwick</persName>. - Er versuchte, seine Kriegskunst durch Vermittlung der Zürcher an die Eidgenossen zu verkaufen; s. zuletzt oben <ref target="file12200">Nr. 2153</ref> und Anm. 23.</note> negocio sororius ad te nonnihil perscribet<note xml:id="fn16" type="footnote" n="16">Nicht erhalten.</note>.</s>
 					<s n="12" xml:lang="la" type="auto">Cupit ille modis omnibus animo suo satisfacere et suam liberare conscientiam, quod<pb type="edition" next="352"/> ad vos quidem attinet; deinde satis erit occasionum, quas arripere absque christianę legis praevaricatione poterit et suam rem facere.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Horrenda sunt et plusquam crudelissima, quae de Waldensibus scripsisti<note xml:id="fn17" type="footnote" n="17">Oben <ref target="file12205">Nr. 2158</ref>, 55-81.</note>.</s>
 					<s n="14" xml:lang="la" type="auto">Dominus illis adsit; quos reliquos fecit ista clades, ut in veritatis via, quam semel ingressi sunt, strenue pergant.</s>
 					<s n="15" xml:lang="la" type="auto">Ultorem olim sentient et vindicem sanctorum suorum adversarii, qui domini tolerantia et longanimitate hunc in modum abutuntur.</s>
-					<s n="16" xml:lang="la" type="auto">Scimus nos, in quem usum simus positi, atque unum hoc nos consolatur, quod ad dexteram patris consedit, cui militamus, et omnia videt, qui olim dicebat: „Saule, Saule, quid me persequeris?“ [Apg 9, 4].</s>
+					<s n="16" xml:lang="la" type="auto">Scimus nos, in quem usum simus positi, atque unum hoc nos consolatur, quod ad dexteram patris consedit, cui militamus, et omnia videt, qui olim dicebat: „Saule, Saule, quid me persequeris?“ <cit type="bible"><ref>[Apg 9, 4]</ref></cit>.</s>
 				</p>
 				<p>
-					<s n="17" xml:lang="la" type="auto">Quod si ita visum illi fuerit, ut nostro sanguine evangelium suum testemur, age, fiat voluntas ipsius<note xml:id="fn18" type="footnote" n="18">Vgl. Mt 26,42.</note> addatque sua benignitate gratiam, ut ne quid indignum suo nomine nostraque professione designemus.</s>
+					<s n="17" xml:lang="la" type="auto">Quod si ita visum illi fuerit, ut nostro sanguine evangelium suum testemur, age, fiat voluntas ipsius<note xml:id="fn18" type="footnote" n="18">Vgl. <cit type="bible"><ref>Mt 26,42</ref></cit>.</note> addatque sua benignitate gratiam, ut ne quid indignum suo nomine nostraque professione designemus.</s>
 				</p>
 				<p>
 					<s n="18" xml:lang="la" type="auto"><pb type="scan" next="134"/>Sororius istuc nuncium abmandabit, cui literas istas properiter scriptas tibi reddendas commisi.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">De comitiis<note xml:id="fn20" type="footnote" n="20">Der <placeName>Wormser</placeName> Reichstag.</note> nihil, quod scire te referat, audio.</s>
-					<s n="20" xml:lang="la" type="auto"><persName>Rex</persName><note xml:id="fn21" type="footnote" n="21"><persName>Ferdinand I.</persName></note> et episcopellus <placeName>Augustanus</placeName><note xml:id="fn22" type="footnote" n="22"><persName>Otto Truchsess von Waldburg</persName>.</note> aliorum etiam nomine valde solliciti sunt nec quicquam intentatum relinquunt, ut Suevicum foedus instauretur.</s>
+					<s n="19" xml:lang="la" type="auto">De comitiis<note xml:id="fn20" type="footnote" n="20">Der <placeName ref="l569" cert="high">Wormser</placeName> Reichstag.</note> nihil, quod scire te referat, audio.</s>
+					<s n="20" xml:lang="la" type="auto"><persName ref="p18477" cert="high">Rex</persName><note xml:id="fn21" type="footnote" n="21"><persName ref="p18477" cert="high">Ferdinand I.</persName></note> et episcopellus <placeName ref="l1976" cert="high">Augustanus</placeName><note xml:id="fn22" type="footnote" n="22"><persName ref="p7840" cert="high">Otto Truchsess von Waldburg</persName>.</note> aliorum etiam nomine valde solliciti sunt nec quicquam intentatum relinquunt, ut Suevicum foedus instauretur.</s>
 					<s n="21" xml:lang="la" type="auto">Et audio multorum ex nostris etiam corda eo inclinare, quum nihil aliud hac re pontificii nostri quaerant, quam ut ipsi, de nobis securi, nos vicissim mille periculis obiiciant.</s>
 				</p>
 				<p>
@@ -60,7 +60,7 @@
 					<s n="24" xml:lang="la" type="auto">3. iunii 1545.</s>
 				</p>
 				<p>
-					<s n="25" xml:lang="la" type="auto">Age, caussam meam<note xml:id="fn25" type="footnote" n="25">Wohl das angestrebte Bündnis zwischen der gesamten Eidgenossenschaft und <placeName>Konstanz</placeName>; s. <bibl>HBBW</bibl> XIV, <ref target="file12101">Nr. 2054</ref>; oben <ref target="file12112">Nr. 2065</ref>. 2084.</note> - de qua certiores nuper reddidi consules vestros <persName ref="p6155">Lavaterum</persName> et Habium - optima fide illis commendes.</s>
+					<s n="25" xml:lang="la" type="auto">Age, caussam meam<note xml:id="fn25" type="footnote" n="25">Wohl das angestrebte Bündnis zwischen der gesamten Eidgenossenschaft und <placeName ref="l457" cert="high">Konstanz</placeName>; s. <bibl>HBBW</bibl> XIV, <ref target="file12101">Nr. 2054</ref>; oben <ref target="file12112">Nr. 2065</ref>. 2084.</note> - de qua certiores nuper reddidi consules vestros <persName ref="p1888" cert="high">Lavaterum</persName> et Habium - optima fide illis commendes.</s>
 				</p>
 				<p>
 					<s n="26" xml:lang="la" type="auto">Salutant te nostri; salveant istic omnes fratres te amici.</s>

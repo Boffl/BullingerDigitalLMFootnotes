@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12993" type="Brief" source="GR" n="81">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12993" type="Brief" source="GR-I" n="81">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Camillo Renato / Chiavenna AN Heinrich Bullinger, 6. Juli 1547</title>
+				<title subtype="file">Camillo Renato / Chiavenna an Heinrich Bullinger, 6. Juli 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -44,7 +44,7 @@
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="17" xml:lang="la" type="auto">Has literas, si commodum certumque est, ad Caelium Secundum, qui nunc <placeName>Basileae</placeName> commoratur, perferendas cures, etiam atque etiam rogo.</s>
+					<s n="17" xml:lang="la" type="auto">Has literas, si commodum certumque est, ad Caelium Secundum, qui nunc <placeName ref="l28" cert="high">Basileae</placeName> commoratur, perferendas cures, etiam atque etiam rogo.</s>
 				</p>
 			</div>
 		</body>

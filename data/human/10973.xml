@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10973" type="Brief" source="HBBW" n="931">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10973" type="Brief" source="HBBW-7" n="931">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Heinrich Bullinger, 3. Januar 1537</title>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern an Heinrich Bullinger, 3. Januar 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -30,16 +30,16 @@
 					<s n="8" xml:lang="la" type="auto">Faxit deus, quo omnia in suam cedant gloriam!</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, quoque accepturus<note xml:id="fn3" type="footnote" n="3">Beim Geschenk Bullingers handelte es sich offenbar um einen Teil von <persName>Pellikans</persName> Kommentar zu den Evangelien und zur Apostelgeschichte (<bibl>BZD</bibl> C 266), dessen Druck erst im März abgeschlossen wurde. Vgl. auch unten <ref target="file10993">Nr. 951</ref>, 2-5 mit Anm. 2.</note>.</s>
+					<s n="9" xml:lang="la" type="auto">Gratissimum quod misisti munus accepi, haud dubie, quod reliquum est in Acta, quoque accepturus.</s>
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">Bene vale.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto"><placeName>Bernę</placeName>, 3. ianuarii anno 37.</s>
+					<s n="11" xml:lang="la" type="auto"><placeName ref="l41" cert="high">Bernę</placeName>, 3. ianuarii anno 37.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Uxore tua<note xml:id="fn4" type="footnote" n="4"><persName>Anna, geb. Adlischwyler</persName>.</note> et fratribus omnibus salvis.</s>
+					<s n="12" xml:lang="la" type="auto">Uxore tua<note xml:id="fn4" type="footnote" n="4"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note> et fratribus omnibus salvis.</s>
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Megand. tuus ex animo.</s>

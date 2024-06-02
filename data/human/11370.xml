@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11370" type="Brief" source="VBS" n="1077">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11370" type="Brief" source="VBS-5" n="1077">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Joachim Vadian (von Watt), 5. November 1539</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Joachim Vadian (von Watt), 5. November 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -27,8 +27,8 @@
 					<s n="9" xml:lang="la" type="auto">Aegre illos extorsi nec semel desperavi; tandem accepi.</s>
 					<s n="10" xml:lang="la" type="auto">A Wormatia scribit hisce diebus Leonhartus Fonteius, contionator, pestem graviter saevire in cives et sublatos esse e senatu tyrannos aliquot, itaque usum se esse occasione oblata et suadentibus multis piis parasse coenam domini ecclesiae, quae ipsam miro applausu exceperit.</s>
 					<s n="11" xml:lang="la" type="auto">Rogat itaque in literis, Deum oremus, ut, quod coepit, confirmet et afflictorum gravissima peste misereatur.</s>
-					<s n="12" xml:lang="la" type="auto"><placeName>Basileae</placeName> quoque coepit illa incrudescere, ceu questus est datis ad me literis Grynaeus.</s>
-					<s n="13" xml:lang="la" type="auto">Vereor, <persName>Myconii</persName> uxorem iam excessisse.</s>
+					<s n="12" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileae</placeName> quoque coepit illa incrudescere, ceu questus est datis ad me literis Grynaeus.</s>
+					<s n="13" xml:lang="la" type="auto">Vereor, <persName ref="p8418" cert="high">Myconii</persName> uxorem iam excessisse.</s>
 					<s n="14" xml:lang="la" type="auto">Fugierunt ad nos studiosi aliquot, praesertim Grynaei convictores.</s>
 					<s n="15" xml:lang="la" type="auto">Quamdiu dominus id teli non in nos quoque vibraverit, ipse novit.</s>
 					<s n="16" xml:lang="la" type="auto">Res alioqui nostrae bene habent, gratia domino.</s>

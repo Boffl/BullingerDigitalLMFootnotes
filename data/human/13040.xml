@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13040" type="Brief" source="VBS" n="1554">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13040" type="Brief" source="VBS-6" n="1554">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 14. August 1547</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 14. August 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -25,14 +25,14 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="5" xml:lang="la" type="auto">Vale.</s>
-					<s n="6" xml:lang="la" type="auto">Sangalli, XIIII. die Augusti, anno MDXLVII.</s>
+					<s n="6" xml:lang="la" type="auto"><placeName ref="l474" cert="high">Sangalli</placeName>, XIIII. die Augusti, anno MDXLVII.</s>
 				</p>
 				<p>
-					<s n="7" xml:lang="la" type="auto">Ioachimus Vadianus.</s>
+					<s n="7" xml:lang="la" type="auto"><persName ref="p8049" cert="high">Ioachimus Vadianus</persName>.</s>
 				</p>
 				<p>
 					<s n="8" xml:lang="la" type="auto">Domino Henrycho Bullingero, colendissimo domino et amico.</s>
-					<s n="9" xml:lang="la" type="auto">Tiguri.</s>
+					<s n="9" xml:lang="la" type="auto"><placeName ref="l587" cert="high">Tiguri</placeName>.</s>
 				</p>
 			</div>
 		</body>

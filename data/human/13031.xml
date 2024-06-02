@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13031" type="Brief" source="GR" n="85">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13031" type="Brief" source="GR-I" n="85">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Francesco Negri (Niger) / Chiavenna AN Heinrich Bullinger, 10. August 1547</title>
+				<title subtype="file">Francesco Negri (Niger) / Chiavenna an Heinrich Bullinger, 10. August 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -40,7 +40,7 @@
 				</p>
 				<p>
 					<s n="10" xml:lang="la" type="auto">D. Heinricho Bul(l)ingero, verbi Dei ministro, suo plurimum observando.</s>
-					<s n="11" xml:lang="la" type="auto"><placeName>Tiguri</placeName>.</s>
+					<s n="11" xml:lang="la" type="auto"><placeName ref="l587" cert="high">Tiguri</placeName>.</s>
 				</p>
 			</div>
 		</body>

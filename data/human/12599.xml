@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12599" type="Brief" source="HBBW" n="2552">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12599" type="Brief" source="HBBW-17" n="2552">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Haller d.J. / [Augsburg] AN Heinrich Bullinger, 26. August [1546]</title>
+				<title subtype="file">Johannes Haller d.J. / [Augsburg] an Heinrich Bullinger, 26. August [1546]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -31,7 +31,7 @@
 					<s n="9" xml:lang="la" type="auto">26. augusti.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto"><persName>I. Hallerus</persName>.</s>
+					<s n="10" xml:lang="la" type="auto"><persName ref="p8018" cert="high">I. Hallerus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

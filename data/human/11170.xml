@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11170" type="Brief" source="HBBW" n="1127">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11170" type="Brief" source="HBBW-8" n="1127">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Simon Grynäus / [Basel] AN Heinrich Bullinger, [Mitte Mai 1538]</title>
+				<title subtype="file">Simon Grynäus / [Basel] an Heinrich Bullinger, [Mitte Mai 1538]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,7 +26,7 @@
 					<s n="6" xml:lang="la" type="auto">Spero equidem iacta fundamenta praestantissima, cum et propius comittimur animis et suspitionibus minus nos iam deinde prebemus.</s>
 					<s n="7" xml:lang="la" type="auto">Iacebit sathan, si placide componi saevus in ecclesia tumultus potest.</s>
 					<s n="8" xml:lang="la" type="auto">Videbimus mox impostoris sathanę vafriciem, qua nos hostis crudelis, non certe res ipsa, tam horribiliter inter nos commisit.</s>
-					<s n="9" xml:lang="la" type="auto">De nostris non erit dubium; confectum dabunt negotium<note xml:id="fn2" type="footnote" n="2"><placeName>Basel</placeName> genehmigte die Ergebnisse der Zürcher Tagung am 23. Mai (s. Zürich StA, E I 1. 3a).</note>.</s>
+					<s n="9" xml:lang="la" type="auto">De nostris non erit dubium; confectum dabunt negotium<note xml:id="fn2" type="footnote" n="2"><placeName ref="l28" cert="high">Basel</placeName> genehmigte die Ergebnisse der Zürcher Tagung am 23. Mai (s. Zürich StA, E I 1. 3a).</note>.</s>
 					<s n="10" xml:lang="la" type="auto">Illum iuvenem liberatum restitutumque esse valde gaudeo.</s>
 					<s n="11" xml:lang="la" type="auto">Dominus Christus vere coniugat nos in ipsam lucidissimam mysterii tanti veritatem solide perductos.</s>
 				</p>
@@ -35,7 +35,7 @@
 				</p>
 				<p>
 					<s n="13" xml:lang="la" type="auto">Valde oro, ut salutare mihi fratres omnes diligenter velis.</s>
-					<s n="14" xml:lang="la" type="auto"><persName>Megandrum</persName> ut hortere sępe et sępius etiam moneas, iterum te valde oro.</s>
+					<s n="14" xml:lang="la" type="auto"><persName ref="p8412" cert="high">Megandrum</persName> ut hortere sępe et sępius etiam moneas, iterum te valde oro.</s>
 					<s n="15" xml:lang="la" type="auto">Ne putemus quenquam esse alienum a nobis oportere, quisquis secundum evangelium idem nobiscum profitetur Christum.</s>
 					<s n="16" xml:lang="la" type="auto">Fratres sunt Zwingliani Lutheranique omnes, qui de eodem Christi sanguine soloque gloriantur.</s>
 					<s n="17" xml:lang="la" type="auto">Valeat sathan, valeant rixę inutiles.</s>
@@ -45,7 +45,7 @@
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">Iterum vale, charissime ac dulcissime frater.</s>
-					<s n="22" xml:lang="la" type="auto"><persName>Gryneus</persName> tuus.</s>
+					<s n="22" xml:lang="la" type="auto"><persName ref="p1365" cert="high">Gryneus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

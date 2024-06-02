@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12845" type="Brief" source="TUSTEP" n="2796">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12845" type="Brief" source="TUSTEP-19" n="2796">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Franciscus Dryander (de Enzinas) / St. Gallen AN Heinrich Bullinger, 6. Februar 1547</title>
+				<title subtype="file">Franciscus Dryander (de Enzinas) / St. Gallen an Heinrich Bullinger, 6. Februar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,15 +17,15 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. D.</s>
-					<s n="2" xml:lang="la" type="auto">Si scivissem de adventu domini <persName>Calvini</persName>, venissem ad vos cum <persName ref="p6843">Bernardino</persName><note xml:id="fn5" type="footnote" n="5"><persName>Bernardino Ochino</persName>, der von St. Gallen nach Zürich gegangen war, wo er am 2. Februar 1547 ankam und zufälligerweise auch <persName>Calvin</persName> begegnete; siehe dazu <ref target="file12838">Nr. 2789</ref>, <ptr target="qvfn17056-1" type="qv"/>.</note>, quia eum mirifice videre cupio.</s>
-					<s n="3" xml:lang="la" type="auto">Salutabis eum meis verbis accuratissime, ad quem sine mora venirem, si permitteret <persName>Sailerus</persName><note xml:id="fn6" type="footnote" n="6"><persName>Hieronymus Sailer</persName>.</note>.</s>
-					<s n="4" xml:lang="la" type="auto">Sed cogor hic manere, donec peperit uxor<note xml:id="fn7" type="footnote" n="7"><persName>Sailers</persName> Ehefrau Felicitas, geb. Welser (eine Tochter von Bartholomäus Welser).</note>.</s>
-					<s n="5" xml:lang="la" type="auto">Etsi enim peramica est inter nos communicatio et suavitate ac benevolentia uxoris, foeminae prudentissimae, tractatus sum aliquanto deliciosius, quam homini studioso conveniret, tamen hoc mihi iniurato crede, Bullingere doctissime, multo me libentius apud vos aut in nostris sedibus <placeName>Basileae</placeName> versari.</s>
+					<s n="2" xml:lang="la" type="auto">Si scivissem de adventu domini <persName ref="p540" cert="high">Calvini</persName>, venissem ad vos cum <persName ref="p2336" cert="high">Bernardino</persName><note xml:id="fn5" type="footnote" n="5"><persName ref="p2336" cert="high">Bernardino Ochino</persName>, der von St. Gallen nach Zürich gegangen war, wo er am 2. Februar 1547 ankam und zufälligerweise auch <persName ref="p540" cert="high">Calvin</persName> begegnete; siehe dazu <ref target="file12838">Nr. 2789</ref>, <ptr target="qvfn17056-1" type="qv"/>.</note>, quia eum mirifice videre cupio.</s>
+					<s n="3" xml:lang="la" type="auto">Salutabis eum meis verbis accuratissime, ad quem sine mora venirem, si permitteret <persName ref="p6355" cert="high">Sailerus</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p6355" cert="high">Hieronymus Sailer</persName>.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Sed cogor hic manere, donec peperit uxor<note xml:id="fn7" type="footnote" n="7"><persName ref="p6355" cert="high">Sailers</persName> Ehefrau Felicitas, geb. Welser (eine Tochter von Bartholomäus Welser).</note>.</s>
+					<s n="5" xml:lang="la" type="auto">Etsi enim peramica est inter nos communicatio et suavitate ac benevolentia uxoris, foeminae prudentissimae, tractatus sum aliquanto deliciosius, quam homini studioso conveniret, tamen hoc mihi iniurato crede, Bullingere doctissime, multo me libentius apud vos aut in nostris sedibus <placeName ref="l28" cert="high">Basileae</placeName> versari.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la" type="auto">Salutat te <persName>Sailerus</persName> cum uxore et gratiam habet pro eo, quod scripsisti de causa Gvalteri<note xml:id="fn8" type="footnote" n="8">Streit um Gwalthers Antichrist.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Salutat te <persName ref="p6355" cert="high">Sailerus</persName> cum uxore et gratiam habet pro eo, quod scripsisti de causa Gvalteri<note xml:id="fn8" type="footnote" n="8">Streit um Gwalthers Antichrist.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Ego ecclesiae vestrae gratulor tranquillitatem, quam spero fore durabilem, siquidem hoc negotium est compositum de sententia vestra.</s>
 					<s n="8" xml:lang="la" type="auto">Nescio quid nunciatur de perturbatione Lydaviensi; dicitur captus urbis praefectus, sed nihildum certi constat.</s>
 					<s n="9" xml:lang="la" type="auto">Scribam, quid sit, ubi aliquid veri accepero.</s>
@@ -42,7 +42,7 @@
 					<s n="12" xml:lang="la" type="auto">Tuus Franciscus Dryander.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto">Mitto duas epistolas domini <persName>Saileri</persName> ad duos Tigurinos; quaeso, ne sit grave eas per famulum mittere.</s>
+					<s n="13" xml:lang="la" type="auto">Mitto duas epistolas domini <persName ref="p6355" cert="high">Saileri</persName> ad duos Tigurinos<note xml:id="fn9" type="footnote" n="9">Unbekannt.</note>; quaeso, ne sit grave eas per famulum mittere.</s>
 					<s n="14" xml:lang="la" type="auto">Si quid hic a nobis curatum velis, erimus omnes paratissimi.</s>
 				</p>
 				<p>

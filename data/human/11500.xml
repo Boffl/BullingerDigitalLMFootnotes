@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11500" type="Brief" source="GR" n="20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11500" type="Brief" source="GR-I" n="20">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 1. Februar 1541</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 1. Februar 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -27,7 +27,7 @@
 					<s n="9" xml:lang="la" type="auto">De Leone Martini, quod ex patria recesserit, ex causa praescripta non accusarem, nisi aeris alieni a se contracti solutionem facere [non] curaret.</s>
 					<s n="10" xml:lang="la" type="auto">Hoc illi inest vitii, ut aere alieno praemi molestum non sit; huius causa est bibacitas, uxor etiam sua etc.</s>
 					<s n="11" xml:lang="la" type="auto">De Ioanne Traversio certa scribere non possum; non enim ad nundinas has venit.</s>
-					<s n="12" xml:lang="la" type="auto">Ioannes Blasius illi a manibus est, ut emat libros et transmittat; qui non est conscius hos libellos unquam transmisisse, unde certo putamus illum his carere.</s>
+					<s n="12" xml:lang="la" type="auto"><persName ref="p396" cert="high">Ioannes Blasius</persName> illi a manibus est, ut emat libros et transmittat; qui non est conscius hos libellos unquam transmisisse, unde certo putamus illum his carere.</s>
 					<s n="13" xml:lang="la" type="auto">Caeterum apud nos nihil agitur, quod scitu dignum sit, neque in Italia, vel scripsissem.</s>
 					<s n="14" xml:lang="la" type="auto">Vale, vir eximie et charissime.</s>
 					<s n="15" xml:lang="la" type="auto">Ex Rhetiae Curia, kalendis Februariis, (anno) etc. 41.</s>

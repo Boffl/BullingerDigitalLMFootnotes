@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12191" type="Brief" source="HBBW" n="2144">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12191" type="Brief" source="HBBW-15" n="2144">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 22. April 1545</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 22. April 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,31 +18,31 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
 					<s n="2" xml:lang="la" type="auto">Ago pro literis tuis, quibus me de iuramento foederis nostri facis certiorem,<note xml:id="fn1" type="footnote" n="1">Oben <ref target="file12188">Nr. 2141</ref>.</note> ingentes gratias.</s>
-					<s n="3" xml:lang="la" type="auto">Similiter de libello, quem dono dedisti<note xml:id="fn2" type="footnote" n="2"><persName>Lelio <hi>Capilupi</hi></persName>, De vita monachorum; s. oben <ref target="file12187">Nr. 2140</ref>, Anm. 25; 2141, 34.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Similiter de libello, quem dono dedisti<note xml:id="fn2" type="footnote" n="2"><persName ref="p4510" cert="high">Lelio <hi>Capilupi</hi></persName>, De vita monachorum; s. oben <ref target="file12187">Nr. 2140</ref>, Anm. 25; 2141, 34.</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Oblectavit is me plurimum.</s>
 					<s n="5" xml:lang="la" type="auto">Dominus Iesus reddat tibi bona coelestia terrenaque pro his, quę confers in me; sic etenim ab illo peto.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">Novi nihil habeo, nisi de persecutione, quę est in <placeName>Belgis</placeName>, non solum anabaptistarum, sed etiam vere piorum<note xml:id="fn3" type="footnote" n="3">Zu den Verfolgungen in den <placeName>Niederlanden</placeName> s. oben <ref target="file12130">Nr. 2083</ref>, 11f; 2089; 2113, 19-29; 2120, 91; 2131, 86f; 2133, 7-11.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Novi nihil habeo, nisi de persecutione, quę est in <placeName ref="l5" cert="high">Belgis</placeName>, non solum anabaptistarum, sed etiam vere piorum<note xml:id="fn3" type="footnote" n="3">Zu den Verfolgungen in den <placeName ref="l20" cert="high">Niederlanden</placeName> s. oben <ref target="file12130">Nr. 2083</ref>, 11f; 2089; 2113, 19-29; 2120, 91; 2131, 86f; 2133, 7-11.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Novi doctos quosdam, qui et ditissimi sunt, eiectos in exilium non ob aliud, nisi quod noluerunt consentire in<pb type="edition" next="281"/> effusionem sanguinis piorum.</s>
-					<s n="8" xml:lang="la" type="auto">Reginam Ungarię<note xml:id="fn5" type="footnote" n="5">Königin <persName>Maria von Ungarn</persName>, Statthalterin der Niederlande.</note> dicunt nunc tertio repulsam a colloquio fratris<note xml:id="fn6" type="footnote" n="6"><persName>Kaiser Karl V.</persName></note>, quod sustinuit concionatorem aliquamdiu verbi Christi.</s>
-					<s n="9" xml:lang="la" type="auto">Scribit his diebus d. quidam<note xml:id="fn8" type="footnote" n="8">Unbekannt; vielleicht <persName>Albert Hardenberg</persName>; s. unten <ref target="file12197">Nr. 2150</ref>, 30f und Anm. 25.</note> ex <placeName>Bonna</placeName> cęsarem precibus ac minis a reformatione <placeName>Coloniensis</placeName> episcopi<note xml:id="fn9" type="footnote" n="9">Hermann von Wied, Erzbischof von <placeName>Köln</placeName>.</note> absterrere, et addit, quicunque aliqua suspicione relicti papismi laboret, discrimini proximum esse.</s>
+					<s n="8" xml:lang="la" type="auto">Reginam Ungarię<note xml:id="fn5" type="footnote" n="5">Königin <persName ref="p18215" cert="high">Maria von Ungarn</persName>, Statthalterin der Niederlande.</note> dicunt nunc tertio repulsam a colloquio fratris<note xml:id="fn6" type="footnote" n="6"><persName ref="p18538" cert="high">Kaiser Karl V.</persName></note>, quod sustinuit concionatorem aliquamdiu verbi Christi.</s>
+					<s n="9" xml:lang="la" type="auto">Scribit his diebus d. quidam<note xml:id="fn8" type="footnote" n="8">Unbekannt; vielleicht <persName ref="p8371" cert="high">Albert Hardenberg</persName>; s. unten <ref target="file12197">Nr. 2150</ref>, 30f und Anm. 25.</note> ex <placeName ref="l56" cert="high">Bonna</placeName> cęsarem precibus ac minis a reformatione <placeName ref="l267" cert="high">Coloniensis</placeName> episcopi<note xml:id="fn9" type="footnote" n="9">Hermann von Wied, Erzbischof von <placeName ref="l267" cert="high">Köln</placeName>.</note> absterrere, et addit, quicunque aliqua suspicione relicti papismi laboret, discrimini proximum esse.</s>
 					<s n="10" xml:lang="la" type="auto">Nec senes et iuvenes modo comburi, sed et mulieres vivas defodi<note xml:id="fn10" type="footnote" n="10">Siehe oben <ref target="file12178">Nr. 2131</ref>, 86f und Anm. 48.</note>.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Misi per <persName ref="p18518">Gastium</persName><note xml:id="fn11" type="footnote" n="11">Eine entsprechende Sendung ist nicht bekannt.</note> articulos cuiusdam Schaldeneckeri - stultiores, quam ut terrere debeant -, qui combustus est, homo septuagenarius,<note xml:id="fn14" type="footnote" n="14"><persName>Pruystinck</persName> wäre also etwa 1474 geboren.</note> pauper et multorum liberorum pater; quos, ubi perlegeris, remittito.</s>
+					<s n="11" xml:lang="la" type="auto">Misi per <persName ref="p1278" cert="high">Gastium</persName><note xml:id="fn11" type="footnote" n="11">Eine entsprechende Sendung ist nicht bekannt.</note> articulos cuiusdam Schaldeneckeri - stultiores, quam ut terrere debeant -, qui combustus est, homo septuagenarius,<note xml:id="fn14" type="footnote" n="14"><persName ref="p17887" cert="high">Pruystinck</persName> wäre also etwa 1474 geboren.</note> pauper et multorum liberorum pater; quos, ubi perlegeris, remittito.</s>
 					<s n="12" xml:lang="la" type="auto">Non est enim<pb type="edition" next="282"/> aliud nobis exemplar.</s>
-					<s n="13" xml:lang="la" type="auto">Contendit anxie Mennon quidam <persName>Simonis</persName>, anabaptistarum doctor, contra domini incarnationem, cui tamen respondet <persName>Ioannes Lasco</persName> Polonus<note xml:id="fn15" type="footnote" n="15"><persName>Johannes a <hi>Lasco</hi></persName>, Defensio verae doctrinae, Bonn 1545; s. oben <ref target="file12167">Nr. 2120</ref>, Anm. 19; <hi>Jürgens,</hi> <persName>a Lasco</persName>, 254-260.</note>.</s>
+					<s n="13" xml:lang="la" type="auto">Contendit anxie <persName ref="p6614" cert="high">Mennon quidam Simonis</persName>, anabaptistarum doctor, contra domini incarnationem, cui tamen respondet <persName ref="p8041" cert="high">Ioannes Lasco</persName> Polonus<note xml:id="fn15" type="footnote" n="15"><persName ref="p8041" cert="high">Johannes a <hi>Lasco</hi></persName>, Defensio verae doctrinae, Bonn 1545; s. oben <ref target="file12167">Nr. 2120</ref>, Anm. 19; <hi>Jürgens,</hi> <persName ref="p8041" cert="high">a Lasco</persName>, 254-260.</note>.</s>
 					<s n="14" xml:lang="la" type="auto">Quod dico nonnisi, ut videas, quam mirabiliter satan in membris suis se exerceat.</s>
-					<s n="15" xml:lang="la" type="auto">Idem videri solet in toxico illo <placeName>Genevensi</placeName>, de quo nosti<note xml:id="fn16" type="footnote" n="16">Siehe oben <ref target="file12176">Nr. 2129</ref>, 34-46.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Idem videri solet in toxico illo <placeName ref="l167" cert="high">Genevensi</placeName>, de quo nosti<note xml:id="fn16" type="footnote" n="16">Siehe oben <ref target="file12176">Nr. 2129</ref>, 34-46.</note>.</s>
 					<s n="16" xml:lang="la" type="auto">Tantilla per ocium potui exponere.</s>
 				</p>
 				<p>
 					<s n="17" xml:lang="la" type="auto">Vale per Christum cum tuis ad huius gloriam.</s>
-					<s n="18" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 22. aprilis anno 1545.</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 22. aprilis anno 1545.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+					<s n="19" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Os. Myconius</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10995" type="Brief" source="HBBW" n="953">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10995" type="Brief" source="HBBW-7" n="953">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Petrus Dasypodius (Hasenfratz) / Strassburg AN Heinrich Bullinger, 19. Februar 1537</title>
+				<title subtype="file">Petrus Dasypodius (Hasenfratz) / Strassburg an Heinrich Bullinger, 19. Februar 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,8 +19,8 @@
 					<s n="1" xml:lang="la" type="auto">S. et conscientię tranquillitatem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Venit ad nos undecimo kalendas marcii<note xml:id="fn1" type="footnote" n="1">19. Februar.</note> <persName>Ioannes Kopffius</persName>, harum lator literarum, significans se palam ecclesię velle testari connubium, quod inter<pb type="edition" next="71"/> ipsum et <persName>Dorotheam Locheram</persName> pridem tacito consensu intercessisset; quod et fecit me simul nos spectante.</s>
-					<s n="3" xml:lang="la" type="auto">Cum autem <persName>Capito</persName> noster maximis occupatus negotiis hac de re non posset quicquam a nobis doceri nec <persName ref="p18198">Bucerus</persName>, cui pręcipue negotium ad te scribendi eramus iniuncturi, etiamdum ex Schmalcaldico conventu rediisset<note xml:id="fn4" type="footnote" n="4">Am 27. März berichtet <persName>Myconius</persName>, <persName>Bucer</persName> sei vor wenigen Tagen zurückgekehrt; s. unten <ref target="file11019">Nr. 977</ref>, 5f.</note>, extorsit homo bonus qualemcunque hanc nobis ad te epistolam, qua tantum id testatum esse vobis omnibus volumus, quod ad matrimonium attinet, legittime ac pro ecclesię nostrę more contractum esse inter illos nec fuci quicquam subesse.</s>
+					<s n="2" xml:lang="la" type="auto">Venit ad nos undecimo kalendas marcii<note xml:id="fn1" type="footnote" n="1">19. Februar.</note> <persName ref="p5507" cert="high">Ioannes Kopffius</persName>, harum lator literarum, significans se palam ecclesię velle testari connubium, quod inter<pb type="edition" next="71"/> ipsum et <persName ref="p5506" cert="high">Dorotheam Locheram</persName> pridem tacito consensu intercessisset; quod et fecit me simul nos spectante.</s>
+					<s n="3" xml:lang="la" type="auto">Cum autem <persName ref="p5565" cert="high">Capito</persName> noster maximis occupatus negotiis hac de re non posset quicquam a nobis doceri nec <persName ref="p467" cert="high">Bucerus</persName>, cui pręcipue negotium ad te scribendi eramus iniuncturi, etiamdum ex Schmalcaldico conventu rediisset<note xml:id="fn4" type="footnote" n="4">Am 27. März berichtet <persName ref="p8418" cert="high">Myconius</persName>, <persName ref="p467" cert="high">Bucer</persName> sei vor wenigen Tagen zurückgekehrt; s. unten <ref target="file11019">Nr. 977</ref>, 5f.</note>, extorsit homo bonus qualemcunque hanc nobis ad te epistolam, qua tantum id testatum esse vobis omnibus volumus, quod ad matrimonium attinet, legittime ac pro ecclesię nostrę more contractum esse inter illos nec fuci quicquam subesse.</s>
 					<s n="4" xml:lang="la" type="auto">Proinde, doctissime Bullingere, quamvis hominem de facie tantum et ex uno atque altero cognoscere mihi colloquio licuerit, uxorem tamen, cum a teneris mihi cognita sit, non possum tibi non commendare, atque utinam vel horam tantum adhuc apud nos morati fuissent, quo fusius id mihi facere licuisset.</s>
 					<s n="5" xml:lang="la" type="auto">Sed tu cum reliquis tuis symmistis ac amicis nihilosetius utrique benefacere, perinde ac si maxime cum per nos tum per alios essent commendati vobis, pergere debes.</s>
 					<s n="6" xml:lang="la" type="auto">Boni consule; prolixius enim tecum agere propter repentinum illorum abitum non potui.</s>
@@ -29,10 +29,10 @@
 					<s n="7" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto"><placeName>Argentorati</placeName>, 11. kalendas marcii anno 1537.</s>
+					<s n="8" xml:lang="la" type="auto"><placeName ref="l492" cert="high">Argentorati</placeName>, 11. kalendas marcii anno 1537.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto"><persName>Petrus Dasypodius</persName> totus tuus.</s>
+					<s n="9" xml:lang="la" type="auto"><persName ref="p8320" cert="high">Petrus Dasypodius</persName> totus tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

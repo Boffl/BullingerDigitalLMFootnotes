@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11736" type="Brief" source="HBBW" n="1691">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11736" type="Brief" source="HBBW-12" n="1691">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Peter Simler (Simmler)] / [Kappel am Albis] AN [Heinrich Bullinger], 18. November 1542</title>
+				<title subtype="file">[Peter Simler (Simmler)] / [Kappel am Albis] an [Heinrich Bullinger], 18. November 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -12,14 +12,34 @@
 				</sourceDesc>
 		</fileDesc>
 		</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F00%20E_II_437__fol__147_v_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">11736/Beilage/00 E_II_437__fol__147_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F01%20E_II_437__fol__147_r_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">11736/Beilage/01 E_II_437__fol__147_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F02%20E_II_437__fol__148_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">11736/Beilage/02 E_II_437__fol__148_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F03%20E_II_437__fol__148_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">11736/Beilage/03 E_II_437__fol__148_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img5-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F04%20E_II_437__fol__149_r_.tif/full/max/0/default.jpg" n="5"><desc subtype="path">11736/Beilage/04 E_II_437__fol__149_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img6-1" url="https://iiif.bullinger-digital.ch/iiif/3/11736%2FBeilage%2F05%20E_II_437__fol__149_v_.tif/full/max/0/default.jpg" n="6"><desc subtype="path">11736/Beilage/05 E_II_437__fol__149_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
 	<text xml:lang="de">
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="de" type="auto">Lieber her gfatter<note xml:id="fn2" type="footnote" n="2">Bullinger war Pate von <persName>Peter Simlers</persName> Sohn Josias, vgl. <bibl>HBBW</bibl> I <ref target="file10020">[Nr. 3]</ref> 53, Anm. 2.</note>, ich schick üch hie ingschrifft das, so ir begert hannd; doch so heiter nit, wie ir begärent.</s>
+					<s n="1" xml:lang="de" type="auto">Lieber her gfatter<note xml:id="fn2" type="footnote" n="2">Bullinger war Pate von <persName ref="p8443" cert="high">Peter Simlers</persName> Sohn Josias, vgl. <bibl>HBBW</bibl> I <ref target="file10020">[Nr. 3]</ref> 53, Anm. 2.</note>, ich schick üch hie ingschrifft das, so ir begert hannd; doch so heiter<note xml:id="fn4" type="footnote" n="4">klar.</note> nit, wie ir begärent.</s>
 					<s n="2" xml:lang="de" type="auto">Ir hannd allein das jar, in dem minen heren das kloster ist über geben, den monat aber nit.</s>
 					<s n="3" xml:lang="de" type="auto">Wir hands am anfang nit uffzeichnot, sonnder einfaltig als die wol trüwenden<note xml:id="fn5" type="footnote" n="5">einfach in gutem Vertrauen.</note> mitt unsern heren gehandlet.</s>
-					<s n="4" xml:lang="de" type="auto">Manglent ir etwas wyter, so lassent michs wüssen; was überflyssig ist, thuͦnd dannen.</s>
+					<s n="4" xml:lang="de" type="auto">Manglent ir etwas wyter, so lassent michs wüssen; was überflyssig<note xml:id="fn6" type="footnote" n="6">überflüssig.</note> ist, thuͦnd dannen.</s>
 				</p>
 				<p>
 					<s n="5" xml:lang="de" type="auto">Damit sinnd gott bevolchen.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11492" type="Brief" source="VBS" n="11">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11492" type="Brief" source="VBS-5" n="11">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 13. Juli [1532, 1535, 1538]</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 13. Juli [1532, 1535, 1538]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -54,7 +54,7 @@
 					<s n="19" xml:lang="la" type="auto">- Felicitas publica.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">10. M. <persName>Agrippa</persName> L. F. Cos. III. <persName>C. Marius</persName> M. Cos.</s>
+					<s n="20" xml:lang="la" type="auto">10. M. <persName ref="p18631" cert="high">Agrippa</persName> L. F. Cos. III. <persName ref="p16781" cert="high">C. Marius</persName> M. Cos.</s>
 				</p>
 				<p>
 					<s n="21" xml:lang="la" type="auto">11. Diocletianus August.</s>
@@ -93,7 +93,7 @@
 					<s n="36" xml:lang="la" type="auto">- Minerva.</s>
 				</p>
 				<p>
-					<s n="37" xml:lang="la" type="auto">21. <persName>Gratianus</persName>.</s>
+					<s n="37" xml:lang="la" type="auto">21. <persName ref="p4997" cert="high">Gratianus</persName>.</s>
 				</p>
 				<p>
 					<s n="38" xml:lang="la" type="auto">22. Divus Iulius. S. P. Q. R.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11674" type="Brief" source="HBBW" n="1631">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11674" type="Brief" source="HBBW-12" n="1631">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 15. Mai 1542</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 15. Mai 1542</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Dolet mihi, quod <persName>Quirinus</persName><note xml:id="fn1" type="footnote" n="1">Die Rede ist vom Buchhändler <persName>Quirinus von Leiden</persName>.</note> filium suum ita circumducit; videtur indolis non malę, si recte institueretur.</s>
+					<s n="2" xml:lang="la" type="auto">Dolet mihi, quod <persName ref="p18308" cert="high">Quirinus</persName><note xml:id="fn1" type="footnote" n="1">Die Rede ist vom Buchhändler <persName ref="p18308" cert="high">Quirinus von Leiden</persName>.</note> filium suum ita circumducit; videtur indolis non malę, si recte institueretur.</s>
 					<s n="3" xml:lang="la" type="auto">Modo mirabili his diebus ingenium eius<pb type="edition" next="88"/> exploravi; reperi non paulo patre prudentiorem.</s>
 					<s n="4" xml:lang="la" type="auto">Novit egregie, quę patrem dedecent, et libere corripit; si tamen ita manserit, actum esse de ipso vereor.</s>
 				</p>
@@ -30,17 +30,17 @@
 					<s n="8" xml:lang="la" type="auto">Iudicio tuo subiicio, qualisqualis est.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="la" type="auto">Nova nulla sunt, nisi, quod suspicio est Gallo<note xml:id="fn3" type="footnote" n="3"><persName>König Franz I. von Frankreich</persName>.</note>, <placeName>Venetis</placeName> et papę<note xml:id="fn4" type="footnote" n="4"><persName>Papst Paul III.</persName></note> convenire cum Turca.</s>
+					<s n="9" xml:lang="la" type="auto">Nova nulla sunt, nisi, quod suspicio est <persName ref="7637" type="auto_name">Gallo</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p7637" cert="high">König Franz I. von Frankreich</persName>.</note>, <placeName ref="l522" cert="high">Venetis</placeName> et papę<note xml:id="fn4" type="footnote" n="4"><persName ref="p19981" cert="high">Papst Paul III.</persName></note> convenire cum Turca.</s>
 					<s n="10" xml:lang="la" type="auto">Quę res quas turbas excitatura foret, quis non videt?</s>
-					<s n="11" xml:lang="la" type="auto">Illud pro vero narratur: Gallum foedus ictum cum cęsare in decennium renunciasse<note xml:id="fn6" type="footnote" n="6">Entgegen diesem Gerücht war der am 18. Juni 1538 in <placeName>Nizza</placeName> zwischen <persName>Kaiser Karl V.</persName> und <persName>König Franz I.</persName> geschlossene Waffenstillstandsvertrag (vgl. <bibl>HBBW VIII</bibl> <ref target="file11177">[Nr. 1134]</ref>, S. 144, Anm. 4) formell noch in Geltung, während der König bereits zum Krieg rüstete; vgl. <bibl>Cardauns</bibl> 214f. 218f.</note>.</s>
+					<s n="11" xml:lang="la" type="auto">Illud pro vero narratur: Gallum foedus ictum cum cęsare in decennium renunciasse.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Venit vir nobilis in civitatem nostram his diebus, qui dixit se captum a Turca cum Iudęo et camelo traxisse aratrum.</s>
-					<s n="13" xml:lang="la" type="auto">Pręteriisse legatos Gallos, qui erant profecturi ad Turcam<note xml:id="fn8" type="footnote" n="8">Von welcher der französischen Gesandtschaften nach <placeName>Konstantinopel</placeName> die Rede ist, bleibt offen.</note>, et rogasse ab equis, quisnam et unde esset.</s>
-					<s n="14" xml:lang="la" type="auto">Respondisse se christianum esse et <placeName>Colmariensem</placeName>; solvisse igitur mox illos coronatos, puto, sexaginta ac redemisse.</s>
+					<s n="12" xml:lang="la" type="auto">Venit vir nobilis<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> in civitatem nostram his diebus, qui dixit se captum a Turca cum Iudęo et camelo traxisse aratrum.</s>
+					<s n="13" xml:lang="la" type="auto">Pręteriisse legatos Gallos, qui erant profecturi ad Turcam<note xml:id="fn8" type="footnote" n="8">Von welcher der französischen Gesandtschaften nach <placeName ref="l1148" cert="high">Konstantinopel</placeName> die Rede ist, bleibt offen.</note>, et rogasse ab equis, quisnam et unde esset.</s>
+					<s n="14" xml:lang="la" type="auto">Respondisse se christianum esse et <placeName ref="l101" cert="high">Colmariensem</placeName>; solvisse igitur mox illos coronatos, puto, sexaginta ac redemisse.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Rumor est praeterea Turcam demolitum funditus Budam et <placeName>Pestam</placeName>, arcem vero in quinquennium cibo et potu communiisse reddidisseque insuperabilem.</s>
+					<s n="15" xml:lang="la" type="auto">Rumor est praeterea Turcam demolitum funditus Budam et <placeName ref="l1841" cert="high">Pestam</placeName>, arcem vero in quinquennium cibo et potu communiisse reddidisseque insuperabilem.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto">Tantilla nolui te ignorare.</s>
@@ -49,10 +49,10 @@
 					<s n="17" xml:lang="la" type="auto">Vale in domino cum tuis et fratribus omnibus.</s>
 				</p>
 				<p>
-					<s n="18" xml:lang="la" type="auto"><placeName>Basileę</placeName>, raptim, 15. maii anno 1542.</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, raptim, 15. maii anno 1542.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto"><persName>Os. Myconius</persName> tuus.</s>
+					<s n="19" xml:lang="la" type="auto"><persName ref="p8418" cert="high">Os. Myconius</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

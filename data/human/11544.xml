@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11544" type="Brief" source="CO" n="298">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11544" type="Brief" source="CO-XI" n="298">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Hans Bock von Gerstheim / [Straßburg] AN Heinrich Bullinger / [Zürich], 19. April 1541</title>
+				<title subtype="file">Hans Bock von Gerstheim / [Straßburg] an Heinrich Bullinger / [Zürich], 19. April 1541</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,7 +18,7 @@
 				<p>
 					<s n="1" xml:lang="de" type="auto">Frid vnd gnad vonn gott dem vatter durch hiesum Christum vnsern lieben herren sey euch zuvor, würdigen hochgelerten Christlichen günstigen lieben heren vnnd fründt, mit erbietung meiner gantz gutwilligen vnd früntlichen dienst.</s>
 					<s n="2" xml:lang="de" type="auto">Ich hab euwer guthertzig Schrybenn, betreffen hern Calphinum inn myner ankunnfft empfangen vnd gelesen, aber die anderen zwen brieff, da der ein an myne lieben hern vnnd fründt die predicanten vnd verkynder des wort gotts alhie zu Straszburg, vnd der ander an Hern Calphinum stond, sindt zuvor vnd ehe ich anheimsch khommenn denselbigen mynen hern vnd fründen obgenant zuhanden gestelt worden, wie dann der brieff so an sie steth von Inen verlesen vnd wie ich mich versihe Ir antwurt vch auch zugeschribenn, vnd mir gesagt, es soll von Inenn hern Calphino sein brieff mit nechster bottschafft zugeschickt werden: vnd fürwar ich khan ouch üwer Christenlich vnd gutt bedencken so Ir des Calphini halben mir zugeschriben nit anders dann für Christenlich vnd billich erkhennen.</s>
-					<s n="3" xml:lang="de" type="auto">Aber diwyl Her Calphinus yetzt nit hie ist vnd nit wol mag in seinem abwesenn fruchtbarlich gehandelt werdenn, hab ich euwer lieb begeren vff dismal an einen Ersamen Rhat nit gelangen lassen, will aber sollichs thun mit Gotts hilff sobald er sampt vnsern gesanten von <placeName>Regenspurg</placeName> by vns wider ankummen.</s>
+					<s n="3" xml:lang="de" type="auto">Aber diwyl Her Calphinus yetzt nit hie ist vnd nit wol mag in seinem abwesenn fruchtbarlich gehandelt werdenn, hab ich euwer lieb begeren vff dismal an einen Ersamen Rhat nit gelangen lassen, will aber sollichs thun mit Gotts hilff sobald er sampt vnsern gesanten von <placeName ref="l410" cert="high">Regenspurg</placeName> by vns wider ankummen.</s>
 				</p>
 				<p>
 					<s n="4" xml:lang="de" type="auto">gutt hoffnung, myne Herren vnd die prediger auch Calphini nach selbs werden das beharrlich erfordern deren von Genff vnd fürgegeben besserung der kirchen zu hertzen füren vnd das fürnemen das dieselben kirchen vnd Gotts ehren auch gelegenhait vnd vermoegen des Calphini am gemessesten sein mag, darzu ich auch gern verhelffenn vnd einen Ersamen Rhat trüwlich ermanen will vnd das nit allein der sachen halb die ich nit anders dann für Christlich vnd recht verstehe, sonder auch vch mynen lieben Hern zugefallen, welchen ich gern wolte danckbar sein des vilfaltigen gutten willens halb so Ir alle zugegen mir erzoeugt haben, dann vch sampt vnd sonders meins vermoegens gutwillig vnd fründlich dienst zu bewyszen sollen Ir mich alleweg willig befinden.</s>

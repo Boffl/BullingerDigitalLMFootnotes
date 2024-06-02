@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13150" type="Brief" source="TUSTEP" n="3101">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file13150" type="Brief" source="TUSTEP-20" n="3101">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen AN Heinrich Bullinger, 30. Dezember 1547</title>
+				<title subtype="file">Joachim Vadian (von Watt) / St. Gallen an Heinrich Bullinger, 30. Dezember 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,16 +17,16 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Ex <persName>Stumpfii</persName> literis, de <persName>Scudo</persName><note xml:id="fn13" type="footnote" n="13"><persName>Ägidius Tschudi</persName>.</note> ut omnia habeant, intellexi.</s>
+					<s n="2" xml:lang="la" type="auto">Ex <persName ref="p3067" cert="high">Stumpfii</persName> literis, de <persName ref="p8108" cert="high">Scudo</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p8108" cert="high">Ägidius Tschudi</persName>.</note> ut omnia habeant, intellexi.</s>
 					<s n="3" xml:lang="la" type="auto">Sic solemus interdum erga illos animati esse, quorum perpetuis officiis devincimur!<note xml:id="fn14" type="footnote" n="14">Ironisch gemeint.</note> Crützlinganus abbas, illi frater, arbitror, patruelis est.</s>
 					<s n="4" xml:lang="la" type="auto">Abbas autem noster, ex quo tempore praefectum egit Rorschacensem, longe amicissimus factus est.</s>
-					<s n="5" xml:lang="la" type="auto">Sed et dudum in omnia monasterii Sangallensis penetralia admissus bibliothecam etiam non semel excussit et perlustravit, praeterea veterum chartarum, quae in reconditorio quodam <placeName>Wilae</placeName> asservantur, diligens inspector fuit, quemadmodum et in Fabariensi monasterio, quicquid mediae antiquitatis videri potuit, dudum magna abbatum favore vidit.</s>
+					<s n="5" xml:lang="la" type="auto">Sed et dudum in omnia monasterii Sangallensis penetralia admissus bibliothecam etiam non semel excussit et perlustravit, praeterea veterum chartarum, quae in reconditorio quodam <placeName ref="l1283" cert="high">Wilae</placeName> asservantur, diligens inspector fuit, quemadmodum et in Fabariensi monasterio, quicquid mediae antiquitatis videri potuit, dudum magna abbatum favore vidit.</s>
 					<s n="6" xml:lang="la" type="auto">Vir est natura antiquitatis universae studiosus, ut nostis (et cuperem sane ipsum tam sacrarum literarum esse doctum, quam prophanarum penitus est!), verum eum laborem mavult aliorum esse quam suum.</s>
 					<s n="7" xml:lang="la" type="auto">Eximia vero erga me benevolentia est.</s>
-					<s n="8" xml:lang="la" type="auto">Multa magnaque saepe pollicitus, ut non dubitem, quin me vel <persName>Stumpfii</persName> vel aliorum quorumvis nomine agentem minime invitus admitteret.</s>
-					<s n="9" xml:lang="la" type="auto">Verum, quod tua pace dixerim, longe mihi consultius videtur, ut ipse <persName>Stumpfius</persName> negocium suscipiat, cui formulam submitto, qua si uteretur, non ambigerem, quin plurimum de ardore illo male affecti stomachi sit remissurus.</s>
-					<s n="10" xml:lang="la" type="auto">Videbit enim, quid <persName>Stumpfius</persName> potuisset, si calamo indulgere ac non potius pro sua humanitate intra mediocritatem sese continere libuerit.</s>
-					<s n="11" xml:lang="la" type="auto">Si alius scriberet, spem conciperet de nostro metu et fractis animis et nescio qua de factione sibi polliceretur; id quod abunde <persName>Stumpfius</persName> avertet, si mihi gesserit morem.</s>
+					<s n="8" xml:lang="la" type="auto">Multa magnaque saepe pollicitus, ut non dubitem, quin me vel <persName ref="p3067" cert="high">Stumpfii</persName> vel aliorum quorumvis nomine agentem minime invitus admitteret.</s>
+					<s n="9" xml:lang="la" type="auto">Verum, quod tua pace dixerim, longe mihi consultius videtur, ut ipse <persName ref="p3067" cert="high">Stumpfius</persName> negocium suscipiat, cui formulam submitto, qua si uteretur, non ambigerem, quin plurimum de ardore illo male affecti stomachi sit remissurus.</s>
+					<s n="10" xml:lang="la" type="auto">Videbit enim, quid <persName ref="p3067" cert="high">Stumpfius</persName> potuisset, si calamo indulgere ac non potius pro sua humanitate intra mediocritatem sese continere libuerit.</s>
+					<s n="11" xml:lang="la" type="auto">Si alius scriberet, spem conciperet de nostro metu et fractis animis et nescio qua de factione sibi polliceretur; id quod abunde <persName ref="p3067" cert="high">Stumpfius</persName> avertet, si mihi gesserit morem.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
@@ -38,7 +38,7 @@
 					<s n="14" xml:lang="la" type="auto">Sangalli, 3. calendas ianuarias anno 1547.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto">Ioach. <persName>Vadianus</persName>.</s>
+					<s n="15" xml:lang="la" type="auto">Ioach. <persName ref="p8049" cert="high">Vadianus</persName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

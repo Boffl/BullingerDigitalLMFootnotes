@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11898" type="Brief" source="HBBW" n="1852">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11898" type="Brief" source="HBBW-14" n="1852">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Oswald Myconius (Geißhüsler), 20. Februar 1544</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Oswald Myconius (Geißhüsler), 20. Februar 1544</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,11 +16,11 @@
 		<body>
 			<div xml:id="div1" corresp="regest1">
 				<p>
-					<s n="1" xml:lang="la" type="auto">[...] commissum habeas adolescentulum; polliceor et ego me non ingratum fore.</s>
+					<s n="1" xml:lang="la" type="auto">[...] commissum habeas adolescentulum<note xml:id="fn1" type="footnote" n="1">Unbekannt.</note>; polliceor et ego me non ingratum fore.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">De comitiis <placeName>Spirensibus</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11881">Nr. 1835</ref>, Anm. 3.</note> si quid habes certi, fac sciam.</s>
-					<s n="3" xml:lang="la" type="auto">Nos nihil habemus rerum novarum, nisi quod Turca<note xml:id="fn3" type="footnote" n="3"><persName>Sultan Suleiman I.</persName></note> a <placeName>Venetis</placeName> dicitur transitum petiisse in <placeName>Italiam</placeName> ac Gallum<note xml:id="fn4" type="footnote" n="4"><persName>König Franz I. von Frankreich</persName>.</note> non infeliciter pulsis e Pedemontana regione <placeName>Hispanis</placeName><note xml:id="fn5" type="footnote" n="5">Die Mitteilung ist ungenau: Zwar wurden die Spanier im Winter 1543/1544 in einigen piemontesischen Orten von den Franzosen besiegt, aber nicht völlig aus der Region vertrieben; s. <persName>Du Bellay</persName>, Mémoires IV 194-200.</note> properare versus <placeName>Mediolanum</placeName>.</s>
+					<s n="2" xml:lang="la" type="auto">De comitiis <placeName ref="l471" cert="high">Spirensibus</placeName><note xml:id="fn2" type="footnote" n="2">Vgl. oben <ref target="file11881">Nr. 1835</ref>, Anm. 3.</note> si quid habes certi, fac sciam.</s>
+					<s n="3" xml:lang="la" type="auto">Nos nihil habemus rerum novarum, nisi quod <persName ref="p18593" cert="high">Turca</persName><note xml:id="fn3" type="footnote" n="3"><persName ref="p18593" cert="high">Sultan Suleiman I.</persName></note> a <placeName ref="l522" cert="high">Venetis</placeName> dicitur transitum petiisse in <placeName ref="l16" cert="high">Italiam</placeName> ac <persName ref="p7637" cert="high">Gallum</persName><note xml:id="fn4" type="footnote" n="4"><persName ref="p7637" cert="high">König Franz I. von Frankreich</persName>.</note> non infeliciter pulsis e Pedemontana regione <placeName ref="l29" cert="high">Hispanis</placeName><note xml:id="fn5" type="footnote" n="5">Die Mitteilung ist ungenau: Zwar wurden die Spanier im Winter 1543/1544 in einigen piemontesischen Orten von den Franzosen besiegt, aber nicht völlig aus der Region vertrieben; s. <persName ref="p17970" cert="high">Du Bellay</persName>, Mémoires IV 194-200.</note> properare versus <placeName ref="l306" cert="high">Mediolanum</placeName>.</s>
 					<s n="4" xml:lang="la" type="auto">Quam vera sint, nescio; sunt tamen, qui pro certissimis venditent.</s>
 				</p>
 				<p>
@@ -34,7 +34,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="8" xml:lang="la" type="auto">Clarissimo viro d. <persName>Osvaldo Myconio</persName>, Basileiensis ecclesiae vigilantissimo pastori, fratri colendissimo.</s>
+					<s n="8" xml:lang="la" type="auto">Clarissimo viro d. <persName ref="p8418" cert="high">Osvaldo Myconio</persName>, Basileiensis ecclesiae vigilantissimo pastori, fratri colendissimo.</s>
 					<s n="9" xml:lang="de" type="auto">Basel.</s>
 				</p>
 			</div>

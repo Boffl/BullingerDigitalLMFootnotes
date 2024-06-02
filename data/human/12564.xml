@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12564" type="Brief" source="TUSTEP" n="2517">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12564" type="Brief" source="TUSTEP-17" n="2517">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Joachim Vadian (von Watt), 29. Juli 1546</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Joachim Vadian (von Watt), 29. Juli 1546</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -26,13 +26,13 @@
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="7" xml:lang="de" type="auto"><foreign xml:lang="la">Praeterea scribit hodie d. Ambrosius Blaurerus:</foreign> Die von Franckfurt habend dem keysser uffgefangen für 1000 man harnisch, ettlich tusend haggen und ettlich hundert tonen bulvers.</s>
+					<s n="7" xml:lang="de" type="auto"><foreign xml:lang="la">Praeterea scribit hodie d. Ambrosius Blaurerus:</foreign> Die von <placeName ref="l157" cert="high">Franckfurt</placeName> habend dem keysser uffgefangen für 1000 man harnisch, ettlich tusend haggen und ettlich hundert tonen bulvers.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="8" xml:lang="de" type="auto">27. iulii ist ein fenli knaͤcht von <placeName>Basel</placeName> den Rhyn nider gefaren uff Straßburg.</s>
-					<s n="9" xml:lang="de" type="auto">Sind umb <placeName>Basel</placeName> angenommen.</s>
+					<s n="8" xml:lang="de" type="auto">27. iulii ist ein fenli knaͤcht von <placeName ref="l28" cert="high">Basel</placeName> den Rhyn nider gefaren uff Straßburg.</s>
+					<s n="9" xml:lang="de" type="auto">Sind umb <placeName ref="l28" cert="high">Basel</placeName> angenommen.</s>
 					<s n="10" xml:lang="la" type="auto">Plura non habeo.</s>
 				</p>
 			</div>
@@ -50,7 +50,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="16" xml:lang="la" type="auto">Clarissimo viro d. <persName>Ioachimo Vadiano</persName>, domino suo colendissimo.</s>
+					<s n="16" xml:lang="la" type="auto">Clarissimo viro d. <persName ref="p8049" cert="high">Ioachimo Vadiano</persName>, domino suo colendissimo.</s>
 					<s n="17" xml:lang="la" type="auto">Sangallen.</s>
 				</p>
 			</div>

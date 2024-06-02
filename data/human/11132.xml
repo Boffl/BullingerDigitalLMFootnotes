@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11132" type="Brief" source="HBBW" n="1089">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11132" type="Brief" source="HBBW-8" n="1089">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Kaspar Megander (Großmann) / Bern AN Heinrich Bullinger, Leo Jud, 5. Januar 1538</title>
+				<title subtype="file">Kaspar Megander (Großmann) / Bern an Heinrich Bullinger, Leo Jud, 5. Januar 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -28,18 +28,18 @@
 				<p>
 					<s n="7" xml:lang="la" type="auto">Ego indies anxie et sollicite nuncium expecto de conductis ędibus.</s>
 					<s n="8" xml:lang="la" type="auto">Hoc enim accepto primo quoque die hinc solvam.</s>
-					<s n="9" xml:lang="la" type="auto">Ferunt ędes consulis Wyssen<note xml:id="fn4" type="footnote" n="4">Dem 1528 verstorbenen Bürgermeister <persName>Matthias Wyß</persName> gehörte das Haus "Zum Mond" an der Storchengasse 2 (s. <hi>Vögelin,</hi> Das alte Zürich I 486).</note> vel vacuas esse vel una solum muliercula obstetrice occupatas.</s>
+					<s n="9" xml:lang="la" type="auto">Ferunt ędes consulis Wyssen<note xml:id="fn4" type="footnote" n="4">Dem 1528 verstorbenen Bürgermeister <persName ref="p7138" cert="high">Matthias Wyß</persName> gehörte das Haus "Zum Mond" an der Storchengasse 2 (s. <hi>Vögelin,</hi> Das alte Zürich I 486).</note> vel vacuas esse vel una solum muliercula<note xml:id="fn5" type="footnote" n="5">Unbekannt.</note> obstetrice occupatas.</s>
 					<s n="10" xml:lang="la" type="auto">Curate, obsecro, ut domum habeam idque brevi rescire.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto"><placeName>Bernę</placeName>, quinta ianuarii anno 38.</s>
+					<s n="11" xml:lang="la" type="auto"><placeName ref="l41" cert="high">Bernę</placeName>, quinta ianuarii anno 38.</s>
 				</p>
 				<p>
 					<s n="12" xml:lang="la" type="auto">Megand. totus vester.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="13" xml:lang="la" type="auto">Tiguri verbi praeconibus Bullingero, <persName ref="p2305">Leoni</persName> piis ac vigilantissimis, in domino fratribus suis charissimis.</s>
+					<s n="13" xml:lang="la" type="auto">Tiguri verbi praeconibus Bullingero, <persName ref="p1753" cert="high">Leoni</persName> piis ac vigilantissimis, in domino fratribus suis charissimis.</s>
 				</p>
 			</div>
 		</body>

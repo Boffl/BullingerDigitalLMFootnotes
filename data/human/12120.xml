@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12120" type="Brief" source="CO" n="608">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12120" type="Brief" source="CO-XII" n="608">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Pierre Viret / Lausanne AN Heinrich Bullinger, 21. Januar 1545</title>
+				<title subtype="file">Pierre Viret / Lausanne an Heinrich Bullinger, 21. Januar 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -21,7 +21,7 @@
 				<p>
 					<s n="2" xml:lang="la" type="auto">Vehementer gravisus sum, Bullingere doctissime, quod ex tuis ad Coelium literis intellexerim, te ac tuos collegas et symmystae omnes esse prospera valetudine: sed valde cruciavit animum meum nuncius ille qui ad nos pervenit de libello quem nuper edidit Lutherus de negotio eucharistiae.</s>
 					<s n="3" xml:lang="la" type="auto">Utinam capularis senex aliam nobis cygneam cantionem cecinisset, quae plus ei attulisset ornamenti, amicis vero et bonis omnibus plus voluptatis atque utilitatis, et minus oblectamenti hostibus nostrae religionis.</s>
-					<s n="4" xml:lang="la" type="auto">Nam quamvis sim eius linguae ignarus qua liber ille scriptus est, me tamen parum recreat, imo graviter angit animum meum, si vera sunt quae de eo audivi, tum ex tuis literis tum ab amicis, nuper quum <placeName>Bernae</placeName> essem: quae a vobis omnibus scripta non arbitror nisi vera sunt.</s>
+					<s n="4" xml:lang="la" type="auto">Nam quamvis sim eius linguae ignarus qua liber ille scriptus est, me tamen parum recreat, imo graviter angit animum meum, si vera sunt quae de eo audivi, tum ex tuis literis tum ab amicis, nuper quum <placeName ref="l41" cert="high">Bernae</placeName> essem: quae a vobis omnibus scripta non arbitror nisi vera sunt.</s>
 					<s n="5" xml:lang="la" type="auto">Audio vos adversus eum parare responsum, quod vobis non ausim dissuadere.</s>
 					<s n="6" xml:lang="la" type="auto">Non enim opinor vos ad scribendum fuisse animum appulsuros, nisi id magnopere res ipsa postularet et a vobis extorqueret.</s>
 				</p>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11765" type="Brief" source="HBBW" n="1720">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11765" type="Brief" source="HBBW-13" n="1720">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel AN Heinrich Bullinger, 15. Februar 1543</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / Basel an Heinrich Bullinger, 15. Februar 1543</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -25,7 +25,7 @@
 					<s n="7" xml:lang="la" type="auto">Quamobrem aliud esse oportet, quia nihil misisti, qui tamen nihil hactenus ędidisti, quod non miseris etc.“</s>
 					<s n="8" xml:lang="la" type="auto">Ad hęc tu taces paenitus et me meę - malę fortassis - cogitationi permittis.</s>
 					<s n="9" xml:lang="la" type="auto">Habes igitur, quod petisti;<note xml:id="fn2" type="footnote" n="2">Bullingers vorausgegangener Brief ist nicht erhalten.</note> sed vis, ut clare pandam tibi animum meum.</s>
-					<s n="10" xml:lang="la" type="auto">A sincero amico (qualem te iudico et habeo et habebo, quoad vixero) nihil unquam accidit, quod tulerim iniquius, quam quod <persName ref="p18518">Gastium</persName> mihi praetuleris in donando commentario tuo,<note xml:id="fn3" type="footnote" n="3">Die Rede ist von Bullingers Matthäuskommentar (<bibl>HBBibl</bibl> I 144).</note> et dolor fuisset forsitan lenior, nisi amici quidam veluti obprobrassent: „Quur huic?<pb type="edition" next="75"/></s>
+					<s n="10" xml:lang="la" type="auto">A sincero amico (qualem te iudico et habeo et habebo, quoad vixero) nihil unquam accidit, quod tulerim iniquius, quam quod <persName ref="p1278" cert="high">Gastium</persName> mihi praetuleris in donando commentario tuo,<note xml:id="fn3" type="footnote" n="3">Die Rede ist von Bullingers Matthäuskommentar (<bibl>HBBibl</bibl> I 144).</note> et dolor fuisset forsitan lenior, nisi amici quidam veluti obprobrassent: „Quur huic?<pb type="edition" next="75"/></s>
 					<s n="11" xml:lang="la" type="auto">Quur nihil tibi?“</s>
 					<s n="12" xml:lang="la" type="auto">Equidem enim dixeram librum me necdum vidisse.</s>
 					<s n="13" xml:lang="la" type="auto">Ea res adeo me vexavit, ut dicere nequeam.</s>
@@ -33,17 +33,17 @@
 					<s n="15" xml:lang="la" type="auto">Agnosce, quęso, candorem hic meum, ex quo tam clarus sum; non possum etenim ferre, ut scrupulum de me retineas aliquem.</s>
 				</p>
 				<p>
-					<s n="16" xml:lang="la" type="auto">Pręterea scribis tu inter alia, tanquam <placeName>Basilienses</placeName> de morte cęsaris<note xml:id="fn5" type="footnote" n="5"><persName>Karl V.</persName></note> aliquid vel dicant vel teneant.</s>
+					<s n="16" xml:lang="la" type="auto">Pręterea scribis tu inter alia, tanquam <placeName ref="l28" cert="high">Basilienses</placeName> de morte cęsaris<note xml:id="fn5" type="footnote" n="5"><persName ref="p18538" cert="high">Karl V.</persName></note> aliquid vel dicant vel teneant.</s>
 					<s n="17" xml:lang="la" type="auto">Si ex meis literis id excepisti,<note xml:id="fn6" type="footnote" n="6">Vgl. oben <ref target="file11756">Nr. 1711</ref>, 25-33.</note> miror, quid exciderit mihi; nam ne my quidem<note xml:id="fn7" type="footnote" n="7"><bibl>Adagia</bibl>, 1, 8, 2 (<bibl>LB</bibl> II 303f).</note> de eius obitu hic.</s>
-					<s n="18" xml:lang="la" type="auto">Aliunde ad me venit ea de re, maxime ex <placeName>Wormatia</placeName>, deinde per mercatorem quendam ex <placeName>Inferiore Germania</placeName> et nuperrime ex <placeName>Argentina</placeName>, quod videlicet omnia, quę de cęsare dicantur, sint ambigua, quamvis nuper certo perlatum venisse ipsum in <placeName>Italiam</placeName><note xml:id="fn9" type="footnote" n="9">In Wirklichkeit hielt sich der Kaiser noch bis Anfang März in <placeName>Madrid</placeName> auf; s. <bibl>Stälin</bibl> 576.</note>.</s>
+					<s n="18" xml:lang="la" type="auto">Aliunde ad me venit ea de re, maxime ex <placeName ref="l569" cert="high">Wormatia</placeName>, deinde per mercatorem quendam<note xml:id="fn8" type="footnote" n="8">Unbekannt.</note> ex <placeName ref="l20" cert="high">Inferiore Germania</placeName> et nuperrime ex <placeName ref="l492" cert="high">Argentina</placeName>, quod videlicet omnia, quę de cęsare dicantur, sint ambigua, quamvis nuper certo perlatum venisse ipsum in <placeName ref="l16" cert="high">Italiam</placeName><note xml:id="fn9" type="footnote" n="9">In Wirklichkeit hielt sich der Kaiser noch bis Anfang März in <placeName ref="l1358" cert="high">Madrid</placeName> auf; s. <bibl>Stälin</bibl> 576.</note>.</s>
 				</p>
 				<p>
-					<s n="19" xml:lang="la" type="auto">An vero non potuerunt citari <placeName>Basilienses</placeName> a iudicibus camerę,<note xml:id="fn10" type="footnote" n="10"><placeName>Basel</placeName> und weitere Orte waren vor das Reichskammergericht geladen worden, da sie die geforderten Beiträge zum Unterhalt des Gerichts und zur Türkenhilfe verweigert hatten; vgl. <bibl>EA</bibl> IV/1d 215. 216 a.</note> etiamsi defunctus esset ipse?</s>
+					<s n="19" xml:lang="la" type="auto">An vero non potuerunt citari <placeName ref="l28" cert="high">Basilienses</placeName> a iudicibus camerę,<note xml:id="fn10" type="footnote" n="10"><placeName ref="l28" cert="high">Basel</placeName> und weitere Orte waren vor das Reichskammergericht geladen worden, da sie die geforderten Beiträge zum Unterhalt des Gerichts und zur Türkenhilfe verweigert hatten; vgl. <bibl>EA</bibl> IV/1d 215. 216 a.</note> etiamsi defunctus esset ipse?</s>
 					<s n="20" xml:lang="la" type="auto">Scis, quę agant isti, ubi quid lucri sperant aut ubi viris evangelicis facessere possunt negotium.</s>
 					<s n="21" xml:lang="la" type="auto">At sive cęsar vivat, sive mortem obierit, calamitatem temporum ego doleo; adeo, quocunque aspicio, truculenta sunt omnia.</s>
 					<s n="22" xml:lang="la" type="auto">Et nos hic certe plus satis anxii sumus.</s>
-					<s n="23" xml:lang="la" type="auto">Clam quoque disputant viri, quibus dominus non est spes atque refugium: „Si“, inquiunt, „victoria favebit <persName>Carolo</persName>, bene nobis; sin Gallo<note xml:id="fn11" type="footnote" n="11"><persName>König Franz I.</persName></note>, ubi nos erimus?</s>
-					<s n="24" xml:lang="la" type="auto">Adversabitur Gallus, adversabuntur ex pagis, qui stant a Gallo,<note xml:id="fn12" type="footnote" n="12">Die Parteigänger <placeName>Frankreichs</placeName> in den eidgenössischen Orten.</note> et hic nonnihil dissidemus; non patet, quo nos vertamus.“</s>
+					<s n="23" xml:lang="la" type="auto">Clam quoque disputant viri, quibus dominus non est spes atque refugium: „Si“, inquiunt, „victoria favebit <persName ref="p18538" cert="high">Carolo</persName>, bene nobis; sin <persName ref="7637" type="auto_name">Gallo</persName><note xml:id="fn11" type="footnote" n="11"><persName ref="p7637" cert="high">König Franz I.</persName></note>, ubi nos erimus?</s>
+					<s n="24" xml:lang="la" type="auto">Adversabitur Gallus, adversabuntur ex pagis, qui stant a Gallo,<note xml:id="fn12" type="footnote" n="12">Die Parteigänger <placeName ref="l11" cert="high">Frankreichs</placeName> in den eidgenössischen Orten.</note> et hic nonnihil dissidemus; non patet, quo nos vertamus.“</s>
 					<s n="25" xml:lang="la" type="auto">Hęc inter se, verum occulte; nesciunt me illorum conscium, quamobrem et tu ea tibi servabis.</s>
 					<s n="26" xml:lang="la" type="auto">Quid animi vero putas esse talibus disputatoribus?</s>
 					<s n="27" xml:lang="la" type="auto">Principio deum, ut dixi, pro refugio non habent.</s>
@@ -59,7 +59,7 @@
 					<s n="35" xml:lang="la" type="auto">Redeo ad timidos istos, de quibus coeperam.</s>
 					<s n="36" xml:lang="la" type="auto">Mire molesti sunt fratribus nobis iam per integrum annum propter flagitiorum correptionem, imo non hoc, sed ob correptionis modum; hic etenim audent nobis praescribere ad<pb type="edition" next="76"/> hanc formam:<note xml:id="fn14" type="footnote" n="14">Vgl. <bibl>HBBW</bibl> XII, s. 39, 13-25, sowie S. 120, Anm. 32. Ein neuerliche Anpassung der umstrittenen Bannordnung scheint diesmal nicht erfolgt zu sein.</note> Si quis concionatoribus defertur propter peccatum correptione et multa dignum, non protinus e suggestu detonandum in id, sicut hactenus factum; nam hac importunitate et senatus et plebs extenuantur et inquietantur, sed ad capita prius referendum, ut ea idem referant ad senatum et inquisitio fiat et reperto flagitio multetur seu puniatur, prout dignum.</s>
 					<s n="37" xml:lang="la" type="auto">Is est enim animus senatus: prohibere, multare, obprimere flagitia omni tempore pro virili.</s>
-					<s n="38" xml:lang="la" type="auto">Hic, dico, contendimus integro anno, quamvis placide et probis rationibus; nolumus esse delatores (kalthansen), nolumus in ius vocari ab accusato, nolumus authoritatem evangelii sic imminui.</s>
+					<s n="38" xml:lang="la" type="auto">Hic, dico, contendimus integro anno, quamvis placide et probis rationibus; nolumus esse delatores (kalthansen<note xml:id="fn15" type="footnote" n="15">Denunzianten; s. <bibl>Grimm</bibl> V 90f.</note>), nolumus in ius vocari ab accusato, nolumus authoritatem evangelii sic imminui.</s>
 					<s n="39" xml:lang="la" type="auto">Volumus autem uti nostro officio, arguere, increpare, exhortari cum omni lenitate et doctrina, ne quando sanguis hac parte neglecti requiratur a nobis<note xml:id="fn16" type="footnote" n="16">Vgl. CorpIC 1, 31, 13.</note>.</s>
 					<s n="40" xml:lang="la" type="auto">Hęc autem ideo plaenius exposui, ut intelligas, quid illi pertinaciter velint quidque nos obponamus, et ut sententiam tuam nobis perscribas; nam hocipsum fratres omnes petunt.</s>
 					<s n="41" xml:lang="la" type="auto">Scripsissem vobis omnibus; sed non audeo confidere.</s>
@@ -74,34 +74,34 @@
 					<s n="46" xml:lang="la" type="auto">De his hactenus.</s>
 				</p>
 				<p>
-					<s n="47" xml:lang="la" type="auto"><pb type="scan" next="384v."/>De <persName ref="p18198">Bucero</persName> post ea, quę nuper scripsi,<note xml:id="fn17" type="footnote" n="17">Oben <ref target="file11756">Nr. 1711</ref>, 35-38.</note> nihil accepi.</s>
-					<s n="48" xml:lang="la" type="auto">Fuit per noctem hic <persName>Sturmius</persName><note xml:id="fn18" type="footnote" n="18">Da sich <persName>Jakob Sturm</persName> wegen des Reichstags in <placeName>Nürnberg</placeName> aufhielt (s. <bibl>PC</bibl> III 343-350. 353-355), muss <persName>Johannes Sturm</persName> gemeint sein.</note>, sed ne[c?] is aliquid norat, nisi quod etiamnum esset <placeName>Bonnę</placeName> et reclamatorum esse numerum maximum.</s>
-					<s n="49" xml:lang="la" type="auto">Ex cive Argentinensi audieram <placeName>Andernaci</placeName> disputationem esse inter <persName ref="p18198">Bucerum</persName> et dominicastrum <placeName>Coloniensem</placeName>, hęret[icae] pravit[atis] inquisitorem.</s>
-					<s n="50" xml:lang="la" type="auto">Sed de veritate nec <persName>Sturmio</persName> constat.</s>
-					<s n="51" xml:lang="la" type="auto">Uxor interim <persName ref="p18198">Bucero</persName> peperit domi filiolum<note xml:id="fn22" type="footnote" n="22">Der während <persName>Bucers</persName> Abwesenheit geborene Sohn Martin (vgl. auch <bibl>CO</bibl> XI 501 und <bibl>Blarer BW</bibl> II 172, <ref target="file11032">Nr. 990</ref>) starb bereits im selben Frühjahr (s. unten <ref target="file11792">Nr. 1746</ref>, 19-21); vgl. <hi>Staehelin,</hi> aaO. S. 26.</note>.<pb type="edition" next="77"/></s>
-					<s n="52" xml:lang="la" type="auto">Nova nulla sunt, nisi quod medicus quidam scribit ex <placeName>Austria</placeName> ad <persName>Theobaldum Nigri</persName>, Arg[en]tinensem fratrem, inconsolabiliter lugere Pannonios ob certum suum in proximam ęstatem interitum, n[i]si dominus misericorditer antevertat.</s>
+					<s n="47" xml:lang="la" type="auto"><pb type="scan" next="384v."/>De <persName ref="p467" cert="high">Bucero</persName> post ea, quę nuper scripsi,<note xml:id="fn17" type="footnote" n="17">Oben <ref target="file11756">Nr. 1711</ref>, 35-38.</note> nihil accepi.</s>
+					<s n="48" xml:lang="la" type="auto">Fuit per noctem hic <persName ref="p6733" cert="high">Sturmius</persName><note xml:id="fn18" type="footnote" n="18">Da sich <persName ref="p6733" cert="high">Jakob Sturm</persName> wegen des Reichstags in <placeName ref="l361" cert="high">Nürnberg</placeName> aufhielt (s. <bibl>PC</bibl> III 343-350. 353-355), muss <persName ref="p3088" cert="high">Johannes Sturm</persName> gemeint sein.</note>, sed ne[c?] is aliquid norat, nisi quod etiamnum esset <placeName ref="l56" cert="high">Bonnę</placeName> et reclamatorum esse numerum maximum.</s>
+					<s n="49" xml:lang="la" type="auto">Ex cive Argentinensi<note xml:id="fn19" type="footnote" n="19">Unbekannt.</note> audieram <placeName ref="l1486" cert="high">Andernaci</placeName> disputationem esse inter <persName ref="p467" cert="high">Bucerum</persName> et dominicastrum <placeName ref="l267" cert="high">Coloniensem</placeName>, hęret[icae] pravit[atis] inquisitorem.</s>
+					<s n="50" xml:lang="la" type="auto">Sed de veritate nec <persName ref="p6733" cert="high">Sturmio</persName> constat.</s>
+					<s n="51" xml:lang="la" type="auto">Uxor interim <persName ref="p467" cert="high">Bucero</persName> peperit domi filiolum<note xml:id="fn22" type="footnote" n="22">Der während <persName ref="p467" cert="high">Bucers</persName> Abwesenheit geborene Sohn Martin (vgl. auch <bibl>CO</bibl> XI 501 und <bibl>Blarer BW</bibl> II 172, <ref target="file11032">Nr. 990</ref>) starb bereits im selben Frühjahr (s. unten <ref target="file11792">Nr. 1746</ref>, 19-21); vgl. <hi>Staehelin,</hi> aaO. S. 26.</note>.<pb type="edition" next="77"/></s>
+					<s n="52" xml:lang="la" type="auto">Nova nulla sunt, nisi quod medicus<note xml:id="fn23" type="footnote" n="23">Unbekannt.</note> quidam scribit ex <placeName ref="l35" cert="high">Austria</placeName> ad <persName ref="p5957" cert="high">Theobaldum Nigri</persName>, Arg[en]tinensem fratrem, inconsolabiliter lugere Pannonios ob certum suum in proximam ęstatem interitum, n[i]si dominus misericorditer antevertat.</s>
 					<s n="53" xml:lang="la" type="auto">Anxium me reddidit illius scriptum<note xml:id="fn25" type="footnote" n="25">Nicht erhalten.</note>, postquam desperationem [vi]ri intellexi; patere nanque videtur dominum a Germanis abstulisse consilium et robur.</s>
 					<s n="54" xml:lang="la" type="auto">Sic [a]git autem cum his, quos vult perdere.</s>
-					<s n="55" xml:lang="la" type="auto">Quid agatur <placeName>Nurembergę</placeName><note xml:id="fn26" type="footnote" n="26">am <placeName>Nürnberger</placeName> Reichstag (vgl. oben <ref target="file11760">Nr. 1715</ref>, Anm. 13).</note>, ignorant etiam, qui omnia sciunt.</s>
+					<s n="55" xml:lang="la" type="auto">Quid agatur <placeName ref="l361" cert="high">Nurembergę</placeName><note xml:id="fn26" type="footnote" n="26">am <placeName ref="l361" cert="high">Nürnberger</placeName> Reichstag (vgl. oben <ref target="file11760">Nr. 1715</ref>, Anm. 13).</note>, ignorant etiam, qui omnia sciunt.</s>
 					<s n="56" xml:lang="la" type="auto">M[i]rum, ni consilia clam velint esse principes.</s>
 					<s n="57" xml:lang="la" type="auto">Quod quidem non malum, si bona sunt.</s>
-					<s n="58" xml:lang="la" type="auto">De concilio ne verbum quidem, nisi monachorum et pfafforum ingentem numerum <placeName>Tridenti</placeName> fuisse<note xml:id="fn27" type="footnote" n="27">Zu diesem Zeitpunkt waren erst ganz wenige Prälaten in <placeName>Trient</placeName> anwesend. In einem Breve vom 18. Februar beklagte <persName>Papst Paul III.</persName> das Fernbleiben der deutschen Bischöfe und lud sie erneut zum Konzil; s. <bibl>Pastor</bibl> V 482-486.</note>.</s>
-					<s n="59" xml:lang="la" type="auto">Rumor hic fuit legatos cęsarianos, Gallicanos, <placeName>Venetos</placeName> et papales congregatos c[um] Septem Pagis<note xml:id="fn28" type="footnote" n="28">Gemeint sind die katholischen Orte <placeName>Uri</placeName>, <placeName>Schwyz</placeName>, <placeName>Unterwalden</placeName>, <placeName>Luzern</placeName>, <placeName>Zug</placeName>, <placeName>Freiburg</placeName> und <placeName>Solothurn</placeName>.</note>; an sit, miramur<note xml:id="fn29" type="footnote" n="29">In <bibl>EA</bibl> IV/1d nicht nachweisbar.</note>.</s>
+					<s n="58" xml:lang="la" type="auto">De concilio ne verbum quidem, nisi monachorum et pfafforum ingentem numerum <placeName ref="l1107" cert="high">Tridenti</placeName> fuisse<note xml:id="fn27" type="footnote" n="27">Zu diesem Zeitpunkt waren erst ganz wenige Prälaten in <placeName ref="l1107" cert="high">Trient</placeName> anwesend. In einem Breve vom 18. Februar beklagte <persName ref="p19981" cert="high">Papst Paul III.</persName> das Fernbleiben der deutschen Bischöfe und lud sie erneut zum Konzil; s. <bibl>Pastor</bibl> V 482-486.</note>.</s>
+					<s n="59" xml:lang="la" type="auto">Rumor hic fuit legatos cęsarianos, Gallicanos, <placeName ref="l522" cert="high">Venetos</placeName> et papales congregatos c[um] Septem Pagis<note xml:id="fn28" type="footnote" n="28">Gemeint sind die katholischen Orte <placeName ref="l781" cert="high">Uri</placeName>, <placeName ref="l2450" cert="high">Schwyz</placeName>, <placeName ref="l92" cert="high">Unterwalden</placeName>, <placeName ref="l300" cert="high">Luzern</placeName>, <placeName ref="l584" cert="high">Zug</placeName>, <placeName ref="l160" cert="high">Freiburg</placeName> und <placeName ref="l760" cert="high">Solothurn</placeName>.</note>; an sit, miramur<note xml:id="fn29" type="footnote" n="29">In <bibl>EA</bibl> IV/1d nicht nachweisbar.</note>.</s>
 				</p>
 				<p>
 					<s n="60" xml:lang="la" type="auto">Cupio te tuosque valere in domino.</s>
 				</p>
 				<p>
-					<s n="61" xml:lang="la" type="auto"><placeName>Basileę</placeName>, 15. februarii anno 1543.</s>
+					<s n="61" xml:lang="la" type="auto"><placeName ref="l28" cert="high">Basileę</placeName>, 15. februarii anno 1543.</s>
 				</p>
 				<p>
-					<s n="62" xml:lang="la" type="auto">Tuus <persName>Os. Myconius</persName>.</s>
+					<s n="62" xml:lang="la" type="auto">Tuus <persName ref="p8418" cert="high">Os. Myconius</persName>.</s>
 				</p>
 				<p>
 					<s n="63" xml:lang="la" type="auto">Olim scripsissem, sed desunt tabelliones.</s>
 				</p>
 				<p>
-					<s n="64" xml:lang="la" type="auto">De <persName>Appiano</persName> nunquam respondisti<note xml:id="fn30" type="footnote" n="30">Vgl. <bibl>HBBW XII</bibl> <ref target="file11687">[Nr. 1644]</ref>, S. 121, 66-71; 160, 51.</note>.</s>
+					<s n="64" xml:lang="la" type="auto">De <persName ref="p20003" cert="high">Appiano</persName> nunquam respondisti<note xml:id="fn30" type="footnote" n="30">Vgl. <bibl>HBBW XII</bibl> <ref target="file11687">[Nr. 1644]</ref>, S. 121, 66-71; 160, 51.</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11110" type="Brief" source="CO" n="81">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11110" type="Brief" source="CO-X" n="81">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">s.n. / Genf AN s.n. / [Zürich], 13. November 1537</title>
+				<title subtype="file">s.n. / Genf an s.n. / [Zürich], 13. November 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

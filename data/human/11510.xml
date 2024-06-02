@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11510" type="Brief" source="GR" n="24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11510" type="Brief" source="GR-I" n="24">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander, Johannes Blasius / Chur AN Heinrich Bullinger, 20. Februar [1541]</title>
+				<title subtype="file">Johannes Comander, Johannes Blasius / Chur an Heinrich Bullinger, 20. Februar [1541]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -30,7 +30,7 @@
 					<s n="12" xml:lang="la" type="auto">Ex Rhetiae Curia, 20. die Februarii.</s>
 				</p>
 				<p>
-					<s n="13" xml:lang="la" type="auto">Tui ex animo Ioannes Blasius Comander.</s>
+					<s n="13" xml:lang="la" type="auto">Tui ex animo <persName ref="p396" cert="high">Ioannes Blasius</persName> Comander.</s>
 				</p>
 				<p>
 					<s n="14" xml:lang="la" type="auto">Pietate et doctrina praestantissimo viro M. Heinricho Bullingero, Tigurinae ecclesiae episcopo vigilantissimo, domino et amico suo inprimis observando.</s>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12951" type="Brief" source="GR" n="79">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12951" type="Brief" source="GR-I" n="79">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Bartolomeo Paravicini / Caspano AN [Heinrich Bullinger], 16. Mai 1547</title>
+				<title subtype="file">Bartolomeo Paravicini / Caspano an [Heinrich Bullinger], 16. Mai 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

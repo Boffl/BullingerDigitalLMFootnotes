@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10196" type="Brief" source="HBBW" n="165">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10196" type="Brief" source="HBBW-2" n="165">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Oswald Myconius (Geißhüsler) / [Basel] AN [Heinrich Bullinger], [Ende Dezember 1532]</title>
+				<title subtype="file">Oswald Myconius (Geißhüsler) / [Basel] an [Heinrich Bullinger], [Ende Dezember 1532]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S.</s>
-					<s n="2" xml:lang="la" type="auto">Ottonem habebo vel tuo nomine commendatissimum, etiamsi discipulus ante non fuisset<note xml:id="fn5" type="footnote" n="5">Nämlich in der Fraumünsterschule in Zürich, wo <persName>Myconius</persName> 1523-1531 unterrichtete, s. <bibl>HBBW</bibl> I <ref target="file10073">[Nr. 45]</ref> 226, Anm. 15.</note>.</s>
+					<s n="2" xml:lang="la" type="auto"><persName ref="8459" type="auto_name">Ottonem</persName> habebo vel tuo nomine commendatissimum, etiamsi discipulus ante non fuisset<note xml:id="fn5" type="footnote" n="5">Nämlich in der Fraumünsterschule in Zürich, wo <persName ref="p8418" cert="high">Myconius</persName> 1523-1531 unterrichtete, s. <bibl>HBBW</bibl> I <ref target="file10073">[Nr. 45]</ref> 226, Anm. 15.</note>.</s>
 					<s n="3" xml:lang="la" type="auto">Adeo gratum est, dum quid obvenit, quo tibi gratificari possum.</s>
 				</p>
 				<p>
@@ -26,21 +26,21 @@
 				</p>
 				<p>
 					<s n="6" xml:lang="la" type="auto"><pb type="edition" next="289"/>Unde, quaeso, consilium istud, si non ex timore?</s>
-					<s n="7" xml:lang="la" type="auto">Quodsi timetis, non est fides, non est veritas in vobis<note xml:id="fn8" type="footnote" n="8">Vgl. Jes 28,16; Mk 5,36; 1 Joh 4,18.</note>.</s>
+					<s n="7" xml:lang="la" type="auto">Quodsi timetis, non est fides, non est veritas in vobis<note xml:id="fn8" type="footnote" n="8">Vgl. <cit type="bible"><ref>Jes 28,16</ref></cit>; <cit type="bible"><ref>Mk 5,36</ref></cit>; <cit type="bible"><ref>1 Joh 4,18</ref></cit>.</note>.</s>
 					<s n="8" xml:lang="la" type="auto">Fides non timet perfidiam nec veritas mendacium.</s>
 					<s n="9" xml:lang="la" type="auto">An violastis pacem, quod poenam statuistis audienti missam papae<note xml:id="fn9" type="footnote" n="9">Im Mandat vom 29. Mai 1532, aaO.</note>?</s>
 					<s n="10" xml:lang="la" type="auto">Qua parte?</s>
 					<s n="11" xml:lang="la" type="auto">Qua ratione?</s>
 					<s n="12" xml:lang="la" type="auto">Quia confessi estis, inquiunt, inter pacis conditiones fidem nostram veterem illam esse, «indubitatam, christianam» etc.<note xml:id="fn10" type="footnote" n="10">Zweiter Landfriede, Art. 1 (<bibl>EA</bibl> IV/1b 1568). Zum Gebrauch dieses Arguments im Mandatstreit s. die oben Anm. 7 angegebene Lit.</note>.</s>
 					<s n="13" xml:lang="la" type="auto">Si verum dicunt, profecto miseri estis, imo impii, qui sequimini, cuius contrarium ita comprobastis; sin falsum, cur non negastis palam, cur non docuistis falsitatem, cur non patimini, quicquid id est tandem, ut veritas maneat integra?</s>
-					<s n="14" xml:lang="la" type="auto">An vos violastis pacem, qui mandata promulgastis in ditione vestra pro iussu dei recta, salubria, nomen domini sanctificantia<note xml:id="fn11" type="footnote" n="11">Vgl. Mt 6,9.</note>?</s>
-					<s n="15" xml:lang="la" type="auto">An non illi<note xml:id="fn12" type="footnote" n="12"><placeName>Die V Orte</placeName>.</note> potius violant non pacem dico, sed iusticiam dei, quia quod egistis, conantur non solum reprimere, sed et mendax et impium reddere?</s>
+					<s n="14" xml:lang="la" type="auto">An vos violastis pacem, qui mandata promulgastis in ditione vestra pro iussu dei recta, salubria, nomen domini sanctificantia<note xml:id="fn11" type="footnote" n="11">Vgl. <cit type="bible"><ref>Mt 6,9</ref></cit>.</note>?</s>
+					<s n="15" xml:lang="la" type="auto">An non illi<note xml:id="fn12" type="footnote" n="12"><placeName ref="l2448" cert="high">Die V Orte</placeName>.</note> potius violant non pacem dico, sed iusticiam dei, quia quod egistis, conantur non solum reprimere, sed et mendax et impium reddere?</s>
 					<s n="16" xml:lang="la" type="auto">Atque hoc quidem contra pacis conditiones.</s>
 					<s n="17" xml:lang="la" type="auto">Illic enim scriptum, quod in civitatibus et ditionibus ipsorum fidem eorum nolitis vel argumentando vel disputando quovis modo vellicare<note xml:id="fn13" type="footnote" n="13">Landfrieden, Art. 1, aaO.</note>, id quod egistis.</s>
 					<s n="18" xml:lang="la" type="auto">Quid enim mandatum ad ipsorum populum?</s>
 					<s n="19" xml:lang="la" type="auto">Quid disputastis apud eos?</s>
 					<s n="20" xml:lang="la" type="auto">Quid moliti estis contra eos?</s>
-					<s n="21" xml:lang="la" type="auto">Praeterea duo sunt inter pacis articulos, contra quae manifeste repugnat istorum audacia, unum de fide vestra, alterum de imperio, iure, privilegiis vestris<note xml:id="fn15" type="footnote" n="15">Ebenda, Art. 3 (<bibl>EA</bibl> IV/1b 1569).</note>.</s>
+					<s n="21" xml:lang="la" type="auto">Praeterea duo sunt inter pacis articulos, contra quae manifeste repugnat istorum audacia, unum de fide vestra<note xml:id="fn14" type="footnote" n="14">Ebenda.</note>, alterum de imperio, iure, privilegiis vestris<note xml:id="fn15" type="footnote" n="15">Ebenda, Art. 3 (<bibl>EA</bibl> IV/1b 1569).</note>.</s>
 					<s n="22" xml:lang="la" type="auto">Quod factum est, an non fides vestra iussit ita fieri, et si fecissetis aliter, an non contra fidem esset?</s>
 					<s n="23" xml:lang="la" type="auto">Tum an non licebit agere vobis per ditionem vestram, quod est libitum?</s>
 					<s n="24" xml:lang="la" type="auto">Cum igitur hoc conentur prohibere, quid non potius ipsos accusatis vos?</s>
@@ -50,45 +50,45 @@
 					<s n="28" xml:lang="la" type="auto">Prudentes enim audire noluistis, id quod prae caeteris desperationem incutit mihi.</s>
 					<s n="29" xml:lang="la" type="auto">Bone deus, qualia proposita sunt vobis consilia?</s>
 					<s n="30" xml:lang="la" type="auto">Si non respuissetis, huc res pervenerat, ut vel cedendum fuisset Pagis vel palam ab his violenter contra foedera, contra pacem, contra fas omne agendum.</s>
-					<s n="31" xml:lang="la" type="auto">Consilium petieratis<note xml:id="fn16" type="footnote" n="16">Zürich an <placeName>Basel</placeName>, 7. November 1532 (ASchweizerRef IV 1964; <bibl>ABaslerRef</bibl> VI 198). In den oben Anm. 7 erwähnten Dokumenten <bibl>EA</bibl> <hi>IV/1b</hi> 1438 o.-p. und <bibl>ABaslerRef</bibl> VI 231 wird auch betont, daß die Ratschläge auf Wunsch Zürichs erteilt worden seien.</note>, datum est, egistis gratias<note xml:id="fn17" type="footnote" n="17">Ein Dankbrief von Zürich ist nicht erhalten.</note>, sequi recepistis - et, cum tempus adesset utendi, disertis verbis reiecistis<note xml:id="fn18" type="footnote" n="18">Siehe oben Anm. 7.</note>.</s>
+					<s n="31" xml:lang="la" type="auto">Consilium petieratis, datum est, egistis gratias<note xml:id="fn17" type="footnote" n="17">Ein Dankbrief von Zürich ist nicht erhalten.</note>, sequi recepistis - et, cum tempus adesset utendi, disertis verbis reiecistis<note xml:id="fn18" type="footnote" n="18">Siehe oben Anm. 7.</note>.</s>
 				</p>
 				<p>
 					<s n="32" xml:lang="la" type="auto"><pb type="edition" next="290"/>Et quis deinceps consulet vel anxie petentibus vobis, aut quis fidem habebit pro fide, pro iusticia dei, pro bono et tranquillo statu vos acturos posthac serio?</s>
 					<s n="33" xml:lang="la" type="auto">Timeo profecto, ne ira dei communiter immineat nobis omnibus.</s>
 					<s n="34" xml:lang="la" type="auto">Vos infelices, quia bene et iuste consulentibus non obeditis, nos infelices, quia quae bona consulimus, non valent apud vos.</s>
 					<s n="35" xml:lang="la" type="auto">Unde malis aeque tandem involvemur.</s>
-					<s n="36" xml:lang="la" type="auto">Auditis autem pravos, malignos, impios, quibus displicet verum et iustum, quibus displicet, per quicquid emendare liceret vitam ad haereditatem dei<note xml:id="fn19" type="footnote" n="19">Vgl. u. a. Eph 1,14; Hebr 1,14; 1 Petr 1,4.</note>, quales sunt, quos reipublicae vestrae proponitis hodie.</s>
+					<s n="36" xml:lang="la" type="auto">Auditis autem pravos, malignos, impios, quibus displicet verum et iustum, quibus displicet, per quicquid emendare liceret vitam ad haereditatem dei<note xml:id="fn19" type="footnote" n="19">Vgl. u. a. <cit type="bible"><ref>Eph 1,14</ref></cit>; <cit type="bible"><ref>Hebr 1,14</ref></cit>; <cit type="bible"><ref>1 Petr 1,4</ref></cit>.</note>, quales sunt, quos reipublicae vestrae proponitis hodie.</s>
 					<s n="37" xml:lang="la" type="auto">Nam cui non arridet evangelium, an tu aliter de ipso praedicabis?</s>
 				</p>
 				<p>
 					<s n="38" xml:lang="la" type="auto">Sed audi, quid rei sit.</s>
-					<s n="39" xml:lang="la" type="auto">Fuit apud me, qui certo mihi narravit apud <placeName>Lucernanos</placeName> et Svitenses comperisse se, etiamsi lis de articulo missae ad concordiam fuerit perducta, aliam de integro futuram, unde unde capiatur occasio.</s>
+					<s n="39" xml:lang="la" type="auto">Fuit apud me, qui<note xml:id="fn20" type="footnote" n="20">Unbekannt.</note> certo mihi narravit apud <placeName ref="l300" cert="high">Lucernanos</placeName> et Svitenses comperisse se, etiamsi lis de articulo missae ad concordiam fuerit perducta, aliam de integro futuram, unde unde capiatur occasio.</s>
 					<s n="40" xml:lang="la" type="auto">Nam<pb type="scan" next="||415v."/> ita Pagis decretum sine omni tergiversatione fidem illam extirpaturum se vel morte moriturum.</s>
 					<s n="41" xml:lang="la" type="auto">Alteri ex his adiecerant, Svitenses nempe: Tantam promissionem accepimus a caesare, ut po[st]quam is paulo fuerit quam hactenus tranquillior, mox finis erit istius pravitatis.</s>
-					<s n="42" xml:lang="la" type="auto">Hoc si vobis persuadere, imo probare possem, ut est probatum apud me, non certe pigeret vel ad senatum vestrum perscribere<note xml:id="fn22" type="footnote" n="22">Ein Schreiben von <persName>Myconius</persName> an den Zürcher Rat in dieser Angelegenheit ist nicht bekannt.</note>.</s>
-					<s n="43" xml:lang="la" type="auto">Quamvis quid opus est his, cum certo sit certius Pagos niti subsidio caesariano, agere consilia adversum nos omnes cum legato papistico<note xml:id="fn23" type="footnote" n="23">Das Ergebnis von <persName>Ennio Filonardis</persName> Bemühungen in der <placeName>Schweiz</placeName> 1532 war eine härtere Haltung <placeName>der V Orte</placeName> im Mandatstreit, vgl. <bibl>HBRG</bibl> III 330f und J. Caspar Wirz, <persName>Ennio Filonardi</persName>, der letzte Nuntius in Zürich, Zürich 1894, S. 91f.</note>, quem non ita multo antehac in vincula coniecerant apud <placeName>Urios</placeName><note xml:id="fn24" type="footnote" n="24">Bei seiner Ankunft Ende 1521 war <persName>Filonardi</persName> vom <placeName>Zuger</placeName> Hauptmann <persName>Thomas Stocker</persName> im <placeName>Tessin</placeName> gefangengenommen und von den Anhängern des französischen Bündnisses in der Innerschweiz festgehalten worden, s. <hi>Wirz,</hi> aaO, S. 55-58; vgl. auch <persName>Myconius</persName> an <persName>Vadian</persName>, 24. Oktober 1532 (<persName>Vadian</persName> BW V 100).</note>?</s>
+					<s n="42" xml:lang="la" type="auto">Hoc si vobis persuadere, imo probare possem, ut est probatum apud me, non certe pigeret vel ad senatum vestrum perscribere<note xml:id="fn22" type="footnote" n="22">Ein Schreiben von <persName ref="p8418" cert="high">Myconius</persName> an den Zürcher Rat in dieser Angelegenheit ist nicht bekannt.</note>.</s>
+					<s n="43" xml:lang="la" type="auto">Quamvis quid opus est his, cum certo sit certius Pagos niti subsidio caesariano, agere consilia adversum nos omnes cum legato papistico, quem non ita multo antehac in vincula coniecerant apud <placeName ref="l781" cert="high">Urios</placeName>?</s>
 					<s n="44" xml:lang="la" type="auto">Verum hoc non est violare pacem.</s>
 					<s n="45" xml:lang="la" type="auto">Quamobrem ausim dicere pacem istam nobis, non Pagis factam - toties iam violarunt impune - ergo futurum, ut vel a iusto discedere cogamini tandem vel volentes, quod verum, deseratis.</s>
 					<s n="46" xml:lang="la" type="auto">Sed audi, quod exciderat pene: Quid aliud est cum istis in ius de missa concedere quam iudicem constituere scripturae sanctae?</s>
 					<s n="47" xml:lang="la" type="auto">Nemo vos cogere potuit in disputatione Badensi, dum res erant fallacissimae, et nunc tam levi m[o]mento compellimini?</s>
-					<s n="48" xml:lang="la" type="auto">Si istud permiseritis, iusto iudicio dei verbum tolletur<note xml:id="fn25" type="footnote" n="25">Vgl. Ps 119,43.</note> a vobis, si quando tolletur, quod absit.</s>
+					<s n="48" xml:lang="la" type="auto">Si istud permiseritis, iusto iudicio dei verbum tolletur<note xml:id="fn25" type="footnote" n="25">Vgl. <cit type="bible"><ref>Ps 119,43</ref></cit>.</note> a vobis, si quando tolletur, quod absit.</s>
 				</p>
 				<p>
 					<s n="49" xml:lang="la" type="auto">Quod scribo tam inepte, quod ex dolore scribo.</s>
 					<s n="50" xml:lang="la" type="auto">Tam sunt aspera et horrida.</s>
 					<s n="51" xml:lang="la" type="auto">Dolori concedas quaeso per dominum.</s>
 					<s n="52" xml:lang="la" type="auto">Insuper autem, si quid aberratum fuerit a vero, te rogo rem, ut est, significes.</s>
-					<s n="53" xml:lang="la" type="auto">Sin vere diximus omnia, solare, quocunque modo<pb type="edition" next="291"/> valebis, non me solum, sed et eum ipsum, quem nosti mecum communicare<note xml:id="fn26" type="footnote" n="26">Wahrscheinlich Bürgermeister <persName>Jakob Meyer</persName> in <placeName>Basel</placeName>; so auch die Fußnote <persName>J. J. Simlers</persName> zu dieser Stelle: Zürich ZB, Ms S 33, Nr. 60.</note>, quicquid est consiliorum ad communem utilitatem et ad honorem dei spectantium.</s>
+					<s n="53" xml:lang="la" type="auto">Sin vere diximus omnia, solare, quocunque modo<pb type="edition" next="291"/> valebis, non me solum, sed et eum ipsum, quem nosti mecum communicare<note xml:id="fn26" type="footnote" n="26">Wahrscheinlich Bürgermeister <persName ref="p8129" cert="high">Jakob Meyer</persName> in <placeName ref="l28" cert="high">Basel</placeName>; so auch die Fußnote <persName ref="p2979" cert="high">J. J. Simlers</persName> zu dieser Stelle: Zürich ZB, Ms S 33, Nr. 60.</note>, quicquid est consiliorum ad communem utilitatem et ad honorem dei spectantium.</s>
 				</p>
 				<p>
-					<s n="54" xml:lang="la" type="auto">Praeter haec scribunt subinde <placeName>Argentinenses</placeName> de negocio coenae dominicae<note xml:id="fn27" type="footnote" n="27">Sicher ist damit der nicht erhaltene Brief <persName>Capitos</persName> an <persName>Myconius</persName> gemeint, vgl. unten Anm. 31.</note>, nihil hil aliud tamen quam quod, ut verum, hactenus tenuimus, spem adiicientes propediem confessionem ultimam <persName ref="p18889">Lutheri</persName>, quam extorsit princeps Saxonicus<note xml:id="fn28" type="footnote" n="28"><persName>Johann Friedrich</persName> «der Großmütige», 1503-1554, Kurfürst von Sachsen seit 16. August 1532, einer der Führer des Schmalkaldischen Bundes.</note> post obitum patris<note xml:id="fn29" type="footnote" n="29"><persName>Johann «der Beständige»</persName>, 1468-1532, Kurfürst von Sachsen seit 1525.</note>, aeditum iri, in qua clarum fiat hunc sentire nobiscum, tropum permittere in verbis coenae<note xml:id="fn30" type="footnote" n="30">Vgl. 1 Kor 11,23ff par.; zum «tropus» in den Einsetzungsworten s. <hi>Köhler,</hi> ZL I 61ff, bes. 68.74f.101f.</note>.</s>
-					<s n="55" xml:lang="la" type="auto">Et summam audio contentionem iam esse <persName ref="p18889">Luthero</persName> cum suis, quo pacto furore tumultuantes compescat.</s>
+					<s n="54" xml:lang="la" type="auto">Praeter haec scribunt subinde <placeName ref="l492" cert="high">Argentinenses</placeName> de negocio coenae dominicae<note xml:id="fn27" type="footnote" n="27">Sicher ist damit der nicht erhaltene Brief <persName ref="p5565" cert="high">Capitos</persName> an <persName ref="p8418" cert="high">Myconius</persName> gemeint, vgl. unten Anm. 31.</note>, nihil hil aliud tamen quam quod, ut verum, hactenus tenuimus, spem adiicientes propediem confessionem ultimam <persName ref="p1974" cert="high">Lutheri</persName>, quam extorsit princeps Saxonicus<note xml:id="fn28" type="footnote" n="28"><persName ref="p19065" cert="high">Johann Friedrich</persName> «der Großmütige», 1503-1554, Kurfürst von Sachsen seit 16. August 1532, einer der Führer des Schmalkaldischen Bundes.</note> post obitum patris<note xml:id="fn29" type="footnote" n="29"><persName ref="p18526" cert="high">Johann «der Beständige»</persName>, 1468-1532, Kurfürst von Sachsen seit 1525.</note>, aeditum iri, in qua clarum fiat hunc sentire nobiscum, tropum permittere in verbis coenae<note xml:id="fn30" type="footnote" n="30">Vgl. <cit type="bible"><ref>1 Kor 11,23ff par.</ref></cit>; zum «tropus» in den Einsetzungsworten s. <hi>Köhler,</hi> ZL I 61ff, bes. 68.74f.101f.</note>.</s>
+					<s n="55" xml:lang="la" type="auto">Et summam audio contentionem iam esse <persName ref="p1974" cert="high">Luthero</persName> cum suis, quo pacto furore tumultuantes compescat.</s>
 					<s n="56" xml:lang="la" type="auto">Quae si vera sunt, spero bonam Germaniae partem lucrifactam domino.</s>
-					<s n="57" xml:lang="la" type="auto">Leges epistolam aliquando <persName ref="p18198">Buceri</persName>, qua contendit indignabundum te placare.</s>
+					<s n="57" xml:lang="la" type="auto">Leges epistolam aliquando <persName ref="p467" cert="high">Buceri</persName>, qua contendit indignabundum te placare.</s>
 					<s n="58" xml:lang="la" type="auto">Fac animum praepares, ut illa postquam adfuerit, aequius omnia consulas.</s>
 				</p>
 				<p>
-					<s n="59" xml:lang="la" type="auto">Reliquum est, ut quicquid de Pagis hactenus vel tibi vel <persName>Utingero</persName> scripsimus, comburatis vel ad me remittatis<note xml:id="fn33" type="footnote" n="33">Vielleicht kam Bullinger diesem Wunsche nach; dies könnte die Erklärung für das Fehlen der vorausgegangenen Briefe von <persName>Myconius</persName> an Bullinger sein.</note>.</s>
+					<s n="59" xml:lang="la" type="auto">Reliquum est, ut quicquid de Pagis hactenus vel tibi vel <persName ref="p3242" cert="high">Utingero</persName> scripsimus, comburatis vel ad me remittatis<note xml:id="fn33" type="footnote" n="33">Vielleicht kam Bullinger diesem Wunsche nach; dies könnte die Erklärung für das Fehlen der vorausgegangenen Briefe von <persName ref="p8418" cert="high">Myconius</persName> an Bullinger sein.</note>.</s>
 					<s n="60" xml:lang="la" type="auto">Quia enim consiliis frustra nitimur, tim[en]dum, ne ex illiusmodi scriptis periculum olim nobis, sicubi veniant in lucem, incidat.</s>
 					<s n="61" xml:lang="la" type="auto">R[e]sponde, quantocius poteris.</s>
 				</p>

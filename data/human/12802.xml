@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12802" type="Brief" source="HBBW" n="2753">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12802" type="Brief" source="HBBW-19" n="2753">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Gast / [Basel] AN Heinrich Bullinger, [zwischen dem 15. und 19. Januar 1547]</title>
+				<title subtype="file">Johannes Gast / [Basel] an Heinrich Bullinger, [zwischen dem 15. und 19. Januar 1547]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -18,9 +18,9 @@
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. in domino.</s>
 					<s n="2" xml:lang="la" type="auto">Quid scribam, nescio.</s>
-					<s n="3" xml:lang="la" type="auto">Homines esse vanos,<note xml:id="fn2" type="footnote" n="2">Weish 13, 1.</note> inutiles, nullius fidei nosti.</s>
+					<s n="3" xml:lang="la" type="auto">Homines esse vanos,<note xml:id="fn2" type="footnote" n="2"><cit type="bible"><ref>Weish 13, 1</ref></cit>.</note> inutiles, nullius fidei nosti.</s>
 					<s n="4" xml:lang="la" type="auto">Dominus nos parum probat, et mox deficimus ad impias papistarum constitutiones!</s>
-					<s n="5" xml:lang="la" type="auto">Quid, si maior et acerbior crux nos molestaret, putas tales facerint.</s>
+					<s n="5" xml:lang="la" type="auto">Quid, si maior et acerbior crux nos molestaret, putas tales facerint.<note xml:id="fn3" type="footnote" n="3">= fecerint (s. dazu <bibl>Stotz</bibl> IV 209f, <ref target="file10148">Nr. 118</ref>.6).</note></s>
 					<s n="6" xml:lang="la" type="auto">Christum ipsum absque dubio pernegarent.</s>
 					<s n="7" xml:lang="la" type="auto">Verum nolo exaggerare nostrorum, hoc est pseudoevangelicorum, perfidiam.</s>
 				</p>
@@ -28,42 +28,42 @@
 			<div xml:id="div2" corresp="regest2">
 				<p>
 					<s n="8" xml:lang="de" type="auto">Ich hab das gelt entpfangen von der wollen.<note xml:id="fn4" type="footnote" n="4">Vgl. <ref target="file12787">Nr. 2738</ref>,16f; <ref target="file12789">Nr. 2740</ref>,20f; <ref target="file12806">Nr. 2757</ref>,12f.</note></s>
-					<s n="9" xml:lang="de" type="auto">Myn hußfrow<note xml:id="fn5" type="footnote" n="5"><persName>Apollonia, geb. Glaser</persName>.</note> sagt uch danck umb die schencky.<note xml:id="fn6" type="footnote" n="6">das Geschenk.</note></s>
-					<s n="10" xml:lang="de" type="auto">Sy ist nachgendiger zyt<note xml:id="fn7" type="footnote" n="7">nachgendiger zyt: später.</note> in willens, sölichs zuͦ beschulden.</s>
+					<s n="9" xml:lang="de" type="auto">Myn hußfrow<note xml:id="fn5" type="footnote" n="5"><persName ref="p4970" cert="high">Apollonia, geb. Glaser</persName>.</note> sagt uch danck umb die schencky.<note xml:id="fn6" type="footnote" n="6">das Geschenk.</note></s>
+					<s n="10" xml:lang="de" type="auto">Sy ist nachgendiger zyt<note xml:id="fn7" type="footnote" n="7">nachgendiger zyt: später.</note> in willens, sölichs zuͦ beschulden.<note xml:id="fn8" type="footnote" n="8">vergelten.</note></s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
 				<p>
-					<s n="11" xml:lang="la" type="auto"><persName>Dux Wirtembergensis</persName> Christophorus<note xml:id="fn9" type="footnote" n="9"><persName>Christoph von Württemberg</persName>, der Anfang Januar in <placeName>Basel</placeName> eingetroffen war; s. <ref target="file12810">Nr. 2761</ref>, Anm. 9.</note> cum uxore<note xml:id="fn10" type="footnote" n="10"><persName>Anna Maria von Württemberg, geb. Brandenburg-Ansbach</persName>.</note> apud nos haeret, pius princeps, verbum domini amans.</s>
-					<s n="12" xml:lang="la" type="auto">Expectamus Georgium principem<note xml:id="fn11" type="footnote" n="11">Graf <persName>Georg von Württemberg-Mömpelgard</persName>.</note> cum tota familia et omnibus suis ministris verbi.</s>
-					<s n="13" xml:lang="la" type="auto">Nam caesar<note xml:id="fn12" type="footnote" n="12"><persName>Karl V.</persName></note> illum in gratiam accipere recusat fortassis.</s>
-					<s n="14" xml:lang="la" type="auto">Quaerit summam pecunię ab eo, quam aut dabit <pb type="edition" next="126"/> aut regi <persName>Galliae</persName><note xml:id="fn13" type="footnote" n="13"><persName>Franz I.</persName></note> suam ditionem oppignerabit vel vendet ad tempus, donec furor caesareanus parum extinctus fuerit.</s>
-					<s n="15" xml:lang="la" type="auto">Nec te ignorare puto ducem Wirttembergensem<note xml:id="fn14" type="footnote" n="14">Hier ist <persName>Herzog Christoph</persName> gemeint.</note> Mümpelgart Gallo dedisse et lilia passim in civitate et agris affixa esse.</s>
+					<s n="11" xml:lang="la" type="auto"><persName ref="p9780" cert="high">Dux Wirtembergensis</persName> Christophorus<note xml:id="fn9" type="footnote" n="9"><persName ref="p1546" cert="high">Christoph von Württemberg</persName>, der Anfang Januar in <placeName ref="l28" cert="high">Basel</placeName> eingetroffen war; s. <ref target="file12810">Nr. 2761</ref>, Anm. 9.</note> cum uxore<note xml:id="fn10" type="footnote" n="10"><persName ref="p18818" cert="high">Anna Maria von Württemberg, geb. Brandenburg-Ansbach</persName>.</note> apud nos haeret, pius princeps, verbum domini amans.</s>
+					<s n="12" xml:lang="la" type="auto">Expectamus Georgium principem<note xml:id="fn11" type="footnote" n="11">Graf <persName ref="p8098" cert="high">Georg von Württemberg-Mömpelgard</persName>.</note> cum tota familia et omnibus suis ministris verbi.</s>
+					<s n="13" xml:lang="la" type="auto">Nam caesar<note xml:id="fn12" type="footnote" n="12"><persName ref="p18538" cert="high">Karl V.</persName></note> illum in gratiam accipere recusat fortassis.</s>
+					<s n="14" xml:lang="la" type="auto">Quaerit summam pecunię ab eo, quam aut dabit <pb type="edition" next="126"/> aut regi <persName ref="p7637" cert="high">Galliae</persName><note xml:id="fn13" type="footnote" n="13"><persName ref="p7637" cert="high">Franz I.</persName></note> suam ditionem oppignerabit vel vendet ad tempus, donec furor caesareanus parum extinctus fuerit.</s>
+					<s n="15" xml:lang="la" type="auto">Nec te ignorare puto <persName ref="p1546" cert="high">ducem Wirttembergensem</persName><note xml:id="fn14" type="footnote" n="14">Hier ist <persName ref="p1546" cert="high">Herzog Christoph</persName> gemeint.</note> Mümpelgart Gallo dedisse et lilia passim in civitate et agris affixa esse.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="16" xml:lang="la" type="auto"><persName>Caesarem</persName> Helvetiis blandis verbis scripsisse<note xml:id="fn15" type="footnote" n="15">Der am 27. Dezember verfasste Brief des Kaisers an die Eidgenossen, der spätestens am 10. Januar auf der Tagsatzung in <placeName>Baden</placeName> eingetroffen war und dort beantwortet wurde; s. <ref target="file12800">Nr. 2751</ref>, Anm. 47.</note> nosti melius quam ego.</s>
+					<s n="16" xml:lang="la" type="auto"><persName ref="p18477" cert="high">Caesarem</persName> Helvetiis blandis verbis scripsisse nosti melius quam ego.</s>
 					<s n="17" xml:lang="la" type="auto">Hoc est vulpino mori agere.</s>
-					<s n="18" xml:lang="la" type="auto"><placeName>Ulma</placeName>, <placeName>Augusta</placeName> et<pb type="scan" next="105v."/> reliquae civitates in gratiam caesaris adsumptę iniquis conditionibus.</s>
+					<s n="18" xml:lang="la" type="auto"><placeName ref="l513" cert="high">Ulma</placeName>, <placeName ref="l1976" cert="high">Augusta</placeName> et<pb type="scan" next="105v."/> reliquae civitates in gratiam caesaris adsumptę iniquis conditionibus.</s>
 					<s n="19" xml:lang="la" type="auto">Argentina persistit adhuc, sed vacillant primates.</s>
-					<s n="20" xml:lang="la" type="auto">Cattum<note xml:id="fn17" type="footnote" n="17"><persName>Philipp von Hessen</persName>.</note> aiunt dimittere suos milites.</s>
+					<s n="20" xml:lang="la" type="auto"><persName ref="p3590" cert="high">Cattum</persName><note xml:id="fn17" type="footnote" n="17"><persName ref="p3590" cert="high">Philipp von Hessen</persName>.</note> aiunt dimittere suos milites.</s>
 					<s n="21" xml:lang="la" type="auto">Ambit caesaris favorem.</s>
-					<s n="22" xml:lang="la" type="auto">Psalmi dictum saepius recordor: „Nolite confidere in homine“,<note xml:id="fn18" type="footnote" n="18">Ps 146 (Vulg. 145), 2f.</note> etc.</s>
-					<s n="23" xml:lang="la" type="auto">Reliqua a <persName>Myconio</persName> aegrotante accipies.</s>
-					<s n="24" xml:lang="la" type="auto">Ipse lecto adflictus cum uxore<note xml:id="fn19" type="footnote" n="19">Margret, deren Geburtsname unbekannt ist. Siehe zu ihr <hi>Henrich, <persName>Myconius</persName> BW</hi> 12 und Anm. 21.</note>, quae crudeliori morbo laborat quam ipse.</s>
+					<s n="22" xml:lang="la" type="auto">Psalmi dictum saepius recordor: „Nolite confidere in homine“,<note xml:id="fn18" type="footnote" n="18"><cit type="bible"><ref>Ps 146 (Vulg. 145), 2f.</ref></cit></note> etc.</s>
+					<s n="23" xml:lang="la" type="auto">Reliqua a <persName ref="p8418" cert="high">Myconio</persName> aegrotante accipies.</s>
+					<s n="24" xml:lang="la" type="auto">Ipse lecto adflictus cum uxore<note xml:id="fn19" type="footnote" n="19">Margret, deren Geburtsname unbekannt ist. Siehe zu ihr <hi>Henrich, <persName ref="p8418" cert="high">Myconius</persName> BW</hi> 12 und Anm. 21.</note>, quae crudeliori morbo laborat quam ipse.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
-					<s n="25" xml:lang="la" type="auto">Hisce diebus ad nos venit ab <placeName>Augusta</placeName> Stengarus, Hebraice et Gręce doctus homo, qui caesaris et <persName>Ferdinandi</persName> tyrannidem timuit.</s>
-					<s n="26" xml:lang="la" type="auto"><persName>Musculus</persName><note xml:id="fn21" type="footnote" n="21"><persName>Wolfgang Musculus</persName>. - Vgl. <ref target="file12808">Nr. 2759</ref>,59f.</note> meditatur locum mutare.</s>
+					<s n="25" xml:lang="la" type="auto">Hisce diebus ad nos venit ab <placeName ref="l1976" cert="high">Augusta</placeName> Stengarus, Hebraice et Gręce doctus homo, qui caesaris et <persName ref="p18477" cert="high">Ferdinandi</persName> tyrannidem timuit.</s>
+					<s n="26" xml:lang="la" type="auto"><persName ref="p8417" cert="high">Musculus</persName><note xml:id="fn21" type="footnote" n="21"><persName ref="p8417" cert="high">Wolfgang Musculus</persName>. - Vgl. <ref target="file12808">Nr. 2759</ref>,59f.</note> meditatur locum mutare.</s>
 					<s n="27" xml:lang="la" type="auto">Cives turbulenti sunt, nec mirum.</s>
 				</p>
 			</div>
 			<div xml:id="div6" corresp="regest6">
 				<p>
-					<s n="28" xml:lang="de" type="auto">Es hat <persName>Claus von Hattstat</persName>, <foreign xml:lang="la">nobilis, miles strenuus,</foreign> wöllen gon <placeName>Basel</placeName> rütten zum Wirtemberger.<note xml:id="fn23" type="footnote" n="23"><persName>Christoph von Württemberg</persName>.</note></s>
+					<s n="28" xml:lang="de" type="auto">Es hat <persName ref="p7537" cert="high">Claus von Hattstat</persName>, <foreign xml:lang="la">nobilis, miles strenuus,</foreign> wöllen gon <placeName ref="l28" cert="high">Basel</placeName> rütten zum Wirtemberger.<note xml:id="fn23" type="footnote" n="23"><persName ref="p1546" cert="high">Christoph von Württemberg</persName>.</note></s>
 					<s n="29" xml:lang="de" type="auto">Da ist er zu Ensesheim gefangen, als er do zuͦ ymbiß geesset hatt.</s>
 					<s n="30" xml:lang="de" type="auto">Hat ins schloß müssen schweren; die knecht ins wurtshuß.</s>
 					<s n="31" xml:lang="de" type="auto">Man zücht in<note xml:id="fn24" type="footnote" n="24">zücht in: bezichtigt ihn; s. <bibl>Fischer</bibl> VI/1 1095 s.v. "zeihen".</note>, er sey frantzoͤsiß und stettisch.</s>
@@ -72,16 +72,16 @@
 			</div>
 			<div xml:id="div7" corresp="regest7">
 				<p>
-					<s n="33" xml:lang="de" type="auto">Man sagt, der keiser wölle gon Schletstatt sich laͤgeren, die von <placeName>Straßburg</placeName> zuͦ kriegen, das Elseß zuͦ verderben, besonder das wirtembergisch ländli.<note xml:id="fn26" type="footnote" n="26">Die Grafschaft <placeName>Horburg</placeName> und die Herrschaft Reichenweier.</note></s>
+					<s n="33" xml:lang="de" type="auto">Man sagt, der keiser wölle gon Schletstatt sich laͤgeren, die von <placeName ref="l492" cert="high">Straßburg</placeName> zuͦ kriegen, das Elseß zuͦ verderben, besonder das wirtembergisch ländli.<note xml:id="fn26" type="footnote" n="26">Die Grafschaft <placeName ref="l221" cert="high">Horburg</placeName> und die Herrschaft Reichenweier.</note></s>
 					<s n="34" xml:lang="de" type="auto">Es ist iederman erschrocken.</s>
-					<s n="35" xml:lang="de" type="auto">Domit wirt die warheit gelü-<pb type="scan" next="105a,r."/>tret in den bößen, die glissner an tag gebracht, die sich under dem schin des evangeliß haben ir boßheit bedeckt.<note xml:id="fn29" type="footnote" n="29">Ähnliche Beurteilung auch in <bibl>HBBW</bibl> XVIII 453.15-20; <ref target="file12800">Nr. 2751</ref>,26f.</note></s>
+					<s n="35" xml:lang="de" type="auto">Domit wirt die warheit gelü-<pb type="scan" next="105a,r."/>tret in den bößen<note xml:id="fn27" type="footnote" n="27">wirt die warheit gelütret in den bößen: werden die Bösen entlarvt (indem die Wahrheit über sie ans Licht kommt); s. <bibl>SI</bibl> III 1516f.</note>, die glissner<note xml:id="fn28" type="footnote" n="28">Heuchler.</note> an tag gebracht, die sich under dem schin des evangeliß haben ir boßheit bedeckt.<note xml:id="fn29" type="footnote" n="29">Ähnliche Beurteilung auch in <bibl>HBBW</bibl> XVIII 453.15-20; <ref target="file12800">Nr. 2751</ref>,26f.</note></s>
 				</p>
 			</div>
 			<div xml:id="div8" corresp="regest8">
 				<p>
-					<s n="36" xml:lang="la" type="auto">Quid cum <persName ref="p17881">Brentio</persName> actum sit, clam te esse non puto.<note xml:id="fn30" type="footnote" n="30">Über <persName>Johannes Brenz</persName> s. Nr. 28 12,97-99.</note></s>
+					<s n="36" xml:lang="la" type="auto">Quid cum <persName ref="p458" cert="high">Brentio</persName> actum sit, clam te esse non puto.<note xml:id="fn30" type="footnote" n="30">Über <persName ref="p458" cert="high">Johannes Brenz</persName> s. Nr. 28 12,97-99.</note></s>
 					<s n="37" xml:lang="la" type="auto">Papistę gloriantur de successu felici caesaris.</s>
-					<s n="38" xml:lang="la" type="auto">Ponunt os in cęlum,<note xml:id="fn31" type="footnote" n="31">Os in coclum ponere: Gegen Gott lästern, in Anlehnung an Ps 73 (Vulg. 72), 9. - Siehe ferner Dan 7, 25.</note> etc.</s>
+					<s n="38" xml:lang="la" type="auto">Ponunt os in cęlum,<note xml:id="fn31" type="footnote" n="31">Os in coclum ponere: Gegen Gott lästern, in Anlehnung an <cit type="bible"><ref>Ps 73 (Vulg. 72), 9</ref></cit>. - Siehe ferner <cit type="bible"><ref>Dan 7, 25</ref></cit>.</note> etc.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
@@ -91,7 +91,7 @@
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
-					<s n="40" xml:lang="de" type="auto"><foreign xml:lang="la"><persName>Myconius</persName> narrabit, quid elector in <persName>Saxonia</persName><note xml:id="fn32" type="footnote" n="32"><persName>Johann Friedrich I.</persName></note> agat cum perfido Mauritio;<note xml:id="fn33" type="footnote" n="33">Nämlich in <ref target="file12810">Nr. 2761</ref>,43-46.</note></foreign> vor welchem syn hußfrow<note xml:id="fn34" type="footnote" n="34"><persName>Agnes von Sachsen, geb. von Hessen</persName>.</note>, kinder<note xml:id="fn35" type="footnote" n="35">Zu deren Namen s. <ref target="file12898">Nr. 2849</ref>,Anm. 25.</note> deß alten fursten frow<note xml:id="fn36" type="footnote" n="36"><persName>Sibylle von Jülich-Kleve-Berg</persName> (gest. 21. Februar 1554), die Gattin Johann Friedrichs.</note>, uff die knü nider gfallen vor anfang deß kriegs, in gebetten mit weinenden ougen, er soͤlle kein krieg anheben wider sinn vetteren<note xml:id="fn37" type="footnote" n="37">Zur Verwandtschaft zwischen den beiden Fürsten s. <bibl>HBBW</bibl> XVIII 229, Anm. 81.</note>, der im so vil guͦts thon habe.</s>
+					<s n="40" xml:lang="de" type="auto"><foreign xml:lang="la"><persName ref="p8418" cert="high">Myconius</persName> narrabit, quid elector in <persName ref="p19065" cert="high">Saxonia</persName><note xml:id="fn32" type="footnote" n="32"><persName ref="p19065" cert="high">Johann Friedrich I.</persName></note> agat cum perfido Mauritio;<note xml:id="fn33" type="footnote" n="33">Nämlich in <ref target="file12810">Nr. 2761</ref>,43-46.</note></foreign> vor welchem syn hußfrow<note xml:id="fn34" type="footnote" n="34"><persName ref="p18825" cert="high">Agnes von Sachsen, geb. von Hessen</persName>.</note>, kinder<note xml:id="fn35" type="footnote" n="35">Zu deren Namen s. <ref target="file12898">Nr. 2849</ref>,Anm. 25.</note> deß alten fursten frow<note xml:id="fn36" type="footnote" n="36"><persName ref="p19078" cert="high">Sibylle von Jülich-Kleve-Berg</persName> (gest. 21. Februar 1554), die Gattin Johann Friedrichs.</note>, uff die knü nider gfallen vor anfang deß kriegs, in gebetten mit weinenden ougen, er soͤlle kein krieg anheben wider sinn vetteren<note xml:id="fn37" type="footnote" n="37">Zur Verwandtschaft zwischen den beiden Fürsten s. <bibl>HBBW</bibl> XVIII 229, Anm. 81.</note>, der im so vil guͦts thon habe.</s>
 					<s n="41" xml:lang="de" type="auto">Do ist er ergrimpt worden.</s>
 					<s n="42" xml:lang="de" type="auto">Gsagt: „Ich wirt das thuͦn, das ich dem keyser zuͦgsagt habe, es treffe an, was es welle.</s>
 					<s n="43" xml:lang="de" type="auto">Ich bin zuͦ küntftiger churfurst!</s>
@@ -102,7 +102,7 @@
 			<div xml:id="div11" corresp="regest11">
 				<p>
 					<s n="46" xml:lang="la" type="auto">Hęc paucis volui ad te scribere.</s>
-					<s n="47" xml:lang="la" type="auto">Salutato nomine meo d. <persName>Theodorum</persName><note xml:id="fn39" type="footnote" n="39"><persName>Theodor Bibliander</persName>.</note>, <persName>Pellicanum</persName>, praecipue Frisium<note xml:id="fn40" type="footnote" n="40"><persName>Johannes Fries</persName>.</note> cum <persName>Gvalthero</persName> et r[eli]quis ministris.</s>
+					<s n="47" xml:lang="la" type="auto">Salutato nomine meo d. <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn39" type="footnote" n="39"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note>, <persName ref="p8127" cert="high">Pellicanum</persName>, praecipue <persName ref="p1214" cert="high">Frisium</persName><note xml:id="fn40" type="footnote" n="40"><persName ref="p1214" cert="high">Johannes Fries</persName>.</note> cum <persName ref="p8011" cert="high">Gvalthero</persName> et r[eli]quis ministris.</s>
 					<s n="48" xml:lang="la" type="auto">Nosti manum.</s>
 				</p>
 			</div>
@@ -113,7 +113,7 @@
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
 					<s n="50" xml:lang="de" type="auto">Dem eerwürdigen und wolgelerten herren m. Heinrych Bullingeren, mynem lieben günstigen herren.</s>
-					<s n="51" xml:lang="de" type="auto">Zürich.<note xml:id="fn41" type="footnote" n="41">Dieser Brief wurde vielleicht, wie auch <persName>Celio Secondo Curiones</persName> Brief vom 18. Januar, dem von <placeName>Basel</placeName> via Zürich nach <placeName>Italien</placeName> reisenden, nicht identifizierten Juden anvertraut; s. <ref target="file12807">Nr. 2758</ref>,26-31.</note></s>
+					<s n="51" xml:lang="de" type="auto">Zürich.</s>
 				</p>
 			</div>
 		</body>

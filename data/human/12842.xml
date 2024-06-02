@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12842" type="Brief" source="TUSTEP" n="2793">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12842" type="Brief" source="TUSTEP-19" n="2793">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Peter Medmann] / [Buschhoven] AN Heinrich Bullinger, 4. Februar 1547</title>
+				<title subtype="file">[Peter Medmann] / [Buschhoven] an Heinrich Bullinger, 4. Februar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -20,13 +20,13 @@
 					<s n="2" xml:lang="la" type="auto">Ego mitto ad te tria scripta, ex quibus etiam non pauca cognosces et leges, quod sat scio, non sine stomacho.</s>
 					<s n="3" xml:lang="la" type="auto">Vellem illam veram narrationem, quae, mihi hic credas velim, est verissima, a multis isthic legi et inprimis a vestrae reipublicae moderatoribus.</s>
 					<s n="4" xml:lang="la" type="auto">Concionatoribus, ut scribitur, nullus amplius manendi locus concedetur.</s>
-					<s n="5" xml:lang="la" type="auto">Ego etiam coepi convasare fortassis iturus <placeName>Argentinam</placeName>.</s>
+					<s n="5" xml:lang="la" type="auto">Ego etiam coepi convasare fortassis iturus <placeName ref="l492" cert="high">Argentinam</placeName>.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="6" xml:lang="la" type="auto">In <placeName>Belgico</placeName> nova instituitur persequutio.</s>
-					<s n="7" xml:lang="la" type="auto"><placeName>Lovanienses</placeName> d. <persName>Albertum</persName> denuo apud caesarem accusarunt, cui Cornei, summus ducatus Gelrici praefectus,<note xml:id="fn7" type="footnote" n="7"><persName>Philip de Lalaing</persName>, Herr von Corney und von Gelderland.</note> valde insidiatus fuit, quando adhuc <placeName>Kempenae</placeName> docebat.</s>
+					<s n="6" xml:lang="la" type="auto">In <placeName ref="l5" cert="high">Belgico</placeName> nova instituitur persequutio.</s>
+					<s n="7" xml:lang="la" type="auto"><placeName ref="l1322" cert="high">Lovanienses</placeName> d. <persName ref="p8371" cert="high">Albertum</persName> denuo apud caesarem accusarunt, cui Cornei, summus ducatus Gelrici praefectus,<note xml:id="fn7" type="footnote" n="7"><persName ref="p7610" cert="high">Philip de Lalaing</persName>, Herr von Corney und von Gelderland.</note> valde insidiatus fuit, quando adhuc <placeName ref="l2388" cert="high">Kempenae</placeName> docebat.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">

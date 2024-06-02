@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11972" type="Brief" source="HBBW" n="1925">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11972" type="Brief" source="HBBW-14" n="1925">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Martin Borrhaus (Cellarius) / [Basel] AN Heinrich Bullinger, 14. Juni [1544]</title>
+				<title subtype="file">Martin Borrhaus (Cellarius) / [Basel] an Heinrich Bullinger, 14. Juni [1544]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,7 +17,7 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S[alutem] d[ico].</s>
-					<s n="2" xml:lang="la" type="auto">Cur hoc tempore ad te scribam, commovit me partim is, qui has tibi reddit, <persName>Ioannes Fabritius</persName>, vir literis et eruditione vero, ut tibi<pb type="edition" next="265"/> significarem, quam gratum fuerit mihi, quod filium meum Iacobum a Bercken tam humaniter excepisti et exceptum tam benigne et liberaliter pro tua singulari animi bonitate tractasti.</s>
+					<s n="2" xml:lang="la" type="auto">Cur hoc tempore ad te scribam, commovit me partim is, qui has tibi reddit, <persName ref="p8009" cert="high">Ioannes Fabritius</persName>, vir literis et eruditione vero, ut tibi<pb type="edition" next="265"/> significarem, quam gratum fuerit mihi, quod filium meum <persName ref="p7398" cert="high">Iacobum a Bercken</persName> tam humaniter excepisti et exceptum tam benigne et liberaliter pro tua singulari animi bonitate tractasti.</s>
 					<s n="3" xml:lang="la" type="auto">Pro quo tuo beneficio par est, ut gratum et memorem me declarem, quo ita me obstrinxisti, ut intelligam veteribus nominibus nova accessisse, ad quę solvenda, versuram ut faciam, mihi sit opus.</s>
 					<s n="4" xml:lang="la" type="auto">At vero, cum is, qui grate beneficium accepit, primam eius pensionem solvisse putetur, ego, ne ingratus videar, non invitus me tibi debere agnoscam.</s>
 				</p>
@@ -27,7 +27,7 @@
 					<s n="7" xml:lang="la" type="auto">14. iunii.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="la" type="auto"><persName>Martinus Borrhaus</persName> tuus.</s>
+					<s n="8" xml:lang="la" type="auto"><persName ref="p8298" cert="high">Martinus Borrhaus</persName> tuus.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

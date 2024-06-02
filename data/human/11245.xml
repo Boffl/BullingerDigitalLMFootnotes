@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11245" type="Brief" source="HBBW" n="1202">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11245" type="Brief" source="HBBW-8" n="1202">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Hans (Itelhans) von Landenberg (Breitenlandenberg) d.Ä. / Schramberg AN Heinrich Bullinger, 2. Dezember 1538</title>
+				<title subtype="file">Hans (Itelhans) von Landenberg (Breitenlandenberg) d.Ä. / Schramberg an Heinrich Bullinger, 2. Dezember 1538</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -22,15 +22,15 @@
 				</p>
 				<p>
 					<s n="4" xml:lang="de" type="auto">Will mich uich auch allsso beffollen haben gegen got und im zit<note xml:id="fn4" type="footnote" n="4">in der Welt.</note>, mit herbiettung, was ich uich fruindschaft, libss und guͦtz bewissen kann, findend ir mich allwegens guͦtwillig.</s>
-					<s n="5" xml:lang="de" type="auto">Wellend allsso mins schlechten schribens verguͦt haben<note xml:id="fn5" type="footnote" n="5">vorlieb nehmen.</note>, dan ich allss müed von schriben bin, dass ich nuimen<note xml:id="fn7" type="footnote" n="7">nicht mehr.</note> mag.</s>
+					<s n="5" xml:lang="de" type="auto">Wellend allsso mins schlechten schribens verguͦt haben<note xml:id="fn5" type="footnote" n="5">vorlieb nehmen.</note>, dan ich allss<note xml:id="fn6" type="footnote" n="6">so.</note> müed von schriben bin, dass ich nuimen<note xml:id="fn7" type="footnote" n="7">nicht mehr.</note> mag.</s>
 					<s n="6" xml:lang="de" type="auto">Damit sind got beffollen, und wass uich lieb ist.</s>
 					<s n="7" xml:lang="de" type="auto">Damit bewar unss gott ally.</s>
 				</p>
 				<p>
-					<s n="8" xml:lang="de" type="auto">Datum in ill zum <placeName>Schramberg</placeName>, uff mendag nach sant Andrass tag im 38. jar.</s>
+					<s n="8" xml:lang="de" type="auto">Datum in ill zum <placeName ref="l456" cert="high">Schramberg</placeName>, uff mendag nach sant Andrass tag im 38. jar.</s>
 				</p>
 				<p>
-					<s n="9" xml:lang="de" type="auto">Hans von <placeName>Landenberg</placeName> zum <placeName>Schramberg</placeName>.</s>
+					<s n="9" xml:lang="de" type="auto">Hans von <placeName ref="l35" cert="high">Landenberg</placeName> zum <placeName ref="l456" cert="high">Schramberg</placeName>.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>

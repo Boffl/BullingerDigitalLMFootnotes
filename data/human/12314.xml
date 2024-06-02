@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12314" type="Brief" source="HBBW" n="2267">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12314" type="Brief" source="HBBW-15" n="2267">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Konrad Frick / Isny AN Heinrich Bullinger, 15. Oktober 1545</title>
+				<title subtype="file">Konrad Frick / Isny an Heinrich Bullinger, 15. Oktober 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,8 +17,8 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Salus et pax a deo.</s>
-					<s n="2" xml:lang="la" type="auto">Quae in literis tuis<note xml:id="fn2" type="footnote" n="2">Nicht erhalten und wohl <persName>Klauser</persName> als Empfehlungsbrief mitgegeben.</note> mihi gratissimis de d. <persName>Conrado</persName> Claussero Tigurino testatus es, vir doctissime, omnia, ubi ad nos pervenit, pulchre praestitit, nempe quod sit Graece et Latine doctus, in divinis et humanis literis non vulgariter eruditus, humanus et fidelis; quae facile ex multis argumentis cernere licuit: Transtulit enim interim, quando mecum habitavit, librum primum Theophili Graeci ad Autolycum ex Graeco in Latinum sermonem, in cottidiano colloquio usque ad miraculum facundus, pro concione in scripturis exercitatus, in conversatione supra modum humanus, sicut nihil defuerit eorum, quae de eo adserueris; id quod eciam nostris clare fuit perspectum.</s>
-					<s n="3" xml:lang="la" type="auto">Sed qui factum sit, ut pro mercede transigenda cum nostris minus convenerit, ipse abunde narrabit<note xml:id="fn4" type="footnote" n="4">Siehe dazu den von <persName>Klauser</persName> auf der Zürcher Herbstsynode vom 20. Oktober 1545 erstatteten Bericht, in: Zürich StA, E II I, 320.</note>.</s>
+					<s n="2" xml:lang="la" type="auto">Quae in literis tuis<note xml:id="fn2" type="footnote" n="2">Nicht erhalten und wohl <persName ref="p8398" cert="high">Klauser</persName> als Empfehlungsbrief mitgegeben.</note> mihi gratissimis de d. <persName ref="p8398" cert="high">Conrado</persName> Claussero Tigurino testatus es, vir doctissime, omnia, ubi ad nos pervenit, pulchre praestitit, nempe quod sit Graece et Latine doctus, in divinis et humanis literis non vulgariter eruditus, humanus et fidelis; quae facile ex multis argumentis cernere licuit: Transtulit enim interim, quando mecum habitavit, librum primum Theophili Graeci ad Autolycum ex Graeco in Latinum sermonem, in cottidiano colloquio usque ad miraculum facundus, pro concione in scripturis exercitatus, in conversatione supra modum humanus, sicut nihil defuerit eorum, quae de eo adserueris; id quod eciam nostris clare fuit perspectum.</s>
+					<s n="3" xml:lang="la" type="auto">Sed qui factum sit, ut pro mercede transigenda cum nostris minus convenerit, ipse abunde narrabit<note xml:id="fn4" type="footnote" n="4">Siehe dazu den von <persName ref="p8398" cert="high">Klauser</persName> auf der Zürcher Herbstsynode vom 20. Oktober 1545 erstatteten Bericht, in: Zürich StA, E II I, 320.</note>.</s>
 					<s n="4" xml:lang="la" type="auto">Tibi interim nomine tocius ecclesiae nostrae gracias habeo uberrimas, qui hunc ad nos, nostris praecibus adactus, transmiseris.<pb type="edition" next="592"/></s>
 				</p>
 				<p>

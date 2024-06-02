@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12307" type="Brief" source="HBBW" n="2260">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12307" type="Brief" source="HBBW-15" n="2260">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / Zürich AN Ambrosius Blarer (Blaurer), 4. Oktober 1545</title>
+				<title subtype="file">Heinrich Bullinger / Zürich an Ambrosius Blarer (Blaurer), 4. Oktober 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,20 +16,20 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
-					<s n="2" xml:lang="la" type="auto">Tandem datus est Isnacensi ecclesiae minister, hic d. <persName>Conradus Clauserus</persName> Tigurinus,<note xml:id="fn1" type="footnote" n="1">Siehe unten Anm. 19.</note> qui iam mittitur, ut audiatur, si forte placere possit.</s>
+					<s n="2" xml:lang="la" type="auto">Tandem datus est Isnacensi ecclesiae minister, hic d. <persName ref="p8398" cert="high">Conradus Clauserus</persName> Tigurinus,<note xml:id="fn1" type="footnote" n="1">Siehe unten Anm. 19.</note> qui iam mittitur, ut audiatur, si forte placere possit.</s>
 					<s n="3" xml:lang="la" type="auto">Vir est Graecę et Latinae lingue doctus,<note xml:id="fn2" type="footnote" n="2">Siehe oben <ref target="file12190">Nr. 2143</ref>, Anm. 3.</note> lectionis multae, scripturarum satis peritus, vitae integrae, et a puero in bonis et piis studiis ab optimis praeceptoribus institutus.</s>
 					<s n="4" xml:lang="la" type="auto">Praecipuam suam spem ponit post Christum in tuam dilectionem et fidem.</s>
-					<s n="5" xml:lang="la" type="auto">Proinde commendo tibi hominem, ut ipsum instituas, quomodo versari possit magno cum fructu in illa ecclesia<note xml:id="fn3" type="footnote" n="3">In <placeName>Isny</placeName>; s. oben <ref target="file12296">Nr. 2249</ref>, 44-54.</note>.</s>
-					<s n="6" xml:lang="la" type="auto">Nosti tu quidem id, si quis alius, velut primus evangelii per Sueviam preco.</s>
+					<s n="5" xml:lang="la" type="auto">Proinde commendo tibi hominem, ut ipsum instituas, quomodo versari possit magno cum fructu in illa ecclesia<note xml:id="fn3" type="footnote" n="3">In <placeName ref="l234" cert="high">Isny</placeName>; s. oben <ref target="file12296">Nr. 2249</ref>, 44-54.</note>.</s>
+					<s n="6" xml:lang="la" type="auto">Nosti tu quidem id, si quis alius, velut primus evangelii per Sueviam preco<note xml:id="fn4" type="footnote" n="4">= praeco.</note>.</s>
 					<s n="7" xml:lang="la" type="auto">Humanus alioqui et fidelis est, constans et multi laboris, neque ingratus erit tuis laboribus.</s>
 					<s n="8" xml:lang="la" type="auto">Si videbitur utile, commenda tu illum quoque amicis tuis per literas.<pb type="edition" next="571"/></s>
-					<s n="9" xml:lang="la" type="auto">Comitia celebrabuntur a <placeName>Helvetiis</placeName> Badenae 11. octobris<note xml:id="fn6" type="footnote" n="6">Vgl. auch unten <ref target="file12309">Nr. 2262</ref>, 10. - Die Tagsatzung begann aber erst am 19. Oktober; s. <bibl>EA</bibl> IV/Id, 542-553.</note>.</s>
-					<s n="10" xml:lang="de" type="auto">Der marggis de la Quasta<note xml:id="fn7" type="footnote" n="7"><persName>Alfonso d'Avalos</persName>, Marchese del Vasto (Guasto), Statthalter von <placeName>Mailand</placeName>.</note>, stathalter in <placeName>Meyland</placeName>, schlecht<note xml:id="fn8" type="footnote" n="8">schlecht ... ab: schlägt ab, verbietet.</note> unseren vogthyen aͤnet dem berg<note xml:id="fn9" type="footnote" n="9">änet dem berg: jenseits der Alpen.</note> allen feylen kouff<note xml:id="fn10" type="footnote" n="10">feylen kouff: freien Handel.</note> ab by haͤncken.</s>
-					<s n="11" xml:lang="de" type="auto">Brucht ettliche unnachpurliche stuck wider die unseren und ire voͤgt.</s>
+					<s n="9" xml:lang="la" type="auto">Comitia celebrabuntur a <placeName ref="l196" cert="high">Helvetiis</placeName> Badenae 11. octobris<note xml:id="fn6" type="footnote" n="6">Vgl. auch unten <ref target="file12309">Nr. 2262</ref>, 10. - Die Tagsatzung begann aber erst am 19. Oktober; s. <bibl>EA</bibl> IV/Id, 542-553.</note>.</s>
+					<s n="10" xml:lang="de" type="auto">Der marggis de la Quasta<note xml:id="fn7" type="footnote" n="7"><persName ref="p7251" cert="high">Alfonso d'Avalos</persName>, Marchese del Vasto (Guasto), Statthalter von <placeName ref="l306" cert="high">Mailand</placeName>.</note>, stathalter in <placeName ref="l306" cert="high">Meyland</placeName>, schlecht<note xml:id="fn8" type="footnote" n="8">schlecht ... ab: schlägt ab, verbietet.</note> unseren vogthyen aͤnet dem berg<note xml:id="fn9" type="footnote" n="9">änet dem berg: jenseits der Alpen.</note> allen feylen kouff<note xml:id="fn10" type="footnote" n="10">feylen kouff: freien Handel.</note> ab by haͤncken.</s>
+					<s n="11" xml:lang="de" type="auto">Brucht ettliche unnachpurliche stuck<note xml:id="fn11" type="footnote" n="11">Handlung.</note> wider die unseren und ire voͤgt.</s>
 					<s n="12" xml:lang="de" type="auto">Ettliche der unsern hat er uff unserm grund gefangen, doch by langem<note xml:id="fn12" type="footnote" n="12">by langem: endlich.</note> wider lassen uußkummen, etc.</s>
-					<s n="13" xml:lang="de" type="auto">So werdent sich ouch die evangelischen stett besonders underreden, so man den Schmalkaldischen pundt traͤngen woͤlt, wie sy sich ind sach schicken, etc.</s>
-					<s n="14" xml:lang="la" type="auto">Aiunt ducem <placeName>Aurelianensem</placeName>, quem <placeName>Helvetii</placeName> e sacro fonte levarunt, non sine veneni suspitione in Galliis esse extinctum, unde merito novae turbae<pb type="edition" next="572"/> timentur a multis.</s>
-					<s n="15" xml:lang="la" type="auto">Ego vero sentio Ieroboamum<note xml:id="fn18" type="footnote" n="18"><persName>Jerobeam</persName>, ein Gott untreuer König <placeName>Israels</placeName>, dem die Vernichtung all seiner Nachkommen, darunter auch seines Sohnes Nadab, prophezeit wurde; s. 1Kön 14, 10f; 15, 25-30. - Mit <persName>Jerobeam</persName> wird auf <persName>Franz I.</persName> angespielt.</note> fata Nadabi sui sic videre et brevi consequi oportere.</s>
+					<s n="13" xml:lang="de" type="auto">So werdent sich ouch die evangelischen stett besonders<note xml:id="fn14" type="footnote" n="14">separat.</note> underreden, so man den Schmalkaldischen pundt traͤngen woͤlt, wie sy sich ind<note xml:id="fn15" type="footnote" n="15">indie.</note> sach schicken, etc.</s>
+					<s n="14" xml:lang="la" type="auto">Aiunt ducem <placeName ref="l367" cert="high">Aurelianensem</placeName>, quem <placeName ref="l196" cert="high">Helvetii</placeName> e sacro fonte levarunt, non sine veneni suspitione in Galliis esse extinctum, unde merito novae turbae<pb type="edition" next="572"/> timentur a multis.</s>
+					<s n="15" xml:lang="la" type="auto">Ego vero sentio <persName ref="18980" type="auto_name">Ieroboamum</persName><note xml:id="fn18" type="footnote" n="18"><persName ref="p18980" cert="high">Jerobeam</persName>, ein Gott untreuer König <placeName ref="l45" cert="high">Israels</placeName>, dem die Vernichtung all seiner Nachkommen, darunter auch seines Sohnes Nadab, prophezeit wurde; s. <cit type="bible"><ref>1Kön 14, 10f</ref></cit>; <cit type="bible"><ref>15, 25-30</ref></cit>. - Mit <persName ref="p18980" cert="high">Jerobeam</persName> wird auf <persName ref="p7637" cert="high">Franz I.</persName> angespielt.</note> fata Nadabi sui sic videre et brevi consequi oportere.</s>
 					<s n="16" xml:lang="la" type="auto">Dominus Iesus servet nos!</s>
 				</p>
 				<p>
@@ -40,8 +40,8 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="19" xml:lang="la" type="auto">Clarissimo viro d. <persName>Ambrosio Blaurero</persName>, fratri suo incomparabili.</s>
-					<s n="20" xml:lang="la" type="auto"><placeName>Costantz</placeName>.<note xml:id="fn19" type="footnote" n="19"><persName>Konrad Klauser</persName> übermittelte den vorliegenden Brief an <persName>Blarer</persName>; s. unten <ref target="file12310">Nr. 2263</ref>, 1.</note></s>
+					<s n="19" xml:lang="la" type="auto">Clarissimo viro d. <persName ref="p8055" cert="high">Ambrosio Blaurero</persName>, fratri suo incomparabili.</s>
+					<s n="20" xml:lang="la" type="auto"><placeName ref="l457" cert="high">Costantz</placeName>.<note xml:id="fn19" type="footnote" n="19"><persName ref="p8398" cert="high">Konrad Klauser</persName> übermittelte den vorliegenden Brief an <persName ref="p8055" cert="high">Blarer</persName>; s. unten <ref target="file12310">Nr. 2263</ref>, 1.</note></s>
 				</p>
 			</div>
 		</body>

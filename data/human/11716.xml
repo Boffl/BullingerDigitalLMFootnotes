@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11716" type="Brief" source="HBBW" n="1673a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11716" type="Brief" source="HBBW-20A" n="1673a">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Gast / Basel AN Heinrich Bullinger, 4. Oktober [1542]</title>
+				<title subtype="file">Johannes Gast / Basel an Heinrich Bullinger, 4. Oktober [1542]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12149" type="Brief" source="CO" n="622">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12149" type="Brief" source="CO-XII" n="622">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">s.n. / Zürich AN s.n. / [Neuenburg], 12. März 1545</title>
+				<title subtype="file">s.n. / Zürich an s.n. / [Neuenburg], 12. März 1545</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -56,7 +56,7 @@
 				</p>
 				<p>
 					<s n="35" xml:lang="la" type="auto">Adiecimus his quae praeteritis diebus scripsimus contra Lutheri contumelias, calumnias, convicia et condemnationem.</s>
-					<s n="36" xml:lang="la" type="auto">Germanice scripsimus, Gualtherus fecit latina 1.</s>
+					<s n="36" xml:lang="la" type="auto">Germanice scripsimus, <persName ref="p8011" cert="high">Gualtherus</persName> fecit latina.</s>
 					<s n="37" xml:lang="la" type="auto">Valete, fratres dilecti et colendi.</s>
 				</p>
 				<p>

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12816" type="Brief" source="HBBW" n="2767">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12816" type="Brief" source="HBBW-19" n="2767">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">[Heinrich Bullinger] / Zürich AN [Ambrosius Blarer (Blaurer)], 24. Januar 1547</title>
+				<title subtype="file">[Heinrich Bullinger] / Zürich an [Ambrosius Blarer (Blaurer)], 24. Januar 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -16,8 +16,8 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="de" type="auto">Gnad und frid.</s>
-					<s n="2" xml:lang="de" type="auto">Fürgeliebter herr und bruͦder, ich bin sid mittentag nitt daheym, sunder geschaͤfften halb dauß<note xml:id="fn2" type="footnote" n="2">außer Haus.</note> gewaͤsen, und alls ich von andern sachen waͤgen zuͦ den 3<note xml:id="fn3" type="footnote" n="3">zd den 3: gegen 3 Uhr.</note> zum herren<note xml:id="fn4" type="footnote" n="4">Vielleicht Bürgermeister <persName>Hans Rudolf Lavater</persName> (da <persName>Johannes Haab</persName> im Natalrat stillstehend war).</note> kumm, last er mich saͤhen des <placeName>Wirtenbergers</placeName><note xml:id="fn5" type="footnote" n="5"><persName>Herzog Ulrich von Württemberg</persName>.</note> vertrag, von üwern herren empfangen,<note xml:id="fn6" type="footnote" n="6">Der vom <placeName>Konstanzer</placeName> Rat mit einem Brief vom 22. Januar nach <placeName>Zürich</placeName> übersandte Hohentwieler Vertrag; s. <ref target="file12812">Nr. 2763</ref>,3-7.</note> und sagt, wie ein bott von <placeName>Constantz</placeName> hie sye; der werde ietzund waͤgfertig.</s>
-					<s n="3" xml:lang="de" type="auto">Als ich daruff heimm keer, <pb type="edition" next="180"/> find ich üwer schriben<note xml:id="fn8" type="footnote" n="8"><persName>Blarers</persName> Briefe vom 21. (<ref target="file12811">Nr. 2762</ref>) und 22. Januar (<ref target="file12812">Nr. 2763</ref>).</note> uff dem tisch.</s>
+					<s n="2" xml:lang="de" type="auto">Fürgeliebter herr und bruͦder, ich bin sid mittentag nitt daheym, sunder geschaͤfften halb dauß<note xml:id="fn2" type="footnote" n="2">außer Haus.</note> gewaͤsen, und alls ich von andern sachen waͤgen zuͦ den 3<note xml:id="fn3" type="footnote" n="3">zd den 3: gegen 3 Uhr.</note> zum herren<note xml:id="fn4" type="footnote" n="4">Vielleicht Bürgermeister <persName ref="p1888" cert="high">Hans Rudolf Lavater</persName> (da <persName ref="p1419" cert="high">Johannes Haab</persName> im Natalrat stillstehend war).</note> kumm, last er mich saͤhen des <placeName ref="l572" cert="high">Wirtenbergers</placeName><note xml:id="fn5" type="footnote" n="5"><persName ref="p9780" cert="high">Herzog Ulrich von Württemberg</persName>.</note> vertrag, von üwern herren empfangen,<note xml:id="fn6" type="footnote" n="6">Der vom <placeName ref="l457" cert="high">Konstanzer</placeName> Rat mit einem Brief vom 22. Januar nach <placeName ref="l587" cert="high">Zürich</placeName> übersandte Hohentwieler Vertrag; s. <ref target="file12812">Nr. 2763</ref>,3-7.</note> und sagt, wie ein bott<note xml:id="fn7" type="footnote" n="7">Unbekannt.</note> von <placeName ref="l457" cert="high">Constantz</placeName> hie sye; der werde ietzund waͤgfertig.</s>
+					<s n="3" xml:lang="de" type="auto">Als ich daruff heimm keer, <pb type="edition" next="180"/> find ich üwer schriben<note xml:id="fn8" type="footnote" n="8"><persName ref="p8055" cert="high">Blarers</persName> Briefe vom 21. (<ref target="file12811">Nr. 2762</ref>) und 22. Januar (<ref target="file12812">Nr. 2763</ref>).</note> uff dem tisch.</s>
 					<s n="4" xml:lang="de" type="auto">Heb grad druff antworten<note xml:id="fn9" type="footnote" n="9">Heb grad druff antworten: Ich antworte sogleich darauf.</note>, so vil mir muͦglich, und sunderlich uff die fürnemmen puncten.</s>
 				</p>
 			</div>
@@ -25,9 +25,9 @@
 				<p>
 					<s n="5" xml:lang="de" type="auto">Das es by uns<note xml:id="fn10" type="footnote" n="10">In Zürich bzw. in den Vier Orten der Eidgenossenschaft.</note> nitt stande, wie es billich soͤlt und mins erachtens stan soͤlte, das man one allen valsch<note xml:id="fn11" type="footnote" n="11">one allen valsch: vorbehaltlos.</note> alein uff gott vertruwen und in der liebe gaͤgen den naͤchsten wandlen soͤlte, hilff und radt thuͦn, ouch mitt gefaar und verlurst unsers laͤbens, ist nun lange zyt von mir klagt - dass es nitt ist, und wir nitt nun<note xml:id="fn12" type="footnote" n="12">- nur.</note> fleisch oder bluͦt, sunder ouch boßhafft sind, wie an andern orten meer (das mir nun leid gnuͦg ist); insonders das ouch ich selbs nitt bin, wie ich sin soͤlte.</s>
 					<s n="6" xml:lang="de" type="auto">Doch in dem, das min ampt antrifft, verman ich (alls ir mich vermanent) offentlich und sunderlich, by der warheit vest zuͦ verharren und der warheit ze haͤlffen.</s>
-					<s n="7" xml:lang="de" type="auto">Hab aber die sach noch dahin nitt bringen moͤgen, das man gmeinlich sich dem keyser<note xml:id="fn13" type="footnote" n="13"><persName>Karl V.</persName></note> widersetzen woͤllen.</s>
+					<s n="7" xml:lang="de" type="auto">Hab aber die sach noch dahin nitt bringen moͤgen, das man gmeinlich sich dem keyser<note xml:id="fn13" type="footnote" n="13"><persName ref="p18538" cert="high">Karl V.</persName></note> widersetzen woͤllen.</s>
 					<s n="8" xml:lang="de" type="auto">Acht wol, so er uns anhebe<note xml:id="fn14" type="footnote" n="14">uns anhebe: anfinge, uns.</note>, näher ze kummen, werde ettwas fürgenommen.</s>
-					<s n="9" xml:lang="de" type="auto">Wie ferr<note xml:id="fn15" type="footnote" n="15">Wie ferr: Inwieweit.</note> aber das gelangen moͤg, kan ich nitt wüssen.</s>
+					<s n="9" xml:lang="de" type="auto">Wie ferr<note xml:id="fn15" type="footnote" n="15">Wie ferr: Inwieweit.</note> aber das gelangen<note xml:id="fn16" type="footnote" n="16">ausreichen.</note> moͤg, kan ich nitt wüssen.</s>
 				</p>
 			</div>
 			<div xml:id="div3" corresp="regest3">
@@ -35,33 +35,33 @@
 					<s n="10" xml:lang="de" type="auto">Lieber herr und bruͦder, wir<note xml:id="fn17" type="footnote" n="17">Die Zürcher bzw. die Vier Orte.</note> sind ouch lüt wie ander arm lüt.</s>
 					<s n="11" xml:lang="de" type="auto">Dorumb hab ich üch zuͦgeschriben,<note xml:id="fn18" type="footnote" n="18">Mit dem nicht erhaltenen Brief Bullingers vom 22. Januar, der unten Z. 87f und 90-92 bezeugt ist.</note> üwer sachen uff gott ze buwen.</s>
 					<s n="12" xml:lang="de" type="auto">Ist nitt minder<note xml:id="fn19" type="footnote" n="19">weniger wahr.</note>, ich kan by minen herren anders nitt dann ein gar guͦten willen zuͦ den üwern spüren.</s>
-					<s n="13" xml:lang="de" type="auto">Und woͤllt, was üwer herren irrte und bedurte<note xml:id="fn20" type="footnote" n="20">irrte und bedurte: missfällt und betrübt (nämlich im Brief, mit dem die Zürcher im Namen der Vier Orte den Konstanzern geantwortet hatten - s. dazu <ref target="file12811">Nr. 2762</ref>, Anm. 3).</note>, das sy das fry herus den unsern schribind, dardurch sy<note xml:id="fn22" type="footnote" n="22">Die Vier Orte.</note> gruntlichen bericht und grund verstuͤndint.</s>
-					<s n="14" xml:lang="de" type="auto">Acht wol und billich, man wurde sich gen inen wyter und meer dann gaͤgen mir uffthuͦn.</s>
+					<s n="13" xml:lang="de" type="auto">Und woͤllt, was üwer herren irrte und bedurte, das sy das fry herus den unsern schribind, dardurch sy<note xml:id="fn22" type="footnote" n="22">Die Vier Orte.</note> gruntlichen bericht und grund verstuͤndint.</s>
+					<s n="14" xml:lang="de" type="auto">Acht wol und billich, man wurde<note xml:id="fn23" type="footnote" n="23">würde.</note> sich gen inen wyter und meer dann gaͤgen mir uffthuͦn.</s>
 					<s n="15" xml:lang="de" type="auto">In unser eignen sach buwen ich nuͤt uff uns.</s>
-					<s n="16" xml:lang="de" type="auto">Weiß, wie es gangen ist in dem vorigen krieg<note xml:id="fn24" type="footnote" n="24">Im Zweiten <placeName>Kappeler</placeName> Krieg von Oktober 1531.</note> und wie es ietzund gadt in Germania mitt disem<pb type="scan" next="222v."/> krieg.</s>
+					<s n="16" xml:lang="de" type="auto">Weiß, wie es gangen ist in dem vorigen krieg<note xml:id="fn24" type="footnote" n="24">Im Zweiten <placeName ref="l242" cert="high">Kappeler</placeName> Krieg von Oktober 1531.</note> und wie es ietzund gadt in Germania mitt disem<pb type="scan" next="222v."/> krieg.</s>
 					<s n="17" xml:lang="de" type="auto">Hab deßhalb min sach also gemacht und gestellt: Was ich kan und mag publice und privatim, thuͦn ich mitt baͤtten, bitten, warnen, manen.</s>
-					<s n="18" xml:lang="de" type="auto">Beschicht neißwas dappffers, weiß ich, dass es gott gewürckt; wo <pb type="edition" next="181"/> nitt, hallt ich, gott suͦche uns umb unser sünden willen.</s>
-					<s n="19" xml:lang="de" type="auto">Weiß imm dann nitt wyter ze thuͦn, dann mitt gottes gnad by der warheit ze verharren, lib und laͤben daran setzen.</s>
+					<s n="18" xml:lang="de" type="auto">Beschicht neißwas<note xml:id="fn25" type="footnote" n="25">irgendetwas.</note> dappffers, weiß ich, dass es gott gewürckt; wo <pb type="edition" next="181"/> nitt, hallt ich, gott suͦche uns umb unser sünden willen.</s>
+					<s n="19" xml:lang="de" type="auto">Weiß imm<note xml:id="fn26" type="footnote" n="26">dem.</note> dann nitt wyter ze thuͦn, dann mitt gottes gnad by der warheit ze verharren, lib und laͤben daran setzen.</s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="20" xml:lang="de" type="auto">Und wenn schon nitt ein Eydgnoschafft der frommen statt <placeName>Constantz</placeName> zuͦsetzt, und ir alein gelassen werdent, woͤllend ir darumb under des bischoffs<note xml:id="fn28" type="footnote" n="28"><persName>Johann V. von Weeze</persName>.</note> ioch?</s>
+					<s n="20" xml:lang="de" type="auto">Und wenn schon nitt ein Eydgnoschafft der frommen statt <placeName ref="l457" cert="high">Constantz</placeName> zuͦsetzt<note xml:id="fn27" type="footnote" n="27">(militärisch) beisteht; s. <bibl>SI</bibl> VII 1715.</note>, und ir alein gelassen werdent, woͤllend ir darumb under des bischoffs<note xml:id="fn28" type="footnote" n="28"><persName ref="p7852" cert="high">Johann V. von Weeze</persName>.</note> ioch?</s>
 					<s n="21" xml:lang="de" type="auto">Ir muͤssend doch hernach ergers lyden.</s>
 					<s n="22" xml:lang="de" type="auto">Das wöllt ich den minen fürhallten.</s>
-					<s n="23" xml:lang="de" type="auto">Wo ichs erheben moͤcht, gott die eer; wo nitt, woͤlte ich doch das min daran setzen.</s>
+					<s n="23" xml:lang="de" type="auto">Wo<note xml:id="fn29" type="footnote" n="29">Wenn.</note> ichs erheben<note xml:id="fn30" type="footnote" n="30">erreichen.</note> moͤcht, gott die eer; wo nitt, woͤlte ich doch das min daran setzen.</s>
 					<s n="24" xml:lang="de" type="auto">Muͤste ich dann wychen, wurde gott nitt schlaffen und üch verlassen.</s>
-					<s n="25" xml:lang="de" type="auto">Sind wol getroͤst imm herren!</s>
+					<s n="25" xml:lang="de" type="auto">Sind<note xml:id="fn31" type="footnote" n="31">Seid.</note> wol getroͤst imm herren!</s>
 					<s n="26" xml:lang="de" type="auto">Wenn wir das unser thuͦnd und kein volg hernach gadt, wirt mans hernach finden.<note xml:id="fn32" type="footnote" n="32">Zu verstehen: Auch wenn man ohne Erfolg (volg) sein Bestes tut, wird man später (in der Ewigkeit) doch noch dafür belohnt werden.</note></s>
-					<s n="27" xml:lang="de" type="auto">Ob gott wil, werdent wir entschuldiget, und wirt unser lyden nitt eewig waͤren.</s>
+					<s n="27" xml:lang="de" type="auto">Ob<note xml:id="fn33" type="footnote" n="33">Wenn.</note> gott wil, werdent wir entschuldiget, und wirt unser lyden nitt eewig waͤren.</s>
 					<s n="28" xml:lang="de" type="auto">Und gange aber glich<note xml:id="fn34" type="footnote" n="34">trotz allem.</note>, wie gott woͤlle, soll unser hertz in imm allwaͤg starck sin.</s>
-					<s n="29" xml:lang="de" type="auto">Wenn er glich alles fleisch ze schanden macht,<note xml:id="fn35" type="footnote" n="35">Vgl. Gen 6, 13.</note> blipt doch der geist in imm<note xml:id="fn36" type="footnote" n="36">im Herzen. - Vgl. Eph 3, 16.</note> uffraͤcht.</s>
+					<s n="29" xml:lang="de" type="auto">Wenn er glich alles fleisch ze schanden macht,<note xml:id="fn35" type="footnote" n="35">Vgl. <cit type="bible"><ref>Gen 6, 13</ref></cit>.</note> blipt doch der geist in imm<note xml:id="fn36" type="footnote" n="36">im Herzen. - Vgl. <cit type="bible"><ref>Eph 3, 16</ref></cit>.</note> uffraͤcht.</s>
 				</p>
 			</div>
 			<div xml:id="div5" corresp="regest5">
 				<p>
 					<s n="30" xml:lang="de" type="auto">Ich kan wol in üwerm schryben spüren, dass ir vast<note xml:id="fn37" type="footnote" n="37">fest; sehr.</note> bekümert sind, und nitt unbillich.<note xml:id="fn38" type="footnote" n="38">nitt unbillich: nicht zu Unrecht.</note></s>
-					<s n="31" xml:lang="de" type="auto">Ir saͤhend aber, dass imm die waͤllt nitt anders thuͦt.</s>
+					<s n="31" xml:lang="de" type="auto">Ir saͤhend aber, dass imm die waͤllt nitt anders thuͦt.<note xml:id="fn39" type="footnote" n="39">imm die wallt nitt anders thüt: die Welt darin nichts unternimmt; s. <bibl>SI</bibl> XIII 303.</note></s>
 					<s n="32" xml:lang="de" type="auto">So kan dann gott ouch nitt anders handlen, dann wie er handlet.</s>
 					<s n="33" xml:lang="de" type="auto">So lassend uns raͤcht trost in imm suͦchen, baͤtten, unsern radt gaͤben, unser ampt biß ins end thuͦn und inn walten lassen.</s>
 				</p>
@@ -69,8 +69,8 @@
 			<div xml:id="div6" corresp="regest6">
 				<p>
 					<s n="34" xml:lang="de" type="auto">Ich wil von nuwem an<note xml:id="fn40" type="footnote" n="40">von nuwem an: erneut.</note> min bests mitt minen herren handlen, wie ir begaͤrt.</s>
-					<s n="35" xml:lang="de" type="auto">Dann ich weiß, dass imm also ist, wie ir sagend: Das ir nun eins steinwurffs naͤher zur walstatt<note xml:id="fn41" type="footnote" n="41">Schlachtfeld. - Siehe <persName>Blarers</persName> Aussage in <ref target="file12811">Nr. 2762</ref>,11f.</note> habend.</s>
-					<s n="36" xml:lang="de" type="auto">Hab mich ouch von den gnaden gottes in die sach ergaͤben.<note xml:id="fn43" type="footnote" n="43">mich in die sach ergaben: mich gefügt.</note></s>
+					<s n="35" xml:lang="de" type="auto">Dann ich weiß, dass imm also ist, wie ir sagend: Das ir nun eins steinwurffs naͤher zur walstatt<note xml:id="fn41" type="footnote" n="41">Schlachtfeld. - Siehe <persName ref="p8055" cert="high">Blarers</persName> Aussage in <ref target="file12811">Nr. 2762</ref>,11f.</note> habend.</s>
+					<s n="36" xml:lang="de" type="auto">Hab mich ouch von<note xml:id="fn42" type="footnote" n="42">durch.</note> den gnaden gottes in die sach ergaͤben.<note xml:id="fn43" type="footnote" n="43">mich in die sach ergaben: mich gefügt.</note></s>
 				</p>
 			</div>
 			<div xml:id="div7" corresp="regest7">
@@ -82,36 +82,36 @@
 			<div xml:id="div8" corresp="regest8">
 				<p>
 					<s n="39" xml:lang="de" type="auto"><pb type="scan" next="222a,r."/>Der wirtenbergisch vertrag ist ein ellender vertrag.</s>
-					<s n="40" xml:lang="de" type="auto">Hertzog Christoff<note xml:id="fn46" type="footnote" n="46"><persName>Christoph von Württemberg</persName>.</note>, ouch graff Joͤrg<note xml:id="fn47" type="footnote" n="47"><persName>Georg von Württemberg-Mömpelgard</persName>.</note> sind ze <placeName>Basel</placeName> und ander meer.</s>
+					<s n="40" xml:lang="de" type="auto">Hertzog <persName ref="1546" type="auto_name">Christoff</persName><note xml:id="fn46" type="footnote" n="46"><persName ref="p1546" cert="high">Christoph von Württemberg</persName>.</note>, ouch graff Joͤrg<note xml:id="fn47" type="footnote" n="47"><persName ref="p8098" cert="high">Georg von Württemberg-Mömpelgard</persName>.</note> sind ze <placeName ref="l28" cert="high">Basel</placeName> und ander meer.</s>
 				</p>
 			</div>
 			<div xml:id="div9" corresp="regest9">
 				<p>
-					<s n="41" xml:lang="de" type="auto">Es sind frylich der Machabeyer zyt,<note xml:id="fn48" type="footnote" n="48">Vgl. <persName>Blarers</persName> Ausführung dazu in <ref target="file12812">Nr. 2763</ref>,48-51.</note> namlich das <persName>Antiochus</persName><note xml:id="fn49" type="footnote" n="49"><persName>Antiochus IV. Epiphanes</persName> (gest. 164 v Chr.).</note> noch marteret.</s>
+					<s n="41" xml:lang="de" type="auto">Es sind frylich der Machabeyer zyt,<note xml:id="fn48" type="footnote" n="48">Vgl. <persName ref="p8055" cert="high">Blarers</persName> Ausführung dazu in <ref target="file12812">Nr. 2763</ref>,48-51.</note> namlich das <persName ref="p18429" cert="high">Antiochus</persName><note xml:id="fn49" type="footnote" n="49"><persName ref="p18429" cert="high">Antiochus IV. Epiphanes</persName> (gest. 164 v Chr.).</note> noch marteret.</s>
 					<s n="42" xml:lang="de" type="auto">Bald wirt das ander<note xml:id="fn50" type="footnote" n="50">Nämlich die Erlösung.</note> ouch kummen.</s>
-					<s n="43" xml:lang="de" type="auto">Doch das vorhin, die gottes sind,<pb type="edition" next="182"/> wol probiert werdent (besächt Danielis 11. cap.<note xml:id="fn52" type="footnote" n="52">Besonders Dan 11, 33-35.</note>), so wirt der herr alein den antichrist abthuͦn.<note xml:id="fn53" type="footnote" n="53">Vgl. 2 Thess 2, 8.</note></s>
+					<s n="43" xml:lang="de" type="auto">Doch das vorhin, die gottes sind,<pb type="edition" next="182"/> wol probiert<note xml:id="fn51" type="footnote" n="51">erprobt.</note> werdent (besächt Danielis 11. cap.<note xml:id="fn52" type="footnote" n="52">Besonders <cit type="bible"><ref>Dan 11, 33-35</ref></cit>.</note>), so wirt der herr alein den antichrist abthuͦn.<note xml:id="fn53" type="footnote" n="53">Vgl. <cit type="bible"><ref>2 Thess 2, 8</ref></cit>.</note></s>
 				</p>
 			</div>
 			<div xml:id="div10" corresp="regest10">
 				<p>
 					<s n="44" xml:lang="de" type="auto">Des schribens ist so vil, dass ich darin erstick; die geschaͤfft ouch so vil und manigfallt, das ich vil vergiß und daran erlig.<note xml:id="fn54" type="footnote" n="54">nachlässig werde.</note></s>
-					<s n="45" xml:lang="de" type="auto">Dorumb verargend mir nitt<note xml:id="fn55" type="footnote" n="55">verargend mir nitt: nehmt es mir nicht übel.</note>, dass ich ettwan underlaß, ettliche stuck ze schryben.<note xml:id="fn57" type="footnote" n="57">In Anspielung auf den in <ref target="file12812">Nr. 2763</ref>,58, indirekt geäußerten Vorwurf <persName>Blarers</persName>.</note></s>
+					<s n="45" xml:lang="de" type="auto">Dorumb verargend mir nitt<note xml:id="fn55" type="footnote" n="55">verargend mir nitt: nehmt es mir nicht übel.</note>, dass ich ettwan underlaß, ettliche stuck<note xml:id="fn56" type="footnote" n="56">Angelegenheit.</note> ze schryben.<note xml:id="fn57" type="footnote" n="57">In Anspielung auf den in <ref target="file12812">Nr. 2763</ref>,58, indirekt geäußerten Vorwurf <persName ref="p8055" cert="high">Blarers</persName>.</note></s>
 					<s n="46" xml:lang="de" type="auto">Mag ouch nitt alles wüssen.</s>
-					<s n="47" xml:lang="de" type="auto">Mitt den kriegslüten stat es also: Welche über das verbott in gemeinen herrschafften hinwaͤg geloffen, sind ietzund ze <placeName>Baden</placeName><note xml:id="fn59" type="footnote" n="59">An der Tagsatzung vom 10. Januar 1547; s. <bibl>EA</bibl> IV/1d 757 q.</note> gestrafft: Der houptmann 100 gulden, lütinampt und fenrych 50 gulden, der gemein knaͤcht 5 gulden, und biß uff gnad<note xml:id="fn60" type="footnote" n="60">biß uff gnad: solange keine (außergewöhnliche) Gnadenverfügung dies ändert.</note> one weer<note xml:id="fn61" type="footnote" n="61">Gewehr; Waffe.</note> und eer.</s>
-					<s n="48" xml:lang="de" type="auto">Min herren habend die iren nitt gestrafft.<note xml:id="fn62" type="footnote" n="62">In <ref target="file12811">Nr. 2762</ref>, Anm. 26, wird die Lösung, zu der <placeName>Zürich</placeName> sich entschloss, dargelegt. Siehe ferner <ref target="file12865">Nr. 2816</ref>, Anm. 78.</note></s>
-					<s n="49" xml:lang="de" type="auto">Acht aber wol, es werde mitt der zyt denocht ettwas beschaͤhen; mag doch ouch wol abtrochnen.</s>
+					<s n="47" xml:lang="de" type="auto">Mitt den kriegslüten stat es also: Welche über das verbott in gemeinen herrschafften hinwaͤg geloffen, sind ietzund ze <placeName ref="l21" cert="high">Baden</placeName><note xml:id="fn59" type="footnote" n="59">An der Tagsatzung vom 10. Januar 1547; s. <bibl>EA</bibl> IV/1d 757 q.</note> gestrafft: Der houptmann 100 gulden, lütinampt und fenrych 50 gulden, der gemein knaͤcht 5 gulden, und biß uff gnad<note xml:id="fn60" type="footnote" n="60">biß uff gnad: solange keine (außergewöhnliche) Gnadenverfügung dies ändert.</note> one weer<note xml:id="fn61" type="footnote" n="61">Gewehr; Waffe.</note> und eer.</s>
+					<s n="48" xml:lang="de" type="auto">Min herren habend die iren nitt gestrafft.<note xml:id="fn62" type="footnote" n="62">In <ref target="file12811">Nr. 2762</ref>, Anm. 26, wird die Lösung, zu der <placeName ref="l587" cert="high">Zürich</placeName> sich entschloss, dargelegt. Siehe ferner <ref target="file12865">Nr. 2816</ref>, Anm. 78.</note></s>
+					<s n="49" xml:lang="de" type="auto">Acht aber wol, es werde mitt der zyt denocht ettwas beschaͤhen; mag doch ouch wol abtrochnen.<note xml:id="fn63" type="footnote" n="63">ohne Folgen bleiben; vgl. <bibl>SI</bibl> XIV 276.</note></s>
 					<s n="50" xml:lang="de" type="auto">Unser gelaͤgenheit<note xml:id="fn64" type="footnote" n="64">Sachverhalt; s. <hi>FNHDW</hi> VI 724.</note> stat also: Wir habend gemeine satzungen.</s>
 					<s n="51" xml:lang="de" type="auto">Wer zuͦ fürsten, herren, staͤnden loufft, sol gestrafft werden an eer, lib und guͦt.</s>
-					<s n="52" xml:lang="de" type="auto">Daruff sind schwerr straaffen gevolgt uff die, dem Franzosen<note xml:id="fn65" type="footnote" n="65"><persName>Franz I.</persName></note> zuͦgeloffen;<note xml:id="fn66" type="footnote" n="66">Siehe dazu <placeName>Zürich</placeName> StA, A 166.2 passim.</note> und stand noch ettlich in den straffen.</s>
+					<s n="52" xml:lang="de" type="auto">Daruff sind schwerr straaffen gevolgt uff die, dem <persName ref="7637" type="auto_name">Franzosen</persName><note xml:id="fn65" type="footnote" n="65"><persName ref="p7637" cert="high">Franz I.</persName></note> zuͦgeloffen;<note xml:id="fn66" type="footnote" n="66">Siehe dazu <placeName ref="l587" cert="high">Zürich</placeName> StA, A 166.2 passim.</note> und stand noch ettlich in den straffen.</s>
 					<s n="53" xml:lang="de" type="auto">Das gsatzt ist noch nie uffgehept.</s>
-					<s n="54" xml:lang="de" type="auto">Soͤllt man nun gar one alle straff ouch dise knecht gan lassen, wurdent die franzoͤsischen mittschlieffen; das braͤchte uns eine gantze zerrüttung.</s>
-					<s n="55" xml:lang="de" type="auto">Dorumb die verstendigen vermeint, die schwer straff blyben ze lassen, und mitt der zyt ettwas disen<note xml:id="fn69" type="footnote" n="69">Den Söldnern, die nach Deutschland gezogen sind.</note> uffzelegen, traglichs und rings; alein dass nitt ein gantze zerstoͤrung volgte.</s>
-					<s n="56" xml:lang="de" type="auto"><foreign xml:lang="la">Iniquum petendum, ut aequum feras,<note xml:id="fn71" type="footnote" n="71">D.h. man muss mehr fordern, als es sich ziemt, damit die Leute sich überhaupt an eine angemessene Regelung halten; s. <hi>Adagia,</hi> 2, 3, 26 <hi>(ASD</hi> II/3 236, <ref target="file11269">Nr. 1226</ref>).</note></foreign> dann wir habend ye gar groß versuͦchung und unruͦw von den frantzoͤsischen<note xml:id="fn72" type="footnote" n="72">Diejenigen Zürcher, die sich in <placeName>Frankreich</placeName> gern als Söldner anbieten würden.</note>; wachst uns ye lenger ye mer uff den halß, etc.<pb type="edition" next="183"/></s>
+					<s n="54" xml:lang="de" type="auto">Soͤllt man nun gar one alle straff ouch dise knecht gan lassen, wurdent die franzoͤsischen mittschlieffen<note xml:id="fn67" type="footnote" n="67">mittschlieffen: mit den anderen davonkommen; s. <bibl>SI</bibl> IX 168.</note>; das braͤchte uns eine gantze zerrüttung.<note xml:id="fn68" type="footnote" n="68">Zerstörung (des Reglements); s. <bibl>SI</bibl> VI 1801.</note></s>
+					<s n="55" xml:lang="de" type="auto">Dorumb die verstendigen vermeint, die schwer straff blyben ze lassen, und mitt der zyt ettwas disen<note xml:id="fn69" type="footnote" n="69">Den Söldnern, die nach Deutschland gezogen sind.</note> uffzelegen, traglichs und rings<note xml:id="fn70" type="footnote" n="70">leichtes.</note>; alein dass nitt ein gantze zerstoͤrung volgte.</s>
+					<s n="56" xml:lang="de" type="auto"><foreign xml:lang="la">Iniquum petendum, ut aequum feras,</foreign> dann wir habend ye gar groß versuͦchung und unruͦw von den frantzoͤsischen<note xml:id="fn72" type="footnote" n="72">Diejenigen Zürcher, die sich in <placeName ref="l11" cert="high">Frankreich</placeName> gern als Söldner anbieten würden.</note>; wachst uns ye lenger ye mer uff den halß, etc.<pb type="edition" next="183"/></s>
 				</p>
 			</div>
 			<div xml:id="div11" corresp="regest11">
 				<p>
-					<s n="57" xml:lang="de" type="auto">Der allmaͤchtig gott woͤlle üch das hertz sterken, das ir üch nienan begaͤbind in die fulen richtungen, gange <ptr target="fnc" type="footnote" n="c"/>rächt, wie gott wöll.</s>
+					<s n="57" xml:lang="de" type="auto">Der allmaͤchtig gott woͤlle üch das hertz sterken, das ir üch nienan<note xml:id="fn73" type="footnote" n="73">nirgends; s. <bibl>SI</bibl> IV 761.</note> begaͤbind in die fulen richtungen, gange <ptr target="fnc" type="footnote" n="c"/>rächt, wie gott wöll.</s>
 					<s n="58" xml:lang="de" type="auto">Das min herren geschriben, ze thuͦn, was sy verantworten koͤnnend,<note xml:id="fn74" type="footnote" n="74">Siehe <ref target="file12811">Nr. 2762</ref>,35f.</note> bedunckt mich nut ungebürlichs.</s>
 					<s n="59" xml:lang="de" type="auto">Nun habend doch die üwern,<pb type="scan" next="222a,v."/> das ich wüß, nut gruntlichs, namhaffts an sy begaͤrt durch ir schryben.</s>
 					<s n="60" xml:lang="de" type="auto">Nimpt mich wunder, worumb ir üch des beschwarend; doch hab ich üch vorgestern by üwerm botten wyter geschriben.<note xml:id="fn76" type="footnote" n="76">Dieser Brief Bullingers vom 22. Januar 1547 ist nicht erhalten.</note></s>
@@ -121,22 +121,22 @@
 				<p>
 					<s n="61" xml:lang="de" type="auto">Doch, wie dem allem, woͤlte ich, man saͤhe by üch, üch und uns, alein uff gott.</s>
 					<s n="62" xml:lang="de" type="auto">Wider gebürliche mittel bin ich nitt.</s>
-					<s n="63" xml:lang="de" type="auto">Dorum, wo die üwern dise mittel, von denen ich vornaͤcht geschriben hab, zuͦ handen naͤmend, were nitt boͤß, oder das die üwern fry herus geschriben oder muntlich geworben haͤttend, wie und was inen mangle an den unsern, ouch das sy soͤlichs noch wyter langen lassind an <placeName>Bern</placeName>, <placeName>Basel</placeName> und <placeName>Schaffhusen</placeName>,<note xml:id="fn79" type="footnote" n="79">Siehe schon oben Z. 23-26 und Anm. 21.</note> und das man der andern orten diser zyt geschwige.</s>
+					<s n="63" xml:lang="de" type="auto">Dorum, wo die üwern dise mittel, von denen ich vornaͤcht<note xml:id="fn77" type="footnote" n="77">vorgestern.</note> geschriben hab, zuͦ handen naͤmend, were nitt boͤß, oder das die üwern fry herus geschriben oder muntlich geworben haͤttend, wie und was inen mangle an den unsern, ouch das sy soͤlichs noch wyter langen lassind an <placeName ref="l41" cert="high">Bern</placeName>, <placeName ref="l28" cert="high">Basel</placeName> und <placeName ref="l441" cert="high">Schaffhusen</placeName>,<note xml:id="fn79" type="footnote" n="79">Siehe schon oben Z. 23-26 und Anm. 21.</note> und das man der andern orten diser zyt geschwige.</s>
 				</p>
 			</div>
 			<div xml:id="div13" corresp="regest13">
 				<p>
 					<s n="64" xml:lang="de" type="auto">Lieber bruͦder, ist es dann schon amm end,<note xml:id="fn80" type="footnote" n="80">D.h. sind wir schon dem Ende der Welt nahe.</note> so lassend uns raͤcht unser bests thuͦn bis in das end.</s>
-					<s n="65" xml:lang="de" type="auto">Wir habend hie ouch unsere unruͦw, dann die 5 Ort begaͤrend straͤng von minen herren, dass sy uns, insonders Waltherten<note xml:id="fn81" type="footnote" n="81"><persName>Rudolf Gwalther</persName>. Siehe dazu <ref target="file12806">Nr. 2757</ref>, Anm. 11.</note>, straaffind von waͤgen des getruckten Endtchrists.</s>
-					<s n="66" xml:lang="de" type="auto">Wartend wir, wenn man uns für radt beschickt<note xml:id="fn82" type="footnote" n="82">uns für radt beschickt: uns vor den Rat bestellt. - Dazu kam es am 29. Januar; s. <bibl>HBD</bibl> 34, 23f; <hi>Bächtold, Rat</hi> 95-103; <ref target="file12876">Nr. 2827</ref>,3-19. Siehe ferner <ref target="file12877">Nr. 2828</ref>, Anm. I.</note>, aber lassend uns getroͤst sin in dem herren.</s>
+					<s n="65" xml:lang="de" type="auto">Wir habend hie ouch unsere unruͦw, dann die 5 Ort begaͤrend straͤng von minen herren, dass sy uns, insonders Waltherten<note xml:id="fn81" type="footnote" n="81"><persName ref="p8011" cert="high">Rudolf Gwalther</persName>. Siehe dazu <ref target="file12806">Nr. 2757</ref>, Anm. 11.</note>, straaffind von waͤgen des getruckten Endtchrists.</s>
+					<s n="66" xml:lang="de" type="auto">Wartend wir, wenn man uns für radt beschickt, aber lassend uns getroͤst sin in dem herren.</s>
 				</p>
 			</div>
 			<div xml:id="div14" corresp="regest14">
 				<p>
-					<s n="67" xml:lang="de" type="auto">Disen hie yngeschloßnen brieff<note xml:id="fn83" type="footnote" n="83">Ein nicht mehr erhaltener Brief <persName>Vadians</persName> an Bullinger mit Nachrichten aus <placeName>Genua</placeName>; s. <ref target="file12817">Nr. 2768</ref>,4-12; <ref target="file12823">Nr. 2774</ref>,34f.</note> verschafft mir sampt den andern, üch hievor zuͦgesandt,<note xml:id="fn84" type="footnote" n="84">Die Briefe von <persName>Baldassare Altieri</persName> und <persName>John Burcher</persName>, die Bullinger seinem Schreiben an <persName>Blarer</persName> vom 14. Januar beigelegt hatte; s. <ref target="file12800">Nr. 2751</ref>,60-62.</note> bald wider.</s>
+					<s n="67" xml:lang="de" type="auto">Disen hie yngeschloßnen brieff<note xml:id="fn83" type="footnote" n="83">Ein nicht mehr erhaltener Brief <persName ref="p8049" cert="high">Vadians</persName> an Bullinger mit Nachrichten aus <placeName ref="l1121" cert="high">Genua</placeName>; s. <ref target="file12817">Nr. 2768</ref>,4-12; <ref target="file12823">Nr. 2774</ref>,34f.</note> verschafft mir sampt den andern, üch hievor zuͦgesandt,<note xml:id="fn84" type="footnote" n="84">Die Briefe von <persName ref="p152" cert="high">Baldassare Altieri</persName> und <persName ref="p505" cert="high">John Burcher</persName>, die Bullinger seinem Schreiben an <persName ref="p8055" cert="high">Blarer</persName> vom 14. Januar beigelegt hatte; s. <ref target="file12800">Nr. 2751</ref>,60-62.</note> bald wider.</s>
 					<s n="68" xml:lang="de" type="auto">Gott mitt üch und den üwern allen.</s>
 					<s n="69" xml:lang="de" type="auto">Die gruͤssend mir.</s>
-					<s n="70" xml:lang="de" type="auto">Datum <placeName>Zürych</placeName>, 24. ianuarii ze 4 urn nach mittag 1547.</s>
+					<s n="70" xml:lang="de" type="auto">Datum <placeName ref="l587" cert="high">Zürych</placeName>, 24. ianuarii ze 4 urn nach mittag 1547.</s>
 					<s n="71" xml:lang="la" type="auto">Tuus totus et ex animo.</s>
 				</p>
 				<p>

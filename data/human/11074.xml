@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11074" type="Brief" source="HBBW" n="1032">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11074" type="Brief" source="HBBW-7" n="1032">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Rhellikan (Müller aus Rellikon) / Bern AN Heinrich Bullinger, 21. August 1537</title>
+				<title subtype="file">Johannes Rhellikan (Müller aus Rellikon) / Bern an Heinrich Bullinger, 21. August 1537</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,33 +19,33 @@
 					<s n="1" xml:lang="la" type="auto">Salutem et tranquillam conscientiam per Christum servatorem.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Quod rarius alter alteri scribit, doctissime Bullingere, ego in eam, quam debeo, partem accipio, quippe quod gravioribus et studiis et occupationibus distinearis, quam ut mutuis literulis cum amico ludere possis, praesertim cum interim tibi, quantum ad offitium adtinet, parem habeas <persName>Megandrum</persName> nostrum, quocum seria ecclesiae negotia tractes.</s>
+					<s n="2" xml:lang="la" type="auto">Quod rarius alter alteri scribit, doctissime Bullingere, ego in eam, quam debeo, partem accipio, quippe quod gravioribus et studiis et occupationibus distinearis, quam ut mutuis literulis cum amico ludere possis, praesertim cum interim tibi, quantum ad offitium adtinet, parem habeas <persName ref="p8412" cert="high">Megandrum</persName> nostrum, quocum seria ecclesiae negotia tractes.</s>
 					<s n="3" xml:lang="la" type="auto">In quibus sane tuis scriptis me adeo non negligis, ut non tantum amica salutatione me impertias, verum etiam secreta quaedam communicanda esse mones.</s>
 					<s n="4" xml:lang="la" type="auto">Quo fit, ut nihil de meo erga te amore decedat.</s>
 					<s n="5" xml:lang="la" type="auto">Nec est, quod metuam tuum erga me ullo scribendi silentio imminutum iri.</s>
 					<s n="6" xml:lang="la" type="auto">Ea nanque est tibi humanitas, prudentia et ingenii dexteritas, ut nihil sinistrum de amicorum silentio suspiceris, nedum consulto impingas.</s>
-					<s n="7" xml:lang="la" type="auto">Sic enim nimirum apud te cogitas: Quod <persName>Bibliander</persName> et <persName>Rhellicanus</persName>, amici tui, ultro citroque inter se missitant literas<note xml:id="fn1" type="footnote" n="1">Der Briefwechsel <persName>Rhellikans</persName> mit <persName>Theodor Bibliander</persName> ist nicht erhalten.</note>, aequum est.</s>
+					<s n="7" xml:lang="la" type="auto">Sic enim nimirum apud te cogitas: Quod <persName ref="p8171" cert="high">Bibliander</persName> et <persName ref="p8428" cert="high">Rhellicanus</persName>, amici tui, ultro citroque inter se missitant literas<note xml:id="fn1" type="footnote" n="1">Der Briefwechsel <persName ref="p8428" cert="high">Rhellikans</persName> mit <persName ref="p8171" cert="high">Theodor Bibliander</persName> ist nicht erhalten.</note>, aequum est.</s>
 					<s n="8" xml:lang="la" type="auto">Decet nanque bonarum literarum professores invicem scribere.</s>
-					<s n="9" xml:lang="la" type="auto">Et hoc minus te negligi cogitas, quo nullae tantum non a me scribuntur literae, quas tibi <persName>Theodorus</persName> noster non communicet.</s>
+					<s n="9" xml:lang="la" type="auto">Et hoc minus te negligi cogitas, quo nullae tantum non a me scribuntur literae, quas tibi <persName ref="p8171" cert="high">Theodorus</persName> noster non communicet.</s>
 				</p>
 				<p>
-					<s n="10" xml:lang="la" type="auto">Cur autem nunc tibi scribere in animum induxerim meum: Pietas erga socrum meam viduam<note xml:id="fn2" type="footnote" n="2"><persName>Margaretha Züst</persName>, Witwe des <persName>Hans Wirt</persName> von <placeName>Stein am Rhein</placeName>; s. <bibl>Z</bibl> X 340; <bibl>Glückshafenrodel</bibl> I 173, 75f; Inventar des Stadtarchivs <placeName>Stein am Rhein</placeName>, bearb. v. Heinrich Waldvogel, hg. vom Verein für Geschichte des Hegaus, Singen (Hohentwiel) 1967, S. 282. 407.</note> impellit.</s>
+					<s n="10" xml:lang="la" type="auto">Cur autem nunc tibi scribere in animum induxerim meum: Pietas erga socrum meam viduam impellit.</s>
 					<s n="11" xml:lang="la" type="auto">Ea nanque cum duos habeat filios literarum studiis dedicatos, unum iam iuvenem ac belle in musarum castris progressum, quem ego a primis institui rudimentis, alterum adhuc ephoebum,<pb type="edition" next="221"/> quem me quidem invito, sed non invita pueri Minerva<note xml:id="fn5" type="footnote" n="5">Vgl. <bibl>Adagia</bibl> 1, 1, 42 (<bibl>LB</bibl> II 44).</note> studiis mancipavit.</s>
-					<s n="12" xml:lang="la" type="auto"><placeName>Steiniae</placeName> nanque Tigurinorum sub Leonardo<note xml:id="fn6" type="footnote" n="6"><persName>Leonhard Hospinian</persName>.</note> praeceptore aliquo usque in grammaticis elementis profecit.</s>
-					<s n="13" xml:lang="la" type="auto">Nunc vero per anni spatium multo magis sub germani sui fratris <persName>Ioannis Hospiniani</persName> auspitiis Thubingae profecit<note xml:id="fn7" type="footnote" n="7">Christian hatte sich am 11. Juli 1536 in <placeName>Tübingen</placeName> immatrikuliert, sein Bruder bereits am 1. April desselben Jahres; s. Die Matrikeln der Universität <placeName>Tübingen</placeName>, hg. v. Heinrich Hermelink, Bd. I, Stuttgart 1906, S. 283, Nr. 12, bzw. S. 282, Nr. 34.</note>, adeo ut non impolitas scribat literas.</s>
+					<s n="12" xml:lang="la" type="auto"><placeName ref="l489" cert="high">Steiniae</placeName> nanque Tigurinorum sub <persName ref="7073" type="auto_name">Leonardo</persName><note xml:id="fn6" type="footnote" n="6"><persName ref="p7073" cert="high">Leonhard Hospinian</persName>.</note> praeceptore aliquo usque in grammaticis elementis profecit.</s>
+					<s n="13" xml:lang="la" type="auto">Nunc vero per anni spatium multo magis sub germani sui fratris <persName ref="p8384" cert="high">Ioannis Hospiniani</persName> auspitiis Thubingae profecit, adeo ut non impolitas scribat literas.</s>
 					<s n="14" xml:lang="la" type="auto">Illum itaque cum matris viduae tenuitas amplius in literarum studio fovere nequeat, me interpellavit, ut ipsius causa tibi scribam, quo ei causam apud senatum Tigurinum agenti adsis ac patrocineris.</s>
-					<s n="15" xml:lang="la" type="auto">Petitum nanque veniet, ut 30 aurei, quibus aureus calix a maioribus suis coenobio <placeName>Steinensi</placeName> consecratus divenditus est<note xml:id="fn8" type="footnote" n="8">Die Kirchenzierden des Klosters Stein waren 1525 von Zürich beschlagnahmt worden; s. Ferdinand <hi>Vetter,</hi> Die Reformation von Stadt und Kloster <placeName>Stein am Rhein</placeName>, in: Jahrbuch für schweizerische Geschichte 9, 1884, S. 289f.</note>, restituantur ac in pueri studia tanquam in verum usum iuxta testatoris voluntatem convertantur<note xml:id="fn9" type="footnote" n="9">Rückerstattungen an die Stifter waren vom Zürcher Rat bereits 1525 zugunsten der Unterstützung der Armen ausgeschlossen worden; s. <bibl>AZürcherRef</bibl> 611. <persName>Wirth</persName> erhielt jedoch am 24. Oktober vom Studentenamt auf obrigkeitlichen Befehl 20 Pfund; s. Zürich StA, G II 39. 1, Nr. 6.</note>.</s>
+					<s n="15" xml:lang="la" type="auto">Petitum nanque veniet, ut 30 aurei, quibus aureus calix a maioribus suis coenobio <placeName ref="l489" cert="high">Steinensi</placeName> consecratus divenditus est<note xml:id="fn8" type="footnote" n="8">Die Kirchenzierden des Klosters Stein waren 1525 von Zürich beschlagnahmt worden; s. Ferdinand <hi>Vetter,</hi> Die Reformation von Stadt und Kloster <placeName ref="l489" cert="high">Stein am Rhein</placeName>, in: Jahrbuch für schweizerische Geschichte 9, 1884, S. 289f.</note>, restituantur ac in pueri studia tanquam in verum usum iuxta testatoris voluntatem convertantur.</s>
 				</p>
 				<p>
 					<s n="16" xml:lang="la" type="auto"><pb type="edition" next="222"/>Cum enim is, qui legavit, gloriam dei et ecclesiae commodum respexerit, haud dubie et hoc et illa non magis quam literis honestis et literatis promoveri in ecclesia potest.</s>
 					<s n="17" xml:lang="la" type="auto">Neque vero opus est, ut te pluribus adhorter ac equo (ut dicitur) currenti calcaria addam<note xml:id="fn10" type="footnote" n="10">Vgl. Adagia, 1, 2, 47 (<bibl>LB</bibl> II 89).</note>.</s>
 					<s n="18" xml:lang="la" type="auto">Etenim non dubito, quin honestae viduae et pupilli tibi sint quam commendatissimi.</s>
-					<s n="19" xml:lang="la" type="auto">Quum enim ex propheta Esaia cognitum habeas, quantopere deus illos iudices oderit, qui viduarum ac orphanorum causam non admittunt<note xml:id="fn11" type="footnote" n="11">Vgl. Jes 1, 23; 10, 1f.</note>, e contrario coniicis, quam chari sint ii, qui hos iuvant et causam illorum non oscitanter audiunt.</s>
+					<s n="19" xml:lang="la" type="auto">Quum enim ex propheta Esaia cognitum habeas, quantopere deus illos iudices oderit, qui viduarum ac orphanorum causam non admittunt<note xml:id="fn11" type="footnote" n="11">Vgl. <cit type="bible"><ref>Jes 1, 23</ref></cit>; <cit type="bible"><ref>10, 1f.</ref></cit></note>, e contrario coniicis, quam chari sint ii, qui hos iuvant et causam illorum non oscitanter audiunt.</s>
 					<s n="20" xml:lang="la" type="auto">De his hactenus.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Caeterum non est, quod ecclesiae nostrae statum tibi perscribam; id nanque a <persName>Megandro</persName> nostro accurate fieri non dubito.</s>
-					<s n="22" xml:lang="la" type="auto">Sed interim conticere nequeo Buceranos (<placeName>Bernates</placeName> puto) omni insidiarum genere, technis et machinis conatos esse primo <persName>Megandrum</persName>, deinde <persName>Erasmum</persName><note xml:id="fn12" type="footnote" n="12"><persName>Erasmus Ritter</persName>.</note>, postremo et me offi-<pb type="scan" next="||455v."/>tio et loco movere, <persName>Megandrum</persName> quidem, quod diceretur in proxima n[ostra] synodo primae decreta elevasse, sic ut nihili librum, Germanice <foreign xml:lang="de">"ein hu[del]buch",</foreign> vocasset<note xml:id="fn13" type="footnote" n="13"><persName>Megander</persName> scheint an der Frühjahrssynode Kritik am <placeName>Berner</placeName> Synodus von 1532 geübt zu haben.</note>, <persName>Erasmum</persName> vero municipali alicui <placeName>Bernensi</placeName> ecclesiae praefic[ien]dum, propterea quod Cunzenus<note xml:id="fn14" type="footnote" n="14"><persName>Peter Kunz</persName>.</note> publice coram senatu protestatus esse[t] se nolle <persName>Erasmi</persName> collegam in verbi ministerio agere, et ni ipse aman[da]retur, se iam missionem petere</s>
+					<s n="21" xml:lang="la" type="auto">Caeterum non est, quod ecclesiae nostrae statum tibi perscribam; id nanque a <persName ref="p8412" cert="high">Megandro</persName> nostro accurate fieri non dubito.</s>
+					<s n="22" xml:lang="la" type="auto">Sed interim conticere nequeo Buceranos (<placeName ref="l41" cert="high">Bernates</placeName> puto) omni insidiarum genere, technis et machinis conatos esse primo <persName ref="p8412" cert="high">Megandrum</persName>, deinde <persName ref="p2810" cert="high">Erasmum</persName><note xml:id="fn12" type="footnote" n="12"><persName ref="p2810" cert="high">Erasmus Ritter</persName>.</note>, postremo et me offi-<pb type="scan" next="||455v."/>tio et loco movere, <persName ref="p8412" cert="high">Megandrum</persName> quidem, quod diceretur in proxima n[ostra] synodo primae decreta elevasse, sic ut nihili librum, Germanice <foreign xml:lang="de">"ein hu[del]buch",</foreign> vocasset<note xml:id="fn13" type="footnote" n="13"><persName ref="p8412" cert="high">Megander</persName> scheint an der Frühjahrssynode Kritik am <placeName ref="l41" cert="high">Berner</placeName> Synodus von 1532 geübt zu haben.</note>, <persName ref="p2810" cert="high">Erasmum</persName> vero municipali alicui <placeName ref="l41" cert="high">Bernensi</placeName> ecclesiae praefic[ien]dum, propterea quod <persName ref="20015" type="auto_name">Cunzenus</persName><note xml:id="fn14" type="footnote" n="14"><persName ref="p8401" cert="high">Peter Kunz</persName>.</note> publice coram senatu protestatus esse[t] se nolle <persName ref="p2810" cert="high">Erasmi</persName> collegam in verbi ministerio agere, et ni ipse aman[da]retur, se iam missionem petere</s>
 					<s n="23" xml:lang="la" type="auto">Et cum istius relationis causam qu[aere]retur, nullam iustam afferre potuit.</s>
 					<s n="24" xml:lang="la" type="auto">Ad me vero ablegandum null[am] praetenderunt causam, nisi quod collegium, unde alimur, nimio sumptu g[ra]vetur.</s>
 					<s n="25" xml:lang="la" type="auto">At deo sit gratia, technici illi homines nihil effecerunt.</s>
@@ -53,17 +53,17 @@
 					<s n="27" xml:lang="la" type="auto">Verum super hisce rebus plura, si dominus volet, coram tec[um] agam sub vindemiam.</s>
 				</p>
 				<p>
-					<s n="28" xml:lang="la" type="auto">Dominus <persName>Erasmus</persName> plurimam salutem tibi adscriber[e] iussit.</s>
-					<s n="29" xml:lang="la" type="auto">Salutabis et tu vicissim nomine meo d. <persName>Theodorum</persName> atque ei haec communica.</s>
+					<s n="28" xml:lang="la" type="auto">Dominus <persName ref="p2810" cert="high">Erasmus</persName> plurimam salutem tibi adscriber[e] iussit.</s>
+					<s n="29" xml:lang="la" type="auto">Salutabis et tu vicissim nomine meo d. <persName ref="p8171" cert="high">Theodorum</persName> atque ei haec communica.</s>
 				</p>
 				<p>
 					<s n="30" xml:lang="la" type="auto">Vale.</s>
 				</p>
 				<p>
-					<s n="31" xml:lang="la" type="auto">Datum <placeName>Bernae</placeName>, 21. augusti anno 1537.</s>
+					<s n="31" xml:lang="la" type="auto">Datum <placeName ref="l41" cert="high">Bernae</placeName>, 21. augusti anno 1537.</s>
 				</p>
 				<p>
-					<s n="32" xml:lang="la" type="auto">Tuus <persName>Rhellicanus</persName>, amicus et cliens.</s>
+					<s n="32" xml:lang="la" type="auto">Tuus <persName ref="p8428" cert="high">Rhellicanus</persName>, amicus et cliens.</s>
 				</p>
 				<p>
 					<note type="address">[Adresse darunter:]</note>

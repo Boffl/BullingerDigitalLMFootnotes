@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12957" type="Brief" source="HBBW" n="2908">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file12957" type="Brief" source="HBBW-20" n="2908">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Haller d.J. / Augsburg AN Heinrich Bullinger, 25. Mai 1547</title>
+				<title subtype="file">Johannes Haller d.J. / Augsburg an Heinrich Bullinger, 25. Mai 1547</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -17,25 +17,25 @@
 			<div xml:id="div1" corresp="regest1">
 				<p>
 					<s n="1" xml:lang="la" type="auto">S. P.</s>
-					<s n="2" xml:lang="la" type="auto">Revocat nos clarissimus <placeName>Tigurinę</placeName> urbis magistratus,<note xml:id="fn1" type="footnote" n="1">Mit einem Brief vom 17. Mai; s. <ref target="file12952">Nr. 2903</ref>, <ptr target="qvfn17169-2" type="qv"/>.<ptr target="zfnfn17174-6" type="zfn"/></note> et profecto in tempore!</s>
-					<s n="3" xml:lang="la" type="auto">Nam <persName>Romanus</persName><note xml:id="fn2" type="footnote" n="2"><persName>(Hans) Thoman Ruman (Römer)</persName>.</note> alias intra paucos dies discessisset.</s>
+					<s n="2" xml:lang="la" type="auto">Revocat nos clarissimus <placeName ref="l587" cert="high">Tigurinę</placeName> urbis magistratus,<note xml:id="fn1" type="footnote" n="1">Mit einem Brief vom 17. Mai; s. <ref target="file12952">Nr. 2903</ref>, <ptr target="qvfn17169-2" type="qv"/>.<ptr target="zfnfn17174-6" type="zfn"/></note> et profecto in tempore!</s>
+					<s n="3" xml:lang="la" type="auto">Nam <persName ref="p2812" cert="high">Romanus</persName><note xml:id="fn2" type="footnote" n="2"><persName ref="p2812" cert="high">(Hans) Thoman Ruman (Römer)</persName>.</note> alias intra paucos dies discessisset.</s>
 					<s n="4" xml:lang="la" type="auto">Ego mansissem aliquanto tantum tempore.</s>
-					<s n="5" xml:lang="la" type="auto">Retinere cupit nos amplissimus senatus <placeName>Augustanus</placeName> honoris gratia multa agens.</s>
-					<s n="6" xml:lang="la" type="auto">Scribunt senatui <placeName>Tigurino</placeName> eo solo tamen<pb type="edition" next="206"/> praetextu, ne commoveatur simplex plebecula in eos.<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl>HBBW</bibl> XIX 97,42-44; 152,106-108.</note></s>
+					<s n="5" xml:lang="la" type="auto">Retinere cupit nos amplissimus senatus <placeName ref="l1976" cert="high">Augustanus</placeName> honoris gratia multa agens.</s>
+					<s n="6" xml:lang="la" type="auto">Scribunt senatui <placeName ref="l587" cert="high">Tigurino</placeName> eo solo tamen<pb type="edition" next="206"/> praetextu, ne commoveatur simplex plebecula in eos.<note xml:id="fn4" type="footnote" n="4">Vgl. <bibl>HBBW</bibl> XIX 97,42-44; 152,106-108.</note></s>
 					<s n="7" xml:lang="la" type="auto">Facient et ipsis et nobis gratissimam, si priorem vocationem ratificent et praetendant rationes (quas possunt) honestas.</s>
 					<s n="8" xml:lang="la" type="auto">Neutiquam enim mansuri sumus!</s>
-					<s n="9" xml:lang="la" type="auto">Coguntur enim et ipsi confiteri reducendos cum sua religione (imo superstitione) sacerdotes, futura hic universalia comitia<note xml:id="fn6" type="footnote" n="6">Der damals schon geplante Reichstag, der tatsächlich in <placeName>Augsburg</placeName> abgehalten wurde; s. dazu <ref target="file13001">Nr. 2952</ref>, <ptr target="qvfn17218-1" type="qv"/>.</note> et fortassis etiam concilium Germanum.</s>
+					<s n="9" xml:lang="la" type="auto">Coguntur enim et ipsi confiteri reducendos cum sua religione (imo superstitione) sacerdotes, futura hic universalia comitia<note xml:id="fn6" type="footnote" n="6">Der damals schon geplante Reichstag, der tatsächlich in <placeName ref="l1976" cert="high">Augsburg</placeName> abgehalten wurde; s. dazu <ref target="file13001">Nr. 2952</ref>, <ptr target="qvfn17218-1" type="qv"/>.</note> et fortassis etiam concilium Germanum.</s>
 					<s n="10" xml:lang="la" type="auto">Id quod ego data mihi divinitus tanta occasione et vocatione non expectabo!</s>
-					<s n="11" xml:lang="la" type="auto">Est praeterea rumor non inconstans Helvetios bello quaerendos esse a caesare.<note xml:id="fn9" type="footnote" n="9"><persName>Karl V.</persName></note></s>
+					<s n="11" xml:lang="la" type="auto">Est praeterea rumor non inconstans Helvetios bello quaerendos esse a caesare.<note xml:id="fn9" type="footnote" n="9"><persName ref="p18538" cert="high">Karl V.</persName></note></s>
 					<s n="12" xml:lang="la" type="auto">Volo ergo meae ego adesse patriae eamque consilio, facultatibus manuque (utut res expostulat) defendere.</s>
 				</p>
 			</div>
 			<div xml:id="div2" corresp="regest2">
 				<p>
-					<s n="13" xml:lang="la" type="auto">Vix dedimus eis<note xml:id="fn10" type="footnote" n="10">Den <placeName>Augsburger</placeName> Ratsherren.</note> hoc, ut scriberent Tigurino senatui et ut ad eius nuncii reditum differremus abitionem.</s>
+					<s n="13" xml:lang="la" type="auto">Vix dedimus eis<note xml:id="fn10" type="footnote" n="10">Den <placeName ref="l1976" cert="high">Augsburger</placeName> Ratsherren.</note> hoc, ut scriberent Tigurino senatui et ut ad eius nuncii<note xml:id="fn11" type="footnote" n="11">Unbekannt.</note> reditum differremus abitionem.</s>
 					<s n="14" xml:lang="la" type="auto">Promiserunt se nos honorifice dimissuros, si <pb type="edition" next="207"/> denuo repetamur a vobis.</s>
 					<s n="15" xml:lang="la" type="auto">Si ergo iuvisti prius<note xml:id="fn12" type="footnote" n="12">Bei der am 17. Mai erfolgten Rückberufung.</note>, fac, etiam nunc iuves!</s>
-					<s n="16" xml:lang="la" type="auto">Nolo, mihi credas, quomodo se res habeant <placeName>Augustanae</placeName> (scio te non credere, quam sit mutatus ab illo <persName ref="p8087">Hectore</persName> L<note xml:id="fn14" type="footnote" n="14">Gemeint ist Laetus (d.h. Georg Frölich). - Siehe dazu schon <ref target="file12948">Nr. 2899</ref>, <ptr target="qvfn17165-1" type="qv"/>.<ptr target="zfnfn17174-10" type="zfn"/></note> noster!), sed credas clarissimo viro d. <persName>Maiero</persName> et <persName ref="p6127">Cellario</persName>, qui tibi scribunt et idem de ipso<note xml:id="fn16" type="footnote" n="16">de Hectore.</note> quaeruntur mihique cum omnibus sani iudicii viris congratulantur, qui in tempore ex hoc liberer purgatorio.</s>
+					<s n="16" xml:lang="la" type="auto">Nolo, mihi credas, quomodo se res habeant <placeName ref="l1976" cert="high">Augustanae</placeName> (scio te non credere, quam sit mutatus ab illo <persName ref="p1410" cert="high">Hectore</persName> L<note xml:id="fn14" type="footnote" n="14">Gemeint ist Laetus (d.h. Georg Frölich). - Siehe dazu schon <ref target="file12948">Nr. 2899</ref>, <ptr target="qvfn17165-1" type="qv"/>.<ptr target="zfnfn17174-10" type="zfn"/></note> noster!), sed credas clarissimo viro d. <persName ref="p8122" cert="high">Maiero</persName> et <persName ref="p1860" cert="high">Cellario</persName>, qui tibi scribunt et idem de ipso<note xml:id="fn16" type="footnote" n="16">de Hectore.</note> quaeruntur mihique cum omnibus sani iudicii viris congratulantur, qui in tempore ex hoc liberer purgatorio.</s>
 					<s n="17" xml:lang="la" type="auto">Describam aliquando coram tibi liberius mores Suevicos alienissimos a simplicitate et integritate Helvetica.</s>
 					<s n="18" xml:lang="la" type="auto">Tu, rogo, insta, ne mutetur<note xml:id="fn17" type="footnote" n="17">Subjekt sind die Zürcher Ratsherren.</note> vocatio!</s>
 					<s n="19" xml:lang="la" type="auto">Ego tuus ero totus perpetuo.</s>
@@ -44,16 +44,16 @@
 			<div xml:id="div3" corresp="regest3">
 				<p>
 					<s n="20" xml:lang="la" type="auto">Vale.</s>
-					<s n="21" xml:lang="la" type="auto">Raptim ex collegio divae Annae <placeName>Augustae Vindelicorum</placeName>,<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file12943">Nr. 2894</ref>, <ptr target="qvfn17159-9" type="qv"/>.</note> 25. mai anno 1547.</s>
+					<s n="21" xml:lang="la" type="auto">Raptim ex collegio divae Annae <placeName ref="l1976" cert="high">Augustae Vindelicorum</placeName>,<note xml:id="fn18" type="footnote" n="18">Vgl. <ref target="file12943">Nr. 2894</ref>, <ptr target="qvfn17159-9" type="qv"/>.</note> 25. mai anno 1547.</s>
 					<s n="22" xml:lang="la" type="auto">Saluta familiam et fratres.</s>
 					<s n="23" xml:lang="la" type="auto">Expectabit responsum dominorum interim affinis meus, quia videt praeter praetextum esse nihil!</s>
-					<s n="24" xml:lang="la" type="auto"><persName>Ioan. Hallerus</persName>.<pb type="edition" next="208"/></s>
+					<s n="24" xml:lang="la" type="auto"><persName ref="p8018" cert="high">Ioan. Hallerus</persName>.<pb type="edition" next="208"/></s>
 				</p>
 			</div>
 			<div xml:id="div4" corresp="regest4">
 				<p>
-					<s n="25" xml:lang="la" type="auto"><ptr target="fnb" type="footnote" n="b"/> Dum has concludo, venit ad me tribunus<note xml:id="fn21" type="footnote" n="21">Vermutlich <persName>Hans Schweiglin</persName>; vgl. <bibl>HBBW</bibl> XVIII 183,33-35.</note>, vir honestus et syncerus, qui et ipse senatui adfuit, cum proponeretur nostra revocatio.</s>
-					<s n="26" xml:lang="la" type="auto">Is ait meras esse nugas, quas agant nobiscum consules.<note xml:id="fn22" type="footnote" n="22"><persName>Jakob Herbrot</persName> und <persName>Hans Welser</persName>.</note></s>
+					<s n="25" xml:lang="la" type="auto"><ptr target="fnb" type="footnote" n="b"/> Dum has concludo, venit ad me tribunus<note xml:id="fn21" type="footnote" n="21">Vermutlich <persName ref="p6528" cert="high">Hans Schweiglin</persName>; vgl. <bibl>HBBW</bibl> XVIII 183,33-35.</note>, vir honestus et syncerus, qui et ipse senatui adfuit, cum proponeretur nostra revocatio.</s>
+					<s n="26" xml:lang="la" type="auto">Is ait meras esse nugas, quas agant nobiscum consules.<note xml:id="fn22" type="footnote" n="22"><persName ref="p1410" cert="high">Jakob Herbrot</persName> und <persName ref="p3927" cert="high">Hans Welser</persName>.</note></s>
 					<s n="27" xml:lang="la" type="auto">Si velimus nobis consultum, ut scribamus Tigurinis, ne mutent sententiam!</s>
 				</p>
 				<p>

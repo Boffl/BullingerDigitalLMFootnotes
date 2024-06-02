@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11286" type="Brief" source="HBBW" n="1243">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11286" type="Brief" source="HBBW-9" n="1243">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Heinrich Bullinger / [Zürich] AN Oswald Myconius (Geißhüsler), 13. März 1539</title>
+				<title subtype="file">Heinrich Bullinger / [Zürich] an Oswald Myconius (Geißhüsler), 13. März 1539</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,21 +19,21 @@
 					<s n="1" xml:lang="la" type="auto">Gratiam et vitae innocentiam a domino.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Nosti, colende mi <persName>Myconi</persName>, <persName ref="p2463">Diethelmum Cellarium</persName><note xml:id="fn1" type="footnote" n="1"><persName>Diethelm Keller</persName>.</note> a senatu propter schedas quasdam ineptas contra <persName ref="p18198">Bucerum</persName> affixas<note xml:id="fn2" type="footnote" n="2">Vgl. <bibl>HBBW VIII</bibl> <ref target="file11170">[Nr. 1127]</ref>, S. 131, Anm. 3.</note> calendis maii anno 1538 mulctatum esse a clarissimo senatu nostro in corpore et pecuniis.</s>
+					<s n="2" xml:lang="la" type="auto">Nosti, colende mi <persName ref="p8418" cert="high">Myconi</persName>, <persName ref="p1783" cert="high">Diethelmum Cellarium</persName><note xml:id="fn1" type="footnote" n="1"><persName ref="p1783" cert="high">Diethelm Keller</persName>.</note> a senatu propter schedas quasdam ineptas contra <persName ref="p467" cert="high">Bucerum</persName> affixas<note xml:id="fn2" type="footnote" n="2">Vgl. <bibl>HBBW VIII</bibl> <ref target="file11170">[Nr. 1127]</ref>, S. 131, Anm. 3.</note> calendis maii anno 1538 mulctatum esse a clarissimo senatu nostro in corpore et pecuniis.</s>
 					<s n="3" xml:lang="la" type="auto">Nam 50 lib[ras] sive 25 g[uld]en solvit; cogitur iam solvere adhuc 15 gulden aut carere stipendio suo.</s>
-					<s n="4" xml:lang="la" type="auto">Hic te oratum vellem, a clarissimo senatu <placeName>Basileiensi</placeName> impetrares litteras, quibus pro misero et stulto adolescente intercederent<note xml:id="fn3" type="footnote" n="3"><persName>Myconius</persName> legte Bullingers Bitte Bürgermeister Jakob Meyer vor; s. unten <ref target="file11295">Nr. 1252</ref>, 22-24.</note>.</s>
+					<s n="4" xml:lang="la" type="auto">Hic te oratum vellem, a clarissimo senatu <placeName ref="l28" cert="high">Basileiensi</placeName> impetrares litteras, quibus pro misero et stulto adolescente intercederent<note xml:id="fn3" type="footnote" n="3"><persName ref="p8418" cert="high">Myconius</persName> legte Bullingers Bitte Bürgermeister Jakob Meyer vor; s. unten <ref target="file11295">Nr. 1252</ref>, 22-24.</note>.</s>
 					<s n="5" xml:lang="la" type="auto">Litteras vero mihi mittas cupio etc.</s>
 				</p>
 				<p>
-					<s n="6" xml:lang="la" type="auto">De Pilsensi in <persName>Bohemia</persName> conventu non ignoras, opinor, celebrem esse vel principum praesentia; esse enim illic aiunt <persName>Ludevicum Baioariae</persName> ducem, <persName>Heinrychum Brunsvicensem</persName>, deinde episcopos aliquot opulentos, quorum<pb type="edition" next="85"/> coryphaeus cardinalis <placeName>Salisburgensis</placeName><note xml:id="fn7" type="footnote" n="7">An der <placeName>Pilsener</placeName> Tagung nahmen keine Bischöfe teil, auch nicht der <placeName>Salzburger</placeName> Kardinalerzbischof <persName>Matthäus Lang</persName>. <placeName>Salzburg</placeName> wurde durch den Bundesrat Eustachius von der Anu vertreten; s. <hi>Bucholtz,</hi> aaO, S. 371.</note>, homo callidus et ad artes texendas natus.</s>
-					<s n="7" xml:lang="la" type="auto">Ferunt et <persName>Ferdinandum</persName> illo venturum, nisi verosimilius est <placeName>Franckfordiam</placeName> ire malle<note xml:id="fn8" type="footnote" n="8">Es handelt sich um bloße Gerüchte; die persönliche Teilnahme <persName>König Ferdinands</persName> an den erwähnten Tagungen stand nicht zur Debatte.</note>; illo enim evocatum aiunt a tribus electoribus Saxone<note xml:id="fn9" type="footnote" n="9"><persName>Johann Friedrich I.</persName>, Kurfürst von Sachsen.</note>, Palatino et Brandenburgensi<note xml:id="fn11" type="footnote" n="11"><persName>Joachim II.</persName>, Kurfürst von Brandenburg.</note>.</s>
-					<s n="8" xml:lang="la" type="auto">Missum enim a <persName>Ferdinando</persName> <persName ref="p4640">Bernhartum</persName> cardinalem Tridentinum, deinde et Lundensem quendam, qui titulum gerit episcopi <placeName>Constantiensis</placeName>, noluerunt audire adiecta insuper conditione, ut, nisi ipse veniat, neminem eius nomine sint audituri.</s>
+					<s n="6" xml:lang="la" type="auto">De Pilsensi in <persName ref="p18477" cert="high">Bohemia</persName> conventu non ignoras, opinor, celebrem esse vel principum praesentia; esse enim illic aiunt <persName ref="p18549" cert="high">Ludevicum Baioariae</persName> ducem, <persName ref="p20070" cert="high">Heinrychum Brunsvicensem</persName>, deinde episcopos aliquot opulentos, quorum<pb type="edition" next="85"/> coryphaeus cardinalis <placeName ref="l1725" cert="high">Salisburgensis</placeName><note xml:id="fn7" type="footnote" n="7">An der <placeName ref="l1727" cert="high">Pilsener</placeName> Tagung nahmen keine Bischöfe teil, auch nicht der <placeName ref="l1725" cert="high">Salzburger</placeName> Kardinalerzbischof <persName ref="p7621" cert="high">Matthäus Lang</persName>. <placeName ref="l1725" cert="high">Salzburg</placeName> wurde durch den Bundesrat Eustachius von der Anu vertreten; s. <hi>Bucholtz,</hi> aaO, S. 371.</note>, homo callidus et ad artes texendas natus.</s>
+					<s n="7" xml:lang="la" type="auto">Ferunt et <persName ref="p18477" cert="high">Ferdinandum</persName> illo venturum, nisi verosimilius est <placeName ref="l157" cert="high">Franckfordiam</placeName> ire malle<note xml:id="fn8" type="footnote" n="8">Es handelt sich um bloße Gerüchte; die persönliche Teilnahme <persName ref="p18477" cert="high">König Ferdinands</persName> an den erwähnten Tagungen stand nicht zur Debatte.</note>; illo enim evocatum aiunt a tribus electoribus Saxone<note xml:id="fn9" type="footnote" n="9"><persName ref="p19065" cert="high">Johann Friedrich I.</persName>, Kurfürst von Sachsen.</note>, Palatino et Brandenburgensi<note xml:id="fn11" type="footnote" n="11"><persName ref="p18520" cert="high">Joachim II.</persName>, Kurfürst von Brandenburg.</note>.</s>
+					<s n="8" xml:lang="la" type="auto">Missum enim a <persName ref="p18477" cert="high">Ferdinando</persName> <persName ref="p20073" cert="high">Bernhartum</persName> cardinalem Tridentinum, deinde et <persName ref="7852" type="auto_name">Lundensem</persName> quendam, qui titulum gerit episcopi <placeName ref="l457" cert="high">Constantiensis</placeName>, noluerunt audire adiecta insuper conditione, ut, nisi ipse veniat, neminem eius nomine sint audituri.</s>
 					<s n="9" xml:lang="la" type="auto">Urbes translacustres<note xml:id="fn14" type="footnote" n="14">Gemeint sind wohl die "Seestädte" (Hansestädte); vgl. <bibl>Vadian BW VI</bibl> 562 und VII 92.</note>, quae sunt ab evangelio, armis, tormentis, comeatu se parant.</s>
-					<s n="10" xml:lang="la" type="auto">De Nerobergensibus suspicantur quidam, quod legationem suam apud utrasque habeant partes<note xml:id="fn15" type="footnote" n="15">Auslöser dieser Verdächtigungen waren wohl die Verhandlungen, die der kaiserliche Vizekanzler <persName>Matthias Held</persName> mit <placeName>Nürnberg</placeName> geführt hatte; vgl. <bibl>PC</bibl> II 482f.</note>.</s>
+					<s n="10" xml:lang="la" type="auto">De Nerobergensibus suspicantur quidam, quod legationem suam apud utrasque habeant partes<note xml:id="fn15" type="footnote" n="15">Auslöser dieser Verdächtigungen waren wohl die Verhandlungen, die der kaiserliche Vizekanzler <persName ref="p5189" cert="high">Matthias Held</persName> mit <placeName ref="l361" cert="high">Nürnberg</placeName> geführt hatte; vgl. <bibl>PC</bibl> II 482f.</note>.</s>
 					<s n="11" xml:lang="la" type="auto">Dominus faciat, quod conducat gloriae nominis sui et incolumitati ecclesiae.</s>
 				</p>
 				<p>
-					<s n="12" xml:lang="la" type="auto">Vale una cum <persName>Grynaeo</persName>, homine dilectissimo.</s>
+					<s n="12" xml:lang="la" type="auto">Vale una cum <persName ref="p1365" cert="high">Grynaeo</persName>, homine dilectissimo.</s>
 					<s n="13" xml:lang="la" type="auto">13. martii anno 1539.</s>
 				</p>
 				<p>
@@ -41,7 +41,7 @@
 				</p>
 				<p>
 					<note type="address">[Adresse auf der Rückseite:]</note>
-					<s n="15" xml:lang="la" type="auto">Domino <persName>Osvaldo Myconio</persName>, fratri charissimo suo.</s>
+					<s n="15" xml:lang="la" type="auto">Domino <persName ref="p8418" cert="high">Osvaldo Myconio</persName>, fratri charissimo suo.</s>
 				</p>
 			</div>
 		</body>

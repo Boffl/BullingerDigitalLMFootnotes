@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11896" type="Brief" source="GR" n="47">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file11896" type="Brief" source="GR-I" n="47">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Johannes Comander / Chur AN Heinrich Bullinger, 19. Februar [1544]</title>
+				<title subtype="file">Johannes Comander / Chur an Heinrich Bullinger, 19. Februar [1544]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>

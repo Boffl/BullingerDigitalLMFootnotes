@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10865" type="Brief" source="HBBW" n="826">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="file10865" type="Brief" source="HBBW-6" n="826">
 	<teiHeader xml:lang="de">
 		<fileDesc>
 			<titleStmt>
-				<title subtype="file">Ambrosius Blarer (Blaurer) / [Tübingen] AN Heinrich Bullinger, 21. Mai [1536]</title>
+				<title subtype="file">Ambrosius Blarer (Blaurer) / [Tübingen] an Heinrich Bullinger, 21. Mai [1536]</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority>Universität Zürich</authority>
@@ -19,13 +19,13 @@
 					<s n="1" xml:lang="la" type="auto">Salve, mi venerande Bullingere.</s>
 				</p>
 				<p>
-					<s n="2" xml:lang="la" type="auto">Longas literas <persName ref="p5543">Habii</persName> vestri caussa <placeName>Stutgardiam</placeName> scripsi, si quo modo caussae illius adesse possim, quominus est, ut ad te pluribus.</s>
+					<s n="2" xml:lang="la" type="auto">Longas literas <persName ref="p1419" cert="high">Habii</persName> vestri caussa <placeName ref="l496" cert="high">Stutgardiam</placeName> scripsi, si quo modo caussae illius adesse possim, quominus est, ut ad te pluribus.</s>
 				</p>
 				<p>
-					<s n="3" xml:lang="la" type="auto">Quę in Wirtempergensium ecclesiarum ritibus desideras quęque mutata cupis, plane grato animo accepi<note xml:id="fn3" type="footnote" n="3">Die Stellungnahme Bullingers - <persName>Blarer</persName> hatte ihm am 21. März ein Exemplar der [<placeName>Württemberger</placeName>] Kirchenordnung zugeschickt (s. oben <ref target="file10802">Nr. 764</ref>, 2) - ist nicht erhalten (vgl. auch unten <ref target="file10880">Nr. 841</ref>, 53-61).</note>; verum si, quo loco sim, diligentius tecum perpendas, facile intelliges, quo sint omnia facta consilio quove authore.</s>
-					<s n="4" xml:lang="la" type="auto">Magnum videbar mihi impetrasse, postquam mea admonitione resecta sunt quędam longe iis superstitiosiora, quę nonnulli etiam extra Schnepfium affinxerant<note xml:id="fn4" type="footnote" n="4"><persName>Blarer</persName> denkt wohl v. a. an <persName>Johannes Brenz</persName> (vgl. <persName>Blarer</persName> BW I 788f; zu Brenz' Anteil vgl. Julius <hi>Hartmann,</hi> <persName>Johannes Brenz</persName>. Leben und ausgewählte Schriften, Elberfeld 1862. - Leben und ausgewählte Schriften der Vater und Begründer der lutherischen Kirche VI, S. 154-156.</note>.</s>
+					<s n="3" xml:lang="la" type="auto">Quę in Wirtempergensium ecclesiarum ritibus desideras quęque mutata cupis, plane grato animo accepi<note xml:id="fn3" type="footnote" n="3">Die Stellungnahme Bullingers - <persName ref="p8055" cert="high">Blarer</persName> hatte ihm am 21. März ein Exemplar der [<placeName ref="l572" cert="high">Württemberger</placeName>] Kirchenordnung zugeschickt (s. oben <ref target="file10802">Nr. 764</ref>, 2) - ist nicht erhalten (vgl. auch unten <ref target="file10880">Nr. 841</ref>, 53-61).</note>; verum si, quo loco sim, diligentius tecum perpendas, facile intelliges, quo sint omnia facta consilio quove authore.</s>
+					<s n="4" xml:lang="la" type="auto">Magnum videbar mihi impetrasse, postquam mea admonitione resecta sunt quędam longe iis superstitiosiora, quę nonnulli etiam extra <persName ref="p6469" cert="high">Schnepfium</persName> affinxerant.</s>
 					<s n="5" xml:lang="la" type="auto">Speramus domini beneficio solidiora aliquando daturos principes.</s>
-					<s n="6" xml:lang="la" type="auto">Minor catechismus plane is est, quem <persName ref="p17881">Brentius</persName> edidit<note xml:id="fn5" type="footnote" n="5">Im Anhang der Kirchenordnung ist "Em kleiner Catechismus" von Brenz aus dem Jahre 1535 abgedruckt; vgl. dazu Christoph <hi>Weismann,</hi> Die Katechismen des <persName>Johannes Brenz</persName>, I: Die Entstehungs-, Text- und Wirkungsgeschichte, Berlin/New York 1990. - Spätmittelalter und Reformation, Texte und Untersuchungen 21, S. 244-246. 251f. 260-262.</note>, nec verbum mutatum, nisi quod ad calcem<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Otto</bibl> 67, Nr. 308.</note> additę sunt preculae quedam, ne vacuę essent paginę.</s>
+					<s n="6" xml:lang="la" type="auto">Minor catechismus plane is est, quem <persName ref="p458" cert="high">Brentius</persName> edidit, nec verbum mutatum, nisi quod ad calcem<note xml:id="fn6" type="footnote" n="6">Vgl. <bibl>Otto</bibl> 67, Nr. 308.</note> additę sunt preculae quedam, ne vacuę essent paginę.</s>
 					<s n="7" xml:lang="la" type="auto">Alioqui noveram, quam variarent hic veteres.</s>
 				</p>
 				<p>
@@ -36,7 +36,7 @@
 					<s n="10" xml:lang="la" type="auto">Tu, mi venerande frater, servatori Christo me meumque ministerium diligenter commenda.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Saluta fratres, inprimis uxorem<note xml:id="fn8" type="footnote" n="8"><persName>Anna, geb. Adlischwyler</persName>.</note>, <persName>Pellicanum</persName>, <persName ref="p2305">Leonem</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p6796">Leo Jud</persName>.</note>, <persName>Theodorum</persName><note xml:id="fn10" type="footnote" n="10"><persName>Theodor Bibliander</persName>.</note> etc.</s>
+					<s n="11" xml:lang="la" type="auto">Saluta fratres, inprimis uxorem<note xml:id="fn8" type="footnote" n="8"><persName ref="p8051" cert="high">Anna, geb. Adlischwyler</persName>.</note>, <persName ref="p8127" cert="high">Pellicanum</persName>, <persName ref="p1753" cert="high">Leonem</persName><note xml:id="fn9" type="footnote" n="9"><persName ref="p1753" cert="high">Leo Jud</persName>.</note>, <persName ref="p8171" cert="high">Theodorum</persName><note xml:id="fn10" type="footnote" n="10"><persName ref="p8171" cert="high">Theodor Bibliander</persName>.</note> etc.</s>
 					<s n="12" xml:lang="la" type="auto">Iterum vale et per Christum ignosce brevitati.</s>
 				</p>
 				<p>
@@ -46,8 +46,8 @@
 					<s n="14" xml:lang="la" type="auto">Tuus Ambr. Blaur.</s>
 				</p>
 				<p>
-					<s n="15" xml:lang="la" type="auto"><persName>Volmarius</persName> lavat in Ferinis Balneis<note xml:id="fn11" type="footnote" n="11"><placeName>Wildbad im Schwarzwald (Baden-Württemberg)</placeName>.</note>.</s>
-					<s n="16" xml:lang="la" type="auto">Ubi redierit, reddam, quae misisti<note xml:id="fn12" type="footnote" n="12"><persName>Melchior Volmar</persName> dankte am 1. Juli für ein Geschenk (einige Buchlein) und für einen Brief Bullingers (vgl. unten <ref target="file10898">Nr. 858</ref>, 22f, mit Anm. 2).</note>.</s>
+					<s n="15" xml:lang="la" type="auto"><persName ref="p8113" cert="high">Volmarius</persName> lavat in <placeName ref="1343" type="auto_name">Ferinis Balneis</placeName><note xml:id="fn11" type="footnote" n="11"><placeName ref="l1343" cert="high">Wildbad im Schwarzwald (Baden-Württemberg)</placeName>.</note>.</s>
+					<s n="16" xml:lang="la" type="auto">Ubi redierit, reddam, quae misisti<note xml:id="fn12" type="footnote" n="12"><persName ref="p8113" cert="high">Melchior Volmar</persName> dankte am 1. Juli für ein Geschenk (einige Buchlein) und für einen Brief Bullingers (vgl. unten <ref target="file10898">Nr. 858</ref>, 22f, mit Anm. 2).</note>.</s>
 				</p>
 				<p>
 					<note type="address">[Ohne Adresse.]</note>
