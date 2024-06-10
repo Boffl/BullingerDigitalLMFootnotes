@@ -1,0 +1,422 @@
+«Ergo legitima  decernitur» 
+
+Ein komplizierter Fall vor dem Zürcher Ehegericht,  1534 
+
+von  HEINZPETER STUCKI 
+
+Die  Edition  von  Quellen  zur  Zürcher  Kirchengeschichte1  stellt  den  Bearbeiter 
+immer  wieder  vor  neue  Probleme,  bringt  ihm  Überraschungen,  zwingt  zu  Ent(cid:173)
+scheidungen.  Das Ziel  ist  zwar,  im  Rahmen  des  Konzepts  möglichst  alles  über 
+die  Zürcher  Kirche  zusammenzutragen  -  in  einem  Zeitalter,  wo  die  Quellen 
+zwar reichlich  sprudeln,  aber doch noch  überschaubar  bleiben, kein  so  hybrides 
+Unterfangen,  wie es  auf  den ersten  Blick  scheinen  mag.  Allein,  bei  genauerem 
+Zusehen  gibt  es  doch  Quellengattungen,  die  schon  damals  den  Charakter  von 
+Massenakten  annehmen,  wo also das einzelne  Quellenstück  nicht mehr  für  sich 
+selber  interessant  ist,  sondern  nur  noch  statistischen  Wert  hat.  Das  ist  bei(cid:173)
+spielsweise  der  Fall  bei  ehegerichtlichen  Sachen:  Jeder  Jahrgang  füllt  einen 
+stattlichen  Folianten,  die  darin  behandelten  Fälle  laufen  großenteils  fast  sche(cid:173)
+matisch  ab, die  Themen  kehren  ständig  wieder,  nur  die  Namen  der  Beteiligten 
+wechseln.  Zweifellos  haben  diese  Fälle  für  die Geschichte  keinen  eigenständi(cid:173)
+gen Wert, eine Edition aller dieser Texte wäre demnach  geradezu  absurd.  Wenn 
+aber nicht  alles  ediert  werden  kann:  Wie  soll  man  auswählen?  Die  ersten  Fälle 
+pro  Kalenderjahr?  Die  Fälle  auf jeder  hundertsten  Seite?  Oder  die  wichtigsten, 
+interessantesten?  Die  Auswahl  nach  äußerlichen  Kriterien  fällt  zwar  leicht, 
+fraglich  ist  aber,  ob das  der  Qualität  der  Edition  zugute  käme.  Bevorzugt  man 
+jedoch  inhaltliche  Kriterien,  so  ist  es  nicht  immer  einfach,  die  wichtigen  Fälle 
+herauszufinden,  denn  man  kommt  nicht  darum  herum,  ganze  Folianten  durch(cid:173)
+zulesen... 
+
+In einem  solchen Dilemma  ist der Bearbeiter  froh,  wenn sich ihm Alternati(cid:173)
+ven  anbieten.  Ein  solcher  Glücksfall  bietet  sich  ihm  bei  den  Ehegerichtsproto-
+kollen  bis  1536  an;  in  diesem  Zeitraum  lassen  sich  nämlich  Inhalt  und  äußere 
+Kriterien verblüffend  kombinieren:  Solange nämlich  Heinrich  Utinger  amtierte, 
+solange treffen  wir  seine markante  Handschrift,  und  zugleich  sind  das  meistens 
+die  besonderen  Fälle, denn  Utinger  hat  diese  als  «alter  Fuchs»  offenbar  gleich 
+selber protokolliert,  während  die Routinefälle  von minder  qualifizierten  Schrei(cid:173)
+bern festgehalten  wurden. 
+
+Von  dieser  Art  ist  auch  das  Dokument,  das  hier  in  dieser  Festschrift  näher 
+betrachtet  werden  soll. Es ist ganz bewußt ausgewählt, hat sich doch der Jubilar 
+immer  wieder  mit  zentralen  Fragen  der  Reformation  beschäftigt,  und  wer 
+
+1 
+
+Heinzpeter Stucki, Quellen zur  Geschichte der  Zürcher Kirche  1532-1575,  Konzept ei(cid:173)
+ner neuen Edition, in: Zwingliana  18/4+5,  1990/2+1991/1,  349-365. 
+
+419 
+
+möchte bestreiten, daß das Zürcher Ehegericht nicht in dieses Zentrum  gehörte2. 
+Zugleich  soll  dabei  das  Augenmerk  auf  einen  wenig  beachteten  Zweig  der  re(cid:173)
+formationsgeschichtlichen  Forschung  gerichtet  werden,  auf  das  Kirchenrecht; 
+und  schließlich  klingt  das  Problem  der  Kontinuität  an  -  beides  Themen,  die  in 
+der Forschung  durchaus etwas mehr beachtet werden  dürften. 
+
+Heinrich  Utinger 
+
+Heinrich  Utinger3  war  eine  der  vielseitigsten  und  einflußreichsten  Persönlich(cid:173)
+keiten  Zürichs  in  den  ersten  vier  Jahrzehnten  des  16. Jahrhunderts.  In  unserem 
+Zusammenhang  ist  weniger  wichtig, daß er dem  Humanismus  zuneigte,  Freund 
+Zwingiis  und  BuUingers  war,  als  Chorherr  die  Reform  des  Großmünsterstifts 
+prägte und im Bereich der Publizistik sowohl in der Zensurbehörde  wie auch  als 
+Herausgeber  tätig  war. Vielmehr  verdient  seine  Stellung  als  Kommissar  des Bi(cid:173)
+schofs  von  Konstanz  und  als  Schreiber  des  Zürcher  Ehegerichts  unsere  beson(cid:173)
+dere Aufmerksamkeit.  1502 wurde er, nicht ohne  zusätzliche juristische  Ausbil(cid:173)
+dung  in  Konstanz,  zum  bischöflichen  Kommissar  bestimmt4  und  entwickelte 
+sich zu einem  Bindeglied  zwischen Zürich und dem Bischof. Die Zürcher  hatten 
+nun  in  gewissen  Streitfällen  einen  in  Zürich  amtierenden  Ansprechpartner  des 
+bischöflichen  Gerichts,  mußten  also  nicht  mehr  die  Reise  nach  Konstanz  auf 
+sich  nehmen.  1525 wurde  er  ohne  Aufhebens  zum  Schreiber,  also  Sekretär  des 
+neu  geschaffenen  Ehegerichts  gewählt5  und  war  daher  wohl  die  maßgebliche 
+Person  in  diesem  Gremium.  Wie  läßt  sich  diese  zunächst  vielleicht  wohl  doch 
+erstaunliche  Wahl  erklären?  Seit  Utingers  Wahl  zum  bischöflichen  Kommissar 
+hatte  sich  das  Schwergewicht  des  bischöflichen  Gerichts  so  sehr  nach  Zürich 
+verlegt,  und  er  selber  war  so  sehr  mit  diesem  Gericht  verbunden,  daß  es  bei 
+Schaffung  des  Ehegerichts  offensichtlich  keine  Frage  war,  auf  den  versierten 
+Fachmann  zu  verzichten,  nur  weil  er  ursprünglich  und  eigentlich  Vertreter  der 
+«papistisch-konstanzischen»  Hierarchie  war;  vermutlich  sah  man  in  ihm  ohne(cid:173)
+hin schon lange nicht mehr diese  Seite  seines  Amtes, so daß es wohl fast  selbst(cid:173)
+verständlich  war, ihn in der praktisch gleichen Funktion weiter zu  beschäftigen. 
+
+Küngold Küchenmann,  Die  Organisation  des  zürcherischen  Ehegerichts  zur  Zeit 
+Zwingiis, Diss. phil. I Zürich, Zürich 1946, (QAGSP 1). 
+HBBW II 98f. 
+Thomas Schärli, Wer ist Christi Kilch? die sin Wort hört, Zürich im Übergang von der 
+spätmittelalterlichen  Universalkirche  zur frühneuzeitlichen  Staatskirche,  in: Zwingiis 
+Zürich, 1484-1531, eine Publikation des Staatsarchives Zürich, Zürich 1984,  18. 
+Actensammlung zur Geschichte der Zürcher Reformation  in den Jahren 1519-1533,... 
+hrsg. von Emil Egli, Zürich 1879 (Reprint: Nieuwkoop 1973), Nr. 716, S. 330. 
+
+420 
+
+Worum geht es im  Ehegerichtsurteil? 
+
+Der Text6 beginnt zunächst  mit  einer kurzen Umschreibung  dessen, worüber ein 
+Entscheid  gefordert  ist,  und  mit  einigen  «Rand-  oder  Vorbedingungen»:  Der 
+Fall  ist  nämlich  vom  Zürcher  Rat  an  das  Ehegericht  weitergeleitet  worden,  um 
+die Ehelichkeit  von Elisabeth  Wik  abzuklären  (wobei  die  auch  diskutierten  gü(cid:173)
+terrechtlichen  Aspekte  ausdrücklich  ausgeschlossen  werden).  Auch  gleich  zu 
+Anfang  wird  festgehalten,  daß die Verwandtschaft  nichts  gegen  eine  Ehelicher(cid:173)
+klärung einzuwenden  hat. 
+
+Dann folgt  die Darstellung  der Vorgeschichte.  Um  1499 arbeitete  («ist gses-
+sen»)  Apollonia  Müller  von  Oberhofen  einige  Jahre  am  gleichen  Ort  wie  Hans 
+Wik  von  «Wyera  by  Wil  im  Thurgau»7,  beide  waren  ledig  und  hätten  heiraten 
+können,  ohne  daß  ein  Hindernis  bestanden  hätte.  Sie  zeugten  unehelich  eine 
+Tochter  namens  Elisabeth,  die jetzt  mit  Rudolf  Klinger  verheiratet  ist.  Später 
+zog  Apollonia  weg  und  heiratete  Hensi  Rot  von  Wuppenau;  das  einzige  Kind 
+dieser  Ehe  starb  bald,  ebenso  der  Ehemann.  Erst jetzt,  als  Witwe,  heiratete  sie 
+ihren  «Jugendfreund»  Hans Wik, und  gebar eine weitere Tochter,  Margret, jetzt 
+Gattin  von Meister  Urban Erzli. Nach dem Tod  von  Hans Wik  verheiratete  sich 
+Apollonia noch mindestens einmal, ohne aber weitere Kinder zu haben. 
+
+Soweit  die  Sachlage.  Die  Eherichter  diskutierten  nun  die  Frage,  ob  die  un(cid:173)
+
+ehelich geborene  Tochter  auch dann legitimiert  werden könne, wenn die  Mutter 
+zuerst  einen  anderen  Mann  als  den  Vater  dieser  Tochter  geheiratet  hat.  Sie  er(cid:173)
+wägen  nun  folgendes:  Wenn  schon  eine  Ehe  gestiftet  werden  könne  zwischen 
+zwei Ledigen  (zu  ergänzen  ist  wohl: durch  Eheversprechen  und  «copulatio  car-
+nalis»),  und  wenn  die  Frau,  bevor  sie  den  Vater  des  unehelichen  Kindes 
+geheiratet  hätte,  nur  herumgehurt  hätte,  dann  hätte  niemand  etwas  gegen  die 
+Legitimierung  eingewendet8.  Man  könne  also  gegen  eine  Legitimierung  erst 
+recht  nichts  einwenden,  wenn,  statt  daß  Unzucht  getrieben  worden  sei,  eine 
+rechtmäßige  Ehe  eingegangen  worden  sei,  denn  es  sei  allgemein  anerkannter 
+Grundsatz, lieber zugunsten der Ehe als dagegen zu urteilen. Die zivilen wie die 
+kanonischen  Vorschriften  stimmten  darin  überein,  daß  ein  kurzes  illegitimes 
+Verhältnis  einem  langen  vorzuziehen,  auch  daß  Ehre  höher  zu  bewerten  sei  als 
+Unzucht. 
+
+Das  Dokument  wird  im  Anschluß  an  diesen  Beitrag  abgedruckt,  so  wie  es  sich  im 
+jetzigen  Bearbeitungszustand  zeigt, aber nur mit den hier notwendigen  Anmerkungen. 
+Es könnte  sich  um  die  Gegend  des  Wiler  Amts  (SG)  handeln,  wozu  auch  Ober-  und 
+Niederbüren  gehörten  sowie  das  unten  genannte,  im  Thurgau  liegende  Wuppenau 
+(Historisch-biographisches  Lexikon  der  Schweiz, 8 Bde., Neuenburg  1921-1934, hier: 
+Bd. 7, S. 529). 
+Legitimierung  durch  nachträgliche  Ehe  war  üblich  und  entsprach  allgemeinem 
+Grundsatz des Kirchenrechts. 
+
+421 
+
+Aufgrund  dieser  Sachlage  und  den  allgemein  anerkannten  Rechts-  und  Sit(cid:173)
+
+tenauffassungen  wird  Elsbeth  Wik  für  ehelich  erklärt,  unter  ausdrücklichem 
+Verweis auf einen Titulus des kanonischen  Rechts. 
+
+Die Ehen der Apollonia  Müller 
+
+Während  es  im  Zeitalter  des  Kindbettfiebers  wohl  eher  üblich  war,  daß  die 
+Frauen  vor den Männern  starben,  daß  also eher die Männer  mehrmals  verheira(cid:173)
+tet  waren,  trifft  bei  Apollonia  Müller  das  Gegenteil  zu:  Sie  überlebte  minde(cid:173)
+stens drei  Ehemänner. 
+
+Um  sich  zunächst  durch  die  Familiengeschichte  nicht  unnötig  verwirren  zu 
+
+lassen,  ist  es  vielleicht  zweckmäßig,  die  ehelichen  und  eheähnlichen  Verhält(cid:173)
+nisse  von  Apollonia  Müller  und  diejenigen  von  deren  Töchtern  zusammenzu(cid:173)
+stellen. 
+
+Apollonia Müller (von Oberhofen,  TG?): 
+
+1:  Verhältnis  (um 
+
+1499) 
+
+2:  Ehe (ca.  1500-1510) 
+
+3:  Ehe (vor  1511?) 
+
+mit Hans Wik  (von 
+Wyera bei Wil im Thur-
+gau, gestorben lange vor 
+1534) 
+mit Hensi Rot (von 
+Wuppenau,  gestorben 
+vor ca.  1511) 
+mit Hans Wik 
+
+4ff:Ehe(n) 
+
+mit NN1 
+
+Kind:  Elisabeth 
+(geboren um  1499, ver(cid:173)
+heiratet vor  1534 mit 
+Rudolf  Klinger9) 
+Kind: Tochter  (bald 
+gestorben) 
+
+Kind: Margret  (geboren 
+vor  1511, verheiratet vor 
+1527 mit Urban Erzli, 
+der  1537 starb) 
+kinderlos 
+
+Die «vorinstanzlichen»  Urteile 
+
+Es  ist  offensichtlich  so,  daß  vor  diesem  hier  besprochenen  Ehegerichtsurteil 
+schon  andere  Rechtssprüche  ergangen  sind.  Da  ist  einmal  die  Auseinander(cid:173)
+setzung  um  güterrechtliche  Fragen.  Apollonia  Müller,  alt  geworden,  allenfalls 
+auch krank, wollte sich den Lebensabend  sichern,  indem  sie sich mit  einem  Teil 
+oder  auch mit  ihrem  gesamten  Vermögen  in  ein  «Pfrundgut»  einkaufen  wollte, 
+d. h.  sich  den Lebensabend  in  einem  Heim  sichern  wollte.  Das  stellte  natürlich 
+
+Rudolf Klinger war wohl nicht der erste Gatte, wie die Formulierung «zu dieser Zeit» 
+vermuten läßt. 
+
+10  Die  Formulierung,  Apollonia  habe  nach  Wik  «me  eman»  gehabt,  deutet  wohl  auf 
+
+mehrere Heiraten hin. 
+
+422 
+
+einen  Eingriff  in  die  Erbrechte  der  Töchter  dar,  weshalb  die  weltlichen  Behör(cid:173)
+den  mit  diesem  Fall  beschäftigt  wurden11.  Bei  der  Abklärung  der  Erbrechte 
+(oder  allgemeiner:  Besitzansprüche)  stellte  sich  das  Problem  der  unehelichen 
+Tochter  Elisabeth.  Auch  für  diesen  Teilaspekt  war  bereits  ein  Urteil  vorausge(cid:173)
+gangen,  nämlich  dasjenige  eines  weltlichen  Pfalzgrafen,  wovon  eine  Urkunde 
+zwar vorgewiesen  worden war. Das genügte aber den Beteiligten  (und/oder  auch 
+dem  Rat)  nicht,  vielleicht  weil  es  ein  fremdes  Urteil  war12,  weshalb  man  den 
+Fall vor das eigene Ehegericht  trug. 
+
+Vermutlich  ging  es  jetzt  nicht  mehr  um  einen  heftigen  Streitfall,  sondern 
+mehr um eine formelle  Bestätigung, denn  der Ehemann  von Margret  akzeptierte 
+die  Ehelicherklärung,  gegen  die  er  sich  aus  egoistischen  Gründen  vielleicht 
+hatte  wehren  können,  weil  damit ja  eine  Schmälerung  der  Erbschaft  verbunden 
+war. 
+
+In Übereinstimmung  mit  diesen  «Vorgaben»  kam  das Ehegericht  zu  seinem 
+Beschluß  -  das  will  nicht  heißen,  daß  es  willfährig  geurteilt  hätte,  aber  für  die 
+endgültige  Erledigung  eines juristischen  Streitfalles  war  das  allemal  von  Vor(cid:173)
+teil. 
+
+Überlegungen  zugunsten  der Ehe 
+
+Alle Autoritäten, kirchliche  wie weltliche, haben  sich immer  zugunsten  der  Ehe 
+ausgesprochen,  u.a.  um  «Unzucht»,  so  wie  die jeweilige  Zeit  sie  verstand,  zu 
+unterbinden.  Wenn  diese  Haltung  nun  auch  in  diesem  Ehegerichtsurteil  doku(cid:173)
+mentiert  wird, so ist das natürlich  nichts  Besonderes, sondern bestätigt  lediglich 
+die bisherige  Haltung der politischen  und kirchlichen Behörden. Immerhin  ist es 
+aufschlußreich,  zu  sehen,  wie diese  Haltung  nicht  nur  als  Anforderung  in  einer 
+theoretischen  Abhandlung  oder  einem  Ehegerichtsmandat  formuliert  war,  son(cid:173)
+dern  in  der  täglichen  Praxis  wirkte13.  In  den  Ehegerichtsakten  kommen  Sätze 
+wie: «Es ist  besser,  für  die Ehe  als gegen  die  Ehe  zu  wirken»  recht  häufig  vor. 
+Daß es nötig war, das zu betonen, heißt ja  durchaus, daß die Institution  der  Ehe 
+ständig  gefährdet  war,  vor  allem  außerhalb  der  Städte,  wo  die  obrigkeitliche 
+Kontrolle  schwach  war  und  ein  großer  Teil  der  Neugeborenen  außerehelich 
+war14. 
+
+1'  Dieser Frage wird hier nicht nachgegangen. 
+12  Vgl.  die  in  Zürich  und  Basel  unterschiedliche  Behandlung  des  Falles  «Kromer» 
+(Rainer  Henrich,  Der  Brief  Dietrich  Bitters  an  Heinrich  Bullinger  vom  27.  Oktober 
+1535, in: Zwingliana  18/4+5, 1990/2+1991/1, 346). 
+
+13  Diese Praxis würde es verdienen, genauer untersucht zu werden, in Weiterführung  von: 
+Walther  Köhler,  Zürcher  Ehegericht  und  Genfer  Konsistorium,  Bd.  1:  Das  Zürcher 
+Ehegericht  und  seine  Auswirkungen  in  der  Deutschen  Schweiz  zur  Zeit  Zwingiis, 
+Leipzig  1932, (QASRG 7). 
+
+14  Richard  van Dülmen,  Kultur  und  Alltag  in  der  frühen  Neuzeit,  Bd.  1: Das  Haus  und 
+
+seine Menschen, München  1990, 186. 
+
+423 
+
+Was  in  unserem  Beispiel  besonders  auffällt,  ja  eigentlich  Seltenheitswert 
+hat, sind die Hinweise  auf das kanonische  Recht.  Zum ersten zeugen die lateini(cid:173)
+schen Textstellen  relativ  allgemein  davon wie  auch die Erwähnung  allgemeiner 
+Grundsätze  des kanonischen  Rechts  (etwa  dass  das kanonische  Recht  Lösungen 
+vorzieht,  die  auf  Ehrenhaftigkeit  abzielen). Zum  zweiten  dürfte  es  ziemlich  au(cid:173)
+ßergewöhnlich  sein,  daß  nicht  nur  einzelne  Gesetzesparagraphen  konkret  ange(cid:173)
+geben  werden, sondern gar ein Incipit zitiert  wird. 
+
+Für  den  geschulten  Kanonisten  Utinger  war  es  offenbar  kein  Problem,  auf 
+die jeweils richtigen Paragraphen hinzuweisen, er denkt an verschiedene  Stellen 
+(«de  ceteris»)  und  nennt  dann  ausdrücklich  direkt  die  passende  Hauptstelle, 
+etwa:  «So  groß  ist  die  Kraft  der  Ehe,  daß  die  Kinder,  die  vorehelich  gezeugt 
+werden, durch die später vollzogene Ehe legitimiert  werden.» 
+
+Dem heutigen Reformationshistoriker  scheint es ferner  sehr  bemerkenswert, 
+wie selbstverständlich  das «papistische»  Kirchenrecht  zitiert  wurde,  wenigstens 
+auf  den ersten  Blick.  Bei näherem  Zusehen  wird  man  sich  aber  fragen  müssen, 
+was man denn sonst hätte zu Rate ziehen können.  Ein reformatorisches  Kirchen(cid:173)
+recht  gab  es  mindestens  damals  nicht  eigentlich;  es  war  auch  nicht  nötig,  da 
+man  eben  (wie  in  anderen  Bereichen  des  damaligen  Lebens  auch)  aus  dem  be(cid:173)
+stehenden  Kirchenrecht  durchaus  das  «Gute»,  was  immer  auch  man  darunter 
+verstanden  haben  mochte,  weiter  anwenden  konnte15.  So  gesehen,  ist  dieses 
+Ehegerichtsurteil ein Zeichen für  die Kontinuität  in der  Reformationszeit. 
+
+Schlußbemerkung 
+
+Das  hier  betrachtete  Dokument  ist  gewiß  klein,  fast  unscheinbar.  Es  hat  dem 
+Bearbeiter  aber  zunächst  einige  Knacknüsse  zu  lösen  aufgegeben,  vom  Entzif(cid:173)
+fern des Textes selber bis hin zur Kommentierung.  So gesehen wurde es für  den 
+Bearbeiter,  und  hoffentlich  auch  für  den  Leser  dieses  Beitrages,  immer  wichti(cid:173)
+ger,  denn  es erlaubt  Einblicke  in die  Vielfalt  des  damaligen  Lebens,  in  die  Be(cid:173)
+dürfnisse  der  einzelnen  Menschen  nach  Absicherung  und  Ordnung  im  Leben, 
+auch  in  den  das  tägliche  Leben  gestaltenden  Ordnungswillen  der  Obrigkeit  -
+und auch Einblicke  auf die Grundlagen, auf die sowohl Laien wie Behörden  sich 
+stützten.  Und zu diesen Grundlagen gehörte die ganze Tradition, von der das als 
+«schlecht»  erkannte  bekanntlich  reformiert  wurde,  während  das  «Gute»  beibe(cid:173)
+halten wurde -  auch und gerade im  Kirchenrecht. 
+
+Vgl.  dazu:  Wilhelm Maurer,  Reste  des  kanonischen  Rechtes  im  Frühprotestantismus, 
+in:  ZSRG.K  51,  1965,  190-253;  Wiederabdruck  in:  W.  Maurer,  Die  Kirche  und  ihr 
+Recht, Tübingen  1976, 145-207. 
+
+424 
+
+Beilage 
+
+Entscheid  des  Ehegerichts 
+
+1534  Dezember  23 
+
+Vorlage:  StAZ,  YY  1.5,  S.  353 
+
+Von  eim  ersamen  rat  für  das  egricht  gewisen,  signanter  ob  die  Elsbeth  Wikin 
+ein  ekind  mog  sin,  denn  des  guots  halb  beladend  sich  die  erichter  nüdt  oder  wo 
+sich  die  muoter  verpfrüende  etc.a 
+
+M.  Urban  fragt  ouch  nüdt  darnach,  obs  euch oder  nitb  sy. 
+Appollonia  Müllerin  von  Oberhofen  ist  vor  35  jaren  gsessen  by  Hans  Wik 
+von  Wyera  by  Wil  jm  Turgöw  ettwas  jaren,  warend  bedi  ledig  und  möchtend 
+einandren  wol  zuoc e  ghan  han  ane  hindrung  etc.,  hend  byeinander  geboren  ein 
+tochter,  Elisabeth  Wikin,  Ruod  Klingers  ewib  zuo  diser  zit. 
+
+Die  Appollonia  ist  von  dem  Hans  Wiken  kan  und  het  zuor  e  gnon  Hensi  Rot 
+von  Wuppenow,  by  demselben  ouch  ein  kind  ghan,  ist  gstorben.  Nachd  des 
+Hensi  Roten  todt  hat  sy  der  Hans  Wik  wider  zuo  j mm  und  zuo  der  e  gnan  und 
+ist  also  von  jren  gstorben,  nach  ein  tochter  verlassen,  Margreten,  M.  Urbans 
+Ertzlie 16  frow. 
+
+Nach  abgang  des  Hans  Wiken  hat  die  Appollonia  me  eman  ghan,  aber  kein 
+
+kind  denn  die  2  gemelten  tochteren. 
+
+Wenn  ein  e  mag  sin  zwüschend  zweyen  ledigen  (wie  die  obgemelten  wa(cid:173)
+rend)  und  die  frow  kein  eman  zwüschend  dem  ersten17  ghan,  sunder  ghuoret 
+hette  etc.,  so  redte  nieman  darwider,  vil  minder,  so  sy  ein  eman  hett  ghan,  ergo 
+legitima  decernitur,  denn  die  e  ist  erlich  by  allen  menschen*  '8  und  mag  man 
+mitt  besser  gwüssne  zuo  der  e  sprechen  denn  darwider19. 
+
+Es  ist  ouch  bishar  gbrucht  ane  widersprechen.  Die  leges  hend  ouch  den  ca-
+nonibus  nachglan20  von  des  wegen,  das  erlicher  ist  kurtz  denn  lang  byeinander 
+
+Urban  Erzli, Zunftmeister  zum  Widder,  verheiratet  mit Margret Wick,  gestorben  1537 
+(Die  Zürcher  Ratslisten  1225  bis  1798,  hrsg.  vom  Staatsarchiv  des  Kantons  Zürich, 
+bearb.  von  Werner Schnyder,  Zürich  1962, 573, Zürich  StA,  B VI  334,  Bl.  156r  und 
+194v, Zürich ZB, Ms Z II 2, S. 322f.) 
+Gemeint  ist: Hensi Rot. Immerhin  waren  solche komplizierten  Fälle dem  kanonischen 
+Recht  nicht  ganz  fremd.  Auch  wenn  einer  der  Konkubinatspartner  einen  Dritten 
+heiratete,  konnte  das  Kind  legitimiert  werden  (Ahemar  Esmein,  Le  mariage  en  droit 
+canonique,  2eme edition, 2 vols., Paris  1929-1935, hier: Bd. 2, S. 45). 
+Hebr  13, 4: Die Ehe sei in Ehren bei allen. 
+Der Schlußteil des Satzes kommt öfters  vor, u.a. YY  1.5, S. 311. 
+Zu nachlassen mit Dativ vgl. SIIII  1411 und Grimm VII 86: Die zivilen  Gesetze haben 
+sich den  kanonischen  angepaßt. Dieser  Sinn  paßt  auch  zu  den  nachfolgenden  Satztei(cid:173)
+len. 
+
+425 
+
+gsin  und  das  er21  minder  hindren  sol  denn  huory,  jst  ouch  minder  schand,  daruf 
+die  canones22  sich  gründend8. 
+
+Item  sy  ist  elich  gemachet  durch  ein  comitem  palatinum  extra  Romam23  ut 
+
+moris  est,  litterae  sunt  et  vidimus24. 
+
+Et  de  ceteris:  «Qui  filii  sint  legitimi»;  «tanta  est»25. 
+
+verpfrüende  ] folgt  gestrichen: als. 
+elich oder nit ] über der Zeile. 
+zuo ] korrigiert aus: zur [?] 
+
+a 
+b 
+c 
+d  Nach  ]  am  Rand:  im  [?,  qim?;  im  Buchrücken!]  hat  bewegt  [?],  das  kind  elich  ze 
+
+machen. 
+
+e  Ertzli ] am Rand. 
+f  menschen  ] am Rand: ad Heb  13, veluti  [?] apostolorum  [?J ius commune omnium  gen(cid:173)
+
+tium servatur [?]. 
+
+g  Es ...  gründend  1 wohl  gleichzeitiger  Einschub  Utingers  (erst  ab:  Die  leges?,);  bis 
+
+nachglan: zwischen dem  vorhergehenden  und dem  nachfolgenden  Abschnitt  eingescho(cid:173)
+ben: ab von: am Rand. 
+
+Dr.  Heinzpeter  Stucki,  Institut  für  schweizerische  Reformationsgeschichte,  Kirchgasse  9, 
+8001 Zürich 
+
+Ehre. Man erwartete eigentlich: e, ee, Ehe. 
+Ähnliche  Formulierungen  wurden  zwar  nicht  gefunden,  aber  dem  Sinne  nach  stimmt 
+diese Aussage  (vgl. auch  Willibald M. Plöchl, Geschichte  des Kirchenrechts,  Bd. 2 (2. 
+Aufl.)  und  4,  Wien  1962-1966,  unter  Eherecht,  passim,  besonders  IV  192  betr.  Wei(cid:173)
+terwirken  des  kanonischen  Rechts  in  evangelischen  Gegenden,  und  IV  308  betr. 
+«Favor  matrimonii»;  ferner  Richard  Koebner,  Die  Eheauffassung  des  ausgehenden 
+deutschen Mittelalters, Diss. phil. Berlin, Berlin  1911, 12. 
+Also  wohl  ein  kaiserlicher  Pfalzgraf,  was  auch  zum  allgemeinen  Bild  paßt,  wonach 
+päpstliche  Pfalzgrafen  nach  der  Reformation  fast  ganz  verschwanden.  Neben  dieser 
+weltlichen  Absicherung  der  Ehelicherklärung  wollte  man  aber  noch  die  kirchliche, 
+daher die Anrufung  des  Ehegerichts. Auch  Utinger  selber  war Pfalzgraf  (Z VI/M  326, 
+Anm. 1). 
+Betr.  Pfalzgrafen,  vgl. etwa: Fritz von Jecklin,  Die  Hofpfalzgrafen  in der  Schweiz,  in: 
+Zürcher  Taschenbuch  1890, 223-262;  Eduard  His, Zur  Geschichte  des  Basler  Notari(cid:173)
+ats, in: BZGAK 20, 1922,  1-58. 
+«Qui filii  sint legitimi» ist wörtlich der Titulus XVII (Friedberg II 712). 
+«Tanta  est»  ist das Incipit von  cap. 6 in Titulus XVII  (Friedberg  II 712): Tanta  est vis 
+matrimonii,  ut qui  antea  sunt  geniti  post  contractum  matrimonium  legitimi  habeantur. 
+Si autem  vir vivente  uxore  sua aliam cognoverit,  et ex ea prolem  susceperit,  licet post 
+mortem  uxoris  eandem  duxerit,  nihilominus  spurius  erit  filius,  et  ab  hereditate  repel-
+lendus; praesertim  si  in mortem  uxoris  prioris  alteruter  eorum  aliquid  fuerit  machina-
+tus, quoniam matrimonium  legitimum  inter se contrahere non  potuerunt. 
+
+21 
+22 
+
+426 
+
+

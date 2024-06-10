@@ -1,0 +1,1353 @@
+La religion  et ses  mots 
+
+La Bible latine de Zürich (1543) entre la tradition et  l'innovation 
+
+par  CLAIRE  GANTET 
+
+Introduction 
+
+Le XVIe siecle est souvent  caracterise  comme une periode de mutations,  dont 
+les terrains privilegies  sont  les domaines  linguistiques  et religieux.  L'elabora-
+tion et l'affirmation  des langues vernaculaires  sont ainsi liees au progres  tech-
+nique (Pimprimerie)  et aux mouvements  de reforme  religieuse, le tout  au Ser(cid:173)
+vice de la construction de l'Etat moderne. Or les langues vernaculaires ne sont 
+pas les seuls vecteurs des identites nationales face ä un usage du latin qui serait 
+la langue  commune  des elites  de la chretiente  occidentale. Les traductions  en 
+langues vernaculaires, sous Pimpulsion de Phumanisme, elargissent les cercles 
+de reception  de cette  culture  antique  commune  et  «supranationale»;  inverse-
+ment, et correlativement, le latin est aussi utilise par les humanistes pour  defen-
+dre et illustrer les causes nationales; enfin, le vehicule de cette «modernite»  du 
+XVIe siecle, Pimprimerie, a tout autant une f orce d'inertie que de conservation: 
+la Bible de Gutenberg  n'est-elle pas etablie sur le texte de Nicolas  de Lyre du 
+XIIP siecle? Aussi peut-on reexaminer les relations entre la Reforme  et le pro-
+bleme  des langues  en adoptant  non  pas la problematique  de la modernite,  un 
+concept  forge  ä  Pepoque  contemporaine1,  mais  celle  de  la  tradition  et  de 
+Pinnovation,  et  en  choisissant  comme  observatoire  non  pas  une  traduction 
+vernaculaire,  mais  une  version  latine  de  la  Bible,  editee  au  surplus  dans  ce 
+pole concurrent  de Wittenberg  et beaucoup plus iconoclaste  qu'est  Zürich. 
+
+Cet  angle d'approche  peut  en effet  permettre  de passer  de Pobservation ä 
+Panalyse des debats  souleves par Pemploi  du  latin, la traduction  et les racines 
+culturelles  de la Reforme.  Le reve d'une  langue universelle, qui pourrait  bien 
+etre  le latin,  rassemblant  tous  les hommes,  est  concomitant  de Pebauche  des 
+identites  nationales  et confessionnelles;  la nostalgie  de  la purete  classique  du 
+latin et du  grec n'est jamais aussi profonde  qu'en  ce temps oü les langues ver-
+
+1 
+
+Le terme «modernite»  a ete invente par Chateaubriand  («La vulgarite, la modernite de la dou-
+ane et du passeport,  contrastaient  avec l'orage, la porte  gothique, le son du cor, et le bruit  du 
+torrent», dans Memoires  d'Outre-Tombe,  4) et son concept par Baudelaire, par  Opposition ä 
+la tradition:  «II s'agit, pour  lui  [l'artiste], de degager  de  la mode  ce qu'elle  peut  contenir  de 
+poetique  dans  l'historique,  de  tirer  Peternel  du  transitoire  [...]  La modernite,  c'est  le  transi-
+toire, le fugitif,  le contingent, la moitie de l'art  dont l'autre moitie est l'eternel  et  l'immuable» 
+(Curiosites  esthetiques,  16, 4). A  l'epoque  dite  «moderne»,  on  semble  au  contraire  vouloir 
+«faire  du nouveau»  non  tant par  refus  de la tradition  que par  souci de restauration, de  reno-
+vation  et de  reformation. 
+
+Zwingliana  XXIII,  1996 
+
+143 
+
+C.  Gantet 
+
+naculaires affirment  leurs droits, notamment  celui d'exprimer le sacre. Or  si le 
+latin est ä la fois la langue universelle de la culture et de Phumanisme et le vehi-
+cule seculaire de la liturgie, il est aussi la source de multiples commentaires  ou 
+paraphrases  de la Bible et le relais oblige (par  l'emploi  de la patristique)  pour 
+acceder aux sources grecques et hebraiques. Le choix-meme d'etablir  un  nou-
+veau texte latin ä partir du grec et de l'hebreu,  conforme  ä l'ideal humaniste et 
+erasmien, va ä contre-courant  de la voie qui triompha  avec l'etablissement  par 
+commissions  specialisees  du  texte  de  la Vulgate  sixto-clementine,  decide  au 
+concile de Trente et acheve en  1592. Le debat autour de la traduction  est celui 
+qui interfere  le plus directement  et le plus profondement  avec ceux de la lan(cid:173)
+gue et de la religion,  de l'interpretation  des  racines  culturelles  de la  Reforme 
+et de son sens, de la place de l'Ecriture  et de la tradition  dans la revelation, de 
+l'autorite  de l'Ecriture,  du  role de la Bible dans la vie culturelle  et sociale, du 
+rapport  du  chretien  ä son  Eglise  et  de  ce  qui  est,  pour  les  uns  (protestants) 
+une exigence, pour  les autres  (catholiques) une commodite: que tout  chretien 
+puisse disposer d'une  Bible. 
+
+Le XVP siecle, autant que le siecle des traductions vernaculaires de la Bible, 
+est  celui  des  Bibles  latines.  On  a pu  denombrer  de  1521 ä  1570  138 versions 
+latines  completes  de  la  Bible  (80  imprimees  dans  des  villes  catholiques  et 
+placees ä l'Index,  58 publiees par des editeurs et imprimeurs protestants)2 -  et 
+il  y  en  a certainement  bien  d'autres  -  dont  trois  principales,  Celles  de  Santi 
+Pagnini  (catholique humaniste) en 1528, de Sebastien Münster  (protestant)  en 
+1534-1535, et de Zürich (protestante)  en 1543. Les traductions se succedent et 
+s'engendrent  dans  un  contexte  de  concurrence  exacerbee,  inter-  et  intracon-
+fessionnelle.  La premiere  Version protestante  complete  de la Bible  en  langue 
+vernaculaire  est Fedition  zurichoise  de  1531 «la Bible entiere traduite  le plus 
+fidelement  de la verite originelle hebraique  et grecque en allemand»3,  resultat 
+d'une  course  de  vitesse  entre  Luther  (dont  le Nouveau  Testament  est  reim-
+prime ä Bäle, muni d'un  glossaire alemanique, des decembre  1522), les «spiri-
+tuels»  Hans  Denck  et Ludwig  Haetzer  qui, en  1527, publient  une  solide  tra(cid:173)
+duction des Prophetes etablie sur l'hebreu, et les Zurichois, qui n'hesitent d'ail-
+leurs pas ä integrer  dans  leur Version des traductions  de Luther  tout  en esca-
+motant  les prefaces  que  ce dernier  avait  inserees. Zürich  n'arrive  plus  la pre(cid:173)
+miere sur la ligne d'arrivee  pour  la traduction  latine, preparee  et imprimee  en 
+1543  par  une  deuxieme  generation  de  reformateurs.  Comment  y  pose-t-on 
+alors precisement  le debat linguistique  et religieux? 
+
+2  Cf. John  M. Lenhart,  «Protestant Latin Bibles of the Reformation  from  1520-1570. A Biblio-
+graphical Account», dans: The Catholic Biblical Quarterly, 1946, Volume 8, p. 430-431. Cette 
+liste, obtenue par le depouillement  de la Bibliotheca  sacra de J. Le Long, est  incomplete. 
+
+3  Die  gantze  Bibel  der ursprünglichen  Ebraischen  und  Griechischen  waarheyt  nach auffs  aller 
+
+treüwlichest  verteütschet,  Zürich 1531. 
+
+144 
+
+Zwingliana  XXIII,  1996 
+
+La religion et ses mots 
+
+/.  Traduction  et intelligence  des Ecritures 
+
+Contrairement  aux  versions  partielles  de  la  Bible  etablies  par  Luther  et  ses 
+collaborateurs,  annoncees  «la Bible de  Luther», la version  zurichoise  «la tres 
+sainte Bible de FAncien et du Nouveau Testament, traduite tres soigneusement 
+de la langue sacree des Hebreux et des sources des Grecs en latin par des inter-
+pretes  ä la fois  attentifs  et  bien-croyants»4  ne  mentionne  pas  de  realisateurs 
+dans  son  titre.  Mais  Pequipe  d'exegetes  et  rimprimeur  qui  l'ont  elaboree  se 
+presentent  et  dressent  le plan  et  la  methode  de  leur  travail  dans  les  prefaces 
+inserees: la «preface  au lecteur chretien au sujet  de ce volume et de la methode 
+de son travail»5, presentation  generale par  Heinrich  Bullinger  du  travail  et de 
+la realisation des traducteurs; celle aux livres apocryphes sur les problemes spe-
+cifiques de traduction et de transmission du texte, redigee par Peter Kolin: «Les 
+livres  ecclesiastiques.  L'Eglise  les  a  tenus  pour  des  livres  sacres  et  ils  ont 
+toujours  semble  meriter  la lecture  des fideles,  sans pour  autant  leur  accorder 
+une autorite egale ä celle des ecrits canoniques que nos Anciens ont voulu voir 
+lire  dans  les  eglises, sans pour  autant  pouvoir  en  faire  etat pour  la  confirma-
+tion de la f oi. Certains les ont appeles apocryphes, un terme qui n'est peut-etre 
+pas totalement  approprie  ou pertinent.  II est sür que  les Hebreux  ne les  con-
+naissent pas, mais on les trouve  chez les Grecs; c'est  ä partir  de la version  des 
+Grecs qu'ils viennent d'etre  traduits avec fidelite  et respect par Mc Peter  Kolin 
+de Zürich»'. 
+
+a) La methode  generale 
+
+«Depuis dix-huit ans et meme plus ces personnages, tres fins linguistes et eru-
+dits, ont explique avec exactitude PAncien Testament ä l'Eglise de Zürich ä par(cid:173)
+tir de la verite hebrai'que, en procedant  ä un  travail de confrontation  des  lan-
+
+Biblia sacrosancta Testamenti  Veteris & Novi,  e sacra Hebraeorum  lingua  Graecorumquefon-
+tibus,  consultis simul  orthodoxis  interpretibus  religiosissime translatam  in sermonem 
+laünum. 
+(Microfiche  par  Inter Documentation  Company,  Leiden:  KHB-160/1) 
+De  operis huius  instituto  & ratione ad  Christanum  Lectorem  Prxfatio 
+Ecclesiastici libri, qui semper pro  sacris libris ab Ecclesia habiti  sunt,  & digni  visi qui  legantur 
+apiis: non tarnenparem  cum  Canonicis scriptum  autboritatem  obtinuerunt,  utpote  quos  majo(cid:173)
+res nostri  in  ecclesiis  legi voluerunt,  non  tarnen proferri  ad  autboritatem  ex  bis fidei  confir-
+mandam.  Sunt  qui  appellarunt  Apocryphos,  vocabulo  rei forte  non  per  omnia  idoneo  con-
+gruove.  Certe  apud  Hebrteos  non  habentur,  apud  Grxcos  reperiuntur:  ex  quorum  editione 
+summa  fide  & religione  in  Latinam  iam  recens versi  sunt  a D.  Petro  Cholino  Tugino.  Pour 
+alleger la presentation, nous nous permettrons dans la suite de l'expose  de faire reference  aux 
+deux prefaces  par le seul nom  de leurs auteurs  et l'indication  des lignes du  texte latin. 
+
+Zwingliana  XXIII,  1996 
+
+145 
+
+C.  Gantet 
+
+gues et en s'appuyant  sur les travaux des traducteurs les plus savants»7. La Bible 
+latine est nee dans le cadre  des  seminaires  de la Prophezei,  ecole de  theologie 
+prevue des  le 29 septembre  1523 et fondee  le  19 juin  1525 en reference  expli-
+cite ä 1 Corinthiens  14 [29-31] («Pour les prophetes, qu'il y en ait deux ou trois 
+ä parier, et que les autres jugent. Si un  autre qui est assis a une revelation,  que 
+le premier  se taise, car vous  pouvez  tous  prophetiser  ä tour  de role pour  que 
+tous  soient  inscrits  et tous  exhortes») pour  repondre  au probleme  de  l'inter-
+pretation  de  l'Ecriture  et  de  son  controle  par  un  corps  de  specialistes.  Elle 
+prend  la forme  de le§ons publiques  quotidiennes, au cours desquelles un  cha-
+pitre  de la Bible est lu dans  la Version latine  courante,  explique  mot  par  mot, 
+puis lu dans la traduction  grecque des Septante et retraduit  en latin; un  resume 
+et une  meditation  en latin  sont  ensuite presentes,  ainsi qu'une  explication  en 
+allemand.  Ces  enseignements  prennent  ulterieurement  la forme  de  predica-
+tions  ou  d'instructions  publiques  en  allemand  destinees  aux  Zurichois  qui 
+peuvent  entre temps se joindre  au groupe.8 
+
+Au  sein de cette academie savante qui a pour  but  la «formation  continue» 
+des pasteurs, et dans le travail de traduction, chaque exegete a pourtant sa spe-
+cialisation,  que  Bullinger  resume  dans  sa preface.  Lui-meme  fait  avant  tout 
+figure  d'autorite  morale,  de prefacier  et  d'editeur,  n'ayant  pas  participe  per-
+sonnellement  ä la traduction  latine. Celle-ci est bien plutöt  l'ceuvre  posthume 
+de  Leo Jud  (1482-1542)  qui  en a eu l'initiative  («ainsi, mu par  un  zele pieux, 
+cet homme de Dieu a ose quelque chose et, le premier parmi nous, a commence 
+ä entreprendre  la traduction  latine de la Bible»9) et a traduit  la majeure  partie 
+de l'Ancien Testament  avec Theodor Bibliander (1504-1564) de son vrai nom 
+Buchmann,  philologue  specialiste  des  langues  semitiques  et  theologien,  et 
+Konrad Pellikan (1478-1556) ou Kürschner professeur  de grec et d'hebreu; de 
+Peter  Kolin  (1507  ou  1509-1542),  ancien  tuteur  de  Theodore  de  Beze  ä 
+Orleans10, traducteur  des Apocryphes  et d'une partie du Nouveau  Testament, 
+
+7 
+
+* 
+
+«Adiutus  est  autem  plurimum  opera  &  diligentia  clarissimorum  uirorum,  qui  linguarum  & 
+rerum peritissimi, ab annis iam XVIII. & amplius, Vetus testamentum ex ueritate Hebraica  & 
+e  linguarum  collatione,  e doctissimorum  item  interpretum  traditionib.  in  ecclesia  Tigurina 
+fidelissime  exposuerunt.»  (Bullinger, 1. 91-95) 
+
+8  Cf. Philippe Denis,  «La prophetie dans les Eglises de la Reforme  au XVP siecle», dans: Revue 
+d'Histoire  ecclesiastique, volume  LXXII  n°2, avril-juin  1977, p. 290, et la postface  intitulee 
+«Die Froschauer  Bibel  1531. Das Buch  der Zürcher  Kirche»  redigee par Hans  Rudolf  Lava-
+ter pour  la reedition  en  1983 de: Die  gantze  Bibel  der ursprünglichen  Ebraischen  und  Grie(cid:173)
+chischen waarheyt  nach auffs aller treüwlichest  verteiitschet,  Zürich 1531. 
+«Itaque pio zelo ausus est hie uir  dei aliquid, primusque  inter  nos Latinam uersionem  Bibli-
+orum moliri eeepit.» (Bullinger, 1. 79-80) 
+
+,c  Peter Kolin nous est encore tres mal connu. Denomme tantot  Cholinus, tantot Colinus,  Car-
+bonius ou  Kolin, il est originaire du canton catholique de Zoug. Bullinger, lors de son  sejour 
+ä Kappel, a fait parvenir plusieurs de ses ecrits, aecompagnes d'une  dedicace (notamment  une 
+Explications  des 24 arücles de Jean  Hus)  ä Anna  Kolin,  cistercienne  ä Frauenthal  et sceur de 
+Peter, puis a adresse son «Exhortation amicale ä la justice» (Früntliche Ermanung  zur  Gerech-
+
+146 
+
+Zwingliana  XXIII,  1996 
+
+La religion  et ses mots 
+
+et  Rudolf  Gwalther  (1519-1586), principal  redacteur  du  texte  et des  annota-
+tions  du  Nouveau  Testament.  Le role  de l'imprimeur  Christoph  Froschauer, 
+dont la vie nous est plus obscure, est considerable. Ne ä Kastl en Haute-Bavie-
+re, il mene une vie ambulante jusque vers  1510. La vignette de la page de titre 
+de  la  Bible  latine  de  Zürich  de  1543,  composee  d'un  arbre  aux  rameaux 
+deployes au pied duquel se trouvent des grenouilles  devant un lac et une ville, 
+permet  de  retracer  son  itineraire.  Froschauer,  «Frosch  auf  der  Aue»  (la  gre-
+nouille  sur  la prairie)  est  en  effet  le surnom  de ce Sorg  ou  Onsorg,  neveu  de 
+Pimprimeur  augsbourgeois  Hans  Froschauer  (1494-1522)  aupres  duquel  il a 
+appris le metier de typographe avant de rejoindre  son fils Simprecht ä Zürich, 
+oü, ä la suite d'un heritage, il change d'identite. II commence par travailler chez 
+Hans  Rüegger  alias  am  Wasen,  dans  la petite  imprimerie  «zum  Wyngarten» 
+qui lui echoit  ä la mort  de ce dernier.  Il epouse la veuve Rüegger  et devient le 
+plus  important  imprimeur  de  Zürich.  Apres  avoir  obtenu  le  droit  de  bour-
+geoisie en  1519, il se lie d'amitie  avec Zwingli, imprime  ses travaux, et  multi-
+plie ses activites: il rachete un ancien couvent dominicain, rebaptise son impri(cid:173)
+merie  «zur  Froschau»,  acquiert  quatre  presses  et  plus  de  quarante  sortes  de 
+caracteres, prend  le contröle  d'une  fabrique  de papier  en  1535 qui lui  permet 
+d'assurer un approvisionnement  independant  de Bäle. Plus de cent editions de 
+la Bible sortent  de  ses presses, toutes  ä la pointe  des  techniques  les plus  per-
+formantes  de  l'heure." 
+
+Ces  biblistes,  divers  par  l'äge  -  Jud  et  Pellikan,  qui  sont  de  l'ancienne 
+generation,  sont  consideres  comme  des  maitres -,  la formation  -  Jud  se situe 
+dans la stricte mouvance zwinglienne mais Bibliander est beaucoup plus eras-
+mien  -,  le  temperament  -  Jud  est  le plus  sensible, Bibliander  le plus  provo-
+quant,  Pellikan  le plus  savant -  sont unis par  le meme  dessein, la meme  tena-
+
+tigkeii)  ä Wolfgang  Kolin. Peter lui-meme part  ä Zürich  oü il fait  la connaissance  de Leo Jud 
+(pas  avant  fevrier  1523) puis  de  Konrad  Pellikan  qui  lui  enseigne  les langues  anciennes  (pas 
+avant le printemps  1526). Beneficiant  d'une  des bourses d'etudes  que Francois I" a accordees 
+aux V cantons  helvetiques catholiques, il part  ä Paris et reste globalement  pres de vingt  et un 
+ans en France. De 1528 ou 1529 a 1532-1533, aux cötes de Melchior Volmarä Orleans  d'abord, 
+il est le tuteur de Theodore de Beze. Il suit peut-etre Volmar ä Bourges ä la fin  de  1530, mais, 
+gagne au  protestantisme  et  risquant  de perdre  sa bourse,  il revient  ä Paris  en  1534.  Nomme 
+pasteur ä Witikon en 1535, il est en 1540 proviseur de l'ecole latine du Grossmünster de Zürich, 
+puis  en  1542 pasteur  ä Schwamendingen.  II redige  avec Johannes  Fries  un  dictionnaire  alle-
+mand-francais  en 1541, fait de nombreuses traductions latines et grecques. II meurt, atteint de 
+la peste, le jour-meme  oü  sa traduction  aux  livres  Apocryphes  est  achevee, debut  decembre 
+1542. Cf. les notices biographiques de Theodore de Beze (Icones, idestverae  imagines  virorum 
+doctnna  simul  et pietate  illustrium...,  1580), de  Konrad  Gessner  (Bibliotheca  universalis..., 
+Zürich  1545), une notice jointe  ä Pedition  d'une  lettre  de Bullinger ä Johannes  Fries et  Kon(cid:173)
+rad  Gessner du  12 mai 1534 (dans: Heinrich  Bullingers Briefwechsel,  Zürich,  1973s., tome 4, 
+p.  173), et  Willy Brändly,  «Peter Kolin von Zug», dans: Zwingliana,  IX, p.  150-171. 
+
+"  Cf.  Paul  Leemann-van  Elck,  Die  Offizin  Froschauers,  Zürich  1940  (Mitteilungen  der 
+
+Antiquarischen  Gesellschaft,  33/2). 
+
+Zwingliana  XXIII,  1996 
+
+147 
+
+C.  Gantet 
+
+cite et les memes  refus.  Esquissant  une  sorte de  «sociologie»  des  traducteurs, 
+ils en rejettent  trois «types»: d'une part, ceux qui ne s'en  tierment qu'aux cho-
+ses profanes, d'autre part, ceux qui passent leur vie ä chercher ä atteindre l'elo-
+quence ciceronienne  ou  ä parvenir  ä la connaissance la plus achevee de toutes 
+les disciplines -  ces deux voies sont Celles de la Renaissance pa'ienne, des «sin-
+ges de Ciceron»  comme le dit Erasme dans son Ciceronianus  en 1528 -,  enfin, 
+ceux qui se livrent ä la chasse aux manuscrits12. Ces trois attitudes  sont  jugees 
+vaines, futiles  ou trop  ambitieuses13. Le traducteur  doit centrer  son travail sur 
+le texte lui-meme, en Fisolant des apports  exterieurs  (gloses, prefaces  de Jero-
+me...), en le considerant comme un tout autonome propose ä l'intelligence  et ä 
+la piete des hommes. 
+
+Le travail  collectif  repose, dans  son principe-meme,  sur un  appel  ä la cri-
+tique, non  seulement  des savants14, mais aussi des simples fideles15, et ä l'intel(cid:173)
+ligence du  lecteur:  «A present,  nous te presentons  ces travaux, eher lecteur: ä 
+toi d'apprecier, d'utiliser, de profiter  et de savoir que nous avons f ait notre pos-
+sible (...), rappelle-toi que personne ne peut tout faire, surtout dans le domaine 
+des  Ecritures  sacrees,  et  donner  une  totale  satisfaction  d'un  coup  ä  tant 
+d'esprits  divers»". L'appel ä la critique est aussi la consequence de  l'insatisfac-
+tion des traducteurs. La Bible est un  texte dont  la transmission  fidele  requiert 
+un travail et des competences  linguistiques. 
+
+Comment  les Zurichois  justifient-ils  cette  attitude  novatrice,  comment  la 
+pensent-ils,  l'exposent-ils  et  la  mettent-ils  en  pratique?  La  traduetion  elle-
+meme n'est-elle pour  eux qu'une transmission  (tradition)  du  message divin et 
+de symboles  religieux, ou  est-elle une creation  (innovation)  et une  communi-
+
+12 
+
+«Florere quidem multa ingenia eaque prsestantissima, qua; si uellent, hac in re atque alijs plu-
+rimum  pra:stare  possent:  sed  in  tanta  studiosorum  ac  eruditorum  turba,  alios  quidem  alijs 
+intentos,  uel  sacra  prorsus  negligere,  uel  sacris  non  unice  ineumbere:  alios  rursus  toto  uita: 
+cursu  Ciceroniam  uenari eloquentiam, uel  linguarum  exaetissimam peritiam, uel  certe  disci-
+plinarum  absolutissimam  cognitionem:  esse  prasterea  alios  qui  prius  multas  adire  gentes  & 
+regiones, & his multiplicia non modo  Hebraica, sed Chaldaica quoque, Arabica, & per  uetu-
+sta Gra:ca  & Latina  exemplaria  colligere cogitent»  (Bullinger, 1. 44-51) 
+
+13  «quas priusque  assequantur,  aut  sibi  satisfaciant,  &  in his  quiequam  tentandum  esse  putent, 
+uel  senio uel  nimijs  &  intempestiuis  studijs  conficiantur,  uel  sero  nimis  ineipientes  nihil  ad 
+iustum finem  perducant,  ut  ex huiusmodi  ingenijs  parum  aut nihil  iusti fruetus  perueniat  ad 
+ecclesiam.»  (Bullinger, 1. 51-55) 
+
+14  «Ab initio  autem si quid parasset, mox illud doctis aliquot  exhibebat,  explorans quid  de eius 
+conatu  & laboribus  alij  quoque  sentirent:  imo  rogabat  illos  impense, ne quid  dissimularent, 
+sed ingenue quod uideretur indicarent. At placuit hie conatus optimis quibusque»  (Bullinger, 
+1. 80-83) 
+
+15  «Complures  enim  fratres  suam  operam  huic  operi  Biblico  fidelem  collocarunt.»  (Bullinger, 
+
+" 
+
+1. 457-458) 
+«Nunc  hos  labores  nostros  tibi  offerimus  candide  Lector,  ut  iudices, utaris, fruaris,  &  scias 
+nos prsstitisse  quod potuimus:  [...]  condones, memor  non  omnes, prassertim  in sacris literis, 
+posse  omnia,  diuersis  autem  ingenijs  eadem  opera  satisfacere  neminem  omnibus»  (Kolin, 
+1. 250-255) 
+
+148 
+
+Zwingliana  XXIII,  1996 
+
+La religion  et ses mots 
+
+cation  d'une  intelligence  des  Ecritures?  Trois  reponses  successives  sont  for-
+mulees, qui correspondent  ä trois etapes du raisonnement. II faut tout  d'abord 
+justifier  l'entreprise  generale et capter l'attention  du  lecteur, en detournant  au 
+besoin la tradition; mais l'application  des normes etablies ä  l'ordonnancement 
+des livres de la Bible et au canon  bouscule  les principes  courants. Quels  sont 
+des lors les liens qui unissent la traduction et l'intelligence des Ecritures, la reli(cid:173)
+gion et ses mots? 
+
+b) La tradition  detournee: l'argumentation  de Bullinger  et 
+
+le raisonnement  de Kolin 
+
+Traduire la Bible est ressenti comme un labeur; le reve de Pagnini, celui  d'une 
+traduction definitivement  reussie, realisee, teile la Septante, par un congres ras-
+semblant  les  hommes  les plus  competents,  fait  place  au  constat  que  «pas  un 
+seul livre sur terre ne s'est prete au travail de copie, de transposition  et de tra(cid:173)
+duction  de plus  d'excellents  esprits  que le volume  saint des Bibles»17 et ä l'in-
+satisfaction  des  traducteurs:  «Rien  n'expose  plus  aux  calomnies  du  grand 
+public  et  rien  n'est  plus  difficile  ou  plus  ardu  ä traduire...  En fin de compte, 
+apres qu'on a recherche les termes les plus equivalents ou les proches, on n'est 
+paye de ses peines immenses que par la pire des ingratitudes. On peut, en  effet, 
+malgre  ce respect  et  ce soin,  ne pas  rendre  avec exactitude  tout  ce qui  fait  la 
+force de chaque expression, et ne pas partout conserver le charme de la langue 
+d'arrivee. Et comme les gens ont des caracteres et des opinions tres divers, sou-
+vent  inconciliables,  le  traducteur  s'expose  aux  calomnies  les  plus  contradic-
+toires»18. Traduire  est une  entreprise  si importante  et si perilleuse  que  Bullin(cid:173)
+ger  dans  sa preface  convoque  toutes  les  autorites, patristiques  (saint Jerome, 
+saint Augustin, saint Origene, saint Cyprien, saint Ambroise et saint Chrysos-
+tome,  le  Decret  de  Gratien)  et  humanistes  (Erasme),  tout  en  reservant  son 
+jugement ä leur sujet. En s'integrant  dans la filiation  d'exegese et de traduction 
+de l'Eglise  d'Occident,  il detourne  la tradition  pour  capter  l'attention  du lec(cid:173)
+teur.  Les  «nouveaux Jerome»  zurichois  veulent  en  fait  depasser Jerome  et sa 
+Version  latine  pour  revenir  ä la source  de  l'Ecriture  sainte.  La fonction  de la 
+tradition  representee  par  la patristique  est  donc  ambivalente. Bullinger  l'uti-
+lise de fa$on  traditionnelle  contre  la tradition: Jerome n'avait-il lui-meme pas 
+
+17  «Neque extat ullus in orbe Über, in quo describendo, reddendo uertendoque plura  laborarint 
+
+egregia ingenia, quam  in Codice  Bibliorum  sancto.»  (Bullinger, 1. 308-310) 
+
+18  «Vix quicquam  est aeque obnoxium  calumnijs  multorum,  quam  sacrorum  librorum  interpre-
+tatio [...]. Neque enim hac religione & cura quis reddere omnia exacte, qua; in ui cuiusque dic-
+tionis sunt, potest, nee ubique lingua: in quam interpretatur  seruare gratiam: & cum diuersis-
+sima sint, sspeque  contraria  hominem  ingenia iudiciaque, interpres  in maxima  uenit  calum-
+niarum discrimina.»  (Kolin, 1. 1-2;  1. 15-19) 
+
+Zwingliana  XXIII,  19% 
+
+149 
+
+C.  Gantet 
+
+agi ainsi en cautionnant  sa nouvelle version par l'entreprise  hexaplaire  d'Ori-
+gene? 
+
+Mais les Peres de l'Eglise sont aussi consideres comme des guides pour  l'in-
+telligence  des  Ecritures,  des  modeles  ä suivre  et ä depasser  pour  retrouver  la 
+source. P. Kolin  a ainsi une argumentation  beaucoup  plus  novatrice  que  Bul-
+linger. II demontre, ä l'aide d'arguments  philologiques, historiques  et linguis-
+tiques  que Jerome  ne s'est pas  appuye  pour  les Apocryphes  sur  des  temoins 
+du  texte hebrai'que, mais sur le grec, et qu'il est donc legitime, pour  ces livres, 
+d'elaborer  une nouvelle  traduction  du  grec"; puis  il reconstitue par  une  serie 
+d'inferences  l'original  hebrai'que  ä partir  du  texte  grec, sauf  pour  les livres  de 
+la Sagesse, 2 et 3 Maccabees (une analyse philologique le mene ä conclure qu'ils 
+n'ont  jamais  ete  ecrits  en  hebreu)  et Tobit  (certains  passages  ont  disparu  des 
+temoins  grecs): ä l'argument  chronologique  selon  lequel  le plus  ancien  texte 
+doit  faire  autorite, Kolin substitue  un  critere philologique,  de proximite  avec 
+le temoin hebrai'que. La traduction necessite donc la reconstitution de la trans-
+mission  des textes  bibliques, enfouis  sous une  Sedimentation  de  corruptions. 
+Pour retrouver  et arracher  ce fond  ä l'usure  du temps  et de l'histoire, il utilise 
+une methode comparative (rapprocher ces textes d'autres passages pleinement 
+canoniques  dont  on  a  des  manuscrits  hebrai'ques)  et  inductive  (deviner 
+l'hebraisme  sous la forme  grecque). 
+
+c) La tradition  bousculee: le probleme  du  canon 
+
+Cette  demarche,  appliquee  aux  livres  bibliques,  ebranle  neanmoins  le  canon 
+traditionnel. Les Peres de l'Eglise  sont  des modeles ä suivre et ä depasser  car 
+l'autorite  reside  dans la Bible, collection  de livres heterogenes  par  leur  Statut 
+langagier. Quel est des lors le critere permettant de delimiter les livres qui doi-
+vent  faire  reference,  la  norme  de  toute  norme?  Et,  si  le  canon  n'existe  que 
+reconnu,  qui peut  presider  ä sa fixation  et comment  trouvera-t-il  son  expres-
+sion? Dans ce champ de questions, qui met en cause les relations entre le chre-
+tien et son Eglise, entre l'Ecriture  et l'Eglise, les Zurichois  se distinguent  net-
+tement de Luther. Alors que ce dernier etablit une distinction theologique  fun(cid:173)
+damentale entre la Loi de l'Evangile, la Bible de Zürich est «la tres sainte Bible 
+de l'Ancien et du Nouveau Testament», form.ee d'un message homogene, posi-
+tion qui correlativement valorise l'Ancien Testament. Le principe essentiel de 
+Phermeneutique  et de la theologie de Bullinger, l'alliance unique  (foedus, pac(cid:173)
+tum)  noue entre Dieu et l'humanite, dont la circoncision  dans l'Ancien  Testa-
+
+"  Quod  ergo  licuit  Uli ex  Grjecis  Latina  facere,  nobis  quoque  idem  conantibus  non  denegari 
+debere puto, nee improbari  magis quod  ex eodem  quo  ille hausit  fönte  proferimus»  (Kolin, 
+1. 146-148) 
+
+150 
+
+Zwingliana  XXIII,  1996 
+
+La religion  et ses mots 
+
+ment  et le bapteme  dans le Nouveau  sont  les deux signes, unifie  Fhistoire  du 
+salut  depuis  Noe  jusqu'au  Christ  en  passant  par  Abraham.  II  en  decoule 
+Punicite  de PEglise  et de la voie menant  au salut,  mais  aussi le devoir  de  tra-
+duire  tous  les  livres  qui  la  composent  avec  le  meme  soin.  Les  Zurichois 
+rompent  ainsi avec la conception  «duelle»  de la Bible, livre materiel  et messa-
+ge; cette position novatrice fonde la possibilite de la traduction et en fixe simul-
+tanement les principes  directeurs. 
+
+II ne s'ensuit  pas pour  autant  que tous les livres aient la meme autorite. La 
+question du contenu du canon, apparue des la fixation  canonique du  Nouveau 
+Testament au IVC siecle et ravivee par les controverses opposant Luther ä Eras-
+me sur le libre arbitre puis par les debats inter- et intraconfessionnels  qui prelu-
+dent  au concile  de Trente, se fixe  sur le probleme pose par  ces livres de  l'An-
+cien Testament  presents  dans  la LXX  mais  absents  du  canon  hebra'ique.  Les 
+Zurichois  ne s'appuient  ni sur  le critere  de la tradition  des catholiques  ni  sur 
+la norme  christologique  pronee  par  Luther,  mais  sur un  critere  philologique: 
+les Apocryphes, comme Pecrit P. Kolin des la page de titre de sa preface,  sont 
+ces livres de l'Ancien Testament pour lesquels on ne dispose pas de manuscrits 
+hebraiques, mais seulement  de grecs. 
+
+La preface  detaille  pour  chaque  livre  le critere  utilise: malgre  un  contenu 
+tres  edifiant,  le style et la syntaxe  du  livre de la Sagesse fönt  «fortement  pen(cid:173)
+ser qu'aucun  redacteur  ne l'a  jamais  ecrit  en  hebreu,  mais qu'il  a ete ecrit  en 
+grec par un Hebreu qui hebrai'sait plus rarement qu'on ne le constate dans d'au-
+tres livres»20. II en va de meme pour Judith, l'histoire  de Suzanne  (Daniel  13), 
+Esther grec2'. Le prologue et Pelegance du style de 2 Maccabees22, la redondance 
+du  son  style,  «Penflure  et  la vanite  hellenique»  de  3 Maccabees23 menent  ä la 
+meme conclusion. L'Ecclesiaste et les autres livres ont ete rediges en hebreu et 
+traduits  en grec24. Certains passages hebreux de Tobit ont disparu  des temoins 
+
+20 
+
+21 
+
+22 
+
+«[...] über Sapientis [...]: mihi tarnen ipso stylo & constructione, tum adiectorum,  epithetorum, 
+ac compositorum  abundantia  uerisimile  sit, nunquam  scriptum  fuisse  Hebraice  ab  authore, 
+sed ab Hebrso  aliquo rarius  Hebraizante  quam factum  est in csteris, Grasce scriptum  esse.» 
+(Kolin, 1.218-221) 
+«Idem de Iudith parte aliqua, de historia Susanns, & Hesther, (qua; leguntur inter  Apocrypha 
+duntaxat,)  ijsdem  ductus  rationibus  iudico.»  (Kolin, 1. 223-224) 
+«Nam  de 2. Machabsorum  id etiam  ipsius  authoris  in prologo  testimonio,  & elegantia  styli 
+certum  est.»  (Kolin, 1. 224-225) 
+
+23  «Tertius autem Machabieorum non solum styli, sed etiam ipsius narrationis redundantia, f astu, 
+omnique Gra;ca uanitate adeo mihi displicuit, ut nee qui uel inter profanas  historias fidem per 
+omnia mereatur, nedum qui inter Ecclesiasticos annumeretur dignum iudicem, nee in quo quis 
+uel uertendo  uel legendo ponat  operam.»  (Kolin, 1. 225-229) 
+
+24  «Caeteri libri, maximeque Ecclesiasticus priuato nomine dictus, seu Sapientia Iesu filij  Sirach, 
+ut prologus  testatur,  & Stylus scatens  Hebraismis, siue locutiones, siue construetionem,  siue 
+alios idiotismos consideres, Hebraice mihi scripti fuisse uidentur ä suis authoribus, & in Grsca 
+translati, qua; sola  nobis  relicta  sunt,  non  extantibus  Hebraicis, ac ne ä ueteri  quidem  inter-
+prete uisis, ut  supra dixi.»  (Kolin, 1. 234-239) 
+
+Zwingliana  XXIII,  1996 
+
+151 
+
+C.  Gantet 
+
+grecs et ont ete maintenus par les Latins; ce sont parfois de vieilles fables trans-
+mises soit par  le traducteur  hebreu  soit par  le traducteur  grec25. 4 Esdras  et la 
+priere de Manasse ne se trouvent  ni en grec ni en hebreu2'. 
+
+Ces textes sont  traduits  et integres  ä d'autres  dont  la presence  etait  moins 
+problematique  comme 3 Esdras pour  1 et 2 Esdras27 ou  1 et 2 Maccabees  pour 
+3 Maccabees28. Le critere philologique retenu est coherent avec le postulat selon 
+lequel l'Ecriture  s'interprete  par  elle-meme. 
+
+La fonction  distinctive des Apocryphes  est la seule lecture privee et non la 
+proclamation  publique, distinction  qui suppose le role de la liturgie  ecclesiale 
+dans  la  Constitution  du  canon.  Seules  attestations  d'une  source  disparue  et 
+situes de ce fait  ä la frontiere  du  canon  (ainsi que Petablit P. Kolin des la page 
+de titre de sa preface), ils sont traduits mais places nettement ä part entre  l'An-
+cien et le Nouveau  Testament  et fönt  l'objet  d'une pagination  nouvelle.  Cette 
+rupture  avec tout  enonce qui paraitrait  subordonner  Pautorite  de l'Ecriture  ä 
+l'Eglise  permet  et legitime  une  nouvelle  traduction  latine  de la Bible: revela-
+tion  symbolisee  et  accommodee  aux  hommes29, l'Ecriture  sainte  peut  et  doit 
+etre traduite. Mais selon quels principes  linguistiques? 
+
+«Tobias concisa oratione suspicionem mouet in Gra:cis exemplaribus intercidisse aliqua, qua; 
+in Latinis habeantur, quorum  tarnen  quzedam aniliora uidentur, quam ut  credam  ab  authore 
+Hebraico, aut ab interprete  Gra:co tradita.»  (Kolin, 1. 239-241) 
+«Librum Esdrje  quartum, & precationem Manassis nee Grasce nee Hebraice uidere mihi con-
+tigit...» (Kolin, 1.244-245) 
+«Interim  Gra:ci  quoque  Codices  librariorum  culpa  ulterius  corrupti  sunt  ab  eo  quod  uetus 
+interpres transtulit. Itaque cum genealogias illas qua: sunt in Esdrse tertio, conferrem  cum ijs, 
+qua: sunt in Esdra: primo  & seeundo, nominibus  Hebraicis...»  (Kolin, 1. 196-206) 
+«Itaque non uertissem eum, nisi in Grascis exemplaribus  adiunetum primo & seeundo  Mach-
+abaeorum reperissem, & ego omnia uoluissem  bona fide  interpretari, iudiciumque  alijs  relin-
+quere.»  (Kolin, 1. 232-234) 
+L'«accommodation»  est un coneept d'origine  zurichoise, que l'«Eloge de l'Ecriture  sainte qui 
+est la parole de Dieu» (Encomium  Scriptum  sandte, qux  uerbum  dei est) compose de cinq cita-
+tions bibliques (l'Ecriture inclut son propre eloge) place au verso de la page de titre de la Bible 
+latine de 1543 manifeste. La Bible est un enseignement: son lecteur apprend l'obeissance et la 
+crainte de Dieu  (Deuteronome  13 [5]): eile peut le «rendre instruit  dans le salut»  (2 Timothee 
+[15]); le livre  de  la Nature  n'est  d'aucune  utilite  pour  le  croyant,  les Ecritures  seules  ensei-
+gnent  la parole  de  Dieu.  Cet  enseignement  n'est  pas  purement  theorique  mais  produit  des 
+effets, vehicule des sentiments, des convictions qui sont du domaine de l'esperance (Rom. 15). 
+11 necessite  une  Interpretation:  la  parole  de  Dieu  est  une  «voix»  (Deuteronome  4  [33-36], 
+Deuteronome  13 [5],Psaume  12(11) [7], Luc 16 [29]); l'Ecriture est un «temoignage»  (Psaume 
+12 (11) [7]) ecritpar  des hommes. C'est  par la parole interieure que le croyant  est  conduitpar 
+l'Esprit  saint ä reconnaitre que l'Ecriture renvoie ä l'ceuvre du Christ: l'homme le plus humble 
+peut  s'exprimer  ä partir de l'Ecriture  alors que les prophetes  qui  enseignent n'ont  pas  trouve 
+la verite bien que mis dans la confidence  de Dieu  (1 Cor.  14 [15]). Dieu n'est donc connu  que 
+par une revelation exclusivement  symbolisee  dans le texte de  l'Ecriture. 
+
+152 
+
+Zwingliana XXIII,  1996 
+
+La religion  et ses mots 
+
+d) Principes  et problemes  philologiques 
+
+De l'attestation  canonique de la revelation de Dieu, la traduction  de  l'Ecriture 
+sainte remonte ä son principe, la revelation de Dieu, et l'actualise par la media-
+tion  des  textes.  Les  biblistes  du  XVP  siecle  pensent  pouvoir  traverser  la 
+distance qui les separe de Dieu, locuteur premier, et retrouver  l'intention  pre-
+miere, en-degä du texte de l'Ecriture  qui en est l'expression.  Mais cette ambi-
+tion, tout en amplifiant  l'effort  d'interpretation,  brouille la distinction entre la 
+traduction  et le commentaire  (attention  au sens ou  ä la lettre, changement  ou 
+non  de  «scripteur»)  et  necessite  la  formulation  de  principes  linguistiques 
+destines  ä resoudre  les problemes  de decodage  et de transposition  d'une  lan-
+gue semitique, l'hebreu,  en latin.  Quelles  methodes  les Zurichois  pronent-ils 
+et emploient-ils dans la traduction et l'interpretation des textes, quels principes 
+linguistiques  formulent-ils,  quels  liens  voient-ils  entre  le  langage  et  Pintelli-
+gence des  Ecritures? 
+
+Sixte de Sienne, dans le troisieme livre de sa Bibliotheca  sancta, ränge la tra(cid:173)
+duction parmi les methodes  d'interpretation  (les deux termes  sont  confondus 
+en  latin).  La  traduction  est  l'aboutissement  voile  de  l'interpretation  qui  la 
+prepare:  c'est  le  principe  de  la  glose  marginale.  Rompre  avec  le  principe 
+medieval de la primaute  de l'interpretation,  c'est  formuler  de nouvelles  regles 
+pour  l'etablissement,  l'edition  et  le  traitement  du  texte.  Les  redacteurs  des 
+prefaces  de la Bible latine de Zürich nous presentent la methode qu'ils ont sui-
+vie pour  etablir  le texte. 
+
+Bullinger  cite  «quelques  manuscrits  et traductions  anciens»  qui  ont  servi 
+de base ä la traduction  latine du Nouveau  Testament30: une edition  de Tolede, 
+ici la polyglotte d'Alcalä (reference majeure de l'humanisme du debut du siecle, 
+entreprise en 1502 sur la demande du cardinal Ximenes de Cisneros, imprimee 
+en six volumes en 1517 et diffusee  ä partir de  1521), une traduction  parisienne 
+(sans doute la traduction  frangaise  de Lefevre  d'Etaples parue en  1530), et l'e(cid:173)
+dition anglaise publiee en 1535 ä Cologne, une revision de la traduction de Wil(cid:173)
+liam Tyndale  (1526) par  Miles  Coverdale  (1488-1568)  qui  s'appuie  peut-etre 
+sur  la  «Vulgate»,  la  version  de  Luther,  celle  de  Pagnini  et  celle  de  ...  Zürich 
+(1531).  Les traducteurs  affirment  donc  leurs  competences  linguistiques  dans 
+les langues  anciennes  et vernaculaires; mais ils entendent  aussi s'inscrire  dans 
+la filiation du «retour aux sources» de la religion par les humanistes et non dans 
+un  camp  strictement  protestant  -  ils ne citent jamais  Luther  (l'interpretation 
+de la Cene suscite de vives polemiques  entre les zwingliens  et les lutheriens). 
+Kolin mentionne pour les Apocryphes un exemplar  «de Tolede»31, la poly-
+
+30 
+
+31 
+
+«consultis interim aliquot peruetustis  exemplaribus  & uersionibus, editione Hispaniensi  siue 
+Toletana,  Gallicana  siue Parisen. Anglicana  denique  & reliquis  quibusdam  codicibus.»  (Bul(cid:173)
+linger, 1. 448-450) 
+«Sequutus  sum maxime exemplar Toletanumquoddam...»  (Kolin, 1.  163) 
+
+Zwingliana  XXIII,  1996 
+
+153 
+
+C.  Gantet 
+
+glotte d'Alcalä,  et pour PAncien Testament, Bullinger parle des traditions  des 
+traducteurs  les  plus  savants,  le  travail  «des  rabbins  et  des  interpretes  des 
+Hebreux»32. Alors  que les Juifs  se dispersent  et creent  des foyers  qui  peuvent 
+etre tres actifs  en Allemagne ou  en Pologne, apres avoir ete expulses  d'Angle-
+terre (1290), de France (1306 puis 1394), d'Espagne  (1492), du Portugal (1497), 
+de Provence (1501) et de nombreuses regions du Saint-Empire, alors que l'elan 
+exegetique juif  s'afiaiblit,  l'Occident  chretien  redecouvre  avec un  interet pas-
+sionne  la langue  et la culture  hebrai'ques. La publication  de diverses  editions 
+de la Biblia  rabbinica  de 1516-1517 et 1524-1525 (editee par Daniel  Bomberg 
+et realisee par Felix de Prato puis Jacob ben Hayim  ibn Adoniyah), Bible que 
+les  Zurichois  possedent,  est  l'evenement  majeur  d'une  serie  de  publications. 
+La bibliotheque  de Pellikan33 renferme  quantite  de  commentaires  hebrai'ques 
+rediges entre le VHP et le XVP siecles souvent  restes manuscrits, traduits  par 
+l'exegete  zurichois  lui-meme.  On  y  retrouve  nombre  d'auteurs  cites  dans  la 
+liste etablie par Sixte de Sienne. David ben Joseph Quimhi, Abraham Ibn Ezra, 
+Rashi, Levi ben Gershom et Elie Levita jouissent d'une faveur  considerable au 
+XVP siecle, de meme que Mai'monide dont l'oeuvre est alors partiellement adap-
+tee en  latin; mais  meme  si d'autres  erudits, comme  Cajetan,  s'appuient  sur la 
+tradition juive pour traduire la Bible, c'est une demarche que beaucoup se refu-
+sent  ä faire.  Toutefois,  si  K.  Pellikan  est  l'un  des  initiateurs  d'une  lignee  de 
+grands  hebraisants  allemands  (comme J. Reuchlin), son  interet  n'attenue  pas 
+la polemique anti-juive: comme Erasme, il veut hebrai'ser sans juda'iser. 
+
+En aval, le travail d'edition  est aussi interpretatif.  Le lexique  philologique 
+des  Zurichois  n'est  pas  encore  bien  defini.  Dans  leurs  prefaces,  interpretatio 
+signifie  «traduction»  ou «Interpretation»; «manuscrit» se dit codex  (manuscrit 
+au sens materiel) ou exemplar  (manuscrit en tant que porteur d'un  texte deter-
+mine et, par extension, le texte, meme imprime). «Erreur»  (mendum,  error) et 
+«corruption»  (corruptio) vont  de pair;  «corriger  le texte»  se dit  emendare  ou 
+rede  legitur.  La correction  des fautes  est effectuee  par  comparaisons, en rele-
+
+32  «Vetus  testamentum  ex ueritate  Hebraica  &  e linguarum  collatione,  e doctissimorum  item 
+interpretum  traditionibus  in  ecclesia  Tigurina  fidelissime  exposuerunt.  Horum  iste  auditor 
+assiduus  &  diligentissimus  ex  ore  ipsorum  excepit,  quzcunque  ex  proprietate  &  ingenio 
+Hebraica:  lingua:,  ex  Hebrasorum  Rabinis  seu  interpretibus,  ex  ecclesiasticorum  uirorum 
+ueterum  & neotericorum  enarratione, e collatione  exemplarium  & diuersa  lectione,  incredi-
+bili eruditione  & industria, protulerunt»  (Bullinger,  1. 94-99) 
+
+33  Cf.  Bernhard  Riggenbach  (Hrsg.),  Das  Chronikon  des  Konrad  Pellikan.  Zur  vierten  Säku(cid:173)
+
+larfeier  der  Universität  Tübingen,  Basel,  1877,  p.  172-173.  et Johann  Heinrich  Hottinger, 
+Schola Tigurina  Carolina...,Tiguri  1664, p.  163-164. Dernieres  etudes  sur  la bibliotheque  de 
+Pellikan:  Martin  Germann,  Die  reformierte  Stiftsbibliothek  am  Großmünster  Zürich  im 
+16. Jahrhundert  und  die Anfänge  der neuzeitlichen  Bibliographie, Wiesbaden  1994 (Beiträge 
+zum Buch-  und  Bibliothekswesen,  34) et  Traudel Himmighöfer,  Die  Zürcher  Bibel bis  zum 
+Tode  Zwingiis  (1531). Darstellung  und  Bibliographie,  Mainz  1995  (Veröffentlichungen  des 
+Instituts für  europäische  Geschichte  Mainz  154). 
+
+154 
+
+Zwingliana  XXIII,  1996 
+
+La religion  et ses mots 
+
+vant les variantes34, mais aussi en portant  une attention particuliere  ä la gram-
+maire: les Zurichois  se distinguent  en cela de  Luther. 
+
+La religion  a ses mots.  Le texte  de  l'Ecriture  sainte  n'est  pas  sacre -  c'est 
+
+une  accommodation  et une  symbolisation  de la revelation -,  mais il a un  Sta(cid:173)
+tut langagier specifique  qui justifie  Pattention port.ee ä la grammaire, aux mots 
+et  ä leur  interpretation.  «On  ne peut  guere  transposer  proprement  dans  une 
+langue  etrangere  certaines  formules  des  Ecritures  sacrees  sans  que, du  coup, 
+on  ne perde  une  bonne  partie  de  la  gräce  et meme  des  mysteres,  alors  qu'en 
+conservant les tournures specifiques  de la langue source, on per§oit plus juste-
+ment et plus aisement ces expressions»35: «grace est la faveur  et benevolence de 
+laquelle Dieu use envers nous pour l'amour de son fils Jesus Christ, nous purge, 
+nous  justifie,  nous  enrichit  de  ses  dons  et  benefices,  et  nous  sauve»36;«... on 
+pourra  bien  appeler  mysteres  les  secrets  sacrez  et  enfermez,  qui  ne  sont  pas 
+cognus sinon de ceux qui ont receu les ordres, et lesquels ne doivent estre faits 
+ne celebres sinon par  ceux sont  sanctifiez»37. 
+
+Les mots  sont les butoirs  de la traduction: leur force  renvoie ä leur  auteur 
+premier.  Le traducteur  doit  etre aussi fidele  que possible  au texte source  tout 
+en soignant  l'expression  dans la langue d'arrivee:  «Partout, il a veille ä ce que 
+le texte  ou,  ce qui  revient  au  meme, la traduction  soit  aussi latine  que  possi(cid:173)
+ble». Il  ne  conservera  que  quelques  mots  du  texte  source  transmis  ou  trans-
+litteres  et maintenus  donc  dans leur forme  traditionnelle  meme  si leur  valeur 
+est differemment  pergue: «Ne fönt  exception que quelques mots et idiotismes, 
+trop courants  et trop connus -  vu qu'ils sont employes par les Apotres -  pour 
+qu'il apparaisse pertinent  ou necessaire de les changer. Il en va ainsi pour <foi> 
+
+34 
+
+«In  3. Esdra:, ubi recensentur  genealogia;,  rairam  inuenimus  corruptionem,  & nisi  Hebraica 
+ex 1. & 2. Esdra; cum Grascis conferenti  inemendabilem,  quam  nos hac laboriose facta  colla-
+tione pene restituimus.»  (Kolin, 1. 179-181), «Itaque cum genealogias illas qua; sunt in Esdra: 
+tertio, conferrem  cum ijs, qua; sunt in Esdra; primo & secundo, nominibus Hebraicis, depre-
+hendi fere  in singulis origines unde deducta, & causas quare corrupta  sint, quarum  causarum 
+quasdam in ipsis  Hebraicis  sunt  literis, qua:  Grjece  exprimi  non  potuerunt,  uel alias pro  alijs 
+similibus lecta: sunt, qua:dam in Graecis, qua;dam in Latinis, quarum pracipuas  supra memo-
+rauimus, alias suis locis assignauimus in margine, ut cuius conferenti exemplaria, statim liqueat 
+rem ita se habere, & ä nobis recte, nee sine iustis rationibus  esse pleraque  nomina  non  muta-
+ta, sed  restituta & emendata.»  (Kolin, 1. 196-203), «Itaque non uertissem  eum, nisi in Grascis 
+exemplaribus  adiunetum  primo  & secundo  Machabajorum  reperissem,  & ego omnia  uoluis-
+sem bona fide  interpretari, iudiciumque  alijs  relinquere.»  (Kolin, 1. 232-234) 
+
+33  «Quid  quod  quxdam  in  sacris  loquutiones  sunt,  qua; uix possunt  in  alienam  linguam  terse 
+conuerti, ut non simul pereat bona pars gratia: adeoque mysterij, quod alians ex relicta lingua: 
+proprietate  rectius faciliusque  agnoscit.»  (Bullinger, 1. 134-136) 
+
+36  Heinrich  Bullinger,  Decades, Sermon VII, edite par Paul Sanders, Henri Bullinger et l'inven-
+tion  (1546-1551)  avec Jean  Calvin  d'une  theologie  reformee  de la Cene, la gestion  de  l'heri-
+tage  zwinglien  lors  de l'elaboration  du  «Consensus  Tigurinus»  (1549)  et de la redaction  des 
+«Decades»  (1551), these daetylographiee  de doctorat, Paris IV, 1989, 2 tomes, p. 573. 
+id., ibid., Sermon VI, cite par id., ibid., p. 493. 
+
+37 
+
+Zwingliana  XXIII,  1996 
+
+155 
+
+C.  Gantet 
+
+aulieude<confiance>;  <fidele> älaplace de <confiant>  et <sincere>; <beni> pour 
+<celuiqu'ondoit louer, celebren  ou <celui qui est loue>; <benir> au lieu de <faire 
+prosperer,  faire  fructifier  par  toutes  sortes  de  moyens  bons>,  <invoquer  en 
+bien>,  <louer>,  <annoncer>,  <remercier>  et  <rendre  gräce>;  <gräce>  pour 
+<faveur> et <bienfait gratuit> ou plutot <pardon>; <confesser> pour  <reconnaitre 
+librement>,  <louer>  ou  <annoncer  avec  louanges>,  de  meme  <celebrer  avec 
+action  de gräce>; <precher l'Evangile> pour  <apporter une joyeuse nouvelle>  -
+et toutes  les autres  expressions  de cette classe et de cet ordre. Ils nous  parais-
+sent trop fächeux ces hommes qui autorisent l'usage d'un jargon  professionnel 
+ä tous les hommes de metier et d'art, le refusent  pour les seules Ecritures divi-
+nes, et outragent prodigieusement  ceux qui y ont recours.»38 A ces mots poly-
+semiques  correspondent  plusieurs  equivalents.  Ainsi,  le  mot  «foi»  (fides) 
+devrait etre rendu par «confiance»  (fiducia): alors que la fides  est de l'ordre  de 
+la connaissance, de l'histoire, et qu'elle designe etymologiquement  un  contrat 
+passe  entre  deux  partenaires  egaux,  la fiducia  souligne  la  disproportion  des 
+deux  partenaires  (le croyant  la recoit)  et  insiste  sur  l'effet  psychologique  ou 
+spirituel chez le croyant. «Benir» ne signifie pas «changer la nature des choses 
+par les paroles de Dieu» ni «convertir»: le sens de la Cene (Mt. 26 [26], 1. Cor. 
+10 [16]) est en jeu. 
+
+L'interpretation  est  donc presente  en  amont  comme  en  aval  de la  traduc(cid:173)
+
+tion. Elle est la limite sur laquelle vient buter la traduction. Traduire, c'est  bien 
+plus  que  passer  d'un  code  ä un  autre.  La  restauration  du  sens  d'une  part,  le 
+retablissement du juste rapport  de l'homme  ä Dieu, de l'ancienne ä la nouvelle 
+alliance, des  contemporains  ä l'histoire  d'autre  part  passent  par  la  resolution 
+des difficultes  du  langage  biblique. 
+
+Le principe  cardinal  des  Zurichois  est  la  «liberte»: ni  litteralite,  ni  inven-
+tion, la traduction  doit etre «fidele»  (la fidelite, c'est la bona fides,  la religio) et 
+non pas servile  (le traducteur  serait  alors superstitiosus, excessif  dans  sa «reli-
+gion»). Parmi les traducteurs qui n'ont pas ignore la source hebrai'que, «les uns 
+sont  restes lies ä la version  grecque  [critique voilee de Zwingli?], d'autres  ont 
+ete trop attaches au respect de l'ancien  traducteur  [versions latines corrigees], 
+d'autres  enfin,  en retour, ont ete trop lies et attentifs  au texte hebreu  [Pagnini, 
+
+38 
+
+«Curauit  ubique  ut  oratio  siue uersio  esset simplex, & quantum  potuit  Latina, exceptis  uer-
+bis aliquot & idiomatis, qua: receptiora & notiora sunt, utpote & ab apostolis usurpata,  quam 
+ut mutari conueniat  aut necesse sit, cuius generis sunt Fides pro fiducia,  Fidelis pro fidenti  & 
+ueraci, Benedictus pro laudandus, pra:dicandus aut laudatus, Benedicere pro fortunare, omni-
+genis bonis ditare, bene precari, laudare, prjedicare, gratias agere & gratulari, Gratia pro f auore 
+&  beneficio  gratuito  siue  condonatione,  Confiteri  pro  libere  fateri,  laudare,  uel  cum  laude 
+prjedicare,  item cum gratiarumactione  celebrare, Euangelizare pro lanum nuncium  afferre:  & 
+qua; huius classis ac ordinis permulta alia sunt. Videntur enim nobis quidam nimis esse moro-
+si, qui cum  omnibus professionibus  siue facultatibus  peculiaria qua:dam permittunt  uocabu-
+la, solis id diuinis literis non concedunt, & utentes ijs mire suggillant.» (Bullinger, 1. 123-134) 
+
+156 
+
+Zwingliana  XXIII, 1996 
+
+La religion et ses mots 
+
+Münster]»3'.  Le  respect  du  texte,  la recherche  de  l'«equivalence  dynamique» 
+plutot que du mot ä mot, plus qu'une application traditionnelle  de  Yarspoeti-
+ca d'Horace,  sont destines ä legitimer la traduction  zurichoise. 
+
+De  l'axiome  que  l'Ecriture  s'interprete  par  elle-meme  les Zurichois  tirent 
+le principe  de la «Concorde des Ecritures»  dejä  enonce par  Lefevre  d'Etaples, 
+qui vise ä expliquer  les passages  obscurs  d'un  texte par  ceux plus  clairs -  non 
+sans  contradictions:  on  ne peut  exclure  le mot  ä mot  au profit  du  sens  (dans 
+cette methode donc les mots sont expliques par leur contexte) sans reconnaitre 
+que le sens reside dans le travail sur les mots. 
+
+Pour  resoudre  les difficultes  du  langage biblique, les Zurichois  tentent  de 
+concilier les exigences erasmiennes d'etude des textes avec la proposition theo-
+logique de Luther: tout texte est ecrit par un  auteur; son style, son lexique, sa 
+rhetorique,  adaptes  ä son  propos  et  aux  destinataires  doivent  fournir  la  ma(cid:173)
+uere de Panalyse. Mais, comme Luther, les Zurichois  cherchent  constamment 
+un  equilibre  entre  leurs  connaissances  et la  «simplicite»  theologique  et spiri(cid:173)
+tuelle  de l'Ecriture.  La revelation  etant  symbolisee  dans  l'Ecriture  et  accom-
+modee aux hommes, il est licite de proceder  ä des  «remarques  grammaticales, 
+sur les idiotismes de la langue, les expressions figurees, les tropes ou les tournu-
+res de style»40. La polysemie  des caracteres hebrai'ques  impose un  choix41. Les 
+substantifs  hebrai'ques ne sont pas declinables; le latin sera la aussi plus precis. 
+Surtout, le langage biblique est tres dense en tropes, de mots mais aussi de cons-
+tructions et de sens. Au-delä de la precision du lexique, le traducteur doit «sup(cid:173)
+pleer  ce qui  manque  au  texte»42: retablir  les voyelles,  developper  la  structure 
+paratactique  de l'hebreu  en subordonnees, retablir les temps, unifier  les chan-
+gements de personne, bref, transposer  la morphologie  et la syntaxe. 
+
+Ces  choix  sont  justifies  ou  completes.  Les  ajouts  des  traducteurs,  inclus 
+
+entre crochets, sont nettement  differencies  du  reste du  texte43: c'est une  Inno(cid:173)
+vation. Des  asterisques  sont utilises pour  indiquer  les versets  qui ne sont  pas 
+attestes dans tous les manuscrits44. Les annotations marginales «attirent  moins 
+
+«Horum tarnen alios ita Grajca: uersioni addictos, alios Veteris interpretis religione sie obstric-
+tos, & alios rursus  Hebraica; phrasi adeo fuisse  deditos  & affixos...»  (Bullinger, 1. 60-62) 
+«Verum  si non  licet annotationes  graramaticas,  linguas idiotismos,  Schemata, tropos,  loquu-
+tionesue, & qua; alia sunt huius generis...»  (Bullinger, 1. 400-401) 
+«Nam  Gra:ci  interpretes  etiam  Hebraismos  passim  reliquere,  &  propter  ajquiuoca  lingua: 
+Hebraica:  plurima,  pleraque  admodum  improprie  sunt  interpretati,  creboque  dissentiunt 
+Codices, quos conciliare, & conciliatorum  sensum  inuestigare difficile  est, nee facilius  sensum 
+suis reddere uocabulis lingua: Latina;, ä cuius stilo Hebraica  remotissima  est.» (Kolin, 1. 5-8) 
+«addere audeas  qua; orationi diminuta  sunt»  (Kolin, 1. 9-10) 
+«...  mox illud suum supplementum  notis huiusmodi  [] inclusit, quo uidelicet sacra; scriptura: 
+sua constaret  sanetitas  integritasque»  (Bullinger,  1. 147-148) 
+«Asterisci, quibus nullus alius respondet  in margine, significant  uersum eum usque ad  finem, 
+in aliquibus, sed non in omnibus  lectum  esse Graxis  codieibus.»  (Kolin, 1. 259-260) 
+
+Zwingliana  XXIII,  1996 
+
+157 
+
+C.  Gantet 
+
+l'attention  sur des variantes de textes et de traductions  qu'elles n'eclairent  sur 
+la maniere  de penser  des auteurs, invitent  ä penser plus  avant et, ä l'occasion, 
+expliquent les choix de traduction»45. Elles n'indiquent pas, comme chez Valla, 
+les  passages  mal  rendus  ou  qui  se  contredisent,  ni, comme  chez  Erasme,  les 
+choix de traduction; elles sont ici moins l'aboutissement  d'un  travail  d'erudi-
+tion que l'amorce  d'une  interpretation.  La Bible de Zürich  n'est pas pourvue, 
+pour  des raisons de coüt, des instruments  de travail frequents  ailleurs -  index, 
+concordance,  interpretation  des mots hebraiques, dictionnaire  hebreu-latin  -
+dejä publies46. 
+
+Cet  apparat  critique  est-il aussi moderne?  L'annotation  marginale, malgre 
+une  forme  differente  et  nouvelle,  retrouve  la  fonction  de  la  glose:  rendre 
+compte de la polysemie des mots et de l'hesitation  quant ä leur traduction.  Or 
+ne vise-t-elle pas ä briser la distinction  medievale des quatre  sens? 
+
+Les traducteurs  recherchent Pauthenticite. Les langues ne fönt  pas ecran ä 
+l'intention  premiere ä laquelle ils pensent remonter par l'analyse  philologique 
+du texte. Mais le travail sur la «verite hebrai'que»  est dejä  interpretatif. 
+
+Le texte  original  seul fait  foi  (fidem  elevare)  et recele le sens naturel  (ger-
+manus  sensus). La traduction  (translatio)  n'est pas une perte de sens, mais  un 
+passage d'un  etat ä un  autre (transferre).  Le traducteur  est ä meme de  retrou-
+ver et de transmettre le sens du texte donc l'intention premiere; son critere est 
+le scopus du texte, la figure du Christ devoilee par la revelation, selon une inter(cid:173)
+pretation typologique  de  l'Ecriture. 
+
+L'instrument  par  lequel l'exegese  medievale expliquait  les textes  bibliques 
+etait  la  distinction  des  quatre  sens.  Elle  avait  peu  ä peu  perdu  souplesse  et 
+richesse. La typologie  au XVP  siecle a pour  fonction  de defendre  la  «simpli-
+cite» des sens. Coherente  avec la theologie de Palliance, serieuse par son  appui 
+sur  l'histoire  biblique,  eile permet  au  lecteur  de  reconnaitre  que  la  significa(cid:173)
+tion de sa propre  destinee est dejä  revelee dans une histoire  biblique  qui  con-
+tinue ä lui donner  sens: les evenements  (types) de l'histoire  d'Israel  ont  certes 
+leur  propre  signification,  mais  prefigurent  et  annoncent  aussi  une  revelation 
+plus claire (d'oü les annotations marginales des psaumes, qui en proposent une 
+lecture  christologique:  David  est  le type  du  Christ).  Les  types  sont  des  faits 
+historiques  ou des personnes  et toute  explication  se fonde  sur une  interpreta(cid:173)
+tion historique des textes. La typologie bannit les speculations  metaphysiques 
+
+«Annotationes  enim  quas  sparsim  uides  adiectas  in  margine, non  tarn  diuersitatem  lectionis 
+uersionisque  indicant  quam  sensum  aperiunt  authorum,  occasionem  subministrantes  ampli-
+ora  cogitandi  inuestigandique,  rationem  nonnunquam  reddunt  uersionis.»  (Bullinger, 
+1. 394-397) 
+«Nam  extant  Concordantis,  quas  uocant  maiores:  extat  &  copiosus  D.  Pellicani  in  Biblia 
+index,  libri  ad  res  multas  perutiles. Noluimus  ergo  grandem  alioqui  codicem  libris  &  addi-
+tionibus  non usque adeo necessarijs  reddere uastiorem.»  (Bullinger, 1. 429-431) 
+
+158 
+
+Zwingliana XXIII,  1996 
+
+La religion  et ses mots 
+
+et les jeux de langage sur lesquels se fonde  l'allegorie  mais n'est pas en rupture 
+totale  avec  Pexegese  medievale.  Elle  ne  cherche  pas  un  Systeme  de  relations 
+entre les mots  et leurs signifiants,  mais est articulee sur les mots. 
+
+Le traducteur  doit affronter  des langues  «dont  le style n'a  rien ä voir»47. II 
+a une täche de philologue (restaurer et interpoler) et non d'ecrivain. II travaille 
+sur un  materiau  «inerte», dejä  forme.  Les mots  eux-memes  sont  transparents 
+ä l'intention  de leur auteur qui leur donne force et aux choses qu'ils  designent. 
+Mais ces relations ont ete obscurcies par les traditions humaines, et ne sont pas 
+directes: le langage biblique  est image et transmet  le sentiment  du  sacre. 
+
+A chaque etape de leurs choix, les Zurichois s'appuient  sur un principe lin-
+guistique  de proximite  avec la source contre  les traditions  existantes. Est-ce ä 
+dire que leur demarche est coherente?  La tradition est constamment  presente, 
+du  debut  (utilisation  des  commentaires)  ä  l'aboutissement  (intelligence  des 
+Ecritures)  du travail de traduction. Traduire  meme est un  acte traditionnel  en 
+milieu  chretien,  des  les origines. La tradition  medievale  est -  partiellement  -
+detronee,  au  profit  d'une  autre  tradition,  juive,  sur  fond  de polemique  anti-
+juive. La lettre est restauree  mais les mots par lesquels  la religion  a ete interi-
+orisee au fil des siecles sont parfois  conserves. Les Zurichois  ne se  fondent-ils 
+pas sur la tradition pour  innover? 
+
+77. La mesure  de  l'innovation 
+
+Pour  demeler  les  entrelacs  de la tradition  et de l'innovation,  il faut  sonder  la 
+traduction  elle-meme  et  tenter,  sur  quelques  passages-cles  de  la  Bible  -  par 
+exemple Genese 1  [1-8,26-31], Psaume 22 [1-19], Matthieu 5 [1-22], Romains 
+1  [1-17], Apocalypse  22 -  de  mesurer  l'innovation.  Le choix  de ces  passages 
+n'est que partiellement  arbitraire: le premier chapitre de la Genese est un texte 
+si  frequente  et  si  discute  qu'il  semble  defier  toute  nouvelle  traduction.  Le 
+psaume 22, tres employe  dans la liturgie, est connu  de tout  le monde; sa reci-
+tation par le Christ  (Mt 27 [46]) influence  traditionnellement  la resolution  de 
+ses problemes textuels (Ps. 22 [17])48. Le cinquieme chapitre de PEvangile selon 
+Saint  Matthieu,  le  Sermon  sur  la  montagne,  est  un  texte  toujours  et  partout 
+recite,  mais  dont  Interpretation  reste  enigmatique.  Le  premier  chapitre  de 
+l'Epitre  aux  Romains, passage-clef  pour  les  theologiens  de  la Reforme,  pose 
+des problemes philologiques  et theologiques. Le dernier chapitre de  l'Apoca-
+lypse permet  de verifier  la perseverance des traducteurs  et le relatif  desinteret 
+qu'il suscite chez les reformateurs  (sauf  Bullinger). 
+
+47 
+
+«... nee facilius  sensum suis reddere uocabulis  lingua; Latinje,  ä cuius stilo Hebraica  remotis-
+sima est.» (Kolin, 1. 7-8) 
+
+48  Le texte des versets  1 ä 19 du psaume 22 de la Bible latine de Zürich  est presente  en annexe. 
+
+Zwingliana  XXIII,  1996 
+
+159 
+
+C.  Gantet 
+
+L'innovation  globale  (changements  lexicaux,  grammaticaux,  syntaxiques, 
+semantiques  par  rapport  ä la version  latine  corrigee publiee  par  Robert  Esti-
+enne ä Paris en 1532) est importante (un tiers sur les cinq passages choisis) mais 
+tres  inegale: le texte  le plus  modifie  est  le psaume  22  (44%  de  changements) 
+suivi  par  le  debut  de  la  Genese  (39%  de  modifications)  tandis  que  la  fin  de 
+FApocalypse  arrive  en derniere  position  (12%). La nature  des  modifications 
+est aussi fort  diverse selon les passages. Les changements syntaxiques sont dus 
+pour 29% d'entre  eux au premier chapitre de la Genese, tandis que le psaume 
+22  represente  47%  des  changements  semantiques.  Le  dernier  chapitre  de 
+l'Apocalypse  ne  suscite  que  4%  du  total  des  changements  semantiques.  Des 
+modifications  lexicales,  Celles qui  concernent  les prepositions  (ou  relatifs  de 
+liaison, etc.) sont les plus frequentes  et ne manifestent  qu'une volonte  d'exacti-
+tude par rapport  au texte-source. Les categories  grammaticales  les plus  bous-
+culees  sont  le  nombre,  l'aspect,  la  voix  et  le  temps,  surtout  dans  les  textes 
+vetero-testamentaires,  et  temoignent  de  la  difficulte  rencontree  par  les 
+Zurichois  ä transposer  en latin Pexpression  de l'action  pensee sous forme  sta-
+tique  ou  dynamique  en hebreu.  Ils respectent  les phrases  de la version  latine 
+courante.  Les  changements  de  champ  semantique  constituent  l'essentiel  des 
+changements  semantiques. 
+
+La  reconstitution  des  sources  possibles  de  ces  innovations  (les  annees 
+1530-1540  constituent  une  periode  tres  dense  d'echanges  entre  les  courants 
+d'interpretation  et  parfois  de  dependances  entre  les  traductions  bibliques) 
+meriterait  un  travail  philologique  qui  n'est  ni  de  notre  propos  ni  de  notre 
+competence. L'etude des cinq passages selectionnes conduit neanmoins ä sou-
+ligner l'importance  des sources tues par Bullinger dans sa presentation,  Luther 
+(mais  la Solution  retenue  par  les Zurichois  pour  le verset  17 de  l'Epitre  aux 
+Romains  est  autonome),  Sebastian  Münster  (dont  la  version,  publiee  inte-
+gralement  ä Bäle des  1534, est jugee  trop  litterale), Erasme  (pres de la  moitie 
+des innovations des passages neo-testamentaire  lui est due: des mots plus pre-
+cis, des remarques  grammaticales  ou  des variantes; mais quand  cela est possi-
+ble, les Zurichois  remontent  ä Phebreu)  et surtout  Bucer (surtout pour  la tra-
+duction  de l'Evangile  de Matthieu  et de l'Epitre  aux Romains, ainsi que  pour 
+les annotations). 
+
+La signification  des innovations peut etre jugee ä trois niveaux: une dimen-
+sion  interne,  de  coherence  avec  les principes  philologiques  enonces  dans  les 
+prefaces;  une  dimension  synchronique,  par  comparaison  avec  les  Solutions 
+d'autres versions du XVP siecle; une dimension diachronique, selon nos crite-
+res philologiques  actuels. 
+
+Les principes  philologiques defendus  (par rapport  au texte-source:  liberte 
+du traducteur, concorde des Ecritures; relativement ä la langue d'arrivee: reta-
+blissement  d'un  texte lisible en latin, choix impose par la polysemie  des  mots 
+hebrai'ques; necessite d'un  apparat  critique) semblent  avoir ete respectes, sauf 
+
+160 
+
+Zwingliana  XXIII,  1996 
+
+La religion et ses mots 
+
+lorsque le sens echappe aux Zurichois ou quand le texte ne les interesse pas. La 
+traduction  est bien faite  sur Phebreu  et le grec: en Gn.  1  [3], Pajout  de  Deus, 
+absent  dans  la version  latine  courante,  transcrit  le pluriel  Elohim;  en Ap. 22 
+[1, 3], le remplacement de sedes (present dans la version latine courante et chez 
+Erasme) par thronos provient du grec. La Concorde des Ecritures apparait dans 
+les  concordances  marginales  et  certaines  annotations  comme  celle  de  Rm.  1 
+[13] (qui fait reference  ä Ac. 16). Un texte lisible a ete retabli, au risque  parfois 
+d'erreurs: en Gn. 1  [9] par dependance au dictionnaire de Pagnini, le terme con-
+tinens  est  employe  au  Heu  de arida.  Le  niveau  de  latin  choisi  est  savant  (en 
+Ap. 22 [13]: Ego sum Alpha  & £2) mais correct  et relativement clair. Toutes les 
+ambiguites  ne sont pas levees  (en Rm.  1 [4]: ex resurr ectione mortuorum  Jesu 
+Christi,  alors que Bucer avait leve l'ambivalence) mais des choix ont ete operes 
+(Mt. 5 [13]: quo  salietur?) Les hebra'ismes ont  ete autant que possible  traduits 
+mais sont souvent indiques en marge pour le Nouveau  Testament: ce sont des 
+particularites  lexicales (Mt. 5 [13]: possidebunt,  [11]: quodvis)  ou  syntaxiques 
+(Mt. 5 [13]: & ponunt;  Gn.  1 [26]: in  imagine  nostra,  secundum  simulachrum 
+nostrum  pour  rendre  les  deux  prepositions  hebrai'ques  differentes  he  et  ki), 
+grammaticales (Gn. 1 [29]: in superficie). Les Zurichois s'attachent  aussi ä ren(cid:173)
+dre  Pidee, l'intention  qu'ils  saisissent.  Ainsi,  en  Gn.  1 [4-7], la  repetition  de 
+inter ...&  souligne  les  distinctions  et  separations  successives;  de  meme,  en 
+Mt. 5 [17], l'expression  Ne existimetis quod  venerim  ad dissoluendum...  retra-
+ce une pensee du  Christ dont la finalite  est tres marquee. Les mots  techniques 
+ne  sont  ni  traduits  ni  expliques  en  note  (Apostolus  en  Rm.  1 [1], Amen  en 
+Ap. 22 [20-21] et Mt. 5 [18]). L'apparat  critique repond  aux objectifs  fixes  par 
+Bullinger et Kolin: le texte est encadre ä gauche par des annotations  annoncees 
+par des lettres, ä droite par des concordances  signalees par des croix; certaines 
+interpretations  (Rm. 1 [17]) sont signalees par des etoiles. Les annotations  sont 
+destinees  soit ä proposer  d'autres  acceptions  ou interpretations  pour  justifier 
+les choix de traduction, soit ä expliquer tel terme. Dans le texte, les ajouts  sont 
+indiques  entre  crochets: ces mots  completent  les  termes  hebrai'ques,  unifient 
+les brusques  changements  de personne,  et, pour  l'Apocalypse,  presentent  les 
+termes de la version latine courante  (ce qui prouve qu'elle a ete suivie dans ce 
+passage). 
+
+L'innovation  se  mesure  aussi  par  comparaison  avec  d'autres  traductions 
+contemporaines:  les Zurichois  veulent  faire  autorite. Parmi  les textes  vetero-
+testamentaires,  le  livre  des  psaumes,  interiorises  par  des  siecles  de  tradition 
+liturgique,  est sans  doute  le plus  connu.  David,  l'auteur  presume  de la  majo-
+rite des psaumes si ce n'est du livre entier, recevait parmi les prophetes une con-
+sideration  egale ä celle de Moise. Le psaume  22 pose le probleme  du  rapport 
+entre PAncien  et le Nouveau  Testament: le verset 2 est cite par  le Christ  ago-
+nisant,  et  les  Evangelistes  en  rapportent  certains  versets.  Est-il  considere  ä 
+Zürich  comme  une  priere  exemplaire,  recitee  par  David,  ou  une  priere  du 
+
+Zwingliana  XXIII,  1996 
+
+161 
+
+C.  Gantet 
+
+Christ,  inseree  de fafon  prophetique  dans  l'Ancien  Testament?  Les  indicati-
+ons sommaires  que nous nous contenterons  de faire  sur les diverses  Solutions 
+retenues pour  la traduction  des versets  1 ä 19 dans un  echantillon  de  dix-sept 
+versions49  ne  sont  destinees  qu'ä  faire  ressortir  l'originalite  de  la  Bible  de 
+Zürich. 
+
+La  source  est  bien  hebraique  (repetition  Deus  meus,  Deus  meus,  retrait 
+de  respice in  me).  Conformement  au  texte  massoretique  et  ä la lecture  juive, 
+les Zurichois,  en  1543, n'omettent  pas  le titulus.  Mais ils le separent  du  reste 
+du  texte par un  argument  qui introduit  le lecteur  dans une lecture  chretienne 
+du  psaume  (David  type  de  Christ)  attenuee  neanmoins  par  rapport  ä  ce 
+qu'elle  etait  en  1531: «Er  schryet  nach  Gottes  hilff  in  der  aller  letsten  oder 
+grösten n o t . ..  mit wölichem allem er die figur  oder bedeütung auff  Christum 
+hüpsch  auffthuot.  . .» En  transcrivant  l'expression  'Alaygeleth  ha-shahar  du 
+verset  1,  ils  montrent  qu'ils  suivent  le  texte  massoretique  et  peuvent  tout 
+traduire. 
+
+Le verset 4 {Et tu sanctus sessor laudum  Israelis) est traduit  de fa$on  claire 
+mais il est compris autrement qu'en  1531 («Nun bist du der du im  Heiligthum 
+wonest  O  du  eer Israels»); il en va de meme chez  Lefevre  («Mais toy  louange 
+de Israel / tu habite au sainct lieu»), Luther («Aber du bist heilig / der du wonest 
+unter dem Lob Israel» en 1531 et en  1545), Olivetan  («Mais tu  es le sainct  qui 
+habite en Israel»), Castellion  («si demeures-tu  le Saint, qui es le los  d'Israel). 
+Le  choix  du  lexique  de  la  langue  d'arrivee  peut  soulever  des  problemes 
+
+theologiques.  Au  deseruisti  [2] de Zürich  (1543)  correspondent  delaisse (Le(cid:173)
+fevre,  Olivetan,  «Louvain»),  laisse (Castellion),  verlassen  (Luther,  «Zürich» 
+1530 et  1531). Ces termes  s'opposent  ä dereliquisti  (R. Estienne),  abandonne 
+(J. van  Campen,  Geneve),  abandonasti  (Brucioli):  Dieu  peut-il  abandonner 
+l'homme? 
+
+Les termes  techniques  sont transposes: el est rendu  par Deus  (verset 2) et 
+le tetragramme  YHVH  par  DOMINUS  (verset  9). Les  autres  versions  utili-
+
+4'  Le dossier nous a ete suggere par Bernard Roussel, et nous nous inspirons sur ce point de  Guy 
+Bedouelle  et Bernard  Roussel  (dir.), Le Temps  des Reformes  et la Bible, Paris  1989 (Bible de 
+Tous les Temps, 5). L'echantillon  choisi se compose  des versions de Luther  (1524, allemande 
+sur  l'hebreu),  Luther  (1528, allemande,  sur  l'hebreu),  Lefevre  d'Etaples  (1530, francaise,  sur 
+le latin),  «Zürich»  (1530, allemande  sur  l'hebreu),  «Zürich»  (1531, allemande  sur  l'hebreu), 
+Luther  (1531, allemande sur l'hebreu), Robert Estienne (1532, latine sur le latin), J. van  Cam(cid:173)
+pen  (1534, francaise  sur  l'hebreu),  Münster  (1534, latine  sur  l'hebreu),  Olivetan  (1535,  fran(cid:173)
+caise  sur  l'hebreu),  A.  Brucioli  (1538,  italienne  sur  l'hebreu),  «Zürich»  (1543,  latine  sur 
+l'hebreu),  Luther  (1543,  allemande  sur  l'hebreu),  Castellion  (1555, francaise  sur  l'hebreu), 
+«Geneva  Bible»  (1560,  anglaise  sur  l'hebreu),  «Geneve»  (1588,  francaise  sur  l'hebreu)  et 
+«Louvain»  (1599,  francaise  sur  le  latin):  il  rassemble  des  versions  catholiques  (Lefevre  et 
+Louvain)  et  protestantes  (Olivetan  et  Geneve)  franijaises,  une  paraphrase  (J. van  Campen), 
+une version  originale  (Castellion)  et les differentes  etapes des versions  allemandes  de  Luther 
+et de «Zürich». 
+
+162 
+
+Zwingliana  XXIII,  1996 
+
+La religion et ses mots 
+
+sent  les  couples  Deus  /  Dominus,  Gott  /  Herr,  God  /  Lord,  Iddio  /  Signore, 
+Dieu  /  Seigneur  sans  utiliser  de  majuscules.  Seuls  Olivetan  et  «Geneve»  le 
+transcrivent par L'Eternel.  Les Zurichois conservent le texte Basan (verset  13) 
+sans  Pexpliquer  par  une  note  mais  en  l'assortissant  de  l'adjectif  praevalidus. 
+Ainsi, la reference  geographique et son sens sont juxtaposes. Cette Solution est 
+nouvelle ä Zürich  mais adoptee par les autres  versions. 
+
+La  prosodie,  la  metrique  et  l'expressivite  sont  plus  recherchees  ä  Zürich 
+qu'ailleurs: au verset  3 les parallelismes  sont  observes: Deus  meus  inuoco  per 
+diem,  & non  respondes: pernoctem,  nee est silentium  mihi...  Dejä  en  1531 ils 
+avaient traduit  «Ich ruff  dich an den  gantzen tag O  mein Gott...  Nun  bist du 
+der im Heyligtum  wonest  O  du  eer Israels». 
+
+La  principale  innovation  des  Zurichois  concerne  toutefois  le  choix  des 
+variantes  indiquees  par  certains  manuscrits.  Au  verset  17 (Nam  cireundede-
+runt  me  canes, ccetus  malorum  cinxit  me,  ceu leo manus  meas  & pedes  meos) 
+ils  adoptent  la  Solution  la  plus  difficile  en  choisissant  de  traduire  le  terme 
+hebrai'que  kari  (ke:  «comme»  +  racine  «lion»,  d'oü  «comme  le  lion»), lä  oü 
+toutes  les  autres  versions  conservent  karu  («percer»:  forme  verbale)  qui 
+facilite une lecture chretienne du psaume. Ils sont de plus les derniers ä signa(cid:173)
+ler cette  difficulte  en note  (seuls Münster  et  Olivetan  la signalent  avant  eux). 
+Cette lecon date de  1531: en  1530 on trouve encore «und der bösen rotth  hatt 
+sich  kurb  mich  gmacht,  sy  habend  maine  hend  und  füss  durchgraben»,  mais 
+en  1531 «die rott  der  bosshafften  zerreyst  mein  hend  und  füss  wie  ein low». 
+Le  commentaire  de  Bucer  sur  les psaumes  a pu  les  aider  ä adopter  cette  So(cid:173)
+lution. 
+
+Vis-ä-vis de leurs contemporains, l'originalite des Zurichois s'affirme  dans 
+la recherche  d'une  forme  latine  poetique  et dans  le choix  honnete  et  difficile 
+de certaines variantes. Ils rompent  le parallelisme  recherche par  d'autres  avec 
+le  recit  de  la  Passion.  Ces  Solutions  repondent-elles  neanmoins  aux  criteres 
+modernes  de traduetion  de la Bible? 
+
+Les prineipes theoriques des prefaces de 1543 repondent en partie aux posi-
+tions  modernes,  malgre  les  limites  evidentes  de  la  connaissance  du  christia-
+nisme primitif  et de l'histoire  des  ecrits bibliques  d'une  part,  de la theorie  du 
+langage  d'autre  part:  la  traduetion  zurichoise  s'appuie  sur  une  exegese,  fruit 
+d'un  travail  collectif;  Kolin  met  bien  en valeur  les speeificites  de  langues  qui 
+ne repondent pas ä un meme Systeme logique et rationnel; le mot s'inscrit  dans 
+un double contexte, dans lequel il apparait, et avec d'autres termes appartenant 
+ä un meme domaine  semantique. 
+
+Dans  les  cinq  passages  de notre  echantillon,  les  tradueteurs  s'attachent  ä 
+conserver les metaphores sans expliquer leurs choix, sauf lorsque leur Solution 
+les gene. Seul Castellion  conserve comme  eux l'image  du  Ps. 22  [14]  Aperue-
+runt  contra  me  os  suum,  sicut  leo  rapiens  &  rugiens,  alors  qu'eux-memes 
+l'avaient transposee en comparaison en 1530 et 1531. La traduetion des versets 
+
+Zwingliana  XXIII,  1996 
+
+163 
+
+C.  Gantet 
+
+1  ä  7  de  Rm.  I50  permet  d'analyser  le  traitement  des  phrases  ä  structure 
+complexe.  En  grec,  ces  versets  forment  une  seule  phrase.  La  version  latine 
+re£ue  la  coupe  au  milieu  du  verset  6  («Gratia  vobis  ...  Jesu  Christo»),  les 
+Zurichois  au  debut  du  verset  7. Ils  n'utilisent  pas  le  Systeme  de  parentheses 
+(«(quod  autem  ...  in scripturis  sanctis)  ...  (qui factus  est.  . . Jesu  Christi)»)  de 
+la  version  latine  courante:  ils  adoptent  le parti  de  la  lisibilite;  leur  nouveau 
+decoupage  signifie  surtout  que  le versets  1 et  7, versets  d'adresse  et  de  salu-
+tation,  ne  sont  pas  separes  Tun  de  l'autre  par  une  longue  digression  formee 
+de  deux  parentheses.  Ils  ont  donc  decompose  le  texte  source  en  Segments 
+(phrases  minimales). 
+
+Leur  traduction  est  successivement  analytique  et  synthetique: le texte  est 
+decompose  jusqu'au  mot,  mais  celui-ci  ne  prend  sens  que  dans  un  contexte 
+plus large: ainsi au Ps. 22 [17], le lexique choisi (coetus malorum)  n'est pas reli-
+gieux (au contraire Lefevre d'Etaple et «Louvain» choisissent «le conseil», Oli-
+vetan  «l'assemblee»,  «Geneva  Bible»  «the  assemblie», Brucioli  «la  congrega-
+tione»)  de meme  qu'en  Mt.  5 [22] (Quicunque  uero  dixerit fratri  suo,  Rhaca, 
+obnoxius  erit concilio: concilio designe  le conseil de ville et non  le  consistoire 
+que  la discipline  zurichoise  ne  connait  pas). Ensuite  les phrases  sont  recom-
+posees pour  retrouver  une prosodie  que l'on  estime  originelle. 
+
+Quand  le sens  reste  obscur,  le traduction  devient  neanmoins  litterale  (cf. 
+Ps. 22 [4]£t tu sanctus sessor laudum  Israelis), et la recomposition du sens dans 
+la langue d'arrivee  est  souvent  analytique: ainsi, au Ps. 22 [2] ils  developpent 
+la proposition, ajoutent un verbe entre crochets et une note pathetique ut longe 
+[abes] a salute  mea).  Cette  tendance  ä la  periphrase  se  retrouve  en  d'autres 
+occurrences  (Ps. 22 [11] . . .) et revele une tension  entre la clarte et la simplici-
+tas du texte biblique. 
+
+Les  Zurichois  respectent  la  plupart  du  temps  leurs  principes  et  ont  une 
+approche stylistique des textes bibliques. Ils n'hesitent pas ä ecarter les le§ons 
+recues. C'est que la poursuite de la reussite suit l'affirmation  de la competence. 
+Innover,  c'est  faire  autorite,  obeir  ä de  nouvelles  regles  de  traduction.  Para-
+doxalement,  l'innovation  semble  plus  importante  dans  la  realisation  (la  tra(cid:173)
+duction elle-meme) que dans l'argumentation  deployee dans les prefaces  pour 
+la prevenir  et la legitimer. 
+
+«PAVLVS seruus  Iesu  Christi, uocatus  Apostolus, segregatus  in euangelium  Dei, quod  ante 
+promiserat  per  prophetas  suos, in  scripturis  sanctis,  de  filio  suo,  qui  genitus  est  ex  semine 
+Dauid secundum carnem: qui definitus est, filius Dei per potentiam, secundum spiritum sanc-
+tificationis,  ex resurrectione  mortuorum  Iesu  Christi,  Domini  nostri,  per  quem  accepimus 
+gratiam,  &  apostolatum,  ad  obedientiam  fidei  inter  omnes  gentes,  super  nomine  eius,  de 
+quorum  numero estis & uos, uocati Iesu Christi. Omnibus qui Romas estis, dilectis Dei, uoca-
+tis sanctis, gratia uobis & pax ä Deo patre nostro, & Domino  Iesu  Christo.» 
+
+164 
+
+Zwingliana XXIII,  1996 
+
+La religion  et ses mots 
+
+Conclusion: la reception de  l'Innovation 
+
+Toute  innovation  n'existant  que  si eile est  recue, on peut  finalement  s'in-
+terroger sur la reception  de cette nouvelle traduction  latine: ä quel milieu  est-
+elle destinee, ä quelles fins, quels sont  ses publics  et ses audiences, ses utilisa-
+tions? Les deux prefaces  s'achevent  sur une invocation ä Pequite du lecteur et 
+un  souhait,  exprimes  dans  un  present  gnomique:  «Mais,  apres  que  la  pous(cid:173)
+siere sera revenue  ä sa poussiere,  la mort  livide  aura  empörte  auteurs  et  con-
+tempteurs  de ces ecrits, et une autre  generation  sera arrivee. Une  fois  les pre-
+mieres feuilles tombees, la foret verdoyante repousse. Alors, les qualites seules 
+sont jugees, sans  egard  au rang ou  ä la renommee  des personnes; puisse  alors 
+le lecteur ne pas se demander  de qui est ce qu'il  lit, mais ce que  cela vaut...»51. 
+Kolin  est plus precis: insatisfait,  conscient  des imperfections  de son  travail, il 
+veut affronter  honnetement  le lecteur: «A present, nous te presentons ces tra-
+vaux, eher Lecteur: ä toi d'apprecier, d'utiliser, de profiter et de savoir que nous 
+avons  fait  notre  possible -  et  si quelque  part  nous  nous  sommes  eloignes  du 
+sens ou de Pelegance du style que tu attends, excuse-nous, rappelle-toi que per(cid:173)
+sonne  ne peut  tout  faire,  surtout  dans  le domaine  des Ecritures  sacrees, et ne 
+donne une totale satisfaction d'un coup ä tant d'esprits divers»52. Qui est ce lec(cid:173)
+teur,  destinataire  et juge,  recepteur  et  utilisateur,  devant  lequel  le  traducteur 
+doit finalement  s'effacer? 
+
+La correspondance manuscrite de Bullinger" permet de preciser les condi-
+tions de la diffusion:  la parution de la Bible est prevue pour fevrier  1543, peri-
+ode de foire  ä Francfort.  Elle est entouree du plus grand  secret, mais fait  l'ob-
+jet d'une  publicite  efficace.  Avant  meme  la publication  officielle,  Bullinger  et 
+Froschauer  ont  promis  ou  offert  leur  edition.  Ainsi  Froschauer  envoie  ä Va-
+dian des decembre  1542 ce qu'il a imprime, pour tester et le cas echeant  corri-
+ger la traduction. Il publie separement ä la meme fin les Proverbes de Salomon 
+des  1541. La reception plus  lointaine  est cependant  moins  immediate,  en rai(cid:173)
+son des delais d'aeheminement  (il faut 26 jours pour transporter cette Bible sur 
+les 200 km qui separent Zürich d'Augsbourg)  et plus critique. Wolfgang  Mus-
+
+sl 
+
+52 
+
+«postquam  autem  reuersa fuerit  terra in terram suam, & tarn eos qui scribunt, quam illos qui 
+de scriptis  iudicant,  pallida  mors  subtraxerit,  & alia uenerit  generatio, primisque  cadentibus 
+folijs, uirens sylua suecreuerit, tunc sine nominum dignitate aut respectu sola iudicantur inge-
+nia, nee considerat  Lector cuius, sed quäle sit quod legit...»  (Bullinger, 1. 478-482) 
+«Nunc  hos  labores  nostros  tibi  offerimus  candide  Lector,  ut  iudices, utaris, fruaris,  & scias 
+nos pra:stitisse  quod  potuimus: & sieubi  minus  assecuti  sumus  uel  sensum, uel  quam  uelles 
+elegantiam  styli, condones, memor  non  omnes, prajsertim  in sacris literis, posse omnia,  diu-
+ersis authorem  ingenijs  eam opera satifacere  neminem  omnibus.»  (Kolin, 1. 250-254) 
+
+53  Encore  inedite  lors  de l'elaboration  de ce travail. Nous  remercions  chaleureusement  l'Insti-
+tut  für  Schweizerische  Reformationsgeschichte,  Heinrich  Bullinger-Briefwechseledition  de 
+Zürich  de nous l'avoir  aimablement  communiquee. 
+
+Zwingliana  XXIII,  1996 
+
+165 
+
+C.  Gantet 
+
+culus invoque les lois de Pamitie pour corriger «librement les erreurs des amis». 
+La reponse de Luther, le 31 aoüt  1543, est particulierement  acerbe et negative. 
+La Bible de Zürich  recoit neanmoins un  accueil tres vaste, ä la hauteur  des 
+ambitions  des  Zurichois: c'est  une  Bible de travail, d'etude,  de formation  du 
+corps pastoral et par-delä  des simples fideles. Elle est reeditee au moins ä sept 
+reprises  sur plus  de soixante ans  (1543,  1544, 1550, 1584, 1616), dans tous  les 
+formats  et en des lieux divers  (Zürich, Paris, Leipzig, Lyon, Venise, Salaman-
+que)  et  accompagnee  d'autres  versions  (avec  le  texte  de  Pedition  latine  cou-
+rante corrigee de Robert Estienne dans la celebre «Bible de Vatable»). Rejetee 
+par Luther, eile est tres prisee par Brenz qui affirme  ne plus pouvoir  s'en  sepa-
+rer. Mise  ä Plndex  des  universites  catholiques  eile est  acquise  et  annotee  par 
+Abel  Servien,  plenipotentiaire  de  Richelieu  pour  la  signature  des  traites  de 
+Westphalie, et surtout utilisee comme Bible de travail par  Bossuet. 
+
+Comment peut-on  expliquer ce succes posthume? Peut-etre justement par 
+les  embarras  mais  aussi les  audaces  de traduction  de  cette  Bible  entre  Pexac-
+titude philologique et Pexpressivite de la formule  d'arrivee, entre la conscience 
+de Phistoricite de la culture et le respect de certaines formules  par lesquelles la 
+foi  a ete interiorisee, les mysteres  et la gräce renfermes  dans  le langage  bibli-
+que. Les realisateurs de cette Bible latine donc internationale et de ce fait  inter-
+confessionnelle, se fondent  sur la tradition pour innover ou innovent sans vrai-
+ment  pleinement  s'en  rendre  compte,  dans  leur  pratique  plus  que  dans  leur 
+argumentation. 
+
+Ciaire Gantet, 14 rue des Juifs, F-67000 Strasbourg 
+
+166 
+
+Zwingliana  XXIII,  1996 
+
+La religion  et ses  raots 
+
+Les versets 1 a 19 du Psaume  22 de la Bible  latine  de  Zürich 
+
+Annexe: 
+
+Liber  Hymnorum 
+
+XXII. 
+
+[1]S4  Prasfecto  cantorum  Carmen Dauidis de cerua  matutina. 
+[2]  DEus  meus, deus  meus, cur  deseruisti  me? ut  longe  [abes] ä salute  mea, 
+
+ä uerbis rugitus  mei? 
+
+[3]  Deus meus inuoco per diem, & non respondes: per noctem, nee est Silen(cid:173)
+
+tium  mihi. 
+
+[4]  Et tu  sanetus sessor laudum  Israelis. 
+[5]  In te sperauerunt patres nostri, sperauerunt  & liberasti eos. 
+[6]  Ad te damarunt,  & liberati sunt: te fidebant,  neque pudefacti  sunt. 
+[7]  Ego  autem  uermis  sum,  & non  uir,  opprobrium  hominum,  &  contemp-
+
+tus ä populo. 
+
+[8]  Quicunque me aspiciunt subsannant me, distendunt labia, mouent  caput. 
+
+[Dicentes,] 
+
+[9]  Retulit  [omnia]  ad  DOMINVM,  eripiat  eum,  liberet  eum,  quoniam 
+
+deamat  eum. 
+
+[10] At  tu  is  es  qui  me  ex  utero  extraxisti,  in  te  fisus  sum  pendens  adhuc 
+
+uberibus  matris mea;. 
+
+[11] In te conuiectus  sum ä partu, ab utero  matris mea; deus meus es tu. 
+[12] Ne  subducas  te  longius  ä  me,  quoniam  adflictio  adest,  nee  est  qui 
+
+adiuuet. 
+
+[13] Tauri multi circundederunt me, prasualidi ex Basan undique cinxerunt me. 
+[14] Aperuerunt  contra  me os suum, sicut leo rapiens  & rugiens. 
+[15] Effasus  sum  uelut  aqua,  dissociantur  omnia  ossa  mea,  factumque  est 
+
+cor meum sicut cera, liquefactum  intra uiscera  mea. 
+
+[16] Exaruit  ut  testa  uirtus  mea,  lingua  mea  adhasrescit  faucibus  meis,  &  in 
+
+puluerem  mortis redegisti me. 
+
+[17] Nam  circundederunt  me canes, ccetus malorum  cinxit  me, ceu leo  manus 
+
+meas & pedes meos. 
+
+[18] Numerarem  omnia  ossa  mea,  hi  uero  cum  uoluptate  intuentur  &  aspi(cid:173)
+
+ciunt. 
+
+[19] Partiti sunt sibi uestimenta  mea, & de ueste mea sortiti  sunt. 
+
+La  Separation  du  texte  en  versets, posterieure  ä l'edition  de la Bible  latine  de Zürich,  est  de 
+notre propre  fait,  ä la seule fin  de faciliter  les reperages  du lecteur actuel. Nous  avons  retabli 
+les abreviations  latines mais nous ne reproduisons pas les notes  marginales. 
+
+Zwingliana  XXIII,  1996 
+
+167 
+
+

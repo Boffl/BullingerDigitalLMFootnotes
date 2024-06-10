@@ -1,0 +1,3019 @@
+ISSN 0254–4407 – Zwingliana 46 (2019), 89–147
+
+Heterodoxie und Ungehorsam
+
+Eine lateinische Festrede Johann
+Rudolf Lavaters (1579–1625)
+
+aus dem Jahr 1623 1
+
+Luca Baschera
+
+Der in der Zentralbibliothek Zürich aufbewahrte handschriftliche
+Kopienband zur Synode von Dordrecht (1618–1619), den Johann
+Jakob Breitinger (1575–1645)2 – Antistes der Zürcher Kirche und
+einer der Schweizer Delegierten an der Synode – anlegte, enthält als
+letztes Stück die Kopie von unbekannter Hand einer lateinischen
+Rede von Johann Rudolf Lavater (1579–1625), seines Zeichens
+Lehrer am Collegium Carolinum in Zürich.3 Im Vorwort zum ge-
+samten Band erläutert Breitinger kurz, weshalb er die Rede Lava-
+ters habe beifügen wollen: In ihr könne man nachlesen, wie die
+Kontroverse, die letztlich zur Einberufung der Synode führte, ent-
+standen sei und sich entfaltet habe.4
+
+1 Ich danke Dr. Reinhard Bodenmann und Dr. Christian Moser für ihre hilfreichen
+
+Anregungen zu früheren Fassungen dieses Aufsatzes.
+
+2 Historisches Lexikon der Schweiz, Chefred. Marco Jorio [HLS], Bd. 2, Basel
+
+2003, 675.
+
+3 Zürich Zentralbibliothek [ZB], Ms G 2, 1411–1429. Im Handschriftenkatalog
+der Zentralbibliothek Zürich ist diese Rede unter den Schriften Lavaters nicht verzeich-
+net. Der Zürcher Theologe Johann Heinrich Hottinger (1620–1667) erwähnt sie da-
+gegen in seiner Kirchengeschichte, vgl. ders., Historia ecclesiastica novi testamenti, Bd.
+8, Zürich: Michael Schaufelberger/Hartmann Hamberger, 1666, 978f.
+
+4 Siehe unten S. 121.
+
+90
+
+Luca Baschera
+
+Lavater widmet in der Tat zwar etwa die Hälfte seiner Rede der
+arminianischen Kontroverse sowie der Dordrechter Synode. Dies
+tut er allerdings nur, um den Hintergrund zu skizzieren, vor dem
+die Ereignisse zu verstehen sind, die den eigentlichen Anlass zu
+seiner oratio gaben: die am 6. Februar 1623 erfolgte Entdeckung
+eines Komplotts gegen Moritz von Oranien (1567–1625), Statt-
+halter der Niederlande. Dafür, dass sich die Kunde des gescheiter-
+ten Versuchs, Moritz und womöglich auch andere Vertreter der
+niederländischen Regierung zu ermorden, rasch ausbreitete, sorg-
+ten die Generalstaaten selbst mittels eines offiziellen Schreibens an
+alle niederländischen Gesandten und Botschafter im Ausland (12.
+Februar).5 Die Ereignisse von Februar waren zudem Gegenstand
+von gedruckten Berichterstattungen sowie der Korrespondenz von
+Diplomaten.6 In Zürich, wo man auf beiden Wegen von den Vor-
+kommnissen erfahren hatte, stießen die Berichte aufgrund der seit
+Dordrecht sich konsolidierenden kirchlichen wie auch politischen
+Verbundenheit mit den Niederlanden wohl auf große Resonanz. So
+ist es gut vorstellbar, dass Antistes Breitinger die ihm zur Verfü-
+gung stehenden Informationen an seinen Vertrauten Lavater wei-
+terleitete, welcher diese sodann im Rahmen einer feierlichen Rede
+auf Latein verarbeitete. Diese hielt Lavater im Namen der Zürcher
+Kirche und der Schulen der Stadt schließlich – nach der Datierung
+auf dem Titelblatt – am Samstag, 1. März 1623 (julianisch; gre-
+gorianisch: 11. März).
+
+5 Vgl. Geeraert Brandt, The History of the Reformation and other Ecclesiastical
+Transactions in and about the Low-Countries, Bd. 4, London 1723, 470. Dieses Schrei-
+ben erreichte in französischer Fassung auch Zürich, vgl. Zürich ZB, Ms S 170, Nr. 41.
+6 Vgl. Weekly News, February the 11., Numb[er] 18, London: Nathanael Butter,
+1623, (31)–(38); A Relation of the Late Horrible Treason, Intended Against the Prince
+of Orange, London: Nathanael Butter et al., 1623; A Proclamation by the States of the
+Province of Utrecht, against Certain Others of the Conspirators. Together with a New
+and Full Relation of the Apprehension, Examination, Torturing, and Confession of
+Diuers of the Principall Conspirators, London: Nathanael Butter, 1623; Sigismundus
+Latomus [Frank Meurer], Relationis historicae semestralis continuatio […] Beschrei-
+bung aller denckwürdigen Historien, so sich hin vnd wider in Europa […] vnnd Enge-
+land […] hierzwischen nechstverschiener Franckfurter Herbstmess biß auff Fastenmess
+dieses 1623. Jahrs verlauffen vnd zugetragen, Frankfurt: Frank Meurer, 1623, 93f.;
+Dudley Carleton an George Calvert, 30. Januar 1623, transkr. in: Kimberley Jayne
+Hackett, Opposition in a pre-Republican Age? The Spanish Match and Jacobean Poli-
+tical Thought, 1618–1624, Diss. University of York 2009, 275–277.
+
+Heterodoxie und Ungehorsam
+
+91
+
+Lavaters Rede stellt eine von ihrem Umfang her bescheidene,
+aber inhaltlich interessante Quelle zur Kirchen- und allgemeinen
+Geschichte Zürichs im 17. Jahrhundert dar. Sie dokumentiert die
+offizielle Haltung der Zürcher gegenüber der sich in Dordrecht
+1618/19 etablierten reformierten Orthodoxie und liefert auch Hin-
+weise auf die in Zürich vertretene Auffassung des Verhältnisses von
+Kirche und Staat. Zudem meldet sich in ihr eine Gestalt zu Wort,
+die im damaligen Zürich zwar angesehen war, mittlerweile jedoch
+in fast vollkommene Vergessenheit geraten ist: Johann Rudolf La-
+vater, Zürcher Gelehrter, ehemaliger Student an verschiedenen
+Universitäten und Akademien im Reich und professor logices et
+rhetorices an der Hohen Schule seiner Heimatstadt.
+
+Der Edition von Lavaters Rede (Kap. 4) geht eine Einleitung
+voraus, in der ihr Inhalt skizziert und auf Besonderheiten der Dar-
+stellung hingewiesen wird (Kap. 2). Besonders in Bezug auf das
+Hauptthema der Rede war es nötig, unter Berücksichtigung ande-
+rer Quellen sowie der einschlägigen Forschungsliteratur Lavaters
+Schilderung zu ergänzen (Kap. 2.2). Schließlich wird die Frage
+nach der Intention von Lavaters Rede angesprochen (Kap. 3): Wel-
+che Botschaft an die Kirchen- und Staatsvertreter geht aus dieser
+Rede hervor? Welche Vorstellung des Verhältnisses von Kirche und
+Staat wird kolportiert und welche »Lehre« zieht Lavater diesbe-
+züglich aus den geschilderten Ereignissen? Bevor auf die Rede
+selbst eingegangen wird, gilt es jedoch, zunächst deren Autor näher
+zu betrachten (Kap. 1).
+
+1. Johann Rudolf Lavater: Leben und Werk
+
+1.1 Jugend und Studienjahre
+
+Johann Rudolf Lavater wurde am 21. Juni 1579 in Zürich gebo-
+ren. Sein Vater war Felix (1553–1601),7 Sohn von Antistes Ludwig
+Lavater (1527–1586) und von Margaretha Bullinger (1531–1564).
+Felix war ab 1577 Diakon zu St. Peter,8 ab 1581 auch Zünfter zur
+
+7 Zürcher Pfarrerbuch 1519–1952, im Auftrage des zürcherischen Kirchenrates hg.
+
+von Emanuel Dejung und Willy Wuhrmann, Zürich 1953, 402.
+
+8 Pfründenbuch [...] 1683 angelegt, Zürich ZB, Ms L 22, 21r.
+
+92
+
+Luca Baschera
+
+Meisen, und heiratete 1576 Regula Grebel (1559–1611), die Mut-
+ter von Johann Rudolf und 14 weiteren Kindern.9
+
+Lavater besuchte als Knabe wohl eine der beiden Lateinschulen,
+der Schola classica abatissana (Fraumünster) oder der Schola clas-
+sica Carolina (Großmünster), wo er neben dem Unterricht in den
+klassischen Sprachen und im Hebräischen auch den Katechismus-
+unterricht genoss und sich die ersten Rudimente der Logik und
+Rhetorik aneignete.10 Seine Leistungen dürften überdurchschnitt-
+lich gewesen sein, wurde ihm doch ab dem Frühjahr 1598 bis Mit-
+te 1601 ein Reisestipendium gewährt, um sich an ausländischen
+Schulen und Universitäten weiterzubilden.11 Günstig für den Erhalt
+dieses wie anderer Stipendien in den Folgejahren war sicherlich
+auch die Tatsache, dass einer seiner Onkel, der berühmte Arzt
+Heinrich Lavater (1560–1623), seit 1590 Professor der Naturwis-
+senschaft am Lectorium war.12 Bemerkenswert ist, dass Johann
+Rudolf – der, wie einige seiner späteren Publikationen belegen,
+durchaus theologische Interessen hegte – nie ein theologisches Cur-
+
+9 Deutsch-Schweizerisches Geschlechterbuch, hg. von Bernhard Koerner und Fritz
+
+Amberger, Bd. 4, Görlitz 1929, 115; 117f.
+
+10 Vgl. Regula Weber-Steiner, Glükwünschende Ruhm- und Ehrengetichte. Casual-
+carmina zu Zürcher Bürgermeisterwahlen des 17. Jahrhunderts, Bern et al. 2006 (Deut-
+sche Literatur von den Anfängen bis 1700 43), 141–144; Hans Nabholz, Zürichs Hö-
+here Schulen von der Reformation bis zur Gründung der Universität 1525–1833, in: Die
+Universität Zürich und ihre Vorläufer, hg. von Ernst Gagliardi et al., Zürich 1938, 10f.;
+Johann Jacob Wirz, Historische Darstellung der urkundlichen Verordnungen, welche
+die Geschichte des Kirchen- und Schulwesens in Zürich wie auch die moralische und
+einiger Maßen die physische Wolfart unseres Volkes betreffen, Bd. 1, Zürich 1793,
+253f.
+
+11 Vgl. Rechnungen der Stifft zum Großenmünster Studentenampts, Zürich Staats-
+archiv [StA], G II 39.10, Bde. 1–4, s.v. »Ussgäben uff die fronfasten […] den wandern-
+den in der frömbde«. Als »Fronfasten« bzw. »Quatemberfasten« wurden dreitägige
+(Mittwoch, Freitag und Samstag) Fasten bezeichnet, die je nach Aschermittwoch,
+Pfingsten, Kreuzerhöhung (14. September) und Lucia (13. Dezember) zu halten waren.
+Auch nach der Reformation galten diese Daten als Termine für Quartalzahlungen, vgl.
+Schweizerisches Idiotikon. Wörterbuch der schweizerdeutschen Sprache, Bd. 1, Frau-
+enfeld 1881, 1113f. In den »Rechnungen der Stifft« werden die vier Termine genannt,
+wobei die Buchführung jeweils mit der Auszahlung »Crucis« beginnt und mit derjenigen
+»Pentecostes« im Folgejahr endet. Als Lavater dieses Stipendium von »Cinerum« 1598
+bis »Pentecostes« 1601 bekam, betrug die viermal jährlich ausgezahlte Summe 20 Pfund
+(= 10 Gulden).
+
+12 HLS, Bd. 7, Basel 2008, 715f. Heinrich war das siebte Kind in erster Ehe von
+Antistes Ludwig Lavater, vgl. Deutsch-Schweizerisches Geschlechterbuch, Bd. 4, 116;
+125f.
+
+Heterodoxie und Ungehorsam
+
+93
+
+riculum durchlief, weder in Zürich noch im Ausland, und auch
+sonst keine akademischen Grade erwarb.
+
+Aufgrund der Einträge im Stammbuch (liber amicorum), das La-
+vater während seiner Wanderjahre führte,13 lassen sich die Stati-
+onen seiner peregrinatio studiorum mindestens zum Teil rekon-
+struieren. Er verließ Zürich am oder kurz nach dem 23. März
+1598,14 um sich über Basel15 nach Marburg zu begeben.16 In Mar-
+burg schrieb er sich auch am 17. April 1599 an der Universität
+ein.17 Im März 1599 hatte er sich noch in Heidelberg aufgehalten18
+und dort auch öffentlich disputiert, woraus Lavaters erstes ge-
+drucktes Werk hervorging: Theses difficillimam animorum ortus
+(Myrtilleti ad Nicrum [Heidelberg]:
+quaestionem explicantes
+Christophorus Leo/Ioannes Lancellotus, 1599).19 Die Disputation
+moderierte der Schweizer Arzt Gottlieb Mader (Theophilus Ma-
+derus, 1541–1604), der seit 1585 Professor der Medizin in Hei-
+delberg war.20 Dieses sein Erstlingswerk21 (studiorum primitiae)
+
+13 Zürich ZB, Ms D 206.
+14 Lavaters Anwesenheit in Zürich bis zu diesem Datum ist durch folgende Einträge
+belegt: Zürich ZB, Ms D 206, [92]r (20. März 1598, Eintrag Rudolf Hospinian,
+1547–1626); [100]r (22. März 1598, Eintrag Wolfgang Haller, 1525–1601); [138]r (23.
+März 1598, Eintrag Rudolf Simler, 1568–1611). Zu Hospinian vgl. HLS, Bd. 6, Basel
+2007, 484f.; zu Haller vgl. Historisch-biographisches Lexikon der Schweiz, hg. von
+Heinrich Türler et al. [HBLS], Bd. 4, Neuenburg 1927, 61f.; zu Simler vgl. HLS, Bd. 11,
+Basel 2012, 516.
+
+15 Zürich ZB, Ms D 206, [95]r (26. März 1598, Eintrag Johannes Buxtorf,
+
+1564–1629). Zu Buxtorf vgl. HLS, Bd. 3, Basel 2004, 156.
+
+16 Zürich ZB, Ms D 206, [85]r.
+17 Catalogi studiorum scholae Marpurgensis, hg. von Julius Cäsar, Bd. 9, Marburg
+
+1881, 4.
+
+18 Zürich ZB, Ms D 206,
+
+[88]r (25. März 1599, Eintrag Daniel Tossanus,
+1541–1602). Zu Tossanus vgl. Allgemeine deutsche Biographie, hg. durch die histori-
+sche Kommission bei der königlichen Akademie der Wissenschaften [ADB], Bd. 38,
+Leipzig 1894, 469–474.
+
+19 Zürich ZB, 6.55: a,40.
+20 Zu Mader vgl. Athenae Rauricae sive Catalogus professorum academiae Basili-
+ensis, Basel 1778, 426f.; HBLS, Bd. 4, Neuenburg 1927, 783; Nancy G. Siraisi, Com-
+munities of Learned Experience. Epistolary Medicine in the Renaissance, Baltimore,
+MD 2013, 12 und 21.
+
+21 Die Autorschaftsfrage bei frühneuzeitlichen Disputationsthesen ist in Abwesenheit
+eindeutiger Angaben auf dem Titelblatt meist nicht endgültig zu klären. Allgemein ist
+jedoch anzunehmen, dass, wer die Widmung einer Thesenreihe unterzeichnete – sei es
+der »Praeses« oder der »Respondens« gewesen –, auch als deren Autor zu betrachten
+ist, vgl. Hanspeter Marti, Dissertationen, in: Quellen zur frühneuzeitlichen Universitäts-
+
+94
+
+Luca Baschera
+
+widmete Lavater seinen beiden Onkeln Heinrich Lavater und Ru-
+dolf Hospinian22 sowie weiteren fünf Verwandten und Bekann-
+ten.23 Noch im selben Jahr 1599 disputierte Lavater erneut, dies-
+mal in Marburg und unter der Aufsicht von Rudolf Goclenius d.Ä.
+(1547–1628).24 Auch dazu veröffentlichte er einen Thesendruck:
+Theses physicae auctariis quibusdam philosophicis adornatae
+(Marburg: Paul Egenolff, 1599).25
+
+Lavater blieb noch ein weiteres Jahr in Marburg. Dort konsoli-
+dierte er seine Beziehung zu Goclenius, der später indirekt zu La-
+vaters Berufung als Rektor des Hanauer Gymnasiums beitrug,26
+und knüpfte auch weitere Kontakte, wie etwa zum berühmten Ju-
+risten Hermann Vultejus (1555–1634).27 Zwischen 1600 und 1601
+
+geschichte. Typen, Bestände, Forschungsperspektiven, hg. von Ulrich Rasche, Wiesba-
+den 2011, 296f.; Jean-Pierre Bodmer, Zürcher Disputationsthesen bis 1653. Facetten
+einer Druckschriftengattung, in: Zwingliana 41 (2014), 85–116, hier 107 und 114f.
+Zur Gattung der Dissertation und zur Praxis der Disputaton in der Frühen Neuzeit vgl.
+Joseph S. Freedman, Published academic disputations in the context of other informa-
+tion formats utilized primarily in Central Europe (c. 1550–c. 1700), in: Disputatio
+1200–1800. Form, Funktion und Wirkung eines Leitmediums universitärer Wissens-
+kultur, hg. von Marion Gindhart und Ursula Kundert, Berlin 2010 (Trends in Medieval
+Philology 20), 89–128; Marti, Dissertationen, 293–312; Marian Füssel, Die Praxis der
+Disputation. Heuristische Zugänge und theoretische Deutungsangebote, in: Frühneu-
+zeitliche Disputationen. Polyvalente Produktionsapparate gelehrten Wissens, hg. von
+Marion Gindhart, Hanspeter Marti et al., Köln et al. 2016, 27–48.
+
+22 Hospinian hatte 1569 Anna Lavater (geb. 1552), die zweite Tochter von Antistes
+
+Ludwig, geheiratet. Vgl. Deutsch-Schweizerisches Geschlechterbuch, Bd. 4, 115.
+
+23 Lavater, Theses […] animorum ortus, 2.
+24 Zu Goclenius vgl. Wilhelm Schmidt-Biggemann, Die Schulphilosophie in den re-
+formierten Territorien, in: Grundriss der Geschichte der Philosophie, begründet von
+Friedrich Ueberweg. Die Philosophie des 17. Jahrhunderts, Bd. 4/1, hg. von Helmut
+Holzhey, Basel 2001, 402–406.
+
+25 Zürich ZB, 6.55: a,39; 19.247,6.
+26 Siehe unten Kap. 1.2.
+27 Zu Vultejus vgl. Christoph Strohm, Calvinismus und Recht. Weltanschaulich-
+konfessionelle Aspekte im Werk reformierter Juristen in der Frühen Neuzeit, Tübingen
+2008 (Spätmittelalter, Humanismus, Reformation 42), 275–290. Sowohl Vultejus als
+auch Goclenius trugen sich in Lavaters Stammbuch ein (Zürich ZB, Ms D 206, [90]r;
+[96]r), wobei sich Goclenius’ Notiz als besonders herzlich ausnimmt: »Quo te, Rodol-
+phe, hinc abeuntem prosequar ore? I pede felici, prosperiore redi. M[agister] Rodolphus
+Goclenius haec paucula scribebat in Academia Marpurg[ensi] suo Iohan[ni] Rudolpho
+Lavatero Helv[etio], iuveni doctrina et vita insigni, anno 1600 pridie Christianorum
+Hilaribus.« Die etwas kryptische Datierung dürfte folgendermaßen zu erklären sein: Die
+»Hilaria« – eine der ekstatischen Festlichkeiten der Kybele und des Attis im antiken
+Rom – fielen auf den 25. März (vgl. Der Neue Pauly. Enzyklopädie der Antike, hg. von
+Hubert Candcik und Helmuth Schneider [NP], Bd. 6, Stuttgart 1999, 954) und somit
+
+Heterodoxie und Ungehorsam
+
+95
+
+war er in Franeker28 und Leiden29 sowie in Steinfurt30 und Her-
+born.31 Der Aufenthalt in Steinfurt erwies sich als besonders ent-
+scheidend für Lavaters weitere Laufbahn. Dort lernte er nämlich
+auch den Juristen Wilhelm Sturio (gest. 1620) kennen,32 der von
+1596 bis 1602 am Steinfurter Gymnasium lehrte, daraufhin jedoch
+in die Regierung der Grafschaft Hanau eintrat und ab 1605 als
+Schultheiß in der Alt- und Neustadt Hanau33 sowie als Schulherr
+wirkte. Wie später noch zu erläutern gilt, war es dem Einsatz Stu-
+rios zu verdanken, dass Lavater letztlich 1607 zum Rektor am neu
+gegründeten Hanauer Gymnasium berufen wurde.34
+
+auf dasselbe Datum des christlichen Festes »Mariä Verkündigung«, welches daher als
+»Christianorum Hilaria« bezeichnet werden kann. Goclenius’ trug sich insofern am 24.
+März 1600 in Lavaters Stammbuch ein.
+
+28 Zürich ZB, Ms D 206, [97]r; [133]r.
+29 In Leiden lernte Lavater den reformierten Theologen Franciscus Junius (Franc¸ois
+du Jon, 1545–1602)
+sowie den berühmten Philologen Joseph Justus Scaliger
+(1540–1609) kennen, vgl. die Einträge in: Zürich ZB, Ms D 206, [82]r (17. April 1601,
+Scaliger); [87]r (27. April, Junius). Zu Junius vgl. Tobias Sarx, Franciscus Junius d.Ä.
+(1545–1602). Ein reformierter Theologe im Spannungsfeld zwischen späthumanisti-
+scher Irenik und reformierter Konfessionalisierung, Göttingen 2007 (Reformed Histo-
+rical Theology 3); zu Scaliger vgl. Anthony Grafton, Joseph Scaliger. A Study in the
+History of Classical Scholarship, 2 Bde., Oxford 1983–1993 (Oxford Warburg Studies).
+30 Zürich ZB, Ms D 206, [5]v; [86]r; [113]v (1. Mai 1600, Eintrag Clemens Timpler,
+1563–1624); [94]r (6. Mai 1601, Eintrag Conrad Vorstius, 1569–1622). Zu Timpler
+vgl. Joseph S. Freedman, European Academic Philosophy in the Late Sixteenth and
+Early Seventeenth Centuries. The Life, Significance, and Philosophy of Clemens Timpler
+(1563/4–1624), 2 Bde., Hildesheim et al. 1988 (Studien und Materialien zur Geschichte
+der Philosophie 27); zu Vorstius siehe unten Anm. 201.
+
+31 Zürich ZB, Ms D 206,
+
+[91]r (14. Mai 1601, Eintrag Johannes Piscator,
+
+1546–1625). Zu Piscator vgl. ADB, Bd. 26, Leipzig 1888, 180f.
+
+32 Lavater bedankte sich 1607 im Vorwort zu seiner Ausgabe von James Cheynes
+Analysis et scholia für Sturios mittlerweile »sieben Jahre« lang anhaltende Unterstüt-
+zung und Förderung, Cheyne/Lavater, Analysis, [):(5]v: »Tu, magnifice d[octor] Sturio,
+annis ab hinc septem […] favori et patrocinio singulari non aliter, ac si in meam salutem
+et incolumitatem iurass[isti] […].«
+
+33 Zu Sturios Wirken vgl. Günter Richter, Theophil Caesar. Drucker am Gymnasi-
+um illustre Arnoldinum zu (Burg-)Steinfurt, Nieuwkoop 1967, 61, Anm. 220; Carl
+Heiler, Geschichte des staatlichen Gymnasiums zu Hanau (vormals »Hohe Landes-
+schule«) in den ersten Jahrzehnten seines Bestehens von 1607 bis 1665 mit Auszügen
+aus den Anhaltsakten der späteren Zeit, Hanau 1925, 23, Anm. 1. Sturio hinterließ u.a.
+»Jahrbücher der Stadt Hanau und Grafschaft Hanau-Münzenberg« in drei handschrift-
+lichen Bänden, vgl. Die Bau- und Kunstdenkmäler der Stadt Hanau, Teil 1, hg. von A.
+Winkler und J. Mittelsdorf, Hanau 1897, 2.
+
+34 Siehe unten Kap. 1.2.
+
+96
+
+Luca Baschera
+
+Ende Frühling 1601 kehrte Lavater nach Zürich zurück und
+wurde sogleich »in philosophicis examiniert«.35 Ihm wurde auch
+ein weiteres Stipendium von jährlich viermal 20 Pfund verliehen.36
+1602 disputierte Johann Rudolf öffentlich in Zürich unter dem
+Präsidium seines Onkels Heinrich Lavater und gab die dazu ver-
+fassten Thesen auch in den Druck: Decas theorematum philoso-
+phicorum perpetuis exegesibus illustratorum (Zürich: s.n., 1602).37
+Diese wurden als ein Zeichen von »Dankbarkeit und Ehrerbie-
+tung« dem niederländisch-deutschen Bankier Bonaventura II. von
+Bodeck (1556–1629) gewidmet, der seit 1599 auf Schloss Elgg im
+Kanton Zürich residierte.38 Von einer besonderen Beziehung La-
+vaters zum »Herrn von Elgg« zeugt neben der Bezeichnung Bo-
+naventuras als »patronus magnus« auch die Tatsache, dass Lavater
+ein Jahr später die Kondolenzsammelschrift anlässlich des Todes
+von Bonaventuras erster Ehefrau, Katharina von Rehlingen, her-
+ausgab.39
+
+1604, in der zweiten Jahreshälfte, weilte Lavater kurzfristig in
+Kassel und Leipzig sowie erneut in Heidelberg.40 Er dürfte sich
+zudem auch in Hanau aufgehalten haben, wo in diesem Jahr seine
+erste Monographie erschien: Disquisitiones philosophicae ad eno-
+dandas quaestiones plurimas difficiles, lectu utiles et necessariae
+(Hanau: Wilhelm Anton, 1604).41 Im an seinen Onkel Heinrich
+
+35 Acta scholastica 2, 20. Juni 1601, Zürich StA, E II 459, 65v.
+36 Es handelt sich dabei um Auszahlungen, die denjenigen entrichtet wurden, »so
+allhie uff ständen sind oder sonst wartend«. Lavater bezog dieses Stipendium von »Cru-
+cis« 1601 bis »Cinerum« 1607, mit der einzigen Ausnahme vom »Pentecostes«-Termin
+1605, als sein Name wieder in der Liste der »wandernden in der frömbde« erscheint,
+vgl. Rechnungen der Stifft zum Großenmünster Studentenampts, Zürich StA, G II
+39.10, Bde. 5f. sowie G II 39.11, Bde. 1–4, s.v. »Ussgäben uff die fronfasten«.
+
+37 Zürich ZB, 19.247,4.
+38 Zu Bodeck vgl. Karl Mietlich, Geschichte der Herrschaft, Stadt und Gemeinde
+
+Elgg, Elgg 1946, 121f.
+
+39 Iusta exsequialia in obitum luctuosum nobilissimae et incomparabilis matronae
+d[omi]n[ae] Katharinae a Bodeck […] Bonaventurae a Bodeck Elcoviae d[omi]ni etc.
+coniugis, [Zürich?]: s.n., 1603 (Verzeichnis der im deutschen Sprachbereich erschiene-
+nen Drucke des 17. Jahrhunderts [VD 17] 23:266423Q). Lavater unterzeichnete die
+Widmung (ebd., A2v) und trug zum Sammelband sechs Gedichte bei (ebd., E1r–E5v).
+40 Zürich ZB, Ms D 206, [141]r; [144]r–[145]r; [159]r (Kassel); [172]r (Leipzig);
+
+[129]r; [130]r (Heidelberg).
+
+41 VD 17 14:674994Y. Diese Schrift hatte Lavater allerdings in Zürich verfasst, was
+sich aus der Datierung des Widmungsbriefes erschließen lässt (1. November 1603), vgl.
+Lavater, Disquisitiones, 10.
+
+Heterodoxie und Ungehorsam
+
+97
+
+sowie an weitere Verwandte und Zürcher »notabiles« gerichteten
+Widmungsbrief betont Lavater die Nützlichkeit der philosophi-
+schen Disziplinen,42 bekennt sich zur Einheit von philosophischer
+und theologischer Wahrheit43 und wehrt dezidiert die Meinung
+derjenigen ab, die alle Philosophie als bloß »fleischliche Weisheit«
+(carnis sapientia) ablehnen.44 Die Disquisitiones bestehen aus 19
+kurzen Traktaten zu komplexen Fragen sowohl spezifisch philo-
+sophischer als auch eher theologischer Natur,45 die Lavater unter
+Heranziehung einer ganzen Reihe unterschiedlicher Autoren, von
+Platon bis etwa Bartholomäus Keckermann (1572–1608), erörtert.
+Zwischen Sommer und Herbst nach Zürich zurückgekehrt,
+machte sich Lavater jedoch Ende Januar 1605 erneut auf den Weg.
+Diesmal begab er sich über Basel46 nach Heidelberg47 und von dort
+nach Hanau.48 Irgendwann zwischen März und Mitte Mai ereilte
+ihn dort wohl der Ruf zu einem Posten an der städtischen Latein-
+schule.49 So endete die Studienzeit Lavaters und begann seine Kar-
+riere als Dozent.
+
+42 Lavater, Disquisitiones, 4 und 8.
+43 Lavater, Disquisitiones, 5: »Sicut ergo unus est Deus, qui ubique verum loquitur
+in disciplinis, ita una est et simplex in omnibus disciplinis veritas. […] unus omnium
+disciplinarum author Deus est, nullius diabolus est; quod ergo in una disciplina Deus
+voluit esse verum sive ens, id in altera disciplina non vult esse falsum sive non ens.«
+Ebd., 7: »[…] eundem Deum et eandem veritatem tam in theologia quam philosophia
+loqui.«
+
+44 Lavater, Disquisitiones, 3.
+45 Vgl. Lavater, Disquisitiones, 118–120 (»An quicquid non est nihil, necessario sit
+ens«); 130–138 (»An Deus ex aequo erga omnes creaturas sit bonus«); 138–144 (»An
+Deus extra se quicquam operetur ex absoluta naturae necessitate«); 190–197 (»An
+sapor possit esse sine sapido«).
+
+46 Zürich ZB, Ms D 206, [98]r (26. Januar 1605, Eintrag Amandus Polanus von
+
+Polansdorf, 1561–1610). Zu Polansdorf vgl. HLS, Bd. 9, Basel 2010, 789.
+
+47 Zürich ZB, Ms D 206, [198]r; [199]r.
+48 Zürich ZB, Ms D 206, [88]v (30. März 1605, Eintrag Rudolf Goclenius d.Ä.).
+49 Im letzten Eintrag seines Stammbuches, datiert auf den 14. Mai 1605 und stam-
+mend vom ebenso in Hanau wirkenden Philologen Gottfried Jungermann
+(1577/78–1610), wird Lavater bereits als »illustris scholae Hanovianae inspector exi-
+mius« bezeichnet, vgl. Zürich ZB, Ms D 206, [187]r. Zu Jungermann vgl. ADB, Bd. 14,
+Leipzig 1881, 709–711. Lavater gab 1611 die Kondolenzsammelschrift zu Ehren Gott-
+fried Jungermanns heraus und trug dazu ein Gedicht bei, vgl. Lacrymae super immaturo
+obitu Godofredi Iungermanni, iuvenis virtute et eruditione clarissimi, effusae, Hanau:
+Konrad Biermann/Thomas de Villiers, 1611 (VD 17 12:183687M), ***2r–[***4]v; 42.
+
+98
+
+Luca Baschera
+
+1.2 Die Hanauer Zeit
+
+Als Lavater im Frühling 1605 seine Tätigkeit im Hanauer Schul-
+wesen aufnahm, bestand dort nur eine niedere Lateinschule.50 An
+dieser Stadtschule wurde er nun »inspector«, was darauf hindeu-
+tet, dass ihm neben der Lehrtätigkeit auch die Schulaufsicht oblag.
+Als solcher wird er jedenfalls sowohl im letzten Eintrag seines
+Stammbuches51 wie auch auf dem Titelblatt zweier Thesendrucke
+zu Disputationen bezeichnet, die im September 1605 in Hanau
+stattfanden und bei denen Lavater als »Praeses« wirkte: Disputatio
+prima metaphysica continens προϑεωριÂανde natura habitus me-
+taphysici […] in schola nova Hanoviana, praeside Io[anne] Ro-
+dolpho Lavatero Tigurino, illius scholae inspectore publico (Ha-
+nau: Wilhelm Anton, 1605);52 Disputatio II. metaphysica conti-
+nens προϑεωριÂανde natura systematis metaphysici. In […] schola
+nova Hanoviana, praeside Io[anne] Rodolpho Lavatero Tigurino,
+scholae novae inspectore publico (Hanau: Thomas de Villiers,
+1605).53 »Respondens« bei der ersteren Disputation war der Zür-
+cher Rudolf Schwarzenbach (1581–1646),54 bei der letzteren Jo-
+hann Caspar Lavater (1586–1637), Bruder von Johann Rudolf, der
+später Arzt und Professor der Naturwissenschaft am Carolinum
+werden sollte.55 Die Disputatio prima eignete Lavater seinem Lan-
+desherrn, Philipp Ludwig II. Graf von Hanau-Münzenberg (1576–
+1612),56 als »immerwährenden Unterpfand seiner Dankbarkeit«
+zu,57 während die Widmung der Disputatio II., durch die beiden
+Brüder gemeinsam unterzeichnet, an eine Gruppe von zum Teil mit
+ihnen Verwandten Zürchern gerichtet ist, zu denen auch ihr bereits
+mehrfach erwähnter Onkel, Heinrich Lavater, zählt.58
+
+50 Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 18.
+51 Siehe oben Anm. 49.
+52 Zürich ZB, 6.55: a,37.
+53 Zürich ZB, 6.55: a,38.
+54 Zürcher Pfarrerbuch, 520f.
+55 Deutsch-Schweizerisches Geschlechterbuch, Bd. 4, 117 und 119.
+56 Vgl. Ute Müller-Ludolph, Philipp Ludwig
+
+von Hanau-Münzenberg
+(1576–1612). Eine politische Biographie, Darmstadt 1991 (Quellen und Forschungen
+zur hessischen Geschichte 63); »Hanau-Münzenberg, Philipp Ludwig II. Graf von«, in:
+Hessische Biografie 〈https://www.lagis-hessen.de/pnd/119050870〉 (Stand: 18.11.2018).
+57 Lavater (Praeses)/Schwarzenbach (Respondens), Disputatio prima metaphysica, 3.
+58 Johann Rudolf Lavater (Praeses)/Johann Caspar Lavater (Respondens), Disputa-
+
+II.
+
+tio II. metaphysica, 2.
+
+Heterodoxie und Ungehorsam
+
+99
+
+Ende 1605 brach in Hanau eine Epidemie aus, die den Schulun-
+terricht bis in das Jahr 1606 hinein zum Erliegen brachte. Ob La-
+vater, der zwischen Ende 1605 und Anfang 1606 die Hanauerin
+Susanna Seehozin (bzw. Seesatzer oder Schatz, gest. in Zürich nach
+1637) geheiratet hatte,59 während der Epidemie weiterhin in Ha-
+nau residierte oder wie zahlreiche andere in Nachbarorten Zu-
+flucht suchte,60 bleibt unklar. Jedenfalls bekam er zwischen Herbst
+1605 und dem Frühjahr 1607 weiterhin ein Zürcher Stipendium.61
+Die Einstellung der Quartalzahlungen aus Zürich ging erst mit sei-
+ner Berufung zum Rektor des in jenem Jahr in Hanau neu einge-
+richteten Gymnasiums einher. Sowohl an der neuen Schulgrün-
+dung wie auch an der Wahl Lavaters als Rektor war der bereits
+erwähnte, mittlerweile in Hanau tätige Wilhelm Sturio62 maßgeb-
+lich beteiligt. Sturio hatte nämlich erfahren, dass Goclenius und
+Vultejus ihrem ehemaligen Schüler einen Lehrstuhl für Arithmetik
+(oder Sphärik) in Marburg angeboten hatten.63 Gleich schrieb Stu-
+rio an Graf Philipp Ludwig II., damit dieser Lavater unter besseren
+Lohnbedingungen als Rektor eines neu einzurichtenden Gymnasi-
+ums anstelle.64 Der Graf ließ sich für beides gewinnen,65 was zum
+Beginn einer neuen Phase der Karriere Johann Rudolf Lavaters
+führte. Diese währte bis Ende 1611, als er schließlich zum profes-
+sor artium am Collegium humanitatis in Zürich berufen wurde.
+
+Gemessen an der Anzahl der durch ihn in den Druck gegebenen
+Schriften, waren die Jahre seines Hanauer Rektorats die frucht-
+barsten im Leben Lavaters.66 Seine publizistische Tätigkeit in der
+
+59 Susanna gebar Lavater im Laufe der Jahre sechs Kinder, vgl. Deutsch-Schweize-
+
+risches Geschlechterbuch, Bd. 4, 118 und 121.
+
+60 Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 18.
+61 Siehe oben Anm. 3.
+62 Siehe oben Kap. 1.1.
+63 Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 20.
+64 Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 20f.
+65 Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 21. Siehe auch die
+Abschriften der amtlichen Dokumente zur Schulgründung, ebd., 77–84. Der Name La-
+vaters wird allerdings in keinem dieser Dokumente genannt. Die neu gegründete Anstalt
+blieb in dieser ersten Phase ihrer Geschichte, nicht zuletzt aufgrund von Schwierigkeiten
+in der finanziellen Ausstattung, offenbar »ein Torso«, vgl. Gerhard Menk, Die Hohe
+Schule Herborn in ihrer Frühzeit (1584–1660). Ein Beitrag zum Hochschulwesen des
+deutschen Kalvinismus im Zeitalter der Gegenreformation, Wiesbaden 1981 (Veröffent-
+lichungen der Historischen Kommission für Nassau 30), 189.
+
+66 Zu den Beziehungen, die Lavater in dieser Phase seiner Karriere mit ungarischen
+
+100
+
+Luca Baschera
+
+neuen Funktion begann er mit einer Ausgabe der Analysis sive
+resolutio et quaestionum difficiliorum in XIIII libros Aristotelis de
+divina philosophia dilucida explicatio67 des Schotten James Cheyne
+(1545–1602),68 die Lavater um eigene Anmerkungen (scholia) zu
+den einzelnen Kapiteln ergänzte. Diese Schrift erschien unter dem
+Titel Iacobi Chynaei Abarnage Scoti analysis et scholia in Aristo-
+telis XIV libros de prima seu divina philosophia (Hanau: Wilhelm
+Anton, 1607)69 und war drei Scholarchen des Hanauer Gymnasi-
+ums – Wilhelm Sturio, Schultheiß Arpold und Abraham Hammer
+(gest. nach 1613) – sowie Paul Schombarth, Ratsverwandten aus
+der Neustadt Hanau, gewidmet.70
+
+Drei Jahre später veröffentlichte Lavater den Band Quaestio, ubi
+vera et catholica Iesu Christi ecclesia invenienda sit (Hanau: Tho-
+mas de Villiers, 1610),71 den er dem Juristen und Hanauer Konsis-
+torialratssekretär Konrad Biermann (gest. nach 1614) widmete.72
+Die Quaestio ist eine Sammelschrift, bestehend aus drei Stücken:
+ein Brief des Andreas Dudith (1533–1589)73 an den Zürcher Jo-
+
+Studenten knüpfte vgl. Jan-Andrea Bernhard, Konsolidierung des reformierten Bekennt-
+nisses im Reich der Stephanskrone. Ein Beitrag zur Kommunikationsgeschichte zwi-
+schen Ungarn und der Schweiz in der frühen Neuzeit (1500–1700), Göttingen 2015
+(Refo500 Academic Studies 19), 260f.
+
+67 Die Erstauflage erschien 1577 in Douai; es folgten weitere drei, ebenso in Douai
+gedruckte Auflagen in den Jahren 1578, 1587 und 1599. Vgl. Netherlandish Books.
+Books Published in the Low Countries and Dutch Books Printed Abroad before 1601,
+hg. von Andrew Pettegree und Malcom Walsby, Leiden/Boston 2011, Nr. 7955, 7956,
+7957, 7960.
+
+68 Cheyne, der an der Universität Aberdeen studiert hatte und römisch-katholischer
+Priester wurde, zog nach Paris und später nach Douai, wo er Professor für Theologie,
+Philosophie und Mathematik am Schottischen Kollegium wurde, vgl. Oxford Dictio-
+nary of National Biography, hg. von H. C. G. Matthew und Brian Harrison, [ODNB],
+Bd. 11, Oxford et al. 2004, 375.
+
+69 VD 17 3:608985U. Der reformierte Theologe und Enzyklopäde Johann Heinrich
+Alsted (1588–1638) empfahl später seinen Lesern Lavaters Ausgabe von Cheynes Ana-
+lysis, vgl. Howard Hotson, Commonplace Learning. Ramism and its German Ramifi-
+cations 1543–1630, Oxford et al. 2007 (Oxford Warburg Studies), 209.
+70 Vgl. Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 22f.
+71 VD 17 1:079018M.
+72 Biermann hatte in Steinfurt u.a. bei Wilhelm Sturio studiert, vgl. Richter, Caesar,
+
+43. Siehe auch Strohm, Calvinismus und Recht, 426.
+
+73 Zu Dudith siehe Dietrich Klein, Der religiöse Nonkonformismus Andreas Dudiths
+im Spiegel seiner Auseinandersetzung mit Theodor Beza und Johannes Crato von Craff-
+theim, in: Religiöser Nonkonformismus und frühneuzeitliche Gelehrtenkultur, hg. von
+Friedrich Vollhardt, Berlin 2014 (Quellen und Darstellungen zur Geschichte des Anti-
+
+Heterodoxie und Ungehorsam
+
+101
+
+hannes Wolf (1521–1572),74 Wolfs Antwort darauf sowie eine spä-
+tere Antwort Theodor Bezas (1519–1605)75 auf denselben Brief
+Dudiths.76 Das Interesse an Lavaters Ausgabe besteht darin, dass
+Dudiths Brief (23. Juni 1569), dessen Original immer noch in Zü-
+rich aufbewahrt ist,77 zuvor noch nie im Druck erschienen war.
+Ebenso bemerkenswert ist, dass auf dem Titelblatt Lavater Dudith
+bloß als »kaiserlichen Beamten« bezeichnet und auch im Vorwort
+seine antitrinitarischen Tendenzen78 keineswegs erwähnt. Was La-
+vater zur Veröffentlichung bewog, war nach eigener Aussage, dass
+in Dudiths Brief die durch römische Kontroverstheologen gegen
+die Reformationskirchen am häufigsten verwendeten Argumente
+treffend zusammengefasst wären, was wiederum Wolf und Beza die
+Gelegenheit geboten habe, sie eindeutig zu widerlegen.79
+
+Ebenso im Jahr 1610 gab Lavater zwei weitere Schriften sehr
+unterschiedlichen Umfangs in den Druck. Bei der einen handelt es
+sich um den Thesendruck zu einer Disputation, die er als »Praeses«
+moderierte: ΔιασκεÂψιςmiscella e meditullio paideuticarum et pro-
+paideuticarum disciplinarum eruta (Hanau: Thomas de Villiers,
+1610).80 Die zweite stellt das vielleicht bedeutendste Werk Lavaters
+dar: ΚαταÂβασις ειÆς ÏΑδου, hoc est de descensu Iesu Christi ad
+inferos tractatus theologicus et scholasticus (Frankfurt a.M.: Kon-
+
+trinitarismus und Sozinianismus in der Frühen Neuzeit 2), 121–137; Ga´bor Alma´si, The
+Uses of Humanism. Johannes Sambucus (1531–1584), Andreas Dudith (1533–1589),
+and the Republic of Letters in East Central Europe, Leiden/Boston 2009 (Brill’s Studies
+in Intellectual History 185), 239–327.
+74 HLS, Bd. 13, Basel 2014, 567f.
+75 Theologische Realenzyklopädie, hg. von Gerhard Krause und Gerhard Müller
+
+[TRE], Bd. 5, Berlin/New York 1980, 765–774.
+
+76 Die Antwort Bezas liegt mittlerweile auch in historisch-kritischer Edition vor, vgl.
+Correspondence de The´odore de Be`ze, hg. von Hippolyte Hubert et al., Bd. 11, Genf
+1983, 168–185.
+
+77 Zürich StA, E II 345 a, 679f.
+78 Ke˛stutis Daugirdas, Die Anfänge des Sozinianismus. Genese und Eindringen des
+historisch-ethischen Religionsmodells in den universitären Diskurs der Evangelischen in
+Europa, Göttingen 2016 (Veröffentlichungen des Instituts für Europäische Geschichte
+Mainz 240), 114–121.
+
+79 Lavater et al., Quaestio, 4f.
+80 Die Widmung ist durch den »Respondens«, Johannes Hirst (ca. 1590–1667), un-
+terzeichnet. Zu Hirst vgl. Gabriele Wiechert, Die Pfarrer der evangelischen Gemeinde
+von Neuenhain (heute Bad Soden am Taunus) von 1582 bis heute, in: Hessische Fa-
+milienkunde 35 (2012), 137.
+
+102
+
+Luca Baschera
+
+rad Biermann, 1610).81 Wie er in dem an den Stadtrat von Hamm
+gerichteten Widmungsbrief erklärt, sei dieser 560 Seiten umfassen-
+de Band aus einer zweijährigen intensiven Beschäftigung mit dem
+Thema der »Höllenfahrt Christi« hervorgegangen. Dazu sei La-
+vater durch eine 1608 stattgefundene Unterredung mit dem Ha-
+nauer Grafen sowie zwei Gästen aus Großbritannien angeregt wor-
+den, bei der unter anderem die umstrittene Interpretation des be-
+treffenden Artikels des Glaubensbekenntnisses durch den engli-
+schen Philologen Hugh Broughton (1549–1612)82 zur Sprache ge-
+kommen sei.83 Bald sei ihm jedoch klar geworden, dass die Inter-
+pretation von Christi »descensus ad inferos« von Anfang an um-
+stritten gewesen sei.84 Deshalb habe er begonnen, sich in die um-
+fangreiche Literatur zum Thema einzulesen, um die verschiedenen
+Positionen zu identifizieren und sich eine eigene Meinung zu bil-
+den.85 Ebenso aus dem Widmungsbrief geht hervor, dass Lavater
+den 1610 gedruckten Band als den ersten eines zweibändigen
+Werks konzipiert hatte, wobei der geplante zweite Band nie er-
+schien.86
+
+81 VD 17 1:073638F.
+82 Vgl. ODNB, Bd. 7, Oxford et al. 2004, 984–987; Dewey D. Wallace, Jr., Puritan
+and Anglican. The Interpretation of Christ’s Descent into Hell in Elizabethan Theology,
+in: Archiv für Reformationsgeschichte 69 (1978), 248–287, bes. 280–283; Peter Mars-
+hall, »The Map of God’s Word«. Geographies of the Afterlife in Tudor and Early Stuart
+England, in: The Place of the Dead. Death and Remembrance in Late Medieval and
+Early Modern Europe, hg. von Bruce Gordon und Peter Marshall, Cambridge 2000,
+118f. Broughton fasste »Hades« als allgemeine Bezeichnung für das Jenseits auf, wobei
+der Ort, zu dem Jesus Christus als der Sohn Gottes nach seinem Tod gelangte, nur der
+Himmel sein könnte.
+
+83 Lavater, ΚαταÂ βασις, *2r–v.
+84 Lavater, ΚαταÂ βασις, *2v: »Repperi nullum articulum maiori sententiarum dis-
+paritate in reprobrum sensum tractum hoc ipso, qui est de descensu Iesu Christi ad
+inferos.« Zu den Auseinandersetzungen zur Reformationszeit vgl. Werner Bieder, Die
+Vorstellung der Höllenfahrt Christi. Beitrag zur Entstehungsgeschichte der Vorstellung
+vom sog. Descensus ad inferos, Zürich 1949 (Abhandlungen zur Theologie des Alten
+und Neuen Testaments 19), 6–11; Erich Vogelsang, Weltbild und Kreuzestheologie in
+den Höllenfahrtsstreitigkeiten der Reformationszeit, in: Archiv für Reformationsge-
+schichte 38 (1941), 90–132.
+
+85 Lavater, ΚαταÂ βασις, *2v–*3r.
+86 Lavater, ΚαταÂ βασις, *3v–*4v. Im zweiten Band hatte Lavater vor, sich mit der
+Frage des Zustands der Seelen in der Zeit zwischen leiblichem Tod und endgültiger
+Auferstehung auseinanderzusetzen.
+
+Heterodoxie und Ungehorsam
+
+103
+Lavaters ΚαταÂβασιςist in vier Teile gegliedert: Im ersten zählt er
+die bestehenden Interpretationen der »Höllenfahrt Christi« auf
+und erläutert sie;87 im zweiten untersucht er einzelne Termini und
+Begriffe, die in den Auseinandersetzungen über dieses Thema von
+besonderer Bedeutung sind;88 im dritten geht Lavater zu einer Be-
+handlung der in Glaubensbekenntnissen und Konzilsbeschlüssen
+enthaltenen Aussagen über;89 und schließlich skizziert und begrün-
+det er im vierten seine eigene Position.90 Besonders die Präzision
+und Ausführlichkeit, mit denen Lavater die verschiedensten Inter-
+pretationen schildert und durch Zitate belegt, machten noch lange
+aus dieser seiner Schrift ein wichtiges Nachschlagewerk für all jene,
+die sich mit diesem Thema befassen wollten. So zieht etwa noch
+Johann Augustin Dietelmair (1717–1785) in seiner Historia dog-
+matis de descensu Christi ad inferos litteraria (Nürnberg 1731)
+mehrfach Lavater als Quelle heran.91
+
+1.3 Die Zürcher Zeit
+
+In den Zürcher Acta scholastica für das Jahr 1611 findet sich der
+Vermerk, dass am 25. November Johann Rudolf Lavater, »Rektor
+der Schule in Hanau«, zum professor logico-rhetoricus »an
+H[errn] Hans Jac[ob] Breitinger […] statt« gewählt worden sei.92
+Breitinger, der zwei Jahre später Antistes werden sollte, war seit
+1605 professor artium am Collegium humanitatis (Fraumünster)
+gewesen, der zweiklassigen Schule, die mit der Schulreform von
+1601 als Mittelstudium zwischen Lateinschule und Lectorium
+(bzw. Collegium Carolinum, Großmünster) ins Leben gerufen wor-
+
+87 Lavater, ΚαταÂ βασις, 2–172.
+88 Lavater, ΚαταÂ βασις, 174–229.
+89 Lavater, ΚαταÂ βασις, 232–498.
+90 Lavater, ΚαταÂ βασις, 490–560. Seine eigene Sicht fasst Lavater in den Worten
+zusammen: »Hoc apud me certum et indubitatum est, phrasin hanc […] nil nisi sepul-
+turam significare« (ebd., 560).
+
+91 Dietelmair, Historia, 64–67, 163, 198, 201f., 208f., 211–213.
+92 Acta scholastica 2, 25. November 1611, Zürich StA, E II 459, 146v. Vgl. auch
+Pfründenbuch, Zürich ZB, Ms L 22, 56r. Interessanterweise entließ Graf Philipp Lud-
+wig II. Lavater erst Ende März 1612 offiziell von dessen Stelle als Rektor des Hanauer
+Gymnasiums, vgl. Heiler, Geschichte des staatlichen Gymnasiums zu Hanau, 21, Anm.
+1.
+
+104
+
+Luca Baschera
+
+Portrait von Johann Rudolf Lavater (1579–1625), Zentralbibliothek Zürich, Ms E 56,
+Abb. Nr. 151.
+
+Heterodoxie und Ungehorsam
+
+105
+
+den war.93 Für Lavater war die Berufung an das Collegium aller-
+dings nur eine kurze Zwischenstation, wurde er doch bereits im
+Januar 1612 zum Professor der Logik am Lectorium berufen, und
+zwar als Nachfolger seines Onkels Heinrich Erni (1565–1639),94
+der zum Lehrstuhl für Altes Testament gewechselt hatte.95 Die Lo-
+gik-Professur war – wie auch die beiden theologischen Lehrstühle,
+derjenige für Griechisch sowie der Lehrstuhl für Naturwissenschaft
+und Ethik – mit einer Chorherrenpfründe verbunden, die Lavater
+anlässlich seiner Berufung zu beziehen begann.96 Die Berufung zu
+einer der fünf vollen Professuren am Carolinum stellte zweifelsoh-
+ne den Gipfel von Lavaters Karriere dar: Er bekam damit die
+höchste Anerkennung, die in Zürich einem Theologen oder Gelehr-
+ten zuteilwerden konnte, und wurde so in den Kreis der – auch
+politisch – einflussreichsten Persönlichkeiten im Stadtstaat aufge-
+nommen.97
+
+Zu den Aufgaben Lavaters als Professor der Logik gehörte, die
+durch die Schüler bereits am Collegium humanitatis gewonnen
+Grundlagen der Logik und Rhetorik weiter auszubauen. Dies ge-
+schah sowohl durch das Studium der Klassiker (etwa Cicero) als
+auch durch praktische Übungen.98 Zusätzlich fungierte Lavater ne-
+ben den beiden Theologieprofessoren99 häufig als »Praeses« bei
+Übungsdisputationen über philosophische Themen. Zu acht sol-
+chen Disputationen, die er im Laufe der Jahre moderierte, erschie-
+nen auch entsprechende Thesendrucke:
+
+93 Nabholz, Zürichs Höhere Schulen, 31f.; Weber-Steiner, Glükwünschende Ruhm-
+und Ehrengetichte, 144; Wirz, Historische Darstellung, Bd. 1, 242. Zu den Aufgaben
+eines professor artium und den verwendeten Lehrmitteln vgl. Nabholz, Zürichs Höhere
+Schulen, 35; Weber-Steiner, Glükwünschende Ruhm- und Ehrengetichte, 145–147.
+
+94 Erni hatte 1591 Magdalena Lavater, Halbschwester von Felix, dem Vater Johann
+Rudolfs, geheiratet, vgl. Deutsch-Schweizerisches Geschlechterbuch, Bd. 4, 116. Zu
+Erni siehe HLS, Bd. 4, Basel 2005, 271f.
+
+95 Acta scholastica 2, 5. Januar 1612 (Wechsel Ernis); 19. Januar 1612 (Berufung
+Lavaters), Zürich StA, E II 459, 147v. Nachfolger Lavaters am Collegium wurde Jost
+von Kuosen (1570–1630), der nach dem Tod Lavaters 1625 dessen Stelle am Lectorium
+übernahm, vgl. Acta scholastica 2, 9. Mai 1625, Zürich StA, E II 459, 357v. Zu Kuosen
+vgl. Weber-Steiner, Glükwünschende Ruhm- und Ehrengetichte, 147.
+
+96 Vgl. Pfründenbuch, Zürich ZB, Ms L 22, 36r.
+97 Vgl. Weber-Steiner, Glükwünschende Ruhm- und Ehrengetichte, 150.
+98 Weber-Steiner, Glükwünschende Ruhm- und Ehrengetichte, 149. Von Mai 1619
+bis Mai 1621 führte Lavater auch die Schulprotokolle, vgl. Acta scholastica 2, Zürich
+StA, E II 459, 285r–322v.
+
+99 Bodmer, Zürcher Disputationsthesen, 91.
+
+106
+
+Luca Baschera
+
+Decas problematum philosophicorum, προϑεωριÂαςεÍνεκαlogicis disputa-
+tionibus praemissa, Zürich: Johann Rudolf Wolf, 1614 – »Respondens«:
+Salomon Gessner, 1593–1637.100
+
+Disputatio de nihilo, nequaquam de nihilo, Zürich: s.n., 1614 – »Respon-
+dens«: Georg Jenatsch, 1596–1639; »Proponens«: Johann Jakob Irminger,
+1588–1649.101
+
+Disputationum logicarum I., quae est de natura logicae in genere, Zürich:
+Johannes Hardmeyer, 1614 (VD 17 12:183697T) – »Respondentes«: Ge-
+org Jenatsch; [Hans] Jakob Vollenweider, 1594–1647.102
+
+De tribus necessitatis affirmativae legibus de omni, per se et universim
+disputatio logica, Zürich: Johannes Hardmeyer, 1616 – »Respondens«:
+Hans Jakob Lindinner, 1595–1669.103
+
+Disputatio politica, qua nobilissima quaestio, an princeps sit solutus le-
+gib[us], una cum aliis coronidis loco adiectis epimetris, discutitur, Zürich:
+Johann Rudolf Wolf, 1618 – »Respondens«: Bartolomeo Paravicini, ca.
+1595–1658.104
+
+Disputatio miscella, Zürich: Johann Rudolf Wolf, 1619 – »Respondens«:
+Johannes Maag, 1598–1661.105
+
+Disputationum logicarum II., quae est de termino vocis, Zürich: Johann
+Rudolf Wolf, 1619 – »Respondens«: Hans Kaspar Suter, 1601–1655.106
+
+Disputatio politica, qua de praecipuis stabiliendae bene constitutae rei-
+pub[licae] mediis agitur, Zürich: Johann Rudolf Wolf, 1620 – »Respon-
+dens«: Albert Dietegen von Salis.107
+
+100 Zürich ZB, 6.122,40. Zu Gessner vgl. Zürcher Pfarrerbuch, 297.
+101 Zürich ZB, 6.122,57. Zu Jenatsch, dem berüchtigten »Konvertiten«, vgl. HLS,
+Bd. 6, Basel 2007, 776f. Zu Irminger vgl. ebd., 678. Darauf, dass Irminger die Thesen
+verfasste, weist schon die Tatsache hin, dass die Widmung von ihm allein unterzeichnet
+ist. Darüber hinaus wird er in einem im Anhang gedruckten Gedicht von Heinrich Erni
+explizit als Thesenautor angesprochen.
+
+102 Zürich ZB, 6.122,41. Zu Vollenweider vgl. Zürcher Pfarrerbuch, 589f. Zu den
+beiden Disputationen, bei denen Jenatsch »Respondens« war, siehe auch Bodmer, Zür-
+cher Disputationsthesen, 98.
+
+103 Zürich ZB, 6.122,46. Zu Lindinner vgl. Zürcher Pfarrerbuch, 409.
+104 Zürich ZB, 5.185. Zu Paravicini vgl. Jakob Truog, Die Pfarrer der evang[elischen]
+Gemeinden in Graubünden und seinen ehemaligen Untertanenlanden, Chur [1936],
+214. Zum Inhalt dieser Disputation siehe auch Thomas Maissen, Die Geburt der Re-
+public. Staatsverständnis und Repräsentation in der frühneuzeitlichen Eidgenossen-
+schaft, Göttingen 2006 (Historische Semantik 4), 335.
+
+105 Zürich ZB, 6.141,8. Zu Maag vgl. Zürcher Pfarrerbuch, 416.
+106 Zürich ZB, 6.55: a,36. Zu Suter vgl. Zürcher Pfarrerbuch, 561.
+107 Zürich ZB, 7.68,11 sowie 4’o 1620/3. Zu dieser Disputation und deren Autor vgl.
+
+Bodmer, Zürcher Disputationsthesen, 98f.
+
+Heterodoxie und Ungehorsam
+
+107
+
+In den ersten Monaten nach seiner Berufung an das Zürcher Lec-
+torium veröffentlichte Lavater den theologischen Band Anti-Soci-
+nus, hoc est solida et exacta confutatio omnium et singulorum
+errorum […] cum solida et orthodoxa assertione deitatis Iesu
+Christi et Spiritus Sancti […] cum innumeris aliis (Frankfurt a.M.:
+Konrad Biermann, 1612).108 Wie Lavater im Widmungsbrief an
+Daniel de Latre, Ratsherr in Hanau,109 erläutert, habe er damit ein
+wirksames Heilmittel gegen das Gift antitrinitarischer Lehren und
+jeder Infragestellung der Göttlichkeit Jesu Christi bereitstellen wol-
+len. Zu diesem Zwecke sei er wie ein Arzt vorgegangen, der Me-
+dikamente aus verschiedenen »Zutaten« (ingredientes) zusammen-
+stellt.110 Die Zutaten, aus denen die sechs Bücher des Anti-Socinus
+bestehen, sind zum einen die vier Bücher von Josias Simlers
+(1530–1576)111 Traktat De aeterno Dei filio (Zürich: Christoph
+Froschauer d.J., 1568),112 die Lavater zwar vollständig, aber in
+abgeänderter Reihenfolge wiedergibt.113 Zum anderen kombiniert
+er Simlers Schrift mit Ausschnitten aus verschiedenen Bibelkom-
+mentaren des David Pareus (1548–1622),114 die, in zwei Reihen
+von »quaestiones« zusammengefasst, das zweite und das sechste
+Buch des Anti-Socinus ausmachen.115
+
+In seiner Eigenschaft als Professor der Logik und Rhetorik trat
+Lavater auch hin und wieder als öffentlicher Redner auf. Hand-
+schriftlich überliefert sind etwa zwei Reden, die er im Januar 1619
+
+108 Im VD 17 (14:687828U bzw. 23:632604B) wird dieses Werk fälschlicherweise
+einem Joachim Beringer (Ursinus) zugeschrieben, der im selben Jahr ein gleichbetiteltes
+Werk von Otto Casmann (1562–1607) herausgab, vgl. VD 17 39:151372G.
+
+109 Vgl. Die Bau- und Kunstdenkmäler der Stadt Hanau, 1. Teil, 50–52.
+110 Lavater, Anti-Socinus, *4r–v.
+111 HLS, Bd. 11, Basel 2012, 515f.
+112 Bibliographie der Zürcher Druckschriften des 15. und 16. Jahrhunderts, hg. von
+Manfred Vischer, Baden-Baden 1991 (Bibliotheca bibliographica Aureliana 124), Nr. C
+798. Zu Inhalt und Bedeutung dieser Schrift Simlers vgl. Mark Taplin, The Italian
+Reformers and the Zurich Church, c. 1540–1620, Aldershot 2003 (St. Andrews Studies
+in Reformation History), 198–212.
+
+113 Vgl. Lavater, Anti-Socinus, 1–137 (= Simler, De aeterno, Buch 1); ebd., 250–444
+(= Simler, De aeterno, Buch 3); ebd., 445–538 (= Simler, De aeterno, Buch 4); ebd.,
+539–721 (= Simler, De aeterno, Buch 2).
+
+114 Zu Pareus (Wängler), der seit 1598 Professor für Altes Testament in Heidelberg
+war, vgl. Neue deutsche Biographie, hg. von der historischen Kommission der Bayeri-
+schen Akademie der Wissenschaften, Bd. 20, Berlin 2001, 65f.
+
+115 Lavater, Anti-Socinus, 138–249; 722–1056.
+
+108
+
+Luca Baschera
+
+hielt, die zweite davon am Karlstag (28. Januar),116 sowie eine
+Kirchweihrede (11. September) aus dem Jahr 1621.117 1623 hielt er
+schließlich nicht nur die Festrede, um die es im vorliegenden Auf-
+satz speziell geht, sondern auch die Karlstagsrede. Letztere erschien
+im Druck unter dem Titel: Oratio solennis ipsa Caroli feria anno
+MDCXXIII super canonisatione Ignatii Loiolae et Francisci Xa-
+verii Iesuitarum (Zürich: Georg Hamberger, [1623]).118
+
+Johann Rudolf Lavater starb am 3. April 1625 in Folge einer
+Erkrankung. Darauf weist Johann Jakob Breitinger im Gedicht
+hin, das er für die Kondolenzsammelschrift komponierte, die an-
+lässlich von Lavaters Tod herausgegeben wurde: Lacrymae Musa-
+rum Helveticarum ex obitu luctuoso theologi et philosophi claris-
+simi, d[omini] Ioh[annis] Rodolphi Lavateri, in Carolino Tiguri-
+norum Collegio canonici ac artium et eloquentiae professoris ce-
+leberrimi (Zürich: Johann Rudolf Wolf, 1625).119 Neben Breitinger
+trugen zur Kondolenzschrift weitere prominente Zürcher bei, unter
+anderen auch Caspar Waser (1565–1625), seit 1611 Professor für
+Neues Testament am Lectorium,120 Heinrich Erni,121 sowie der
+künftige Antistes Johann Jakob Irminger.122 In Dankbarkeit erin-
+
+116 Zürich ZB, Ms D 240, 395r–408r: »Oratio in publico consessu et hyemali audi-
+torio de variis ostentis ac prodigiis anno MDCXIIX hinc inde visis, auditis et in tabulas
+publicas relatis. Recitata a Iohanne Rodolpho Lavatero a. d. IV. Non. Januarii [= 2.
+Januar] anno MDCXVIIII«; ebd., 409r–420v: »Oratio de matrimonio sacerdotibus a
+pontificibus Romanis prohibito et effectis inhibitionem hancce sequutis; ipsa Caroli
+feria in publico consessu et hyemali auditorio XXIIX. Ianuarii Iuliani MDCXIX recitata
+a Iohanne Rodolpho Lavatero, in Collegio Carolino artium professore ordinario«.
+
+117 Zürich ZB, Ms S 442, 134r–141v: »Oratio ipsa Felicis et Regulae feria, anno
+MDCXXI habita a Johanne Rodolpho Lavatero, in Collegio Carolino artium profes-
+sore. Hora VIII matutina in auditorio aestivo« (unvollständige Abschrift). Die Rede
+behandelt ein politisches Thema, ebd., 135v: »[…] rationibus solidissimis demonstrabo
+pacem fidam ac tutam cum rege Hispaniarum a Reformatis iniri nulla ratione posse.«
+118 Ignatius von Loyola (1491–1556) und Francisco de Jassu y Javier (1506–1552)
+waren beide 1622 durch Papst Gregor XV. heiliggesprochen worden, vgl. Lexikon der
+Namen und der Heiligen, hg. von Otto Wimmer und Hartmann Melzer, Inns-
+bruck/Wien 1988, 293–295; 390–393.
+
+119 VD 17 12:647714P. Ebd., A2r: »[…] si / morbi corporis aut et universim, / si
+mors eloquii impetum eruditi / sensisset quoque; nae suavitate / placasses, Lavatere, et
+hanc et illos.«
+
+120 Lacrymae Musarum Helveticarum, A3r–v. Zu Waser vgl. HLS, Bd. 13, Basel
+
+2014, 273f.
+
+121 Lacrymae Musarum Helveticarum, [A4]r–v.
+122 Lacrymae Musarum Helveticarum, [A4]v–B2v.
+
+Heterodoxie und Ungehorsam
+
+109
+
+nert sich auch Rudolf Schwarzenbach, mittlerweile Diakon am
+Fraumünster, an seine Studienzeit in Hanau bei Lavater. Seinen
+ehemaligen Lehrer ansprechend, ruft er aus: »Ich bekenne, dass,
+wenn ich überhaupt etwas bin, dies nur dein Verdienst ist!« Und er
+fährt fort: »Beendet, Sterbliche, die Trauer, hört auf zu weinen, /
+Lavater, mit allem, was zu ihm gehört, ist nun an einem besseren
+Ort.«123
+
+2. Die Festrede vom 1./11. März 1623
+
+Im Titel wird Lavaters Festrede als »solemnis gratiarum actio […]
+publice habita« bezeichnet. Sie wurde öffentlich gehalten, und
+zwar vor einem Publikum, das die gesamte Zürcher Gesellschaft
+abbilden sollte: Gleich zu Beginn werden explizit der Bürgermeis-
+ter,124 die Ratsherren, Zunftvertreter, Bürger, Pfarrer, Lehrer sowie
+die Studenten der Zürcher Schulen angesprochen. Der offizielle
+Charakter wie auch die Tatsache, dass sie auf Latein gehalten wur-
+de, verbinden Lavaters Festrede mit den beiden orationes acade-
+micae solemnes, die alljährlich am Karlstag (28. Januar) und an
+der Kirchweih (11. September) vom Antistes selbst oder aber von
+anderen ausgewählten Rednern vorgetragen wurden.125 Lavaters
+ΠαλιγγενησιÂαlässt sich insofern als eine außerordentliche oratio
+academica solemnis betrachten, die nach dem Modell der Karlstags-
+und Kirchweihreden konzipiert und in einem ähnlichen Zusam-
+menhang gehalten wurde.
+
+Lavater beginnt seine Ausführungen, indem er den traditionellen
+Vergleich der Kirche mit einem Schiff in Erinnerung ruft, welches
+auf seiner Fahrt zahlreichen Gefahren ausgesetzt ist und deshalb
+auf die Fähigkeiten der See- und Steuermänner angewiesen bleibe.
+So sei es zu bedauern, wenn »besonders vertrauenswürdige Steu-
+ermänner« (gubernatores fidelissimi) abhandenkämen, während
+
+123 Lacrymae Musarum Helveticarum, B3v: »Si quid sim, fateor, muneris esse tui. /
+
+Sistite, mortales, lugubria, sistite planctus, / res Lavateri omnes sunt meliore loco.«
+
+124 Seit 1617 war Hans Heinrich Holzhalb (1564–1637) Bürgermeister von Zürich,
+
+vgl. HLS, Bd. 6, Basel 2007, 449f.
+
+125 Siehe Wirz, Historische Darstellung, Bd. 1, 343f. Die Karlstagsrede wurde 1623
+
+durch Johann Rudolf Lavater gehalten, vgl. oben Kap. 1.3.
+
+110
+
+Luca Baschera
+
+ihre Bewahrung immer einen großen Gewinn darstelle.126 Die
+rechtzeitige Entdeckung des Komplotts gegen den niederländischen
+Statthalter hatte gerade eine solche »Bewahrung« eines »vertrau-
+enswürdigen Steuermannes« zur Folge, denn Moritz von Oranien
+hatte sich bereits zur Zeit der Dordrechter Synode in den Augen
+Lavaters und aller Verfechter der reformierten Orthodoxie als Ver-
+teidiger des »wahren Glaubens« erwiesen. Im Einklang mit der
+Berichterstattung der niederländischen Regierung liest Lavater die
+Ereignisse von Februar 1623 konsequent vor dem Hintergrund der
+Auseinandersetzungen zwischen Remonstranten und Kontrare-
+monstranten und sieht im Ressentiment der Ersteren gegenüber
+den Letzteren die Haupttriebfeder für die Planung des Attentats
+gegen Moritz. Insofern ist es nachvollziehbar, dass er zunächst auf
+jene Kontroverse sowie auf die Synode von Dordrecht eingeht.
+
+2.1 Die arminianische Kontroverse und die Dordrechter Synode
+
+Lavater berichtet ausführlich über die Ereignisse, die zur Einberu-
+fung der Synode von Dordrecht führten. Er geht auf Jacobus Ar-
+minius und seine Lehre sowie auf die Auseinandersetzungen ein,
+die auf deren Verbreitung folgten. Die zahlreichen Übereinstim-
+mungen in Struktur und Wortlaut zwischen Lavaters Bericht und
+der Praefatio ad ecclesias aus den Acta synodi nationalis (Leiden,
+1620) legen nahe, dass diese seine Hauptinformationsquelle dar-
+stellte. Lavaters Erzählung der Vorgeschichte der Dordrechter Syn-
+ode ist insofern als eine Zusammenfassung der Praefatio ad ec-
+clesias zu betrachten.
+
+Das Bild, das Lavater von Arminius und seinen Schülern zeich-
+net, fällt jedoch noch negativer aus, als dies in der Praefatio der
+Fall war. Arminius wird als zwar feinsinnig (vir ingenii subtilis),
+aber auch als übermäßig ehrgeizig, der akzeptierten Lehre als sol-
+chen überdrüssig und als streitsüchtig dargestellt. Zugleich wirft
+ihm Lavater Heuchelei und Verstellung seiner eigentlichen Mei-
+nung vor, Respektlosigkeit gegenüber der überlieferten Doktrin
+und gar den Gesetzen seines Vaterlands (patriae leges) wie auch
+
+126 Siehe unten S. 123: »Quanta ergo in amissione gubernatorum fidissimorum est
+
+iactura, tantum, auditores, in eorumdem conservatione est lucrum.«
+
+Heterodoxie und Ungehorsam
+
+111
+
+Trunkenheit vor. Letzterer Vorwurf ist insofern merkwürdig, als
+Arminius sonst sowohl von Jüngern als auch von Kontrahenten als
+äußerst nüchtern und tugendhaft beschrieben wird.127 Die Unter-
+stellung, Arminius habe zu antitrinitarischen Positionen geneigt,
+war hingegen weit verbreitet.128
+
+Alle schlechten Eigenschaften des Lehrers färbten Lavater zufol-
+ge auf dessen Schüler, die Unterstützer der durch Johannes Wten-
+bogaert verfassten »Remonstranz« vom 14. Januar 1610, ab. So
+zeichneten sie sich durch Hartnäckigkeit und Voreingenommenheit
+aus (pervicacia et praeiudicium), sie seien rasend und unverschämt
+(aestro quasi perciti, exuta omni modestia) und suchten ständig
+nach Ausflüchten, um ihre wirklichen Überzeugungen zu verbergen
+(Arminiani interim tergiversari). Weshalb Lavater zusammenfas-
+send festhält: »Das ist die Hauptgrundlage der seuchenhaften ar-
+minianischen Sekte: Meineid, Lüge, Täuschung, Doppelzüngigkeit
+und ausgefuchste Listigkeit.«129 Demgegenüber werden Moritz von
+Oranien Klugheit, wacher Sinn und eine bewundernswerte innere
+Kraft (prudentia, vigilantia, admirabilis animi fortitudo), ebenso
+wie eine besondere Liebe zur Orthodoxie (singularis in orthodo-
+xiam affectus) attestiert. Letzterer sei schließlich zu verdanken ge-
+wesen, dass Moritz, unterstützt durch seinen Vetter – Wilhelm
+Ludwig, Graf von Nassau-Diez – und durch König Jakob I. von
+England, Schottland und Irland, es schaffte, die Nationalsynode
+von Dordrecht einberufen zu lassen, zu der Delegationen aus allen
+ausländischen reformierten Kirchen eingeladen wurden.
+
+Auch während der Synode änderten die Arminianer ihr Verhal-
+ten nicht und versuchten mit allen Mitteln, eine direkte Bespre-
+chung der umstrittenen Aspekte ihrer Lehre zu umgehen. Dies
+konnte letztlich allerdings nicht verhindern, dass die Synode und
+daraufhin die Generalstaaten die arminianische Lehre offiziell ver-
+urteilten und alle, die sich ausdrücklich dazu bekannt hatten, ihrer
+
+127 Vgl. Carl Bangs, Arminius. A Study in the Dutch Reformation, Nashville, TN
+1971, 255f. Mit Dank an Prof. Dr. Keith Stanglin (Austin Graduate School of Theo-
+logy, Austin, TX) für den freundlichen Hinweis.
+
+128 Vgl. Carl Bangs, Arminius and Socinianism, in: Socinianism and its Role in the
+Culture of the XVIth to XVIIIth Centuries, hg. von Lech Szczucki et al., Warsaw/Ło´ dz´
+1983, 81–84.
+
+129 Siehe unten S. 127: »Hoc primum pestiferae sectae Arminianae fundamentum:
+
+periurium, mendacium, simulatio, lingua subdola et vafrities vulpina.«
+
+112
+
+Luca Baschera
+
+kirchlichen und akademischen Ämter enthoben. Die Verurteilung
+der Arminianer brachte auch politische Folgen mit sich, bedeutete
+sie doch einen Sieg Moritz’ und seiner Partei gegen ihren Kontra-
+henten, den Landsadvokaten Johan van Oldenbarnevelt, der sich
+demonstrativ auf die Seite der Remonstranten geschlagen hatte.
+Oldenbarnevelt wurde daraufhin wegen Hochverrates vor Gericht
+geführt, verurteilt und am 13. Mai 1618 in Den Haag hingerichtet.
+
+2.2 Der Komplott von 1623
+
+Nach der Hinrichtung Johans van Oldenbarnevelt konnte Moritz
+seine Macht weiterhin konsolidieren. Damit ging eine konsequente
+Ausgrenzung und Unterdrückung der Remonstranten einher. Bei-
+des stellte die Weichen für die Ereignisse vom Frühjahr 1623.
+
+Denn hinter dem Komplott – dem eigentlichen Thema der Rede
+Lavaters, zu dem er nun übergeht – standen vor allem die beiden
+Söhne Johans, Willem und Reinier van Oldenbarnevelt.130 Letzte-
+ren erwähnt Lavater zwar auch, wenn er auf die bereits erfolgten
+Verhaftungen zu sprechen kommt. Für das Unternehmen macht er
+aber in erster Linie und pauschal die Remonstranten verantwort-
+lich, und zwar aufgrund des tiefen Hasses, den sie gegen Moritz
+empfänden. So betont Lavater die führende Rolle des remonstran-
+tischen Pfarrers von Bleiswijk, Henricus Slatius (1585–1623), bei
+der Planung des Anschlags. Slatius war in der Tat von Anfang an
+involviert gewesen und hatte auch publizistisch in drei zwischen
+1619 und 1623 anonym veröffentlichten Pamphleten die Legiti-
+mität des Tyrannenmords betont.131
+
+Allgemein ist bei Lavater die Tendenz erkennbar, die politische
+Untreue der Remonstranten als notwendige Folge ihrer Hetero-
+doxie darzustellen. Diese Tendenz fand sich einerseits in den offi-
+ziellen Berichterstattungen der niederländischen Regierung wieder,
+resonnierte andererseits aber auch mit der in Zürich seit den An-
+fängen der Reformation vertretenen Auffassung des Verhältnisses
+von Kirche und Staat bzw. Glaube und Politik.132
+
+130 Freya Sierhuis, The Literature of the Arminian Controversy. Religion, Politics,
+and the Stage in the Dutch Republic, Oxford et al. 2015, 176 und 190; Jan den Tex,
+Oldenbarnevelt, 2 Bde., Cambridge 1973, hier Bd. 2, 682.
+
+131 Sierhuis, Literature, 175–189.
+132 Siehe unten, Kap. 3.
+
+Heterodoxie und Ungehorsam
+
+113
+
+Die Verschwörer beabsichtigten, Moritz von Oranien auf dem
+Weg von Den Haag nach Rijswijk zu überfallen. Zum letztgenann-
+ten Ort begab er sich nämlich häufig, um seine dort lebende Ge-
+liebte Margaretha van Mechelen (1580–1662) zu besuchen (ein
+Aspekt, den allerdings weder Lavater noch andere Berichte aus der
+Zeit erwähnen). Der Überfall war für Dienstag, den 7. Februar
+(gregorianisch) geplant. Unter anderen waren auch vier Seemänner
+als Hilfskraft bei der Ausführung des Plans angeheuert, aber nicht
+über die eigentlichen Absichten der Verschwörer informiert wor-
+den: Ihnen wurde nur gesagt, sie würden dabei ihrem Land die-
+nen.133 Die vier wurden jedoch misstrauisch und entschieden am 6.
+Februar, Moritz persönlich in Kenntnis dessen zu setzen, was ge-
+rade vor sich ging. Die Reaktion des Statthalters ließ nicht auf sich
+warten. Das Versteck mit den Waffen für das Attentat wurde ge-
+funden und auch die erste Verhaftung vollzogen. Es handelte sich
+dabei um »einen gewissen Zimmermann« (tormione quodam),134
+der sofort unter Folter verhört wurde und folgende weitere Namen
+von am Komplott Beteiligten angab: den bereits erwähnten Slatius,
+Cornelis Geesteranus (1588–1648, remonstrantischer Pfarrer in
+Gouda), Gerardus Velsius (gest. nach 1623, remonstrantischer
+Pfarrer in Rakanje) sowie den »Stadtschreiber von Bleiswijk« (se-
+cretarius Bleiswichanus), Adriaan Adrianszoon van Dijk (gest.
+1623). Diese vier Namen wurden in einer offiziellen Kundgebung
+der niederländischen Regierung genannt, die am 9. Februar veröf-
+fentlicht wurde und auf die auch Lavater hinweist. Darin wurde
+unter anderem ein Kopfgeld von 4000 Floren auf jeden der vier
+Verschwörer ausgesetzt.135 In seinem Bericht erwähnt Lavater noch
+die »wenige Tage später« erfolgten Verhaftungen von Van Dijk
+(verhaftet in Hazerswoude am 14. Februar136) und von Reinier van
+Oldenbarnevelt (verhaftet in Vlieland am 18. Februar137), weist je-
+doch zugleich darauf hin, dass die Ermittlungen noch liefen, wes-
+
+133 Brandt, History, Bd. 4, 464.
+134 Dieser Zimmermann, dessen Name weder Lavater noch seine Vorlage (siehe unten
+Anm. 222) verraten, ist wohl mit Cornelis Gerritszoon bzw. Gerritsz zu identifizieren.
+Gerritszoon war der Schwager von Henricus Slatius und wurde am 24. Februar 1623
+(gregorianisch) hingerichtet, vgl. Brandt, History, Bd. 4, 491f.
+
+135 Vgl. den vollständigen Text der Kundgebung in: Brandt, History, Bd. 4, 466.
+136 Brandt, History, Bd. 4, 473.
+137 Brandt, History, Bd. 4, 476.
+
+114
+
+Luca Baschera
+
+halb man sich noch kein vollständiges Bild der Ereignisse machen
+könne. Seine Ausführungen zum Komplott schließt Lavater mit
+einem Hinweis auf merkwürdige Naturereignisse ab, die am Tag
+des geplanten Anschlags beobachtet worden seien.138
+
+Die ersten Hinrichtungen fanden bereits am 24. Februar (gre-
+gorianisch) statt, als etwa der »Zimmermann aus Rotterdam« und
+Schwager von Henricus Slatius, Cornelis Gerritszoon, zum Scha-
+fott geführt wurde.139 Weitere sollten bald folgen: Am 29. März
+wurden Reinier van Oldenbarnevelt, Adriaan van Dijk sowie Da-
+vid Korenwinder dem Henker überantwortet,140 während Slatius,
+der erst Anfang März verhaftet werden konnte, nach einem lang-
+wierigen Prozess am 5. Mai letztlich enthauptet wurde.141
+
+Der Komplott, die Verhaftungen und Hinrichtungen – die letzten
+fanden zwischen Ende Juni und Anfang Juli statt142 – stießen eu-
+ropaweit auf große Resonanz. Diese wurde in den Niederlanden
+durch die Veröffentlichung von fünf Nachrichtendrucken bzw.
+Bildberichten zusätzlich gesteigert, die der Künstler Claes Janszoon
+Visscher (1587–1652) anfertigte und sich offenbar gut verkauf-
+ten.143 Die besondere Detailliertheit und Brutalität, mit denen Vis-
+scher die Folterung und Hinrichtung der »arminianischen« Ver-
+schwörer darstellte, zeichnen diese Nachrichtendrucke gegenüber
+anderen seiner Werke aus und waren vermutlich nicht zuletzt der
+dezidiert antiremonstrantischen Haltung Visschers geschuldet.144
+
+138 Vgl. die ähnliche Schilderung in: Latomus, Relationis historicae semestralis con-
+tinuatio, 94: »In zeit als diese Conspiration ins Werck sollen gericht / vnd hierdurch ein
+allgemeiner Alarm vnnd Auffstand im Land erregt worden seyn / sind Sonn / Mond /
+Sterne mit dicken finstern Wolcken vnterzogen gewesen / hat sich den 9. Febr[uar] im
+Stifft Utrecht ein solch Ungewitter mit schroe cklichem Dennern vnd Blitzen erhaben /
+daß man vermeynt / der jue ngste Tag were vorhanden.«
+
+139 Brandt, History, Bd. 4, 491.
+140 Brandt, History, Bd. 4, 520f.
+141 Mit ihm zusammen wurden drei weitere am Komplott Beteiligte zum Schafott
+geführt: Willem Perty sowie Jan und Abraham Blansaert. Vgl. Brandt, History, Bd. 4,
+536–539; Maureen Warren, A Shameful Spectacle: Claes Jansz. Visscher’s 1623 News
+Prints of Executed Dutch »Arminians«, in: Death, Torture and the Broken Body in
+European Art, 1300–1650, hg. von John R. Decker und Mitzi Kirkland-Ives, Farn-
+ham/Burlington, VT 2015, 228.
+
+142 Warren, Shameful Spectacle, 229.
+143 Warren, Shameful Spectacle, 208–225.
+144 Warren, Shameful Spectacle, 215 und 218.
+
+Heterodoxie und Ungehorsam
+
+115
+
+3. Heterodoxie und Ungehorsam
+
+Seine Festrede lässt Lavater in eine Art Lobgesang, bestehend aus
+poetischen Paraphrasen von insgesamt elf verschiedenen Psalmen
+(18; 29; 33; 57; 62; 66; 106; 108; 113; 124; 129), münden. Die
+Paraphrasen übernimmt er aus einer Sammlung, die 1581 der Gen-
+fer Theologe Theodor Beza und der schottische Humanist George
+Buchanan (1506–1582) gemeinsam herausgegeben hatten.145 Die-
+sen hymnischen Schluss leitet Lavater durch allgemeine Bemerkun-
+gen zu den zuvor geschilderten Ereignissen ein, die zu einem bes-
+seren Verständnis der Intention der gesamten Rede verhelfen.
+
+Auf die rhetorische Frage, ob seine Zuhörer denn jemals von
+Ereignissen gehört hätten, die mit der Verschwörung gegen Moritz
+von Oranien vergleichbar wären, antwortet Lavater, indem er auf
+zwei berühmte »Massenmorde« aus der fernen Vergangenheit hin-
+weist: den durch Mithridates VI. Eupator abgegebenen »Blutbefehl
+von Ephesos« (88 v.Chr.) sowie die von Peter III. von Arago´ n
+veranlasste »Sizilianische Vesper« (1282).146 Der arminianische
+Aufstand sei allerdings moralisch weit verwerflicher als die beiden
+erwähnten Ereignisse. Denn Mithridates und Peter III. hätten ge-
+gen fremde und feindliche Völker Gewalt ausgeübt, während die
+Arminianer vorgehabt hätten, ihrer eigenen Obrigkeit, ihren Mit-
+bürgern, ja, »ihrem eigenen Fleisch und Blut« (propria viscera) zu
+schaden. Ein solcher Wahnsinn disqualifiziert die Verschwörer in
+den Augen Lavaters nicht nur als Untertanen und Bürger, sondern
+gar als Menschen (o deploratam hominum, non-hominum amen-
+tiam et vesaniam!). Ihr Verhalten sei somit zwar keineswegs zu
+rechtfertigen, könne jedoch erklärt werden. Denn, was diese Män-
+ner vorhatten, gehe letztlich auf ihre Verwerfung des orthodox-
+
+145 Psalmorum sacrorum Davidis libri quinque duplici poetica metaphrasi, altera al-
+teri e regione opposita vario carminum genere Latine expressi Theodoro Beza Vezelio et
+Georgio Buchanano Scoto autoribus, Morges: Jean Le Preux, 1581 (Bibliography of
+George Buchanan, hg. von John Durkan, Glasgow 1994, Nr. 144). Buchanans Psal-
+menparaphrasen waren Pflichtlektüre beim Lateinunterricht am Collegium humanitatis,
+vgl. Nabholz, Zürichs Höhere Schulen, 35.
+
+146 Es mag überraschen, dass Lavater die von ihm geschilderten Ereignisse nicht auch
+mit dem »Gunpowder Plot« gegen König Jakob I. von England (5. November 1605) in
+Zusammenhang stellt, welcher von seiner Anlage her (eine gescheiterte Verschwörung
+gegen einen »rechtgläubigen« König, die von »Andersgläubigen« organisiert worden
+war) mit dem Komplott von 1623 gut vergleichbar gewesen wäre.
+
+116
+
+Luca Baschera
+
+reformierten Glaubens zurück, so wie dieser durch die Dordrechter
+Synode bekräftigt worden sei: Ihr politischer Ungehorsam habe
+eindeutig in ihrer Heterodoxie seinen Ursprung, er sei gleichsam
+das zweite Fundament der arminianischen Häresie (hoc est alterum
+Arminiane sectae fundamentum, […] patriam patriasque leges in-
+vertere).
+
+So wird es auch klar, weshalb es sich in den Augen Lavaters
+besonders lohne, über den Komplott gegen Moritz von Oranien
+nachzudenken. An ihm lasse sich nämlich gleichsam ex negativo
+beobachten, in welch engem Zusammenhang Treue zu Gott und
+Treue zur rechtmäßigen Obrigkeit stünden. Lavater sagt seinen
+Zuhörern also implizit: Wer den rechten Glauben bewahrt, wird
+auch ein treuer Bürger seines Staates sein; wer hingegen wie die
+Arminianer von der Orthodoxie abweicht, wird früher oder später
+auch auf politischer Ebene untreu werden.
+
+Die gesamte Rede Lavaters zielt gewissermaßen auf die Bekräf-
+tigung dieses politisch-theologischen Grundsatzes. Indem Lavater
+ihn bejaht, erweist er sich als Erbe einer Denktradition innerhalb
+des reformierten Protestantismus, die besonders in seiner Heimat
+Zürich seit der Reformationszeit verwurzelt war und großen Ein-
+fluss etwa auf Großbritannien ausübte.147 Dabei handelt es sich um
+eine organische Auffassung der beiden Instanzen Staat und Kirche
+als »zwei Spezies derselben Art«148 bzw. als zwei Erscheinungsfor-
+men ein und derselben Gemeinschaft. Diese Sicht fasste bereits
+Huldrych Zwingli im berühmten Diktum zusammen: »Christia-
+num hominem nihil aliud esse quam fidelem ac bonum civem, ur-
+bem Christianam nihil quam ecclesiam Christianam esse.«149 So-
+wohl Zwingli wie auch später Heinrich Bullinger modellierten ihr
+Verständnis des Verhältnisses von Kirche und Staat nach dem Vor-
+bild des alttestamentlichen israelitischen Königtums150 und plädier-
+
+147 Vgl. W. J. Torrance Kirby, The Zurich Connection and Tudor Political Theology,
+
+Leiden/Boston 2007 (Studies in the History of Christian Traditions 131), bes. 25–41.
+
+148 Helmut Kreßner, Schweizer Ursprünge des anglikanischen Staatskirchentums, Gü-
+
+tersloh 1953 (Schriften des Vereins für Reformationsgeschichte 170), 24.
+
+149 Huldrych Zwingli, Complanationis Ieremiae prophetae foetura prima, hg. von
+Oskar Farner, Zürich 1956 (Huldreich Zwinglis Sämtliche Werke [Z] 14), 424,20–22.
+
+150 Kreßner, Ursprünge, 39.
+
+Heterodoxie und Ungehorsam
+
+117
+
+ten folglich dafür, dass beide als einander zugeordnete, aufeinan-
+der angewiesene und gemeinsam Gott gegenüber für ihr Handeln
+verantwortliche Akteure agierten.151
+
+Dementsprechend seien einerseits die kirchlichen Amtsträger ge-
+genüber der weltlichen Obrigkeit zum Gehorsam in politischen
+Belangen vepflichtet und gleichzeitig damit beauftragt, sie nach
+christichen Maßstäben zu beraten und zu ermahnen.152 Anderer-
+seits seien die politischen Machthaber als »Diener Gottes« (vgl.
+Röm 13) dazu verpflichtet, Ordnung und Frieden innerhalb des
+ihnen unterstehenden Territoriums zu wahren, und zugleich damit
+beauftragt, die cura religionis wahrzunehmen.153 Letztere besteht
+Bullinger zufolge aus drei miteinander verknüpften Aspekten: der
+Förderung der Verkündigung der Wahrheit, der Ausrottung von
+Aberglauben und Gottlosigkeit sowie dem Schutz der Kirche:
+
+»Vornehmste Aufgabe der Obrigkeit ist es, für den Frieden und die öffent-
+liche Ruhe zu sorgen und sie zu erhalten. Das kann sie natürlich niemals auf
+glücklichere Weise tun, als wenn sie wahrhaft gottesfürchtig und fromm ist,
+das heißt nach dem Vorbild der allerheiligsten Könige und Fürsten des Got-
+tesvolkes die Predigt der Wahrheit und den reinen Glauben fördert, Lügen
+und jeden Aberglauben, samt aller Gottlosigkeit und allem Götzendienst,
+
+151 Vgl. Ruth Wesel-Roth, Thomas Erastus. Ein Beitrag zur Geschichte der reformier-
+ten Kirche und zur Lehre von der Staatssouveränität, Lahr 1954 (Veröffentlichungen
+des Vereins für Kirchengeschichte in der evang. Landeskirche Badens 15), 103–107; J.
+Wayne Baker, Heinrich Bullinger and the Covenant. The Other Reformed Tradition,
+Athens, OH 1980, 110f.; Emidio Campi, Bullingers Rechts- und Staatsdenken, in:
+Evangelische Theologie 64/2 (2004), 117–123; Andreas Mühling, Heinrich Bullinger als
+Kirchenpolitiker, in: Zwingliana 31 (2004), 237–250, hier 243; Maissen, Die Geburt
+der Republic, 313.
+
+152 Heinrich Bullinger, Semonum decades quinque, 2 Bde., hg. von Peter Opitz, Zü-
+rich 2008 (Heinrich Bullinger Theologische Schriften [HBTS] 3/1–2), Bd. 1, 192,16
+[II.7]: »Iubetur vir politicus audire ecclesiasticum […].«
+
+153 Bullinger, Decades, Bd. 1, 189,6–8 [II.7]: »Veritas autem catholica docet curam
+religionis maxime pertinere ad magistratum et hunc non tantum posse, sed debere etiam
+disponere et provehere religionem.« Siehe auch Heinrich Bullinger, De scripturae sanc-
+tae authoritate deque episcoporum institutione et functione, bearb. von Emidio Campi
+unter Mitwirkung von Philipp Wälchli, Zürich 2009 (HBTS 4), 3,20f. [Vorrede an
+Heinrich VIII.]: »Nam primum et potissimum, quod ad regum cura pertinet, est religio
+ac fides«; ebd., 4,5f.: »[…] ad reges profecto pertinet liber legis dei et cura religionis«;
+ebd., 6,6f.: »Regum officium primarium esse religiosos esse et religionem accurate et
+ante omnia curare.«
+
+118
+
+Luca Baschera
+
+ausrottet und die Kirche schützt. Also lehren wir, dass einer christlichen
+Obrigkeit die Sorge für die Religion in erster Linie obliege.«154
+
+Bei aller Betonung des organischen Zusammenhangs von politi-
+schem und kirchlichem Amt wird jedoch in der spezifisch religösen
+Sphäre den kirchlichen Amtsträgern ein eindeutiges Primat zuer-
+kannt. Denn sie seien diejenigen, die die Glaubenswahrheiten ver-
+kündigen, während die Obrigkeit bloß die Aufgabe hätte, dafür zu
+sorgen, dass ihre Verbreitung nicht verhindert werde:
+
+»Obwohl, was die Religion anbelangt, weder der Prophet der Obrigkeit
+noch die Obrigkeit dem Propheten sich grundsätzlich unterzuordnen hat,
+behält dennoch der Prophet das Primat in dieser Sache; denn es ist Aufgabe
+der Lehrer, erstens zu lehren, zweitens das, was nicht recht verstanden und
+begriffen worden ist, zurechtzubringen. So wird der Prophet alle insgesamt
+die Religion lehren, als der ganz besonders dazu bestimmte Oberpriester
+und Myste. Die Obrigkeit wird das, was daraus folgt, in die Hand nehmen,
+sodass die das richtig Gelehrte nicht Ausführenden oder das Gegenteil Ver-
+anlassenden zurechtgewiesen werden.«155
+
+Freilich wird bei der Bestimmung der Aufgabe des Staates in Bezug
+auf die Bewahrung und Förderung des wahren Glaubens allgemein
+angenommen, dass sich die politische Instanz – wie ja in Zürich der
+Fall war – zum christlichen und speziell zum evangelischen Glau-
+
+154 Henrich Bullinger, Confessio Helvetica Posterior, hg. von Emidio Campi, in: Re-
+formierte Bekenntnisschriften, Bd. 2/2: 1562–1569, hg. von Andreas Mühling und Peter
+Opitz, Neukirchen-Vluyn 2009, 243–345, hier 344,18–24 [Kap. 30]: »Eius officium
+praecipuum est, pacem et tranquillitatem publicam procurare et conservare. Quod sane
+nunquam fecerit felicius, quam cum fuerit vere timens Dei ac religiosus, qui videlicet ad
+exemplum sanctissimorum regum principumque populi domini, veritatis praedicatio-
+nem, et fidem synceram promoverit, mendacia et superstitionem omnem cum omni
+impietate et idololatria exciderit, ecclesiamque Dei defenderit. Equidem docemus reli-
+gionis curam, imprimis pertinere ad magistratum sanctum.«
+
+155 Zwingli, Complanationis Ieremiae, 420,9–15: »Quamvis neque propheta magis-
+tratui neque magistratus prophetae debeat religione cedere, primas tamen ea in re pro-
+pheta tenet, quia praeceptorum primum munus est docere, posterius ea, quae non recte
+intellecta aut coepta sunt, emendare. Sic propheta religionem cunctos simul docebit ut
+peculiaris huius re pontifex et mysta. Magistratus, quod sequitur, capesset, ut qui, quod
+probe doctum est, aut non moliuntur aut contrarium perpetrant, corrigant.« Vgl. Z 6/5,
+50–162, hier 115,1–6: »In ecclesia Christi e˛que necessarius est magistratus atque pro-
+phetia, utcumque illa sit prior. Nam sicut homo non potest constare nisi ex anima et
+corpore, quantumvis corpus sit humilior pars atque abiectior, sic et ecclesia sine ma-
+gistratu constare non potest, utcunque magistratus res crassiores et a spiritu alieniores
+curet ac disponat.«
+
+Heterodoxie und Ungehorsam
+
+119
+
+ben bekennt (magistratum sanctum). Dort, wo diese Bedingung
+nicht erfüllt werde, werde die Obrigkeit ihrer Aufgabe, für die Re-
+ligion zu sorgen, wohl nicht nachkommen und sich damit vor Gott
+strafbar machen. Dies stelle allerdings ihre Legitimität nicht grund-
+sätzlich in Frage. Vielmehr blieben die Untertanen auch einem
+gottlosen Machthaber gegenüber zum Gehorsam verpflichtet:
+
+»Wenn er [sc. der König] aber in seiner Anmaßung Gewalt anwendet, dann
+lehren wir, dass man weiterhin einem Gottlosen zu gehorchen habe, bis ihn
+der Herr entweder von seiner Machtstellung und von seiner Herrschaft
+entfernt oder einen Plan zeigt, wie er seiner Funktion enthoben werden und
+zur Ordnung gezwungen werden kann, und zwar durch diejenigen, denen
+dieses Recht zukommt.«156
+
+Bilden christlicher (d.h. durch den orthodoxen Glauben verteidi-
+gende Herrscher regierter) Staat und christliche Kirche zwei Di-
+mensionen einer einzigen Entität, so folgt für Lavater daraus un-
+weigerlich, dass Untreue gegenüber der einen auch Ungehorsam
+gegenüber dem anderen mit sich bringen wird. Genau dies sei 1623
+geschehen, als Vertreter einer häretischen Bewegung versuchten,
+ihren legitimen und die Orthodoxie fördernden Fürsten zu ermor-
+den. Das große Pathos, mit dem Lavater vom gescheiterten Kom-
+plott berichtet, sowie die Eindeutigkeit, mit der er die heterodoxe
+Haltung der Arminianer als die Wurzel ihres politischen Ungehor-
+sams identifiziert, zeugen davon, dass seine Festrede ein weiteres,
+klares Ziel neben der bloßen Berichterstattung verfolgte: das Zür-
+cher Ideal einer organischen Beziehung zwischen Staat und Kirche,
+zwischen politischem und geistlichem Amt sowie zwischen politi-
+scher und kirchlicher Zugehörigkeit der Bürger zu bekräftigen.
+
+156 Zwingli, Fidei expositio, 114,1–5: »Sin contumacius vim facit, docemus eo usque
+impio quoque parendum esse, donec illum dominus aut magistratu imperioque amoveat
+aut consilium suppeditet, quo ipsum functione exuere et in ordinem compellere possint,
+quibus ea provincia incumbit.« Zur Frage des Widerstandsrechtes bei Zwingli vgl. Z
+6/5, 114, Anm. 1; Campi, Bullingers Rechts- und Staatsdenken, 121, Anm. 20.
+
+120
+
+Luca Baschera
+
+4. Edition
+
+Die folgende Edition von Lavaters Rede beruht auf der Abschrift,
+die sich im Anhang zu Breitingers handschriftlichem Kopienband
+zur Synode von Dordrecht (Zürich ZB, Ms G2) findet.
+
+Konsequente Normalisierungen wurden im Bereich der Inter-
+punktion und der Groß- und Kleinschreibung vorgenommen: Die
+Interpunktion folgt den heute üblichen Gepflogenheiten und der
+Text wird mit Ausnahmen in Kleinschreibung wiedergegeben.
+Groß geschrieben werden Satzanfänge, Personen- und Ortsnamen,
+Bezeichnungen von Sprachen und Personengruppen sowie Werkti-
+tel. Die Buchstaben u/v werden nach ihrem Lautwert normalisiert
+und j stets mit i wiedergegeben. Das lange s wird als s, ß als ss,
+e-caudata als ae und & als »et« aufgelöst. Stillschweigend aufge-
+löst werden auch Ligaturen (z.B. æ/ae, œ/oe etc.), Abbreviaturen
+(z.B. q3/que) und Nasalstriche. Nicht wiedergegeben werden auch
+die Akzente über den Vokalen (a`, aˆ, etc.). Die Akzentsetzung bei
+griechischen Wörtern erfolgt nach den heute üblichen Regeln. Ab-
+kürzungen werden in eckigen Klammern aufgelöst.
+
+Die Paginierung des Originals wird am Seiteninnenrand wieder-
+gegeben. Textkritische Anmerkungen, Nachweise zu zitierten
+Quellen sowie Erläuterungen zu erwähnten Personen und Ereig-
+nissen erscheinen in den Fußnoten.
+
+Heterodoxie und Ungehorsam
+
+121
+
+[Vorrede Johann Jakob Breitingers zum Band
+
+(Autograph)]
+
+[s.p., r]
+
+Johannes Jacobus Breitingerus157 lectori salutem.
+
+Habes acta celeberrimae illius synodi Belgicae, ab orthodoxis ce-
+lebratae Dordraci Batavorum adversus errores Iacobi Arminii
+theologi Lugdunensis. Ortum controversiarum et progressum ora-
+tione eleganti et brevitate felicissima complexus est clarissimus
+v[ir] Rodolphus Lavaterus, cuius exemplum habes ad huius volu-
+mini calcem. Edita sunt Acta auspiciis dd. Ordinum158 itemque alia
+ab Arminianis.159 Mea haec, priusquam ederuntur priora illa neque
+illa editum iri existimarem, collegi cum in usum privatum tum ut
+gratificarer ecclesiae Tigurinae eiusque futuris ministris. Quod in
+sessionum synodicarum numero et tempore videtur esse discrimen,
+reipsa nullum est. Ego usus sum stylo vetere, illi novo. Quaedam
+sessiones ego habebam privatarum loco et tantum consignavi ce-
+lebriores; illi pro publicis habebant plures. His observatis omnia
+facile conciliantur. Multa in hisce meis invenies scitu fors non in-
+digna, quae illi ad se praestare non poterant existimare; ego illa ad
+me et nostros vel maxime. Tu mecum deo gratias age ingentes, qui
+operi immensi laboris et sumptuum nec non gravissimarum soli-
+citudinum longe refertissimo clementissime benedixit. Ipsi sit laus,
+honor et gloria, per dominum nostrum Iesum Christum, in saecula.
+
+Amen.
+
+[s.p., v]
+
+(Leer)
+
+[…]
+
+157 Zur Schweizer Delegation an der Dordrechter Synode vgl. Acta of the Synod of
+Dordt, hg. von Donald Sinnema et al., Göttingen 2015 (Acta et Documenta Synodi
+Nationalis Dordrechtanae [1618–1619] 1), LXXXIV–LXXXVI.
+
+158 Acta synodi nationalis […] Dordrechti habitae anno MDCXVIII et MDCXIX,
+
+Leiden: Issac Elzevir, 1620.
+
+159 Acta et scripta synodalia Dordracena ministrorum Remonstrantium in foederato
+
+Belgio, Hardewijk: Typographus synodalis, 1620.
+
+1411
+
+1412
+
+1413
+
+122
+
+Luca Baschera
+
+Foederati Belgii
+παλιγγενησιÂα,
+
+hoc est
+
+Solemnis gratiarumactio pro admirabili inauditae
+conspirationis patefactione et memorabili status
+
+totius ut et serenissimorum principum AURIACORUM
+
+conservatione.
+
+Nomine
+
+ecclesiae scholaeque Tigurinae
+
+publice habita
+
+a
+
+Iohanne Rodolpho Lavatero Tigurino
+
+ad d[iem] Mart[ii] Iulian[i]
+
+(Leer)
+
+[1. Prolog]
+
+Non abs re ecclesia Iesu Christi – pater patriae, consul amplissime,
+inclitae et illustris huius reipublicae proceres nobilissimi, equites et
+archiduces illustres et generosi, venerandi collegii huius praesules,
+reverendi et clarissimi pastores, doctores et professores, viri nobi-
+litate, pietate et prudentia spectatissimi tuque lectissima nobilissi-
+morum et ornatissimorum iuvenum corona – comparatur navicu-
+lae, in cuius prora spes, in solio ad malum fides cum cruce, in
+puppi caritas clavum tenet.160 Quo hieroglyphico sancti patres si-
+gnificare voluerunt Christi ecclesiam in hoc humanae vitae salo
+crebris tempestatibus iactandam, omnes tamen miserias et cala-
+mitates mutua caritate et συμπαϑει Â ìα devorandas, spe immarces-
+cibilis boni omnibus ex hoc impetuosissimo persecutionum ponto
+feliciter enatantibus a deo promissi.
+
+Et quemadmodum, si
+
+venti velut agmine facto161
+
+160 Vgl. Pseudo-Clemens, Epistola prima ad Iacobum fratrem domini, in: Patrologia
+
+Latina, hg. von Jacques Paul Migne, Bd. 130, Paris 1880, 24C–25A.
+
+161 Publius Vergilius Maro, Aeneis, in: Publii Vergilii Maronis opera, hg. von Roger
+
+Aubrey Baskerville Mynors, Oxford 1969, 105 [1,82].
+
+Heterodoxie und Ungehorsam
+
+123
+
+incubuere mari fluctusque ad sidera tollunt;162
+
+si
+
+stridens Aquilone procella
+velum aversa ferit,163
+
+et statim
+
+insequitur cumulo, praeruptus aquae mons;164
+
+si navis ipsa in brevia et syrtes urgetur, si vadis illiditur, si saxis
+laterum compagibus, rimis fatiscit fune; omnis spes reliqua est in
+navis gubernatore, utpote qui adlaborat ut socii
+transtra novent saxisque ambesa reponant
+robora navigiis aptent remosque rudentesque,165
+
+qui
+
+vastas aperit syrtes et temperat aequor
+atque rotis summas levibus perlabitur undas.166
+
+Sic etiam ingruente ecclesiae horrenda persecutionis tempestate
+post deum opt[imum] max[imum], cuius gratiam et auxilium om-
+nis christianus
+
+ingemit et duplices palmas ad sidera tendit,167
+
+omnis spes posita est in ecclesiae parastatis, prostatis, epistatis,
+utpote qui hostium multitudinem fugare, eorundem robur domare,
+astus et doloris omnem vim a corpore, a capite, a vita propulsare,
+iniuriam illatam vindicare, longo usu et exercitatione didicare iam
+dudum, qui sunt laboriosi in negotiis, fortes in periculis, industrii
+in agendo, celeres in conficiendo.
+
+Quemadmodum etiam gubernatoribus de puppi in mare praeci-
+pitatis aut etiam a fluctibus excussis navem in saxa latentia tor-
+queri necesse est, ita ecclesiae parastatis e medio sublatis aut etiam
+sanguineo Bellonae168 flagello interemptis gregem Christi dissipari,
+conglomerante turba in partes scindi consequens esse solet. Quan-
+ta ergo in amissione gubernatorum fidissimorum est iactura, tan-
+tum, auditores, in eorumdem conservatione est lucrum.
+
+162 Proba, Cento, hg. von Karl Schenkl, Wien 1881 (Corpus scriptorum ecclesiasti-
+
+corum Latinorum 16/1), 601 [538]: »Consurgunt uenti et fluctus ad sidera tollunt.«
+
+163 Vergilius, Aeneis, 106 [1,102f.].
+164 Vergilius, Aeneis, 106 [1,105].
+165 Vgl. Vergilius, Aeneis, 222 [5,752f.]: »[…] transtra novant flammisque ambesa
+
+reponunt / robora nauigiis, aptant remosque rudentisque«.
+
+166 Vergilius, Aeneis, 107 [1,146f.].
+167 Vergilius, Aeneis, 354 [10,667]: »[…] duplicis cum voce manus ad sidera tendit«.
+168 Bellona, römische Göttin des Krieges, vgl. NP, Bd. 2, Stuttgart 1997, 556.
+
+1414
+
+124
+
+Luca Baschera
+
+Unde non immerito foederatum Belgium hisce diebus propter
+admirabilem nefariae proditionis patefactionem et memorabilem
+praeter spem coniuratorum totius foederati Belgi status victorio-
+sissimi principis Auriaci, bellicosissimi Henryci Nassauii,169 illus-
+trium in suprema curia assessorum conservationem in dei opt[imi]
+maximi
+laudes effusum est; scilicet minoris existimans omnes
+utriusque Indiae garas quam totius status, tantorum gubernatorum
+novam et plane divinam παλιγγενησιÂαν. De qua, cum et illa pro-
+pter communionem, quae nobis est in Christo, merito nos tangat,
+ex apostoli edicto ϕιλαδελϕιÂας et ϕιλοστοργιÂας testandae caus-
+sa170 ecclesiae scholaeque Tigurinae nomine repetito paullo altius
+principio in praesentiarum dicere constitui, ut et nos, alieno peri-
+culo cauti, discamus omni tempore hostium nefanda molimina ex-
+secrari et pro clementissimi dei benigna171 liberatione et conserva-
+tione deo gratias votivas agere.
+
+Tu, aeterne deus, adesto mihi gratia, amore, favore. Vos, audi-
+
+tores, benevolentia et attentione.
+
+[2. Die arminianische Kontroverse und die Synode
+
+von Dordrecht]
+
+[2.1 Jacobus Arminius]
+
+Iacob Arminius,172 celeberrimi emporii Amstelodamensis pastor,
+vir ingenii subtilis et ignei, sed ad turbas nati, cum singularem
+aliquam gloriam et nomen in asserenda orthodoxia consequi se
+posse desperaret pleraque in reformatis ecclesiis recepta dogmata
+vel hoc ipso nomine, quod essent recepta, fastidire et nihil, nisi
+
+169 Friedrich Heinrich von Oranien-Nassau (1584–1647), ab 1625 Statthalter der
+seines Halbbruders Moritz von Oranien-Nassau
+
+Niederlande als Nachfolger
+(1567–1625), vgl. ADB, Bd. 7, Leipzig 1878, 576–579.
+
+170 Röm 12,10.
+171 »benigna« – am Seitenrand Einschub: »ecclesiae suae«.
+172 Jacobus Hermanszoon (Arminius, 1560–1609), 1603–1609 Professor der Theo-
+logie in Leiden; seine theologischen Ansichten wurden zur Grundlage der »Remons-
+trantischen Bewegung«. Vgl. TRE, Bd. 4, Berlin/New York 1979, 63–69. Zum folgen-
+den Bericht über die Ereignisse, die zur Einberufung der Dordrechter Synode von
+1618/19 führten, sowie über die Synode selbst vgl. Praefatio ad ecclesias, in: Acta syn-
+odi nationalis, ††1r–††††3r.
+
+1415
+
+Heterodoxie und Ungehorsam
+
+125
+
+quod aliqua novitatis specie sese commendaret, approbare coepit –
+vafre tamen et subdole – ratus tentanda prius esse vada quam sese,
+invidioso hoc certationum et disceptationum pelago committeret.
+Quam ob caussam non tam suos, quam et aliarum ecclesiarum
+doctores et professores sub amicae collationis specioso titulo sub-
+inde compellavit173 totamque orthodoxiam, ut per eius contemp-
+tum gradum sibi ad gloriam sterneret, sub heterodoxi persona pri-
+vatim externavit et sugillavit; quo quidem duo se consecutum, pos-
+tea gloriari solitus fuit, et quod praecipuorum theologorum ingenia
+explorarit et plurimorum animos sua sponte ad quamvis audaciam
+ituros obfirmarit.
+
+Inter caeteros ecclesiarum pastores Iohannem Utenbogardum,174
+virum disertum eoque nomine cum excellentissimo principi tum ex
+Ordinibus Generalibus viris eminentioribus carum, in casses suas
+pertraxit, ut ipsius commendatione in aula et curia magnatum
+amorem et favorem sibi conciliaret novaeque sectae in occulto tu-
+tius semina spargeret.
+
+Effectu sane non irrito. Cum enim anno superioris seculi175 no-
+nagesimo secundo176 vir pietate et eruditionis laude clarissimus
+Franciscus Iunius177 fato suo fungeretur, Utenbogardus curatoribus
+academiae Leidensis author fuit, ut Arminium, inter caeteros Bel-
+gas excitatiori ingenii virum, Iunio surrogarent, ratus eumdem evi-
+dentiori cum commodo in academia, in qua iuventus ministerio
+ecclesiarum consecrata instituitur maiorque docendi et dicendi li-
+
+173 Gemeint sind die beiden erst posthum im Druck erschienenen Schriften: Amica
+cum d[omino] Francisco Iunio de praedestinatione per litteras habita collatio, Leiden:
+Godefridus Basson, 1613; Examen modestum libelli, quem d[ominus] Gulielmus Per-
+kinsius […] edidit ante aliquot annos de praedestinationis modo et ordine itemque de
+amplitudine gratiae divinae, Leiden: Godefridus Basson, 1612. Vgl. Richard A. Muller,
+God, Creation, and Providence in the Thought of Jacob Arminius, Grand Rapids, MI
+1991, 22f.
+
+174 Johannes Wtenbogaert (Uytenbogaert, 1557–1644), Herausgeber der »Remons-
+tranz« von 1610 und darauf Anführer der Remonstratischen Bewegung. 1591–1619
+war er Pfarrer in Den Haag, wurde jedoch nach der Verurteilung der Remonstranten
+durch die Synode von Dordrecht abgesetzt und konnte erst 1626 wieder eine Pfarrstelle
+antreten. Vgl. Biografisch lexicon voor de geschiedenis van het Nederlands protestan-
+tisme, hg. von D. Nauta et al. [BLNP], Bd. 2, Kampen 1983, 464–468.
+
+175 »superioris seculi« – unterstrichen.
+176 »nonagesimo secundo« – am Seitenrand: »NB a[nno] 1602«.
+177 Franciscus Junius d.Ä. (Franc¸ois du Jon, 1545–1602), reformierter Theologe und
+
+Professor zuerst in Heidelberg, ab 1592 dann in Leiden. Siehe oben Anm. 29.
+
+126
+
+Luca Baschera
+
+bertas indulgetur quam in ecclesia aliqua particulari, in qua luxu-
+riantia et novaturientia ingenia presbyterii vigilantia atque autho-
+ritate intra limites facile coercentur, esse vexsaturum priscamque
+fidem et religionem, antiquos mores, maiorum instituta, patrias
+leges eversurum novaque sectarum monstra, nova religionum com-
+menta caeteraque ludificandis animis per otium et vini calorem
+(erat enim Arminius vino deditissimus) callide excogitata audaci-
+orum et simpliciorum animis instillaturum.
+
+Et quamvis ecclesiarum deputati in eius vocationem, utpote viri
+de heterodoxia maximopere suspecti, consentire nollent, authori-
+tate tamen et commendatione Utenbogardi effectum est, ut spreto
+omnium cordatiorum et presbyterii Amstelodamensis amico et fi-
+deli consilio in Iunii locum vocaretur; summo sane prudentiorum
+cum cordolio et moerore, utpote qui mature ex herba praeviderant,
+qualis tamen exspectanda esset sementis, extruso in messem do-
+mini tam vafro et subdolo operario.
+
+Arminius Lugdunum Batavorum profectus, antequam in pan-
+egyri doctorum et professorum ad studiosam iuventutem sermo-
+nem haberet, pro more et Academiae lege obtestatione solemni
+promisit opiniones novas et in reformato Belgio nondum receptas
+nunquam se disseminaturum nihilque aliud quam orthodoxiam in
+reformatarum ecclesiarum scholis hactenus traditam et explicatam
+docturum; disertis verbis professus omnia Pelagianorum178 dog-
+mata, utpote a patribus, Augustino cumprimis, solide confutata
+rectissimeque damnata, ex animo se exsecrari iudicareque divinis
+literis esse contraria, ecclesiae pestifera atque perniciosa. Et ut om-
+nem heterodoxias suspicionem rotunda sententiae suae declarati-
+one a se amoliri posset, disputationibus aliquam multis publice in
+Academia habitis, doctrinae orthodoxae praecipua dogmata, dam-
+natis aliorum opinionibus fanatis (quas tamen postea approbavit)
+egregie defendit;
+imitatus nebulonem illum, qui dicere solitus:
+»Lingua iurans mentem iniuratam gero«,179 et Priscilliani180 disci-
+
+178 Pelagius (4./5. Jh. n.Chr.), britischer Mönch, wurde 416 und 418 wegen seiner
+Leugnung der Ursündenlehre sowie aufgrund seiner als häretisch betrachteten Soterio-
+logie verurteilt. Vgl. NP, Bd. 9, Stuttgart 2000, 487f.; TRE, Bd. 26, Berlin/New York
+1996, 176–185.
+
+179 Vgl. Desiderius Erasmus, Adagia, Bd. 3, hg. von M. Szyman´ ski, Amsterdam 2005
+(Opera Omnia Desiderii Erasmi Roterodami 2/3), 432,725–729 [Nr. 1441]: »Illud e
+tragoedia cessit in prouerbium: […] ›Lingua iurauit‹, vbi quis non praestat fidem pro-
+
+1416
+
+Heterodoxie und Ungehorsam
+
+127
+
+pulos, qui iuramentum sic admittebant, ut etiam periurium admit-
+terent, ne quid occultum doctrinae suae revelarent, iuxta illud:
+
+Iura, periura, secretum prodere noli.181
+
+Imitatus Iesuitarum per aequivocationes182 et mendacia abominan-
+das strophas, quibus orthodoxorum interrogationes et quaesti-
+ones, ne, quod animo fovent, quisquam resciscat, eludunt et eli-
+dunt, expresse contra apostolum, qui omnes paratos esse cupit ad
+respondendum cuilibet petenti rationem eius spei, quae in nobis
+est, cum lenitate et reverentia.183 Atque hoc primum pestiferae sec-
+tae Arminianae fundamentum: periurium, mendacium, simulatio,
+lingua subdola et vafrities vulpina.
+
+Interim, quod diu animo fovit et coxit, dissidiorum virus pec-
+torisque secreta mens, corpus vino flagrans, paulo post aperuit,
+dum nostrorum argumenta et sententias inter pocula variis excep-
+tionibus et frivolis argutiis enervatum ivit et, nescio quam, novam
+theologiam et in priscam ac receptam animadversiones in secreto
+promisit. Factum inde, ut eius discipuli, domum ad suos reversi aut
+ad alias academias ipsius iussu dilapsi, disputando, contradicendo
+et orthodoxiam vellicando proterve ecclesiis orthodoxis passim in-
+sultarent, omnia dogmata christiana aut in dubium vocarent aut
+saltem simplicioribus suspecta redderent. Tandem progrediente
+malo, cum in omnibus locis adhaerentium numero et authoritate
+satis se suffultum cerneret, in publicum prorupit et varias de prae-
+destinatione, libero arbitrio aliisque doctrinae orthodoxae capiti-
+bus quaestiones movere coepit.184
+
+missi aut vbi non ex animo pollicetur. Est apud Euripidem in Hippolyto coronato: […]
+›Iurata lingua est, animus iniuratus est‹.«
+
+180 Priscillianus (4. Jh.), spanischer Asket und Begründer des Priscillianismus, vgl.
+
+NP, Bd. 10, Stuttgart 2001, 340–342.
+
+181 Aurelius Augustinus, De haeresibus ad Quodvultdeum, hg. von R. van der Plaetse
+und C. Beukers, Turnhout 1969 (Corpus christianorum series Latina 46), 333,1–7
+[70,1]: »Priscillanistae […] propter occultandas autem contaminationes et turpitudines
+suas habent in suis dogmatibus et haec uerba: ›Iura, peiera, secretum prodere noli‹.«
+
+182 Zur »Aequivocatio« als rhetorischem Mittel vgl. Historisches Wörterbuch der
+
+Rhetorik, hg. von Gert Ueding, Bd. 1, Tübingen 1992, 196–199.
+
+183 1Petr 3,15f.
+184 Vgl. Jacobus Arminius, Disputationes magnam partem s[acrae] theologiae com-
+
+plectentes publicae et privatae, Leiden: Johannes Patius/Thomas Basson, 1610.
+
+128
+
+Luca Baschera
+
+Haec et alia cum ecclesiae Batavicae mature animadverterent, ne
+tantum schisma vires acquireret eundo et labefactata doctrinae re-
+formatae sinceritate imbutaque pravis opinionibus iuventute tan-
+tum malum, gangraenae instar, saniorum mentes depasceret, per
+deputatos eius mentem serio excutiunt et, quid in recepta doctrina
+desideret, amice sibi exponi cupiunt.
+
+At homo subdolus, cui cordis secreta sincere aperire aut a fa-
+natica opinione, quod sine honoris iactura fieri non posse opina-
+batur, discedere non erat integrum, ad artes suas confugere, nunc
+tergiversari, nunc fori (ut loquuntur) incompetentiam praetendere,
+nunc collationem185 privatam admittere, nunc repudiare, interim
+synodi examen et decisionem toto pectore adversari Iesuitico sane
+modo, tandem singulari astu et academiae curatorum favore a col-
+legiis nimio in eum amore excaecatis, οë μολογι Âας186 et in funda-
+mentalibus unanimis consensus testimonium obtinuit eoque om-
+nem sinistram opinionem a se amoliri voluit.
+
+At vero synodus in Hollandia meridionali congregata,187 cui hu-
+iusmodi decipulae merito suspectae, ut et omne schisma studiose
+praecaveret et simul consensum in asserenda orthodoxia unani-
+mem impetraret, serio mandat, ut singuli pastores et professores
+Confessioni Belgicae188 subscribant in eademque propugnanda pro
+Sparta, quam quisque nactus, gnaviter desudent.189
+
+Qui ab Arminii partibus stabant, nonnullorum procerum prae-
+sidio elati, authoritatem synodi contemnere audaciusque hetero-
+doxiam urgere coeperunt.
+
+Re ad illustrissimos dd. Ordines Generales delata fusiusque,
+quam caudam malum hoc secum trahat, explicata, synodus nati-
+
+185 »collationem« – korrigiert aus: »collatam«.
+186 Die Handschrift liest wohl irrtümlicherweise an dieser Stelle οë μοδελϕι Âας.
+187 Gemeint ist eine Regionalsynode, die Ende Sommer 1605 in Rotterdam tagte, vgl.
+
+Praefatio ad ecclesias, ††2r–v.
+
+188 Die »Confessio Belgica« von 1561, deren Hauptverfasser Guy de Bre`s
+(1523–1567) war, galt seit der nationalen, in Dordrecht abgehaltenen Synode von 1574
+als offizielle Bekenntnisschrift der reformierten Kirchen in den Niederlanden. Vgl. Re-
+formierte Bekenntnisschriften, Bd. 2/1: 1559–1563, hg. von Miha´ly Bucsay et al., Neu-
+kirchen-Vluyn 2009, 319–323 (Einleitung zur »Confessio Belgica«), 324–343 (franzö-
+sischer Text), 343–369 (lateinischer Text).
+
+189 Vgl. Erasmus, Adagia, Bd. 3, 397,2–5 [Nr. 1401]: »Spartam nactus es, hanc orna.
+[…] Admonet adagium, vt quamcunque prouinciam erimus forte nacti, ei nos accom-
+modemus proque huius dignitate nos geramus.«
+
+1417
+
+Heterodoxie und Ungehorsam
+
+129
+
+onalis unicum tollendis schismatibus remedium humillime posci-
+tur. Et tum benignissime impetrata fuisset, nisi et Arminii et eo-
+rum, qui ab ipso stabant, definitivam sententiam non in deputa-
+torum, sed deputantium atque adeo ipsius vulgi, iam in Arminii
+sententiam proclivis, voto et suffragiis subsisteri asseverantium et
+Catecheseως190 ut et Confessionis iam dudum receptae et tot mar-
+tyrum sanguine obsignatae revisionem et emendationem urgentium
+proterva audacia synodo poenitenda remora iniecta esset. Inter hos
+cumprimis Adolph Venator,191 Alcmarianae ecclesiae, in Hollandia
+boreali, pastor, qui eo nomine ab officio suspensus, authoritate
+tamen et intercessione Utenbogardis in pristinam stationem resti-
+tutus est.192
+
+Interim Arminius cum complicibus crebro conveniunt, quibus
+modis plurimi errores, quos olim Pelagiani, Ebionitae,193 Samosa-
+teniani194 horribili audacia propugnarunt et nuper demum Serve-
+tus,195 Ochinus,196 Blandrata,197 Socinus,198 Osterodius199 eorum-
+
+190 Gemeint ist der »Heidelberger Katechismus«.
+191 Adolphus Tectander Venator (de Jager, ca. 1569–1618), reformierter Pfarrer in
+Alkmaar. In seiner Schrift Theologia vera et mera lactentium et infantium in Christo
+(Alkmaar: Jacob de Meester, 1617) vertrat er sozinianische Positionen, weshalb das
+Buch auch der Zensur unterstellt wurde. Vgl. BLNP, Bd. 2, Kampen 1983, 433–435;
+Bibliographia Sociniana. A Bibliographical Reference Tool for the Study of Dutch So-
+cinianism and Antitrinitarianism, hg. von Piet Visser, Hilversum/Amsterdam 2004, Nr.
+3129.
+
+192 Vgl. Praefatio ad ecclesias, [††5]v–[††6]r.
+193 Die Ebionäer (gelegentlich auch »Minäer« oder »Nazoräer« genannt) waren eine
+judenchristliche Sekte ohne eindeutiges theologisches Profil, welche heterodoxe chris-
+tologische Ansichten vertrat. Vgl. NP, Bd. 3, Stuttgart 1997, 860f.
+
+194 Paulus von Samosata (gest. nach 272), Bischof von Antiochien von 261 bis 268.
+Verurteilt als Häretiker im Jahr 268, wurde er später als Vorläufer des Monophysitis-
+mus betrachtet. Vgl. TRE, Bd. 26, Berlin/New York 1996, 160–162.
+
+195 Michael Servetus (1511–1553), spanischer Arzt und Antitrinitarier, wurde in
+Genf überführt und hingerichtet. Vgl. TRE, Bd. 31, Berlin/New York 2000, 173–176;
+Roland H. Bainton, Hunted Heretic. The Life and Death of Michael Servetus
+1511–1553, Boston, MA 1953.
+
+196 Bernardino Tommasini, genannt »Ochino« (1487–1564), General des Kapuziner-
+ordens, später als reformierter Prediger in Genf, Straßburg, Augsburg, London und
+Zürich tätig. Infolge der Veröffentlichung seiner Dialogi triginta wurde er des Antitri-
+nitarismus bezichtigt und 1563 aus Zürich verbannt. Ochino starb im folgenden Jahr im
+mährischen Slavkov. Vgl. Michele Camaioni, Il Vangelo e l’Anticristo. Bernardino Ochi-
+no tra francescanesimo ed eresia (1487–1547), Bologna 2018; Die Religion in Geschich-
+te und Gegenwart. Handwörterbuch für Theologie und Religionswissenschaft, hg. von
+Hans Dieter Betz et al., Bd. 8, Tübingen 2005, 453.
+
+130
+
+Luca Baschera
+
+que complices ab inferos revocarunt, in vulgus spargi possint, in
+commune consulunt.
+
+Ecclesiae, etsi precibus libellisque supplicibus per synodum na-
+tionalem aut saltem provincialem malum tantum sopitum cupe-
+rent, frustra tamen fuerunt, procerum nonnullorum animis Arminii
+et Utenbogardi strophis et aequivocationibus in suam partem per-
+tractis.
+
+Interea anno huius seculi nono, octobris Iuliani die octavo, in
+gravissimum morbum Arminius inciderat, qui eundem variis sym-
+ptomatibus maceratum, cum paullo ante mortem exfluxo ex utro-
+que oculo humore crystallino mente caecus corporali quoque cae-
+citate factus esset, eiusdem mensis die XIX. ex ac vita sustulit re-
+licto post se complicum magno cordolio.200
+
+[2.2 Entwicklung der Kontroverse
+
+um die Lehre des Arminius]
+
+Eo e vivis sublato videbatur maxima malorum pars cum ipso so-
+pita et quasi sepulta; at eius discipuli in rabiem et furorem acti
+longe audacius et impudentius qua publice qua privatim acerbis-
+simis contumeliosissimisque insectationibus orthodoxiam adoriri
+animosque inprimis magnatum adversus eam fidosque eiusdem
+doctores exacerbare coeperunt. Nec satis illis fuit privatis susurris
+publicisque ac tribunitiis concionibus procerum plebisque animos
+concitare, sed publicis quoque scriptis magno numero et non mi-
+nore scandalo in vulgum emissis orthodoxiam virulenter proscin-
+
+197 Giorgio Biandrata (1515–1588), Arzt, Diplomat und Kirchenpolitiker, Schlüssel-
+figur des Antitrinitarismus in der zweiten Hälfte des 16. Jhs., vgl. TRE, Bd. 5, Ber-
+lin/New York 1980, 777–781.
+
+198 Fausto Sozzini (1539–1604), Jurist und wichtiger Mitarbeiter Biandratas bei der
+Konsolidierung der antitrinitarischen Bewegung in Mittelosteuropa, vgl. Biographisch-
+bibliographisches Kirchenlexikon, hg. von Friedrich Wilhelm Bautz et al. [BBKL], Bd.
+10, Herzberg 1995, 849–857.
+
+199 Christoph Ostorodt (ca. 1560–1611), Antitrinitarier, stand seit den 1590er Jahren
+im intensiven Gedankenaustausch mit Fausto Sozzini und war an der Systematisierung
+der Theologie des entstehenden Sozinianismus maßgeblich beteiligt. Vgl. Daugirdas, Die
+Anfänge des Sozinianismus, 239–261.
+
+200 Vgl. Praefatio ad ecclesias, [††6]r; Petrus Bertius, Oratio in obitum reverendi et
+
+clarissimi viri d[omini] Iacobi Arminii, Leiden: Ioannes Patius, 1609, 37 und 43f.
+
+1418
+
+Heterodoxie und Ungehorsam
+
+131
+
+dere, putidissimo mendacio procerum gratiam aucupati orthodo-
+xorum magistratuum authoritatem ire comminutum ac labefacta-
+tum potestatemque potestati collateralem seu aequalem affecta-
+tum.
+
+Interim Arminiani, ne capite et charago carerent, de alio in Ar-
+minii locum surro gando serio cogitarunt et autoritate Utenbogardi
+facile impetrarunt, ut Conrad Vorstius,201 pestiferorum dogmatum
+iam diu suspectus, invitis et reluctantibus ecclesiis vocaretur. Sed
+serenissimi Britanniae regis202 creberrimis monitis et illustriss[imo-
+rum] Geldriae, Westfrisiae et Zutphaniensium Ordinum piis con-
+siliis effectum, ut Goudam, quo loci ab obiectis erroribus sese pur-
+garet, amandatus fuerit.203
+
+Arminiani interim eum se undiquaque premi nec eo, quo vellent,
+modo pestifera sua dogmata propagari viderent, ad extrema con-
+fugiunt et, quod diu animo cogitarunt homines nequissimi, turbis
+et seditionibus concitato cive in civem, abominanda audacia pri-
+mipilo in urbe Alcmariana Adolpho Venatore turbone improbo,
+rem aggressi sunt. Et mox non tam in ipsis oppidis quam pagis et
+villis ministri orthodoxi ab officiis remoti, nonnulli fustibus et do-
+loribus eiecti, ipsi magistratus de solio deturbati.
+
+Quod malum intra Hollandiae limites sese minime continuit, sed
+foras ad Geldriae, Ultraiectinae et Transinsulanae ecclesias pro-
+manavit, adeo ut exiguo temporis spatio sola Arminiana secta pu-
+blice obtineret, eiectis ubique sincerioris vitae et doctrinae minis-
+tris.
+
+Serpente per omnes provincias tam pestifero malo singulorum
+statuum Ordines in Hollandiam suos deputatos mittunt enixeque
+rogant, ut decidendis controversiis synodus nationalis indicatur
+saevaque tantarum turbarum tempestate per amica colloquia se-
+
+201 Conrad Vorstius (1569–1622), 1596–1611 Professor am Gymnasium Illustre in
+Steinfurt; 1611 wurde er nach Leiden berufen, um die Nachfolge von Jakob Arminius
+anzutreten; 1619 wurden seine remonstrantisch und sozinianisch gefärbten Ansichten
+durch die Dordrechter Synode offiziell verurteilt. Vgl. BBKL, Bd. 13, Herzberg 1998,
+84–90; Jan Rohls, Der Fall Vorstius, in: Religiöser Nonkonformismus und frühneuzeit-
+liche Gelehrtenkultur, hg. von Friedrich Vollhardt, Berlin 2014 (Quellen und Darstel-
+lungen zur Geschichte des Antitrinitarismus und Sozinianismus in der Frühen Neuzeit
+2), 179–198.
+
+202 James VI. und I. Stuart (1566–1625), König von Schottland, ab 1603 auch König
+
+von England und Irland, vgl. ODNB, Bd. 29, Oxford et al. 2004, 628–657.
+
+203 Vgl. Praefatio ad ecclesias, †††2v.
+
+132
+
+Luca Baschera
+
+data pax et concordia ubique restituatur. Sed Hollandiae advocati
+Oldenbarnevelti204 summa authoritate et Utenbogardi summa ne-
+quitia et versutia nihil impetrari potuit, quin orthodoxis omni con-
+ventu et synodis interdiceretur mutuaeque tolerantiae lex promul-
+garetur publice. Orta hinc maior animorum distractio, maior per-
+secutio, calumniandi licentia effusior et profusior iamque totus
+quoque status politicus videbatur non leviter concussus et labefac-
+tatus.
+
+Ea ob caussam potentiss[imus] Magnae Britanniae rex, sere-
+niss[imus] princeps Auriacus Mauritius,205 illustriss[imus] Guil[el-
+mus] Ludov[icus] Nassov[iae],206 illustres caeterarum provincia-
+rum Ordines pro singulari suo in orthodoxiam affectu illustres et
+praepotentes Ordines Generales monendos duxerunt, ne gangra-
+enam hanc corpus reipublicae depascere diutius paterentur, sed
+infoelicibus illis contentionibus et factionibus manifestum statui
+periculum minitantibus obviam irent et synodum nationalem, ut-
+pote ordinarium, legitimum et efficacissimum tanto modo leniendo
+et pellendo remedium procurarent.
+
+Arminiani interim tergiversari, synodum nationalem improbare,
+aliam dirimendarum controversiarum viam et rationem proponere.
+Irrito tamen effectu. Nam regum et principum auctoritas, poten-
+tissimarum quoque Hollandiae et Westfrisiae civitatum instantia et
+preces illustriss[imos] dd. Ordines sua sponte iam eo propendentes
+ad assensum facile permoverunt.
+
+At illi efferatiores facti Acheronta movere ad desperata consilia
+devenire aliquot hominum millia pro sui defensione conscribere,
+
+204 Johan van Oldenbarnevelt (1547–1619), 1586–1618 Landsadvokat von Holland
+und Gegner der Kontraremonstranten. Wegen Landesverrats am 29. August 1618 in-
+haftiert und zusammen mit Hugo Grotius (1583–1645) und dem Pensionär von Leiden,
+Rambout Hogerbeets (1561–1625), vor Gericht gestellt, wurde Oldenbarnevelt am 13.
+Mai 1619 hingerichtet. Vgl. Jonathan Israel, The Dutch Republic. Its Rise, Greatness,
+and Fall 1477–1806, Oxford 1995, 421–460; Tex, Oldenbarnevelt.
+
+205 Moritz (1567–1625), Graf von Nassau-Katzenelnbogen, seit 1618 Prinz von Ora-
+nien; nach dem Tod seines Vaters Wilhelm I. (1533–1584) Statthalter von Holland,
+Seeland, Geldern, Utrecht, Overijssel, Groningen und Drenthe, vgl. Neue deutsche Bio-
+graphie, hg. von der historischen Kommission bei der Bayerischen Akademie der Wis-
+senschaften, Bd. 18, Berlin 1997, 139–141.
+
+206 Wilhelm Ludwig (1560–1624), Vetter von Moritz von Oranien-Nassau, Graf von
+Nassau-Diez und ab 1584 Statthalter von Friesland, vgl. ADB, Bd. 43, Leipzig 1898,
+134–136.
+
+1419
+
+Heterodoxie und Ungehorsam
+
+133
+
+de iure maiestatis singularum provinciarum agi, sceleribus suis ob-
+tendere, regum principumque consilia famosis libellis proscindere,
+sumatim omnia sursum vorsum miscere.
+
+Et sane foederatum Belgium iam eversum et sub iugum redactum
+esset, nisi illustrissimorum dd. Ordinum et nunquam satis laudan-
+da sereniss[imi] principis Mauritii (cui et nunc et porro bene sit)
+prudentia, dexteritate, vigilantia, admirabili animi fortitudine et
+celeritate, sine ulla sanguine effusione, quod non inter postrema
+victoriosissimi principis trophaea poni debet, mature efferatorum
+furor repressus omnisque miles iussu suo in carcerem prius detrusis
+complicum antesignanis abdicationi huic vi resistere conantibus
+exauthoratus atque abdicatus fuisset.207 O admirabilem dei boni-
+tatem! O insignem et nunquam satis depraedicandam victoriam!
+
+Interim Iohannes ab Oldenbarnevelt, Hollandiae advocatus,
+eques et sigilli magni custos, vir auctoritatis et dignitatis summae,
+quo Arminiani hactenus patrono usi nihil intentatum reliquerant,
+ob multas et graves caussas in custodiam cum aliis deductus ansam
+praebuit nonnullis, qui eius partes sequebantur e Belgio evadendi,
+excedendi, erumpendi, inter quos Utenbogardus, Iacob Taurinus,208
+Adolph Venator et Nicolaus Grevinchovius,209 Arminianorum co-
+riphaei et Oldenbarnevelti technarum et proditoriarum210 machi-
+nationum gnari.
+
+Habitae interea in singulis provinciis synodi et conventus parti-
+culares, ad quos vocati et honorifice invitati pastores Arminiani
+omnes et singuli, ut singuli aut universi sententiam suam de vulgo
+nobis controversis articulis scripto comprehensam exhiberent et, si
+quid in Confessione Belgica aut Catechesi desiderarent, plene et
+plane exponerent.
+
+Qui comparuere, benigne habiti, auditi et dimissi eorumdemque
+scripta nationali synodo fuere communicata. Cum vero nonnulli
+comparere nollent; alii, praesertim Geisterani fratres,211 horrenda,
+
+207 Vgl. Praefatio ad ecclesias, ††††2r.
+208 Jacob Taurinus (van Toor, 1577–1618), Pfarrer in Utrecht und Unterstützer der
+
+Remonstranten, vgl. BLNP, Bd. 2, Kampen 1983, 416–418.
+
+209 Nicolaas Grevinchoven (gest. 1632), Pfarrer in Rotterdam und Remonstrant, vgl.
+Nieuw Nederlandsch biografisch woordenboek, hg. von P. C. Molhuysen und P. J. Blok
+[NNBW], Bd. 2, Leiden 1912, 506f.
+
+210 »proditoriarum« – von anderer Hand.
+211 Johannes Evertsz Geesteranus (Geisteranus, 1586–1622), Pfarrer in Alkmaar und
+
+134
+
+Luca Baschera
+
+damnata olim dogmata, veteres omnes haereses novo paxillo sus-
+penderent et quicquid usquam errorum pestiferorum fuit, id omne
+velut post liminio in lucem revocarent; alii levibus rationum sub-
+tilitatibus Socini errores tanquam purpurissa et caeromate incrus-
+tarent; alii vita improba et turbulentis actionibus ministerio sese
+indignos redderent; auditis examinatisque decenter accusationibus
+contra ipsos productis, partim a munere suspensi, partim exau-
+thorati, nonnullorum caussa ad synodi recognitionem reiecta fuit.
+
+[2.3 Die Synode von Dordrecht]
+
+Dedere interea illustriss[imi] dd. Ordines litteras ad orbis reformati
+monarchas, principes et respublicas, quibus petebant, ut suos ali-
+quot theologos, viros doctrina, pietate et prudentia excellentes ad
+hanc synodum pro compositione contro versiarum et pace conse-
+quenda oblegare dignarentur. Quod officium ut pium et ecclesiae
+Christi debitum denegare non potuere, missis aliquammultis viris
+prudentissimis et religiosissimis interque hos ab inclyta republica
+nostra, quem honoris caussa nomino, clarissimo ecclesiae nostrae
+antistite Iacobo Breitingero, cuius, ut ipsi fatentur, apud ipsos
+sanctissima, carissima et honorificentissima memoria.
+
+Anno nati Christi MDCXIIX, mensis Novembris die 13., in no-
+mine et timore domini in urbe Dordrechto congregata atque in-
+choata fuit synodus nationalis, in qua exterarum gentium deputati
+honorifice excepti et singulis sedes et stationes designatae. Ipsi
+etiam Arminiani die XVI. eiusdem mensis publice citati.212
+
+Comparuere quam plurimi, quibus fraterne exceptis et ad syn-
+odum admissis humaniter indicatum synodum hanc ab illus-
+triss[imis] dd. Ordinibus hunc in finem esse indictam, ut schisma,
+quod magno cum bonorum moerore et non minore scandalo in
+unitissimas, religione, animis et fide coniunctissimas foederati Bel-
+gii provincias irrepserit, per amicam et fraternam collationem tol-
+latur paxque ecclesiis perturbatis restituatur pristina et christiana.
+
+Remonstrant, vgl. BLNP, Bd. 2, Kampen 1983, 210f. Petrus Geesteranus (gest. nach
+1650), Pfarrer in Egmond und Remostrant; er wurde durch die Dordrechter Synode
+wegen sozinianischer Ansichten verurteilt. Vgl. NNBW, Bd. 3, Leiden 1914, 447f.
+
+212 Acta of the Synod, 200,22–201,22.
+
+1420
+
+Heterodoxie und Ungehorsam
+
+135
+
+Id vero ut decenter et ordine fieri posset, visum illustriss[imis] dd.
+Ordinibus Generalibus, ut ante omnia de quinque vulgo notis ar-
+ticulis ea, qua decet, modestia colloquium instituatur; inde vero ad
+reliqua, quae Arminiani tam in Confessione et Catechesi quam
+universa doctrina reformati Belgii desiderare se publice iactarint,
+amice et fraterne agatur eamque ob caussam de aeterna fidelium
+electione primo loco actum iri.213
+
+Ad haec Arminiani, aestro quasi perciti, exuta omni modestia et
+naturali verecundia posthabito supremi magistratus iussu et edicto
+omnia improbare, libertatem per omnia flagitare, nullas leges ad-
+mittere, synodum ut legitime congregatam repudiare, calumniis
+variis impetere. Synodales e contra legum et ordinis aequitatem
+urgere eorundem conscientias in tam arduo negotio compellare, ut
+sese tam laudabilibus conditionibus accomodent, amice, fraterne
+rogare. Sed surdo narrata fabula:214 tanta enim horum hominum
+erat pervicacia et praeiudicium, ut scripto synodo exhibito prote-
+stati sunt legibus vel minimis circumscribi per conscientiam se nec
+posse nec velle. De blasphemis et plus quam absurdis in recepta
+doctrina dogmatibus primum se acturos, inde vero ad doctrinam
+reprobationis progressuros.215
+
+Sed cum illustriss[imi] dd. Ordines, utpote legitimus ipsorum
+magistratus, nihil sibi praescribi vellet, et ipsa synodus ob quinque
+notas controversias convocata esset; insuper naturalis rerum ordo,
+ut de electione agatur prius, requireret et nihilominus in dogmata
+recepta inquirendi libertatem ipsis concederet; pro ea, qua a deo
+do nati sunt potestate et authoritate, auditis prius exterorum theo-
+logorum iudiciis, serio mandant, ut diutius tergiversari et conditi-
+ones aequissimas repudiare desinant.216
+
+At illi, spretis hisce omnibus, ad ingenium redeunt, crambem
+totiens coctam reponunt. Nonnulli ad suos dilapsi, reliqui tergi-
+versationibus synodum remorati, omnes patientia et clementia su-
+perioris magistratus abusi sunt.
+
+213 Acta synodi nationalis, 20.
+214 Vgl. Desiderius Erasmus, Adagia, Bd. 1, hg. von M. L. van Poll-van de Lisdonk et
+al., Amsterdam 1993 (Opera Omnia Desiderii Erasmi Roterodami 1/1), 467f.,385–398
+[Nr. 387]: »Surdo canis. Surdo fabulam narras. […] Ortum videtur a ridiculo casu, quo
+saepe fit, vt hospes incidat in surdum, quem percontetur multa ridentibus iis, qui sur-
+dum nouerunt.«
+
+215 Acta of the Synod, 218–239.
+216 Vgl. Acta of the Synod, 280–287.
+
+1421
+
+136
+
+Luca Baschera
+
+Veneranda synodus, cum humanitate et precibus apud homines
+cervicis durae efficere nil posset, communicatis cum illustriss[imis]
+dd. Ordinibus actis et actitatis synodicis ad examen doctrinae Ar-
+minianae accedunt eamque, excussis omnibus et singulis argumen-
+tis, erroneam, scandalosam et seditiosam esse concordibus suffra-
+giis pronunciant; simulque doctoribus et pastoribus Arminianis
+omni ecclesiastico munere iterdicunt eosque ab officiis suis abdi-
+cant et academicis etiam functionibus indignos esse iudicant, donec
+per seriam resipiscentiam dictis, factis, studiis contrariis abunde
+comprobatam ecclesiae satisfaciant et cum eadem vere et plene
+reconcilientur atque ad eius communionem recipiantur.217
+
+[3. Der Komplott von 1623]
+
+Haec dum Dordrechti acta et publicata, Hagae Comitis Iohannes
+Oldenbarneveltus, vir septuagenarius, Arminianorum patronus et
+antesignanus praecipuus, criminis laesae maiestatis et falsi convic-
+tus, capite plexus fuit.218 Videbatur eius morte et synodi publicato
+edicto negotium sopitum paxque exoptata, in solidum ecclesiis re-
+stituta; sed proh dolor et pudor! Tum demum fascinatis per men-
+dacia et obtrectationes multorum animis, seditiones, defectiones et
+parricidia in Belgii foederati perniciem nuper concepta219 moliri
+coeperunt. Nonnulli enim sive vindictae privatae studio220 sive par-
+tis adversae consilio ad Hispani partes, posthabita, qua illus-
+triss[imis] dd. Ordinibus vadati erant, sacramenti fide dilapsi, Bel-
+gium totum calumniosissimis et seditiosissimis scriptis et epistolis
+complevere summo adnisi studio, ut plebes in superiores concita-
+rent et rebus sursum vorsum actis auream libertatem aliorum li-
+bidini manciparent.221
+
+Nec sane frustra fuissent, nisi deus populi sui misertus sua be-
+nigna clementia et serenissimi principis Auriaci Mauritii animosa
+prudentia totiens totiens imminens periculum antevertisset.
+
+217 Acta synodi nationalis, 275–277 [»Sententia synodi de Remonstrantibus«].
+218 Siehe oben Anm. 204.
+219 »concepta« – korrigiert aus: »exupta«.
+220 »studio« – davor durchgestrichen: »cupidi«.
+221 Vgl. Sierhuis, Literature, 145–190.
+
+1422
+
+Heterodoxie und Ungehorsam
+
+137
+
+Cum itaque viderent conatus suos et detestanda molimina infoe-
+licem catastrophem hactenus esse sortita, ad secretiora, scelestiora
+tamen consilia descendunt et ascitis factionis suae pluribus nebu-
+lonibus de toto Belgii statu pessundando serio cogitant.
+
+Statum totius Belgii reformati totum intervertere prima lex fuit.
+Voti ut compotes fiant, de modo, loco, tempore et personis deli-
+berari coeptum. Excussis omnium mentibus et consiliis in eo con-
+venere: summa papaverum capita, proceres totius Belgii praeci-
+puos, cumprimis illustriss[imos] dd. Ordines Generales, sere-
+niss[imum] principem Auriacum Mauritium, illustriss[imum] prin-
+cipem Henrycum e medio tollendos, devoluta ad paucos vindicta,
+metu ad omnes.
+
+Quod222 inter Hagam et Riswikum [sc. Rijswijk],223 amoenissi-
+mum voluptuarium, quo frequenter serenissimus princeps Auria-
+cus cum paucis excurrere solet, interiacet quadrivium patrando
+parricidio visum omnino accommodum; in quo principis regres-
+sum aperiri ipsumque vel sclopeti aut pugionis ictu transverberare
+aut confodere, exinde Hagam Comitis properare et effractis pro-
+cerum reliquorum aedibus omnes ad unum horribiliter trucidare
+constitutum. Ne vero a tam abominando proposito accurrente un-
+dique hominum turba factique atrocitatem exsecrante deterreren-
+tur, destinata et descripta incendio nonnulla aedificia, curia, ar-
+mamentarium, turres, pulveris nitrati repositoria, quibus accensis
+singulisque animo consternatis et ad extinguendum ignem accur-
+rentibus ipsi tuto elabi et illico Hispanum, qui ad confinia magna
+manu in excubiis et insidiis erat, in Belgii interiora viscera intro-
+ducere possent.
+
+222 Zum folgenden Bericht über den Komplott, dessen Aufdeckung und die ersten
+Verhaftungen vgl. Zürich ZB, Ms S 170, Nr. 42. Es handelt sich dabei um die unvoll-
+ständige Kopie eines Briefes an Johann Jakob Breitinger, der von den Niederlanden aus,
+wohl nach dem 21. Februar 1623 versandt wurde. Im letzten Satz des Brieffragments
+wird nämlich die an jenem Datum stattgefundene Verhaftung von David Korenwinder
+(hingerichtet am 29. März 1623), dem in den Komplott involvierten Stadtschreiber von
+Berkel, erwähnt: »Est et comprehensus alter quidam secretarius pagi Berkel dicti […]«
+(zu Korenwinder vgl. Biografisch woordenboek der Nederlanden, hg. von A. J. van der
+Aa et al. [BWN], Bd. 7, Haarlem 1862, 693f.). Lavaters Schilderung der Ereignisse
+weist in ihrem Wortlaut große Ähnlichkeiten mit dem genannten Brieffragment auf.
+
+223 Moritz suchte Rijswijk häufig auf, um sich mit seiner dort lebenden Geliebten
+Margaretha van Mechelen (1580–1662) zu treffen. Vgl. NNBW, Bd. 1, Leiden 1911,
+1319f.
+
+138
+
+Luca Baschera
+
+Exsequutioni tam pestiferi consilii tempus visum nullum aptius
+hoc ipso brumati tempore, quo subitae currenti in flumine exustae
+concrescere undaque orbes terratas tergo sustinere, ipse pelagus
+solidam in glaciem converti solet, rati occasionem, si sinistre neg-
+otium caderet, tutissime elabendi; si vero ex voto succederet hos-
+tem introducendi esse capillatam.
+
+Slathius224 minister Arminianus post mutuas altercationes, ut-
+pote caeteris et audacior et saevior, visus ipsis idoneus, qui tantae
+tragediae initium faceret.
+
+Sed deus opt[imus] max[imus], cui sit honor, laus et gloria in
+sempiterna secula, fidissimus ille custos Israelis, qui nec dormit nec
+dormitat, sed occulta tenebrarum vindicibus rimatur oculis, sexto
+mensis Februarii die225 per quatuor nautepibatas, quorum opera et
+proditionem hanc promovendam maxima proposita lucri spe et
+insolita mercede erat postulata, et proditionem et proditionis au-
+thores patefecit. Hi enim, etsi Arminianorum sectae essent addicti,
+odorati tamen, quod res erat, omnia consilia in serenissimi prin-
+cipis patriaeque perniciem directa, principem adiere eique rem to-
+tam exposuere singuli. Sereniss[imus] princeps re tota cum illus-
+triss[imis] dd. Ordinibus communicata, fiscali mandat, ut adhibito
+conplurium lictorum numero sine mora se in diversorium, in quo
+nautepibatae sicarios latitare dixerant, conferret et comprehensos
+in vincula coniiceret. In diversorio repertus nemo, reperta vero cis-
+ta miris et novis instrumentis referta, puta cultris, ex altera parte,
+quavis novacula acutioribus, ex226 altera parte serrae formam re-
+ferentibus, balistis item perbrevibus, ex orientali India advectis,
+machinis et instrumentis ad patrandas caedes accommodis. Et cum
+a tormione quodam227 aliquam sibi pecuniae partem Roterodami
+numeratam faterentur nautae, missi illuc satellites, qui comprehen-
+sum Hagam deducerent. Is torturae subiectus et fidiculis aliquam-
+diu distentus, factum et facti reos Slathium, Geisteranum,228 Vel-
+
+224 Henricus Slatius (1585–1623), 1613–1618 remonstrantischer Pfarrer in Bleiswijk.
+Zwischen 1619 und 1623 veröffentlichte Slatius anonym drei Pamphlete, in denen er
+zum Tyrannenmord gegen Moritz von Oranien aufrief. Vgl. BLNP, Bd. 1, Kampen
+1978, 345f.; Sierhuis, Literature, 175–190.
+
+225 Julianisch: 27. Januar.
+226 »ex« – davor durchgestrichen: »ex orientali India advectis«.
+227 Cornelis Gerritszoon (Gerritsz, gest. 1623), Zimmermann aus Rotterdam und
+
+Schwager von Henricus Slatius, vgl. BWN, Bd. 7, Haarlem 1862, 136.
+
+1423
+
+Heterodoxie und Ungehorsam
+
+139
+
+sium229 et secretarium Bleiswichanum,230 horrenda omnia sectarum
+monstra, ministros Arminianos, prodidit. Eam ob caussam per uni-
+versas Belgii provincias publicato edicto231 significatum omnibus,
+si quis horum quemque deprehensurus esset, praemio quatuor mil-
+lium florenorum (faciunt nostra moneta talerorum millia duo) do-
+nandum. Accidit vero paucis post diebus, ut Bleiswichanus secre-
+tarius Haserosondae [sc. Hazerswoude], unico a Leida lapide,
+comprehensus et Hagam abductus per equuleos, trium praedicto-
+rum pastorum, suorum in scelere sociorum, caussam ita aggrava-
+vit, ut in singulorum capita longe maior pecuniae summa fuerit
+constituta.232 Deprehensi et alii, et inter eos Reinerus Barnefeldi-
+us,233 Crovenfeldi dominus, Ioannis Oldenbarnevelti decollati fili-
+us. Quorum tamen confessiones hactenus clam habentur, cum mi-
+nus consultum sit, antequam authores tam detestandi parricidii
+eorundemque consilia penitus sint explorata et perspecta, in vulgus
+publicare.
+
+Observatum est autem a curiosis illo ipso tempore, quo terra
+iacuit informis, aggeribus niveis, frigore intensissimo, nec ipsas la-
+gunas nec maria in glaciem fuisse conversa coeloque sereno iterdiu
+vix solem, noctu lunam et astra visa.234 Detecta vero proditione,
+
+228 Cornelis Geesteranus (Geisteranus, 1588–1648), remonstrantischer Pfarrer in
+Gouda. Nach dem Scheitern des Komplotts flüchtete er nach Friedrichsstadt in Hol-
+stein, um der Verhaftung zu entkommen. Vgl. BLNP, Bd. 2, Kampen 1983, 210.
+
+229 Gerardus Velsius (gest. nach 1623), remonstrantischer Pfarrer in Rakanje, vgl.
+
+Vaderlandsche woordenboek, hg. von Jacobus Bok, Bd. 29, Amsterdam 1793, 183f.
+
+230 Adriaan Adrianszoon van Dijk (hingerichtet am 29. März 1623), Stadtschreiber in
+Bleiswijk; Van Dijk war zusammen mit Reinier und Willem van Oldenbarnevelt in die
+Organisation des Komplotts gegen Moritz von Oranien involviert. Vgl. BWN, Bd. 4,
+Haarlem 1858, 458f.
+
+231 Zu dieser am 9. Februar (gregorianisch) veröffentlichten Kundgebung vgl. Brandt,
+
+History, Bd. 4, 466.
+
+232 Vgl. Brandt, History, Bd. 4, 474 (Kundgebung vom 16. Februar).
+233 Reinier van Oldenbarnevelt (ca. 1588–1623), Herr von Groenevelt, war der ältere
+Sohn von Johan van Oldenbarnevelt und Bruder von Willem van Oldenbarnevelt
+(1590–ca. 1638). Beide hatten eine führende Rolle in der Organisation des Komplotts
+gegen Moritz von Oranien. Vgl. NNBW, Bd. 5, Leiden 1921, 393f. (zu Reinier); 394f.
+(zu Willem).
+
+234 Vgl. Latomus, Relationis historicae semestralis continuatio, 94: »In zeit als diese
+Conspiration ins Werck sollen gericht / vnd hierdurch ein allgemeiner Alarm vnnd Auff-
+stand im Land erregt worden seyn / sind Sonn / Mond / Sterne mit dicken finstern
+Wolcken vnterzogen gewesen / hat sich den 9. Febr[uar] im Stifft Utrecht ein solch
+Ungewitter mit schroe cklichem Dennern vnd Blitzen erhaben / daß man vermeynt / der
+jue ngste Tag were vorhanden.«
+
+140
+
+Luca Baschera
+
+luminaria haec magna quasi renovata et reducta splendore suo ex-
+hilarasse cuncta, scilicet mutis elementis et inanimatis astris Ar-
+miniani,
+infoelicissima Belgii foederati carcinomata, atrocitatis,
+perduellionis et parricidii convincendi erant, quae propria consci-
+entia convinci nequiverant.
+
+[4. Schluss und Danksagung]
+
+Atqui haec est admirabilis nefariae proditionis patefactio et me-
+morabilis praeter spem coniuratorum principum, virorum status-
+que totius conservatio. Nescio sane, auditores, an ullum similis
+coniurationis exemplum evolutis omnium gentium annalibus re-
+periri possit. Mithridatis235 regis Parthi iussu »uno nuncio et una
+litterarum significatione«236 per totam Asiam eodem die CL civium
+Romanorum M interfecta historiae produnt.237 Etiam Petrum Ar-
+ragonium238 octo Gallorum millia in Sicilia, quam se absente oc-
+cupaverant, trucidari iussisse annales Siculi referunt. At vero illi in
+peregrinos et alienigenos saeviebant. Arminianis vero in ipsum
+magistratum, cui sacramenti fide obstricti, in concives, in propria
+viscera denique in suae fidei commissos auditores saevire volupe.
+Illi nullas ad fallendum artes personis suis indignas adhibuere; hi
+pro illecebra religionis simplicitate et sinceritate abusi sanctiora
+Belgii loca pene sanguine respersere. Illi hostes suos, a quibus variis
+
+235 Mithridates VI. Eupator, 120–63 v.Chr. König von Pontos, vgl. NP, Bd. 8, Stutt-
+
+gart 2000, 278–280.
+
+236 Marcus Tullius Cicero, Pro lege Manilia (De imperio C. Pompei), in: Cicero, The
+Speeches: Pro lege Manilia – Pro Caecina – Pro Cluentio – Pro Rabirio, hg. von H.
+Grose Hodge, London/Cambridge, MA 1959 (The Loeb Classical Library), 20 [3,7].
+
+237 Vgl. Plutarch von Chaironeia, Vita Syllae, in: Plutarque – vies, Bd. 6, hg. von
+Robert Flacelie`re und E´ mile Chambry, Paris 1971, 267 [24,7]. Mit dem sog. »Blutbe-
+fehl von Ephesos« (88 v.Chr.), infolge dessen an einem Tag zwischen 80000 und
+150000 Italiker in allen Städten der von Mithridates besetzten Provinz Asia umgebracht
+wurden, sollten die griechischen Städte enger an den König von Pontos gebunden wer-
+den. Vgl. NP, Bd. 8, Stuttgart 2000, 284.
+
+238 Peter III. (1240–1285), König von Arago´ n und ab 1282 König von Sizilien (als
+Peter I.). Lavater spielt hier auf den großen Volksaufstand gegen die Anjouherrschaft
+von 1282 an, welcher als »Sizilianische Vesper« in die Geschichte einging. Vgl. Lexikon
+des Mittelalters, hg. von Norbert Angermann et al., Bd. 6, München 1993, 1923–1926;
+Klaus Herbers, Geschichte Spaniens im Mittelalter. Vom Westgotenreich bis zum Ende
+des 15. Jahrhunderts, Stuttgart 2006, 197–201.
+
+1424
+
+Heterodoxie und Ungehorsam
+
+141
+
+iniuriis lacessiti, curarunt interfici; hi patriae patres, ipsius patriae
+restitutorem, sereniss[imum] Mauritium cuculi mente ingratiore
+interimere voluere. O exsecrandum et ab omni aevo detestandum
+facinus! O deploratam hominum, non-hominum amentiam et ve-
+saniam! Atque hoc est alterum Arminianae sectae fundamentum,
+Acheronta movere, patriam patriasque leges invertere, propria vis-
+cera hosti prodere, igne, cultris, variis instrumentis magistratui
+parricidium intentare, sursum vorsum omnia agere. O abominan-
+dam religionem, ad ipsam Stygis paludem, unde erupit, relegan-
+dam, damnandam! Haecne, o Arminiani, vestra, quam publicis in
+scriptis et synodo Dordrechtana subinde crepastis, conscientia?
+Egregia sane conscientia pacem in bellum, libertatem in miseram
+servitutem, obedientiam in rebellionem, amorem in parricidium
+convertere velle. In illa conscientia vestra mille testium loco coram
+tremendo Christi tribunali vos reos atrocissimorum criminum, par-
+ricidii, rebellionis, mendacii violataeque religionis convictos detru-
+det in Plutonis patris vestri antrum, cruciandos diu noctuque in
+seculum.
+
+At vos, o Belgii foederati viri principes, fatemini hoc et hoc prae-
+
+dicate:239
+
+Psal. 125.
+
+Nisi adfuisset nunc deus,
+Nisi adfuisset nunc deus,
+
+Quum irrueret hostis impetu,
+
+Nos iste vivos tantus hostilis240 furor.
+
+Iam devorasset integros,
+
+Obruisset nos instar undae procella cladium
+Et putria rapido natarent alveo
+
+Haec versa iam cadavera.
+
+Nos, nos ruptis aucupum istis retibus,
+
+En, sospites evasimus.
+
+239 Zu den folgenden poetischen Psalmenparaphrasen vgl. Theodor Beza/George
+Buchanan, Psalmorum sacrorum Davidis libri quinque duplici poetica metaphrasi, al-
+tera alteri e regione opposita vario carminum genere Latine expressi, Morges: Jean Le
+Preux, 1581 (Bibliography of George Buchanan, hg. von John Durkan, Glasgow 1994,
+Nr. 144).
+
+240 »hostilis« – davor durchgestrichen: »ill[?]«.
+
+1425
+
+142
+
+Luca Baschera
+
+Sempiterna laus deo sit, qui suos non tradidit.
+
+Dentibus praedam cruentis perfidiorum civium.241
+
+Dic nunc et fatere, o serenissime princeps Mauriti:
+
+Psal. 129.
+
+Me saepe a puero hostis
+
+Aggressus omni est impetu.
+
+Me saepe a puero aggressus crudeliter hostis,
+
+Psal. 18.
+
+Sed irritis conatibus.
+
+Et qualis sulcos immitis ducit arator,
+
+Sic tergus inaravit meum,
+
+Illorum sed mox funes contortaque lora
+
+Vindex bonorum discidit.242
+Et istud omne munus est tuum, deus,
+Coeli solique conditor.243
+
+Per te haec est habilis dextera praeliis.
+Labentem tua me sustinuit manus.
+Et ne qua titubans corruerem, viam
+
+Stravisti facilis mihi.
+
+Victor terga sequens illicet hostium,
+Comprehensos penitus, te duce, contudi
+Fixosque innumeris vulneribus, meis
+
+Pressi calcibus impios.
+
+Hos, inquam, ipse tuo robore praeditus
+Morti sub pedibus perdomitos dedi,
+Nudum cum iugulum tutemet hostium
+
+Cultriis subiicere meis.244
+
+Insurge, lingua, et tu excitare barbitas
+
+Et vos adeste nablia.
+
+Ut te orbe toto luce prima, mi deus,
+
+Fidibus et ore praedicem.245
+
+Te duce, te favente fretis
+
+Nobis difficile est nihil futurum.
+
+241 Vgl. Ps 124,1–7; Beza/Buchanan, Psalmorum libri, 830f.
+242 Ps 129,1–4; Beza/Buchanan, Psalmorum libri, 844.
+243 Ps 124,8; Beza/Buchanan, Psalmorum libri, 830.
+244 Ps 18,34–40; Beza/Buchanan, Psalmorum libri, 88; 90.
+245 Ps 57,8f.; 108,2f. Beza/Buchanan, Psalmorum libri, 348.; 698.
+
+Psal. 113[1f.].
+
+Psal. 57[,2f.].
+
+Psal. 37.
+
+Heterodoxie und Ungehorsam
+
+143
+
+Te, te, inquam, duce, quamlibet superbus
+
+Nostris sub pedibus iacebit hostis.246
+
+Vive, aeterne deus, cunctipotens deus.247
+
+Dic nunc et fatere, illustriss[ime] princeps Henryce:
+
+Collaudate deum, dei ministri,
+Sit nomen domini collaudatum
+
+Cunctis deinceps seculis.248
+
+Cuius benigna manus,
+
+Quod auspicatur, perficit.
+
+Ille mittit coelitus latronum iniurias
+
+Et impetus, qui comprimat.249
+
+Ridet hic vanos hominum apparatus.250
+Hic throno ex alto vigil annotata
+Omnium corda hominum tuetur,
+Hic, hic proditorum technas superis ab oris
+
+1426
+
+Despicit omnes.251
+
+Mortis me saevae prohibuit pericla.
+Liberavit me velut e sepulchri
+
+Limine raptum.252
+
+Vive, aeterne deus, cunctipotens deus.
+Te laus namque decet, gloria te decet
+O quo ultore caput tollere iam licet,
+O quo auctore feror liber ab hostibus.
+Eia populos usque per ultimos,
+Aeternum celebri carmine concinam
+Te nostra ex humero pendula barbitas
+
+Aeternis numeris canet.253
+
+246 Ps 108,13; Beza/Buchanan, Psalmorum libri, 700.
+247 Ps 18,46; Beza/Buchanan, Psalmorum libri, 90.
+248 Beza/Buchanan, Psalmorum libri, 728.
+249 Beza/Buchanan, Psalmorum libri, 348.
+250 Ps 33,10; Beza/Buchanan, Psalmorum libri, 182.
+251 Ps 33,13f.; Beza/Buchanan, Psalmorum libri, 182.
+252 Ps 33,19; Beza/Buchanan, Psalmorum libri, 182.
+253 Ps 18,46–49; Beza/Buchanan, Psalmorum libri, 90; 92.
+
+144
+
+Luca Baschera
+
+Dic nunc et fatere, o foederatum Belgium:
+
+Psal. 127.
+
+Proceres, adeste, adeste proceribus sati,
+
+Honore cinti et gloria.
+
+Et robur omne et omne gloriae decus
+
+Deo potenti cedite
+
+Omnem potenti cedite dei gloriam
+
+Eiusque sancto numini.
+
+Adeste sacram ad eius aram supplices
+
+Totoque strati corpore.254
+
+Fatemini, fatemini unanimiter:
+
+Ni coepta deus iuverit, frustra struunt
+
+Moles superbas aedium.
+
+Ni dominus urbem servet, incassum excubat
+
+Muris vigilis custodia.255
+
+Unius est dei optimi atque maximi
+
+Et robur et clementia.256
+
+Psal. 66.
+
+Hic vitae nos reddidit, iste nos potente
+
+Dextra benignus fulciit ruentes.257
+Hic nos faucibus ex periculorum
+Aprica ducit liberos per arva.258
+
+Eia, adeste, audite, o undique vos dei timentes,
+
+Quantis deus noster nos bonis bearit.259
+
+Dicat nunc populus omnis:
+
+Psal. 106.
+
+Deo, quem Belgae foederati colunt,
+
+Sit laus honorque in saculorum saecula.
+
+Amen. Amen.260
+
+254 Ps 29,1f.; Beza/Buchanan, Psalmorum libri, 152.
+255 Ps 127,1; Beza/Buchanan, Psalmorum libri, 839.
+256 Ps 62,11f.; Beza/Buchanan, Psalmorum libri, 374.
+257 Ps 66,9; Beza/Buchanan, Psalmorum libri, 396.
+258 Ps 66,12; Beza/Buchanan, Psalmorum libri, 396.
+259 Ps 66,16; Beza/Buchanan, Psalmorum libri, 396.
+260 Vgl. Ps 106,48.
+
+1427
+
+Heterodoxie und Ungehorsam
+
+145
+
+At tu nunc, tu procul, o scelesta Arminiana261 cunctis
+Pridem assueta malis cohors facesse.
+Audivit dominus piorum quaerelas,
+Audivit quoque lacrymationes
+Et mixtam gemitu petitionem.
+Ecquid vos igitur pudet scelesti?
+Ecquid nun trepidatis? Ecquid, inquam,
+Terga obvertitis et repente magno
+Perculsi fugitis pavore cuncti?
+
+Dicite, dicite et vovete, cuncti o Arminiani:
+
+Excidat illa dies aevo nec postera credant
+Saecula. Nos certe taceamus et obruta multa
+Nocte tegi propriae patiamur crimina gentis.262
+
+Vos vero, o reipublicae et ecclesiae scholaeque Tigurinae praesules:
+
+1428
+
+Novum melos carmen novum
+Eia, sacrate numini,
+Deoque laudes pangite
+Totius urbis incolae,263
+Cantate laudes numini
+Deique nomen inclytum
+Deique dextram vindicem
+Cantate de die in diem.
+Fines ab orbis ultimos
+Proferte numinis decus,
+Narrate cunctis denique
+Tot mira gesta gentibus.
+Nam vere magnus hic deus
+Summe deus laudabilis
+
+261 »Arminiana« hat Lavater dem Wortlaut von Bezas Psalmenparaphrase hinzuge-
+
+fügt.
+
+262 Publius Papinius Statius, Silvae, hg. von D. R. Shackleton Bailey, Cambridge, MA
+
+2015 (The Loeb Classical Library), 322 [5,2,88–90].
+
+263 Bei Beza/Buchanan, Psalmorum libri, 602, lautet der Vers: »Totius orbis incolae«.
+Hier wie auch bei der Paraphrase von Ps 96,7 und 96,10 (siehe unten) änderte Lavater
+den Wortlaut, um den Text auf Zürich zu beziehen.
+
+146
+
+Luca Baschera
+
+Divosque supra creditos
+Omnes timendus unicus.
+Idola namque vana sunt
+Dii profani gentium,
+At noster hic deus potens
+Coelum solumque condidit.
+Hunc in suo sacrario
+Tingit refulgens gloria,
+Circunstat ambiens decor
+Roburque munit undique.
+Adeste, cives, undique,264
+Adeste et isti cedite,
+Huic gloriam vos numini,
+Huic omne robur cedite.
+Conferte laudes inclytae,
+Quae dignitati congruant,
+Donisque onusti pergite
+Ipsius in palatia.
+Hic illi adeste supplices
+Eumque contremiscite,
+Throno sedentem in aureo,
+Vos, urbis omnes incolae.265
+Audite, cives, deus adest,
+Quo rege firma permanens
+Rectisque recta legibus
+Urbs nostra vigebit integra.266
+Laetetur aether arduus,
+Tellus deorsum gestiat.
+Lateque fluctibus boans
+Testetur aequor gaudium.
+
+264 Beza/Buchanan, Psalmorum libri, 604: »Adeste, gentes, undique«. Vgl. oben
+
+Anm. 263.
+
+265 Beza/Buchanan, Psalmorum libri, 604: »Vos, orbis omnes incolae.« Vgl. oben
+
+Anm. 263.
+
+266 Beza/Buchanan, Psalmorum libri, 604: »Audite, gentes, deus adest, / Quo rege
+firmus permanens / Rectisque rectus legibus / Orbis vigebit integer.« Vgl. oben Anm.
+263.
+
+1429
+
+Heterodoxie und Ungehorsam
+
+147
+
+Quin arva et ipsa gaudeant
+Arvisque messis insidens
+Auraque percussum nervus
+Suavi susurro sibilet.
+Namque ecce deus adest, adest,
+Res qui regit mortalium;
+Iustis ratisque legibus
+Orbis futurus arbiter.267
+
+Etiam veni, domine Iesu, etiam veni!268
+Dixi.269
+
+Luca Baschera, PD Dr. phil., Wissenschaftlicher Mitarbeiter am Institut für Schweize-
+rische Reformationsgeschichte an der Universität Zürich
+
+Abstract: Johann Rudolf Lavater (1579–1625) shares in the common lot of several 17th
+century scholars: respected by their contemporaries and widely known in their own
+time, they have meanwhile fallen into almost total oblivion. The detection of an hitherto
+unknown manuscript in the Zurich Central Library, containing a Latin speech that
+Lavater delivered in 1623, affords now the opportunity to re-discover this interesting
+figure. The essay has a double focus: on one hand, it portrays Lavater’s life and career;
+on the other hand, it analyses the content of the speech, which Lavater composed in
+order to celebrate the recent failure of a conspiracy against Maurice of Orange
+(1567–1625), stadtholder of the Dutch Republic. The speech is revealing of the official
+attitude in Zurich regarding not only the recent controversy between Calvinists and
+Arminians in the Netherlands, but also concerning the more general issue of the rela-
+tionship between Church and State. Because of the special interest of this source, a
+critical edition of Lavater’s speech is included.
+
+Keywords: Johann Rudolf Lavater (1579–1625); Netherlands; Maurice of Orange
+(1567–1625); Religion and Politics; Hanau; Zurich; Schola Tigurina; Philosophy; Pro-
+testant Scholasticism
+
+267 Ps 96,1–13; Beza/Buchanan, Psalmorum libri, 602; 604; 606.
+268 Vgl. Offb 22,20.
+269 »Dixi« – im Original zentriert und unterstrichen.
+
+

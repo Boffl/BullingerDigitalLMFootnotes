@@ -1,0 +1,1498 @@
+ISSN 0254–4407 – Zwingliana 44 (2017), 463–499
+
+Buchgeschenke, Patronage und
+
+protestantische Allianzen
+
+Die Stadtbibliothek Zürich und ihre
+
+Donatoren im 17. Jahrhundert
+
+Christian Scheidegger
+
+Die Stadtbibliothek Zürich, während des Dreißigjährigen Kriegs
+als eine Waffenkammer des Wissens (sapientiae armamentarium)
+gegründet, verdankte ihr schnelles Wachstum einer regen Spenden-
+tätigkeit. Die in- und ausländischen Geber sowie ihre Schenkungen
+wurden in einer repräsentativen Handschrift verzeichnet.1 Dieses
+als Donatorenbuch der Stadtbibliothek Zürich bekannte Doku-
+ment wird anlässlich der 100-Jahr-Feier der Zentralbibliothek Zü-
+rich digitalisiert und zusammen mit einer elektronischen Edition
+auf der Plattform e-manuscripta.ch präsentiert.2 Die mit vielen ge-
+malten Wappen illustrierte Handschrift ist nicht nur für die Biblio-
+theksgeschichte, sondern mit den darin erkennbaren sozialen Be-
+
+1 Bibliothecae novae Tigurinorum publico privatae Album, das ist: Stamm- und
+Nammbuoch der neüwange-stellten Bibliothec einer Burgerschafft der Loblichen Statt
+Zürich, Handschrift auf Papier, 1629–1769: Zürich Zentralbibliothek [ZB], Arch St 22
+(im Folgenden »Donatorenbuch«).
+
+2 Statt einer Transkription werden die Einträge in angepasster Form wiedergegeben.
+Donatoren und Titel werden, wenn immer möglich, mittels Lexika und Bibliographien
+identifiziert, und in vielen Fällen kann sogar das Exemplar bestimmt werden. Eine
+zweifelsfreie Bestimmung ist allerdings nur möglich, wenn im Donatorenbuch spezifi-
+sche Besonderheiten erwähnt sind, die auf das entsprechende Exemplar zutreffen, oder
+wenn im Buch ein Schenkungsvermerk oder Ähnliches vorhanden ist. In allen anderen
+Fällen stellt die vorgeschlagene Identifikation bloß eine Vermutung dar.
+
+464
+
+Christian Scheidegger
+
+ziehungen auch für die Kulturgeschichte der Frühen Neuzeit eine
+interessante Quelle, auf die sich der vorliegende Beitrag im Wesent-
+lichen stützt. Im Fokus der Untersuchung stehen einerseits die Bi-
+bliotheksgeschichte unter einem konfessionellen Blickwinkel und
+andererseits die Funktion der Gaben wie auch die soziale Verflech-
+tung der Donatoren.
+
+1. Eine Bürgerbibliothek zum Schutz
+
+von Lehre, Kirche und Staat
+
+Einen wichtigen Anstoß, der in der Neuzeit zur Gründung öffent-
+licher Bibliotheken geführt hat, gab Martin Luther in seiner Schrift
+An die Ratsherren (1524). Luther betonte, dass das Evangelium
+durch das Medium der Sprachen kommuniziert werde, und gab
+seinen Lesern aus diesem Grund zu bedenken, »das man fleys und
+koste nicht spare, gutte librareyen odder bue cher heuser sonderlich
+ynn den grossen stedten, die solichs wol vermue gen, zuverschaffen.
+Denn so das Euangelion und allerley kunst [Wissenschaft] soll
+bleyben, mus es yhe ynn bue cher und schrifft verfasset und ange-
+bunden seyn ...«3
+
+Mit anderen Worten stand bei Luther die von der weltlichen
+Obrigkeit eingerichtete Bibliothek im Dienst des Schulwesens und
+der Erhaltung des Evangeliums. Tatsächlich kam es im Zug der
+Reformation in verschiedenen deutschen Städten, nicht selten auf
+der Grundlage von säkularisierten Klosterbüchereien, zur Grün-
+dung neuer Bibliotheken oder zur Umgestaltung der Rathaus- in
+Stadtbibliotheken.4 Im Gegensatz dazu und zu den sonst gängigen
+staatlichen Eingriffen in traditionell kirchliche Bereiche kümmerte
+sich der Rat in Zürich nach der Auflösung der klösterlichen Bü-
+chersammlungen 1525 vorerst nicht um das Bibliothekswesen,
+sondern überließ es dem zur theologischen Hochschule umgestal-
+teten reformierten Großmünsterstift, aus dem Restbestand an Bü-
+
+3 Zitiert nach Herwarth von Schade, Der Einfluss der Reformation auf die Entwick-
+lung des evangelischen Buchwesens, in: Beiträge zur Geschichte des Buchwesens im
+konfessionellen Zeitalter, hg. von Herbert G. Göpfert et al., Wiesbaden 1985 (Wolfen-
+bütteler Schriften zur Geschichte des Buchwesens 11), 154.
+
+4 Vgl. Lexikon des gesamten Buchwesens, Bd. 6, Stuttgart 2003, 187.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+465
+
+chern und der angekauften Privatbibliothek Ulrich Zwinglis eine
+neue Büchersammlung aufzubauen.5 Die reformierte Stiftsbiblio-
+thek war nicht der Öffentlichkeit zugänglich, sondern nur einem
+engen Personenkreis vorbehalten; seit 1588 durften gar nur die
+»Herren Geistlichen« Bücher entleihen. Zudem blieb der Bestand
+über die Jahrhunderte bescheiden: 1595 wurden 919 Bände ge-
+zählt, 1710 waren es etwa 2700.6 In Anbetracht solcher Beschrän-
+kungen erstaunt es nicht, dass der Zürcher Griechischprofessor
+Heinrich Ulrich (1575–1630) und vier ehemalige Studenten, die
+mit ihm auch verwandtschaftlich verbunden waren, am 6. Februar
+1629 eine allen Bürgern zugängliche Bibliothek gründeten.7
+
+In zwei Werbeschriften erklärte Ulrich weitläufig die Gründe und
+den Nutzen einer solchen Einrichtung und übernahm, ohne seine
+Quelle anzugeben, Passagen aus einer Vorrede, die der Theologie-
+professor und Bibliograph Johann Jakob Fries (1546–1611) für die
+dritte Auflage der Bibliotheca universalis verfasst und Kurfürst
+Ludwig VI. von der Pfalz gewidmet hatte.8 Demnach sind Biblio-
+theken nötig, um die Wahrheit der Heiligen Schrift zu erhalten9
+und die Zuverlässigkeit sowohl der biblischen Überlieferung als
+auch der Kirchenväterschriften zu dokumentieren.10 Beides hielt
+Ulrich für eine notwendige Voraussetzung, um die biblische Lehre
+
+5 Martin Germann, Die reformierte Stiftsbibliothek am Grossmünster Zürich im
+16. Jahrhundert und die Anfänge der neuzeitlichen Bibliographie: Rekonstruktion des
+Buchbestandes und seiner Herkunft, der Bücheraufstellung und des Bibliotheksraumes,
+mit Edition des Inventars von 1532/1551 von Conrad Pellikan, Wiesbaden 1994 (Bei-
+träge zum Buch- und Bibliothekswesen 34), 108–111.
+
+6 [Jean-Pierre Bodmer / Martin Germann], Kantonsbibliothek Zürich 1835–1915:
+Zwischen Bibliothek des Chorherrenstifts Grossmünster und Zentralbibliothek, Zürich
+1985, 56 und 64.
+
+7 Zur Bibliotheksgründung vgl. Heinrich Ulrich, Bibliotheca Thuricensium publico
+
+privata, Zürich 1629.
+
+8 Heinrich Ulrich, Bibliotheca nova Tigurinorum publico-privata selectiorum va-
+rarium linguarum, artium et scientiarum librorum, s.l. 1629, 35–51. Vgl. hierzu Conrad
+Gessner, Josias Simmler und Johann Jakob Fries, Bibliotheca instituta et collecta, Zü-
+rich 1583, Bl. *5.
+
+9 »Erstlichen so seind die Bibliothecae zu allen unnd jeden zeiten vast bräuchig und
+darzu in grosser achtung gewesen / weil namlich durch mittel / hilff unnd entschuldi-
+gung derselbigen [...] die reine unfehlbare warheit / Himmlischer unnd Göttlicher
+Lehr / in den Bue cheren deß Alten unnd Newen Testaments erforschet / erdauret / gut
+geheissen / behauptet und erhalten [...] worden.« Ulrich, Bibliotheca nova, 35f.
+
+10 »Was ist dann nun in solchem zwyffel gewüssers unnd nutzlichers / denn wann
+man die aller eltisten Exemplar der Biblen / und der H. Alten Vaetteren auß den gemei-
+
+466
+
+Christian Scheidegger
+
+erfolgreich gegen die Lügen des Papsttums verteidigen zu können.
+Weil das Papsttum und die römisch-katholischen Mächte die Exis-
+tenz der Reformierten immer mehr bedrohten, verlangte Ulrich die
+Gründung neuer Bibliotheken.11 Diese und die Pflege der Wissen-
+schaften erachtete er offenbar als notwendig für die Erhaltung und
+Ausbreitung des reformierten Bekenntnisses. Andere Aspekte wie
+die Forderung nach einer Lesekultur, die durch das Gebet geprägt
+ist und Nächstenliebe zum Ziel hat12, stehen in Ulrichs Schriften
+schon umfangmäßig im Schatten der konfessionspolitischen Ar-
+gumentation. Mit seiner Betonung des Nutzens einer öffentlichen
+Bibliothek für Religion, Wissenschaft und Staat warb der Grie-
+chischprofessor für die neue Einrichtung und stieß damit bei Ob-
+rigkeit und Bürgern auf eine breite Akzeptanz. Schon in der Grün-
+dungsphase spendeten zahlreiche Interessierte Bücher und Geld
+und sollen sich gar einen Wettlauf um die ersten Einträge im Do-
+natorenbuch geliefert haben.13
+
+Ulrich richtete sich mit seinem Appell nicht nur an die Bürger,
+sondern auch an den Magistrat.14 Wie die Widmung des Donato-
+renbuchs zeigt, stellten die Initianten die Bürgerbibliothek unter
+das Patronat der Zürcher Obrigkeit.15 Die obrigkeitliche Unter-
+stützung blieb in der Folge nicht aus. 1631 erlaubte der Rat, dass
+die Bibliotheksgesellschaft die Wasserkirche als geeigneten Ort für
+die Büchersammlung unentgeltlich benutzen dürfe. Nach einem
+mit staatlichen Geldern finanzierten Umbau öffnete die Bürgerbi-
+bliothek an Neujahr 1634 ihre Türen in der Wasserkirche, die im
+Mittelalter als Hinrichtungsstätte der Zürcher Stadtheiligen Felix
+und Regula verehrt und seit ihrer Profanierung in der Reformati-
+onszeit als Lagerraum genutzt worden war.16 Angesichts der staat-
+lichen Förderung ist die Bürgerbibliothek, die seit dem 18. Jahr-
+
+nen Bibliothecis / da sie auffbehalten worden / andren kann auffweisen und zu lesen
+vergunnen?« Ulrich, Bibliotheca nova, 38.
+
+11 Ulrich, Bibliotheca nova, 55–101.
+12 Ulrich, Bibliotheca nova, 26–31.
+13 Ulrich, Bibliotheca nova, 108f.
+14 Ulrich, Bibliotheca nova, 2 und 97.
+15 Die Widmung richtet sich an beide Bürgermeister, Statthalter, Seckelmeister, den
+Antistes und die Stadtpfarrer, den Verwalter des Großmünsterstifts und den Schulherrn,
+vgl. Donatorenbuch, 4v.
+
+16 Johann Jakob Wagner, Historia Bibliothecae Tigurinorum Civicae, Handschrift,
+
+1683, Zürich ZB, Ms B 89, 19f.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+467
+
+hundert auch Stadtbibliothek genannt wurde, nicht als eine private
+Institution, sondern als eine offiziöse Einrichtung zu bezeichnen,
+was durch ihre repräsentative Funktion noch unterstrichen wird.
+Nicht zuletzt wegen der Architektur wurde die Stadtbibliothek zu
+einem Wahrzeichen Zürichs, stand die Wasserkirche doch in un-
+mittelbarer Nähe von Rathaus und Großmünster im Zentrum der
+Macht (Abb. 1).17 Für den offiziösen Charakter der Einrichtung
+spricht weiter die Tatsache, dass bereits 1630 die Büchersammlung
+des Rathauses in die Bürgerbibliothek integriert wurde. Unter den
+71 übergebenen Bänden mit vorwiegend juristischem Inhalt fanden
+sich 35 Inkunabeln und ein koloriertes Exemplar von Conrad
+Gessners Historia animalium, das der Autor einst dem Zürcher Rat
+geschenkt hatte.18
+
+Die Zürcher Obrigkeit war anscheinend damit zufrieden, dass
+die Bürgerbibliothek nach dem Milizprinzip funktionierte. Jeden-
+falls blieben ihr dadurch die Kosten eines vollstaatlichen Biblio-
+thekswesens erspart, was der herrschenden Finanzpolitik entgegen-
+kam. Denn in Zürich ist in der Frühen Neuzeit eine Staatsbildung,
+die weitgehend ohne direkte Steuern auskam, zu beobachten, und
+ohne direkte Steuern konnte sich die Regierung weder einen Be-
+amtenapparat noch ein stehendes Heer leisten.
+
+Dafür ruinierte der von kirchlicher Seite wiederholt geforderte
+und 1642 begonnene Bau der neuen Stadtbefestigung beinahe die
+Staatsfinanzen. Zürichs Bürgerbibliothek und Festungsbauten ste-
+hen in Zusammenhang mit dem Dreißigjährigen Krieg und müssen
+als konfessionspolitische Akte gesehen werden. Die Devise »Arte et
+Marte« im Bibliothekswappen, das in die Titeleinfassung des Do-
+natorenbuchs eingefügt ist (Abb. 2), bringt deutlich zum Ausdruck,
+wie man in Zürich auf die Bedrohungslage des reformierten Pro-
+testantismus reagierte: durch Wissenschaft und Waffen sollten das
+Staatswesen und der Glaube der Reformierten verteidigt werden.19
+
+17 Der Basler Buchdrucker Hans Jakob Genath (1582–1654), der zu den Donatoren
+der Stadtbibliothek Zürich gehörte (vgl. Donatorenbuch, 55), schrieb bereits 1640, dass
+viele Fremde die Schönheit der Wasserkirche ebenso sehr bewunderten wie die darin
+aufbewahrten Bücherschätze. Vgl. Martin Germann, Arte et Marte: Durch Wissenschaft
+und Waffen. Die Gründungsidee der Bürgerbibliothek Zürich nach Balthasar Venators
+Lobgedicht von 1643/1661 und Heinrich Ulrichs Programmschrift aus dem Gründungs-
+jahr 1629, in: Zürcher Taschenbuch 101 (1981), 31.
+
+18 Vgl. Donatorenbuch, 9r–10v.
+19 Vgl. Germann, Arte et Marte, 25–45.
+
+468
+
+Christian Scheidegger
+
+Abb. 1: Blick auf die Wasserkirche, das Großmünster im Hintergrund und das Rathaus
+am linken Bildrand. Federzeichnung um 1750. Zürich ZB, Graphische Sammlung.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+469
+
+Abb. 2: Titelseite des Donatorenbuchs der Stadtbibliothek Zürich, bestehend aus Titel
+und gemalter Einfassung mit dem Zürcher Doppelwappen und Reichsschild, den Tugen-
+den »Klugheit« und »Tapferkeit« und dem Bibliothekswappen. Zürich ZB, Arch St 22.
+
+470
+
+Christian Scheidegger
+
+Die politische Situation sah im Gründungsjahr der Bürgerbiblio-
+thek tatsächlich düster aus. Stichworte dazu sind die Eroberung
+der reformierten Kurpfalz durch Truppen der katholischen Liga
+und die Verschleppung der berühmten Bibliotheca Palatina von
+Heidelberg nach Rom 1622, die Einnahme der calvinistischen
+Hochburg La Rochelle 1628 und die Bündner Wirren der Jahre
+1618 bis 1639. Die Bezeichnung der Bürgerbibliothek Zürich als
+Waffenkammer des Wissens (sapientiae armamentarium)20 muss
+vor dem konfessionspolitischen Hintergrund verstanden werden.
+
+Inspiriert von den Wunderkammern an den Fürstenhöfen, war
+die Bürgerbibliothek auch ein Museum mit Münzen, Naturalien,
+Kunstobjekten und anderen Gegenständen.21 Überhaupt dienten
+die Fürstenbibliotheken vermutlich als Vorbild für die repräsenta-
+tive Funktion der hiesigen Bürgerbibliothek. Antistes Johann Jakob
+Breitinger (1575–1645), der sich verschiedentlich für diese Einrich-
+tung eingesetzt sowie ihren wissenschaftlichen und säkularen Cha-
+rakter betont hatte, ärgerte sich über gewisse zur Schau gestellte
+Objekte der Kunstkammer, zu denen er die Porträts von Gustav
+Adolf von Schweden (1594–1632) und von Sir James Hay (um
+1580–1636) zählte, weil die abgebildeten Herren die reformierte
+Lehre abgelehnt hatten.22 Mahnend rief er der Bibliotheksgesell-
+schaft in Erinnerung: »Bibliotheca heißt ein Büchergehalter, nun
+aber wird es zu einer Iconotheca.«23 Erfolglos wünschte er die Ent-
+fernung der anstößigen Objekte. Er fürchtete, dass die Magie der
+Bilder die Leute neu verzaubern könnte, nachdem die Reformation
+mit dem Bilderkult aufgeräumt hatte: »Sollen wir wieder bauen,
+was unsere Väter löblich haben abgebrochen?«24 Vielleicht hatte er
+weniger die vorreformatorische Bilderverehrung, sondern mehr ei-
+nen neuen, quasireligiösen Umgang mit Kunst im Blick, als er vor
+
+20 Im Titel von Ulrich, Bibliotheca Thuricensium, und Donatorenbuch, 5r.
+21 Ulrich, Bibliotheca nova, 103f. Vgl. auch Ulrich, Bibliotheca Thuricensium, C3v.
+Zu den Wunderkammern an Fürstenhöfen vgl. Lexikon des gesamten Buchwesens, Bd.
+6, Stuttgart 2003, 177.
+
+22 Salomon Vögelin, Geschichte der Wasserkirche und der Stadtbibliothek in Zürich,
+
+Zürich 1848, 48–62.
+
+23 Zitiert nach Claudia Rütsche, Die Kunstkammer in der Zürcher Wasserkirche:
+Öffentliche Sammeltätigkeit einer gelehrten Bürgerschaft im 17. und 18. Jahrhundert
+aus museumsgeschichtlicher Sicht, Bern 1997, 143.
+
+24 Zitiert nach Vögelin, Geschichte der Wasserkirche, 51.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+471
+
+einer »sophistischen Bosheit« warnte, welche aus der Kunstkam-
+mer wieder ein vermeintliches Heiligtum machen könnte.25 Die be-
+fürchtete Idolatrie hätte in diesem Fall wohl in einer Bildung ohne
+Christus bestanden, was bereits der Bibliotheksgründer abgelehnt
+hatte: »Aussert Christo ist all unser wüssenschafft viel mehr ein
+listige geschwindigkeit [calliditas] / weder aber ein rechte wüssen-
+heit zunennen / ja viel mer ein Weltreiche / spitzfindige / unnd
+arglistkeit / dann ein vertrawen zu GOtt.«26
+
+Als vorläufiges Ergebnis lässt sich zusammenfassen, dass die
+Gründung der Bürgerbibliothek Zürich auf reformatorische Im-
+pulse zurückging und als konfessionspolitischer Akt in der Zeit des
+Dreißigjährigen Krieges zu deuten ist. Sie ist gewissermaßen eine
+Spätfolge der Reformation im Rahmen der fortschreitenden Kon-
+fessionalisierung, wobei die im Vergleich zu den deutschen Terri-
+torien des Reichs zu beobachtende zeitliche Verzögerung in der
+Schweiz durch die obrigkeitliche Finanzpolitik erklärt werden
+kann. Darüber hinaus spielten verschiedene Vorbilder im In- und
+Ausland eine gewisse Rolle, können jedoch nicht zweifelsfrei be-
+nannt werden. In Frage kommen die Bodleiana in Oxford, die Bi-
+blioteca Angelica in Rom und die Biblioteca Ambrosiana in Mai-
+land.27 Öffentlich waren damals die genannten Bibliotheken in
+Mailand (seit 1609) und Rom (1614), während die Bodleiana nur
+den Universitätsangehörigen zugänglich war.28 Die erste öffentliche
+Stadtbibliothek in der Schweiz entstand in St. Gallen, wo unter der
+Leitung des Kaufmanns Jakob Studer (1574–1622) die bisher den
+
+25 Vögelin, Geschichte der Wasserkirche, 51
+26 Ulrich, Bibliotheca nova, 27.
+27 Gemäß Heinrich Ulrich sah einer der Bibliotheksgründer auf seiner Bildungsreise
+Bibliotheken in diesen Ländern. Vgl. Ulrich, Bibliotheca Thuricensium, C3v: »Tu enim
+cumprimis ornatissime Müllere (quod citra aliorum debitae laudis praejudicium moneo)
+Bibliothecam citasti, optasti, ursisti primus; qui, quales in Gallia, quales in Anglia,
+quales in Italia, quales in ipsa Roma videris Bibliothecas, non sine aliorum admiratione,
+nec sine rei potiundae in flammatione, sat docte, caeteris statim adstipulandibus, recit-
+asti.« Ganz unklar ist, welche Bibliothek in Frankreich gemeint sein könnte, denn die
+erste öffentliche Bibliothek dort war die Bibliothe`que Mazarine, welche 1640 nach Paris
+kam und 1644 für ein breites Publikum geöffnet wurde. Vgl. Alfred Franklin, Histoire
+de la Bibliothe`que Mazarine et du Palais de l’Institut, 1640–1885, Amsterdam 1969,
+16.
+
+28 Lexikon des gesamten Buchwesens, Bd. 5, 27 und 493; ebd., Bd. 6, 355.
+
+472
+
+Christian Scheidegger
+
+Geistlichen vorbehaltene Bibliothek in den Jahren 1614/15 zu einer
+öffentlichen Bürgerbibliothek umgestaltet wurde.29
+
+Die Stadtbibliothek Zürich verzeichnete eine hohe Wachstums-
+rate: ein gutes Jahr nach ihrer Gründung wurden schon über 1500
+Bücher gezählt, 1664 waren es 4793 und 1683 bereits 6612 Bän-
+de.30 Gemäß einem gedruckten Bericht der französischen Prediger
+Paul Reboulet (1655–1710) und Franc¸ois de Labrune (1624–1703)
+sollen sich 1684 sogar 13000 Schriften von 7000 Autoren in der
+Wasserkirche befunden haben.31 Diese Zahlen sind beachtlich,
+wenn man sie mit der 1622 verschleppten und etwas über 7000
+Bände umfassenden Bibliotheca Palatina32 vergleicht und berück-
+sichtigt, dass in Zürich für den Ankauf von Büchern kein Erwer-
+bungsbudget zur Verfügung stand, sondern die meisten Titel als
+Geschenke in die Stadtbibliothek gelangten. Darüber Auskunft gibt
+das eingangs erwähnte Donatorenbuch, worin über die Jahre 1629
+bis 1769 immerhin rund 920 Geber und 3300 Gaben verzeichnet
+sind. Donatorenbücher wie das der Stadtbibliothek Zürich sind
+handschriftliche Schenkungsverzeichnisse, die den Gebern ein »im-
+merwährendes Gedächtnis« stifteten, im Vergleich zu Verwaltungs-
+schriften sorgfältiger gestaltet und manchmal auch aufwändig il-
+lustriert wurden, um sie bei Besuchen von Honoratioren zeigen zu
+können. Innerhalb der Schweiz sind Donatorenbücher ein kultu-
+relles Phänomen des 17. und 18. Jahrhunderts in den reformierten
+Städten, wo es zur Gründung einer öffentlichen Bibliothek kam.
+Sie wurden oft, jedoch ohne repräsentative Gestaltung, bis ins 19.
+Jahrhundert fortgeführt.33
+
+29 Handbuch der historischen Buchbestände in der Schweiz, bearb. von Urs B. Leu et
+
+al., Hildesheim 2011, Bd. 2, 188.
+
+30 Wagner, Historia Bibliothecae, 19r, 21v und 24r.
+31 Wörtlich 13000 Bände (volumes), vgl. Paul Reboulet und Franc¸ois de Labrune,
+Voyage de Suisse ou relation historique contenant douze lettres, Seconde partie, Den
+Haag 1686, 131.
+
+32 Vgl. Lexikon des gesamten Buchwesens, Bd. 1, Stuttgart 1987, 378.
+33 Folgend eine Übersicht über Donatorenbücher in der Schweiz: Donationenbuch
+der Stadtbibliothek Aarau, 1776–1786, Aarau Stadtarchiv, II.562 a. – [Basel: Ein mut-
+maßliches Donatorenbuch ist heute nicht mehr vorhanden, vgl. Ueli Dill, Schenkungen
+verzeichnen, in: Treffenliche schöne Biecher: Hans Ungnads Büchergeschenk und die
+Universitätsbibliothek Basel im 16. Jahrhundert, hg. von Lorenz Heiligensetzer et al.,
+Basel 2005, 131]. – Donationenbuch der Stadtbibliothek Bern, 1693–1800, Bern Bur-
+gerbibliothek, Mss. h. h. XII 1. – Grand livre des donateurs, 1702–1736, Bibliothe`que
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+473
+
+2. Bücher aus Bürgerhand
+
+Von den 920 verzeichneten Donatoren waren rund 700 Zürcher
+Bürger. Zu den Geschenken gehörten neben der zeitgenössischen
+Literatur zahlreiche Drucke der Reformationszeit, die meistens ein-
+zeln aufgeführt sind. Im Eintrag des Theologen Johann Wilhelm
+Simmler (1605–1672) hingegen heißt es pauschal, dass er und seine
+Miterben die aus rund 300 Stück bestehende Bibliothek von Ru-
+dolf Gwalther übergeben hätten, während die Titel nicht einzeln
+genannt sind.34 Geschenkt wurden auch verschiedene Autografen
+der Zürcher Reformatoren wie etwa Ulrich Zwinglis Abschrift der
+Paulusbriefe in griechischer Sprache35 oder »das Leben H[errn]
+Heinrichen Bullingers von jme, H[errn] Bullingern, selbs beschri-
+ben«.36 Diese Handschriften und Drucke sind ein Teil von Zürichs
+bedeutendstem Kulturerbe: Zwinglis Reformation.
+
+Der beliebteste Anlass für Geschenke an die Bürgerbibliothek
+waren die Festlichkeiten an Neujahr und am Berchtoldstag. Nicht
+nur wurden in der Bürgerbibliothek seit 1645 unter den Jugendli-
+chen illustrierte Neujahrsblätter verteilt37, sondern die insgesamt
+188 auf den 1. Januar datierten Einträge im Donatorenbuch bele-
+gen , dass es auch zur Tradition wurde, der Bürgerbibliothek Neu-
+jahrsgeschenke in Form von Büchern oder Geldbeträgen zu über-
+
+de Gene`ve, Arch BPU Dd6. – Honorarium Bibliothecae Vadiano-Publicae, 1615–1750,
+St. Gallen Kantonsbibliothek Vadiana, Ms 10. – Album publicae civium Scaphusiano-
+rum bibliothecae, 1636 angelegt, Schaffhausen Stadtbibliothek, Msc. Scaph. 57. – Bi-
+bliothecae novae Vitoduranorum publicae privatae Album, das ist Stamm- und Na-
+menbuch der nöuw angestellten Bibliothec einer Bürgerschaft der löblichen Stadt Win-
+terthur, 1661–1870, Winterthurer Bibliotheken, Mscr. Fol. 222. – Donation-Buch, oder
+Verzeichnuß derjenigen Ehren-Persohnen, welchen durch ihre Verehrungen diese Bur-
+ger-Bibliothec der Statt Zoffingen zubeehren und zuvermehren belieben wollen,
+1696-ca. 1731, Zofingen Stadtbibliothek, Pb 74/b.
+
+34 Donatorenbuch, 546.
+35 Donatorenbuch, 660. Paulusbriefe (griech.), Autograf von Ulrich Zwingli 1517:
+Zürich ZB, RP 15, am 15. September 1634 von Anna Zwingli (1587 – nach 1634)
+geschenkt.
+
+36 Donatorenbuch, 458. Ein Geschenk des Goldschmieds Christoph Oeri
+(1599–1637). Dabei handelte es sich um das seit dem 19. Jahrhundert verschollene
+Diarium Heinrich Bullingers. Die Edition basiert auf einer vollständigen Kopie, vgl.
+Heinrich Bullingers Diarium, hg. von Emil Egli, Basel 1904 (Quellen zur schweizeri-
+schen Reformationsgeschichte 2), IXf.
+
+37 Vgl. Rütsche, Kunstkammer, 166f.
+
+474
+
+Christian Scheidegger
+
+bringen. Pfarrer Johannes Nabholz (1676–1744) zum Beispiel
+schenkte am 1. Januar 1707 Heinrich Bullingers Schriften über das
+höchste Gut und die christliche Ehe. Da beide Werke »auf der
+burgerlichen Bibliothec desideriert worden«, erklärte Nabholz in
+seinem Begleitschreiben, habe er das Autograf der Bürgerbiblio-
+thek »zu einer Neüjahrschenke verehren wollen.«38 Im Donatoren-
+buch verzeichnet sind mehr als 188 Neujahrsgeschenke, da ein ein-
+zelner Eintrag manchmal mehr als einen einzigen Anlass umfasst
+wie beim Zürcher Arzt Jakob Ziegler (1591–1670), der über einen
+Zeitraum von dreißig Jahren jeweils an Neujahr einen kleinen
+Geldbetrag spendete.39
+
+Meistens sind die genauen Gründe und Umstände, warum je-
+mand der Bürgerbibliothek Bücher, Geld oder Objekte geschenkt
+hat, nicht bekannt, doch sprechen verschiedene Hinweise dafür,
+dass viele Geschenke nicht so sehr freiwillige Gaben waren, son-
+dern mehr als eine Pflicht verstanden wurden. Am deutlichsten
+erkennbar ist dies bei den Geschenken, welche die Mitglieder des
+Bibliothekskollegs bei Empfang eines neuen Amtes machten, denn
+die Statuten verlangten in solchen Fällen ausdrücklich eine Gabe.40
+Der Staatsmann Hans Jakob Haab (1601–1682) schenkte wieder-
+holt bei Antritt einer neuen »Ehrenstelle« Bücher oder Geld, weil
+er als Kurator und später als Beisitzer (Consiliarius) diesem Gre-
+mium angehörte.41 Ebenso spendete der nachmalige Antistes Jo-
+hann Jakob Ulrich (1602–1668), ein Sohn des Bibliothekgründers
+und damals Sekretär der Bürgerbibliothek, bei verschiedenen Be-
+förderungen im Rahmen seiner kirchlichen Laufbahn Bücher oder
+Geld (Abb. 3).42 Auch in weiteren Fällen ist im Donatorenbuch ein
+empfangenes Amt als Anlass der Schenkung genannt.43 Die Biblio-
+theksgesellschaft war in Zürich nicht die einzige Einrichtung, wel-
+
+38 Heinrich Bullinger, Welches das einig, unbetrogen Gut sye, Autograf von 1528:
+Zürich ZB, Ms D 200. Begleitschreiben von Nabholz im vorderen Spiegel. Vgl. auch
+Donatorenbuch, 445.
+
+39 Donatorenbuch, S. 638.
+40 Vgl. Vögelin, Geschichte der Wasserkirche, 59 (§ 12 des Bibliotheksgesetzes).
+41 Donatorenbuch, 282, vgl. auch Wagner, Historia, 35r.
+42 Donatorenbuch, 587, über Ulrich vgl. Historisches Lexikon der Schweiz, 13 Bde.,
+Basel 2002–2014 [HLS], Bd. 12, 602, und Conrad Ulrich, Die Familie Ulrich von Zü-
+rich, Bd. 2, Zürich 2016, 683–686.
+
+43 Donatorenbuch, 218, 282, 306, 315, 380, 428, 451, 535, 546, 587 und 638.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+475
+
+che solche Geschenke vorschrieb. Entsprechende Ordnungen zur
+Äufnung des Silberschatzes kannten bereits die Zünfte und die
+Konstaffel. Auch die 1693 gegründete gelehrte Sozietät »Collegium
+der Wohlgesinnten« hatte eine ganz ähnliche Bestimmung in ihren
+Statuten.44 Bei den geforderten Gaben handelte es sich um soge-
+nannte Ehrengeschenke, die zu den selbstverständlichen Pflichten
+der wohlhabenden Familien gehörten. Auf diese Praxis verweist
+zudem die Bezeichnung »Honorarium« für das Donatorenbuch der
+Stadtbibliothek St. Gallen.45
+
+Geschenke stifteten nicht nur Verbindung und Anerkennung,
+sondern konnten auch den Status bekräftigen. Als Salomon Hirzel
+(1580–1652), der schon 1630 Conrad Gessners zoologische Werke
+in deutscher Übersetzung der Bürgerbibliothek übergeben hatte,
+sieben Jahre später mit dem Bürgermeisteramt zu höchster Ehre
+gelangte, schenkte er »syn Bildtnuß, mehr dann halb Lebens
+grosß«.46 Sein Porträt in der Wasserkirche unterstrich die Position
+des Donators und die Bürgerbibliothek als Ort städtischer Selbst-
+inszenierung. Das Geschenk ehrte sowohl den Donator als auch die
+Bürgerbibliothek.
+
+Die obrigkeitlichen Ämter wurden als »Ehrenstellen« bezeichnet.
+Bis zur Wahl in eines dieser rund 100 weltlichen Ämter mit einem
+guten Einkommen waren die künftigen Staatsmänner oft als frei-
+willige Mitarbeiter in der Kanzlei und im Stadtgericht tätig. Ver-
+mutlich diente auch das im 17. Jahrhundert unbezahlte Amt des
+Bibliothekars in der Bürgerbibliothek gelegentlich als ein Sprung-
+brett für die angestrebte Ämterlaufbahn. Johann Heinrich Rahn
+(1646–1708) etwa wurde 1666 Bibliothekar, bevor er zehn Jahre
+später in den Dienst der Staatskanzlei eintrat und 1687 endlich
+
+44 »6. Welchem oberkeitliche bürgeliche oder andere ehren-stellen zufallend, deßen
+discretion wird es überlaßen, den fiscum zubeschenken, bey erlebung des nammenstag
+soll jeder 10 ß, so mann jemanden gevatter stehet 10 ß, so aber einer selbst mit einer
+jugendt erfreuet würde, 18 ß erleggen.« Michael Kempe / Thomas Maissen, Die Collegia
+der Insulaner, Vertraulichen und Wohlgesinnten in Zürich, 1679–1709: Die ersten
+deutschsprachigen Aufklärungsgesellschaften zwischen Naturwissenschaften, Bibelkri-
+tik, Geschichte und Politik, Zürich 2002, 316. Zu den Zünften vgl. Eva-Maria Lösel,
+Das Zürcher Goldschmiedehandwerk, Zürich 1974 (Mitteilungen der Antiquarischen
+Gesellschaft in Zürich 46/3), 66–68.
+
+45 Rudolf Gamper et al., Sum Jacobi Studeri Sangallensis: Die Sammlung des biblio-
+
+philen Kaufmanns Jakob Studer (1574–1622) in der Vadiana, St. Gallen 2001, 12.
+
+46 Donatorenbuch, 306.
+
+476
+
+Christian Scheidegger
+
+Abb. 3: Rechts: Besitzvermerk des Bibliotheksgründers Heinrich Ulrich (1575–1630)
+auf der Titelseite von Paolo Giovio, Opera, Basel 1578: Zürich ZB, M 31. – Links: Auf
+dem Vorsatzblatt der Schenkungsvermerk des Sohnes
+Johann Jakob Ulrich
+(1602–1668), welcher den Band am 1. Juni 1630 anlässlich seiner Wahl zum Ge-
+schichtsprofessor der Stadtbibliothek Zürich schenkte.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+477
+
+478
+
+Christian Scheidegger
+
+zum Stadtschreiber befördert wurde.47 In den Jahren 1665 bis
+1702 »verehrte« er der Bürgerbibliothek 24 verzeichnete Bücher
+und Objekte, darunter die Manuskripte seiner in Auszügen ge-
+druckten Eidtgenössischen Geschicht-Beschreibung, mehrere
+Schriften des Straßburger Universalgelehrten Johann Heinrich
+Boeckler (1611–1672) und ein Paar jüdische Gebetsriemen (Tefil-
+lin).48 Der spätere Bürgermeister Hans Conrad Heidegger (1710–
+1778) war neben seiner Tätigkeit in der Staatskanzlei und als
+Landschreiber in Weiningen von 1737 bis 1745 Stadtbibliothekar,
+wobei diese ehrenamtliche Arbeit laut einem Eintrag im Donato-
+renbuch seit 1730 mit jährlich 20 Pfund entlöhnt wurde.49 Von
+seinen Geschenken besonders zu erwähnen sind drei Drucke von
+Jean Jacques Rousseau und sechs Bände mit Flugschriften, die von
+1763 bis 1767 im Zug der Rousseau-Affäre in Genf veröffentlicht
+worden sind.50
+
+Unter den Donatoren finden sich auch solche, bei denen ein so-
+zialer Aufstieg beobachtet werden kann. Der Seidenfabrikant Hans
+Georg Orelli (1623–1706), Abkömmling einer aus Locarno einge-
+wanderten, vormals nicht ratsfähigen Familie, war ab 1659 Ku-
+rator der Bürgerbibliothek und gelangte als Vertreter der Krämer-
+zunft zur Saffran in den Großen Rat.51 1680 schenkte er der Bür-
+gerbibliothek den von Jan Jansson in Amsterdam herausgegebenen
+prächtigen Weltatlas Novus Atlas absolutissimus im Wert von 200
+Gulden.52 Demgegenüber war die ebenfalls im Textilgeschäft aktive
+Familie Pestalozzi erst im 18. Jahrhundert im Rat vertreten, ob-
+schon sie bereits im 16. Jahrhundert eingebürgert und von Anfang
+an regimentsfähig war. Die aus Zürich stammenden Amsterdamer
+Kaufleute Conrad Pestalozzi (1618–1661) und Johann Anton Pes-
+talozzi (1630–1667) schenkten 1660/61 der Bürgerbibliothek zwei
+
+47 HLS, Bd. 10, 74, und Wagner, Historia, 36r.
+48 Donatorenbuch, 266–269. Johann Heinrich Rahn, Eidgenössische Chronik, Teile
+
+1–4: Zürich ZB, Ms B 76 a-d.
+
+49 Donatorenbuch, 160 und 592. Über Heidegger vgl. HLS, Bd. 6, 196f.
+50 Donatorenbuch, 294. Diese Flugschriften sind womöglich im Bestand »Gene`ve«
+
+der Zentralbibliothek Zürich überliefert.
+
+51 Hans Schulthess, Die von Orelli von Locarno und Zürich: ihre Geschichte und
+
+Genealogie, Zürich 1941, 256f., und Wagner, Historia, 36r.
+
+52 Donatorenbuch, 465. Jan Jansson, Novus atlas absolutissimus, das ist Generale
+
+Welt-Beschreibung, Amsterdam [1657–1664]. 11 Bde: Zürich ZB, T 14–24.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+479
+
+Atlanten und eine chinesische Handschrift53, während ihr jüngerer
+Bruder Johann Rudolf Pestalozzi (1632–1700) als Kaufmann und
+Makler im Auftrag des Kaufmännischen Direktoriums in Zürich
+tätig war und der Bibliothek 22 in Amsterdam gedruckte Titel von
+Paul Felgenhauer (1593 – um 1677) und Jakob Böhme (1575–
+1624) übergab.54 Beide Autoren galten im reformierten Zürich we-
+gen ihres Chiliasmus beziehungsweise ihrer Mystik als nonkon-
+form, was den Donator nicht davon abhielt, diese Bücher der Bür-
+gerbibliothek zu schenken. Eine Zensur gab es nicht. Ein hand-
+schriftlicher Eintrag in Felgenhauers Schrift Phares, das ist Schei-
+dung Gerichte und Prüfung zum Spiegel deß Glaubens und Un-
+glaubens lässt vermuten, dass Johann Rudolf Pestalozzi die Bücher
+von seinem Bruder Johann Anton in Amsterdam bekommen hat-
+te.55 Dieses Buchgeschenk wirft, ergänzend zu früheren Untersu-
+chungen, ein weiteres Licht auf die Vorgeschichte der pietistischen
+Bewegung in Zürich und zeigt, dass Spiritualismus, Chiliasmus
+und Mystik im reformierten Zürich des 17. Jahrhunderts präsent
+waren.56
+
+Im Donatorenbuch finden sich nur wenige Donatoren, die nicht
+zur Oberschicht gehörten. Der Buchbinder Franz Burkhard
+(1654–1736) zum Beispiel war Abwart in der Wasserkirche und
+schenkte 1686 eine kleinformatige lateinische Bibel aus dem Vor-
+besitz des Reformators Ulrich Zwingli.57 Vielleicht wollte er sich
+
+53 Donatorenbuch, 474. Martino Marini, Novus atlas Sinensis, Amsterdam 1665:
+Zürich ZB, T 3. Andreas Cellarius, Harmonia macrocosmica, seu Atlas universalis et
+novus, totius universi creati cosmographiam generalem, et novam exhibens, Amsterdam
+1661: Zürich ZB, T 4. Zhang Pu (Hg.), Sishu kaobei: Shang Meng, Juan 9 & 10,
+Chinesische Handschrift, (Gutan? 17. Jh.): Zürich ZB, Ms Or 54.1. Zu Conrad und
+Johann Anton Pestalozzi vgl. Hans Pestalozzi-Keyser, Geschichte der Familie Pestalozzi,
+Zürich 1958, Stammtafel 18.
+
+54 Donatorenbuch, 475. Über Johann Rudolf Pestalozzi vgl. Pestalozzi-Keyser, Ge-
+
+schichte, Stammtafel 18.
+
+55 Paul Felgenhauer, Phares, das ist Scheidung Gerichte und Prüfung zum Spiegel
+deß Glaubens und Unglaubens, s.l. 1654. (Verzeichnis der im deutschen Sprachraum
+erschienenen Drucke des 17.
+[VD17]
+23:681776E): Zürich ZB, D 363. Notiz auf dem Vorsatzblatt: »favoritomi dal fratello
+G.A.P.« Die Initialen stehen vermutlich für Giovanni Antonio (Johann Anton) Pesta-
+lozzi.
+
+[elektronische Ressource]
+
+Jahrhunderts
+
+56 Ebenfalls nonkonformistische Literatur schenkten der Stadtbaumeister Johann
+Heinrich Holzhalb (1639–1697) und ein Hans Konrad Bleuler, vgl. Donatorenbuch,
+162 und 329.
+
+480
+
+Christian Scheidegger
+
+mit seiner Gabe dafür kenntlich zeigen, dass er von der Bürgerbi-
+bliothek bezahlte Buchbindeaufträge erledigte. Seine Abwartstätig-
+keit hingegen wurde nicht vergütet. Erst 1719 wurde ihm eine Ent-
+schädigung in Form von 100 Pfund und sechs Mütt Kernen aus
+den Staatskassen zugesagt, da er wegen des Umbaus der Bürger-
+bibliothek in den Jahren 1717/18 viel mehr in der Wasserkirche zu
+tun und das Bibliothekskollegium deshalb um eine Entlöhnung ge-
+beten hatte.58
+
+Bei anderen Schenkungen handelte es sich um Legate. Der Dru-
+ckereibesitzer Johann Jakob Bodmer (1617–1676) hinterließ zu-
+gunsten der Stadtbibliothek ein solches von 100 Gulden, das drei
+Monate nach seinem Hinschied in Form von 27 Büchern, darunter
+Titel von Thomas Hobbes (1588–1679) und Samuel Puffendorf
+(1632–1694), geliefert wurde.59 Er und sein gleichnamiger Vater,
+beide im Besitz des alleinigen Druckprivilegs für Bibeln und obrig-
+keitliche Sachen, schenkten schon zu Lebzeiten 95 Drucke der ei-
+genen Produktion und der Offizin ihres Vorgängers Johannes Wolf.
+Dieser Eintrag im Donatorenbuch ermöglicht es, unfirmierte Dru-
+cke der Offizin Wolf zuzuordnen.60 Man kann hier noch nicht von
+Pflichtxemplaren reden, denn eine offizielle Regelung diesbezüglich
+scheint es erst später gegeben zu haben. Sie wurde 1692 erneuert
+und besagte, dass von allen Büchern, die zürcherische Autoren im
+In- oder Ausland drucken ließen, ein Exemplar abgegeben werden
+musste. Der Bibliothekspräsident Johann Heinrich Scheuchzer
+(1640–1710) erhielt vom Rat die Erlaubnis, die versäumte Abgabe
+
+57 Donatorenbuch, 187. Biblia cum summariorum apparatu pleno quadruplicique
+repertorio insignita, Lyon 1519: Zürich ZB, Zwingli 251. Vgl. hierzu Walther Köhler,
+Huldrych Zwinglis Bibliothek, in: Neujahrsblatt zum Besten des Waisenhauses Zürich
+143 (1921), Nr. 31. Zu Burkhard vgl. Zürich Stadtarchiv, VII.D.1–3.
+
+58 Rütsche, Kunstkammer, 75f.
+59 Donatorenbuch, 168–170. U.a. Thomas Hobbes, Opera philosophica, quae La-
+tine` scripsit, omnia, Amsterdam 1668: vermutlich Zürich ZB, Y 144, und Samuel Pu-
+fendorf, De jure naturae et gentium, Lund 1672: vermutlich Zürich ZB, 11.201.
+
+60 Donatorenbuch, 167: »Warhaffte und umbstendtliche Beschreibung der namhaff-
+ten und denckwürdigen Belegerung der Statt Montauban in Franckreich« [Zürich: Wolf,
+1624]. Die französische Vorlage »Histoire particulie`re des plus me´morables choses qui
+se sont passe´es au sie`ge de Montauban« wird Hector Joly zugeschrieben, doch wäre
+aufgrund der Widmungsvorrede eine Beteiligung von Jacques Dupuy zu prüfen. Auf
+derselben Seite im Donatorenbuch auch der Johannes Guler von Weineck zugeschrie-
+bene Druck »Pündtnerischer Handlungen widerholt- unnd vermehrte Deduction« [Zü-
+rich: Wolf, 1622].
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+481
+
+naträglich einzufordern.61 Vermutlich übergaben jedoch schon vor
+der offiziellen Regelung viele Autoren der Bürgerbibliothek Beleg-
+exemplare, so zum Beispiel der Orientalist Johann Heinrich Hot-
+tinger (1620–1667). Dank des Eintrags im Donatorenbuch kann
+auch in diesem Fall eine fehlende bibliographische Angabe ergänzt
+werden: Da keines der 24 unter dem 20. November 1660 verzeich-
+neten Werke einen anderen Autor hat, stammen sehr wahrschein-
+lich auch die zwei anonymen kontroverstheologischen Schriften
+Fründt-eydtgnössische-Wexelschryben dreyer politischer Personen
+und Vierfache, gantz bedenkliche und ernstliche Klag des römi-
+schen Bischoffs von Hottinger.62
+
+Die Obrigkeit honorierte gelegentlich Werke, die ihr gewidmet
+und der Bürgerbibliothek als Pflichtexemplare abgegeben wurden.
+Der Stadtarzt Johannes von Muralt (1645–1733) zum Beispiel er-
+hielt vom Rat für seine an Neujahr 1692 geschenkte Schrift Hip-
+pocrates Helveticus 80 Reichstaler, während Professor Johann
+Heinrich Ott (1617–1682) 1672 für seine quellennahe geschicht-
+liche Darstellung der Täufer zwei Silberschalen bekam.63 Gewür-
+digt wurde die wissenschaftliche Leistung der Autoren, während
+der Form nach ein Austausch von Geschenken stattfand.
+
+61 Vgl. Zürich Staatsarchiv, II B 636, 16f. (Ratsmanual des Stadtschreibers, 20. Ja-
+nuar 1692): »Weilen mein gnädige herren [...] benachrichtiget worden, daß die zu auf-
+nahm der bibliothec anständig und gedeylich gemachte erkantnuß, crafft deren von
+allen denen bücheren, welliche von allhiesigen verburgerten theils allhier, theils in der
+frömbde in den truck verfertigtet worden, deroselben ein exemplar gebührt, in empfind-
+lichen abgang gerathen [...], als wird herr zunfftmeister Johann Heinrich Scheuchzer
+wegen dißmahligen praesidii in der bibliothec sich angelegen sein laßen, daß alle die-
+jehnigen bücher, von wellichen keine exemplaria biß dahin durch verburgerte authores
+an dises burgerliche orth verehrt worden, geflißenlich erkundiget und nach anleitung
+voriger erkantnuß, selbige für die burger bibliothec eingeforderet werden, gestalten
+mein gnädige herren nit zweifflen, es werde jedermenniglich sowol auß eignem trieb zu
+dem bono publico als auß ehrerbietigen intention, dise oberkeitliche erkantnuß ghor-
+samlich zu beobachten, die rückstehende bücher und opera an dises burgerliche orth
+abfolgen laßen.«
+
+62 Donatorenbuch, 336f.
+63 Donatorenbuch, 438. Johannes von Muralt, Hippocrates helveticus, Basel 1692:
+Zürich ZB, 6.188; vgl. dazu Zürich Staatsarchiv, II B 636, 16 (Ratsmanual des Stadt-
+schreibers vom 20. Januar 1692); Donatorenbuch, 470. Johann Heinrich Ott, Annales
+anabaptistici, Basel 1672: Zürich ZB, 5.173; vgl. dazu Lösel, Das Zürcher Gold-
+schmiedehandwerk, 77f.
+
+482
+
+Christian Scheidegger
+
+Die Buchgeschenke an die Bürgerbibliothek waren nicht wirklich
+freiwillige Vergabungen an eine staatliche Institution, sondern soll-
+ten im Rahmen einer »Ökonomie des Gabentauschs« betrachtet
+werden, wie sie für die französische Gesellschaft im 16. Jahrhun-
+dert beschrieben worden ist.64 Eine solche Geschenkökonomie gibt
+es in der modernen kapitalistischen Gesellschaftsordnung vielleicht
+nur noch im privaten Bereich, sie hatte im Mittelalter und in der
+Frühen Neuzeit jedoch eine wichtige gesellschaftliche Funktion
+und war teilweise von theologischen Idealen (Mt 10,8) inspiriert.65
+Das gilt genauso für Zürich. Dokumente aus der ersten Hälfte des
+18. Jahrhunderts zeigen, dass Entgelte (sportula) für amtliche Ver-
+richtungen und die zahlreichen Geschenke (Verehrungen) fast ein
+Drittel der gesamten Einkünfte in der Landvogtei Kyburg aus-
+machten. Solche Gaben wurden allgemein erwartet und waren
+auch obrigkeitlich geduldet, sofern sie nicht einen bestimmten Wert
+überschritten oder als Bestechung missbraucht wurden. Umgekehrt
+gab es die Sitte, dass der Landvogt an Neujahr jedem Haushalt
+Wein und Brot schenkte.66
+
+Bei den Buchgeschenken an die Bürgerbibliothek fehlt auf den
+ersten Blick die Reziprozität. Im 17. Jahrhundert erhielten die ver-
+schiedenen Amtsinhaber der Bürgerbibliothek für die geleisteten
+Dienste ja weder Geld noch Naturalien und waren zusätzlich ver-
+pflichtet, Bücher oder Geld zu schenken ohne Aussicht auf eine
+materielle Gegenleistung. Dennoch profitierten sie von der Bürger-
+bibliothek wie auch die vielen Patrizier, Handelsaristokraten, Mi-
+litärführer und Pfarrer, die, ohne zum Bibliothekskollegium zu ge-
+hören, Bücher und Geld schenkten. Sie profitierten unmittelbar als
+Bibliotheksbenutzer, sodann indirekt indem sie der Bürgerbiblio-
+thek eine wichtige Schutzfunktion für Kirche und Staat zuerkann-
+ten und aus der herrschenden Gesellschaftsordnung Vorteile zogen.
+Denn die Staatsmänner, Theologen und Pfarrer lebten von den
+grundherrschaftlichen und anderen Einkünften der Obrigkeit,
+während die sozial aufstrebenden Textilhändler mit ihren erwirt-
+
+64 Natalie Zemon Davis, Die schenkende Gesellschaft: zur Kultur der französischen
+
+Renaissance, München 2002.
+
+65 Davis, Die schenkende Gesellschaft, 21.
+66 Thomas Weibel, Der zürcherische Stadtstaat, in: Geschichte des Kantons Zürich,
+
+Bd. 2 (Frühe Neuzeit – 16. bis 18. Jahrhundert), Zürich 1996, 40–42.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+483
+
+schafteten Reichtümern nicht weniger auf das Wohlwollen der Po-
+litik angewiesen waren. Außerdem konnte sich die Mitarbeit in der
+Bürgerbibliothek, sei es als Bibliothekar oder als Abwart, für die
+berufliche Laufbahn lohnen. Die Buchgeschenke waren ein Aus-
+druck der Dankbarkeit und Solidarität und bekräftigten wie er-
+wähnt nicht selten auch Positionen und Status.
+
+3. Ausländische Donatoren und die Bemühungen
+
+um protestantische Allianzen
+
+Der hugenottische Militärführer Henri de Rohan (1579–1638), zu
+jenem Zeitpunkt französischer Sondergesandter in der Eidgenos-
+senschaft und General verbündeter Truppen im Kampf gegen die
+habsburgischen Mächte, schenkte der Bürgerbibliothek im Septem-
+ber 1632 eine spätmittelalterliche hebräische Bibelhandschrift.67
+Der französische Adlige weilte damals in Chur, schrieb einen Be-
+gleitbrief an den oben erwähnten Bibliothekssekretär Johann Ja-
+kob Ulrich und beauftragte seinen Quartiermeister Jacques Dupuy
+(1591–1676) damit, Handschrift und Brief zu überbringen.68 Du-
+puy selbst, der früher erster Konsul der calvinistischen Stadt Mon-
+tauban war, schenkte der Bürgerbibliothek einen rabbinischen Bi-
+belkommentar.69
+
+1632 geriet Henri de Rohan in den Fokus der englischen Di-
+plomatie, denn seit der Einnahme der calvinistischen Hochburgen
+La Rochelle und Montauban verstärkte England auf der Suche
+nach neuen Verbündeten seine Beziehungen zur Eidgenossenschaft.
+Eine wichtige Rolle spielten dabei auch die seit dem 16. Jahrhun-
+dert bestehenden kirchlichen Beziehungen zwischen England und
+den evangelischen Orten in der Schweiz. Der englische Gesandte
+Sir Oliver Fleming (gest. 1661), ein Cousin Oliver Cromwells
+(1599–1658), erkundigte sich beim erfahrenen hugenottischen Mi-
+
+67 Donatorenbuch,1. Hebräische Bibel, spanische Quadratschrift auf Pergament,
+
+14./15. Jahrhundert: Zürich ZB, Ms Or 152.
+
+68 Brief des Herzogs Rohan an Johann Jakob Ulrich, 20. September 1632: Zürich
+
+ZB, Ms A 151, Nr. 119.
+
+69 Donatorenbuch, 36. Zu Dupuy vgl. Dictionnaire de biographie franc¸aise, Bd. 12,
+
+Paris 1970, 587.
+
+484
+
+Christian Scheidegger
+
+litärführer, ob er bereit wäre, das Oberkommando über die Trup-
+pen der vier evangelischen Orte der Eidgenossenschaft zu überneh-
+men. Nachdem der französische Herzog zunächst eine ablehnende
+Haltung eingenommen hatte, erklärte er im Frühling 1633 seine
+Bereitschaft dazu.70
+
+Als schwieriger erwies sich das Unterfangen, die Regierungen der
+evangelischen Städte von diesem Vorhaben zu überzeugen. Fleming
+erhielt einen Kredit von 200 Pfund, um Bücher, Pelzmützen, Sei-
+denstrümpfe und Medaillen einzukaufen.71 Mit diesen Geschenken
+versuchte er das Wohlwollen der evangelischen Eidgenossen zu fes-
+tigen und Schwierigkeiten aus dem Weg zu räumen. Geschenke
+waren ein wesentliches Element in der frühneuzeitlichen Diplo-
+matie und gehörten zu den Pflichten sowohl der Gesandten als
+auch der Gastgeber.72 Im Oktober 1632 übergab er der Bürgerbi-
+bliothek neben anderen Büchern verschiedene Schriften der engli-
+schen Theologen John Davenant (1572–1641) und William Ames
+(1576–1633), was zweifellos auch die konfessionelle Gemeinsam-
+keit unterstreichen sollte.73
+
+Anders als in Basel und Schaffhausen stieß Fleming beim Zür-
+cher Rat mit seinen Vorstellungen auf Zustimmung, was er nicht
+zuletzt der Unterstützung des Bürgermeisters Heinrich Bräm
+(1572–1644) zu verdanken hatte.74 Bräm befürwortete einen kon-
+fessionellen Konfrontationskurs zugunsten der Evangelischen im In-
+und Ausland und pflegte daher einen engen Umgang mit den eng-
+lischen Gesandten. 1634 schenkte Bräm der Bürgerbibliothek ein
+großes Porträt von Sir James Hay (ca. 1580–1636), seit 1622 erster
+Earl of Carlisle und wiederholt englischer Sondergesandter auf
+dem Kontinent.75 Dieses Porträt, über das sich Antistes Breitinger
+ärgerte, wie auch das des Herzogs von Rohan und viele andere
+Gemälde sind spätestens seit dem 19. Jahrhundert verschollen.76
+
+70 Wolfgang Schneewind, Die diplomatischen Beziehungen Englands mit der alten
+Eidgenossenschaft zur Zeit Elisabeths, Jakobs I. und Karls I. 1558–1649, Basel 1950,
+128–133.
+
+71 Schneewind, Die diplomatischen Beziehungen Englands, 130.
+72 Mark Häberlein und Christof Jeggle (Hg.), Materielle Grundlagen der Diploma-
+tie: Schenken, Sammeln und Verhandeln in Spätmittelalter und Früher Neuzeit, Kon-
+stanz 2013, 13.
+
+73 Donatorenbuch, 2.
+74 Schneewind, Die diplomatischen Beziehungen Englands, 133.
+75 Donatorenbuch, 174.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+485
+
+Unklar ist, ob auch der Besuch des Politikers und Offiziers Sir
+Henry Rich (1590–1649) im August 1633 einen diplomatischen
+Hintergrund hatte oder mehr privater Natur war. Richard Boyle
+(1612–1698), der sich im Rahmen einer Grand Tour auf dem Kon-
+tinent an der Universität Basel immatrikuliert hatte, sein künftiger
+Schwager Charles Rich (1616–1673) und dessen Onkel Henry
+schenkten der Bürgerbibliothek damals eine King-James-Bibel und
+eine Gesamtausgabe der Schriften des englischen Königs Jakobs I.77
+Nach der Gründungsphase sind bis 1705 im Donatorenbuch keine
+Geschenke der englischen Gesandten mehr verzeichnet, obschon
+die konfessionelle Diplomatie Englands in den reformierten Orten
+der Eidgenossenschaft unter dem republikanischen Lordprotektor
+Oliver Cromwell einen Höhepunkt erreichte.78 Der Sovereign von
+Elisabeth I., eine in den Jahren 1584 bis 1587 geprägte Goldmün-
+ze, war hingegen eine Gabe des königstreuen schottischen Adligen
+Archibald Campbell (1629–1685), später 9. Earl of Argyll.79
+
+Die Engländer weckten bei den Reformierten in der Eidgenos-
+senschaft teilweise große Hoffnungen, erzielten mit ihrer Diplo-
+matie jedoch nur bescheidene Erfolge, was sicher auch daran lag,
+dass sie auf Pensionszahlungen verzichteten und keine Soldverträge
+abschlossen: »ohne Geld keine Schweizer«.80 Der Militärstratege
+Georg Hans von Peblis (1577–1650), der vom englischen König
+
+76 Friedrich Salomon Vögelin, Die ehemalige Kunstkammer auf der Stadtbibliothek
+in Zürich, Neujahrsblatt der Stadtbibliothek in Zürich 1873, 21, Nr. 128, und 27, Nr.
+197. In den Jahren 1779 bis 1783 wurden zahlreiche Objekte der Kunstkammer als
+barocker Ballast entsorgt, wobei die Porträts von dieser Maßnahme angeblich nicht
+betroffen waren. Vgl. Friedrich Salomon Vögelin, Die ehemalige Kunstkammer auf der
+Stadtbibliothek zu Zürich, Neujahrsblatt der Stadtbibliothek Zürich, Zürich 1872, 16.
+77 Donatorenbuch, 42f. Holy Bible, London 1631. Mit Prayer Book und metrischen
+
+Psalmen. Überliefert ist nur: James I., The Workes, London 1616: Zürich ZB, L 24.
+
+78 Vgl. Sarah Rindlisbacher, Zur Verteidigung des »Protestant Cause«: Die konfes-
+sionelle Diplomatie Englands und der eidgenössischen Orte Zürich und Bern 1655/56,
+in: Zwingliana 43 (2016), 1–142.
+
+79 Donatorenbuch, 79. Archibald Campbell (1629–1685), 9. Earl of Argyll, trug in
+seinen jungen Jahren den Titel Lord of Lorne, vgl. Oxford Dictionary of National
+Biography, Bd. 9, Oxford 2004, 716–724. Die numismatische Bestimmung verdanke
+ich freundlicherweise Christian Weiss.
+
+80 Im Gegensatz zu Frankreich, Venedig und den Habsburgern, vgl. Christian Wind-
+ler, »Ohne Geld keine Schweizer«: Pensionen und Söldnerrekrutierung auf den eidge-
+nössischen Patronagemärkten, in: Nähe in der Ferne: Personale Verflechtung in den
+Außenbeziehungen der Frühen Neuzeit, hg. von Hillard von Thiessen et al., Zeitschrift
+für historische Forschung, Beiheft 36 (2005), 105–133.
+
+486
+
+Christian Scheidegger
+
+seit 1627 eine Pension auf Lebenszeit erhielt, nachdem er zuvor
+lange im Dienst des pfälzischen Kurfürsten Friedrich V. (1596–
+1632) und der Kurfürstin Elisabeth Stuart (1596–1662) gestanden
+hatte, war eine Ausnahme. Seit 1622 hielt sich Peblis wiederholt in
+Zürich auf, reorganisierte dort ab 1629 das Heerwesen und
+schenkte der Bürgerbibliothek 1631 sieben Bücher verschiedenen
+Inhalts (Abb. 4). Zusammen mit dem schwedischen Gesandten und
+Fleming warb er 1633 in Zürich für ein Bündnis mit Schweden und
+übte mit seinen konfessionspolitischen Ansichten einen wachsen-
+den Einfluss auf Antistes Breitinger aus.81 Abgesehen davon, dass
+im Dreißigjährigen Krieg Schweizer Söldner auf schwedischer Seite
+kämpften, verliefen die Bündnisverhandlungen Schwedens mit den
+Reformierten jedoch ergebnislos.82 Die schwedische Krone unter-
+hielt über einen langen Zeitraum diplomatische Beziehungen zu
+den evangelischen Orten der Eidgenossenschaft und nutzte, um
+den freundschaftlichen Kontakt zu pflegen, auch Buchgeschenke.
+Im Donatorenbuch verzeichnet sind die Gesandten Christoph Lud-
+wig Rasche (1584–1645), Carl Marin (gest. 1651), Georg von
+Snoilsky (gest. 1672) und Nils Gyldenstolpe (1642–1709), die der
+Bürgerbibliothek unter anderem eine gedruckte finnische Bibel,
+eine türkische Handschrift mit Gebeten und eine Koranhandschrift
+»verehrten«.83
+
+4. Venedigs Diplomatie
+
+Als Zürich zu Beginn des 17. Jahrhunderts mit Baden-Durlach
+(1612), Frankreich (1614) und Venedig (1615) offizielle Soldbünd-
+nisse abschloss, endete der von Ulrich Zwingli geforderte und in
+
+81 HLS, Bd. 9, 591; Paul Schweizer, Geschichte der schweizerischen Neutralität,
+1895, 233–238; Verena von Hammerstein-Equord, Gertrud von Peblis geb. von Ham-
+merstein in der »Fluchtburg Zürich« zur Zeit des 30jährigen Krieges, in: Zürcher Ta-
+schenbuch 19 (119), 2–11; Schneewind, Die diplomatischen Beziehungen Englands,
+136; Leonhard Haas, Schwedens Politik gegenüber der Eidgenossenschaft während des
+Dreissigjährigen Krieges, in: Schweizer Beiträge zur allgemeinen Geschichte 9 (1951),
+110; Donatorenbuch, 20.
+
+82 Haas, Schwedens Politik, 109–111.
+83 Donatorenbuch, 29, 72, 79 und 101. Biblia, se on coco Pyhä Ramattu suomexi,
+Stockholm 1642: Zürich ZB, Bibl 34: a. Zu den orientalischen Handschriften vgl. die
+geplante elektronische Edition des Donatorenbuchs.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+487
+
+Abb. 4: Wappen und Eintrag des Militärberaters Georg Hans von Peblis (1577–1650)
+im Donatorenbuch. Zürich ZB, Arch St 22.
+
+488
+
+Christian Scheidegger
+
+der Reformationszeit eingeschlagene bündnispolitische Sonderweg,
+der auf fremde Kriegsdienste ganz verzichtet hatte. Die reforma-
+torische Kritik am Solddienst zielte besonders auf das Pensionen-
+nehmen der Führungsschichten, das sich nicht am Gemeinwohl
+orientierte und das zu verschiedenen Problemen führte. Die Zür-
+cher Reformierten beurteilten dies 100 Jahre später im Grundsatz
+nicht anders. Die Öffnung in der hiesigen Solddienstpolitik bedeu-
+tete nur, dass neu zwischenstaatliche Verträge zugelassen wurden,
+während die auf den Eigennutz zielenden Soldverträge mit Einzel-
+personen weiterhin verboten blieben. Das offizielle Bündnis mit
+Venedig sicherte dem Vertragspartner im Kriegsfall die Unterstüt-
+zung durch Schweizer Söldner zu, setzte als Gegenleistung eine
+jährliche Pension von 12000 Pfund für den Zürcher Fiskus fest
+und enthielt ein flankierendes Wirtschafts- und Handelsabkom-
+men, das gegenseitige Handelsfreiheit garantierte. Der Haupt-
+zweck des Soldvertrags bestand darin, das Gegengewicht zu den
+habsburgischen Mächten zu stärken.84
+
+Venedig pflegte seine Außenbeziehungen zu den Eidgenossen mit
+einigem Aufwand und schickte bis ins 18. Jahrhundert diplomati-
+sche Vertretungen nach Bern und Zürich. Die venezianischen Ge-
+sandten waren hier nicht nur beauftragt, Nachrichten zu übermit-
+teln und die Pensionen auszuzahlen, sondern mussten auch durch
+persönliche Kontakte das Wohlwollen der Bündnispartner sichern.
+Dazu luden sie die Ratsherren zu Gastmählern ein, bezahlten die
+Zeche im Wirtshaus oder machten Geschenke an die Gattinnen der
+Herren.85 Auch Buchgeschenke an die Bürgerbibliothek kamen re-
+gelmäßig vor. Im Donatorenbuch sind die sechs venezianischen
+Gesandten Andrea Rosso (1593–1655), Domenico Vico, Paolo Sa-
+rotti, der 1661 die Zürcherin Anna Katharina Meyer von Knonau
+(1637–1684) heiratete und später Gesandter in Neapel und Lon-
+don war86, sowie Alvise Sagredo (1617–1688), Vendramino Bian-
+
+84 Christian Moser / Hans Rudolf Fuhrer, Der lange Schatten Zwinglis: Zürich, das
+französische Soldbündnis und eidgenössische Bündnispolitik, 1500–1650, Zürich 2009,
+33–43 und 72–77.
+
+85 Helen Gmür, Das Bündnis zwischen Zürich/Bern und Venedig 1615/18, Zürich
+1945 (Schweizer Studien zur Geschichtswissenschaft, Neue Folge 6), 117, und Helen
+Gmür, Das Leben der venezianischen Gesandten in Zürich im 17. Jahrhundert
+(1615–1668), in: Zürcher Taschenbuch 70 (1950), 62–69.
+
+86 Clelia Pighetti, L’influsso scientifico di Robert Boyle nel tardo ’600 italiano, Mai-
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+489
+
+chi (gest. 1738) und Giacomo Cappello (1660/65–1736) verzeich-
+net.87 Zwar gab es in Zürich im Gegensatz zu den katholischen
+Orten keine privaten Pensionen, doch lassen die Geschenke und
+Gefälligkeiten der Gesandten gleichwohl ein System von Patronage
+und Klientelismus erkennen. Infolge der reformierten Ethik be-
+schränkte sich die Patronage jedoch darauf, das Wohlwollen und
+die Stimmen von verschiedenen Ratsherren zu gewinnen, während
+der Soldvertrag selbst nicht den Eigeninteressen dieser Herren un-
+terlag, sondern einen Teil der zwischenstaatlichen Beziehungen Zü-
+richs darstellte.88
+
+Die Pensionszahlungen Venedigs waren für den Zürcher Staats-
+haushalt eine wichtige Einnahmequelle, ohne dass es zu einer Ab-
+hängigkeit von den Bündnisgeldern wie in den katholischen Orten
+kam.89 Als 1670 Venedig mit der Auszahlung der Pensionen in
+Rückstand war, schickten die Berner und Zürcher Obrigkeiten den
+bereits erwähnten Hans Georg Orelli für Verhandlungen in die La-
+gunenstadt. Ihm gelang es, dass ein wesentlicher Teil der Rück-
+stände nachbezahlt wurde.90 Im Donatorenbuch verzeichnet sind
+auch drei Zürcher Bürger, die in venezianischen Diensten gestan-
+den haben: die Hauptmänner Renwart Göldli (gest. 1647) und Jo-
+hann Wilhelm Stapfer (1597–1649) sowie der in Dalmatien als
+Feldprediger engagierte Hans Rudolf Steinbrüchel (1633–1708).91
+Von ihren Geschenken seien hier ein gedruckter kirchenslawischer
+Psalter und ein mumifizierter Menschenkopf erwähnt.92
+
+land 1988, 127–139, und Gerold Meyer von Knonau, Aus einer zürcherischen Famili-
+enchronik: Als Einleitung zu den Lebenserinnerungen von Ludwig Meyer von Knonau
+(1769–1841), Frauenfeld 1884, 45f.
+
+87 Donatorenbuch, 53, 69, 89, 91, 95 und 117f. Dr. Stefania Salvadoni half freund-
+licherweise bei der Identifikation einiger venezianischer Gesandten, vgl. hierzu die ge-
+plante Edition des Donatorenbuchs.
+
+88 Vgl. hierzu Windler, »Ohne Geld keine Schweizer«, 105–133.
+89 Vgl. Otto Sigg, Die Entwicklung des Finanzwesens und der Verwaltung Zürichs im
+ausgehenden 16. und 17. Jahrhundert, Bern 1971, 27f., und Windler, »Ohne Geld
+keine Schweizer«, 105.
+
+90 Hans Schulthess, Die von Orelli von Locarno und Zürich: ihre Geschichte und
+Genealogie, Zürich 1941, 256f., Sigg, Die Entwicklung des Finanzwesens, 47, und
+Wagner, Historia, 36r.
+
+91 Donatorenbuch, 260 und 558f.
+92 Psaltir′ Davidov, Venedig 1638: Zürich ZB, Bibl 60: s.
+
+490
+
+Christian Scheidegger
+
+Die Handels- und Außenbeziehungen Venedigs mit protestanti-
+schen Mächten führten dazu, dass sich in der Lagunenstadt eine
+klandestine reformierte Gemeinde bildete. Der Bündner Nikolaus
+Zaff amtierte 1651 als ihr Prediger und pflegte damals einen Brief-
+wechsel mit Antistes Johann Jakob Ulrich. Außerdem stand Zaff in
+Kontakt mit Jacques Dupuy, der nach dem Tod Henry de Rohans
+viele Jahre in Italien lebte und sich um den Nachlass des franzö-
+sischen Herzogs kümmerte. 1654 diente Dupuy vermutlich der re-
+formierten Gemeinde in Venedig selbst als Prediger und hielt sich,
+um diplomatische Immunität zu genießen, beim englischen Ge-
+sandten Thomas Killigrew (1612–1683) auf.93 Als Zaff von 1668
+bis 1672 und erneut 1675 in Venedig war, stand er in Briefkontakt
+mit dem Zürcher Theologen Johann Heinrich Heidegger
+(1633–1698) und setzte sich für die Freilassung der ungarischen
+Galeerensklaven ein. Möglicherweise handelt es sich bei dem unter
+dem Namen »Harschani« eingetragenen Donator um den refor-
+mierten Prediger Istva´n Harsa´nyi Mo´ ricz, der bei dieser Aktion
+von der Galeerenstrafe befreit wurde.94
+
+5. Hugenotten und Waldenser
+
+Schon vor der Aufhebung des Edikts von Nantes und der Massen-
+flucht aus Frankreich im Jahr 1685 gab es unter den Donatoren
+einige Hugenotten, wobei die konkreten Gründe für ihre Schen-
+kungen nicht erkennbar sind. Das gilt zum Beispiel für den nach
+Genf geflüchteten Adligen The´odore Agrippa d’Aubigne´ (1550–
+1630) und den in Aubonne weilenden französischen Diamanten-
+händler Jean Baptiste Tavernier (1605–1689), die der Bürgerbiblio-
+thek Zürich ihre eigenen Werke zukommen ließen.95 Sicher belegen
+ihre Einträge im Donatorenbuch zusammen mit denen der Gelehr-
+ten und Politiker aus Genf und der Waadt allgemein die konfessi-
+
+93 Stefan Oswald, Die Inquisition, die Lebenden und die Toten: Venedigs deutsche
+Protestanten, Sigmaringen 1989, 43f., und Theodor Elze / Eugen Lessing, Geschichte
+der protestantischen Bewegung und der deutschen evangelischen Gemeinde in Venedig,
+Florenz 1941, 45f.
+
+94 Donatorenbuch, 101. Vgl. Jan-Andrea Bernhard, Konsolidierung des reformierten
+
+Bekenntnisses im Reich der Stephanskrone, Göttingen 2015, 566.
+
+95 Donatorenbuch, 14 und 106.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+491
+
+onelle Verbundenheit mit Zürich. Beim Lyoner Arzt und Huma-
+nisten Jacob Spon (1647–1685) kann der Anlass, warum er im Juli
+1684 seine Schriften in goldgeprägten Maroquineinbänden ge-
+schenkt hat, wenigstens vermutet werden.96 Da sein Vater das Zür-
+cher Bürgerrecht besaß, versuchte womöglich auch der Sohn in den
+Genuss dieses Rechts zu kommen und drückte mit der Schenkung
+seine Dankbarkeit gegenüber der Zwinglistadt aus. Als er im fol-
+genden Jahr Lyon verlassen musste, entschied sich Spon für die
+Flucht nach Zürich, starb jedoch Ende 1685 erst 38-jährig in Ve-
+vey, wo seine Mutter und seine Schwester lebten und er krank-
+heitshalber einen Zwischenhalt eingelegt hatte. Nach Vevey floh
+auch der verwandtschaftlich und geschäftlich mit Spon verbundene
+Lyoner Bankier Vincent Hertner Klee (gest. 1699), der das Zürcher
+Bürgerrecht besaß und 1669 der Bürgerbibliothek mit der Sche-
+delschen Weltchronik von 1493 eines der schönsten Werke der frü-
+hen Buchdruckerkunst schenkte. Auch in diesem Fall dürfte wie
+schon Jahre zuvor bei seinem Vater Jean Martin Hertner Klee
+(1589–1662) die Erneuerung des Zürcher Bürgerrechts den Anlass
+zur Schenkung gegeben haben.97
+
+Nur wenige Hugenotten konnten in Zürich auf Dauer bleiben.
+Die finanzielle Unabhängigkeit erlaubte es dem Pariser Bankier
+Jean Formond de Latour (um 1646–1720), sich nach seiner Flucht
+1685 in Zürich niederzulassen. 1718 entschied er sich gleichwohl
+für einen Umzug nach Basel.98 Er schenkte der Bürgerbibliothek
+neben zwei Büchern achtzehn seltene Münzen der römischen Kai-
+ser und eine Tonlampe mit heidnischem Motiv.99 Auch der spätere
+Universalgelehrte Louis Bourguet (1678–1742) lebte mehrere Jahre
+in der Limmatstadt. Er war der Sohn von Jean Bourguet, der 1686
+zusammen mit seinem Bruder Jacques die Fabrikation von Seiden-
+strümpfen in Zürich begründete. Nachdem der Zürcher Rat 1699
+zum Schutz des einheimischen Textilgewerbes seinen Vater und die
+anderen französischen Fabrikanten ausgewiesen hatte, verließ ein
+
+96 Donatorenbuch, 107. Vgl. Roland Etienne / Jean-Claude Mossie`re (Hg.), Jacob
+
+Spon, un humaniste lyonnais du XVIIe`me sie`cle, Paris 1993.
+
+97 Donatorenbuch, 58. Schedel, Liber chronicarum (deutsch), Nürnberg: Koberger,
+
+1493: Zürich ZB, 3.2.
+
+98 Emile Jaccard, L’Eglise franc¸aise de Zurich, Zürich 1889, 233–235.
+99 Donatorenbuch, 113.
+
+492
+
+Christian Scheidegger
+
+Jahr später auch Louis Bourguet Zürich. 1704 schenkte er der Bür-
+gerbibliothek ein jüdisches Gebetbuch.100
+
+Paul Reboulet (1655–1710) flüchtete 1683 nach Genf und lebte
+anschließend in Lausanne, bevor er mit Franc¸ois de Labrune
+(1624–1703) im Frühling und Sommer 1684 eine Reise durch die
+Schweiz unternahm.101 Der gedruckte Reisebericht der beiden hu-
+genottischen Prediger beschreibt auch den Aufenthalt in Zürich
+und verschiedene Zimelien der hiesigen Bürgerbibliothek; wohl aus
+politischen Gründen sind die prächtigen Drucke des Louvre, die
+der französische Diplomat Melchior de Harod de Senevas (um
+1614–1694) 1676 geschenkt hat, an erster Stelle erwähnt.102 1685
+kam Reboulet (Abb. 5) erneut nach Zürich und bat dieses Mal um
+Aufnahme. Dank der Unterstützung von Antistes Johann Heinrich
+Erni (1630–1688) konnte der Franzose vorläufig bleiben und Ende
+April eine Vorlesungstätigkeit beginnen, die sich im Verlauf des
+Sommers zu einem Predigtgottesdienst entwickelte. Der Rat be-
+stätigte Reboulet im November desselben Jahres offiziell als Pre-
+diger der französischen Flüchtlinge in Zürich und übertrug ihm
+zusätzlich verschiedene Aufgaben des Migrationswesens, bewilligte
+jedoch erst im September 1687 ein festes Gehalt.103 Im März 1686
+schenkte Reboulet der Bürgerbibliothek seine vermutlich in Den
+Haag gedruckte Schrift Reflexions sur la lettre d’apostasie de M.
+Gilbert.
+
+Da der Abfall des Predigers Louis de Gilbert (gest. 1737) vom
+reformierten Bekenntnis kein Einzelfall war, erschienen 1686 in
+Genf zur moralischen Unterstützung der verfolgten Hugenotten
+drei Dissertationen von Johann Heinrich Heidegger (1633–1698)
+zum Thema Martyrium und Apostasie in französischer Sprache.
+Beim Übersetzer handelte es sich sehr wahrscheinlich um den Ju-
+risten Antoine Teissier (1632–1715), der sich seit 1685 in Zürich
+aufhielt und hier rechts- und staatswissenschaftliche Vorlesungen
+
+100 Donatorenbuch, 116. Das geschenkte Buch ist nicht identifiziert. Über Bourguet
+
+vgl. HLS, Bd. 2, 626.
+
+101 Emile Jaccard, Paul Reboulet, 1655–1710, in: Revue de the´ologie et de philoso-
+
+phie et compte rendu des principales publications scientifiques 32 (1899), 157f.
+
+102 Reboulet und de Labrune, Voyage, 115–141. Zum Geschenk des französischen
+
+Diplomaten vgl. Donatorenbuch, 103.
+
+103 Jaccard, Paul Reboulet, 159–174, und Barbatti, Refuge, 28f., 34f., 47f., 58–61
+
+und 124f.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+493
+
+Abb. 5: Porträt von Paul Reboulet (1655–1710). Zürich ZB, Handschriftenabteilung,
+Ms E 57.
+
+494
+
+Christian Scheidegger
+
+hielt. Jedenfalls schenkte er der Bürgerbibliothek neben seinen ei-
+genen Werken ein Exemplar von Heideggers Traitez du martyre, de
+la consolation des martyrs et de la chute des saints.104 Im Vorwort
+lobte der Übersetzer die Solidarität der Zürcher mit den Glaubens-
+flüchtlingen. Als kapitalstarkes Staatswesen vermochte Zürich die
+vielen Aufgaben in der Flüchtlingshilfe gut zu bewältigen, wobei
+die in den Jahren 1685 bis 1690 rund 20000 angekommenen hu-
+genottischen Migranten meistens nach kurzer Zeit in deutsche Ter-
+ritorien weiterreisten, weil sie in Zürich weder wirtschaftlich noch
+politisch eine Zukunft hatten.105 Als Teissier 1689 nach Bern wei-
+terzog, erhielt er vom Zürcher Magistrat für seine Verdienste eine
+50 Gramm schwere Medaille. Gewöhnlich erhielten die Flüchtlinge
+bei einer Abreise zwei bis fünf Taler, während die Höhe des Rei-
+segeldes für Adlige und Prediger zwölf bis zwanzig Taler oder mehr
+betrug.106
+
+Die schwierigen Umstände der Flucht und die oft schnelle Wei-
+terreise waren vielleicht dafür verantwortlich, dass außer den ge-
+nannten nur zehn weitere Hugenotten und Waldenser im Donato-
+renbuch verewigt sind. Samuel Perrin (gest. 1723) etwa, vor der
+Flucht Prediger in Ferrie`re, hielt sich 1687 in Zürich auf und un-
+terrichtete hier als französischer Katechet, bevor er französischer
+Prediger in Chur wurde und von dort der Bürgerbibliothek Zürich
+eine von ihm verfasste Schrift zukommen ließ.107 Ein anderes Bei-
+spiel ist Benjamin De Joux (gest. 1703) aus dem Val Chisone. Seit
+1685 lebte der waldensische Prediger in Zürich, wo er die Rede am
+Karlstag 1687 hielt, bevor er nach London zog und schließlich in
+die englische Kolonie Virginia auswanderte.108 Bei der gedruckten
+Karlstagsrede von 1687, die er der Bürgerbibliothek übergeben
+
+104 Donatorenbuch, 108, 113 und 118. Auf Seite 108 verzeichnet: Traitez du martyre,
+de la consolation des martyrs et de la chute des saints, Genf 1686: Zürich ZB: 6.201.
+Bei den Vorlagen handelt es sich um die in den Jahren 1677 und 1678 unter dem Vorsitz
+von Johann Heinrich Heidegger erschienenen Dissertationen »De martyrio«, »De lap-
+sibus sanctorum« und »Consolatio christiana s. martyrum« (VD17 12:188647G,
+384:717386V und 3:315675E). Über Teissier vgl. Barbatti, Refuge, 93f.
+
+105 Barbatti, Refuge, 25, 93 und 124.
+106 Barbatti, Refuge, 25 und 93.
+107 Emile Jaccard, L’Eglise, 108–110, und Le Livre du recteur de l’Acade´mie de Ge-
+
+ne`ve (1559–1878), Bd. 5, Genf 1976, 127, Nr. 3735.
+
+108 David E. Lamber, Protestant International and the Huguenot Migration to Vir-
+
+ginia, New York 2010, 145–172.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+495
+
+hat, handelt es sich gewissermaßen um ein Belegexemplar. Sonst
+können die Geschenke der Hugenotten und Waldenser jedoch all-
+gemein als ein Zeichen der Dankbarkeit für die erfahrene Hilfe
+gedeutet werden. Guillaume Malanot (gest. 1705), waldensischer
+Prediger in Angrogne, schenkte 1691 ein handschriftliches Neues
+Testament der Waldenser in okzitanischer Sprache, als er durch die
+Schweiz reiste, um für den Wiederaufbau in den piemontesischen
+Tälern Geld zu sammeln.109 In diesem Zusammenhang ist auch der
+Eintrag des niederländischen Diplomaten Pieter Valkenier
+(1641–1712), der sich mit großem Engagement für die Waldenser
+eingesetzt hat, erwähnenswert. Neben anderen Büchern schenkte
+er der Bürgerbibliothek einen von Hiob Ludolf (1624–1704) in
+Frankfurt am Main herausgegebenen äthiopischen Psalter (Abb.
+6).110
+
+6. Schluss
+
+Die Bürgerbibliothek Zürich, im Zeitalter der Konfessionalisierung
+zum Schutz der reformierten Lehre gegründet, erlebte ein erstaun-
+lich schnelles Wachstum. Die Konfession war für die erfolgreiche
+Entwicklung ein wesentlicher Grund, doch spielten noch andere
+Faktoren eine Rolle: die staatliche Förderung, der repräsentative
+Bau der profanierten Wasserkirche und die attraktive Kunstkam-
+mer sowie die reformatorisch geprägte Forderung nach dem ge-
+meinen Nutzen und nicht zuletzt die in der frühneuzeitlichen Ge-
+sellschaft tief verwurzelte Ökonomie des Gabentauschs. Der Zu-
+wachs an Büchern erfolgte nicht durch Ankauf, sondern haupt-
+sächlich durch Schenkungen.
+
+109 Donatorenbuch, 109. Vgl. hierzu David Jaymes, The Zurich Waldensian New
+Testament (Ms. C 169 [706]): The Archaeology of a Dissidence, in: Bollettino della
+societa` di studi Valdesi 128 (2011), 3–29. Zu Mallanot vgl. Le Livre du recteur de
+l’Acade´mie de Gene`ve (1559–1878), Bd. 4, Genf 1975, 404, Nr. 3958, und Theo Kief-
+ner, Die Waldenser auf ihrem Weg aus dem Val Cluson durch die Schweiz nach Deutsch-
+land, 1532–1755, Bd. 2, Göttingen 1985, 399.
+
+110 Donatorenbuch, 111. Psalterium Davidis Aethiopice et Latine, hg. von Hiob Lu-
+
+dolf, Frankfurt a.M. 1701: Zürich ZB, Bibl 60: h.
+
+496
+
+Christian Scheidegger
+
+Abb. 6: Psalterium Davidis Aethiopice et Latine, Frankfurt a.M. 1701. Auf der Titel-
+seite der handschriftliche Schenkungsvermerk des Herausgebers an den holländischen
+Diplomaten Pieter Valkenier (1641–1712), der das Buch 1702 der Stadtbibliothek Zü-
+rich schenkte. Zürich ZB, Bibl 60:h.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+497
+
+Unter den Büchern, Objekten und Geldbeträgen, die der Bürger-
+bibliothek Zürich geschenkt wurden, lassen sich Ehrengeschenke,
+Pflichtexemplare und diplomatische Gaben unterscheiden. Zu den
+Ehrengeschenken gehörten die vorgeschriebenen Gaben von Mit-
+gliedern des Zürcher Bibliothekskollegs, während die Abgabe von
+Pflichtexemplaren erst in der zweiten Hälfte des 17. Jahrhunderts
+geregelt wurde. Für die Schenkungen sind verschiedene Anlässe zu
+beobachten. Berufliche Beförderungen, Neujahr und Tod (Legate)
+sind die wichtigsten. Die Buchgeschenke der Bürger, Diplomaten,
+Gelehrten und Kaufleute stifteten Verbindung und Anerkennung,
+wie dies etwa bei den Bemühungen um protestantische Allianzen
+oder bei den Patronagebeziehungen Venedigs gezeigt worden ist.
+Die Gaben konnten auch Positionen bekräftigen oder waren, wie
+etwa bei den Hugenotten, ein Ausdruck der Dankbarkeit. Die Be-
+zeichnung »Stammbuch« im Titel des Donatorenbuchs, bei dem es
+sich um das deutsche Äquivalent zum lateinischen Album amico-
+rum handelt, bringt zum Ausdruck, dass die Geber mit der Bür-
+gerbibliothek freundschaftlich verbunden waren beziehungsweise
+politische, wirtschaftliche oder konfessionelle Interessen der Stadt
+teilten. Dabei gilt zu beachten, dass Freundschaft in der Frühen
+Neuzeit eine enge, oft verwandtschaftliche Verbindung meint und
+stets auch Verpflichtungen beinhaltete.
+
+Obschon mit der Bürgerbibliothek selten ein echter Gabentausch
+stattfand, ist eine Reziprozität erkennbar. Deutlich zu beobachten
+ist dies bei den Mitgliedern des Bibliothekskollegs, die bei einer
+Beförderung im Staatsdienst der Bibliothek jeweils etwas geschenkt
+haben. Doch auch andere Staatsmänner, Geistliche und Kaufleute
+zeigten mit Schenkungen ihre Dankbarkeit gegenüber dem Staats-
+wesen, von dem sie selbst profitierten. Ohne soziale Verflechtung
+mit der Kirche, dem Staat oder ohne eine persönliche Beziehung
+zur Bibliothek gab es keine Donationen. Dies ist auch der Fall beim
+Einsiedler Abt Augustinus Reding (1625–1692), der 1684 seine im
+Druck erschienene umfangreiche Antwort auf die Angriffe Johann
+Heinrich Heideggers gegen das Tridentinische Konzil schenkte,
+denn das Kloster Einsiedeln verfügte im Zürcher Territorium über
+verschiedene grundherrschaftliche Rechte, während der Abt sogar
+das Zürcher Bürgerrecht besaß. 1692 gelangte durch Vermittlung
+von Marx Escher (1628–1719), der die Einsiedler Interessen in
+
+498
+
+Christian Scheidegger
+
+Zürich vertrat, ein weiteres umfangreiches Werk Redings in die
+Bürgerbibliothek Zürich.111 Als Zürcher Bürger war er zu dieser
+Abgabe verpflichtet.
+
+In der Frühen Neuzeit wurde Besitz allgemein als eine Gabe Got-
+tes betrachtet, und was einer bekommen hat, beansprucht als Gabe
+wieder wegzugehen. Natalie Zemon Davis, welche die Ökonomie
+des Gabentauschs in Frankreich zur Zeit der Renaissance und des
+Barocks untersucht und dabei auch Buchgeschenke behandelt hat,
+stellte fest, dass Bücher, obschon von einem frühkapitalistisch
+funktionierenden Gewerbe hergestellt, im 17. Jahrhundert nach
+alter Gewohnheit häufig als gemeinschaftliche Güter wahrgenom-
+men worden seien, weil sie etwas vermitteln würden, das letztlich
+Gott gebe.112 Nach alter Glaubensvorstellung galt Erkenntnis als
+eine Gabe Gottes, die nicht verkauft werden kann (»scientia do-
+num Dei est, unde vendi non potest«). Diese in der Frühen Neuzeit
+weit verbreitete Ansicht hat die Praxis der Buchgeschenke im 17.
+Jahrhundert und vermutlich selbst die moderne Forderung eines
+freien Zugangs zu Bildung beeinflusst. Die reformatorisch geprägte
+Orientierung am Gemeinwohl war, verbunden mit dieser Wahr-
+nehmung von Büchern, ein weiterer Grund für die rege Spenden-
+tätigkeit zugunsten der Bürgerbibliothek. Manchmal brauchte es
+auch den Nachdruck des Staates. Als der Rat 1692 die Abgabe von
+Pflichtexemplaren bestätigte, zweifelte er nicht, »es werde jeder-
+menniglich sowol auß eignem trieb zu dem bono publico als auß
+ehrerbietigen intention« die eingeforderten Bücher der Bürgerbi-
+bliothek verehren.113
+
+Christian Scheidegger, lic. phil., Wissenschaftlicher Bibliothekar, Zentralbibliothek Zü-
+rich
+
+111 Donatorenbuch, 107 und 110. Augustin Reding, Oecumenici Tridentini concilii
+veritas inextincta, ne apice quidem laesa ex praesumptuosa Ioannis Henrici Heideggeri
+Tigurini anatome historico-theologica, Einsiedeln 1684: Zürich ZB, G 72–73; Augustin
+Reding, Theologiae scholasticae in divi Thomam, ad normam theologorum Salisbur-
+gensium, Einsiedeln 1667–1687: Zürich ZB, G 74–77.
+
+112 Vgl. Davis, Die schenkende Gesellschaft, und Natalie Zemon Davis, Beyond the
+Market: Books as Gifts in Sixteenth-Century France, in: Transactions of the Royal
+Historical Society 33 (1983), 69–88. Das folgende Zitat (aus einer Glosse zum Decre-
+tum Gratiani, distinctio 37) nach Davis, Beyond the Market, 71.
+
+113 Vgl. oben Anmerkung 61.
+
+Buchgeschenke, Patronage und protestantische Allianzen
+
+499
+
+Abstract: The so-called Bürgerbibliothek, the first public library in Zurich, was founded
+in 1629, partly to protect the reformed community in dangerous times. It was made
+possible by private initiatives and occasionally supported by the city’s authorities. Al-
+though lacking public funds, the collection expanded considerably thanks to donations,
+both from private citizens and from foreign visitors. Most donations and gifts, consist-
+ing primarily of books and various objects for the cabinet of curiosities, were meticu-
+lously registered in an illuminated manuscript. The donation book is an interesting
+source of information not only for provenance history, but also for researchers of
+cultural and social history, as the recorded entries for theologians, merchants, politi-
+cians, diplomats and refugees reveal numerous social connections. It is argued that the
+book donations were not merely voluntary, but that they bear witness to a network of
+legal deposit, patronage systems and a fascinating gift economy.
+
+Keywords: Stadtbibliothek Zurich; Confessionalisation; social network; book of do-
+nors; donation; exchange; history of provenance
+
+

@@ -1,0 +1,1470 @@
+ISSN 0254–4407 – Zwingliana 44 (2017), 417–443
+
+The Lausanne Theses on the
+Ministry and the Sacraments
+
+(1547–1548)
+
+Michael W. Bruening
+
+1. Introduction
+
+In spring 1548, a set of theses on the sacraments and the power of
+the ministry that had been debated by the ministers and professors
+in Lausanne found its way to Bern and ultimately led to the ex-
+pulsion of Bern’s three Lutheran (or more properly Bucerian) min-
+isters, Simon Sulzer, Beat Gering, and Konrad Schmid. Eight-
+eenth-century historian Abraham Ruchat indicated that there were
+90 theses.1 Later, following the publication of a letter from Bern
+pastor Jodocus Kilchmeyer in the Calvini opera that refers to 99
+theses,2 Jean Barnaud and others have generally adopted that fi-
+gure.3 A letter from Pierre Viret published for the first time in my
+
+1 Abraham Ruchat, Histoire de la Re´formation de la Suisse: Edition avec appen-
+dices, ed. by L. Vulliemin, vol. 5, Nyon et al. 1836, 343. Ruchat was followed by Karl
+Bernhard Hundeshagen, Die Conflicte des Zwinglianismus, Lutherthums und Calvinis-
+mus in der Bernischen Landeskirche von 1532–1558, Bern 1842, 207; and by Melchior
+Kirchhofer, Das Leben Wilhelm Farels, vol. 2, Zurich 1833, 91.
+
+2 “Insuper et 99 conclusiones ecclesiae valvis affixas Lausannae disputarunt [...]”
+Ioannis Calvini Opera quae supersunt omnia [CO], vol. 12, Braunschweig 1874, 680,
+no. 1007, Kilchmeyer to Heinrich Bullinger, Bern, 2 April 1548.
+
+3 Jean Barnaud, Pierre Viret: Sa vie et son oeuvre (1511–1571), Saint-Amans 1911,
+332f.; Michael W. Bruening, Calvinism’s First Battleground: Conflict and Reform in
+the Pays de Vaud, 1528–1559, Dordrecht 2005 (Studies in Early Modern Religious
+Reforms 4), 188. The collective Farel biography cites both figures: Guillaume Farel:
+
+418
+
+Michael W. Bruening
+
+Epistolae Petri Vireti also refers to 99 theses.4 Although historians
+have disagreed about the number of theses, they all – myself in-
+cluded – have concurred in one conclusion: The theses have been
+lost.5 I believe I have found them.
+
+Or at least most of them; the final text of the 99 Theses remains
+lost. I am publishing here for the first time, however, the text of
+two early versions of the Lausanne Theses that have been hiding in
+plain sight, one in the Bibliothe`que Nationale de France,6 the other
+in the Bern Staatsarchiv, among the well-thumbed pages of the
+“Kirchliche Angelegenheiten” volumes of the Unnütze Papiere col-
+lection.7 The text of the theses alters our understanding of the
+theses’ author and origins, the chronology of the 1547–1548 de-
+bates in Lausanne and Bern over the Eucharist and the ministry,
+and thus the broader context of the early differences between Cal-
+vinism and Zwinglianism at precisely the time when John Calvin
+and Heinrich Bullinger were trying to come to an agreement on the
+interpretation of the Eucharist.
+
+Biographie nouvelle e´crite d’apre`s les documents originaux par un groupe d’historiens,
+professeurs et pasteurs de Suisse, de France, et d’Italie, Neuchaˆtel 1930, 574. Interes-
+tingly, Henri Vuilleumier gives no figure for the number of theses; Henri Vuilleumier,
+Histoire de l’Eglise Re´forme´e du Pays de Vaud sous le re´gime Bernois, vol. 1, Lausanne,
+1927, 641.
+
+4 “Ex 99. pronunciatis, aliquot sunt inventa quae de ministerii et sacramentorum
+ratione scripta erant, non de ministrorum excellentia et dignitate, si magis sensus quam
+verba expendatur.” Epistolae Petri Vireti: The Previously Unedited Letters and a Reg-
+ister of Pierre Viret’s Correspondence [Epistolae Vireti], ed. by Michael W. Bruening,
+Geneva 2012 (Travaux d’Humanisme et Renaissance [THR], 494), 115f., no. 23, Pierre
+Viret to Rudolf Gwalther, Lausanne, 23 July 1548.
+
+5 Hundeshagen, Conflicte, 207: “Wer sie aufgestellt, welches Inhalts sie waren, ist
+nicht bekannt. Sie sind verloren gegangen.” Barnaud, Pierre Viret, 333: “Malheureuse-
+ment, leur texte n’a pas e´te´ conserve´.” Epistolae Vireti, 115, n.19: “Unfortunately, the
+text of the theses does not survive.”
+
+6 Bibliothe`que Nationale de France [BNF], ms. lat. 8641, 83r–88r. This manuscript
+has been digitized and is available online at http://gallica.bnf.fr/ark:/12148/btv1b6000
+246c.
+
+7 Bern Staatsarchiv [StA], ms. A V 1457 (U.P. 82.2), no. 96.
+
+The Lausanne Theses (1547–1548)
+
+419
+
+2. Historical Context
+
+Before looking at the texts themselves, let us examine briefly the
+historical context that led to the composition of the theses. The
+Lausanne Theses were prepared in the context of confessional con-
+flict in the city and territories of Bern.8 From almost the beginning
+of the Reformation, the pastors in Bern were divided between
+those who favored Zwinglian theology and those who were in-
+clined towards Lutheranism, at least in its south-German, Bucerian
+form. After 1542, the Zwinglians had the upper hand in the city.9
+Their chief representatives were, first, Erasmus Ritter and, later,
+Jodocus Kilchmeyer and Eberhard von Rümlang. Additionally, in
+the Bernese-controlled Pays de Vaud, many of the French-speaking
+pastors, such as Antoine Marcourt and especially Andre´ Ze´be´de´e,
+continued to follow Zurich’s lead, in opposition to Calvin, Viret,
+and Farel.10
+
+Conflict between the factions continued to simmer through the
+1540s, boiling over with a dispute between Peter Schnyder, a
+Zwinglian pastor of Aarburg, and two Lutheran pastors in Zofin-
+gen. In January 1547,11 Kilchmeyer described the situation to Bul-
+linger in Zurich, saying that “a bitter quarrel over the ministry of
+the church and the Eucharist” had arisen and been reported to the
+Bern city council.12 The Zurich pastors soon got involved, drafting
+
+8 See, generally, Hundeshagen, Conflicte; Eduard Bähler, Der Kampf zwischen
+Staatskirchentum und Theokratie in der welschbernischen Kirche im sechzehnten Jahr-
+hundert, in: Zeitschrift für Schweizerische Geschichte 5 (1925), 1–61, 129–191; Bru-
+ening, Calvinism’s First Battleground, ch. 3: “Zwinglianism and Lutheranism in Bern.”
+9 In August 1542, the Bern council settled a dispute among the city’s ministers on
+the Eucharist by enforcing the more Zwinglian position taken in the 1528 Bern Dis-
+putation. See Ruchat, Histoire de la Re´formation de la Suisse, vol. 5, 204f., Hundes-
+hagen, Conflicte, 165–167.
+
+10 See Ulrich J. Gerber, Ele`ves de Zwingli en terres romandes, in: La Dispute de
+Lausanne (1536): La the´ologie re´forme´e apre`s Zwingli et avant Calvin, ed. by Eric
+Junod, Lausanne 1988 (Bibliothe`que historique vaudoise 90), 104–112; Gabrielle Ber-
+thoud, Antoine Marcourt: Re´formateur et Pamphle´teur du ‘Livre des Marchans’ aux
+Placards de 1534, Geneva 1973 (THR 129); Paul Boesch, Zwingli-Gedichte (1539) des
+Andreas Zebedeus und des Rudolph Gwalther, in: Zwingliana 9/4 (1959), 208–220.
+
+11 And not 1548, as Hundeshagen writes, thereby removing it from its important
+
+place as background to the conflict in Lausanne. Hundeshagen, Conflicte, 207.
+
+12 “Oborta est inter D. Petrum Arburgensem ac duos Zoffingensis ecclesiae episco-
+pos acris quaedam contentio de ministerio atque eucharistiae negotio. [...] Novissime
+
+420
+
+Michael W. Bruening
+
+a substantial response to the situation, in which they reiterated the
+Zwinglian position on these subjects, namely:
+
+“Concerning the ministry and ministers, the Scriptures say this: Only God
+through the Spirit gives, increases, and confirms faith; in short, every saving
+virtue comes from Christ. The minister only announces the external word,
+and offers or administers the symbol, not the thing signified. [...] The min-
+isters and the sacraments confer nothing; they simply announce. God con-
+fers everything. [...] And if they say this [about the Eucharist]: ‘[Christ] is
+truly present but not corporally or quantitatively, locally, or qualitatively,’
+we judge that they should abstain from monstrous words and refrain from
+blinding the simple folk. [...] Furthermore, to eat the body of Christ is
+nothing other than to believe.”13
+
+So pronounced were the divisions in Bern that the Zurich pastors
+addressed this letter only to Bern’s Zwinglian pastors: Kilchmeyer,
+Rümlang, Nikolaus Pfister, and Johannes Wäber; Sulzer, Gering,
+and Schmid were left out of the discussion.
+
+Later in the year, Sulzer tried to enlist his Francophone friends’
+support for his position, an effort that would lead, albeit indirect-
+ly, to the conflicts over the Lausanne Theses and between Viret
+and Ze´be´de´e in Lausanne. In the summer of 1547, a Bernese lay-
+man named Andreas Rappenstein published a book attacking
+Sulzer’s views on the ministry.14 In August, Sulzer wrote to Viret,
+“A horrible tempest is certainly shaking our church [...] And I
+really hope that you will indicate to us your views, and hopefully
+Calvin’s also, on the proper use and efficacy of the ministry.”15
+
+omne negotium per proconsulem Arburgensem ad magnificum Bernensium magistra-
+tum delatum est, ut illic rebus pro utraque parte diligenter discussis et examinatis cer-
+tamini aliquando summa manus imponeretur.” CO, vol. 12, 466f., no. 873, Kilchmeyer
+to Bullinger, Bern, 11 January 1547.
+
+13 “De ministerio et ministris sic pronunciat scriptura: solum Deum per spiritum
+dare fidem, augere, confirmare fidem, breviter omnem virtutem salvificam esse Christi:
+ministrum tantum annunciare verbum externum, offerre aut administrare symbolum,
+non rem significatam. [...] Ministri et sacramenta nihil conferunt, sed annunciant. Deus
+confert omnia. [...] Si illi addant: vere adest, sed non corporaliter, quantitave, localiter,
+qualitative, iubemus ut a verborum monstris abstineant, et oculose simplicibus per-
+stringere desinant. [...] Caeterum manducare corpus Christi non est aliud quam cred-
+ere.” CO, vol. 12, 471–474, no. 875, Zurich Pastors to Jodocus Kilchmeyer, Eberhard
+von Rümlang, Nikolaus Pfister, and Johannes Wäber, Zurich, 17 January 1547.
+
+14 Andreas Rappenstein, Dialogus: Ein Tütsch Gespräch von Ampt und Dienst der
+Kilchen, Bern, 1547. On Rappenstein and the book, see Willy Brändly, Andreas Rap-
+penstein, in: Zwingliana 7/9 (1943), 537–547, 7/10 (1943), 601–631.
+
+The Lausanne Theses (1547–1548)
+
+421
+
+Viret was, in fact, already working on the manuscript of what
+would be published the following year as De la vertu et usage du
+ministere de la Parolle de Dieu, et des Sacremens dependans
+d’icelle.16 Viret’s discussion of the ministry in the book differs mar-
+kedly from that expressed by the Zurich pastors earlier in the year:
+
+“We cannot deny that our Lord Jesus Christ called the ministry of the
+Gospel the key of knowledge and the keys of the kingdom of heaven, and
+that he gave the power and commission of these keys to his Apostles and to
+their true successors, as well as the power and commission to bind and
+loose, to pardon and retain sins by means of this ministry of the keys, and
+to guide and govern his Church by them. [...]”17
+
+For Viret, as for Calvin, the ministry had real power, conferred on
+it by God. For them, the power of the keys gave ministers the
+ability to forgive sins and to excommunicate sinners; the minister
+was not a mere mouthpiece. Likewise, Viret’s doctrine of the Eu-
+charist departs from that of Zurich when he writes, “We recognize,
+therefore, that we truly eat the flesh and the body of Jesus Christ
+and drink his blood in the Supper, and not only in the imagination.
+[...]”18 Viret began to circulate manuscript copies of this book in
+fall 1547, and it raised the ire of the Zwinglians in the Vaud. He
+reported to Calvin, “I do not know whether you have heard about
+the complaints against me on account of that book in which I have
+
+15 “Horribilis certe tempestas quatit ecclesiam nostram [...]. Itidem autem et de mi-
+nisterii sani usu et efficacia nobis significari per te vehementer cupio, idque si placet
+adhibito etiam Calvini nostri iudicio.” Epistolae Vireti, 52, no. 10, Sulzer to Viret, Bern,
+10 August 1547.
+
+16 Pierre Viret, De la vertu et usage du ministere de la Parolle de Dieu, et des Sac-
+remens dependans d’icelle, [Geneva] 1548. Just two weeks after Sulzer’s letter, Calvin
+told Viret, “Librum de ecclesia et sacramentis, quum voles, mitte”; this seems to indi-
+cate that he was either done or nearing completion of the book. CO, vol. 12, 582,
+Calvin to Viret, Geneva, 25 August 1547.
+
+17 “Nous ne pouvons semblablement nier, que nostre Seigneur Jesus Christ n’ait
+applle´ le ministere de l’Evangile, la clef de science, et les clefz du Royaume des cieux, et
+qu’il n’ait donne´ la puissance et la commission d’icelles a` ses Apostres, et a` tous leurs
+vrais successeurs, et la puissance et commission de lier, et de deslier, de pardonner les
+pechez, et de les retenir, par le moyen de ce ministere et de ces clefz, et de gouverner et
+conduire son Eglise par icelles.” Viret, De la vertu et usage du ministere, 166.
+
+18 Nous recognoissons donc, que nous mangeons vrayement la chair et le corps de
+Jesus Christ, en la Cene, et que nous y beuvons son sang, et non seulement par imagi-
+nation.” Viret, De la vertu et usage du ministere, 536.
+
+422
+
+Michael W. Bruening
+
+opposed those who are a disgrace to the ministry. Around here the
+complaints are great, sometimes coming with threats as well.”19
+After the book was finally published in summer 1548, Ze´be´de´e,
+the Arts Professor in Lausanne, would send to the Bernese excerpts
+from the book that seemed to contradict Zwinglian theology.20 At
+the same time as Viret was circulating manuscripts of his book, the
+Lausanne pastors and professors were debating the same subjects
+of the power of the ministry and the sacraments at their colloquies.
+Here, the evidence from the Lausanne Theses forces us to alter
+the existing narrative. According to the traditional version, Viret
+and Ze´be´de´e quarreled over the interpretation of the Eucharist at
+the examination of Guillaume Houbraque in early January 1548.
+The next month, Viret, perhaps with the help of some colleagues,
+drafted the 99 Theses. Some of the theses were controversial, how-
+ever, and the Bernese pastors condemned ten of them as contrary
+to the conclusions of the 1528 Bern Disputation. The Lausanne
+ministers and professors wrote a defense of the articles, which was
+rejected by Kilchmeyer, Rümlang, Pfister, and Wäber, but appro-
+ved by Sulzer, Gering, and Schmid. The Bern council sided with the
+Zwinglians and banished the latter three.21
+
+The story that emerges from the Lausanne Theses, however, is
+somewhat different. First, they show that the conflict in Lausanne
+started several months before Houbraque’s exam. Second, they re-
+veal that the author of the theses was not Viret but Lausanne
+Theology Professor Jean Ribit. Third, they demonstrate that the
+Lausanne Theses were not drafted all at once but rather in groups
+in preparation for individual meetings of the Lausanne colloquy
+between September 1547 and March 1548. Finally, they make
+
+19 “Nescio an quidquam audiveris de querelis adversum me, eius libelli causa in quo
+nonnihil aspersi eos qui ministerio sunt dedecori. Magnae sunt hic in vicinia querelae
+cum minis etiam coniunctiae.” CO, vol. 12, 616, no. 965, Viret to Calvin, Lausanne, 13
+November 1547.
+
+20 See Robert Centlivres, Les “Capita Calumniarum” de Ze´be´de´e et la re´ponse de
+Pierre Viret, in: Me´langes d’histoire du XVIe sie`cle offerts a` Henri Meylan, Geneva
+1970 (THR 110), 107–126.
+
+21 This basic narrative, or some portion of it, can be seen in Ruchat, Histoire de la
+Re´formation de la Suisse, vol. 5, 343f.; Hundeshagen, Conflicte, 207–209; Barnaud,
+Pierre Viret, 331–335; Vuilleumier, Histoire de l’Eglise Re´forme´e du Pays de Vaud, vol.
+1, 641; Bruening, Calvinism’s First Battleground, 186–188.
+
+The Lausanne Theses (1547–1548)
+
+423
+
+clear that the initial quarrel centered not on the Eucharist but on
+the efficacy of the ministry and the power of the keys.
+
+3. Manuscript Evidence and Sources
+
+Let us now examine more closely the manuscript evidence around
+the Lausanne Theses. Four manuscripts contain at least a portion
+of the theses, which I will designate as follows:
+
+1. The Ribit Manuscript. This is the manuscript in the Bibliothe`que Na-
+tionale de France. The entire manuscript contains minutes of letters and
+other texts written by Jean Ribit, Professor of Theology at the Lausan-
+ne Academy from 1547 to 1559. Two sections of this manuscript con-
+cern us. Most important is the list of 93 theses near the end of the
+manuscript. This is one of the two main sources for the text of the
+theses printed below, and when I refer simply to the “Ribit manu-
+script,” I am referring specifically to these pages.22
+
+2. Ribit B. The second section in the same BNF manuscript that is of
+interest is a different list of theses. These were rough drafts of theses
+that Ribit prepared before editing and arranging them for specific meet-
+ings.23
+
+3. The Bern Manuscript. This is the collection of theses in the “Kirchliche
+Angelegenheiten” volumes held by the Bern Staatsarchiv.24 It is a list of
+89 theses written by the Lausanne pastors and professors, probably
+soon after 7 March 1548, and it is the second main source for the
+theses printed below. It contains all but four of the theses in the Ribit
+manuscript, omitting two of the ten condemned theses – for reasons
+discussed below – and two theses added in the margin of the Ribit
+manuscript.
+
+4. The Lausanne Apology. This is a German translation of an apology
+prepared originally in Latin by the Lausanne pastors and professors,
+who were defending the ten theses condemned by the Bern pastors as
+
+22 BNF, ms. lat. 8641, 83r–88r. Karine Crousaz was the first historian to draw
+attention to this manuscript and its significance in illustrating the nature of the debates
+that took place in the Lausanne Academy in 1547 and 1548; she suggests that Ribit was
+the primary author of the theses, and she rightly ties them to the ten condemned theses.
+Since her purpose was to illustrate the workings of the Lausanne Academy, however,
+she does not dwell at length on the theses, publish any of them, or connect them to the
+99 Theses that were presumed lost. Karine Crousaz, L’Acade´mie de Lausanne entre
+humanisme et Re´forme (ca. 1537–1560), Leiden 2012 (Education and Society in the
+Middle Ages and Renaissance 41), 93–95.
+
+23 BNF, ms. lat. 8641, 75r–79v.
+24 Bern StA, ms. A V 1457 (U.P. 82.2), no. 96.
+
+424
+
+Michael W. Bruening
+
+contrary to the Bern Disputation.25 Most importantly for our purposes
+here, the text contains the text of the ten condemned theses, which I
+will refer to simply as the “Ten Theses.”
+
+The texts in the Ribit manuscript and the Bern manuscript are
+nearly identical; each contains lists of theses that were debated at
+ten meetings in Lausanne between September 1547 and March
+1548. These appear to have constituted the vast majority of the 99
+Theses and include the Ten Theses, the defense of which led to the
+banishment of Sulzer, Gering, and Schmid.
+
+The Ribit manuscript appears to contain the original text of the
+theses. It presents them in separately numbered groups, one for
+each day of debate. In reference to most of these groups, it uses the
+future tense, indicating that “these will be debated” (haec disput-
+abuntur) on a certain date. In the Bern manuscript, by contrast, the
+Lausanne pastors used the past tense, saying of each group that
+“these were debated” (haec disputata sunt) on a certain date. In-
+deed, these indications are what allow us to date the Bern manu-
+script to soon after 7 March 1548; the manuscript indicates that
+the penultimate set of theses had been debated on 22 February
+1548 but that the last group of theses “has been proposed but not
+yet debated.” Not long afterwards, Kilchmeyer received Ze´be´de´e’s
+complaints about his “Lutheran” colleagues in Lausanne and took
+them to the Bern council. On 6 and 7 March, the council appoin-
+ted a commission to look into the trouble.26 It seems likely that this
+Bernese commission asked Viret and his colleagues for the theses
+from their colloquies, and they sent the Bern manuscript in re-
+sponse. This dating and the serial grouping of the theses may also
+explain the discrepancy in the scholarship over the exact number
+of theses.27 We find from the text of the theses below that the
+debates in 1548 took place on 4 and 25 January and on 8 and 22
+February, that is, about every two to three weeks. This schedule
+suggests that there would have been two debates in March as well,
+
+25 Bern StA, ms. A V 1457 (U.P. 82.2), no. 100.
+26 Crousaz, L’Acade´mie de Lausanne, 93.
+27 My guess – but it is only a guess – is that Ruchat may have seen this manuscript,
+and he simply miscounted by one, believing it to contain 90 theses rather than the 89
+that it actually has. Another possibility is that another source that Ruchat read had
+simply rounded the figure up to 90.
+
+The Lausanne Theses (1547–1548)
+
+425
+
+but we only have one set of theses for that month, namely, the last
+group, described in the Bern manuscript as “not yet debated.”
+Most of the groups contain between seven and eleven theses; thus,
+it seems likely that the commission initially read the 89 Theses in
+March, but by the time of Kilchmeyer’s letter in April that first
+mentions “99 Theses,” an additional colloquy had been held in
+late March at which eight theses had been debated, bringing the
+total to 97. And since the Bern manuscript omits two of the Ten
+Theses, it also is likely that someone – probably Ze´be´de´e – pointed
+out this fact to the Bernese, who then asked Viret and his collea-
+gues for an additional list – the final list that is still lost – of all the
+theses debated since September 1547; the two missing theses were
+added, and the total then came to 99 Theses.
+
+Although we do not have the exact text of these final theses
+debated in Lausanne, we do have the Ribit B manuscript, with
+rough drafts of theses that would have extended chronologically
+for several meetings of the Lausanne colloquy beyond the last one
+in March 1548. These drafts also strongly suggest that Ribit was
+the primary author of the theses, not Viret, as has often been as-
+sumed.28 The table below presents a selection of theses from the
+Ribit B drafts along with their counterparts in their final form in
+the Ribit manuscript, clearly showing the overlap between the sets
+of text.
+Ribit B Draft Theses
+
+Ribit Manuscript Final Theses
+
+11.29 Homo causa est peccati.
+12. Immortalitas per peccatum amissa est,
+ut mortem peccati poenam recte dicamus
+esse. (Ribit ms., 75r)
+
+1. Homo cum per contumaciam peccati
+causa sit, immortalitatem quam habiturus
+erat iuste amisit, ut recte mortem peccati
+poenam esse dicamus. (Ribit ms., 86v)
+
+14. Ut omnes sunt peccati participes, sic
+poenarum nulli expertes. (Ribit ms., 75r)
+
+3. Ut omnes sunt peccati participes, sic
+poenarum nulli expertes. (Ribit ms., 86v)
+
+28 Jean Ribit was originally from Savoy. He studied in Paris and probably taught at
+the Colle`ge de Guyenne in Bordeaux in the early 1530s. He became schoolmaster in
+Vevey, Switzerland in 1537 and was Professor of Greek at the Lausanne Academy from
+1541 to 1547. In 1547, he became Professor of Theology in Lausanne and retained the
+post until he followed Viret into exile in 1559. After a few years in Geneva, he went to
+Orle´ans, where he taught theology until his death in 1564. Crousaz, L’Acade´mie de
+Lausanne, 542.
+
+29 In this table, I have preserved the numbering used in the manuscript.
+
+426
+
+Michael W. Bruening
+
+4. Cum baptizati mortis Christi et resur-
+rectionis eiusdem sunt participes, peccato
+mortuos esse oportet ut novam vitam
+agant. (Ribit ms., 76v)
+
+3. Cum baptizati mortis et resurrectionis
+Christi sint participes, eos peccato mor-
+tuos esse et ad vitam cum iustitia et virtute
+degendam rediisse oportet. (Ribit ms.,
+87r)
+
+7. Quod idem dici potest de omnibus
+Christi in nos beneficiis. (Ribit ms., 76v)
+
+6. Quod idem de omnibus Christi in nos
+beneficiis dici potest. (Ribit ms., 87v)
+
+As one can see, Ribit copied some of the theses verbatim from his
+rough draft, rewrote others, and sometimes combined a few theses
+into one. Some theses, however, that appear in Ribit B were entire-
+ly excluded from the final version. In the drafts, Ribit developed a
+series of theses suggested by specific Biblical texts, in this case
+Romans 5–8, and simply numbered all theses from each chapter
+consecutively.30 The final version of the theses in the Ribit manu-
+script, however, drew from Romans 1–6, so the draft theses and
+the final theses overlap only for Romans 5 and 6. This is good
+news for us, since the drafts in Ribit B for Romans 7 and 8 can
+give us some idea of the theses that were debated in Lausanne from
+late March until probably May or June 1548, including the very
+last of the 99 Theses. For this reason, I have included the draft
+theses from Ribit B for Romans 7 and 8 in an appendix to the
+main theses below.
+
+The different number of theses in the Bern and Ribit manu-
+scripts, which both differ from the commonly given figures of eith-
+er 90 or 99 Theses, might lead one to doubt that these formed part
+of the 99 Theses referred to in the Kilchmeyer and Viret letters
+from 1548.31 The best evidence that they do comes from Kilch-
+meyer’s letter itself, together with the Ten Theses in Lausanne
+Apology. In his letter to Bullinger, Kilchmeyer wrote:
+
+“Pierre Viret and some other ministers from the Lausanne chapter were
+called to Bern last month on account of an examination of a minister there,
+which was held in contradiction to our original church order [conta pris-
+tinum ordinem]. Moreover, they debated 99 conclusions that had been
+affixed to the doors of the church in Lausanne. You will easily be able to
+understand what they sought and with what sophistry, ambiguous words,
+
+30 He includes 29 theses for Rom. 5 (75r–76r), 20 theses for Rom. 6 (76r–77r), 38
+
+theses for Rom. 7 (77v–79r), and 10 theses for Rom. 8 (79v).
+
+31 CO, vol. 12, 680; Epistolae Vireti, 115f.
+
+The Lausanne Theses (1547–1548)
+
+427
+
+and trappings they argued from the 10 which I am sending you to read and
+examine. The council decreed that our consistory should first examine the
+conclusions, together with all the ministers, who diligently and with great
+labor translated the Latin text into German.”32
+
+Thus, Kilchmeyer indicates that the ten theses he sent to Bullinger
+were extracted from the 99. Bullinger copied two of the ten theses,
+plus excerpts of the Lausanne Apology in the “Ministrorum Lau-
+sannensium Declaratio,” printed in the Calvini opera.33 These two
+theses, which are in Bullinger’s hand, are identical to the seventh
+and eleventh theses from 19 October 1547, German translations of
+which are the first and fifth Schlußreden in the Lausanne Apology.
+Thus, the ten theses that Kilchmeyer sent to Bullinger must have
+been the Ten Theses condemned by the Bern pastors and defended
+by Viret and his colleagues in the Lausanne Apology. Furthermore,
+all Ten Theses in the Lausanne Apology are also in the Ribit manu-
+script, in the same order. They are indicated in small caps in the
+text below, with the German translations from the Lausanne Apol-
+ogy in the footnotes. These controversial theses are also clearly
+singled out with lines in the margins in both the Ribit and Bern
+manuscripts. Thus, it is clear that the Ten Theses in the Lausanne
+Apology were included in the 99 Theses. Moreover, since all ten
+are in the Ribit manuscript in the same order, its 93 theses must
+have formed the vast majority of the final 99 Theses.
+
+As noted above, two of the Ten Theses are in the Ribit manu-
+script but not in the Bern manuscript. The first of these is the ninth
+thesis from 4 January 1548, which is unnumbered in the Ribit
+manuscript and contains the designation, “This thesis can also be
+added to those above.” The second thesis omitted in the Bern
+manuscript is the fourth thesis from 22 February 1548, next to
+
+32 “P. Viretus cum nonnullis aliis ministris ex classe Lausannensi ad Bernam vocati
+fuerunt superiore mense, propter examen ibidem super aliquo ministro sinistre et contra
+pristinum ordinem habitum. Insuper et 99 conclusiones ecclesiae valvis affixas Lausan-
+nae disputarunt, in quibus quid quaesierint, ac sophisticis verborum ambagibus phale-
+risque contenderint, ex decem illis quas tibi legendas atque examinandas mitto, facile
+intelligere poteris. Senatus semel decrevit, conclusiones a consistorio nostro prius ex-
+aminari, adiunctis quibusdam ex senatorio ordine, una cum ministris ecclesiae omnibus:
+quorum diligentia et labore quae latine scripta erant in germanicam linguam verteren-
+tur.” CO, vol. 12, 680, no. 1007, Kilchmeyer to Bullinger, Bern, 2 April 1548.
+
+33 CO, vol. 12, 673–675, no. 1005.
+
+428
+
+Michael W. Bruening
+
+which is written in the Ribit manuscript, “This was not debated.”
+Both theses dealt with the sacraments, and the Lausanne pastors
+and professors no doubt worried that the Bernese would find them
+controversial and used their ambiguous status as an excuse not to
+include them in the Bern manuscript. The ninth thesis from 4 Jan-
+uary is also the ninth of the Ten Theses; it concerns the interpre-
+tation of the Eucharist and does not appear among Ribit’s rough
+draft theses. Since it is unnumbered and seems to have been added
+after the initial drafting of the theses for that date, it appears to
+have been added in direct response to the quarrel between Viret
+and Ze´be´de´e at Houbraque’s examination. The fact that it is the
+ninth of the Ten Theses also indicates that the quarrel at the Hou-
+braque exam was not the beginning of the fight in Lausanne, as it
+is usually presented, but the culmination. Half of the Ten Theses
+were actually debated in October 1547 and concerned the power
+of the ministry, not the Eucharist. The two theses highlighted by
+Bullinger were also on this topic from the October colloquy.
+
+Recognition of the Ribit and Bern manuscripts as early versions
+of the presumed-lost Lausanne Theses provides us with greater
+insight into both the content and chronology of the debates in
+Lausanne that in 1548 had such important consequences in both
+that city and in Bern. They ultimately led to the banishment of
+Sulzer, Gering, and Schmid from Bern. Later in the year, the Bern
+council greatly curtailed the colloquies in its Francophone lands.34
+These theses are our first direct evidence of the issues debated in
+those colloquies. They also reveal the extent of the divide between
+Zwinglians and Calvinists both in Bern’s lands and beyond. At
+exactly this time, Calvin and Bullinger were just beginning their
+discussions that would lead to the Consensus Tigurinus in 1549.
+The uproar in Lausanne and Bern over the 99 Theses indicates that
+they had much to discuss and many differences to overcome in
+order to bring any kind of agreement to the churches in Switzer-
+land.
+
+34 See Bruening, Calvinism’s First Battleground, 204–207.
+
+The Lausanne Theses (1547–1548)
+
+429
+
+4. Text of the Theses
+
+4.1. The Lausanne Theses
+
+[R: 83r, B: Ar]35 Proposita ex Epist. ad Rom. cap. 1.
+
+1. Evangelium per prophetas in literis sanctis promissum cum
+sit, iustitiam Dei, gratuitam peccatorum remissionem, salu-
+tem denique aeternam promissam esse necesse est.
+Iusti et sancti sunt omnes et soli qui Evangelio credunt.
+
+2.
+3. Salutifera doctrina ea demum est, quae Evangelium tradit et
+
+praedicat.
+
+4. Ex fide iusti vitam esse prophetico testimonio affirmamus:
+
+operibus vim esse vitalem, seu vitae effectricem negamus.
+
+5. Nulla bona opera efficiunt fidem, sed ex fide oriuntur om-
+
+nia.
+
+6. Notitia Dei in omnium animis impressa coelos transcendit:
+quae ut iustum efficit neminem, ita in iudicio divino, nullam
+cuiquam relinquit defensionem.
+
+7. Qui naturali divinitatis notitia abutuntur, iustissima Dei ira
+in tentationem36 inducuntur suisque traduntur cupiditatibus.
+[The following two theses are in the margin of the Ribit
+manuscript only]
+
+1. Cum fides animi sit vita, dubium non est quin fide curens
+
+animo proditus sit mortuo.
+
+2. Pestifera est doctrina quae per satisfactionem hominis tradit
+remissionem peccatorum acquiri posse cum fide carentia
+opera.
+
+Haec37 disputata sunt anno38 1547. 21 Septemb.
+
+Pronuntiata magna ex parte ex 1. cap. Ep. ad Rom. collecta
+
+1. Ut evangelium promissum in propheticis literis, sic et Evan-
+
+gelici ministri et dispensatores.
+
+35 Foliation from the Ribit ms. is indicated with “R”. Foliation from the Bern ms. is
+
+indicated with references to »B: Ar–Cv«.
+
+36 Ribit ms.: tentatione.
+37 Bern ms. only.
+38 Ribit ms. only.
+
+430
+
+Michael W. Bruening
+
+2. Ex quo datur intelligi Dei voluntate ministros Ecclesiae dari,
+ut appareat eos errore magno implicatos esse, qui ministe-
+rium hoc aut tollendum, aut Ecclesiae non ita multum ne-
+cessarium putant.
+
+3. Hi39 suo tempore vocati vel divinitus, vel manuum imposi-
+tione legitima suo officio deesse non debent, quod voluntatis
+divinae promulgationem continet de Iesu Christo, cuius ser-
+vos se esse profitentur.
+
+4. Suam quisque vocationem, quoad fieri potest, omnibus ap-
+probare debet, ut oratio plus ponderis et authoritatis apud
+omnes habeat.
+
+5. Qui invocati obrepunt, fideles servi Dei non sunt.
+6.
+
+[R: 83v] Ministri sunt supra et infra omnes homines:
+supra quidem, quia Dei praepotentis legati, infra,
+quia omnium debitores.40
+
+7. Qui nescit se habere potestatem ligandi et solvendi,
+peccata retinendi et remittendi, is ministri munus tu-
+eri nullo modo potest, cum suae functionis ignoret
+rationem.41
+
+8. Qui utriusque testamenti intelligentiam non habet, eum ad
+
+promulgationem Evangelii non satis aptum pronuntiamus.
+
+9. Nullam suam doctrinam minister afferre debet, sed
+veritatem sine ulla falsitatis admistione sic propo-
+nere, ut prophetarum et apostolorum exemplo non
+
+39 Ribit ms.: Hivi.
+40 First of Ten Theses: “Die diener des Evangelii sind ob und under allenn menschen:
+ob allenn, zwar darumb das sy gesandt botten sind, deß hochgwaltigenn Gotts; under
+allen menschen, darumb das sy allen menschen schuldner sind.” Bern StA, A V 1457,
+no. 100, 5 (note that this manuscript is neither paginated nor foliated; for the references
+here, I have simply counted the pages, starting with the title page as page 1). See also
+Eduard Bähler, Das Tagebuch Johann Hallers aus den Jahren 1548–1561, nach der
+Stadtbibliothek Zürich befindlichen Handschrift, in: Archiv des Historischen Vereins
+des Kantons Bern 23 (1916–1917), 238–350; here, 242: “Zum alten Streithandel war
+noch eine von Gelehrten abgehaltene Disputation in Lausanne gekommen, über die
+Vollmacht des kirchlichen Amtes, und dass der Diener des göttlichen Wortes über allen
+stehe und die übrigen Menschen ihm untergeben seien.”
+
+41 CO, vol. 12, 673, no. 1005, “Ministrorum Lausannensium Declaratio.” Second
+of Ten Theses: “Wellischer nitt weist, das er gwalt hatt zebindenn und zeentbinden, die
+sund zebehalten und nach zelaßenn, der mag dheiner wyß noch maß, das ampt eins
+dieners beschirmen, die wil er die wyß sines ampts nitt weist.” Bern StA ms. A V 1457,
+no. 100, 20.
+
+The Lausanne Theses (1547–1548)
+
+431
+
+dubitanter affirmare possit quae dicat, dominum di-
+xisse.42
+
+10. Huiusmodi ministrum qui contemnit, is prorsus suam
+
+aspernatur et repudiat salutem.43
+
+11. Dona spiritualia cum impertiant ministri, confir-
+mentque fideles, qui eos aspernatur, non homines sed
+oblata dona spiritus aspernatur, Deumque donantem
+contemnit.44
+[B: Av] Nihil laboris qui ad promulgationem Evangelii per-
+tineat, fideli ministro alacriter non subeundum est.
+
+12.
+
+13. Qui gravatim ministrandi labores sumit coactusque facit of-
+
+ficium, claudicat45 in officio.
+
+14. Qui hunc finem sibi non proponit, ut quamplurimos ad Ie-
+sum Christum adducat, eum fidelem Iesu Christi servum om-
+nino negamus.
+
+15. Evangelici ministri regni non terreni sed coelestis, cum sint
+administri, neque regum more dominari, neque alicorum
+more servire debent: sin secus nec doctrinam nec exemplum
+sequuntur Apostolorum.
+
+16. Quem Evangelii pudet, is non solum in numero ministrorum
+Evangelicorum habendus non est, sed ne in Christianorum
+quidem.
+[R: 84r] Fructus quem maxime percipere debet minister, ad
+rectam populi institutionem referendus est.
+
+17.
+
+18. Qui vocem in quaestum conferunt, miserrimi sunt praecones
+
+minimeque Evangelici.
+
+19. Suo quisque spiritu Deum colere debet in hoc tanto minis-
+
+42 Third of Ten Theses: “Der diner sol sin eigne leer nitt bringenn, sunder die war-
+heitt, on alle Mischung deß falsches, also fürtragenn das er nach dem Exempel pro-
+phettenn und Apostlenn, on allenn zwiffel bestättenn, und reden dörffe der Herr heige
+es geredt.” Bern StA, ms. A V 1457, no. 100, 39.
+
+43 Fourth of Ten Theses: “Der ein semlichen diener verachtett, der verachtet genzlich
+
+sin eigen heil.” Bern StA, ms. A V 1457, no. 100, 40.
+
+44 CO, vol. 12, 674, no. 1005, lists it as “Pronunciatum 4,” but it is the Fifth of Ten
+Theses: “So die diener geistliche gaabenn mitteilenn, unnd die gloubigenn sterckenn, so
+verachtet der, der sy verachtett, nit den menschen, sunder die angbottnen gabenn deß
+helgenn geists, ja ouch den Herrenn Gott, derss frey willig schenktt.” The CO also
+prints “denique donantem” rather than “Deumque donantem.” Bern StA, ms. A V
+1457, no. 100, 42.
+
+45 Bern ms.: claudificat.
+
+432
+
+Michael W. Bruening
+
+terio, cui precationes sic sunt necessariae, ut seiungi nec de-
+beant, nec possint.
+
+Haec Octob. die 19 hora 8 statim a concione si Deus
+volet disputabuntur in pub. auditorio.46
+
+Pronuntiata ex Epist. ad Rom. cap. 2
+
+2.
+
+1. Omnes homines peccato contaminatos esse iramque Dei sic
+commeritos, ut nullam habeant defensionem ex sententia
+Divi Pauli pronunciare non dubitemus47.
+Iudicium Dei (quod saepe dies irae dicitur) patefactis omni-
+bus arcanis, ex veritate, nulla personarum habita ratione ut
+fiat necesse est: in quo pro suis quisque actionibus vel glo-
+riam vel ignominiam a Deo reportaturus est.
+
+3. Unius Dei iudicium δικαιοκρισιÂα, id est iustum iudicium
+iure vocatur, cum multis rationibus hominum iudicia cor-
+rumpantur.
+
+4. Vindictae divinae dilatio divinae bonitati non cuiusquam
+meritis accepta referenda est, quae contemptoribus supplicia
+iustissime auget, efficitque graviora.
+
+5. Opera legis a nemine impleri seu perfici constanter affirmare
+
+non veremur.
+
+6. Ut circuncisio exterior, quam lex docet, nihil pro-
+dest sine interiore, eaque quam spiritus sanctus ef-
+ficit, sic baptismus foris tingens sine interiore ablu-
+tione prorsus inutilis est.48
+[R: 84v] In caeteris omnibus quae foris in carne fiunt
+eadem est ratio.49
+
+7.
+
+8. At interiora haec duo et similia sine exterioribus
+
+prodesse semper non temere possumus affirmare.50
+
+46 Bern ms.: Octobris 19 die disputata sunt.
+47 Ribit ms.: dubitamus.
+48 Sixth of Ten Theses: “Wie die ußerlich beschnidung, die das gesazt leertt, on die
+innerlich, die der heilig geist gibtt, kein nuz ist, also der touff, der ußwendig tuncktt ist,
+on das innerlich abweschen, gar dhein nuz.” Bern StA, ms. A V 1457, no. 100, 49.
+
+49 Seventh of Ten Theses: “Die andernn alle, die ußwenndig im fleisch geschechend,
+
+hend e¨benn die Rechnung.” Bern StA, A V 1457, no. 100, 49.
+
+50 Eighth of Ten Theses: “Das dise zwey innerliche und derglichen, ane die ußwen-
+digenn allweg nuz siend, mögend wir nitt kleinfuglich bestättenn.” Bern StA, ms. A V
+1457, no. 100, 50.
+
+The Lausanne Theses (1547–1548)
+
+433
+
+Haec disputabuntur 16 Novembris hora 8 a concione in
+Academia trilingui, Deo adiuvante.51
+
+[B: Br] Pronuntiata ex Epist. ad Rom. cap. 3
+
+1. Etsi Iudaeis sua praerogativa oraculorum concreditorum
+magnam dignitatem conciliat, eos tamen in iustitiae divinae
+adeptione gentibus superiores non efficit.
+
+2. Veracem Deum nullaque cuiusquam infidelitate effici posse,
+ut non stet promissis, Psalmographi testimonio confirma-
+mus.
+
+3. Si in conspectu Dei omne os obthurari decet, qui ullam suam
+iustitiam praedicare audet superbe et arroganter aperit os
+suum, Deo se subiicere nolens.
+
+4. Aliud est peccatum patefacere, aliud iustitiam donare seu
+
+iustificare: illud legis, hoc unius Christi officium est.
+
+5. Cum ex legis operibus iustificationem esse neget Apostolus,
+
+in nullis omnino operibus vim iustificandi inesse affirmat.
+
+6. Nulla unquam fuit, nec est, nec futura est, ac ne esse quidem
+potest iustificandi ratio, nisi gratuita, quae legis et prophe-
+tarum testimonio comprobata, Christo propitiatore, sine
+gentis ullo discrimine omnibus et solis credentibus nulla ope-
+rum habita ratione contingit.
+
+7. Meritorum praedicatores in Deum impii iustificatorem et in
+Christum redemptorem contumeliosos esse non sine ratione
+pronuntiamus.
+
+Haec Novemb. 30 die, si Deus permittat, disputabun-
+tur.52
+
+[R: 85r] Pronuntiata ex epist. ad Roma. cap. 4
+
+1. Cum sanctorum exemplar et pater Abrahamus operibus
+apud Deum gloriari non possit, sed fide sit iustificatus, non
+est cur quisquam aliam iustificandi viam aut quaerat aut
+expectet.
+
+51 Just below this in the Ribit manuscript is a similar indication with slightly diffe-
+rent wording: “Haec die Novemb. sexto decimo hora octava statim a concione in Aca-
+demia trinlingui Deo iuvante disputabuntur.” Bern ms.: “Novembris die sexto decimo
+disputata.”
+
+52 Bern ms.: Novembris 30 die disputata.
+
+434
+
+Michael W. Bruening
+
+2. Cum Moses fidei iustificationem diserte tribuat, qui eam
+partim operibus, partim fidei assignant, clare reprehendun-
+tur, praesertim cum Paulus Apostolus eum qui credit neget
+operari.
+Impii enim soli quorum opera iniusta sunt, a Deo iustifican-
+tur, mendicorum more tantum accipientes, nihil de suo dan-
+tes.
+
+3.
+
+4. Personas prius iustas effici necesse est, quam actiones censeri
+iustas, quia charitas non efficit fidem, sed a fide efficitur, et
+ut Divus ait Augustinus, opera bona non praecedunt iusti-
+ficandum, sed sequuntur iustificatum (August. De fide et
+operibus, cap. 14)53.
+
+5. Eandem cum peccatorum remissione iustificationem ex de-
+
+scriptione beatitudinis Davidica constituimus.
+
+6. Ubicunque54 in divinis oraculis actionum foelicitas aut ius-
+titia aut denique iustificatio predicatur, ibi pro proportione55
+fidei intelligendum esse dicimus iactum esse iustitiae gratu-
+itae fundamentum, et illa omnia necessario superstrui opor-
+tere.
+
+Haec Decemb. die 14 iuvante Deo disputabuntur.56
+
+Pronuntiata ex Epist. ad Rom. cap. 4. Haec pridie non. Ian.
+(1548)57 statim a concione in academia trilingui, si Deus permittat,
+disputabuntur.
+
+1. Ut circuncisio sigillum est iustitiae fidei, sic et noster baptis-
+mus, utque Abrahamus fidelis fuit ante circuncisionem, sic
+qui vere tinguntur ante tinctionem fideles oportere [R: 85v]
+esse dicimus, ut in gentem nomenque fidelis Abrahami con-
+cedant.
+
+2. Nulla itaque sacramenta iustificant, sed iustificationis sive
+iustitiae fidei sigilla sunt omnia, quae infirmitati nostrae opi-
+tulantur ac obsignando admonent, excitant, erigunt, confir-
+mant, iustitiam denique et fidem retinent et conservant.
+
+53 Reference in margin, Ribit ms. only.
+54 This thesis is not numbered in the Ribit ms.
+55 Bern ms.: portione.
+56 Bern ms.: Decemb. 14 die disputata sunt.
+57 The year is in the margin of Ribit ms.
+
+The Lausanne Theses (1547–1548)
+
+435
+
+3.
+
+[B: Bv] Cum Abrahami vestigiis insistendum esse Paulus si-
+gnificet iis qui iustitiam fidei consequi velint, eandem esse
+semper fidem, nec a Patrum aliam esse nostram non obscura
+docemur.
+
+4. Falsa est doctrina quae in veteri testamento aliam fidem,
+aliam in novo doceri dicit, item quae aliam in lege naturae,
+aliam in lege Mosaica, aliam promulgato Evangelio esse af-
+firmat. Mahumetanorum vero falsissima opinio est, qua in
+sua quenque lege salutem consequi posse non verentur as-
+severare.
+
+5. Lex quae perfecte observari non potest, Deum nobis iratum
+
+facit, sola fides misericordia nitens eundem placat.
+
+6. Haereditatem mundi cum Abrahamo credentibus omnibus et
+
+promissam et certo expectandam esse dicimus.
+
+7. Sub spe praeter spem credentis Abrahami regula piis omni-
+bus proposita est, ut ad eam rectissime fidei rationem diri-
+gere et possint et debeant.
+
+8. Deum vituperant insimulantque mendacii qui de eo dubitan-
+tes non credunt, quando ii demum qui fidem habent Deo
+laudem tribuere possunt.
+
+Ianuarii die quarto. anno 1548.58
+
+Hoc etiam pronuntiatum superioribus coniungi potest:59
+
+9. Qui sacramentorum actioni iustificandi vim tribu-
+endam docent, aut nuda tantum signa esse dicunt,
+aut discretionis tantum causa adhiberi, cum doctri-
+na non consentiunt Apostolica quando ne ipsa qui-
+dem caeterarum rerum sigilla sine rei obsi-[R:
+86r]gnatae prestatione et praesentia qualis in que-
+que genere requiritur esse solent.60
+
+58 This line is only in the Bern ms.
+59 This line and the following, unnumbered thesis are only in the Ribit ms.
+60 Ninth of Ten Theses: “Welliche leerend das der Sacrament handlung die krafft
+recht zemachen zuogeleitt solle werdenn, oder die da sprechend das es allein bloße oder
+leere zeichen siend, oder sprechen das sy allein umb ursach willenn ze underscheidenn
+ingesezt, die selben stimmend nitt mitt der leer der Apostlenn, diewil doch zwar anderer
+dingen zeichen oder sigel, one leistung und gegenwürtigkeitt, deß besiglettenn dings nitt
+sind, alß dann in yettlichem glicherley dingen ervordertt württ.” Bern StA, ms. A V
+1457, no. 100, 51.
+
+436
+
+Michael W. Bruening
+
+Pronuntiata ex Epist. Pauli ad Rom. cap. 5, 8 Cal. Febru. in tri-
+lingui et public auditorio, si Dominus velit, statim a concione dis-
+putanda.
+
+1. Cum sola fides reconciliationem apprehendat, tranquillita-
+tem animi expertem fidei esse posse negare non dubitamus.
+Itaque tranquillitas animi ex sola philosophia Christiana dis-
+citur, et paratur, qui aliunde petunt arrogantiae et mendacii
+merito coargui possunt.
+
+2.
+
+3. Eorum sententiam qui fidem dixerunt esse certam divini fa-
+voris notitiam, et probamus ipsi, et omnibus probandam
+proponimus.
+
+4. Tanta est spes Deo fidentium per Iesum Christum, ut in sum-
+mis etiam miseriis glorientur, ut eam non cum dubitatione,
+sed cum constanti certaque persuasione necessario coniunc-
+tam esse asseveranter affirmemus.
+
+5. Nec illud temere statuimus quae fide certo creduntur, ea per
+
+spem certo expectari debere.
+
+6. Tranquillitas animi Christianorum in summis etiam miseriis
+vera et certa, caeterorum in summis etiam deliciis nulla nisi
+ficta esse potest.
+
+8.
+
+7. Cum amor Christi in homines tantus sit, ut nullum maius
+exemplum cogitari, nedum proponi possit, profecto recte ad
+spem confirmandam, saepe et commemoratur et commen-
+datur.
+[R: 86v]61Quia inimici Dei sunt qui reconciliationis per
+Christum factae non sunt participes, temere Iudaei, Turcae,
+Tartari, et reliqui omnes ab hac reconciliatione alieni de Deo
+gloriantur, cum per unum Christum aditus ad Deum patere
+possit.62
+
+[B: Cr] Pronuntiata ex Epist. ad Rom. cap. 5
+
+1. Homo cum per contumaciam peccati causa sit, immortali-
+tatem quam habiturus erat iuste amisit, ut recte mortem pec-
+cati poenam esse dicamus.
+
+61 This thesis is not numbered in the Ribit ms.
+62 Bern ms., after thesis 8: “Ianuarii 25 disputata sunt.”
+
+The Lausanne Theses (1547–1548)
+
+437
+
+2. Cum Divus Paulus omnes peccasse et per unius contuma-
+ciam peccatores factos dicat, originis peccatum et haeredi-
+tariam corruptionem in omnibus hominibus agnoscamus
+oportet, quia mundi de immundo et sine vitiositate de vitiato
+progigni et propagari non possunt.
+
+3. Ut omnes sunt peccati participes sic poenarum nulli exper-
+
+tes.
+
+4. Cum peccati vis in eos qui sine lege peccarunt dominata sit,
+dubium non est, quin multo magis in eos qui sub63 lege pec-
+carunt.
+
+5. Ut condemnationi subiecti sunt omnes Adamici, sic iustifi-
+
+cationis et absolutionis participes fiunt omnes Christiani.
+
+6. At non ut Adami condemnatio Adamicis ipsorum culpa as-
+signatur, quia sunt natura filii sontes, sic Christi iustificatio
+Christianis ipsorum merito attribuitur, quia adoptione filii
+sunt insontes.
+
+7. Multis partibus Christi
+
+iustitia plus valet in iustificando
+quam Adami culpa in condemnando, [R: 87r] nec unum
+Adami delictum expiavit Christus, sed omnia omnium, qui
+per eundem Deo fidunt.
+
+8. Unius obedientiam cum Paulus praedicet, neminem praeter
+Christum parere Deo iustitiamve suam obiicere posse non
+obscure docet: solosque huiusmodi obedientiae participes
+apud Deum iustos haberi: caeteros omnes filios irae et con-
+tumaciae prorsus execratos esse.
+8 die Februarii disputata64
+
+Pronuntiata ex Epist. Paul. ad Rom. cap. 6
+
+1. Qui in peccato permanendum putat, quia maius peccatum
+maior sequatur gratia, is iustificationis finem (qui est vitae
+puritas et sanctimonia) se prorsus ignorare profitetur.
+
+2. Evangelio qui credere se dicit et honestas actiones et Christi
+sacramenta contemnit, eum mendacem et detestandum esse
+iustissime et verissime possumus pronuntiare.
+
+3. Cum baptizati mortis et resurrectionis Christi sint participes,
+
+63 Ribit ms.: sine.
+64 Only in Bern ms.
+
+438
+
+Michael W. Bruening
+
+eos peccato mortuos esse et ad vitam cum iustitia et virtute
+degendam rediisse oportet.
+
+4. Bona65 Christi
+
+in baptismo fidelibus communicari
+sine ulla dubitatione confiteri debemus, in quo nun-
+quam fallaciter spiritus sancti gratia promittitur ac
+offertur, quam sibi fideles recipiunt, impii a se repel-
+lunt.66
+[B: Cv] Ut insitio naturalis non est, sic nec67 communio mor-
+tis et resurrectionis Christi, sed omni ex parte gratuita est.
+[R: 87v] Quod idem de omnibus Christi in nos beneficiis dici
+potest.
+
+5.
+
+6.
+
+7. Cum mors omnes vitae tollat actiones, fit ut qui mortuus sit
+peccato, recte ab eodem iustificatus dicatur, quod a peccati
+servitute vindicatus et tanquam novus homo factus, nihil
+iam ad eius imperium agat, sed novitati vitae ad iustitiae
+praescriptum serviat.
+
+8. Qui
+
+iustificationis praedicatores, a praeclaris actionibus,
+quae sunt fructus spiritus, dehortari et ad licentiam vitae et
+carnis opera hortari dicunt, eos impudentissime calumniari,
+cum ipsum iustificationis vocabulum, tum vere iustificato-
+rum vita cuivis demonstrare potest.
+
+Haec 22 die Febr. iuvante Deo disputabuntur.68
+
+Pronuntiata ex Epist. ad Rom. cap. 6
+
+1. Cum Paulus iustificationis gratuitae accerrimus sit assertor,
+et idem a sceleribus dehortator vehementissimus, hoc docen-
+di genere ullum69 in Ecclesiam Dei melius et utilius posse
+invehi negamus.
+
+2. Ut Christus semel mortuus ad vitam revocatus est sempiter-
+nam, sic Christiani peccato mortui in vitae novitate perpetuo
+perdurare debent.
+
+65 This thesis is only in the Ribit ms., with the marginal note, “Non est disputata.”
+66 Tenth of Ten Theses: “Das die guotter Christi im touff den gloubigenn mittgeteilt,
+söllend wir one zwiffel bekennen, in welchem die gnad deß heligen geists niemer be-
+truglich verheißen noch fürgetragenn württ, welliche gnad die gloubigenn inen anne-
+mend, aber die gottlosen von inen hinstoßend.” Bern StA, ms. A V 1457, no. 100, 67.
+
+67 Ribit ms.: ne.
+68 Bern ms.: “Februarii 22 disputata sunt.”
+69 Ribit ms.: nullum.
+
+The Lausanne Theses (1547–1548)
+
+439
+
+3. Christus mortis dominatum propter aliena peccata tulit, ut
+
+ius quod mors in alios habebat sua morte victor auferret.
+
+4. Sub lege sunt qui ab execratione legis per gratiam redempti
+
+non sunt.
+
+5. Abrogatio legis fenestram non aperit flagitiis, sed docet nul-
+lam legis partem iustitiae effectricem esse, solamque gratiam
+iustos et iustitiae studiosos efficere.
+[R: 88r] Fideles omnes liberi et iidem servi, liberi quia70 a
+peccati dominatu liberati, servi quia iustitiae servi sunt.
+Iustitiae servi non legis coactu, sed spiritus instinctu Deo
+fructificant, et omnia charitatis officia praestant.
+
+6.
+
+7.
+
+8. Ante gratiam iustificationis iustitiae servire nemo potest, at-
+
+que ita in omnes iustitiarios peccatum dominatur.
+
+9. Sententia quae affirmat in hac vita sine crimine vivi posse
+
+10.
+
+11.
+
+sed non sine peccato, non prorsus improbanda est.
+Iustitiae opera sequitur vita aeterna non ex debito sed ex
+promisso.
+Itaque non sic bona opera vitam merentur sempiternam, ut
+mala mortem sempiternam.
+
+Haec sunt proposita, sed nondum disputata.71
+
+4.2 Appendix: Additional Rough Draft Theses from Ribit B
+
+[R: 77v] Ex 7 cap. [Rom.]
+
+1. Cum dicit Paulus, se legem scientes alloqui, non obscure sig-
+
+nificat Christianos legem tenere debere.
+
+2. Lex authoritatem et imperium in solos viventes habet, nec
+
+quicquam ad mortuorum rationes pertinet.
+
+3. Similitudo eatenus proposito convenire necesse habet, qua-
+tenus ad probandum et illustrandum proponitur, ut in illa in
+qua adventus Christi furi et parietum dirutori comparatur,
+satis est significari utriusque improvisum et inexpectatum
+adventum, hic utrobique ex prioris potestate liberationem,
+ut posteriori sine crimine et reprehensione adiungi liceat.
+
+70 Ribit ms.: qui.
+71 This sentence in Bern ms. only.
+
+440
+
+Michael W. Bruening
+
+4. Ex eo quod dicitur liberam esse mulierem, nec fore adulte-
+ram si mortuo marito alteri inibat, eorum qui secundas im-
+probant nuptias error damnatur.
+
+5. Legi per Christum Christiani omnes mortui sunt, planeque a
+
+6.
+
+legis imperio et coniugio liberi.
+Itaque Christo sponso sine ullo adulterii crimine copulantur
+quotquot fide in Iesum Christum non legis operibus se ius-
+tificatos esse arbitrantur.
+
+7. Liberatio nostra per Christum non ex viribus nostris facta
+
+est.
+
+8. Cum Christiani sint plantatio ad laudandum Deum, summe
+peccant qui libertatis finem hunc sibi non statuunt, ut fruc-
+tus Deo quam possunt maximos pariant.
+
+9. Lex peccatum non efficit, sed quod in homine latet patefacit.
+10. Cupiditatem peccatum esse nisi lex diserte diceret, nemo
+
+11.
+
+cognosceret.
+[R: 78r] Quod per legem non cognoscitur peccatum esse, id
+peccatum esse nemo iudicare debet.
+
+12. Quod peccatum quasi sopitum lege excitatur et furiosius
+redditur, id legi ut efficienti causae attribuendum non est,
+sed vitiate et corruptae naturae quae, quo magis vinculis
+constringitur, eo furiosius commovetur et agitatur.
+Itaque quidquid mali inest eius crimen in nos non in legem
+conferendum est.
+
+13.
+
+14. Sine lege peccatum mortuum, accipere debemus ut notitiam
+
+vitiositatis nobis sine lege notam non esse fateamur.
+
+15. Qui nondum peccati vim et damnationem sentit, is Paulina
+dicendi forma sine lege vivere dicitur, non quia sit exlex, sed
+quia vel tenuem vel nullam peccati notitiam habeat, quae
+tantum per legem plena haberi potest.
+
+16. Precepti adventu reviviscere peccatum dicitur, quod seria le-
+gis cognitio sic homini patefacit peccatum, ut vigere et vivere
+illud intelligat se vero per peccati vim et venenum mortuum
+et damnatum.
+
+17. Preceptum, quod sua natura viam vitae demonstrat, per no-
+stram gravitatem mortiferam redditur, quod viam monstra-
+tam non inimus, sed mortis viam studiosius et furiosius in-
+gredimur.
+
+The Lausanne Theses (1547–1548)
+
+441
+
+18. Peccatum peccatoque natura corrupta per preceptum fallere
+dicitur, quod natura ipsa efficiat, ut bonum quod lex osten-
+dit in malum convertamus et ad perniciem nostram utamur.
+19. Legi fallacia attribui non debet, sed peccato quod a recta via
+
+20.
+
+revocat.
+[R: 78v] Vitae viam qui non ineunt, mortis viam inire ne-
+cesse est.
+
+21. Cum lex peccatum non efficiat, sed patefaciat, atque ita pa-
+tefaciat ut quod mortuum erat iam vivere atque vigere intel-
+ligatur, cumque vitam per se non mortem afferat, eam sanc-
+tam et iustam et bonam agnoscere debemus.
+
+22. Peccatum ipsum occidit, non lex, licet a lege capiat occasi-
+
+onem.
+
+23. Legi mortis causa non potest assignari, cum mortifera per se
+non sit, sed peccati tanta est perversitas, ut legem natura
+salutiferam suo nobis vitio mortiferam reddat, qui ea ad nos-
+trum abutamur exitium.
+
+24. Lex spiritualis cum sit curamque exigat iustitiam omnis car-
+nis expertem profecto, neque peccatum gignit neque mortem.
+25. Carnalis nihil aliud potest quam legi honesta praecipienti et
+
+contraria vetanti repugnare.
+
+26. Venditus et emptitius servus cogitur velit nolit emptori ser-
+vire, quo significantur summa servitus peccati in homine a
+qua per legem nequeat liberari.
+
+27. Hinc et ex sequentibus, liberi arbitrii vires infirmas esse per-
+
+spicuum est.
+
+28. Maxima est vis naturae corruptae, quae voluntatis spiritus
+
+effectum impedire soleat.
+
+29. Natura hominis tam est vitiata, ut in ea nihil boni habitare,
+recte affirmet apostolus licet corrigat cum dicit se de carne
+intelligere, ne gratiam Dei in se habitantem, non in carne
+afficiat contumelia.
+
+30. Caro non tantum alteram hominis partem hic significat, sed
+quidquid in homine est, quod naturalem adhuc et vitiosum
+retinet affectum.
+[R: 79r] In renatis ea est adhuc infirmitas, ut quae velint
+spiritus instincta cum lege Dei consentiente perficere neque-
+ant, quia caro legi iniustitiae consentiens retardat et impedit.
+
+31.
+
+442
+
+Michael W. Bruening
+
+32. Hinc colligere licet, ne opera quidem iustificatorum per se
+
+perfecta esse, sed inchoatam habere obedientiam.
+
+33. Quae supererogationis opera dicuntur Apostolicae doctrinae
+
+34.
+
+35.
+
+repugnant.
+In hac pugna quam non ineleganter Augustinus luctam vocat
+Christianam: quadruplex lex continetur, prima lex Dei quae
+proprie talis est, regula vitae iubens honesta et prohibens
+contraria. Altera lex spiritus, quae propensionem fidelis ani-
+mi ad legis divinae observationem significat, quae quidem
+non sine vi spiritus sancti existit. Tertia est iniustitiae quae
+Satanica est, legi divinae contraria omnia imperans. Quarta
+est membrorum cupiditatem depravatam legi iniustitiae con-
+sentientem significans.
+Interior homo est, qui per spiritum sanctum repurgatus est,
+et ad iustitiam sanctificatus.
+
+36. Corpus mortis massa peccati, cuius vinculis interior homo
+
+captivus detinetur.
+
+37. Cum miseri sint homines impuritatis nomine habent semper
+quod in se lugeant; extra se liberationem per Iesum Christum
+agnoscentes semper habent cur gratias agant.
+
+38. Cum perpetuam esse pugnam verba Pauli significent, dete-
+standa est καϑαρωÄ ν opinio qui perfectam puritatem eccle-
+siae suae iactant.
+
+Ex. 8 cap. [Rom.]
+
+1.
+
+[R: 79v] Propter reliquias peccatorum Christiani damnati-
+onem nullam metuere debent.
+
+2. Christus non lex a damnatione liberat.
+3. Qui ad rationem spiritus vivunt, ii demum damnationem ef-
+fugiunt, quae vitae ratio, signum et testimonium est fidei et
+iustificationis.
+
+4. Legem spiritus vitae pro spiritu iustificante accipere debe-
+
+mus.
+
+5. Quos spiritus liberavit a damnatione legis propter reliquias
+
+peccatorum, iis damnatio metuenda non est.
+
+6. Legem infirmari per carnem sic accipiendum est, ut iis verbis
+significetur nullum legis opus a carne perfici posse, et pro-
+inde carnem sub lege, legisque execratione mansuram fuisse,
+
+The Lausanne Theses (1547–1548)
+
+443
+
+sine ulla iustitia nisi advenisset caro Christi quae tam potens
+fuit, ut non modo perfecerit legem, sed etiam peccatum con-
+demnarit et carni suam impertierit iustitiam.
+
+7. Carnis vitium est, non legis quae bona opera perfectissime
+docet et diligentissime exigit, sed eam nobis inutilem reddit
+nostra vitiosa natura.
+
+8. Caro Christi vere est caro non peccatrix nisi quatenus in se
+
+peccata nostra recepit, sed peccati expiatrix.
+
+9. Filii missio pro nobis amplitudinem charitatis et misericor-
+
+diae divinae amplissime declarat.
+
+10. Legis impletio per Christum facta nobis attribuitur cum ille
+non propter sua peccata quae nulla prorsus erant, sed pro-
+pter nostra factus est hostia expiatrix.
+
+11. Christus peccata nostra in se recipiens suam propriam ius-
+titiam fecit nostram et communem quae in Dei iudicio con-
+sistere sola potest.
+
+Michael W. Bruening, PhD, Associate Professor Missouri University of Science and
+Technology, Rolla, MO
+
+Abstract: In 1547–1548, a conflict arose within Bern’s territories over the sacraments
+and the power of the ministry. The Calvinist position taken by Pierre Viret and the
+ministers and professors in Lausanne clashed with the Zwinglian teachings dominant in
+Bern and supported by Andre´ Ze´be´de´e in Lausanne. At the center of the debate in
+spring 1548 was a collection of theses debated in Lausanne. These theses, previously
+believed to be lost, are published here for the first time. They reveal that the controversy
+in Lausanne started earlier than previously thought, that they were written over the
+course of several months rather than all at once, and that the author of the theses was
+not Viret but Lausanne theology professor Jean Ribit. Moreover, we learn for the first
+time the content of the ten theses condemned in Bern as contrary to the 1528 Bern
+Disputation. The Lausanne professors defended these theses and were supported by
+Simon Sulzer, Beat Gering, and Konrad Schmid, who all were expelled from Bern as a
+result.
+
+Keywords: Lausanne; Bern; Pierre Viret; Jean Ribit; Simon Sulzer; Andre´ Ze´be´de´e; Jo-
+docus Kilchmeyer; Eucharist; Ministry; Sacraments; Ecclesiology; Theses; Lausanne
+Academy
+
+

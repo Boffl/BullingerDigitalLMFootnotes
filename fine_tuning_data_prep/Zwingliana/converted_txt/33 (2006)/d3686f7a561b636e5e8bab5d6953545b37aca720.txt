@@ -1,0 +1,840 @@
+Anja Buckenberger
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Von Anja Buckenberger
+
+«Die Tragödie ist eine sehr hohe Dichtungsgattung; ungestüm äußern sich in
+ihr die Leidenschaften, ihre Ausdrucksmittel sind ‹salbungsvoller Bombast
+und  ellenlange  Ungetüme  von  Worten› » 1,  schreibt  Heinrich  Bullinger
+1527/28 in seiner Schrift Studiorum ratio. Während Bullinger Schulmeister in
+Kappel  war,  versuchte  er  sich  selbst  zwischen  den Jahren  1526  und  1528 2
+zum  ersten  Mal  als  Theaterdichter:  In  dem  Stück Ein  sch eon  spil  von  der
+gschicht der Edlen Römerin Lucretiae 3 adaptierte er auf eigenwillige Art den
+antiken Stoff von der Schändung Lucretias. Als Quellen dienten ihm die bei-
+den Geschichtsschreiber Dionysios von Halikarnassos und Livius. Das Lu-
+cretia-Spiel 4 ist das einzige erhaltene Theaterstück Bullingers und blieb in
+der Forschung bislang weitgehend unbeachtet. 5
+
+1 HBSonderband 1, 41 (hg. v. P. Stotz, Zürich 1987). Zitiert wird Horaz.
+2 Die genaue Entstehungszeit des Lucretia-Spiels ist ungewiss. Als terminus ante quem gilt das
+Jahr 1528, da Bullinger das Lucretia-Spiel im Diarium an den Schluss der Liste seiner Kappe-
+ler Werke setzt. Campi schliesst jedoch einen Irrtum in der Anordnung der Schriften in dieser
+Liste nicht aus. Charbon nennt den Aktualitätsbezug zum Jahr 1526 als Anhaltspunkt für
+eine frühere Datierung. 1526 wurde in Zürich der Ratsherr Jakob Grebel beschuldigt, Pen-
+sionen entgegen genommen zu haben und ungeachtet der dürftigen Beweislage hingerichtet.
+Vgl. Joachim Staedtke, Die Theologie des jungen Bullinger, Zürich 1962, 292; Käthe Hirth,
+Heinrich Bullingers Spiel von «Lucretia und Brutus» 1533, Diss. Marburg 1919, 28; Emidio
+Campi,  Brutus  Tigurinus.  Aspekte  des  politischen  Denkens  des  jungen  Bullinger,  in:  Ge-
+schichten und ihre Geschichte, hrsg. v. Therese Fuhrer / Paul Michel / Peter Stotz, Basel 2004,
+149; Rémy Charbon, Lucretia Tigurina. Heinrich Bullingers Spiel von Lucretia und Brutus
+(1526), in: Antiquitates Renatae. Deutsche und französische Beiträge zur Wirkung der An-
+tike in der europäischen Literatur. Festschrift für Renate Böschenstein zum 65. Geburtstag,
+hrsg. v. Verena Ehrich-Haefeli / Hans-Jürgen Schrader / Martin Stern, Würzburg 1998, 41f.
+3 Der vollständige Titel lautet: Ein sch eon spil von der geschicht der Edlen Römerin Lucretiae /
+vnnd wie der Tyrannisch küng Tarquinius Superbus von Rhom vertriben / vnd sunderlich
+von der standhafftigkeit Iunii Bruti / des Ersten Consuls z ou Rhom / vff Sontag den andern tag
+Mertzens / jm 1533 jar / z ou Basel gehallten. Getruckt z ou Basel / by Thoman Wolff. Anno
+M. CCCCC.XXXIII.  Im  Folgenden  wird  aus  der  Edition  von  Horst  Hartmann  zitiert:
+Heinrich Bullinger – Hans Sachs. Lucretia-Dramen, hrsg. v. Horst Hartmann, Leipzig 1973
+[zit.: Lucretia].
+
+4 Die volkssprachigen Schauspiele wurden im 16. Jahrhundert meist als «Spil», «Comoedia»
+oder «Tragoedia» betitelt. Die Bezeichnung «Drama» taucht im Deutschen zum ersten Mal
+bei Martin Opitz im Ad lectorem von Dafne (1627) auf, wobei Opitz aber mit «Drama» die
+italienische Oper meint. Als feststehende Gattungsbezeichnung wird der Begriff im deut-
+schen Sprachraum erst im 18. Jahrhundert verwendet. Vgl. Martin Ottmers, «Drama», in:
+Reallexikon  der  deutschen  Literaturwissenschaft,  Band  I,  hrsg.  v.  Klaus  Weimar,  Berlin  /
+New York 1997, 393.
+
+5 Hirth, Hartmann und Charbon untersuchten das Lucretia-Spiel aus literaturwissenschaftli-
+
+Zwingliana XXXIII, 2006
+
+77
+
+Anja Buckenberger
+
+Im Folgenden soll zunächst Bullingers Haltung zum Theater beleuchtet
+werden; in einem zweiten Schritt wird unter Berücksichtigung der Überlie-
+ferungslage der Werke von Livius und Dionysios von Halikarnassos Bullin-
+gers Rezeption der antiken Quellen untersucht. Abschließend soll Bullingers
+Spiel in seinen literarischen Kontext gestellt werden.
+
+Bullingers Haltung zum Theater
+
+Bei dem Lucretia-Spiel handelt es sich keineswegs um eine «Jugendsünde»
+des jungen Bullinger. Denn es ist nicht – wie in der Forschung durchweg be-
+hauptet 6 – das einzige Theaterstück aus der Feder des Reformators. In sei-
+nem Diarium verzeichnet Bullinger im Jahr 1553: «Hoc mense scribo bea-
+torum  martyrum  Felicis  et  Regulae  et  Exuperantii  martyrium  nobile
+Germanice,  sub  comoedia  sacra.» 7  Leider  ist  dieses  zweite  Stück  über  die
+Zürcher Stadtheiligen Felix, Regula und Exuperantius nicht mehr erhalten.
+Es  ist  aber  anzunehmen,  dass  Bullinger  die  Heiligen  auf  reformatorische
+Weise als moralische Vorbilder für die Standfestigkeit im Glauben darstellte.
+Dass  sich  auch  der  reife  Bullinger  noch  dem  Schauspiel  zuwendete,  zeigt
+seine  freundliche  Haltung  gegenüber  dem  Theater.  Bullinger  war  kei-
+neswegs  –  wie  etwa  einer  seiner  späteren  Nachfolger,  Johann  Jakob  Brei-
+tinger 8  –  ein  Theaterfeind.  Allerdings  unterscheidet  Bullinger  zwischen
+«züchtigen  und  unzüchtigen  Spielen»  –  zwischen  den  heidnischen  «ludi
+scaenici» und den ehrbaren Dramen Senecas. 9 Bullinger distanziert sich in
+seinem  Lucretia-Spiel  ausdrücklich  von  den Scoenica 10,  den  leichtfertigen
+Spielen der Heiden:
+
+Vppigkeit spilen / vnzucht neert
+Welches ouch hand die heyden gweert
+
+cher Sicht, während Campi auch die theologischen Aspekte des Stücks beleuchtete. Susannah
+Jill Martin übersetzte das Spiel 2003 ins Englische: Susannah Jill Martin, Heinrich Bullinger’s
+Lucretia  and  Brutus.  A  translation  with  introduction  and  annotations,  California,  Davis
+2003.
+Sowohl Hirth, Charbon und Campi sprechen immer von dem «einzigen» Theaterstück Bul-
+lingers. Dabei ist es lediglich das einzig erhaltene Spiel Bullingers.
+BullDiar 43.
+Breitinger verpönt 1624 in der Schrift Bedencken von Comoedien oder Spilen das Theater.
+Die Schrift liegt in einer Edition von Thomas Brunnschweiler vor: Thomas Brunnschweiler,
+Johann Jakob Breitingers «Bedencken von Comoedien oder Spilen». Die Theaterfeindlich-
+keit im Alten Zürich. Edition – Kommentar – Monographie, Bern et al. 1989 (Zürcher Ger-
+manistische Studien 17).
+Vgl. Brunnschweiler 134.
+Scoenica ist eine geläuﬁge Nebenform von scaenica und bedeutet «prunkvolle Zwischenak-
+tionen». Vgl. Brunnschweiler 134 (Anm. 71).
+
+Zwingliana XXXIII, 2006
+
+6
+
+7
+
+8
+
+9
+
+10
+
+78
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Vnd wurdend gheyssen Scoenica
+Darwider vil schrybt Seneca
+Der gstallt wir hie nit spilen wend 11
+
+In der Schrift De propheta warnt Bullinger 1525 vor der Gefahr, die von den
+«quorumvis  comicorum  libidines»  für  die  Jugend  ausgehe.  Grundsätzlich
+lehnt Bullinger die Komödie aber nicht ab. In der Studiorum ratio vergleicht
+er die Komödie etwa mit einem Spiegel des menschlichen Lebens und wür-
+digt die Komödiendichter als Lehrmeister der Rhetorik und des sittlichen
+Verhaltens. Dabei verweist er auf Melanchthon und dessen positive Wertung
+der Dramen des Terenz. 12 Für Bullinger waren nur solche Stücke akzeptabel,
+denen der Zuschauer oder Leser eine eindeutige Lehre entnehmen konnte.
+Bullingers reges Interesse am Theaterleben seiner Zeit zeigt der Briefwechsel
+mit  Sixt  Birck.  Der  Augsburger  Schulmeister  Sixt  Birck  wirkte  von
+1523–1536 in Basel und machte neben seiner Tätigkeit bei verschiedenen be-
+deutenden Druckern mit seinen Theateraufführungen von sich reden. Im Ja-
+nuar 1538 bedankt sich Birck für eine Einladung zur Aufführung seines Su-
+sanna-Spiels in Zürich. 13 Dieses Theaterstück, das Birck 1532 auf Deutsch
+schrieb und 1537 ins Lateinische übertrug, erschien 1538 bei Froschauer in
+der lateinischen Fassung und wurde im selben Jahr in Zürich aufgeführt. 14 Da
+Birck,  der  inzwischen  in  seine  Heimatstadt  Augsburg  zurückgekehrt  war
+und dort als Rektor des St. Anna-Gymnasiums wirkte, die Einladung erst am
+Tag der Aufführung erhalten hatte, konnte er ihr allerdings nicht folgen. 15
+Von Bullinger selbst ist eine deutsche Vorrede zu dem Susanna-Spiel erhal-
+ten. 16 Sie wurde jedoch weder in den deutschen Erstdruck der Susanna von
+1532 17 noch in die stark erweiterte Ausgabe von Augustin Friess 1544 18 auf-
+
+11 Lucretia 41 V. 9–13.
+12 Vgl. HBSonderband 1, 40 und Brunnschweiler 134f.
+13 Brunnschweiler 135.
+14 Die Zürcher Aufführung der lateinischen Susanna konnte Brunnschweiler nachweisen. Siehe
+
+Brunnschweiler 135 (Anm. 74).
+
+15 Vgl. Brunnschweiler 135.
+16 Auf die Vorrede von Bullingers Hand machte bereits Bächtold aufmerksam, ohne jedoch eine
+genaue Zuordnung vorzunehmen. Das Manuskript der Vorrede beﬁndet sich in der Zentral-
+bibliothek Zürich (Ms A 11, fol. 885–886). Vgl. Hans-Ulrich Bächtold, Heinrich Bullinger,
+in: Jakob Ruf, ein Zürcher Stadtchirurg und Theatermacher im 16. Jahrhundert, hrsg. v. Hil-
+degard Keller, Zürich 2006, 184f.
+
+17 Die history von der from˜ en Gottsf eorchtigen frouwen Susanna / Im M. CCCCC.XXXII. Jar
+/ offentlich inn Mindren Basel / durch die jungen Burger gehaltenn. Getruckt z ou Basel / by
+Thoman Wolff. Anno M. CCCCC.XXXII. Das Spiel ist ediert in: Sixt Birck, Sämtliche Dra-
+men, hrsg. v. Manfred Brauneck, 2. Bd., Berlin / New York 1976.
+
+18 Ein sch eon geystlich Spyl / von der from˜ en vnd Gottsf eorchtigen Frouwen Susanna / Gott z ou
+lob / vnd allen frommen Frouwen vnd Jungfrouwen z ou eeren vnd bestendigkeit jrer künsch-
+heit. Yetzund gemeert / gebessert / vnd mit vil sch eonen ﬁguren gezieret. Getruckt z ou Zürich
+by Augustin Frieß.
+
+Zwingliana XXXIII, 2006
+
+79
+
+Anja Buckenberger
+
+genommen, sondern lediglich für die lateinische Aufführung 1538 in Zürich
+verfasst.  Denn  das  lateinische  Susanna-Spiel  verlangt  am  Ende  des Argu-
+ments  mit  den  Worten  «Tu  planius  populo  dicas  Germanice»  nach  einer
+Übersetzung des Inhalts ins Deutsche. 19 Mit aller Wahrscheinlichkeit wurde
+an dieser Stelle Bullingers Vorrede – sie leitet direkt über zum Auftritt des Se-
+dechias in der ersten Szene 20 – vorgetragen.
+
+Aufführungen
+
+Es ist nicht mehr nachweisbar, ob Bullinger auch sein Lucretia-Spiel – mög-
+licherweise  durch  die  Kappeler  Klosterschüler  –  zur  Aufführung  brachte.
+Mit Sicherheit strebte Bullinger aber eine Publikation an, denn er schickte
+das Manuskript dem Basler Drucker Oporin. Allerdings geht aus dem Brief-
+wechsel mit Oporin hervor, dass Bullinger das Stück noch einmal durchse-
+hen wollte, bevor es in Druck gehen sollte. 21 Dazu kam es nicht mehr, das
+Manuskript wurde Oporin 1533 gestohlen und bei Thomas Wolff ohne Er-
+laubnis Bullingers gedruckt. 22 Nach den Angaben in Bächtolds Literaturge-
+schichte inszenierte Sixt Birck das Spiel 1533 in Basel. 23 Wie Bullinger auf die
+Publikation und Aufführung reagierte, ist nicht bekannt. 24 Über die Auffüh-
+rung gibt es keine näheren Angaben. Es ist aber wahrscheinlich, dass Birck
+das Theaterstück – ähnlich wie ein Jahr zuvor sein Susanna-Spiel – mit jun-
+gen Bürgern inszenierte. 25 Neben der Aufführung in Basel ist auch eine Auf-
+führung im selben Jahr in Aarau verbürgt. 26 Laut dem Ratsprotokoll wurde
+auch dort das Theaterstück von jungen Männern gespielt. Namentlich wer-
+den einige auswärtige Gäste genannt, die der Aufführung beiwohnten. 27 Die
+
+19
+
+20
+
+Sixt Birck, Sämtliche Dramen, hrsg. v. Manfred Brauneck, 2. Bd., Berlin / New York 1976,
+180 V. 55.
+«Nun l ougend z ou dem allten man / der gouch will gwüß uffd b oulschafft». Bullinger, Vorred,
+ZBZ Ms A 11, fol. 886.
+
+21 HBBW 3, 67–69.
+22 Von dem Lucretia-Spiel ist kein Autograph erhalten. Das Schauspiel liegt aber in zwei Druk-
+ken vor. Neben dem Erstdruck 1533 bei Thomas Wolff in Basel, auf dessen Titelblatt neben
+dem Druckerwappen ein reich geschmückter Reisläufer zu sehen ist, erschien 1550 eine zweite
+Ausgabe bei Jacob Froelich in Strassburg. Beide Drucke stimmen inhaltlich und stilistisch
+weitgehend überein. Der Strassburger Druck unterscheidet sich durch eine nicht konsequent
+durchgeführte Diphthongierung. Die Angabe des Verfassers fehlt in beiden Drucken.
+
+23 Vgl. Jakob Bächtold, Geschichte der Deutschen Literatur in der Schweiz. Frauenfeld 1892,
+303. Bächtolds Vermutung, Birck habe das Theaterstück leicht überarbeitet, konnte Hirth
+durch einen Vergleich des Spiels mit Bircks Susanna deutlich widerlegen. Vgl. Hirth 66–72.
+
+Siehe Anm. 17.
+
+24 Unklar ist, ob Bullinger Sixt Birck zu diesem Zeitpunkt schon kannte.
+25
+26 Vgl. Hirth 5.
+27
+
+«1533 Sonntag vor Margaretha: Es habent die jüngling die histori ‹Lucretia› gespilt, da dann
+
+80
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Lucretia kam in Zürich erstmals im Kriegsjahr 1939 durch ein Basler Studen-
+tentheater auf die Bühne. 28 Im Bullinger-Jubiläumsjahr 2004 wagte die kleine
+Wiener Schauspieltruppe «teatro caprile» den Versuch, das Stück erneut auf
+die Bühne zu bringen. Die Theatergruppe inszenierte Bullingers Lucretia in
+drei reformierten Kirchen in Wien. In Zürich kam es nicht zu einer weiteren
+Aufführung.
+
+Überlieferungslage der Quellen
+
+Mit  dem  Lucretia-Spiel  bezieht  sich  Bullinger  auf  einen  humanistischen
+Stoff. Möglicherweise hat er ihn zunächst durch Boccacios Bericht in seiner
+um 1360 entstandenen Sammlung De claris mulieribus kennen gelernt. Viel-
+leicht lag ihm auch schon die Übersetzung von Heinrich Stainhöwel mit dem
+Titel Von den sinnrychen erluchten Wyben / zu lob und e˜r der Herzogin Eleo-
+nore von Österreich (1473) vor. 29 Explizit nennt Bullinger aber in der Vor-
+rede Zum L eaßer zwei Quellen als Vorlage für das Stück: «Diss spil ist genom-
+men  vß  dem  Ersten  vnd  andren b ouch  T. Liuij  ab  vrbe  Con.  Vnd  vß  dem
+vierden vnd fünfften b euchern Dionisij antiq. [.. .].» 30 Im Gegensatz zu Hans
+Sachs, der etwa zur gleichen Zeit den Stoff dramatisch umsetzte 31, benutzte
+Bullinger als Quellen neben dem 1. und 2. Buch von Livius’ Ab urbe con-
+dita 32 auch das 4. und 5. Buch von Dionysios’ von Halikarnassos Antiquita-
+tes Romanae 33.
+
+vast vil eren frömden lüten von Brugg, Zoﬁngen und Lendsburg da gsi sind [.. .]: nemlich die
+edlen von Hallwyl, Mulinen, Efﬁngen und die vogt von Lendsburg, der schafner von Zoﬁn-
+gen, die vögt von Schenkenberg, von Biberstein, von Gösgen, schultheiß Schmied von Brugg
+und vil der rhäten und burgeren daselbst und sind die von Brugg da übernacht blieben, und
+hat man Hansen Jmbach von Brugg dem gougelman ein paar hosen gschenkt und hat man den
+frömbden spillüthen jedem 1/2 Gl. und den unsern 3 Btz. geben und habend davor uf vaßnacht
+die ‹Susan› gespilt.» Zitiert nach Bächtold Anm. 78.
+
+28 Vgl. Campi 150.
+29 Vgl. Hartmann 15f.
+30 Lucretia 39 V. 1–4.
+31 Hans Sachs, Tragedia von der Lucretia, in: Heinrich Bullinger – Hans Sachs. Lucretia-Dra-
+men, hrsg. v. Horst Hartmann, Leipzig 1973. Hans Sachs verwendete für sein 1527 fertig ge-
+stelltes Drama Bernhard Schöfferlins deutsche Übersetzung von Livius’ Ab urbe condita: Ro-
+mische Historie vss Tito livio gezogen, Mentz [Mainz] 1505, f. 18v–20v. Dieser Band ist 1507,
+1514  und  1523  in  Mainz  erneut  gedruckt  worden.  Es  existiert  ein  weiterer  Druck,  der  in
+Strassburg entstand: Römische History. Strassburg 1507, f. 24v–26r. Vgl. Brigitte Stuplich,
+Zur  Dramentechnik  des  Hans  Sachs,  Stuttgart-Bad  Cannstatt  1998,  244  (Anm. 2  und  3);
+Campi 145 (Anm. 1). Neben Livius nennt Sachs auch Valerius Maximus als Quelle: Hans
+Sachs, Tragedia von der Lucretia 99 V. 5 f.
+
+32 Titus Livius, Römische Geschichte. Buch I–III (lat./dt.), hrsg. v. Hans Jürgen Hillen. Düssel-
+
+dorf / Zürich 1997, I, 57, 3–II, 5, 5; S. 148–170.
+
+33 Von den Antquitates Romanae liegen neuere Übersetzungen ins Englische, Italienische, Spa-
+
+Zwingliana XXXIII, 2006
+
+81
+
+Anja Buckenberger
+
+Ein Blick in die Überlieferungsgeschichte der Werke von Livius und Dio-
+nysios von Halikarnassos gibt Aufschluss über die Druckausgaben, die Bul-
+linger verwendet haben könnte. Es ist gut möglich, dass Bullinger Livius be-
+reits  in  einer  deutschen  Übersetzung  las.  Sowohl  in  Mainz  als  auch  in
+Strassburg wurde anfangs des 16. Jahrhunderts Ab urbe condita auf Deutsch
+gedruckt. 34  Das  Werk  von  Dionysios  lag  zur  Abfassungszeit  der Lucretia
+ausschliesslich auf Latein vor. 35 Die Erstausgabe der Antiquitates Romanae
+besorgte der Drucker Bernardinus Celerius zu Treviso 1480. Im Jahr 1498
+wurden die Antiquitates Romanae nochmals von Franciscus de Mazalibus in
+Reggio d’Emilia aufgelegt. 36 Bei beiden Drucken handelt es sich um Inkuna-
+beln. 37 Der Durchschnittswert für die Auﬂagenhöhe von Inkunabeln liegt
+Ende der 1470er Jahre bei 400 Stück und steigt nach 1490 auf 1000 Exem-
+plare, während kurz vor 1500 ein kleiner Einbruch der Auﬂagenhöhe festzu-
+machen ist. 38 Dionysios’ Werk wurde erst nach der Abfassung der Lucretia in
+Paris  (1529) 39  und  Basel  (1532) 40  gedruckt.  Der  griechische  Erstdruck  der
+(cid:1)Pωµαικ(cid:6) (cid:7)ρ(cid:9)αι(cid:10)λ(cid:10)γ(cid:13)α erschien 1546/47 innerhalb der Gesamtausgabe der
+Schriften  von  Dionysios  in  Paris. 41  Die  Druckgeschichte  der  beiden  Ge-
+
+nische und Französische vor. Im Folgenden zitiere ich aus der zweisprachigen Ausgabe: Dio-
+nysius Halicarnassensis, The Roman antiquities of Dionysius of Halicarnassus. In seven vo-
+lumes with an engl. transl. by Earnest Cary on the basis of the version of Edward Spelman.
+Volume II und III, London 1960, IV, 64–V, 13; Bd. 2, S. 470–Bd. 3, S. 44.
+
+34 Romische Historie vss Tito livio gezogen, Mentz [Mainz] 1505, f. 18v–23v (siehe Anm. 31).
+Schöfferlin weicht bei der Darstellung der Vergewaltigungsszene deutlich vom lateinischen
+Text ab, indem er Lucretia als Heidin bezeichnet: «[.. .] wan sie noch als ein heydin / nit wißt
+den lon / der den ihenen / die vnverschulte˜ tod lyden / in hymel bereyt ist». (f. 19r). Schöf-
+ferlin  lässt  auch  aus,  wie  Brutus  und  Lucretius  Collatinus  zum  Rücktritt  auffordern  und
+kürzt  die  Schilderung  der  Verschwörung  und  der  Hinrichtung  von  Brutus’  Söhnen.  Bei-
+spielsweise fehlt in der deutschen Übersetzung der Hinweis auf Brutus’ Gefühlsregungen:
+«[. . .] cum inter omne tempus pater vultusque et os eius spectaculo esset eminente animo pa-
+trio inter poenae ministerium». Römische Geschichte (Anm. 32), II, 5, 8; S. 168.
+
+35 Vgl. Otto Mazal, Die Überlieferung der antiken Literatur im Buchdruck des 15. Jahrhun-
+
+derts. Erster Teilband, Stuttgart 2003, 238f.
+
+36 Vgl. Mazal 238f.
+37 Vgl. Gesamtkatalog der Wiegendrucke, hrsg. v. Kommission für den Gesamtkatalog der Wie-
+
+gendrucke, Bd. VII, Leipzig 1938, 458f.
+
+38 Vgl.  Uwe Neddermeyer,  Von  der  Handschrift  zum  gedruckten  Buch.  Schriftlichkeit  und
+Leseinteresse im Mittelalter und in der frühen Neuzeit. Quantitative und qualitative Aspekte,
+Bd. 1,  Wiesbaden  1998  (Buchwissenschaftliche  Beiträge  aus  dem  Deutschen  Bucharchiv
+München 61), 390f.
+
+39 Vgl. Index Aureliensis. Catalogus librorum sedecimo saeculo impressorum. Prima pars to-
+
+mus XII, Aureliae Aquensis 1965, 216.
+
+40 Vgl. Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des XVI. Jahrhun-
+derts (VD 16), hrsg. von der Bayerischen Staatsbibliothek in München in Verbindung mit der
+Herzog-August-Bibliothek in Wolfenbüttel, 1. Abtl., Bd. 5, Stuttgart, 1983–2000, 411.
+
+41 Vgl. Griechischer Geist aus Basler Pressen. Katalog zur Ausstellung. Universitätsbibliothek
+
+Basel 4. Juli bis 22. August 1992, 351.
+
+82
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+schichtswerke zeigt, dass während der Abfassungszeit der Lucretia das Werk
+des Livius wesentlich einfacher zugänglich war als dasjenige von Dionysios
+von Halikarnassos. Selbst in der Privatbibliothek Konrad Gessners 42 liegen
+die Antiquitates Romanae nicht vor, ebenso fehlen sie auch im Verzeichnis
+der Zürcher Stiftsbibliothek 43. Wir wissen lediglich, dass der Winterthurer
+Schultheiss Hans Huser, der in den Bauernunruhen von 1525 als Vermittler
+in Erscheinung trat und als einer der reichsten Bürger galt, eine der Inkuna-
+beln aus dem Jahr 1480 besass. 44
+
+In dem 2004 erschienenen Verzeichnis der Privatbibliothek Bullingers 45
+von Leu ﬁndet sich weder Livius noch Dionysios von Halikarnassos aufge-
+führt. Bei diesem Negativ-Ergebnis sind jedoch zwei Punkte zu beachten:
+Zum einen ist das Verzeichnis nicht vollständig. Der Herausgeber geht davon
+aus, dass etwa nur ein Viertel der Bücher von Bullingers Bibliothek erhalten
+sind. 46 Zum anderen bezieht sich das Verzeichnis auf die Bibliothek, die Bul-
+linger als Antistes in Zürich besass. Wie oben dargelegt, verfasste Bullinger
+die Lucretia  aber  während  seiner  Kappeler  Zeit  (1523  bis  Frühjahr  1529).
+Möglicherweise war Bullinger zwar in Besitz der Werke von Livius und Dio-
+nysios von Halikarnassos, nahm sie aber bei seinem Amtsantritt 1531 nicht
+mit nach Zürich. Viel wahrscheinlicher ist jedoch, dass Bullinger beide Bü-
+cher  in  der  Klosterbibliothek  in  Kappel  vorfand. 47  Bullinger  könnte  das
+
+42
+
+In der Sammlung Alte Drucke in der Zentralibliothek Zürich beﬁndet sich eine im 20. Jahr-
+hundert  angelegte  Kartei  von  Gessners  Privatbibliothek.  Ein  detailliertes  Verzeichnis  von
+Gessners Privatbibliothek ist in Vorbereitung.
+
+43 Martin Germann, Die reformierte Stiftsbibliothek am Grossmünster Zürich im 16. Jahrhun-
+dert und die Anfänge der neuzeitlichen Bibliographie. Rekonstruktion des Buchbestandes
+und seiner Herkunft, der Bücheraufstellung und des Bibliotheksraumes. Mit Edition des In-
+ventars von 1532/1551 von Conrad Pellikan, Wiesbaden 1994 (Beiträge zum Buch- und Bi-
+bliothekswesen 34).
+
+44 Die Inkunabel beﬁndet sich in der Zentralbibliothek Zürich, Alte Drucke. Eine handschrift-
+liche Notiz auf dem ersten Blatt gibt den Besitzer an: «Dis b ouch gehört dem her Hans Huser
+in der nüwen statt». Daher ist dieser Hans Huser nicht zu verwechseln mit den beiden gleich-
+namigen Zürcher Pfarrern (gest. 1565 und 1574). Im 4. und 5. Buch der Antiquitates Ro-
+manae beﬁnden sich keine Randbemerkungen, sondern lediglich ein paar wenige Unterstrei-
+chungen. Ein Kontakt zwischen Hans Huser und Bullinger ist erst aus den Jahren 1537 und
+1547 belegt. Huser schickt an Bullinger zwei kurze, eher unpersönliche Empfehlungsschrei-
+ben für einen Diakonen und einen Pfarrerssohn. Immerhin ist anzumerken, dass Bullinger
+1524 und 1525 einer Verena Huser, Nonne in Frauenthal, mehrere Schriften widmete (zusam-
+men mit ihrer Mitschwester Anna Kolin). Ob Verena Huser in direktem Verwandtschaftsver-
+hältnis zu Hans Huser stand, ist nicht bekannt. Auskunft von Rainer Henrich (Bullinger-
+Briefwechsel-Edition).
+
+Ibid. 7.
+
+45 HBBibl 3, 7.
+46
+47 Da das durch Bullinger reformierte Kloster Kappel nach der Niederlage im 2. Kappeler Krieg
+geplündert wurde und keine Bestände der Bibliothek mehr erhalten sind, lässt sich diese An-
+nahme nicht weiter nachprüfen.
+
+Zwingliana XXXIII, 2006
+
+83
+
+Anja Buckenberger
+
+Werk des Dionysios von Halikarnassos aber auch aus seiner Kölner Studien-
+zeit gekannt haben, wo er freien Zugang zur Dominikanerbibliothek hatte. 48
+Vielleicht lag ihm während der Abfassung des Lucretia-Spiels in Kappel le-
+diglich eine Abschrift oder Zusammenfassung vor. In letzterem Fall könnte
+man vermuten, Bullinger stütze sich aufgrund des erschwerten Zugriffs auf
+das Werk von Dionysios hauptsächlich auf Livius. Aufschluss gibt eine ge-
+naue vergleichende Lektüre der Quellen mit Bullingers Lucretia.
+
+Bullingers Rezeption der Quellen
+
+Bullinger ist bei der szenischen Umsetzung des antiken Stoffes weit von der
+ergreifenden  Darstellung  des  Livius  entfernt. 49  Die  gesamte  Vergewalti-
+gungsszene, die bei Livius wesentlich dramatischer dargestellt wird als bei
+Dionysios, spart er aus. 50 Jedoch überträgt er Lucretias Rede vor ihrem Tod
+und Brutus’ Reaktion darauf sinngetreu von Livius. 51 Den Schwerpunkt ver-
+lagert  Bullinger  deutlich  auf  die  Brutus-Handlung.  Die  Figuren  zeigen  in
+Bullingers  Theaterstück  keinerlei  Gefühlsregungen.  Über  Brutus  erfährt
+man  weiter  nichts,  als  dass  er  die  Revolution  angeführt  hatte,  zum  ersten
+Konsul wurde und seine Söhne töten liess. Bullinger beschränkt sich einzig
+auf das politische Wirken Brutus’. Er verzichtet auf die Vorgeschichte des
+Brutus und die Motivation seines Handelns, die Dionysios von Halikarnas-
+sos ausführlicher liefert als Livius. 52 Da insgesamt die Brutus-Handlung bei
+
+48 Das Dominikanerkloster brannte am 2. März 1659 grösstenteils ab, es konnten nur wenige
+Bände gerettet werden. Der Rest ist bei der Aufhebung des Klosters durch die französische
+Besatzung  am  17. Juni  1799  verschleudert  und  zerstreut  worden.  Vgl.  HBBibl  3,  45f.
+(Anm. 273).
+
+49 Zum Umgang Bullingers mit den Quellen vgl. auch Hirth 9–15.
+50
+
+Stattdessen schiebt Bullinger an dieser Stelle eine Bauernszene ein. Lucretia 45 V. 13–47 V. 27.
+Erst danach berichtet Lucretia in einem Rückblick von der Tat des Tarquinius. 50 V. 15–51
+V. 12
+
+51 Vgl. Lucretia 51 V. 6–8 und 51 V. 14 und 53 V. 5 und V. 17 ; Römische Geschichte (Anm. 32), I,
+58, 7 und I, 58, 9 und I, 59,1; S. 150–152; An diesen Stellen überträgt Bullinger den lateini-
+schen Wortlaut ins Deutsche. Möglicherweise verwendete Bullinger zusätzlich Schöfferlins
+deutsche Übersetzung als Einübung ins Deutsche. Wie Schöfferlin übersetzt Bullinger das
+Gegensatzpaar «corpus» und «animus» mit «lyb» und «gm eut». Bullinger verzichtet aber auf
+eine christliche Verurteilung des Selbstmords, die Schöfferlin einschiebt: «So durch Cristen-
+liche ordnung verworffen vnd verbotten ist / hand an sich selber an z oulegen / vnnd sich z ou
+dem tod fürdren». Vgl. Romische Historie (Anm. 34) f. 19v-20r.
+
+52 Vgl. The Roman antiquities of Dionysius of Halicarnassus IV, 77, 1–4; Bd. II, S. 504 und IV,
+70, 2–4; Bd. II, S. 48. Bevor Brutus das Volk zur Vertreibung der Tarquinier aufrufen kann,
+muss er zunächst um das Vertrauen des Volkes kämpfen. Denn Brutus wurde bislang von nie-
+mandem ernst genommen – er galt als Narr, als Geisteskranker. In seiner Rede vor dem Volk
+erklärt Brutus, dass er den Geisteskranken all die Jahre hindurch nur vorgetäuscht habe, um
+sich und sein Leben zu schützen. Der König Tarquinius Superbus hatte nämlich Brutus’ Vater
+
+84
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Dionysios von Halikarnassos wesentlich detaillierter und ausführlicher dar-
+gestellt ist, stützt sich Bullinger im zweiten Akt hauptsächlich auf ihn. Der
+Grund für die Absetzung des Collatinus ist nicht wie bei Livius die blosse
+Verwandtschaft des Collatinus mit den Tarquiniern 53, sondern die Milde, die
+er gegenüber den Legaten des Tarquinius zeigt 54, und vor allem sein Einsatz
+für die Verschwörer, die er vor der Todesstrafe bewahren will. 55 Auch bei der
+Schilderung der neuen Verfassung ist Dionysios die ausführlichere Quelle,
+die Bullinger unter Anpassung auf die Zürcher Zunftverfassung überträgt. 56
+Bullingers Theaterstück ist in erster Linie ein «Rededrama», d.h. die politi-
+schen Reden dominieren vor den Dialogen. Auch hinsichtlich der nüchter-
+nen Darstellungsweise lehnt sich Bullinger deutlich mehr an Dionysios von
+Halikarnassos als an Livius an. Bullingers Lucretia-Spiel ist keine leichte Un-
+terhaltung, sondern ein Lehrstück, in dem die Zuschauer oder Leser in erster
+Linie durch lange politische Reden in die Politik eingeführt werden. Bullin-
+ger führt Brutus als Exempel für den homo politicus vor, der sich strikt an
+moralische Massstäbe hält. Dionysios von Halikarnassos war ihm dafür vor
+allem im zweiten Akt die ergiebigere und wichtigere Quelle, die ihm in ihrer
+ganzen Länge vorgelegen haben muss.
+
+Das Kommunikationsmedium «Spiel»
+
+Bullinger setzt den antiken Stoff nicht nur szenisch um, sondern aktualisiert
+ihn auch, indem er konkret Bezug auf die Verhältnisse in Zürich im 16. Jahr-
+hundert nimmt. 57 Bullingers politische Äusserungen hinsichtlich der Ermah-
+nung der Obrigkeit zur Gerechtigkeit und der Verurteilung des Pensionen-
+wesens in dem Lucretia-Spiel entsprechen den Aussagen, die er bereits in den
+
+ermorden lassen und wenig später auch seinen älteren Bruder, da er dessen Rache fürchtete.
+Um dem gleichen Schicksal entgehen zu können, war Brutus nur ein Ausweg geblieben –
+fortan musste er den Narren spielen. Als Brutus von der Schändung Lucretias erfährt, sieht er
+seine Zeit gekommen. Er führt die Römer aus der Tyrannenherrschaft in die Freiheit und
+wird neben Collatinus zum ersten Konsul der Republik gewählt. Damit erfüllt sich das Ora-
+kel, das voraussagte, derjenige werde die Herrschaft Roms übernehmen, der als erster seine
+Mutter küssen werde. Alle Jünglinge die damals dieses Orakel gehört hatten, küssten darauf-
+hin ihre Mutter – bis auf Brutus: Er kniete sich auf den Boden und küsste die Erde Roms.
+
+53 Vgl. Römische Geschichte II, 2, 3–10; S. 160–162. Romische Historie f. 21v.
+54 Vgl. Lucretia 72 V. 1–16. The Roman antiquities of Dionysius of Halicarnassus V, 5; Bd. III,
+
+55 Vgl. Lucretia 88 V. 24–89. The Roman antiquities of Dionysius of Halicarnassus V, 9; Bd. III,
+
+S. 12–16.
+
+S. 26–28.
+
+153–165.
+
+56 Vgl.  Lucretia  63  V.  7–64  V.  35.  The  Roman  antiquities  of  Dionysius  of  Halicarnassus  IV,
+
+73–75; Bd. II, S. 492–500.
+
+57 Eine umfassende Beschreibung der zeitlichen Bezüge nimmt Emidio Campi vor. Vgl. Campi
+
+Zwingliana XXXIII, 2006
+
+85
+
+Anja Buckenberger
+
+beiden politischen Schriften Früntliche Ermanung / zur Grechtigkeit wider
+alles verfelschen rychtigen gerychts (1526) 58 und Anklag und ernstliches er-
+manen Gottes Allm eachtigen / z ou eyner gemeynenn Eydgnoschafft / das sy
+sich vonn jren Sünden / z ou jmm keere (1525) 59 macht. 60 Vor diesem Hinter-
+grund stellt sich die Frage, warum Bullinger für dieselben Aussagen plötzlich
+das Kommunikationsmedium wechselt. Welche Möglichkeiten bot ihm die
+Gattung des Schauspiels gegenüber dem Pamphlet?
+
+Der wesentliche Unterschied liegt in der aktiven Umsetzung des Textes.
+Wie bereits oben dargelegt, sah Bullinger die Komödiendichter als die besten
+Rhetorik- und Sittenlehrer. Das Drama – hauptsächlich in lateinischer Spra-
+che – bildete denn auch einen festen Bestandteil im Rhetorikunterricht in den
+Schulen. Indem die Schüler in fremde Rollen schlüpften und vor Publikum
+auftraten, verbesserte sich aber nicht nur deren Ausdrucksfähigkeit. Durch
+die  Identiﬁkation  mit  den  Figuren  setzten  sich  sowohl  die  Spielenden  als
+auch die Zuschauenden aktiv mit dem Inhalt auseinander. Mit dem Wechsel
+in ein Medium mit größerem performativen Potential dürfte Bullinger also
+vor allem didaktische Ziele verfolgt haben. Am Beispiel des Brutus sollten
+die Tugenden des homo politicus veranschaulicht werden. Dass Bullinger da-
+mit aber nicht nur die jungen Männer, die Träger des Stücks waren, erziehen
+wollte, zeigt die Verwendung der Volkssprache. Das Spiel ist durchaus für
+eine  ausserschulische  Aufführung  konzipiert,  denn  in  der  Heroldsrede  zu
+Beginn  des  2.  Aktes  werden  ausdrücklich  die  Ratsherren  und  auch  die
+Frauen angesprochen. 61 Durch die Gattung des Spiels konnte Bullinger so-
+mit auch Personen erreichen, die nicht lesen konnten.
+
+Um sich vor möglichen Angriffen oder der Zensur zu schützen, machte
+sich Bullinger zudem die Fiktionalität der Gattung zunutze: Am Ende des
+Spiels lässt er den «Proclamator» darauf hinweisen, dass sich niemand belei-
+digt oder verletzt fühlen solle. Der Stoff sei nicht von ihm selbst, sondern von
+den Römern erdacht. 62
+
+58 Die Druckausgabe von 1526 beﬁndet sich in der ZBZ, Abteilung alte Drucke.
+59 Die Abfassungszeit der Schrift wird auf das Ende des Jahres 1525 datiert, gedruckt wurde sie
+erst 1528. Die Druckausgabe von 1528 beﬁndet sich in der ZBZ, Abteilung alte Drucke. Wäh-
+rend Bullinger in dem Lucretia-Spiel die Tarquinier lediglich aus dem Land vertreiben lässt,
+ruft er in Anklag und ernstliches ermanen ausdrücklich zum Tyrannenmord auf: «Dann es ist
+besser wenig verr ouchter bl outhunden hindan gethon mit recht / dann ein gantz land verderbt
+mit vffr our / jamer / hunger / krieg / vnd elend.» f. C vijv.
+
+60 Zu den frühen politischen Schriften Bullingers siehe Campi 161–170.
+61 Vgl. Lucretia 60 V. 6 und 17.
+62 Vgl. Lucretia 95 V. 3–10.
+
+86
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Die Stellung in der zeitgenössischen dramatischen Literatur
+
+Innerhalb der Literatur des 16. Jahrhunderts gehört die Lucretia unzweifel-
+haft in die Reihe der für die Eidgenossenschaft im 16. Jahrhundert charakte-
+ristischen politischen Spiele. Die Entwicklung und Entfaltung dieser Gat-
+tung  hängt  stark  mit  der  sozial-politischen  Sonderentwicklung  der
+Eidgenossenschaft  zusammen,  die  seit  den  Schwabenkriegen  1499  weitge-
+hend unabhängig vom Heiligen Römischen Reich Deutscher Nation war. 63
+Das  Bürgertum  der  grossen  Stadtrepubliken  der  Eidgenossenschaft  stand
+nicht unter dem politischen Druck absoluter Fürsten. 64 Diese sozial-politi-
+sche Situation wirkte sich auch auf die Literatur aus. Die eidgenössischen
+Theaterdichter des 16. Jahrhunderts legten in ihren Spielen meist den Fokus
+auf den Erhalt der Freiheit und der «demokratischen» Strukturen 65. Im Zen-
+trum der moralischen Botschaft stand immer wieder die Belehrung über ge-
+rechte und ungerechte Obrigkeit und bürgerliches Verhalten. 66 Bei der Stoff-
+wahl orientierte man sich gerne an dem antiken Vorbild des republikanischen
+Rom. 67 Schon wenige Jahre vor der Reformation sind unabhängig voneinan-
+der zwei politische Dramen entstanden. Im 1512/1513 verfassten, alten Ur-
+ner Tellenspiel 68 wird Tell als schweizerischer Brutus gefeiert. Explizit nennt
+der erste Herold die Schändung Lucretias als Anlass für den Sturz der Tyran-
+nen. 69 Auch in dem Neujahrsspiel Von den alten und jungen Eidgenossen 70
+
+63 Völkerrechtlich erlangten die Eidgenossen erst 1648 im Westfälischen Frieden die Unabhän-
+
+gigkeit.
+
+64 Trotz der weitgehend erreichten Unabhängigkeit sahen sich die Eidgenossen durchaus als
+Teil des Heiligen Römischen Reiches Deutscher Nation – allerdings als unmittelbar dem Kai-
+ser untergeordnet und nicht irgendeinem Landesfürsten. Auch die Reformation vollzog sich
+daher nicht wie in Deutschland von oben her durch die Landesfürsten, sondern war gestützt
+auf das Bürgertum der grossen Stadtrepubliken. Vgl. Hartmann 10.
+
+65 Wobei aus heutiger Sicht keinesfalls eine Demokratie herrschte: Nur wer das Bürgerrecht
+hatte,  war  stimmberechtigt.  Frauen  waren  von  politischen  Entscheidungen  grundsätzlich
+ausgeschlossen.
+
+66 Vgl. Max Wehrli, Geschichte der deutschen Literatur im Mittelalter. Von den Anfängen bis
+
+zum Ende des 16. Jahrhunderts, Stuttgart 31997, 1117.
+
+67 Allerdings  sind  viele  Römerdramen  erst  nach  Bullingers Lucretia erschienen:  ein  Berner
+Stück  von Appius  und  Virginia 1565,  zwei  Stücke  des  Solothurners  Georg  Gotthart
+(1552–1619), nämlich der Kampf der Horatier und Curiatier (1584 gedruckt) und eine Zer-
+störung Trojas (1598). In Luzern erscheint 1592 ein Cato und in Zürich 1596 Christoph Mu-
+rers Scipio Africanus. Vgl. Wehrli 1118.
+
+68 Das Urner Tellenspiel, hrsg. v. Max Wehrli, Aarau 1952 (Quellenwerk zur Entstehung der
+Schweizerischen Eidgenossenschaft 3,2). Wehrli zieht eine Überarbeitung des Spiels durch
+den Zürcher Chorherren Uttinger in Betracht. Ein früherer Zürcher Druck um 1520, den
+Wehrli für möglich hält, ist aber nicht nachweisbar. Das Spiel wurde erst 1545 in Zürich ge-
+druckt und diente Jakob Ruf als Vorlage für sein neues Tellenspiel. Vgl. Wehrlis Einleitung 64.
+
+69 Das Urner Tellenspiel, 71 V. 20–72 V. 37.
+70 Das Spiel von den alten und jungen Eidgenossen, hrsg. v. Friederike Christ-Kutter, Bern 1963
+
+Zwingliana XXXIII, 2006
+
+87
+
+Anja Buckenberger
+
+(1513) von dem Zürcher Schulmeister Balthasar Spross treten zwei Reprä-
+sentanten  altrömischer virtus  auf:  Horatius  Cocles  preist  den  durch  Lei-
+stung,  nicht  durch  Abstammung  erworbenen  Adel  und  Quintus  Mutius
+Scaevola vertritt – wie das zeitgenössische Zürich – eine antifranzösische Po-
+sition. 71 Wie in Bullingers Lucretia wird in Spross’ Spiel mehrfach das Reis-
+laufen, hier besonders der Solddienst für den französischen König, verur-
+teilt. 72 Beide Dramen befassen sich aber nicht nur mit derselben Thematik,
+auch die Struktur weist Ähnlichkeiten auf. Ebenso wie Bullingers Stück ist
+das Spiel Von den alten und den jungen Eidgenossen geprägt durch lange Re-
+den, hinter die die Handlung und somit auch die Schauplätze zurücktreten. 73
+Das Theaterstück wurde für Schüler geschrieben und auch von Schülern auf-
+geführt. 74 In beiden Spielen taucht ein Narr auf. Wie in Bullingers Stück singt
+der Narr auch im Spiel Von den alten und jungen Eidgenossen ein Loblied auf
+den Solddienst. 75 Der Narrenﬁgur in beiden Stücken fehlt es allerdings an der
+Doppelbödigkeit  eines  weisen  Narrentums,  wie  sie  Erasmus  1511  in  dem
+Lob der Torheit darstellte. 76 Anhand des Narren wird in beiden Stücken le-
+diglich die zu verurteilende Einstellung vorgeführt. Die Gemeinsamkeiten
+der beiden Stücke weisen stark daraufhin, dass Bullinger das Spiel Von den
+alten und jungen Eidgenossen kannte und in der Gestaltung der Lucretia von
+ihm beeinﬂusst war. 77
+
+(Altdeutsche Übungstexte 18). Spross widmete sein Spiel dem späteren Wiedertäufer Konrad
+Grebel.
+
+71 Das Spiel von den alten und jungen Eidgenossen, 86 V. 406–88 V. 467. Vgl. Charbon 37.
+72 Das  Thema  Reislaufen  wurde  im  16. Jahrhundert  häuﬁg  literarisch  aufgegriffen.  Auch
+Zwingli bezog in dem Fabelgedicht vom Ochsen und in dem Gedicht Der Labyrinth Stellung
+dazu.
+
+73 Das Spiel Von den alten und jungen Eidgenossen wurde in einem geschlossenen Raum, einer
+«stuba», aufgeführt. Im ersten und zweiten Akt ist der Bühnenort unbestimmt, erst im drit-
+ten Akt verlangt die Bühnenanweisung, dass die Tagsatzung in Beckenried «in medio stubae»
+stattﬁnden soll. Vgl. Christ-Kutter 22f.
+
+74 Vgl. Christ-Kutter 21.
+75 Das Spiel von den alten und jungen Eidgenossen 83 V. 321–336. Lucretia 80 V. 4–22. Bullinger
+nennt den Narren «Fryhett». In den eidgenössischen Spielen stellt der «Fryhett» meist eine
+Schmarotzer- und Schmeichlerﬁgur dar, die als Landstreicher, Gaukler oder Bettler auftritt.
+In den Chroniken erscheint der «Fryheit» (Freihartsbube) als angeworbener Söldner. Vgl.
+Charbon 40.
+
+76 Vgl. Wolfgang F. Michael, Das deutsche Drama der Reformationszeit, Bern et al. 1984, 30.
+77 Eine Inszenierung des Spiels hat Bullinger aber wahrscheinlich nicht gesehen. Als das Stück
+am Neujahrstag 1514 von jungen Männern in Zürich aufgeführt wurde, war Bullinger erst
+zehn Jahre alt und noch in Bremgarten. Da das Spiel nie gedruckt wurde, musste es Bullinger
+handschriftlich vorgelegen haben. Das Theaterstück ist heute nur noch in einer Handschrift
+erhalten, die aufgrund des Wasserzeichens nach 1536 entstanden sein muss. Vgl. Christ-Kut-
+ter (Anm. 70) 5 und Andrea Kauer: Einleitung zum Etter Heini, in: Jakob Ruf. Leben, Werk
+und Studien. Zweiter Band Werke 1538–1544, hrsg. v. Hildegard Elisabeth Keller et al., er-
+scheint 2007.
+
+88
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+Struktur und Aufbau
+
+Bullingers Lucretia-Spiel ist sowohl als Aufführungstext als auch als Lesetext
+konzipiert, denn es beinhaltet eine Vorrede Zum L eaßer und eine Spielanlei-
+tung am Ende des Stückes. Obwohl der Stoff gut humanistisch ist, orientiert
+sich Bullinger formal nicht an den fünf Akten der Humanistendramen, son-
+dern teilt das Stück in zwei Akte ein: Der erste Akt (ca. 500 Verse) ist deutlich
+kürzer als der zweite (ca. 1000 Verse). 78 Das Theaterstück umfasst ein Perso-
+nal von mindestens 40 Spielern, zu denen noch Statisten, die das Landvolk
+und die Räte darstellten, hinzuzurechnen sind. Im ganzen Spiel treten Lucre-
+tia und ihre «Iunkfrouwen», von denen nur Cloelia eine Sprechrolle erhält,
+als einzige Frauenﬁguren auf. 79 Hinsichtlich der Grösse und Länge steht Bul-
+lingers Spiel in keinem Vergleich zu den späteren Theaterstücken von Jakob
+Ruf, einem Zeitgenossen von Bullinger, dessen Adam und Eva (1550) über
+2 Tage hinweg von 106 Darstellern aufgeführt wurde und 6381 Verse um-
+fasste. 80 Im Zentrum der beiden Akte des Lucretia-Spiels stehen jeweils Fi-
+gurenpaare, die sich gegenseitig kontrastieren. Im ersten Akt stellt der Autor
+der tugendhaften Lucretia den willkürlich handelnden Ehebrecher Tarqui-
+nius gegenüber. Die Ausbeutung des Volkes durch den Tyrannenherrscher
+verdeutlicht  der  Autor  mit  der  eingefügten  Bauernszene.  Im  zweiten  Akt
+wird die Standhaftigkeit des Brutus vor dem Negativ-Beispiel des labilen,
+weichherzigen Collatinus, gelobt. Wenn sich Bullinger wohl auch mit Regie-
+anweisungen sparsam verhält, so legt er doch in seiner Spielanleitung im An-
+hang  fest,  wie  die  Figuren  auftreten  sollen.  Brutus  solle  «ernsthafft»  und
+«ghrecht» 81 sein, Lucretia «erbar» und «scham˜ hafft» 82, die Pensionenherren
+sollten «hochpreachtig mit kleydern» 83 ausgestattet werden.
+
+Eine Schwierigkeit bei der Inszenierung dürften die häuﬁgen Schauplatz-
+wechsel dargestellt haben: Zunächst spielt das Geschehen vor und in dem
+
+78 Da auch der zweite Akt durch einen Herold eingeleitet wird, ist eine Pause zwischen den bei-
+
+den Akten denkbar.
+
+80
+
+79 Lucretia 44 Regieanweisung nach V. 22 und 54 V. 9–55 V. 8. Die Frauenrollen wurden – vor al-
+lem in den Schuldramen – in der Regel von Männern gespielt. Allerdings berichtet Felix Plat-
+ter von einer Aufführung der Susanna 1546 auf dem Fischmarkt in Basel durch Ulricus Coc-
+cius, der die Hauptrolle von seiner späteren Ehefrau, Margareta Merian, darstellen liess. Vgl.
+Felix Platter, Tagebuch (Lebensbeschreibung) 1536–1567, hrsg. v. Valentin Lötscher, Basel /
+Stuttgart 1976, 83.
+Jacob Ruffs Adam und Eva, erläutert und hrsg. v. Hermann Marcus Kottinger, Quedlinburg /
+Leipzig 1848 (Bibliothek der deutschen National-Literatur XXVI). Eine erstmalige Edition
+des Gesamtwerks von Jakob Ruf wird derzeit im Rahmen des SNF-Projekts «Jakob Rufs
+Theater- und Heilkunst» unter der Leitung von Hildegard Elisabeth Keller vorbereitet und
+erscheint 2007.
+81 Lucretia 96 V. 9.
+82 Lucretia 97 V. 5.
+83 Lucretia 96 V. 26.
+
+Zwingliana XXXIII, 2006
+
+89
+
+Anja Buckenberger
+
+Haus  der  Lucretia.  Die  Bauernszene  wird  ohne  Ankündigung  des  Schau-
+platzwechsels eingeschoben: Innerhalb einer Zeile wird der Zuschauer von
+der Stadt ins Lager geführt und umgekehrt. 84 Nach dem Tod der Lucretia
+ﬁndet eine Versammlung auf dem Forum statt. Die Vertreibung der Tarqui-
+nier zeigt lediglich die Regiebemerkung «hie vertrybend sy den Künig» 85 an.
+Der zweite Akt beginnt mit der Ratsversammlung, anschliessend spielt die
+Handlung  in  dem  Haus  der  Aquilier  und  endet  vor  dem  Rat.  Dem  Zu-
+schauer  wurde  bei  den  vielen  Schauplatzwechseln  einiges  abverlangt.  Da
+wahrscheinlich  kaum  Requisiten  und  auch  keine  Bühnenbilder  verwendet
+wurden, musste sich das Publikum die Örtlichkeiten weitgehend hinzuden-
+ken. Es dürfte aber nicht weiter schlimm gewesen sein, wenn dies trotz der
+ausführlichen Heroldseinleitungen nicht jedem gelang. Denn in Bullingers
+Spiel stehen die Reden im Vordergrund, sie sind wichtiger als die Handlung
+selbst. 86 Es ist ein didaktisches Stück ohne besondere Theatereffekte 87 oder
+Derbheiten  und  unterscheidet  sich  daher  deutlich  von  den  Spielen  Jakob
+Rufs, die als grosse städtische Spiele in Zürich auf dem Münsterhof insze-
+niert wurden. 88
+
+Zusammenfassung
+
+Die Lucretia (1526/1528) ist nicht das einzige Schauspiel aus der Feder Bul-
+lingers  geblieben.  Neben  einem  nicht  mehr  erhaltenen  Spiel  über  die  drei
+Stadtheiligen Zürichs, Felix, Regula und Exuperantius, schrieb Bullinger eine
+Vorrede, die der lateinischen Aufführung des Susanna-Spiels von Sixt Birck
+1538 in Zürich zugeordnet werden kann. Gegenüber Hans Sachs, der etwa
+zur gleichen Zeit ein Lucretia-Spiel verfasste, verwendet Bullinger als Quelle
+neben Livius auch die Antiquitates Romanae von Dionysios von Halikarnas-
+sos. Dieses Werk lag zur Abfassungszeit der Lucretia lediglich in zwei Inku-
+nabeln vor. Bullinger gestaltet das Lucretia-Spiel als Lehrstück, in dem die
+Zuschauer oder Leser in erster Linie durch lange politische Reden in die Po-
+
+84 Lucretia 45 V. 13 und 48 V. 1.
+85 Lucretia 58 V. 26.
+86 Vgl. Michael 201.
+87 Einzige Höhepunkte dürften wohl der Selbstmord Lucretias, die Vertreibung der Tarquinier
+(falls beides überhaupt dargestellt wurde) und das Auftreten des «Fryhett» beim «pensioni-
+schen mool» gewesen sein. Vgl. Lucretia 52 V. 22, 58 V. 26 und 79 V. 11 ff.
+Jakobs Rufs Spiele sind durchzogen mit «Botz»-Flüchen. Auch spart er nicht an derben Sze-
+nen, wie beispielsweise das Streitgespräch zwischen Koch und Köchin in Adam und Eva
+zeigt. Die einzelnen Szenen werden durch Musikeinlagen aufgelockert. Dem Publikum dürf-
+ten vor allem die Teufel gefallen haben, die – ausgerüstet mit Blasebälgen – mit lautem Ge-
+schrei auftraten. Vgl. Adam und Eva 167 V. 5647–168 V. 5679, 135 V. 4569 und 136 Regiean-
+weisung nach 4614.
+
+88
+
+90
+
+Zwingliana XXXIII, 2006
+
+Heinrich Bullingers Rezeption des Lucretia-Stoffes
+
+litik eingeführt werden und die moralischen Massstäbe, an die sich der homo
+politicus halten sollte, in Brutus als Exempel vorgeführt bekommen. Diony-
+sios von Halikarnassos war ihm dafür im zweiten Akt die ergiebigere und
+wichtigere Quelle. Indem Bullinger seine politischen Aussagen in die Form
+eines Schauspiels hüllt, wählt er ein Kommunikationsmedium mit grösstem
+performativem Potential, das sich am besten zur Didaxe sowohl der Spielen-
+den als auch eines breiten Publikums eignet. Bullingers Spiel steht unter dem
+Einﬂuss des frühen politischen Spiels Von den alten und den jungen Eidge-
+nossen (1514)  und  hebt  sich  hinsichtlich  seiner  Kürze  und  der  fehlenden
+Theatereffekte deutlich von den zeitgenössischen städtischen Spielen ab, die
+nicht nur belehren, sondern auch unterhalten wollten.
+
+Anja Buckenberger, Zürich
+
+Zwingliana XXXIII, 2006
+
+91
+
+Anja Buckenberger
+
+92
+
+Zwingliana XXXIII, 2006
+
+

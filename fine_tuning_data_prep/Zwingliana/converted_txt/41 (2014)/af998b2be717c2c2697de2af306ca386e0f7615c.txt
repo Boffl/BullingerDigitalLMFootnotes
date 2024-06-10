@@ -1,0 +1,1585 @@
+ISSN 0254–4407 – Zwingliana 41 (2014), 1–33
+
+Remembering Jerome and
+
+Forgetting Zwingli
+
+The Zurich Latin Bible of 1543 and
+
+the Establishment of Heinrich
+
+Bullinger’s Church 1
+
+Bruce Gordon
+
+In early 1543, as relations between Swiss and German Protestants
+reached their nadir, the Zurich printer and publisher Christoph
+Froschauer produced a folio Latin Old Testament, Apocrypha, and
+New Testament.2 This handsome volume was not an edition of the
+Vulgate, which was by no means despised by Reformed Protestants
+
+1 The following is a reworked and extended version of a lecture delivered in the
+theological faculty of Zurich University on the occasion of my receiving an honorary
+doctorate in April 2012. I wish to express my most heartfelt gratitude to the members of
+the faculty for this honour. In particular I wish to thank Peter Opitz, Christian Moser,
+and Christoph Uehlinger, the Dean. I am also grateful to the members of the audience,
+whose questions and observations I have tried to accommodate in the revisions. Re-
+search for this paper was carried out with the support of the Arts and Humanities
+Research Council of the United Kingdom and by research grants from Yale University. I
+am grateful to the Council and the University for their generosity. I wish also to thank
+Matthew McLean, Jamie Dunn, and Brad Holden for their assistance.
+
+2 Biblia sacrosancta testamenti veteris et novi e sacra Hebraeorum lingua Graeco-
+rumque fontibus, consultis simul orthodoxis interpretibus religiosissime translata in
+sermonem Latinum [...], Zurich: Christoph Froschauer, 1543 (Christian Moser, Theo-
+dor Bibliander [1505–1564]: Annotierte Bibliographie der gedruckten Werke, Zurich
+2009 [Zürcher Beiträge zur Reformationsgeschichte 27], no. B–8.1a/b). On Froschauer
+the standard work remains Paul Leemann van Elck, Die Offizin Froschauer: Zürichs
+berühmte Druckerei im 16. Jahrhundert, Zurich 1940.
+
+2
+
+Bruce Gordon
+
+and was frequently printed in Basel and Zurich.3 The Biblia sa-
+crosanta, rather, was a new translation of the Old Testament and
+the Apocrypha together with a revision of Erasmus’ 1535 Novum
+Testamentum.4 Although the print life of the Zurich Bible was rela-
+tively brief, the translation was widely admired and occupied an
+important place in the continuing efforts of Protestants to render
+scripture into Latin for the use of scholars, clergy, and educated
+laity.5
+
+Yet, as the greatest intellectual achievement of the Zurich church
+by the early 1540s, there was something curious about the Latin
+Bible with its extensive prefaces and apparati. Searching through
+the prefatorial material yields no mention of the most prominent
+figure of the Zurich reformation, Huldrych Zwingli. The cause of
+this omission lies with the project of Heinrich Bullinger to rebuild
+the Zurich church after the disastrous defeat at Kappel in 1531.6
+The new Bible was to be the supreme expression of a Reformed
+order defined by piety, learning, moderation, and institutional in-
+tegrity. To make this change be possible, a subtle break with the
+
+3 See Urs B. Leu, The Book- and Reading-Culture in Basle and Zurich During the
+Sixteenth Century, in: Malcolm Walsby and Graeme Kemp (eds.), The Book Triumph-
+ant: Print in Transition in the Sixteenth and Seventeenth Centuries, Leiden 2011 (Li-
+brary of the Written Word 15), 295–319.
+
+4 The literature on the Zurich Latin Bible is limited. See Claire Gantet, La Religion
+et ses mots: La Bible latine de Zurich (1543) entre la tradition et l’innovation, in:
+Zwingliana 23 (1996), 143–167.
+
+5 Josef Eskhult, Latin Bible Translations in the Protestant Reformation: Historical
+Contexts, Philological Justification, and the Impact of Classical Rhetoric on the Con-
+ception of Translation Methods,
+in: Bruce Gordon and Matthew McLean (eds.),
+Shaping the Bible in the Reformation: Books, Scholars and Their Readers in the Six-
+teenth Century, Leiden 2012 (Library of the Written Word 20), 167–185; Bruce Gor-
+don, The Authority of Antiquity: England and the Protestant Latin Bible, in: The Re-
+ception of Continental Reformation in Britain, ed. Polly Ha and Patrick Collinson,
+Oxford 2010 (Proceedings of the British Academy 164), 1–22.
+
+6 Heinrich Bullinger’s building of the church in Zurich is examined in Hans Ulrich
+Bächtold, Heinrich Bullinger vor dem Rat: Zur Gestaltung und Verwaltung des Zürcher
+Staatswesens in den Jahren 1531 bis 1575, Bern 1982 (Zürcher Beiträge zur Refor-
+mationsgeschichte 12); Bruce Gordon, Clerical Discipline and the Rural Reformation:
+The Synod in Zurich 1532–1574, Bern 1992 (Zürcher Beiträge zur Reformationsge-
+schichte 16); Pamela Biel, Doorkeepers at the House of Righteousness: Heinrich Bullin-
+ger and the Zurich Clergy 1535–1575, Bern 1991 (Zürcher Beiträge zur Reformations-
+geschichte 15). For the »crisis« of the 1530s, see J. Wayne Baker, Church, State, and
+Dissent: The Crisis of the Swiss Reformation, 1531–1536, in: Church History 57
+(1988), 107–120.
+
+Remembering Jerome and Forgetting Zwingli
+
+3
+
+past was essential. The intentional eclipsing of Zwingli was not a
+crude denunciation of a fallen leader. In the polemical wars with
+Lutherans the Zurichers would continue to defend robustly their
+first reformer. In 1536 the letters of Zwingli and Oecolampadius
+were printed by Thomas Platter in Basel, and the text was prepared
+by the Zurich scholar Theodor Bibliander.7 Likewise, translations
+of Zwingli’s last works by Leo Jud appeared in Zurich during the
+1530s.
+
+On the whole, however, Zwingli was not mourned in public.8
+Unlike accounts of the peaceful end of Martin Luther, represented
+by his death mask, or John Calvin, surrounded by his friends,
+Zwingli had not died well. He had fallen in a nighttime raid, sword
+in hand, leading a military campaign many in his city had not
+wanted. His sudden death and the humiliation of Zurich had near-
+ly led to the reversal of the reformation in the city. Zwingli would
+have to be grieved for by his friends in private. In public the young
+Heinrich Bullinger was charged with rescuing the Reformed
+church and restoring the tarnished reputation of the reformation.
+He understood that the name Huldrych Zwingli was simply too
+controversial to be mentioned. The Lutherans, with whom Bullin-
+ger still harboured hopes of agreement, reviled Zwingli, while the
+young John Calvin in Geneva would later make it clear that
+Zwingli’s memory was too divisive, imperiling any possibility for
+Protestant unity.9
+
+Huldrych Zwingli could not be the face of the church Bullinger
+struggled to erect during the 1530s. Restoration was creation and
+formation, requiring a changed narrative that emphasized theo-
+logical continuity with the early church, Christian appropriation of
+classical learning, piety, and transformation through education.
+There was no place for the belligerence of the Zwingli years during
+which the Gospel was deployed to justify coercion and war. With
+ink and paper, the Zurich Latin Bible embodied the essential prin-
+
+7 Ioannis Oecolampadii et Huldrichi Zuingli epistolarum libri quatuor, Basel:
+
+Thomas Platter and Balthasar Lasius, 1536 (Moser, Theodor Bibliander, no. B–5.1).
+
+8 Bruce Gordon, Holy and Problematic Deaths: Heinrich Bullinger on Zwingli and
+Luther, in: Tod und Jenseitsvorstellungen in der Schriftkultur der Frühen Neuzeit, ed.
+Marion Kobelt-Groch and Cornelia Niekus Moore, Wolfenbüttel 2008, 47–62.
+
+9 Bruce Gordon, Calvin, London/New Haven 2009, 207.
+
+4
+
+Bruce Gordon
+
+ciples of Bullinger’s theology and ecclesiology: a church grounded
+on the Word of God and a deeply Christocentric reading of the Old
+Testament. The church in Zurich is presented as standing in God’s
+covenantal relationship with humanity, a firm and faithful body of
+the chosen people united with the past. Bullinger revered history,
+tradition, and institutions, and the 1543 Bible was very much a
+book of the church. Its prefatory material and glosses speak to
+Bullinger’s attempt to balance the principle of sola scriptura with
+the interpretive authority of the church. The Biblia sacrosancta
+was at once doctrinal, catechetical, devotional, and pedagogical in
+character.
+
+Why, one might well ask, did Protestants invest significant in-
+tellectual and financial resources in the production of Latin Bibles?
+The short answer requires us to understand the enduring import-
+ance of Latin for the Reformation churches.10 It was not only re-
+garded as a sacred language, but it was the means by which the
+fruits of Hebrew and Greek scholarship could be conveyed to a
+broader audience, such as the clergy. Theodor Bibliander was to
+write in 1548 that Latin was the closest humanity came to a com-
+mon language. It unites all the others.11
+
+The creation of Protestant Latin Bibles, however, was fraught
+with complications. What, if any, authority could these new trans-
+lation possess? And, crucially, what constituted a proper transla-
+tion? The scholars in Zurich, like Protestant translators in other
+places, found themselves facing the vexing question of how to bal-
+ance humanist learning with doctrinal and ecclesiastical precision.
+This essay examines the formation of the 1543 Bible with particu-
+lar attention to the way in which the Zurich scholars constructed a
+narrative of authority based on their translation, use of patristic
+sources, and the design of the text. The Bible that appeared in
+1543 was only partially a new translation: the Zurichers had pre-
+pared the Old Testament from the Hebrew and the books of the
+
+10 On Latin in the sixteenth century see Ann Moss, Renaissance Truth and the Latin
+Language Turn, Oxford 2003. On the place of Latin in the Reformed churches, see
+Peter Stotz, Heinrich Bullinger (1504–1575) and the Ancient Languages, in: Emidio
+Campi et al. (eds.), Scholarly Knowledge: Textbooks in Early Modern Europe, Geneva
+2008 (Travaux d’humanisme et renaissance 447), 113–138.
+
+11 De ratione communi omnium linguarum et literarum commentarius, Zurich:
+
+Christoph Froschauer, 1548 (Moser, Theodor Bibliander, no. B–12), 30f.
+
+Remembering Jerome and Forgetting Zwingli
+
+5
+
+Apocrypha from the Greek whilst making use of a emended ver-
+sion of Erasmus’ 1535 New Testament. Accompanying the trans-
+lation was an extensive set of prefatorial and paratextual material,
+some of which had already appeared in 1539.
+
+The 1543 Latin Bible had a considerable history. During the
+1520s under Huldrych Zwingli a group of scholars had begun
+work in Zurich on the interpretation of scripture, forming a body
+known as the »Lectorium« or »Prophezei«.12 What distinguished
+the city on the Limmat in these early years of the Reformation was
+a group of men skilled in the ancient languages who were dedi-
+cated, following the principles of Erasmus, to the dissemination of
+the Word of God according to the ideal of ad fontes.13 Indeed,
+many of them had emerged from Erasmus’ circle in Basel. Among
+the figures involved were Zwingli himself, Konrad Pellikan, who
+had been recruited from Basel, Jakob Ceporin, and Leo Jud. In
+brief, this learned fraternity met mornings at 8 am in the Gross-
+münster to read the Bible, beginning in 1525 with Genesis. Those
+gathered included the members of the chapter, the clergy of the
+city, the more advanced students, and some ministers from the
+rural areas. The sessions would open with a reading of the Vulgate
+by a student, signifying the high authority of the Latin Bible, which
+was respectfully attributed to Jerome. Initially Ceporin, succeeded
+by Pellikan after his early death in 1526, was responsible for the
+Hebrew, translating the text into Latin and noting the differences
+with the Vulgate. Zwingli read and translated the Septuagint into
+Latin and provided commentary. Leo Jud’s role was to craft a
+vernacular translation that served as the basis for a sermon to the
+people.14
+
+The work of the Prophezei was not only for the education of the
+clergy and laity. It was directed towards the publication of biblical
+commentaries and the translation of the Bible. In March 1529 the
+
+12 On the work of the Prophezei, see Traudel Himmighöfer, Die Zürcher Bibel bis
+zum Tode Zwinglis (1531): Darstellung und Bibliographie, Mainz 1995 (Veröffentli-
+chungen des Instituts für Europäische Geschichte Mainz 154), 213–235.
+
+13 On the emergence of a the south Rhineland biblical school, see Bernard Roussel,
+De Strasbourg a` Baˆle et Zurich: une »e´cole rhe´nane« d’exe´ge`se (ca 1525-ca 1540), in:
+Revue d’histoire et de philosophie religieuses 68 (1988), 19–39.
+
+14 Christoph Zürcher, Konrad Pellikans Wirken in Zürich 1526–1556, Zurich 1975
+
+(Zürcher Beiträge zur Reformationsgeschichte 4), 34–36.
+
+6
+
+Bruce Gordon
+
+Prophetenbibel was printed with an unattributed preface by
+Zwingli; the prophetic books had been studied in the Prophezei
+between 1527 and 1529.15 The emergence of a vernacular bible in
+Zurich involved the gradual shift away from Luther’s translation
+on which the Swiss scholars had initially depended. In 1531
+Froschauer produced a complete Bible that was an astonishing
+achievement, being the first complete vernacular Bible of the Re-
+formation.16 The text, however, was not entirely native to Zurich,
+as the historical books, although revised, were drawn from Lu-
+ther’s translation. To the Pentateuch and prophetic books, how-
+ever, the Zurichers added the poetic books and the Apocrypha,
+freshly translated from the Hebrew and Greek respectively.
+
+This visually stunning Bible of 1531 was highly theological in
+nature, containing a preface by Zwingli and a phalanx of parallel
+texts and annotations (over 14,000). Most remarkable were the
+190 woodcuts by Hans Holbein. Beautiful and theologically atten-
+tive this Bible may have been, but the Zurich translation project
+was by no means exhausted. During the 1530s the vernacular Bible
+continued to be revised with new translations from Hebrew and
+Greek appearing as the Zurich scholars progressed through the
+books of the Bible.17 By the middle years of the 1530s the Zurich
+scholars had produced their own translations of all the biblical
+books, an endeavour overseen by Leo Jud and Konrad Pellikan.
+
+Contemporaneous with the work on the vernacular Bibles was a
+concentration on Latin biblical commentaries.18 Zwingli had trans-
+
+15 Edwin Künzli, Vorwort zur Vorrede zur Prophetenbibel, in: Huldreich Zwinglis
+
+sämtliche Werke, vol. VI/2, Zurich 1968, 283–288.
+
+16 The standard work is Himmighöfer, Die Zürcher Bibel, esp. 368–421.
+17 Although Froschauer continued to print Bibles during the 1530s, a full revision of
+the 1531 Bible came in 1539/40 after the arrival in Zurich of the Jewish convert Mi-
+chael Adam, who worked with Jud and Pellikan. In the 1540 Bible the concordance
+prepared for 1536 and 1538 printings was included. Johann Jakob Mezger, Geschichte
+der deutschen Bibelübersetzungen in der schweizerisch-reformierten Kirche von der Re-
+formation bis zur Gegenwart, Basel 1876, 119–121.
+
+18 On Zwingli’s exegesis, see Fritz Büsser, Zwingli, the Exegete: A Contribution to
+the 450th Anniversary of the Death of Erasmus, in: Probing the Reformed Tradition:
+Historical Studies in Honor of Edward A. Dowey, ed. Elsie McKee, Louisville 1989,
+175–196; R. Gerald Hobbs, Zwingli and the Study of the Old Testament, in: Huldrych
+Zwingli (1484–1531): Legacy of a Radical Reform, ed. Edward J. Furcha, Montreal
+1985, 144–178; Gerhard Krause, Zwinglis Auslegung der Propheten, in: Zwingliana
+11/4 (1960), 257–265; Edwin Künzli, Zwingli als Ausleger von Genesis und Exodus,
+
+Remembering Jerome and Forgetting Zwingli
+
+7
+
+lated into Latin with commentary the books of Isaiah, Jeremiah,
+and Lamentations, while his exegesis of Genesis and Exodus ap-
+peared after his death. As Peter Opitz has explained, »Zwingli’s
+›exegetical‹ Old Testament writings can only be characterized as
+genuine commentaries in a limited sense, however, since the ex-
+planations take various forms. Often they consist merely of ex-
+planations of words that draw on comparisons of usage in other
+passages, as well as on the Septuagint and the Vulgate. Zwingli’s
+goal is evidently to avoid standing between the text and its audi-
+ence with his exegetical comments, but rather to let the text
+speak.«19 This approach would be radically altered by Zwingli’s
+successors. Although he was a competent Hebraist, Zwingli had a
+high view of both the Vulgate and the Septuagint and was deeply
+attached to them.20 This accompanied a suspicion of the Masoretic
+text grounded in a worry that the use of rabbinic sources would
+corrupt the Christian message. He had Konrad Pellikan write to
+Kaspar Hedio following the appearance of his Hosea commentary
+to express concern about the effects of Judaizing.21
+
+The tension over the use of rabbinic sources troubled the Zurich
+church.22 Although Pellikan was one of the leading Hebraists of his
+day, he remained wedded to the use of the Vulgate, as was evident
+in his major work, a commentary on the whole of the Bible (Com-
+mentaria bibliorum), printed between 1532 and 1535.23 He used as
+
+Zurich 1950; Max Lienhard, Aus der Arbeit an Zwinglis Exegetica zum Neuen Testa-
+ment: Zu den Quellen der Schriftauslegung,
+in: Zwingliana 18/4–5 (1990/1991),
+310–328; George R. Potter, Zwingli and the Book of Psalms, in: Sixteenth Century
+Journal 10/2 (1979), 43–50.
+
+19 Peter Opitz, Zwingli’s Exegesis of the Old Testament, in: Magne Saebø (ed.),
+Hebrew Bible/Old Testament: The History of its Interpretation, vol. 2, Göttingen 2008,
+422f.
+
+20 On the complicated relationship of the Septuagint and the Vulgate, see Paul B.
+Decock, Jerome’s Turn to the Hebraica Veritas and his Rejection of the Traditional View
+of the Septuagint, in: Neotestamentica 42/2 (2008), 205–222.
+
+21 Opitz, Zwingli’s Exegesis of the Old Testament, 476.
+22 Essential reading is Stephen G. Burnett, Christian Hebraism in the Reformation
+Era (1500–1660): Authors, Books, and the Transmission of Jewish Learning, Leiden
+2012 (Library of the Written Word 19), esp. 11–47: »Birth of a Christian Hebrew
+Reading Public«.
+
+23 On Pellikan’s Commentaria, see Zürcher, Konrad Pellikans Wirken, esp. 85–152;
+R. Gerald Hobbs, Conrad Pellican and the Psalms: The Ambivalent Legacy of a Pioneer
+Hebraist, in: Reformation and Renaissance Review 1 (1999), 72–99. See also R. Gerald
+
+8
+
+Bruce Gordon
+
+his text the Vulgate, which he attributed to Jerome, claiming that
+he would depart from the church father only when required by the
+Hebrew.24 In his preface he stated that he would have been content
+with the Vulgate as it was but the printer Froschauer and his col-
+leagues pressed him to revise the text.25 His commentary also re-
+flected the change in direction in Zurich biblical scholarship after
+Zwingli’s death in 1531. In his preface Pellikan expressed concern
+that the work of the Prophezei had been overly concerned with
+grammatical questions. In contrast, his commentary was directed
+at educating the clergy and would be, therefore, written in simple
+Latin and focus on theological and pastoral issues. His rule for
+correcting the Latin proved highly conservative as he made rela-
+tively few alterations, and when he did emend the text the changes
+were strikingly in line with the Latin Bible of Sanctes Pagninus, the
+Dominican scholar of Lyon who produced a Latin translation in
+1528.26
+
+Pellikan offered an extensive treatment of how Christians should
+read Jewish authors.27 The providential role of the printing press, a
+theme stressed in the preface, had, in his view, made the Jewish
+texts available in order that one might learn more clearly the dic-
+tion and grammar of the language.28 The Jewish authors, however,
+
+Hobbs, Pluriformity of Early Reformation Scriptural Interpretation, in: Saebø, Hebrew
+Bible, 482–484.
+
+24 Pellikan, like Zwingli, was deeply attached to the Vulgate because of its familiar-
+ity. In the preface to his Commentaria he wrote, »please God the popular translation
+continue in venerable authority amongst the Christian people, and that this one we have
+done be compared with it«. Cited from Hobbs, Pluriformity, 485.
+
+25 Hobbs, Pluriformity, 485.
+26 Biblia: habes in hoc libro prudens lector utriusque instrumenti novam translati-
+onem aeditum a reverendo sacrae theologiae doctore Sancte Pagnino Lucensi [...], [Ly-
+on: Antoine du Ry], 1528.
+
+27 See the review article by Jonathan Karp, Jews, Hebraism, and the Reformation
+World, in: Reformation 12 (2007), 177–190; Heiko A. Oberman, Discovery of Hebrew
+and Discrimination Against the Jews: The Veritas Hebraica as Double-Edged Sword in
+Renaissance and Reformation, in: Germania Illustrata: Essays on Early Modern Ger-
+many Presented to Gerald Strauss, ed. Andrew C. Fix and Susan C. Karant-Nunn,
+Kirksville, MO 1992, 19–34. See also the essays in: Hebraica Veritas? Christian Hebra-
+ists and the Study of Judaism in Early Modern Europe, ed. Allison P. Coudert and
+Jeffrey S. Shoulson, Philadelphia 2004, esp. Stephen G. Burnett, Reassessing the »Basel-
+Witttenberg Conflict«: Dimension of the Reformation-Era Discussion of Hebrew Schol-
+arship, 181–201.
+
+28 Commentaria Bibliorum et illa brevia quidem ac catholica, eruditissimi simul et
+
+Remembering Jerome and Forgetting Zwingli
+
+9
+
+provided nothing that pertains to the truth of dogma as they were
+ignorant of Christ, and even cursed him. As they were blinded by
+God, so their eyes were closed to the truth of scripture. Their
+teachings had many shortcomings, and their Chaldean translations
+and paraphrases contained the errors found in their commentaries.
+The Talmudic fables should be banished from the Christian re-
+public.29
+
+Pellikan’s contribution to Zurich biblical culture was enormous.
+The Commentaria went through three printings. Most significant-
+ly, it provided the theological basis for the Zurich church in the
+period after the Kappel War of 1531 and Zwingli’s sudden death.
+As the teacher of Hebrew in the Lectorium, Pellikan set his mark
+on the way in which the Bible was to be read, and the extensive
+notes that accompanied his Latin text formed a foundation for the
+theological shape of the 1543 Bible. But he did not work alone. In
+1531 his erstwhile student Theodor Bibliander arrived in the city
+from Basel.30 A native Swiss, Bibliander had also studied with
+Oecolampadius, who was to prove an influential master. Oecolam-
+padius was bold and polemical and insisted on translating from the
+Hebrew, creating fresh Latin versions. Pellikan, as we have seen,
+shared with Zwingli a reverence for the Vulgate.
+
+Bibliander took up the position of professor of Old Testament,
+though he seems to have shared the task with Pellikan; it would be
+misleading to assume that one was a theologian and the other a
+grammarian. In 1535 Bibliander produced a Hebrew grammar,31
+while Pellikan was writing his very theological commentary. Bib-
+
+piissimi viri Chuonradi Pellicani Rubeaquensis, qui et Vulgatam commentariis inseruit
+aeditionem, sed ad Hebraicam lectionem accurate emendatam, [Zurich: Christoph
+Froschauer, 1532–1535], A4v.
+
+29 Commentaria Bibliorum, A4v. On Pellikan’s anti-Jewish sentiments, see Zürcher,
+
+Konrad Pellikans Wirken, 209–215.
+
+30 On Bibliander, see Christine Christ-v. Wedel, Theodor Bibliander in seiner Zeit,
+in: Christine Christ-v. Wedel (ed.), Theodor Bibliander 1505–1564: Ein Thurgauer im
+Gelehrten Zürich der Reformationszeit, Zurich 2005, 19–60. On Bibliander’s teaching
+Anja-Silvia Goeing, Vernünftig unterrichten: Bibliander als Lehrer, in Christ-v. Wedel,
+Theodor Bibliander, 61–82.
+
+31 Institutionem grammaticarum de lingua Hebraea liber unus, Zurich: Christoph
+Froschauer, 1535 (Moser, Theodor Bibliander, no. B–4). On Bibliander’s Hebrew gram-
+mar, see Anja Silvia-Goeing, Establishing Modes of Learning: Old and New Hebrew
+Grammars in the 16th Century, in: Campi et al., Scholarly Knowledge, 157–182.
+
+10
+
+Bruce Gordon
+
+liander delivered his lectures on the Old Testament, which were
+attended by the leading churchmen in Zurich.32 To give a sense of
+the cross-pollination taking place within the city – it is likely that
+much of the material in Pellikan’s notes for his commentary came
+from the lectures held by Bibliander. We know that when he ar-
+rived at a particularly troublesome passage in Ezekiel concerning
+the temple vision (ch. 40–48) Pellikan turned to Bibliander for
+assistance.33
+
+Bibliander’s distinctive voice was also heard in 1534 when he
+produced a translation with commentary of the Old Testament
+prophet Nahum, very much in the style of Oecolampadius.34 Quite
+arresting was Bibliander’s attitude towards the Vulgate. Whereas
+Pellikan had made use of the Vulgate in his commentary, Biblian-
+der set his own translation alongside Jerome’s, as his teacher Oeco-
+lampadius had done, not with the intention of revision, but to
+present an entirely different rendering of the prophet. In his prefa-
+tory letter, Bibliander argued that Nahum had not been translated
+by learned men of his age.35 In other words, it had not been treated
+by the humanists. This prophetic book, which speaks of God’s
+judgement upon the nations, Bibliander added, was most appro-
+priate for his own turbulent times, and should, therefore, be pu-
+blished in the interest of the church. As for his own role as trans-
+lator, he adopted a guarded position:
+
+»But I am not unaware that I am unequal with other divine translators,
+inasmuch as having been more fluent they are suited to the ears of our age,
+and that the majority also recommend shorter annotations, and indicate
+their opinions through pin pricks (as I might say). Indeed since our labour
+already seems to carry moderate influence in sacred letters or among those
+who have made a little progress, I have preferred to consult the work of
+those rather than my private opinion and to withdraw my own boldness in
+letters rather than to thrust it forth into the most sacred laws of charity«36
+
+32 Ernst Staehlin, Die biblischen Vorlesungen Theodor Biblianders in einer Abschrift
+
+seines Bruders Heinrich Bibliander, in: Zwingliana 7/8 (1942), 522–526.
+
+33 Moser, Theodor Bibliander, nos. B–2.1–3.
+34 On the text and Bibliander’s translation method, see Bruce Gordon, Christo te-
+stimonium reddunt omnes scripturae: Theodor Bibliander’s Oration on Isaiah (1532)
+and Commentary on Nahum (1534), in: Gordon/ McLean, Shaping the Bible, 107–142.
+35 Propheta Nahum iuxta veritatem Hebraicam redditur, Zurich: Christoph Frosch-
+
+auer, 1534 (Moser, Theodor Bibliander, no. B–3), 2r.
+
+36 Propheta Nahum, 2r–v.
+
+Remembering Jerome and Forgetting Zwingli
+
+11
+
+Bibliander’s tone anticipated the Zurich Latin Bible of a decade
+later in the manner that deference to other translators and sense of
+humility were tempered by the assurance that other scholars had
+been consulted in the preparation of the text. Further, the defen-
+sive stance belied a confidence in the linguistic achievements of the
+commentary. Concerning the nature of his translation, Bibliander
+provided a sense of purpose.
+
+»I have at the same time raised my spirit to the divine explication of this
+writer Nahum, and also I have translated him anew into the Latin tongue,
+not only having imitated the special quality of the Hebrew and Roman
+words, but also having attempted to imitate the strength of
+their
+eloquence.«37
+
+For Bibliander, the translator possessed a prophetic spirit, for he
+»raised his spirit to the divine explication of this writer [Nahum]«.
+The translator acquires a distinctive voice, obliged both to achieve
+a fair rendering of the original Hebrew but also to provide the
+reader with good Latin. This claim distinguished his work, Biblian-
+der argued, from the Vulgate occupying the other half of the page,
+which was neither entirely accurate nor appealing Latin. However,
+the relationship to Jerome’s work was more complicated. A new
+translation, according to Bibliander, did not amount to a rejection
+of the Vulgate, which he freely declared to be the Bible of the
+Church. No one should think that he was attempting to replace the
+church father, though in a somewhat veiled critique he commented
+that Jerome was wont to remain a little too close to the Jewish
+sources. He concluded the letter to the reader with an appeal to
+Augustine found in the Zurich vernacular Bibles and later
+referenced by Bullinger in the 1543 Latin Bible. The divine Au-
+gustine held, Bibliander wrote, that it was useful to compare va-
+rious translations, as well as to preserve what is familiar to the
+people, so that out of the collision of many versions the light of
+truth might spring forth more productively.38
+
+Bibliander’s remarks reflect the multiple purposes of biblical
+translation in Zurich in which the ideals of both Jerome and Au-
+
+37 Propheta Nahum, 2v.
+38 Propheta Nahum, 2v.
+
+12
+
+Bruce Gordon
+
+gustine were appropriated. The inclusion of the Vulgate text was
+drawn from Augustine’s argument that what was familiar to the
+church and people should be retained, whatever its shortcomings.
+Bibliander’s translation of Nahum, however, was in the spirit of
+Jerome’s principle of Hebraica veritas, the best possible interpre-
+tation of the original based on sound philology and use of rabbinic
+sources. Zurich sought to balance the two needs: humanist schol-
+arship and pastoral care.
+
+In Zurich the distinctive views of text and translation arose from
+a highly theological approach in which doctrinal instruction was
+embedded in the choice of vocabulary. Both Pellikan’s Commen-
+taria and Bibliander’s Nahum, alongside works by Bullinger and
+Leo Jud, emphasized translation in the service of theological clar-
+ity. Alongside the use of words that carried specific theological
+meaning, the vernacular Bibles were heavily glossed and introdu-
+ced with chapter summaries and extensive prefaces. In the Latin
+works the style of translation followed the principle of »compla-
+natio«, a smoothing of the text in pursuit of elegance and lucidity
+whilst retaining fidelity to the original.39 At all cost an overly literal
+rendering of the original was to be avoided.
+
+The result was a complex set of demands. What developed in
+Zurich stood in uneasy relationship to the first major Protestant
+translation of the Bible into Latin, which had appeared in 1534/35
+in the nearby Swiss city of Basel, and was by Sebastian Münster, a
+former student of Konrad Pellikan.40 This Bible offered a fairly
+literal rendering of the Hebrew together with extensive use of rab-
+binic material – large extracts of Jewish writings were inserted into
+the notes, something that appalled Luther. Münster’s Bible was a
+major achievement in Hebrew scholarship. It first appeared in
+1534 and 1535 in two folio volumes; this diglot text placed the
+Hebrew of Bomberg’s first Rabbinic Bible alongside Münster’s en-
+tirely new Latin translation in parallel columns. Each book of the
+
+39 Hobbs, Pluriformity, 485.
+40 Hebraica Biblia Latina planeque nova Sebastiani Munsteri tralatione, Basel: Jo-
+hann Bebel for Michael Isengrin and Heinrich Petri, 1534/1535. On Münster, see the
+old, but useful biography Karl Heinz Burmeister, Sebastian Münster: Versuch eines
+biographischen Gesamtbildes, Basel 1963; Sophie Kessler Mesguich, Early Christian
+Hebraists, in: Saebø, Hebrew Bible, 268–272; Burnett, Reassessing, 181–201.
+
+Remembering Jerome and Forgetting Zwingli
+
+13
+
+Bible was prefaced by a Latin introduction, and each chapter fol-
+lowed by Münster’s Latin commentary. The translation was a col-
+ossal task, undertaken by a scholar working alone, and was, and
+remained, an immense service to scholars in an age when the com-
+munity of Christian scholars with a genuine mastery of Hebrew
+was miniscule, a bare handful.
+
+First of all, Münster translated literally, substituting word for
+word as best he was able; where was meaning if not in individual
+words? The result was »harsh«, »barbarous«,
+language which
+lacked the sonorous cadences and grammatical precision which a
+generation of Latinate humanists had been trained to practise and
+to esteem. Münster was unrepentant. This translation was by de-
+sign »religious« not »Ciceronian«, and he expressed impatience
+with »delicate Latin ears«; such niceties were appropriate to pro-
+fane literature, and not to Scripture, wherein even the Hebrew
+word order contained mysteries. He utterly rejected the concept of
+eloquence. The language must conform to the mind and spirit of
+the Hebrew peoples, even at the cost of retaining awkward-sound-
+ing Hebrew idioms. To change unnecessarily was to bleed mean-
+ing. Furthermore his annotations glossed every chapter with the
+interpretations of the Jewish mediaeval exegetes: Münster’s ap-
+proach to teaching was to hold nothing back, to trust the discrim-
+ination of the reader. The »obscure and tangled places« in scrip-
+ture could not be fully understood without knowledge of the Heb-
+rew tradition, and, although he anticipated attacks – Johannes Eck
+called him »rabbi Münster« – he intended to mediate this learning
+in service of a Christian readership. Indeed, it was as a combatant
+that he sought through his Bible to assert the Christian interpre-
+tation of the Old Testament, that it prefigured and prophesied the
+messiahship of Christ to any who read it aright.
+
+How, then, did Münster regard Jerome’s Vulgate? Münster, as
+had many before him, pointed to the »innumerable« and »intoler-
+able errors« in the Vulgate translation as the motive for underta-
+king a new version. Yet Jerome for Münster, as for Pellikan and
+Bibliander, remained a model, and a forerunner, and a shield
+against criticism and smears.41 Jerome translated from the Hebrew,
+
+41 On the crucial role of Jerome in early modern biblical discourse, see Scott
+
+14
+
+Bruce Gordon
+
+sought out Jewish teachers, toiled alone.42 Jerome also cautioned
+that Scripture was too important for indulging in stylistic elegan-
+cies. Münster resolved the tension by revering Jerome but denying
+that that he was the author of the Vulgate: one need only look at
+Jerome’s commentaries, in which the mistranslations did not ap-
+pear, to see this. The Vulgate was a patchwork of lesser minds;
+Jerome remained a model and a guide for the translator of Sacred
+Literature.
+
+Münster’s Bible was to appear in an expanded form in 1546, but
+at the end of the 1530s a curious episode took place that demon-
+strated both the strength of the communal approach to biblical
+scholarship that marked the South Rhineland school and the latent
+tensions.43 The Zurich Church, in need of a Latin Bible, sought to
+put together Münster’s text with the New Testament of Erasmus.44
+The Apocryphal books came from the Complutensian Polyglot.
+The Bible appeared in 1539 with an extensive preface by Bullinger
+in which he attacked pagan learning and wrote of »our wisdom«.
+For his part, Münster wrote to Bullinger, thanking him for the
+theological preface he had written in which Münster’s translation
+was praised as »fide optima, dilegentia summa et sudoribus ina-
+estimabilis«.45
+
+Mandelbrote, Origen against Jerome in Early Modern Europe, in: Patristic Tradition
+and Intellectual Paradigms in the 17th Century, ed. Silke-Petra Bergjan and Karla Poll-
+mann, Tübingen 2010 (Spätmittelalter, Humanismus, Reformation 52), 105–135.
+
+42 On Jerome and translation, see Jerome Rebenich, Jerome: The »Vir trilinguis« and
+the »Hebraica veritas«, in: Vigiliae christianae 47 (1993), 50–77; Vincent T. M. Skemp,
+Learning by Example: Exempla in Jerome’s Translations and Revisions of Biblical
+Books, in: Vigiliae christianae 65 (2011), 257–284; Andrew Cain, The Letters of Jer-
+ome: Asceticism, Biblical Exegesis, and the Construction of Christian Authority in Late
+Antiquity, Oxford/New York 2009; Michael Graves, Jerome’s Hebrew Philology: A
+Study Based on His Commentary on Jeremiah, Leiden 2007; Megan Hale Williams, The
+Monk and the Book: Jerome and the Making of Christian Scholarship, Chicago 2006.
+43 See Matthew McLean, Between Basel and Zürich: Humanist Rivalries and the
+
+Works of Sebastian Münster, in: Walsby/Kemp, The Book Triumphant, 270–294.
+
+44 Biblia sacra utriusque testamenti et vetus quidem post omnes omnium hactenus
+aeditiones opera d. Sebastiani Munsteri evulgatum et ad Hebraicam veritatem quoad
+fieri potuit redditum [...] Novum vero non solum ad Graecam veritatem, verum etiam
+ad multorum utriusque linguae et interpretum et codicum fidem opera d. Erasmi Rot-
+terodami ultimo recognitum et aeditum. Additi sunt e LXX versione et Apocryphi libri
+sive Ecclesiastici, qui habentur extra canonem, Zurich: Christoph Froschauer, 1539.
+
+45 In Bullinger’s preface to the 1539 Bible, De Versione Bibliorum. On Bullinger’s
+reliance on other scholars for Hebrew, Stotz, Heinrich Bullinger, 126f. Münster’s letter
+
+Remembering Jerome and Forgetting Zwingli
+
+15
+
+Yet, despite Münster’s pleasure in the adoption of his transla-
+tion, the 1539 Bible presented it in a fashion at odds with his
+intended design. Offered as an octavo, this edition saw Münster’s
+text shorn of the Hebrew-language column which the Latin co-
+lumn translated, shorn of the notes which explained words and the
+interpretations of the rabbis, shorn of its prefatory material, save
+that passage on the ordering of the canonical books. In this form it
+was not fit to serve its intended scholarly purpose. Without the
+annotations, the style of Münster’s translation, so deliberately
+adopted to remove »obscuritas«, served no purpose and could only
+seem awkward alongside the New Testament of Erasmus.46 That
+the edition went ahead in such a form appears to have been the
+will not of the Zürich scholars, and certainly not of Münster, but
+of the Basel printers who had underwritten the first edition of the
+Hebraica Biblia.
+
+Münster’s literal translation was not in line with the thinking of
+Bibliander, and without any annotations the Bible lacked theo-
+logical shape. It was only printed once, but it bore testimony to the
+desire in Zurich church for a Latin translation of both testaments.
+Work on the vernacular Bible had continued apace and by 1540 a
+completely revised translation was printed by Froschauer.47 It was
+at this point that Leo Jud was commissioned to begin work on a
+new Latin edition.
+
+Why, one might ask, was Leo Jud charged with such an import-
+ant task when such leading Hebraists as Pellikan and Bibliander
+were in the city? The answer is more complex than one might
+imagine. Certainly, Pellikan and Bibliander were committed to
+their teaching duties. Jud, for his part, was no novice, having been
+an assiduous translator of biblical, theological, and devotional
+texts for almost twenty years. During the 1530s a stream of ver-
+nacular editions of Erasmus, Thomas a` Kempis, and the medieval
+
+to Bullinger is dated 6 April 1539. A brief note recording this appears in Bullinger’s
+Diarium: Heinrich Bullingers Diarium (Annales vitae) der Jahre 1504–1574, ed. Emil
+Egli, Basel 1904 (Quellen zur schweizerischen Reformationsgeschichte 2), 27.
+
+46 Hebraica Biblia, β5r: the annotations repair any obscurity caused by the use of
+
+Hebraisms in the translation.
+
+47 Die gantze Bibel, das ist, alle Bu¨ cher allts unnd neu¨ ws Testaments den urspru¨ ng-
+lichen Spraachen nach auffs aller treu¨ wlichest verteu¨ tschet, Zurich: Christoph Frosch-
+auer, 1540.
+
+16
+
+Bruce Gordon
+
+writer Ratramnus appeared.48 Jud had been involved with the Pro-
+phezei from the start and was above all responsible for the evol-
+ving translations of the Zurich Bible.49
+
+However, there is more to the story, including an element central
+to the character of the 1543 Bible. The Latin translation was to be
+closely associated with Leo Jud not only because it was largely his
+work, but because he personally symbolized the Bible itself. As we
+shall see, in his preface to the edition, Heinrich Bullinger provides
+a vita of the dead Jud, attributing to him all the ideals of the
+Zurich church. The Jud of the 1543 Bible emerged as the model of
+Zurich scholarship, piety, and moderation. He had been in Zurich
+for the beginning of the reform movement in the early 1520s, sur-
+vived the vicissitudes, and his spirit of learning, pastoral care, and
+humility was an exemplum for Bullinger’s post-Kappel recon-
+structed church. By turning to Jud Bullinger was able to return to
+the origins of the Zurich reformation while embracing the changes
+essential for a new order. Jud was a founding father of the Zurich
+church, but the model he provided was of the scholar pastor, a
+man commemorated for his love of his parishioners, his excellent
+preaching, and careful scholarship. Jud was all the things Bullinger
+wanted to valorize, and, helpfully, he was not Zwingli.
+
+The 1543 Zurich Latin Bible
+
+The Zurich Latin Bible has a fascinating print history. In early
+1543 it appeared in folio from the press of Christoph Froschauer,50
+
+48 On Leo Jud’s translation work see Christian Moser, Ratramnus von Corbie als
+»testis veritatis« in der Zürcher Reformation: Zu Heinrich Bullinger und Leo Juds
+Ausgabe des »Liber de corpore et sanguine Domini« (1532), in: Strenarum lanx: Bei-
+träge zur Philologie und Geschichte des Mittelalters und der Frühen Neuzeit. Festgabe
+für Peter Stotz zum 40-jährigen Jubiläum des Mittellateinischen Seminars der Univer-
+sität Zürich, ed. Martin H. Graf and Christian Moser, Zug 2003, 235–309.
+
+49 Backus has shown how this was reflected in his interpretation of the book of
+Revelation: Irena Backus, Reformation Readings of the Apocalypse: Geneva, Zurich,
+and Wittenberg, Oxford 2000 (Oxford Studies in Historical Theology), 93f.
+
+50 Biblia sacrosancta testamenti veteris et novi, e sacra Hebraeorum lingua Grae-
+corumque fontibus, consultis simul orthodoxis interpretibus religiosissime translata in
+sermonem Latinum [...], Zurich: Christoph Froschauer, 1543 (Moser, Theodor Biblian-
+der, no. B–8.1a/b).
+
+Remembering Jerome and Forgetting Zwingli
+
+17
+
+followed the next year by quarto and octavo editions with much of
+the critical apparatus removed.51 The octavo Biblia has none of the
+prefatory material. The whole text was produced again in Zurich
+in 1550.52 In 1545 the Zurich translation mysteriously appeared in
+Paris from the press of the royal Robert Estienne.53 The edition,
+designated a »nova translatio« without attribution to Protestant
+Zurich, was alongside the text of the Vulgate. The only portions of
+the prefatory material retained were the Compendium and list of
+books. The work became known as the »Vatable Bible« on account
+of the extensive notes included from Franc¸ois Vatable’s lectures by
+his students and was reprinted in Paris by Estienne in 1565.54 In
+1546 Estienne produced an edition of the Psalms with the Vulgate
+and Zurich Latin translations, once more with the notes from Va-
+table’s lectures.55 Perhaps most astonishing was the printing of the
+Vatable Bible in 1584/5 in Salamanca. The parallel Vulgate and
+Zurich Latin translations appeared with the Vatable notes, which
+had been somewhat revised by Francesco Sancho and the theolo-
+gians of Salamanca university. Whether the provenance of the Zur-
+ich translation was known to the Spanish scholars is not known.56
+The Biblia sacrosancta is structured in three parts. The first sec-
+tion contains the prefatory material and the Old Testament, open-
+ing with an Encomium Scripturae sanctae followed by an unsigned
+letter to the reader most likely written by Bullinger on behalf of the
+scholars involved in the translation (Bibliander, Pellikan and
+Gwalther). This letter precedes a modified version of the preface
+Bullinger had written for the 1539 Bible.57 The two prefaces are
+followed by a Compendium et scopus totius sacrae Scripturae
+utriusque Testamenti. The books of the Old Testament were order-
+ed according to a pattern that the Zurich scholars believed to come
+
+51 Moser, Theodor Bibliander, no. B–8.2 (quarto) and B–8.3 (octavo).
+52 Moser, Theodor Bibliander, no. B–8.6.
+53 Moser, Theodor Bibliander, no. B–8.4.
+54 Moser, Theodor Bibliander, no. B–8.7.
+55 Moser, Theodor Bibliander, no. B–8.5.
+56 Moser, Theodor Bibliander, no. B–8.8.
+57 The letter to the reader is entitled, »De operis huius instituto et ratione ad Chris-
+tianum lectorem praefatio«. The preface from the 1539 Bible is »De omnibus sanctae
+scripturae libris eorumque praestantia et dignitate Heinrychi Bullingeri expositio, ad
+lectorem Christianum.«
+
+18
+
+Bruce Gordon
+
+from Cyprian.58 As the preface states, the principal translator was
+Leo Jud, but following Jud’s death in 1542 Theodor Bibliander
+took over the task and was responsible for Ezekiel 40–48, Daniel,
+Job, Psalms 102–150, Ecclesiastes and the Song of Solomon.59 As
+noted above, Bibliander’s translation of Nahum was reprinted in
+the 1543 Bible.
+
+The second part of the Bible was the work of one man, Petrus
+Cholinus, who taught Greek in Zurich. He took responsibility for
+the Apocryphal books, or the »ecclesiastici libri« as they were
+named, for which he wrote an extensive preface dated 30 October
+1542. The third part of the Bible is the New Testament, which is a
+slightly revised version of the 1535 Erasmus New Testament and
+annotations. The work on the New Testament was largely under-
+taken by Rudolph Gwalther, though Cholinus collaborated on the
+task until his death from the plague. A remarkable feature of the
+New Testament was Rudolf Gwalther’s Argumenta, a verse sum-
+mary of the whole Bible, designed to be learned by heart. Our
+discussion of the Bible will focus on its prefatory material with
+particular attention to the new preface prepared in 1543.
+
+The Zurich Latin Bible was printed with two different title
+pages. One bore the coat-of-arms of the city of Zurich and the
+other Froschauer’s printer’s mark. The printing house was closely
+connected to the ruling magistrates and the presence of the city’s
+arms on the title page only reinforced the official nature of the
+Bible. Also on the title page is a quotation from Romans 15:4:
+»For whatsoever things were written aforetime were written for
+our learning, that we through patience and comfort of the scrip-
+tures might have hope.«
+
+The prefatory material opens with the Encomium Scripturae
+sanctae, which is a series of quotations from scripture emphasizing
+the continuity between the two Testaments. The choice of term
+»encomium« is most intriguing, for the words of the Bible are used
+
+58 Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1–2
+Samuel, 1–2 Kings, 1–2 Chronicles, Ezra, Nehemiah, Esther, Isaiah, Jeremiah, Lamen-
+tations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habak-
+kuk, Zephaniah, Haggai, Zechariah, Malachi, Job, Psalms, Proverbs, Ecclesiastes, Song
+of Songs.
+
+59 See Moser, Theodor Bibliander, 65.
+
+Remembering Jerome and Forgetting Zwingli
+
+19
+
+to pour praise on scripture. The authors are clear that the begin-
+ning point of their Bible is God’s Word. The biblical passages
+speak to God’s intervention in the world through his communi-
+cation. God has spoken, issued his commands and it is the duty of
+the people to obey. »From heaven he made you hear his voice to
+discipline you. On earth he showed you his great fire, and you
+heard his words from out of the fire« (Deut 4:36), and »Keep his
+commands and obey him; serve him and hold fast to him« (Deut.
+13:4). There are also quotations from psalm 22 and 2 Timothy.
+Likewise, the Encomium quotes from Luke 16:29: »Abraham re-
+plied,
+let them listen to
+them‹«. The passages chosen for the Encomium reflect profound
+themes in Zurich theology and ecclesiology: the one covenant
+uniting the two Testaments; the Christological reading of the Old
+Testament; and the emphasis on prophetic authority.
+
+›they have Moses and the prophets;
+
+Following the Encomium is an anonymous and lengthy apology
+for the Zurich Bible (running to nine folio sides) likely written by
+Heinrich Bullinger and entitled De operis huius institutio et rati-
+one. This preface will form the focus of the remaining part of the
+paper. The theological character of the Bible is revealed in the
+order of the prefatory material. First, in the Encomium scripture
+authenticates itself. De operis provides the historical and scholarly
+justification of the Zurich Bible. The second preface treats the na-
+ture of scripture and provides an account of the books of the Bible.
+Finally, in the Compendium the Zurich scholars present a state-
+ment of faith that forms the foundation of their theological reading
+of the Bible.
+
+Let us turn to the first preface. De operis huius institutio et
+ratione details the methods employed in the preparation of the
+Bible and addresses the crucial objections which the Zurichers an-
+ticipated to a new Latin translation. A key rhetorical strategy in De
+operis was for the Zurichers to allow certain church fathers, not-
+ably Jerome and Augustine, to speak on behalf of their church. The
+tone is set as the preface opens with a quotation from Jerome’s
+letter to Pope Damasus:
+
+»Pious work, yet perilous presumption, to change the old and aging lan-
+guage of the world, to carry it back to infancy, for to judge others is to
+invite judging by all of them. Is there indeed any learned or unlearned man,
+
+20
+
+Bruce Gordon
+
+who when he picks up the volume in his hand, and takes a single taste of it,
+and sees what he will have read to differ, might not instantly raise his voice,
+calling me a forger, proclaiming me now to be a sacrilegious man, that I
+might dare to add, to change, or to correct anything in the old books?«60
+
+The translators of the Zurich Bible fully expected to be attacked
+for their efforts, but this response only justified their enterprise
+because it associated them with Jerome, who was fiercely criti-
+cized. The appeal to Jerome was subtle and multifaceted. Princi-
+pally, Jerome was a model of scholarship and piety, and the Zur-
+ichers sought to cast their biblical work in his image. This action,
+however, was not without a degree of tension as the status of the
+Vulgate was somewhat ambiguous. On the one hand, the Zurich
+scholars, like Münster, were wary of suggesting that the Vulgate as
+received was Jerome’s work. Yet, on the other, they spoke of the
+common version of the Latin Bible that was to be honoured. Fur-
+ther, although Bullinger sought protection behind the words of
+Jerome and Augustine, there was a clear sense that the translation
+produced in Zurich was superior in terms of scholarship. This
+posturing was precisely what Bibliander had done in his Nahum
+commentary. The Zurich Bible was rooted in antiquity but its
+quality was owing to the humanist scholarship of the sixteenth
+century.
+
+Nevertheless, Jerome was the model to be emulated and the Zur-
+ich scholars identified key principles they had appropriated from
+the father: that he had not undertaken the translation for any per-
+sonal gain, but rather because the pope had commissioned him;
+that he had done it in great love; that he had not added or sub-
+tracted anything to sacred scripture; and that he had worked from
+the original Hebrew and Greek.61 The Zurichers aligned them-
+selves with these ideals, arguing that they did not have a private
+desire for a translation but had the tasked urged on them by
+»pious brothers«. Many leaders of the churches requested a new
+translation, and at first they had demurred, not because they
+thought themselves unequipped, but on account of their belief that
+others were better positioned to complete the task. Bullinger came
+
+60 Biblia sacrosancta, α2r. Translation at http://www.ccel.org/ccel/pearse/more-
+
+fathers/files/jerome preface gospels.htm.
+
+61 Biblia sacrosancta, α2r.
+
+Remembering Jerome and Forgetting Zwingli
+
+21
+
+to his central argument in justifying a new translation. There was
+not merely one translation from the Hebrew and Greek into Latin
+in existence.62 No form of writing, the preface continued, is more
+open to calumnies than translation, for even the learned disagree
+and are in love with their own versions. No one can know every-
+thing, Bullinger wrote, and 1 Corinthians 13:9 (»we know in part
+[...]«) was quoted to support the Zurich contention that it was not
+sufficient to have one Bible, because no one individual or group of
+scholars possess the ability to produce a definitive version.
+
+The preface extends the argument. Not only should there be
+more than one translation, but there was something deficient in the
+existing Latin editions. Those who had undertaken translations
+from the Hebrew scriptures should be praised for their efforts, yet
+there were difficulties. Some had remained too close to the Sep-
+tuagint, a sensitive point given Zwingli’s veneration of the inspired
+ancient Greek translation. Others had followed too zealously the
+old Latin translations, while others had been too literal in their
+rendering of the Hebrew.63 The reference to the Latin translations
+meant the Vulgate.
+
+The translation of Sebastian Münster fell in the final category,
+and although it is clear from the annotations of the Zurich Bible
+that his work was heavily consulted and referenced, Jud, Biblian-
+der, and Pellikan rejected his rendering of Hebrew as suitable for
+reading. The consequence of these shortcomings, according to the
+preface, was the failure to produce a coherent Latin translation.
+These remarks from the preface are all the more striking if we
+consider their implication for Zurich biblical culture. Bullinger was
+arguing that there was a place for a new Latin translation because
+no satisfactory one existed. Quite consciously he was distinguish-
+ing the 1543 Bible from what had come before: the reliance on the
+Septuagint (Zwingli), the Vulgate (Pellikan), and literal translation
+(Münster).
+
+The Zurichers uncoupled Jerome from the Vulgate in order to
+associate him with their translation project. The connection be-
+tween Jerome and the Zurich Bible was made explicit in the por-
+
+62 »Praterea extare hodie non unam Bibliorum ex hebraerorum et Graecorum fon-
+
+tibus depromptam translationem Latinam.« Biblia sacrosancta, α2r.
+
+63 Biblia sacrosancta, α2v.
+
+22
+
+Bruce Gordon
+
+trayal of Leo Jud in the preface. To put it briefly, the vita of Jud
+was crafted to cast him in the likeness of the great translator of the
+Bible. Like Jerome, Jud was undaunted by detractors and followed
+the saying of the church father that »in the temple of God each one
+offers what he is able, some gold, some silver, some precious
+stones, others linen and purple and scarlet cloth; for us, it is fine if
+we offer the skin and hair of goats.«64 Jud also made reference to
+another passage of Jerome, which he adopted as his own. »There
+are different gifts and talents of God, and cursed be the one who
+does not diligently busy himself with his entrusted talent; and so,
+in my poverty, I will attempt to be of some profit, if I am able«.65
+Bullinger put the words of Jerome into Jud’s mouth; he not only
+translated according to the manner of the church father, but he
+spoke with the same voice. Jerome emerged as the patron of the
+Zurich Bible, turning the argument of the reformers’ opponents on
+its head. Rather than causing offence by offering a rival Latin
+translation, they had followed the legacy of Jerome, who, as they
+interpreted him, advocated a plurality of editions.
+
+The Leo Jud presented in the preface possessed many of the
+qualities of Jerome. Jud studied the Latin and Greek editions, as
+well as orthodox commentators of the Church, and after more
+than eighteen years of labour began to produce a new translation
+of the Old Testament from the Hebraica veritas. In his translation
+project he read the rabbinic interpretations, old and recent Chris-
+tian writers, and did philological work. The preface described him
+as having a stack of books »like a forest«. All of this, and this
+point is crucial, was for the use of the Church (»ecclesia utilita-
+tem«). Jud consulted with his colleagues, and when they corrected
+him he took it with good grace. He was aided by the work and
+diligence of the most renowned men, meaning Bibliander and Pel-
+likan, who were experts in the Hebrew language and knew the
+commentaries. Like Jerome, according to the preface, he did not
+omit, distort, corrupt, or shorten the text.
+
+The portrait of Leo Jud (or imitatio) presented the Zurich prin-
+ciples of biblical translation.66 Jud’s primary goal in translation
+
+64 Biblia sacrosancta, α2v.
+65 Biblia sacrosancta, α2v.
+66 On imitation and exemplarity, see Ann Moss, Literary Imitation in the Sixteenth
+
+Remembering Jerome and Forgetting Zwingli
+
+23
+
+was the promotion of virtue and true piety in the service of what
+was useful to the many. According to the preface, he sought above
+all to be faithful to the Hebrew, but was not »superstitious« in his
+translation. This claim meant that he would translate the sense as
+faithfully as possible without excessive attachment to the literal
+meaning of words. For the most part he made use of plain lan-
+guage, but there were other considerations. Well-known words of
+Apostolic usage (such as Benedictus, gratia, etc), familiar to the
+church and the people, were retained, reflecting a pastoral quality
+to the translation.
+
+This position, of course, had also been Erasmus’s. The preface
+stressed the importance of plainness in translation, for ‘God hates
+proud eloquence’, preferring holy moderation joined with religion
+in speech.67 Such claims convey the ambivalent attitude towards
+eloquence, which had to be used appropriately. Such an acknow-
+ledgement of the difficulties in rendering of the original into Latin
+led Bullinger to account for the annotations accompanying the
+translation. As no one human translation could be flawless the
+notes were presented to aid the reader to access the simplicity of
+the biblical word. As a translator, Jud smoothed (»complanatio«)
+out the bumps, filled in the holes. The Zurich Bible sought a bal-
+ance between Latin that was easily accessible to its intended audi-
+ence, the clergy, and fidelity to the original language. As one would
+expect of humanist scholars the language of classical rhetoric is
+evident. There is a particular emphasis on perspecuitas, the com-
+prehensibility of individual words and of words joined together in
+a sentence. The result was to be a text that was at once readable
+and captured the literary forms of the Hebrew. The crucial word
+was moderation (»mediocritas«).
+
+Century: Writers and Readers, Latin and French, in: The Cambridge History of Literary
+Criticism, 1st ed., vol. 3, Cambridge 1999, 107–118; Timothy Hampton, Writing from
+History: The Rhetoric of Exemplarity in Renaissance Literature, Ithaca, NY 1990, par-
+ticularly chapters 1 and 2; Izora Scott, Controversies over the Imitation of Cicero in the
+Renaissance: With Translations of Letters between Pietro Bembo and Gianfrancesco
+Pico »On Imitation« and a Translation of Desiderius Erasmus, »The Ciceronian (Cice-
+ronianus)«, New York, NY 1910.
+
+67 Biblia sacrosancta, α3r.
+
+24
+
+Bruce Gordon
+
+Central to the preface was an account of Leo Jud’s death, which
+involved a confession of faith and a commission to his fellow min-
+isters. The Christological character of the confession is unmistak-
+able:
+
+»That Jesus Christ (he who is of one essence with the Father and the Holy
+Spirit) is essentially God, but also true man, from God the father, following
+his many promises, sent into the world, from the Holy Spirit in the body
+and in the womb of the pure Virgin Mary received and born. He is the true
+and expected Messiah, the one king, the great high priest, and redeemer of
+the world, who though guiltless and without sin suffered for our sins, with
+his precious blood washed us from our sins, and reconciled us with his
+father, with his living, powerful resurrection brought us damned men to life
+again in our nature and through our service.«68
+
+This confession is an image of Zurich polity. The heart of the
+translation work is Christ, who is to be found throughout the Old
+Testament. The scene of Jud’s death represents the communal na-
+ture of biblical scholarship. Gathered around the bed and under
+the guidance of the Holy Spirit the brethren are admonished by a
+dying colleague to continue the work. But something else highly
+significant was taking place. The Zurichers were appropriating Jer-
+ome. Whereas the church father had been the model of the single
+scholar laboring aware in solitude, Jud was presented in the con-
+text of communal biblical scholarship of the Swiss model. Jerome,
+therefore, was sanctioning their work and their means of working.
+Jud passed the baton to Theodor Bibliander to finish the Bible
+project. Bibliander was charged with completing the last chapters
+of Ezekiel, Daniel, Job, psalms 102–150, Ecclesiastes and Song of
+Songs. Jud also requested that Konrad Pellikan review the work he
+had done and supervise the publishing of the Bible.69
+
+We have seen how Jerome was brought into the Zurich church,
+but what of the Vulgate? It could not be ignored as it had played a
+crucial part of the Prophezei from its inception. Bullinger respond-
+ed to those who accused the Zurich church of undermining Jero-
+me’s version.70 The preface assented to the idea that the authority
+of the scriptures was inviolable in the Church but argued that the
+
+68 Biblia sacrosancta, α3v.
+69 Biblia sacrosancta, α4r.
+70 Biblia sacrosancta, α4r.
+
+Remembering Jerome and Forgetting Zwingli
+
+25
+
+version of the Bible chosen to be used should be free. For author-
+ity, it cited from the Decretal canon, as adapted from Augustine’s
+letter to Jerome. »The loyalty of the old books to the Hebrew
+volumes must be examined: so the truth of the Greek words de-
+cides the norm of the new ones.«71 The governing principle was
+fidelity to the original languages. On these grounds there was
+room for another translation, for, according to the preface, the
+Latin Vulgate version did not correspond to the Hebrew and Greek
+in everything.
+
+The Zurich scholars hammered home their central contention
+that the early church possessed many translations of the Old and
+New Testaments. Their appropriation of Jerome had multiple pur-
+poses. As a translator of the Bible from Hebrew and Greek he was
+not only a scholarly and devotional model, but the very historical
+justification for their labours. Even though, according to Bullinger,
+such fathers as Augustine, Cyprian, and Jerome knew Greek well
+(although Augustine did not), there were, the preface maintained,
+numerous editions of the New Testament. This claim was con-
+firmed by Erasmus in his annotations.72 In Jerome’s time there was
+no one Latin Bible in the Western Church that carried such author-
+ity that he did not dare to attempt a new translation.
+
+The matter was not so easily resolved. The relationship between
+the Zurich Latin Bible and the Vulgate was complex. On the one
+hand, the historical justification for a new Latin translation rested
+on their argument that Jerome had not intended his Bible to be
+authoritative in the Church. There was little doubt, on the other,
+that the Vulgate was held in high esteem as the familiar Bible. The
+Vulgate embodied tradition, and the Zurich churchmen were
+struggling to position their humanist scholarship in relationship to
+history. This ambivalence is evident when the preface addressed
+the ticklish question of whether the Vulgate could still be regarded
+as the work of Jerome. The Catalogue of Ecclesiastical Writers is
+cited where Jerome wrote that he translated »the New Testament
+with fidelity to the Greek and the Old Testament close to [iuxta]
+the Hebrew«.73 Nevertheless, the preface continues, there remained
+
+71 Biblia sacrosancta, α4v.
+72 Biblia sacrosancta, α4v.
+73 Biblia sacrosancta, α4v. The Catalogue was written by Epiphanius (310–403).
+
+26
+
+Bruce Gordon
+
+some skepticism: »whether that version which is today received as
+the Vulgate, and is called Jeromian [Hieronymiana], is the very
+version that he mentioned, is not for us to say. Indeed his books
+cry out against it not a little, especially his Questions (On Genesis)
+or the Hebraic Traditions.«74 The Zurich scholars adopted the fa-
+miliar line that Jerome’s own commentaries bear witness against
+the veracity of the Vulgate, yet unlike Münster and others they
+were not prepared to take a firm stance. This reflected the endur-
+ing reverence for the Bible in Zurich, where great stock was placed
+in historical continuity.
+
+The preface returns to the question of multiple translations of
+scripture and draws once more on Jerome’s words. The church
+exercises its »liberty« in accepting and rejecting translations and
+this privilege, according to the Zurich writers, is supported by Jer-
+ome’s own remarks from the prefaces to his biblical commentaries.
+From the preface to the Pentateuch – »What, therefore [...] do we
+condemn the ancients? By no means! But after the studies of the
+pious in the House of God we do what we are able, and we offer in
+the tabernacle of God what we are able according to our portion
+of strength, knowing that the riches of one does not sully the pov-
+erty of others.«75 And from his preface to Job – »Let those who
+will keep the old books with their gold and silver letters on purple
+skins, or, to follow the ordinary phrase, in ›uncial characters‹,
+loads of writing rather than manuscripts, if only they will leave for
+me and mine, our poor pages and copies which are less remarkable
+for beauty than for accuracy«.
+
+Following these slightly oblique references to Jerome, the preface
+turned to Augustine’s De doctrina Christiana (2 ch. 11), »most
+certain is that the ancient churches of east and west used very
+many and diverse copies and translations, which holily they did
+not believe and assert to be of any harm to the churches, but of
+great use.«76 No other book in the history of the world has drawn
+as many outstanding scholars, who have translated, edited, and
+
+74 Biblia sacrosancta, α4v. See Saint Jerome’s Hebrew Questions on Genesis, trans-
+lated with Introduction and Commentary by C.T. Robert Hayward, Oxford 1995 (Ox-
+ford Early Christian Studies).
+75 Biblia sacrosancta, α5r.
+76 Biblia sacrosancta, α5r.
+
+Remembering Jerome and Forgetting Zwingli
+
+27
+
+commented on it. This was true of eastern witnesses such Origen
+and his Hexapla (six translations side by side), the Septuagint, and
+the Editio communis. Those who complain about contemporary
+translations do not know their church history. The church should
+not demand that these translations agree word for word, for that
+was not the case in the early church. It should suffice that they are
+translated faithfully and do not differ in doctrine and religion
+(»nostra religio«). This appeal for unity contained a troubling
+note. The highly theological structure of the Zurich Bible, produ-
+ced at a moment of great conflict within the Protestant churches,
+made all too likely that other Bibles would not agree »in doctrine
+and religion«.
+
+Clearly the matter of the Vulgate was not resolved and the pref-
+ace returned to the question and Jerome, »to follow his example«.
+The Zurich scholars did not, they claimed, wish to quarrel with
+others on account of their edition and version, nor had they sought
+to slight Jerome in any way. Further they had not sought to decree
+imperiously that that their version should be received and others
+»spat out«. Those who do not like the Zurich Bible still have the
+Vulgate, which »we do not condemn by our version at all, al-
+though nevertheless we openly admit that it does not always and
+everywhere agree with the truth of the Hebrew and Greek.«77 This
+is very much the spirit of Bibliander; respect for the Vulgate was
+coupled with a pervasive sense of superiority.
+
+The remarks concerning the Vulgate anticipated a hostile reac-
+tion to the translation, and the preface contained a plea for a gen-
+tle reception, acknowledging that not everything was achieved in
+this Bible. If it had fallen short in anyway, »it was in error, and not
+a crime and they [the translators] should be corrected, not
+damned.«78 They were always prepared to learn better, »for that
+reason if anyone more felicitously, more learnedly, and more ter-
+sely translates from the Hebrew into Latin the sacred books after
+those translations of ours, we will not be envious, we will not
+reprove, but we will approve rather of their faith and diligence,
+giving thanks the Lord, who gives faithful and felicitous talents to
+
+77 Biblia sacrosancta, α5r.
+78 Biblia sacrosancta, α5v.
+
+28
+
+Bruce Gordon
+
+his church.«79 The apology was common enough and such senti-
+ments could be found in the biblical works of Erasmus and Sebas-
+tian Münster. The words acquire a greater resonance when we
+consider how isolated the Zurich church was in the early 1540s.
+Repudiated by Luther and most of German Protestantism, Bullin-
+ger and his colleagues had few allies.
+
+The preface turned to the contents of the Bible and cited the
+Expositio symboli of Cyprian as the authority for the order of the
+books.80 The Expositio was actually by Rufinus Aquileia, whom
+Erasmus identified as the author. In his 1521 edition of Cyprian (d.
+258), Erasmus included an exposition of the Creed that he seems
+to have attributed to the father.81 This attribution was erroneous
+as the Expositio was, in fact, the work of Rufinus (340–410), who
+in a passage where he treated the topic of inspiration listed the
+books of the Bible.82 Both the Zurichers and Philipp Melanchthon
+continued to attribute the work to Cyprian, perhaps as a subtle
+criticism of Erasmus.83 Whatever the case, the order of books
+found in the Expositio was employed by the Zurich scholars. In
+the Biblia sacrosancta the Pentateuch is followed by the history
+books, the major and minor prophets, Job, Psalms and the three
+books of Solomon (Ecclesiastes, Proverbs, Song of Songs).
+
+As for the annotations, the preface provides a detailed account
+of how they had been prepared. Leo Jud wrote the marginal sum-
+maries for the books he translated, a task completed by Theodor
+Bibliander following Jud’s death. Compared to the Old Testament
+of Sebastian Münster, the marginal annotations for the 1543 Bible
+are much lighter, but by no means insignificant. According to the
+Zurich translators their purpose was twofold: to provide variant
+readings and to elucidate the meaning of the authors. They offered
+
+79 Biblia sacrosancta, α5v.
+80 Biblia sacrosancta, α5v.
+81 Opera divi Caecilii Cypriani episcopi Carthaginensis, ab innumeris mendis repur-
+gata, adiectis nonnullis libellis ex vetustissimis exemplaribus, quae hactenus non ha-
+bebantur, ac semotis iis, quae falso videbantur inscripta, una cum annotatiunculis, Ba-
+sel: Johann Froben, 1520.
+
+82 Opera divi Caecilii Cypriani, 382.
+83 Timothy J. Wengert, Philip Melanchthon’s Last Word to Cardinal Lorenzo Cam-
+peggio, Papal Legate at the 1530 Diet of Augsburg, in: Irene Dingel et al., Philip Me-
+lanchthon: Theologian in Classroom, Confession, and Controversy, Göttingen 2012
+(Refo500 Academic Studies 7), 222.
+
+Remembering Jerome and Forgetting Zwingli
+
+29
+
+occasion for a fuller consideration of the text and even a justifi-
+cation (»ratio«) of the translation,84 though, the preface continues,
+»we dare to promise that only a few annotations will be after the
+manner of a very lengthy commentary.«
+
+Of particular interest is the system behind the annotations and
+the way in which it informs us as to how the Bible was to be read.
+The description of the annotations above applies to the material in
+the outer margin, which was provided by Jud and Bibliander. On
+the inside margin we find the work of Konrad Pellikan, who had
+been charged with editing the whole Bible. Pellikan sought to draw
+attention to themes that were particularly memorable and notable
+(»memorabilia« and »observanda«). A series of »loci communes«
+formed a »concordantia« by which obscure passages might be
+compared with clearer ones. According to the preface Pellikan’s
+approach was also based on Augustine’s teaching in De doctrina
+Christiana in which he treated scripture interpreting scripture.85
+Pellikan’s annotations consisted of brief thematic phrases and par-
+allel biblical references that formed a theological reading of the
+Bible. The reader is directed to other passages in scripture that
+treat the same theme.
+
+The two sets of marginal notes guide the reader in different
+ways. On the outer margin are the chapter summaries and notes
+that refer to (»alii legunt«) the Vulgate, the Septuagint, and Sebas-
+tian Münster’s translation, demonstrating that the Zurich Bible
+was in conversation with these editions. These annotations also
+contain references to Hebrew words and offer more literal rende-
+ring of the original. It is here also that one finds historical infor-
+mation that illuminates the context of the passage. Only rarely
+does one encounter theological comment. The book of Isaiah is
+one place where theology makes its way into the outer margin
+annotations as there are numerous references to Christ and the
+Church. In addition to grammatical and historical information the
+Zurich scholars had great interest in the rhetorical nature of the
+Bible and a particular delight in demonstrating where classical
+rhetorical forms were to be found in scripture. This focus corre-
+
+84 Biblia sacrosancta, α6r.
+85 Biblia sacrosancta, α6r.
+
+30
+
+Bruce Gordon
+
+sponded to Bullinger’s second preface, which defended the Bible as
+a sophisticated piece of writing that surpasses all the works of
+antiquity in its articulation of wisdom.
+
+The inner margin annotations, the work of Pellikan, were entire-
+ly theological in nature. As noted, they provided a system for re-
+ading the text through the use of »loci communes« and parallel
+passages. Further, pithy theological and pastoral statements are
+offered, intended to aid the clergy in study and the preparation of
+sermons. The Bible became a theological textbook whose foun-
+dation was expressed in the Compendium. The two sets of mar-
+ginal notes tell us a great deal about the character of the Zurich
+Bible. In the two margins we find the attempt to balance humanist
+learning with doctrine; the former in the service of the latter. Un-
+like Münster’s Bible, the first major work of Protestant translation
+of scripture into Latin, which invited multiple readings, the Zurich
+Bible was shaped by the material on the inside margin, which was
+referenced to the prefatory writings. Both in the way in which the
+Bible was set out for the reader and in the language chosen by the
+translators, clear theological decisions had been made.
+
+The preface has remarkably little to say about the New Testa-
+ment other than to inform the reader that the text was based on
+Erasmus’ (»beatissimae memoriae magnus«) last edition of 1535.
+The Dutch humanist’s annotations had been slightly emended as a
+result of consultation with other editions, work done by Peter
+Cholinus and Rudolph Gwalther.86 Gwalther was solely respon-
+sible for all the chapter summaries (»argumenta«) as well as the
+annotations from Acts 14 to the end of the work. The rest he did
+with others. What was said earlier about the Old Testament was
+repeated for the New: that there was no wish to impugn the Vul-
+gate with this edition. »Should the Vulgate still be read in schools
+of theology, and the churches, and alone cited in sacred assemblies,
+there is no objection here.«87 In common with other translators of
+the Bible in the sixteenth century the Zurichers had no doubt that
+their work would be criticized by others, but in this respect they
+would suffer as Jerome did.
+
+86 Biblia sacrosancta, α6v.
+87 Biblia sacrosancta, α6v.
+
+Remembering Jerome and Forgetting Zwingli
+
+31
+
+De operis huius institutio et ratione provided the historical and
+linguistic justification for the Zurich Latin Bible. Through its ap-
+propriation of Jerome and Augustine it located itself in the biblical
+world of the early church, shaped by the influence of Erasmus. We
+find the Zurich church attempting to address several issues con-
+currently. How was Hebrew to be translated into Latin? What was
+the place of rabbinic sources? And how was humanist learning to
+be balanced by doctrinal fidelity? To understand the character of
+the Zurich response to these pressing questions of the early refor-
+mation De operis has to be read together with the other prefatory
+material with which it was placed in the Bible, and we shall briefly
+turn to these texts.
+
+De omnibus scripturae sanctae, referred to in the first preface as
+the »Expositio«, was written by Bullinger for the 1539 Zurich
+Latin Bible and revised and somewhat expanded for the 1543
+translation. Having established the historical authority of biblical
+translations in the first preface, Bullinger turned to the nature of
+scripture itself. His arguments echo those found in his De scrip-
+turae sanctae authoritate (1538), which he dedicated to Henry
+VIII. The tone of the preface is aggressive and almost polemical as
+Bullinger attacked those (unnamed) persons who regard scripture
+as inferior to the great works of classical literature. The quarrel is
+difficult to place, but it may well have concerned a disagreement
+among printers in Basel, who were publishing classical texts. Bul-
+linger followed Juan de Vives (whom he cites) in his assault on
+Aristotle. Cicero appears as a witness for the prosecution and de-
+fence as Bullinger invoked the great Roman’s authority both as an
+example of vain knowledge and as a guide to true rhetoric. The
+position that emerged reflected the educational system developed
+in Zurich; the liberal arts were not to be understood as an end in
+and of themselves, but as preparation for the study of scripture.88
+The prefatory material concludes with a Compendium et scopus
+totius sacrae scripturae. This work is a twelve article confession of
+faith that forms the theological heart of the Zurich Bible. The
+
+88 Anja-Silvia Göing, Die Ausbildung reformierter Prediger in Zürich 1531–1575:
+Vorstellung eines pädagogischen Projekts, in: Bildung und Konfession: Theologenaus-
+bildung im Zeitalter der Konfessionalisierung, ed. Herman J. Selderhuis and Markus
+Wriedt, Tübingen 2006 (Spätmittelalter und Reformation NS 27), 293–310.
+
+32
+
+Bruce Gordon
+
+articles were a summary of what the Old Testament and New Tes-
+tament teach (»docent«) laid out in a theological order that mir-
+rored Bullinger’s other works. In the outer margin are the theo-
+logical topoi, such as »Deus trinus et unus«, »homo«, »peccatum«,
+»ira, mors et damnatio«, etc. On the inside margin the reader finds
+the relevant scriptural references from the Old and New Testa-
+ments. The articles are extensive and take the reader through the
+whole of salvation history. For example, the Christological reading
+of the Old Testament is clearly evident in the fifth paragraph:
+
+»But we learn by the books of the New Testament that the promised Christ
+(who is above all things God forever blessed and adumbrated and figured
+by sacrifices in the books of Old Testament) was at last sent by the Father,
+at that time, which he had established by his own council and had foretold
+in the prophets, at that time in which every evil was abounding. But he was
+sent, and made incarnate, and died and was raised from the dead, so that
+not on account of good works (for we were all sinners), but truly so that he
+might exhibit the abundant riches of his grace which he had promised and
+so that he might save us according to his mercy.«89
+
+The Compendium was crucial to the reading of the Bible. It was
+intended as proof that the teaching of the Zurich church was
+grounded in scripture alone, and as such it determined the essential
+pedagogical nature of the Bible. The reader was to be instructed in
+true doctrine through the reading of scripture and the marginal
+notes provided by the apparatus. The parallel biblical references
+led to the Compendium, where the reader received instruction.
+Further, there is a strong correlation between the theological topoi
+provided alongside the articles and those used by Pellikan in the
+text. This system of referencing brought the reader to the theo-
+logical teaching of the Zurich churchmen.
+
+The Zurich Latin Bible of 1543 had multiple purposes. As a
+book for the wider church, it declared the historical lineage, bibli-
+cal scholarship, and doctrinal soundness of the Zurich Reforma-
+tion. At home, it served as an essential tool for the training of
+clergy. Above all, however, it was intended to demonstrate the
+unitive nature of the Zurich church under Heinrich Bullinger. It
+was a book that embodied the institutional vision of the man who
+
+89 Biblia sacrosancta, γ5r.
+
+Remembering Jerome and Forgetting Zwingli
+
+33
+
+succeeded Huldrych Zwingli. He prosecuted reform with a firm
+hand. Scholarship was to be united with piety, the intellectual rig-
+our of Jerome the translator was united with the pastoral concerns
+of Augustine the bishop. The Biblia sacrosancta, through its me-
+thods of translation, moved between the extremes of the literal and
+overly Ciceronian. In all things moderation, reflecting Bullinger’s
+desire to stabilize and define the Zurich. Most importantly, text
+and paratext demonstrated the scriptural foundation of Zurich’s
+theology.
+
+In its material form the Biblia sacrosancta embodied the restored
+church in Zurich. The pages themselves reflected Bullinger’s ideal
+of the right worship of God. With their clean Roman type and
+sparse annotations, the pages of the Biblia revealed Zurich’s litur-
+gical aesthetic of drawing the undistracted eye to the physical ap-
+pearance of the Word, just as with presence of the table and pulpit
+at the front of whitewashed churches. The Biblia was the ecclesia.
+Scholarship and doctrine came together in a book shaped by mem-
+ory and forgetting. The Biblia sacrosancta of 1543 gave the Zurich
+church a past and a patron, Jerome. It provided a model of doc-
+trine and piety for home and across the Reformation world. There
+was, however, a price. Zurich could only have its Bible and church
+by remaining silent about the man who had begun its reformation.
+
+Bruce Gordon, Ph.D, Titus Street Professor of Ecclesiastical History, Yale Divinity
+School, Yale University, USA
+
+Abstract: In 1543 the Zurich reformers produced Latin translations of the Old Testa-
+ment and the Apocrypha together with a revised edition of Erasmus’ New Testament.
+The Biblia sacrosancta was a beautiful volume, Froschauer’s finest work. The work on
+the Old Testament was primarily done by Leo Jud, though it was completed by Theodor
+Bibliander and Konrad Pellikan after his death in 1542. The translation, together with
+the textual apparati, and the extensive prefaces form the most complete expression of
+the theological and ecclesiastical vision of the Zurich church under Heinrich Bullinger.
+Printed twelve years after the death of Huldrych Zwingli, the Bible embodied the ideals
+of a restored church that had to turn its back on its fallen founder. Zwingli was never
+mentioned and the model for a new, proud, and confident church was St Jerome,
+represented in the figure of the translator Leo Jud. This essay explores the relationship
+between biblical interpretation, identity, and church building for the second generation
+of the Reformation.
+
+Keywords: Heinrich Bullinger, Leo Jud, Konrad Pellikan, Theodor Bibliander, Biblia
+Sacrosancta, Latin Bible, Translation, Hebrew, Zurich
+
+

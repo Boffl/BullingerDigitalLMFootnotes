@@ -1,0 +1,440 @@
+Joseph C. McLelland
+
+Vermigli on Penance: A third Sacrament?
+
+Vermigli on Penance: A third Sacrament? 1
+
+by Joseph C. McLelland
+
+«Penance is a sacrament of the New Law constituted by Christ in which forgiveness
+of sins committed after baptism is granted through the priest’s absolution to those
+who with true sorrow confess their sins and promise to satisfy the same.» (Cath.
+Enc., loc. cit.). «The acts of the penitent, contrition, confession and satisfaction,
+form as it were its matter (quasi materia).» (Council of Trent, Sess. XIV, ch. 3).
+
+The doctrine of penance or penitence against which the Reformers reacted
+developed during the middle ages, inﬂuenced in part by the Celtic system of
+«penitentials» and the need for priestly authority («the power of the keys»). 2
+Church Fathers, otherwise admired by the Reformers, contributed to this
+development, as in the canons of the Council of Nicaea which Melanchthon
+noted in his «Catalogue of ancient abuses.» 3 Jerome called penance «a second
+plank after a shipwreck.» 4 Thomas Aquinas devoted a long treatise to it as a
+sacrament (ST 1a QQ 84–90); also Peter Lombard (Sent. IV, dist. 14–17). The
+Fourth Lateran Council (1215) called by Innocent III made the rule of auric-
+ular confession absolute, and it was recognized as a proper sacrament by the
+Council of Trent. It has been described as a growing inﬂuence in Western Eu-
+rope from the late 15th to the early 17th centuries. 5 Penance thus became an in-
+tegral part of Christian identity, in that confession is the beginning of the way
+to union with God; it is the priestly Ego te absolvo that guarantees absol-
+ution. There was also the strange twist in which the punishment became itself
+the cause of absolution. 6
+
+Protestants attempted to relate the concept to their own views of sin and
+salvation. In the eyes of the Reformers, its function within church order led
+to abuse of clerical authority and reinforced a theology of works righteous-
+ness. It also contributed to the idea that sins are never ﬁnally forgiven, that
+God constantly demands reparation for wrongdoing. Nevertheless, Martin
+
+1
+
+2
+
+3
+
+Presented to the Sixteenth Century Studies Conference, Salt Lake City, 27 October 2006.
+E.g. J. T. McNeill, The Celtic Penitentials and their Inﬂuence on Continental Christianity
+(Paris, 1923): «the private and secret nature of the penance is a simple projection into the
+Latin church of the practice of the Celts» (181).
+See Douglas Shantz, «Vermigli on Tradition and the Fathers,» in Peter Martyr Vermigli and
+the European Reformations, ed. Frank A James III (Leiden: Brill, 2004), 134f.
+Jerome, Ep. 130, 9.
+
+4
+5 Katharine Lualdi, ed. Penitence in the Age of Reformation (St Andrews Studies in Reforma-
+
+tion History, 2000).
+
+6 K. Ross, Hearing Confession (London: SPCK, 1974) 10f.
+
+Zwingliana XXXIV, 2007
+
+29
+
+Joseph C. McLelland
+
+Luther regarded it highly, at ﬁrst accepting its sacramental nature (e.g. in The
+Babylonian Captivity) but later retracting this view because it lacked a dis-
+tinctive outward sign. In its place Lutheranism came to adopt private confes-
+sion as a consolation for the soul. 7 John Calvin rejected it outright, allowing
+the Genevan Consistory to play the role of judge and confessor. 8 In England,
+the exhortation for Ash Wednesday in the 1549 Book of Common Prayer
+(«A Penitential Service») notes the primitive church custom of a season of
+«penitence and fasting,» when sinners «separated from the body of the faith-
+ful, were reconciled and restored to the fellowship of the Church by peni-
+tence and forgiveness.»
+
+Peter  Martyr  Vermigli’s  teaching  on  the  doctrine  will  be  examined
+through three key documents: his ﬁrst work, on the Creed, his biblical com-
+mentaries,  and  the  chief  source,  his  treatise  De  Poenitentia.  But  ﬁrst  we
+should note the inﬂuence of both Melanchthon and Calvin.
+
+Melanchthon and Calvin
+
+During  his  triennium  as  abbot  of  S. Pietro  ad  Aram  in  Naples,  Vermigli
+began  to  read  the  transalpine  Reformers;  we  know  these  included  Bucer,
+Zwingli and Erasmus. 9 At least on his arrival in Strasbourg in 1542, Bucer
+would have introduced him to Melanchthon’s Loci and Calvin’s Institutes.
+Barbara  Pitkin  has  argued  the  role  of  Melanchthon’s  locus  on poenitentia
+(1521) as the «decisive turning point of reference» 10 for Calvin’s 1536 and
+1539 editions. This involved the distinctions contritio, ﬁdes and nova oboe-
+dientia, a more positive emphasis than traditional polemics against Roman
+teaching, «the positive redeﬁnition of evangelical poenitentia.» Melanchthon
+treats the topic in the context of the sacraments, accepting absolution as a
+sacrament. Strasbourg’s Martin Bucer, of course, played mentor to both Cal-
+vin (1538–41) and Vermigli (1542–47); his creative work on church order, in-
+cluding discipline, was surely of moment for both Reformers.
+
+Calvin changes the context in the 1536 Institutiones, placing it within the
+«ﬁve false sacraments.» Repentance is the mortiﬁcation of the ﬂesh accom-
+plished  by  the  fear  of  God  (hence,  prior  to  faith).  In  1539  it  has  its  own
+chapter (5) following the discussion of the Creed. Here and in 1559 he cites
+
+7
+
+8
+
+See, e.g., R. K. Rittgers, The Reformation of the Keys: Confession, Conscience, and Authority
+in Sixteenth-Century Germany (Cambridge MA: Harvard University Press, 2004).
+See Max Thurian, Confession (London: Mowbray, 1985), ch. 1: «Protestant Criticism of the
+Sacrament of Penance.»
+See Simler’s Life (in Donnelly, PM Library vol. 5) p. 20.
+
+9
+10 Pitkin, quoting Olivier Millet – «Redeﬁning Repentance: Calvin and Melanchthon» in H. J.
+Selderhuis, ed. Calvinus Praecepto Ecclesiae (Geneva: International Congress of Calvin Re-
+search, 2002) pp. 275–85.
+
+30
+
+Zwingliana XXXIV, 2007
+
+Vermigli on Penance: A third Sacrament?
+
+docti  quidam  viri  who  distinguished  two  parts,  mortiﬁcation  and  viviﬁ-
+cation, without specifying who these ancients are. In the deﬁnitive 1559 edi-
+tion (III.iii) repentance is deﬁned as «mortiﬁcation of the ﬂesh and of the old
+man and [in] the viviﬁcation of the spirit.» 11 Calvin heralds «the transition
+from faith to repentance» as the ﬁrst of «the effects which we experience.»
+The substance of the Gospel is «repentance and remission of sins,» but these
+ﬂow from our «participation of Christ,» the unio Christi effected by faith.
+This imago dei is «righteousness and true holiness;» so that «believers may
+attain to this, God assigns them the race of repentance to run during their
+whole life.» (§ 9). This prepares for Calvin’s great treatise on the Christian
+life (III.vi-viii) which he promises as «evidence of a sincere repentance.» Pit-
+kin concludes: «the eventual triumph of Calvin’s efforts to give the church
+(rather than the magistrates) the power to regulate access to the sacraments,
+and his explicit criticism of absolution as a sacrament, individual confession
+of sin and reception of private absolution were nevertheless important fea-
+tures in Calvin’s vision of ideal church practice.» 12 It is signiﬁcant that sub-
+sequent Reformed teaching may be located – by Heinrich Heppe for instance
+– under the heading of sanctiﬁcation, summarizing it as consisting of mortiﬁ-
+cation and quickening, keeping remarkably close to Calvin’s distinctions. 13
+
+1) Credo
+
+Vermigli’s ﬁrst published work, the only one in Italian, was a commentary on
+the Apostles’ Creed, Una Semplice Dichiaratione sopra gli XII Articoli della
+Fede Christiana (Basel, 1544). Its early publication, and in Italian, so soon
+after  leaving  Italy  suggests  that  it  reﬂects  his  evangelical  turn  of  recent
+years. 14  It  is  curious  that  one  of  his  early  biographers,  F. C.  Schlosser,
+thought that Vermigli accepted penance as a third sacrament. 15 In fact this
+earliest writing provides a succinct and explicit statement declaring the op-
+posite. It supports Robert Kingdon’s argument that Vermigli’s stress on dis-
+cipline raised it to the third mark of the church (nota ecclesiae). 16 Kingdon’s
+
+Inst. III.111.V.
+11
+12 Pitkin, p. 283.
+13
+
+15
+
+See H. Heppe, Reformed Dogmatics (trans G. T. Thomson, London: Allen & Unwin, 1950)
+pp. 571–76.
+
+14 Una Semplice Dichiaratione sopra gli XII Articoli della Fede Christiana (Basel: Hervagius,
+February 1544). Trans. by M. Di Gangi in Early Writings, Peter Martyr Library vol. 1, ed.
+J. C. McLelland (Kirksville, MO: Sixteenth Century Journal Publishers, 1994), 91–159.
+Schlosser, Leben des Theodor de Beza und des Peter Martyr Vermili (Heidelberg: Mohr u.
+Zimmer, 1809) 397–98.
+
+16 R. M. Kingdon, «Peter Martyr and the Marks of the True Church,» in Continuity and Dis-
+continuity in Church History: Essays Presented to George Hunston Williams, ed. F. F. Church
+& Timothy George (Leiden: Brill, 1979) 198–214.
+
+Zwingliana XXXIV, 2007
+
+31
+
+Joseph C. McLelland
+
+research, especially his paper to the 1999 Vermigli symposium in Kappel, ar-
+gues cogently that Vermigli’s concept of discipline expanded Calvin’s to be-
+come the formative inﬂuence on subsequent Reformed teaching. 17 The «curi-
+ous disjunction in Calvin between teaching and action» created an opening
+for Vermigli’s doctrine of discipline as an essential note of the church, to be
+exercised by the whole community and to be given its extreme expression in
+excommunication. The proper marks by which the true church is to be rec-
+ognized  are  three:  «wherever  the  purity  of  doctrine  ﬂourishes,  the  sacra-
+ments are administered purely, and discipline exercised, you have a congre-
+gation  to  which  you  may  safely  join  yourself.» 18  Kingdon  concludes:
+«Vermigli thought the exercise of discipline was an absolute necessity for a
+properly ordered Christian church .. . he thought the most important tool in
+establishing discipline was excommunication.»
+
+No doubt Vermigli’s stress on discipline reﬂects his experience as Visitor
+of the Augustinian Order (1539–41). He had already established a reputation
+as diligent disciplinarian while Abbot in Spoleto (1533–36), infamous for its
+factions and feuds. Philip McNair comments: «It was in Spoleto that he ﬁrst
+manifested administrative genius. It was here that he gave demonstration of
+that cast of mind which came to be known as Puritan. It was in Spoleto that
+Peter  Martyr  became  a  reformer  .. .  For  evidently  there  was  much  to  re-
+form.» 19
+
+The Credo  has  three  sections  on  «The  Forgiveness  of  Sins»  (§§ 44–46)
+with three topics. First is that absolution comes «by the grace and Spirit of
+Christ,» received through faith. A second way is through the sacraments,
+«visible  words  of  this  absolution.»  «We  can  respond  to  the  reality  repre-
+sented only because of the inward movement of the Spirit of Christ.» (§ 45)
+Moreover, «If you were to ask me which sacrament in the church expressly
+signiﬁes this remission, I would answer: baptism.» So by Word and sacra-
+ment the remission of sins is offered and sealed. As for «the third mode re-
+lated to this remission» (§ 46), Vermigli means brotherly correction. Refer-
+ring to Matthew 18:15–18 he states: «When those warned do not repent, they
+are disciplined by separation as a last resort. This should last until they repent
+of sins committed. With penitence for sin comes an end to the penalty of ex-
+communication for sin.»
+
+Such absolution relates to the authority granted to the church by Christ,
+«the power of the keys.» To safeguard against abuses it is an authority shared
+
+17 Robert M. Kingdon, «Peter Martyr Vermigli On Church Discipline,» in Peter Martyr Ver-
+migli: Humanism, Republicanism, Reformation, ed. E. Campi (Geneva: Librairie Droz, 2002)
+67–76. Euan Cameron, however, credits Luther’s 1538 Von der wahren Seelsorge with intro-
+ducing the «third mark» of discipline (book review in JEH 1996, pp. 363–66).
+
+18 Vermigli, ad Cor. 1; LC IV.6.17.
+19 P. McNair, Peter Martyr in Italy (Oxford: Clarendon, 1967) 128.
+
+32
+
+Zwingliana XXXIV, 2007
+
+Vermigli on Penance: A third Sacrament?
+
+by the whole community of believers. «We do not depreciate the authority of
+the church, but only deny that it should be entrusted to the will and whim of
+one person acting alone.» He concludes: «But you see how this third mode
+contains only the absolution of public sins, while the church through those
+other two modes mentioned above exercises everywhere the remission of all
+sorts of sins. Here we are dealing exclusively with the open kind, which by
+their evil example offend and scandalize whoever hears and knows of them.»
+
+2) Commentaries
+
+While in Strasbourg Vermigli composed theses based on his Pentateuch lec-
+tures for student debate. They include the following:
+
+«We allow a confession of sins made not only to God but also to men.» (27.N. 16)
+«Repentance is threefold: the ﬁrst is perfect and whole, which pleases God; an-
+other is temporary, which God counts for something; the third is hypocritical,
+which God detests.» (33.N. 9)
+
+His Old Testament commentaries contain scattered references to the topic,
+including the extended treatise De Poenitentia at the end of 2 Samuel. For
+example, commenting in Judges on the story of the Israelites’ weeping under
+judgment,  he  writes:  «true  and  lawful  repentance  consists  chieﬂy  of  two
+principal points, a sorrow acknowledging the wicked acts committed, and a
+sure conﬁdence to obtain pardon by Christ.» (Iud. 2:4) In this context he de-
+clares that their ceremony (tears and sacriﬁce) showed «that by the death and
+oblation of Christ all their sins were removed, and already forgiven. Without
+doubt true repentance can be found only through such faith.»
+
+Again: «People who are truly repentant wish very much that others might
+be inﬂuenced by their example and abstain from vices. In my view those pub-
+lic  confessions  of  transgressions  were  in  ancient  times  taking  place  in  the
+church for the following reasons: to implore the prayers of those standing
+by; second, to provoke others (if they had fallen into such practices) to come
+to their senses by the example of those who groan under punishment; ﬁnally
+and  most  importantly,  to  strengthen  still  others  to  keep  themselves  from
+these  practices,  being  clearly  warned  of  the  consequences  of  such  beha-
+vior.» 20
+
+At Oxford (1547–53) Peter Martyr’s lectures on 1 Corinthians and Ro-
+mans include passages on this and related themes. In 1 Corinthians 21 Vermigli
+
+20 Lamentations 36:18 (PML vol. 6), trans. Dan Shute , 52–53.
+21
+
+In selectissimam D. Pauli Priorem ad Corinth., epistolam Commentarijs . . . (Zurich: C. Fro-
+schauer, 1551).
+
+Zwingliana XXXIV, 2007
+
+33
+
+Joseph C. McLelland
+
+is clear that «two sacraments have been handed down to us by God» (10:2).
+While there is no direct reference to the ordinance of penance, there are dis-
+tinct echoes of Calvin’s twin emphases on mortiﬁcation and viviﬁcation: «re-
+pentance and mortiﬁcation of evil desires are preached, by which our ﬂesh is
+refurbished in a wonderful way» (10:7); «Faith refers to doctrine and repent-
+ance to behavior» (11:27); «when we do penance and when we are converted
+to God» it is «the working of the Holy Spirit» (11:25).
+
+Vermigli is explicit on the role of discipline. In the scholium De ecclesia 22
+he  deﬁnes  the  church  as  «a  company  of  believers  and  regenerate  people,
+whom God gathers together in Christ, by the word and the Holy Spirit, and
+by his ministers governs the same with purity of doctrine, with lawful use of
+the sacraments, and with discipline.» Again: «Ecclesiastical discipline is noth-
+ing else than a power granted to the church by God, by which the wills and
+acts of the faithful are made to conform to God’s law. This is accomplished by
+teaching, admonitions, correction, and ﬁnally by punishments and excom-
+munication  if  required.»  This  sort  of  «medicine»  is  different  from  that
+wielded by fathers or pastors or magistrates. While they should not allow sins
+to pass unnoticed, the pastor must exert the «greater discipline» in order to
+admonish and rebuke wayward brethren. (10:9)
+
+The Treatise De Iustiﬁcatione (in ad Romanos) 23 states: regarding good
+works of the penitent, the Fathers «were concerned about ecclesiastical sat-
+isfactions, not our own works, by which God could be appeased or the for-
+giveness of sins deserved.» 24 Martyr joins penance with good works in refut-
+ing Richard Smith’s argument that «penal works (as he calls them) .. . were
+required of men not so they should be justiﬁed before God through them,
+but only to prove themselves to the church, that is, lest by a sham and af-
+fected repentance they should seek to be reconciled» (§. 87). God does have
+regard to true repentance, for by such «outward discipline .. . punishments of
+this present life are avoided» (§ 29). «They claim that the Holy Scriptures at-
+tribute a great deal to repentance; we do not deny it.» But it is the fruit of
+faith, as it was with David and Peter, but not Judas. Therefore «it is not the
+cause but the effect of justiﬁcation, for it follows faith, rather than precedes
+it.» Auricular confession is «completely superstitious, we utterly reject it for
+they impose it as something necessary for salvation and a reason why sins
+should be forgiven, which they are never able to prove from the testimonies
+of Scripture» (§ 32).
+
+22 Rom. 1; LC IV.1.
+23
+
+In Epistolam S. Pauli Apostoli ad Romanos commentarij doctissimi . . . (Basel: P. Perna, 1558).
+References are to the James translation of Predestination and Justiﬁcation (PML 8, 2003).
+§ 22; quotations are from the James translation (p. 121).
+
+24
+
+34
+
+Zwingliana XXXIV, 2007
+
+Vermigli on Penance: A third Sacrament?
+
+3) On Repentance
+
+The lengthy scholium De Poenitentia appears at the very end of the com-
+mentary on 2 Samuel. 25 It provides Martyr’s mature reﬂection on the sacra-
+ments, affording deﬁnition, critique of the traditional seven sacraments, and
+a clear exposition of his sacramental theology.
+
+The treatise begins by declaring that there is «one purgation, which is set
+forth to us by faith, which has repentance joined with it, by this men are
+cleansed and are at rest.» God called our ﬁrst parents to such repentance,
+echoed by the prophets, and by Christ himself: «Repent, for the kingdom of
+heaven  is  near.»  The  kingdom  is  to  be  understood  as  «newness  of  life,
+heavenly  actions,  and  regeneration.»  Therefore  it  is  not  the  case  that  we
+should ﬁrst repent and by the merit of repentance have remission of sins.
+«First it is apprehended by faith: afterwards a sound repentance follows.»
+Rehearsing some Patristic deﬁnitions, he refers to Jerome on Ezekiel 16, and
+the  decree De  Poenitentia,  that  «after  baptism,  repentance  is  the  second
+bond» by which we swim from shipwreck. 26 He now surveys, in typical ex-
+haustive fashion, scriptural texts on repentance, and then the Fathers. But
+ﬁrst he notes that some «would have removed repentance entirely,» such as
+the Novatians – and the Puritans! – as being self-righteous, and «denying re-
+pentance to those that are fallen.»
+
+The kinds and parts of repentance are analyzed: private, public and sol-
+emn; then comes the crucial question whether this is a sacrament, «because in
+a way it is the cause of forgiveness of sins.» But where is absolution, Martyr
+asks, since this is the principal thing? Noting the origin of sacramentum in
+mysterion (a signiﬁcant point, not always recognized or emphasized by other
+Reformers), he states: «Sacraments are tokens by which God is bound to us
+and we to him.» But to say merely «the sign of a holy thing,» is not enough;
+«visible  sign  of  invisible  grace»  is  better,  showing  the  speciﬁc  relation  to
+grace.
+
+The Fathers acknowledged only two sacraments, «sometimes mentioning
+repentance.» Hence, «those who say that the grace of forgiveness of sins is
+signiﬁed by the same, tie themselves to these two alone, namely baptism and
+the Lord’s supper.» Remission of sins may be signiﬁed by the imposition of
+hands, but it is the effect of the Word of God. Contrition is «a sorrow lodged
+in the will because of sins.» Confession is «to acknowledge and declare God’s
+beneﬁts.» Auricular confession is not warranted by the Word of God, since
+«sins should be showed to God himself, not to put God in mind of them (so
+
+25
+
+In  duos  Libros  Samuelis  Prophetae  .. .  Commentarii  doctissimi  . . .  (Zurich:  C. Froschauer,
+1564), fol. 324v-334r. Also in LC/CP 3.8.
+
+26 Tractatus de Poenitentia, dist. 1, ch. secunda tabula, PL 187, 1519ff.
+
+Zwingliana XXXIV, 2007
+
+35
+
+Joseph C. McLelland
+
+he knows our hearts) but that we may know our own selves, and see our own
+miseries.» The problem is to know whether you have confessed everything:
+this theory leaves one in perpetual doubt. Satisfaction is, as tradition held,
+«the sign of true repentance, that the church might be well regarded.» There
+is no condign merit, for the Pope is not «the disposer of the sufferings of
+Christ  and  the  martyrs  and  other  saints.»  Rather,  the  good  works  of  the
+godly «have the analogy and force of prayers.»
+
+In sum, «we are to embrace true repentance that comes by faith, and that
+speedily.» We must follow this way which Christ taught and weigh its effects,
+namely renewal; «it works marvellous joys, ﬁrst in us, secondly in the church
+and also among the heavenly company. . . . Lastly, God’s mercy must be set
+forth, how ready he is to receive penitents.»
+
+Conclusion
+
+The texts show Vermigli’s consistent teaching on penance as non-sacramental
+and  related  more  to  the  well-being  of  the  Christian  community  than  to
+priestly absolution. As such it is necessary to maintain that moral rectitude
+which is the fruit of justiﬁcation by faith; thus its extreme form of excom-
+munication  must  be  acknowledged  as  sometimes  in  order.  Positively,  it  is
+symbolic of the brotherly correction that elevates ecclesiastical discipline to
+the third mark of the true church. Thus Vermigli reﬂects not only Calvin’s
+«mortiﬁcation  and  viviﬁcation,»  but  also  the  general  Reformed  view  that
+there are but two dominical sacraments, while repentance is tied to justiﬁ-
+cation by faith and not to the priestly ofﬁce.
+
+Abstract
+
+Peter Martyr Vermigli deals with the doctrine of penance in three texts, his
+early Credo, biblical commentaries, and the late treatise De Poenitentia; all
+three are consistent in their teaching. Following the example of Melanchthon
+and Calvin, he emphasizes the positive beneﬁts of repentance, namely mor-
+tiﬁcation and viviﬁcation. He rejects the sacramental nature of absolution,
+but makes repentance, private and public, part of his stress on discipline as
+the third mark of the church.
+
+Prof. (em.) Dr. Joseph C. McLelland, Montreal
+
+36
+
+Zwingliana XXXIV, 2007
+
+

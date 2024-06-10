@@ -1,0 +1,4273 @@
+Christian Moser
+
+Geschichtskonzeption und -methodologie
+
+Geschichtskonzeption und -methodologie Dokumente zur Zürcher Historiographie des Refor-
+
+Geschichtskonzeption und -methodologie
+
+Dokumente zur Zürcher Historiographie des
+
+Reformationszeitalters
+
+Von Christian Moser
+
+Einleitung
+
+Das historiographische Wirken Ludwig Lavaters (1527–1586), des Schwie-
+gersohns Heinrich Bullingers und kurzzeitigen Antistes der Zürcher Kirche
+(1585–1586), war bislang nur bekannt durch dessen 1563 erstmals erschie-
+nene, über die Jahre 1524 bis 1563 führende Darstellung des Abendmahls-
+streites  «Historia  de  origine  et  progressu  controversiae  sacramentariae  de
+coena  Domini»  (Zürich:  Christoph  Froschauer  d.Ä.  [BZD  C  635]).  Dass
+sich Lavater aber weit intensiver als gemeinhin angenommen mit der Ge-
+schichtsschreibung und ihrer Problematik befasst hat, zeigt ein neuentdeck-
+tes Dokument einerseits und eine Neuzuschreibung einer bereits bekannten
+Quelle andererseits. Beim ersten Stück handelt es sich um ein 1559 entstan-
+denes, in einer Abschrift Johann Rudolf Stumpfs überliefertes Konzept La-
+vaters  einer  zu  schreibenden  Darstellung  der  Zürcher  Reformationsge-
+schichte,  das  sich  in  acht  Kapiteln  geschichtsmethodologischen  Fragen
+zuwendet und in einem letzten Kapitel chronologische Notizen zu den Er-
+eignissen der Jahre 1518–1525 bietet. Beim zweiten Stück handelt es sich um
+einen an Johannes Pontisella d.J. (1552–1622) gerichteten undatierten Brief
+mit verschiedenen Ratschlägen und Hinweisen zur Abfassung einer Bünd-
+nergeschichte. Dieser Brief wurde in der Vergangenheit im Anschluss an Pe-
+trus Dominicus Rosius a Porta (1732–1806) fälschlicherweise Heinrich Bul-
+linger zugeschrieben. Bei näherer Betrachtung lässt sich diese Zuschreibung
+jedoch  aus  chronologischen  und  inhaltlichen  Gründen  nicht  halten,  viel-
+mehr kann mit guten Gründen Ludwig Lavater als Verfasser des Briefes be-
+stimmt werden.
+
+Im folgenden werden die beiden genannten Dokumente ediert und über-
+setzt, während eine detailliertere Erörterung ihrer Entstehung, eine Inhalts-
+analyse  und  eine  Kontextualisierung  im  Rahmen  des  historiographischen
+Schaffens  im  Zürich  des  Reformationszeitalters  im  nächsten  Band  der
+Zwingliana geboten werden wird.
+
+Zwingliana XXXIII, 2006
+
+93
+
+Christian Moser
+
+Dokument 1
+Ludwig Lavater: Konzept einer Reformationsgeschichte (1559)
+Vorlage
+
+Zürich StA, E II 437, Bl. 150r-157v
+Seitengröße  215 (cid:1) 325mm,  Satzspiegel  ca.  145 (cid:1) 270mm,
+Zeilenzahl wechselnd ca. 32, Blätter nachträglich bezeichnet,
+Bl. 150v leer, Spuren von vierfachem Längsfalz, Marginalien,
+Kustoden recto und verso
+Hand von Johann Rudolf Stumpf (1530–1592)
+Zürich ZB, Ms. S 203, Bl. 125r-134v
+Hand von Johann Jakob Simler (1716–1788)
+
+Abschrift
+
+Druck
+
+Dokument 2
+Ludwig Lavater: Brief an Johannes Pontisella d. J. (1579/1580)
+Vorlage
+
+Petrus  Dominicus  Rosius  a  Porta,  Historia  Reformationis
+ecclesiarum Raeticarum [.. .], 2 Teile, Chur 1771, Bl. b2r-c2r
+Bullingers Korrespondenz mit den Graubündnern, Bd. 3, hg.
+von  Traugott  Schiess,  Basel  1906  (QSG  25)  (Nachdruck
+Nieuwkoop 1968), 522–527, Nr. 457
+
+Übersetzung T[raugott] S[chiess], Ein Brief Heinrich Bullingers über die
+Sammlung  historischen  Materials,  in:  Sonntags-Beilage  der
+Allgemeinen Schweizer Zeitung, Nr. 5 f. (2. und 9. Februar),
+Basel 1902, S. 18–20; 23f.
+
+94
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+Ludwig Lavaters Konzept einer
+
+Reformationsgeschichte (1559): Edition 1
+
+||150r Lodovici Lavateri Tigurini de a scribenda ecclesiae Tigurine˛ aliarumque
+ecclesiarum  Helvetiae  historia  consilium,  cuius  praecipua  capita,  que˛  trac-
+tanda videntur, haec sunt:
+
+I. Zuinglius
+II. Disputationes
+
+– Badensis
+
+1
+
+5
+
+Lodovici Lavateri Tigurini de in Versalien Ms.
+
+1
+a
+1 Der Edition liegt Zürich StA, E II 437, Bl. 150r-157v zugrunde. Die Interpunktion und die
+Groß- und Kleinschreibung wird – auch bei Zitaten aus HBRG – normalisiert: Groß ge-
+schrieben werden Satzanfänge, Personen- und Ortsnamen. In deutschen Texten werden u/v
+und i/j gemäß ihrem Lautwert normalisiert, in lateinischen Texten werden u/v normalisiert
+und i/j stets als i wiedergegeben. Bei den in den Anmerkungen wiedergegebenen frühneu-
+hochdeutschen Passagen werden a und o mit übergestelltem e zu ä und ö; u mit übergestell-
+tem e je nach Verwendung zu ü oder üe. Nummerierungen folgen der Vorlage. Gliedernde
+Marginalien werden in spitzen Klammern in den Text eingefügt. Die Paginierung von Zürich
+StA, E II 437 wird neben zwei senkrechten Strichen angezeigt. Im sachkritischen Apparat
+wird neben den üblichen Erläuterungen zu Begriffen, Personen und Ereignissen insbeson-
+dere auch auf Parallelstellen in Bullingers Reformationsgeschichte hingewiesen, deren enge
+Beziehungen zum Konzept Lavaters in einem Beitrag im nächsten Jahrgang der Zwingliana
+nachgegangen werden soll. Die Detailliertheit der Erläuterungen zu den von Lavater erwähn-
+ten Personen variiert je nach deren Bekanntheitsgrad; bei Zwingli, Luther und Erasmus feh-
+len  solche  Erläuterungen  vollständig.  Folgende  nicht  im  Abkürzungsverzeichnis  von
+Schwertner  und  in  den  Benützungshinweisen  dieser  Zeitschrift  aufgeführte  Abkürzungen
+fanden Verwendung: BZD: Manfred Vischer, Bibliographie der Zürcher Druckschriften des
+15. und 16. Jahrhunderts, Baden-Baden 1991 (BBAur 124); EA: Amtliche Sammlung der äl-
+teren Eidgenössischen Abschiede, 8 Bde., Luzern u.a. 1839–1890; EAk: Actensammlung zur
+Geschichte der Zürcher Reformation in den Jahren 1519–1533, hg. von Emil Egli, Zürich
+1879 (Nachdruck Aalen 1973); ContEr: Contemporaries of Erasmus: A Biographical Regis-
+ter of the Renaissance and Reformation, hg. von Peter G. Bietenholz und Thomas B. Deut-
+scher, 3 Bde., Toronto u.a. 1985–1987; HBD: Heinrich Bullingers Diarium (Annales vitae)
+der Jahre 1504–1574, hg. von Emil Egli, Basel 1904 (QSRG 2); HBRG: Heinrich Bullingers
+Reformationsgeschichte. Nach dem Autographon hg. auf Veranstaltung der vaterländisch-
+historischen Gesellschaft in Zürich von J[ohann] J[akob] Hottinger und H[ans] H[einrich]
+Vögeli, 3 Bde., Frauenfeld 1838–1840 (Nachdruck Zürich 1985); HLS: Historisches Lexikon
+der Schweiz, Chefred. Marco Jorio, Basel 2002ff.; NHZB: Ernst Gagliardi / Ludwig Forrer,
+Neuere Handschriften seit 1500, Zürich 1931–1982 (Katalog der Handschriften der Zentral-
+bibliothek Zürich 2); StA: Staatsarchiv; VD 16: Verzeichnis der im deutschen Sprachbereich
+erschienenen  Drucke  des  XVI.  Jahrhunderts,  Stuttgart  1983–2000;  ZB:  Zentralbibliothek;
+ZPfB: Zürcher Pfarrerbuch 1519–1952, hg. von Emanuel Dejung und Willy Wuhrmann, Zü-
+rich 1953; ZRL: Die Zürcher Ratslisten 1225 bis 1798, bearb. von Werner Schnyder, Zürich
+1962. Für philologischen Rat danke ich Dr. Philipp Wälchli und für zahlreiche Hinweise lic.
+theol. Rainer Henrich.
+
+Zwingliana XXXIII, 2006
+
+95
+
+Christian Moser
+
+1
+
+5
+
+10
+
+– Bernensis b
+
+III. Bella
+
+– Rheticum
+– Capellana duo c
+
+IIII. Martyres
+
+V. Anabaptiste˛
+VI. Sacramentaria pugna
+VII. Bullingerus eiusque tempora
+
+Descriptum a Ioanne Rodolpho Stumphio 2 Tigurino, anno Domini 1560. 3
+
+||151r [150v leer] Proemium authoris d
+
+Utile esse hoc tempore, ut historiae nostrae ecclesiae colligantur e
+
+Multas et graves ob caussas utile esse iudico, ut homo aliquis laboriosus ac di-
+ligens res ecclesiae Tigurine˛ aliarumque ecclesiarum Helvetiae, que˛ eandem
+doctrinam cum Tigurina amplectuntur, colligat et disponat.
+
+15
+
+‹I. Prima utilitas f› Faciet enim hoc ad gloriam Dei optimi maximi, cuius in-
+gens hoc beneﬁcium celebrabitur, quod praestantes eruditione et pietate g he-
+
+Badensis und Bernensis mit geschweifter Klammer zusammengehalten Ms.
+Rheticum und Capellana duo mit geschweifter Klammer zusammengehalten Ms.
+Proemium authoris als Überschrift in Versalien und unterstrichen Ms.
+
+d
+e Utile esse hoc tempore, ut historiae nostrae ecclesiae colligantur als Überschrift in Versalien,
+
+die zweite Zeile nostrae ecclesiae colligantur zudem unterstrichen Ms.
+Prima uti- in Versalien Ms.
+pieatate Ms.
+Johann Rudolf Stumpf, geb. 1530, gest. 1592, Sohn des Pfarrers und Chronisten Johannes
+Stumpf (1500–1577/1578, vgl. HBBW IV 76, Anm. 1). Nach dem Schulbesuch in Zürich und
+einem Bildungsaufenthalt in England (vgl. Claire Ross, Continental Students and the Protes-
+tant Reformation in England in the Sixteenth Century, in: Reform and Reformation: England
+and the Continent c1500-c1750, hg. von Derek Baker, Oxford 1979 [Studies in Church Hi-
+story, Subsidia 2], 35–57) wurde Johann Rudolf 1552 Pfarrer in Albisrieden, 1553 in Kilch-
+berg und 1584 an der Predigerkirche in Zürich. Seit 1583 Dekan des Zürichseekapitels, wurde
+er 1586 als Nachfolger Ludwig Lavaters zum Antistes gewählt. Johann Rudolf besorgte 1586
+eine Neuauﬂage der historisch-topographischen Landesbeschreibung seines Vaters (BZD C
+1090) und hinterließ neben anderem ungedruckte Predigten (NHZB 400f., 424, 431), Über-
+setzungen aus Isokrates (NHZB 135), Gutachten und Eingaben (NHZB 40) und eine Samm-
+lung von «loci communes» (NHZB 431, 1138) – Lit.: HBLS VI 592; ZPfB 555; Georg Ru-
+dolph Zimmermann,  Die  Zürcher  Kirche  von  der  Reformation  bis  zum  dritten
+Reformationsjubiläum  (1519–1819)  nach  der  Reihenfolge  der  Zürcherischen  Antistes  ge-
+schildert, Zürich 1878, 118–124.
+Lavaters Konzept datiert vom Jahr 1559, vgl. unten Bl. 153r: «usque ad hunc annum Christi
+1559».
+
+2
+b
+
+c
+
+f
+
+g
+
+2
+
+3
+
+96
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+roas h excitavit, quorum ministerio doctrinam synceram ex densissimis tene-
+bris  revocavit  et  eandem  contra  pontiﬁcum,  principum  omniumque
+adversariorum evangelii furores protegit atque conservat. Profecto, si quis
+rem paulo attentius i consyderet, Deum dicet non aliter evangelium Tiguri,
+quam Danielem inter famelicos leones conservavisse 4 eique hoc nomine gra-
+tias aget. 5
+
+1
+
+5
+
+‹II. utilitas j› Deinde multiplex etiam ad pios, qui nunc in Helvetia vivunt ac
+etiam alibi, item ad posteros nostros utilitas perveniet. Multi enim, qui ali-
+quando legent, que˛ primi illi evangelii restauratores, ecclesiastici et politici
+viri, pericula evangelii caussa adiverint, quos labores susceperint, quas afﬂic-
+tiones pertulerint, excitabuntur, ut iisdem vestigiis insistant. Putamus non-
+nunquam unius et alterius ministerio nihil aut parvum efﬁci, sed pauci rem
+magnam aggressi sunt et Deo duce et authore ad optatum exitum perduxe-
+rint. 6
+
+‹III. utilitas k› Deinde adversarii nostri cum papiste˛ tum alii multa falsa et ca-
+lumniosa de ecclesiis Helveticis prodiderunt, que˛ cum extere˛ gentes legunt,
+ita rem habere putant et in magnos errores indu||151vcuntur. 7 Audivi ego Pa-
+risiis hominem Germanum, qui in corona doctorum virorum afﬁrmabat Zu-
+
+10
+
+15
+
+4
+h
+
+i
+
+j
+
+k
+
+4
+
+5
+
+Vor heroas gestrichen viros Ms.
+atttentius Ms.
+utilitas in Versalien Ms.
+utilitas in Versalien Ms.
+Vgl. Dan. 6, 1–29.
+Zu dieser Motivation der Verherrlichung Gottes vgl. auch Bullingers Einleitung zu seiner Re-
+formationsgeschichte (HBRG I 1f.), wo er betont, dass seine Darstellung «herrliche werke
+Gottes» und «vil wunderwerche Gottes» festhält.
+
+6 Die Motivierungs- und Bekräftigungsqualität der Historiographie bringt auch Bullinger in
+seiner Einleitung zum Ausdruck, vgl. HBRG I 2: «Vil der wunderwerchen Gottes wirt man
+hierinn sähen, insonders den häfftigen stryt der waren religion mitt der falschen, und sy ouch
+beyd lernen erkennen. Darby ouch, wer redlich ist, ein herz empfahen, by der wahren reli-
+gion, z ou deren Zürich so trüwlich gesezt hat, biß in das end trostlich verharren, Gott hier-
+umm bitten, und prysen und ein beharrlichen eewigen unwillen gegen der falschen religion
+fassen und tragen.»
+
+7 Diese Möglichkeit, durch eine historiographische Darstellung falschen Aussagen entgegen-
+zutreten, nahm Bullinger etwa in seinem Kapitel «Was falschen schrybens von dem verlurst
+der Zürycher in disem krieg uußgangen sye» (HBRG III 159–162) in Anspruch, in dem er
+tendenziöse und fehlerhafte Berichte über die Schlacht von Kappel korrigierte, vgl. HBRG
+III 159: «Von disem verlurst der Zürychern [.. .] sind uußgesandt allerlei geschrifften, ouch
+ettlicher büecher getruckt, darinn one alle scham allerley falsches und die unwarheit fürgeben
+ist. Uß sömlichen geschrifften ist hernach vil ein andere meynung wyt und breit, hin und har,
+in den landen in die gem oute yngebildet und yngesässen, dann aber die sach und warheit an
+iren selbs ist oder vermag.»
+
+Zwingliana XXXIII, 2006
+
+97
+
+Christian Moser
+
+1
+
+5
+
+10
+
+inglium motus rusticorum authorem fuisse et illius caussa tot millia periisse. 8
+Sunt item, qui anabaptismi exordia ad Zuinglium referant. 9 Verum ex dilli-
+genti collectione historiarum nostrarum longe secus habere, quivis nullo ne-
+gotio intelliget.
+
+‹IV. utilitas l› Exterae etiam gentes, que˛ nostris ecclesiis non parvum tribuunt,
+de rebus nostris nihil fere comperti habent et pleraque aliter gesta esse cre-
+dunt, quam oportebat.
+
+Possunt m autem de omnibus fere rebus ad ecclesiae instaurationem pertinen-
+tibus hodie veri testes reperiri, qui, quo pacto singula gesta sint, referre pos-
+sunt.  Si  vero  collectio  harum  rerum  in  sequentia  tempora  reiiciatur,  pauci
+erunt, qui certi aliquid de his rebus possint n afferre. Fit autem, ut, dum ali-
+quid geritur, nemo fere animadvertat, postea, cum libenter omnia certo or-
+dine describeremus, circumstantiae omnes non amplius nobis occurrant.
+
+Videtur o etiam grati esse animi illorum ﬁdem, pietatem et constantiam cele-
+brare, qui magna pars fuerunt restitute˛ christiane˛ relligionis. Saepe conque˛ ri-
+
+15
+
+8 Marginalie unterstrichen und in Versalien Ms.
+l
+m Daneben die unterstrichene Marginalie in Versalien A facili Ms.
+n
+o Unterstrichene Marginalie Ab honesto Ms.
+8
+
+possint korrigiert aus possiunt o.ä. Ms.
+
+Lavater berichtet über eine Episode während seines Studienaufenthalts in Paris 1547/48. In
+seinen Briefen an Bullinger aus dieser Zeit erwähnt Lavater diesen gegen Zwingli gerichteten
+Vorwurf nicht, vgl. Lavater an Bullinger, 24. Januar 1548 (Zürich ZB, Ms. F 81, 114); 10. Fe-
+bruar (Zürich ZB, Ms. F 39, 723–726); 21. September (Zürich ZB, Ms. F 39, 737); 4. Dezem-
+ber (Zürich ZB, Ms. F 39, 714); 8. Dezember (Zürich ZB, Ms. F 39, 719).
+
+9 Den kausalen Zusammenhang zwischen Zwingli und dem entstehenden Täufertum oder so-
+gar die Identiﬁkation ihrer Lehren betonten sowohl katholische als auch lutherische Gegner
+der Zürcher Reformation. Vgl. etwa Johannes Faber, Christenliche Beweisung Doctor Jo-
+hann Fabri über sechs Artickel des unchristlichen Ulrich Zwinglins Meister zu Zürich, Tü-
+bingen: Ulrich Morhart d. Ä., 1526 (VD 16 F 195), Bl. A2v: «und syen ausz Zwinglischer sect
+unerhört wunderbarlich secten / dergleichen wie von Luther erstanden / also das etlich all ir
+übelthat / wann auch ein bruoder dem andern dz haupt abgeschlagen / mit dem entschuldiget
+habent / es sey des vatters will. / etlich habendt auff hohen bergen zuo wintters zeit den jüng-
+sten tag wöllen erwarten / darnach sind die widertäuffer aufferstanden in grosser zal / die sich
+selber und hundertjärig Christen wider getäufft und den Kinder tauff verworffen haben.»
+(zit. nach: Fritz Büsser, Das katholische Zwinglibild: Von der Reformation bis zur Gegen-
+wart, Zürich/Stuttgart 1968, 9). Der Vorwurf blieb auch in Bullingers Zeit virulent und kir-
+chenpolitisch hochgradig gefährlich. Martin Luther schrieb in seinem «Kurzen Bekenntnis
+vom heiligen Sakrament» (WA LIV 141) etwa von der «verﬂuchten Rotte der Schwermer,
+Zwingler und dergleichen». In seiner Reformationsgeschichte bemühte sich Bullinger deswe-
+gen um eine Entkräftung dieses Vorwurfs, indem er die Entstehung des Täufertums nach
+Sachsen verlegte und das Zürcher Täufertum gleichsam als Importprodukt deklarierte, das
+«den widertouff uß dem Müntzer gesogen» habe, vgl. das Kapitel «Vom anfang der wider-
+töüffery  und  töüffern,  die z ou  Zürych  uff  st oundent,  und  das  wider  sy  disputiert  worden»
+(HBRG I 237–239).
+
+98
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+mur  multa  vastationibus  barbarorum  intercidisse,  interim  tamen  illa,  que˛
+posteritatem quoque scire multum interest, non annotamus. Optamus saepe,
+ut, que˛ olim gesta sunt, multa diligenter essent conscripta, multas tamen res
+memorabiles, que˛ quotidie accidunt quasque omnes non sine maxima admi-
+ratione audiunt et intuentur, in libros non referimus. Placent nobis illorum
+labores, qui res bello fortiter gestas et ||152r rempub[licam] spectantes, sive
+domesticae fuerint, sive peregrine˛ , diligenter pertractant, res tamen, que˛ rel-
+ligionem attinent, rem omnium maximam, interim non exornamus nec de-
+scribimus. Laudamus illorum conatus quoque, qui ecclesiarum suae gentis
+primordia et propagationem, ritus et alia describunt, nemo tamen in hoc in-
+cumbit, ut ecclesiae nostrae historicam p aliquam narrationem tandem habea-
+mus.
+
+‹Epilogus› His igitur omnibus motus statui saltem colligere, que˛ cumque de
+rebus nostris vera et explorata haberi possunt.
+
+Qua ratione materia historiae ecclesiasticae colligenda sit r
+
+II. Caput q
+
+Porro in colligenda materia historiae s ecclesiastice˛ hac via videtur ingredien-
+dum esse: 10
+
+‹I.› Ut primum varii libelli, praefationes, acta, statuta, orationes, consilia,
+responsa colligantur, quibus aliquid continetur de rebus ecclesiasticis.
+‹II.› Deinde littere˛ doctorum virorum investigande˛ sunt, que˛ de rebus nos-
+
+tris loquuntur, ut sunt epistolae Zuinglii et Oecolampadii 11. 12
+
+1
+
+5
+
+10
+
+15
+
+20
+
+10 Vor historicam gestrichen aliquam Ms.
+p
+q
+r Die erste Zeile Qua ratione materia historiae eccle- in Versalien, die zweite Zeile -siasticae
+
+II. Caput unterstrichen und in Versalien Ms.
+
+colligenda sit unterstrichen Ms.
+histori Ms.
+
+11
+
+s
+10 Zur lebenslangen intensiven historischen Sammlungstätigkeit Bullingers, die alle von Lavater
+erwähnten relevanten Quellengattungen umfasste, vgl. Christian Moser, «Vil der wunderwer-
+chen  Gottes  wirt  man  hierinn  sähen»:  Studien  zu  Heinrich  Bullingers  Reformationsge-
+schichte, Typoskript Zürich 2002, bes. 30–34.
+Johannes  Oekolampad,  geb.  1482,  gest.  1531,  Reformator  Basels.  –  Lit.:  Ernst Staehelin,
+Briefe und Akten zum Leben Oekolampads, 2 Bde., Leipzig 1927/1934 (QFRG 10, 19); ders.,
+Oekolampad-Bibliographie: Verzeichnis der im 16. Jahrhundert erschienenen Oekolampad-
+drucke,  in:  BZGAK  17/1,  1918,  1–119  (Sonderdruck  Basel  1918;  Nachdruck  Nieuwkoop
+1963) (Ergänzungen ebd. 27, 1928, 191–234 und 65, 1965, 165–194); ders., Das theologische
+Lebenswerk  Johannes  Oekolampads,  Leipzig  1939  (QFRG  21)  (Nachdruck  New  York
+1971); Walter Troxler, in: BBKL VI, 1133–1150; Martin H. Jung, in: RGG4 VI 458f.; Ulrich
+Gäbler, in: TRE XXV 29–36.
+
+12 Lavater bezieht sich auf die von Theodor Bibliander besorgte Briefausgabe «DD. Ioannis
+Oecolampadii et Huldrichi Zuinglii epistolarum libri quatuor», Basel: Thomas Platter und
+
+Zwingliana XXXIII, 2006
+
+99
+
+Christian Moser
+
+1
+
+5
+
+‹III.› Tertio, chronica a nostris 13 descripta, item ab exteris, consulenda sunt.
+Sleidanus multa habet de nostris rebus, 14 que˛ an omnia ita habeant, di-
+ligenter  est  investigandum.  Adversariorum  quoque  falsa  et  calum-
+niosa scripta, plura cogitandi nobis occasionem dabunt. 15
+
+‹IIII.› Quarto,  recessus,  ut  vocant,  quotquot  haberi  possunt,  sunt  consu-
+
+lendi. 16
+
+‹V.› Quinto, senes hinc inde, qui aliquot de rebus illis referre possunt, cum
+iuditio  interrogandi  sunt,  praecipue  vero  illi,  quos  rerum  gestarum
+partem magnam fuisse novimus. 17
+
+Balthasar Lasius, 1536 (VD 16 O 319); weitere Ausgabe zu Lebzeiten Lavaters: «Epistolae
+doctorum virorum», [Basel: Hieronymus Froben d. Ä. und Nikolaus Episcopius d. Ä., 1548]
+(VD 16 O 320). Bullinger verweist in HBRG I 307 auf die Briefausgabe.
+
+14
+
+13 Bullinger  zog  für  seine  reformationsgeschichtliche  Dokumentation  die  zeitgenössischen
+Zürcher Chroniken und Berichte umfassend heran. Unter den von ihm benutzten Quellen
+ﬁnden sich etwa die Aufzeichnungen des Fridli Bluntschli, Johannes Stumpf, Bernhard Wyss,
+Bernhard Sprüngli, Hans Edlibach und des Laurentius Bosshart sowie das sog. «Wirthen-
+büchlein» zum Prozess gegen die Ittinger Klosterstürmer. Vgl. Moser, Studien, 45–78.
+Johannes Sleidanus, Geschichtsschreiber, Übersetzer und Diplomat, geb. 1506, gest. 1556.
+Sleidan wurde 1536 Sekretär des Kardinals Jean Du Bellay in Paris, wo er als Verbindungs-
+mann zwischen reformgesinnten Kreisen in Paris und deutschen Protestanten fungierte und
+das historische Werk des Jean Froissart übersetzte. Nach der 1544 erfolgten Umsiedlung nach
+Straßburg avancierte er zum Diplomat und Geschichtsschreiber des Schmalkaldischen Bun-
+des. – Lit.: Alexandra Kess, Johannes Sleidan and the Protestant Vision of History, Aldershot
+2007 (im Druck); Walter Friedensburg, Johannes Sleidanus: Der Geschichtsschreiber und die
+Schicksalsmächte der Reformationszeit, Leipzig 1935 (SVRG 157); Laurence Druez, L’Hu-
+maniste Allemand Jean Sleidan: De la Diplomatie à l’Histoire, in: Cahiers de Clio 123, 1995,
+15–32; Hermann Baumgarten, Sleidans Briefwechsel, Straßburg 1881. – Sleidans Darstellung
+der Reformationsgeschichte im Reich «De statu religionis et reipublicae Carolo Quinto Cae-
+sare commentarii» fand weite Verbreitung und starke Beachtung (vgl. VD 16 S 6668–6717;
+Emil van der Vekene, Johann Sleidan [Johann Philippson]: Bibliographie seiner gedruckten
+Werke [.. .], Stuttgart 1996). Auch in Zürich studierte man das Werk mit großem Interesse
+und übersandte Sleidan Korrekturvorschläge, insbesondere zu seiner Darstellung der Kappe-
+lerkriege,  vgl.  Otto Winckelmann,  Zur  Geschichte  Sleidans  und  seiner  Kommentare,  in:
+ZGO 53, NF 14, 1899, 565–606. Bullinger verweist in seiner Reformationsgeschichte mehr-
+fach  auf  Sleidan:  HBRG  I  20  (erste  Wirksamkeit  Luthers);  HBRG  I  22  (Rückeroberung
+Württembergs  1534  durch  Herzog  Ulrich);  HBRG  I  28  (Kaiserwahl  1519);  HBRG  I
+36.81.155.366,  II  47.273  (Reichstage  in  Worms  1521,  Nürnberg  1523,  Regensburg  1524,
+Speyer 1526 und 1529, Augsburg 1530); HBRG I 248 (Thomas Müntzers Tod); HBRG I 365
+(Freilassung von Franz I.); HBRG II 62 (Abschaffung der Messe in Straßburg).
+
+15 Vgl. oben Anm. 7.
+16 Tagsatzungsabschiede und amtliche Akten und Dokumente, denen Bullinger eine hohe Au-
+thentizität zusprach, verarbeitete dieser in seiner Reformationsgeschichte in großer Zahl, wo-
+bei er sie zumeist in extenso zitiert, vgl. seine Bemerkung in der Einleitung (HBRG I 2): «Z ou
+dem allem, hab ich insonders gestellt, nitt one kleine arbeit und grossen kosten, umm die uß-
+schryben, brieff und abscheyd, und was dergelichen gschrifften ist, uß welchen man den räch-
+ten grund aller sachen haben mag. Hab ouch darum in dise history ettwan gantze copyen der
+brieffen und vil abscheyden gestellt.»
+
+17 Auch Bullinger stützte sich auf Augenzeugenberichte, wie beispielsweise bei der Darstellung
+
+100
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+‹VI.› Sexto, libri etiam  alii a nostris hominibus descripti diligenter evol-
+vendi sunt, et si quid obiter admisceant, ||152v quod ad historiae scrip-
+tionem facere videatur, exscribendum erit. Exempli gratia, multa in
+Zuinglii et Bullingeri scriptis observari possunt, que˛ ad hanc rem per-
+tinent. 18 Speramus autem bonos et pios homines propensos fore ad
+iuvandum hoc studium.
+
+1
+
+5
+
+Res historicae cap[ut] III t
+
+Subiiciam nunc, que˛ res in ecclesiastica historia potissimum tradende˛ videan-
+tur, que˛, ut mihi videtur, commode in decem capita possunt distribui:
+
+I. Quibus in locis ecclesia initium acceperit et quomodo subinde creve-
+
+rit et in vicinas gentes propagata sit et quibusdam in locis eversa.
+
+II. Personae consyderande˛ sunt, quorum ministerio in aediﬁcanda eccle-
+sia Deus praecipue usus est. Huc pertinent pastores, professores, le-
+gati, senatorii ordinis viri.
+
+10
+
+15
+
+20
+
+III. Doctrina, que˛ sit proposita, et eius capita.
+IIII. Ceremoniae et ritus consyderandi.
+
+V. Synodi et disputationes publicae et comitia.
+VI. Scismata,  haereses,  relligiones  peregrinae  et  defectiones,  supplitia
+
+item sumpta de haereticis.
+
+VII. Persecutiones, hostes verbi, ecclesiastici et politici viri.
+VIII. Martyres et apostate˛ .
+VIIII. Status politiae, foedera, comitia, decreta.
+
+X. Miracula et prodigia.
+
+der dramatischen Rettung des Zürcher Banners in der Schlacht von Kappel (HBRG III 133):
+«Und  was  hie  von  der  paner  geschriben  ist,  hab  ich  verzeychnet  und  geschriben  uß  dem
+mund und angeben der vorgemellten eeren mannen Kleinhansen Kammlis, Hansen H oubers,
+Adam Näfens, und Uly Däntzlers.» Vgl. auch Bullingers Verwertung von Augenzeugenbe-
+richten in seiner «Eidgenössischen Chronik» (Zürich ZB, Ms. A 14, Bl. 27r): «Wo ich dann
+von allten eeren warhafften lüthen gehört und gewüst, die noch geläpt, in den kriegen selbs
+gewesen, ouch allter dingen bericht warend, hab ich die selben angesträngt und gefraget, wie
+die sachen ergangen und wo ich sunst gloubwirdige erzellungen der allten eeren lüthen ge-
+hört, hab ichs verzeichnet.» Vgl. Christian Moser, Heinrich Bullinger’s Efforts to Document
+the Zurich Reformation: History as Legacy, in: Architect of Reformation: An Introduction to
+Heinrich Bullinger, 1504–1575, hg. von Bruce Gordon und Emidio Campi, Grand Rapids,
+Mich.  2004  (Texts  and  Studies  in  Reformation  and  Post-Reformation  Thought),  210  und
+ders., Studien, 111f.
+Res historica cap[ut] III in Versalien und unterstrichen Ms.
+
+t
+t
+18 Zur Benutzung von Zwingliwerken als Quelle in Bullingers Reformationsgeschichte vgl. bei-
+spielsweise seine Beschreibung der ersten Predigttätigkeit Zwinglis in Zürich (HBRG I 31),
+die aus Zwinglis «Apologeticus Archeteles» (Z I 284,39–285,25) schöpft.
+
+Zwingliana XXXIII, 2006
+
+101
+
+1
+
+His capitibus omnia fere videntur contineri, que˛ ad nostrarum ecclesiarum
+descriptionem pertinent. u
+
+Christian Moser
+
+Anni historiae cap[ut] IIII v
+
+5
+
+10
+
+Postquam  vero  materia  multiplex  et  varia  fuerit  congesta,  necessariae  res
+bono ordine et integre oculis subiici possent. Deinde ex his omnibus summa
+ornari posset ||153r et exteris etiam populis communicari. Initio sumpto a ca-
+lendis ianuariis anni 1519, quibus Zuinglius primam Tiguri concionem ha-
+buit, historiam deducendam putarem usque ad hunc annum Christi 1559. 19
+Complecteretur autem haec historia annos 40. w In quos multa incurrunt mi-
+randa, que˛ acciderunt, que˛ diligentem investigationem et collectionem requi-
+runt.  Possent  que˛ dam  polytica  et  res  etiam  exterae  in  cuiusque  anni  ﬁne
+propter ordinem historiae et meliorem intelligentiam adiungi. 20
+
+Ordo historiae cap[ut] V x
+
+15
+
+Ordine vero partim naturali, partim artiﬁciali utendum existimarem. Possent
+enim hinc inde multa ex veteribus historiis repeti, veluti si scribas quomodo
+Zuinglius Tigurum venerit et in plebanum, ut vocant, delectus sit, posset per
+
+19 Marginal Ms.: Seditiones hic omissae, nisi forte referend¸e sint sub 7. vel 9. tit[ulo] vel etiam
+u
+
+sub 6.
+
+v Anni historiae cap[ut] IIII in Versalien und unterstrichen Ms.
+w Marginalie in Versalien Ms.: Historia 40 annorum.
+x Ordo historiae cap[ut] V in Versalien und unterstrichen Ms.
+19 Bullingers Reformationsgeschichte setzt nach einer Übersicht über die religiösen («Was für
+ein wäsen vor und zu disen zyten, des 1519 iars in geistlichem stand in der Eidgnosschafft ge-
+wesen», HBRG I 3f.) und politischen («Was für ein wäsen vor und zu disen zyten in wälltli-
+chem stand in der Eydgnosschafft gewesen», HBRG I 4–6) Zustände vor 1519 und einer Be-
+schreibung des Werdegangs Zwinglis («Von dem herkummen m. Ulrych Zwinglis, und wie er
+gen Zürych zu predigen berüfft ward», HBRG I 6–11) mit dem von Lavater empfohlenen
+Datum des Amtsantritts Zwinglis in Zürich ein («Wie Zwingli zu Zürich angenommen ward,
+und anhub predigen», HBRG I 12f.). Seine Darstellung reicht aber nur bis zur Maisynode
+1533. Den übrigen Zeitraum bis 1559 deckte – mindestens was die weitere konfessionelle
+Entwicklung betraf – Lavater selbst mit einer Darstellung des Abendmahlsstreits ab: Historia
+de origine et progressu controversiae sacramentariae de coena Domini, ab anno nativitatis
+Christi MDXXIIII usque ad annum MDLXIII deducta, Zürich: Christoph Froschauer d. Ä.,
+1563  (BZD  C  635;  VD  16  L  822);  Übersetzung  durch  Johannes  Stumpf:  Historia  oder
+gschicht von dem ursprung und fürgang der grossen zwyspaltung [.. .], Zürich: Christoph
+Froschauer d. J., 1564 (BZD C 746; VD 16 L 823).
+
+20 Diese der konventionellen chronologischen Praxis entsprechende Darstellungsform fand bei
+
+Bullinger keine Anwendung.
+
+102
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+digressionem y de huius ecclesiae vetustate 21 dici et quod etiam veteres illi ca-
+nonici concionati sint. Posteris vero temporibus plebano hanc provinciam
+soli  imposuerint.  Ita  in  reformatione  Bernensi  obiter  de  praedicatoribus
+Bern¸e combustis 22 propter rei magnitudinem narratio posset institui. 23
+
+In singulis capitibus quae spectanda, caput VI z
+
+In singulis vero capitibus vel rebus historicis diligenter cogitandum videtur,
+quid necessarium sit, quid minus quidque veteres de singulis capitibus scrip-
+sisse observaverimus. Veluti, si dicendum sit de aliqua synodo, quid ecclesia-
+stici scriptores in describendis synodis sua aetate observarint. In collectione
+quidem ||153v possunt multa consyderari, quorum postea, si conscribenda sit
+historia, multa resecari debent. Delectus enim habendus est. 24
+
+1
+
+5
+
+10
+
+Personae descriptio cap[ut] VII aa
+
+Possunt autem et debent in singulis illis capitibus supra expositis plura con-
+syderari. De personis exemplum proponam. In quibus haec et alia consyde-
+randa veniunt:
+
+15
+
+21 Marginalie teilweise in Versalien: Digressiones.
+y
+z Die Überschrift in Versalien, die zweite Zeile caput VI unterstrichen Ms.
+aa Die Überschrift in unterstrichenen Versalien Ms.
+21 Vgl. HBRG I 113–115: «Von dem stifft zum Grossen münster und wie es reformiert ward»;
+HBRG I 125f.: «Von dem Frowenmünster Zürych, und wie es reformiert worden, und ein
+collegium dahin geordnet ist».
+
+22 Gemeint ist der sogenannte Jetzerhandel 1507–1509 in Bern, der nach vermeintlichen Mari-
+enerscheinungen Hans Jetzers (um 1483–1514) und einer Untersuchung zum Todesurteil ge-
+gen  die  Vorsteher  des  Berner  Dominikanerkonvents  Johannes  Vatter,  Stephan  Boltzhurst,
+Franz Ueltschi und Heinrich Steinegger führte. Der Jetzerhandel verursachte einen großen
+Skandal und wurde für die Reformatoren zu einem Sinnbild für das depravierte Mönchtum.
+Vgl. Die Akten des Jetzerprozesses nebst dem Defensorium, hg. von Rudolf Steck, Basel 1904
+(QSG 22); Helvetia Sacra IV/5, Basel 1999, 297–299. In seiner Reformationsgeschichte folgte
+Bullinger dieser Anregung Lavaters einer Verbindung der Darstellung der Berner Reforma-
+tion mit dem Jetzerhandel nicht.
+
+23 Eigentliche  Exkurse,  die  das  inhaltliche  und  chronologische  Raster  sprengen,  ﬁnden  sich
+auch bei Bullinger, vgl. etwa die das Kloster Kappel betreffenden Kapitel «Von dem kloster
+Cappel imm Fryen ampt, des Zürychgepiets, und das es reformiert, und wie es reformiert
+sye», «Das kloster Cappell ward der statt übergäben und zur sch oul gemacht» und «Wie nach
+dem krieg die sch oul z ou Cappell wider angericht ward und welche in derselben sch oul under-
+richt und zogen worden» (HBRG I 90–97).
+
+24 Das Postulat der adäquaten Stoffauswahl und damit verbunden eine Kritik an der Überliefe-
+rung  belangloser  Details  ist  ein  verbreitetes  Motiv  in  humanistischen  geschichtsmethodi-
+schen Traktaten des 15. und 16. Jahrhunderts, vgl. etwa das Kapitel «De rerum delectu» in
+Giovanni Antonio Viperani, De scribenda historia liber, Antwerpen: Christoph Plantin, 1569
+(Nachdruck  in  Eckhard Kessler,  Theoretiker  humanistischer  Geschichtsschreibung,  Mün-
+chen 1971 [Humanistische Bibliothek 2/4]), 26–31.
+
+Zwingliana XXXIII, 2006
+
+103
+
+Christian Moser
+
+1. Patria. bb
+2. Parentes, ex quibus aliquis, et quo tempore sit natus.
+3. Educatio.
+4. In quibus scholis et sub quibus magistris aliquis sit educatus.
+5. Quibus studiis operam dederit.
+6. Conversio ex papatu, quare et quando, a quibus facta et conﬁrmata sit.
+7. Functiones private˛ aut publice˛ , quomodo ee˛ mutate˛ sint. Res geste˛ in bello
+
+8. Qualitas animi et corporis ingenium, virtutes, vitia.
+9. Doctrina. Naevi doctrine˛ . Dogmata.
+10. Quarum linguarum notitiam habeat.
+11. Ratio exertitiorum in studiis, orationibus, scriptionibus, lectionibus, dis-
+
+et pace.
+
+toriae.
+
+1
+
+5
+
+10
+
+15
+
+20
+
+putationibus aut aliis rebus.
+
+12. Certamina contra iudaeos, haereticos, persecutores et memorabiles his-
+
+13. Cathalogus scriptorum eius, de qualibet re et in cc quavis lingua.
+14. Eiectiones, exilia et ex quibus caussis, et qui eas afﬂictiones lenierint.
+15. Uxor, liberi, cognati, afﬁnes.
+16. Cum quibus doctis potissimum familiaritatem habuerit.
+17. Hostes, convitia, calumniae.
+18. Obitus que˛ que consecuta, sepultura.
+19. Anni vitae.
+20. Curriculum in ministerio.
+21. Iuditia clarorum virorum de aliquo. 25
+
+25
+
+||154r Si quis has metas sequatur, semper occurret, quod de personis dicat. Pos-
+sunt tamen haec inter tractandum meliore ordine proponi.
+
+25
+bb
+
+1. Patria am Rande nachgetragen Ms.
+in über der Zeile Ms.
+
+cc
+25 Die am breitesten ausgeführte Biographie in Bullingers Reformationsgeschichte behandelt
+Zwingli, wobei Bullinger die von Lavater aufgeführten Gesichtspunkte ausnahmslos berück-
+sichtigte, vgl. insbesondere die Kapitel «Von dem herkummen m. Ulrych Zwinglis, und wie
+er gen Zürych zu predigen berüfft ward» (HBRG I 6–11); «Wie Zwingli zu Zürich angenom-
+men ward und anhub predigen» (HBRG I 12f.); «Worinn Zwingli sich diese erste iar geüept,
+wie und was er der kylchen Zürych geprediget hab» (HBRG I 30f.); «Was Zwingli z ou disen
+Zyten geprediget» (HBRG I 51); «Was und wie Zwingli vom heyligen Sacrament des libs und
+bl outs Jesu Christi gelert habe» (HBRG I 261–263); «Von m. Ulrich Zwinglis vil faltiger müy
+und arbeit, und was und welche bücher Tütsch und Latyn er die zyt sines diensts geschriben
+habe» (HBRG I 305–314); «Von dem nachylen der 5 orten den ﬂüchtigen Zürychern, und wie
+es uff der waldstatt ergangen und m. Ulrych Zwyngli umgebracht worden sye» (HBRG III
+134–140); «Was uff der waldstatt zu Cappel von den 5 orten gehandlet, und wie Zwyngli ge-
+vierteylt  und  verbrent  worden  sye»  (mit  einem  Abschnitt  «Mancherley  urteyl  von  dem
+Zwyngli») (HBRG III 166–170).
+
+104
+
+Zwingliana XXXIII, 2006
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+Martyrii descriptio cap[ut] VIII dd
+
+Aliud exemplum de martyribus. Colligenda illa sunt, que˛ veteres in suis mar-
+tyrologiis observarunt. Quae fere eiusmodi sunt:
+
+1. Nomen, patria, parentes, conversio.
+2. Occasio vel caussa martyrii. Quid confessi sint vel fecerint, quomodo ac-
+cusati sint, an sponte se obtulerint, an per vim ad supplitium abrepti sint.
+
+3. Quomodo capti et in carcere detenti, quam diu.
+4. Quibus in carcere tormentis affecti, ut alios eiusdem relligionis prode-
+
+5. Quomodo  sollicitati  ad  defectionem,  spatium  datum  resipiscendi,  que˛
+
+rent.
+
+promissa sint deﬁcienti.
+
+6. Quomodo recusarint omnia, quomodo ﬁdem suam confessi sint.
+7. Quae falsa crimina eis intentata sint.
+8. Condemnatio, ubi, quando, quomodo, per quos facta.
+9. Quomodo se gesserint, cum sibi moriendum esse intelligerent. ee
+10. Quis eductum ad supplitium comitatus sit, quid in via dixerit, quid de ty-
+
+rannis vaticinatus sit.
+
+11. Constantia et trepidatio. An semel facta abnegatione ad se redierit.
+12. Supplitii genus, quid morti iam vicinus dixerit, quas confessiones aedide-
+
+rit, quibus exhortationibus ad populum usus sit.
+
+13. Sepultura, ludibria in cadavera.
+14. Iuditia vulgi de cede. Quid mortem eorum consequutum sit, an tyranni
+
+mox poenas ff dederint, etc. 26
+
+||154v In singulis vero rebus, quas historici tractant quasque decem praecipuis
+generibus complexus sum, cum alias multae sint et variae, diligenter omnia
+videntur  et  methodice  paulatim  colligenda,  que˛  dici  possunt  ac  debent gg
+que˛ que veteres illi scriptores in suis scriptis observarunt, ut postea delectus
+haberi possit et omnia melius expendantur.
+
+26 Die Überschrift in unterstrichenen Versalien Ms.
+dd
+ee
+
+Punkt 9 am Rande vertikal nachgetragen Ms.
+ponas Ms.
+debentque o. ä. Ms.
+
+ff
+
+gg
+26 Als Beispiel einer Martyriumsdarstellung in Bullingers Reformationsgeschichte sei auf des-
+sen Beschreibung des Prozesses gegen den Schuhmacher Klaus Hottinger, der zusammen mit
+Hans Oggenfuss und Laurenz Hochrütiner ein Kruziﬁx in Stadelhofen umgestürzt hatte und
+als erster protestantischer Märtyrer der Eidgenossenschaft in die Geschichte einging, hinge-
+wiesen (HBRG I 145–151).
+
+Zwingliana XXXIII, 2006
+
+105
+
+Christian Moser
+
+1
+
+5
+
+10
+
+Notatio et ordo rerum precipue Tiguri gestarum cap[ut] VIIII hh
+
+Subiiciam  nunc  rerum  gestarum  brevem  notationem  et  ordinem,  quibus
+multa alia memorabilia a piis et doctis hominibus adiici possunt.
+
+1518
+Anno Domini 1518, die 11. septemb[ris] 27 Zuinglius a canonicis in pastorem
+ecclesiae Tigurine˛ electus est, cum adhuc in Eremo Helvetiorum 28 ageret. In
+die  Ioannis  Evangilist¸e  Tigurum  venit. 29  In  septembri  venit  in  Helvetiam
+Sampson 30 monachus pro indulgentiarum. 31
+
+1519
+Calendis ianuarii coepit Zuinglius enarrare evangelium Mathaei. 32 Hoc anno
+coepit impugnare indulgentias papales. 33 Episcopus Constantiensis 34 Zuing-
+lium per literas exhortatur, ut strenue pergat. 35 Zuinglius privatim multa cum
+episcopo Constantiensi et Puccio 36, legato pontiﬁcio, egit de restauratione
+ecclesiae. 37
+
+27 Die Überschrift in Versalien und die zweite Zeile gestarum cap[ut] VIIII unterstrichen Ms.
+hh
+27 Die Wahl Zwinglis erfolgte nicht im September, sondern am 11. Dezember 1518, vgl. Michael
+Sander an Zwingli, 7. Dezember 1518 (Z VII 118, Nr. 50): «Res delata est ad iii idus praesentis
+[mensis], tunc enim, ut fama est, ad electionem procedent canonici.» Vgl. auch HBRG I 11.
+
+28 D.h. im Kloster Einsiedeln.
+29 D.h. am 27. Dezember.
+30 Berhardin Samson von Brescia, Vorsteher des Franziskanerkonvents von St. Angelo in Mai-
+land, vertrieb 1518/1519 auf eidgenössischem Gebiet den Ablass zugunsten von St. Peter in
+Rom und geriet dabei mit den kirchlichen und politischen Behörden in Konﬂikt. Unter an-
+derem widersetzte sich Bullingers Vater, Dekan in Bremgarten, den Wünschen Samsons, vgl.
+Z VII 115.
+
+31 Zu diesen von Lavater aufgelisteten Ereignissen des Jahres 1518 vgl. HBRG I 6–11: «Von dem
+herkummen m. Ulrych Zwinglis, und wie er gen Zürych zu predigen berüefft ward»; HBRG
+I 12 f.: «Wie Zwingli zu Zürich angenommen ward und anhub predigen»; HBRG I 13–18:
+«Wie Bernardinus Sampson, ein Applas krämer, von Rom herab in die Eydgnosschaft gesandt
+ward, was er gehandlet, und man ouch mitt imm gehandlet hab».
+
+32 Vgl. HBRG I 12.
+33 HBRG I 17: «Nun hat aber Zürych der Zwingli gar häfftig wider disen applas krämer, wider
+sinen applas und dispensationes, sid dem nüwen jar geprediget, alls zum teyl hievor ettwas
+gemeldet, und hat ein grossen z oufal von mencklichem. Dann man ﬁeng an die Römisch büe-
+bery mercken.»
+
+34 Hugo von (Hohen-)Landenberg, geb. 1460, gest. 1532. Hugo versah ab 1496 das Bischofsamt
+von Konstanz und wurde damit in die Auseinandersetzungen um die Zürcher Reformation
+zu Beginn der 1520er Jahre involviert. – Lit.: Helvetia Sacra I/2, Basel u.a. 1993, 376–385; Die
+Bischöfe des Heiligen Römischen Reiches: 1448 bis 1648, hg. von Erwin Gatz unter Mitw.
+von Clemens Brodkorb, Berlin 1996, 306–308.
+
+35 HBRG I 15: «In dem schickt bischoff Hugo z ou Constantz sine botten und brieff an m. Ul-
+rych Zwingli und an andere pfarrer, und gebod den selben, das sy den münch nitt sölltend in
+iren kylchen fürlassen.»
+
+36 Antonio Pucci, geb. 1485, gest. 1544. 1518 Bischof von Pistoia, 1529 Bischof von Vannes,
+
+106
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+Pestis  hoc  anno  longe  lateque  per  Germaniam  grassata  est.  Zuinglium
+quoque corripuit, ad quem legatus pontiﬁcius suum medicum subinde misit,
+ut tantum virum in vita conservaret. 38
+
+Hoc anno cautum est legibus apud Tigurinos, ne quis corruptoria munera
+a principibus acciperet. Ea contenti fuerunt peccunia, quam rex Galliae 39 pa-
+cis colendae caussa singulis pagis perdit annuam. 40
+
+1
+
+5
+
+||155r 1520
+Hoc anno Badene˛ in comitiis factum est decretum publicum ab Helvetiis, ut
+invasores sacerdotiorum, curtisanos vocant, in proﬂuentem proiicerentur. 41
+Hoc  anno  decretum promulgatum  est  a  senatu  Tigurino,  ne  sacerdotes
+quicquam in posterum, praeterquam sacris scripturis veteris et novi testa-
+menti probari posset, in templis proponerent. 42
+
+10
+
+1531 Kardinal, 1541 Kardinalbischof von Albano. 1517–1521 Nuntius Papst Leos X. in der
+Eidgenossenschaft. – Lit.: HBLS V 495f.
+
+37 HBRG I 10: «Alls er, der Zwinglj, z ou Einsidlen prediget, begab es sich, daß er z ou der selben
+zyt ouch früntlich und ernstlich warb an h. Hugen Bischoffen z ou Constantz, das er fry liesse
+in sinem bisthumm predigen das rein und klar wort Gottes und gedencke, wie man der kyl-
+chen z ou hilff kumme, mitt abnemmen der groben vilfaltigen mißbrüchen und superstitionen.
+Sömlichs sye er schuldig, vermög sines bischofﬂichen ampts [.. .]. Hernach hat Zwingli, alls er
+gen Zürych kamm, noch vil ernstlicher an bischoff Hugo z ou Constanntz geworben. Deß-
+glych ouch ettlich maal mitt Antonio Puccio, episcopo Pistoriensi und bäpstischem legaten
+an  die  Eydgnossen,  gehandlet  und  allen  fry  herusgesagt,  so  sy  ir  ampt  nitt  th oun  wöllind,
+werde er alles, das imm müglich und so vil imm Gott gnad gäbe, anwenden, das ein reforma-
+tion in der kylchen angericht werde und die unwarheit nidergelegt, sampt aller superstition
+und was da sye Römischs betrugs.»
+
+38 Vgl. HBRG I 28–30: «Von einer grossen pestilenz dises iars Zürych und in der Eydgnos-
+schaft». Bullinger berichtet nichts über den Arzt Puccis, zitiert aber das Pestlied Zwinglis.
+
+39 Franz I., 1494–1547, seit 1515 König von Frankreich.
+40 An welches Pensionenverbot Zürichs im Jahre 1519 Lavater denkt, bleibt unklar. Bullinger
+und die übrige zeitgenössische Chronistik berichten nichts davon. Vgl. auch die Liste der
+Zürcher Pensionenmandate in: Hermann Romer, Herrschaft, Reislauf und Verbotspolitik:
+Beobachtungen zum rechtlichen Alltag der Zürcher Solddienstbekämpfung im 16. Jahrhun-
+dert, Zürich 1995 (Zürcher Studien zur Rechtsgeschichte 28), 349. Möglicherweise denkt La-
+vater an die «Satzungen wider die Pensionen» vom 15. November 1522 (Zürich StA, A 42.1;
+EAk 103–105, Nr. 293), die die maßgebliche rechtliche Grundlage für die Bekämpfung des
+Pensionenwesens in der ersten Hälfte der 1520er Jahren bildete.
+
+41 Vgl. EA III/2 1258, Nr. 840 h (Tagsatzung Baden, 2. Oktober 1520); HBRG I 32: «Gemein
+
+Eydgnossen verbannend die curtisanen».
+
+42 Ein sehr interessanter Hinweis auf das sogenannte «Ratsmandat evangelischer Predigt» von
+1520, das in gewissem Maße die weitere Entwicklung in Zürich präjudizierte und das nur in
+Bullingers Reformationsgeschichte überliefert ist (HBRG I 32: «Zürich gebütt, dass man in
+den kylchen alein die biblisch warheit predige»). Die Authentizität dieses Mandats war um-
+stritten: Paul Wernle (Das angebliche Zürcher Ratsmandat evangelischer Predigt von 1520, in:
+Zwa 2, 1905–1912, 166–172) deutete es als Interpolation Bullingers, wogegen Walther Köhler
+(Ist  das  Zürcher  Ratsmandat  evangelischer  Predigt  von  1520  ein  angebliches?,  in:  Zwa  2,
+1905–1912, 208–214) zur Vorsicht gemahnt hat, später aber ein solches Mandat 1520 «für ver-
+
+Zwingliana XXXIII, 2006
+
+107
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+1521
+Mense  Martio  Antonius  Puccius  Helvetiorum  militem  in  Italiam  duxit. 43
+Franciscus rex foedus iniit cum omnibus Helvetiis exceptis Tigurinis, que˛ res
+postea multum eis invidie apud foederatos peperit. 44
+
+Hoc  anno  Ioan[nes]  Oecolampadius  coepit  Basilee˛  puriorem  evangelii
+
+doctrinam publice in templo et schola proponere. 45
+
+Circa festum Michaelis 46 Tigurini et Tugini una cum aliis nonnullis iterum
+in  Italiam  pontiﬁcis  iussu  exercitum  ducunt  et  pulso  Gallo  Mediolanum
+duci 47 suo restituunt. 48
+
+Tredecim pagi Helvetiorum Basile¸e foedus iureiurando iterum conﬁrma-
+
+runt. 49
+
+1522
+Conventus imperialis fuit Norimberge˛ , in quo Adriani 50 novi pontiﬁcis lega-
+tus 51 multa egit contra Lutherum. 52 Zuinglius scriptum 53 aedidit nomine suo
+non adiecto, quo suadet principibus, ut sibi ab Adriani legato caveant. 54
+
+früht» hielt (Walther Köhler, Huldrych Zwingli, Leipzig 1943, 81f.). Emil Egli (Z VII 366f.)
+und dezidiert Oskar Farner (Huldrych Zwingli, Bd. III: Seine Verkündigung und ihre ersten
+Früchte 1520–1525, Zürich 1954, 208–217) plädierten für dessen Echtheit, woran sich Bernd
+Moeller (Zwinglis Disputationen: Studien zu den Anfängen der Kirchenbildung und des Syn-
+odalwesens im Protestantismus, in: ZSRG.K 56, 1970, 290f.) mit der Bemerkung anschloss,
+«die Zweifel an seiner [des Mandats] Historizität dürfen heute als ausgeräumt gelten».
+
+43 Vgl. HBRG I 35: «Von dem ersten Bapstzug der Eydgnossen gen Yesen».
+44 Lavater  bezieht  sich  auf  das  französische  Soldbündnis  1521;  Vertragstext  in  EA  IV/1a,
+1491–1500. Vgl. HBRG I 37–41: «Wie die 12 ort der Eydgnosschaft ein vereinigung mitt dem
+Franzosen machtend und knächt in das Pickardy schicktend»; HBRG I 41–47: «Wie die von
+Zürych in diese vereinigung nitt gan woltend, was an sy gelangt, und sy hinwider an ir landt-
+schaft langen liessend»; HBRG I 47–49: «Wie Zürich die vereynigung abschl oug und dadurch
+in grossen ungunst gägen andern Eydgnossen kamm, und der Zwingli darz ou».
+
+45 Vgl. HBRG I 35f.: «Wie Joan[nes] Oecolampadius gen Basel kamm».
+46 D.h. um den 29. September.
+47 Francesco Maria Sforza, geb. 1492/1495, gest. 1535, Sohn des Ludovico (1452–1508), Bruder
+des Massimiliano (1493–1530). – Lit.: Corrado Argegni, Condottieri, capitani, tribuni, Bd. 3,
+Mailand/Rom 1937 (EBBI 19), 241.
+
+48 Vgl. die ausführliche Darstellung in HBRG I 49–66.
+49 Vgl. HBRG I 32f.: «Wie der Eydgnossen pündt geschworen und ein landvogt von Lucern ins
+
+50 Hadrian VI. (Adrian von Utrecht, Adriaan Florisz), geb. 1454, gest. 1523, Papst 1522–1523. –
+
+Turgöw mit grossem pracht uffreyt».
+
+Lit.: K.-H. Ducke, in: ContEr I 5–9.
+
+51 Francesco Chieregati, geb. nach 1482, gest. 1539. 1515–1517 päpstlicher Nuntius in England,
+1519 in Spanien, 1521 in Portugal. 1522 Bischof von Teramo (Abruzzen). Chieregatis wich-
+tigste Mission waren die von Lavater erwähnten Verhandlungen am Nürnberger Reichstag
+1522. – Lit.: Thomas B. Deutscher, in: ContEr I 301.
+
+52 Vgl. DRTA.JR III 383–452.
+53
+54 Vgl. HBRG I 81f.: «Von einem rychstag z ou Nürenberg, uff dem vil von der religion gehand-
+
+«Suggestio deliberanda super propositione Hadriani Nerobergae facta», Z I 429–441.
+
+let».
+
+108
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+25.  martii Conradus  Fabritius 55  Küssniacensis  commendator  Lucerne˛
+
+concionatus est evangelium. 56
+
+16. aprilis Zuinglius primum libellum de delectu ciborum in lucem aedi-
+
+dit. 57 In carnis privio 58, ut vocant, Tigurini carnibus vesci coeperunt. 59
+
+Circa festum pentecostes Leo Iudae 60 delectus est in pastorem ecclesiae
+
+apud d. Petrum Tiguri, sed sequenti demum anno Tigurum venit. 61
+
+||155v In Iunio Helvetii evangelio adversari coeperunt. Captus est Urbanus,
+
+Vislinspachius pastor, et Constantiam missus ac in vincula coniectus. 62
+
+Iulii 2. die quidam presbyteri amicam exhortationem scripserunt ad epis-
+copum  Constantiensem,  ut  uxores  eos  ducere  permitteret  et  ne  liberum
+evangelicae  praedicationis  cursum  impediret. 63  In  eandem  fere  sententiam
+Helvetiis quoque in comitiis congregatis scribunt Germanice. 64
+
+1
+
+5
+
+10
+
+55 Konrad Schmid, geb. 1476, gest. 1531. Nach Studien in Tübingen (Magister artium 1505) trat
+Schmid in die Johanniterkomturei Küsnacht ein. 1516 theologisches Bakkalaureat in Basel,
+danach Leutpriester in Seengen. Mit der Wahl zum Komtur von Küsnacht 1519 ging eine Pre-
+digttätigkeit in reformatorischem Sinne einher. Als enger Mitarbeiter Zwinglis und des Rates
+war Schmid maßgeblich an der Durchführung und Umsetzung der Reformation in Zürich
+beteiligt. 1528 amtete er als einer der Vorsitzenden der Berner Disputation. Neben Predigten
+veröffentlichte er Schriften gegen die Täufer (Ein christliche ermanung [.. .], Zürich: Chri-
+stoph Froschauer d. Ä., 1527; BZD C 126) und ein Werk zur Abendmahlslehre (Ein christli-
+cher bericht des Herren nachtmals [.. .], Zürich: Christoph Froschauer d. Ä., [1530]; BZD C
+179). Schmid starb auf dem Schlachtfeld von Kappel 1531. – Lit.: Werner Meyer, Komtur
+Konrad Schmid von Küsnacht, in: Der Grundriss. Schweizerische Reformierte Monatsschrift
+7, 1945, 323–353; Christoph A. Schweiss, Die Johanniter-Komturei Küsnacht und ihr Kom-
+tur Konrad Schmid, in: 60. Jahrheft der Ritterhausgesellschaft Bubikon, 1996, 12–35.
+
+56 Vgl. HBRG I 68f.: «Von m. Conradt Schmid, was er z ou Lucern gepredigt».
+57
+
+«Von Erkiesen und Freiheit der Speisen», Z I 74–136.
+«Carnisprivium» bezeichnet die Zeitspanne von Donnerstag vor bis Dienstag nach Estomihi
+oder auch den Tag Estomihi selbst, d.h. den siebten Sonntag vor Ostern. Im Jahre 1522 ﬁel
+Estomihi auf den 2. März.
+
+59 Vgl.  HBRG  I  69f.:  «Wie  man  Zürych  in  der  fasten  und  anderen  verbottnen  tagen  anh oub
+
+58
+
+ﬂeisch und andere verbottne spys ässen».
+
+60 Leo Jud, 1482–1542. Pfarrer in Einsiedeln 1519–1522 als Nachfolger Zwinglis, 1523–1542
+Pfarrer an St. Peter in Zürich, enger Wegbegleiter Zwinglis und Bullingers. – Lit.: Karl-Heinz
+Wyss, Leo Jud: Seine Entwicklung zum Reformator 1519–1523, Bern u.a. 1976 (EHS III/61);
+Emil Egli, Leo Jud und seine Propagandaschriften, in: Zwa 2, 1905–1912, 161–166.198–208;
+HBBW I 55, Anm. 1.
+
+61 Vgl. HBRG I 75f.: «M. Leo Jude wirt Zürych z ou st. petter zum pfarrer erwöllt».
+62 Urban Wyss, gest. nach 1554. Der Leutpriester von Fislisbach (Kt. Aargau) wurde 1522 we-
+gen reformatorischer Predigt an den Bischof von Konstanz ausgeliefert und im Schloss Gott-
+lieben gefangengehalten, wo Johannes Faber mit ihm disputierte. Nach seiner Freilassung
+1523 wurde er Helfer in Oberwinterthur, 1537 Pfarrer in Eglisau und 1545–1554 in Rafz. Vgl.
+ZPfB 645. Bullinger berichtet über die Gefangennahme Wyss’ in HBRG I 80.
+«Supplicatio ad Hugonem episcopum Constantiensem», Z I 189–209. Neben Zwingli unter-
+zeichneten die Schrift Balthasar Trachsel, Georg Stähli, Werner Steiner, Leo Jud, Erasmus
+Schmid,  Simon  Stumpf,  Jodocus  Kilchmeyer,  Ulrich  Pﬁster,  Kaspar  Megander  und  Hans
+Schmid, vgl. Z I 208f.
+«Eine freundliche Bitte und Ermahnung an die Eidgenossen», Z I 210–248. Zu beiden Schrif-
+
+63
+
+64
+
+Zwingliana XXXIII, 2006
+
+109
+
+Iulii 17. disputavit Zuinglius cum Lamberto 65 Avenionensi monacho pub-
+
+Christian Moser
+
+lice de intercessione divorum. 66
+
+natu Tiguri defendit. 67
+
+Hoc anno Zuinglius se contra accusationem episcopi Constantiensis in se-
+
+Feriis Mariae Magdalene˛ 68 convocati sunt lectores, ut vocant, trium ordi-
+num, item pastores ecclesiarum, ac admoniti sunt ab illis, qui ad hoc nomine
+senatus deputati erant, ne pro suggestu contra monachos sermones haberen-
+tur, sed si quid pastores dicere instituissent, prius praeposito et capitulo pro-
+ponerent. Zuinglius se hoc facturum renuit gravesque caussas attulit. 69
+
+Augusti  22.  die  Zuing[lius]  Apologeticum,  quem  Archetelem  vocat,  ad
+Hugonem  Landebergium,  episcopum  Constan[tiensem],  scripsit  de  tota
+caussa doctrinae evangelicae. 70
+
+Septemb[ris] 17. sermonem de Maria (cid:1)ειπαρθ(cid:8)ν(cid:10)υ habuit, quo adversa-
+
+riorum suorum calumnias de Maria virgine contundit. 71
+
+In octobri Valentinus Tschudius 72 Claronensis in patria sua primitias, ut
+
+1
+
+5
+
+10
+
+15
+
+ten vgl. HBRG I 80f.: «Wie Zwingli und andere priester in der Eydgnoschafft an bischoff z ou
+Constantz und an gemeine Eydgnossen wurbend umm die fryheit das evangelium z ou predi-
+gen und z ou wyben».
+
+65 Franz Lambert von Avignon, geb.1487, gest. 1530. Lambert war ein franziskanischer Wan-
+derprediger, der 1522 mit Zwingli disputierte. Kurz darauf wandte er sich der Reformation zu
+und führte ab 1526 die Reformation in Hessen durch. Ab 1527 lehrte er an der Universität
+Marburg.  –  Lit.:  Pour  retrouver  François  Lambert:  Bio-bibliographie  et  études,  hg.  von
+Pierre Fraenkel, Baden-Baden u.a. 1987 (BBAur 108); Gerhard Müller, Franz Lambert und
+die Reformation in Hessen, Marburg 1958 (Veröffentlichungen der Historischen Kommis-
+sion für Hessen und Waldeck 24/4; Quellen und Darstellungen zur Geschichte des Landgra-
+fen Philipp des Großmütigen 4).
+
+66 Bullinger berichtet über die Disputation mit Franz Lambert von Avignon in HBRG 76f.:
+
+«Franciscus Lambertus, barfoter münch, disputiert mitt dem Zwingli».
+
+70
+
+67 Vgl. HBRG I 78–80: «Was der bischoff von Constantz in gloubens sachen warb an das capit-
+tel der probsty Zürych und an gemeine Eydgnossen uff den tag z ou Baden», Zwinglis Recht-
+fertigung ebd., I 79.
+22. Juli.
+
+68
+69 Vgl. HBRG I 77f.: «Was Zürych zwüschen Zwingli und den münchen vor radt und in der
+
+propsty gehandlet ward».
+«Apologeticus Archeteles», Z I 249–327. Vgl. HBRG I 79.
+«Eine Predigt von der ewig reinen Magd Maria», Z I 385–428. Vgl. HBRG I 81.
+
+71
+72 Valentin Tschudi, geb. 1499, gest. 1555. Schüler Zwinglis in Glarus. Seine Studien führten ihn
+1512–1513 nach Wien zu Joachim Vadian und über Pavia und Basel nach Paris. Ab 1522 Prie-
+ster in Glarus, wo er in konfessionell vermittelnder Art und Weise seine Gemeinde führte.
+Mehrere Briefe Tschudis an Zwingli und Bullinger sind erhalten geblieben. – Lit.: Kurt Mae-
+der, Die Via Media in der Schweizerischen Reformation: Studien zum Problem der Kontinui-
+tät im Zeitalter der Glaubenspaltung, Zürich [1970] (ZBRG 2), 119–125; Peter G. Bietenholz,
+in: ContEr III 349f.; HBBW IX 180f., Anm. 1.
+
+110
+
+Zwingliana XXXIII, 2006
+
+1
+
+5
+
+10
+
+15
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+vocant, celebravit. Illo die Zuinglius contionatus est et errores aliquot, quos
+superioribus annis Clarone˛ imprudens docuisset, publice revocavit. 73
+
+||156r Hoc anno Zuinglius et alii in dedicatione celeberrimi fani Eremitan¸e
+
+virginis frequentes contiones habuerunt. 74
+
+In decembri lex renovata est contra principum munera. 75
+Pridie Thome˛ 76 iurarunt ministri ecclesiae et clerici, ut vocant, in hanc le-
+
+gem, postero die omnes cives. 77
+
+Rhodus, propugnaculum christianorum, post longam terra marique obsi-
+
+dionem in die natali Christi a Thurcis expugnatur. 78
+
+1523
+Ianuarii 29. prima disputatio Tiguri habita est inter Fabrum et Zuing[lium] de
+intercessione divorum et aliis capitibus. Faber spem Tigurinis fecit emenda-
+tionis et concilii. 79
+
+Circa februarium Leo Iudae Tigurum venit. 80
+Aprilis  28.  Wilhelmus  Reublin 81,  minister  ecclesie˛  in  Wyttickon,  cum
+Adelheide 82 nuptias celebravit primusque fuit inter ministros, qui coniugium
+amplexus est. 83
+
+73 Zwingli hielt seine Predigt in Glarus anlässlich der Primiz Tschudis am 12. Oktober 1522, vgl.
+
+Z VII 591, Anm. 2.
+
+74 Vgl. HBRG I 81: «Zwingli prediget in der engelwyche z ou den Einsidlen».
+75 Gemeint ist wohl das Mandat vom 15. November 1522, EAk 103–105, Nr. 293.
+76
+77 Bullinger berichtet nur über das Abschwören der Pensionen der Geistlichen, HBRG I 83:
+
+20. Dezember.
+
+«Alle Priester Zürich verschwerend pensionen».
+
+78 Vgl. HBRG I 83: «Rhodis, die ynsel, wirt vomm Türggen yngenommen».
+79 Vgl.  die  Kapitel  «Wie  Zürych  ein  disputation z ou  hallten  angesähen  und  uußgeschrieben
+ward»  (HBRG  I  84f.);  «Die  propositiones  oder  artikel  haltender  disputation z ou  Zürych»
+(HBRG I 86–90); «Wie z ou Zürich die usgeschriben disputation ein anfang gewan und für-
+gieng» (HBRG I 97–103); «Was von dem radt z ou Zürych erckendt ward uff das gehalten ge-
+spräch» (HBRG I 103f.); «Wie uff sömliche erkandtnus das gespräch geendet» (HBRG I
+104–107).
+
+80 Vgl. HBRG I 75f.: «M. Leo Jude wirt Zürych z ou st. petter zum pfarrer erwöllt». Bullinger da-
+
+tiert Juds Ankunft in Zürich auf den 2. Februar.
+
+81 Wilhelm Reublin (Röubli), geb. um 1484, gest. nach 1559. Nach Studien in Freiburg i.Br. und
+Tübingen wurde er 1521 Leutpriester in Basel. Aufgrund reformatorischer Predigt ausgewie-
+sen, wirkte er ab 1522 in Witikon (Kt. Zürich) und heiratete als erster Priester in der Eidge-
+nossenschaft. Ab 1524 predigte er täuferisch und musste 1525 Zürich verlassen. In den fol-
+genden Jahren wirkte er in Süddeutschland und in Mähren, ehe er sich 1531 vom Täufertum
+abwandte. – Lit.: James M. Stayer, Wilhelm Reublin: Eine pikareske Wanderung durch das
+frühe Täufertum, in: Radikale Reformatoren: 21 biographische Skizzen, hg. von Hans-Jürgen
+Goertz, München 1978, 93–102; Christoph Dejung, Neue Gedanken zu Rolle und Person
+von Wilhelm Reublin, in: Zwa 17, 1986–1988, 279–286; ZPfB 485; Irmgard Wilhelm-Schaffer,
+in: BBKL VIII 76f.; HBBW V 316, Anm. 1.
+
+82 Adelheid  Leemann,  Tochter  des  Konrad,  von  Hirslanden  (Zürich)  vgl.  Die  Chronik  des
+
+Bernhard Wyss 1519–1530, hg. von Georg Finsler, Basel 1901 (QSRG 1), 20, 16f.
+
+83 Zu dieser Aufsehen erregenden ersten Pfarrerheirat und den nachfolgenden Hochzeiten vgl.
+
+Zwingliana XXXIII, 2006
+
+111
+
+Christian Moser
+
+Iulii  3.  Zuing[lius]  Apologiam scripsit  ad  legatos  Helvetiorum  Bern¸e
+
+congregatos, in qua crimina que˛ dam sibi intentata depellit. 84
+
+Iulii 14. opus articulorum Zuinglii excusum prodiit. 85
+Feriis Laurentii 86 infantes primum Germanice baptisari coeperunt, reiec-
+
+tis papisticis illis caeremoniis. 87
+
+Septemb[ris]  29.  reformatio  collegii  vel  praepositurae  Tigurine˛  instituta
+
+est. 88
+
+lebravit. 90
+
+[Novembris] 19. Leo cum uxore 89 sua Tiguri apud d. Petrum nuptias ce-
+
+Novemb[ris] 17. introductio ad veram relligionem typis excusa est et pas-
+
+toribus ecclesiarum a senatu transmissa. 91
+
+Octob[ris] 26. secunda Tiguri disputatio contra missam et idola habita est. 92
+Post  duas  illas  disputationes  ||156v  coeperunt  paulatim  omnia  in  ecclesia
+
+mutari et ad pristinum statum reduci.
+
+In ﬁne augusti Huldricus Huttenus 93, eques auratus et poeta doctissimus,
+
+1
+
+5
+
+10
+
+15
+
+84
+
+85
+
+HBRG I 108f.: «Die priester namend eewyber und giengend mitt inen z ou kylchen». Zu den
+Eheschließungen der Täufer vgl. auch Stephen E. Buckwalter, «So hatt er mir ouch nit zu ver-
+bietten, ein ewib ze nehmen.» Die Täufer und die reformatorische Priesterehe, in: MGB 61,
+2004, 15–30.
+«Entschuldigung etlicher Zwingli unwahrlich zugelegter Artikel, an die Tagsatzung in Bern»,
+Z I 570–579. Vgl. HBRG I 112: «Zwingli, gägen Eydgnossen verklagt, verantwortet sich».
+«Auslegen und Gründe der Schlussreden», Z I 1–457. Vgl. HBRG I 90.108.
+10. August.
+
+86
+87 Vgl. HBRG I 112: «Wenn zum ersten Zürych in Tütsch getoufft worden».
+88 Vgl. die Kapitel «Von dem stifft zum Grossen münster und wie es reformiert ward» (HBRG I
+113–115); «Ein christenlich ansähen und ordnung von den ersammen burgermeister und radt
+und dem grossen radt der statt Zürych, ouch probst und capittel zum Grossen münster da-
+selbs, von der priesterschaft und pfründen wägen ermässen und angenommen z ou lob Gottes
+und der seelen heil. Im 1523 iar des 29. Septembris» (HBRG I 115–119).
+
+89 Katharina Gmünder, Tochter des Hans, von St. Gallen. Vgl. Chronik des Bernhard Wyss,
+
+26 f., Anm. 5.
+
+91
+
+90 Vgl. HBRG I 109. Bullinger datiert die Hochzeit im Gegensatz zu Lavater und Bernhard
+Wyss (Chronik, 26,8–10) auf den 19. September, wie dies mit einigem Zögern auch Johannes
+Jud in seiner 1574 verfassten Vita seines Vaters tat (Zürich ZB, Ms. G 329, gedruckt in: Mis-
+cellanea Tigurina, hg. von Johann Jakob Ulrich, Teil III, Zürich 1724).
+«Eine kurze christliche Einleitung», Z II 626–663. Vgl. HBRG I 135–137: «Es wirt ein ynley-
+tung gemacht und truckt, für die unberichten predicanten uff dem land».
+
+92 Vgl. die Kapitel «Das Mandat oder ussschryben der andern z ou Zürych haltender disputation
+von bildern und der mess» (HBRG I 128f.); Wie die disputation, die ander, Zürych angehept
+und  volfürt  worden  sye»  (HBRG  I  129–131);  «Wie  von  den  bilderen  disputiert  worden»
+(HBRG I 131–133); «Wie von der mess disputiert worden» (HBRG I 133f.).
+
+93 Ulrich von Hutten, geb. 1488, gest. 1523, Humanist, Dichter, antirömischer Publizist und Ver-
+fechter von Reichsreformplänen. Der wegen seiner Verbindung zu Franz von Sickingen am
+kaiserlichen Hof in Ungnade gefallene Ulrich ﬂoh im Herbst 1522 zu Erasmus nach Basel, wo
+er aber abgewiesen wurde. Er fand seine letzte Zuﬂuchtsstätte auf der Insel Ufenau im Zü-
+richsee, wo er Ende August 1523 starb. – Lit.: Ulrichs von Hutten Schriften, hg. von Eduard
+Böcking, 5 Bde., Leipzig 1859–1861 (Nachdruck Aalen 1963); Josef Benzing, Ulrich von Hut-
+
+112
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+post expostulationem cum Erasmo 94 rediens ex thermis Fabarianis 95 decessit
+et in lacus Tigurini insula 96 sepultus est.
+
+Franciscus a Sickingen 97, Oecolampadii et aliorum doctorum mecaenas 98,
+hoc anno in arce Naustal 99 obsessus a principibus ii ictu globi bombardici in-
+teriit. 100
+
+1
+
+5
+
+1524
+Ianuarii 26. Lucerne˛ fuit Helvetiorum conventus, in quo contra relligionem
+decretum factum est et typis excusum. 101
+
+ten und seine Drucker: Eine Bibliographie der Schriften Huttens im 16. Jahrhundert, Wies-
+baden 1956 (Beiträge zum Buch- und Bibliothekswesen 6); Ulrich von Hutten: Ritter – Hu-
+manist – Publizist, 1488–1523, Katalog [.. .] bearb. von Peter Laub, Kassel 1988; Paul Held,
+Ulrich von Hutten: Seine religiös-geistige Auseinandersetzung mit Katholizismus, Humanis-
+mus, Reformation, Leipzig 1928 (SVRG 144); StephanSkalweit, in: TRE XV 747–752; Barbara
+Könneker, in: ContEr II 216–220; Friedrich Wilhelm Bautz, in: BBKL II 1222–1226.
+obsessus a principibus obsessus Ms.
+
+ii
+94 Anspielung auf die Schrift: Ulrichi ab Hutten cum Erasmo Roterodamo, presbytero, theo-
+logo, expostulatio, [Straßburg: Johann Schott], 1523 (VD 16 H 6312f.). Zum Streit zwischen
+von Hutten und Erasmus vgl. Werner Kaegi, Hutten und Erasmus. Ihre Freundschaft und ihr
+Streit, in: HV 22, 1924/1925, 200–514.
+
+95 Pfäfers (Bad Ragaz, Kt. St. Gallen).
+96 Ulrich von Hutten wurde auf der Insel Ufenau begraben. Zu Huttens «letzten Tagen» vgl.
+Hans Gustav Keller, Hutten und Zwingli, Aarau 1952 (Berner Untersuchungen zur Allge-
+meinen Geschichte 16); ders., Huttens Tod, in: Archiv des Historischen Vereins des Kantons
+Bern 39/2, 1948, 185–206.
+
+97 Franz von Sickingen, geb. 1481, gest. 1523. Franz kämpfte gegen die Marginalisierung des
+Ritterstandes durch die aufstrebenden Territorialherren und war in verschiedene Fehden ver-
+wickelt, worauf er der Reichsacht verﬁel. 1519 beteiligte er sich am Feldzug gegen Ulrich von
+Württemberg und unterstützte die Wahl Karls V. zum Kaiser. Durch die Bekanntschaft mit
+Ulrich von Hutten, der ihn auf die Ebernburg (Bad Münster am Stein-Ebernburg, Rhein-
+land-Pfalz) begleitete, kam er in Kontakt mit dem Humanismus und dem Anliegen der Re-
+formatoren.  Franz  wurde  in  der  Folge  des  sog.  «Pfälzischen  Ritteraufstands»  1522/1523
+(«Pfaffenkrieg» gegen Trier [Trierer Fehde]) von einer Fürstenkoalition in seiner Burg Land-
+stuhl  belagert  und  schließlich  besiegt,  wobei  er  sich  tödliche  Verletzungen  zuzog.  –  Lit.:
+Reinhard Scholzen,  Franz  von  Sickingen:  Ein  adeliges  Leben  im  Spannungsfeld  zwischen
+Städten und Territorien, Kaiserslautern 1996 (Beiträge zur pfälzischen Geschichte 9); Volker
+Press, Franz von Sickingen. Wortführer des Adels, Vorkämpfer der Reformation und Freund
+Huttens,  in:  Ulrich  von  Hutten,  Katalog,  293–305;  Barbara Könnecker,  in:  ContEr  III
+247–249; Gerhard Kaller, in: BBKL X 24–26.
+In den frühen 1520er Jahren war die Ebernburg des Franz von Sickingen, die Ulrich von Hut-
+ten als «Herberge der Gerechtigkeit» pries, ein Zentrum von reformgesinnten Kräften, unter
+denen sich auch Martin Bucer befand. Oekolampad war nach seinem Klosteraustritt Schloss-
+kaplan, ehe er sich 1522 in Basel niederließ.
+
+98
+
+99 Landstuhl (Rheinland-Pfalz).
+100 Zum Schicksal Ulrichs von Hutten und Franz’ von Sickingen vgl. HBRG I 112f.: «Franz von
+
+Sickingen ummgebracht und vil Schlösser ummkert. Huttenus gestorben».
+
+101 Vgl. HBRG I 142–144: «Die Eydgnossen uff einem tag z ou Lucern bevestnend des bapsts
+
+glouben und verwerffend den evangelischen».
+
+Zwingliana XXXIII, 2006
+
+113
+
+Christian Moser
+
+1
+
+5
+
+10
+
+Februarii  16.  Basilee˛  publica  disputatio  habita  est  de  coniugio  sacerdo-
+
+tum. 102
+
+Martii 21. Tigurini Helvetiis a suscepta relligione se dehortantibus res-
+ponderunt, id se non ante facturos esse, quam erroris ex sacris literis essent
+convicti. 103
+
+Aprilis 2. Zuinglius uxorem duxit 104 Annam Reinhartum 105 viduam.
+Maii 2. Tiguri tres soles visi sunt.
+Iunii 13. obiit Foelix Fabritius 106, consul Tigurinus.
+Iunii 15. Marcus Roystius 107, alter consul, obiit. 108
+Iunii  17.  factum  est  senatusconsultum,  quo  monialibus  monasterium
+
+Oetenbachense relinquere ac maritis nubere volentibus permissum est. 109
+
+Iunii 18. Heinricus Walder 110 consul creatus est. 111
+
+102 Vgl. HBRG I 152–155: «Wie sich ein disputation z ou Basel erh oub von der priesteren ee».
+103 Vgl. HBRG I 157f.: «Wie die 12 ort der Eydgnoschafft Zürych vermantend, irer reformation
+
+abz oustan».
+
+104 Vgl. HBRG I 109 zur Marginalie «M. Ulrych Zwingli nimpt ein eewyb».
+105 Anna Reinhard, geb. 1484, gest. 1538, Tochter des Oswald, 1504–1517 verheiratet mit Hans
+Meyer von Knonau. – Lit.: Oskar Farner, Anna Reinhart, die Gattin Ulrich Zwinglis, in:
+Zwa 3, 1913–1920, 197–211.229–245.
+
+106 Felix Schmid, geb. 1454, gest. 1524. Ab 1489 Zunftmeister der Meisen und Mitglied des Gros-
+sen  Rats.  Anführer  der  Zürcher  Truppen  1499  im  Schwabenkrieg  und  1513  bei  Novara;
+1505–07 Kyburger Vogt; Bürgermeister des Natalrats seit 1510. – Lit.: Walter Jacob, Politi-
+sche  Führungsschicht  und  Reformation:  Untersuchungen  zur  Reformation  in  Zürich
+1519–1528, Zürich 1970 (ZBRG 1), 240–41; Adrian Corrodi-Sulzer, Die Vorfahren des Bür-
+germeisters Felix Schmid, in: Zürcher Taschenbuch 56, 1936, 10–40; ZRL 271–285.
+
+107 Marx (Markus) Röist, geb. 1454, gest. 1524. Marx wurde 1476 bei Murten zum Ritter geschla-
+gen; 1476–1492 Schultheiß, 1493–1504 Mitglied des Kleinen Rats, 1505–1524 Bürgermeister
+des Baptistalrats. Daneben war er häuﬁger Tagsatzungsgesandter und ab 1518 Titularhaupt-
+mann der päpstlichen Schweizergarde. – Lit.: Jacob, Führungsschicht, 235f.; HBLS V 664f.;
+ZRL 265–285.
+
+108 Den hier von Lavater offensichtlich suggerierten Zusammenhang der Himmelserscheinung
+mit dem Tod der beiden Bürgermeister vollzieht auch Bullinger, vgl. HBRG I 159f.: «Von
+wundergesichten an dem hymel und absterben der zweyen burgermeistern Zürych».
+
+109 Dieser Beschluss datiert vom 17. Juni 1523, vgl. EAk 131f., Nr. 366. Bullinger ordnet die Vor-
+gänge im Kapitel «Die klosterfrowen an Oetenbach gand uss dem kloster» (HBRG I 110)
+chronologisch korrekt ein.
+
+110 Heinrich Walder, geb. zwischen 1460 und 1470, gest. 1542. Ab 1489 Vertreter der Schmiden-
+zunft im Großen Rat, 1505–1512 und 1520–1523 im Kleinen Rat; 1521 Obristmeister und
+1524–1542 Bürgermeister des Baptistalrats. – Lit.: Jacob, Führungsschicht, 289–291; HBLS
+VII 365; HBBW II 170, Anm. 6; ZRL 285–304.
+
+111 Vgl. HBRG I 159.
+
+114
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+Iunii 20. idola amota sunt ex templis. 112 Feriis vero Ioannis Baptiste˛ 113 Sta-
+
+menses suum quoque templum repurgarunt. 114
+
+Iulii  17.  Oexlius jj 115  contionator  Burgensis  a  praefecto 116  Durgee˛  captus
+
+est, que˛ magne˛ seditionis occasio fuit. 117
+
+||157r Iulii 19. Itingen domicilium Carthusianorum seditionis incendio con-
+
+ﬂagravit. 118
+
+Pridie  Michaelis 119  tres  egregii  viri  Stammenses 120  propter  hanc  seditio-
+nem,  quasi  eius  authores  fuissent,  maxime  vero  propter  evangelium  Bade˛
+supplitio capitis affecti sunt. 121
+
+Augusti 18. senatus Tigurinus episcopo Constantien[si] ad scriptum 122 de
+
+missa et idolis respondit. 123
+
+Novemb[ris] 6. littere˛ securitatis, ut vocant, ad Eccium 124 misse˛ sunt, qui-
+
+1
+
+5
+
+10
+
+112 e über der Zeile Ms.
+jj
+112 Vgl. HBRG I 173f.: «Wie die bilder uss der landtschafft der statt Zürych abgethan worden»;
+HBRG I 175: «Wie die bilder in der statt Zürych uss allen kylchen ruwklich gethan wur-
+dent».
+
+113 24. Juni.
+114 Vgl. HBRG I 175–177: «Wie ouch z ou Stammen die bilder abgethan wurdent».
+115 Beim gefangengesetzten Pfarrer von Burg bei Stein am Rhein (Kt. Schaffhausen) handelt es
+sich um Hans Öchsli, gest. 1536, von Einsiedeln. Nach seiner Freilassung im September 1524
+wurde er Pfarrer in Elgg, 1532 zu St. Jakob in Zürich und 1534 in Bülach. Vgl. ZPfB 456.
+Josef Amberg, gest. 1545. 1522–1545 Mitglied des Schwyzer Rats, 1524–1526 Landvogt im
+Thurgau, 1532–1534 Landvogt in Blenio, 1534–44 Landamman. 1537 wurde er von Papst
+Paul III. in den römischen Ritterstand erhoben. – Lit.: Franz Auf der Maur, in: HLS I 289f.;
+HBLS I 331f.
+
+116
+
+117 Vgl. HBRG I 180–182: «Wie der landtvogt imm Thurgöw den predicanten uff Burg by Stein
+
+ﬁeng, daruß ein landtsturm und grosse uffr our ervolget».
+
+118 Vgl. HBRG I 182: «In disem ufﬂouff ward Ittingen, die chartuß, durchlouffen und verbrent».
+Zum Ittinger Klostersturm vgl. Peter Kamber, Der Ittinger Sturm: Eine historische Repor-
+tage,  Warth  1997  (Ittinger  Schriftenreihe  6)  und  Alfred Farner,  Geschichte  der  Kirchge-
+meinde Stammheim und Umgebung, Zürich 1911, 142–187.
+
+119 28. September.
+120 Bei den zum Tode Verurteilten handelt es sich um Hans Wirth d. Ä., geb. um 1460, Untervogt
+von Stammheim, dessen Sohn Hans Wirth d. J., Kaplan in Stammheim (vgl. ZPfB 620) und
+um  Burkhart  Rüttimann,  Untervogt  von  Nussbaumen.  Der  Mitangeklagte  Adrian  Wirth
+(gest. 1563, vgl. ZPfB 619 und HBLS VII 565f.) wurde begnadigt.
+
+121 Eine Beschreibung der Hinrichtung in HBRG I 199–205: «Vergycht der gefangnen und wie
+
+sy ussgefürt mitt dem schwert gericht worden syend». Zum Prozess vgl. ebd. 186–199.
+
+122 Die Schrift Hugos von Hohenlandenberg an den Zürcher Rat betreffend die Bilder und die
+Messe  trägt  den  Titel:  «Christenlich  underrichtung  des  hochwirdigen  fürsten  und  herren
+herrn Hugo Bischoffen zu Costantz, die bildtnüssen und das opffer der mess betreffend»,
+[Freiburg]: [Johann Wörlin], 1524 (VD 16 K 2015f.). Eine weitere Ausgabe erschien [Straß-
+burg: Johann Grüninger, 1524].
+
+123 «Christliche Antwort Burgermeisters und Rats zu Zürich an Bischof Hugo», Z III 146–229.
+
+124
+
+Vgl. HBRG I 159.
+Johannes Eck, geb. 1486, gest. 1543. Gegner Luthers, Disputant auf der Badener Disputation
+1526 und eifriger Bekämpfer der Reformationsbemühungen in der Eidgenossenschaft. – Lit.:
+Erwin Iserloh,  Johannes  Eck  (1486–1543):  Scholastiker,  Humanist,  Kontroverstheologe,
+
+Zwingliana XXXIII, 2006
+
+115
+
+Christian Moser
+
+1
+
+5
+
+bus Tigurum veniret et cum Zuing[lio] disputaret kk de relligione invitaba-
+tur. 125
+
+Novemb[ris] 16. Zuinglius scripsit Epistolam ad Mathaeum Alberum 126,
+
+Rütlingensem pastorem ll, de coena Domini. 127
+
+Decembris 5. Catharina de Zymmeren 128, abbatissa monasterii nobilium
+virginum Tiguri, suum monasterium senatui reformandum tradidit, quod in
+collegium studiosorum mutatum est. 129
+
+Decemb[ris] 20. praepositus et canonici suam iurisdictionem senatui resig-
+
+narunt. 130
+
+Münster 1981 (KLK 41); ders., in: TRE IX 249–258; Friedrich Wilhelm Bautz, in: BBKL I
+1452–1454; HBBW IV 90, Anm. 29.
+
+kk dispitaret Ms.
+postorem Ms.
+ll
+125 Vgl. HBRG I I 334–336: «Wie an doctor Eggen früntlich vom radt Zürych geschriben und
+imm ein fry gleit gen Zürych ze disputiren z ou kummen gegäben wart». Dem Geleitbrief des
+Zürcher Rates für Eck zwecks einer Disputation in Zürich war ein intensiver Schriftenwech-
+sel vorangegangen: In einem Schreiben vom 13. August («Missive und embieten, den fromen
+[. . .] Eydgnossen botten, z ou Baden imm augsten versamlet, überschickt», gedruckt in Zwing-
+lis Gegenschrift) hatte sich Eck an die Tagsatzung in Baden mit dem Angebot einer Disputa-
+tion gewandt. Zwingli antwortete darauf mit der Schrift «Antwort auf Johannes Ecks Missiv
+und  Entbieten»  (Z  III  300–312),  die  Eck  wiederum  in  zwei  Gegenschriften  beantwortete
+(«Ein sendbrieff an ein fromme Eidgnoschafft [.. .] Ableinung etlicher schmach doctor Ecken
+von Ulrich Zwingli z ou gemessen. Der ander sendbrieff an gmein Eidgnossen. Ein sendbrieff
+an b ourgermeister und ratt z ou Zurch [.. .]» [Hans-Joachim Köhler, Bibliographie der Flug-
+schriften des 16. Jahrhunderts, Teil I: Das frühe 16. Jahrhundert (1501–1530), Bd. 1, Tübin-
+gen 1991, Nr. 858]). Aufgrund von Zwinglis Reaktion darauf («Antwort an den Rat in Zürich
+über Johannes Ecks Schrift und betreffend den Anschlag der neun Orte in Frauenfeld», Z III
+313–321) beschloss der Rat, Eck nach Zürich einzuladen. Vgl. die Übersicht über die Debatte
+in Z III 288–299.
+
+126 Matthäus Alber, geb. 1495, gest. 1570. Reformator Reutlingens (Baden-Württemberg), wo er
+1521–1548  als  Hauptprediger  wirkte.  Alber  war  Adressat  von  erster  Darlegung  seiner
+Abendmahlslehre (vgl. die folgende Anm.). 1549 Pfarrer in Stuttgart, ab 1563 Abt von Blau-
+beuren (Baden-Württemberg). – Lit.: Hans-Christoph Rublack, in: TRE II 170–177; HBBW
+VII 251, Anm. 2; Gustav Hammann, in: NDB I 123f.; Friedrich Wilhelm Bautz, in: BBKL I
+77 f.
+
+127 «Ad Matthaeum Alberum de coena dominica epistola», Z III 322–354. Vgl. HBRG I 261.
+128 Katharina von Zimmern, geb. 1478, gest. 1547. Seit 1492 als Mitglied des Fraumünsterkon-
+vents bezeugt, 1493 Ordensgelübde, 1496 Weihe zur Äbtissin als Nachfolgerin von Elisabeth
+von Weißenburg. 7. Dezember 1524 Übergabe des Fraumünsters an den Rat von Zürich, wo-
+für Katharina das Zürcher Bürgerrecht erhält. Um 1525 Heirat mit Eberhard von Reischach,
+der auf dem Kappeler Schlachtfeld 1531 den Tod fand. – Lit.: Judith Steinmann, Zürich, in:
+Helvetia Sacra III/1.3, Bern 1986, 2017–2019; Zürichs letzte Äbtissin: Katharina von Zim-
+mern, 1478–1547, hg. von Irene Gysel und Barbara Helbling, Zürich 1999.
+
+129 Vgl. HBRG I 125f.: «Von dem Frowenmünster Zürych und wie es reformiert worden und
+
+130 Vgl. HBRG I 119–121: «Das stifft Zürych übergipt einem radt der statt Zürych hohe und ni-
+
+ein collegium dahin geordnet ist».
+
+dere gerichte».
+
+116
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+Circa  natalem  Christi  Diethelmus  Roystius 131  relligionis  amantissimus
+
+Hoc anno quidam Tigurini Waltzh outensibus, qui evangelii caussa preme-
+
+consul electus est. 132
+
+bantur, subsidio venerunt. 133
+
+1
+
+5
+
+Eodem hoc anno secta anabaptistica in Turingia emergere per Thomam
+Monetarium 134, qui missis hinc inde litteris Tigurinorum etiam nonnullos in
+pestilentissimam hanc sectam pertrahere conatus est. 135
+
+1525
+Circa ferias trium regum 136 Tigurini scriptum apologeticum emiserunt, quod
+suae historiae Sleidanus 137 inseruit. 138
+
+10
+
+131 Diethelm Röist, geb. 1482, gest. 1544, Sohn des Marx. Ab 1517 Mitglied des Kleinen Rats,
+1522–1523  Seckelmeister,  1524–1541  Tagsatzungsgesandter,  1525–1544  Bürgermeister  des
+Natalrats. Bullinger widmete 1542 ihm und Johannes Haab seinen Kommentar zu Matthäus
+(HBBibl  I  144;  Edition  der  Widmungsvorrede  in  HBBW  XII).  –  Lit.: Jacob,  Führungs-
+schicht, 233f.; Z IX 24, Anm. 9; HBLS V 665; HBBW II 32, Anm. 30; ZRL 278–306.
+
+132 Vgl. HBRG I 159.
+133 Vgl. HBRG I 209f.: «Ettliche Zürycher ziehend gen Waltzh out in z ousatz».
+134 Thomas Müntzer, geb. wohl 1489, gest. 1525. Radikaler Theologe und Anführer der aufstän-
+dischen Bauern in Thüringen. – Lit.: Thomas Müntzer, Schriften und Briefe: Kritische Ge-
+samtausgabe, unter Mitarb. von Paul Kirn hg. von Günther Franz, Gütersloh 1968 (QFRG
+33); Hans-Jürgen Goertz, Thomas Müntzer: Mystiker, Apokalyptiker, Revolutionär, Mün-
+chen  1989;  Der  Theologe  Thomas  Müntzer:  Untersuchungen  zu  seiner  Entwicklung  und
+Lehre, hg. von Siegfried Bräuer und Helmar Junghans, Göttingen u.a. 1989; Gottfried See-
+baß, in: TRE XXIII 414–436; Hans-Jürgen Goertz, in: RGG4 V 1585–1587; Daniel Heinz, in:
+BBKL VI 329–345.
+
+135 Lavater  formuliert  den  Kern  der  auch  von  Bullinger  vehement  vertretenen  sogenannten
+«Täuferhypothese»: Das Zürcher Täufertum ist kein Produkt der zwinglischen Reformation,
+sondern  fußt  auf  dem  aus  Thüringen  importierten  Gedankengut  Thomas  Müntzers,  vgl.
+HBRG I 224 und 237–239: «Vom anfang der widertöüffern und töüffern, die z ou Zürych uff
+st oundent, und das wider sy disputiert worden». Die Briefe des Grebelkreises an Müntzer (vgl.
+Siegfried Bräuer, Die Briefe des Grebelkreises an Thomas Müntzer vom 5. September 1524.
+Einleitung und Text, in: MGB 57, 2000, 147–174; dazu ders., «Sind beyde dise Briefe an Mün-
+zer abgeschikt worden?» Zur Überlieferung der Briefe des Grebelkreises an Thomas Münt-
+zer vom 5. September 1524, in: MGB 55, 1998, 7–24; Hans-Jürgen Goertz, «Ein gmein künf-
+tig  gsprech.»  Eine  revisionistische  Deutung  der  Grebelbriefe  an  Thomas  Müntzer  vom
+September 1524, in: MGB 57, 2000, 31–50), die für eine solche These polemisch hätten in An-
+schlag gebracht werden können, kannte weder Lavater noch Bullinger.
+
+136 Um den 6. Januar [i.e. 4. Januar].
+137 Sleidan fügte eine Übersetzung der Schrift dem vierten Buch seiner «Commentarii de statu
+religionis et reipublicae Carolo Quinto Caesare» ein (ed. Johann Gottlob Böhme und Chri-
+stian Karl Am Ende, Bd. 1, Frankfurt a. M. 1785 [Nachdruck Osnabrück 1968], 249–254).
+138 Vgl. HBRG I 233–235: «Zürych last ein geschrifft durch den truck z ou irer entschuldigung
+uusgan».  Die  gedruckte  Apologie  wurde  veröffentlicht  unter  dem  Titel:  «Inhalt  etlicher
+hendlen, wie die an inen selbs zum teyl mit der warheit vergangen, und zum teyl erdacht sind
+[. . .]», [Zürich: Hans Hager, 1525] (BZD D 17).
+
+Zwingliana XXXIII, 2006
+
+117
+
+Christian Moser
+
+1
+
+5
+
+10
+
+Aprilis  12.  Tigu[ri]  senatusconsulto  missa  abrogata  est, 139  13.  vero  die,
+
+item 14. et 16. coena iuxta institutionem Christi celebrata est. 140
+
+||157v Maii 15. Tiguri forum matrimoniale constitum. 141
+Hoc anno multae disputationes Tiguri de baptismo contra anabaptismum
+habite˛ sunt, privatim et publice. Leges quoque contra anabaptistarum sectam
+a magistratu sunt late˛ . 142
+
+Maii 29. Boltus combustus est a Suicis. 143
+Circa festum pentecostes motus quidam rusticorum propter decimas et
+
+alios redditus exorti sunt. 144
+
+Iunii 19. loco horarum canonicarum lectio sacra Tiguri instituta est. 145 Ja-
+cobus Ceporinus 146, vir tribus linguis doctissimus, primus Graecam et Hae-
+
+139 Vgl. EAk 306, Nr. 684.
+140 Vgl.  HBRG  I  263–265:  «Die  mess  wirt  Zürych  abgethan  und  des  Herren  nachtmal  und
+
+dancksagung angefangen und geüpt».
+
+141 Der entsprechende Ratsbeschluss (EAk 330, Nr. 716) und der Druck der Ehegerichtsord-
+nung («Ordnung und ansehen, wie hynfür z ou Zürich in der statt über eelich sachen gericht sol
+werden», Zürich: Hans Hager, [1525] [BZD D 18f.]) datieren vom 10. Mai 1525. Bullinger zi-
+tiert aus der Ordnung in HBRG I 287–289: «Das chorgericht wirt Zürych geordnet und uff-
+gericht».
+
+142 Vgl.  HBRG  I  27–239:  «Vom  anfang  der  widertöüffern  und  töüffern,  die z ou  Zürych  uff
+st oundent, und das wider sy disputiert worden» und ebd., 294–298: «Zürych in der statt wirt
+abermals offentlich und stattlich wider die töüffern disputiert. Im Jahre 1525 wurde in Zürich
+insgesamt dreimal mit den Täufern disputiert (Januar, März und November: HBD 9,19–22),
+vgl. dazu Heinold Fast, Heinrich Bullinger und die Täufer: Ein Beitrag zur Historiographie
+und Theologie im 16. Jahrhundert, Weierhof 1959 (SMGV 7), 14–22.
+
+143 Eberli Bolt stammte aus Lachen (Kt. Schwyz) und kam in Zürich in Kontakt mit Zwinglis
+Lehre.  In  St. Gallen  ließ  er  sich  taufen  und  predigte  fortan  die  Wiedertaufe.  Zurück  in
+Schwyz wurde er zusammen mit einem nicht näher bekannten Priester hingerichtet, vgl. Emil
+Egli, Täufer aus dem Lande Schwyz, in: Zwa 1, 1897–1904, 141. Bullinger berichtet über diese
+Hinrichtung in HBRG I 289: «Die von Schwyz verbrennend zwey von des gloubens wägen».
+144 Vgl. HBRG I 265–267: «Von unruwen und ufﬂöuffen der landtschafft Zürych, die sich wider
+die statt an ettlichen orten erhept habend»; ebd., 277–279: «Von der gmeind z ou Töss und wie
+dieselbe uffr our gestilet ward»; ebd. 279f.: «Das ouch uber das kloster Cappel ein ufﬂouff an-
+geschlagen, und wie er gestillet worden»; ebd. 280–283: «Wie und was man Zürych in statt
+und uff dem land von wägen der zähenden gehandlet habe und ales widerum gestillet wor-
+den».
+
+145 Vgl. HBRG I 289–291: «Wie und wenn man Zürych angehept, die biblisch lection in dryen
+
+146
+
+sprachen läsen».
+Jakob Ceporin (Wiesendanger), geb. 1500, gest. 1525. Ceporin studierte 1518/1519 in Wien
+und sodann bei Reuchlin in Ingolstadt. Ende Oktober 1522 trat der begabte Philologe seine
+erste Lehrstelle in Zürich an, wo er auch Zwingli in Hebräisch unterrichtete. 1525 wurde Ce-
+porin  als  Lektor  für  Hebräisch  an  die  von  Zwingli  neu  gegründete  Schule  berufen,  doch
+schon im Dezember desselben Jahres ereilte ihn der Tod. Ceporin war Verfasser einer sehr er-
+folgreichen griechischen Grammatik (Compendium grammaticae Graecae [.. .], erste Auﬂa-
+gen Basel: Valentin Curio, 1522 [VD 16 W 2682f., ZV 15528, ZV 20550]), die im 16. Jahrhun-
+dert über 20 Auﬂagen erlebte. Daneben schrieb er ein Vorwort zu Zwinglis Lehrbüchlein
+(VD 16 Z 885) und gab Werke von Dionysius Periegetes, Aratus, Proclus Diadochus (VD 16
+D 1980) und Pindar (VD 16 P 2794) heraus. – Lit.: Christoph Riedweg, Ein Philologe an
+
+118
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+braicam linguam publice docuit, cui postea successit in Haebraicis docendis
+Conradus Pellicanus 147, in Graecis Rodolphus Collinus 148.
+
+Mense septembri ecclesiae ornamenta senatui tradita sunt. 149
+Novemb[ris] 4. subditos suos seditiosos Rodolphus a Sultz 150 comes prae-
+
+Novemb[ris] 5. scripsit Zuing[lius] contra Balthasarem H oubmeyer 152 ana-
+
+lio vicit. 151
+
+baptistam. 153
+
+1
+
+5
+
+Zwinglis Seite: Zum 500. Geburtstag des Zürcher Humanisten Jacob Wiesendanger, gen. Ce-
+porinus (1500–1525), in: Museum Helveticum 57, 2000, 201–219; Emil Egli, Ceporins Leben
+und Wirken, in: ders., Analecta Reformatoria, Bd. 2: Biographien. Bibliander, Ceporin, Jo-
+hannes Bullinger, Zürich 1901, 145–160.
+
+147 Konrad Pellikan, geb. 1478, gest. 1556. 1493 Eintritt in den Orden der Franziskaner-Minori-
+ten, 1502 Lektor in Basel, 1508 in Rufach (Dép. Haut-Rhin), 1511 Guardian in Pforzheim,
+1517 in Rufach, 1519 in Basel, ab 1524 Professor für Altes Testament an der Universität Basel.
+1526 wurde er als Nachfolger von Jakob Ceporin nach Zürich berufen, wo er bis zu seinem
+Tod wirkte. Pellikan leistete einen namhaften Beitrag zu den Zürcher Bibelübersetzungen
+und schuf mit seinen «Commentaria bibliorum» (Erstauﬂage 1532–1535, 1537, 1539; BZD C
+217, C 266f., C 282) den einzigen protestantischen biblischen Gesamtkommentar der Refor-
+mationszeit. Eine interessante Quelle zu Pellikans Leben und seiner Zeit bilden dessen als
+«Chronicon» bekannt gewordenen autobiographische Aufzeichnungen. – Lit.: Das Chroni-
+kon  des  Konrad  Pellikan,  hg.  von  Bernhard  Riggenbach,  Basel  1877;  Christoph Zürcher,
+Konrad Pellikans Wirken in Zürich, 1526–1556, Zürich 1975 (ZBRG 4); Siegfried Raeder, in:
+RGG4 VI 1086; Erich Wenneker, in: BBKL VII 180–183.
+
+148 Rudolf Collin (Ambühl, Clivanus), geb. 1499, gest. 1578. Studien in Luzern bei Johannes
+Xylotectus, in Basel bei Heinrich Glarean, in Wien bei Vadian und in Mailand 1519–1521.
+Nach seiner Rückkehr wurde er Schulmeister im Kloster St. Urban und Chorherr in Bero-
+münster  (beide  Kt.  Luzern).  1524  übersiedelte  er  nach  Zürich,  wo  er  fortan  Griechisch
+lehrte. In den turbulenten Jahren 1528–1531 übernahm Collin verschiedene diplomatische
+Missionen  und  begleitete  Zwingli  an  die  Religionsgespräche  in  Bern  (1528)  und  Marburg
+(1529).  –  Lit.:  Conradin Bonorand,  Personenkommentar  II  zum  Vadianischen  Briefwerk,
+St. Gallen 1983 (Vadian-Studien 11), 255–258; Konrad Furrer, Rudolf Collin: Ein Charakter-
+bild aus der Schweizerischen Reformationsgeschichte, in: ZWTh 5, 1862, 337–399; HBBW I
+226 f., Anm. 17.
+
+149 Vgl. HBRG I 122: «Die schätz der kylchen z ou dem Grossen münster werdent dem radt Zü-
+rych übergäben». Eine detaillierte Beschreibung dieser Vorgänge gibt Bullinger auch in seiner
+Stiftsgeschichte unter dem Titel «Wie es mitt dem schatz, kleynoten und zierden der kylchen
+zum Grossen münster ergangen, ouch mitt den büechern» (Anhang zur Tigurinerchronik,
+Zürich ZB, Ms. Car C 44, 810–820) wieder.
+
+150 Rudolf V., Graf von Sulz, geb. 1493, gest. 1535. – Lit.: HBLS VI 602.
+151 Bullinger  erwähnt  die  Schlacht  bei  Grießen  (Klettgau)  vom  4. November  nur  knapp  in
+HBRG I 224, beschreibt aber detailliert die Verhandlungen zwischen dem Grafen und den
+Bauern im August 1525 in HBRG I 228 und 249–251: «Die richtung zwischen dem graffen
+von Sulz und puren».
+
+152 Balthasar Hubmaier, geb. um 1485, gest. 1528. Ab 1503 Studium der Theologie und Philoso-
+phie  in  Freiburg  i.Br.,  1507  Schulmeister  in  Schaffhausen,  1511  Dozent  in  Freiburg  i.Br.,
+1512 Promotion in Ingolstadt, ebd. Professor und Pfarrer, 1516 Pfarrer am Regensburger
+Dom und antijüdische Agitation, 1521 Pfarrer in Waldshut. Ab 1523 trat Hubmaier für die
+Reformation  ein,  knüpfte  Kontakte  zu  den  schweizerischen  Theologen  und  nahm  an  der
+Zweiten  Zürcher  Disputation  teil.  Aufgrund  eines  unterschiedlichen  Taufverständnisses
+
+Zwingliana XXXIII, 2006
+
+119
+
+Christian Moser
+
+1
+
+5
+
+Pagi aliquot Helvetiorum hoc tempore voluerunt amplius cum Tigurinis
+
+odio relligionis conventus agere, scripserunt ea de Tigurini ad Bernates. 154
+
+Abbas 155 Steinensis ad Rhenum hoc anno diplomatibus ac tabulis secum
+
+ablatis noctu auffugit. 156
+
+Hoc anno cives Tigurini iurarunt in relligionem evangelicam. 157
+Ex templis vexilla et alia anathemata sublata sunt, 158 monasteria in melio-
+res usus conversa. Monachi doctiores provinciam contionandi susceperunt,
+
+kam es zum Bruch mit Zwingli – begleitet von einem Schriftwechsel – und zur Hinwendung
+zum Täufertum, was seine 1525 durch den aus Zürich ausgewiesenen Täufer Wilhelm Reu-
+blin vollzogene Taufe öffentlich dokumentierte. Kurz vor der Einnahme Waldshuts im De-
+zember 1525 ﬂoh Hubmaier nach Zürich, wo er mit Zwingli disputierte und schließlich ei-
+nen – nur kurze Zeit später wieder für ungültig erklärten – Widerruf seiner Lehre leistete.
+Hubmaier  zog  nach  Mikulov  (Nikolsburg,  Mähren),  wo  er  großen  Einﬂuss  gewann,  sich
+aber  auch  mit  radikaleren  Kräften  wie  Hans  Hut  auseinandersetzen  musste.  1527  wurde
+Hubmaier nach Wien ausgeliefert und ein Jahr später zum Tode verurteilt. – Lit.: Balthasar
+Hubmaier, Schriften, hg. von Gunnar Westin und Torsten Bergsten, [Gütersloh] 1962 (QGT
+9;  QFRG  29);  Christof Windhorst,  Täuferisches  Taufverständnis:  Balthasar  Hubmaiers
+Lehre  zwischen  traditioneller  und  reformatorischer  Theologie,  Leiden  1976  (SMRT  16);
+Torsten Bergsten,  Balthasar  Hubmaier:  Seine  Stellung  zu  Reformation  und  Täufertum
+1521–1528, Kassel 1961 (AUU.SHEU 3); Christof Windhorst, in: TRE XV 611–613; Hans-
+Jürgen Goertz, in: RGG4 III 1921f..
+
+153 Gemeint  ist  Zwinglis  «Antwort  über  Balthasar  Hubmaiers  Taufbüchlein»,  Z  IV  577–647.
+
+Vgl. HBRG I 296, 304, 311.
+
+154 Verschiedene eidgenössische Gesandtschaften baten den Zürcher Rat im Herbst 1525 unter
+Androhung  von  Konsequenzen,  von  den  Neuerungen  abzusehen:  Glarus,  13. September
+(vgl. EA IV/1a 771f., Nr. 303); Sechs Orte (Bern, Glarus, Basel, Solothurn, Schaffhausen, Ap-
+penzell), 18. September (EA IV/1a, 777f., Nr. 306). Zu diesen beiden Gesandtschaften vgl.
+HBRG I 292–294: «Zürych wirt ernstlich vermanet von Eydgnossen, irs gloubens abz oustan
+und das bapstumm widerumm anz ounemmen, und was von Zürychern geantwortet». Das von
+Lavater erwähnte Schreiben an Bern datiert vom 16. Dezember, EA IV/1a 814–816, in ex-
+tenso zitiert in HBRG I 298–303: «Bernn vermanet Zürych, von dem angenomnen glouben
+z ou stan, und was Zürych inen zur antwort gäben».
+
+155 David von Winkelsheim, gest. 1526, Abt des Benediktinerklosters St. Georgen in Stein am
+Rhein  (Kt.  Schaffhausen).  Nach  der  Einsetzung  eines  Amtmanns  durch  Zürich  am  5. Juli
+(EAk  362,  Nr. 765)  ﬂüchtete  er  am  29. Oktober  über  den  Untersee  nach  Radolfzell.  Vgl.
+Heinrich Waldvogel, Stein am Rhein, in: Helvetia Sacra III, Bd. I/3, Bern 1986, 1561f.
+
+156 Vgl. HBRG I 286f.: «Der appt von Stein ﬂücht über see hinaus».
+157 Welchen Schwur vom Jahre 1525 Lavater im Auge hat, bleibt unklar. Sowohl Bullinger als
+auch  die  übrigen  Chronisten  schweigen  darüber.  Lavater  denkt  wohl  an  einen  der  sog.
+Schwörtage, die zweimal jährlich im Juni und im Dezember anläßlich der Einsetzung des
+Neuen Rats stattfanden und an denen sowohl die neugewählten Räte als auch die Bürger den
+Eid leisteten. Zu den Schwörtagen vgl. Thomas Weibel, Der zürcherische Stadtstaat, in: Ge-
+schichte  des  Kantons  Zürich,  hg.  von  Niklaus  Flüeler  und  Marianne  Flüeler-Grauwiler,
+Bd. 2, Zürich 1996, 20.
+
+158 Vgl. HBRG I 265: «Die fennli und paner der sigenden werdent uß der Wasser kylchen ge-
+
+than».
+
+120
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Edition
+
+iuniores artiﬁcia didicerunt, caeteri, qui prae senio et ingenii tarditate operam
+suam navare [.. .] mm 159
+
+1
+
+159 operam suam navare als Kustoden am Ende der Seite, die Fortsetzung ist verloren; schon Jo-
+mm
+hann Jakob Simler lag sie nicht mehr vor, vgl. seine Bemerkung in Zürich ZB, Ms. S 203, Bl.
+134v: Cetera desiderantur.
+
+159 Vgl. HBRG I 228–230: «Von veränderung der klösteren z ou Zürych, und das alle münch an ein
+ort wurdent zamen gethan»; ebd., 230–232: «Von anderen der Zürycher klöstern, und was
+mitt inen in diser änderung fürgenommen».
+
+Zwingliana XXXIII, 2006
+
+121
+
+Ludwig Lavaters Konzept einer
+
+Reformationsgeschichte (1559): Übersetzung
+
+Christian Moser
+
+1
+
+5
+
+10
+
+Ratschlag Ludwig Lavaters aus Zürich über die Abfassung einer Geschichte
+der Kirche Zürichs und anderer eidgenössischer Kirchen; ihre wichtigsten
+Kapitel, die zu behandeln sind, sind folgende:
+
+I. Zwingli
+II. Disputationen
+– von Baden
+– von Bern
+
+III. Kriege
+
+– Bündner Krieg
+– die beiden Kappelerkriege
+
+IV. Märtyrer
+V. Täufer
+VI. Sakramentsstreit
+VII. Bullinger und seine Zeit
+
+15
+
+Abgeschrieben von Johann Rudolf Stumpf aus Zürich im Jahre 1560.
+
+Es ist in dieser unserer Zeit nützlich, die Geschichte unserer Kirche
+
+Einleitung des Verfassers
+
+zu sammeln.
+
+20
+
+25
+
+30
+
+Ich halte es aus vielen schwerwiegenden Gründen für nützlich, dass jemand,
+der ﬂeißig und gewissenhaft ist, die Geschichte der Zürcher Kirche und an-
+derer  eidgenössischer  Kirchen,  die  durch  dieselbe  Lehre  mit  der  Zürcher
+Kirche verbunden sind, sammelt und ordnet.
+
+Der erste Nutzen: Denn er würde dies zur Ehre Gottes, des Höchsten und
+Besten,  tun,  dessen  außerordentliche  Wohltat  damit  verherrlicht  werden
+wird, weil er außerordentliche, durch Bildung und Frömmigkeit hervorra-
+gende Männer erweckt hat, durch deren Dienst er die reine Lehre aus der
+tiefsten Finsternis wiederhergestellt hat und diese gegen die Raserei der Päp-
+ste, der Fürsten und aller Gegner des Evangeliums, beschützt und bewahrt.
+In der Tat, wer die Sache etwas genauer bedenkt, wird sagen, dass Gott das
+Evangelium in Zürich nicht anders bewahrt hat als Daniel unter den hungri-
+gen Löwen, und ihm dafür Dank sagen.
+
+122
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+Der zweite Nutzen: Weiter würde es auch den Frommen, die jetzt in der Eid-
+genossenschaft oder auch anderswo leben, ferner auch unseren Nachkom-
+men, zu vielfachem Nutzen gereichen. Viele nämlich, die irgend einmal lesen
+werden,  welchen  Gefahren  jene  ersten  Wiederhersteller  des  Evangeliums,
+Männer aus dem kirchlichen und politischen Bereich, um des Evangeliums
+willen gegenübergetreten sind, welche Mühen sie auf sich genommen haben,
+welche Bedrängnis sie ertrugen, werden aufgerichtet werden, sodass sie in
+denselben Fußstapfen bleiben. Wir denken manchmal, dass der eine oder an-
+dere in seinem Amt nichts oder wenig bewirkt, wenige aber sind eine große
+Sache angegangen und haben diese unter Gottes Führung und Schutz zum
+gewünschten Resultat geführt.
+
+Der dritte Nutzen: Schließlich haben unsere Gegner, sowohl die Papisten als
+auch andere, viele falsche Verleumdungen über die eidgenössischen Kirchen
+verbreitet, sodass die Leute im Ausland, wenn sie diese lesen, es glauben und
+zu großen Irrtümern verleitet werden. Ich habe in Paris einen Deutschen ge-
+hört, der im Kreis von Gelehrten behauptete, dass Zwingli der Urheber des
+Bauernaufstandes gewesen sei und dass seinetwegen so viele Tausend umge-
+kommen seien. Es gibt auch welche, die den Ursprung des Täufertums auf
+Zwingli zurückführen. Jeder wird aber ohne Schwierigkeiten aus der sorgfäl-
+tigen Sammlung unserer Geschichte verstehen, dass es bei weitem anders ge-
+wesen ist.
+
+Der vierte Nutzen: Auch die Leute im Ausland, die unseren Kirchen wohl-
+gesonnen  sind,  kennen  von  unserer  Geschichte  kaum  etwas  aus  sicherer
+Quelle und glauben, dass Vieles anders gewesen ist, als es eigentlich war.
+
+Es können heute nämlich für beinahe alle Geschehnisse, die mit der Wieder-
+herstellung der Kirche in Zusammenhang stehen, glaubwürdige Zeugen ge-
+funden werden, die erläutern können, warum die einzelnen Ereignisse ge-
+schehen  sind.  Wenn  aber  die  Sammlung  dieser  Ereignisse  auf  später
+aufgeschoben wird, wird es wenige geben, die etwas Gewisses über diese Er-
+eignisse hinzufügen können. Es kommt aber vor, dass, während sich etwas
+ereignet,  beinahe  niemand  darauf  acht  gibt,  wenn  wir  nachher  aber  alles
+gerne in gewisser Reihenfolge beschreiben würden, uns nicht mehr alle Um-
+stände einfallen.
+
+Es  scheint  auch  Sache  eines  dankbaren  Geists  zu  sein,  den  Glauben,  die
+Frömmigkeit und Beharrlichkeit jener zu würdigen, die einen Großteil zur
+Wiederherstellung der christlichen Religion beigetragen haben. Oft beklagen
+wir, dass Vieles durch die Verwüstungen der Barbaren unterging, während
+wir das, was die Nachwelt wissen will, nicht aufzeichnen. Wir wünschen oft,
+
+Zwingliana XXXIII, 2006
+
+123
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Christian Moser
+
+dass  das,  was  früher  geschehen  ist,  viel  sorgfältiger  aufgezeichnet  worden
+wäre,  viele  denkwürdige  Dinge  jedoch,  die  täglich  passieren  und  die  alle
+nicht ohne höchste Bewunderung hören und betrachten, erwähnen wir in
+den Büchern nicht. Uns gefallen die Arbeiten jener, die die tapferen Taten im
+Krieg und jene, die das Gemeinwesen betreffen, seien es einheimische oder
+ausländische,  sorgfältig  behandeln,  was  aber  die  Religion  anbelangt,  das
+höchste aller Dinge, behandeln und beschreiben wir nicht. Wir loben auch
+die Mühe jener, die den Ursprung und die Ausbreitung der Kirchen ihres
+Volkes, den Ritus und anderes beschreiben, niemand aber lässt es sich ange-
+legen sein, dass wir endlich auch eine historische Beschreibung unserer Kir-
+che haben.
+
+Schlussbemerkung: Aufgrund all dieser Beweggründe kam ich zum Schluss,
+wenigstens all das zu sammeln, was unsere Geschichte betreffend für wahr
+und erforscht angesehen werden kann.
+
+Mit welcher Methode der Stoff der Kirchengeschichte zu sammeln ist.
+
+Zweites Kapitel
+
+Nun aber scheint beim Sammeln des kirchengeschichtlichen Stoffes folgen-
+der Weg begangen werden zu müssen:
+
+I. Dass zuerst verschiedene Schriftstücke, Vorreden, Akten, Satzungen,
+Reden,  Beschlüsse,  Antworten  gesammelt  werden,  in  denen  etwas
+über die kirchlichen Angelegenheiten enthalten ist.
+
+II. Sodann sind die Briefe der Gelehrten zu untersuchen, die von unseren
+Angelegenheiten handeln, wie der Briefwechsel Zwinglis und Oeko-
+lampads.
+
+III. Drittens sind die von den Unseren, ferner auch von Fremden verfass-
+ten Chroniken zu Rate zu ziehen. Sleidan hat vieles über unsere Ge-
+schichte; ob alles so zutrifft, ist sorgfältig zu erforschen. Falsche und
+verleumderische Schriften unserer Gegner werden uns Gelegenheit
+zu weiteren Überlegungen geben.
+
+IV. Viertens sind so viele Abschiede wie möglich, wie sie genannt wer-
+
+den, zu Rate zu ziehen.
+
+V. Fünftens sind die hier ansässigen Alten, die etwas von jenen Ereignis-
+sen berichten können, mit Bedacht zu befragen, besonders aber jene,
+von denen wir wissen, dass sie maßgeblich an den Geschehnissen be-
+teiligt waren.
+
+VI. Sechstens sind auch andere von den Unseren verfasste Bücher sorg-
+fältig zu studieren, und sollten sie etwas erwähnen, was zum Verfas-
+sen  von  Geschichtsbüchern  brauchbar  erscheint,  soll  es  herausge-
+
+124
+
+Zwingliana XXXIII, 2006
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+gen.
+
+litik.
+
+VI. Schismen,  Häresien,  fremde  und  abtrünnige  Glaubenslehren,  auch
+
+die Bestrafung der Häretiker.
+
+VII. Verfolgungen, die Feinde des Wortes, Männer der Kirche und der Po-
+
+VIII. Märtyrer und Apostaten.
+
+IX. Der Zustand des Gemeinwesens, Bünde, politische Versammlungen,
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+schrieben werden. Beispielsweise kann man in den Schriften Zwinglis
+und Bullingers vieles ﬁnden, was sich auf dieses Thema bezieht. Wir
+hoffen aber, dass trefﬂiche und rechtschaffene Menschen sich geneigt
+zeigen werden, bei diesem Studium behilﬂich zu sein.
+
+Die historischen Gegenstände, Kapitel III.
+
+Ich  möchte  nun  anfügen,  welche  Gegenstände  in  einer  Kirchengeschichte
+hauptsächlich  für  überlieferungswürdig  gehalten  werden,  die,  wie  mir
+scheint, bequem auf zehn Punkte aufgeteilt werden können:
+
+I. An welchen Orten die Kirche ihren Anfang nahm und wie sie sich
+darauf  entwickelte  und  bei  den  benachbarten  Völkern  verkündet
+wurde und an einigen Orten abgelehnt wurde.
+
+II. Die  Personen  sind  in  Augenschein  zu  nehmen,  deren  Dienst  Gott
+beim Aufbau der Kirche besonders benutzt hat. Dazu gehören die
+Pfarrer, die Lehrer, die Gesandten und die Ratsherren.
+
+III. Die Lehre, die verkündet wird, und ihre Inhalte.
+IV. Die Zeremonien und der Ritus sind zu erwägen.
+V. Synoden und öffentliche Disputationen und politische Versammlun-
+
+Beschlüsse.
+
+X. Wunder und Wunderzeichen.
+
+Diese Punkte scheinen fast alles zu beinhalten, was zu einer Beschreibung
+unserer Kirchen gehört.
+
+Die Zeitspanne der Geschichte, Kapitel IV.
+
+Nachdem aber der vielfältige Stoff zusammengetragen worden ist, könnten
+die notwendigen Punkte in guter Ordnung und unverfälscht [den Lesern]
+vor Augen gestellt werden. Ferner wird aus dem allem eine Zusammenfas-
+sung  hervorgehoben  und  auch  Fremden  mitgeteilt  werden  können.  Ich
+denke, dass die Darstellung nach dem Beginn am 1. Januar 1519, als Zwingli
+seine erste Predigt in Zürich hielt, bis in dieses Jahr 1559 führen sollte. Diese
+
+30
+
+35
+
+Zwingliana XXXIII, 2006
+
+125
+
+1
+
+5
+
+Geschichte würde folglich 40 Jahre umfassen, in denen Vieles, was geschehen
+ist, zu bewundern ist, was eine sorgfältige Untersuchung und Sammlung er-
+fordert. Es könnten auch einige politische und auch ausländische Vorkomm-
+nisse jedes Jahres wegen der Reihenfolge der Geschichte und besseren Ver-
+ständnisses wegen angefügt werden.
+
+Christian Moser
+
+Die Ordnung der Geschichte, Kapitel V.
+
+Ich bin der Ansicht, dass zum Teil eine natürliche Reihenfolge, zum Teil eine
+künstliche  Anordnung  anzuwenden  ist.  Vieles  kann  aus  der  älteren  Ge-
+schichte  wiederholt  werden,  wie  zum  Beispiel,  wenn  du  beschreibst,  wie
+Zwingli nach Zürich kam und als Leutpriester, wie man es nennt, gewählt
+wurde, kann man einen Exkurs über das Alter dieser Kirche und auch dar-
+über, dass früher alle Kanoniker gepredigt haben, diesen Aufgabenbereich in
+späterer  Zeit  aber  dem  Leutpriester  allein  übertragen  haben,  einschieben.
+Ebenso kann der Beschreibung der Berner Reformation wegen des Gewichts
+der Sache nebenbei eine Erzählung von den in Bern verbrannten Dominika-
+nern beigegeben werden.
+
+Was in jedem einzelnen Kapitel zu beachten ist, Kapitel VI.
+
+Es ist sinnvoll, dass bei jedem einzelnen Kapitel und bei jedem historischen
+Ereignis sorgfältig erwogen wird, was nötig oder weniger nötig ist, und wir
+sollten beachten, was die früheren Autoren über jedes Kapitel geschrieben
+haben.  Ferner  sollten  wir,  wenn  irgendeine  Versammlung  zur  Sprache
+kommt,  beachten,  was  die  kirchlichen  Autoren  bei  der  Beschreibung  der
+Versammlungen in ihrer Zeit geschrieben haben. Bei der Sammlung kann si-
+cherlich vieles in Betracht gezogen werden, was nachher bei der Abfassung
+der Darstellung nicht berücksichtigt werden kann. Es ist nämlich eine Aus-
+wahl zu treffen.
+
+10
+
+15
+
+20
+
+25
+
+Die Beschreibung der Person, Kapitel VII.
+
+In jedem einzelnen oben behandelten Kapitel kann ferner und muss manches
+beachtet werden. Ich möchte ein Beispiel betreffend die Personen geben. Da-
+bei kommt dieses und anderes, was es zu beachten gilt, vor:
+
+30
+
+1. Die Herkunft.
+2. Die Eltern, von denen jemand abstammt, und die Zeit der Geburt.
+
+126
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+3. Die Erziehung.
+4. In welchen Schulen und unter welchen Lehrern jemand erzogen worden
+
+ist.
+
+5. Mit welchen Studien er sich beschäftigt hat.
+6. Die Abkehr vom Papsttum, weshalb und wann, wodurch er dazu bewo-
+
+7. Die privaten und öffentlichen Ämter, wie es zu Wechseln gekommen ist.
+
+gen und dahin bestärkt worden ist.
+
+Die Taten im Krieg und im Frieden.
+
+8. Die Beschaffenheit von Geist und Körper, Tugenden, Laster.
+9. Die Lehre. Makel der Lehre. Lehrsätze.
+10. Welche Sprachkenntnisse er hatte.
+11. Welche Methode er hatte in den Studien, Reden, Schriften, Vorlesungen,
+
+Disputationen oder in anderen Dingen.
+
+12. Kämpfe gegen die Juden, Häretiker, Verfolger und denkwürdige Ereig-
+
+nisse.
+
+Sprache.
+
+13. Verzeichnis  seiner  Schriften,  über  beliebige  Gegenstände  und  in  jeder
+
+14. Vertreibungen, Aufenthalte in der Fremde und aus welchen Gründen,
+
+und wer diese Bedrängnis milderte.
+
+15. Frau, Kinder, Verwandte und Freunde.
+16. Mit welchen Gebildeten er besondere Freundschaft pﬂegte.
+17. Feinde, Beschimpfungen, Verleumdungen.
+18. Der Tod und was danach folgte, Begräbnis.
+19. Lebenszeit.
+20. Laufbahn im Amt.
+21. Urteile von angesehenen Personen über ihn.
+
+Wenn jemand diese Ziele verfolgt, wird er immer daraufstoßen, was er über
+die Personen sagen soll. Dies kann aber beim Ausarbeiten in besserer Rei-
+henfolge vorgelegt werden.
+
+Die Beschreibung des Martyriums, Kapitel VIII.
+
+Ein anderes Beispiel von den Märtyrern. Dies ist zu sammeln, was bei den
+früheren Autoren in ihren Martyrologien Beachtung gefunden hat. Was un-
+gefähr Folgendes ist:
+
+1. Name, Heimat, Eltern, Bekehrung.
+2. Anlass oder Grund des Martyriums. Was sie bezeugt oder getan haben,
+wie sie angeklagt worden sind, ob sie sich von selbst ausgeliefert haben
+oder ob sie durch Gewalt zur Hinrichtung geführt worden sind.
+
+Zwingliana XXXIII, 2006
+
+127
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+3. Wie sie gefangen und im Gefängnis gehalten worden sind, wie lange.
+4. Mit  welchen  Folterungen  sie  geplagt  wurden,  damit  sie  andere  ihres
+
+Glaubens verrieten.
+
+5. Wie sie zum Abfall verführt wurden und wie ihnen Zeit gegeben wurde,
+um zur Einsicht zu kommen, was ihnen für den Abfall versprochen wur-
+de.
+
+6. Wie sie alles verweigert haben, wie sie ihren Glauben bekannt haben.
+7. Welche falschen Anschuldigungen gegen sie gerichtet wurden.
+8. Die Verurteilung, wo, wann, wie, durch wen erlassen.
+9. Wie sie sich verhalten haben, als sie erfuhren, dass sie sterben mussten.
+10. Wer sie zur Richtstätte begleitete, was er auf dem Weg sagte, was er über
+
+11. Beständigkeit und Ängstlichkeit. Ob er nach der einmal getanen Leug-
+
+die Tyrannen prophezeite.
+
+nung zur Besinnung kam.
+
+12. Die Art der Hinrichtung, was der dem Tod nahe sagte, welche Bekennt-
+nisse er aussprach, mit welchen Ermahnungen er sich an das Volk wand-
+te.
+
+13. Das Begräbnis, der Spott über den Leichnam.
+14. Meinungen des Volkes über die Tötung. Was nach ihrem Tode folgte, ob
+
+die Tyrannen bald Strafe erlitten usw.
+
+In allen Dingen, die die Geschichtsschreiber behandeln und die ich in zehn
+Hauptpunkten zusammengefasst habe, da es ja viele und verschiedenartige
+sind, muss alles sorgfältig und methodisch nach und nach gesammelt werden,
+was zu sagen möglich ist und gesagt werden muss und was jene alten Autoren
+in ihren Schriften festhielten, damit man hernach die Auswahl hat und alles
+besser gegeneinander abwägen kann.
+
+Aufzeichnung und Anordnung der besonders Zürich
+
+betreffenden Ereignisse, Kapitel IX.
+
+30
+
+Ich möchte nun eine kurze geordnete Zusammenstellung der Ereignisse an-
+fügen, die durch Fromme und Gelehrte mit vielen anderen denkwürdigen
+Ereignissen ergänzt werden kann.
+
+1518
+Im Jahre des Herrn 1518, am 11. September wurde Zwingli von den Kanoni-
+kern zum Pfarrer der Zürcher Kirche gewählt, als er noch in Einsiedeln be-
+schäftigt war. Am Tage des Evangelisten Johannes kam er nach Zürich. Im
+September kam der Mönch Samson wegen der Ablässe in die Eidgenossen-
+schaft.
+
+35
+
+128
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+1519
+An den Kalenden des Januars begann Zwingli das Evangelium des Matthäus
+zu erklären. In diesem Jahr begann er die päpstlichen Ablässe zu bekämpfen.
+Der Bischof von Konstanz forderte Zwingli durch einen Brief auf, eifrig da-
+mit fortzufahren. Zwingli verhandelte in privatem Rahmen vieles mit dem
+Bischof von Konstanz und Pucci, dem päpstlichen Legaten, über die Erneue-
+rung der Kirche.
+
+Die Pest wütete dieses Jahr weit und breit in Deutschland. Auch Zwingli
+wurde davon erfasst. Der päpstliche Legat schickte ihm umgehend seinen
+Arzt, damit ein so wichtiger Mann am Leben bliebe.
+
+In diesem Jahr wurden bei den Zürchern Gesetze beschlossen, dass nie-
+mand die verderblichen Geschenke von den Fürsten annehme. Sie waren zu-
+frieden mit den Geldern, die der französische König jedem Ort jährlich zu-
+gesteht um der Erhaltung des Friedens willens.
+
+1520
+In diesem Jahr wurde von den Eidgenossen an der Tagsatzung in Baden der
+öffentliche  Beschluss  gefasst,  dass  die  Pfründenjäger,  Kurtisanen  genannt,
+fortgejagt werden.
+
+In diesem Jahr wurde vom Zürcher Rat ein Dekret veröffentlicht, dass
+forthin kein Geistlicher in den Kirchen predige, was nicht aus den heiligen
+Schriften des Alten und Neuen Testaments bewiesen werden kann.
+
+1521
+Im März führte Antonio Pucci ein eidgenössisches Heer nach Italien. König
+Franz ging mit allen Eidgenossen ein Bündnis ein, nur die Zürcher hielten
+sich fern, was bei den Bundesgenossen zu großer Missgunst führte.
+
+In diesem Jahr begann Johannes Oekolampad in Basel die reinere Lehre
+
+des Evangeliums öffentlich in Kirche und Schule zu lehren.
+
+Um das Fest Michaels zogen die Zürcher und Zuger zusammen mit nicht
+wenigen anderen auf päpstlichen Befehl wiederum nach Italien und gaben
+nach der Vertreibung des Franzosen Mailand seinem Herzog zurück.
+
+Die Dreizehn Orte der Eidgenossenschaft bestätigten in Basel den Bun-
+
+desschwur.
+
+1522
+In Nürnberg fand ein Reichstag statt, an dem der Gesandte des neuen Papstes
+Hadrian vieles wider Luther trieb. Zwingli veröffentlichte eine Schrift ohne
+seinen Namen, in der er die Fürsten ermahnte, sich vor dem Gesandten Ha-
+drians zu hüten.
+
+Am 25. März predigte Konrad Schmid, der Komtur von Küsnacht, das
+
+Evangelium in Luzern.
+
+Zwingliana XXXIII, 2006
+
+129
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Am 16. April veröffentlichte Zwingli seine erste Schrift von der Wahl der
+Speisen. Um Carnisprivium, wie man es nennt, begannen die Zürcher Fleisch
+zu essen.
+
+Um das Pﬁngstfest wurde Leo Jud als Pfarrer der St.-Peter-Kirche in Zü-
+
+rich gewählt, nach Zürich kam er aber erst im folgenden Jahr.
+
+Im Juni begannen die Eidgenossen dem Evangelium Widerstand zu lei-
+sten. Urban, der Pfarrer von Fislisbach, wurde gefangen, nach Konstanz ge-
+schickt und in Ketten gelegt.
+
+Am 2. Juli schrieben einige Pfarrer eine «freundliche Ermahnung» an den
+Bischof von Konstanz, damit er ihnen die Heirat erlaube und nicht den Lauf
+der freien evangelischen Predigt hindere. Im fast gleichen Sinn schrieben sie
+auch  den  an  der  eidgenössischen  Tagsatzung  Versammelten  in  deutscher
+Sprache.
+
+Am 17. Juli disputierte Zwingli mit dem Mönch Lambert von Avignon öf-
+
+fentlich über die Fürsprache der Heiligen.
+
+In diesem Jahr verteidigte sich Zwingli vor dem Zürcher Rat gegen die
+
+Anschuldigung des Bischofs von Konstanz.
+
+Am Tag von Maria Magdalena wurden die Lektoren der drei sogenannten
+Orden, ebenso die Pfarrer der Kirchen versammelt und von den Ratsabge-
+ordneten ermahnt, von der Kanzel keine Predigten gegen die Mönche zu hal-
+ten,  sondern  sich  erst  mit  dem  Propst  und  dem  Kapitel  abzusprechen.
+Zwingli lehnte dies ab und brachte schwerwiegende Gründe dafür vor.
+
+Am. 22. August schrieb Zwingli den «Apologeticus», den er «Archeteles»
+nannte, an Hugo von Landenberg, den Bischof von Konstanz, über den gan-
+zen Grund der evangelischen Lehre.
+
+Am 17. September hielt er eine Predigt über Maria, die ewige Jungfrau, in
+der er die Verdrehungen seiner Feinde über die Jungfrau Maria zerpﬂückte.
+Im Oktober feierte Valentin Tschudi von Glarus in seiner Heimat die so-
+genannte Primiz. An jenem Tag predigte Zwingli und widerrief öffentlich ei-
+nige Fehler, die er in den Jahren zuvor in Glarus unklug gelehrt hatte.
+
+In diesem Jahr hielten Zwingli und andere am Tag der Weihe des hochbe-
+
+rühmten Heiligtums der Jungfrau zu Einsiedeln viele Predigten.
+
+Im Dezember wurde das Gesetz gegen die Fürstengeschenke erneuert.
+Am Tag vor Thomas beschworen die Diener der Kirche und die soge-
+
+nannten Kleriker dieses Gesetz, am nächsten Tag alle Bürger.
+
+Rhodos, das Bollwerk der Christen, wurde nach langer Belagerung vom
+Land und vom Meer her am Tag der Geburt Christi von den Türken erobert.
+
+1523
+Am 29. Januar fand die erste Zürcher Disputation zwischen Faber und Zwing-
+li über die Fürsprache der Heiligen und andere Punkte statt. Faber weckte in
+den Zürchern die Hoffnung auf eine Verbesserung und auf ein Konzil.
+
+130
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+Ungefähr im Februar kam Leo Jud nach Zürich.
+Am  28. April  feierte  Wilhelm  Reubli,  Diener  der  Kirche  in  Witikon,
+Hochzeit mit Adelheid, und er war der erste unter den Pfarrern, der eine Ehe
+einging.
+
+Am 3. Juli schrieb Zwingli eine Rechtfertigung an die in Bern versammel-
+ten eidgenössischen Gesandten, in der er einige gegen ihn erhobene Anschul-
+digungen entkräftete.
+
+Am 14. Juli erschien Zwinglis Werk «Begründung der Artikel».
+Am  Tag  des  Laurentius  begann  man  erstmals,  die  Kinder  in  deutscher
+Sprache zu taufen, nachdem man jene papistischen Zeremonien verworfen
+hat.
+
+Am 29. September begann man mit der Reformation des Kollegiums, d. h.
+
+Am  19.  [November]  feierte  Leo  mit  seiner  Frau  zu  St. Peter  in  Zürich
+
+der Propstei.
+
+Hochzeit.
+
+Am 17. November wurde die Einleitung zur wahren Religion gedruckt
+
+und vom Rat den Pfarrern der Kirchen zugesandt.
+
+Am 26. Oktober fand die zweite Zürcher Disputation gegen die Messe
+
+und die Bilder statt.
+
+Nach diesen zwei Disputationen begann man beinahe alles in der Kirche
+
+zu ändern und den früheren Zustand wieder herzustellen.
+
+Ende August starb Ulrich von Hutten, ein hervorragender Ritter und sehr
+gelehrter Dichter, der nach seinem Streit mit Erasmus auf der Rückkehr von
+den  Thermen  in  Pfäfers  starb  und  auf  einer  Insel  im  Zürichsee  begraben
+wurde.
+
+Franz von Sickingen, der Förderer Oekolampads und anderer Gelehrter,
+wurde in diesem Jahr in der Burg Naustal von den Fürsten belagert und starb
+von einer Kugel getroffen.
+
+1524
+Am 26. Januar fand in Luzern eine Versammlung der Eidgenossen statt, in der
+ein Dekret gegen die [protestantische] Religion erlassen und gedruckt wurde.
+Am 16. Februar wurde in Basel eine öffentliche Disputation über die Prie-
+
+sterehe abgehalten.
+
+Am 21. März antworteten die Zürcher den Eidgenossen, die sie von der
+neuen Religion abmahnten; dies werde nicht eher geschehen, bis sie aus der
+Heiligen Schrift des Irrtums überführt würden.
+
+Am 2. April vermählte sich Zwingli mit der verwitweten Anna Reinhard.
+Am 2. Mai wurden in Zürich drei Sonnen gesehen.
+Am 13. Juni starb Felix Schmid, Bürgermeister von Zürich.
+Am 15. Juni starb Marx Röist, der andere Bürgermeister.
+Am  17. Juni  wurde  ein  Ratsbeschluss  erlassen,  der  es  den  Nonnen  des
+
+Zwingliana XXXIII, 2006
+
+131
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Klosters Ötenbach erlaubte, dieses auf ihren Wunsch hin zu verlassen und
+sich zu verheiraten.
+
+Am 18. Juni wurde Heinrich Walder zum Bürgermeister gewählt.
+Am 20. Juni wurden die Bilder aus den Kirchen entfernt. Am Tage von Jo-
+
+hannes dem Täufer reinigten auch die von Stammheim ihre Kirche.
+
+Am 17. Juli wurde Öchsli, der Prediger von Burg, vom Thurgauer Land-
+
+vogt gefangengenommen, was zu großem Aufruhr Anlass gab.
+
+Am 19. Juli ging das Kartäuserkloster Ittingen durch das Feuer des Auf-
+
+standes in Flammen auf.
+
+Am Tage vor Michael wurden in Baden drei vortrefﬂiche Stammheimer
+wegen dieses Aufstands, weil sie angeblich dessen Urheber gewesen seien,
+vor allem aber, weil sie dem Evangelium anhingen, hingerichtet.
+
+Am 18. August antwortete der Zürcher Rat dem Bischof von Konstanz
+
+auf dessen Schreiben über die Messe und die Bilder.
+
+Am  6. November  wurde  an  Eck  ein  sogenannter  Geleitbrief  geschickt,
+mit dem man ihn einlud, nach Zürich zu kommen und mit Zwingli über die
+Religion zu disputieren.
+
+Am 16. November schrieb Zwingli den «Brief an Matthäus Alber», den
+
+Pfarrer von Reutlingen, über das Herrenmahl.
+
+Am 5. Dezember übergab Katharina von Zimmern, Äbtissin des Zürcher
+Fraumünsterklosters, das Kloster dem Rat zur Reformation, welches in ein
+Studienkolleg umgewandelt wurde.
+
+Am 20. Dezember verzichteten der Propst und die Chorherren zugunsten
+
+des Rats auf ihre Amtsgewalt.
+
+war, zum Bürgermeister gewählt.
+
+Auf Weihnachten wurde Diethelm Röist, der der Religion sehr zugetan
+
+In diesem Jahr kamen einige Zürcher den Leuten von Waldshut, die we-
+
+gen des Evangeliums bedrängt wurden, zu Hilfe.
+
+Ebenfalls in diesem Jahr kam in Thüringen die wiedertäuferische Sekte
+durch Thomas Müntzer auf, der durch hierher übersandte Briefe auch einige
+Zürcher in diese äußerst schädliche Sekte zu ziehen versuchte.
+
+1525
+Ungefähr am Tag der drei Könige veröffentlichten die Zürcher eine apologe-
+tische Schrift, die Sleidan seiner Geschichte einfügte.
+
+Am 12. April wurde in Zürich durch einen Ratsbeschluss die Messe abge-
+schafft, am 13. April aber, auch am 14. und 16. wurde das Abendmahl gemäß
+der Einsetzung durch Christus gefeiert.
+
+Am 15. Mai wurde in Zürich das Ehegericht eingesetzt.
+In diesem Jahr wurden in Zürich viele Disputationen über die Taufe gegen
+die Wiedertaufe abgehalten, in privatem und öffentlichem Rahmen. Es wur-
+den vom Rat auch Gesetze gegen die wiedertäuferische Sekte erlassen.
+
+132
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavaters Konzept einer Reformationsgeschichte (1559): Übersetzung
+
+Am 29. Mai wurde Bolt von den Schwyzern verbrannt.
+Um Pﬁngsten erhoben sich Bauernunruhen wegen der Zehnten und an-
+
+derer Abgaben.
+
+Am 19. Juni wurden in Zürich Vorlesungen über die Heilige Schrift an-
+stelle der kanonischen Stundengebete eingesetzt. Jakob Ceporin, ein in den
+drei Sprachen sehr gelehrter Mann, lehrte als erster öffentlich die griechische
+und hebräische Sprache, ihm folgten Konrad Pellikan im Unterricht des He-
+bräischen und Rudolf Collin im Unterricht des Griechischen nach.
+Im September wurde der Kirchenschmuck dem Rat übergeben.
+Am 4. November besiegte der Graf Rudolf von Sulz seine aufständischen
+
+Untertanen im Kampf.
+
+Am 5. November schrieb Zwingli gegen den Täufer Balthasar Hubmaier.
+In jener Zeit wollten einige eidgenössische Orte weiter mit den Zürchern
+wegen des Religionsstreits verhandeln, darüber schrieben die Zürcher an die
+Berner.
+
+Der Abt von Stein am Rhein ﬂoh in diesem Jahr in der Nacht mitsamt den
+
+Urkunden und Verträgen.
+
+ligion.
+
+In diesem Jahr schworen die Bürger von Zürich auf die evangelische Re-
+
+Die Fahnen und andere Weihgeschenke wurden aus den Kirchen entfernt,
+die Klöster zu besseren Verwendungszwecken umgewandelt. Die gelehrte-
+ren Mönche übernahmen ein Predigtamt, die Jungen lernten ein Handwerk,
+die übrigen, die aufgrund ihres Alters und beschränkter geistiger Kapazität
+ihr Werk zu verrichten [.. .].
+
+1
+
+5
+
+10
+
+15
+
+20
+
+Zwingliana XXXIII, 2006
+
+133
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580):
+
+Edition 1
+
+Christian Moser
+
+1
+
+5
+
+||b2r S[alutem]. 2 Si litteras, quas ad d[ominum] Campellum 3 dedi 4, adhuc re-
+tines, volo eas aperias et legas – nam quaedam habent, quae ad Raeticam his-
+toriam contexendam pertinent – aut meo nomine, si ita videtur, ab eo repete,
+ut tu quoque illas legas. Profecto, si scivissem te in hoc argumento versari,
+fortassis aliter scripsissem. Hortatus enim sum ipsum ad perﬁciendum reli-
+quam sui operis 5 partem, hoc est, ut periegesei seu regionis descriptioni his-
+
+2
+
+1 Der Edition liegt der Abdruck in a Portas «Historia reformationis ecclesiarum Raeticarum»,
+Chur 1771, Bl. b2r-c2r zugrunde. Diese Vorlage wird mit der Sigle «P» abgekürzt. Zu den
+Editionsgrundsätzen  vgl.  Anm. 1  des  vorhergehenden  Stücks.  Die  parallele  Übersetzung
+wurde unter Heranziehung der Übersetzung von Traugott Schiess neu erarbeitet. An zusätz-
+lichen Abkürzungen wurden verwendet: BKGr: Bullingers Korrespondenz mit den Grau-
+bündnern,  hg.  von  Traugott  Schiess,  3  Bde,  Basel  1904–1906  (QSG  23–25)  (Nachdruck
+Nieuwkoop 1968); JNfGG: Jahresbericht der Naturforschenden Gesellschaft Graubündens;
+LexMA: Lexikon des Mittelalters. 9 Bde. und Registerbd., München/Zürich 1977–1999; NP:
+Der Neue Pauly. Enzyklopädie der Antike, hg. von Hubert Cancik u.a., 16 Bde., Stuttgart
+u. a.  1996–2003.  Für  philologischen  Rat  danke  ich  Dr. Philipp  Wälchli  und  für  zahlreiche
+Hinweise lic. theol. Rainer Henrich.
+Lavater schreibt an Johannes Pontisella d.J., geb. 1552, gest. 1622, Sohn des mit Bullinger und
+den  Zürcher  Theologen  sehr  gut  bekannten  Johannes,  gest.  1574  (vgl.  ZPfB  474;  BKGr  I
+XLIII-XLV). Der jüngere Pontisella studierte wie sein Vater in Zürich und danach in Heidel-
+berg. Nach seiner Heimkehr nach Chur wurde er in den sog. Gantnerhandel verwickelt, in
+dem er sich zusammen mit seinem Vater auf die Seite Johannes Gantners stellte. 1574 wurde
+er Nachfolger des Ulrich Campell an der Churer Regulakirche, 1606 aber auf Betreiben von
+französischen Parteigängern aus der rätischen Synode ausgeschlossen. Neben Übersetzungen
+von Werken Lavaters veröffentlichte er neben anderem einen Katechismus und Kommentare
+zu den Thessalonicherbriefen, zum Jakobusbrief und zu den Psalmen. – Lit.: Jakob R. Truog,
+Die Pfarrer der evangelischen Gemeinden in Graubünden und seinen ehemaligen Unterta-
+nenlanden,  Chur  1934  (Jahresberichte  der  Historisch-Antiquarischen  Gesellschaft  von
+Graubünden, 1934/35), 38f.; Michael Valèr, Die evangelischen Geistlichen an der Martinskir-
+che in Chur. Vom Beginn der Reformation bis zur Gegenwart, Chur 1919, 64–67; Erich Wen-
+neker, in: BBKL XIX 1086–1088.
+
+3 Ulrich Campell (Duri Champell), geb. um 1510, gest. um 1582. Campell wirkte als Pfarrer in
+reformatorischem Sinne in Klosters, Süs, Zuoz und Chur und proﬁlierte sich als engagierter
+Bekämpfer der Soldbündnisse. Er verfasste rätoromanische Psalmenübersetzungen, religiöse
+Lieder und einen Katechismus (Gesamtausgabe: Un cudesch da Psalms [.. .], Basel: Jakob
+Kündig, 1562 [Eduard Böhmer, Verzeichnis rätoromanischer Litteratur, Bonn 1885, 110]). Zu
+seiner Landeskunde Graubündens vgl. unten Anm. 5. – Lit.: Conradin Bonorand, Die Enga-
+diner Reformatoren Philipp Gallicius, Jachiam Tütschett Bifrun, Durich Chiampell. Voraus-
+setzungen und Möglichkeiten ihres Wirkens aus der Perspektive der Reformation im allge-
+meinen, Chur 1987; ders., in: HLS III 185f.; BKGr III XII-XIX.
+
+4 Nicht erhalten.
+5 Campell arbeitete auf Anregung Josias Simlers, der ein großangelegtes Projekt einer gesamt-
+eidgenössischen historischen Landestopographie verfolgte, an einer historisch-topographi-
+
+134
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+toriam subiungat, sicut Simlerus a 6 noster in sua Valesia 7 fecit. Adieci mihi et
+aliis utile videri, ut simplicitati et brevitati studeat, non minutissima quaeque
+et lectori inutilia persequatur. Quae de familiis scribis, etiam ego ad illum
+scripsi. Comparatio in familiis est valde odiosa. Ex veteribus instrumentis et
+
+1
+
+schen Landesbeschreibung Graubündens. In den Jahren 1570–1573 verfasste er den topogra-
+phischen  Teil  unter  dem  Titel  «Raetiae  alpestris  topographica  descriptio»,  von  dem  sich
+Simler und Heinrich Bullinger wenig begeistert zeigten. Dessen ungeachtet ergänzte Campell
+sein Werk in den folgenden Jahren um einen historischen Teil «Historia Raetica». 1576 starb
+jedoch Simler und damit die treibende Kraft hinter dem Projekt, so dass Campells Werk bis
+ins späte 19. Jahrhundert ungedruckt blieb. Die «Descriptio» ist gedruckt nach einer Ab-
+schrift  in:  Ulrici  Campelli,  Raetiae  alpestris  topographica  descriptio,  hg.  von  C[hristian]
+I[mmanuel] Kind, Basel 1884 (QSG 7) [zit. Campell, Descriptio], zur Überlieferung und zu
+Textvarianten  vgl.  Traugott Schiess,  Nachträge  zu  Campell,  in:  AnzSG  NF  8,  1898–1901,
+175–183.202–207; ders., Ulrici Campelli Raetiae Alpestris descriptio, Appendix III & IV [.. .],
+in: JNfGG NF 42, 1898/1899 und ebd., NF 43, 1899/1900 (jeweils als Anhang); dazu Einlei-
+tung in ders., Dritter und vierter Anhang zu Ulrich Campells Topographie von Graubünden,
+Chur 1900 (Beilage JNfGG NF 42–44). Druck der «Historia» (zumeist nach dem Autograph
+Campells) in: Ulrici Campelli, Historia Raetica, 2 Bde., hg. von Plac[id] Plattner, Basel 1887
+und 1890 (QSG 8 und 9) [zit. Campell, Historia I bzw. II]. – Zu Campells Tätigkeit als Ge-
+schichtsschreiber  vgl.  Richard Feller  /  Edgar Bonjour,  Geschichtsschreibung  der  Schweiz.
+Vom Spätmittelalter zur Neuzeit, Bd. 1, Basel/Stuttgart 1962, 276–279; Hermann Wartmann,
+Einleitung, in: Campell, Historia II, V-LXVIII.
+Simlerus in Versalien P.
+Stumfﬁus in Versalien P.
+Josias Simler, geb. 1530, gest. 1576. Nach Schulbesuch und Studien in Kappel a. A., Zürich,
+Basel und Straßburg wurde er 1552 Pfarrer in Zollikon (Kt. Zürich) und versah daneben eine
+Lehrstelle für Neues Testament. 1557–1560 Diakon an St. Peter (Zürich), 1560 Professor für
+Altes Testament anstelle des entlassenen Theodor Bibliander, 1562 Nachfolger Peter Martyr
+Vermiglis auf dem alttestamentlichen Lehrstuhl der «Schola Tigurina». Neben exegetischen
+Werken verfasste Simler die Viten von Vermigli, Gessner und Bullinger und wandte sich ve-
+hement gegen den Antitrinitarismus. Seine besondere Leidenschaft galt der Geschichte und
+Landeskunde (s.vorhergehende Anm.). Sein kurz vor seinem Tod auf lateinisch und deutsch
+erschienenes Werk über die Geschichte und Verfassung der Eidgenossenschaft (De republica
+Helvetiorum libri duo, Zürich: Christoph Froschauer d. J., 1576 [BZD C 909]; Regiment ge-
+meiner loblicher Eydtgnoschafft, ebd. [BZD C 910f.]) wurde zum Standardwerk und erlebte
+zahlreiche  Auﬂagen  und  Übersetzungen.  –  Lit.: Feller/Bonjour,  Geschichtsschreibung  I
+195–199;  Ernst Reibstein,  Respublica  Helvetiorum.  Die  Prinzipien  der  eidgenössischen
+Staatslehre bei Josias Simler, Bern 1949; ZPfB 532; Hans Ulrich Bächtold, in: BBKL XIV
+1298–1303; Thomas K. Kuhn, in: RGG4 VII 1326.
+Josias Simler, Vallesiae descriptio libri duo. De alpibus commentarius [.. .], Zürich: Christoph
+Froschauer d. J., 1574 (BZD C 878; VD 16 S 6519). Simlers Abhandlung besteht aus einer «Val-
+lesiae descriptio» (Bl. 1r-64v), einem «De alpibus commentarius» (Bl. 65r-124r; moderne ita-
+lienische Übersetzung: Iosia Simler, Commentario delle Alpi, hg. von Carlo Carena, Locarno
+1998 [I classici 8]; deutsche Übersetzung: Josias Simler, Die Alpen, hg. von Alfred Steinitzer,
+München 1931 [Gesellschaft alpiner Bücherfreunde, Jahresgabe 7]) und einem Appendix (Bl.
+135r-151r). Die «Vallesiae descriptio» unterteilte er wiederum in einen landeskundlichen («De
+populi  moribus  et  regionis  situ,  urbibus,  arcibus,  pagis  et  reliquis  memoratu  dignis»,  Bl.
+1r-35v) und einen historischen («De rebus gestis Valesianorum», Bl. 36r-64v) Teil.
+
+6
+a
+
+b
+
+6
+
+7
+
+Zwingliana XXXIII, 2006
+
+135
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+diplomatis familiarum, uti Stumfﬁus b fecit, 8 vetustas potest assignari. Item ex
+publicis tabulis monasteriorum, in ﬁne enim plerumque adduntur testes, ve-
+luti cum dicitur: «Cum haec gererentur, praesentes fuerunt Salicei 9, Prevo-
+stii 10 etc.» In instrumentis etiam diligenter observandum est, quomoda loca
+singula nominentur: montes, pagi, regiones, ut cum dicis Praegalliam olim
+Vallem Breuniam 11 dictam. Si tu ex instrumentis scriptis regionem illam vel
+Praegalliam vel Breuniam Vallem dictam ostendas, quae hodie Bergell voca-
+tur, gratum erit, pleraque enim huiusmodi nomina ﬁnguntur a recentioribus.
+Episcopatus habent suos indices, in qui||b2vbus reditus annui consignantur,
+item singuli pagi, ex quibus vetera quoque nomina peti possint. Pulcrum au-
+tem erit authores adiicere. Quod si tu, qui stilo et iudicio vales, in animo ha-
+bes totam vestrae gentis historiam complecti, fortassis praestaret d[ominum]
+Campellum reliquam partem sui operis tibi committere; posses enim in tuo
+libro honoriﬁcam eius facere mentionem et publice proﬁteri ipsius labores
+tibi non parum in confectione illius libri profuisse. Vel quid, si uterque suae
+patriae res illustrare contendat? 12
+Quae sint res historicae vel materiae, non est, quod tibi in Livii 13 et aliorum
+historiis versato in mentem revocem. De materia vero colligenda, in quo ma-
+
+8 Möglicherweise Fehltranskription von idololatriis in P.
+c
+8
+
+Lavater  verweist  auf  Johannes  Stumpf,  Gemeiner  loblicher  Eydgnoschafft  stetten,  landen
+und völckeren chronick wirdiger thaaten beschreybung [.. .], Zürich: Christoph Froschauer
+d. Ä., 1547/1548 (BZD C 376; VD 16 S 9863). Das Werk entstand in Zusammenarbeit mit Ge-
+lehrten wie Heinrich Bullinger, Joachim Vadian und Ägidius Tschudi, vgl. Gerald Strauss,
+The Production of Johann Stumpf’s Description of the Swiss Confederation, in: ders., Enact-
+ing the Reformation in Germany. Essays on Institution and Reception, London 1993 (Col-
+lected Studies Series CS418), 104–122 (Erstpubl. 1958).
+Zur Familie von Salis vgl. Nicolaus von Salis-Soglio, Die Familie von Salis. Gedenkblätter aus
+der  Geschichte  des  ehemaligen  Freistaates  der  drei  Bünde  in  Hohenrätien  (Graubünden),
+Lindau i. B. 1891; HBLS VI 15–20.
+
+9
+
+10 Prevost/Prevosti: Bergeller Aristokratengeschlecht (Vicosoprano), urkundlich erstmals 1190
+erwähnt, vgl. Paul Eugen Grimm, Die Anfänge der Bündner Aristokratie im 15. und 16. Jh.,
+Zürich 1981; HBLS V 488.
+
+11 Vgl. Campell, Descriptio, 40,37: «Quae valles nominatim sunt Breunia».
+12 Pontisellas historiographische Ambitionen führten zu weit weniger konkreten Ergebnissen
+als diejenigen Campells. Das von Pontisella ins Auge gefasste Werk über Graubünden kam
+nicht zustande, er hinterließ einzig ein auf dem Umschlag auf das Jahr 1593 datiertes Manu-
+skript über die Bischöfe von Chur: «Kurze wharhaffte verzeichnung aller bischouen, so von
+Asymone an biß auff Beatum, der zeit regierenden Herren der uhralten stiffte Chur fürge-
+standen sammt beileüfﬁger beschreibung, was sich bey yeder tagen wüßenhafftig zu getra-
+gen, auch was fürsten und landtsherren under irer verwaltung Raetiam beherschet. Gestelt
+durch Johansen Pontisellam, burger zu Chur in Grauwen Pündten.» (Familienarchiv Tschar-
+ner-St. Margrethen, Chur, D V 3/72) (freundliche Mitteilung von lic. phil. Ursus Brunold).
+13 Titus Livius, geb. wohl 59 v. Chr., gest. um 17 n. Chr, römischer Historiker, Verfasser des
+Werks «Ab urbe condita», das die Geschichte der Römischen Republik behandelt. – Lit.:
+Gary Forsythe, Livy and Early Rome. A Study in Historical Method and Judgment, Stuttgart
+1999 (Hist, Einzelschriften 132); Manfred Fuhrmann / Peter L. Schmidt, in: NP VII 377–382.
+
+136
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+ior est difﬁcultas, haec tantum dicam: Utile esset chronica alia quoque a no-
+bilibus viris congerere. Illa illi non gravate tibi concitabunt, ut eo ipsorum
+origines celebrentur, sua quoque privilegia tibi ostendent. Vide, quaenam sint
+monumenta vetustatis apud vos: numismata effossa, sepulcra, inscriptiones,
+tropaea. Ex libris vitae, ut vocant, jahrzeit-büchern, urbaren, rödlen, privile-
+giis  communitatum  et  monasteriorum  multa  peti  possunt.  In  monasteriis
+multi servantur libri, qui huc pertinent. Sacella hinc inde certis de causis in-
+terdum exstruuntur, vel quod ibi commissa sit aliqua pugna vel mirabile quid
+acciderit. Eruuntur ex terra tela, instrumenta vetera, quorum vel in bello vel
+in cultibus idololatrius c usus fuit, quae ostendunt ibi gestum aliquod praeli-
+um vel templum aliquod fuisse. Quaedam consuetudines et ritus gentium etc.
+vocant in memoriam res praeteritas. Veteres cantilenae, rumores huc perti-
+nent. Sed non dubito, quin diligenter tumet perpenderis, ||b3r quomodo ma-
+teria historiae vestrae gentis colligenda sit.
+
+Ex vicinis aliisque multa possunt cognosci et antiquariis etc. In singulis pagis
+sunt homines, qui ex litteris vel instrumentis publicis quaedam possunt sug-
+gerrere, item, quae memorabilia illis in locis acciderint, referre etc. Regii ora-
+toris d 14 opera tibi quoque utilis esse ad historiae absolutionem poterit, cui om-
+nes nobiles concitant, quaecunque voluerit. Gesnerus e 15 in sua Bibliotheca 16
+
+1
+
+5
+
+10
+
+15
+
+14 Anmerkung a Portas: Pomponius Bellieureus [Pomponne de Bellièvre, 1529–1607], regis Gal-
+d
+liar[um] legatus, eo tempore Haldenstenii [Schloss Haldenstein, vgl. Arthur Gredig / Augu-
+stin Carigiet, Schloss Haldenstein, in: Archäologie in Graubünden. Funde und Befunde. Chur
+1992, 395–418] residebat [a Portas Hinweis ist irreführend, da er von einer früheren Abfas-
+sungszeit des Briefes ausgeht, vgl. Anm. 14].
+
+e Gesnerus in Versalien P.
+14 Vertreter des französischen Königs in Graubünden war in den Jahren 1577–1580 Jean Florin,
+vgl. Edouard Rott, Histoire de la représentation diplomatique de la France auprès des cantons
+suisses, de leur alliés et de leurs confédéres, Bd. 2, Bern 1902, 183–188.
+
+15 Konrad Gessner, geb. 1516, gest. 1565. Nach ausgedehnten Studien in verschiedenen Fach-
+richtungen in Zürich, Straßburg, Bourges, Paris und Basel wurde Gessner 1537 als Professor
+für Griechisch nach Lausanne berufen. 1540 setzte er seine medizinischen Studien in Mont-
+pellier fort und ließ sich in der Folge als Arzt in Zürich nieder, wo er ab 1546 auch den neu-
+geschaffenen  naturwissenschaftlichen  Lehrstuhl  übernahm.  1554  wurde  er  Stadtarzt  und
+1558  schließlich  auch  Chorherr  am  Großmünster.  Gessners  umfangreiches  Œuvre  ist  das
+Werk eines Universalgelehrten, das Abhandlungen zur vergleichenden Sprachforschung, Le-
+xikographie, Zoologie, Botanik und Medizin umfasst. Zu seiner mehrfach erweiterten, um
+die 3000 Autoren umfassende Universalbibliographie vgl. die folgende Anm. – Lit.: Hans
+Wellisch, Conrad Gessner. A Bio-Bibliography, in: Journal of the Society for the Bibliogra-
+phy of Natural History 7/2, 1975, 151–247 (Sonderdruck Zug 1984); Hans Fischer, Conrad
+Gessner. Leben und Werk, Zürich 1966 (Neujahrsblatt hg. von der Naturforschenden Gesell-
+schaft in Zürich 168 / Vierteljahrschrift der Naturforschenden Gesellschaft in Zürich 110,
+Beiheft); Alfredo Serrai, Conrad Gessner, Rom 1990; Urs B. Leu, Conrad Gesner als Theo-
+loge. Ein Beitrag zur Zürcher Geistesgeschichte des 16. Jahrhunderts, Bern u.a. 1990 (ZBRG
+14 / Schriftenreihe der Stiftung Franz Xaver Schnyder von Wartensee 55); Matthias Freuden-
+berg, in: BBKL XV 635–650.
+
+Zwingliana XXXIII, 2006
+
+137
+
+1
+
+dicit Raetorum gentis gesta et nobilitatem Albertum Belfortensem f 17 descrip-
+sisse, sed librum non exstare; 18 item d[ominum] Stupanum g 19 de Raetis libros
+aliquos conscripsisse. h 20 Scripsit Simonetta i 21 librum magnum de ducibus Me-
+
+Christian Moser
+
+16 Albertum Belfortensem in Versalien P.
+f
+g
+h Anmerkung a Portas: Intellige Nigolaum [Nigolaum in Versalien] Stupanum Pontrasinen-
+
+d[ominum] Stupanum in Versalien P.
+
+sem, Basileae philos[ophiae] et medic[inae] professorem.
+Simonetta in Versalien P.
+
+i
+16 Konrad  Gessner,  Bibliotheca  universalis  sive  catalogus  omnium  scriptorum  [.. .],  Zürich:
+Christoph Froschauer d. Ä., 1545 (BZD C 350); weitere Teile erschienen 1548 (BZD C 390)
+und 1549 (BZD C 406); ein Appendix 1555 (BZD C 504). Auszüge Josias Simlers aus der Bi-
+bliotheca universalis wurden 1555 (BZD C 506), 1574 (BZD C 873) und 1583 (BZD C 1006)
+veröffentlicht. Die Literatur zum bibliographischen Werk Gessners, der mit dem Prädikat
+«Vater der Bibliographie» bedacht worden ist (vgl. etwa J. Christian Bay, Gesner. The Father
+of Bibliography, in: Papers of the Bibliographical Society of America 10, 1916, 53–88), ist Le-
+gion, vgl. in neuerer Zeit Edoardo Barbieri, Tutti i libri del mondo. La Bibliotheca universalis
+di Conrad Gesner e il compito della bibliograﬁa, in: L’Erasmo 30, 2006, 69–80 und Helmut
+Zedelmaier, Bibliotheca universalis und Bibliotheca selecta. Das Problem der Ordnung des
+gelehrten Wissens in der frühen Neuzeit, Köln u.a. 1992 (BAKG 33), 99–107.
+
+17 Belfort: Burg östlich von Brienz (Kt. Graubünden) und Herrschaft, vgl. Maria-Letizia Bos-
+cardin und Jürg Simonett, in: HLS II 170. Zum nicht näher bekannten Mediziner Albert von
+Belfort vgl. Konrad Gessners Angaben in der folgenden Anm.
+
+18 Gessner, Bibliotheca universalis, 1545, Bl. 17v: «Albertus Belfortis Rhêticus, vir et antiqua ge-
+neris nobilitate et eruditione clarus, medicus excellens, nihil dum, quod sciam, in lucem dedit,
+daturus brevi, Deo favente, Rhaetiae epiphasin de gestis, antiquitate, nobilitate et potentia
+Rhaetorum, ubi omnis eius gentis et regionis historia ad unguem ita demonstrabitur, ut nihil
+apud Graecos aut Latinos extet, quod in medium non afferatur.» Gessner, Bibliotheca univer-
+salis, 1548, Bl. 138r: «Rhetorum gentis gesta et nobilitatem Albertus Belfortis descripsit. Li-
+ber non est editus.» Das Werk ist verschollen. Auch spätere Bibliographen vermerken es, zum
+Teil  unter  Bezugnahme  auf  diese  Briefstelle,  so  Gottlieb  Emanuel Haller,  Bibliothek  der
+Schweizer-Geschichte und aller Theile, so dahin Bezug haben, Bd. 4, Bern 1786, 426, Nr. 803
+(mit Datierung 1541).
+
+19 Lavater verweist wohl auf ein Werk von Johannes Nicolaus Stupanus, geb. 1542, gest. 1621.
+Nach philosophischen und medizinischen Studien in Basel promovierte Stupanus 1569 zum
+Doktor der Medizin. 1570 Prof. für Rhetorik, später für Logik und 1589–1620 für Medizin in
+Basel. Neben seinem medizinischen Hauptwerk «Medicina theorica» (Basel: Johann Schrö-
+ter, 1614) verfertigte Stupanus Übersetzungen aus dem Italienischen ins Lateinische, darunter
+Machiavellis «Il Principe». – Lit.: Huldrych M. Koelbing, Johannes Nicolaus Stupanus, Rhae-
+tus (1542–1621), in: Äskulap in Graubünden. Beiträge zur Geschichte der Medizin und des
+Ärztestandes, hg. vom Bündnerischen Ärzteverein, Chur 1970, 628–646.
+Stupans ungedruckt gebliebenes Werk über Graubünden ließ sich in Gessners «Bibliotheca»
+und dem «Appendix» nicht nachweisen. Die «Epitome bibliothecae» vom Jahre 1583 (BZD
+C 1006) zählt zwar zahlreiche Schriften Stupans auf (S. 477), nicht aber sein Geschichtswerk,
+das als verschollen gelten muss. Haller listet das Werk zwar im ersten (S. 226, Nr. 855) und
+vierten  (S. 426,  Nr. 804,  mit  Verweis  auf  diese  Briefstelle)  Band  seiner  «Bibliothek  der
+Schweizer-Geschichte» auf, seine Angaben beruhen aber kaum auf einer Autopsie.
+
+21 Giovanni  Simonetta,  geb.  1410–1420,  gest.  1491.  Simonetta  stand  als  Leiter  der  geheimen
+Kanzlei im Dienst der Sforza, wurde aber durch Ludovico il Moro nach Vercelli verbannt. Zu
+seinem Geschichtswerk, eine Darstellung der Mailändischen Geschichte 1421–1466, vgl. die
+folgende Anm. – Lit.: Gary Ianziti, Humanistic Historiography under the Sforzas. Politics
+
+20
+
+138
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+diolani; 22 sed an aliquid de Raetis habeat, ignoro. Alii quoque Italici scriptores
+forte libris suis quaedam inseruerunt de vestra gente, de Guicciarino j 23 et Io-
+vio k 24 certum est. Plures apud vos sunt docti et nobiles viri, qui tuos conatus
+plurimum  iuvare  possunt.  Ad  has  nundinas l 25  Urstisii m 26  chronicon
+Germ[anicum] 27 prodibit de rebus Basiliensium, in quo varia et hactenus in
+
+1
+
+5
+
+and Propaganda in Fifteenth-Century Milan, Oxford 1988; Eduard Fueter, Geschichte der
+neueren  Historiographie,  München/Berlin 31936  (HMANG.A),  42–44;  Francesca  M. Va-
+glienti, in: LexMA VII 1921f.; Uwe Neddermeyer, in: LThK3 IX 608f.
+
+22 Guicciarino in Versalien P.
+j
+k
+
+Iovio in Versalien P.
+nundiuas P.
+
+l
+m Urstisii in Versalien P.
+22 Giovanni Simonetta, Commentarii rerum gestarum Francisci Sfortiae Mediolanensium ducis,
+Mailand: Antonio Zaroto, 1486 (Bayerische Staatsbibliothek, Inkunabelkatalog, Bd. 5, Wies-
+baden 2000, Nr. S 406) (Erstausgabe: Mailand: Antonio Zaroto, 1479; zahlreiche weitere Auf-
+lagen und Übersetzungen).
+
+23 Francesco Guicciardini, geb. 1483, gest. 1540. 1512–1513 Botschafter von Florenz in Spanien,
+ab 1516 päpstlicher Statthalter in Modena, ab 1517 auch in Reggio, ab 1526 Aufenthalt an der
+Kurie. Guicciardini verfasste eine Geschichte von Florenz und kurz vor seinem Tod die «Sto-
+ria d’Italia» – Lit.: Francesco Guicciardini, Le lettere. Edizione critica, hg. von Pierre Jodo-
+gne, Rom 1986ff. (bislang 9 Bde.); Volker Reinhardt, Francesco Guicciardini (1483–1540).
+Die Entdeckung des Widerspruchs, Göttingen/Bern 2004 (Kleine politische Schriften 13);
+Felix Gilbert, Machiavelli and Guicciardini. Politics and History in Sixteenth-Century Flo-
+rence, New York u.a. 1984; Fueter, Historiographie, 70–80; Joachim Weinhardt, in: RGG4 III
+1326 f.
+
+24 Paolo Giovio (Jovius), geb. 1483, gest. 1552. Studium der Medizin in Padua, Pavia und Rom,
+ebd.  Professor  für  Rhetorik,  1528  Bischof  von  Nocera,  1550  Übersiedlung  nach  Florenz.
+Giovio verfasste verschiedene biographische Werke, darunter die «Vita Leonis X.» und eine
+«Elogia virorum literis illustrium». Das Werk, das ihn berühmt machen sollte, waren die über
+den Zeitraum 1494 bis 1544 führenden «Historiarum sui temporis libri XLV». – Lit.: T. C.
+Price Zimmermann, Paolo Giovio. The Historian and the Crisis of Sixteenth-Century Italy,
+Princeton u.a. 1995; Fueter, Historiographie, 51–55.
+
+25 Gemeint ist die Frankfurter Frühjahrsmesse, die in der Regel von Oculi bis Freitag vor Pal-
+marum stattfand (s. Alexander Dietz, Frankfurter Handelsgeschichte, Bd. 1, Frankfurt a.M.
+1910, 37–40), im Jahre 1580 somit vom 6. bis 25. März. Der entsprechende Messkatalog (Ca-
+talogus novus nundinarum vernalium Francofurti ad Moenum, Frankfurt a.M.: Georg Rab d.
+Ä., 1580 [VD 16 W 3171]) verzeichnet Wurstisens Chronik Bl. E2v-E3r.
+
+26 Christian Wurstisen, geb. 1544, gest. 1588. Wurstisen war ein Schüler Thomas Platters in Ba-
+sel, wo er auch studierte. 1563 betreute er die Gemeinde Großhüningen (Huningue, Elsass)
+und ein Jahr darauf wurde er Helfer an St. Theodor in Basel. 1564–1584 Professor für Mathe-
+matik, 1584–1586 für Theologie an der Universität Basel, 1586–1588 Basler Stadtschreiber.
+Wurstisen  verfasste  Werke  astronomischen  und  arithmetischen  Inhalts  und  wurde  durch
+seine «Basler Chronik» (s.folgende Anm.) bekannt. – Lit.: Feller/Bonjour, Geschichtsschrei-
+bung I, 261–266; HBLS VII 603; August Bernoulli, in: ADB XLIV 346f.
+
+27 Christian Wurstisen, Baßler Chronick, darinn alles, was sich in Oberen Teutschen landen,
+nicht nur in der statt und bisthumbe Basel, von ihrem ursprung her, nach ordnung der zeiten,
+in kirchen und welt händlen biß in das gegenwirtige M. D. LXXX jar gedenckwirdigs zuo-
+getragen [.. .], Basel: Sebastian Henricpetri, 1580 (VD 16 W 4670). Lateinische Erstausgabe:
+
+Zwingliana XXXIII, 2006
+
+139
+
+1
+
+5
+
+aliis non lecta in lucem proferet. Multos enim libros evolvit, ut suam historiam
+ornaret. 28 Si gratum tibi erit, monebo eum, ut, si quid habeat, ad te mittat. Mihi
+enim magna cum illo intercedit familiaritas. 29 «Stumﬁus n multa habet», dicis,
+«at non omnia». Utile erit, si alicubi erret, errorem modeste 30 indicare. Vidi
+Tscudii o 31 quoque Rhetiam multum a priore diver||b3vsam, 32 quam ab haere-
+
+Christian Moser
+
+28
+n
+
+Epitome  historiae  Basiliensis  praeter  totius  Rauricae  descriptionem  [.. .],  Basel:  Sebastian
+Henricpetri, 1577 (VD 16 W 4674).
+Stumﬁus in Versalien P.
+Tscudii in Versalien P.
+
+o
+28 Vgl. Wurstisens Bemerkungen zu seinen Quellen in der Vorrede und das «Verzeichnuß der
+fürnempsten authorn, scribenten und personen, auß deren schrifften und z ouschub diese Baß-
+ler chronick z ousamen kommen», Bl. a5r.
+
+29 Reste eines brieﬂichen Kontakts zwischen Lavater und Wurstisen haben sich erhalten in Ut-
+recht, Bibliotheek der Rijksuniversiteit, Ms. 11. C. 10, Nr. LV (Wurstisen an Lavater, 1578[?];
+Abschrift  von  unbekannter  Hand  des  19. Jahrhunderts)  und  Basel  Universitätsbibliothek,
+Autogr.-Slg., W (Wurstisen an Lavater, 9. März [1584?]; Autograph Wurstisens). In seinem
+Diarium beschreibt Wurstisen einen Besuch – ausgestattet mit einem Empfehlungsschreiben
+an Johannes Fries und Konrad Gessner – in Zürich im Oktober 1562, dies aber ohne explizite
+Nennung Lavaters, vgl. Diarium des Christian Wurstisen 1557–1581, hg. von R[udolf] Lu-
+ginbühl, in: BZGAK 1, 1902, 53–145, hier 75.
+
+30 Lavaters Nachdruck auf gemäßigte Kritik verdankt sich wohl Stellen wie Campell, Descrip-
+tio, 408,23: «[. . .] et non sicut Stumpﬁus hallucinatus» (ebd. aber auch der Zusatz: «quod cum
+eius pace dictum volo»).
+
+31 Ägidius (Gilg) Tschudi, geb. 1505, gest. 1572. 1529–1531 Glarner Landvogt von Sargans, 1532
+Obervogt des Amtes Rorschach, 1533–1535 Landvogt in Baden, danach häuﬁger Vertreter
+von Glarus an den Tagsatzungen, 1549–1551 wiederum Landvogt in Baden und 1554 Land-
+ammann in Glarus, wo sich um seine prokatholische Politik der sog. «Glarnerhandel» (vgl.
+Markus Wick, Der «Glarnerhandel». Strukturgeschichtliche und konﬂiktsoziologische Hy-
+pothesen  zum  Glarner  Konfessionsgegensatz,  in:  Jahrbuch  des  Historischen  Vereins  des
+Kantons Glarus 69, 1982, 47–240) entzündete, in dessen Folge Tschudi die Jahre 1562–1565
+im Rapperswiler Exil verbringen musste. Er blieb der Nachwelt vor allem durch seine ausge-
+dehnten historischen Forschungen und umfangreiche Werke zur Geschichte der Eidgenos-
+senschaft,  darunter  sein  Chronicon  Helveticum  (hg.  von  Bernhard  Stettler,  Bern/Basel
+1968–2001 [QSG.C NF 7/1–13 und 7/R1-R4]) in Erinnerung – Lit.: Aegidius Tschudi und
+seine Zeit, hg. von Katharina Koller-Weiss und Christian Sieber, Basel 2002; Bernhard Stett-
+ler, Tschudi-Vademecum: Annäherungen an Aegidius Tschudi und sein «Chronicon Helveti-
+cum», Basel 2001 (QSG.C NF 7, Hilfsmittel 3); ders., Studien zur Geschichtsauffassung des
+Aegidius  Tschudi,  in:  ders.,  Aegidius  Tschudi,  Chronicon  Helveticum,  Bd. 2,  Bern  1974
+(QSG.C NF 7/2), 7*-134*.
+
+32 Lavater bezieht sich auf Tschudis historisch-geographische Darstellung Graubündens, die
+1538 parallel in deutscher Sprache (Die uralt varhafftig alpisch Rhetia, Basel: Johann Bebel,
+1538 [VD 16 T 2153], spätere Auﬂage Basel: Witwe des Michael Isengrin, 1560 [VD 16 T
+2154]) und in einer lateinischen Übersetzung Sebastian Münsters (De prisca ac vera alpina
+Rhaetia, Basel: Michael Isengrin, 1538 [VD 16 T 2155], spätere Auﬂage Basel: Witwe des Mi-
+chael Isengrin, 1560 [VD 16 T 2156]) erschienen ist. Bei der abweichenden Version, die Lava-
+ter gesehen hat, handelt es sich um den Rätien betreffenden Teil von Tschudis «Gallia co-
+mata», die bis 1758 ungedruckt geblieben ist (Autograph: St. Gallen Stiftsbibliothek, Cod.
+639, die Rätien betreffenden Teile S. 228–271; Druckausgabe: Haupt-Schlüssel zu zerschide-
+nen[!] alterthumen oder gründliche [.. .] beschreibung [.. .] Galliae Comatae [.. .], hg. von. Jo-
+
+140
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+dibus 33 eius orator regis tibi posset impetrare. Est liber prorsus novus p. Quod
+Simlerus q de Davosiis scribit, habet ex aliis. 34 Hoc volo ego ex eius sententia
+annotare: inde hoc videbatur illi verisimile, id quod scribit, eo quod illi Ger-
+manice loquantur et eadem qua Valesii phrasi utantur, cum vicini omnes fere
+Rhetice loquantur. 35 Privilegium Prevostorum r, de quo scribis, vidi superiore
+anno apud d[ominum] Funccium s 36, qui meum de illo iudicium petebat; cum
+quoque  pictura  separata  erat  (habueram  apud  me  apographum),  iubebam,
+mitteret ad me, ut conferre possem cum eo et postea videre, quam accurate ra-
+tioni temporum singula congruerent. Sed non misit, interea nullam eius am-
+plius mentionem fecit. Ego afﬁrmare non possum, a quo vel ob quam causam
+ad illum missum fuisset. De Gugelbergia t familia 37 quae scribit, ex ipso u viro
+bono habuit, nam scripsit ad Funcium, ut in nostris historiis illa ipsa inqui-
+ramus. Sed nihil prorsus habuimus de illis. Quae tamen omnia nihilominus li-
+bro d[omini] Campelli v ex illius suggestione fuerunt inserta. w 38 Quid facien-
+dum videatur, ne alias familias offendat, etiam ipsum monui.
+
+1
+
+5
+
+10
+
+15
+
+Multa sunt apud vos x omnibus compertissima, quae alii stupent. De victus
+ratione, vestitu, legibus et consuetudinibus legati nostri, ||b4r qui superioribus
+
+hann Jakob Gallati, Konstanz: Johann Konrad Waibel, 1758, die Rätien betreffenden Teile
+S. 286–340). Tschudi hatte sein Manuskript in den 1560er Jahren an Simler ausgeliehen, der
+die  die  Eidgenossenschaft  betreffenden  Teile  abschreiben  ließ  (Zürich  ZB,  Ms.  A  105,
+60–198), was auch die Einsichtnahme Lavaters erklärt (freundliche Mitteilung von Christian
+Sieber).
+uovus P.
+Simlerus in Versalien P.
+Prevostorum in Versalien P.
+d[ominum] Funccium in Versalien P. Dazu Anmerkung a Portas: Illud nos exhibemus lib[ro]
+1.
+
+33
+p
+
+q
+
+r
+
+s
+
+t Gugelbergia in Versalien P.
+u Anmerkung a Portas: Exolevit viri boni nomen, ob atramenti albedinem et litterarum plica-
+
+turam, nec habemus unde illud coniectura assequamur.
+d[omini] Campelli in Versalien P.
+
+In P versal nos; die Emendation zu vos legt der Sinn nahe (so auch BKGr III 525).
+
+v
+w Anmerkung a Portas: Visitur Topogr[aphiam] cap[ut] XXXI.
+x
+33 D.h. von den Erben Tschudis, der 1572 starb.
+34 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 103r: «Attamen Rheti, qui fontes ipsos in-
+colunt et Rhinwalder vulgo vocantur, a Lepontiis, non Rhetis orti videntur, nam Germanica
+lingua utuntur, qua Lepontii veteres, qui Taurisci fuerunt, usi sunt et quam hodie Ursarii et
+Viberi Lepontii retinent. Rhetis autem alia et peculiaris lingua in usu est.»
+
+35 Campell hat diese Argumentation Simlers in seine «Descriptio» (S. 298) integriert.
+36 Rudolf Funk, gest. 1584. 1548 Pfarrer in Albisrieden, 1552 Diakon, 1572 Pfarrer am Frau-
+
+münster. – Lit.: ZPfB 288.
+
+37 Zur Familie Gugelberg vgl. HBLS IV 2.
+38 Das genannte Privileg gibt Campell im 31. Kapitel seiner «Descriptio» wieder (Campell, Des-
+
+criptio, 249f.). Hingegen fehlen Aufzeichnungen zur Familie Gugelberg.
+
+Zwingliana XXXIII, 2006
+
+141
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+annis y ad vos missi fuerunt, 39 mira referebant, quale illud est, quod mulieres
+in sylvis ligna caederent, secarent, cum apud nos virorum hic labor sit. Sed et
+Suevi mirantur Elvetios vaccas mulgere etc. Davosii, ut nobilis Rhetus mihi
+retulit, tenebantur principem, si ad eos veniat, excipere lauto convivio, hoc
+est piscibus ac carnibus instructo, sed absque pane et vino. Unde colligitur,
+quinam tum temporis mores illorum fuerint. Gratissimum fuit, quod tu illa,
+quae montium acolis nota sunt, aliis vero, qui in planis regionibus rara et mira
+videntur, colligere scribis. Utinam illam partem omnibus aliis praemitteres.
+Praecipua certe erit tuae scriptionis pars. Quae enim frequentius occurrunt in
+Rhetia quam illa, de quibus scribis? Peregrinis saepe dico multa et magna in
+montibus esse miracula. Quin hoc ipsum magnum est, quod montes in eam
+incredibilem altitudinem assurgant. Haec tui operis pars ad illustranda multa
+scripturae loca esset proﬁcua.
+
+Simlerus z multa in suo de alpibus commentario praestitit. 40 Non pauca ego
+illi suggessi, sed non dubito, quin a te omnia possent in alpibus nato diluci-
+dius explicari. Quae in genere dici possunt de alpibus, omnia videtur Simle-
+rus aa complexus, tamen fortassis quaedam possent emendari et explicari de
+nomine 41, altitudine 42, itineribus 43 et dimissione alpium etc. Fac, brevi hoc
+caput de montibus absolvas, in quo habebis de fontibus etiam calidis 44, lacu-
+bus in summitate montium 45 et an pisces in aliquibus reperiantur, sicut audivi
+de  quibus||b4vdam  in  Abbatiscellarum  regione,  de  catarractis  aut  torrenti-
+bus 46, quae praecipitantur bb ex altissimis montibus, de torrente illo, qui circa
+
+39 Anmerkung a Portas: Nempe 1571 in causa Io[annis] Planta, domini Raetiens[is] et 1574, de
+y
+
+z
+
+quibus suis locis [a Porta, Historia reformationis, 558–584 und 601–609].
+Simlerus in Versalien P.
+Simlerus in Versalien P.
+
+aa
+bb praecipitanter P.
+39
+
+a Porta (vgl. Anm. y) denkt an die Krise im sog. «Bullenhandel» von 1571/1572 um Johann
+von Planta, die die Anwesenheit von Zürcher Gesandten nötig machte. Von Planta hatte eine
+päpstliche Bulle empfangen, welche ihn ermächtigte, protestantische Kirchengüter einzuzie-
+hen, was zu Unruhen und 1572 schließlich zur Hinrichtung von Plantas führte, vgl. Ran-
+dolph  C. Head,  Early  Modern  Democracy  in  the  Grisons.  Social  Order  and  Political
+Language in a Swiss Mountain Canton, 1470–1620, Cambridge u.a. 1995 (Cambridge Studies
+in Early Modern History) 128–132.
+Simlers Werk «De alpibus commentarius» erschien zusammen mit seiner «Vallesiae descrip-
+tio», vgl. oben Anm. 7.
+
+41 Lavaters Anregungen für die zu behandelnden Themata sind deutlich inspiriert durch Simlers
+knappe Darstellung in seinem «De alpibus commentarius». Zu den Namen der Alpen vgl.
+Simler, Vallesiae descriptio (De alpibus), Bl. 66v-68v.
+
+40
+
+42 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 68v-72v.
+43 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 86r-88r.
+44 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 124r.
+45 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 121v-122v.
+46 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 122v-123r.
+
+142
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+meridiem non pleno alveo ﬂuit, cuius Campellus meminit. cc 47 Quam elegans
+esset illa historia et lectu iucunda! Graeci haec omnia mire illustrassent. Huc
+pertinent spelucae, de quibus multa miranda saepe audivi praedicari, item an-
+gustiae viarum, 48 fauces quodque itinera ferro aperienda sunt vel excidenda.
+
+De labinis, ut vocatis, vel molibus nivium, qui a nullo veterum recte videntur
+descriptae (an apud Homerum 49 aliqua sit descriptio, non memini), tu potes
+habere aliquid rectius quam Simlerus dd. 50 Cum moventur nives, tonitru di-
+cuntur referre, ad  longissimum spatium  moveri vel decurrere, facile etiam
+tympano moventur. 51 Saepe audivi illos, qui nivibus obruuntur, aliquandiu
+vivere, omnia audire, quae a praetereuntibus et ipsos effodere volentibus di-
+cuntur, sed se movere non posse. Aliquot exempla recensere (ex Glaronensi 52
+quaedam audivi), quam esset lectori gratum et acceptum!
+
+De profundis hiatibus glaciei etiam aliquid referre praeter illa, quae Stump-
+ﬁus habet, 53 te velim. Plinius dicit glaciem servari et remedii loco esse, item in
+vasa vinaria coniici. 54 An simile quid hodie apud vos et Italos ﬁat, expeterem
+scire, item an in crystallos durescat, de via aperienda hicce quotidie et quo-
+modo hoc ﬁat, de clitellareis equis, de periculosis itineribus alpinis, quomodo
+se instruere, parare debeant, qui iter facere volunt per nives, 55 ne lassati sede-
+
+1
+
+5
+
+10
+
+15
+
+47 Anmerkung a Portas: Topogr[aphia] cap[ut] XXVIII, ubi de Remussio [Remüs/Ramosch, Kt.
+cc
+
+Graubünden] [s. Anm. 47].
+Simlerus in Versalien P.
+
+dd
+47 Lavater bezieht sich auf die intermittierende Quelle «Fontana chi-staina» im Val d’Assa bei
+Ramosch (Engadin, Kt. Graubünden), die Campell, Descriptio, 216–218 erwähnt. Es handelt
+sich um eine tagesrhythmische Quelle, bedingt durch das Abtauen des Gletschers. Zu histo-
+rischen Deutungsversuchen des Phänomens vgl. Hans Morlo, Intermittierende Quellen und
+ihre  historische  Deutung,  in:  Stalactite.  Zeitschrift  der  Schweizerischen  Gesellschaft  für
+Höhlenforschung 49/1, 1999, 15–34; ebd., S. 30 Belege für ältere Erwähnungen der Quelle im
+Val d’Assa.
+
+48 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 110r-v.
+49 Homer, griechischer Dichter der «Ilias» und der «Odyssee» in der zweiten Hälfte des 8. Jahr-
+
+hunderts v. Chr. – Lit.: Joachim Latacz, in: NP V 686–699.
+Simler behandelt die Lawinen in Vallesiae descriptio (De alpibus), Bl. 113r-115r.
+
+50
+51 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 113r.
+52 Auf welchen Glarner Gewährsmann sich Lavater bezieht, bleibt unklar.
+53 Vgl. Stumpf, Eydgnoschafft, Bd. 2, 284v.
+54 Plinius d. Ä., geb. 23/24 v. Chr., gest. 79 n. Chr. Römischer Ofﬁzier, Verwaltungsbeamter und
+Enzyklopädist. Sein Hauptwerk ist die «Naturalis historia», die in zwei Teilen zu je 18 Bü-
+chern eine Enzyklopädie der Natur im weitesten Sinne bietet. – Lit.: Klaus Sallmann, in: NP
+IX  1135–1141.  Zu  der  von  Lavater  genannten  Stelle  vgl.  Plinius  d.  Ä.,  Naturalis  historia
+31, 21, 33. Zur Verwendung des Gletscherwassers als Heilmittel vgl. auch Stumpf, Eydgno-
+schafft, Bd. 2, 284v.
+
+55 Vgl. Simler, Vallesiae descriptio (De alpibus), Bl. 110r-116v: «De itinerum Alpinorum difﬁ-
+
+cultatibus et periculis et quomodo haec superari possint».
+
+Zwingliana XXXIII, 2006
+
+143
+
+Christian Moser
+
+1
+
+5
+
+ant, statim enim rigent, quo||c1rmodo circulos 56 adhibeant et quales sint (uff
+ryfften gan) in altissimis nivibus, oculos muniant perspicillis, et si quae sunt
+huius generis.
+
+Sunt quaedam alpibus peculiaria, hoc est quaedam in alpibus crescunt et alibi
+non sunt, quaedam montanae arbores, ornus, larix, taxus etc. 57; sunt frutices,
+herbae, aranites 58; narcissi, ut audio, in montibus nascuntur. De lunariis 59 pe-
+culiarem libellum 60 scripsit noster Gesnerus, de aconito Wolphius 61 in episto-
+lis Gesneri 62 agit. Ex Gesneri libello de lunariis quaedam etiam possunt ex-
+cerpi. Simlerus fol[io] 132b de alpibus ex Strabone 63 equos agrestes et tauros
+
+56 Gemeint sind eine Art Schneeschuhe, die das Einsinken im Schnee verhindern, vgl. SI VI
+656 f. Ebd. 656 ein Beleg aus Ludwig Lavater, Job. Das b ouch Job außgelegt unnd erkläret inn
+CXLI predigen, Zürich: Christoph Froschauer d. J., 1582 (BZD C 993), 233r: «[Manchmal
+fällt soviel Schnee], daß man die tächer schoren m ouß, daß sy der schnee nit eyntrucke, item,
+daß man m ouß auf reiffen gon in dem gebirg». Vgl. auch Simler, Vallesiae descriptio (De alpi-
+bus), Bl. 112v-113r: «Porro, qui profundas nives perambulare volunt illis locis, ubi nullae viae
+sunt, hac ratione sibi a submersione cavent: asses ligneos parvos et tenues vel circulos ligneos,
+cuiusmodi in doliis vinariis vinciendis adhibentur, pedalis diametri funibus cancellatim undi-
+que contextos pedibus alligant. Atque hac ratione, cum maius vestigium faciant, non submer-
+guntur atque non alte in nives incidunt.»
+
+57 Vgl.  das  Kapitel  «De  arboribus  alpinis»  in  Simler,  Vallesiae  descriptio  (De  alpibus),  Bl.
+
+126v-128r.
+
+58 Der Pﬂanzenname ist der modernen Botanik nicht bekannt, vgl. Index Nominum Generico-
+rum (Plantarum), hg. von Ellen R. Farr u.a., 3 Bde., Utrecht/Den Haag 1979 und Konrad
+Lauber / Gerhart Wagner, Flora Helvetica, Bern u.a. 32001. Die Pﬂanze wird auch nicht er-
+wähnt in Konrad Gessner, Historia plantarum [.. .], Basel: Robert Winter, 1541 (VD 16 G
+1747), in ders., Catalogus plantarum [.. .], Zürich: Christoph Froschauer d. Ä., 1542 (BZD C
+308; VD 16 G 1706) und in Simlers Auﬂistung der alpinen Pﬂanzen in seiner Vallesiae des-
+criptio (De alpibus), Bl. 126v-132r. Möglicherweise ist der Text verderbt. Zur Aufzählung
+von Sträuchern und Kräutern könnten in alpinen Gegenden Polsterpﬂanzen passen.
+
+59 Die heutige Pﬂanzengattung «Lunaria» gehört zur Familie der «Brassicaceae» (Kreuzblüt-
+
+ler). Gessner beschreibt unter diesem Namen auch andere Pﬂanzen.
+
+60 Konrad Gessner, De raris et admirandis herbis, quae sive quod noctu luceant sive alias ob cau-
+sas,  lunariae  nominantur,  commentariolus  [.. .],  Zürich:  Andreas  Gessner  d.  J.  und  Jakob
+Gessner, [1555] (BZD K 36).
+
+61 Kaspar Wolf, geb. 1532, gest. 1601, war Herausgeber der «Epistolae medicinales» des Konrad
+
+Gessner.
+
+63
+
+62 Konrad Gessner, De Aconito primo Dioscoridis asseveratio, in: Epistolarum medicinalium
+Conradi Gesneri [.. .] Libri III, hg. von Kaspar Wolf, Zürich: Christoph Froschauer d. J.,
+1577 (BZD C 914), Anhang mit eigenem Titelblatt.
+Strabon, gest. n. 25 n. Chr., griechischer Geograph und Historiker. Sein Hauptwerk «Geo-
+graphica»  beschreibt  die  ganze  bekannte  Welt  seiner  Zeit.  –  Lit.:  Stefan Radt,  in:  NP  XI
+1021–1025. Bei der genannten Stelle handelt es sich um Strabon, Geographica 4,6,10:
+(cid:12)(cid:13)(cid:10)υσι δ(cid:16) α(cid:17) (cid:18)Αλπεις κα(cid:23) (cid:24)ππ(cid:10)υς (cid:1)γρ(cid:26)(cid:10)υς κα(cid:23) (cid:27)(cid:28)ας. (cid:29)ησ(cid:23) δ(cid:31) Π(cid:10)λ"(cid:27)ι(cid:10)ς κα(cid:23) #δι(cid:28)µ(cid:10)ρ(cid:29)(cid:28)ν τι
+γενν%σθαι &’((cid:10)ν )ν α*τα+ς )λα(cid:29)(cid:10)ειδ(cid:31)ς τ, σ(cid:13)-µα πλ/ν α*(cid:13)(cid:8)ν(cid:10)ς κα(cid:23) τρι(cid:13)0µατ(cid:10)ς, τα2τα δ(cid:16)
+)(cid:10)ικ(cid:8)ναι κ3πρ’ω, 5π, δ(cid:31) τ’( γενε(cid:26)’ω πυρ-να 6σ(cid:13)ειν 7σ(cid:10)ν σπιθαµια+(cid:10)ν (cid:1)κρ(cid:28)κ(cid:10)µ(cid:10)ν, πωλικ-ς
+κ(cid:8)ρκ(cid:10) τ, π3(cid:13)(cid:10)ς.
+
+144
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+inveniri dicit ad staturam cervi. 64 De quonam animali loquatur alpino, non
+exprimit; tuum erit hoc indicare. Quod scribis de ibice, capricorno, iucun-
+dum erit. De lupo cervario, de cornibus ibicis, an cervorum instar ea abiici-
+ant, quod non puto, quam magna nascantur – vidi maximum in arce Halden-
+stein, quod pater tuus p[raeclarae] m[emoriae] mihi monstravit 65 –, quomodo
+capiantur, de petris arenosis, quae lambunt, «sulza» ee appellant. 66
+
+1
+
+5
+
+De  mure  alpino  scribit  Stumpﬁus  comperta, 67  sed  quaedam  addi  possunt.
+Item quae apud veteres, Plinium et alios, leguntur, possunt corrigi aut etiam
+addi, an vera sint illa et comperta, an fabulosa, quae apud illos leguntur. 68 Si
+nude referantur ex illis auctoribus Plinio et Aeliano 69, lector dubitat, num
+vera aut falsa referant. De domesticis animalibus posset etiam dici, ut quod
+caprae, vaccae, equi magna et incredibili copia in illis montibus alantur, quo-
+modo educantur in pascua, quomodo redeant in stabula etc.; de re pastoritia,
+an, quae de ursis referuntur ||c1v a veteribus, omnia sint ff vera, item an ut mu-
+
+10
+
+64
+ee
+
+ff
+
+64
+
+subza P.
+siut P.
+Simler, Vallesiae descriptio (De alpibus), Bl. 132v: «Strabo ex Polybio tradit Alpes habere
+equos agrestes et boves et peculiaris formae, inquit, belluam gignunt, habitu quidem ad cervi
+staturam [.. .]».
+
+65 Lavater hatte Johannes Pontisella d. Ä. auf der Rückkehr von seiner Italienreise besucht. Er
+war von der freundlichen Aufnahme, die er bei Pontisella gefunden hatte, sehr angetan, wie
+dies Johann Wilhelm Stucki in seiner Vita Lavaters aufgrund dessen eigener Bezeugung fest-
+hielt, vgl. Ludwig Lavater, Nehemias, Zürich: Ofﬁzin Froschauer, 1586 (BZD C 1089), Bl.
+b4r:  «Curiae  autem  Rhetorum,  quod  cum  saepe  ex  eo  audiverim,  hic  silere  non  possum,
+Ioh[annes] Pontisella, vir doctus ac prudens, qui et scholae illius moderator et reipub[licae]
+senator extiterit, eum de itinere defessum liberaliter hospicio convivioque excepit ac recreavit
+eique discedenti tantum, quantum ille petebat, pecuniae mutuo dedit.»
+
+66 Vgl. Stumpf, Eydgnoschafft, Bd. 2, Bl. 288v: «Bey etlichen sandigen velsen samlend sy sich
+gern unnd leckend den sand vom velsen, gleych wie die kinder das saltz, erfrischend also dar-
+mit ire zungen, darmit sy z ou der weid wider lustig werdind. Wo sy söliche läcke habend, nen-
+nends die weydleüt sultzen»; Simler, Vallesiae descriptio (De alpibus), Bl. 133r: «Rupicapra,
+quam feram capram Graeci, nostri Gemmß vel Gammß nominant, alpina capra est et nomi-
+nari potest [.. .]. Amat petras arenosas, quas lingit salis vice ad inertem pituitam linguae de-
+fricandam et appetitum excitandum, atque ad haec loca, quae nostri sultzen vocant, frequen-
+tes conveniunt [.. .].»
+Stumpf, Eydgnoschafft, Bd. 2, Bl. 288v-289v: «Von dem murmelthierle oder murmentle, in
+den höchsten Alpen wonhafft, von seiner gestalt, natur und eigenschafft».
+
+67
+
+68 Lavater denkt wohl an die bei Plinius d. Ä. (Naturalis historia 8,37, 56) – in dessen Anschluss
+auch bei Stumpf (Eydgnoschafft, Bd. 2, Bl. 289r) – überlieferte Fabel, nach der die Murmel-
+tiere ein Exemplar ihrer Gattung gleichsam als Heuschlitten benutzen, indem sich dieses voll-
+bepackt mit Heu auf den Rücken legt und sich in den Bau ziehen lässt.
+
+69 Claudius Aelianus, geb. um 170, gest. um 240. Aelianus verfasste «Bunte Geschichten» («Va-
+ria historia») und die Abhandlung «De natura animalium», auf die Lavater Bezug nimmt und
+die 1556 von Konrad Gessner herausgegeben worden war (Claudii Aeliani [.. .] opera, quae
+extant [.. .], Zürich: Andreas Gessner d. J. und Jakob Gessner, [1556] [BZD K 43]).
+
+Zwingliana XXXIII, 2006
+
+145
+
+Christian Moser
+
+1
+
+5
+
+10
+
+res alpini dormiant etc. Mirum est, quod Bernae ursi, ut nobis quidam nuper
+afﬁrmabat, pariunt mense decembri. 70
+
+Stumfﬁus dixit phasianos reperiri in alpibus, Gesnerus negat. 71 Sed Stumfﬁus
+non de illis loquitur, qui circa Phasidem in magna sunt copia, 72 sed de alio ge-
+nere, von bergfasanen. Velim te in tuo scripto haec annotare, uterque nam
+recte scribit. Lepores albi aliis regionibus sicut et cervi sunt admirationi. An
+vero certo anni tempore quaedam animalia apud vos alba sint, postea cando-
+rem mutent, ut lepores, item an ursi albi reperiantur, curiosi scire cupient. De
+serpentibus mira audivi ex pagicis nostris, qui interdum in locis apricis con-
+spiciantur  a  venatoribus,  sed  nescio  an  inter  fabulas  referre  debeam.  Hoc
+enim hominum genus libere mentitur, es seynd weydsprüch 73. Non oblivisci
+huius debes, quod scorpiones nulli sunt versus nos, versus Italiam plures. De
+insectis quoque utile erit referre, ut quae de tineis nivalibus, quomodo vulgus
+eas nominat etc.
+
+15
+
+Etiam hoc mirantur multi, quod in petris incisae sint habitationes vel cellae
+vinariae, 74  ut  memini  me  alicubi  apud  Lambinum 75  legere. 76  Tempestatum
+
+70 Der erste Bärengraben wurde in Bern 1513 am heutigen Bärenplatz eröffnet, vgl. Berchtold
+Weber, Historisch-topographisches Lexikon der Stadt Bern, Bern 1976 (Schriften der Berner
+Burgerbibliothek).
+
+71 Vgl. Stumpf, Eydgnoschafft, Bd. 2, Bl. 292r: «Fasanen hat diß gebirgig land seer vil»; dagegen
+wendet sich Gessner, Historiae animalium liber III., qui est de avium natura [.. .], Zürich:
+Christoph Froschauer d. Ä., 1555 (BZD C 505), Bl. 659r: «Helvetici montes phasianos quam
+plurimos  alunt,  Stumpﬁus.  Mihi  hactenus  nullos  usquam  apud  Helvetios  videre  contigit,
+quamvis plurima loca montana inviserim».
+
+73
+
+72 Phasis war der antike Name sowohl des heutigen Flusses Rioni (Georgien), als auch der frü-
+heren griechischen Kolonie und heutigen Stadt Poti an dessen Mündung ins Schwarze Meer.
+Gemäß der griechischen Sage wurden die Fasane von den Argonauten unter Jason (vgl. Vale-
+rius Flaccus, Argonautica) entdeckt. Die Etymologie Isidors von Sevilla (Etymologiarum sive
+Originum 12,7,49) spricht dagegen von einer griechischen Insel: «Phasianus a Phaside insula
+Graeciae, unde primum asportatus est, appellatus».
+Jägersprüche, Jägerlatein.
+Solche Weinkeller beschreibt Campell, Descriptio, 405.
+
+74
+75 Denis Lambin (Dionysius Lambinus), geb. 1519/1520, gest. 1572. Studien in Montreuil, Ami-
+nes, Paris und Toulouse, 1560–1561 Professor für Rhetorik, 1561–1572 für Griechisch in Pa-
+ris. Lambin edierte Werke von Lukrez und Cicero, kommentierte Horaz und übersetzte und
+annotierte die Nikomachische Ethik des Aristoteles. Er starb in der Bartholomäusnacht. –
+Lit.: Charles H. Lohr, Latin Aristotle Commentaries, Bd. 2: Renaissance Authors, Florenz
+1988, 214–216 (Lit.).
+
+76 Auf welche Lambinusstelle sich Lavater genau bezieht, bleibt unklar. Eine passende, aber
+chronologisch Lavaters Aussage nachgeordnete Stelle ﬁndet sich im Anhang «Theophrasti
+characteres morum, a Cl[audio] Auberio Triuncuriano [Claude d’Aubery von Triaucourt]
+emendati, scholiis illustrati, conversi» zur zweiten Basler Ausgabe von Lambins Aristoteles-
+übersetzung  und  -kommentar:  Aristotelis  Ethicorum  Nicomachiorum  libri  decem,  ex
+Dion[ysii] Lambini interpretatione graecolatini, Basel: Eusebius Episcopius 1582 (VD 16 A
+
+146
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Edition
+
+quoque prognostica ex montibus haberi annotandum erit. Pene praeterieram
+hoc, iam: ad miranda alpina hoc erit omnino referendum, quod mihi summae
+admirationi erat, cum apud vos essem, das es gen Dafos im summer ein meyl
+oder zwo wyter ist dann im winter. Interim pagus ille non Monstenii, sed si-
+nistro consistit latere. Haec demirantur multi.
+
+1
+
+5
+
+Paullo pluribus annotavi, ut te exsuscitarem, ut mihi aliquando in his, aliis in
+aliis satisfacias. Si venerint ad te per||c2regrini viri docti, qui alpes peragrave-
+runt, poterunt tibi multa in memoriam revocare, quae illi mirantur, vos vero
+minime, cum quotidie oculis vestris gg obversentur. De spectro Ecco, quum
+acceperis aliquid certe, fac me certiorem. D[ominus] n[oster] vicarius 77 non
+desinet mihi molestus esse, donec acceperit. Puto te de spectro Abbatiscel-
+lano audivisse, quod post obitum hh 78 episcopi Vercellensis 79 coepit in domo
+
+10
+
+3407 f.). Die Stelle ebd., S. 708: «Suidas [Suda, Lexikon λ, 60] docet laccum fuisse cisternam
+incrustatam, in qua vinum et oleum quoque sub terram deponebant: (cid:16)Αθηνα+(cid:10)ι κα(cid:23) (cid:10)(cid:17) 8λλ(cid:10)ι
+τ(ν 9Ελλ;νων <ρ"γµατα 5π, τ/ν γ-ν π(cid:10)ι(cid:10)2ντες ε*ρ"(cid:13)ωρα κα(cid:23) στρ(cid:10)γγ"λα κα(cid:23) τετρ3γωνα
+κα(cid:23)  τα2τα  κ(cid:10)νι(ντες  (cid:10)=ν(cid:10)ν  5π(cid:10)δ(cid:8)(cid:13)(cid:10)νται  κα(cid:23)  (cid:12)λαι(cid:10)ν  ε#ς  α*τ3>  κα(cid:23)  τα2τα  λ3κκ(cid:10)υς
+)κ3λ(cid:10)υν.
+In P nostris; der Sinn legt eine Emendation zu vestris nahe (so auch BKGr III 527).
+
+77
+gg
+hh obitum kann neben «Untergang/Tod» auch die Bedeutung «Besuch» haben. Möglicherweise
+
+handelt es sich aber auch um eine Fehltranskription a Portas von abitum.
+
+77 Auf wen Lavater anspielt, ist unklar. Zu vermuten ist Johann Jakob Wick, der sich mit seiner
+«Wickiana» als eifriger Nachrichtensammler einen Namen gemacht hat, vgl. Matthias Senn,
+Johann Jakob Wick (1522–1588) und seine Sammlung von Nachrichten zur Zeitgeschichte,
+Zürich 1974 (MAGZ 46/2, MAGZ.N 138); ders., Die Wickiana. Johann Jakob Wicks Nach-
+richtensammlung aus dem 16. Jahrhundert, Texte und Bilder zu den Jahren 1560–1571, Küs-
+nacht/Zürich 1975; Deutsche illustrierte Flugblätter des 16. und 17. Jahrhunderts. Die Samm-
+lung der Zentralbibliothek Zürich, Teile 1–2: Die Wickiana, hg. von Wolfgang Harms und
+Michael Schilling, 2 Bde., Tübingen 1997/2005 (Deutsche illustrierte Flugblätter des 16. und
+17. Jahrhunderts 6–7). Denkbar ist, dass a Porta ein Wort wie «Wikius/Vikius» o.ä. als «vica-
+rius» gelesen hat. Über das genannte Gespenst fehlen weitere Nachrichten. Das «Gespenst
+von Nussbaumen», das in Wicks Nachrichtensammlung Ende 1579 eine prominente Rolle
+einnimmt (vgl. Zürich ZB, Ms. F 28, Bl. 9r-v; 18v; 19r; Ms. F 29, Bl. 202r-203v), scheint nicht
+mit dem hier genannten identisch zu sein.
+
+78 Bonomi besuchte Appenzell in der letzten Novemberwoche 1579 (vgl. Die Nuntiatur von
+Giovanni Francesco Bonhomini, 1579–1581, bearb. von Franz Steffens und Heinrich Rein-
+hardt, Bd. 1, Solothurn 1906, 661, Anm. 5). Rainald Fischer u. a., Appenzeller Geschichte,
+Bd. 1: Das ungeteilte Land, Urnäsch 1964, 471f.
+
+79 Giovanni Francesco Bonomi (Bonhomini), geb. 1536, gest. 1587. 1566 Abt von Nonantula,
+1572–87 Bischof von Vercelli, 1579–81 päpstlicher Nuntius in der Eidgenossenschaft, 1581
+Nuntis in Wien, 1584 in Köln. – Lit.: Urban Fink, in: HLS II 572; André-Jean Marquis, Die
+Nuntiatur von  Giovanni Francesco Bonhomini in der Schweiz, in: Der Geschichtsfreund
+133, 1980, 163–249; Die Nuntiatur von Giovanni Francesco Bonhomini, 1579–1581, bearb.
+von Franz Steffens und Heinrich Reinhardt, 3 Bde. und Einleitungsbd., Solothurn/Freiburg
+1906, 1910, 1917 und 1929 (NBS, 1. Abt.).
+
+Zwingliana XXXIII, 2006
+
+147
+
+1
+
+sacriﬁci vicini esse molestum, postea in curiam venit et tympanum pulsando
+omnes turbavit. 80
+
+Christian Moser
+
+Vale, mi Pontisella. ii
+
+80 Der Gruss steht nach dem Schlusszeichen, mit dem a Porta die Zitation aus Lavaters Brief an-
+ii
+zeigt, und ist möglicherweise sein Zusatz. Es folgt eine Anmerkung a Portas betreffend ein
+fehlendes Blatt und Versuch einer Datierung: Interiit folium, in quo scriptae epistolae signa-
+tur tempus. Sed adsunt in ipsis litteris indicia, ex quibus propemodum deﬁniri potest. Urstisii
+[Urstisii in Versalien] epocha anno prodiit 1577 [s. Anm. 27]. Integrum vero Hist[oriae] Ba-
+sil[iensis] opus anno abinde demum tertio adeoque post Bullingeri [Bullingeri in Versalien],
+qui d[ie] 15. sept[embris] 1575 Deo animum reddiderat, obitum. Sunt nobis ad manus Cam-
+pelli litterae ad Iosiam Simlerum d[ie] 7. sept[embris] 1575 exaratae, in quibus illum de ﬁne
+scriptioni libri sui primi imposita illum certum reddit subiungitque dubium se adhuc haerere,
+num  etiam  ad  historiam  scribendam  arripiat  calamum,  an  vero  minus  [das Autograph des
+Briefes ﬁndet sich in Zürich ZB, Ms. F 57, Bl. 33r-v]. Ex his colligitur id dubii a Campello iam
+ante scriptas has litteras ad Simlerum (Bullingeri [Bulliugeri P] generum) fuisse perscriptum.
+Conﬁcitur hinc etiam litteras Bullingeri ad Pontisellam superius exscriptas abs beato viro non
+multo ante obitum ipsius tempore exaratas esse potuisse.
+
+80 Das von Lavater erwähnte Appenzellische Gespenst ist zu Beginn des Jahres 1580 mehrfach
+Thema in Wicks Nachrichtensammlung, vgl. Zürich ZB, Ms. F 29, Bl. 2r-v: «Von dem bösen
+geist z ou Appenzell diser zytt»; Bl. 10r-v: «Wytlöüfﬁgere beschrybung von dem unghür und
+gspenst z ou Appenzell [.. .]»; Bl. 22r: «Was sich wyter mitt dem gspenst und unghür z ou Ap-
+penzell z ougetragen [.. .]».
+
+148
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Übersetzung
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580):
+
+Übersetzung
+
+Sei gegrüsst! Wenn du meinen Brief, welchen ich an Campell schrieb, noch
+bei dir hast, wünsche ich, dass du ihn öffnest und liest – denn er enthält eini-
+ges, was zur Abfassung einer Bündner Geschichte gehört –, oder fordere ihn,
+wenn es dir beliebt, von ihm in meinem Namen zurück, um ihn deinerseits
+zu lesen. Wahrlich, wenn ich gewusst hätte, dass du dich mit diesem Stoff be-
+schäftigst,  hätte  ich  vielleicht  anders  geschrieben.  Ich  habe  ihn  [Campell]
+nämlich  aufgefordert,  den  restlichen  Teil  seines  Werkes  zu  vollenden,  das
+heißt der Beschreibung des Landes die Geschichte anzufügen, wie dies unser
+Simler in seinem Werk über das Wallis getan hat. Dabei habe ich hinzugefügt,
+es scheine mir und anderen zweckmäßig, dass er sich um Einfachheit und
+Kürze bemühe und nicht jedem für den Leser unnützen Detail nachginge.
+Was du über die Familien schreibst, habe auch ich ihm geschrieben. Ein Ver-
+gleich der Familien ist sehr anstößig. Mittels alter Familiendokumente und
+-urkunden  kann,  wie  Stumpf  dies  getan  hat,  ihr  Alter  bestimmt  werden.
+Ebenso aus Klosterverträgen, denn am Ende werden meistens die Zeugen
+aufgeführt, zum Beispiel wenn es heißt: «Als dies geschah, waren die Salis,
+Prevost usw. anwesend.» In den Dokumenten muss auch bei jedem einzelnen
+Ort sorgfältig beachtet werden, wie jeder einzelne Ort, die Berge, die Gegen-
+den und Gebiete genannt werden, so wenn du sagst, das Bergell habe früher
+«Vallis Breunia» geheißen. Wenn du aus den schriftlichen Dokumenten zei-
+gen  kannst,  dass  das  heute  Bergell  genannte  Tal  früher  «Praegallia»  oder
+«Vallis Breunia» geheißen hat, so wird dies dankbar aufgenommen werden,
+denn meistens werden solche Namen von den Neueren ersonnen. Die Bistü-
+mer und auch die einzelnen Orte haben ihre Verzeichnisse, worin die jährli-
+chen Einkünfte verzeichnet sind, woraus man auch alte Namen erschließen
+kann. Es wird auch gut sein, die Schriftsteller heranzuziehen. Wenn du, der
+du über Stil und Urteilskraft verfügst, im Sinn hast, die ganze Geschichte eu-
+res Volkes zu erfassen, wäre es vielleicht zweckmäßig, wenn Campell den
+restlichen Teil seines Werkes dir übertragen würde; du könntest ihn nämlich
+in deinem Buch ehrenvoll erwähnen und öffentlich bekennen, dass seine Ar-
+beiten dir bei der Abfassung zu nicht geringem Nutzen gereicht hätten. Oder
+was wäre, wenn sich beide bemühten, die Geschichte ihrer Heimat zu be-
+leuchten?
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Was der Inhalt oder Gegenstand der Geschichte ist, muss ich dir als Kenner
+des Livius und anderer Geschichtsschreiber nicht in Erinnerung rufen. Über
+
+35
+
+Zwingliana XXXIII, 2006
+
+149
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+das zu sammelnde Material, worin eine größere Schwierigkeit liegt, will ich
+nur folgendes sagen: Es wäre von Nutzen, auch andere Chroniken von Ad-
+ligen zusammenzutragen. Diese werden sie dir nicht ungern zur Verfügung
+stellen, dir auch ihre Privilegien zeigen, so dass ihre Herkunft verherrlicht
+wird. Achte darauf, welche Zeugnisse der Vergangenheit sich bei euch ﬁn-
+den: ausgegrabene Münzen, Grabmäler, Inschriften, Siegeszeichen usw. Aus
+den sogenannten «libri vitae», den Jahrzeitbüchern, Urbaren, Rödeln, Ge-
+meinde- und Klosterprivilegien kann viel entnommen werden. In den Klö-
+stern werden viele Bücher solchen Inhalts verwahrt. Aus bestimmten Grün-
+den  werden  zuweilen  hier  und  dort  Heiligtümer  errichtet,  weil  an  dieser
+Stelle irgendeine Schlacht oder ein wundersames Ereignis stattgefunden hat.
+Aus dem Boden gräbt man Waffen und alte Gerätschaften aus, die entweder
+im Krieg oder im Götzenkult Anwendung gefunden haben und die auf eine
+Schlacht oder einen Tempel an dieser Stelle hindeuten. Gewisse Sitten und
+Volksbräuche rufen Vergangenes in Erinnerung. Alte Lieder und Sagen ge-
+hören hierzu. Doch ich zweiﬂe nicht daran, dass du selbst sorgfältig erwogen
+hast, wie der Stoff für die Geschichte eures Volkes gesammelt werden muss.
+
+Von den Nachbarn und anderen Leuten, von Altertumsforschern usw. kann
+man vieles in Erfahrung bringen. In den einzelnen Orten gibt es Leute, die
+aus Briefen oder öffentlichen Urkunden etliches beitragen und ebenso über
+denkwürdige  Ereignisse  an  jenen  Orten  berichten  können  usw.  Auch  die
+Dienste  des  königlichen  Gesandten  können  dir  zur  Vollendung  des  Ge-
+schichtswerks  nützlich  sein,  dem  alle  Adligen  liefern,  was  er  sich  auch
+wünscht. Gessner schreibt in seiner «Bibliotheca», Albert von Belfort habe
+die Taten und den Adel des Bündnervolkes beschrieben, aber das Buch sei
+nicht  mehr  vorhanden;  ebenso  habe  Herr  Stupan  einige  Bücher  über  die
+Bündner verfasst. Simonetta hat ein umfangreiches Buch über die mailändi-
+schen Herzöge geschrieben; ob es allerdings etwas über die Bündner enthält,
+weiß ich nicht. Auch andere italienische Autoren haben möglicherweise in
+ihren Büchern einige Angaben über euer Volk aufgenommen, sicher ist dies
+der Fall bei Guicciardini und Giovio. Bei euch sind mehrere gelehrte und
+vornehme Personen, die deinen Bestrebungen sehr helfen können. Auf diese
+[Frankfurter] Messe hin wird Wurstisens Chronik über die Geschichte Ba-
+sels in deutscher Sprache erscheinen, in der er Verschiedenes, was man bis-
+lang noch nirgends lesen konnte, veröffentlicht. Er hat nämlich viele Bücher
+durchforscht, um seine Darstellung zu bereichern. Wenn du möchtest, werde
+ich ihn bitten, falls er etwas von Interesse hat, es dir zu senden. Ich bin näm-
+lich sehr gut mit ihm bekannt. «Stumpf hat viel», sagst du, «aber nicht alles».
+Es wird von Nutzen sein, dass du, falls er sich irgendwo irren sollte, den Feh-
+ler auf milde Weise anzeigst. Ich habe auch eine «Rhaetia» Tschudis gesehen,
+die von der ersten Ausgabe stark abweicht; der königliche Gesandte könnte
+
+150
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Übersetzung
+
+sie für dich von den Erben erbitten. Es ist geradezu ein neues Werk. Was Sim-
+ler über die Davoser schreibt, hat er von anderen entnommen. Dies will ich in
+seinem  Namen  dazu  anmerken:  Das,  was  er  schrieb,  schien  ihm  deshalb
+wahrscheinlich, weil jene [die Davoser] deutsch und denselben Dialekt spre-
+chen wie die Walliser, während fast alle Nachbarn romanisch sprechen. Das
+Privileg der Familie Prevost, von dem du schreibst, habe ich voriges Jahr bei
+Funk gesehen, der mich um mein Urteil dazu bat; da auch das Wappen ge-
+sondert vorhanden war (ich hatte eine Abschrift bei mir), bat ich ihn, es mir
+zu senden, um es zu vergleichen und dann zu sehen, wie genau die Einzelhei-
+ten mit der Zeitrechnung zusammenpassen. Aber er sandte es nicht und hat
+es seither nie mehr erwähnt. Ich vermag nicht zu sagen, von wem und zu wel-
+chem Zweck es an ihn gesandt worden ist. Was er von der Familie Gugelberg
+schreibt, hat er von [.. .] selbst, einem guten Mann, denn dieser hat an Funk
+geschrieben,  wir  sollten  in  unseren  Geschichtswerken  darüber  Nachfor-
+schungen anstellen. Aber wir hatten nichts über diese Familie. Trotzdem hat
+alles das aufgrund seiner Anregung Aufnahme in Campells Buch gefunden.
+Was zu tun sei, um nicht andere Familien zu verärgern, darauf habe ich ihn
+auch hingewiesen.
+
+Vieles ist bei euch allen selbstverständlich, was andere in Erstaunen versetzt.
+Unsere Gesandten, die in den letzten Jahren zu euch gesandt worden sind,
+haben  von  der  Lebensweise,  der  Kleidung,  den  Gesetzen  und  Bräuchen
+merkwürdige Dinge berichtet, zum Beispiel, dass die Frauen im Wald Holz
+schlagen und zersägen würden, was bei uns Männerarbeit ist. Doch wundern
+sich auch die Schwaben, dass die Eidgenossen Kühe melken usw. Die Davo-
+ser waren, wie mir ein vornehmer Bündner berichtet hat, dazu angehalten,
+den Fürsten, wenn er zu ihnen kam, mit einem üppigen Mahl zu empfangen,
+das heißt mit Fischen und Fleisch, jedoch ohne Brot und Wein. Woraus man
+entnehmen kann, welche Gebräuche in jenen Zeiten bei ihnen herrschten.
+Sehr erfreut bin ich, dass du schreibst, du würdest jene Dinge sammeln, die
+den Bergbewohnern bekannt sind, anderen Leuten aber, die im Flachland le-
+ben, seltsam und wunderlich erscheinen. Möchtest du doch diesen Teil allen
+anderen  vorausschicken.  Es  wird  sicher  ein  hervorstechender  Teil  deines
+Werkes sein. Denn was geschieht häuﬁger in Bünden als das, von dem du
+schreiben willst? Fremden sage ich oft, dass es viele und große Wunder in den
+Bergen gebe. Schon dies ist doch ein großes Wunder, dass die Berge sich zu so
+unglaublicher Höhe erheben. Dieser Teil deines Werkes wäre zur Erklärung
+vieler Schriftstellen nützlich.
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Simler hat in seinem Abriss über die Alpen vieles dargetan. Nicht weniges
+habe ich ihm an die Hand gegeben, aber ohne Zweifel könnte von dir, als ei-
+nem in den Alpen Geborenen, alles deutlicher erklärt werden. Was im Allge-
+
+40
+
+Zwingliana XXXIII, 2006
+
+151
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Christian Moser
+
+meinen über die Alpen gesagt werden kann, scheint Simler alles behandelt zu
+haben, dennoch können vielleicht einige Dinge verbessert und kann eine Er-
+läuterung gegeben werden über den Namen, die Höhe, die Wege und die Ab-
+ﬂachung  der  Alpen.  Beende  bald  dieses  Kapitel  über  die  Berge,  worin  du
+auch über die warmen Quellen und über die Seen auf den Höhen, auch über
+die Frage, ob man in einigen davon Fische ﬁndet, wie ich von verschiedenen
+im Appenzellerland gehört habe, handeln kannst, auch über die Wasserfälle
+oder die Wildbäche, die von den höchsten Bergen herabstürzen, und über je-
+nen Bergbach, den Campell erwähnt, der um den Mittag sein Bett nicht mehr
+füllt. Wie elegant wäre eine solche Geschichte und wie erfreulich zu lesen!
+Die Griechen hätten dies alles wunderbar zu schildern verstanden. Hierher
+gehören die Höhlen, von denen ich oft viele wunderliche Dinge erzählen ge-
+hört habe, ebenso die Engpässe und Schluchten, auch dass man die Wege mit
+Eisenwerkzeugen öffnen oder ausbrechen muss.
+
+Über  die  Lawinen,  wie  ihr  sie  nennt,  oder  die  Schneemassen,  die,  wie  es
+scheint, von keinem der älteren Autoren richtig beschrieben worden sind (ob
+sich bei Homer eine Beschreibung ﬁndet, weiß ich nicht mehr), kannst du ge-
+nauer schreiben als Simler. Wenn sich die Schneemassen bewegen, so sollen
+sie einen Donner erzeugen und sich weit ausbreiten oder herabstürzen, leicht
+können sie auch durch eine Pauke ausgelöst werden. Oft habe ich gehört,
+dass jene, die vom Schnee verschüttet wurden, noch eine Zeitlang lebten und
+alles hörten, was von den Vorbeigehenden und jenen, die sie ausgraben woll-
+ten, gesagt wurde, aber sie konnten sich nicht bewegen. Wie willkommen
+und  erwünscht  wäre  dem  Leser,  wenn  einige  Beispiele  angeführt  würden
+(verschiedene Beispiele habe ich von einem Glarner vernommen).
+
+Ich möchte auch, dass du etwas über die tiefen Gletscherspalten berichtest,
+außer dem, was Stumpf bietet. Plinius sagt, das Eis werde aufbewahrt und
+diene auch als Heilmittel, es werde auch in Weingefässe gefüllt. Ich möchte
+gerne wissen, ob etwas Ähnliches auch heute bei euch und den Italienern ge-
+schieht und ob das Eis sich zu Kristallen verhärtet; ich möchte ferner etwas
+über  die  täglich  stattﬁndende  Öffnung  der  Wege  wissen  und  wie  dies  ge-
+schieht, über die Saumpferde, über die gefährlichen alpinen Pfade, wie jene
+sich vorbereiten und ausrüsten müssen, die den Weg über den Schnee neh-
+men wollen, damit sie nicht erschöpft niedersinken, denn sie erstarren sofort,
+wie sie in tiefem Schnee die Reifen anwenden sollen («auf Reifen gehen») und
+wie diese beschaffen sind, wie man die Augen mit Brillen schützt, und was
+dergleichen Dinge sind.
+
+Manches ist den Alpen eigen, das heißt, manches wächst nur in den Alpen
+und kommt andernorts nicht vor, so manche Gebirgsbäume, die Bergesche,
+
+152
+
+Zwingliana XXXIII, 2006
+
+Ludwig Lavater an Johannes Pontisella d.J. (1579/1580): Übersetzung
+
+die Lärche, die Eibe usw.; es gibt Sträucher und Kräuter; Araniten und Nar-
+zissen wachsen auf den Bergen, wie ich höre. Über die Lunariae hat unser
+Gessner ein eigenes Büchlein verfasst und den Eisenhut hat Wolf in Gessners
+Briefen behandelt. Aus Gessners Werk über die Lunariae kann einiges ent-
+nommen werden. Simler schreibt auf Blatt 132b in seinem Werk über die Al-
+pen nach Strabo, man ﬁnde wilde Pferde und Stiere von der Größe eines Hir-
+sches. Über welches Alpentier er spricht, legt er aber nicht dar; es wird deine
+Aufgabe  sein,  dies  anzugeben.  Was  du  über  den  Ibex,  den  Steinbock,
+schreibst, wird unterhaltsam sein. Ebenso deine Angaben über den Hirsch-
+wolf und über die Hörner der Steinböcke, ob sie sie abwerfen wie die Hir-
+sche, was ich nicht glaube, und wie groß sie werden – ein sehr großes Horn
+habe ich im Schloss Haldenstein gesehen, das mir dein Vater trefﬂichen An-
+gedenkens gezeigt hat –, wie sie gefangen werden, und über die sandigen Fel-
+sen, an denen sie lecken und die «sulza» heissen.
+
+Über das Murmeltier schreibt Stumpf wohlinformiert, aber einiges kann er-
+gänzt werden, auch was bei den alten Autoren, bei Plinius und anderen, zu
+lesen ist, kann korrigiert oder auch ergänzt werden, ob man bei ihnen Wahres
+und Genaues oder nur Fabeln liest. Wenn es bloß aus jenen Autoren, Plinius
+und Aelian, angeführt wird, weiß der Leser nicht, ob es nun wahr oder falsch
+ist. Von den Haustieren könnte auch gesprochen werden, so beispielsweise,
+dass in diesen Bergen Ziegen, Kühe und Pferde in unglaublich großer Zahl
+gehalten werden, wie sie auf die Weiden getrieben und wieder in die Ställe zu-
+rückkehren usw.; vom Hirtenwesen, ob alles wahr ist, was von den Alten
+über die Bären berichtet wird, und ob sie wie die Murmeltiere schlafen usw.
+Merkwürdig ist, dass in Bern, wie uns neulich jemand bestätigt hat, die Bären
+im Dezember ihren Nachwuchs zur Welt bringen.
+
+Stumpf  schreibt,  man  ﬁnde  in  den  Alpen  Fasane,  Gessner  verneint  dies.
+Doch Stumpf spricht nicht von denjenigen, die beim Phasis in großer Zahl zu
+ﬁnden sind, sondern von einer anderen Art, den Bergfasanen. Ich möchte,
+dass du das in deinem Werk anmerkst, denn beide haben recht. Die weißen
+Hasen erregen wie auch die Hirsche in anderen Gegenden Verwunderung.
+Die Wissbegierigen wünschen zu wissen, ob gewisse Tiere bei euch nur zu
+bestimmten Jahreszeiten weiß sind, danach aber die Farbe wechseln wie die
+Hasen, und ob man weiße Bären ﬁndet. Über die Schlangen, die bisweilen an
+sonnigen Orten von den Jägern gesehen werden sollen, habe ich von unseren
+Landleuten wunderliche Dinge vernommen, ich weiß jedoch nicht, ob ich
+dies  zu  den  Fabeln  zählen  muss.  Denn  dieser  Menschenschlag  fabuliert
+gerne, es sind Waidsprüche. Nicht vergessen darfst du, dass es auf unserer
+Seite  der  Alpen  keine  Skorpione  gibt,  dagegen  viele  auf  der  italienischen
+Seite. Auch über die Insekten zu berichten, wird nützlich sein, beispielsweise
+
+Zwingliana XXXIII, 2006
+
+153
+
+1
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Christian Moser
+
+1
+
+5
+
+10
+
+15
+
+20
+
+was erzählt wird von den Schneewürmern, wie sie im Volksmund genannt
+werden usw.
+
+Sodann wundern sich viele darüber, dass Wohnungen oder Weinkeller in die
+Felsen eingehauen sind, wie ich mich erinnere, irgendwo bei Lambinus gele-
+sen zu haben. Ebenso wird anzumerken sein, dass man von den Bergen her
+Anzeichen für Unwetter hat. Beinahe hätte ich von dem, was über die Wun-
+der der Alpen zu berichten ist, übergangen, was mein höchstes Erstaunen er-
+regt hat, als ich bei euch war, dass es gegen Davos im Sommer eine oder zwei
+Meilen  weiter  ist  als  im  Winter.  Indessen  liegt  dieses  Dorf  nicht  auf  der
+Flanke von Monstein, sondern auf der linken. Dies verwundert viele Leute
+sehr.
+
+Ich habe mich nun etwas weitläuﬁger geäußert, um dich anzuregen, damit du
+einst mir in diesem Fragen, anderen Leuten in anderen, Genüge tust. Wenn
+fremde Gelehrte zu dir kommen, die die Alpen überquert haben, werden sie
+dir vieles in Erinnerung rufen können, worüber sie im Gegensatz zu euch
+staunen, denn ihr habt diese Dinge ja täglich vor Augen. Wenn du etwas Si-
+cheres über das Gespenst von Egg[?] zu hören bekommst, benachrichtige
+mich. Unser Herr Vikar wird nicht ablassen mich zu bestürmen, bis er Be-
+scheid erhalten hat. Ich vermute, du hast schon vom Appenzeller Gespenst
+gehört, das nach dem Besuch des Bischofs von Vercelli im Haus des benach-
+barten Priesters lästig zu werden begann und später ins Rathaus ging und die
+Trommel schlagend alle in Unruhe versetzte.
+
+Lebe wohl, mein Pontisella.
+
+154
+
+Zwingliana XXXIII, 2006
+
+

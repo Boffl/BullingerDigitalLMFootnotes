@@ -1,0 +1,1760 @@
+ISSN 0254–4407 – Zwingliana 40 (2013), 37–71
+
+Briefe an Heinrich Bullinger im Blick
+
+auf Entstehung, Abfassung und
+
+Rezeption der »Confessio Raetica«
+
+(1552/53)
+
+Jan-Andrea Bernhard
+
+1. Einleitung
+
+Als ich im Rahmen der Abfassung eines Beitrages über die Bündner
+Reformation wieder einmal die älteste Handschrift der Confessio
+Raetica (1552/53) im Synodal- und Kirchenratsarchiv in Chur
+konsultierte,1 bin ich auf einen Brief gestoßen, der mir bislang un-
+bekannt war. Philipp Gallicius, der Verfasser der Confessio Raeti-
+ca, legte nämlich im Juli 1555 der Synode eine Abschrift der Con-
+
+1 Vgl. Fides ac Placita synodi Evangelium Christi in Tribus Rhetiae foederibus prae-
+dicantium [...], Chur Synodal- und Kirchenratsarchiv [Chur SKA], B 1, 1–84, ediert in:
+Eberhard Busch, Confessio Raetica von 1552/1553, in: Reformierte Bekenntnisschrif-
+ten, hg. von Heiner Faulenbach et al., Bd. 1/3: 1550–1558, Neukirchen-Vluyn 2007,
+256–275; vgl. Emil Camenisch, Die Confessio Raetica: Ein Beitrag zur bündnerischen
+Reformationsgeschichte, in: Jahrbuch der Historischen Gesellschaft von Graubünden
+43 (1914), 223–259; Die Lehrartikel der Confessio raetica von 1552, in: Die Bekennt-
+nisschriften der reformierten Kirchen, hg. von Ernst Friedrich Karl Müller, Leipzig
+1903, 163–170; vgl. Ulrich Pfister, Konfessionskirchen, Glaubenspraxis und Konflikt in
+Graubünden, 16.–18. Jahrhundert, Würzburg 2012 (Religion und Politik 1), 122f.
+129f.; Werner Graf, Die Ordnung der Evangelischen Kirche in Graubünden von der
+Reformation bis 1980, in: Jahrbuch der Historischen Gesellschaft von Graubünden 112
+(1982), 21–25, 29f.; Wilhelm Jenny, Johannes Comander: Lebensgeschichte des Refor-
+mators der Stadt Chur, 2 Bde., Chur 1969–1970, hier Bd. 2, 392–398; Jakob Rudolf
+Truog, Aus der Geschichte der evangelisch-rätischen Synode 1537–1937, Chur 1937,
+14–23.
+
+38
+
+Jan-Andrea Bernhard
+
+fessio Raetica vor, eingetragen in einem in Leder gefassten Band in
+Quartformat, dem ältesten im Synodal- und Kirchenratsarchiv er-
+haltenen Band.2 Der Niederschrift der Confessio, umfassend die
+Fides synodi und die Placita synodi, ordnete Gallicius allerdings
+den die Hintergründe der Abfassung der Confessio schildernden
+Brief Comanders und Gallicius’ an Bullinger vom 22. April 1553
+vor;3 dem Text der Confessio folgt schließlich der mir bislang un-
+bekannte Brief Gallicius’ an Bullinger vom 2. September 1553.4
+Daran fügte Gallicius weiter eine, wohl erst 1555 verfasste, mit
+dem Synodalgelübde endende Epitome necessarissimorum articu-
+lorum, d.h. eine Zusammenfassung der zentralen Artikel aus der
+Confessio Raetica bei, auf die sich die Kandidaten zu verpflichten
+hatten.5 Dann folgen die einzelnen handschriftlichen Einträge
+sämtlicher Geistlichen, die in die Synode aufgenommen worden
+sind, beginnend mit Comander und Gallicius.6
+
+Eine Kontrolle in der Kartei der Heinrich Bullinger-Briefwech-
+seledition ergab ein interessantes Bild. Kurt Jakob Rüetschi, ehe-
+maliger Mitarbeiter an der Heinrich Bullinger-Briefwechseledition,
+hielt auf der Verweiskarte fest, dass Emil Camenisch in seinem
+Beitrag zur Confessio Raetica diesen Brief vom 2. September 1553
+erwähne und dabei auf das Matrikelbuch der Synode (1555–1761)
+verweise; gemäß Camenisch hat Gallicius diesem Brief an Bullinger
+auch die definitive Fassung der Confessio beigelegt.7 Rüetschi
+schreibt aber weiter: »Ein Brief vom 2. September 1553 würde
+zwar gut passen in der Abfolge der Briefe an Bullinger von Galli-
+cius (z.T. mit Comander) über die rätische Konfession und Syno-
+dal-/Kirchenordnung vom 22. April, 6. Juni, 4. Juli, 19. August
+
+2 »Descriptus est hic liber Capitulo nostro mense Iulio annj. 1555.« (Notiz von
+
+Philipp Gallicius, Chur SKA, B 1, 88).
+
+3 Vgl. Johannes Comander und Philipp Gallicius an Heinrich Bullinger, 22. April
+
+1553, Chur SKA, B 1, 2r–5r.
+
+4 Vgl. Philipp Gallicius an Heinrich Bullinger, 2. September 1553, Chur SKA, B 1,
+
+86–87.
+
+5 Vgl. Epitome necessarissimorum articulorum quos pro catholicis tenemus exigi-
+musque ab omnibus Dominum Jesum praedicare volentibus, Chur SKA, B 1, 93–96 (=
+Camenisch, Confessio Raetica, 259f.).
+
+6 Vgl. Matricula synodalis, Chur SKA, B 1, 96. Diese Praxis wird bis auf den heu-
+
+tigen Tag fortgesetzt, so dass die lückenlose Synodalmatrikel seit 1555 erhalten ist.
+
+7 Vgl. Camenisch, Confessio Raetica, 228f.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+39
+
+1553 [...]; aber vielleicht8 doch Irrtum für: Comander und Galli-
+cius an Bullinger, Chur, 22. April 1553. [...] Hat sich Camenisch
+verlesen und damit einen Phantom-Brief erfunden? (Vermutlich
+ja).«9
+
+Die Vermutung von Rüetschi kann nun allerdings, nach dem
+Fund des Briefes vom 2. September 1553, nicht mehr als richtig
+erkannt werden, zumal Camenisch selbst bereits in seinem Aufsatz
+eine Rohübersetzung des Briefes von Gallicius angefertigt hat.10
+Der Vergleich des Briefes aus dem Matrikelbuch und der Überset-
+zung von Camenisch belegt einwandfrei, dass es sich um denselben
+Brief handelt. Freilich hatten die derzeitigen und früheren Mitar-
+beiter der Heinrich Bullinger-Briefwechseledition bislang keine ge-
+sicherte Kenntnis von der Existenz dieses Briefes, geschweige denn
+war der Text des Briefes bekannt. Haben ihn doch, gewissermaßen
+als Anhang der ungleich wichtigeren Confessio Raetica, auch an-
+dere Forscher übersehen, so dass er in Vergessenheit geraten ist.11
+Gar der bedeutende Kirchenhistoriker Petrus Domenicus Rosius a`
+Porta, der als erster die Confessio auf der Grundlage der Hand-
+schrift aus dem Matrikelbuch in seiner Historia Reformationis
+Raeticarum Ecclesiarum (Chur/Lindau 1771) gedruckt hat,12 hat
+diesen Brief übersehen, währenddem er Dutzende andere Briefe –
+darunter auch denjenigen vom 22. April 1553 – in seinem monu-
+mentalen Werk in extenso, andere immerhin auszugsweise ge-
+druckt hat.13
+
+Diese Umstände haben mich bewogen, nachdem ich mit dem
+Leiter der Heinrich Bullinger-Briefwechseledition, Herrn Dr. Rein-
+
+8 Darüber geschrieben: »wahrscheinlich«.
+9 Notizen von Kurt Jakob Rüetschi auf Verweiskarte zum Brief vom 2. September
+
+1553, Zürich: Heinrich Bullinger-Briefwechseledition, Briefwechselkartei.
+
+10 Vgl. Philipp Gallicius an Heinrich Bullinger, 2. September 1553, in: Camenisch,
+
+Confessio Raetica, 257 (deutsche, paraphrasierende Übersetzung).
+
+11 Eine löbliche Ausnahme bildet dabei Eberhard Busch, der in seiner vor einigen
+Jahren erschienen kritischen Edition der Confessio Raetica auf den Brief gestoßen ist
+und gleichfalls daraus zitiert (vgl. Busch, Confessio Raetica, 249, 253).
+
+12 Vgl. Petrus Dominicus Rosius de Porta, Historia Reformationis Ecclesiarum Rae-
+ticarum ex genuinis fontibus et adhuc maximam partem numquam impressis sine par-
+tium studio deducta, Bd. I/2, Chur/Lindau 1771, 197–224.
+
+13 Vgl. Jan-Andrea Bernhard, Rosius a` Porta (1734–1806): Ein Leben im Spannungs-
+feld von Orthodoxie, Aufklärung und Pietismus, Zürich 2005 (Zürcher Beiträge zur
+Reformationsgeschichte 22), 512f.
+
+40
+
+Jan-Andrea Bernhard
+
+hard Bodenmann, Rücksprache gehalten habe, diesen bislang un-
+bekannten Brief in dem größeren Zusammenhang der Entstehung
+der Confessio Raetica zu publizieren. In Anbetracht dessen, dass in
+den jüngsten Studien, in denen die Confessio Raetica thematisiert
+wird,14 verschiedene Angaben vorliegen, die die Informationen aus
+den Briefen im Vorfeld bzw. im Zusammenhang mit der Abfassung
+der Confessio Raetica nicht berücksichtigen, ja teilweise denselben
+geradezu widersprechen, ist es sinnvoll, auch fünf andere Briefe an
+Bullinger zu edieren. Die der Edition vorangestellte Einführung
+thematisiert freilich nur die einzelnen Entwicklungsschritte der
+Entstehung, Abfassung und Rezeption der Confessio Raetica und
+nicht alle in den Briefen angesprochenen Themenbereiche.15
+
+2. Entstehung, Abfassung und Rezeption
+
+der »Confessio Raetica«
+
+Es ist in der Forschung seit langem bekannt, dass aus Anlass der
+Wiedereinführung der heiligen Inquisition (1542)16 eine große An-
+zahl italienischer Humanisten und reformatorisch Gesinnter, woll-
+ten sie nicht widerrufen oder fortan als Nikodemit leben, Italien
+verlassen hat und in die Südtäler der Drei Bünde, wozu auch die
+Untertanenlanden (Veltlin, Grafschaften Chiavenna und Bormio)
+gehörten, geflohen ist und daselbst gewirkt hat.17 Abgesehen von
+sogenannten Konformisten wie Agostino Mainardo, Pier Paolo
+
+14 Vgl. Pfister, Konfessionskirchen, 121–131; Busch, Confessio Raetica, 252f.
+15 Letztere werden im Anmerkungsapparat zu den einzelnen Briefen in aller gebo-
+
+tenen Kürze thematisiert.
+
+16 Die heilige Inquisition, die Sacra Congregatio Romanae et universalis Inquisitio-
+nis, wurde am 4. Juli 1542 von Papst Paul III. mit der Bulle Liceat ab initio wieder
+eingeführt (vgl. Gerd Schwerhoff, Die Inquisition: Ketzerverfolgung in Mittelalter und
+Neuzeit, München 2004, 98).
+
+17 Vgl. Conradin Bonorand, Reformatorische Emigration aus Italien in die Drei Bün-
+de: Ihre Auswirkungen auf die kirchlichen Verhältnisse – ein Literaturbericht, Chur
+2000 (Beiheft zum Bündner Monatsblatt 9), 39–105, 136–188; Antonio Rotondo` , Studi
+di storia ereticale del Cinquecento, Bd. 2, Florenz 2008 (Studi e testi per la storia
+religiosa del Cinquecento 15), 403–442; George Hunston Williams, The Radical Re-
+formation, Kirksville, MO 32000 (Sixteenth Century Essays and Studies Series 15),
+835–896; Manfred E. Welti, Kleine Geschichte der italienischen Reformation, Gütersloh
+1985 (Schriften des Vereins für Reformationsgeschichte 193), 91–95.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+41
+
+Vergerio, Girolamo Zanchi oder Scipione Lentolo ist dabei auch an
+zahlreiche sogenannte Nonkonformisten – oft waren sie dies gar
+nicht, doch ihr Bibelhumanismus und ihre tolerante Haltung
+machte sie des Nonkonformismus verdächtig – zu denken, die in
+die Drei Bünde geflohen sind und ein vorübergehendes oder län-
+geres Exil gefunden haben: Francesco Negri, Francesco Calabrese,
+Camillo Renato, Lelio Sozzini, Ludovico Fieri, Bernardino Ochino,
+Pietro Leonie, Giambattista Bovio, Marcello Squarcialupi, Mino
+Celsi und andere. Gemeinsam ist allen diesen reformatorischen
+Emigranten, dass sie einen nicht unwesentlichen Beitrag zur An-
+nahme der Reformation in verschiedenen Gemeinden der bünd-
+nerischen Südtäler geleistet haben.18 Hintergrund der Möglichkeit
+ihres Wirkens war vor allem die »demokratisch-föderalistische«
+Staatsform im Dreibündestaat, deren Ursprung in den Ilanzer Ar-
+tikelbriefen (1524/1526) begründet lagen, die den Gemeinden un-
+ter anderem das Recht einräumten, ihre Geistlichen zu wählen und
+zu entlassen.19 Mit diesem komunalen Recht waren die Kompeten-
+zen des Bischofs bzw. des Landesherrn empfindlich beschnitten.
+Faktisch hieß dies nämlich, dass nicht mehr der Landesherr oder
+die Bundeshäupter, sondern die Gemeinden über die Religion frei
+bestimmten. Die Artikelbriefe waren einer der wesentlichen Grün-
+de, warum die Drei Bünde seit dem 16. Jahrhundert konfessionell
+paritätisch waren.20
+
+Die »demokratisch-föderalistische« Staatsform wurde von den
+italienischen Emigranten ganz besonders geschätzt, wie Pier Paolo
+Vergerio, der ehemalige Bischof von Capodistria,21 der unter dem
+
+18 Vgl. Peter Dalbert, Die Reformation in den italienischen Talschaften Graubündens
+nach dem Briefwechsel Bullingers: Ein Beitrag zur Geschichte der Reformation in der
+Schweiz, Zürich 1948; Jan-Andrea Bernhard, Zwischen Gewissensfreiheit und Inquisi-
+tion: Der Beitrag italienischer Nonkonformisten zur Konfessionsbildung in den Drei
+Bünden (Graubünden mit Untertanenlanden), erscheint in: Reformed Majorities and
+Minorities in Early Modern Europe, hg. von Herman J. Selderhuis, Göttingen 2013.
+
+19 Vgl. Martin Bundi, Gewissensfreiheit und Inquisition im rätischen Alpenraum:
+Demokratischer Staat und Gewissensfreiheit. Von der Proklamation der »Religionsfrei-
+heit« zu den Glaubens- und Hexenverfolgungen im Freistaat der Drei Bünde (16. Jahr-
+hundert), Bern 2003, 27–34, 259f.
+
+20 Vgl. Immaculata Saulle Hippenmeyer, Nachbarschaft, Pfarrei und Gemeinde in
+Graubünden 1400–1600, Chur 1997 (Quellen und Forschungen zur Bündner Geschich-
+te 7), 176–181.
+
+21 Zu Pier Paolo Vergerio: Bonorand, Emigration, 96–98; Pier Paolo Vergerio il Gio-
+
+42
+
+Jan-Andrea Bernhard
+
+Eindruck des Todes von Francesco Spiera (gest. 1548) dem alten
+Glauben absagte und 1549 in die italienischen Talschaften Bün-
+dens zog,22 in seiner Schrift Del battesimo e de fiumi che nascono
+ne paesi de signori Grisoni ([Poschiavo] 1550) betont. Die Gewis-
+sensfreiheit sei ein Rettungsanker für die nach Freiheit dürstenden
+Italiener: Während die erwachende Botschaft in Italien behindert
+und verfolgt werde, könne sie sich hier in den hohen Bergen sicher
+und ruhig entfalten, frei von allen Inquisitoren und Verwaltern von
+Aberglauben und Finsternis.23 Gleichzeitig provozierten mehrere
+italienische Flüchtlinge wegen ihres libertinischen Gedankengutes
+zahlreiche Auseinandersetzungen, so dass die im Jahre 1537 ge-
+gründete Synode, der der Bundstag das Recht übertragen hatte,
+denjenigen Geistlichen, der in seinem Amte in der Lehre oder in
+seinem Leben als »ergerlich und unerber erfunden« würde, zu er-
+mahnen, zu verweisen, allenfalls zu suspendieren oder gar auszu-
+schließen,24 vor außerordentlich großen Herausforderungen stand.
+
+vane, un polemista attraverso l’Europa del Cinquecento, hg. von Ugo Rozzo, Udine
+2000; Salvatore Caponetto, La Riforma protestante nell’ Italia del Cinquecento, Turin
+1997, 173–187; Silvano Cavazza, Pier Paolo Vergerio nei Grigioni e in Valtellina
+(1549–1553), in: Riforma e societa` nei Grigioni: Valtellina e Valchiavenna tra ’500 e
+’600, hg. von Alessandro Pastore, Mailand 1991, 33–62; Angelika Hauser, Pietro Paolo
+Vergerios protestantische Zeit, Tübingen 1980; Anne Jacobson Schutte, Pier Paolo Ver-
+gerio: The Making of an Italian Reformer, Genf 1977 (Travaux d’Humanisme et Re-
+naissance 160); Dalbert, Reformation, 87–107. Für das Curriculum von Vergerio sind
+immer noch Schiess’ Ausführungen, basierend auf Bullingers Korrespondenz mit den
+Bündnern, richtungsweisend (vgl. Traugott Schiess, Bullingers Korrespondenz mit den
+Graubündnern, 3 Bde., Basel 1904–1906 [Quellen zur Schweizer Geschichte 23–35],
+hier Bd. 1, LXXI–LXXXIII).
+
+22 Vgl. Daniele Walker, Pier Paolo Vergerio (1498–1565) e il »Caso Spiera« (1548),
+
+in: Studi di teologia: Rivista teologica semestrale 19/1 (1998), 7–56.
+
+23 Vgl. Pier Paolo Vergerio, Del battesimo e de fiumi che nascono ne paesi de signori
+Grisoni, [Poschiavo] 1550, A6v–A7r. Auch vom Kirchenhistoriker Rosius a` Porta wur-
+den diese freiheitlichen Strukturen – er gebraucht die Ausdrücke »libertatis conscientiae
+diploma« und »fundamentalem Democratiae legem« (vgl. De Porta, Historia, Bd. 1/1,
+146; Bd. I/2, 37) – als wichtige Voraussetzung für die Immigration reformatorischer
+Flüchtlinge aus Italien gewürdigt und als für die Entwicklung der reformierten Kirche
+Bündens befruchtend gewertet (vgl. Bernhard, Rosius a` Porta, 332–334, 348–350).
+
+24 Weiter wurde in der Gründungsurkunde der Synode vom 14. Januar 1537 fest-
+gehalten, dass die Synode berechtigt sei, fremde Prädikanten, die ins Land zögen und
+sich hier niederließen, zu verhören und zu prüfen, »ob sy gschickt gnugsam in der leer«.
+Der Bundstag hatte der Synode also das Recht der Rezeptions- und Zensurgewalt über-
+tragen (vgl. Gründungsurkunde der Synode, 14. Januar 1537, in: Truog, Geschichte,
+11).
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+43
+
+In vielen Briefen Comanders, Gallicius’ und anderer an Bullinger,
+Gwalther oder Simler wurde seit den 1540er Jahren die theologi-
+sche Haltung italienischer Emigranten regelmäßig thematisiert.25
+
+Aufgrund mehrerer Klagen und heftiger Auseinandersetzungen
+betreffend Tätigkeit der italienischen Emigranten in den Südtälern,
+die verschiedene Lehren vertraten (Spiritualisten, Antitrinitarier,
+Täufer, usw.), verfügte der Bundstag am 1. November 1552 in
+Davos nach dem Eingang der Gemeindemehren, dass Privaten im
+Veltlin die Beschäftigung von reformatorischen Lehrern und Prä-
+dikanten gestattet sei, sofern diese von der Synode rezipiert seien.
+Zudem hätten die Prädikanten und Lehrer zur jährlichen Zusam-
+menkunft der Synode zu erscheinen, über ihr Leben und ihre Lehre
+Rechenschaft abzulegen und den Beschlüssen der Synode (Zensur,
+Suspension, usw.) nachzukommen.26 Vergerio meldete noch glei-
+chentags den Beschluss des Bundstages an Bullinger, sehr erfreut
+darüber, dass der Aufenthalt reformatorischer Prediger im Veltlin
+nun offiziell erlaubt sei.27 Diese frohe Kunde und die bundstägliche
+Ermahung, dass alle Prädikanten und Lehrer an der Synode teil-
+zunehmen hätten, mögen Vergerio auch bewogen haben, an der
+nach dem Bundstag einberufenen Synode teilzunehmen, obwohl er
+gegenüber Bullinger am 3. März desselben Jahres festgehalten hat-
+te, dass er an der Synode nicht mehr teilnehmen wolle.28 Bereits am
+15. November meldete er an Bullinger, dass er zwar nach der Sy-
+
+25 Vgl. Schiess, Korrespondenz, Bd. 1, 40–150 et passim.
+26 Vgl. Abschied der zu Davos versammelten Ratsboten Gemeiner III Bünde, 1. No-
+vember 1552, in: Materialien zur Standes- und Landesgeschichte Gem. III. Bünde
+(Graubünden) 1464–1803, hg. von Fritz Jecklin, Bd. 2: Texte, Basel 1909, 246f. (=
+Bundi, Gewissensfreiheit, 272f.).
+
+27 Vgl. Pier Paolo Vergerio an Heinrich Bullinger, 1. November 1552, in: Schiess,
+
+Korrespondenz, Bd. 1, Nr. 195.
+
+28 Vgl. Pier Paolo Vergerio an Heinrich Bullinger, 3. März 1552, in: Schiess, Kor-
+respondenz, Bd. 1, Nr. 180. Hintergrund dessen war, dass Vergerios »eigenwillige Vor-
+gehensweise« – unter anderem wollte er in den Südtälern eine eigenständige Synode
+gründen – bei den Churer Pfarrern zu etwelchem Ärgernis Anlass gab; im Laufe des
+Jahres 1552 fand also eine Entfremdung zwischen den Churer Pfarrern und Vergerio
+statt, welche sich in der Korrespondenz mit Bullinger reichhaltig niederschlug (vgl. Phi-
+lipp Gallicius an Heinrich Bullinger, 23. und 29. Februar 1552, in: Schiess, Korrespon-
+denz, Bd. 1, Nr. 177 und 179; Johannes Comander an Heinrich Bullinger, 5. April
+1552, in: Schiess, Korrespondenz, Bd. 1, Nr. 181 et passim); vgl. Pfister, Konfessions-
+kirchen, 122; Dalbert, Reformation, 92–94; Schiess, Korrespondenz, Bd. 1, XXVIf.
+LXXVIf.
+
+44
+
+Jan-Andrea Bernhard
+
+node, welche in Chur stattfinde, zuerst noch nach Vicosoprano
+zurückkehren müsse, zwecks Erledigung dringender Geschäfte,
+schließlich aber bald nach Zürich kommen möchte. Die Synode
+habe viele Geschäfte zu erledigen, unter anderem gehe es auch da-
+rum, dass Camillo Renato aus den Drei Bünden ausgewiesen wer-
+den solle.29 Weitere Details zu den Verhandlungen der Synode, die
+mindestens bis am 20. November gedauert hatte,30 meldete Ver-
+gerio nicht. Allerdings wissen wir aus einem späteren Brief an Bul-
+linger, welchen bedeutenden Beschluss die Synode gefällt und wel-
+chen Auftrag sie erteilt hatte. Der Münstertaler Philipp Gallicius
+(1504–1566), der spätestens seit 1526 dem reformatorischen Lager
+angehörte und seit 1551 in Chur an der Regulakirche wirkte,31
+wandte sich nämlich, auch im Namen von Johannes Comander,
+am 12. Dezember an Bullinger. Darin hielt er fest, dass den Velt-
+
+29 Vgl. Pier Paolo Vergerio an Heinrich Bullinger, 15. November 1552, unten S. 55,
+Brief 1. Camillo Renato, der 1542 in die Untertanenlande der Drei Bünde geflohen war
+und sich in Tirano, Caspano und andernorts als Hauslehrer betätigt hatte, forderte seit
+1545 in Chiavenna, wegen seiner nonkonformistischen Haltung in der Sakramentsfrage
+und anderen Bereichen, Mainardo heraus, was zu einer offenen Auseinandersetzung
+führte, so dass Renato, nach einer Visitation von Johannes Blasius im Veltlin anfangs
+September 1547, auf die Umstände in Chiavenna aufmerksam geworden, 1548 vor die
+Synode zitiert worden war; schließlich wurde er von der reformierten Gemeinde in
+Chiavenna 1550 exkommuniziert, hielt sich aber, nach einer vorübergehenden Festnah-
+me in Bergamo, weiterhin in den Untertanenlanden auf (vgl. Heinrich Bullinger Brief-
+wechsel [HBBW], Bd. 12, Zürich 2006, 242; Pfister, Konfessionskirchen, 110, 120–122;
+Jan-Andrea Bernhard, Francesco Negri zwischen konfessionellen und geographischen
+Grenzen, in: Zwingliana 37 (2010), 109–111; George Hunston Williams, Camillo Re-
+nato, in: Italian Reformation: Studies in Honour of Laelius Socinus, hg. von John A.
+Tedeschi, Florenz 1965, 160–180; Delio Cantimori, Italienische Häretiker der Spätre-
+naissance, Basel 1949, 64–72; Dalbert, Reformation, 58–85). Dank des Briefwechsels
+von Mainardo, Renato, Negri und Vergerio mit Bullinger sind wir über die komplexen
+Beziehungen und Vorgänge relativ genau unterrichtet (vgl. Schiess, Korrespondenz, Bd.
+1, 112–291; Camillo Renato, Opere: Documenti e testimonianze, hg. von Antonio Ro-
+tondo` , Florenz 1968 (Corpus Reformatorum Italicorum), 159–163, 205–259).
+
+30 Vergerio schreibt nämlich am 20. November noch aus Chur an Bullinger, bevor er
+nach Vicosoprano zurückkehrt, woher er am 30. November erneut an Bullinger schreibt
+(vgl. Schiess, Korrespondenz, Bd. 1, Nr. 195/3–4).
+
+31 Zu Philipp Gallicius: HBBW, Bd. 7, Zürich 1998, 170f.; Conradin Bonorand, Die
+Engadiner Reformatoren Philipp Gallicius, Jachiam Tütschett Bifrun und Durich
+Chiampell: Voraussetzungen und Möglichkeiten ihres Wirkens aus der Perspektive der
+Reformation im allgemeinen, Chur 1987, 52–60; Schiess, Korrespondenz, Bd. 1,
+XIX–XXXVII; Traugott Schiess, Philipp Gallicius (1504–1566): Ein Lebensbild, Chur
+1904. Bis heute ist eine umfassende Untersuchung zu Gallicius ein Desiderat der For-
+schung.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+45
+
+linern nun reformatorische Prediger und Lehrer anzustellen erlaubt
+worden sei. An der Synode sei weiter über Renato verhandelt wor-
+den, ja gar eine Schrift von ihm verlesen worden. Zudem hoffe er,
+dass er in acht Tagen die synodalen Ordnungen Bündens (»omnia
+instituta synodi nostrae in Foederibus«) zusenden könne, die zu
+prüfen sie alle Bullinger bitten würden.32 Diese Bitte von Gallicius
+ist der erste Hinweis darauf, dass die Synode den Beschluss gefällt
+hatte, eine Synodalordnung zu verfassen, und den Auftrag an Gal-
+licius, der dafür die geeignete Persönlichkeit war, übergeben hatte.
+Allerdings hat Gallicius zur Zeit der Abfassung des Briefes den
+Aufrag noch nicht vollendet, weswegen er Bullinger lediglich über
+die Bitte der Synodalen bereits in Kenntnis setzte. Der Beschluss
+zur Abfassung einer Synodalordnung – im Brief vom 12. Dezember
+steht noch nichts von einem Bekenntnis – ist zweifelsohne in Zu-
+sammenhang mit verschiedenen Problemen betreffend Aufenthalt
+italienischer Glaubensflüchtlinge zu setzen und eine Folge des
+Bundstagsbeschlusses vom 1. November, wie dies auch ein späterer
+Brief von Comander und Gallicius vom 22. April 1553 unmissver-
+ständlich ausdrückt. Damit ist unzweifelhaft belegt, dass nicht be-
+reits eine Frühjahrssynode 1552, wie in verschiedener Forschungs-
+literatur festgehalten, den Beschluss gefasst hatte, ein Bekenntnis
+ausarbeiten zu lassen,33 sondern erst die Herbstsynode nach Mar-
+tini den Auftrag gab, eine Synodalordnung zu verfassen. Dies hat
+auch der Altmeister der Edition von Bullingerbriefen, Traugott
+Schiess, in seinem ersten Band von Bullingers Korrespondenz mit
+den Graubündnern (Basel 1904) festgehalten: »Es scheint, dass ge-
+rade durch den jüngsten Bundestagsbeschluss [...] das Bedürfnis
+nach einer für alle Synodalen verbindlichen Ordnung wieder ge-
+weckt worden war.«34
+
+Aus den versprochenen acht Tagen sind allerdings ganze vier
+Monate geworden. Die Hintergründe dafür sollen hier knapp the-
+matisiert werden: Einmal hat man bereits Anfang Januar Kenntnis
+
+32 Vgl. Johannes Comander und Philipp Gallicius an Heinrich Bullinger, 12. Dezem-
+ber 1552, unten S. 57, Brief 2. Zur im Brief angesprochenen Schrift von Camillo Renato
+siehe unten S. 58, Anm. 6.
+
+33 Zuletzt: Busch, Confessio Raetica, 252. Diese Ansicht wurde allerdings, ohne eine
+Quelle zu nennen, bereits von Rosius a` Porta vertreten (vgl. De Porta, Historia, Bd. I/2,
+191f.).
+
+34 Vgl. Schiess, Korrespondenz, Bd. 1, LXXIX; Schiess, Gallicius, 19.
+
+46
+
+Jan-Andrea Bernhard
+
+davon erhalten, dass Bullinger krank sei, und deswegen haben die
+Churer Pfarrer beschlossen, Bullinger nicht unnötig zu belasten.35
+Auch im Brief vom 6. März weisen Comander und Bullinger da-
+rauf hin, dass sie auf Bullingers Gesundheit Rücksicht nehmen
+möchten.36 In demselben Brief wird aber auch ein anderer Grund
+für Gallicius’ Zuwarten genannt: Vergerio und andere Italiener
+würden nämlich den von der Synode aufgestellten Ordnungen wi-
+derstreben. Dennoch würde aber die Mehrheit der Amtsbrüder
+Bullinger bitten, dieselbe zu lesen und allfällige notwendige Ver-
+besserungen zu nennen. Das Büchlein sei von bescheidenem Um-
+fang, und Bullinger werde es sicher in zwei Stunden gelesen ha-
+ben.37
+
+Gallicius’ explizite Erwähnung von Vergerio und der Italiener ist
+nicht nur ein Hinweis auf die zunehmende Entfremdung zwischen
+den Churer Pfarrern und Vergerio – beide »Parteien« versuchten in
+den Jahren 1552/1553 mittels ihrer Briefe an Bullinger dessen
+Gunst zu erwirken –, sondern auch ein Hinweis auf die freiheitli-
+che, dem italienischen Bibelhumanismus entsprungene Gesinnung
+vieler italienischer Emigranten, die sich zu einer verpflichtenden
+Ordnung, geschweige denn Bekenntnis kritisch stellten. Die ur-
+sprünglich so »freiheitliche« Gesinnung der Drei Bünde hatte ja
+Vergerio bereits im Jahre 1550 besungen, so dass ihm, aber auch
+mehreren anderen, vor allem nonkonformistisch gesinnten italie-
+nischen Emigranten, diese Freiheit mit der Annahme einer ver-
+pflichtenden Synodalordnung in Gefahr schien; zudem widerstreb-
+te Vergerio derselben, weil er immer noch die Bildung einer italie-
+nischsprachigen Synode der Südtäler im Blick hatte, wozu er wohl
+auch die von ihm der Reformation zugeführten Oberengadiner
+
+35 »Magno cum dolore audivimus ex Tschernero te febri quadam aut dolore non
+parvo arreptum; ob id noluimus tibi molesti esse.« (Johannes Comander und Philipp
+Gallicius an Heinrich Bullinger, 2. Januar 1553, in: Schiess, Korrespondenz, Bd. 1, Nr.
+198/2). Es ist bekannt, dass Bullinger am 13. Dezember erkrankte und erst am 17.
+Januar seine Amtsgeschäfte wieder aufnehmen konnte, vgl. Heinrich Bullingers Diarium
+(Annales vitae) der Jahre 1504–1574, hg. von Emil Egli, Basel 1904 (Quellen zur
+Schweizerischen Reformationsgeschichte 2), 43.
+
+36 Noch Ende April trägt Gallicius Sorge wegen Bullingers Schwäche (vgl. Philipp
+Gallicius an Heinrich Bullinger, Ende April 1553, in: Schiess, Korrespondenz, Bd. 1, Nr.
+210).
+
+37 Vgl. Johannes Comander und Philipp Gallicius an Heinrich Bullinger, 6. März
+
+1553, unten S. 59, Brief 3.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+47
+
+Gemeinden gezählt haben wollte. Der Vorwurf, dass Vergerio – er
+war mitnichten ein »Heterodoxer«, wie Pfister schreibt38 – die
+Spaltung der Bündner Kirche provoziert hätte, ist dennoch voll-
+kommen verfehlt, wenn man bedenkt, dass er aus Sorge darum,
+dass das Veltlin wieder in den Einflussbereich der Altgläubigen fal-
+le, gar – zumindest vorübergehend – einen Ruf an den Hof des
+Herzogs Christoph von Württemberg nicht annehmen wollte.39
+
+Gallicius wollte die ersten Monate des Jahres 1553 insbesondere
+nutzen, um die Italiener für eine gemeinsame Synodalordnung zu
+gewinnen. So hielt er nämlich im Brief vom 6. Juni an Bullinger
+exlizit fest, dass nun alle Italiener die Ordnung angenommen hät-
+ten, wenn auch sie an drei Artikeln noch Kritik geübt hätten.40 Für
+diesen Erfolg ist im Hintergrund viel Verhandlungsgeschick not-
+wendig gewesen, was vor allem das Verdienst der Bemühungen von
+Gallicius war. Freilich mag auch Bullinger durch seine vermittelnde
+Tätigkeit einen Beitrag geleistet haben, doch leider sind fast alle
+Briefe Bullingers aus diesen beiden Jahren, von denen wir indirekt
+Kenntnis haben, verloren gegangen, so dass wir über Bullingers
+direkte Einflussnahme kaum Aussagen machen können.
+
+Als dritter Aspekt, warum Gallicius mit der Übersendung der
+Synodalordnung noch zuwartete, ist zu nennen, dass Gallicius die-
+selbe noch nicht beendet hatte. Dies liegt nicht nur aufgrund der
+oben genannten Umstände nahe, sondern lässt sich auch sprachlich
+in den Briefen von Gallicius41 an Bullinger festmachen. So teilt
+Gallicius im Brief vom 12. Dezember und 6. März mit, dass er die
+»instituta synodi nostrae« demnächst senden werde, er spricht also
+noch sehr allgemein von den synodalen Ordnungen, ohne zu de-
+finieren, welche Bereiche die »instituta« nun betreffen würden.
+Erstmals nennt Gallicius im Brief vom 10. April die Synodalord-
+
+38 Vgl. Pfister, Konfessionskirchen, 108, 537. Gallicius äußert zwar an Vergerios
+Orthodoxie – unter anderem, weil er Camillo Renato verschiedentlich in Schutz genom-
+men habe – auch seine Bedenken, doch faktisch basiert sein Urteil nicht auf einer Prü-
+fung von Schriften Vergerios, sondern auf seinem Unmut darüber, dass Vergerio in der
+Januarsynode sein Anliegen einer eigenen italienischsprachigen Synode geäußert hatte
+(vgl. Philipp Gallicius an Heinrich Bullinger, 29. Februar 1552, in: Schiess, Korrespon-
+denz, Bd. 1, Nr. 179).
+
+39 Vgl. Pier Paolo Vergerio an Heinrich Bullinger, 23. Januar 1553, in: Schiess, Kor-
+
+respondenz, Bd. 1, Nr. 201.
+
+40 Vgl. unten S. 67, Brief 5.
+41 Die Briefe wurden z.T. mit Comander gemeinsam an Bullinger gesandt.
+
+48
+
+Jan-Andrea Bernhard
+
+nung, die er bald zu senden verspricht, »placita nostra«, so wie der
+zweite Teil des Textes tatsächlich beginnt.42 Gallicius hatte offen-
+bar Anfang April die Synodalordnung zu großen Teilen vollendet.
+Schießlich übersandte er dieselbe mit dem Brief vom 22. April an
+Bullinger, umfassend allerdings nicht nur die Synodalordnung,
+sondern auch das Bekenntnis der Synode. Zwar nennt Gallicius zu
+Beginn des Briefes dieselbe nur »placita illa nostra«, präzisiert aber
+im Laufe des Briefes mit dem Hinweis auf die »fides ac placita haec
+nostra«; infolge der verschiedenen Ansichten einzelner Italiener sei
+es notwendig gewesen, die »fidem et decreta nostra perscribere«,
+wenn dieselben in die Synode aufgenommen werden wollten.43 Tat-
+sächlich beginnt der Text der übersandten »Synodalordnung« mit
+den Worten »Fides ac placita synodi Evangelium Christi in tribus
+Rhetiae Foederibus praedicantium«, umfassend also ein Glaubens-
+bekenntnis (Fides) und eine Synodalordnung (Placita), die gemein-
+hin unter dem Namen Confessio Raetica in die Geschichte einge-
+gangen ist.44
+
+Wir haben die Hintergründe für die Notwendigkeit zur Abfas-
+sung der Fides ac placita synodi bereits angesprochen. Facetten-
+reich hat diese Hintergründe erstmals Emil Camenisch in seiner
+Studie über die Confessio Raetica dargelegt, begründend warum
+gewisse Artikel (Loci) in der Confessio ausführlicher, andere knap-
+per beschrieben seien. Gerade die Fides sollte die Geistlichen der
+Südtäler auf ein reformiertes Bekenntnis verpflichten.45 Bereits Gal-
+licius selbst hat ja im Brief vom 22. April zahlreiche Angaben dazu
+gemacht, indem er betonte, mit welchen theologischen Richtungen
+und Ansichten die Synode sich auseinanderzusetzen habe. Außer
+Francesco Calabrese hat aber Gallicius in besagtem Brief keine
+Namen genannt.46 Aufschluss über die verschiedenen theologi-
+
+42 Vgl. Philipp Gallicius an Heinrich Bullinger, 10. April 1553, in: Schiess, Korres-
+
+pondenz, Bd. 1, Nr. 208.
+
+43 Vgl. Johannes Comander und Philipp Gallicius an Heinrich Bullinger, 22. April
+
+1553, unten S. 62, Brief 4.
+
+44 Vgl. Fides ac placita synodi Evangelium Christi in tribus Rhetiae Foederibus prae-
+
+dicantium, Chur SKA, B 1, 1 (= Busch, Confessio Raetica, 256).
+
+45 Vgl. Camenisch, Confessio Raetica, 225–228.
+46 So schreiben Gallicius und Comander an Bullinger, dass beinahe jeder italienische
+Flüchtling der Synode eine eigene Bekenntnisschrift vorlege (vgl. Johannes Comander
+und Philipp Gallicius an Heinrich Bullinger, 22. April 1553, unten S. 62, Brief 4). Zu
+Francesco Calabrese siehe unten S. 64, Anm. 10.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+49
+
+schen Richtungen der reformatorischen Emigration aus Italien in
+die Drei Bünde gibt vor allem Conradin Bonorands letztes, post-
+hum erschienenes Werk.47 In der vorliegenden Studie wollen wir
+uns aber, die betreffenden Briefe an Bullinger aus der besagten Zeit
+auswertend, vor allem der Frage vom Anfang der Abfassung bis
+zur definitiven Rezeption der Confessio Raetica widmen. Im Brief
+vom 22. April baten also Comander und Gallicius, neben der de-
+taillierten Schilderung der Entstehungshintergründe sowie des
+Zwecks der Abfassung der Fides ac placita synodi, nämlich der
+innerkirchlichen Willkür reformiert Bündens durch ein gemeinsa-
+mes Bekenntnis und eine Synodalordnung Einhalt zu gebieten, Bul-
+linger um Durchsicht, Prüfung und Korrektur des Textes; die Ein-
+haltung der Fides ac placita synodi soll künftig nämlich Bedingung
+für die Aufnahme in die Synode sein.48 Zudem sei es wichtig, dass
+Bullinger bedenke, dass die Drei Bünde paritätisch seien, welcher
+Tatsache man bei der Abfassung habe Rechnung tragen müssen.
+Bullinger möge das Büchlein (»libellus«) in acht bis vierzehn Tagen
+zurücksenden.49
+
+Bullinger ist der Bitte nachgekommen und hat noch im Monat
+Mai Bekenntnis und Synodalordnung geprüft. Doch leider ist sein
+Antwortbrief nicht mehr erhalten. Wir wissen davon aber aus ei-
+nem Brief vom 6. Juni. Darin dankt Gallicius namens aller Amts-
+
+47 Vgl. Bonorand, Emigration, 39–105, 129–188. Dalbert behandelt in seiner Dis-
+sertation die theologischen Richtungen der in den Briefen thematisierten Personen nur
+selektiv (vgl. Dalbert, Reformation).
+
+48 Die Aufnahme in die Synode war bekanntlich die Voraussetzung, auf dem Ho-
+heitsgebiet der Drei Bünde als reformierter Prediger oder Lehrer wirken zu dürfen.
+Freilich stieß sich dieses Rezeptions- und Zensurrecht der Synode mit dem kommunalen
+Recht, die Geistlichen zu wählen und zu entlassen; durch die Gründung der Synode
+wurde also das »unbeschränkte« Pfarrwahlrecht der Gemeinden wesentlich einge-
+schränkt, doch manche Prediger und Lehrer, auch wenn sie nie in die Synode aufge-
+nommen oder aus dieser ausgeschlossen worden sind, waren weiterhin in den Drei
+Bünden tätig. Neben dem populärsten Beispiel eines Camillo Renato ist insbesondere
+auch auf Girolamo Turriani oder Michelangelo Florio zu verweisen (vgl. Bonorand,
+Emigration, 141–144, 176–181; Jan-Andrea Bernhard, Reformation and Confessiona-
+lization in Grisons, erscheint in: A Companion to the Swiss Reformation, hg. von Amy
+Nelson Burnett und Emidio Campi, Leiden 2013). Entgegen Pfister ist festzuhalten, dass
+die zögernde Durchsetzung der Zensurgewalt der Synode weniger mit der mangelnden
+Insitutionalisierung der Synode zu tun hatte als vielmehr mit dem ausgeprägten Ver-
+ständnis von Gemeindeautonomie (vgl. Pfister, Konfessionskirchen, 119–130).
+
+49 Vgl. Johannes Comander und Philipp Gallicius, 22. April 1553, unten S. 62, Brief
+
+4.
+
+50
+
+Jan-Andrea Bernhard
+
+brüder, die sich zur Synode in Chur versammelt hätten, Bullinger
+für die Prüfung der Synodalordnung. Er werde aber die definitive
+Fassung erst schicken, wenn sie »esset denuo receptum ab omni-
+bus«. Gallicius erklärte dieses »denuo« auch sogleich: Zwar hätten
+alle Italiener die Ordnung angenommen, doch vor allem an drei
+Artikeln Kritik geübt, nämlich dass beim Abendmahl ungesäuertes
+Brot verwendet werden solle, bei der Taufe Taufzeugen notwendig
+seien und dass der Vater sein eigenes Kind nicht taufen dürfe. Die
+Synodalen, allen voran Gallicius, hätten die Italiener aber zu Ein-
+tracht und Frieden ermahnt, und so sei es gelungen eine Einigung
+zu erzielen. Abschließend hält Gallicus fest, dass auch die Tauffor-
+mel, wie sie in Zürich zu gebrauchen gepflegt werde, in die Ord-
+nung aufgenommen worden sei.50
+
+Die Ausführungen von Gallicius machen deutlich, dass die Syno-
+dalordnung, nachdem sie Bullinger korrigiert zurückgesandt hat, in
+der Synode detailliert besprochen wurde und dabei noch einzelne
+Artikel geändert wurden. Weder haben wir also Kenntnis vom Text
+der ursprünglichen Fassung, die Gallicius am 22. April übersandte,
+noch von den Korrekturen, die Bullinger angebracht hat. Einzig die
+strittigen Punkte der Frühjahrssynode 1553 sind uns bekannt. Die
+definitive, in einzelnen Artikeln gegenüber der Urfassung verän-
+derte Fides ac placita synodi wollte nun Gallicius an Bullinger
+übersenden. Dies versprach er in Briefen vom 4. Juli und 19. Au-
+gust erneut.51 Tatsächlich übersandte hat er die »fidei confessionem
+et placita synodi« erst am 2. September an Bullinger. Gallicius
+betonte dabei, dass Bekenntnis und Ordnung sowohl von den Sy-
+nodalen als auch von den Ratsboten, d.h. dem Bundstag,52 ange-
+nommen worden seien. Aus dem Brief spürt man die sichtliche
+Erleichterung von Gallicius, dass die Fides ac placita synodi trotz
+des anfänglichen Widerstandes einiger Italiener zustandegekom-
+
+50 Vgl. Philipp Gallicius an Heinrich Bullinger, 6. Juni 1553, unten S. 67, Brief 5.
+51 »Placita synodi imaiam absolvo [...]« (Philipp Gallicius an Heinrich Bullinger, 4.
+Juli 1553, in: Schiess, Korrespondenz, Bd. 1, Nr. 213), sowie »Libellum confessionis
+illius nostrae tibi descriptum mittam, [...]« (Philipp Gallicius an Heinrich Bullinger, 19.
+August 1553, in: Schiess, Korrespondenz, Bd. 1, Nr. 218).
+
+52 Dies hält auch Ulrich Campell in seiner Historia Raetica, verfasst in den Jahren
+1573–1576, also etwa zwanzig Jahre nach Annahme der Confessio Raetica, fest, vgl.
+Ulrich Campell, Historia Raetica, hg. von Placidus Plattner, Bd. 2, Basel 1890 (Quellen
+zur Schweizer Geschichte 9), 309.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+51
+
+men sei. Natürlich hätte sich Bullinger durch seine beratende Stel-
+lung darum auch wesentlich verdient gemacht.53
+
+Der im Brief vom 2. September Bullinger zugesandte Text ist
+derjenige, der, obwohl die Confessio Raetica ausschließlich terri-
+toriale Bedeutung für die Drei Bünde hatte, bis ins 19. Jahrhundert
+– freilich neben der Confessio Helvetica posterior (1566) – ver-
+bindlichen Charakter behielt. Der erste Teil der Confessio Raetica,
+d.h. die Fides synodi, beginnt mit dem Bekenntnis zu den heiligen
+Schriften beider Testamente und zu den drei altkirchlichen Sym-
+bolen – daran messe sich die Wahrheit des Glaubens (§1–4). An-
+schließend werden, betonend, dass die folgenden Artikel insbeson-
+dere »propter haereticos« verfasst worden seien (§4), Fragen der
+Soteriologie (§5–6), der Gotteslehre (§7–10) und der Sakraments-
+lehre (§11–19) thematisiert.54 Aufs Ganze gesehen steht die Fides
+ohne Zweifel in reformierter Tradition, und insofern wird mit
+Recht am Ende derselben festgehalten, dass nur der in die Synode
+aufgenommen werde, der die Artikel kenne und beachte (§20).55
+Der zweite, umfangreichere Teil der Confessio Raetica, d.h. die
+Placita synodi, ist hingegen, wie bereits Truog erkannt hat,56 nicht
+nur Folge der Auseinandersetzungen mit italienischen Nonkonfor-
+misten, sondern auch ein Ertrag der in den 1540er Jahren gemach-
+ten Erfahrungen bei den Synodalverhandlungen, bei der Umset-
+zung reformierter Kirchlichkeit in den Gemeinden und bei der sy-
+nodalen Inpflichtnahme der Geistlichen. Dementsprechend regelt
+die Placita synodi die Synodalverhandlungen (§22–29), die zu fei-
+
+53 Vgl. Philipp Gallicius an Heinrich Bullinger, 2. September 1553, unten S. 69, Brief
+
+6.
+
+54 Vgl. Busch, Confessio Raetica, 256–265.
+55 In der Abschrift der Confessio Raetica von 1584, die von N[ikolaus] K[esel],
+Pfarrer in Castrisch, später in Sondrio Monte, angefertigt wurde und noch heute im
+Churer Stadtarchiv aufbewahrt wird, wird unmittelbar vor diesem letzten Abschnitt des
+1. Teiles (§20) der Passus, dass schon die Frommen des alten Bundes durch Kraft und
+Verdienst Christi das Heil erlangt hätten, eingefügt (vgl. Fides ac placita synodi Evan-
+gelium Christi in tribus Rhetiae Foederibus praedicantium, 1584, Chur Stadtarchiv, AB
+III/S 01.01, 17). Dies ist ein Hinweis darauf, dass Bullingers Bundestheologie auch in
+den 1580er Jahren für die Synode als maßgebend erachtet wurde (vgl. Jan-Andrea Bern-
+hard, »Vna cuorta et christiauna fuorma da intraguider la giuuentüna«: Der erste Ka-
+techismus Bündens als Zeugnis der Ausstrahlungen der Zürcher Reformation,
+in:
+Zwingliana 35 [2008], 67f.).
+
+56 Vgl. Truog, Geschichte, 13.
+
+52
+
+Jan-Andrea Bernhard
+
+ernden Festtage (§30–32), den Gottesdienst und die religiöse Un-
+terweisung der Kinder (§33–35), die Taufe (§44–47, 65), das
+Abendmahl und die Eheschließung (§43, 48–51) sowie die Amts-
+führung der Synodalen und ihre Kontrolle durch die Rezeption und
+die Zensur (§52–64). Anders als die Fides besaßen die Placita nicht
+den Anspruch auf »göttliche, unvergängliche Autorität«, sondern
+konnten angepasst werden.57 Die Synodalordnung verfolgte das
+erklärte Ziel, die Kirchlichkeit in den reformierten Gemeinden zu
+vereinheitlichen, und gleichermaßen die Synodalversammlungen
+aufzuwerten, auf dass diese die Geistlichen gegenseitig anregen und
+erziehen mögen. Rechtlich bindend waren aber nur die bereits im
+Bundstagsbeschluss von 1537 festgehaltene Rezeption und Zensur,
+alle anderen Bestimmungen waren lediglich »Ermahnungen« an
+die Gemeinde und die Synodalen.
+
+Leider ist die an Bullinger übersandte Fides ac placita synodi in
+Zürich nicht erhalten geblieben, gleichfalls fehlt Gallicius’ Begleit-
+brief, der glücklicherweise, als Gallicius’ eigenhändige Abschrift,
+im Synodal- und Kirchenratsarchiv in Chur aufbewahrt wird. Gal-
+licius selbst schien also die von ihm angefertigten und erhaltenen
+Briefe aufbewahrt zu haben, so dass er auch zwei Jahre später, im
+Juli 1555, bei der Niederschrift der Confessio Raetica in den in
+Leder eingefassten Band die Briefe an Bullinger noch zur Hand
+
+57 Vgl. Busch, Confessio Raetica, 265 (vgl. Camenisch, Confessio Raetica, 258). Die
+Placita synodi wurden tatsächlich bereits 1584, als Nikolaus Kesel die Abschrift ver-
+fasste, den neuen Gegebenheiten angepasst: Einerseits wurden die Artikel der Placita in
+eine andere Reihenfolge gesetzt, andererseits mit mehreren neuen Artikeln ergänzt (vgl.
+Fides ac placita synodi [...], 1584, Chur Stadtarchiv, AB III/S 01.01, 18–49; die kleinere,
+weniger kunstvolle Schrift und die andere Tinte, die auf den S. 50–53 der Placita im
+erwähnten Folio-Band des Stadtarchivs verwendet wurden, sind Hinweis darauf, dass
+nach 1584 die Synodalordnung erneut mit weiteren Artikeln ergänzt wurde). Hinter-
+grund der Ergänzungen waren unter anderem – wie eine Unterschrift Gantners belegt –
+die Ereignisse um Johannes Gantner im Jahre 1571, der wegen seiner Parteinahme für
+Jörg Frell aus der Synode ausgeschlossen wurde, in den 1580er Jahren aber wieder um
+Aufnahme in die Synode bat, so dass er schließlich ab 1586 in Maienfeld und ab 1595
+in Chur, an der Martinskirche, wirkte (vgl. Christian Scheidegger, Zwischen den kon-
+fessionellen Fronten: Schriften des Buchhändlers und Schwenckfelders Jörg Frell [um
+1530 – um 1597] von Chur, Chur 2013 [Quellen und Forschungen zur Bündner Ge-
+schichte 29]; Erich Wenneker, Heinrich Bullinger und der Gantnerhandel in Chur
+[1570–1574], in: Zwingliana 24 [1997], 102–114). Eine weitere Neufassung der Syno-
+dalordnungen lag in den gedruckten Leges synodales ecclesiae Raeticae reformatae
+(Chur 1645) vor.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+53
+
+hatte. Von welchem Glück könnten wir uns preisen, wenn sein
+Nachlass eines Tages noch gefunden werden könnte? Um so dank-
+barer sind wir – bedenkend, dass das erste Protokollbuch der Sy-
+node, umfassend die 40er bis 60er Jahre des 16. Jahrhunderts,
+verschollen ist – für die in Zürich erhaltenen Briefe, die uns einen
+reichen Einblick in Entstehung, Abfassung und Rezeption der Con-
+fessio Raetica geben.
+
+3. Edition von sechs Briefen an Heinrich Bullinger58
+
+Übersicht über die edierten sechs Briefe, die insbesondere die Ent-
+stehung, Abfassung und Rezeption der Confessio Raetica betref-
+fen:
+
+1 Pier Paolo Vergerio, Chur, 15. November 1552, an Heinrich
+Bullinger (Autograph: Zürich Staatsarchiv [StA], E II 356,
+497f.).
+
+2 Johannes Comander und Philipp Gallicius, Chur, 12. Dezem-
+ber 1552, an Heinrich Bullinger (Autograph Gallicius: Zürich
+StA, E II 365, 104).
+
+3 Johannes Comander und Philipp Gallicius, Chur, 6. März
+1553, an Heinrich Bullinger (Autograph Gallicius: Zürich
+StA, E II 365, 123f.).
+
+4 Johannes Comander und Philipp Gallicius, Chur, 22. April
+1553, an Heinrich Bullinger (Autograph Gallicius: Zürich
+StA, E II 365, 127–129).
+
+5 Philipp Gallicius, Chur, 6. Juni 1553, an Heinrich Bullinger
+
+(Autograph: Zürich StA, E II 365, 143f.).
+
+6 Philipp Gallicius, Chur, 2. September 1553, an Heinrich Bul-
+
+linger (Autographe Abschrift: Chur SKA, B 1, 86f.).
+
+Vorbemerkungen zur Edition
+Die Edition der sechs Briefe orientiert sich an den Gepflogenheiten
+der Heinrich Bullinger-Briefwechseledition. Den einzelnen Briefen
+liegt jeweils die älteste erhaltene Handschrift zugrunde, so dass der
+
+58 Ein besonderer Dank gebührt Dr. Reinhard Bodenmann, Leiter der Heinrich Bul-
+linger-Briefwechseledition, für seine wertvollen Ratschläge und Hinweise bei der Vor-
+bereitung und Kollationierung dieser Edition.
+
+54
+
+Jan-Andrea Bernhard
+
+Text teilweise unterschiedlich zu Schiess’ Edition im ersten Band
+von Bullingers Korrespondenz mit den Graubündnern (Basel
+1904) ist. Sämtliche Abbreviaturen werden ausgeschrieben; eckige
+Klammern werden dann gesetzt, wenn Textverlust vorliegt. Die
+Groß-/Kleinschreibung der Vorlage wurde beibehalten.
+
+Um der besseren Lesbarkeit willen sind die einzelnen Briefe in-
+haltlich in Abschnitte gegliedert. Die Interpunktion ist teilweise
+den heutigen Gegebenheiten angepasst worden. Textkritische An-
+merkungen werden sehr zurückhaltend verwendet; Schreibvarian-
+ten in jüngeren Abschriften werden nicht explizit erwähnt. In den
+sachlichen Anmerkungen werden Angaben zu den erwähnten Na-
+men und Ortschaften gemacht sowie weiterführende Hinweise zum
+besseren Verständnis der Briefe gegeben.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+55
+
+1
+
+Pier Paolo Vergerio an Heinrich Bullinger
+
+Chur, 15. November 1552
+
+Autograph: Zürich StA, E II 356, 497f. (Siegelspur)
+
+Gedruckt: Schiess, Korrespondenz, Bd. 1, 271, Nr. 195/2
+
+Bullingers Brief vom 10. November hat Vergerio in Chur, wo er sich aus Anlass der
+Synode aufhält, erhalten. Nach Beendigung der Synode wird er noch allerhand in Vi-
+cosoprano und im Veltlin ordnen, dann aber nach Zürich kommen. Es ist bekannt, dass
+die Reise des Bischofs [Thomas Planta] von Chur nach Rom »Höflinge« ermuntert hat,
+über eine Rache in Bünden nachzudenken. Des weiteren haben zwei bedeutende Kar-
+dinäle [reißende Wölfe] mit acht Bischöfen sowie anderem Gefolge vor etwa zwei Mo-
+naten mit Messen und Lösegeld Leute verführt, auf dass sie Vergerio nachstellen. Er
+vertraut aber auf den Herrn und die Gebete der Zürcher. Anfangs Januar möchte er in
+Zürich sein. Er bittet, inzwischen ein Fass nach Chur zu senden. Francesco Bonetto lässt
+Bullinger grüßen. – Die Synode hat viel zu erledigen; Camillo Renato soll ausgewiesen
+werden. – Lebewohl.
+
+Vir clarissime, hodie Curiam veni, et accepi tuas literas diei X.
+huiusce mensis,1 que˛ sane iucundae mihi fuere multis nominibus.
+Nunc paucis rescribo. Peracta sinodo adhuc redeundum est mihi
+ad ministerium et componenda multa tum illic, tum in Valle Tel-
+lina. At facta cena cum meis tandem veniam ad te, mi Bullingeri;
+nam ea non modo Vicosoprani2, sed in Valle illa nuper aquisita3
+celebranda erit, ut capiamus possessionem. At audi, frater in Chris-
+to: profectio Curiensis episcopi4 Romam primum excitavit curtisa-
+nos ad cogitandum de Raetia et cogitandum de ultione; sed postea,
+quum duo ex summis Carpinalibus5 fere duorum mensium spatio
+
+1 Nicht erhalten.
+2 Vergerio wirkte im Jahre 1552 in verschiedenen Gemeinden der Untertanenlande,
+des Bergells und des Oberengadins als Reformator, doch blieb Vicosoprano, wohin er
+1550 berufen worden war (vgl. Pier Paolo Vergerio an Johannes Calvin, 3. Januar 1550,
+in: Ioannis Calvini opera quae supersunt omnia, Bd. 13, Braunschweig 1875, Nr. 1336),
+seine »Heimpfarrei«. Von hier aus fanden nicht nur seine »reformatorischen Missio-
+nen« statt, sondern zog er auch immer wieder in nördlich gelegene »reformierte« Städte
+wie Chur, St. Gallen, Zürich, Straßburg, Basel, Bern, Lausanne oder Genf (vgl. Cavazza,
+Vergerio, 37f.).
+
+3 Das Veltlin kam 1512 als Untertanenlande in den Besitz der Drei Bünde (vgl. 1512
+– Die Bünder im Veltlin, in Bormio und in Chiavenna, hg. von Augusta Corbellini und
+Florian Hitz, Sondrio/Poschiavo 2012).
+
+4 1549 wurde Thomas Planta (1520–1565), ein Verwandter von Johannes Travers,
+zum Bischof von Chur gewählt; geweiht wurde er allerdings erst 1551 in Rom, wo er
+unter anderem am Tridentinum teilnahm (vgl. Historisches Lexikon der Schweiz [HLS],
+Bd. 9, Basel 2009, 770; Otto P. Clavdetscher und Werner Kundert, Das Bistum Chur,
+in: Helvetia Sacra, Bd. I/1, Bern 1972, 495).
+
+56
+
+Jan-Andrea Bernhard
+
+huc iter fecerint cum octo episcopis et alia turba, certo scias illos
+corrupisse prece et pre˛tio nonnullos, qui me perdant. Res, inquam,
+certa es[t]; itaque humana prudentia atque ope vix evadam. Ita
+omnia sunt insidiis referta.6 At confido in domino: vos me oratio-
+nibus vestris iuvate. Circiter kalendas ianuarias vobiscum ero, si
+Deus voluerit. Interim mitte vasculum7 huc Curiam, quod te rogo.
+D. Franciscus Bonetus8 comunicavit mihi literas, quas ad eum nu-
+per scripsisti. Te bonus ille frater amat ex animo et tibi salutem
+plurimam.
+
+Multa sunt nobis hic in synodo9 expedienda; inter cetera affirmo
+fore, ut uter ille venenatus (Camillum dico)10 exterminetur e` Rae-
+tia.
+
+5 Gemeint ist cardinalibus, wobei Vergerio ein Wortspiel mit carpo macht, um den
+Leser an Mt 7,15 (»lupi rapaces«) – carpo und rapio sind bedeutungsähnlich – erinnern
+zu lassen. Vergerio übernimmt damit eine allerdings bereits gängige Formulierung für
+Kardinäle; so heißt es in dem Evangelium Pasquilli olim Romani jam peregrini bereits
+zu Beginn: »[...] dixit papa rapax carpinalibus suis [...]« (Pasquillorum Tomi duo, Basel
+1544, 302; vgl. Pier Paolo Vergerio an Heinrich Bullinger, 15. Oktober 1552 bzw. 5.
+April 1553, in: Schiess, Korrespondenz, Bd. 1, 267, 292). Schließlich wird der Ausdruck
+carpinalis bzw. carpinalibus auch in den Decimateria centuria ecclesiasticae historiae
+[...] (Basel 1574) immer wieder verwendet.
+
+6 Im Hintergrund steht wohl, dass Vergerio im Frühling und Sommer 1552 wegen
+seines »forschen« Predigens des Evangeliums im Veltlin das Missfallen der Katholiken
+erregte (vgl. Cavazza, Vergerio, 38, 56–59; Dalbert, Reformation, 94f.; Schiess, Kor-
+respondenz, Bd. 1, LXXVII–LXXIX); Genaueres über diese von Vergerio erwähnte Tä-
+tigkeit der beiden Kardinäle und der Bischöfe ist uns aber nicht bekannt.
+
+7 Vergerio erwartete aus Basel ein Fass mit Büchern (vgl. Pier Paolo Vergerio an
+Heinrich Bullinger, 26. Februar 1553, in: Schiess, Korrespondenz, Bd. 1, Nr. 205). Über
+den Buchtransfer von Basel über Graubünden nach Italien vgl. Bonorand, Emigration,
+109–120; Jan-Andrea Bernhard, Il cudisch en Grischun: Derivonza, diever, funcziun,
+rimnada ed effects da cudischs, collecziuns da cudischs e da bibliotecas ellas Treis Ligias
+(1500–1800), erscheint in: Annalas da la Societad Retorumantscha 2013.
+
+8 Francesco Bonetto ist ein Glaubensflüchtling aus Bergamo, der sich seit 1550 in
+Bünden aufhielt, später aber in die Hände der Inquisition gelangte, weswegen Friedrich
+von Salis-Samedan nach Venedig abgeordnet wurde. Bonetto, der später in Chur als
+Kaufmann wirkte, genoss bei Bullinger wie auch bei den reformierten Predigern Bün-
+dens, wie die Korrespondenz belegt, hohes Ansehen (vgl. Schiess, Korrespondenz, Bd. 3,
+XXV).
+
+9 Die Synode in Chur fand nach Martini statt und dauerte mindestens bis am 20.
+
+November (vgl. Schiess, Korrespondenz, Bd. 1, Nr. 195/3–4).
+
+10 Camillo Renato (vgl. oben S. 44, Anm. 29) wurde 1550 exkommuniziert und zog
+nach Bergamo, wo er festgenommen, auf Bitte der Bündner aber wieder freigelassen
+wurde und ins Veltlin zurückkehrte. Daselbst wurde er erneut zum Stein des Anstoßes,
+wie die Briefe Vergerios und Gallicius’ belegen (vgl. Renato, Opere, 235–259; Schiess,
+Korrespondenz, Bd. 1, 259–291); vgl. Bonorand, Emigration, 142.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+57
+
+Vale et salve cum tota familia, scola atque ecclesia. Dominus
+
+benedicat vestris laboribus. Amen.
+
+Curiae, XV. novembris 1552.
+
+Vergerius tuus.
+
+2
+
+Johannes Comander und Philipp Gallicius
+
+an Heinrich Bullinger
+
+Chur, 12. Dezember 1552
+
+Autograph (Gallicius): Zürich StA, E II 365, 104
+
+(Siegelspur)
+
+Gedruckt:1 Schiess, Korrespondenz, Bd. 1, 276f., Nr. 198/1
+
+Gallicius – auch im Namen von Comander – will nicht lange Lobreden verlieren, da
+Bullinger sehr vielbeschäftigt sei, und verdankt den am heutigen Tag eingetroffenen
+Brief. Davos, das sich vor einigen Jahren der Reformation zugewandt hat und vier
+Predigtstätten umfasst, hat keinen Prediger, obwohl der jährliche Lohn bei 100 rhei-
+nischen Gulden liegt. Wenn Bullinger keinen Pfarrer für die Davoser nennen kann,
+wissen sie nicht, wohin sich wenden. Auch zahlreiche andere Gemeinden sind ohne
+Prediger. Die Bezahlung ist meist gering und schwankt zwischen 50 und 60 rheinischen
+Gulden; nur Comander erhält 120 Gulden. Zudem mangelt es auch an Lehrern. – Den
+Veltlinern sind Prediger und Lehrer erlaubt worden unter Bedingungen, die der Über-
+bringer mitteilen kann. – Gallicius sendet Exzerpte aus einer Schrift von Camillo Re-
+nato, die auch an der Synode verlesen worden ist; er wird über diesen und anderes an
+die Potestaten im Veltlin schreiben. Er hofft, in acht Tagen ein ausführliches Schriftstück
+über die bündnerische Synodalordnung senden zu können, die Bullinger prüfen soll. –
+Lebwohl. Neuigkeiten aus Italien werden gemolden, wenn erwünscht.
+
+S. Vir modis omnibus maxime, hoc enim vero elogio amputatas
+volo omnium exordiorum ambages; scio enim, quam aliis sis oc-
+cupatus et quam brevibus mihi omnia absolvenda. Literas tuas2
+accepimus hodie. Davasenses pauculos ante annos quatuor alebant
+sacrificos missantes; mox totam suam regionem in unam parochi-
+am coegerunt concionatori unico dantes quotannis centum aureos
+Renenses, qui praedicet quatuor in templis.3 Apud nos nullus est,
+
+1 Teildruck: De Porta, Historia, Bd. 1/2, 313.
+2 Nicht erhalten.
+3 In Davos wurde am Platz die Reformation 1526 eingeführt (vgl. Paul Gillardon,
+Geschichte des Zehngerichtebundes, Davos 1936, 94f.; Emil Camenisch, Bündner Re-
+formationsgeschichte, Chur 1920, 213–223), bald darauf zog aber auch die ganze
+Landschaft nach. Die angesprochenen vier Kirchen sind St. Johann (Davos Platz), St.
+Theodor (Sertig Dörfli), St. Maria (Frauenkirch) und St. Nikolaus (Glaris).
+
+58
+
+Jan-Andrea Bernhard
+
+quem iudicemus nos aptum eis; sperabamus a vobis istinc gravem
+aliquem virum.4 Nunc pulchra hac spe frustrati nescimus, quo nos
+convertamus; speramus ex improviso deum appariturum. Multae
+apud nos parochiae sunt carentes concionatoribus; offerunt Re-
+nenses aureos quinquaginta, quaedam sexaginta. Nosce volunt
+omnes, mercedem solvere nemo. Multi ecclesiastae in Foederibus,
+crede, famem paciuntur; maxima enim pars plus non habet quam
+60 Renenses. Qui maxima salaria habent, ad Renenses perveniunt
+120; solus tamen Comander noster totidem habet. Scholastici in
+Foederibus, de quibus speres aliquid hac in re praestatum iri, sunt
+nulli. Quo deventura res in Foederibus sit, deus novit.
+
+Veltelinensibus nostris concessi sunt concionatores et magistri
+pacto eo, quo tibi dicet lator hic, homo apud nos magni nominis et
+senator nobis omnibus faventissimus.5
+
+Camillum ut pernoscas, tibi mitto hic libellum,6 imo syllogismos
+fere tantum ex eius libro Italice fusissime scripto collectos per me.
+Etiamsi mea haec omnia sint verba, credas tamen me fideliter om-
+nia egisse; lectus enim est a fratribus synodi, in quo ipse praesens
+fuit. Hoc ipso tamen die scribo ad potestates Vallis Tellinae de eo et
+aliis ad rem facientibus. Camilli aristas istas lege, si videtur, et
+quum perlegeris, post aliquot dies remitte ad nos. Proximo octiduo
+prolixissimas meas, si deus voluerit, videbis literas de omnibus in-
+
+4 Gemäß Brief vom 6. Dezember 1552 ist der bisherige Amtsinhaber, Andreas
+Schmid (Fabricius), Pfarrer in Davos seit 1527, in hohem Alter verstorben; wegen des
+Mangels an Geistlichen haben sich Comander und Gallicius an Bullinger gewandt (vgl.
+Johannes Comander und Philipp Gallicius an Heinrich Bullinger, 6. Dezember 1552, in:
+Schiess, Korrespondenz, Bd. 1, Nr. 196).
+
+5 Comander und Gallicius sprechen hier den Abschied der zu Davos am 1. Novem-
+ber versammelten Ratsboten der Drei Bünde an, in dem bestimmt wurde, dass von der
+Synode geprüfte Prädikanten und Schulmeister im Veltlin auf eigene Kosten und im
+Privathaushalt ohne Behinderungen angestellt werden dürfen. Zudem sollen die Prädi-
+kanten jährlich auf der Synode Rechenschaft abgeben und sich dem Urteil bzw. der
+Zensur derselben unterwerfen (vgl. Abschied der zu Davos versammelten Ratsboten
+Gemeiner III Bünde, 1. November 1552, in: Materialien zur Standes- und Landesge-
+schichte Gem. III. Bünde, 246f. [= Bundi, Gewissensfreiheit, 272f.]).
+
+6 Diese Angaben genügen nicht, um definitiv zu sagen, welcher »libellus« von Re-
+nato in der Synode verlesen worden ist. Es legt sich aber nahe, dass es sich um den
+Trattato del battesimo e della santa cena (1547) handelte (vgl. Renato, Opere, 93–108,
+291–297).
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+59
+
+stitutis synodi nostrae7 in Foederibus, quas ut legere et cognoscere
+et iudicare velis, rogamus omnes.
+
+Interim vale, virorum nobis observandissime. Nova de rebus bel-
+licis ex Italia dicet tibi hic, si rogaris. Interim vale iterum. Ex Curia
+Rhetiarum, die 12. decembris anni 1552.
+
+Tui Ioannes Comander8 et Philippus Gallicius.
+
+[Adresse:] Vere magno viro D. Heinricho Bullingero, domino ac
+fratri suo etc. Tiguri.
+
+3
+
+Johannes Comander und Philipp Gallicius
+
+an Heinrich Bullinger
+Chur, 6. März 1553
+
+Autograph (Gallicius): Zürich StA, E II 365, 123f.
+
+(Siegelspur)
+
+Gedruckt:1 Schiess, Korrespondenz, Bd. 1, 288f., Nr. 206
+
+Comander und Gallicius haben den Brief erhalten, in welchem Bullinger Vergerio sowie
+die gefährliche Hartnäckigkeit der Synodalen thematisiert. Klage über den undankbaren
+Geiz der bündnerischen Gemeinden: Einst gaben sie freiwillig 100 goldene Kronen für
+Lügen, heute geben sie denen, die die Wahrheit predigen, schäbige 20 Kronen. Obwohl
+die Prädikanten betonen, dass sie davon nicht leben könnten, glaubt man ihnen nicht.
+Einige werden zwar in die Schule geschickt, doch es sind wenige, die die schönen Künste
+zu studieren begehren, obwohl man es nicht unterlässt, die Gemeinden zu ermahnen.
+Doch dies ist ja Bullinger bereits bekannt. – Vergerio und andere Italiener widerstreben
+einer Synodalordnung. Alle Amtsbrüder bitten aber, dass Bullinger dieselbe lese und,
+wenn Verbesserungen notwendig seien, Bullinger sie nennen möge. Die Ordnung schi-
+cken sie aber erst, wenn Bullinger sich erholt hat. Das Büchlein sei von bescheidenem
+Umfang, so dass Bullinger es in zwei Stunden lesen werde. – Den Brief an Vergerio, den
+Gallicius von Bullinger erhalten hat, hat er sogleich an Johannes Travers gesandt, der
+auch informiert darüber ist, wie sie Vergerio in seiner Arbeit gegen die Papisten beraten
+haben. Vergerio ist nun aus dem Veltlin ins Engadin gekommen; allerdings befürchten
+sie, dass er zu heftig vorgehe. Lebewohl. – Tod des französischen Gesandten Jean
+Jacques de Castion.
+
+7 Dies ist der erste Hinweis darauf, dass Gallicius damit beschäftigt ist, die Syno-
+
+dalordnungen zu verfassen, die dann Bullinger, nach der Zusendung, prüfen soll.
+
+8 Johannes Comander hat nicht selbst unterschrieben.
+
+1 Teildruck: De Porta, Historia, Bd. 1/1, 180; Bd. 1/2, 191f.
+
+60
+
+Jan-Andrea Bernhard
+
+S. Literas tuas accepimus, vir humanissime, quibus Vergerio re-
+scribis ac nobis conquerens de perniciosa nostrorum tenacitate.2
+Certe crudeliter in se ipsos sunt avari, dum bonis pastoribus carere
+malunt quam numerare, quibus illi possint vivere. Proh hominum
+ingratitudinem! quibus olim pro mendaciis centum aureorum co-
+ronatorum liberaliter dabant, iis nunc pro veritate, quam praedi-
+cant, maligne persolvunt viginti. Nos quidem hoc ipsum clamamus
+ubique et, quibuscumque possumus modis et quotiescunque datur,
+omnibus inculcamus: fore propediem, ut neque concionatores ne-
+que missatores sint habituri. Sed surdo, quod dicitur, narramus
+fabulam.3 Mittunt quidem nonnulli liberos suos in scholas, sed ut
+discant legere possintque rationes suas scribere; paucissimi sunt,
+qui liberos in bonis artibus cupiant erudiri.4 Nos tamen monere
+communitates nostras non desinemus. Haec et ante tibi dicta re-
+petimus, quod nunc alia, quae scribamus, prorsus nulla habeamus,
+tu tamen velis tibi responderi aliquid.
+
+Paravimus synodi nostrae instituta quaedam, quibus vehementer
+Vergerius et Itali apud nos refragantur. Fratres nostrates omnes
+rogant, ut legas et, si quid emendandum putes, moneas. Nos nunc
+temporis non mittimus illa ad te, parcentes nimirum valetudini
+tuae, quod plene fortassis nondum revalueris;5 mittemus tamen,
+quam primum intellexerimus te robustiorem factum. Ne tamen
+deterrearis magnitudine libelli. Opellam diei unius vix sibi depos-
+cunt; duabus enim horis poteris totum perlegere, imo minore spa-
+tio.
+
+2 Im Brief, der nicht erhalten ist, muss unter anderem thematisiert worden sein, dass
+Vergerio und einige Italiener keine verpflichtende Synodalordnung annehmen wollten,
+die Mehrheit der Synodalen hingegen eine solche beschlossen hatte; Gallicius versuchte
+nun zwischen den beiden Parteien zu vermitteln.
+
+3 Über die schlechte Bezahlung berichten Comander und Gallicius bereits im Brief
+
+vom 12. Dezember 1552, vgl. oben Brief 2.
+
+4 Tatsächlich ist es eine bescheidene Anzahl von Bündnern, die bis Mitte des 16.
+Jahrhunderts ihre Studien in Zürich oder Basel, geschweige denn an Universitäten des
+deutschen Reiches, absolvierten. Leider ist eine umfassende Untersuchung der Studen-
+tenbewegungen (»Peregrination«) aus den Drei Bünden noch ein Desiderat der For-
+schung; um so dankbarer sind wir über Studien von Janett Michel, Jakob Rudolf Truog,
+Fritz Jecklin, Oskar Vasella, Conradin Bonorand oder Felici Maissen (Literatur dazu in:
+Bernhard, Reformation and Confessionalization).
+
+5 Zur Erkrankung Bullingers vom 13. Dezember 1552 bis 17. Januar 1553 siehe
+
+oben S. 46, mit Anm. 35.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+61
+
+Vergerii
+
+literas statim, ut accepi abs te, misi ad Ioannem
+Traversium,6 qui illi redderet una cum aliis, quas nos Vergerio in
+auxilium contra papistas scripsimus. Secesserat enim Vergerius in
+Ingadinam7 ex Valle Tellina, homo certe plus satis vehemens nostro
+iudicio; ita enim timemus. Tu interim vale in domino Iesu, vir hu-
+manissime, nosque redamare perge. Datum Curiae, die 6. marcii
+anni 1553.
+
+Tuae integritatis toti Iohannes Com[ander]8,9 Philippus Gallicius.
+
+Has cum scripsissemus literas, nuntiatur certo legatum regis Gallo-
+rum hic, D. Ioannem Iacobi Castilioneum,10 mortuum esse, et certe
+mort[uus est]11. Aiunt cras ductum iri ex urbe nostra in castrum
+suum sepultum.
+
+6 Der humanistisch gebildete Politiker Johannes Travers (1483–1563) stand mit
+vielen Gelehrten seiner Zeit in Korrespondenz und unterstützte indirekt die Reform-
+ideen in den Drei Bünden, obwohl er selbst erst im Laufe des Frühjahrs 1552 – nach der
+Lektüre einer Schrift Calvins (vgl. Heinrich Bullinger an Johannes Travers, 27. Novem-
+ber 1551, in: Schiess, Korrespondenz, Bd. 1, Nr. 169; Johannes Travers an Heinrich
+Bullinger, 21. Juli 1553, in: Schiess, Korrespondenz, Bd. 1, Nr. 214) – die Messe nicht
+mehr besuchte, sich offen zur Reformation bekannte und die Durchführung derselben
+im Oberengadin aktiv unterstützte (vgl. HBBW, Bd. 9, Zürich 2002, 62; Pfister, Kon-
+fessionskirchen, 113; Conradin Bonorand, Vadian und Graubünden: Aspekte der Per-
+sonen- und Kommunikationsgeschichte im Zeitalter des Humanismus und der Refor-
+mation, Chur 1991 [Quellen und Forschungen zur Bündner Geschichte 3], 121f.; Con-
+stant Wieser, Johann Travers 1483–1563, in: Bedeutende Bündner aus fünf Jahrhun-
+derten, hg. von der Graubündner Kantonalbank, Bd. 1, Chur 1970, 43–61).
+
+7 Vergerio verhalf der Reformation im Oberengadin seit 1551 zum Durchbruch, so
+unter anderem in Samedan, Bever, Pontresina, Silvaplana und Sils im Engadin (vgl.
+Bonorand, Emigration, 96–98, 104).
+
+8 Textverlust.
+9 Der ganze Brief, inklusive Nachtrag, ist von Gallicius geschrieben worden, der
+Name Comanders hat Gallicius allerdings mit anderer Tinte, wohl nach der Einsicht-
+nahme des Briefes durch Comander, nachräglich eingesetzt; mit der gleichen Tinte ist
+auch der Nachtrag geschrieben worden.
+
+10 Der mailändische Diplomat Jean Jacques de Castion (gest. 6. März 1553) war
+zwischen 1536 und 1553 französischer Gesandter bei den Drei Bünden; 1541 erwarb er
+die Herrschaft Haldenstein, ließ 1544–48 ein neues Schloss errichten und stellte 1549
+die Herrschaft unter Schutz und Schirm der sieben eidgenössischen Orte (vgl. HLS, Bd.
+3, Basel 2004, 239).
+
+11 Textverlust.
+
+62
+
+Jan-Andrea Bernhard
+
+[Adresse:] Vere magno viro D. Heinricho Bullingero, domino ac
+fratri suo colendissimo. Tiguri.
+
+4
+
+Johannes Comander und Philipp Gallicius
+
+an Heinrich Bullinger
+Chur, 22. April 1553
+
+Autograph (Gallicius):1 Zürich StA, E II 365, 127–129
+
+(Siegelspur)
+
+Gedruckt:2 Schiess, Korrespondenz, Bd. 1, 294–297, Nr. 209
+
+Comander und Gallicius schicken endlich die Synodalordnung [Placita] und alle Amts-
+brüder bitten um Prüfung bzw. Korrektur derselben. Die Ausführlichkeit gewisser Ar-
+tikel liegt daran, dass manche Italiener – es gibt zwar solche, die rechtgläubig sind und
+sich ruhig verhalten – absonderliche Lehren vertreten. Sie glauben, dass alles in den
+heiligen Schriften enthalten sei und Bekenntnisse und Synodalordnungen darum nicht
+notwendig seien, gleichzeitig würden sie verdächtige, verkehrte und ketzerische Lehren
+vertreten. Gallicius (und Comander) weisen insbesondere auf solche hin, die die Trinität
+leugnen, die Jesus Christus die göttliche Natur absprechen, die das Opfer Christi als
+überflüssig betrachten, die Gott zum Urheber des Bösen machen sowie solche, die einen
+Libertinismus vertreten. Denen zufolge gebe es keine Hölle, und auch im Himmel sei
+niemand außer jener Verbrecher aus Lukas [23,43]. Explizit wird Francesco Calabrese
+erwähnt, dessentwegen [1544] eine Disputation [in Susch] stattgefunden hat. Einige
+Prediger ehren auch den Sonntag nicht, andere halten sich nicht an die anerkannte
+Taufliturgie, sondern benutzen eine eigene Formel. Schließlich wollen verschiedene
+Geistliche nicht an der Synode teilnehmen, um nicht den Anschein zu erwecken, die
+Synodalordnung [Fides ac placita synodi] angenommen zu haben. Einige haben keine
+Schulbildung, ja verstehen außer des Italienischen nichts. Letztere behaupten, dass ein
+guter Lehrer den Geist besitzen müsse, und nicht den Buchstaben, wie es auch in der
+Apostelgeschichte bezeugt sei. – Gallicius will abschließend einzig festhalten, dass jeder,
+der in die Drei Bünde komme, ein eigenes Bekenntnis mit zahlreichen zweifelhaften
+Ansichten habe. Darum war es notwendig, die Glaubensartikel und Verordnungen zu-
+sammenzustellen, deren Einhaltung Bedingung für die Aufnahme in die Synode sei. –
+Zudem soll Bullinger bedenken, dass die Drei Bünde paritätisch seien. Dem mussten sie
+bei der Abfassung des Bekenntnisses Rechnung tragen, indem sie der katholischen Kir-
+
+1 Eine autographe Abschrift aus dem Jahre 1555 findet sich als Beilage zur ältesten
+Handschrift der Fides ac placita synodi, der sogenannten Confessio Raetica, welche der
+Synodalmatrikel vorgeordnet ist (vgl. Chur SKA, B 1, 2r–5r); eine weitere Abschrift aus
+dem Jahre 1584, angefertigt von N[ikolaus] K[esel], Pfarrer in Castrisch und später in
+Sondrio Monte, findet sich in dem in der einleitenden Studie erwähnten Folio-Band des
+Stadtarchives Chur, enthaltend eine prachtvolle Abschrift Fides ac placita synodi, ver-
+schiedene die Synode betreffende Bundstagsbeschlüsse, sowie zwei Briefe (22. April und
+2. September 1553) von Gallicius an Bullinger (vgl. Chur Stadtarchiv, AB III/S 01.01).
+2 Erstmals vollständig gedruckt wurde der Brief, gleichfalls der Confessio Raetica
+
+vorgeordnet, in: De Porta, Historia, Bd. 1/2, 193–196.
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+63
+
+che keine Veranlassung geben durften, gegen das reformierte Bekenntnis vorzugehen. –
+Bullinger soll nun das Bekenntnis gewissenhaft lesen und korrigieren; in acht bis vier-
+zehn Tagen möge er es zurücksenden, den Empfang der Sendung solle er aber direkt
+bestätigen. – Gallicius und Comander bitten zudem um Auskunft über Joachim Gach-
+linger, aus Kempten, der kürzlich in den Drei Bünden angekommen sei. – Lebewohl. –
+Bitte um Übermittlung eines Briefes an Nikolaus Baling in Bern.
+
+S. Placita3 illa nostra, de quibus et ante scripsimus ad te, nunc
+tandem mittimus. Fratres te rogant omnes, ut digneris legere, nec
+hoc tantum, verum etiam ut corrigas, mutes et in4 his omnibus,
+quod patrem decet, agas. Te enim agnoscimus ac facile recipimus
+ut oculatiorem nobis et cui dominus longe maiorem prudentiam
+dederit quam multis aliis. Ne vero credas plura decreta nos san-
+xisse, quam sit necesse, aut enucleatius curiosiusve multa nobis
+posita, quam sit opus, scias super his omnibus, quae hic constitui-
+mus, nos iam saepe tentatos ab advenis, maxime omnium ab Italis
+quibusdam morosis5, quibus nihil fere placet, nisi quod sit rarum
+aut quod saltem a communi usu variet aut certe ab ipsis primo
+profectum. Propiores enim nobis sunt quam vobis, et cum his quo-
+tidie nobis agendum, imo et saepius conflictandum, etiamsi de om-
+nibus non loquamur. Nam novimus aliquot ex Italis etiam sanos in
+fide, quietos ac tranquillos; sed de perturbatis ingeniis hic conque-
+rimur. Confitentur omnes se credere, quaecunque contineantur in
+scripturis sanctis, adeo ut his nullis decretis nec ullis aliis clariori-
+bus verbis opus esse dixeris. Sed accuratius attentiusque examinati
+deprehenduntur aut prorsus importuni atque absurdi aut pestilen-
+tibus doctrinis infecti: subinde evomentes absona quaedam horren-
+daque paradoxa, ingenia redolentia corrupta distortaque. Alius
+sanctam illam trinitatem confiteri non vult; alius Christum esse
+
+3 Der Ausdruck Placita steht, wie auch später im Brief festgehalten, für Fides et
+
+placita synodi, umfassend das Bekenntnis (Fides) und die Synodalordnung (Placita).
+
+4 Wiederholt.
+5 Eigensinnig und unbequem (»morosi«) wurden die italienischen Emigranten ge-
+nannt, weil manche von ihnen, wie im Brief ausgeführt, nicht orthodoxe, sondern so-
+genannte nonkonformistische Lehrmeinungen vertraten, und darum auch eine Unter-
+schrift unter die Synodalordnungen ablehnten (vgl. Philipp Gallicius an Heinrich Bul-
+linger, 6. März 1553, oben Brief 3); Vergerio wehrte sich gleichfalls gegen eine Unter-
+schrift, weswegen es ihm schließlich leichter fiel, dem Ruf an den Hof des Herzogs
+Christoph von Württemberg schließlich doch noch Folge zu leisten (vgl. Briefwechsel
+zwischen Christoph, Herzog von Württemberg, und Petrus Paulus Vergerius, gesammelt
+und hg. von Eduard von Kausler und Theodor Schott, Tübingen 1875).
+
+64
+
+Jan-Andrea Bernhard
+
+deum aequalem patri affirmare non audet.6 Iste servatos nos gratia
+dei affirmat, non fuisse ergo opus Christi descensu in terras ad nos
+nec corpore eius sanguineque, cum soli gratiae dei totum salutis
+nostrae opus sit transscribendum; aliud acutius distinguens dicit
+servatos quidem nos non esse per corpus Christi pro nobis passum,
+sed per dolorem, quem senserit ille in corpore.7 Quidam constanter
+affirmant mala pravaque ex ipso deo, omnium fonte, esse ipsum-
+que deum non minus scelerate factis gaudere quam bonis et iis,
+quae cum virtute et bene fiant, quod nusquam non agunt atque
+disputant. Quorundam buccae nihil nisi praedestinationem cre-
+pant; hunc servari, etiamsi mala omnia operetur, contra illum non
+posse non damnari, credat, quicquid velit, atque etiam operetur
+bona omnia.8 Non defuerunt, qui dicerent infernum esse nullum,
+etiamsi sint poenae malis constitutae, et in coelis hominum esse
+neminem praeterquam latronem illum, de quo in evangelio Lucae.9
+Huiusmodi disputare non puduit Calabrum10 quendam in Ingadina
+in publico ad hoc convocato conventu.11 Non desunt hodie ex iis,
+qui sunt concionatores, qui dominicam diem egre recipiant; sunt,
+qui articulos hic nostros de baptismo vehementer abominentur nec
+
+6 Es ist insbesondere an solche Italiener zu denken, die die Trinität ablehnten, wie
+z.B. Lelio Sozzini oder Camillo Renato (vgl. Bonorand, Emigration, 141–144.
+153–157).
+
+7 Es sind vor allem Italiener angesprochen, die zum Opfertod Christi eine kritische
+Haltung einnahmen, wie z.B. Francesco Stancaro oder Francesco Negri (vgl. Bonorand,
+Emigration, 145–152).
+
+8 Damit sind verschiedene italienische Richtungen gemeint, die das göttliche Erbar-
+men nicht beschränkt sehen wollten, also eine eher universalistische Heilslehre vertra-
+ten, wie z.B. Celio Secondo Curione oder Giorgio Siculo (vgl. Bonorand, Emigration,
+139–141, 157f.).
+
+9 Lk 23,43.
+10 Francesco Calabrese, der libertinische und täuferische Ansichten vertrat, kam
+1542 in das Hoheitsgebiet der Drei Bünde und predigte in Ftan; seinetwegen fand
+schließlich in Susch eine Disputation statt, die zwar nur eine innerprotestantische An-
+gelegenheit war, dennoch aber auch von katholischen Geistlichen aus dem Vinschgau
+besucht worden ist (vgl. Pfister, Konfessionskirchen, 120; Dalbert, Reformation,
+17–19).
+
+11 Das Protokoll der Disputation von 1544 ist leider nicht mehr erhalten, so dass
+sich unser Wissen auf Campell stützt, der die Disputation selbst miterlebt hat: Auf der
+Disputation konnte zwar Francesco Calabrese seine Lehre verteidigen, doch seine An-
+sichten wurden nach zwei Tagen verworfen und er wurde durch die weltlichen Behörden
+aus den Drei Bünden und dem Tirol ausgewiesen (vgl. Campell, Historia Raetica,
+296–307; De Porta, Historia, Bd. I/2, 67–76; Petrus Dominicus Rosius a` Porta: Col-
+loquium inferioris Oengadinae, Chur Staatsarchiv, B 1500 b, Nr. 2).
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+65
+
+recipere velint. Certe eo redigi per nos non possunt, ut baptizantes
+nostra forma aut vestra, qua vos in ecclesia vestra utimini, utantur
+et ipsi; sed quilibet illorum proprium habet modum baptizandi,
+quem sectetur magno laicorum, ut loquuntur isti, scandalo.12 Qui-
+dam esse nolunt in nostro consortio ac capitulo, ne videantur fi-
+dem et placita haec nostra recipere. Habemus etiam inter nos con-
+cionatores, qui nullam unquam scholam viderunt nec aliud in li-
+teris norunt bonis quam Italice legere, Latini autem sermonis aut
+Germanici ne verbum quidem intelligunt.13 Istis qui favent, cla-
+mant: Apostolos etiam fuisse illiteratos et idiotas teste in Actis
+apostolorum Luca, ac spiritum requiri, ut quis bene doceat, non
+literam, quam dicat apostolus occidere.14
+
+Et ne omnia persequamur: vix credis, quam quilibet ad nos ve-
+niens aliquid novi secum adferat, quo se commendet ac conspicu-
+um faciat, et propriam confessionem unusquisque fere nobis offert,
+quam approbemus atque recipiamus, verbis conscriptas nonnun-
+quam novis, ambiguis, captiosis et in universum non satis fidis.
+Huiusmodi igitur cum saepenumero pervenerint ad nos, visum est
+fidem et decreta nostra brevibus perscribere, ut, qui aliunde vene-
+rint ad nos, audiant fidem nostram necnon et causas singulorum a
+nobis decretorum, ad haec quid requiramus ab ipsis, si recipi velint
+in nostrum consortium.
+
+Accipe et hoc: Magistratus in nostris Foederibus unius fidei non
+est;15 quod in his statuendis in memoria nobis fuit habendum, ne
+
+12 Im Hintergrund steht unter anderem ein Vorfall aus Chiavenna, als Francesco
+Negri im September 1548 begehrte, dass sein soeben geborenes Kind von Mainardo auf
+sein, Negris eigenes Bekenntnis, das aber von Comander und Blasius gutgeheißen wor-
+den war, getauft werde – dies hatte Mainardo entschieden abgelehnt (vgl. Agostino
+Mainardo an Heinrich Bullinger, 22. September 1548, in: Schiess, Korrespondenz, Bd.
+1, Nr. 102); vgl. Bernhard, Negri, 104f.
+
+13 Die Kenntnis der lateinischen und der deutschen Sprache waren im dreisprachigen
+Dreibündestaat für die synodale als auch bundstägliche Kommunikation essentiell. Am
+Bundstag wurde mehrheitlich in Deutsch verhandelt, an der Synode war die Verhand-
+lungssprache bis zu Beginn des 19. Jahrhunderts das Lateinische. In der von Nikolaus
+Kesel angefertigten Abschrift der Confessio Raetica von 1584 wird dies bestätigend
+festgehalten: »In gratiam fratrum Italorum, omnes in veneranda Synodo, Latinam lin-
+guam callentes, latine. Si quid proponere voluerit, loquantur.« (Fides ac placita synodi
+[...], 1584, Chur Stadtarchiv, AB III/S 01.01, 23).
+
+14 Unter den reformatorischen Bewegungen Italiens waren spiritualistische Ansichten
+– begründet damit, dass auch die ersten Christen gemäß den Apostelakten keine Buch-
+stabentreue gekannt hätten (vgl. Apg 2,6–12 und Apg 4,13) – recht verbreitet.
+
+66
+
+Jan-Andrea Bernhard
+
+quam ansam calumniandi aut saeviendi daremus iis, qui nos nos-
+traque odio prosequuntur.
+
+Tu itaque pro tua fide et integritate haec lege et corrige. Libellum
+autem nobis non remittas, donec ipsi certo nuntio eum a te repe-
+tierimus post octo vel quindecim dies. Interim tamen rogamus, ut
+rescribas aliquid hoc ipso nuntio, quo certi simus, reddita esse tibi
+haec nostra. Scripsimus ad te ante 15 dies; nescimus, an redditae
+sint tibi literae.
+
+Petieramus, ut clam nobis scriberes, qualis vir esset Ioachimus
+Gachlinger; vestratem enim se esse gloriatur ac concionatorem
+egisse Campidonae;16 huc venit non multos ante dies. Parce proli-
+xitate; non potuimus non scribere haec ad te et curas nostras in
+tuum sinum velut in consultoris fidissimi effundere. Nova hic pe-
+nitus nulla feruntur.
+
+Vale in domino Iesu, vir maxime, una cum aliis doctissimis et
+optimis istic viris ac nos redamare non desine. Datum Curiae Rhe-
+tiarum, die 22. aprilis anni 1553.
+
+Tui Ioannes Comander17 et Philippus Gallicius iussi
+a fratribus Christum in Foederibus praedicantibus.
+
+Accepimus literas a te missas, et hasce mittere digneris, si com-
+mode poteris, ad dominum Nicolaum Bernam.18
+
+15 Durch die Ilanzer Artikel (1526), die den Gemeinden das Recht einräumten, ihre
+Geistlichen zu wählen und zu entlassen, wurde die Parität geschaffen (vgl. oben S. 41).
+16 Joachim Gachnang, genannt Gachlinger, stammte aus Elgg, und nicht aus Kemp-
+ten, wie er den Bündnern vorgegeben hatte. Er suchte eine Pfarrstelle in Bünden, berei-
+tete den Bündnern aber nicht weniger Sorge als den Zürchern, wie Johannes Fabricius
+1558, nachdem Gachlinger verstorben war, an Bullinger meldete: »[...] hat vylenmalen
+syn ee brochen, jaa, gar nie gehalten.« (Johannes Fabricius an Heinrich Bullinger, 9.
+Mai 1558, in: Schiess, Korrespondenz, Bd. 2, Nr. 82; vgl. HBBW, Bd. 6, Zürich 1995,
+437).
+
+17 Die Unterschrift ist von Comander selbst, auch der Nachtrag stammt aus Co-
+
+manders Feder.
+
+18 Nikolaus Baling (»Pfister«, gest. 1553) aus Württemberg konnte 1527 dank
+Zwinglis Empfehlung in Chur die Leitung der Stadtschule übernehmen, wechselte aber
+1539 an die Lateinschule St. Nikolai; infolge einer Auseinandersetzung mit Simon Lem-
+nius verliess er 1542 Chur und wirkte seit 1546 in Bern, das ihn bereits 1528 erstmals
+berufen hatte, als Vorsteher, später als Rektor des Barfüßerkollegiums (vgl. HBBW, Bd.
+5, Zürich 1992, 408f.; Jenny, Comander, Bd. 1, 247–250; Schiess, Korrespondenz, Bd.
+1, XXXVIII–XLII).
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+67
+
+[Adresse:] Vere magno viro D. Heinricho Bullingero, domino ac
+fratri suo colendissimo.19
+
+5
+
+Philipp Gallicius an Heinrich Bullinger
+
+Chur, 6. Juni 1553
+
+Autograph: Zürich StA, E II 365, 143f. (Siegelspur)
+
+Gedruckt:1 Schiess, Korrespondenz, Bd. 1, 297f., Nr. 211/1
+
+Die Synodalen lassen Bullinger für die Prüfung der Synodalordnung danken. Gallicius
+will die definitive Fassung erst schicken, wenn sie von allen gutgeheißen worden ist. Die
+Italiener haben zwar alle die Ordnung angenommen, obwohl sie bei drei Artikeln Kritik
+übten: beim ungesäuerten Brot [beim Abendmahl], bei den Taufzeugen bei der Taufe,
+und dass der Vater sein eigenes Kind nicht taufen dürfe. Die Synodalen haben die
+Italiener aber zu Eintracht und Frieden ermahnt. Darum mögen sie niemandem, der
+Taufzeugen erwünsche, es verwehren, mögen sie gesäuertes Brot essen, wenn sie unge-
+säuertes nicht mögen, schließlich dürfe aber ein Vater seine Kinder nur taufen, wenn es
+die Notwendigkeit erfordere. Zudem haben die Synodalen auch die Taufformel in die
+Ordnung aufgenommen, die in Zürich wie in den Drei Bünden gleich gebraucht werde.
+– Der neue französische Gesandte [Jean Moustiers Du Fraisse], der ein gelehrter und
+loquenter Mann ist, hat Comander und Gallicius zum Nachtessen eingeladen. Er las
+auch [reformierte] Bücher, so dass gleichfalls maßvoll über den Glauben diskutiert
+worden ist. Du Fraisse hat in Wittenberg bei Luther und Melanchthon gelebt; Gallicius
+kennt allerdings die heuchlerische Art der Höflinge, geht aber nicht davon aus, dass Du
+Fraisse gegen das Evangelium handle. – In Lyon sind am 16. Mai vier Personen, angeb-
+lich Berner, wegen ihres Glaubens verbrannt worden. – Lebewohl. Travers ist krank
+gewesen.
+
+S. Fratres omnes, qui in his nostris nundinis hic congregati fue-
+runt,2 gratias tibi egerunt ingentes, quod placita nostra dignatus sis
+legere, nosque super illis monueris tam humaniter.3 Facis, quod
+humanum et pium virum decet. Exemplar nolui tibi scribere, donec
+prius esset denuo receptum ab omnibus; nunc describere incepi
+mittamque propediem. Itali omnes receperunt, videbantur tamen
+minus propenso animo recipere. Tribus tamen articulis aperte re-
+clamarunt: azymo pani, compatribus in baptismo et quod pater
+
+19 Daneben von Bullingers Hand: »D. Ioan. Coma. Philip. Gallicii 1553«.
+
+1 Teildruck: De Porta, Historia, Bd. 1/2, 226f.
+2 Die Frühjahrssynode hat Ende Mai bzw. Anfang Juni stattgefunden (vgl. oben S.
+
+50).
+
+3 Nicht erhalten.
+
+68
+
+Jan-Andrea Bernhard
+
+infantis ipse eum non baptizet; hos recipere noluerunt. Nos mo-
+nuimus homines, ut sequantur, quae sunt pacis et aedificationis, et
+ut resistere nolint ei, qui compatres accipere voluerit;4 pane utantur
+cibario, si nolint azymo;5 articulum denique, ne pater baptizet suos
+infantes, non temere esse positum a` nobis neque praeter necessi-
+tatem, hoc maxime seculo.6 Dimisimus tamen illos aequiores, nisi
+quod dicunt vestram baptizandi formam esse prolixiorem, quum
+nostra adhuc prolixior sit.7 Manebunt tamen in officio; ita enim
+promiserunt nobis discedentes bono animo.
+
+Legatus, qui hic nomine regis Gallorum,8 invitavit ad coenam
+patrem Comandrum et me; ivimus, coenavimus, audivimus homi-
+nem satis loquentem, animadvertimus doctissimum esse virum at-
+que etiam Gre˛ce peritum. Legit nostrorum libros etiam tenetque
+exactissime: de fide loquitur modeste et circumspecte. Olim iunior
+aliquandiu vixit Wittembergae admodum familiaris Lutero Melan-
+chthonique et nunquam non testatur esse bonos viros. Scio aulicos
+esse vafros ac versipelles; attamen hunc pugnare contra evangelium
+persuaderi mihi non patiar. Quum plura scierimus, plura scribe-
+mus.
+
+Audio regem Gallie˛ die 16. Mai combussisse Lugduni quatuor
+
+christianos propter fidem; illi dicebant se esse Bernenses.9
+
+4 Die Einigung konnte dadurch erreicht werden, dass nicht formuliert wurde, dass
+Taufzeugen notwendig seien, sondern dass es lobenswert sei, Taufzeugen zu bestellen
+(vgl. Art. 44 der Confessio Raetica, in: Busch, Confessio Raetica, 271).
+
+5 Die Einigung konnte dadurch erreicht werden, dass formuliert wurde, dass das
+Abendmahl mit ungesäuertem Brot gefeiert werden soll, wenn solches irgendwie erhält-
+lich sei (vgl. Art. 48 der Confessio Raetica, in: Busch, Confessio Raetica, 271).
+
+6 Hier ist deutlich zu Ungunsten der Italiener entschieden worden, nämlich dass der
+Vater seine Kinder nur taufen dürfe, wenn absolut kein anderer Geistlicher zu bekom-
+men sei (vgl. Art. 39 der Confessio Raetica, in: Busch, Confessio Raetica, 270).
+
+7 Vgl. Art. 44 der Confessio Raetica, in: Busch, Confessio Raetica, 270.
+8 Jean des Moustiers Du Fraisse (gest. 1568), Bischof von Bayonne, war der neue
+französische Gesandte bei den Drei Bünden vom April 1553 bis Dezember 1554. Wäh-
+rend dieser Zeit pflegte Bullinger eine rege Korrespondenz mit Du Fraisse (vgl. Andre´
+Bouvier, Henri Bullinger: re´formateur et conseiller oecume´nique, d’apre`s sa correspon-
+dance avec les re´forme´s et les humanistes de langue franc¸aise, Neuchaˆtel 1940,
+227–244; Schiess, Korrespondenz, Bd. 1, XLVIII–L).
+
+9 Am 16. Mai 1553 wurden fünf aus Genf stammende Theologiestudenten – Gal-
+licius spricht allerdings von vier aus Bern stammenden Personen – als Ketzer auf dem
+Scheiterhaufen verbrannt. Sie waren um Ostern 1552 nach Lyon gekommen, weil sie
+dort das Evangelium im Geist der Reformation verkündigen wollten. Die zahlreichen
+Gnadengesuche bei König Heinrich II. führten zwar zu einem Aufschub, konnten aber
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+69
+
+Vale, vir observandissime. Salutat te Comander et amici. Tra-
+versus10 se expurgat, quod diu invalidus fuerit; certe nos eum hic
+non vidimus multo iam tempore, nec usquam prorepit. Ex Curia,
+die 6. Iunii 1553.
+
+Tuus totus Philippus.
+
+[Adresse:] Vere magno viro D. Heinricho Bullingero, domino ac
+fratri suo colendissimo. Tiguri.
+
+6
+
+Philipp Gallicius an Heinrich Bullinger
+
+Chur, 2. September 1553
+
+Autographe Abschrift:1 Chur SKA, B 1, 86f.
+
+Ungedruckt
+
+Gallicius schickt an Bullinger das bereits seit langem verlangte Glaubensbekenntnis und
+die Synodalordnungen. Diese sind von den Prädikanten und den Ratsboten gebilligt
+worden, insbesondere auch darum, weil Bullinger sie gutgeheißen hat. Dennoch erhebt
+sich Widerspruch von eigensinnigen Geistlichen, die aber die besonderen Umstände
+nicht bedenken. Wegen gewisser Kleinigkeiten machen sie einen großen Lärm, und brin-
+gen damit das ganze Werk in Gefahr. Bullinger wisse aber aus früheren Briefen von
+Gallicius, warum es notwendig war, ein Bekenntnis zu verfassen. Der Mangel an Ele-
+ganz möge Bullinger nicht verwundern, da er ja wisse, dass er, Philipp [Gallicius], der
+Verfasser sei, also kein Redner, sondern ein Theologe. Gallicius hält sich dabei an das
+Wort von Manilius, dass das Schmücken der Sache nicht notwendig sei, wenn nur die
+Sache unterrichtet werde. Lebewohl.
+
+S. Fidei confessionem et placita synodi nostrae,2 quae tibi a` me
+descripta mitti petiisti, habes hic tandem vir maxime.3 Nostratibus
+
+die Verurteilung durch Kardinal Franc¸ois II. de Tournon nicht verhindern (vgl. Johann
+Jakob Wick: Sammlung von Nachrichten zur Zeitgeschichte, Zürich Zentralbibliothek,
+Ms F 24, 3f.).
+
+10 Siehe oben S. 61, Anm. 6.
+
+1 Wie bereits mehrfach erwähnt ist dieser Brief der ältesten Handschrift der Fides ac
+placita synodi (1555) nachgeordnet (vgl. Chur SKA, B 1, 86f.); gleichfalls ist eine Ab-
+schrift von Nikolaus Kesel aus dem Jahre 1584 in dem erwähntem Folio-Band des
+Stadtarchives Chur erhalten (vgl. Chur Stadtarchiv, AB III/S 01.01).
+
+2 Vgl. Fides ac placita synodi Evangelium Christi in tribus Rhetiae Foederibus prae-
+
+dicantium, Chur SKA, B 1, 1–84.
+
+3 Auch in den einleitenden Notizen zur Abschrift des Briefes hält Gallicius fest, dass
+er diesen Brief an Bullinger geschickt hätte, weil Bullinger die definitive Synodalordnung
+zu haben begehrt hätte: »Horum articulorum omnium exemplum privatum sibi describi
+
+70
+
+Jan-Andrea Bernhard
+
+ecclesiastis nec non et primoribus4 qui audierunt omnibus placent:
+vel eo etiam maxime quod tu non improbas. Refragantur tamen
+morosi5 quidam, quos nosti, opinor, quod hic nihil placeat nisi
+quod sit aut immodicum, aut severitate et rigore illo stoico rigens
+et horrendum. Qui tamen si Locum perpenderent in quo sumus
+atque versamur, et auditores quos habemus, caeterasque circum-
+stantiarum rationes, prudentibus in omni negotio considerandas,6
+huiusmodi inquam si cogitarent, his minus reclamarent: nec prop-
+ter minutula quaedam non impia, magna commoverent, turbisque
+minime necessariis omnia miscerent, magno fortassis periculo rei
+totius perdenda. Quid nos coe¨gerit hoc constituere intellexisti ex
+prioribus meis litteris.7 Quod elegantia non sint, non miraberis, si
+conscripta noris a Philippo tuo. Theologus esse volui, non orator.8
+Tuebor etiam inertiam meam, Manilii illo:9 Ornari res ipsa negat,
+contenta doceri.10 Vale Ex Curia die 2 sept: 1553.
+
+mittique a me petiit Vere magnus ille Heinr. Bullingerus, descripsi ergo misique illi cum
+epistula hac.« (Chur SKA, B 1, 86).
+
+4 Auch Campell hält fest, dass im Herbst 1553 ein Bundstag die Synodalordnung
+bestätigt habe (vgl. Campell, Historia Raetica, 309). Zeitgenössische Akten und Urkun-
+den, außer dem Brief von Gallicius, berichten darüber allerdings nichts (vgl. Bundi,
+Gewissensfreiheit, 51, 209).
+
+5 Vgl. oben S. 63, Anm. 5.
+6 Mit den besonderen Umständen meint Gallicius, dass die Drei Bünde inklusive
+Untertanenlande infolge verschiedener Sprachen und Talschaften mit unterschiedlichen
+Traditionen und Kulturen sich nicht mit anderen staatlichen Gegebenheiten vergleichen
+lassen würden. Eine gute Einführung in diese »besonderen Umstände« gibt Randolph C.
+Head, Jenatschs Axt: Soziale Grenzen, Identität und Mythos in der Epoche des Dreis-
+sigjährigen Krieges, Chur 2008 (Cultura alpina 5), 27–35.
+
+7 Es ist an die Briefe vom 12. Dezember 1552, 6. März, 22. April und 6. Juni 1553
+
+zu denken.
+
+8 Das ist wohl eher falsche Bescheidenheit von Gallicius, denn es ist bekannt, dass,
+als Gallicius im Februar 1554 ins Engadin gerufen wurde, die Gläubigen aus dem gan-
+zen Tal herbeiströmten, um seine Predigten zu hören (vgl. Schiess, Gallicius, 25f.); vgl.
+Philipp Gallicius an Heinrich Bullinger, 12. März 1554, in: Schiess, Korrespondenz, Bd.
+1, Nr. 253.
+
+9 Marcus Manilius (1. Jh.) verfasste die Astronomicon libri V, ein Gedicht, das die
+aktuelle Sichtweise der Zeit über die Astronomie repräsentiert (vgl. Marcus Manilius,
+Astronomica – Astrologie. Lateinisch – Deutsch, hg. von Wolfgang Fels, Stuttgart 1990).
+10 Dieser Vers stammt aus Manilius’ Astronomicon (III, 39) und ist unter Humanis-
+ten und Reformatoren häufig gebraucht worden. Giovanni Pico della Mirandola zitierte
+den Vers z.B. in seiner Schrift De ente et uno, und Zwingli hat in seiner persönlichen
+Ausgabe gar die betreffende Stelle unterstrichen (vgl. Irena Backus, Randbemerkungen
+Zwinglis in den Werken von Giovanni Pico della Mirandola, in: Zwingliana 18/4–5
+[1990–1991], 303).
+
+Briefe an Heinrich Bullinger im Blick auf die »Confessio Raetica«
+
+71
+
+Jan-Andrea Bernhard, Dr. theol., Privatdozent für Kirchengeschichte, Universität Zü-
+rich
+
+Abstract: The Raetian Confession of 1552/53 took shape during the Reformation in the
+context of Italian emigration to Grisons. The synod was obliged to write a binding
+order due to debates with the Italian non-conformists. Philipp Gallicius regularly con-
+sulted Heinrich Bullinger as he wrote the order. A hitherto forgotten letter from Gal-
+licius to Heinrich Bullinger that is occasionally even considered to be fictitious, in
+addition to other important letters written between 1522 and 1552, shed new light on
+the formation, writing, and reception of the Raetian Confession, and challenges pre-
+vious research conclusions.
+
+Schlagworte: Philipp Gallicius, Pier Paolo Vergerio, Heinrich Bullinger, Confessio Rae-
+tica, Evangelisch-rätische Synode, Drei Bünde, Italien, Nonkonformismus, Reformato-
+rische Emigration, Konfessionalisierung
+
+

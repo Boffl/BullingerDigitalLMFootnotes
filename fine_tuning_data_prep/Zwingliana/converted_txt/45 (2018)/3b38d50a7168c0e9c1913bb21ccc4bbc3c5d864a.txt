@@ -1,0 +1,3282 @@
+ISSN 0254–4407 – Zwingliana 45 (2018), 365–435
+
+Die Bücherzensur in der Schweiz
+von der Reformation bis 1600
+
+Christian Scheidegger
+
+Buchdruck und Reformation stellten die Bücherzensur vor neue
+Herausforderungen. Die mittelalterliche Kirche bemühte sich be-
+reits im 15. Jahrhundert mit eher bescheidenen Erfolgen, den
+Druck und die Verbreitung theologischer Bücher zu kontrollieren.
+Fast schon verzweifelt und letztlich vergeblich versuchte sie im
+Kampf gegen Martin Luther und die wachsende reformatorische
+Bewegung, die massenhafte Vervielfältigung von Büchern und
+Flugschriften der theologischen Kritiker zu verhindern. In seiner
+Bulle Exsurge Domine drohte der Papst 1520 nicht nur Luthers
+Exkommunikation an, sondern verbot auch den Druck und die
+Lektüre seiner Schriften und befahl den zuständigen Bischöfen, die
+lutherischen Bücher zu konfiszieren und öffentlich zu verbrennen.
+Diese Vorgänge im Reich wurden in Zürich aufmerksam verfolgt.1
+Als eine Antwort auf die römischen Drohungen verfasste der Re-
+formator den Sendbrief an den Papst Leo X. und berief sich auf die
+Freiheit des Wortes Gottes: »Das ich aber solt widderruffen meyne
+lere, da wirt nichts auß […] datzu mag ich nit leyden regel oder
+masse, die schrifft außzulegen, Die weyl das wort gottis, das alle
+freyheyt leret, nit soll noch muß gefangen seyn.«2 Luther bean-
+spruchte keine Pressefreiheit, was für seine Zeit eine anachronis-
+
+1 Ulrich von Hutten, Ein Klag über den luterischen Brandt zuo Mentz, [Zürich:
+Christoph Froschauer, 1521], VD 16 H 6370, vgl. die Abbildung 36 im Beitrag von
+Lothar Schmitt in diesem Band.
+
+2 D. Martin Luthers Werke, Kritische Gesamtausgabe, Weimar 1897, Bd. 7, 9.
+
+366
+
+Christian Scheidegger
+
+tische Forderung gewesen wäre, sondern eine Verkündigungsfrei-
+heit, die in Gottes Wort gründet und die für den Gläubigen nicht
+verhandelbar ist. Die Verkündigung des Evangeliums kann und
+darf durch menschliche Gesetzgebung nicht aufgehalten werden.
+
+Obschon dem Thema der Zensur in vielen Publikationen eine
+gewisse Aufmerksamkeit geschenkt wird, gibt es für die Schweiz
+bisher nur wenige zusammenhängende Untersuchungen. Zu nen-
+nen sind die Arbeiten von Karl Müller, Hans Ulrich Bächtold, Al-
+ban Lüber und Ingeborg Jostock.3
+
+Der vorliegende Beitrag versucht auf der Grundlage der bereits
+geleisteten Forschung, eigener Quellenuntersuchungen und biblio-
+graphischer beziehungsweise druckanalytischer Recherchen, die
+Bücherzensur des 16. Jahrhunderts innerhalb der Eidgenossen-
+schaft in ihrem historischen Zusammenhang darzustellen. Unter-
+sucht wird dabei vorwiegend die Situation in den evangelischen
+Städten Zürich, Basel und Bern, wo es ein Druckgewerbe gab,
+während den katholischen Verbündeten vor allem als Kläger gegen
+protestantische Bücher Beachtung zukommt. Diese Geschichte dar-
+zustellen ist nicht ganz einfach, da es sich bei der untersuchten
+Bücherzensur im Wesentlichen um Einzeleingriffe handelte, von
+denen hier einige Dutzend kurz beschrieben sind. Der Buchmarkt
+war nicht, wie gelegentlich behauptet, einer rigorosen Zensur un-
+terworfen, denn die reformierten Obrigkeiten und Kirchen verzich-
+teten auf eine Bücherzensur im strengen Sinn des Wortes: weder
+wurden missliebige Druckerzeugnisse indiziert, noch wurden ent-
+sprechende Bücherverbote erlassen, wie dies von der römischen
+Inquisition im Zug der katholischen Reformen bekannt ist. Dage-
+gen gab es in Zürich, Basel und Bern eine Vorzensur, die nach
+Prüfung der ungedruckten Schriften eine obrigkeitliche Drucker-
+laubnis erteilte.
+
+3 Karl Müller, Die Geschichte der Zensur im alten Bern, Bern 1904; Hans Ulrich
+Bächtold, Heinrich Bullinger vor dem Rat: Zur Gestaltung und Verwaltung des Zürhcer
+Staatswesens in den Jahren 1531 bis 1575, Bern 1982; Alban Norbert Lüber, Studien
+zur Zensurpolitik der Stadt Basel in der zweiten Hälfte des 16. Jahrhunderts, Lizen-
+tiatsarbeit, Universität Basel 1994; Alban Norbert Lüber, Die Basler Zensurpolitik in
+der zweiten Hälfte des 16. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Al-
+tertumskunde 97 (1997), 77–141; Ingeborg Jostock, La censure ne´gocie´e: le controˆ le du
+livre a` Gene`ve, 1560–1625, Genf 2007 (Travaux d’Humanisme et Renaissance 430).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+367
+
+1. Die ersten Zensurkommissionen in
+
+Zürich, Basel und Bern
+
+Die Bildung von Zensurkommissionen in den eidgenössischen Or-
+ten hängt mit den Ereignissen im Reich zusammen. Kaiser Karl V.,
+der sich als Beschützer der Christenheit verstand, verhängte im
+Mai 1521 mit dem Wormser Edikt die Reichsacht über Luther und
+verbot die Verbreitung und Lektüre aller Schriften, die sich gegen
+die Kirche und den Papst richteten. Verfasser, Drucker und Händ-
+ler solcher Drucke sollten bestraft werden. Ferner sollten die ein-
+zelnen Territorien mit Hilfe der Bischöfe und Universitäten für alle
+ungedruckten Schriften die Vorzensur einführen.4 Statt die kaiser-
+lichen Beschlüsse zu übernehmen, bemühten sich die eidgenössi-
+schen Orte um eine eigenständige Berücksichtigung der päpstlichen
+Weisung. Nachdem der Nuntius die Eidgenossen bereits im No-
+vember 1520 dazu aufgefordert hatte, als Beschirmer der heiligen
+Kirche den Druck und die Lektüre der Lutherschriften zu verbie-
+ten, besprachen die Gesandten der eidgenössischen Tagsatzung am
+15. Dezember 1522 die wachsende evangelische Bewegung und
+einigten sich darauf, dass jeder Ort Massnahmen gegen die neue
+Verkündigung ergreifen solle.5 Mit den Vertretern von Zürich und
+Basel wurde ausserdem über eine Überwachung des Buchdrucks
+verhandelt, um das Erscheinen solcher neuen Bücher zu verhin-
+dern. Etwa zur gleichen Zeit beriet sich auch der Nürnberger
+Reichstag über eine Bücherzensur, nachdem sich das Wormser
+Edikt nicht einmal im Reich hatte durchsetzen lassen. Noch vor
+dem endgültigen Beschluss und dem offiziellen kaiserlichen Man-
+dat, das anders als im Wormser Edikt die Bücherzensur den welt-
+lichen Obrigkeiten übertrug, schrieb das Reichsregiment am 21.
+Januar 1523 an die Eidgenossen und fasste das vorläufige Ergebnis
+
+4 Ulrich Eisenhardt, Die kaiserliche Aufsicht über Buchdruck, Buchhandel und
+Presse im Heiligen Römischen Reich Deutscher Nation (1496–1806), Karlsruhe 1970,
+24–27.
+
+5 Amtliche Sammlung der ältern eidgenössischen Abschiede [EA], Bd. 4/1a: Die
+eidgenössischen Abschiede aus dem Zeitraume von 1521 bis 1528, bearb. von Johannes
+Strickler, Brugg 1873, 255, n (»[...] und insunders mit unsern Eidgenossen von Zürich
+und Basel geredt, daß sy by inen das drucken sölicher nüwen büechlin abstellen«). Zum
+Fürtrag des päpstlichen Nuntius vgl. EA 3/2, 1268, d.
+
+368
+
+Christian Scheidegger
+
+der Verhandlungen zusammen. Das Schreiben hatte indes keine er-
+kennbare Wirkung in der Eidgenossenschaft.6
+
+Als erster Ort führte Zürich eine Zensurkommission ein, nach-
+dem sich der Rat bereits zuvor mit der Verbreitung reformatori-
+scher Schriften auseinandersetzen musste. Am 29. Oktober 1522
+befragten die Ratsabgeordneten Heinrich Walder und Rudolf Bin-
+der den Buchdrucker Christoph Froschauer, der an der Frankfurter
+Buchmesse antiklerikale Flugschriften für den Weiterverkauf in
+Zürich erworben hatte. Froschauer rechtfertigte seine Geschäfte
+mit dem Hinweis, dass es kein Verbot bezüglich Buchdruck und
+-handel gebe (»dann im nie nützit zuo trucken oder zuo koufen
+verpotten syge«).7 Am 3. Januar 1523 bestimmte der Rat eine Zen-
+surkommission, die den Buchdruck überwachen sollte und die sich
+aus den genannten Ratsherren, dem Reformator Huldrych Zwingli
+und dem evangelisch gesinnten Chorherrn Heinrich Utinger zu-
+sammensetzte.8 Der Rat führte die von der eidgenössischen Tag-
+satzung vorgeschlagene Vorzensur ein, jedoch nur als ein formales
+Verfahren und nicht in der Absicht, die evangelische Verkündigung
+zu unterdrücken.
+
+Angesichts des Widerstandes und der Verketzerungen durch
+Zwinglis Gegner einerseits und der tumultartigen Predigtstörungen
+und anderen Provokationen durch Evangelische andererseits wur-
+de in derselben Sitzung beschlossen, eine öffentliche Disputation
+auszuschreiben, um die unsichere Lage zu klären. Die Erste Zür-
+cher Disputation am 29. Januar endete damit, dass der Rat Zwing-
+lis 67 Thesen bestätigte und das reformatorische Schriftprinzip als
+verbindlich für die kirchliche Verkündigung innerhalb seines Ter-
+
+6 Staatsarchiv Zürich [Zürich StA], E I 1.1, Nr. 14. Abdruck: Johann Jacob Wirz,
+Historische Darstellung der urkundlichen Verordnungen, welche die Geschichte des Kir-
+chen- und Schulwesens in Zürich, wie auch die moralische und einiger Massen die
+physische Wolfart unsers Volks betreffen, Bd. 2, Zürich 1794, 210–213. Vgl. auch Deut-
+sche Reichstagsakten unter Karl V., Bd. 3, bearb. von Adolf Wrede, Gotha 1901, Nr.
+79, 417–429 (Entwurf des Mandats, besonders S. 427, Anm. n) und Nr. 84, 447–452
+(Mandat vom 6. März 1523).
+
+7 Emil Egli, Actensammlung zur Geschichte der Zürcher Reformation in den Jahren
+
+1519–1533, Zürich 1879, 100f., Nr. 284.
+
+8 Egli, Actensammlung, 112, Nr. 319, und Zürich StA: B VI 249, 1 (»[…] sind
+verordnet zu besichtigen, alles das in der statt Zürich getruckt werden sol. Und sol mit
+dem trucker geredt werden und im ein empfelch geben, das er on dero will und wüssen
+nützit ze trucken understand, noch thüge«).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+369
+
+ritoriums erklärte. Mit diesem Urteil war die Rechtssicherheit wie-
+derhergestellt. Zu beachten ist, dass sowohl die Bildung der Zen-
+surkommission als auch die offizielle Anerkennung von Zwinglis
+Lehre politische Massnahmen waren, den Entscheidungen jedoch
+unterschiedliche Motive zugrunde lagen. Die Einrichtung einer Bü-
+cherzensur ist mehr auf den bundes- und aussenpolitischen Druck
+zurückzuführen.
+
+Über die praktische Tätigkeit der 1523 gebildeten Zensurkom-
+mission ist merkwürdigerweise fast nichts bekannt, da offizielle
+Akten und andere Quellen mit entsprechenden Hinweisen kaum
+überliefert sind. Als der Berner Rat im März 1528 Christoph Fro-
+schauer erlaubte, den Druck des offiziellen Protokolls der Berner
+Disputation für den Versand an die Frankfurter Messe vorzuberei-
+ten, knüpfte er die Bedingung daran, dass die Zensoren in Zürich
+(»üwer verordneten«) den fertigen Druck überprüfen, »damit in
+frömbde land nützit kome, das uns eren halb nachteilig sin möch-
+te«.9 Die strenge Überwachung bei der Drucklegung sollte garan-
+tieren, dass das Ansehen Berns im Ausland nicht durch Fehler oder
+durch eine polemische Zuspitzung in den Disputationsakten be-
+schädigt würde. Die Sorge der Berner ist nach den Fälschungsvor-
+würfen, die im Zusammenhang mit der Herausgabe des Badener
+Disputationsprotokolls erhoben worden waren, nachvollziehbar.10
+Die Zensoren Heinrich Engelhart und Heinrich Utinger bestätigten
+dem Berner Rat am 22. März, dass sie den Druck in Ordnung
+befunden hätten.11 Ihrer Formulierung zufolge leisteten sie sogar
+die Arbeit von Korrektoren12, doch ist diese enge Zusammenarbeit
+der Zensoren mit der Offizin bei anderen Drucken eher unwahr-
+scheinlich. Merkwürdig ist auch, dass neben Utinger nicht eines
+der anderen Kommissionsmitglieder, sondern der Fraumünster-
+pfarrer als Zensor tätig war.
+
+9 Johannes Strickler (Hg.), Actensammlung zur schweizerischen Reformationsge-
+schichte in den Jahren 1521–1532 im Anschluss an die gleichzeitigen eidgenössischen
+Abschiede, Bd. 1, Zürich 1878, 600, Nr. 1920.
+
+10 Die Badener Disputation von 1526: kommentierte Edition des Protokolls, hg. von
+
+Alfred Schindler et al., Zürich 2015, 172f.
+
+11 Paul Leemann-Van Elck, Die Offizin Froschauer: Zürichs berühmte Druckerei im
+16. Jahrhundert: Ein Beitrag zur Geschichte der Buchdruckerkunst anlässlich der Halb-
+jahrtausendfeier ihrer Erfindung, Zürich 1940, 45f.
+
+12 Vgl. den Beitrag von Hans Rudolf Lavater in diesem Band, S. 256f.
+
+370
+
+Christian Scheidegger
+
+Berns Motiv für die strenge Überwachung, auf seine Reputation
+zu achten und Aussenkonflikte möglichst zu vermeiden, darf all-
+gemein als Hauptgrund für die städtische Bücherzensur während
+des untersuchten Zeitraums angenommen werden. Man weiss,
+dass Zwingli bereits vor seiner Wahl zum Zensor eine wichtige
+Ansprechperson für Autoren war, die heikle Schriften in den Druck
+geben wollten. Der Maienfelder Stadtvogt Martin Seger überreich-
+te Zwingli einen literarischen Text, der unter dessen redaktionellen
+Leitung 1521 bei Froschauer erschien und als Göttliche Mühle be-
+kannt geworden ist.13 Im Oktober 1522 erhielt der Zürcher Refor-
+mator vom selben Autor einen Text mit scharfer Kritik an den
+Dominikanermönchen und sollte ihn redaktionell überarbeiten,
+um ihn unter dem Titel Der Stumme anonym in den Druck zu
+geben.14 Doch die Schrift wurde entweder nie gedruckt oder er-
+schien anderswo unter einem anderen Titel, so dass sie nicht er-
+mittelt werden kann. Wenig später liess der Berner Dominikaner
+Sebastian Meyer dem Zürcher Reformator eine bissige Streitschrift
+gegen den Konstanzer Bischof mit der Bitte zukommen, den Text
+genau durchzusehen (»lege et exactam adhibe censuram«), einen
+Drucker zu suchen und sie anonym oder unter falschem Namen
+herauszugeben.15 Meyer empfahl die Verwendung von Typen, die
+den Drucker nicht verraten.16 Natürlich wollte Zwingli den Dru-
+cker in Zürich ebenso wenig in Gefahr bringen. Wahrscheinlich
+wollte er die polemische Schrift jedoch vor allem deshalb nicht in
+Zürich veröffentlichen, weil unter seinem Namen bereits eine deut-
+liche, aber sachliche Antwort (Apologeticus Archeteles) auf das
+
+13 [Martin Seger und Hans Füssli], Dyss hand zwen schwytzer Puren gmacht, fürwar
+sy hand es wol betracht, Zürich: [Froschauer, 1521]. VD 16 S 5311. Vgl. hierzu Martin
+Bundi, Der Reformpolitiker Martin Seger (ca. 1470–1532) von Tamins/Maienfeld: Reis-
+läufer, Staatsmann und Publizist im Reformationszeitalter, in: Zwingliana 44 (2017),
+166, Peter Hegg, Die Drucke der »Göttlichen Mühle« von 1521, in: Schweizerisches
+Gutenbergmuseum 39 (1953), 135–150, und Josef Benzing: Die Drucke der »Göttlichen
+Mühle« von 1521: Eine Ergänzung, in: Schweizerisches Gutenbergmuseum 42 (1956),
+45f.
+
+14 Huldreich Zwinglis sämtliche Werke [Z], Bd. 7, Berlin 1905 (Corpus Reforma-
+torum 88), Nr. 245, 604f. Vgl. hierzu Bundi, Reformpolitiker, 169–175. Bundi hält es
+für möglich, dass Segers »Stummen« mit der Flugschrift »Der gestryfft Schwitzer Baur«
+(VD 16 G 1188) in Zusammenhang steht.
+
+15 Z 7, Nr. 248, 612f.
+16 Ebd., 615.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+371
+
+bischöfliche Schreiben erschienen war. Die Polemik hätte Zürich,
+seit 1521 politisch isoliert, nur zusätzlich geschadet. Vermutlich
+vermittelte Zwingli die Drucklegung von Meyers Schrift in Augs-
+burg, da sie dort als einer der ersten Drucke aus der Offizin Philip
+Ulharts unter einem unverfänglichen Titel mit dem falschen Dru-
+ckervermerk »Gedruckt zuo Hohenstein, durch Hanns Fürwitzig«
+erschienen ist.17 Zusammenfassend lässt sich sagen, dass Zwingli
+den Druck von antiklerikalen Schriften in Zürich schon früh über-
+wachte. Dabei ging es ihm nicht um einen Ausgleich mit der alt-
+gläubigen Seite. Sein Bemühen, keine allzu scharfe Polemik dru-
+cken zu lassen, orientierte sich vielmehr an der Zürcher Obrigkeit,
+die er nicht in eine noch schwierigere Lage bringen wollte. Er selbst
+und andere sollten nicht nur im eigenen Namen schreiben, sondern
+mit ihren Veröffentlichungen auch die Zürcher Kirche und Obrig-
+keit nach aussen vertreten. Zwingli hatte ein ausgeprägtes Korpo-
+rationsbewusstsein.18 Im Rückgriff auf das mittelalterliche Ideal
+waren für ihn Stadt und lokale Kirche, an denen jeder als Bürger
+und Christ verantwortungsvoll teil hat, eins.19 Politische Rück-
+sichtnahmen beim Buchdruck waren für ihn von daher eine Selbst-
+verständlichkeit.
+
+Etwas mehr weiss man über die Vorzensur in Basel, wo der Rat
+am 12. Dezember 1524 eine Zensurkommission einsetzte. Wie der
+Fall der Karlstadtschriften zeigt, wurde der Buchdruck dort schon
+vorher überwacht: Laut späteren Zeugenaussagen trafen Gerhard
+Westerburg und Felix Mantz im Oktober 1524 in Basel ein, um
+mehrere Traktate des Reformators Andreas Bodenstein von Karl-
+stadt zu veröffentlichen.20 Je vier Schriften gaben sie bei Johann
+
+17 Ernstliche ermanung des Fridens und Christenlicher einigkeit des durchlüchtigen
+Fürsten unnd genaedigen herren / Hugonis von Landenberg Bischoff tzuo Constantz mitt
+Schoe ner ußlegung unnd erklaerung, [Augsburg: Ulhart, 1523] – VD 16 K 2019. Vgl. Karl
+Schottenloher, Philipp Ulhart, ein Augsburger Winkeldrucker und Helfershelfer der
+»Schwärmer« und »Wiedertäufer« (1523–1529), München 1921 (Historische For-
+schungen und Quellen 4), 19f. und 91.
+
+18 Zum Korporationsgedanken, der für die Zensur in der frühen Neuzeit bestim-
+mend war: Gunther Franz, Bücherzensur und Irenik: Die Theologische Zensur im Her-
+zogtum Württemberg in der Konkurrenz von Universität und Regierung, in: Theologen
+und Theologie an der Universität Tübingen: Beiträge zur Geschichte der evangelisch-
+theologischen Fakultät, hg. von Martin Brecht, Tübingen 1977, 190.
+
+19 Gottfried W. Locher, Die Zwinglische Reformation im Rahmen der europäischen
+
+Kirchengeschichte, Göttingen 1979, 171–173.
+
+372
+
+Christian Scheidegger
+
+Bebel und bei Thomas Wolff in den Druck, die mehrheitlich in
+einer Auflage von 1000 Exemplaren erschienen sind.21 Bebel zeigte
+die Schrift Ob das Sakrament Sünde vergebe in Begleitung Wester-
+burgs dem Theologieprofessor Johannes Oekolampad, der trotz
+Bedenken (»eim unverstendigen were es schwer gnuog«) das Im-
+primatur erteilte, während der Druck der übrigen Schriften ohne
+Approbation in Angriff genommen wurde. Kurz vor seiner Abreise
+übergab Westerburg dem Drucker die umstrittenste der Karlstadt-
+schriften: Von dem Tauff der Kinder.22 Nachdem der Setzer wäh-
+rend seiner Arbeit die Brisanz des Textes erkannt und dem Dru-
+ckerherrn gemeldet hatte, benachrichtige Bebel sofort Oekolam-
+pad, der den Abbruch des Druckes anordnete, da der Inhalt »vyl zuo
+grob« sei. Von den sieben gedruckten Schriften nahmen Wester-
+burg und Mantz einen Teil der Auflagen mit sich. Einige Wochen
+später wurden die Drucker Johann Bebel und Thomas Wolff wegen
+der Karlstadtschriften verhaftet und einvernommen. Nachdem sie
+am 10. Dezember eine Urfehde geschworen hatten, wurden sie aus
+dem Gefängnis entlassen.23 Zwei Tage später wurden sie und alle
+anderen Drucker vor den Rat zitiert, wo man sie über die Bildung
+einer Zensurkommission, bestehend aus dem nicht amtierenden
+Bürgermeister, dem nicht amtierenden obersten Zunftmeister und
+dem Stadtschreiber, orientierte und ihnen mitteilte, dass bei schwe-
+rer Strafe ab sofort für jeden Text eine offizielle Druckerlaubnis
+eingeholt werden müsse und nichts ohne Druckervermerk erschei-
+nen dürfe.24
+
+Über die Praxis der Basler Vorzensur in der Reformationszeit
+geben wenige Einzelfälle Auskunft. Einer von ihnen betrifft Hein-
+rich Bullingers Werk über das Prophetenamt: De propheta libri
+duo. Auf Empfehlung Leo Juds bearbeitete der junge Bullinger im
+
+20 Aktensammlung zur Geschichte der Basler Reformation in den Jahren 1519 bis
+Anfang 1534 [Aktensammlung Basel], hg. von Emil Dürr, Bd. 1, Basel 1921, 174–176,
+Nr. 307.
+
+21 Vgl. VD 16 B 6111, B6141 , B 6177, B 6178, B 6264, B 6233 und B 6261.
+22 Titel gemäss Bebels Zeugenaussage. Zur möglichen Identifikation dieser Schrift
+mit dem 1527 in Worms gedruckten Dialogus vom Tauff der Kinder (VD 16 D 1342)
+vgl. zusammenfassend Martin Kessler, Das Karlstadt-Bild in der Forschung, Tübingen
+2014 (Beiträge zur historischen Theologie 174), 497f.
+
+23 Aktensammlung Basel, 176, Nr. 308.
+24 Aktensammlung Basel, 178f., Nr. 311.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+373
+
+Sommer 1525 die Schrift für den Druck und schickte sie an Adam
+Petri nach Basel, wo die als Zensoren bezeichneten Gutachter Lud-
+wig Bär, Bonifacius Amerbach und Hieronymus Froben sich gegen
+eine Zulassung aussprachen, weil die Schrift allzu lutherisch sei
+und den Kirchenvätern zu wenig Beachtung schenke. Das Werk
+wurde nie gedruckt.25 Zur gleichen Zeit wurde auch Johannes
+Oekolampad ein Opfer der Basler Zensur. Als er seine Abend-
+mahlsschrift Genuina verborum Domini expositio im Sommer
+1525 veröffentlichen wollte, wich er der Vorzensur in Basel aus
+und schickte die Schrift nach Strassburg, wo sie in der Offizin von
+Johann Knobloch ohne Namensangabe erschien.26 Die deutsche
+Übersetzung von Ludwig Hätzer mit dem Titel Vom Sakrament der
+Danksagung druckte Christoph Froschauer anfangs 1526 in Zü-
+rich.27 Die Basler Obrigkeit wollte die Umgehung der Zensur in-
+dessen nicht einfach hinnehmen und erliess im Oktober 1525 ein
+provisorisches Verkaufsverbot, während sie die lateinische Schrift
+durch Erasmus von Rotterdam und die Professoren Ludwig Bär,
+Bonifacius Amerbach und Claude Chansonette begutachten liess.28
+Zwingli spottete über die Wahl der Gutachter (»censores«), da
+zwei von ihnen Juristen waren und Bär als Scholastiker galt.29
+Während die Urteile Bärs und Chansonettes nicht bekannt sind,
+verzichtete Amerbach in zwei Stellungnahmen auf ein Urteil und
+übersetzte nur einige Stellen ins Deutsche.30 Erasmus beurteilte die
+Schrift als gelehrt und christlich, hielt es aber für gefährlich, die
+Meinung der Kirche zu bekämpfen. Der Rat verfügte darauf ein
+definitives Verkaufsverbot.31
+
+25 Joachim Staedtke, Die Theologie des jungen Bullinger, Zürich 1962 (Studien zur
+Dogmengeschichte und systematischen Theologie 16), 275f; Heinrich Bullinger Brief-
+wechsel [HBBW], Bd. 1, Nr. 9, 77.
+
+26 Ioannis Oecolampadii De genuina verborum Domini, Hoc est corpus meum, iuxta
+vetustissimos authores, expositione liber, [Strassburg: Johann Knobloch, 1525], VD 16
+O 331; vgl. Ernst Staehelin, Das theologische Lebenswerk Johannes Oekolampads,
+Leipzig 1939 (Quellen und Forschungen zur Reformationsgeschichte 21), 276f.
+
+27 Johannes Oekolampad, Vom Sacrament der Dancksagung: von dem waren na-
+teurlichen Verstand der Worten Christi: Das ist mein Leib, Zürich: Froschauer, 1526
+(VD 16 O 337).
+
+28 Staehelin, Lebenswerk, 284.
+29 Z 8, Nr. 401, 412.
+30 Die Amerbachkorrespondenz, hg. von Alfred Hartmann, Bd. 3, Basel 1947, Nr.
+
+1066 und 1070.
+
+31 Staehelin, Lebenswerk, 284.
+
+374
+
+Christian Scheidegger
+
+Nachdem Oekolampad seine zweite Abendmahlsschrift (Anti-
+syngramma) verfasst und Andreas Cratander den Basler Rat ver-
+geblich um eine Druckerlaubnis angefragt hatte, erschien die
+Schrift im März 1526 zusammen mit zwei Predigten Oekolampads
+unter dem Titel Apologetica de dignitate eucharistiae bei Fro-
+schauer in Zürich.32 Die deutsche Übersetzung druckte dann aber
+Thomas Wolff in Basel, da der Rat im Juli desselben Jahres das
+Verbot gegen Oekolampads Schriften aufgehoben hatte.33 Drei
+Monate später hielt es Oekolampad noch einmal für besser, die
+Vorzensur in Basel zu umgehen, und die Schrift eines unbekannten
+Autors über die Missbräuche im weihbischöflichen Amt an Zwing-
+li in Zürich zu schicken.34
+
+Die Basler Zensurkommission liess die einzelnen Schriften offen-
+bar wiederholt durch Universitätsprofessoren und Privatgelehrte
+begutachten, während die Tätigkeit der Zensoren selbst im Dun-
+keln bleibt. Unklar ist auch, wie viele Drucke tatsächlich die Vor-
+zensur passiert haben. Es ist kaum vorstellbar, dass jeder Text mit
+demselben Aufwand wie in den geschilderten Fällen geprüft wurde.
+Dass es aus zeitlichen Gründen nicht möglich sei, alle Bücher zu
+lesen, diente den Zensoren in Strassburg 1563 als Rechtfertigung
+dafür, nur die Titelblätter anzuschauen.35 Offene Fragen gibt es
+auch hinsichtlich der Zensurkriterien. Der Fall von Oekolampads
+Schriften offenbart eine gewisse Unbeständigkeit der Basler Bü-
+cherzensur, welche die Zulassung einmal verweigerte und das an-
+dere Mal erteilte. Vermutlich ging es dem Rat mit seinen Einzelein-
+griffen hauptsächlich darum, Ruhe und Ordnung in einer kom-
+plexen Situation herzustellen. Seine Politik nahm in unterschiedli-
+chem Mass Rücksicht auf die reichen Kaufleute, den Bischof, das
+Domkapitel, die Universität, die politisch aufstrebenden und für
+die reformatorische Botschaft empfänglichen Handwerker sowie
+
+32 Johannes Oekolampad, Apologetica, [Zürich: Christoph Froschauer], 1526 (VD
+
+16 O 305).
+
+33 Staehelin, Lebenswerk, 300; VD 16 O 290.
+34 Z 8, Nr. 542, 753. Am 30. Oktober 1526 bat Oekolampad um Rücksendung der
+Schrift »De suffraganeorum imposturis« (vgl. Z 8, Nr. 544, 756). 1527 wurde sie
+zusammen mit einem Vorwort Oekolampads in Basel gedruckt: Was Miszbreuch im
+wychbischofflichem ampt, Basel: Thomas Wolff, 1527 (VD 16 O 409).
+
+35 Lorna Jane Abray, The People’s Reformation: Magistrates, Clergy, and Commons
+
+in Strasbourg, 1500–1598, Oxford 1985, 63.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+375
+
+auf die Eidgenossen. Entsprechend vorsichtig agierte der Basler
+Rat. Die wechselvolle Zensur wäre demnach genauso eine Folge
+dieser um gesellschaftlichen Ausgleich bemühten Politik wie die bis
+1529 andauernde offizielle Predigt- und Kultusvielfalt.36
+
+Anders als in Zürich und in Basel gab es in Bern zur Zeit der
+Reformation kein Druckgewerbe, was den dortigen Magistrat
+nicht daran hinderte, kontrollierend in den Buchmarkt einzugrei-
+fen. Im Mai 1525 verbot er das Vorlesen reformatorischer Bücher,
+während der verborgene Besitz und die persönliche Lektüre solcher
+Bücher gestattet war. Am 22. November desselben Jahres wurden
+ketzerische Schriften verboten. Ihr Kauf und Verkauf sollte mit
+einer Busse von 10 Pfund bestraft und die beschlagnahmten Schrif-
+ten verbrannt werden. Davon ausgenommen blieben, obschon
+mehrheitlich von »Ketzern« gedruckt, die biblischen Bücher. Die
+Vorschriften kamen zur Anwendung und wurden mehrmals erneu-
+ert. Als die Obrigkeit im März 1525 die Ware eines Buchhändlers
+aus Zürich kontrollierte, wollte sie ihn büssen, weil er verbotene
+Schriften in seinem Sortiment führte. Als die Regierung das Man-
+dat der »gedruckten Büchlinen halb« am 30. Juni 1526 bestätigte,
+richtete sie gleichzeitig ein schriftliches Begehren an den Zürcher
+Rat, die Ausfuhr reformatorischer Drucke von Zürcher Pressen
+nach Bern zu stoppen.37 Diese Bücherordnung wurde mit der Ein-
+führung der Reformation in Bern 1528 obsolet. Erst nachdem
+Matthias Apiarius die erste Buchdruckerei in Bern eingerichtet hat-
+te, erliess der Magistrat am 2. Februar 1539 eine neue Zensurord-
+nung, die einerseits in der Einrichtung einer Vorzensur bestand.
+Andererseits sollten die Buchhändler ihre Ware den Zensoren zur
+Einsicht vorlegen, damit keine Schriften, welche die Obrigkeiten
+beschimpfen oder beleidigen (»schmechen oder schmützen«) ver-
+kauft würden. Laut Karl Müller, der die Bücherzensur in Bern bis
+zum Ende des Ancien Re´gimes untersucht hat, war die Praxis deut-
+lich lascher, als in der Zensurordnung gefordert.38
+
+36 Ulrich Gäbler, Die Basler Reformation, in: Theologische Zeitschrift 47 (1991),
+
+7–17.
+
+37 Müller, Geschichte, 75f.
+38 Müller, Geschichte, 80–84.
+
+376
+
+Christian Scheidegger
+
+2. Eidgenössische Interventionen bis
+
+zum zweiten Landfrieden
+
+Im Gegensatz zur wenig bekannten Vorzensur sind zahlreiche Kla-
+gen eidgenössischer Orte im Zusammenhang mit bestimmten Dru-
+cken aktenkundig. Ein bekannter Fall ereignete sich 1523 in Basel.
+Im Februar dieses Jahres beschwerte sich der Luzerner Rat über
+eine Schrift mit dem Titel Eine treue Ermahnung an die Eidgenos-
+sen, die ohne Nennung von Ort, Drucker und Autor veröffentlicht
+wurde.39 Verfasst hat sie der Franziskaner Sebastian Hofmeister,
+der 1522 für wenige Monate als Lesemeister der Barfüsser in Lu-
+zern gewirkt hatte, bis er die Stadt wegen Ketzerei verlassen muss-
+te. Auch der evangelisch gesinnte Schulmeister Oswald Myconius
+wurde damals aus Luzern ausgewiesen. Hofmeister setzte sich in
+seiner Schrift vehement für die Verkündigung des Evangeliums in
+der Eidgenossenschaft ein und warnte gleichzeitig vor den römi-
+schen Wölfen im Schafspelz. An die Luzerner richtete er prophe-
+tische Worte: statt ihrem Namen entsprechend ein Licht (»Lu-
+cern«) der Eidgenossenschaft zu sein, würden ihre blinden und un-
+gebildeten Priester nicht Gottes Wort predigen, sondern andere
+verketzern und zu Gewalt aufrufen. Mit ihrer teuflischen Botschaft
+seien sie ein dunkler stinkender Rauch. »O Lucerna Lucerna wie
+ist dein liecht so gar verloe schen«, seufzt Hofmeister und bedauert
+zu tiefst, dass die Stadt für die Botschaft des Evangeliums ver-
+schlossen sei und nicht erkannt habe, was Gott bei ihnen tun wolle.
+Mit derselben prophetischen Sprache klagt er über seine eigene
+Vertreibung und die Ausweisung des Schulmeisters Oswald My-
+conius.40
+
+Wie die offizielle Untersuchung schnell ergab, druckte Adam Pe-
+tri die umstrittene Schrift. Laut seiner Aussage gab ein Fremder sie
+mit einer schriftlichen Anweisung in den Druck und sei unmittel-
+bar danach abgereist, ohne je wiederzukommen. Während Petri
+weder vom Autor noch vom Auftraggeber etwas wissen wollte,
+war die Verfasserschaft der Schrift für die Tagsatzungsgesandten in
+
+39 [Sebastian Hofmeister], Ein treuwe Ermanung an die strengen, edlen, festen, from-
+men und weyssen Eidgnossen, dass sy nit durch ire falschen Propheten verfürt, sich
+wider die lere Christi setzend, [Basel: Adam Petri, 1523], vgl. VD 16 H 4308.
+
+40 Hofmeister, Ermanung, fol. B2r-B3r.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+377
+
+Abb. 1: Druckermarke Hans Hagers, aus: Antworten so ein Bürgermeister und Rat der
+Stadt Zürich ihren Eidgenossen gegeben haben, Zürich: Hans Hager, [1524]: Zentral-
+bibliothek Zürich, 18.437,9.
+
+378
+
+Christian Scheidegger
+
+Luzern ein offenes Geheimnis. Der geständige Drucker wurde in
+Basel auf Luzerns Drängen hin zu einer äusserst harten Strafe ver-
+urteilt. Diese bestand in einer Geldbusse in der Höhe von 200
+Gulden und in einem geschworenen Widerruf, den der Verurteilte
+in einer Auflage von 400 Exemplaren auf eigene Kosten drucken
+musste. In seinem Widerruf bekannte Petri, dass er Luzern ge-
+schmäht habe und dass die erhobenen Anschuldigungen gegen die
+Luzerner und ihre Priester nicht der Wahrheit entsprächen.41 Der
+Fall ging nicht so schnell vergessen. Zwingli erwähnte ihn zwei
+Jahre später in einem Schreiben an die eidgenössische Tagsatzung
+in Baden, und der Berner Reformator Berchtold Haller erinnerte
+Heinrich Bullinger noch 1532 daran, »was Adamo Petro begegnet
+a Lucernatibus.«42
+
+Weniger bekannt ist die kurze Aufregung, die ein Zürcher Druck
+und die Druckermarke Hans Hagers 1524 ausgelöst haben (Abb.
+1). Im Kampf gegen die Reformation schickte die eidgenössische
+Tagsatzung am 25. Februar 1524 eine Abordnung nach Zürich,
+um dem Rat eine 21 Artikel umfassende Protestnote vorzulegen.43
+An der Tagsatzung in Luzern am 1. April desselben Jahres nahmen
+die Zürcher Gesandten Stellung dazu, indem sie ein Schreiben und
+eine gedruckte Antwort mit dem Titel Antworten so ein Bürger-
+meister und Rat der Stadt Zürich ihren Eidgenossen gegeben haben
+überreichten. Die gedruckte Schrift verteidigt die evangelische Pre-
+digt auf der Grundlage der Bibel und ist gewiss nicht ohne Hul-
+drych Zwinglis Mitarbeit entstanden. Der Druck Hans Hagers ist
+in drei Varianten überliefert, die den Satz und die Druckermarke
+betreffen.44 An der darauffolgenden Tagsatzung äusserten die eid-
+
+41 Aktensammlung Basel, Nr. 129, 133, 139, 146 und 148, 49, 52, 58f. und 63–64;
+EA 4/1a, 292. Vgl. auch Frank Hieronymus, 1488 Petri – Schwabe 1988: Eine traditi-
+onsreiche Basler Offizin im Spiegel ihrer frühen Drucke, Basel 1997, 341f., und Karl
+Gauss, Basels erstes Reformationsmandat, in: Basler Jahrbuch 1930, 209–211.
+
+42 Z 5, 249, und HBBW 1, Nr. 82, 92.
+43 EA 4/1a, 376–379.
+44 Antwurten so ein Burgermeister, Radt und der gross Radt, die man nempt die
+zwey hundert der Statt Zürich, jren getrüwen lieben Eydgnossen, der einliff Orten, über
+etlich Artickel, jnen Inhalt einer Instruction fürgehalten geben habend, Zürich: Hans
+Hager, ohne Jahr. Vgl. VD 16 Z 579, Z 580 und ZV 15681, und Manfred Vischer,
+Bibliographie der Zürcher Druckschriften des 15. und 16. Jahrhunderts, Baden-Baden
+1991 (Bibliotheca Bibliographica Aureliana 124), D 7–9. Vgl. ausserdem die Ausgabe
+von Christoph Froschauer (Vischer, Bibliographie, C 60). Offenbar enthielten die Ex-
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+379
+
+genössischen Gesandten ihr Missfallen über die Verbreitung des
+Drucks in der Eidgenossenschaft und im Ausland sowie über die
+darin abgebildete Karikatur, welche ihrer Deutung zufolge einen
+(evangelisch gesinnten) Bauern im Gespräch mit einem (altgläubi-
+gen) Bauern zeigt, der sich die Ohren zuhält. Die Darstellung wur-
+de als eine Beleidigung empfunden. Man bat die Zürcher Obrig-
+keit, diese und ähnliche Schriften zu verbieten sowie den Drucker
+zu bestrafen.45 Ende April erklärte Zürich in einem Schreiben, dass
+die Witzfiguren (»possen«) keine polemische Bedeutung hätten, ihr
+Abdruck ohne das Wissen der Obrigkeit erfolgt sei und es sich
+dabei nur um die Druckermarke Hans Hagers handle. Die eidge-
+nössischen Orte waren mit dieser Antwort hinsichtlich der Dru-
+ckermarke anscheinend zufrieden, während sie die Produktion und
+den Vertrieb evangelischer Literatur weiterhin für illegitim hiel-
+ten.46 Die Fünf Orte, seit dem Beckenrieder Zusammenschluss zur
+Verteidigung des alten Glaubens entschlossen, bereiteten anfangs
+1525 mit dem Luzerner Verkommnis ein Glaubenskonkordat vor,
+das unter anderem den Druck und den Verkauf reformatorischer
+Literatur in der Eidgenossenschaft untersagen und Verstösse unter
+Strafe stellen wollte. Die Bestimmungen traten jedoch nicht wie
+beabsichtigt in Kraft.47
+
+Mit der Badener Disputation 1526 versuchten die altgläubigen
+Kräfte Huldrych Zwingli zum Schweigen zu bringen und die Ein-
+heit der sich spaltenden Kirche in der Eidgenossenschaft zu retten.48
+Wie vorauszusehen war, unterlag die reformatorische Seite in die-
+sem Streitgespräch. Die Disputation in Baden erwies sich für die
+Papsttreuen jedoch als ein Pyrrhussieg, weil sie zur Folge hatte,
+dass sich die weltlichen Obrigkeiten in Basel und Bern nun deut-
+licher für die Reformation öffneten. Im Anschluss an die Dispu-
+
+emplare für die eidgenössischen Orte keine Druckermarke, vgl. EA 4/1a, 422. Vgl. auch
+EA 4/1a, 395, f., 398–406, und Peter Kamber, Reformation als bäuerliche Revolution:
+Bildersturm, Klosterbesetzungen und Kampf gegen die Leibeigenschaft in Zürich zur
+Zeit der Reformation (1522–1525), Zürich 2010, 320–322.
+
+45 EA 4/1a, 413, i.
+46 EA 4/1a, 421f.
+47 EA 4/1a, 576, und Heinrich Bullingers Reformationsgeschichte, hg. von Johann
+Jakob Hottinger und Hans Heinrich Vögeli, Bd. 1, Frauenfeld 1838, 220f. Vgl. hierzu
+Locher, Zwinglische Reformation, 160f.
+
+48 Die Badener Disputation von 1526: kommentierte Edition des Protokolls, hg. von
+
+Alfred Schindler et al., Zürich 2015.
+
+380
+
+Christian Scheidegger
+
+tation sprachen sich die eidgenössischen Gesandten am 25. Juni
+1526 untereinander ab, die reformatorische Literatur in ihren Ter-
+ritorien zu verbieten und den Handel damit unter Strafe zu stel-
+len.49 Die religionspolitischen Abschiede der Tagsatzung hatten je-
+doch vielerorts nicht mehr viel mit der Wirklichkeit zu tun, wie die
+kurz darauf erfolgte Aufhebung des Verbots gegen Oekolampads
+Schriften in Basel zeigt. Dasselbe gilt auch für das Protokoll der
+Badener Disputation, das Thomas Murner im Mai 1527 in Luzern
+druckte. Der Schluss dieser amtlichen Veröffentlichung enthält eine
+offizielle Verurteilung Zwinglis als Ketzer und eine Zensurord-
+nung, welche in allen eidgenössischen Orten eine Vorzensur vor-
+schrieb und die Verbreitung der reformatorischen Literatur unter-
+sagte.50 Statt die Einheit der Kirche wiederherzustellen, besiegelten
+all diese Beschlüsse letztlich nur die Kirchenspaltung.
+
+Im Zusammenhang mit der Badener Disputation entstanden
+zahlreiche Flugschriften.51 Der früheste Bericht über dieses theo-
+logische Streitgespräch erschien noch vor dessen Ende unter dem
+Titel Warhaftige Handlung ohne Nennung des Druckers.52 Der
+Strassburger Reformator Wolfgang Capito, der wahrscheinlich das
+Vorwort dazu verfasst hatte, schickte den Druck bereits am 11.
+Juni 1526 an Zwingli. Doch der Bote wurde in Wettingen verhaftet
+und sagte bei seiner Einvernahme aus, dass Capito und der Dru-
+cker Wolfgang Köpfel die Schrift gemeinsam herausgegeben hätten.
+Die Gesandten der eidgenössischen Tagsatzung hatten natürlich
+keine Freude, dass allen Vorsichtsmassnahmen zum Trotz ein un-
+autorisierter Bericht an die Öffentlichkeit gelangt war, und forder-
+ten am 25. Juni die Bestrafung der Fehlbaren. Die Basler Obrigkeit
+liess darauf die für die Warhaftige Handlung verwendeten Schrift-
+typen durch ihre Buchdrucker untersuchen und bestätigte, dass der
+Druck aus Strassburg stammen müsse. Die Strassburger Obrigkeit,
+von der eidgenössischen Tagsatzung angeschrieben, untersuchte
+den Fall und bestrafte den Drucker Wolfgang Köpfel mit einer
+
+49 EA 4/1a, 953, i.
+50 EA 4/1a, 935–937.
+51 Die Badener Disputation von 1526, 186–192.
+52 Warhaftige Handlung der Disputation in obern Baden des D. Hanß Fabri, Jo.
+Ecken unnd irs gewaltigen Anhangs gegen Joan Ecolampadio und den Dienern des
+Worts, [Straßburg: Wolfgang Köpfel, 1526], VD 16 H 4106.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+381
+
+Geldbusse von fünf Pfund, weil er die Vorzensur umgangen haben
+soll, während Capito einer Bestrafung entging.53
+
+Nicht nur die altgläubigen Orte gingen gegen ihnen missliebige
+Druckerzeugnisse vor, sondern auch Zürich und Bern intervenier-
+ten schon in der Reformationszeit gegen Spottschriften. Beschwer-
+den erhoben sie gegen die katholischen Referenten der Badener
+Disputation: Johannes Eck, Thomas Murner und Johannes Fabri.
+Die Zürcher Obrigkeit beklagte kurz nach der Badener Disputati-
+on, »daß Doctor Egg und Doctor Faber und ir anhänger allerlei
+büechlin und geschriften, uns und obbemeldtem unserm predican-
+ten [Zwingli] zuo tratz, schmach, schand und verachtung usgan
+lassen habent«. Während diese Drucke überall verkauft würden,
+seien Zwinglis Schriften an verschiedenen Orten nicht zugelassen.
+Dabei habe Zwingli die Eidgenossen nie »an ihren Ehren verun-
+glimpft oder verletzt«, während seine Gegner Fremde seien und
+eine antieidgenössische Einstellung hätten. Bemängelt wurde zu-
+dem der Gebrauch einer obszönen Sprache. Namentlich auch über
+den Luzerner Leutpriester Thomas Murner beschwerte sich der
+Zürcher Rat und bat die eidgenössischen Stände, mit Umsicht vor-
+zugehen und nicht den eidgenössischen Zusammenhalt aufs Spiel
+zu setzen (»üch und uns nit durch frömbd oder ußländisch lüt
+gegen einanderen verwirren oder zerstören lassen«).54
+
+Thomas Murner druckte in seiner Luzerner Offizin vor allem
+eigene Werke gegen die reformatorische Bewegung. Noch vor der
+Veröffentlichung der Badener Disputation erschien sein Kirchen-
+dieb- und Ketzerkalender für das Jahr 1527 als Antwort auf einen
+Wandkalender, den Christoph Froschauer in Zürich gedruckt hatte
+und der anstelle der Heiligen und astrologisch-astronomischen An-
+gaben nur biblische Personen mit den entsprechenden Bibelstellen
+und wenige kirchliche Feiertage enthielt.55 Wie schon die program-
+
+53 EA 4/1a, 953, k, 957, und 964, s, und Le´on Dacheux, Annales de Se´bastian Brant
+(suite), in: Bulletin de la Socie´te´ pour la Conservation des Monuments Historiques
+d’Alsace, 2. se´rie 19 (1899), 142f. Vgl. hierzu Die Badener Disputation von 1526,
+34–36, Ernst Staehelin, Zwei private Publikationen über die Badener Disputation und
+ihre Autoren, in: Zeitschrift für Kirchengeschichte 37 (1918), 378–394.
+
+54 EA 4/1a, 919f.
+55 Ernst Götzinger, Zwei Kalender vom Jahre 1527: D. Joannes Copp evangelischer
+Kalender und D. Thomas Murner Kirchendieb- und Ketzerkalender, Schaffhausen
+1865. Vgl. zudem Manfred Vischer, Zürcher Einblattdrucke des 16. Jahrhunderts, Ba-
+
+382
+
+Christian Scheidegger
+
+matischen Titelholzschnitte erkennen lassen, dienten beide Kalen-
+der nicht als Arbeitshilfe für den Alltag (vgl. Abb. 43 und 44 im
+Beitrag von Lothar Schmitt in diesem Band). Während der Zürcher
+Druck mehr eine Lesehilfe für die (Froschauer-)Bibel mit einer po-
+lemischen Spitze gegen die mittelalterliche Kirche war, stellte Mur-
+ners Ketzerkalender das Treiben der Reformatoren als Kirchenraub
+in einer Satire dar. Der Luzerner Druck enthält statt der Heiligen
+lauter Namen von Ketzern und anderen Bösewichten sowie 27 Ka-
+lenderbildchen. Das letzte zeigt einen brennenden Scheiterhaufen,
+gefolgt von der Bilderklärung: »Disses zeichen bedüt guot euange-
+lische ketzer brennen und im rauch zuo dem tüffel senden«. Mit
+Schimpfworten (»kirchen dieb« und »figen fresser« für Huldrych
+Zwingli) und Verballhornungen (»leck uns im bad« für Oekolam-
+pad) werden die Reformatoren verunglimpft.56 Murner versuchte
+seine Gegner mit Spott und Hohn öffentlich herabzusetzen. Die
+Gescholtenen sollten ihre Ehrlosigkeit in aller Öffentlichkeit zur
+Kenntnis nehmen.
+
+Schmähschriften gehörten zu den gebräuchlichen Kampfmitteln
+der Reformationszeit und gehen auf alte Gepflogenheiten zurück.
+Die Ehrenschelte war ein in der Eidgenossenschaft eher selten ge-
+brauchtes Rechtsmittel. Kam ein Schuldner seinen Zahlungen trotz
+allen Aufforderungen nicht nach, erhielt der Gläubiger das Recht,
+den säumigen Schuldner in Wort und Bild öffentlich zu beschimp-
+fen.57 Murner stellte Zwingli in diesem Sinn mit seiner Publizistik
+an den Pranger, nachdem dieser sich für das diebische Ausräumen
+
+den-Baden 2001, 121f., K 1, und das digitalisierte Exemplar der Zentralbibliothek
+Zürich [Zürich ZB] von Murners Ketzerkalender: http://dx.doi.org/10.3931/e-rara–
+36173. Über eine mögliche frühere Auflage dieses Kalenders vgl. Paul Zinsli, Manuel
+und Murner: Die Begegnung zweier doppelt begabter Glaubensstreiter in der Refor-
+mationszeit, in: Berner Zeitschrift für Geschichte und Heimatkunde 50 (1988), 191f.,
+Anm. 13.
+
+56 »Figen fresser« hatte wahrscheinlich eine obszöne Bedeutung: Anspielung ent-
+weder auf Exkremente oder die weibliche Scham, vgl. Schweizerisches Idiotikon, Bd. 1,
+Sp. 688, und Siegmar Schultze-Galle´ra, Volkserotik und Pflanzenwelt: Eine Darstellung
+alter wie moderner erotischer und sexueller Gebräuche, Vergleiche, Benennungen,
+Sprichwörter, Redewendungen, Rätsel, Volkslieder, erotischen Zaubers und Aberglau-
+bens, sexueller Heilkunde, die sich auf Pflanzen beziehen, Leipzig 1910, Bd. 1, 75f.
+
+57 Elisabeth Wechsler, Ehre und Politik: Ein Beitrag zur Erfassung politischer Ver-
+haltensweisen in der Eidgenossenschaft (1440–1500) unter historisch-anthropologi-
+schen Aspekten, Zürich 1991, 76f.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+383
+
+der Kirchen und andere Vergehen an der Badener Disputation
+nicht verantwortet hatte. Allerdings stiess Murner schon vor der
+Badener Disputation 40 Ehrloserklärungen gegen den Zürcher Re-
+formator aus. Die 39. Beschimpfung lautete: »Erlos ist Ulrich
+Zwingly / der durch sein lugenhaftige / verworffene / und erlose
+lere / ursach und bystand geben hat […] / fremde gieter zuo stelen /
+rauben / kirchen diebisch hyn zuo nemmen […] / kloe ster zerstoe ren /
+den gotsdienst nider zuo legen heilige und geistliche oe rter zuo ent-
+würdigen / mit schmache biechlein zuo schenden […].«58
+
+In der frühneuzeitlichen Gesellschaft bestand ein Zwang zur
+Widerlegung von Schmähungen, da der Ehrverlust nicht nur die
+Aberkennung des guten Rufs bedeutete, sondern auch die Einbusse
+von gewissen Bürgerrechten zur Folge hatte.59 Die Empfindlichkeit
+in Ehrensachen war verantwortlich für die vielen Klagen vor Ge-
+richt, wo die verletzte Ehre mittels Bussen, Ausweisungen und an-
+deren Strafen wiederhergestellt wurde. In Zürich musste sich
+Zwingli jedoch keine Sorge um seinen Ruf und seine Stellung ma-
+chen. Er habe nicht geantwortet, weil er Gottes Wort ehre, meinte
+er nach der Badener Disputation scheinbar gelassen. Rhetorisch
+fragte er, ob es nicht ein Witz wäre, Gottes Wort im Kampf gegen
+Murner und seine stumpfen Waffen einzusetzen (»Das ich aber
+imm [Murner] nit antwurten hab wellen, ist erstlich gottes wort
+zuo eren geschehen […] wär es nit ein spott, mit gottes wort gegen
+sölcher huppen wys fechten«).60 Anders verhielt sich die Sache für
+die Zürcher Obrigkeit, die ebenfalls in der Kritik stand und im
+eidgenössischen Machtgefüge viel zu verlieren hatte. Sie beschwer-
+te sich über Murners Beleidigungen im Ketzerkalender und ande-
+ren Schriften und schickte ihre Vertreter an die Tagsatzung, die am
+
+58 Thomas Murner, Ein vuorhafftigs Verantvurten der hochgelorten Doctores und
+Herren, die zuo Baden uff der Disputation gewesen sint vor den xii Orten einer loblichen
+Eidtgnoschafft wider das schentlich, erstuncken, und erlogen Anklagen Ulrich Zwing-
+lyns, das der fierzig mal Erloss diebisch Bösswicht uff die frummen Herren geredt hat
+und in den Druck het lassen kummen, Luzern: Murner, 1526 (VD 16 M 7093), fol. d4v,
+Nr. 39. Vgl. auch den lateinischen Erstdruck: Thomas Murner, De sacrosancta synaxi
+expostulatio, Luzern: Murner, 1526 (VD 16 E 2978).
+
+59 Wechsler, Ehre, 186–189. Der Gescholtene trat als Kläger auf, während der Be-
+schuldigte nachweisen musste, dass seine Schmähung der Wahrheit entsprach. Gelang
+ihm dies nicht, musste er die Unrichtigkeit seiner Schmähung und die Ehrbarkeit des
+Gescholtenen auf der Kanzel bekennen.
+
+60 Z 5, 316.
+
+384
+
+Christian Scheidegger
+
+26. Februar 1527 ohne die Fünf Orte in Bern stattfand und wo sich
+die versammelten Gesandten über das Vorgehen gegen Murner be-
+rieten.61 Der Luzerner Leutpriester setzte indessen seinen polemi-
+schen Kampf unvermindert fort, was den Berner Rat nach Einfüh-
+rung der Reformation 1528 veranlasste, von Luzern seine Bestra-
+fung und die Konfiskation seiner Druckschriften zu verlangen.62
+Als Rechtsgrundlage diente das an mehreren eidgenössischen Tag-
+satzungen abgesprochene Verbot von Schmähschriften.63 Der Fall
+zog sich nicht zuletzt lange hin, weil die Luzerner Oberschicht
+Murner mit allen Mitteln protegierte und dessen Publizistik in den
+Dienst ihrer Politik stellte.64 Ihr ging es dabei wohl kaum nur um
+die Verteidigung der romtreuen Kirche, sondern wesentlich auch
+darum, die Einnahmen aus dem von Zwingli heftig kritisierten
+Solddienst und die politische Vormacht Luzerns innerhalb der Eid-
+genossenschaft zu sichern. Schlussendlich vermochten sich die
+evangelischen Stände wenigstens teilweise durchzusetzen. Im Rah-
+men der Verhandlungen zum ersten Landfrieden wurde die Auslie-
+ferung Murners vor ein eidgenössisches Gericht beziehungsweise
+seine Ausweisung aus Luzern gefordert.65 Der Angeklagte entging
+allerdings der absehbaren Verurteilung, indem er Ende Juni 1529
+in seine elsässische Heimat floh.
+
+3. Eidgenössische Interventionen nach
+
+dem zweiten Landfrieden
+
+Der Landfrieden von 1531 beendete den zweiten Kappelerkrieg
+und bestätigte das paritätische Prinzip, wonach jeder souveräne
+Ort die Konfession vorgeben konnte. In einem Passus, der die Si-
+tuation in den von den reformierten und katholischen Ständen ge-
+meinsam regierten Untertanengebieten regelte, wurden Beleidigun-
+
+61 EA 4/1a, 1049–1053.
+62 Theodor von Liebenau, Der Franziskaner Dr. Thomas Murner, Freiburg i.Br.
+1913, 237. Im gleichen Jahr beschwerte sich Bern auch über einen Basler Druck von
+Johannes Eck, vgl. EA 4/1a, 1309, und VD 16 E 420 und ZV 4864.
+
+63 Vgl. zum Beispiel EA 4/1A, 1466, k.
+64 Zum Beispiel auf der Tagsatzung am 3. Januar 1529, vgl. von Liebenau, Der
+
+Franziskaner, 241.
+
+65 EA 4/1b, 283, 12.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+385
+
+gen und Beschimpfungen beider Konfessionen verboten: »Es soll
+ouch thein teil den andern von des gloubens wegen weder schmüt-
+zen noch schmächen, und wer darüber tuon wurdi, daß der selbig
+je von dem vogte daselbs dorum gestraft werden söll, je nach ge-
+stallt der sach.«66 Obschon hier nicht ausdrücklich von Schmäh-
+schriften die Rede ist und die Bestimmung nur die Gemeinen Herr-
+schaften betraf, wurde bei
+Interventionen gegen umstrittene
+Druckschriften immer wieder auf den zweiten Landfrieden Bezug
+genommen.
+
+Die Berner Obrigkeit klagte am 21. März 1532 in einem Schrei-
+ben gegen das aus ihrer Sicht ehrverletzende Schmähgedicht Tann-
+grotz von Hans Salat, das die Niederlage der Evangelischen bei
+Kappel schildert. Da der Druck »dem nüwen friden nit gemäss«
+sei, möge man den Verfasser bestrafen, argumentierte Bern.67 Salat
+selbst war der Meinung, dass das Gedicht »niemand schmutzt und
+schmacht«, obschon es die konfessionellen Gegner nicht verschon-
+te und Zwingli als Ketzer und Verräter blossstellte68:
+
+Das man daselbs funden hett,
+Under denen mich hoch mit freüden berue rt
+Der böswicht, der da hat verfue rt
+Ein frumme gemein, so manig biderman,
+Hat hie auch sin bracht und leben glan:
+Ich main uolin Zwinglin, wer in hat bekannt;
+Er ward gefierteilt und verbrant,
+Als kaiserlich recht wist und vermag.69
+
+66 EA 4/1b, 1569. Zum zweiten Landfrieden vgl. Historisches Lexikon der Schweiz
+
+[HLS], Bd. 7, 591f.
+
+67 Strickler, Actensammlung, Bd. 4, 519, Nr. 1490, und Hans Salat, Ein schoner
+spruch von dem krieg zwischen den Fünff Orten und der andern Örttern der Eydgno-
+schafft, [Freiburg i.Br.: Johann Faber?, 1531], VD 16 ZV 13675. Der vermutete Dru-
+cker (Druckerzuweisung durch Eberhard Nehlsen) ist derselbe, der auch Johannes Ecks
+Schrift in Basel nachgedruckt hat, vgl. Anm. 62.
+
+68 Hans Salat, Reformationschronik 1517–1534, hg. von Ruth Jörg, Bd. 2, Bern
+1986, 844. Salat verweist in seiner Chronik auf den sechsten Artikel des zweiten Land-
+friedens. Gemeint ist wahrscheinlich der entsprechende Artikel in einem Vertragsent-
+wurf zum zweiten Landfrieden, vgl. EA 4/1b, 1222.
+
+69 Jakob Bächtold, Hans Salat, ein Schweizer Chronist und Dichter, Basel 1876, 96,
+Zeilen 211–218. Der edierte Text weicht orthographisch von der gedruckten Vorlage
+teilweise ab, vgl. dazu die Editionsgrundsätze in Bächtolds Vorwort.
+
+386
+
+Christian Scheidegger
+
+Nachdem es in Luzern zu keinem Urteil gekommen war, zogen die
+Orte Bern und Zürich den Fall vor die eidgenössische Tagsatzung,
+wo die Schiedsorte eine Bestrafung des Verfassers verlangten, da-
+mit die beschuldigten Berner und Zürcher nicht länger in Schande
+dastehen würden.70 Als Strafe wurde Salat für 70 Stunden in den
+Wasserturm gelegt. Der Verurteilte war fassungslos, glaubte er
+doch, mit seinem Gedicht nur Gottes unaussprechliche Güte ge-
+priesen zu haben.71
+
+Auch die altgläubigen Stände beriefen sich auf den zweiten
+Landfrieden, wenn ein gedruckter Text ihre Ehre oder ihre reli-
+giösen Gefühle verletzte.72 Am 10. Juni 1532 intervenierten die
+Gesandten der Fünf Orte gegen eine zürcherische Religionsverord-
+nung, die als Einblattdruck veröffentlicht wurde und ihren Glau-
+ben schmähte.73 Der Zürcher Rat verabschiedete das kritisierte
+Mandat am 29. Mai, um Gerüchten über eine bevorstehende
+Rückkehr Zürichs zum römischen Katholizismus ein Ende zu be-
+reiten. Er demonstrierte so die Treue zur Reformation und stellte
+den Besuch der katholischen Messe unter Strafe; die päpstliche
+Messe wurde als Missbrauch und als Abwertung von Christi Op-
+fertod bezeichnet.74 Diese polemischen Formulierungen führten zu
+einem Rechtsstreit, der am 22. April 1533 mit einem Vergleich vor
+einem eidgenössischen Schiedsgericht in Einsiedeln beigelegt wer-
+den konnte. Bestandteil des Vergleichs war eine konsequente Nach-
+zensur: die Zürcher Obrigkeit sollte die noch vorhandenen Exem-
+plare beschlagnahmen und dafür sorgen, dass das Mandat nicht
+weiter bekannt gemacht wird.75
+
+Die Fünf Orte nutzten die verletzten Gefühle dazu, ihre reli-
+gionspolitischen Ziele zu erreichen. Das heisst sie erhoben unter
+Berufung auf den zweiten Landfrieden zahlreiche Klagen und in-
+
+70 EA 4/1b, 1323, f.
+71 Salat, Reformationschronik, Bd. 2, Bern 1986, 845 u. 861.
+72 Vgl. zum Beispiel EA 4/1b, 1451, b.
+73 EA 4/1b, 1360, bbb.
+74 Vischer, Einblattdrucke, A 36. Edition des Mandats in: Zürcher Kirchenordnun-
+gen 1520–1675, hg. von Emidio Campi und Philipp Wälchli, Zürich 2011, Erster Teil,
+126–128. Vgl. zum Mandatstreit: Bächtold, Bullinger vor dem Rat, 24–29, und Hans
+Ulrich Bächtold, Bullinger und die Krise der Zürcher Reformation im Jahr 1532, in:
+Heinrich Bullinger, 1504–1575: Gesammelte Aufsätze zum 400. Todestag, hg. von Ul-
+rich Gäbler und Erland Herkenrath, Zürich 1975, Bd. 1, 269–289.
+
+75 EA 4/1b, 63f., a.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+387
+
+strumentalisierten dabei das Schmähverbot für ihre Politik der Re-
+katholisierung in den Gemeinen Herrschaften. Verschiedene refor-
+mierte Prediger wurden auf diese Weise aus ihrem Amt gedrängt
+und ausgewiesen. Hinzu kamen wirtschaftliche Nachteile für die
+reformierten Kirchgemeinden und ein psychologischer Druck. Der
+Mandatstreit muss vor diesem Hintergrund gesehen werden.76 Un-
+gewöhnlich daran war, dass die Fünf Orte mit ihrer Intervention
+die Zürcher Herrschaftsgewalt angegriffen haben, richtete sich die
+Klage doch gegen eine gedruckte Verordnung, die das Zürcher Ter-
+ritorium betraf. Daher erstaunt es nicht, dass nicht alle in Zürich
+mit dem Einsiedler Vergleich zufrieden waren. Namentlich die Sy-
+node protestierte gegen den ausgehandelten Kompromiss und
+fürchtete, den reformatorischen Auftrag in Zukunft nicht mehr
+unter dem Schutz der Obrigkeit ausführen zu können. Sie betonte,
+dass die Verkündigungsfreiheit nicht verhandelbar sei (»wöllend
+wir doch hiemit protestiert haben, dass wir dem göttlichen wort
+nützid wöllind abbrochen haben und das fry […] verkünden«).77
+Manche Klagen wurden erst Jahre nach der Veröffentlichung er-
+hoben und waren daher zum Teil obsolet. Am 6. Dezember 1537
+beschwerten sich die Fünf Orte über zwei Liederdrucke aus Basel.78
+Es handelte sich dabei um Ein neues Lied vom christlichen Ritter
+Huldrych Zwingli aus der Offizin von Lux Schauber und um eine
+nicht identifizierte Liedflugschrift, welche die Messe beschimpfte.79
+An der Tagsatzung am 30. Dezember 1537 berichteten die Basler
+Gesandten über das Verfahren, das bereits vor etwa drei Jahren mit
+einer Gefängnisstrafe des Druckers und mit der Vernichtung der
+vorhandenen Liedflugschriften abgeschlossen worden war.80
+
+76 Bächtold, Krise der Zürcher Reformation, 278–280.
+77 Egli, Actensammlung, 852, Nr. 1941.
+78 EA 4/1c, 912, h.
+79 EA 4/1c, 914, h. Eyn nüw Lied von dem christenlichen Ritter Huldrychen Zwing-
+lin, Basel: Lux Schauber, [um 1535], VD 16 ZV 27502. Beim Lied über die päpstliche
+Messe, nach Aussagen der Zürcher ein Tübinger Druck, könnte es sich um denselben
+Text wie im Liederdruck Ein jämmerliches Heulen und Weinen von wegen der abge-
+storbenen Messe (VD 16 ZV 8643) handeln. Das Lied vom christlichen Ritter Huldrych
+Zwingli ist nur als Unikat überliefert: Zürich ZB, Res 833 (ursprünglich in der Samm-
+lung von Johann Jakob Simler); Digitalisat unter http://dx.doi.org/10.3931/e-ra-
+ra–33256.
+
+80 EA 4/1c, 918, d. Vgl. auch ebd., 930, n.
+
+388
+
+Christian Scheidegger
+
+Konsequenzen hatte hingegen die Klage der Fünf Orte gegen das
+Interlaknerlied, das der Buchhändler Hans Hippocras rund zwei
+Jahre nach Erscheinen an der Martinimesse 1538 in Bern zum Ver-
+kauf anbot.81 Das Lied beschreibt aus reformierter Sicht, wie die
+Unterwaldner den Widerstand der Berner Oberländer gegen die
+Reformation unterstützen wollten, von den Berner Truppen jedoch
+in die Flucht geschlagen wurden. Die Berner Obrigkeit leitete eine
+Untersuchung ein und berichtete den Eidgenossen, dass der Buch-
+händler die Liederdrucke nicht hier, sondern in Frankfurt am Main
+erworben hätte. Man habe den Buchhändler bestraft und die Dru-
+cke beschlagnahmt, um sie zu verbrennen. Unzufrieden über die
+getroffenen Massnahmen, berieten die Fünf Orte das weitere Vor-
+gehen, um ihre verletzte Ehre wiederherzustellen. Moniert wurde,
+dass das Lied, welches gegen den zweiten Landfrieden verstosse,
+weiterhin straflos gesungen werde und dass Autor und Drucker
+nicht belangt würden. Die Beschuldigten konnten ermittelt werden
+und mussten sich in Bern verantworten. Der Drucker Matthias
+Apiarius wurde freigesprochen, weil er das Lied in Strassburg ge-
+druckt, zu diesem Zeitpunkt aber nicht unter Berner Gerichtsbar-
+keit gestanden hatte. Cosmas Alder wurde als Urheber des
+Schmähliedes mit 10 Gulden bestraft. Der Berner Gesandte infor-
+mierte die Tagsatzung über die Bestrafung der Schuldigen, ohne
+ihre Namen zu nennen.82
+
+In einem Fall führte die Intervention sogar zur Ausweisung des
+Druckers. Am 1. März 1564 beschwerte sich die Luzerner Obrig-
+keit in Bern über zwei Liederdrucke.83 Das eine Lied hat Hans
+Kraft, Stadtschreiber in Willisau, zum Verfasser und schildert die
+
+81 Ein nüw Lied von der uffruor der landtlüten zuo Inderlappenn. [Straßburg: Matthias
+Apiarius 1536] – VD 16 M 747. Digitalisat unter http://dx.doi.org/10.3931/e-rara–874;
+dazu: Adolf Fluri, Mathias Apiarius, der erste Buchdrucker Berns, in: Neues Berner
+Taschenbuch 3 (1897), 209–223, und Adolf Fluri, Das Interlachnerlied, in: Neues Ber-
+ner Taschenbuch 9 (1904), 259–265.
+
+82 EA 4/1c, 1042, 1043, 1053, 1060, 1066, 1074 und 1086; Fluri, Mathias Apiarius,
+209–230. Als Autor wurde fälschlicherweise auch Niklaus Manuel vermutet, vgl. Re-
+gula Schmid, Geschichte im Dienst der Stadt: Amtliche Historie und Politik im Spät-
+mittelalter, Zürich 2009, 280.
+
+83 Dazu und zu folgendem Adolf Fluri, Samuel und Sigfrid Apiarius Buchdrucker in
+Bern (1554–1565), in: Neues Berner Taschenbuch 3 (1898), 194–204, und Theodor von
+Liebenau, Hans Kraft von Luzern, in: Anzeiger für schweizerische Geschichte 1 (1873),
+326–332.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+389
+
+Schlacht bei Dreux während des ersten Hugenottenkriegs,84 wäh-
+rend es sich beim anderen Schmählied wahrscheinlich um dasjenige
+handelt, das dieselbe Schlacht aus reformierter Sicht beschreibt
+und mit der Melodie »Botz marter / Küry / Velte / Du hast vil
+Lieder gmacht« zu singen ist.85
+
+Ausgelöst wurde Luzerns Intervention durch die Klage des Ver-
+fassers des ersten Liedes gegen einen Buchhändler, der den Lieder-
+druck verlegt und im Luzernergebiet verkauft hatte. Kraft behaup-
+tete, sein Lied sei mit Textänderungen im Druck erschienen. Laut
+Aussage des verhafteten Buchhändlers stammten die Drucke aus
+der Offizin von Samuel Apiarius in Bern. Namen und Schicksal des
+Buchhändlers sind leider nicht bekannt. Apiarius gestand, die um-
+strittenen Lieder gedruckt zu haben. Die Berner Obrigkeit liess die
+feilgebotenen Liedflugschriften beschlagnahmen und bestrafte den
+schuldigen Drucker mit einem definitiven Landesverweis. Hinter
+dem harten Urteil stand möglicherweise das Bestreben der Berner,
+einen unliebsamen Bürger loszuwerden, da Apiarius mit schwieri-
+gen familiären Verhältnissen und ständigen Geldnöten zu kämpfen
+hatte. Bereits 1559 wurde er wegen einer Geldangelegenheit und
+einer Ehrverletzung für vier Jahre aus der Stadt verbannt.
+
+Bei anderen Interventionen ist unklar, ob die Verfahren abge-
+schlossen oder eingestellt wurden, da in den Abschieden die ent-
+sprechenden Traktanden fehlen. Ein Beispiel dafür ist die anonyme
+Flugschrift gegen die Bibelverbrennung in Zug am 14. März 1556:
+Gründlicher Bericht, aus was Ursachen die von Zug das Wort Got-
+tes verbrannt haben.86 Die Zuger Obrigkeit liess damals durch ih-
+
+84 Hans Kraft, Ein schoe n neüw Lied / von der syghafften grossen Mannschaft / So zuo
+Plavilla / by Troe s / in Frankckreich zwüschen Paris unnd Orlians / im 1562. Jar be-
+schehen, S.l. et s.a. Vgl. Eberhard Nehlsen, Liedflugschriften des 15. bis 18. Jahrhun-
+derts: Quellenverzeichnis, Typoskript (Stand: 20.2.2018), Q–0443.
+
+85 Ein hüpsch nüw Lied von dem herten streit, so zuo Plaphilen zwüschen Paryß und
+Orliens inn Franckreych beschehen ist, und wie die Papisten die Euangelischen Christen
+habend woellen umbbringen, vertryben und gantz außreütten, [Bern: Samuel Apiarius],
+1563 (VD 16 ZV 28075). Druckerzuweisung durch Eberhard Nehlsen.
+
+86 Gründtlicher bericht / uß was ursachen die von Zug / in dem Schwytzerland / die
+heylig Bibel / das luter Wort Gotts / uff den acht und zwentzigsten Tag Jenners deß
+tusendt fünffhundert sechsundfünfftzigsten Jars offentlichen verbrendt habend. S.l. et
+s.n., 1556 (VD 16 G 3567). Zur ganzen Polemik und zu den verschiedenen Ausgaben
+vgl. Christine Göttler, Die Zuger haben das Wort Gottes verbrannt: Strategien der
+konfessionellen Polemik am Beispiel einer reformatorischen Schmähschrift vom Jahr
+
+390
+
+Christian Scheidegger
+
+ren Gerichtsdiener beschlagnahmte Froschauer-Bibeln und andere
+protestantische Drucke verbrennen, um Gerüchte über eine Hin-
+wendung Zugs zum evangelischen Glauben zu widerlegen und den
+Forderungen der verbündeten katholischen Orte zu genügen. Am
+16. März desselben Jahres zeigte der Zuger Gesandte den eidge-
+nössischen Ständen die genannte Flugschrift, welche die katholi-
+sche Konfession und den Stand Zug schmähte, indem die Bibel-
+verbrennung als blasphemischer Akt hingestellt wurde.87 Die ver-
+sammelten eidgenössischen Gesandten einigten sich darauf, in je-
+dem Ort Nachforschungen über den unbekannten Verfasser anzu-
+stellen. Während die Basler, Berner und Zürcher Gesandten an der
+nächsten Tagsatzung meldeten, solche Schriften seien bei ihnen
+nicht gedruckt worden, berichtete der Bote von Unterwalden, man
+habe einen Basler Buchhändler zur Strafe für den unerlaubten Ver-
+kauf von Schmähschriften an das Halseisen gelegt und man würde
+solche Buchhändler künftig zusammen mit ihrer Ware verbren-
+nen.88 Während die einen Drohungen ausstiessen, hüllten sich an-
+dere anscheinend in Schweigen, denn in Zürich wusste man sehr
+wahrscheinlich mehr, als man an den Tagsatzungen preisgab. Ver-
+schiedene Hinweise deuten jedenfalls auf eine zürcherische Betei-
+ligung an der Entstehung der Schrift.89 Die Abschiede der an-
+schliessenden Tagsatzungen behandeln die Angelegenheit indessen
+nicht mehr.
+
+Die Fünf Orte beklagten sich immer wieder über Drucke, welche
+ihre religiösen Gefühle oder ihre Ehre verletzten würden, doch kam
+es häufig zu keinem Verfahren. Jedenfalls sind solche nicht akten-
+kundig. Statt eine Nachzensur zu fordern, versuchten die Ge-
+schmähten ihre Ehre gelegentlich mit einer Gegendarstellung zu
+retten. Bestrebungen in diese Richtung gab es zum Beispiel in Zu-
+sammenhang mit der Schweizer Chronik von Johannes Stumpf.
+Der Luzerner Schultheiss Heinrich Fleckenstein beschwerte sich
+auf der Tagsatzung am 23. Januar 1548 über die eben im Druck
+erschienene Chronik, wobei er offenbar die Darstellung des zwei-
+
+1556, in: Zwingliana 18 (1989), 69–119. Die Druckerzuweisung Göttlers ist zweifel-
+haft.
+
+87 EA 4/2, 5, u.
+88 EA 4/2, 10, t.
+89 Göttler, Zuger, 84–86.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+391
+
+ten Kappelerkrieges missbilligte.90 Auch andere Passagen wie die
+kritischen Ausführungen über das Mönchtum, die auf den St. Gal-
+ler Bürgermeister und Reformator Joachim Vadian zurückgehen,
+stiessen bei katholischen Lesern auf Ablehnung.91 Weil Stumpf sei-
+ne Chronik für eine konfessionell gemischte Leserschaft konzipier-
+te, stand Vadian bei der Abfassung seines Beitrags im Spannungs-
+feld zwischen historischer beziehungsweise konfessioneller Wahr-
+heit einerseits und staatsmännischer Gesinnung andererseits und
+befürchtete, dass die Vorzensur in Zürich seine Darstellung abän-
+dern könnte.92 Dies war scheinbar nicht der Fall, doch war nach
+der Drucklegung zeitweise mit einer Nachzensur zu rechnen. Denn
+nachdem Kaiser Karl V. angeblich Stumpfs Chronik im Reich ver-
+boten hatte93, beschlossen die katholischen Orte der Eidgenossen-
+schaft am 12. Juni 1548 die Bildung einer Gelehrtenkommission
+zur Begutachtung der Chronik. Anschliessend wollten sie entschei-
+den, ob man eine Gegendarstellung drucken oder eher andere
+Massnahmen ergreifen solle.94 Von weiteren Reaktion der katho-
+lischen Orte ist indessen nichts bekannt.
+
+Ähnlich ist ein Vorfall in Zusammenhang mit der Wiedereröff-
+nung des Konzils von Trient Ende 1560. Heinrich Bullinger legte in
+seiner anfangs 1561 gedruckten Schrift De conciliis dar, dass für
+ein christliches Konzil nur die Heilige Schrift Richtschnur und al-
+lein Christus Richter sein könne.95 Sie war eine Absage an das Tri-
+dentinum. An der eidgenössischen Tagsatzung vom 14. April 1561
+beschwerten sich die katholischen Orte über eine zürcherische und
+
+90 EA 4/1d, 911,ff. und 919,ff.
+91 Christian Moser, Die Dignität des Ereignisses: Studien zu Heinrich Bullingers Re-
+formationsgeschichtsschreibung, Leiden 2012 (Studies in the History of Christian Tra-
+ditions 163), Bd. 1, 363f., und Christian Sieber, Begegnungen auf Distanz: Tschudi und
+Vadian, in: Aegidius Tschudi und seine Zeit, hg. von Katharina Koller-Weiss und Chris-
+tian Sieber, Basel 2002, 130.
+
+92 Die Vadianische Briefsammlung der Stadtbibliothek St. Gallen, hg. von Emil Ar-
+benz und Hermann Wartmann, Bd. 6, 508–510, Nr. 1449, und Bernhard Stettler (Hg.),
+Die Kleinere Chronik der Äbte: Abtei und Stadt St. Gallen von den Anfängen bis zum
+Beginn der Neuzeit (719–1532) aus reformatorischer Sicht, Zürich 2013, 22f.
+
+93 Zürich ZB, Ms S 69, Nr. 124 (Brief von Johann Rudolf Stumpf an seinen Vater
+Johannes, 30. März 1548). Vgl. hierzu Gustav Müller, Die Quellen zur Beschreibung des
+Zürich- und Aargaus in Johannes Stumpfs Schweizerchronik, Zürich 1916, 30f.
+
+94 EA 4/1d, 959, y.
+95 Heinrich Bullinger, De conciliis, Zürich: Christoph Froschauer, 1561 (VD 16 B
+
+9581).
+
+392
+
+Christian Scheidegger
+
+eine bernische Schmähschrift gegen das Konzil und hatten damit
+Bullingers De conciliis und vielleicht eine von Bullinger übersetzte
+Schrift des italienischen Reformators Pietro Paolo Vergerio im Vi-
+sier.96 Der Zürcher Bürgermeister Bernhard von Cham, dem Bul-
+linger seine Konzilsschrift gewidmet hatte, erklärte, dass das um-
+strittene Buch die katholischen Orte mit Sicherheit nicht beleidigen
+würde. Die eidgenössischen Gesandten der Fünf Orte vereinbarten
+im Juni, sich für die kommende Tagsatzung in Baden von ihren
+Obrigkeiten instruieren zu lassen, was man gegen die Zürcher
+Konzilsschrift unternehmen wolle.97 Bullinger vermutete, dass der
+päpstliche Legat die Beschwerde veranlasst hatte und die katholi-
+schen Gesandten keine Ruhe geben würden.98 Zwar ist in den an-
+schliessenden Abschieden der Tagsatzung nicht mehr von Bullin-
+gers Schrift die Rede, doch leitete der Nuntius die Bitte um eine
+Gegenschrift tatsächlich nach Rom weiter, wo 1562 statt einer
+griffigen Antwort nur eine bereits publizierte Schrift des Englän-
+ders Reginald Pole unter einem anderen Titel neu aufgelegt wur-
+de.99
+
+Umstrittene Drucke setzten immer wieder ein politisches Karus-
+sell in Gang. Hohe Wellen schlugen Rudolf Gwalthers Antichrist-
+Predigten, die 1546 vor dem Hintergrund des Schmalkaldischen
+Krieges und des Konzils von Trient erstmals gedruckt und zu einem
+Bestseller in der reformierten Welt wurden.100 Gwalther ruft dazu
+auf, dass wir unseren Glauben allein auf Jesus Christus setzen und
+»by jm alles das suochen / das uns zum heil und zuo der sae ligkeit
+nodtwendig ist.«101 Mit biblischen Belegen und Zitaten mittelalter-
+
+96 EA 4/2, 170, d, und 175, y. Pietro Paolo Vergerio, Concilium zuo Trient, [Bern:
+Matthias Apiarius], 1551 (VD 16 V 648). Vgl. hierzu Rudolf Pfister, Zu Bullingers
+Beurteilung des Konzils von Trient, in: Heinrich Bullinger, 1504–1575: Gesammelte
+Aufsätze zum 400. Todestag, hg. von Ulrich Gäbler und Erland Herkenrath, Zürich
+1975, Bd. 1, 132–138, und Beschreibendes Verzeichnis der gedruckten Werke von Hein-
+rich Bullinger, hg. von Joachim Staedtke, Zürich 1972 (Heinrich Bullinger Werke I/1),
+Nr. 709.
+
+97 EA 4/2, 179, d.
+98 Pfister, Bullingers Beurteilung, 136.
+99 Reginald Pole, De concilio liber, Rom: Paulus Manutius, 1562.
+100 Vischer, Bibliographie, C 361–368 und C 1065, VD 16 W 1054, W 1064, W
+
+1068, GLN–2116 und ESTC S119373.
+
+101 Rudolf Gwalther, Der Endtchrist: kurtze, klare und einfaltige Bewysung in fünff
+
+Predigen begriffen, [Zürich: Froschauer, 1546], 86r.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+393
+
+licher Theologen versucht er nachzuweisen, dass der Papst der An-
+tichrist sei, weil er sich an Gottes Stelle setze und sich als Haupt
+der Kirche und Oberpriester ausgebe, was doch nur Christus zu-
+stehe.102 Verkündigungsfreiheit und politische Machtansprüche tra-
+fen erneut aufeinander. Gwalthers Buch beschäftigte die eidgenös-
+sischen Gesandten 1547 an verschiedenen Tagsatzungen. Die Fünf
+Orte beharrten in aufsässiger Weise darauf, dass der Autor bestraft
+werden müsse, weil der Druck den zweiten Landfrieden verletzten
+würde, während sich die Zürcher Obrigkeit hinter Gwalther stellte
+und seinen reformatorischen Auftrag, den Glauben zu verkünden
+und gegen Angriffe zu verteidigen, bestätigte. Ein Vermittlungsvor-
+schlag der Schiedsorte scheiterte am Widerstand von Luzern und
+Unterwalden. Vielleicht liess man die Angelegenheit dennoch ru-
+hen, denn die folgenden eidgenössischen Abschiede enthielten die-
+ses Traktandum nicht mehr.103 Andererseits war das »unchristlich
+Lösterbuch« den katholischen Eidgenossen noch vierzig Jahre spä-
+ter in schlechter Erinnerung.104
+
+Für viel diplomatische Aufregung und eine literarische Fehde
+sorgte die von Sebastian Werro ins Deutsche übersetzte Schrift
+Fragstuck des christlichen Glaubens an die neuen sectischen Prä-
+dikanten des schottischen Jesuiten John Hay.105 Nachdem über vie-
+le Jahrzehnte in der katholischen Schweiz kein einziger Drucker
+tätig war, druckte Abraham Gemperlin im Juli 1585 die Fragstuck
+als erstes Werk seiner Offizin in Freiburg i.Ue. Die Schrift enthält
+206 Fragen Hays sowie 207 Fragen Werros, welche die Lehre und
+die Autorität der reformierten Prediger angreifen. Die Gesandten
+der vier evangelischen Orte Zürich, Bern, Basel und Schaffhausen
+einigten sich am 6. September desselben Jahres darauf, von der
+Freiburger Obrigkeit schriftlich die Konfiskation der polemischen
+Schrift zu fordern. Da ein wesentlicher Teil der Auflage bereits für
+
+102 Gwalther, Endtchrist, 48v.
+103 Bächtold, Bullinger, 95–103. Zur Thematik vgl. Christian Moser, »Papam esse
+Antichristum«: Grundzüge von Heinrich Bullingers Antichristkonzeption, in: Zwingli-
+ana 30 (2003), 65–101.
+
+104 EA 4/2, 927 (Antwort der sieben katholischen Orte, April 1586).
+105 John Hay / Sebastian Werro, Fragstück Des Christlichen Glaubens an die neuwe
+Sectische Predigkandten, Freiburg i.Ue.: Abraham Gemperlin, 1585 (VD 16 H 843);
+Alain Bosson, L’Atelier typographique de Fribourg (Suisse): Bibliographie raisonne´e des
+imprime´s 1585–1816, Fribourg 2009, Nr. 1.
+
+394
+
+Christian Scheidegger
+
+die Buchmesse nach Frankfurt am Main verschickt worden war,
+sollte Basel zudem beim Frankfurter Rat vorstellig werden und ein
+Verkaufsverbot erwirken.106 In der Folge war die Schrift dort für
+eine kurze Zeit angeblich nicht erhältlich, doch wurde das Verbot
+bald wieder aufgehoben. Die Frankfurter Theologen hätten die
+Zulassung damit begründet, dass der polemische und unwahre In-
+halt des umstrittenen Buches einfach zu wiederlegen sei und ein
+Verbot in diesem Fall mehr schade als nütze, berichteten die Basler
+Gesandten.107 Die evangelischen Eidgenossen sahen dies offenbar
+anders. Weil sie in der Veröffentlichung der Fragstuck einen Ver-
+stoss gegen den zweiten Landfrieden erkannten, forderten sie eine
+Nachzensur.108 Interessanterweise zogen sie den Fall nicht vor die
+gesamteidgenössische Tagsatzung, sondern verhandelten bilateral.
+Ebenso wurden die vier Orte Ende 1585 und Anfang des folgenden
+Jahres nicht an der Tagsatzung, sondern bei den einzelnen katho-
+lischen Obrigkeiten vorstellig, um vor der Zerrissenheit der Eid-
+genossenschaft zu warnen.109 Die von Werro herausgegebene
+Schrift spielte dabei nur noch eine untergeordnete Rolle. Hinter-
+grund der diplomatischen Aktion war die mit den konfessionellen
+Spannungen zusammenhängenden Aussenbeziehungen zu Genf,
+Savoyen und Frankreich. Die Antwort der katholischen Orte folgte
+im April 1586 und erschien zusammen mit dem Fürtrag der evan-
+gelischen Orte und dem Text des »Goldenen Bundes« knapp zwei
+Jahre später bei Adam Berg in München im Druck.110 Die Frag-
+stuck stehen am Anfang dieser Konsultationen, die nicht mit der
+viel beschworenen eidgenössischen Einigkeit, sondern mit einem
+Bruch endeten: am 5. Oktober 1586 schlossen sich die sieben ka-
+tholischen Stände zum Schutz ihres Glaubens im »Goldenen Bund«
+zusammen.111
+
+106 EA 4/2, 886, a.
+107 EA 4/2, 892, c.
+108 Othmar Perler, Sebastian Werro (1555–1614): Beiträge zur Geschichte der ka-
+tholischen Restauration zu Freiburg in der Schweiz, in: Freiburger Geschichtsblätter 35
+(1942), 101f.
+
+109 Perler, Werro, 103.
+110 VD 16 S 4803–4806. Die Texte sind abgedruckt in: EA 4/2, 896–901 (Fürtrag der
+vier evangelischen Orte, November 1585), 920–940 (Antwort der sieben katholischen
+Orte, April 1586) und 1590–1593 (Goldener Bund, 5. Oktober 1586). 1658 erschien
+davon ein Nachdruck in Luzern (VD 17 23:309741Z).
+
+111 Albert Müller, Der goldene Bund 1586, Zug 1965, und Perler, Werro, 106.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+395
+
+Die Gesandten der evangelischen Städte planten »Ehren halber«
+schon im September 1585 eine offizielle Widerlegung der Schrift
+von Hay und Werro, die jedoch nicht zustande kam. Dagegen er-
+schienen verschiedene private Schriften im Druck, die im Folgen-
+den kurz beschrieben werden. Der Grund, warum die meisten da-
+von unfirmiert und anonym oder unter einem Pseudonym veröf-
+fentlicht wurden, liegt aller Wahrscheinlichkeit nach in der be-
+fürchteten Nachzensur. Verschiedene Hinweise erlauben es den-
+noch, die Drucke einem Autor und einer Offizin zuzuschreiben.
+Demnach stammt ein Druck aus einer Basler Offizin, während alle
+anderen in Strassburg erschienen sind. Ob eine Vorzensur stattge-
+funden hat, ist zu bezweifeln.
+
+1. Jochum Hüppentrager [i.e. Johannes Haller:] Bottenbrot An den Ehrwir-
+digen Herren Sebastian Werro / Pfarrherrn zuo Fryburg in Uechtland / und
+seine Gesellen. [Basel: Samuel Apiarius], 1586. – VD 16 H 324
+
+Dank einer handschriftlichen Notiz im Exemplar der Wickiana kann der
+Berner Pfarrer Johannes Haller (1546–1596) als Verfasser vermutet wer-
+den.112 Die Schrift ist in Dialogform abgefasst und entstand im Winter
+1585/86.113 Haller schrieb bereits 1584 ein Drama (Glückwünschung), das
+von der eidgenössischen Einigkeit handelte und das noch im selben Jahr bei
+Apiarius in Basel gedruckt wurde (VD 16 ZV 30348; Abb. 2).114 Die Schrift
+Bottenbrot dagegen erschien unfirmiert, kann aber aufgrund der Zierstücke
+(wie in VD 16 N 618) der Basler Offizin von Apiarius zugeordnet werden.
+Sebastian Werro verfasste eine handschriftliche Antwort auf das Botten-
+brot.115
+
+2. Jacques Pineton: Von dem Jesuwitischen Geist und jhrem Gewissen. [Strass-
+
+burg: Bernhard Jobin], 1586.
+
+Der reformierte Prediger Jacques Pineton de Chambrun veröffentlichte
+1584 in Nıˆmes seine Schrift L’esprit et conscience jesuitique (French Ver-
+nacular Books, Nr. 43717), um John Hays Angriffe zu widerlegen. Der
+deutsche Übersetzer stand wahrscheinlich in Kontakt mit den Vertretern der
+
+112 Zürich ZB, Ms F 34, fol. 148r. Vgl auch die Zuordnung bei Karl Goedeke,
+Grundrisz zur Geschichte der deutschen Dichtung aus den Quellen, Bd. 2 (Das Refor-
+mationszeitalter), Dresden 1886, 276, Nr. 96.
+
+113 Perler, Werro, 108.
+114 Katrin Gut, Johannes Hallers »Glückwünschung« von 1584, in: Sondierungen
+zum Theater: Zehn Beiträge zur Theatergeschichte der Schweiz, hg. von Andreas Kotte,
+Basel 1995, 51–95.
+
+115 Perler, Werro, 107.
+
+396
+
+Christian Scheidegger
+
+Abb. 2: Beschwörung eidgenössischer Einigkeit. Johannes Haller, Glückwünschung zuo
+der ernüwerten alter eydgenossischer Trüw und Fründtschafft beyder Stett Zürich und
+Bern, Basel: Samuel Apiarius, 1584: Zentralbibliothek Zürich, Ms F 32, 151r–174r.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+397
+
+evangelischen Orte116, muss aber noch ermittelt werden. Wie das auf der
+letzten Seite verwendete Zierstück zeigt (wie in VD 16 F 1156), wurde
+Pinetons Schrift, zusammen mit der Einfaltigen Antwort, in der Strassbur-
+ger Offizin von Bernhard Jobin gedruckt.
+
+3. [Abraham Musculus:] Einfaltige Antwort Auff die arglistigen Fragstuck /
+an die Lutherischen Predigkanten. [Strassburg: Bernhard Jobin], 1586. –
+VD 16 E 718
+
+4. [Abraham Musculus:] Einfaltige Antwort Auff die arg und listige Fragstück
+der Jesuiter an die Luthrischen Predigkanten. – Zusammen mit: Jacques
+Pineton: Von dem Jesuwitischen Geist und jhrem Gewissen. [Strassburg:
+Bernhard Jobin], 1586. – VD 16 ZV 15497
+
+Laut Titelblättern (3. und 4.) haben verschiedene Theologen in »Teutschen
+Landen« die Einfaltige Antwort verfasst. Gestützt auf zwei Widmungsex-
+emplare, hat Othmar Perler die Schrift jedoch dem Berner Dekan Abraham
+Musculus zugeschrieben.117 Die Einfaltige Antwort erschien mit zwei ab-
+weichenden Titelblättern, eines in Schwarzdruck und das andere in
+Schwarz-Rotdruck. Die Ausgabe mit dem zweifarbigen Titelblatt enthält
+nicht nur den Text von Musculus, sondern auch die genannte Schrift von
+Pineton. Die beiden unfirmierten Drucke stammen aus der Strassburger
+Offizin Jobin, wie das bereits erwähnte Zierstück am Schluss der einen
+Auflage (VD 16 ZV 15497) und die in beiden Drucken verwendeten Titel-
+einfassungen (wie in VD 16 F 1156) erkennen lassen. Die Jesuiten reagier-
+ten mit einer gedruckten Verteidigungsschrift von Peter Hansonius auf die
+Einfaltige Antwort.118 Auch Sebastian Werro bereitete eine umfangreiche
+Replik vor. Da der Freiburger Rat jedoch keine Druckbewilligung erteilte,
+ist sie nur handschriftlich und zwar in vier verschiedenen Fassungen über-
+liefert.119
+
+5. Christian Amport: Ad Sebatsiani Verronis, quæstionis de Verbo Dei re-
+
+sponsiones analyticæ. Genf: Eustache Vignon, 1586. – GLN 3156
+
+Der Berner Theologe Christian Amport verfasste bereits im Herbst 1585
+eine Widerlegung der jesuitischen Angriffe, die jedoch erst im August des
+folgenden Jahres mit einer Widmungsvorrede von The´odore de Be`ze in der
+Genfer Offizin von Vignon gedruckt wurde. Vielleicht weil die Fünf Orte
+kaum eine Möglichkeit hatten, in Genf zu intervenieren, erschien Amports
+
+116 EA 4/2, 886.
+117 Perler, Werro, 110.
+118 Peter Hansonius, Offenbarung der neuw erschröcklichen unnd Teuflischen Land-
+lügen, so dises 1586. Jahrs wider die Societet Iesu im Reich und andern Landen hin und
+wider außgesprengt worden, Freiburg i.Ue.: Abraham Gemperlin, 1586. VD 16 ZV
+7339; Bosson, Atelier, Nr. 6.
+
+119 Perler, Werro, 111f.
+
+398
+
+Christian Scheidegger
+
+Widerlegung als einzige protestantische Schrift dieser literarischen Fehde
+nicht anonym und mit Impressum.
+
+6. [Abraham Musculus:] Bestendiger Gegenbericht Auff etliche in der Siben
+Papistischen Orten der Eydgnosschafft / newlich fürbrachten Antwort ein-
+geführte Glaubens Articul / welche sie gegen der Vier Euangelischen Stätt
+wolmeynenden Fürtrag / kurtz vor jhrer Lucernischen zusamen Bündnuß /
+weitlaeuffig stellen und offentlich außbringen lassen. [Strassburg: Bernhard
+Jobin], 1588. – VD 16 B 2284
+
+Nachdem die Antwort der katholischen Orte zusammen mit dem Fürtrag
+der Evangelischen und dem »Goldenen Bund« 1588 in München gedruckt
+war, erschien eine anonyme Gegendarstellung aus reformierter Sicht. Die
+Schrift will die Antwort der sieben katholischen Orte widerlegen. Als Ver-
+fasser wird Abraham Musculus vermutet, dem auch die Einfaltige Antwort
+zugeschrieben wird. Der unfirmierte Druck kann aufgrund des am Schluss
+der Vorrede verwendeten Zierstücks (wie in VD 16 E 863) Bernhard Jobin
+zugeordnet werden, während das Emblem auf dem Titelblatt nicht als Dru-
+ckermarke dieser Offizin bekannt ist. Der Gegenbericht von Musculus wur-
+de 1658 nach dem ersten Villmergerkrieg anlässlich des dritten Landfrie-
+dens nachgedruckt (VD 17 23:309746N) und soll in Luzern öffentlich ver-
+brannt worden sein.120
+
+4. Beobachtungen zur Zensur
+
+in den katholischen Orten
+
+Die von den katholischen Obrigkeiten geübte Bücherzensur ist eine
+Folge ihrer Papsttreue. Weil es in der Eidgenossenschaft im unter-
+suchten Zeitraum nur drei katholische Pressen gab, spielte die Vor-
+zensur eine untergeordnete Rolle. Von desto grösserer Bedeutung
+war die Zensur im engeren Sinn, also das Verbot von häretischen
+Büchern. Die im Zuge der Badener Disputation verabschiedete
+Zensurordnung, welche unter anderem die Verbreitung reforma-
+torischer Literatur untersagte, sollte in allen eidgenössischen Orten
+eingehalten werden. Die katholischen Obrigkeiten bemühten sich
+indessen schon früher, diesbezügliche Weisungen aus Rom sowohl
+in den eigenen Territorien, als auch in den gemeinsam verwalteten
+Untertanengebieten umzusetzen. Der Thurgauer Landvogt Niklaus
+
+120 Gottlieb Emanuel von Haller, Bibliothek der Schweizer-Geschichte, Bd. 5, Bern
+
+1787, 205, Nr. 626.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+399
+
+Muheim von Uri liess anfangs 1524 die zahlreichen Evangelischen
+in seinem Verwaltungsgebiet warnen und empfahl den Tagsat-
+zungsgesandten als weitere Massnahme, die lutherischen Bücher zu
+verbieten und zu beschlagnahmen.121 Denselben Vorschlag machte
+sein Nachfolger Joseph Amberg von Schwyz am 18. Oktober
+1525.122 Offenbar hatte man im Anschluss daran tatsächlich
+Schriften konfisziert, denn an der Tagsatzung am 10. April 1526
+wurde besprochen, was nun mit den beschlagnahmten Büchern ge-
+schehen soll.123 Im Februar 1527 beschwerte sich die Zürcher Ob-
+rigkeit darüber, dass die übrigen regierenden Orte im Thurgau die
+politischen Rechte Zürichs ignoriert und eigenmächtig ein Bibel-
+verbot erlassen hätten.124 Zur gleichen Zeit verbot auch der Abt
+von St. Gallen in Waldkirch die protestantischen Bibeldrucke, was
+die Waldkirchner dazu bewog, in Zürich Unterstützung zu su-
+chen.125 Auch in anderen Untertanengebieten und unselbständigen
+Orten wurden ähnliche Bücherverbote durchgesetzt, wie die be-
+schlossene öffentliche Verbrennung protestantischer Literatur
+1528 in Bremgarten zeigt.126
+
+Trotz dieser Massnahmen gab es in den katholischen Territorien
+auch nach dem zweiten Kappelerkrieg einen florierenden Markt
+verbotener beziehungsweise unzensierter Bücher, was die zustän-
+digen Obrigkeiten regelmässig intervenieren liess. Man fürchtete,
+dass die einfachen Leute durch protestantische Literatur verführt
+würden.127 Nachdem in Unterwalden 1552 solche Schriften aufge-
+taucht waren, besprachen die Fünf Orte das Vorgehen für die
+nächste Tagsatzung.128 Im Januar 1555 vereinbarten die katholi-
+schen Gesandten, Verkauf, Kauf und Lektüre von Büchern aus pro-
+testantischen Orten zu verbieten.129 Sehr zum Missfallen der Ob-
+rigkeiten führten reisende Buchhändler dennoch solche Titel in ih-
+
+121 EA 4/1a, 373f., v.
+122 EA 4/1a, 791.
+123 EA 4/1a, 876f., k.
+124 EA 4/1a, 1045 (»daß keiner das new noch alt testament und derglichen heiliger
+geschrift büecher haben, lesen noch davon reden … sollen by hohen penen und stra-
+fen«).
+
+125 EA 4/1a, 1057.
+126 EA 4/1a, 1278, f.
+127 EA 4/2, 233, l.
+128 EA 4/1e, 642,d.
+129 EA 4/1e, 1126, s.
+
+400
+
+Christian Scheidegger
+
+rem Sortiment. Im September 1555 wollten die katholischen Orte
+deshalb die Zensur wieder strenger beachten und einigten sich dar-
+auf, die Ware zu prüfen und diejenigen Buchhändler, die protes-
+tantische Schriften mit sich führen, zu verhaften und zu bestra-
+fen.130 Um den Buchmarkt besser zu überwachen, wurde im April
+1561 vorgeschlagen, dass in den sieben katholischen Orten die
+Gelehrten mit der Zensur beauftragt werden sollen.131 Im gleichen
+Jahr wurde der Buchhändler Hans Hablützel aus Aarau in Einsie-
+deln zu einer Geldbusse verurteilt, weil er evangelische Literatur
+mit sich führte. Der Scharfrichter verbrannte die beschlagnahmten
+Bücher, die einen geschätzten Wert von 20 Gulden hatten (Abb.
+3).132 Ähnlich erging es dem Buchhändler Peter Erp aus dem All-
+gäu. Er wurde 1578 in Luzern verhaftet, da er Schmähschriften
+verkaufen wollte. Man stellte ihn zur Strafe an den Pranger, wäh-
+rend seine Bücher verbrannt wurden.133
+
+Wiederholt klagten die Papsttreuen über den Verkauf evangeli-
+scher Schmähschriften auf dem Zurzacher Markt (1546, 1552,
+1603, 1604, 1605).134 Zurzach gehörte zur Grafschaft Baden, die
+von den katholischen und evangelischen Orten gemeinsam ver-
+waltet wurde. Die Rechtslage in den Gemeinen Herrschaften war
+offenbar nicht immer klar, denn 1560 wollten die Fünf Orte ab-
+klären, ob der Verkauf protestantischer Literatur in Baden im Rah-
+men des zweiten Landfriedens erlaubt sei oder nicht.135 1604 droh-
+ten die katholischen Orte mit der Bestrafung derjenigen Buchhänd-
+ler, die auf den Märkten in den Gemeinen Herrschaften Schmäh-
+schriften verkaufen.136 Damals verhaftete der Landvogt der Graf-
+schaft Baden, Heinrich Pfyffer von Luzern, den Berner Buchdru-
+cker Jean Lepreux in Zurzach.137 Nachdem Lepreux im folgenden
+Jahr wieder Schmähschriften auf dem Zurzacher Markt feilgeboten
+hatte, besprachen die Gesandten der Fünf Orte das vorgesehene
+
+130 EA 4/1e, 1322, a.
+131 EA 4/2, 176, gg.
+132 Zürich ZB, Ms F 12, fol. 253r.
+133 EA 4/2, 659f., n. Vgl. hierzu Willy Brändly, Geschichte des Protestantismus in
+
+Stadt und Land Luzern, Luzern 1956, 128.
+
+134 EA 4/1e, 681, 711, 719; EA V/1, 701–703 und 744.
+135 EA 4/2, 137, e.
+136 EA V/1, 702f., q.
+137 EA V/1, 702f., q. Vgl. auch Müller, Geschichte, 7.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+401
+
+Abb. 3: Bücherverbrennung in Einsiedeln 1561. Kolorierte Federzeichnung in der Nach-
+richtensammlung von Johann Jakob Wick: Zentralbibliothek Zürich, Ms 12, 253v.
+
+402
+
+Christian Scheidegger
+
+Urteil. Man einigte sich darauf, den Schuldigen zu begnadigen,
+obschon er sein Leben verwirkt hätte: Der Landvogt solle ihn an
+den Pranger stellen, ein Exemplar des verbotenen Druckes in sei-
+nen Händen verbrennen und anschliessend auspeitschen lassen.138
+Die Berner Obrigkeit konnte die »gnädige« Bestrafung seines
+Buchdruckers nicht verhindern. Vermutlich wollten die katholi-
+schen Orte 1605 erneut ein Verfahren, dieses Mal wegen einer auf
+dem Zurzacher Markt angeboten Zürcher Schmähschrift eröff-
+nen.139 Das Corpus Delicti war in diesem Fall das Zweite Schotti-
+sche Bekenntnis in deutscher Übersetzung, das Johannes Wolf
+1603 in Zürich ohne Impressum gedruckt hatte und das der Zür-
+cher Buchhändler Hans Felix Haller 1605 in Zurzach verkaufte.140
+Mittels Bücherzensur und anderen Massnahmen sollte jeder An-
+satz einer evangelischen Bewegung im Keim erstickt werden. Bei-
+spiele dafür sind die Religionspolitik in den Gemeinen Herrschaf-
+ten und die bereits erwähnte Verbrennung protestantischer Bibeln
+sowie die Ausweisung des evangelisch gesinnten Leutpriesters aus
+Zug im Jahr 1556. Auch im Luzernergebiet wurden protestanti-
+sche Bibelausgaben benutzt. 1562 wurde bekannt, dass die Geist-
+lichen in Altishofen, Uffikon und Willisau solche Bibeldrucke be-
+sitzen. Drei Jahre später stand ein Einwohner von Rickenbach we-
+gen einer Bibel vor Gericht in Luzern.141 Natürlich war es unmög-
+lich, den Buchbesitz und die Lektüre der Untertanen konsequent zu
+überwachen. Systematische Kontrollen gab es höchstens, wenn die
+Oberen die Geistlichen visitierten. 1579 zeigte der päpstliche Nun-
+tius Giovanni Francesco Bonomi dem Luzerner Rat an, dass bei
+verschiedenen Luzerner Geistlichen ketzerische Bücher gefunden
+worden seien.142
+
+138 EA V/1, 744, b. Vgl. hierzu Müller, Geschichte, 8.
+139 EA V/1, 766.
+140 Gemeine Bekanntnuß deß wahren Glaubens und der Christlichen Religion / nach
+dem einigen Wort Gottes Heyliger Prophetischer und Apostolischer Schrifft, [Zürich:
+Johannes Wolf], 1603 (VD 17 12:124142E). Vgl. die zeitgenössische anonyme Darstel-
+lung zu diesem Fall in der Simmler-Sammlung: Zürich ZB, Ms S 133, Nr. 100. Vgl. die
+Edition der Confessio Scotica posterior in: Reformierte Bekenntnisschriften, Bd. 3/1
+(1570–1599), Neukirchen-Vluyn 2012, 185–228.
+
+141 Brändly, Geschichte, 122.
+142 Brändly, Geschichte, 128; Helvetia: Denkwürdigkeiten für die XXII Freistaaten
+
+der Schweizerischen Eidgenossenschaft, Bd. 8, Aarau 1833, 68.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+403
+
+Die Nuntiatur in Luzern förderte die Katholische Reform und
+stärkte die Verbindung zwischen den lokalen Kirchen und dem
+Apostolischen Stuhl. In diesem Sinne erhielten die eidgenössischen
+Gesandten der Fünf Orte 1597 vom damaligen Nuntius ein Ver-
+zeichnis verbotener Bücher.143 Hinter der Schaffung der Nuntiatur
+und der Katholischen Reform in der Schweiz stand der Mailänder
+Erzbischof und Protector Helvetiae Karl Borromäus, der auch die
+konfessionelle Säuberung des Misox und des Calancatales im No-
+vember 1583 leitete. Seit Jahren lebten dort Protestanten, zeitweise
+durch zwei evangelische Pfarrer seelsorgerlich betreut. Allein in der
+Gemeinde Calanca soll es 50 evangelische Familie gegeben haben.
+Ende November 1583 wurden in Rovoredo unter dem Vorsitz des
+»Heiligen« Borromäus 108 Personen wegen Hexerei angeklagt,
+zehn von ihnen wurden verurteilt und auf dem Scheiterhaufen ver-
+brannt. Auch zahlreiche ketzerische Bücher wurden dem Feuer
+übergeben, während der angeklagte Propst Domenico Quattrini zu
+einer langjährigen Gefängnisstrafe begnadigt wurde.144 Die römi-
+sche Inquisition unterstützte diese gegenreformatorische Aktion
+unter anderem damit, dass sie Pietro Giovanni Stoppani, dem
+papsttreuen Nachfolger Quattrinis, in Anerkennung seiner Ver-
+dienste um den katholischen Glauben in den Drei Bünden einen
+namhaften Geldbetrag zukommen liess.145 Rom versuchte die Zen-
+sur in den eidgenössischen und zugewandten Orten indessen nicht
+erst nach Abschluss des Tridentinums zu beeinflussen. Schon 1561
+forderte die päpstlich-spanische Gesandtschaft von Bernardino
+Bianchi und Giovanni Angelo Riccio von den Drei Bünden, die
+protestantische Druckerei in Puschlav zu schliessen und die Bücher
+aus dieser Offizin zu beschlagnahmen.146
+
+143 EA V/1, 430.
+144 Martin Bundi, Gewissensfreiheit und Inquisition im rätischen Alpenraum: De-
+mokratischer Staat und Gewissensfreiheit. Von der Proklamation der »Religionsfrei-
+heit« zu den Glaubens- und Hexenverfolgungen im Freistaat der Drei Bünde (16. Jahr-
+hundert), Bern 2003, 135–156; Carl Camenisch, Carlo Borromeo und die Gegenrefor-
+mation im Veltlin: Mit besonderer Berücksichtigung der Landesschule in Sondrio, Chur
+1901, 129–137; Albert Frigg, Die Gegenreformation, Chur 1986 (Bündner Kirchenge-
+schichte, Teil 3), 22–28.
+
+145 Germano Maifreda, The Business of the Roman Inquisition in the Early Modern
+
+Era, übers. von Loretta Valtz Mannucci, London 2017, 64.
+
+146 Zürich StA, A 248.1. Zur Offizin von Dolfino Landolfi vgl. HLS, Bd. 7, 600f. Vgl.
+
+auch den Beitrag von Jan-Andrea Bernhard in diesem Band.
+
+404
+
+Christian Scheidegger
+
+Seit Ende des 16. Jahrhunderts wurden zudem katholische Bi-
+bliotheken von häretischen und der Häresie verdächtigen Büchern
+gereinigt. Ohne die strengen Zensurbestimmungen des Trienter
+Konzils im Detail einzuhalten, durchsuchten katholische Gelehrte
+die Bibliotheken nach ketzerischen und anstössigen Büchern. Zum
+Beispiel führte der Jesuitenpater Julius Priscianensis 1598 und
+1599 die Bibliotheksreinigung im Kloster St. Gallen durch, indem
+er und sein Assistent die protestantischen Autorennamen auf den
+Titelseiten ausradierten, verdächtige Texte und Textstellen entfern-
+ten oder durstrichen, meistens aber einfach Warnungen für den
+Leser im Buch notierten. Betroffen waren nicht nur Titel protes-
+tantischer Autoren, darunter auch harmlose wie die Pflanzenkunde
+von Leonhard Fuchs (De historia stirpium commentarii insignes),
+sondern auch Werke antiker und katholischer Autoren.147
+
+Zensurmassnahmen gab es auch in der Stadt Locarno, das zu
+den ennetbirgischen Vogteien gehörte und wo eine starke evange-
+lische Minoritätsgemeinde bestand. 1552 fassten die eidgenössi-
+schen Gesandten den Mehrheitsbeschluss, die Werke von Pietro
+Paolo Vergerio und andere evangelische Literatur in Locarno zu
+beschlagnahmen.148 Am 13. Juli des folgenden Jahres wurde der
+Beschluss erneuert: Wer innert zehn Tagen die verbotenen Bücher
+dem Landvogt nicht abgebe, müsse mit einer harten Bestrafung an
+Leib und Gut rechnen.149 Diese Bücherzensur stand in Zusammen-
+hang mit der Vertreibung der Evangelischen aus Locarno. Die Tag-
+satzung entschied 1554 gegen den Widerstand Zürichs, dass Lo-
+carno eine katholische Stadt bleibe, während den evangelischen
+Einwohnern nur das Recht auf Auswanderung zugestanden wurde.
+Noch im Jahr 1578 fand man im Haus des Apothekers Francesco
+Barnaba neben vielen katholischen Titeln und Laienbüchern »selt-
+samer Fantasien« auch evangelische Literatur, nämlich sechs Bän-
+de von Heinrich Bullinger, Peter Martyr Vermigli und Rudolph
+Gwalther. Da der Apotheker in Locarno die verbotenen und ver-
+
+147 Karl Schmuki, Spuren jesuitischer Zensurmassnahmen im Kloster St. Gallen im
+16. und 17. Jahrhundert, in: Schriften des Vereins für Geschichte des Bodensees und
+seiner Umgebung 117 (1999), 179–206. Die Seiten 195 bis 206 enthalten eine Liste von
+29 zensierten, exemplarspezifisch beschriebenen Titeln aus der Stiftsbibliothek St. Gal-
+len.
+
+148 EA 4/1e, 691, g.
+149 EA 4/1e, 808f., h.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+405
+
+staubten Bücher vor langer Zeit aus Zürich erhalten und in den
+vergangenen zwei Jahren nicht gelesen hatte, an seiner theologi-
+schen Orientierung sonst jedoch keine Zweifel bestanden, wurde er
+nur mit einer Geldbusse von 25 Kronen bestraft. Ausserdem ver-
+brannte der Landschreiber die beschlagnahmten Bücher.150
+
+Die Fünf Orte beeinflussten auch die Religionspolitik im Wallis,
+wo protestantische Drucke eine reformatorische Bewegung in
+Gang gesetzt hatten. 1539 wurden im Wallis die Bücher des Berner
+Buchhändlers Hans Hippocras beschlagnahmt.151 Als die Obwald-
+ner 1555 einen Büchertransport von Zürich ins Wallis entdeckten,
+intervenierten sie und erinnerten die Walliser Obrigkeiten an ihre
+Pflicht, den alten Glauben zu beschützen.152 Tatsächlich wurden in
+der Folge im Zehntbezierk Goms protestantische Bücher ver-
+brannt.153 Nach dem Visper Abschied 1604 wurde es für die Re-
+formierten im Wallis zunehmend schwieriger.154
+
+5. Bücherzensur in den evangelischen Orten
+
+nach 1531
+
+Die Bücherzensur in den Städten Zürich, Basel und Bern war kein
+Kampfmittel der reformierten Theologen, sondern eine Massnah-
+me der Politik und beschränkte sich im Wesentlichen, anders als in
+den katholischen Territorien, auf die Zensur der zum Druck be-
+stimmten Schriften. Da durch die Vorzensur hauptsächlich Aussen-
+konflikte vermieden und der Frieden im Innern erhalten werden
+sollten, bestimmten weniger die kirchlichen, sondern mehr die
+weltlichen Obrigkeiten die Zensur und gestalten die Zensurpraxis
+in ihrem Sinn. Wichtig ist dabei die Feststellung, dass es nirgends
+eine Zensurbehörde gab, sondern immer nur Kommissionen. Das
+heisst, die Staatsmänner, Beamten und Gelehrten beziehungsweise
+Theologen übten ihre Zensorentätigkeit stets nebenamtlich aus.
+
+150 EA 4/2, 1281, Nr. 408.
+151 Fluri, Mathias, 251
+152 EA 4/1e, 1322, a.
+153 EA 4/2, 3, e.
+154 Caroline Schnyder, Reformation und Demokratie im Wallis (1524–1613), Mainz
+
+2002 (Veröffentlichungen des Instituts für Europäische Geschichte Mainz 191).
+
+406
+
+Christian Scheidegger
+
+Das erklärt zu einem Teil die eher willkürliche Zensurpraxis. In
+Bern bestand die 1539 eingesetzte Zensurkommission aus dem
+Stadtpfarrer, dem Venner, einem Ratsvertreter und dem Seckel-
+schreiber. Vermutlich löste sich die Kommission mit der Zeit auf,
+denn die Zensur wurde später durch die Schulherren und die Stadt-
+geistlichen ausgeübt. Gelegentlich beauftragte der Rat auch den
+Stadtschreiber damit.155
+
+Ausländische und eidgenössische Interventionen veranlassten
+den Basler Rat 1558, eine neue Zensurverordnung zu verabschie-
+den, um politische Schwierigkeiten in Zukunft besser vermeiden zu
+können. Neu setzte sich die Zensurkommission in Basel nicht mehr
+aus Ratsherren und Beamten, sondern aus dem Rektor der Uni-
+versität und den Dekanen der vier Fakultäten zusammen. Die
+Buchdrucker sollten unter Androhung einer hohen Busse jede
+Schrift dem Rektor vorlegen, welcher sie je nach Fachgebiet dem
+zuständigen Dekan weiterleiten musste, während die Oberaufsicht
+beim Rat blieb. Für Korrektoren bestand eine Anzeigepflicht, wenn
+sie auf Texte stiessen, die dem Ansehen einer Regierung schadeten.
+Andere inhaltliche Kriterien kennt die Zensurverordnung von
+1558 nicht. Neu wurden die Zensoren für ihre Arbeit entlöhnt. Die
+Zensurkommission in alter Zusammensetzung war auf das fachli-
+che Urteil der Gelehrten angewiesen, um das Druckgesuch bewil-
+ligen oder ablehnen zu können. Die Übertragung der Vorzensur an
+die Universität sollte wahrscheinlich den Ablauf beschleunigen, da
+gelegentlich Verzögerungen vorgekommen waren. Ausser Arbeits-
+überlastung der Zensoren waren vor und nach 1558 nicht selten
+auch Loyalitätskonflikte für verschleppte Anträge verantwortlich,
+da die Zensoren die befreundeten Autoren nicht vor den Kopf stos-
+sen wollten oder andere soziale Beziehungen einen Entscheid er-
+schwerten. Auch Antipathien werden eine Rolle gespielt haben.
+Strafen waren nur für Drucker, nicht aber für Autoren vorgese-
+hen.156 Dennoch wurden zuweilen auch Verfasser und Übersetzer
+belangt. 1563 mussten sich sowohl der Drucker Pietro Perna, der
+Bernardino Ochinos Dialoge157 gedruckt hatte, als auch der Über-
+
+155 Müller, Geschichte, 82–85.
+156 Carl Roth, Die Bücherzensur im alten Basel, in: Zentralblatt für Bibliothekswesen
+
+31 (1914), 62–64.
+
+157 Bernardini Ochini Senensis Dialogi XXX, Basel: Pietro Perna, 1563 (VD 16 O
+
+200).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+407
+
+setzer Sebastian Castellio vor dem Rat verantworten. Die Schrift
+galt als anstössig, weil der Autor darin die Monogamie nicht ein-
+deutig befürwortete. Perna legte die italienische Handschrift dem
+Prorektor der Universität vor, der sie an Celio Secundo Curione
+weiterleitete, welcher sie wiederum dem Drucker zurückgab. Cas-
+tellio wurde vorgeworfen, die lateinische Übersetzung nicht der
+Zensur eingereicht zu haben.158 Ein Schuldspruch gab es nicht, da
+Castellio im selben Jahr verstarb.
+
+Ein anderes Beispiel ist die Suspendierung des Logikprofessors
+Nicolaus Stupanus 1581, nachdem er für eine Neuauflage von
+Machiavellis Il Principe159 eine Widmungsvorrede an den Basler
+Fürstbischof beigesteuert hatte. Angeblich soll die Vorrede in einer
+zensierten und einer unzensierten Version gedruckt worden sein,
+was eine Intervention Zürichs auslöste. 1583 durfte Stupanus auf
+seinen Lehrstuhl zurückkehren.160 Viel häufiger als die Autoren
+kamen indessen die Drucker vor Gericht. Johannes Oporinus zum
+Beispiel war fünf Mal wegen Verletzung der Zensurverordnung an-
+geklagt und musste zwei Mal ins Gefängnis, erhielt jedoch nie eine
+Geldbusse.161
+
+Die Zensurpraxis entsprach nicht immer der Norm. Alban Lüber
+stellte unter anderem fest, dass in Basel noch weitere Behörden in
+Erscheinung traten. Neben den manchmal erwähnten Siebnern,
+eine Art Untersuchungsrichter, und Deputaten, die im Auftrag des
+Rates das Kirchenwesen und die Universität beaufsichtigten, war
+in den meisten aktenkundigen Fällen der Kleine Rat als Zensurin-
+stanz involviert. Dabei scheinen oft die engeren Gremien des Klei-
+nen Rates, nämlich die Dreizehnerherren und die vier Häupter, die
+Geschäfte geführt zu haben, teilweise unterstützt von den nament-
+lich genannten Stadtconsulenten Bonifatius und Basilius Amer-
+bach. Die Kirche war durch den Dekan der theologischen Fakultät
+in der Zensurkommission vertreten und je nach dem auch durch
+den amtierenden Rektor wie das mit Simon Sulzer und Johann
+Jakob Grynäus, nacheinander Vorsteher der Basler Kirche, der Fall
+war.162 Die Vorzensur erfolgte anscheinend oft informell, indem
+
+158 Lüber, Studien, 39f.
+159 Vgl. VD 16 M 10 und ZV 10216.
+160 Lüber, Studien, 51–53
+161 Steinmann, Oporinus, 24.
+162 Lüber, Studien, 77–81.
+
+408
+
+Christian Scheidegger
+
+der Drucker oder der Autor die Schrift statt dem Rektor einer
+anderen Autoritätsperson zeigte. Ausserdem ist mit einem nicht
+geringen Anteil an unzensierten Drucken zu rechnen, denn solange
+sich niemand beklagte, interessierte sich niemand dafür, ob ein
+Buch den Zensoren eingereicht worden ist oder nicht.163 Dennoch
+zeigen die zahlreichen aktenkundigen Zensurfälle nach der Mitte
+des 16. Jahrhunderts, dass sich die Bücherzensur verschärft hat.
+Die Zensoren nahmen ihre Arbeit durchaus ernst. Als kurz nach
+Verabschiedung der neuen Basler Zensurverordnung Konrad Hal-
+ler, der zeitweise im Dienst Christoph Froschauers stand, den Zür-
+cher Katechismus in deutscher Sprache bei Jakob Kündig in Basel
+drucken wollte, erkundigten sich die Basler am 2. April 1558 bei
+der Zürcher Obrigkeit über die Einzelheiten des Druckauftrags. Da
+kein Zürcher Katechismus aus Kündigs Offizin überliefert ist, kam
+es vermutlich nicht zur Ausführung.164
+
+Auch die Vorzensur in Zürich erlebte um die Mitte des 16. Jahr-
+hunderts einen Wandel. Die Zusammensetzung der Zürcher Kom-
+mission änderte sich erstmals, als Huldrych Zwingli wegen Ar-
+beitsüberlastung ausschied und der jeweils nicht regierende Bür-
+germeister sein Amt übernahm.165 Wie sich die Zensurkommission
+in den zwei Jahrzehnten nach 1531 zusammensetzte und wie sie
+arbeitete, ist weitgehend unbekannt. 1543 waren die beiden Klein-
+räte Itelhans Thumysen und Felix Peyer sowie der Unterschreiber
+mit der Zensur beauftragt, während Heinrich Bullinger als Gutach-
+ter beigezogen wurde.166 Der Rat musste am 25. Januar 1546 fest-
+stellen, dass viele Bücher ohne die obligatorische Vorzensur ge-
+druckt wurden. Im Rahmen einer Nachzensur liess er damals zwei
+Schriften der Offizin von Augustin Fries beschlagnahmen und
+nahm die Angelegenheit zum Anlass, den Druckern die geltenden
+Zensurvorschriften einzuschärfen. Als Zensoren amtierten der
+nicht regierende Bürgermeister167, Meister Kambli168, Heinrich Bul-
+linger und der Stadtschreiber.169 Bullinger kam ein Jahr später in
+
+163 Steinmann, Oporinus, 24.
+164 Zürich StA, A 240.1.
+165 Leemann-Van Elck, Offizin Froschauer, 43.
+166 Bächtold, Bullinger, 95, Anm. 43
+167 Zu diesem Zeitpunkt Johannes Haab (1503–1561).
+168 Vielleicht Ulrich Kambli (um 1480–1547), von 1513 bis 1547 als Zunftmeister im
+
+Kleinen Rat, vgl. HLS, Bd. 7, 56.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+409
+
+grosse Bedrängnis, weil er die Veröffentlichung von Gwalthers An-
+tichrist-Predigten bewilligt und dadurch zu einer aussenpolitischen
+Krise beigetragen hatte. Gegenüber Oswald Myconius erwähnte er,
+dass er der Bücherzensur vorstehe.170 Es ist nicht auszuschliessen,
+dass der Zürcher Antistes bereits 1547 im Zuge dieser Affäre von
+seinem Zensorenamt freigestellt wurde. Jedenfalls setzte sich die
+Kommission vor der Neuregelung im Sommer 1553 aus dem je-
+weils nicht regierenden Bürgermeister und einigen Räten zusam-
+men, während von einem Vertreter der Kirche nicht mehr die Rede
+ist.171 Als der Rat am 16. Juli 1553 eine neue Zensurverordnung
+verabschiedete, bestellte er auch eine neue Zensurkommission, be-
+stehend aus einem Stadtgeistlichen, einem Vertreter des Kleinen
+und einem des Grossen Rates: Pfarrer Johannes Wolf, Kleinrat Fe-
+lix Peyer, der bereits 1543 Zensor war, und Grossrat Melchior
+Wirz.172 Die Zürcher Zensoren wurden anschliessend von 1560 bis
+in die Mitte des 17. Jahrhunderts mit Namen verzeichnet:
+
+1. Vertreter der Gelehrten
+
+Johannes Wolf (1521–1572), 1551 Pfarrer am Fraumünster, 1563 Profes-
+
+sor des Neuen Testaments
+
+Josias Simmler (1530–1576), 1562 Professor des Alten Testaments
+Ludwig Lavater (1527–1586), 1550 Archidiakon am Grossmünster, 1585
+
+Antistes
+
+Burkhart Leemann (1531–1613), 1560 Hebräischprofessor, 1584 Pfarrer
+
+am Fraumünster, 1592 Antistes
+
+Heinrich Ulrich173
+Felix Trüb (1543–1594), 1571 Diakon am Grossmünster und Hebräisch-
+
+professor
+
+169 Zürich StA, B VI 257, fol. 41v (Ratsbeschluss vom 25. Januar 1546). Bei den
+beschlagnahmten Schriften handelte es sich um ein päpstliches Vaterunser und »ettwas
+Spruchs von Hertzog Heinrich von Brunschwig unnd siner Anhengeren wegen«, vgl.
+Paul Leemann-Van Elck, Zürcher Drucker um die Mitte des 16. Jahrhunderts, in: Bi-
+bliothek des Schweizer Bibliophilen 2/10 (1937), 16.
+
+170 HBBW 19, Nr. 2827, 367, freundlicher Hinweis von Reinhard Bodenmann. Vgl.
+
+auch Bächtold, Bullinger vor dem Rat, 94.
+
+171 Zürich StA, B III 7, fol. 398v.
+172 Zürich StA, B III 7, fol. 398v.
+173 Vielleicht verschrieben für Jakob Ulrich (1538–1605), ab 1576 Professor der Phi-
+losophie. Der Griechischprofessor Heinrich Ulrich (1575–1630) passt nicht in die zeit-
+liche Reihenfolge. Sollte doch Heinrich Ulrich gemeint sein, müsste die Abfolge korri-
+giert werden.
+
+410
+
+Christian Scheidegger
+
+Hans Kaspar Waser (1565–1625), 1596 Diakon am Grossmünster und
+1598 zusätzlich Hebräischprofessor, 1607 Griechischprofessor, 1611
+Professor des Neuen Testament
+
+Jost von Kusen (1570–1630), 1612 Professor der Logik und Rhetorik
+Johann Rudolf Stucki (1596–1660), 1630 Professor des Hebräischen und
+
+der Logik
+
+2. Vertreter des Kleinen Rats
+
+Felix Peyer (gest. 1562), seit 1542 im Kleinen Rat
+Bernhard Sprüngli (gest. 1568), seit 1548 im Kleinen Rat, 1559 Seckel-
+
+meister
+
+Jakob Haab (1523–1627), 1572 bis 1600 im Kleinen Rat
+Hans Rudolf Rahn (1560–1627), 1587 Zensor, 1588 bis 1607 im Kleinen
+
+Rat, anschliessend Bürgermeister
+
+Conrad Grebel (1561–1626), seit 1597 im Kleinen Rat
+Hans Hartmann Escher (1567–1623), 1613/14 im Kleinen Rat
+Gerold Escher (1571–1637), 1630 bis 1636 im Kleinen Rat
+Hans Ludwig Schneeberger (1594–1658), 1624 bis 1657 im Kleinen Rat
+
+3. Vertreter des Grossen Rats
+
+Georg Grebel, Hans Heinrich Schmid, Hans Balthasar Meiss, Gerold Ed-
+libach174, Hans Bräm, Hans Heinrich Rahn, Salomon Hirzel, Hans Hein-
+rich Müller
+
+Diese Zensorenliste findet sich in der am 19. Juni 1560 bestätigten
+neuen Zensurverordnung von 1553. Sie war über hundert Jahre
+lang in Kraft und diente der Stadt Konstanz 1588 als Vorbild für
+eine eigene Druckerordnung.175 Ihrer Bedeutung rechtfertigt die
+nachfolgende Wiedergabe im Wortlaut:
+
+»Kurtzer uszug uß den vorgemachten Ordnungen über den Truck, was die
+verordneten herren handlen söllen, mit ettwas verbesserung.
+
+Namlich das hinfüro dhein trucker weder durch sich selbs noch syns diener
+gantz und gar nüdtzyt jm truck söllen ußgaan lassen, es sige dann zuvor
+durch die dryg verordneten herren als
+
+[…]176 von gelerten
+
+174 Gerold Edlibach (1589–1657), Amtmann am Stampfenbach, im Grossen Rat. Der
+Eintrag gehört vielleicht in die Namenliste, in dem sonst nur Vertreter des Kleinen Rates
+aufgeführt sind. Würde man den Eintrag so lesen, entstünde zwischen Hans Hartmann
+Escher und Gerold Escher keine Lücke.
+
+175 Zürich StA, A 205.2, Nr. 168.
+176 Hier folgen jeweils die Namen der oben verzeichneten Zensoren.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+411
+
+[…] von kleinen Re¨then
+[…] von großen Rethen
+vlyßig und ordentlich besehen und geleßen. Und was innhalt der gelerten
+selbs erbieten, mitt heiliger Göttlicher gschrifft Nüwem und altem Testa-
+ment zuoerhalten und zuoverantworten syn wirt, das wellen myn herren
+mengklichem zuo nutz und guotem trucken laßen. Darjnn den vermelten ver-
+ordneten one wyter fragen vollen gwalt geben ist.
+
+Deßglych söllen die buochtrucker (usserthalb der Religion) ouch kein
+bue cher, lieder, laßbüchlj und gar nüdtzyt überall trucken, die gedachten
+dryg herren habind dann sölliches besehen und zuotrucken vergundt und
+erloubt.
+
+Sover aber denselben verordneten herren, es were jnn gloubens ald an-
+dern sachen, etwas beschwerlichs, es sige mitt schand und schmach ge-
+schrifften ald jnn anderweg, begegnete, daruß mynen herren oder den jren
+unruow und nachteyl volgen möchte, söllen sy söllichs hinderrucks jnen nitt
+zetrucken bewilligen, sonnders dasselb abstellen oder je zuo zyten einem
+Ersamen Rath anzeigen unnd dieselben ferer darjnn handlen laßen, wie die
+gelegenheit und notturfft erforderet.
+
+[400r] Unnd was je zuo zyten für bue cher zetrucken bewilget werden, soll
+ein jeder buochtrucker den verordneten drygen herren einem jeden alwegen
+ein buoch eins jeden trucks für syn mue g und arbeit zuogeben schuldig syn und
+darumb abfertigen, dargegen zuo des Herren, so etwas jnn truck gibt, gefal-
+len staan, die dryg verordneten ouch wie bißhar etwa beschehen, zuover-
+eeren und sich danckbarlich zuoerzeigen.
+
+Unnd ob jemandts, wer der were, on wüssen und befragen der genannten
+verordneten etwas trucken ließe, der selb und der Trucker söllen myner
+herren schweren straff und ungnad wartend syn.
+
+Actum Mitwuch, 19ten Junij Anno lx pr[aesen]t[ibus] herr Burgermeister
+
+Müller und beid Reth.«
+
+Der Verordnung legte fest, dass die Drucker alle Texte der Zensur-
+kommission einreichen mussten und nichts ohne Approbation dru-
+cken durften. Theologische Schriften sollten auf der Grundlage der
+Heiligen Schrift überprüft werden. Wenn ein Text Schmähungen
+enthielt oder Zürich auf andere Weise in Schwierigkeiten gebracht
+hätte, sollte der Druckantrag entweder abgelehnt oder an den Rat
+weitergeleitet werden. Für die Zensoren war eine Entlöhnung in
+Form eines Belegexemplars vorgesehen, während gleichzeitig emp-
+fohlen wurde, auch den Autoren etwas zu schenken. Solche Au-
+torengaben können im Rahmen einer in der frühneuzeitlichen Ge-
+sellschaft tief verwurzelten Geschenkökonomie betrachtet wer-
+den.177
+
+412
+
+Christian Scheidegger
+
+Wie in Basel waren auch in Zürich neben der Zensurkommission
+noch andere Behörden in die Bücherzensur involviert, vor allem
+der Rat selbst. Als der Schwyzer Landschreiber Balthasar Stapfer
+1540 ein Schulbuch bei Christoph Froschauer in Zürich drucken
+lassen wollte, wandte er sich mit seinem Anliegen an den Rat.178
+Dieser lehnte das Gesuch jedoch aus unbekannten Gründen ab.179
+Ebenso fragte der Drucker Hans Rudolf Wyssenbach 1596 nicht
+nur den amtierenden Zensor Hans Rudolf Rahn, sondern mit ihm
+auch die beiden Bürgermeister um die Druckerlaubnis für eine Pre-
+digt des Pfarrers Johann Jakob Baumann.180 Obschon er anschlies-
+send die Schrift mit obrigkeitlicher Approbation druckte, wurde
+ein Verfahren gegen ihn eröffnet, das die beiden Seckelmeister und
+zwei Nachgänger führten. Wahrscheinlich ermittelten sie gegen
+Wyssenbach, weil er das Druckprivileg der Offizin Wolf verletzt
+hatte. Aus Rücksicht auf die familiären und wirtschaftlichen Ver-
+hältnisse des Angeklagten verurteilte die Obrigkeit den Drucker
+jedoch nicht zu einer Geldbusse, während sie dem Autor sogar fünf
+Gulden schenkte, da die gedruckte Predigt ihr gewidmet war.181
+Solche Autorengeschenke waren in der Zensurverordnung von
+1553/1560 ja ausdrücklich empfohlen.
+
+Johannes Wolf kaufte 1591 die Einrichtung der ehemaligen Of-
+fizin Froschauer und erhielt 1595 ein exklusives Druckprivileg.182
+Während Wyssenbach den Standpunkt vertrat, dass er die Presse
+von seinem Vater schon vor Wolfs Monopol geerbt habe und der
+Buchdruck eine freie Kunst sei, war sein Konkurrent der Meinung,
+dass die Obrigkeit das Privileg durchsetzen und die Intrige des
+Theologen Johann Jakob Fries unterbinden solle. Fries, der sich
+neben seiner Theologieprofessur der bibliothekarischen und biblio-
+
+177 Christian Scheidegger, Buchgeschenke, Patronage und protestantische Allianzen:
+Die Stadtbibliothek Zürich und ihre Donatoren im 17. Jahrhundert, in: Zwingliana 44
+(2017), 463–499.
+
+178 Zürich StA, A 253.1, Nr. 226 (Balthasar Stapfer an den Zürcher Rat, 17. Dezem-
+
+ber 1540).
+
+179 Zürich StA, A 253.1, Nr. 227 (Balthasar Stapfer an den Zürcher Rat, 19. Januar
+
+1541).
+
+180 Johann Jakob Baumann, Von der Christen Sabbat ein Predig auss dem heiligen
+
+Propheten Jeremia am 17. cap., Zürich: Wyssenbach, 1596 (VD 16 B 882).
+
+181 Zürich StA, E I 23.1, Nr. 5.
+182 Paul Leemann-Van Elck, Die zürcherische Offizin Wolf 1591–1626, in: Schweizer
+
+Graphischer Zentralanzeiger 50/6 (1944), 1.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+413
+
+graphischen Arbeit widmete, plante 1597 eine erweiterte Neuauf-
+lage der Bibliotheca universalis 183, wobei er sich anscheinend am
+Ausbau der kleinen Offizin Wyssenbach beteiligen wollte. Die Zen-
+soren liessen das Druckgesuch von der Bildungskommission (»Ver-
+ordneten zuo der leer und den Schuolen«) begutachten, welche die
+Drucklegung des Werks empfahl (»wurde vilen geleerten lüten
+darmit hochlich gedienet syn«). Der Rat bestätigte am 31. Oktober
+und am 28. November 1597 das exklusive Druckprivileg Wolfs
+und gestatte Wyssenbach nur den Druck von Liedern und Spiel-
+karten. Im ersten Ratsbeschluss hiess es noch, dass Wyssenbach in
+Absprache mit Wolf auch anderes drucken dürfe, sofern es die
+Zensoren zulassen. Gleichzeitig sollten die Zensoren Fries mittei-
+len, sich mehr mit theologischen Studien als mit »fantastische[n]
+sachen« zu beschäftigen. Die geplante Neuauflage der Bibliotheca
+universalis wurde in der Folge nicht gedruckt. Die vierzehn (!) na-
+mentlich genannten Zensoren gehörten mit Ausnahme von Hans
+Rudolf Rahn und Burkhard Leemann nicht der ordentlichen Zen-
+surkommission an. Das Ziel der Zensurmassnahme war es, in der
+Stadt für Frieden und Ordnung zu sorgen, wobei in diesem Fall die
+Bücherzensur wirtschaftliche Aspekte beinhaltete und dement-
+sprechend die beiden Seckelmeister involviert waren.184
+
+Hans Rudolf Wyssenbach war 1599 erneut angeklagt, weil er
+eine Schrift unzensiert gedruckt hatte und weil eine zweite dem Rat
+suspekt vorkam. Bei der unzensierten Schrift handelte es sich um
+ein ursprünglich in Strassburg veröffentlichtes »Namenbuoch«, das
+ein ausländischer Buchhändler bei Wyssenbach nachdrucken liess.
+An der Herstellung war auch Dekan Jakob Bindschedler beteiligt,
+da sich die Offizin in seinem Haus befand und die ganze Auflage
+an ihn ging. Laut seiner Aussage habe Wyssenbach den aus Basel
+stammenden Setzer Hans Heinrich Schmid eingestellt und zunächst
+einige Schlachtlieder gedruckt, nachdem Johannes Wolf an die
+Frankfurter Buchmesse gereist sei, ohne dem Druckergesellen einen
+Zehrpfennig zu hinterlassen. Anschliessend wurde das Namenbuch
+gedruckt, doch erst als ein Teil der Auflage schon beim Buchbinder
+
+183 Das heisst eine erweiterte Auflage der von Fries 1583 ergänzten Universalbiblio-
+graphie Konrad Gessners: Bibliotheca instituta et collecta, Zürich: Froschauer, 1583
+(VD 16 G 1705).
+
+184 Zürich StA, E I 23.1, Nrn. 6–10.
+
+414
+
+Christian Scheidegger
+
+war, habe er festgestellt, »das sölliches nit recht, sonder unserer
+Religion zwider«. Deshalb habe er die ganze Auflage Konrad Gre-
+bel, der als Zensor in der oben zitierten Liste eingetragen ist, über-
+geben. Trotz Selbstzensur und seiner Beteuerung, nicht Wyssen-
+bachs Verleger zu sein, wurde Bindschedler zu einer Geldbusse von
+10 Pfund verurteilt. Für die Urteilseröffnung und das weitere Vor-
+gehen waren die Zensoren Konrad Grebel und Hans Rudolf Rahn
+sowie drei weitere Vertreter der Obrigkeit zuständig.185
+
+Die zweite Schrift Vom Geschlecht der Brunen zu Zürich stiess
+auf den Unwillen der Obrigkeit, obschon sie zensiert wurde.186
+Auftraggeber war der reiche Nürnberger Patrizier Paul Praun be-
+ziehungsweise der Zürcher Glasmaler Hans Jakob Sprüngli, der für
+Praun arbeitete. Sprüngli erkundigte sich beim Theologen Johann
+Jakob Fries über die Geschichte der Familie Brun, von welcher sein
+Dienstherr abzustammen glaubte. Fries rechnete von Anfang an
+mit dem Missfallen der Obrigkeit über einen solchen Druck, be-
+stätigte aber gegenüber Sprüngli, dass es Quellen und von Heinrich
+Bullinger und Johannes Stumpf auch Darstellungen der Familien-
+geschichte gebe. Die Beteiligten einigten sich darauf, eine Schrift in
+kleiner Auflage ganz zuhanden des Nürnberger Patriziers zu dru-
+cken. Fries, der von der Obrigkeit noch immer als Teilhaber der
+Offizin Wyssenbach verdächtigt wurde, gab den Text mit einem
+eigenen Vorwort heraus. Nachdem Wyssenbach den ersten Bogen
+gedruckt hatte, legte er diesen dem Zensor Hans Rudolf Rahn vor,
+welcher die Schrift als Privatdruck bewilligte. Ordnungsgemäss er-
+hielten die Zensoren Hans Rudolf Rahn und Burkhard Leemann je
+ein Belegexemplar. Obschon der obrigkeitlichen Auflage scheinbar
+entsprochen und keine Exemplare verkauft oder verbreitet wurden,
+war die Schrift Vom Geschlecht der Brunen neben dem Namen-
+buch Gegenstand der Ermittlungen gegen Wyssenbach, Bindsched-
+ler und Fries. Möglicherweise hielt der Rat den geschichtlichen
+Inhalt für zu brisant, weil die Darstellung nicht mit der Sichtweise
+der Luzerner übereinstimmte. Es war nicht unüblich, dass die Ob-
+
+185 Zu diesem und zum folgenden Abschnitt vgl. Zürich StA, E I 23.1, Nrn. 11 und
+
+15/16.
+
+186 Johann Jakob Fries (Hg.), Vom Geschlecht der Brunen zu Zürich: sonderlich von
+dem ersten Burgermeister der Statt Zürich: ein History, sehr lustig unnd nutzlich zule-
+sen, Zürich: [Wyssenbach], 1599 (VD 16 F 3018).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+415
+
+rigkeiten Geschichtswerke einer strengen Zensur unterzogen.187
+Der Rat verzichtete schliesslich auf eine Geldbusse für Wyssen-
+bach, nachdem der Drucker die ganze Untersuchungshaft im Wel-
+lenberg verbringen musste, während Johann Jakob Fries verwarnt
+und an seine Amtspflichten erinnert wurde. Er solle »sich der
+schlechten tractetlinen und der truckery « enthalten, wenn er seine
+Professur behalten wolle.
+
+Die neue Zensurverordnung von 1553/1560 und die dokumen-
+tierten Zensurfälle der Jahre 1546 bis 1568 zeigen,188 dass sich die
+Bücherzensur um die Mitte des 16. Jahrhunderts auch in Zürich
+verschärft hat. Dazu wesentlich beigetragen haben die eidgenössi-
+schen und ausländischen Interventionen. Die Zensurfälle der Jahre
+1596 bis 1599 verraten darüber hinaus, dass am Ende des 16.
+Jahrhunderts die Bücherzensur von einer gewissen Ängstlichkeit
+geprägt war und die Buchproduktion mit dem Monopol der Offi-
+zin Wolf noch mehr einschränkte. Unverändert blieb das Ziel, mit
+Hilfe der Vorzensur den äusseren und inneren Frieden zu wahren.
+
+6. Staatsräson contra Verkündigungsfreiheit
+
+Das Bemühen, Aussenkonflikte zu vermeiden, ist bei vielen be-
+kannten Zensurfällen erkennbar oder mindestens zu vermuten.
+Zum Beispiel wollte der Basler Rat offensichtlich Ärger vermeiden,
+als er 1550 dem spanischen Autor Francisco de Enzinas und dem
+beauftragten Drucker Augustin Fries die Druckbewilligung der ge-
+planten spanischen Publikationen verweigerte, denn der Kaiser
+hatte gegen Enzinas einen Haftbefehl erlassen. Ähnlich verhielt es
+sich mit dem Druckgesuch des aus Dalmatien stammenden Hie-
+ronymus Spalatinus. Bei der italienischen Ausgabe von Gwalthers
+Antichrist dagegen griff der Rat erst ein, als der Druck fertig vor-
+lag, und nahm dies zum Anlass, theologische Literatur in italieni-
+
+187 Moser, Dignität, 366f.
+188 Abgesehen von den im vorliegenden Beitrag erwähnten Fällen sind dies: 1559
+Ablehnung des Talmuddrucks (siehe unten, Schluss), 1563 Ablehnung einer Schrift des
+Churer Pfarrers Johannes Fabricius (vgl. Bullingers Korrespondenz mit den Graubünd-
+nern, hg. von Traugot Schiess, Bd. 2, 467) und 1568 eine Schrift von Felix de Bourgac,
+die jedoch nicht in Zürich, sondern in Genf gedruckt wurde (vgl. GLN–5973 und EA,
+IV/1e, 409).
+
+416
+
+Christian Scheidegger
+
+scher, französischer, englischer und spanischer Sprache für den
+Druck zu verbieten.189 Anders als in Genf, das zu einem Zentrum
+für eine ausgedehnte Schriftenmission wurde, hinderte das Verbot
+die Flüchtlinge in Basel daran, die evangelische Lehre in ihren Hei-
+matländern durch den Buchdruck zu verbreiten. Darum bat der
+italienische Reformator Pietro Paolo Vergerio im April 1550 ver-
+geblich, drei im Druck befindliche Schriften freizugeben und ein
+neues Testament in slawischer und italienischer Sprache in Basel
+drucken zu dürfen.190
+
+Vergerio war nicht der einzige protestantische Theologe, der mit
+der Zensur in Konflikt geriet. 1553 wollte Heinrich Bullinger den
+Katechismus und die 42 Artikel des englischen Reformators Tho-
+mas Cranmer in Zürich veröffentlichen, was zunächst nicht bewil-
+ligt wurde. Vermutlich wollte der Rat durch ein Druckverbot dem
+befürchteten Ärger mit den Fünf Orten aus dem Weg gehen. Da-
+gegen argumentierte Bullinger, dass man zum Papsttum zurück-
+kehren müsse, wenn man keinerlei Unwillen hervorrufen wolle.
+Der Zürcher Antistes sprach mit zwei Amtskollegen beim Rat vor,
+wo er ein flammendes Plädoyer zugunsten der kirchlichen Verkün-
+digungsfreiheit hielt: Man solle den Buchdruck ohne Einschrän-
+kungen für das christliche Bekenntnis nutzen (»So bittend wir, das
+ir unser gnedig herren den truck so vil er dient zuor beckantnus
+Christi und zuo fürderung der warheit fry, unverstrickt lassind, da-
+mitt gott geeret und die warheit gefürderet werde«).191 Der Rat
+erteilte darauf die verlangte Druckbewilligung. Wahrscheinlich ei-
+nigte man sich auf einen Kompromiss, da die Schrift ohne die ge-
+plante deutsche Teilübersetzung nur in Latein, also ausschliesslich
+für eine gelehrte Leserschaft erschien.192
+
+189 Carlos Gilly, Spanien und der Basler Buchdruck bis 1600: Ein Querschnitt durch
+die spanische Geistesgeschichte aus der Sicht einer europäischen Buchdruckerstadt, Ba-
+sel und Frankfurt am Main 1985 (Basler Beiträge zur Geschichtswissenschaft 151),
+339f.; Lüber, Studien, 21; Martin Steinmann, Johannes Oporinus: Ein Basler Buch-
+drucker um die Mitte des 16. Jahrhunderts, Basel 1967 (Basler Beiträge zur Geschichts-
+wissenschaft 105), 84. Den Hinweis auf Gilly verdanke ich Urs B. Leu.
+
+190 Steinmann, Oporinus, 85, und Lüber, Studien, 22.
+191 Bächtold, Bullinger, 104–106 und 279–282 (Bullingers Fürtrag vor dem Rat, Juli
+
+1553).
+
+192 Catechismus brevis christianae disciplinae summam continens, omnibus ludima-
+gistris authoritate Regia commendatus: huic catechismo adiuncti sunt articuli, de quibus
+in ultima Synodo Londinensi, anno Domini 1552 ad tollendam opinionum dissensio-
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+417
+
+Möglicherweise wurde Bullinger 1556 erneut ein Opfer der Zür-
+cher Zensur, jedenfalls laut einer von Oporinus berichteten Aus-
+sage des Bürgermeisters Johannes Haab.193 Der Zürcher Antistes
+suchte damals einen Drucker für seinen Apokalypsekommentar,
+der im Zug einer Predigtreihe entstanden war.194 Angesichts der
+politischen Entwicklungen besonders in Frankreich und England
+beschäftigte Bullinger sich mit der Frage, warum die Kirche Jesu
+verfolgt wird, während die Feinde des Evangeliums triumphieren.
+In der Johannesoffenbarung glaubte er Antworten gefunden zu ha-
+ben. Christoph Froschauer in Zürich lehnte die Drucklegung von
+Bullingers Apokalypsekommentar aus politischen Gründen ab.195
+Die Absicht, den Kommentar stattdessen bei Apiarius in Bern zu
+veröffentlichen, scheiterte an der dortigen Zensur. Schliesslich be-
+gann im Frühling 1557 Johannes Oporinus in Basel mit dem Druck
+der umstrittenen Bibelauslegung. Als der Zürcher Bürgermeister
+bei einem Besuch in Basel zufällig davon erfuhr, äusserte er seine
+Verwunderung über die Zulassung. Oporinus hatte die Schrift in-
+dessen der Zensur nicht vorgelegt und musste dies nach diesem
+Zwischenfall nachholen, ohne je eine klare Approbation erhalten
+zu haben, weil sich die Verantwortlichen scheinbar fürchteten, den
+Zürcher Antistes vor den Kopf zu stossen. Das Buch erschien den-
+noch und erlebte eine eindrückliche Wirkungsgeschichte.196
+
+Zwar gerieten reformierte Theologen gelegentlich mit der Zen-
+sur in Konflikt, doch sind keine Strafen gegen sie verhängt worden,
+solange das beanstandete Werk nicht von der offiziellen kirchlichen
+Verkündigung abwich. Zum Beispiel wurde Ulrich Zwingli, ein
+Sohn des Reformators und Diakon am Grossmünster in Zürich, im
+Januar 1556 bloss verwarnt, nachdem er Bernardino Ochinos
+Schrift über das Fegefeuer ins Deutsche übersetzt und ohne Vor-
+
+nem et consensum vere religionis firmandum, inter Episcopos et alios eruditos atque
+pios viros convenerat regia similiter authoritate promulgati. Zürich: Andreas Gessner,
+1553 (VD 16 C 1561). Zur deutschen Teilübersetzung vgl. Bächtold, Bullinger, 105.
+
+193 Steinmann, Oporinus, 89.
+194 Heinrich Bullinger, In Apocalypsim Iesu Christi, revelatam quidem per angelum
+Domini, visam vero vel exceptam atque conscriptam a Ioanne apostolo et evangelista,
+conciones centum, Basel: Johannes Oporin, 1557 (VD 16 B 9635).
+
+195 Vgl. den Beitrag von Urs B. Leu in diesem Band, S. 19.
+196 Steinmann, Oporinus, 89f., Bächtold, Bullinger, 110f., und Fritz Büsser, Heinrich
+
+Bullinger (1504–1575): Leben, Werk und Wirkung, Bd. 2, Zürich 2005, 239f.
+
+418
+
+Christian Scheidegger
+
+zensur in den Druck gegeben hatte.197 Weil sich die Zürcher Ob-
+rigkeit nicht auf neuen Ärger mit den Fünf Orten einlassen wollte,
+führte sie eine Nachzensur durch. Die Buchdrucker Andreas und
+Jakob Gessner wurden damit bestraft, dass sie alle Exemplare der
+Schrift zurückziehen und der Obrigkeit für die beschlossene Ver-
+nichtung abliefern mussten.198
+
+Allgemein schwierig war die Situation für reformierte Autoren
+und ihre Drucker in Basel während der 1560er und 70er Jahren,
+als sich der Basler Rat an einer kirchlichen Einheit mit den Lu-
+theranern orientierte. Was als friedliche Religionspolitik erscheinen
+mag, waren im Einzelnen häufig intolerante Eingriffe der Obrig-
+keit, denn Staats(kirchen)räson und Verkündigungsfreiheit liessen
+sich schlecht in Einklang bringen. 1561 erliess die Basler Obrigkeit
+vermutlich aus den genannten politischen Gründen ein Verkaufs-
+verbot gegen drei reformierte Abendmahlsschriften199, welche die
+Zensur regulär bewilligt und Johannes Oporinus gedruckt hatte.
+Der betroffene Drucker reagierte mit grosser Entrüstung über das
+erfahrene Unrecht. Erst nachdem Zürich, Bern, Landgraf Philipp
+von Hessen und Kurfürst Friedrich III. von der Pfalz in Basel zu-
+gunsten der Autoren interveniert hatten, wurden die verbotenen
+Bücher freigegeben.200 Besorgt nahm man zwei Jahre später in der
+reformierten Schweiz zur Kenntnis, dass der Basler Rat eine Schrift
+von Hieronymus Zanchi, die Oporinus ohne Vorzensur zu drucken
+begonnen hatte, beschlagnahmen liess. Nach einer langen Beratung
+verzichtete der Rat zwar auf eine Bestrafung des Druckers, gab
+aber Zanchis Werk nicht frei.201
+
+197 Bernardino Ochino, Dialogus: das ist ein Gespräch von dem Fägfheür, in welchem
+der Bäpstleren torechtigen und falschen Gründ, das Fägfheür zeerhalten, widerlegt wer-
+dend, Zürich: Andreas und Jakob Gessner, 1555 (VD 16 O 204).
+
+198 Bächtold, Bullinger, 108f.
+199 Pierre Bouquin, Examen libri quem D. Tilemannus Heshusius nuper scripsit, at-
+que inscripsit De praesentia corporis Christi in Coena Domini, Basel: Oporin, 1561 (VD
+16 B 6836); Johannes Pincier, Antidotum adversus Enthusiastarum, Metusiastarum et
+Synusiastarum cavillos et calumnias, in causa eucharistica, Basel: Oporin, 1561 (VD 16
+P 2783); Wolfgang Wissenburg, Auszzug etlicher sprüchen der alten Lehrern, Basel:
+Oporin, 1561 (VD 16 W 1708).
+
+200 Steinmann, Oporinus, 100–102, und Lüber, Studien, 33f.
+201 Steinmann, Oporinus, 102–104.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+419
+
+Die Zensurmassnahmen gegen reformierte Autoren hörten in
+Basel nicht auf. Als 1565 Oporinus den Bibelkommentar des ver-
+storbenen Berner Theologen Wolfgang Musculus druckte, verlang-
+ten die Zensoren die Entfernung verschiedener Abschnitte, die teil-
+weise bereits gedruckt vorlagen. Sie duldeten keine Kritik an der
+Ubiquitätslehre, weil sie eine Verärgerung des lutherischen Theo-
+logen Johannes Brenz vermeiden wollten. Um sich den kostspieli-
+gen Neusatz der ganzen Lage zu ersparen, bat Oporinus den Sohn
+des bekannten Berner Theologen, die entstehende Lücke durch ei-
+nen neuen Text auszufüllen. Nachdem dieser mit grosser Empö-
+rung auf den obrigkeitlichen Eingriff reagiert hatte, meinte der Bas-
+ler Drucker, dass man die Autorität der Zensoren nicht ignorieren
+könne. Man müsse sich diesem neuen Papsttum beugen (»welches
+nüw Bapsthumb der tüfell auch geschissen und erdacht hatt«).
+Oporins Geschick ist es zu verdanken, dass der Bibelkommentar
+unverändert im Druck erschien und die Wünsche der Zensoren
+dennoch erfüllt wurden. Einige Exemplare wie dasjenige in der
+Forschungsbibliothek Gotha, vielleicht für den Buchmarkt in lu-
+therischen Territorien bestimmt, enthalten nämlich die von der
+Zensur verlangten Korrekturen, während die anderen der hand-
+schriftlichen Vorlage und damit den Anforderungen der Erben ent-
+sprachen.202
+
+1570 verbot die Obrigkeit sogar einen Nachdruck des Basler
+Bekenntnisses, weil es die zwinglianischen Glossen der früheren
+Ausgaben enthielt.203 Der Buchhändler Josias von Mechel liess den
+glossierten Text auf seine Kosten wahrscheinlich bei Samuel Api-
+arius drucken und wurde deshalb verurteilt. Er musste eine Urfeh-
+de schwören, die vorhandenen Exemplare der Obrigkeit abliefern
+und eine Busse von zehn Pfund bezahlen. 1570 oder 1571 erschien
+das obrigkeitlich legitimierte Basler Bekenntnis ohne Glossen.204
+
+202 Reinhard Bodenmann, Wolfgang Musculus (1497–1563): destin d’un autodidacte
+lorrain au sie`cle des Re´formes, Genf 2000, 539–547. Das Exemplar in der Forschungs-
+bibliothek Gotha unter Theol 2° 00135/06 (04). Zitat nach Bodenmann, vgl. auch
+Steinmann, Oporinus, 110. Im VD 16 sind die Druckvarianten nicht unterschieden, vgl.
+Wolfgang Musculus, In Divi Pavli Epistolas ad Phlippenses, Colossenses, Thessaloni-
+censes ambas et primam ad Timotheum Commentarii, Basel: Oporinus und Herwagen,
+1565 (VD 16 B 5124).
+
+203 Frank Hieronymus, Gewissen und Staatskirchenraison: Basler Theologie und Zen-
+
+sur um 1578, in: Archiv für Reformationsgeschichte 82 (1991), 209–238.
+
+420
+
+Christian Scheidegger
+
+Die Geistlichen mussten darauf das unglossierte Bekenntnis zusam-
+men mit der Wittenberger Konkordie unterschreiben. Ein Pfarrer,
+der die Unterschrift verweigerte, meinte, dass dieses Vorgehen »ein
+Inquisition mit sich bringe, die […] unerträglicher weder die His-
+panische seye«.205
+
+Die Basler Behörden schritten 1578 noch einmal gegen zwei re-
+formierte Abendmahlsschriften ein.206 Gedruckt wurden diese
+nicht in Basel, sondern in Zürich, nachdem der schlesische Adlige
+Johann von Kitlitz die Approbation der Basler Zensur für seine
+Schrift Gründtlicher und bestendiger Bericht nicht erhalten hat-
+te.207 Bei der zweiten Schrift handelte es sich um den Bericht von
+dem heiligen Abendmahl des Basler Theologen Johann Jakob Gry-
+näus.208 Die Obrigkeit in Basel drohte von Kitlitz mit einer Aus-
+weisung, sollte er die vorhandenen Exemplare nicht abliefern und
+den geplanten Druck der lateinischen Version tatsächlich ausfüh-
+ren.209 Weil der Basler Rat fürchtete, dass ihre Stadt als Druckort
+der unfirmierten Schriften verdächtigt würde, veröffentlichte er
+eine Entschuldigung. Indem er sich bei den deutschen Lesern für
+die reformierten Abendmahlsschriften, die »wider unser ordenliche
+Censur / durch den Truck auß gespreitet worden«, entschuldigte,
+bestätigte er seine lutherfreundliche Religionspolitik und räumte
+
+204 Eine genaue bibliographische Beschreibung sämtlicher Ausgaben des Basler Be-
+kenntnisses liegt bisher nicht vor, vgl. Heiner Faulenbach, Das Basler Bekenntnis von
+1534, in: Reformierte Bekenntnisschriften, Bd. 1/1, Neukirchen-Vluyn 2002, 574. Am
+genauesten sind die Beschreibungen von Frank Hieronymus, Gewissen, 211, Anm. 3,
+233 und 226f., Anm. 19. Demnach sind folgende Ausgaben zu unterscheiden: VD 16
+ZV 27548 (Thomas Wolff, 1534; Hagenbach, Ausgabe A), VD 16 ZV 21761 (Thomas
+Wolff, 1534; Hagenbach, Ausgabe B), VD 16 ZV 28067 (Jakob Kündig, um
+1553/1560; Hagenbach, Ausgabe C), die glossierte Ausgabe von Apiarius und von Me-
+chel (Universitätsbibliothek Basel, Frey-Gryn F VII 26 und Falk 932: 7; fehlt in VD 16
+und Hagenbach), VD 16 ZV 28068 (1570/1571; Hagenbach, Ausgabe D) und VD 16
+ZV 28070 (Samuel Apiarius, um 1584; fehlt bei Hagenbach).
+
+205 Zitiert nach Hieronymus, Gewissen, 228, Anm. 20.
+206 Hieronymus, Gewissen, 209–238.
+207 Johann von Kitlitz, Gründtlicher und bestendiger Bericht von der waarhafftigen
+Gemeinschafft dess Leybes und Blutes Jesu Christi unsers Herren, welcher im heiligen
+Nachtmal die waaren Gleubigen geniessen, [Zürich: Christoph Froschauer d. J.], 1578
+(VD 16 K 1112).
+
+208 Johann Jakob Grynaeus, Bericht von dem heiligen Abentmal Jesu Christi, unsers
+
+Säligmachers, [Zürich: Christoph Froschauer d. J., 1578] (VD 16 G 3749).
+
+209 Johann von Kitlitz, De vera communione corporis et sanguinis Domini nostri Iesu
+
+Christi, [Zürich 1578?] (VD 16 ZV 20349).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+421
+
+jeden aufkommenden Verdacht, die »Christentliche Concordiam«
+zu verletzen, aus dem Weg.210
+
+7. Zensur und Konfession
+
+Die Zensurfälle aus der Zeit des Richtungsstreits innerhalb der
+Basler Kirche zeigen, dass die Konfession bei der Bücherzensur eine
+Rolle spielte. Man darf daraus indessen nicht den falschen Schluss
+ziehen, dass die Zensurkommissionen systematisch Veröffentli-
+chungen mit sämtlichen abweichenden theologischen Positionen
+unterdrückt hätten. Die Zensur in den evangelischen Städten
+wachte im allgemeinen nicht über die Einheit der kirchlichen Leh-
+re. Dafür gab es im 16. Jahrhundert mit den Synoden ein anderes
+Mittel. Andererseits gewinnt das konfessionelle Element nach der
+Reformationszeit an Bedeutung, was die als Konfessionalisierung
+bezeichnete Entwicklung von Kirche, Staat und Gesellschaft spie-
+gelt. Es ist zum Beispiel undenkbar, dass im konfessionellen Zeit-
+alter ein reformierter Theologe eine Schrift des schlesischen Refor-
+mators Kaspar Schwenckfeld herausgegeben hätte, wie dies Hul-
+drych Zwingli 1528 getan hatte.211 Dafür verantwortlich waren
+jedoch keineswegs die Zensoren, sondern die publizierenden Ge-
+lehrten und Drucker selbst. Bei der Zürcher Buchproduktion kann
+schon früh ein klares theologisches Profil beobachtet werden.
+Nach 1524 druckte Christoph Froschauer keine Texte Martin Lu-
+thers mehr und verzichtete damit auf ein einträgliches Geschäft.
+Der grosse Zürcher Buchdrucker, der sich ganz mit Zwinglis Theo-
+logie identifizierte, folgte auch später einfach seiner persönlichen
+Überzeugung, wenn er in seinem Testament bestimmte, dass sein
+Erbe nichts drucken solle, »das wider unsere waare christenliche
+
+210 Der Statt Basel Entschuldigung unnd versprechen / etlicher jhro hinderrucks /
+unnd wider jhr angeordnete Censur / in Religions Sachen / von dem heiligen Nachtmal
+Christi / durch den Truck außgangner Schrifften / vnnd Buechlinen / halben, [Basel:
+Heinrich Petri], 1578 (VD 16 B 624), fol. A4r. Der Drucker Heinrich Petri war De-
+putant und führte das Verfahren gegen den schlesischen Adligen.
+
+211 Kaspar Schwenckfeld, Ein Anwysunge, das die Opinion der leyplichen Gegen-
+wertigheyt unsers Herren Jesu Christi jm Brote oder under der Gestalt deß Brots gericht
+ist, Zürich: Christoph Froschauer, 1528 (VD 16 S 4840).
+
+422
+
+Christian Scheidegger
+
+religion und evangelische warheit stryte oder secktisch, ufrürisch,
+unzüchtig, ergerlich oder schedlich sige«.212
+
+Etwas anders verhält es sich mit der religiösen Polemik, auf wel-
+che die Autoren und Drucker nicht ganz freiwillig verzichteten.
+Nachdem Hans Salats Schmähgedicht Tanngrotz 1531 im Druck
+erschienen war, hofften die Berner Theologen, dass auch Heinrich
+Bullingers Salz zum Salat veröffentlicht würde (Abb. 4).213 Um po-
+litische Komplikationen zu vermeiden und seine eigene Position
+nicht zu gefährden, unterliess der Zürcher Antistes die Veröffent-
+lichung vermutlich von sich aus. Ebenso dürfte er sich später keine
+Illusionen gemacht haben, seine Reformationsgeschichte zu dru-
+cken.214 In diesen und ähnlichen Fällen übten die Autoren und
+Drucker Selbstzensur, weil sich die Situation seit der endgültigen
+Kirchenspaltung grundsätzlich verändert hatte und der zweite
+Landfriede Schmähungen unter Strafe stellte. Die eidgenössische
+Politik hatte in diesem Sinne eine hemmende Wirkung auf die Ver-
+öffentlichung polemischer Texte.
+
+Das Korporationsdenken war sowohl für die Selbstzensur der
+Autoren und Drucker, als auch für die Interventionen der Obrig-
+keiten bestimmend. Als der Basler Rat zum Schutz ihrer luther-
+freundlichen Religions- und Aussenpolitik Zensurmassnahmen ge-
+gen reformierte Schriften ergriff, nahm er nach eigenem Verständ-
+nis einfach seine Sorgfaltspflicht wahr. Denn die Obrigkeiten wur-
+den für die Äusserungen ihrer Bürger verantwortlich gemacht. Der
+württembergische Rat Pier Paolo Vergerio brachte diese Sicht zum
+Ausdruck, als er im Juni 1557 von der Basler Obrigkeit ein Verbot
+der Schrift De amplitudine beati regni Christi von Celio Secundo
+Curione wegen Mängel in der Rechtfertigungslehre forderte.215 Die
+Ratsherren müssten die Veröffentlichung schlechter Bücher und
+Schmähschriften um der Kirche Christi und um Basels Ehre willen
+verhindern, argumentierte Vergerio. Sie würden für den Inhalt der
+gedruckten Bücher verantwortlich gemacht. Sei der Name Basels in
+
+212 Leemann-Van Elck, Offizin Froschauer, 200.
+213 HBBW 1, 91f.
+214 Moser, Dignität, 361f.
+215 Coelii Secundi Curionis De amplitudine beati regni Dei dialogi sive Libri duo,
+[Puschlav: Dolfino Landolfi], 1554 (VD 16 C 6415). Oporin übernahm den Betrieb und
+war insofern beteiligt, vgl. Beat Rudolf Jenny (Hg.), Die Amerbachkorrespondenz, Bd.
+9/2, Basel 1983, 649–651.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+423
+
+Abb. 4: Beginn von Heinrich Bullingers »Salz zum Salat«, Abschrift des 16. Jh.: Zen-
+tralbibliothek Zürich, Ms A 125.
+
+424
+
+Christian Scheidegger
+
+einem Buch zu lesen, müsse man annehmen, dass es mit offizieller
+Approbation gedruckt worden sei.216
+
+Andere evangelische Obrigkeiten nutzten die Zensur genauso für
+ihre Politik. Nachdem Zürcher Kaufleute in Basel vernommen hat-
+ten, dass ihre Heimatstadt wegen der bereits oben erwähnten Dia-
+loge Bernardino Ochinos als Ort des »Schelmen- und Ketzer-
+werks« verunglimpft wurde, sorgte sich die Zürcher Obrigkeit um
+ihren guten Ruf.217 Ochino diente der italienischen Kirche in Zü-
+rich nämlich als Pfarrer. Die Theologen Heinrich Bullinger, Rudolf
+Gwalther und Johannes Wolf, welcher der Zensurkommission an-
+gehörte, traten im kurzen Prozess gegen den italienischen Prediger
+als Gutachter auf und empfahlen dem Rat Massnahmen, um den
+guten Ruf der Zürcher Kirche und die Einheit der Lehre zu erhal-
+ten.218 Im Anschluss daran fällte der Rat das Ausweisungsurteil,
+weil Ochino »wider unser herren ordnung ein buoch trucken lassen,
+das wol und besser hae tte moe gen erspart werden, von desse wae gen
+ouch der kylchen und statt schmae chlich zuogeredt etc.«219 Ochinos
+Ausweisung und ein paar andere Fälle zeigen, dass die reformierten
+Theologen die obrigkeitliche Zensurpolitik beeinflussten und für
+ihre Zwecke brauchten, wenn sich eine Gelegenheit dazu ergab.
+Statt Lehrfragen kirchenintern zu klären, führten sie sich zuweilen
+wie kleine Päpste auf, indem sie ohne Zögern die politische Macht
+in Anspruch nahmen.
+
+Die Zensurfälle, die den Basler Griechischprofessor Sebastian
+Castellio betrafen, hatten ebenfalls mit Lehrfragen zu tun. Die
+Zensoren verlangten 1554 von Johannes Oporinus, den Kommen-
+tar zu Röm 9,13 in Castellios bereits gedruckter lateinischer Bi-
+belübersetzung zu entfernen, weil darin Calvins Prädestinations-
+lehre kritisiert wurde. Der angegriffene Genfer Reformator selbst
+hatte die Massnahme beantragt, nachdem er von der kontroversen
+Textstelle erfahren hatte.220 In einem anderen Fall ging es um post-
+hum veröffentlichte Schriften. Der Drucker Pietro Perna gab 1578
+
+216 Lüber, Basler Zensurpolitik, 77f., und Jenny, Amerbachkorrespondenz, Bd. 10/2,
+
+Basel 1991, 888f.
+
+217 Lüber, Studien, 39.
+218 Bächtold, Bullinger vor dem Rat, 84.
+219 Bächtold, Bullinger vor dem Rat, 85, Anm. 137.
+220 Lüber, Studien, 24f., und Biblia, interprete Sebastiano Castalione. Una cum ei-
+
+usdem annotationibus, Basel: Kündig et Oporinus, 1551 (VD 16 B 2626, B 2627).
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+425
+
+vier Werke des verstorbenen Griechischprofessors ohne Vorzensur
+und mit fingiertem Impressum in einem Band heraus. Der Basler
+Rat intervenierte, weil Castellios Dialogorum libri quattuor eine
+Verteidigung des freien Willens und eine Widerlegung der Prädes-
+tinationslehre mit einer Kritik an Calvin und am Basler Theologen
+Martin Borrhaus enthielten. Er versuchte das »gantz abschülich
+und doch jn unser statt gedruckte« Buch in Frankfurt am Main zu
+beschlagnahmen, doch war die Auflage mit 800 Exemplaren an der
+dortigen Messe bereits verkauft. Der angeklagte Drucker rechtfer-
+tigte sich unter anderem damit, dass man Werke von Basler Pro-
+fessoren bisher unzensiert habe drucken können. Perna wurde aus
+der Untersuchungshaft entlassen, nachdem er seine Übereinstim-
+mung mit dem Basler Bekenntnis dargelegt hatte. Gleichzeitig ver-
+ordnete der Rat, dass auch die Professoren ihre Schriften zensieren
+lassen müssen.221
+
+Auch aus Basel sind Urteile gegen Autoren im Zusammenhang
+mit konfessionellen Fragen dokumentiert. Abgesehen von der be-
+reits erwähnten Bestrafung von Nicolaus Stupanus 1581, verurteil-
+te der Rat 1592 den lothringischen Migranten und Seidenfabrikan-
+ten Antoine Lescaille zu einer Geldbusse von 200 Kronen, weil er
+eine Schrift unzensiert veröffentlicht hatte. Dabei ging es um eine
+Kontroverse zwischen ihm und den französischen Pastoren in Basel
+über die theologische Bedeutung der guten Werke.222 Ausserdem
+liess man 1559 den niederländischen Täufer und Mystiker David
+Joris nicht einmal in seinem Grab in Ruhe. Bonifacius Amerbach
+initiierte den Prozess gegen den verstorbenen Häretiker, welcher
+damit endete, dass die leiblichen Überreste von Joris und eine Kiste
+mit seinen Schriften verbrannt wurden.223
+
+In den schweizerischen Druckorten gab es nur wenige Möglich-
+keiten, nonkonformistische Schriften zu veröffentlichen. Anders als
+Autoren, die wie Ochino und Castellio hochgebildete Männer wa-
+ren und äusserlich mit der reformierten Kirche übereinstimmten,
+hatten die Täufer und andere religiöse Dissidenten in der Schweiz
+kaum einen Zugang zur Presse. Die fortschreitende Konfessiona-
+
+221 Lüber, Studien, 45f., und Sebastiani Castellionis Dialogi IIII, Aresdorf: Theo-
+
+philus Philadelphus, 1578 [i.e. Basel: Peter Perna] (VD 16 C 2114).
+
+222 Lüber, Studien, 60.
+223 Lüber, Studien, 32.
+
+426
+
+Christian Scheidegger
+
+lisierung in den verschiedenen Territorien des Reichs machte es
+ihnen dort immer schwieriger, die eigene Literatur zu drucken.
+1563 warnte die Basler Obrigkeit die verbündete Stadt Mülhausen
+vor dem Druck der Werke des Spiritualisten Kaspar Schwenckfeld.
+Dort räumte der Rat ein, dass er mit der Zensur etwas überfordert
+sei. Er verhängte wegen der Schwenckfeldschriften schliesslich für
+den Drucker Peter Schmid ein vorübergehendes Berufsverbot.224
+Noch im gleichen Jahr schrieb Herzog Christoph von Württem-
+berg an die evangelischen Orte der Eidgenossenschaft, um sie vor
+drei schwenkfeldischen Schriften zu warnen. Er ging davon aus,
+dass diese in der Schweiz gedruckt worden waren und dass es dort
+auch schwenckfeldische Kreise gab.
+
+Der Churer Buchhändler und Schwenckfelder Jörg Frell gab in
+den Jahren 1579 und 1580 eigene und andere Texte in den Druck,
+vielleicht bei Leonhard Straub in St. Gallen. 1582 lehnten die Zen-
+soren in St. Gallen das Druckgesuch für eine schwenckfeldische
+Schrift ab und beschlagnahmten im folgenden Jahr
+einen
+schwenckfeldischen Druck, den Straub der Zensur nicht einge-
+reicht hatte.225 Aus einem Verfahren gegen Schwenckfelder in Zü-
+rich geht ausserdem hervor, dass der Lehrer Heinrich Wyss 1590
+einen schwenckfeldischen Einblattdruck nachdrucken liess.226 1595
+lehnte die Zürcher Obrigkeit den Antrag des Glasmalers Hans
+Walder, eine Druckerei zu eröffnen, mit der Begründung ab, dass
+eine Offizin in Zürich den Bedarf abdecke. Walder gehörte 1590
+einem schwenckfeldischen Kreis in Zürich an und wanderte an-
+fangs 17. Jahrhundert mit anderen Nonkonformisten nach Mähren
+aus.227
+
+224 Lüber, Studien, 36.
+225 Christian Scheidegger, Jörg Frell (um 1530–um 1597) und der schwarze Buch-
+markt, in: Librarium: Zeitschrift der Schweizerischen Bibliophilen-Gesellschaft I/2011,
+26–32. Frells Texte sind ediert in: Christian Scheidegger (Hg.), Zwischen den konfes-
+sionellen Fronten: Schriften des Buchhändlers und Schwenckfelders Jörg Frell (um
+1530–um 1597) von Chur, Chur 2013 (Quellen und Forschungen zur Bündner Ge-
+schichte 29).
+
+226 Christian Scheidegger, Täufergemeinden, hutterische Missionare und schwenck-
+feldische Nonkonformisten bis 1600, in: Die Zürcher Täufer, 1525–1700, hg. von Urs
+B. Leu und Christian Scheidegger, Zürich 2007, 160f.
+
+227 Paul Leemann-Van Elck, Der Zürcher Drucker Hans Walder um 1595, in: Schwei-
+zer Graphischer Zentralanzeiger 50/9 (1944), 2, und Scheidegger, Täufergemeinden,
+155.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+427
+
+In der zweiten Hälfte des 16. Jahrhunderts gelang es den Schwei-
+zer Täufern, Bibeln und Konkordanzen für den eigenen Gebrauch
+in Basel drucken zu lassen: 1567 eine Themenkonkordanz zur Bi-
+bel bei Samuel Apiarius228, 1579 das Neue Testament mit dem
+deutschen Text der Froschauerbibel (Täufertestament) bei Brylin-
+gers Erben229, 1588 ein Täufertestament bei Leonhard Ostein230,
+nach 1593 eine Themenkonkordanz bei Osteins Erben231 und 1599
+ein Täufertestament bei Ludwig König.232
+
+8. Bücherverbote in reformierten Territorien
+
+Im Vergleich mit der katholischen Eidgenossenschaft wurde der
+Büchermarkt in den evangelischen Orten viel seltener kontrolliert.
+Am 21. Mai 1524 beauftragte der Zürcher Rat die Abgeordneten
+Heinrich Walder und Rudolf Binder, die bereits für die Vorzensur
+zuständig waren, mit der Überwachung des Buchmarktes, damit
+die fremden Buchhändler »nüt ungeschickts verkoufint«.233 Ob tat-
+sächlich Kontrollen stattgefunden haben oder ob der Markt bald
+schon wieder freigegeben wurde, ist nicht klar. Im Mai 1526 mein-
+te die Zürcher Obrigkeit, dass im Gegensatz zu den Zwinglidru-
+cken, die vielerorts nicht zugelassen würden, die katholischen
+Streitschriften überall erhältlich seien. Rund dreissig Jahre später
+konnte man in Zürich jedenfalls problemlos katholische Literatur
+kaufen und lesen, wogegen die Kirchenleitung nichts einzuwenden
+hatte.234 Der Besitz irgendwelcher Schriften wurde zwar nie unter
+
+228 Concordantz unnd Zeyger der Namhafftigsten Sprüch aller Biblischen buecher
+
+Alts unnd Neuws Testaments, Basel: Samuel Apiarius, 1567 (VD 16 ZV 2596).
+
+229 Das gantz Neüw Testament, Basel: Brylingers Erben, 1579 (VD 16 ZV 26667),
+vgl. hierzu Hanspeter Jecker, Ketzer – Rebellen – Heilige: Das Basler Täufertum von
+1580–1700, Liestal 1998 (Quellen und Forschungen zur Geschichte und Landeskunde
+des Kantons Basel-Landschaft 64), 139–144.
+
+230 Das gantz Neuw Testament, Basel: Leonhart Ostein, 1588 (VD 16 ZV 27918).
+231 [Concordantz und Zeiger der namhafftigsten Sprüche aller biblischen Bücher],
+Basel: Osteins Erben, [nach 1593], nicht in VD 16, vgl. Matthias H. Rauert / Martin
+Rothkegel (Bearb.), Katalog der hutterischen Handschriften und der Drucke aus hut-
+terischem Besitz in Europa, Bd. 1, Gütersloh 2011, 649, Nr. 276.
+
+232 Das gantz Neuw Testament, Basel: Ludwig König, 1599 (nicht in VD 16), vgl.
+
+Rauert / Rothkegel, Katalog, 647f., Nrn. 272 und 273
+
+233 Egli, Actensammlung, 233, Nr. 536
+234 Bächtold, Bullinger vor dem Rat, 106 und 281.
+
+428
+
+Christian Scheidegger
+
+Strafe gestellt, doch waren häretische Bücher gelegentlich ein Ge-
+genstand der Ermittlungen gegen Täufer und andere Nonkonfor-
+misten.235
+
+In Basel wurde der Handel mit katholischen Büchern nach der
+Reformation kaum eingeschränkt. Erst Johann Jakob Grynaeus,
+seit 1586 Antistes der Basler Kirche, beantragte beim Rat eine Re-
+duktion der offenbar lukrativen Einfuhr katholischer Literatur,
+welche die Basler Buchhändler auf den regionalen Märkten wei-
+terverkauften. Jedoch wollte auch er den Import nicht vollständig
+verbieten, weil die reformierten Theologen die Argumente des Geg-
+ners, vor allem »der Jesuiter listige Sophismata«, kennen lernen
+müssten.236
+
+Anders war die Situation vielleicht in Bern, wo der Rat 1539 den
+Buchhändlern strenge Vorschriften machte. Alle Buchhändler
+mussten ihre Ware der Zensurkommission zeigen. Den Ungehor-
+samen wurden die Konfiskation ihres Vermögens und noch schär-
+fere Massnahmen angedroht. Der Verkauf von religiöser Polemik,
+Liebesliedern, nonkonformistischen Büchern237 und Schriften, die
+dem Ansehen irgendeines Staates schaden und Bern in Schwierig-
+keiten bringen würden, war streng untersagt.238 Wie die Praxis aus-
+sah, ist indessen kaum bekannt. Am 3. Februar 1564 befahl die
+Obrigkeit ihrem Weibel, jeden Dienstag den Wochenmarkt zu kon-
+trollieren und unnütze Liederdrucke und Schriften zu beschlagnah-
+men.239 Als im selben Monat Klagen aus Freiburg i.Ue. über un-
+nütze und aufrührerische Lieder eintrafen, erliess die Berner Ob-
+rigkeit ein umfassendes Verbot aller Schmählieder und -gedichte in
+seinem Territorium. Das Verfassen, Drucken, Verbreiten, ja sogar
+das Singen und Vorlesen dieser Texte wurden untersagt, »damit
+sölliche ergernuß und verletzung Eydgnoßlicher fründschafft und
+liebe verhüt und abgestellt werde«.240 Bern informierte die Obrig-
+keit in Freiburg darüber und erwähnte in seinem Schreiben ein
+Schmählied, das mit dem Lied von der sieghaften und ritterlichen
+
+235 Vgl. etwa Scheidegger, Täufergemeinden, 155–158.
+236 Hieronymus, Gewissen, 238.
+237 Müller, Geschichte, 82 (»[…] büchlin so in Christenlicher Religion zertrennung,
+sekten, sunderung, und deßhalb unfriden und sust gevarlichen unrat anrichten […]«).
+
+238 Müller, Geschichte, 80–82.
+239 Fluri, Samuel, 188.
+240 Fluri, Samuel, 193.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+429
+
+Schlacht in Frankreich identifiziert werden kann.241 Der unbekann-
+te Verfasser beschimpft darin zwei Söldnerführer aus der Eidge-
+nossenschaft, weil sie die evangelischen Christen in Frankreich ge-
+würgt und gepeinigt hätten. Der umstrittene Liederdruck erschien
+mit einem fingierten Impressum, kann jedoch aufgrund des Titel-
+holzschnittes der Berner Offizin Apiarius zugeordnet werden.242
+Die Berner Obrigkeit dagegen scheint den Drucker Benedikt Ul-
+man dafür verantwortlich gemacht und auch bestraft zu haben
+(»Meister Bendicht, den buchtrucker, der truckerj stillgestellt«).243
+Die Massnahmen im Februar 1564, vermutlich auch die Kontrolle
+des Wochenmarktes, fanden im Rahmen einer Nachzensur statt, so
+dass die Frage, ob der Buchmarkt in Bern tatsächlich systematisch
+überwacht wurde, offen bleiben muss.
+
+Die Verkaufsverbote einzelner Schriften in den evangelischen
+Städten waren in der Regel Massnahmen der Nachzensur, die
+meistens durch eine eidgenössische Intervention ausgelöst wurden.
+Der Besitz und die Lektüre von missliebigen Büchern wurden da-
+gegen selten verboten. Ein Fall aus Bern zeigt immerhin, dass sol-
+che Restriktionen vorkamen. Am 23. April 1588 untersagte der
+Berner Rat die Lektüre von zwei Schriften des Lausanner Philo-
+sophieprofessors Claude Aubery in den Schulen seines Territori-
+ums.244 Hintergrund dieses Verbots war ein Streit um die Rechtfer-
+tigungslehre zwischen den orthodoxen Theologen und Aubery, der
+aus der Sicht seiner Gegner Rechtfertigung und Heiligung ver-
+mischte und sich dabei der katholischen Position näherte. Die
+Lehrfrage konnte im Rahmen einer kirchlichen Disputation in Bern
+geklärt werden, da sich Aubery der offiziellen Lehrmeinung an-
+schloss und in der Folge seine Professur behalten durfte. Die An-
+gelegenheit hatte indessen ein böses Nachspiel, das mit der Aus-
+wanderung Auberys zu Ende ging. Den Anstoss dazu gab der aus
+
+241 Ein hüpsch nüw Lied, von der sighafften und ritterlichen Schlacht, so beschähen
+ist, inn Franckreych, auff Sanct Thomas desz zwölfbotten Tag im 1562. Jar, Augsburg:
+Matthäus Franck [i.e. Bern: Samuel Apiarius], [1562]; VD 16 ZV 28093. Vgl. Fluri,
+Samuel, 193.
+
+242 Nehlsen, Liedflugschriften, Q–2337.
+243 Fluri, Samuel, 191.
+244 Claude Aubery, Organon, id est instrumentum doctrinarum omnium, Morges:
+Jean Le Preux, 1584 (GLN–3081); Claude Aubery, De fide catholica apostolica roma-
+na, contra apostatas, Lausanne: Jean Chiquelle, 1587 (GLN–5557).
+
+430
+
+Christian Scheidegger
+
+Basel geflüchtete Seidenfabrikant Antoine Lescaille anfangs 1592,
+indem er den Pastoren in Lausanne zur Unterstützung von Aubrys
+heterodoxer Rechtfertigungslehre seine neueste Schrift La doctrine
+ancienne zuschickte.245 Die Berner Obrigkeit verlangte von den
+Pastoren unverzüglich, die Werke Lescailles abzugeben. Irgendwie
+wurde Aubery mitverantwortlich gemacht, und die welschen De-
+kane forderten von der Berner Obrigkeit eine Verurteilung und ein
+Verbot von Auberys Werken. Nachdem sich der Beschuldige erst
+spät gerechtfertigt hatte, wollte die Obrigkeit die Schriften des
+Lausanner Philosophieprofessors in den Schulen und Kirchen nicht
+mehr dulden und ordnete ihre Konfiskation an, um den Frieden
+und die Einheit der Kirche zu wahren.246 Die Bücherzensur wandte
+sich in diesem Fall gegen neue Lehrsätze in einem langen theolo-
+gischen Streit.
+
+Die Zensurkommissionen der evangelischen Orte überwachten
+den Buchbesitz und die Lektüre der Untertanen im allgemeinen
+nicht, was nicht heisst, dass die Obrigkeiten alles duldeten. Wenn
+sich Personen, die abweichende Ansichten vertraten, von der Ge-
+sellschaft und der Kirche absonderten, schritten die Obrigkeiten
+oft vehement ein und fragten auch nach den Büchern, die mit ih-
+rem separatistischen Verhalten in Zusammenhang standen.247 Den-
+noch kann in der evangelischen Eidgenossenschaft ein vergleichs-
+weiser freier Umgang mit Büchern beobachtet werden, zum Bei-
+spiel bei den ab 1614/15 erfolgten Gründungen der Stadtbiblio-
+theken. Die erste öffentliche Bibliothek in Zürich erlebte dank
+grosszügigen Buchgeschenken der Bürger ein schnelles Wachstum,
+wobei für Schenkungen keine inhaltlichen Auflagen gemacht wur-
+den. Gesammelt wurde auch katholische und häretische protestan-
+tische Literatur, welche die Bibliothekare unzensiert aufstellten
+und katalogisierten. Streichungen, Warnungen an den Lesern und
+ähnliches, wie man sie aus Büchern in katholischen Bibliotheken
+kennt, sucht man hier vergebens.248
+
+245 Antoine Lescaille, La doctrine ancienne du premier, deuxie`me, troisie`me et der-
+nier jugement, [Basel?]: [Leonhard Ostein?], 1591; Antoine Lescaille, La doctrine an-
+cienne du premier, deuxie`me, troisie`me et dernier jugement, [Strassburg?: s.n.], 1592.
+246 Henri Vuilleumier, Histoire de l’e´glise re´forme´e du Pays de Vaud sous le re´gime
+
+bernois, Bd. 2, Lausanne 1929, 134–156.
+
+247 Scheidegger, Täufergemeinden, 155–158.
+248 Scheidegger, Buchgeschenke, 479 und 497f.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+431
+
+9. Zusammenfassung und Schluss
+
+Die Einrichtung der frühneuzeitlichen Bücherzensur in der Eidge-
+nossenschaft hängt mit dem römischen Prozess gegen Martin Lu-
+ther zusammen. Doch statt die daraus erwachsene kaiserliche Zen-
+surpolitik zu übernehmen, bemühten sich die Eidgenossen um eine
+eigenständige Lösung. Dabei setzten die einzelnen Orte die gemein-
+sam besprochenen Massnahmen jeweils in ihrem Sinn um. In Zü-
+rich und Basel wurde die Vorzensur als ein formales Verfahren
+eingeführt in der Absicht, den Stadtfrieden zu sichern und Aussen-
+konflikte möglichst zu vermeiden, und nicht wie von den Tagsat-
+zungsgesandten vereinbart, um die evangelische Verkündigung zu
+unterdrücken. Die zensorischen Massnahmen standen dabei auch
+im Dienst der obrigkeitlichen Religionspolitik, die sich im Fall Ba-
+sels im untersuchten Zeitraum verschiedene Male änderte. Zudem
+konnten wirtschaftliche Aspekte eine Rolle spielen. Die Vorzensur
+diente also ganz unterschiedlichen Zwecken. Im Gegensatz dazu
+war die Zensur in den papsttreuen Territorien, anfänglich in ein-
+geschränktem Mass auch in Bern, ein antireformatorisches Kampf-
+mittel. Zensiert wurden hier nicht die zum Druck bestimmten Bü-
+cher, sondern der Buchhandel. Die Verbreitung und der Besitz
+evangelischer Literatur wurden verboten und strafrechtlich ver-
+folgt, wie unter anderem die zahlreichen Bücherverbrennungen zei-
+gen. Die Bücherzensur in der katholischen Eidgenossenschaft muss
+indessen noch genauer untersucht werden. Mit der Einführung der
+Reformation 1528 änderte Bern seine Zensurpolitik und führte
+später mit dem Beginn eines eigenen Druckgewerbes die Vorzensur
+ein.
+
+Die obrigkeitliche Überwachung des Buchdrucks in den Städten
+Zürich, Basel und Bern ist durch die Gesetzgebung und durch Ein-
+zelfälle einigermassen bekannt. Demnach waren dafür keine spe-
+zialisierten Behörden zuständig, sondern nur Kommissionen, die
+einen weltlichen Charakter hatten und sich in unterschiedlichem
+Mass aus Regierungsvertretern und Geistlichen oder Gelehrten zu-
+sammensetzten. Die nebenamtlich tätigen Zensoren erhielten teil-
+weise Unterstützung durch Gutachter. Ausserdem waren nicht sel-
+ten Personen, die aus dem engeren politischen Machtzirkel stamm-
+ten, in die Zensur involviert, was vermuten lässt, dass die Zulas-
+
+432
+
+Christian Scheidegger
+
+sung zum Druck oft informell und unbürokratisch erfolgte. Aus-
+serdem ist besonders bis zur Mitte des Jahrhunderts damit zu rech-
+nen, dass viele Titel ohne Vorzensur gedruckt wurden. Eine Nach-
+zensur fand in diesen Fällen in der Regel nur statt, wenn jemand
+klagte oder die Obrigkeit Konflikte befürchtete. Auch heikle Dru-
+cke wie die 1539 bei Matthias Apiarius in Bern veröffentliche
+Chronica und Geschichtbibel von Sebastian Franck konnten offen-
+bar problemlos erscheinen, solange keine Einwände kamen.249
+Hielten sich die Drucker an die obrigkeitlichen Verordnungen,
+reichten sie die Schriften entweder vor der Drucklegung den Zen-
+soren zur Approbation ein oder kamen erst mit den Druckabzügen
+zu ihnen.
+
+Drucker und Autoren gerieten mit der Zensur in Konflikt, wenn
+eine Schrift ohne Vorzensur gedruckt und dagegen geklagt wurde
+oder indem die Zensoren heikle Texte ablehnten. Besonders brisant
+waren Polemiken, geschichtliche Darstellungen,
+theologische
+Schriften, die vom offiziellen Bekenntnis abwichen, und Lieder.
+Diese Texte galten dem Verständnis der Zeit entsprechend als
+Schmähschriften, weil die enthaltenen Deutungen der Bibel oder
+bestimmter Ereignisse von den Betroffenen als eine Beschimpfung
+empfunden wurden. Die beleidigten Personen und Regierungen
+machten für die Äusserungen die Obrigkeiten der Autoren und
+Drucker haftbar (Korporationsgedanke). Mit der Verweigerung
+der Approbation oder mittels Nachzensur versuchten die Obrig-
+keiten den Unwillen ihrer Verbündeten abzuwenden. Reformierte
+Autoren gerieten wiederholt in Konflikt mit der Zensur, weil die
+beanspruchte kirchliche Verkündigungsfreiheit nicht immer mit der
+Staatsräson vereinbar war. Schriften mit häretischem Inhalt wur-
+den unterdrückt, um den guten Ruf zu wahren und die eigene
+Rechtgläubigkeit zu beweisen. In diesen Fällen waren reformierte
+Theologen, die ja auch Staatsdiener waren, nicht in der Opferrolle,
+
+249 Sebastian Franck, Chronica des gantzen Teütschen Lands, aller Teütschen völcker
+herkommen, Namen, Händeln, Guten und bösen Thaten, Reden, Rhäten, Kriegen, Si-
+gen, Niderlagen, Stifftungen, Veränderungen der Sitze, Reich, Länder, Religion, Gesat-
+ze, Polocey, Spraach, völcker und sitten, Bern: Mathias Apiarius, 1539 (VD 16 F 2090).
+Die erste Auflage stammt aus der Strassburger Offizin von Balthasar Beck. Erasmus von
+Rotterdam beschwerte sich in Strassburg erfolgreich über die ihm widerfahrene Dar-
+stellung in diesem Werk, worauf der Druck beschlagnahmt und der Autor ausgewiesen
+wurde.
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+433
+
+sondern mehrfach aktiv an der Zensur beteiligt. Dennoch erschie-
+nen in der Schweiz in kleinem Umfang auch Schriften von religi-
+ösen Nonkonformisten und von Autoren, die äusserlich mit der
+Kirche übereinstimmten, aber in ihren Publikationen abweichende
+Lehrmeinungen vertraten. Bei Letzteren handelte es sich fast aus-
+nahmslos um italienische und französische Glaubensflüchtlinge,
+die vermutlich ein geringeres Korporationsbewusstsein hatten als
+einheimische Autoren.
+
+Bei Verstössen gegen die Zensurordnungen leiteten die Obrig-
+keiten Ermittlungen gegen fehlbare Drucker, Verleger und Autoren
+ein. Die Strafen fielen meistens glimpflich aus. Während die Au-
+toren oft straflos oder mit einer einfachen Verwarnung davonka-
+men, begnügten sich die Obrigkeiten bei den schuldigen Druckern
+häufig mit der Untersuchungshaft. Die Haft bedeute für sie natür-
+lich einen wirtschaftlichen Verlust, der bei einer gleichzeitigen Kon-
+fiskation der Auflage umso schmerzlicher war. Gelegentlich wur-
+den Drucker auch zu einer Geldbusse verurteilt, Autoren dagegen
+eher seltener. Sehr wenige Fälle endeten mit einem Landesverweis,
+wofür jeweils nicht allein der Verstoss gegen die Zensurordnung
+verantwortlich war.
+
+Viele der bekannten Zensurfälle, vermutlich die Mehrzahl, wur-
+den durch eidgenössische Interventionen ausgelöst und betrafen
+folglich die Nachzensur. Meistens traten die katholischen und
+evangelischen Orte als konfessionelle Blöcke auf, wenn sie sich
+während einer Tagsatzung über eine Veröffentlichung des konfes-
+sionellen Gegners beschwerten. Solche Schmähschriften, die das
+Ansehen eines Einzelnen, einer Regierung oder eines Landes schä-
+digten, galten in der Eidgenossenschaft seit 1531 endgültig als ver-
+boten, während sie noch in der Reformationszeit ein gebräuchli-
+ches und gesellschaftlich akzeptiertes Kampfmittel waren. Im Zen-
+trum der Beschwerden stand die verletzte Ehre. In der Regel ver-
+langten die Kläger eine Untersuchung und die Bestrafung der
+Schuldigen durch die zuständige Obrigkeit. Kam es zu keiner Ver-
+urteilung, zog die klagende Partei den Fall zuweilen vor ein eid-
+genössisches Schiedsgericht, um durch eine Bestrafung des Schmä-
+henden die eigene Ehre wiederherzustellen. Die Mehrheit der Kla-
+gen wurden von den katholischen Orten geführt. In verschiedenen
+Fällen kam es zu einer Nachzensur, indem die zuständige Obrigkeit
+
+434
+
+Christian Scheidegger
+
+die Bücher beschlagnahmte und den Drucker bestrafte. Das
+Schmähverbot wurde gelegentlich von der klagenden Partei für die
+eigene Religionspolitik instrumentalisiert, was nicht nur eidgenös-
+sische Stände bei ihren Verbündeten und in den Untertanengebie-
+ten, sondern auch ausländische Mächte und Personen in der Eid-
+genossenschaft versuchten.
+
+In den 1550er Jahren verabschiedeten die Obrigkeiten in Basel
+und Zürich neue Zensurordnungen. Die Zensurkommission in Ba-
+sel setzte sich seither aus fünf Mitgliedern der Universitätsleitung
+und die in Zürich aus zwei Vertretern des Rates und einem Gelehr-
+ten zusammen. Neu wurden die Zensoren entlöhnt, in Zürich al-
+lerdings nur mit einem Belegexemplar. Die nun zahlreicher akten-
+kundigen Zensurfälle zeigen, dass nach der Jahrhundertmitte die
+Zensur konsequenter durchgeführt wurde. Johannes Oporinus ver-
+spottete die schärfere Kontrolle als ein neues Papsttum, und auch
+andere Zeitgenossen beklagten den Verlust der Freiheit, die es zur
+Zeit der Reformation in den Druckereien gegeben hätte.250 Eine
+strengere Überprüfung des Buchdrucks kann auch in den Städten
+und Territorien des Reichs beobachtet werden. In Augsburg zum
+Beispiel griff der Kaiser nach dem Schmalkaldischen Krieg in die
+städtische Zensurpolitik ein und sorgte für eine Verschärfung,
+während in Kursachsen das landesherrliche Zensurrecht bis 1574
+massiv ausgebaut und für die Bekämpfung der Kryptocalvinisten
+und Gnesiolutheraner genutzt wurde.251 Trotz einer konsequente-
+ren Zensurpraxis erschienen auch in der zweiten Jahrhunderthälfte
+Schweizer Drucke ohne Approbation. Ausserdem blieb der Buch-
+druck in den eidgenössischen Orten formal unabhängig von der
+kaiserlichen und päpstlichen Zensur, was vermutlich den Aus-
+schlag gab, dass der Rabbiner der jüdischen Gemeinde in Frankfurt
+den Talmud 1558/1559 zuerst in Zürich und 1561 in Basel dru-
+cken wollte, bevor der Druck dort in den Jahren 1578 bis 1580
+endlich zustande kam.252
+
+250 Hans-Peter Hasse, Zensur theologischer Bücher in Kursachsen im konfessionellen
+Zeitalter: Studien zur kursächsischen Literatur- und Religionspolitik in den Jahren
+1569–1575, Leipzig 2000, 13 und 69f. Vgl. auch Bächtold, Bullinger vor dem Rat,
+279–282.
+
+251 Hans-Jörg Künast, »Getruckt zu Augspurg«: Buchdruck und Buchhandel in Augs-
+
+burg zwischen 1468 und 1555, Tübingen 1997, 211, und Hasse, Zensur.
+
+252 Clemens P. Sidorko, Eliezer Ben Naphtali Herz Treves als Pionier des jüdischen
+
+Die Bücherzensur in der Schweiz von der Reformation bis 1600
+
+435
+
+Insgesamt bleibt das Bild der Bücherzensur in der Schweiz frag-
+mentarisch. Statistische Aussagen wie etwa die Bestimmung des
+Verhältnisses zwischen zensierten und unzensierten Drucken in ei-
+nem bestimmten Zeitabschnitt sind nicht möglich. Für die weitere
+Erforschung der Zensurgeschichte wird das Studium von zusätzli-
+chen Archivalien und Gelehrtenkorrespondenzen nötig sein, um
+auf dieser Grundlage weitere Zensurfälle des 16. Jahrhunderts, ins-
+besondere aus Zürich, zu erheben. Wünschenswert wäre natürlich
+auch eine zeitliche Ausdehnung der Untersuchung auf das 17. und
+18. Jahrhundert.
+
+Christian Scheidegger, lic. phil., Wissenschaftlicher Bibliothekar, Zentralbibliothek Zü-
+rich
+
+Abstract: Printing and the Reformation challenged book censorship in a new dimensi-
+on. The Swiss confederates did not simply adopt the papal and imperial politics of
+censorship but discussed own solutions, which were subsequently implemented by the
+particular governments in their own interests. Committees of censorships were esta-
+blished within the protestant cities of Zurich, Basle and Berne for proving texts before
+printing. This official measure was intended to avoid conflicts with other governments
+and to guarantee domestic peace as well. The practice however was somehow fragmen-
+tary, mainly before the middle of the 16th century. Numerous complaints were made,
+prominently by the catholic confederates. The complaining party demanded usually to
+sequester the controversial publications and to punish the accused printers and authors
+as a restoration of the violated honour. The Swiss Diet served repeatedly as a mediation
+body in settling these conflicts. The city authorities conducted investigations against
+printers and authors, who violated the censorship rules. Unlike printing, the authorities
+of the protestant cities rarely controlled bookselling, whereas the catholic governments
+forbade trade and possession of protestant literature. In accordance with these strict
+regulations they confiscated frequently forbidden books and had them burnt by the
+executioner.
+
+Keywords: Censorship; Printing; Books; Reformation; Swiss Confederation; Zurich;
+Basle; Berne
+
+Buchdrucks in Zürich, Tiengen und Basel um 1560, in: Aschkenas: Zeitschrift für Ge-
+schichte und Kultur der Juden 17 (2010), 459–464, und Clemens P. Sidorko, Basel und
+der jiddische Buchdruck (1557–1612): Kulturexport in der Frühen Neuzeit, Basel 2014,
+178–184.
+
+

@@ -1,0 +1,2473 @@
+ISSN 0254–4407 – Zwingliana 47 (2020), 183–234
+
+»Dass doch die Menschen sich
+immer in Extremen gefallen!«
+
+Der Vermittlungstheologe Karl Rudolf
+
+Hagenbach (1801–1874)
+
+Sandra Romer
+
+1. Einleitung
+
+1.1 Forschungsstand
+
+Der Basler Theologe Karl Rudolf Hagenbach (1801–1874) war ein
+überaus umtriebiger Mensch und hervorragend vernetzt. Von Zeit-
+genossen wurde er als »das Haupt der Vermittlungstheologie in der
+Schweiz«1 bezeichnet. Auch aus heutiger Sicht wird seine Funktion
+als Brückenbauer anerkannt2 und es herrscht Einigkeit darüber,
+dass das Ansehen, in dem Hagenbach stand, »über das gewöhnli-
+che Mass eines Basler-Theologieprofessors weit hinausging«.3
+
+1 Georg Finsler, Zur Erinnerung an Karl Rudolf Hagenbach, Doktor und Professor
+der Theologie in Basel (Separatdruck aus dem »Volksblatt für die reformirte Schweiz«),
+Zürich 1874, 8.
+
+2 Martin W. Pernet, Nietzsche und das »Fromme Basel«, Basel 2014, 170.
+3 Martin Wallraff, Karl Rudolf Hagenbach als Dogmenhistoriker, in: Schweizer
+Kirchengeschichte – neu reflektiert. Festschrift für Rudolf Dellsperger zum 65. Geburts-
+tag, hg. von Ulrich Gäbler / Martin Sallmann / Hans Schneider, Bern 2010 (Basler und
+Berner Studien zur historischen und systematischen Theologie 73), 291–306, hier 292.
+
+184
+
+Sandra Romer
+
+Dennoch war Hagenbach bis heute nie Thema einer ausführli-
+cheren wissenschaftlichen Abhandlung, und es stellt sich die Frage,
+warum das Interesse an dieser bemerkenswerten Persönlichkeit bis
+anhin so gering war. Mit ein Grund mag sein, dass die Vermitt-
+lungstheologen stets im Kreuzfeuer zwischen Liberalen und Or-
+thodoxen standen und in vielen Kreisen keinen überragenden Ruf
+genossen, da ihre Haltung als opportunistisch und ihr Ansatz als
+»Schaukelsystem« empfunden wurde. Hagenbach selber hat unter
+diesem Stigma gelitten und seine Positionierung immer wieder the-
+matisiert, hinterfragt und detailliert ausgeführt.
+
+Karl Rudolf Hagenbach war nicht nur als öffentliche Person,
+sondern auch als Privatmensch sehr aktiv. Neben seinem berufli-
+chen Engagement als Theologieprofessor an der Universität Basel
+war er Autor diverser Grundlagenwerke, Kirchenhistoriker, Poli-
+tiker, Herausgeber und Autor von Zeitschriften, Lektor (Leiter)
+des Frey-Grynaeischen Instituts,4 Vereinsvorstand, Lyriker und
+nicht zuletzt ein ausgeprägter Familienmensch: Seit 1829 mit Ro-
+sina geb. Geigy verheiratet, führte das Ehepaar einen kinderreichen
+Haushalt, daneben wurde der Kontakt mit der engen und weiteren
+Verwandtschaft intensiv gepflegt. Die Biographie Hagenbachs, die
+sich beinahe über das ganze 19. Jahrhundert spannt, ist in vielerlei
+Hinsicht ein Spiegel dieses »nervösen Zeitalters«.5 Entlang seines
+erfüllten Lebens lassen sich die wichtigsten politischen, sozialge-
+schichtlichen und theologischen Fragestellungen, welche die
+Schweiz in jener Phase beschäftigten, nachzeichnen.
+
+4 Das Frey-Grynaeische Institut wurde 1747 als private Stiftung gegründet, deren
+Zweck die wissenschaftliche Beschäftigung mit Theologie in enger Anbindung an die
+Universität ist. Ein Kuratorium wählt jeweils einen »Lektor«, der für das Haus und die
+historisch bedeutsame Bibliothek verantwortlich zeichnet. Vgl. hierzu www.freygry-
+naeum.unibas.ch [Abfragedatum: 07.06.2020]. Ein Kunstführer über Gebäude, Stiftung
+und Bibliothek ist in Vorbereitung: Martin Wallraff (Hg.), Das Frey-Grynaeische Insti-
+tut in Basel, Stiftung, Bibliothek, Baugeschichte. Die Publikation erscheint voraussicht-
+lich im November 2020.
+
+5 Bernd Roeck, Jacob Burckhardt. Der Modernitätsmüde, in: Neue Zürcher Zei-
+
+tung [NZZ] Geschichte 13 (2017), 61.
+
+Karl Rudolf Hagenbach
+
+185
+
+1.2 Quellenlage
+
+Im Staatsarchiv Basel befindet sich ein umfangreiches »Familienar-
+chiv Hagenbach« über die Zeit vom 14. Jahrhundert bis 1985.6
+Insbesondere das 19. Jahrhundert ist sehr gut dokumentiert, da
+Karl Rudolf Hagenbach offensichtlich selber darauf bedacht war,
+sein Leben und sein theologisches Denken auch der Nachwelt zu
+hinterlassen. Erhalten ist eine in Manuskriptform vorliegende Au-
+tobiographie,7 mit deren Abfassung Hagenbach im Alter von 45
+Jahren begonnen hatte und die er bis drei Jahre vor seinem Tod
+immer wieder ergänzte und aktualisierte. Außerdem existiert ein
+gedrucktes Poesie-Album, das gesammelte Gedichte von Hagen-
+bach zu heiteren und traurigen Ereignissen im Familienleben der
+Hagenbachs und Geigys enthält. Daneben erweisen sich zahlreiche
+Akten zu seinem theologischen und dichterischen Werk als wert-
+voll. Eine umfangreiche Korrespondenz zeigt Hagenbachs enga-
+gierte und umtriebige Persönlichkeit, aber auch seine große Ver-
+bundenheit mit seiner Familie auf.
+
+Beruflich und privat in die Basler Gesellschaft einerseits, in die
+theologische Schweiz des 19. Jahrhunderts andererseits eingebun-
+den, findet das Leben von Hagenbach außerdem in vielen zeitge-
+nössischen Sekundärquellen seinen Niederschlag. Nach seinem Tod
+im Jahre 1874 sind Nachrufe und eine umfassende Darstellung
+seiner Biographie8 erschienen. Verfasst von theologischen Wegge-
+fährten, enthalten diese Texte wertvolle Informationen, sind jedoch
+– der damaligen Zeit und der literarischen Gattung des Nekrologs
+entsprechend – pathetisch geschrieben und in hymnischem Ton ge-
+halten.
+
+Während also für die Aufarbeitung von Hagenbachs Biographie
+eine Fülle ungedruckter und gedruckter Primärquellen vorhanden
+ist, präsentiert sich die Quellenlage in Bezug auf die Rezeptions-
+geschichte seines Werkes schwieriger. Sowohl in neueren Publika-
+
+6 Staatsarchiv Basel-Stadt [StABS], ungedruckte und gedruckte Quellen.
+7 Basel StABS, PA 838a B 1: Autobiographie (Manuskript) und 38 Agenden mit
+täglichen handschriftlichen Eintragungen [im Folgenden Hagenbach, Autobiographie].
+– Die Transkription der 402 Seiten umfassenden Autobiographie wäre ein interessantes
+Forschungsprojekt, das aber an dieser Stelle nicht geleistet werden kann.
+
+8 Christoph Friedrich Eppler, Karl Rudolf Hagenbach: eine Friedensgestalt aus der
+
+streitenden Kirche der Gegenwart, Gütersloh 1875.
+
+186
+
+Sandra Romer
+
+tionen über Schweizer Kirchengeschichte oder im Zusammenhang
+mit spezifischen Untersuchungen über Vermittlungstheologie wird
+Hagenbachs Name zwar regelmäßig erwähnt, und es finden sich
+auch einige Aufsätze, die sich mit ausgewählten Themen von Ha-
+genbachs theologischem Wirken und Denken beschäftigen.9 Doch
+es gibt keine monographische Behandlung der Biographie oder sei-
+nes theologischen Profils, und außer den bereits erwähnten obli-
+gaten Artikeln in den Standardnachschlagewerken sind nur zwei
+oder drei einschlägige Aufsätze nennenswert.10 Immerhin wird Ha-
+genbachs Name im Zusammenhang mit Zeitgenossen erwähnt, die
+über die Jahre zu größerer Bekanntheit als er gelangt und von der
+Forschung detailliert bearbeitet worden sind. So gibt es etwa eine
+Dissertation über den (jungen) Alois Emanuel Biedermann, in wel-
+cher Hagenbachs theologisches Wirken kurz zusammengefasst
+wird.11 Auch im Sammelband über den Zürcher Vermittlungstheo-
+logen Alexander Schweizer taucht Hagenbachs Name vereinzelt
+auf.12 Zudem findet Hagenbach immer wieder Erwähnung in Pu-
+blikationen über seinen Freund Albert Bitzius.13 Die beiden Theo-
+logen haben sich in den Jahren 1841 bis 1853 einige Male persön-
+lich getroffen und sich vor allem in Form eines freundschaftlichen
+Briefwechsels buchstäblich über Gott und die Welt ausgetauscht.
+
+9 Rudolf Gebhard, Umstrittene Bekenntnisfreiheit. Der Apostolikumsstreit in den
+Reformierten Kirchen der Deutschschweiz im 19. Jahrhundert, Zürich 2003; Wallraff,
+Hagenbach; Christoph Ramstein, »Pfarrbrüder«, »Pfarrconvent« und Schweizerische
+Predigergesellschaft. Drei historische Beispiele der Zusammenarbeit und des Austauschs
+unter Pfarrpersonen der reformierten Schweiz im 19. Jahrhundert, in: Zwingliana 38
+(2011), 175–209.
+
+10 Wallraff, Hagenbach, 292.
+11 Thomas K. Kuhn, Der junge Alois Emanuel Biedermann. Lebensweg und theo-
+logische Entwicklung bis zur »Freien Theologie« 1819–1844, Tübingen 1997 (Beiträge
+zur historischen Theologie 98), 119f.
+
+12 Emidio Campi
+
+/ Ralph Kunz / Christian Moser (Hg.), Alexander Schweizer
+
+(1808–1888) und seine Zeit, Zürich 2008.
+
+13 Peter Rusterholz, Gotthelfs Briefwechsel mit Josef Burkhalter und Karl Rudolf
+Hagenbach. Beiträge zur geistigen Situation der Zeit, in: Jeremias Gotthelf – Wege zu
+einer neuen Ausgabe, hg. von Barbara Mahlmann-Bauer und Christian von Zimmer-
+mann, Tübingen 2006 (Beihefte zu Editio 24), 281–298; Peter Rusterholz, Gotthelf
+heute? Gotthelf und der Kirchengeschichtler Hagenbach, in: Gotthelf. Interdisziplinäre
+Zugänge zu seinem Werk, hg. von Peter Gasser und Jan Loop, Frankfurt a. M. 2009,
+193–224.
+
+Karl Rudolf Hagenbach
+
+187
+
+In jüngerer Zeit wird Hagenbach interessanterweise von der an-
+gelsächsischen Forschung wiederentdeckt und mehrere Autoren
+weisen auf seinen bedeutenden Einfluss auf die Theologie in den
+USA im 19. Jahrhundert hin.14 Diese Tatsache ist dem Umstand
+geschuldet, dass Hagenbachs Werke (im speziellen die »Encyklo-
+pädie und Methodologie der theologischen Wissenschaften« und
+das »Lehrbuch der Dogmengeschichte«) unter anderem in engli-
+scher Übersetzung und in mehreren Auflagen erschienen waren
+und große Verbreitung fanden.15 Auch seine »Kirchengeschichte
+von der ältesten Zeit bis zum 19. Jahrhundert« stieß auf großes
+Interesse und erschien in englischer und holländischer Überset-
+zung.16
+
+Für die Aufarbeitung der Rezeptionsgeschichte ist also Material
+vorhanden. Es handelt sich aber vorwiegend um eher punktuelle
+Beiträge, die ein puzzleartiges Zusammentragen verschiedener Auf-
+sätze und Einschätzungen zu Hagenbachs theologischem Werk und
+dessen Einfluss notwendig machen.
+
+1.3 Aufbau und Ziel der vorliegenden Arbeit
+
+Hagenbachs »Mission« – nämlich die Vermittlung zwischen Re-
+formern und Positiven – kann nur vor dem Hintergrund der da-
+maligen politischen und sozialgeschichtlichen Situation und im Zu-
+sammenhang mit seinem familiären Umfeld verstanden werden.
+Deshalb wird nach der Einleitung in Kapitel 2 die (kirchen-) poli-
+tische Situation in der Schweiz im Allgemeinen und jene von Basel
+im Speziellen kurz zusammengefasst, um danach im dritten Kapitel
+die Biographie von Karl Rudolf Hagenbach aufzuarbeiten. Auf die-
+sen Grundlagen aufbauend, werden im vierten Teil die verschie-
+
+14 Annette G. Aubert, The German Roots of Nineteenth-Century American Theo-
+logy, New York, 2013; Zachary Purvis, Transatlantic Textbook. Karl Hagenbach,
+Shared Interests, and German Academic Theology in Nineteenth-Century America, in:
+Church History [CH] 83, (2014), 650–683; Zachary Purvis, Theology and the Univer-
+sity in Nineteenth-Century Germany, Oxford 2016.
+
+15 Purvis, Theology and the University, 191–216, widmet Karl Rudolf Hagenbach
+unter dem Titel »Preceptor of Modern Theology: Hagenbach and the Mediating Scho-
+ol« ein ganzes Kapitel und rehabilitiert in gewisser Weise die in der Forschung oftmals
+übergangene Vermittlungstheologie.
+
+16 Offenbar existiert sogar eine zweibändige Übersetzung ins Chinesische. Vgl. Jo-
+
+achim Boekels, Schleiermacher als Kirchengeschichtler, Berlin 1994, 36.
+
+188
+
+Sandra Romer
+
+denen theologischen Wirkungsfelder von Hagenbach dargestellt,
+der fünfte Teil widmet sich der Rezeptionsgeschichte von Hagen-
+bachs wichtigsten und verbreitetsten Werken. Ziel der Arbeit ist es,
+die Denkweise und das theologisches Profil von Hagenbach dar-
+zustellen, die Wirkungsgeschichte seiner Werke nachzuvollziehen
+und nicht zuletzt auch, dem Menschen Hagenbach näher zu kom-
+men und sein Engagement aus heutiger Sicht zu würdigen.
+
+2. Hintergrund
+
+2.1 Gesellschaftlicher Strukturwandel im 19. Jahrhundert
+
+Das lange 19. Jahrhundert wird als Zeit der Revolutionen bezeich-
+net.17 Dabei tangierten die politischen Umwälzungen, die im aus-
+gehenden 19. Jahrhundert in ganz Europa stattfanden, auch die
+Schweiz. Bevor es 1848 zur Gründung des Bundesstaates kommen
+konnte, musste mit dem Sonderbundkrieg – der letzten militäri-
+schen Auseinandersetzung auf Schweizer Boden, die unter anderem
+konfessionell bedingt war – eine tiefgreifende Krise gemeistert und
+große innere Gräben überwunden werden.
+
+Das Thema Religion blieb in der bürgerlichen Kultur sehr prä-
+sent, allerdings in ganz verschiedenen Ausdeutungen. Nach 1848
+entstanden im Zuge der Demokratisierung Landeskirchen mit kan-
+tonalen Kirchenra¨ten (Exekutive) und Synoden (Legislative), in
+welchen die Konflikte zwischen Liberalen und Konservativen aus-
+getragen wurden. Im Zusammenhang mit dem Apostolikums-
+streit18 feierte der theologische Liberalismus mit der Abschaffung
+der Bekenntnispflicht einen der wichtigsten Erfolge im 19. Jahr-
+hundert.19
+
+17 Wolf-Dieter Hauschild, Lehrbuch der Kirchen- und Dogmengeschichte, Bd. 2:
+
+Reformation und Neuzeit, München 1999, 741.
+
+18 Als Apostolikumsstreit wird die jahrelange Auseinandersetzung um die Stellung
+des Apostolischen Glaubensbekenntnisses in offiziellen kirchlichen Lehr-und Liturgie-
+büchern sowie in kirchenrechtlichen Büchern bezeichnet. In erster Linie handelt es sich
+dabei um die Geltung des Bekenntnisses in der Tauf-, Abendmahls- und teilweise in der
+Konfirmationsliturgie. Vgl. hierzu Rudolf Gebhard, Apostolikumsstreit, in: Historisches
+Lexikon der Schweiz [HLS], Version vom 27.01.2011, Online: https://hls-dhs-
+dss.ch/de/articles/043205/2011–01–27/ [Abfragedatum: 07.06.2020].
+
+19 Gebhard, Umstrittene Bekenntnisfreiheit, 12.
+
+Karl Rudolf Hagenbach
+
+189
+
+Bereits ab 1820 hatte zudem ein neues politisches und religiöses
+Selbstbewusstsein zur Gründung vieler überkonfessioneller Gesin-
+nungsgemeinschaften geführt. Diese Erweckungsbewegungen för-
+derten und forderten eine Intensivierung christlicher Lebensein-
+stellung, was im Kontrast zur moderaten Christlichkeit und zur
+distanzierten Kirchlichkeit insbesondere des aufgeklärten Bürger-
+tums und der bäuerlichen Bevölkerung stand.20
+
+2.2 Das »fromme Basel«
+
+Basel war in dieser Phase eine von pietistisch-erwecklicher Fröm-
+migkeit geprägte Stadt. Dabei zählte insbesondere die konservative
+Basler Führungsschicht dieser Erneuerungsbewegung innerhalb des
+Protestantismus an. Grundstein des frommen Basels war die 1780
+in Basel gegründete Deutsche Christentumsgesellschaft, die im
+Kontakt mit Einrichtungen der englischen Erweckungsbewegung
+stand und deren Hauptaufgabe die Bekämpfung des Rationalismus
+war.21 Daraus ging die Gründung der Basler Bibelgesellschaft
+(1804), der Basler Mission (1815)22 oder des Wohnheims für junge
+Männer in Basel (1832) hervor. Allerdings war der in diesen wohl-
+tätigen Einrichtungen herrschende Geist häufig von einem Mora-
+lismus der Anklage bestimmt und die Meinung, dass Armut selbst-
+verantwortet sei, indem die von Gott empfangene Freiheit miss-
+braucht werde, war in diesen Kreisen weit verbreitet.23 Die Ent-
+wicklungen im »frommen Basel« wurden von den eidgenössischen
+Mitständen misstrauisch beobachtet, was nicht nur religiös, son-
+dern auch politisch motiviert war: Die Kombination des politisch
+reaktionären Kurses – der sich anfangs der 1830er Jahre insbeson-
+dere im Zusammenhang mit der Kantonstrennung abzeichnete –
+und der besonderen Basler Frömmigkeit trug der Stadt keinen gu-
+
+20 Hauschild, Lehrbuch, 765.
+21 Hauschild, Lehrbuch, 767.
+22 Die Basler Mission war überhaupt eine der ersten, die sich auch mit den sozialen
+und wirtschaftlichen Problemen der neu zum Christentum bekehrten Völker befasste
+und hatte daher Pionier- und Vorbildfunktion für viele ähnliche Gesellschaften. Vgl.
+Olivier Fatio, Die protestantischen Kirchen, in: Ökumenische Kirchengeschichte der
+Schweiz, hg. von Lukas Vischer / Lukas Schenker / Rudolf Dellsperger, Freiburg i.Ue. /
+Basel 1994, 215–219, hier 217.
+
+23 Fatio, Protestantische Kirchen, 218.
+
+190
+
+Sandra Romer
+
+ten Ruf ein und erst auf der Grundlage der neuen Bundesverfas-
+sung bahnte sich wieder ein freundlicheres Verhältnis an.24 In den
+1880er Jahren, also vergleichsweise spät, sollte sich auch in Basel
+politisch und kirchlich der Liberalismus durchsetzen. Infolgedessen
+mussten auch die Vertreter des »frommen Basels« den Radikalen
+und den kirchlich Liberalen Macht und Einfluss überlassen.
+
+3. Biographie
+
+3.1 Kindheit und Jugend
+
+Karl Rudolf Hagenbach wurde am 4. März 1801 als ältestes Kind
+von sieben Geschwistern in eine altbaslerische Familie geboren,
+deren Ahnen aus dem Elsass zugewandert waren.25 Der Vater Karl
+Friedrich Hagenbach (1771–1849) hatte in Strassburg, Erlangen
+und Göttingen Medizin studiert und war von 1798 bis 1818 Ana-
+tomieprofessor an der Universität Basel, ab 1801 auch der Botanik.
+Er »hielt nur wenige Vorlesungen und trat 1817 sogar für die Auf-
+hebung der darniederliegenden medizinischen Fakultät Basel ein.
+Er führte in Basel eine Arztpraxis und eine Apotheke, in Arlesheim
+mit einem Kollegen eine private Kuranstalt«.26 Vater Hagenbach
+amtierte zudem zeitweise als Stadtrat und war Zunftmeister zu
+Safran. Um das Jahr 1808 wohnten die Hagenbachs im Gansgäss-
+lein im Herzen der Basler Altstadt, und zwar im altehrwürdigen
+Haus »zer Gens«.27 Zeitgenossen erinnern sich, dass bei Hagen-
+bachs »die Liebe zu Kunst und Wissenschaft zu Hause war«.28
+
+Rückblickend hielt Karl Rudolf Hagenbach in seinen Erinnerun-
+gen fest, dass »sein Vater nicht eigentl. zum Arzte geboren (war),
+wie er es selbst oft sagte«.29 Sein eigentliches Hauptinteresse galt
+
+24 Karl Rudolf Hagenbach, zit. nach Pernet, Nietzsche und das »Fromme Basel«, 53.
+25 Kuhn, Biedermann, 119.
+26 Karin Marti-Weissenbach, Karl Friedrich Hagenbach,
+
+in: HLS, Version vom
+10.08.2006, Online: https://hls-dhs-dss.ch/de/articles/025966/2006–08–10/ [Abfrage-
+datum: 07.06.2020].
+
+27 Michael Schultheiss, Das versteckte Gansgässlein – ein Phantom unter Basels
+in: www.zeitnah.ch/9645/gesichtet–
+
+Strassennamen, Artikel vom 30. Januar 2015,
+96-das-versteckte-gansgässlein [Abfragedatum: 07.06.2020].
+
+28 Eppler, Hagenbach, 3.
+29 Hagenbach, Autobiographie, 23.
+
+Karl Rudolf Hagenbach
+
+191
+
+der Erforschung der Natur: Mit der Publikation der ersten voll-
+ständigen Lokalflora der Region Basel (»Tentamen florae Basili-
+ensis«) erwarb er sich in der wissenschaftlichen Welt einen Na-
+men.30 Vom Geist der französischen Aufklärung geprägt, suchte
+Karl Friedrich Hagenbach Gott in der Natur und bezeichnete sich
+als Pantheist: »Die Kirche, wie sie damals die christlichen Lehren
+vortrug, war seine Freundin nicht.«31
+
+Karl Rudolf Hagenbachs Mutter war Sara Dorothea Freyburger
+(1773–1837), Tochter des Chirurgen Johann Jakob Freyburger
+und Maria Elisabeth im Hof. Sie war sehr fromm und überhaupt
+»in vielen Dingen das Gegenteil von meinem Vater«.32 Sie hatte
+prägenden Einfluss auf die religiöse Erziehung ihres Erstgeborenen
+und war »sicher auch der, wenn gleich unbewusste Impuls, der ihn
+dem Studium der Theologie entgegentrieb«.33 An diese elterliche
+Aufgabenteilung erinnerte sich später auch Hagenbach: Seinem
+geistreichen und wissenschaftlich gebildeten Vater verdanke er
+hauptsächlich seine intellektuelle, der frommen und liebenden
+Mutter seine sittliche und religiöse Jugenderziehung.34
+
+Vater Hagenbach war von den neuen Erziehungsmethoden, wie
+sie durch den Schweizer Pädagogen Johann Heinrich Pestalozzi
+Verbreitung fanden, begeistert und wünschte, dass »seine Söhne
+nicht den Gang durch die altmodisch gewordenen Schulen gehen
+sollten«,35 weshalb Karl Rudolf von 1808 bis 1813 die Pestaloz-
+zische Unterrichtsanstalt der Herren Hopf und Schmeller besuch-
+te.36 In diesem »sogenannten Anschauungsunterricht« sollte alles
+aus dem Schüler heraus entwickelt werden. Für Hagenbach waren
+»der Sinn für Poesie und sprachlich schöne Darstellung, sowie die
+
+30 Finsler, Erinnerung, 8.
+31 Eppler, Hagenbach, 3.
+32 Hagenbach, Autobiographie, 21.
+33 Eppler, Hagenbach, 11.
+34 Zit. nach Eppler, Hagenbach, 4.
+35 Eppler, Hagenbach, 7.
+36 Johann Andreas Schmeller (1785–1852) war ein deutscher Sprachforscher, der –
+von der Aufklärung geprägt – von Pestalozzis pädagogischem Konzept überzeugt war
+und seine Basler Zöglinge entsprechend unterrichtete. Das Institut, das von 1808 bis
+1813 bestand, verfolgte das Ziel, »Schüler ohne akademische Ambitionen durch Men-
+schenbildung auf einen Beruf, die anderen auf den Übertritt an die Universität vorzu-
+bereiten«. Vgl. Rebekka Horlacher / Daniel Tröhler (Hg.), Sämtliche Briefe an Johann
+Heinrich Pestalozzi, Bd. 2: 1805–1809, Zürich 2010, 707.
+
+192
+
+Sandra Romer
+
+Unbefangenheit im öffentlichen Auftreten (...) eine schöne Mitgift
+dieser Pestalozzischule fürs Leben«.37 Tatsächlich dürfte dem Kna-
+ben Karl Rudolf diese anthroposophische Art von Schuldbildung
+entsprochen haben, zumal er schon damals militärisch-strammem
+Auftreten wenig abgewinnen konnte und sich vielmehr für litera-
+rische oder darstellerische Aktivitäten begeisterte.38 Bald jedoch
+sollte sich herausstellen, dass in der Privatschule von Hopf und
+Schmeller die klassischen Unterrichtsfächer eher vernachlässigt
+wurden. Um das Defizit einer klassischen Gymnasialbildung nach-
+zuholen, war Hagenbach offenbar auf weiteren Privatunterricht
+angewiesen und besuchte deshalb zwischen 1813 und 1815 die
+Bernoullische Lehranstalt in Basel.39 Diese Privatschule für Schüler
+ab dem zwölften Lebensjahr galt als Vorbereitung für die Univer-
+sität, für eine höhere Militärschule oder für eine berufliche Tätig-
+keit als Kaufmann oder Fabrikant,40 unterrichtet wurden Sprachen,
+naturwissenschaftliche Fächer und auch Religion.41 Die hohen
+Schulkosten42 wie auch die Begrenzung pro Klasse auf zehn Schüler
+legen nahe, dass diese Lehranstalt Söhnen aus gut gestellten Fa-
+milien vorbehalten war. Schulgründer war der Basler Christoph
+Bernoulli (1782–1863), der in Göttingen studiert hatte und danach
+in Halle unterrichtete, wo er das Pädagogium von August Her-
+mann Francke kennenlernte.43 Es ist deshalb denkbar, dass Hagen-
+bach in diesem Umfeld die von ihm geschilderten Begegnungen mit
+Pietisten hatte, »die einen Einfluss auf mich gewannen«.44
+
+37 Eppler, Hagenbach, 7.
+38 Vgl. hierzu Eva M. Düblin-Honegger, Karl Rudolf Hagenbach, Autobiographie,
+
+in: Schweizerisches Archiv für Volkskunde 67 (1971) 307–312, hier 312.
+
+39 Hagenbach, Autobiographie, 59f.
+40 Flavio Häner, Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistori-
+
+schen Sammlungen in Basel, 1735–1850, Bielefeld 2017 (Edition Museum 23), 246.
+
+41 Horlacher, Sämtliche Briefe, 660. – Später wurde die Schule in Philotechnisches
+
+Institut umbenannt.
+
+42 Die Kosten für 20 bis 22 Stunden Unterricht pro Woche während eines Semesters
+beliefen sich auf rund 144 Franken. Um 1800 betrug der durchschnittliche Tageslohn
+eines Fabrikarbeiters zwischen einem und zwei Franken. Vgl. Häner, Dinge sammeln,
+246.
+
+43 Das Pädagogium von August Hermann Francke galt als fortschrittlich, verlor aber
+im Lauf der Zeit aufgrund der stark pietistischen Prägung an Bedeutung. Vgl. Häner,
+Dinge sammeln, 243.
+
+44 Hagenbach, Autobiographie, 104.
+
+Karl Rudolf Hagenbach
+
+193
+
+3.2 Studium in Basel, Bonn und Berlin
+
+1815 schrieb sich Hagenbach zunächst an der Philosophischen Fa-
+kultät in Basel ein, von 1818 bis 1820 besuchte er die Theologische
+Fakultät in seiner Vaterstadt. Diese Studienrichtung habe er »aus
+freier Wahl des Herzens und aus vorwaltender Neigung zum Lehr-
+und Predigerstand erwählt, und (ich) habe niemals Anlass gehabt,
+es zu bereuen, wenn ich auch schwere innere Anfechtungen und
+Prüfungen habe bestehen müssen«.45 Hagenbach vertiefte sich in
+jener Zeit insbesondere in die Lektüre von Johann Gottfried Her-
+ders (1744–1803) Werken, was mit ein Grund für die Wahl seines
+Studienfaches gewesen sein soll.46 Überhaupt verbrachte der junge
+Student in dieser Lebensphase viel Zeit in der Natur und widmete
+sich dem Selbststudium. In den Sommermonaten weilte er jeweils
+auf dem Landgut seines Vaters im Jura, »wo er sogar in ländlicher
+Tracht mit seiner Violine die Freuden des Landvolkes begleitet,
+und sich schon in das idyllisch schöne Leben eines Landpfarrers
+hineinträumt«.47
+
+Nach zwei Studienjahren in Basel stand im Oktober 1820 der
+Wechsel nach Deutschland bevor. Die eben erst gegründete evan-
+gelisch-theologische Fakultät in Bonn wurde durch hervorragende
+Vertreter der Vermittlungstheologie geprägt, die den Grundstein
+für Hagenbachs Orientierung legten und seine theologische Rich-
+tung beeinflussten. Hier erst habe er, so Hagenbach in seiner Au-
+tobiographie, eine »von den edelsten Geistern« gelehrte und über
+die vorhandenen Gegensätze hinausstrebende Theologie der wah-
+ren Vermittlung kennengelernt, wobei nebst Karl Heinrich Sack die
+Professoren Friedrich Lücke und Karl Gieseler »anregend und zu-
+rechtleitend auf ihn gewirkt«48 hätten. Der Einfluss Lückes, der in
+seiner Hermeneutik eine Synthese von Glauben und Wissen bezie-
+hungsweise von Wissenschaft und kirchlicher Praxis suchte, ma-
+nifestierte sich in der späteren Theologie Hagenbachs ebenso wie
+
+45 Eppler, Hagenbach, 13.
+46 Martin Kessler, Johann Gottfried Herder – der Theologe unter den Klassikern,
+Berlin 2007, 2. Hagenbach war der erste Kirchenhistoriker, der Herder in eine umfas-
+sende Darstellung der neuzeitlichen Kirchen- und Theologiegeschichte aufnahm und
+ihm dabei eine zentrale Position zuwies.
+
+47 Eppler, Hagenbach, 12.
+48 Eppler, Hagenbach, 16.
+
+194
+
+Sandra Romer
+
+der Einfluss des Kirchenhistorikers Gieseler, der vom Standpunkt
+eines kritisch-vernünftigen Positivismus den Glauben und mensch-
+liches Erkennen auseinanderzuhalten suchte.
+
+Während der Bonner Zeit unterhielt der 19jährige Hagenbach,
+der insbesondere zu seiner Mutter und seinen Geschwistern ein
+inniges Verhältnis hatte, einen regelmäßigen Briefkontakt zu seiner
+Familie und wurde von den Zuhausegebliebenen regelmäßig über
+das Basler Gesellschaftsleben auf dem Laufenden gehalten.49 So
+prägend und wichtig die Auslandsemester in theologischer Hin-
+sicht auch sein mochten, schien für den heimat- und familienver-
+bundenen Hagenbach die Rückkehr in seine vertraute Umgebung
+immer festzustehen.
+
+Im Spätsommer 1821 reiste Hagenbach von Bonn nach Berlin.
+Hier sollte er wichtige Impulse bei August Neander und Friedrich
+Schleiermacher finden: Diesen zwei Lehrern und Wilhelm Martin
+Leberecht de Wette50 verdankte er nach eigenen Angaben über-
+haupt sein »theologisches Leben«.51
+
+August Neander, einer der frömmsten und gelehrtesten Lehrer
+der Berliner Fakultät, galt als Schöpfer der im Geist der Erweckung
+geschriebenen kirchengeschichtlichen Monographie und wurde
+von konservativer und liberaler Seite her sehr geachtet.52 Friedrich
+Schleiermacher, der 1810 zum Professor an der neuen Universität
+Berlin und zum ersten Dekan der Theologischen Fakultät gewählt
+worden war, formulierte die Religion unter den Bedingungen der
+historischen und philosophischen Kritik neu und bezeichnete sie
+als eine selbständige, spezifische und notwendige Dimension
+menschlichen Lebens. In Schleiermachers Verständnis konnte jeder
+Mensch religiöse Erfahrung erleben, ohne dabei an übernatürliche
+Begegnungen mit dem »Heiligen« zu denken. Vielmehr war die
+religiöse Erfahrung für Schleiermacher mit einem Gefühl verbun-
+den, »von dem er meinte sagen zu können, dass jeder und jede es
+
+49 Basel StABS, PA 838a A 78: Briefe der Geschwister Hagenbach an Karl Rudolf
+
+Hagenbach, 1820–1822.
+
+50 Mehr Informationen zu Wilhelm Martin Leberecht de Wette finden sich weiter
+
+unten im Kapitel 3.3.
+
+51 Kuhn, Biedermann, 119f.
+52 Vgl. Kurt Victor Selge, Neander, August,
+
+(1999), 10.
+
+in: Neue Deutsche Biographie 19
+
+Karl Rudolf Hagenbach
+
+195
+
+gewiss schon einmal an sich wahrgenommen hat, dem Gefühl
+schlechthinniger Abhängigkeit«.53
+
+Hagenbach, der regelmäßig Vorlesungen bei Schleiermacher und
+Neander besuchte,54 erkannte laut eigenem Bekunden das Chris-
+tentum erst jetzt in seinem eigentlichen Wesen, nämlich »nicht als
+bloße Lehre, sondern als Leben aus Gott, als ein neues Leben ken-
+nen, das nur im Glauben, und zwar im lebendigen, dem ächten
+Wissen keineswegs hinderlichen Glauben an Christus als den Gott-
+menschen und Erlöser begriffen werden muss«.55 Als theologisches
+Erbe dieser Zeit darf Hagenbachs lebenslanges Bemühen gewertet
+werden, einen gemäßigten Supranaturalismus mit dem Geist neu-
+erer Wissenschaft beziehungsweise Glauben und Wissen in Über-
+einstimmung zu bringen.56
+
+1823 beendete Hagenbach seine Studien in Berlin. Auf der Rück-
+reise in die Schweiz besuchte er in Weimar Johann Wolfgang von
+Goethe und schilderte später die Mischung von Faszination und
+Befangenheit, die er bei dieser Begegnung verspürte: »Mehr, als
+dass ich Göthe gesehen, hatte ich freilich nicht von diesem Besuch.
+[...] Und doch freuts mich, dass ich das Zeusgesicht selbst gesehn
+habe.«57 Somit kehrte Hagenbach nach drei intensiven Lehr- und
+Wanderjahren wieder in seine Heimatstadt zurück.
+
+3.3 Familiengründung und Lehrtätigkeit
+
+Hagenbach hatte eigenen Schilderungen zufolge ursprünglich nicht
+vor, einen akademischen Weg einzuschlagen, sondern wollte ein-
+facher Landpfarrer werden.58 In Basel nahm er zunächst eine Lehr-
+tätigkeit am Pädagogium auf. Eine Frucht dieses Unterrichts war
+der »Leitfaden zum christlichen Religionsunterricht an höheren
+
+53 Wilhelm Gräb, Religion und Gefühl, in: Alles mit Gefühl. Auf den Spuren Fried-
+rich Daniel Ernst Schleiermachers zum 250. Geburtstag, hg. von der Evangelischen
+Kirche Berlin-Brandenburg-schlesische Oberlausitz, Berlin 2018, 40.
+
+54 Ab Wintersemester 1820/21 bis zum Wintersemester 1822/23 sind Nachschriften
+Hagenbachs zu Vorlesungen von Neander und Schleiermacher in Berlin überliefert (vgl.
+Boekels, Schleiermacher, 35f.).
+55 Eppler, Hagenbach, 16.
+56 Pernet, Nietzsche und das »Fromme Basel«, 170.
+57 Ferdinand Vetter (Hg.), Jeremias Gotthelf und Karl Rudolf Hagenbach: ihr Brief-
+
+wechsel aus den Jahren 1841 bis 1853, Basel 1910, 95 Anm. 1.
+
+58 Zit. nach Eppler, Hagenbach, 26.
+
+196
+
+Sandra Romer
+
+Gymnasien und Bildungsanstalten«.59 Seine beruflichen Pläne kon-
+kretisierten sich dann vor allem dank Wilhelm Martin Leberecht
+de Wette (1780–1849), der 1822 an die Universität Basel berufen
+worden war und in dem er einen frühen Förderer und väterlichen
+Freund fand.
+
+Die Berufung de Wettes, der als Pionier einer modernen Bibel-
+wissenschaft galt,60 hatte in Basel für Unruhe gesorgt. Immerhin
+ging ihm der Ruf voraus, politisch einen radikalen Liberalismus zu
+vertreten. Doch der aus Weimar stammende Theologe trug in Basel
+nicht nur viel zum Aufschwung der theologischen Fakultät, son-
+dern auch zur Verständigung zwischen akademischer Theologie
+und Erweckungsfrömmigkeit bei.61 Innert weniger Jahre wurde de
+Wette zu einem Aushängeschild der theologischen Fakultät und
+war der Grund für eine wachsende Zahl von Studenten62 Hagen-
+bach stieg dank seinem Förderer de Wette schnell die berufliche
+Erfolgsleiter hinauf und wurde nach seinem Lizentiat 1823 schon
+bald zum Privatdozenten ernannt. De Wette strebte zielstrebig die
+Beförderung seines Schützlings zum ordentlichen Professor an, da-
+mit dieser nicht einer besser dotierten Pfarrstelle den Vorzug gab,63
+und so wurde Hagenbach bereits 1829 ordentlicher Professor der
+Theologie. Neben dem Fach Kirchengeschichte, das er hauptsäch-
+lich lehrte, hielt Hagenbach Vorlesungen zur Dogmengeschichte,
+zur Enzyklopädie der theologischen Wissenschaften, zu Patristik,
+Symbolik, Homiletik und Liturgik.64
+
+In demselben Jahr verheiratete sich Hagenbach mit Rosina Geigy
+(1810–1855), der Tochter des Farbstoffindustriellen Hieronymus
+Geigy und Charlotte Sarasin. Sein Schwiegervater, der 1815 das
+Handelsgeschäft für Heil- und Genussmittel seines Vaters Johann
+Rudolf übernommen und dieses zu einer Material- und Farbhand-
+lung umbenannt hatte, war Inhaber der Firma J.R. Geigy.65 Dass
+Hagenbachs zukünftige Frau aus einer wohlhabenden Kaufmanns-
+
+59 Finsler, Zur Erinnerung, 14.
+60 Pernet, Nietzsche und das »Fromme Basel«, 139.
+61 Fatio, Protestantische Kirchen, 218f.
+62 Pernet, Nietzsche und das »Fromme Basel«, 139.
+63 Kuhn, Biedermann, 119.
+64 Eppler, Hagenbach, 27.
+65 Broschüre »Die Geschichte des Basler Rosental-Areals«, hg. von Syngenta Inter-
+
+national AG, Basel 2008.
+
+Karl Rudolf Hagenbach
+
+197
+
+familie kam, zeigt ein detaillierter Ehevertrag der Brautleute auf.66
+Bereits ein Jahr nach der Hochzeit verstarb Hieronymus Geigy.
+Sein Sohn Karl (1798–1861), der spätere Direktor der 1853 von
+ihm mitgegründeten Centralbahn, war seit 1824 Teilhaber der J.R.
+Geigy. Mit Karl Geigy und seiner Frau Sophia geb. Preiswerk
+pflegte das Ehepaar Hagenbach zeitlebens einen engen Kontakt.
+Offenbar gründete die Ehe der Hagenbachs auf einer Liebesheirat,
+denn die Beziehung darf aufgrund zahlreicher schriftlicher Zeug-
+nisse als äußerst herzlich bezeichnet werden: »Ihr inneres und äus-
+seres Leben war mit dem meinigen aufs innigste verknüpft.«67 Ha-
+genbach hat für seine Gattin unzählige Gedichte geschrieben, ver-
+fasste diese frisch verliebt, als Ehemann und Vater und selbst nach
+ihrem Tod.68
+
+1831 bezog Hagenbach als neuer Lektor des Frey-Grynaeischen
+Instituts mit seiner jungen Frau die Gelehrtenwohnung im Oberen
+Heuberg.69 Diese Stiftung legte dem jeweiligen Bewohner und Lek-
+tor, der Theologe sein musste, die Verpflichtung auf, dass er »den
+Studiosis theologiae wöchentlich etliche Lectiones in dieser Wissen-
+schaft oder hierzu dienenden Sprachen und Historien«70 gab. In
+demselben Jahr kam der älteste Sohn Karl Friedrich zur Welt. Ins-
+gesamt wurden dem Ehepaar fünf Söhne geschenkt: 1833 folgte die
+Geburt von Jakob Eduard, 1835 diejenige von Wilhelm Rudolf,
+1839 von Abel Friedrich (Fritz) und 1847 wurde als Nachzügler
+Karl Adolf geboren. Viele Gedichte Hagenbachs aus jener Zeit er-
+zählen von einem glücklichen und farbigen Familienleben.
+
+Zwischen 1830 und 1833 erschütterte der Bürgerkrieg zwischen
+der konservativen Stadt und der liberal-radikalen Landschaft die
+Bevölkerung. Dieser Konflikt hatte auch auf die Universität tief-
+greifende gesellschaftspolitische Auswirkungen und führte zu mas-
+siven internen Spannungen. Konservative Professoren stützten die
+städtische Position. Unter ihnen befand sich auch Hagenbach, der
+
+66 Basel, StABS, PA 838a B 96, Ehevertrag zwischen Karl Rudolf Hagenbach und
+
+Rosine [sic!] Geigy.
+
+67 Zit. nach Eppler, Hagenbach, 75.
+68 Basel, StABS, PA 838a C 12, Gedichte an Rosine Hagenbach-Geigy: »Lieder in
+
+Liebe und Leid an eine Vollendete.«
+
+69 Zum Wirken Hagenbachs als Lektor siehe Ernst Staehelin, Johann Ludwig Frey,
+Johannes Grynaeus und das Frey-Grynaeische Institut in Basel, Basel 1947, 152–166.
+
+70 Eppler, Hagenbach, 74.
+
+198
+
+Sandra Romer
+
+– im Jahr 1831 mit 30 Jahren Rektor – mit Flinte Schildwache
+stand und auf Patrouille ging, um die Stadt zu beschützen.71 Nach
+der erfolgten Kantonstrennung kam es aufgrund der Aufteilung des
+Staatsvermögens zu finanziellen Problemen und vorübergehend
+schien selbst die Existenz der Universität bedroht. Deren Aufhe-
+bung konnte dank der Rettungsaktion weiter Kreise der Bürger-
+schaft verhindert werden. 1835 kam es in der Folge zum Erlass
+eines neuen Universitätsgesetzes.72
+
+Ab 1833/34 hielt Hagenbach abendliche Vorträge vor gemisch-
+tem Publikum über die Reformationsgeschichte und war damit ei-
+ner der ersten, der versuchte, die Ergebnisse der Wissenschaft in
+populären Vorträgen auch einem weiteren Kreise zugänglich zu
+machen.73 An der Universität, deren Überschaubarkeit Hagenbach
+schätzte,74 hielt er 1838 Vorlesungen zur Kirchengeschichte, die
+auch von Alois Emanuel Biedermann und Jacob Burckhardt be-
+sucht wurden.75 1839 bot Hagenbach ein Repetitorium über Dog-
+mengeschichte an, was zweifellos im Zusammenhang mit der Ab-
+fassung des 1840 erstmals erschienenen Lehrbuchs stand.76 Hagen-
+bach war verschiedenen Schilderungen zufolge weder ein mitreis-
+sender Dozent noch war sein Vortrag besonders schwungvoll und
+es fanden sich jeweils kaum über 40 Hörer in seinen Veranstaltun-
+gen ein. Trotzdem war er bei den Studenten beliebt, da er es von
+seinem vermittlungstheologischen Standpunkt aus verstand, erste
+Orientierungshilfen im Pluralismus der theologischen Meinungen
+zu geben.
+
+71 550 Jahre Universität Basel (1460–2010), Aufbrüche und Krisen / Die Existenz-
+krise von 1833, hg. vom Historischen Seminar der Universität Basel, in: https://unige-
+schichte.unibas.ch/aufbrueche-und-krisen/die-existenzkrise-von–1833/index.html
+[Ab-
+fragedatum: 07.06.2020]. – 1831 wurde dann auch der radikal-liberale Ignaz Paul Vital
+Troxler, der mit den Landschäftlern sympathisierte, gegen die Kandidaturen von Chris-
+toph Bernoulli und Karl Rudolf Hagenbach zum Rektor der Universität gewählt.
+
+72 Ernst Staehelin, Die Universität Basel in Vergangenheit und Gegenwart, in: Archiv
+
+für das schweizerische Unterrichtswesen 45 (1960), 19.
+
+73 Finsler, Zur Erinnerung, 10. – Diese öffentlich gehaltenen Vorlesungen bildeten
+
+die Grundlage seiner siebenbändigen Kirchengeschichte.
+
+74 1835 betrug die Gesamtzahl der Studierenden 40; bereits 1860 war sie auf 90
+Studierende angewachsen, wovon 47 der theologischen Fakultät angehörten. Vgl. Sta-
+ehelin, Universität Basel, 20.
+
+75 Kuhn, Biedermann, 132.
+76 Wallraff, Dogmenhistoriker, 291f.
+
+Karl Rudolf Hagenbach
+
+199
+
+3.4 Lebensmitte: Familie, Freunde und politisches Umfeld
+
+Ab 1841 stand Hagenbach mit Albert Bitzius bis zu dessen Tod im
+Jahr 1853 in regem Briefwechsel. Die zwei sehr unterschiedlichen
+Charaktere verband eine von grosser gegenseitiger Achtung ge-
+kennzeichnete und gleichzeitig herzliche Freundschaft. Hagenbach
+»sagte das Naturwüchsige von Bitzius zu, und selbst über seine
+Unfläthereien konnte ich mich wegsetzen; sie waren nach dem Le-
+ben gezeichnet«.77 Denn offenbar verleugnete Bitzius auch in sei-
+nen Briefen in das Basler Professorenhaus sein Temperament nicht,
+und es flossen Sätze aus seiner Feder, »die Hagenbach als guter
+Basler gewiss in ihrer Urwüchsigkeit zu schätzen wusste. Die er
+sich selber aber doch versagt hätte«.78 Bekannt ist, dass Hagenbach
+die Universität Basel dazu bewegen wollte, Bitzius alias Jeremias
+Gotthelf die Ehrendoktorwürde anzutragen, was offenbar der
+Deutsche Wilhelm Wackernagel, der ab 1835 Ordinarius für Deut-
+sche Literatur an der Universität Basel war, aufgrund der Ausfälle
+Gotthelfs »gegen die Deutschen« zu verhindern wusste.79 Dank
+dem Briefwechsel zwischen Hagenbach und Bitzius erfahren wir
+auch Einzelheiten aus dem Familienleben und erhalten Einblick in
+Hagenbachs Gefühlswelt. 1842 beispielsweise verbrachte Hagen-
+bach den Sommer mit Frau und Kindern im »freundlichen Tuscu-
+lum« des Schwagers Karl Geigy, das »fast nur zu vornehm u.
+grossartig für unser Gattigs Leute ist; doch lässt man sichs gerne
+gefallen, den grand Seigneur zu spielen, wenn gleich Chaisen u.
+Pferd dazu fehlen u. man tägl. auf Schusters Rappen der Campa-
+gne oder dann wieder der Stadt zuwandern muss«.80 Viele Sommer
+verreiste die ganze Familie, nach alter Basler Sitte und wie es Ha-
+genbach schon als Student getan hatte, für einige Wochen in den
+Jura.81 In den Briefen an Bitzius liess er diesen dank blumigen
+Schilderungen an der Sommeridylle teilhaben.
+
+77 Vetter, Jeremias Gotthelf, 99.
+78 Hans Trog, Jeremias Gotthelf und Karl Rudolf Hagenbach, in: Wissen und Leben
+
+6 (1910), 700f.
+
+79 Vetter, Jeremias Gotthelf, 99.
+80 Vetter, Jeremias Gotthelf, 11.
+81 Friedrich Zschokke, Professor Eduard Hagenbach-Bischoff, in: Basler Jahrbuch
+
+1912, hg. von Albert Geßler und August Huber, 146–175, hier 149.
+
+200
+
+Sandra Romer
+
+Allerdings wurde das Familienleben in den frühen 1840er Jahren
+durch Todesfälle getrübt.82 Mit Rudolf (gest. 1842) und Karl (gest.
+1844) starben zwei Söhne schon im Kindes- bzw. Jugendalter.
+Überhaupt wurde das Ehepaar über die Jahre immer wieder schwer
+geprüft: Nach der Geburt im Jahr 1847 von Karl Adolf, dem of-
+fenbar »der Vollbesitz geistiger Fähigkeiten versagt blieb«83, litt
+Rosina Hagenbach an einem Nervenleiden, von dem sie sich nie
+mehr erholen sollte. In dieser schwierigen Situation übernahm
+Sohn Eduard viele Pflichten und führte mehrheitlich den Haushalt,
+was sein in praktischen Belangen offenbar eher unbegabter Vater
+sehr zu schätzen wusste.84
+
+Natürlich tauschten sich Hagenbach und Bitzius auch über das
+politische Tagesgeschehen aus. Anfang Oktober 1847, am Vor-
+abend des Sonderbundkriegs, schrieb Bitzius aus Lützelflüh: »Hier
+leben wir in solcher Ruhe und Friedlichkeit, dass, wer die Zeitun-
+gen nicht liesst, nicht von ferne den Vulcan ahnen würde, auf wel-
+chem wir sitzen.«85 Und Hagenbach antwortete am 27. Oktober
+1847 aus Basel: »Hier haben wir noch Galgenfrist; aber wie lan-
+ge?«86 – Zwei Tage später, als die Gesandten der Sonderbundkan-
+tone die Tagsatzung in Bern verliessen, wurde der Krieg erklärt. Im
+Frühling 1848 erarbeitete die Tagsatzung die Grundlage für den
+modernen Schweizer Bundesstaat, darauf erfolgten die Abstim-
+mungen in den Kantonen.87 Und im Oktober desselben Jahres be-
+schrieb der sonst so distinguierte Hagenbach die politische Situa-
+tion vor den Wahlen mit ungewohnt heftigen Worten:
+
+»Wir sind nun bald auf dem Culminationspunkt der Cannibalen-Humani-
+tät u. des Zigeuner-Liberalismus. Raub u. Mord sind uns jetzt so gewöhn-
+liche Erscheinungen, dass das Lesen des 30jährigen Krieges gar keinen Ein-
+druck mehr auf uns machen wird. U. das alles – Fortschritt! U. dabei kitzelt
+uns nun der Schweizer Hochmuth, als wären wir drüber hinaus u. als seien
+wir seit dem Sonderbundkriege die Herren der Welt. U. unser armes Basel
+
+82 Bereits im Jahr 1837 war Hagenbachs Mutter gestorben.
+83 Zschokke, Hagenbach-Bischoff, 149.
+84 Vgl. Zschokke, Hagenbach-Bischoff, 149.
+85 Vetter, Jeremias Gotthelf, 59.
+86 Vetter, Jeremias Gotthelf, 60.
+87 Die Tagsatzung erklärte die Bundesverfassung am 12. September 1848 als ange-
+
+nommen.
+
+Karl Rudolf Hagenbach
+
+201
+
+(...) ist nun auch in den grossen Freihafen eingelaufen, in den allgemeinen
+Sudelzüber des Proletarierthums.«88
+
+Im persönlichen Briefwechsel erlaubte sich Hagenbach also für ein-
+mal, Klartext zu reden und – als konservativer Politiker und Mit-
+glied der gehobenen Basler Gesellschaft – seine Abneigung gegen
+die politisch neuen Kräfte offen kundzutun. Den Großen Rat, so
+schreibt er Bitzius weiter, »werden wir nächstens mit Leuten be-
+setzt sehen, die man sonst an dem Schwanz der respublica zu sehen
+gewohnt war. U. das verdanken wir nicht nur der Brutalität der
+Radicalen; sondern auch der überfeinen Staatsweisheit gewisser
+Ultra-Conservativer«.89 Reaktionen wie diese zeigen, dass Hagen-
+bach (und mit ihm viele andere Basler) die Bundesverfassung als
+»un mariage de raison ohne Freude und Illusion«90 empfanden –
+selbst wenn sie dieser zugestimmt hatten.
+
+Im Berufsleben erfolgte 1849 mit dem Tod von De Wette ein
+Einschnitt. Hagenbach verfasste den Nekrolog, in welchem er auf
+die großen Verdienste des Verstorbenen für den Ruf der Basler Uni-
+versität hinwies: »Wenn einer alle Anstrengungen und gleichsam
+seine neue Lebensaufgabe darein setzte, die Hochschule Basels in
+den Rang ihrer deutschen Schwestern zu erheben, so war es unser
+de Wette.«91 Interessant ist die Feststellung Hagenbachs, dass de
+Wettes Einfluss auf das theologische Denken im »frommen Basel«
+letztendlich geringer war als angenommen: »Basel ist sich gleich
+geblieben, und selbst die Geistlichen, die aus de Wette’s Schule
+hervorgegangen sind, haben grossentheils den Typus behalten, de-
+nen ihnen Erziehung, Umgang und die innere Herzensstimmung
+und Herzenserfahrung gegeben hatte.«92
+
+In Hagenbachs eigener Familie wurde die geistliche Tradition
+nicht weitergeführt: Sohn Eduard entwickelte eine Vorliebe für die
+exakten Wissenschaften und wurde später ein bekannter Physiker.
+1855 starb Rosina Hagenbach, nachdem sie während längerer Zeit
+
+88 Vetter, Jeremias Gotthelf, 65.
+89 Vetter, Jeremias Gotthelf, 65.
+90 Paul Burckhardt-Lüscher, Basel und die Bundesverfassung von 1848, in: Basler
+
+Jahrbuch, 1948, 91–101, hier 100.
+
+91 Karl Rudolf Hagenbach, Wilhelm Martin Leberecht de Wette. Eine akademische
+
+Gedächtnisrede mit Anmerkungen und Beilagen, Leipzig 1850, 39.
+
+92 Hagenbach, de Wette, 46f.
+
+202
+
+Sandra Romer
+
+unter den Folgen eines Schlaganfalls gelitten hatte und die letzten
+Lebensjahre auf fast jeden Kontakt mit der Außenwelt verzichten
+musste. Schweren Herzens entschloss sich Hagenbach, seinen
+jüngsten Sohn, dem die Mutter fehlte, einem Landpfarrer und des-
+sen Frau in Obhut zu geben, wo Adolf »an Leib und Seele wohl-
+versorgt«93 sei. Sohn Fritz absolvierte eine Lehre als Kaufmann,
+von 1860 bis 1866 lebte und arbeitete er im Ausland. Viele Briefe
+aus Le Havre, Hamburg und Liverpool an den Vater zeugen von
+einem engen und vertrauten Verhältnis.94 1862 heiratete Sohn
+Eduard Margaretha Bischoff, die Hagenbach später als »liebevolle
+Tochter«95 umschrieb. In seiner Autobiographie schildert Hagen-
+bach denn auch das Glück, das er als mehrfacher Großvater erfah-
+ren durfte.96 Trotz seines frühen Witwerdaseins vereinsamte Ha-
+genbach nicht. Auch außerhalb der eigenen vier Wände ein gesel-
+liger Mensch, war er Mitglied einer Lesegesellschaft,97 ein regel-
+mäßiger Besucher von Abonnementskonzerten und immer und
+überall »als der mitfeiernde und gefeierte Stadtpoet freudig will-
+kommen«.98
+
+3.5 Weitere Wirkungsfelder
+
+Neben Beruf und Familie engagierte sich Hagenbach in zahlreichen
+anderen Lebensbereichen und versuchte, auch auf nationaler Ebene
+Netzwerke für seine theologischen und sozialen Anliegen zu bil-
+den. 1826 schlug der erst 25-jährige Hagenbach als Mitglied der
+Basler Theologischen Lesegesellschaft vor, unter den Schweizer
+Pfarrern eine Predigergesellschaft zu gründen. Die erste Tagung im
+
+93 Hagenbach, Autobiographie, 323. – In einem Nachtrag aus dem Jahr 1862
+schreibt Hagenbach: »Was in Zukunft aus dem Knab werden soll, weiß ich freil. nicht.
+Deus providebit. Zum Studium ist er viel zu schwach, u. zu irgend etwas Praktischem
+noch viel ungeschickter.«
+
+94 Basel, StABS, PA 838a D 501, Briefe von Sohn Fritz Hagenbach-Schultze an Karl
+
+Rudolf Hagenbach.
+
+95 Eppler, Hagenbach, 87. In der Autobiographie (Basel, StABS, PA 838a B 1) finden
+
+sich hierzu ein Extrablatt aus dem Jahr 1866 sowie ein 1871 verfasster Nachtrag.
+
+96 Basel, StABS, PA 838a B 1, Autobiographie, 315.
+97 Vgl. hierzu Daniel Kriemler, Basler Lesegesellschaft 1825–1915. Eine Kollektiv-
+biographie im sozialen und politischen Kontext der Basler Geschichte des 19. Jahrhun-
+derts, Basel 2017, 118.
+
+98 Eppler, Hagenbach, 87.
+
+Karl Rudolf Hagenbach
+
+203
+
+Mai 1828 blieb allerdings trotz einer in 500 Exemplaren gedruck-
+ten Einladung vorerst erfolglos.99 1836 dann ging aus der theolo-
+gischen Lesegesellschaft die kantonale Predigergesellschaft hervor
+und 1839 fand die erste Versammlung der schweizerischen Predi-
+gergesellschaft in Zürich100 statt – mit dem Zweck »der gegensei-
+tigen Anregung und gemeinsamen Verständigung«.101 Aufgrund
+der Teilnehmerzahlen kann man davon ausgehen, dass im Zeit-
+raum von 1840 bis 1860 jeweils ein Drittel der reformierten Pfar-
+rerschaft der Schweiz an diesen Jahresversammlungen teilnahm.
+Hagenbach war ein sehr engagiertes Mitglied. Als es in den Jahren
+1845 und 1847 an den Jahresversammlungen zu heftigen Ausein-
+andersetzungen mit Reformern kam, waren die Vertreter der Ver-
+mittlungstheologie zweifellos gefordert. Mit der Gründung der
+Schweizerischen Predigergesellschaft 1839 und den ersten Jahres-
+versammlungen waren auch die Anfänge der protestantisch-kirch-
+lichen Hilfsvereine aufs Engste verzahnt.102 Bereits 1842 gründete
+Hagenbach zusammen mit de Wette den protestantisch-kirchlichen
+Hilfsverein in Basel. Dieser galt als Vorverein für die weiteren
+gleichnamigen Vereine, die ab Mitte des 19. Jahrhunderts in refor-
+mierten Kantonen entstanden. Diese verfolgten unter anderem den
+Zweck, evangelische Diasporagemeinden im In- und Ausland zu
+unterstützen.
+
+Am 14. August 1844 erfolgte im Rahmen einer Tagung der
+Schweizer Predigergesellschaft in St. Gallen die Gründung des
+»Kirchenblatts für die reformierte Schweiz«. Hagenbach wurde der
+erste Hauptredaktor und redigierte das Blatt von 1845 bis 1868.
+Gerne bezeichnete er das Blatt als einen »Sprechsaal«, der ganz
+verschiedenen Meinungen ein Forum bieten sollte.103 Ab 1848 be-
+teiligten sich auch der Zürcher Georg Finsler und später der Berner
+Albrecht Rudolf Rüetschi an der Redaktion. Sie alle gehörten zu
+den von Schleiermacher beeinflussten Vermittlern, die zwischen
+den damals unversöhnlichen Reformern und Positiven standen.
+
+99 Ramstein, »Pfarrbrüder«, 196f.
+100 Heute ist diese Organisation unter der Bezeichnung »Schweizerischer reformierter
+
+Pfarrverein« tätig.
+
+101 Ramstein, »Pfarrbrüder«, 199.
+102 Ramstein, »Pfarrbrüder«, 206.
+103 Etwa gleichzeitig entstanden die Kirchenblätter »Zukunft der Kirche« als Organ
+
+der orthodoxen Richtung und die »Kirche der Gegenwart« der liberal Gesinnten.
+
+204
+
+Sandra Romer
+
+Nach dem Eingehen des »Kirchenblatts« 1868 arbeitete Hagen-
+bach zeitweise für das Nachfolgeorgan »Volksblatt für die refor-
+mirte Schweiz«. Auch auf politischer Ebene war Hagenbach sehr
+aktiv. Ab 1829 war er Mitglied des Erziehungsrates, seit 1835 des
+Kirchenrates und seit 1848 des Großen Rates, wo er der einzige
+Theologe war.
+
+3.6 Lebensabend
+
+Selbst in höherem Alter nahm Hagenbach aktiv am gesellschaftli-
+chen Leben teil »und war ein um seines freundlichen Wesens willen
+bei alt und jung beliebter Mann«.104 Er predigte bis in seine letzte
+Lebensphase, und auf seinen regelmäßigen Spaziergängen wurde
+die stadtbekannte Persönlichkeit fast von allen Leuten gegrüßt.105
+Anlässlich seines goldenen Lehrerjubiläums (hundert Semester) an
+der Universität Basel richtete die Alma Mater im September 1873
+Hagenbach und dem Alttestamentler Johann Jakob Stähelin
+(1797–1875) einen Festakt aus. In seiner Dankesrede bezeichnet
+sich Hagenbach nicht als eigentlicher Pionier, der »zu den tiefsten
+Schachten der Wissenschaften hinabsteige, höchstens verstehe er
+es, fremde Ansichten aufzunehmen, zu verarbeiten und mitzuthei-
+len, wozu ihn Anlage und Neigung befähigen, so dass er seine
+Natur mehr eine encyclopädische nennen möchte«.106
+
+Diese »Nüchternheit und Zurückhaltung im eigenen Urteil«107
+zeichnete Hagenbach zeitlebens aus. Bis am Schluss überzeugter
+Vermittlungstheologe, wird aus heutiger Sicht doch konstatiert,
+dass Hagenbach mit zunehmendem Alter immer konservativ-kon-
+fessioneller wurde.108 Auch ein Zeitgenosse stellte fest, dass sich
+Hagenbach in der letzten Phase seines Lebens viel orthodoxer zeig-
+te, als man ihn bisher wahrgenommen hatte und er – ähnlich wie
+sein Lehrer und Vorbild Friedrich Schleiermacher – eine immer
+größere Annäherung an den kirchlichen Glauben suchte.109
+
+104 Jakob Kündig, Die Theologen des Heubergs, in: Basler Stadtbuch 1913, 171.
+105 Kündig, Theologen, 171.
+106 Eppler, Hagenbach, 130.
+107 Wallraff, Dogmenhistoriker, 304.
+108 Wallraff, Dogmenhistoriker, 304.
+109 Eppler, Hagenbach, 131.
+
+Karl Rudolf Hagenbach
+
+205
+
+Abbildung 1: Porträt von Karl Rudolf Hagenbach (1801–1874), Antiquariat Michael
+Eschmann.
+
+206
+
+Sandra Romer
+
+Während langer Jahre erfreute sich Hagenbach einer guten Ge-
+sundheit und »kein graues Härlein verrieth den Siebziger«.110 Auf
+das Wintersemester 1873 legte Hagenbach seine Professur nieder,
+beabsichtigte jedoch, noch einzelne Vorlesungen zu halten. Im
+Frühling 1874 aber verschlechterte sich sein Zustand zusehend und
+er schrieb mit Galgenhumor an Georg Finsler: »Ich bin seit dem
+Februar nicht eigentlich krank gewesen, aber auch nie recht ge-
+sund, ein Mittelzustand, wie die Gegner der Vermittlungstheologie
+nur allzu geneigt sind, den Vertretern derselben auch in geistlicher
+Hinsicht anzudichten.«111
+
+Hagenbach starb am 7. Juni 1874 in seinem Haus am Heuberg
+infolge einer Herz- und Lungenlähmung. Sein Sohn Eduard gab
+eine Büste für das Grabmal auf dem Kannenfeld-Gottesacker in
+Auftrag. Dieses wurde im Zusammenhang mit der Aufhebung des
+Friedhofs in den 1950er Jahren zerstört und die Büste Hagenbachs
+an das Frey-Grynaeische Institut abgegeben, wo sie noch immer im
+Hof zu sehen ist. Auf dem Friedhof Wolfgottesacker ist bis heute
+ein Familiengrab erhalten, wo ein bronzenes Rundporträt dem
+Theologen Karl Rudolf Hagenbach als Stammvater der Familie
+Ehre erweist.112
+
+4 Der theologische Lebenslauf
+
+4.1 Hagenbachs Glaubensbekenntnis113
+
+Bevor die einzelnen theologischen Wirkungsbereiche von Hagen-
+bach näher beleuchtet werden, gilt es eingangs dieses Kapitels,
+zwecks einer theologischen Verortung die Hauptaspekte seines per-
+sönlichen Glaubens aufzuzeigen und allfällige Abweichungen zur
+
+110 Finsler, Erinnerung, 15.
+111 Finsler, Erinnerung, 15.
+112 Vgl. hierzu Historisches Museum Basel, Jahresbericht 2012, hg. von der Direktion
+des Historischen Museums Basel,
+in: https://www.hmb.ch/fileadmin/a/hmb/da-
+teien/pdf/HMB-Jahresbericht–2012.pdf [Abfragedatum: 07.06.2020], Sammlungen /
+Bildwerke, 100.
+
+113 »Mein Glaubenkenntniss in nuce« von Hagenbach befindet sich im Anhang seiner
+handschriftlichen Autobiographie in Basel, StABS, PA 838a B 1. Vgl. auch Eppler,
+Hagenbach, 158.
+
+Karl Rudolf Hagenbach
+
+207
+
+orthodoxen beziehungsweise liberalen Theologie seiner Zeit her-
+auszuarbeiten.
+
+Als Grundlage dient sein »Glaubensbekenntniss in nuce«, das er
+1850 niedergeschrieben und in den folgenden Jahren (1862, 1864,
+1868 und 1871) immer wieder überprüft und neu bestätigt hat.
+
+»1. Ich glaube, dass Gott der Ewige und Allmächtige, der da Alles erschaf-
+fen hat und erhält mit Weisheit und Güte, auch mein Schöpfer und Erhalter
+ist, und fühle mich nach Leib und Seele von ihm abhängig. Ich glaube, dass,
+wie er Alles nach seinem heiligen Willen vorsieht und leitet, auch meines
+Lebens Schicksale in seiner Hand stehen, und fasse daher zu ihm ein kind-
+liches Vertrauen.
+
+2. Ich glaube, dass Gott mein und aller Leute Vater ist und dass er sich der
+Welt als unsern Vater geoffenbart hat in seinem Sohne Jesu Christo, der in
+menschlicher Weise des Vaters Ebenbild darstellt und mit vollkommenem
+Gottesbewusstsein erfüllt, sich Eins mit dem Vater gewusst hat. Darum
+glaube ich an Jesum Christum als an den Sohn Gottes, durch den wir zum
+Vater gelangen und Gottes Kinder werden. Ich verehre in ihm nicht nur den
+Lehrer der Menschheit, der ihr den Willen Gottes geoffenbaret, sondern
+den Mittler, der sie zu Gott geführet, den Heiland, der ihr das Heil auf
+ewige Zeiten zugewendet, den Erlöser, der sie aus der Macht des Irrthums,
+der Sünde und des Todes erlöst und befreit und seine Gemeinde durch sein
+Blut erkauft hat.
+
+3. Ich glaube, dass der Mensch (nach seinem Wesen, ohne Zusammenhang
+mit Christus) nicht im Stande ist, die Gemeinschaft mit Gott wieder herzu-
+stellen, die durch das Bewusstsein der Sünde getrübt ist, sondern dass er
+dazu nur durch Christus, den Erlöser, innerlich befähigt wird, indem er sich
+von seiner Liebe, die sich im Tod am Kreuz geopfert hat, ergreifen und
+durch den Geist Gottes, der zugleich der Geist Christi ist, von Grund aus
+erneuern lässt. Diese Erneuerung im Geiste ist ein Werk der göttlichen Gna-
+de und der menschlichen Freiheit zugleich, denn die göttliche Gnade wirket
+nur in der Form der menschlichen Freiheit, und die menschliche Freiheit ist
+nur da eine wahre, wo der Mensch durch Gottes Gnade frei wird.
+
+4. Ich glaube, dass diese Erneuerung des Menschen durch den Geist Gottes
+sich vollziehen muss in der heiligen Gemeinschaft derer, die an Christus
+glauben, oder der Kirche. Diese Gemeinschaft tritt in äusseren Formen, in
+Bekenntnissen und Gebräuchen hervor, die mehr oder weniger vollkommen
+der Ausdruck der christlichen Frömmigkeit sind; während die wahre Kirche
+Christi eine ideale, noch nicht vollkommen in die Sichtbarkeit getretene,
+aber nach dem Gesetze geschichtlicher Entwicklung sich zur Vollkommen-
+heit heranbildende ist.
+
+5. Ich glaube an die geistige Macht dieser Gemeinschaft, wie sie am bedeut-
+samsten hervortritt in den heiligen Symbolen (Sakramenten), durch welche
+
+208
+
+Sandra Romer
+
+uns die Gnade Gottes in Christo zugesichert und versiegelt wird (Taufe und
+Abendmahl).
+
+6. Ich glaube, dass meine Seele zur Unsterblichkeit geschaffen ist, dass sie
+aber die Gewissheit dieser Unsterblichkeit erst dann hat, wenn ihr durch
+Christus das Bewusstsein der seligen Gotteskindschaft geworden ist. Das
+ewige Leben muss diesseits beginnen, um sich jenseits zu vollenden.
+
+7. Ich glaube an eine einstige Vollendung aller Dinge, durch welche auch
+erst die Seligkeit jedes Einzelnen, mithin auch meine Seligkeit bedingt ist.
+(Diess der Sinn der Lehre von der Wiederkunft Christi zum Gericht und der
+Auferstehung des Leibes.)«
+
+Ab dieser Stelle verzichtet Hagenbach auf die strenge Darstellung
+in Form einer Aufzählung und erklärt seine Gedanken nur mehr
+umschreibend, formuliert durchlässiger und persönlicher. Es ist
+daher möglich, dass es sich hierbei um einen später hinzugefügten
+Abschnitt handelt.
+
+»Dieses Alles glaube ich: glaube es fest und unzweifelhaft; glaube es, wie
+ich an mein eigenes Dasein glaube. Aber von diesem Glauben habe ich nur
+ein unvollkommenes Wissen, denn unser Wissen ist ein Stückwerk, und wir
+wandeln im Glauben und nicht im Schauen. Mein Glaube richtet sich auf
+an der heil. Schrift. Sie ist die Norm meines Glaubens. Nicht aber ist die
+Schrift ein Lehrbuch, aus der ein System des Wissens gezogen werden könn-
+te. Das ist ein Hauptirrthum unserer Orthodoxen und hat diese Vorausset-
+zung von jeher zu allen unwürdigen und unerbaulichen Zänkereien geführt.
+Auch den Glaubenssymbolen der Kirche, dem apostolischen sowohl, als
+auch denen der evangelischen Kirche (Augsburger und Helvetische Conces-
+sion) bin ich von Herzen zugethan, wenn ich sie als Zeugnisse des Glaubens
+betrachte. Ich weiss mich mit ihnen auf demselben Glaubensgrunde, dem-
+selben Grunde des Heils, wenn ich auch die Lehrbestimmungen (über Tri-
+nität, Person Christi, Sakramente, Eschatologie u.s.w.) für scholastische
+Zuthat halte, die fallen muss, wenn man einmal mit dem Glauben Ernst
+machen will.«
+
+An dieser Stelle folgt ein hier nicht wiedergegebener Abschnitt zur
+Aufgabe des Theologen, den Glauben »in das Herz des Volkes und
+der Jugend zu pflanzen«. In einem Anhang aus dem Jahr 1868
+schliesslich (in einer Phase »grosser Anfechtung«, wie er beifüg-
+te)114 äußert sich Hagenbach zur Prädestination:
+
+114 Vgl. Eppler, Hagenbach, 158.
+
+Karl Rudolf Hagenbach
+
+209
+
+»Die Lehre von der Prädestination (Gnadenwahl), recht gefaßt, sollte uns
+nicht zur Verzagtheit oder gar zur Verzweiflung führen, sondern vielmehr
+zum felsenfesten Vertrauen auf Gottes ewigen Heilsrath, der sich in der
+ganzen Offenbarungsgeschichte wie im Leben des Einzelnen erfüllt. Jemehr
+ich mich in diesen Gedanken hineinlebe, desto ruhiger kann ich den heu-
+tigen Streitigkeiten zusehen über das sogenannte Historische des Christen-
+thums, über das, was sie die Thatsachen des Heils nennen. Urthatsache ist
+die Erwählung Gottes selbst, (die ich universalistisch und nicht partikula-
+ristisch fasse, obgleich ich anerkenne, dass sie mit dem Einzelnen ihre ei-
+genen und verborgenen Wege geht), und alles Historische ist doch nur die in
+der Zeit sich entwickelnde und mit der Zeit hervortretende Entwicklung
+(Evolution) des einen grossen Heilsgedanken. Was aber in der Zeit hervor-
+tritt und zeitlich sich entwickelt, nimmt auch die Formen der Zeit an, und
+darum unterscheide ich auch in den einzelnen Offenbarungsmomenten die
+zeitliche Form und den ewigen Inhalt. Der Streit darüber, wie wir zum Heil
+gekommen, ist von sekundärer und wissenschaftlicher Natur (das gilt auch
+von allen Wundern.) Die Hauptsache ist zu wissen, wo das Heil für immer
+zu finden sei, und wer dieses gefunden hat, der kann über die historischen
+Fragen sehr unbefangen urtheilen; diess bedenkt man nicht genug.«
+
+Hagenbachs Glaubensbekenntnis macht deutlich, dass er in seinem
+theologischen Denken vom historisch Gegebenen hin zum Prinzip
+und zur Idee schloss.115 Bei diesem Ansatz ist Jesus Christus für alle
+Zeiten Gegenstand unbedingter religiöser Verehrung.116 An die
+Stelle der alten Zweinaturenlehre, wonach die göttliche Natur mit
+der menschlichen in Christus eins sei, tritt die Idee, dass das Ur-
+bildliche in ihm mit dem geschichtlichen eins sei.117
+
+115 Kuhn, Biedermann, 132.
+116 In seiner Autobiographie schrieb er hierzu: »Es ist hinfort historisch unmöglich,
+sich eine Gestalt der Frömmigkeit zu denken, die außer dem Zusammenhang mit dieser
+einen Person, in der die Religion absolut und für alle Zeiten normal gegeben ist, sich
+Anerkennung verschaffen könnte, so dass der Gedanke an einen religiösen Fortschritt
+über Christus hinaus nicht nur als ein frevelhafter, sondern geradezu als ein thörichter
+und abenteuerlicher Gedanke erscheinen muss.« (zit. nach Eppler, Hagenbach, 110).
+Und in Karl Rudolf Hagenbach, Lehrbuch der Dogmengeschichte, Zweiter Theil. Von
+Johannes Damascenus bis auf unsere Zeit, Leipzig 1847, 449f. heißt es im Kapitel
+Christologie, Fußnote 3: »Es konnte nur der Wahrheit förderlich werden, dass die Per-
+son Jesu immer mehr in den Kreis der Geschichte hineingezogen wurde, und dass man
+ihn selbst wie jeden andern Menschen geschichtlich zu begreifen suchte (daher jetzt das
+Leben Jesu häufiger beschrieben); denn was sollte die Kirchenlehre von der wahren
+Menschheit, ohne die menschliche Betrachtung des Herrn? [...] Freilich wurde über
+dem, was Christus mit der Gatytung gemein hat, das übersehen, was ihn als den Ein-
+zigen über sie emporhebt.«
+
+117 Vgl. hierzu auch Jan Rohls, Vorbild, Urbild und Idee. Zur Christologie des 19.
+
+210
+
+Sandra Romer
+
+Im ersten Teil von Hagenbachs Bekenntnis zeigt sich deutlich das
+reformatorische Erbe: Werkgerechtigkeit und Selbsterlösung wer-
+den ausgeschlossen, die zwischen Mensch und Gott durch die Sün-
+de gestörte Beziehung wird allein von Gott wieder hergestellt, weil
+er sich dem Menschen in Gnade zuwendet. Auch in Hagenbachs
+Ekklesiologie ist die reformatorische Lehre deutlich erkennbar: Der
+Kirche räumt er noch immer einen hohen Stellenwert ein und be-
+schreibt sowohl die sichtbare, zeitgebundene, institutionelle Kirche
+wie auch die unsichtbare überzeitliche Kirche.
+
+Die liturgischen Formeln gehören für Hagenbach zum unverän-
+derlichen Bestand des Gottesdienstes, denn mit den Sakramenten
+wird seiner Meinung nach auch der geschichtliche Charakter des
+Gottesdienstes betont. In seinem Glaubensbekenntnis erwähnt Ha-
+genbach Wiederkunft und Auferstehung Christi, wobei die Passi-
+onsgeschichte zugunsten der Figur des Erlösers in den Hintergrund
+rückt.
+
+Während für Hagenbach Jesus von Nazareth das geschichtliche
+Urbild der Frömmigkeit darstellte, waren der historische Jesus und
+der dogmatische Christus für die Liberalen nicht mehr identisch
+vorstellbar.118 Auch Hagenbachs Verständnis vom Sündenbegriff,119
+die von ihm vertretene Rechtfertigungslehre und sein Trinitätsge-
+danke zeugen von einem konservativen Glaubensverständnis.120 In-
+sofern blieb er unbeeinflusst von neuen liberalen Strömungen, die
+beispielsweise im Zusammenhang mit dem Apostolikumstreit neue
+Bekenntnisse formulierten, in welchen etwa bewusst auf die Er-
+wähnung des Sündenfalls verzichtet oder nicht mehr in Abrede
+
+Jahrhunderts, in: Metaphorik und Christentum, hg. von Jan Rohls / Jörg Frey / Ruben
+Zimmermann, Berlin / New York 2003, 219–242, hier 230f.
+
+118 Christian Danz, Grundprobleme der Christologie, Tübingen 2013, 128f. – Diese
+Unterscheidung von Person und Prinzip machte übrigens auch Alois Emanuel Bieder-
+mann zur Grundlage seiner Christologie. Allerdings lag ihm daran, das Verhältnis von
+Person und Prinzip nicht als ein äußerliches und akzidentelles, sondern als ein innerli-
+ches und bleibendes zu charakterisieren. Vgl. hierzu Rohls, Vorbild, 235.
+
+119 Vgl. hierzu auch Hagenbach, Dogmatik, 444. Laut Hagenbach war evident, »dass
+die neueste Zeit hauptsächlich von einer richtigen Fassung der Lehre von der Sünde die
+Regeneration der Kirche und der Theologie zu erwarten hat«.
+
+120 In seiner Autobiographie schreibt er denn auch: »Mir [...] hat es immer einen
+peinlichen und widerwärtigen Eindruck gemacht, wenn ein Prediger der protestanti-
+schen Kirche geradezu die Lehre von der Erbsünde oder von der Dreieinigkeit als eine
+unwahre, verkehrte bekämpft hat.« Zit. nach Eppler, Hagenbach, 132.
+
+Karl Rudolf Hagenbach
+
+211
+
+gestellt wurde, dass der Mensch aus eigenen Kräften und eigenem
+Willen zu Gott zu kommen könne.121 Schliesslich nahm bei Hagen-
+bach auch die Ekklesiologie einen hohen Stellenwert ein, während
+diese in liberalen Glaubensbekenntnissen eine marginale oder gar
+keine Rolle mehr spielte. Die Bedeutung der Schrift war für Ha-
+genbach unangefochten, der persönliche Glaube an dieselbe blieb
+für ihn unberührt. Zwar sei sie von Menschen und unter mensch-
+lichen Verhältnissen verfasst:
+
+»Das hindert aber nicht, dass er [der Geist, Anm. SR] in aller Demuth sich
+beuge unter die Gewalt des Wortes Gottes, das ihm überall aus den Zeug-
+nissen der Schrift entgegentritt und das ihm Autorität ist in Sachen des
+Heils. Von diesem Wort wird auch der Mann der Wissenschaft, so fern er
+ein gläubiger Christ ist, sich erleuchten, sich strafen, sich trösten lassen wie
+jeder andere Gläubige, und kein Vorrecht für sich beanspruchen. Vielmehr
+ist ein solcher kindlicher Glauben bei freiem und vorurtheilsfreiem Wissen
+die schönste Zierde eines männlichen gereiften Geistes«.122
+
+Auffallend ist, dass sich in Hagenbachs Glaubensbekenntnis keine
+Anfrage an das praktisch-ethische Handeln des Menschen findet.
+Andernorts vertrat Hagenbach die Meinung, dass Dogmatik und
+Ethik, Glaubenslehre und Sittenlehre Hand in Hand gehen müssten
+und die Moral nicht einfach an die Stelle der Dogmatik treten
+könne:
+
+»Hier bekennen wir uns vielmehr zu dem altpaulinischen und zu dem ächt-
+protestantischen und reformatorischen Grundsatz, dass die Werke aus dem
+Glauben hervorgehen, (die Sittlichkeit aus der Religion) und dass, wer die
+Frucht haben will, den Baum haben muss mit sammt der Wurzel, aus der er
+hervorgewachsen.«123
+
+Die nachträglich verfassten Abschnitte des Bekenntnisses sind ab-
+wägender formuliert. Hagenbach befand sich in seinen späteren
+Jahren offensichtlich noch einmal intensiv auf der Suche nach ei-
+nem ganz persönlich ausgestalteten (und gelebten) Glauben. Diese
+Synthese von lutherischer Orthodoxie, pietistischem Gedankengut
+und teilweise aufklärerischen Gedanken näherte sich in den
+Grundzügen der vernünftigen Orthodoxie an, die eine Zusammen-
+
+121 Gebhard, Umstrittene Bekenntnisfreiheit, 405f.
+122 Eppler, Hagenbach,115.
+123 Hagenbach in seiner Autobiographie, zit. nach Eppler, Hagenbach, 120f.
+
+212
+
+Sandra Romer
+
+führung von Dogma und Ethos, Vernunft und Offenbarung, Glau-
+be und Leben suchte.
+
+4.2 Der Vermittlungstheologe
+
+Im 19. Jahrhundert war die Beziehung von Glaube und Wissen,
+von Religion und moderner Wissenschaft ein Grundproblem. Als
+Konsequenz daraus gewann in dieser Zeit der Vermittlungsbegriff
+im deutschsprachigen Raum zusehends an Bedeutung. Ziel der Ver-
+mittler war es, die kirchliche Lehrüberlieferung mit dem aufkom-
+menden modernen Bewusstsein in Einklang zu bringen. Daraus er-
+gab sich jedoch automatisch eine Frontstellung zu jenen theologi-
+schen Ansätzen, die an jeweils einseitige Lösungsoptionen dachten.
+Doch die Vermittlungstheologie verzichtete auf den Entwurf einer
+einheitlichen Lösung, weshalb sich in den unterschiedlichen An-
+sätzen der Vermittlungstheologie selbst die positionelle Ausdiffe-
+renzierung der protestantischen Theologie im 19. Jahrhundert wie-
+derspiegelt.124
+
+Tatsache war, dass sich viele Exponenten der Vermittlungstheo-
+logie in ihren programmatischen Äusserungen widersprachen. Im-
+merhin verzichteten alle Ansätze auf den Anspruch, gegensätzliche
+Meinungen zugunsten einer allgemeingültigen Position vereinen zu
+können. Vielmehr sollten die verschiedenen Parteien dazu aufge-
+fordert werden, ihre Haltungen im Dialog mit den Kontrahenten
+möglichst selbstreflektierend und selbstrelativierend einzubringen
+und – stets im historischen Kontext – darauf bedacht sein, eher zu
+verstehen als zu verfechten.125
+
+Vermittlungstheologie verfolgte also weder bahnbrechend neue
+Ziele noch lehnte sie sich mit leidenschaftlichem Eifer gegen alt-
+hergebrachtes Denken auf, sondern strebte eine von einem höheren
+Standpunkt aus geführte Diskussion an, um die oftmals nur vor-
+dergründig vorhandenen gegensätzlichen Meinungen in ein reales
+
+124 Jörg Lauster, Prinzip und Methode. Die Transformation des protestantischen
+Schriftprinzips durch die historische Kritik von Schleiermacher bis zur Gegenwart, Tü-
+bingen 2004, 68.
+
+125 Christian Albrecht / Friedemann Voigt, Vermittlungstheologie als Christentums-
+theorie. Zur Einleitung, in: Vermittlungstheologie als Christentumstheorie, hg. von
+Christian Albrecht / Friedemann Voigt, Hannover 2001, 9–17, hier 9.
+
+Karl Rudolf Hagenbach
+
+213
+
+Licht rücken zu können.126 Diesen ambitionierten »höheren Stand-
+punkt« jedoch vermochten die Vermittlungstheologen in den Au-
+gen vieler nicht glaubhaft zu vertreten, weshalb sie von Mitstrei-
+tern nicht selten als unklar bezeichnet wurden. Entsprechend am-
+bivalent war ihr Ruf, und entsprechend bescheiden letztlich auch
+der kirchenpolitische Einfluss, zumal es in der Regel keine eigene
+Position zu verteidigen gab, beziehungsweise »die Existenz und
+Koexistenz unterschiedlicher und gegensätzlicher Richtungen«127
+im Sinn eines Toleranzediktes sogar erwünscht war.
+
+Hagenbach galt zu seiner Zeit als das Haupt der Schweizer Ver-
+mittlungstheologie und »er hat diese Bezeichnung nicht abge-
+lehnt«.128 Doch dass die Welt dem Mutigen gehört, war zweifellos
+auch dem wenig diskursiven Hagenbach bewusst, als er selbstkri-
+tisch schrieb:
+
+»Es mag ja wahr sein, dass gerade Solche, denen es an Originalität des
+Geistes und an Energie des Willens fehlt, sich nur zu gern in das Lager der
+vermittelnden Theologie flüchten, und es fällt mir nicht ein, hier alle Mit-
+schuld von mir abwälzen zu wollen. [...] Aber davon bin ich nicht abzu-
+bringen, dass die rechte Vermittlungstheologie [...] doch die Theologie der
+Zukunft ist.«129
+
+Angesichts der späteren Erfolge des theologischen Liberalismus
+war diese Einschätzung zumindest aus heutiger Sicht zu optimis-
+tisch. Wie die Biographie Hagenbachs zudem beispielhaft zeigt,
+wurde er im Gegensatz zu couragierteren und zu Extrempositionen
+neigenden Zeitgenossen von der Nachwelt mehr oder weniger ver-
+gessen.130
+
+126 Kurt Nowak, Schleiermacher. Leben, Werk und Wirkung, 469. Novak bezieht
+sich hier auf den deutschen Vermittlungstheologen Carl Christian Ullmann
+(1796–1865).
+
+127 Rudolf Gebhard, Alexander Schweizer als Vermittler in den Richtungskämpfen
+und als Vordenker des ökumenischen Gedankens, in: Alexander Schweizer (1808–1888)
+und seine Zeit, hg. von Emidio Campi / Ralph Kunz / Christian Moser, Zürich 2008,
+77–92, hier 82.
+
+128 Finsler, Zur Erinnerung, 7.
+129 Eppler, Hagenbach, 126f. – Das Zitat stammt aus einem undatierten Dokument
+mit dem Titel »Meine Stellung zu den theologischen Parteien«, das in seinem Nachlass
+gefunden wurde.
+
+130 Dasselbe galt übrigens lange Zeit auch für den Zürcher Vermittlungstheologen
+Alexander Schweizer. Erst mit dem oben erwähnten Sammelband Campi / Kunz / Mo-
+ser, Alexander Schweizer, wurde sein Lebenswerk gewürdigt.
+
+214
+
+Sandra Romer
+
+An drei ausgewählten Beispielen aus der Praxis soll nun im fol-
+genden Hagenbachs theologische Vermittlungstätigkeit genauer be-
+trachtet werden.
+
+1. Den Apostolikumstreit und die erbitterte Auseinandersetzung
+für und wider das Credo131 in Basel kommentierte Hagenbach –
+ganz Vermittlungstheologe – mit Kritik an beiden Extrempositi-
+onen: »Nur Unverstand kann an solchen altehrwürdigen Zeugnis-
+sen des Glaubens Anstoss nehmen; es ist Mangel an Einsicht in den
+historischen Charakter des Christenthums, Mangel an Pietät, wenn
+man in das rohe Geschrei einstimmt: keine Dogmatik, kein Be-
+kenntniszwang mehr! Es ist aber auch bornirter Eigensinn und Ver-
+kennung der Bedürfnisse unserer Zeit, wenn man den alleinselig-
+machenden Glauben [...] verwechselt mit dem sehr unvollkomme-
+nen, zum Theil über das eigentliche Glaubensgebiet hinausgreifen-
+den Bekenntnisse.«132
+
+2. Auch bei der Frage, wie Kirche und Staat in Zukunft mitein-
+ander verfahren sollten, stand die abwägende und beschwichtigen-
+de Haltung Hagenbachs in der öffentlichen Debatte sinnbildlich
+für sein vermittlungstheologisches Denken. 1845 erschien erstmals
+die Zeitschrift »Die Kirche der Gegenwart« mit dem Ziel, die zen-
+tralen Anliegen der »freien Theologie« einer breiten kirchlichen
+Öffentlichkeit zu vermitteln und die Freiheit des Geistes auch ins
+religiöse und kirchliche Leben zu integrieren. Mitinitiant Alois
+Emanuel Biedermann vertrat in diesem Blatt die Meinung, dass die
+Zeit der äusserlichen Kirchenbildung vorbei sei.133 Ebenfalls im
+Jahr 1845 erschien die Erstausgabe der Zeitschrift »Die Zukunft«,
+die sich als bewusstes Gegenstück zur »Kirche der Gegenwart«
+verstand. Hauptredakteur war der ursprünglich aus Erlangen
+stammende Johann Heinrich August Ebrard (1818–1888).134 Der
+
+131 Entlang des Apostolikumsstreits lassen sich die wichtigsten Differenzen innerhalb
+der verschiedenen Lager aufzeigen: Gotteslehre oder Schöpfungsglaube waren nicht um-
+stritten, vielmehr waren es drei Sätze aus dem Credo, die bekämpft wurden, und zwar
+jene zur Jungfrauengeburt, zur Höllenfahrt Christi und zur Auferstehung des Fleisches.
+Vgl. Gebhard, Umstrittene Bekenntnisfreiheit, 354.
+
+132 Eppler, Hagenbach, 137.
+133 Gebhard, Umstrittene Bekenntnisfreiheit, 35.
+134 Siehe Kurzbiographie zu Ebrard Niklaus Peter, Ebrard, Johann Heinrich August,
+in: HLS, Version vom 26.07.2004, Online: https://hls-dhs-dss.ch/de/articles/010583/
+2004-07-26/ [Abfragedatum: 07.06.2020].
+
+Karl Rudolf Hagenbach
+
+215
+
+konservative Exeget fürchtete – anders als sein Kontrahent Bieder-
+mann –, dass die eine Kirche durch die vielen voneinander unab-
+hängigen Gemeinschaften zerrissen und zerstört werde. Das von
+Hagenbach redigierte »Kirchenblatt für die Reformirte Schweiz«
+verzichtete auf eine dezidierte Meinung. Hagenbach, der persön-
+lich eine Trennung von Kirche und Staat ablehnte, schrieb auswei-
+chend, man könne im Kirchenblatt »nicht die Lösung der grossen
+Fragen der Zukunft der einen allgemeinen Kirche erwarten. Viel-
+mehr stehe die auf der reformatorischen Vergangenheit ruhende, in
+der Gegenwart heftig bewegte und einer besseren Zukunft entge-
+gengehende Kirche des eigenen Vaterlandes mit ihren Bedürfnissen,
+Nöten und Anliegen im Mittelpunkt«.135 Der vermittlungstheolo-
+gische Ansatz in Form des »höheren Standpunktes« war zumindest
+in dieser Diskussion vor allem beschwichtigend und daher kaum
+konstruktiv.
+
+3. Als Vertreter des Grossen Rates und als Vermittlungstheologe
+war Hagenbach Mitglied eines Vierergremiums, das im Zusam-
+menhang mit dem Fall Rumpf Stellung beziehen musste.136 Wil-
+helm Rumpf war Basler Theologe und seit 1856 ebenfalls Mitglied
+des Grossen Rates. Er hatte nie ein Pfarramt bekleidet (was als
+Jung-Hegelianer und Anhänger von David Friedrich Strauss auch
+kaum möglich war), war aber dreizehn Jahre Mitglied des kirch-
+lichen Ministeriums der Stadt Basel gewesen. Wegen Veröffentli-
+chung seiner Schrift »Kirchenglaube und Erfahrung« und seiner
+Herausgebertätigkeit für das Organ »Das freie Wort« sollte er aus
+dem erwähnten Ministerium und als Kandidat für das Predigtamt
+ausgeschlossen werden. Das erwähnte Gremium, in welchem auch
+Johannes Riggenbach137 sass, kam zum Schluss, dass Rumpf ein
+indifferentes, gar feindseliges Verhältnis zur Kirche habe und un-
+verdaute sowie verwegene Sätze unter die Massen schleudere, wes-
+wegen er nicht zum Prediger einer christlichen Gemeinde vorge-
+
+135 Hagenbach in seiner Vorrede in der Erstausgabe »Kirchenblatt für die Reformirte
+
+Schweiz«, 1 (1845), zit. nach Gebhard, Umstrittene Bekenntnisfreiheit, 40.
+
+136 Zum Fall Rumpf siehe Pernet, Nietzsche und das »Fromme Basel«, 79–81.
+137 Der Theologe Christoph Johannes Riggenbach (1818–1890) war nach Studien in
+Basel, Bonn und Berlin zunächst der freisinnigen, spekulativen, hegelianischen Richtung
+verpflichtet, avancierte aber danach zu einem führenden Vertreter der positiven theo-
+logischen Richtung. Vgl. Thomas K. Kuhn, Riggenbach, Christoph Johannes, in: His-
+torisches Lexikon der Schweiz (HLS), Online-Version, Eintrag vom 22.03.2010.
+
+216
+
+Sandra Romer
+
+schlagen werden könne. Der von Rumpf eingereichte Rekurs gegen
+diesen Entscheid wurde später zwar vom Kleinen Rat abgewiesen,
+aber offenbar ließ Hagenbach diese Auseinandersetzung keines-
+wegs unberührt, zumal er deswegen auch öffentlich angegriffen
+wurde. So sah er sich veranlasst, im Zusammenhang mit dem Fall
+Rumpf im »Kirchenboten« seine vermittlungstheologische An-
+schauung noch einmal ausführlich darzulegen.138
+
+Selten vertrat Hagenbach vehement und dezidiert eine persönli-
+che Position. Wohl versuchte er, biblisch-theologische Grundle-
+gung und vernünftig-begriffliche Entfaltung auf einen systemati-
+schen Nenner zu bringen, doch endete bei ihm das vermittlungs-
+theologische Bestreben oftmals in einer unverbundenen Parallelität
+zwischen persönlichem Glauben und historisch-kritischer Bibelfor-
+schung. Selbst dieser Problematik war sich Hagenbach durchaus
+bewusst und er leugnete nicht, »dass auch das vermittelnde Ver-
+fahren seine bedenklichen Klippen hat, und ich habe diess wohl
+selbst mehr als einmal erfahren. Ich habe es auch meinen Gegnern
+nicht übel genommen, sondern es ihnen gedankt, wenn sie mich
+darauf aufmerksam gemacht haben. Es kann leicht geschehen, dass
+man viel zu voreilig glaubt, Gegensätze vermittelt zu haben, wäh-
+rend man sie nur verdeckt, nur einen neuen Lappen auf das alte
+Kleid geflickt hat«.139
+
+Um Hagenbachs Wirken als Vermittlungstheologe verstehen zu
+können, muss auch seine Funktion als Lektor des Frey-Grynaei-
+schen Instituts in die Überlegungen miteinbezogen werden. Denn
+allein durch diesen biographischen Aspekt war er mit einer be-
+stimmten Lehr-Tradition verbunden. Die ihm vorangegangenen
+Leiter des 1747 gegründeten Instituts fühlten sich stets der »ver-
+nünftigen Orthodoxie«140 verpflichtet. Vor diesem Hintergrund
+war denn auch der liberal aufgeklärte Hagenbach darauf bedacht,
+neuorthodoxe Ideen und das pietistische Gedankengut der Positi-
+
+138 Finsler, Erinnerung, 13.
+139 Eppler, Hagenbach, 126.
+140 Die »vernünftige Orthodoxie« des späten 17., frühen 18. Jahrhunderts stand am
+Übergang zu Pietismus und Aufklärung. Deren Vertreter kritisierten die Streitigkeiten
+der Schultheologie, betonten den lebendigen Glauben und die Heiligung des Lebens und
+suchten nach Gemeinsamkeiten der protestantischen Kirchen. Vgl. hierzu Martin Sall-
+mann, Protestantische Orthodoxie,
+in: HLS, Version vom 02.10.2014, Online:
+https://hls-dhs-dss.ch/de/articles/011422/2014-10-02/ [Abfragedatum: 07.06.2020].
+
+Karl Rudolf Hagenbach
+
+217
+
+ven auf einer höheren, gemeinsamen Ebene zusammenzuführen.
+Wie bereits erwähnt, war zumindest in den späteren Jahren die
+Theologie Hagenbach strukturell mit der vernünftigen Orthodoxie
+vergleichbar. Diese stellte zwar die Vernunft in den Mittelpunkt
+jeglicher theologischen Reflexion, hielt aber weitgehend an den
+tradierten Dogmen fest.141
+
+4.3 Der akademische Theologe
+
+Im 19. Jahrhundert befand sich die Theologie als akademische Dis-
+ziplin generell in einer Krise. Im Zug der Liberalisierung und Sä-
+kularisierung musste der Anspruch der Theologie an sich selber
+sein, die aus Forschung und Wissenschaft gewonnenen Einsichten
+in das eigene Denken einfließen zu lassen. Dieser notwendige Er-
+neuerungswille formulierte sich oftmals nicht ganz freiwillig: Im-
+mer lauter wurde auch von außen die Forderung nach Selbstrefle-
+xion an die Theologen herangetragen. Dies veranlasste in vielen
+europäischen Ländern die akademische Theologie dazu, theologi-
+sche Enzyklopädien zu verfassen. Diese sollten helfen, »die Theo-
+logie so zu bestimmen, dass sie einen konstruktiven Beitrag dazu
+leistet, die religiöse Gegenwart zu befähigen, den in ihr noch nicht
+eingelösten wahren Glauben oder das Wesen des Christentums un-
+ter den Bedingungen moderner Bildung zu realisieren«.142 Bereits
+1811 hatte Schleiermacher mit seiner epochemachenden »Kurzen
+Darstellung des theologischen Studiums zum Behuf einleitender
+Vorlesungen« Anstoss zu einem verstärkten Bemühen um die en-
+zyklopädische Darstellung der theologischen Wissenschaften ge-
+geben.143
+
+Auch in der Schweiz galt es, die politische und soziokulturelle
+Realität in das theologische Denken zu integrieren. Die neuen Hel-
+den der Gegenwart – die Unternehmer und die Männer der Wis-
+senschaft – stellten die Existenz Gottes aus weltanschaulichen
+
+141 Vgl. Andreas Urs Sommer, Zur Vernu¨ nftigkeit von reformierter Orthodoxie. Das
+Frey-Grynaeische Institut in Basel, in: Basler Zeitschrift für Geschichte und Altertums-
+kunde 98 (1998), 67–82, hier 80.
+
+142 Friedemann Voigt, Vermittlung im Streit: das Konzept theologischer Vermittlung
+
+in den Zeitschriften der Schulen Schleiermachers und Hegels, Tübingen 2006, 68.
+
+143 Kuhn, Biedermann, 130.
+
+218
+
+Sandra Romer
+
+Gründen in Frage oder leugneten sie gar.144 Wie sollte die Kirche,
+wie die akademische Theologie mit diesem Zeitgeist umgehen?
+Während sich der liberale Flügel des Protestantismus motiviert
+zeigte, dieser säkularen und positivistischen Welt neue religiöse
+Horizonte zu eröffnen, wehrten sich Vertreter des konservativen
+Protestantismus gegen die Zeichen der Zeit. Diese »Positiven« gin-
+gen kaum mit Argumenten auf die Hermeneutik der Reformer ein,
+sondern wiederholten rein thetisch die alten Glaubenssätze, be-
+haupteten deren Heilsrelevanz und diffamierten jede Kritik daran
+als Unglaube.145
+
+Ab der Jahrhundertmitte wurden in den akademischen Kreisen
+vieler Schweizer Städte die Positiven von der liberalen Mehrheit in
+eine Randposition gedrängt. An der Theologischen Fakultät in Ba-
+sel hingegen erfolgte dieser Wandel relativ spät. Noch 1866, als das
+neue Universitätsgesetz vier bis fünf theologische Ordinariate ge-
+währte, fand sich unter den vier angestellten Professoren kein ein-
+ziger Vertreter reformerischer Richtung.146 1867 reichte der »Ver-
+ein für kirchliche Reform« beim Kleinen Rat eine Petition ein und
+kritisierte darin die einseitige inhaltliche Ausrichtung der Fakultät.
+In erster Linie wurde eine methodisch strengere Wissenschaftlich-
+keit gefordert, wie sie in Bern und Zürich bereits praktiziert wurde.
+Zudem wurde Kritik laut, »dass die überkommene Basler Lehr-
+tradition in einen deutlichen Widerspruch zu dem für naturwissen-
+schaftliche Erkenntnisse zugänglichen Glauben weiter Bevölke-
+rungsteile geraten sei«.147 Als Folge dieser Intervention wurde 1870
+Franz Overbeck in diese delikaten kirchenpolitischen Verhältnisse
+hinein gewählt. Overbeck galt zwar als Liberaler, war aber – wie
+sich bald herausstellen sollte – nicht gewillt, sich in Grabenkämpfe
+zu begeben.
+
+144 Olivier Fatio, Auseinandersetzungen und Aufbrüche innerhalb des Protestantis-
+mus, in: Ökumenische Kirchengeschichte der Schweiz, hg. von Lukas Vischer / Lukas
+Schenker / Rudolf Dellsperger, Freiburg i.Ue. / Basel 1994, 236–246, hier 236f.
+
+145 Vgl. Gebhard, Umstrittene Bekenntnisfreiheit, 377.
+146 550 Jahre Universität Basel (1460–2010), Fakultäten und Fächer / Theologische
+Fakultät / Zur Geschichte der Theologischen Fakultät, hg. vom Historischen Seminar
+in: https://unigeschichte.unibas.ch/fakultaeten-und-faecher/
+der Universität Basel,
+theologische-fakultaet/zur-geschichte-der-theologischen-fakultaet/index.html
+[Abfrage-
+datum: 07.06.2020].
+
+147 Ebd.
+
+Karl Rudolf Hagenbach
+
+219
+
+Hagenbach, seit 1823 Dozent an der Theologischen Fakultät,
+war es im Rahmen seiner akademischen Tätigkeit ein Anliegen,
+den wissenschaftlichen Charakter der Theologie zu betonen und
+gleichzeitig individuelle religiöse Gefühle zu respektieren. Die Zei-
+chen der Zeit erkennend, reagierte Hagenbach bereits 1833 auf die
+von ihm geschilderte Problematik mit der Herausgabe der »Ency-
+klopädie und Methodologie der Theologischen Wissenschaften«,148
+die – als »Studentenbuch« bezeichnet – ganzen Generationen ein
+Wegweiser zur Theologie werden sollte. Ebenfalls im Rahmen sei-
+ner Lehrtätigkeit folgten 1840 das »Lehrbuch der Dogmenge-
+schichte« und 1869–1872 die siebenbändige Darstellung der »Kir-
+chengeschichte von der ältesten Zeit bis zum 19. Jahrhundert«.149
+Als Lehrperson war es Hagenbach in erster Linie wichtig, fun-
+diertes Wissen in Form von Zahlen und Fakten zu vermitteln, ohne
+dabei direkten Einfluss auf die Glaubensinhalte seiner Studenten
+nehmen zu wollen. Verschiedenen Beschreibungen zufolge waren
+seine Vorlesungen informativ, gut strukturiert und stets auf aktu-
+ellem Stand und ermöglichten einen soliden Einstieg ins Theolo-
+giestudium.150 Wer sich mit radikalen Ideen auseinandersetzen
+wollte, war bei Hagenbach freilich am falschen Ort: Sein ohnehin
+konservativer Standpunkt verstärkte sich mit zunehmendem Alter
+und die Art seines Unterrichts mochte gegen Ende seiner Lehrtä-
+tigkeit etwas altmodisch gewirkt haben – dies umso mehr, als jun-
+ge und fortschrittlich denkende Kräfte wie der erwähnte Franz
+Overbeck in den Lehrkörper dazu stießen. Overbeck bot ab 1870
+ebenfalls Vorlesungen in Kirchengeschichte an.
+
+Vor diesem Hintergrund ist auch ein Gedicht von Friedrich
+Nietzsche einzuordnen. Nietzsche, der mit Overbeck eng befreun-
+det und ab 1869 Dozent für griechische Sprache und Literatur an
+der Universität Basel war, schrieb anlässlich des Geburtstags seines
+Freundes Overbeck ein parodistisches Werk über Hagenbach (un-
+ter Verwendung des Luther-Chorals »Wer nur den lieben Gott lässt
+walten«):
+
+148 Kuhn, Biedermann, 112.
+149 Zur Rezeptionsgeschichte dieser drei wichtigsten Werke Hagenbachs siehe Kap. 5.
+150 Vgl. etwa Eppler, Hagenbach, 28.
+
+220
+
+Sandra Romer
+
+»Chor fauler, sich rekelnder theologischer Studenten:
+
+O! A! Kirchengeschichte hör ich nicht bei Overbeck, / sondern bei dem
+alten quatschigen Hagenbach, / Hagenbach weiß uns zu taxieren, / als Stu-
+denten, die um Amt und Brot und Weib studieren.
+
+Trostlied:
+
+Wer nur den lieben Gott lässt walten / und den alten Hagenbach, / der wird
+sich wunderbar erhalten / trotz allem Prüfungsungemach.
+
+Hier fällt der Chor entrüsteter Zuschauer ironice ein:
+
+Nämlich wunderbar ungeschlacht, dumm und keck, / ohne nur ein einz’ges
+Fünkchen vom Geiste unsres Overbeck, / noch von seinen andern liebens-
+würdigen Eigenschaften.«151
+
+Mit Bestimmtheit stach Hagenbach im Lehrkörper nicht durch
+eine mitreißende Rede hervor, das Gedicht dürfte aber vor allem
+den üblichen Generationenkonflikt widerspiegeln. Denn ohne
+Zweifel baute die akademische Tätigkeit Hagenbachs auf einem
+breiten Wissen auf und war zudem von sehr viel Engagement und
+Wohlwollen für die Studenten geprägt. Ein Wechsel an eine andere
+Universität war für Hagenbach offenbar kein Thema. Trotz etli-
+cher Rufe ins Ausland blieb Hagenbach der Basler Fakultät treu,
+wo er sich, »geachtet und hochgeschätzt von seinen Collegen,
+überaus wohl fühlte«.152
+
+Nach dem Tod Hagenbachs 1874 hielt ausgerechnet Franz Over-
+beck die Grabesrede an die studierende Jugend und erinnerte dar-
+an, dass der Name Hagenbach »wie der wenig Anderer den Ruhm
+unserer Hochschule in die Ferne getragen hat«.153 In einem an
+Eduard Hagenbach-Bischoff gerichteten Brief schrieb Overbeck zu-
+dem folgende persönlichen Worte: »Als ich vor vier Jahren völlig
+fremd in diese Stadt kam musste mir die freundliche Aufnahme
+von Seiten der Männer, neben welchen ich zu wirken ich berufen
+war, von mehr als gewöhnlichem Werthe sein. Das Gebiet meiner
+
+151 Peter Andre´ Bloch, Ich-haftes Schreiben: Nietzsches Perspektiven- und Standort-
+wechsel zur Überwindung vorgegebener Denkmechanismen. Textinterpretationen, in:
+Der Mensch – sein eigenes Experiment? Kolloquium 2003 des Nietzsche-Forums Mün-
+chen und Vorträge aus den Jahren 2003–2005, hg. von Beatrix Vogel, München 2008,
+460.
+
+152 Eppler, Hagenbach, 31f.
+153 Zit. nach Eppler, Hagenbach, 151.
+
+Karl Rudolf Hagenbach
+
+221
+
+Studien wies mich in dieser Beziehung besonders an Ihren Herrn
+Vater. Das Wohlwollen, mit welchem er mir, dem so viel jüngeren
+und unverdienteren Manne, in der schlichtesten Weise von Anbe-
+ginn an entgegenkam und welches er mir fortwährend bewahrte,
+darf ich nicht vergessen.«154
+
+4.4 Der praktische Theologe
+
+Im 19. Jahrhundert entwickelte sich allgemein eine vielfältige Pre-
+digtpraxis. Während sich die Vertreter der Erweckungsbewegung
+auf die traditionellen Inhalte Sünde, Erlösung, Christologie und
+Lebenswandel konzentrierten, nahmen die liberalen Theologen in
+ihren Predigten historisch-kritische Erkenntnisse, Fragen der mo-
+dernen Welt und den Alltag der Gemeindeglieder auf. Die Vermitt-
+lungstheologen suchten die Verbindung zwischen Christentum und
+Kultur sowie den Dialog zwischen den theologischen und kirchen-
+politischen Flügeln.155
+
+Hagenbach selber war die praktische Theologie ein großes An-
+liegen und er mochte trotz seiner akademischen Aufgaben und sei-
+nem politischen Engagement nicht auf eine ausgedehnte Predigt-
+tätigkeit verzichten. Oft und gerne hielt er auch in kleinen Land-
+kirchen Gottesdienste und verfasste zudem die »Grundlinien der
+Liturgik und Homiletik«.156 Hagenbachs Predigten sind von Form
+und Inhalt her konventionell aufgebaut.157
+In den erwähnten
+»Grundlinien« – ein Büchlein, »das sich zwar nicht durch kunst-
+gerechte Architektonik, aber bei einfacher Anlage durch eine Men-
+ge feiner und praktischer Gedanken auszeichnet«158 – formulierte
+er seine wichtigsten Anliegen und orientierte sich dabei inhaltlich
+eng an seinem Lehrer Schleiermacher. Für Hagenbach war es wich-
+tig, dass die Gottesdienste – »im Gegensatz gegen das bewegte
+
+154 Franz Overbeck, An Eduard Hagenbach-Bischoff, 9. Juni 1874, in: Werke und
+Nachlass, Bd. 8: Briefe, hg. von Rudolf Brändle / Hildegard Cancik-Lindemaier / Hu-
+bert Cancik et. al., Stuttgart 2008, 102.
+155 Vgl. Martin Sallmann, Predigt,
+
+in: HLS, Version vom 10.12.2013, Online:
+
+https://hls-dhs-dss.ch/de/articles/011748/2013–12–10/ [Abfragedatum: 07.06.2020].
+
+156 Karl Rudolf Hagenbach, Grundlinien der Liturgik und Homiletik, Leipzig 1863.
+157 Vgl. beispielsweise Karl Rudolf Hagenbach, Predigten von Dr. K.R. Hagenbach,
+
+Professor der Theologie zu Basel, 4ther Theil, Basel 1858.
+
+158 Finsler, Erinnerung, 10.
+
+222
+
+Sandra Romer
+
+Leben der Welt«159 – feierlich, festlich und würdig gestaltet wur-
+den, auch Kunst sollte Eingang finden in den Kultus, wobei »hin-
+sichtlich des kirchlichen Styles leitende Grundsätze«160 aufzustellen
+seien. Auch betreffend Homiletik war Hagenbach ein Mann alter
+Schule: »Seine Predigten sind alle sehr sorgfältig disponirt, ohne
+dass etwas Gesuchtes oder Gekünsteltes zu spüren wäre.(...) Auch
+auf die Reinheit der Kanzelsprache hielt Hagenbach; er mochte es
+nicht gut leiden, dass die jüngere Generation eine Menge Ausdrü-
+cke aus der Konversationssprache auf die Kanzel bringt.«161 1873
+hielt Hagenbach einen Vortrag »Ueber zeitgemässes Predigen«,162
+in welchem er auch fortschrittliche Gedanken formulierte. Eine
+moderne Predigt müsse, so heißt es da, auch Schwankende und der
+Kirche Entfremdete miteinbeziehen, ferner müsse die Kluft zwi-
+schen Denken und Glauben durch eine weitherzige Auffassung des
+Christentums zu überbrücken versucht werden und ausserdem
+würde ein Prediger, der seine Zeit verstehe, »seinen Vorträgen
+mehr auf empirisch-psychologischem, als auf streng dogmatischem
+Wege Eingang zu den Herzen seiner Zuhörer zu verschaffen su-
+chen«.163 Die Rolle des Geistlichen sah Hagenbach ähnlich wie bei
+Schleiermacher bestimmt, indem dieser als Liturg der Mund und
+das Organ der Gemeinde sei und nur auszusprechen habe, was die
+gegebene Ordnung der Kirche fordere, ohne dabei seine Persön-
+lichkeit einzubringen. Als Prediger dagegen sei er berufen, aus dem
+Schatze persönlich gewonnener christlicher Überzeugung und Er-
+fahrung heraus zu reden.164
+
+Aus heutiger Perspektive wird Hagenbachs Buch zur Liturgik
+und Homiletik positiv beurteilt und die Tatsache, dass die Dra-
+maturgie von Predigt, Lesung, Gesang und Gebet deutlich heraus-
+gearbeitet werde, als »bemerkenswert« bezeichnet: »Der Gottes-
+dienst ruht auf dem Gefühl und ist weder Information noch Tu-
+gendbelehrung.«165
+
+159 Hagenbach, Grundlinien, 6.
+160 Hagenbach, Grundlinien, 21.
+161 Finsler, Erinnerung, 14.
+162 Vortrag an der Jahresversammlung der schweizerisch-kirchlichen Gesellschaft in
+
+Olten, 23. Juni 1873 (vgl. Eppler, Hagenbach, 48).
+
+163 Eppler, Hagenbach, 49.
+164 Hagenbach, Grundlinien, 29.
+165 Hagenbach, Grundlinien, 29.
+
+Karl Rudolf Hagenbach
+
+223
+
+4.5 Der poetische Theologe
+
+Hagenbach verfasste schon in jungen Jahren viele Gedichte, die
+private Ereignisse oder Familienangelegenheiten thematisierten.
+Die ersten Gedichte, die veröffentlicht wurden, entstanden im Zu-
+sammenhang mit seinen kirchengeschichtlichen Studien (»Luther
+und seine Zeit«, Frauenfeld 1830). 1845 wurden zum Doktorju-
+biläum seines Vaters Friedrich erstmals Hagenbachs gesammelte
+Gedichte herausgegeben.166 Die Dichtung Hagenbachs wurde von
+berufener Seite wohlwollend, aber nicht euphorisch beurteilt. Die
+Einschätzung des Literarhistorikers Heinrich Kurz in seiner Ge-
+schichte der neuesten deutschen Literatur lautet:
+
+»Wenn er auch nicht zu den bahnbrechenden Geistern gehört, so sind seine
+Dichtungen doch von einem ächt poetischen Gefühl eingegeben, für das er
+stets den einfachsten, aber immer wirkungsvollen Ausdruck zu finden weiß.
+Ist seine Phantasie auch nicht reich und feurig, so besitzt er dagegen Klar-
+heit der Anschauung und Tiefe des Gemüths, die ihn befähigen, die Er-
+scheinungen der Natur und des Menschenlebens in ungetrübter Reinheit in
+sich aufzunehmen und wieder zu gestalten. Hagenbachs Dichtungen wirken
+weder durch überraschende Originalität, noch durch Neuheit der Gedan-
+ken, der Bilder und der Darstellung, aber sie erfüllen den Leser mit wohl-
+thuendem Gefühl, weil sie aus dem Herzen quellen.«167
+
+Die Beschäftigung mit der Dichtkunst war Hagenbach während
+seines ganzen Lebens ein echtes Bedürfnis und machte einen Teil
+seiner Persönlichkeit aus. Denn mit und in seiner Poesie konnte er
+– der sich von Berufes wegen stets der Vermittlung verpflichtet
+fühlte – seine theologische Anschauung direkt ausdrücken. Dabei
+traf er durchaus auch den Geschmack der Zeit: Das Gedicht »Stil-
+lehalten
+von Christian Burkhardt
+(1830–1908) vertont wurde, erfreute sich als Kirchenlied großer
+Beliebtheit.168
+
+deinem Walten«,
+
+das
+
+166 Karl Rudolf Hagenbach, Gedichte, 2 Bände, Basel 1846.
+167 Zit. nach Eppler, Hagenbach, 89f.
+168 Eduard Emil Koch, Geschichte des Kirchenlieds und Kirchengesangs der christli-
+
+chen, insbesondere der deutschen evangelischen Kirche, Bd. 7, Stuttgart 1872, 95.
+
+224
+
+Sandra Romer
+
+5. Rezeptionsgeschichte
+
+5.1 Ausgangslage
+
+Auch Hagenbachs schriftstellerisches Schaffen war der vermitt-
+lungstheologischen Richtung verpflichtet. Dabei vertrat er die Mei-
+nung, »dass der Historiker eben nicht selbstständig zu produziren,
+d.h. nicht Geschichte zu machen, sondern einfach und objektiv
+über das Produkt der Zeiten möglichst klaren und treuen Bericht
+zu erstatten und wohl auf den inneren Zusammenhang hinzuwei-
+sen, ihn aber nicht a priori zu konstruieren habe«.169 Diesem Credo
+folgte Hagenbach auch bei der Abfassung seiner drei wichtigsten
+Werke, der »Encyklopädie und Methodologie der theologischen
+Wissenschaften«, dem »Lehrbuch der Dogmengeschichte« und der
+»Kirchengeschichte von der ältesten Zeit bis zum 19. Jahrhundert«
+(1869–1872). Diese Bücher zeichneten sich durch viel Fachkom-
+petenz und generell ein breites Wissen aus und waren zu ihrer Zeit
+solide, gut lesbare und entsprechend beliebte Studienliteratur. Be-
+sonders seine Enzyklopädie hatte mit zwölf Auflagen von 1833 bis
+1889 nicht nur im deutschsprachigen Raum über mehrere Gene-
+rationen entscheidend mitbestimmt, was unter Theologie zu ver-
+stehen und wie sie zu betreiben ist. Erst in jüngerer Zeit erschie-
+nene Forschungsarbeiten weisen auf Hagenbachs weitreichende
+Bedeutung speziell für die Theologie in den USA im 19. Jahrhun-
+dert hin.170 Bereits 1870, also noch zu Lebzeiten von Hagenbach,
+schrieb kein Geringerer als John Fletcher Hurst:171 »Hagenbach
+(...) is one of the most genial, attractive and fruitful theologians on
+the Continent.«172 Diese Tatsache ist wesentlich dem Umstand ge-
+
+169 Zit. nach Finsler, Erinnerung, 10.
+170 Purvis, Theology and the University, 211.
+171 John Fletcher Hurst (1834–1909) war ein amerikanischer Bischof in der Metho-
+dist Episcopal Church und erster Kanzler der American University in Washington.
+Hurst hatte in Heidelberg und Halle studiert und lehrte von 1866 bis 1870 in Bremen.
+Er übersetzte unter anderem Hagenbachs Kirchengeschichte des 18. und 19. Jahrhun-
+derts ins Englische. Vgl. Thomas Hahn-Bruckart, Internationale Wissenschaftsbeziehun-
+gen freikirchlicher Theologie, in: Transnationale Dimensionen wissenschaftlicher Theo-
+logie, hg. von Johannes Wischmeyer / Claus Arnold, Göttingen 2013 (Veröffentlichun-
+gen des Instituts für europäische Geschichte Mainz. Beiheft 101: Abteilung für abend-
+ländische Religionsgeschichte), 89–106, hier 102.
+
+172 Purvis, Transatlantic Textbook, 682.
+
+Karl Rudolf Hagenbach
+
+225
+
+schuldet, dass Hagenbach darauf verzichtete, die Historie zu inter-
+pretieren oder seinen eigenen theologischen Standpunkt beliebt zu
+machen, sondern einen möglichst neutralen Standpunkt darzulegen
+versuchte.173 Für die Rezeptionsgeschichte ist die Erkenntnis inter-
+essant, dass der vermittlungstheologische Standpunkt seiner Lehr-
+bücher einerseits das Geheimnis seines auch über die europäischen
+Grenzen hinausgreifenden Erfolges im 19. Jahrhundert, andrerseits
+gerade sein Bemühen um ausgleichende Darstellung von Metho-
+dologie, Dogmen- und Kirchengeschichte der Grund für das Desin-
+teresse an seinem schriftstellerischen Werk im 20. Jahrhundert war.
+Auf längere Frist besehen, erfuhren die Werke anderer, zu markan-
+ten Positionen neigenden Theologen mehr Beachtung und wurden
+– im Gegensatz zu Hagenbachs Lehrbüchern – auch in der ersten
+Hälfte des 20. Jahrhunderts nachgedruckt.174
+
+Im Folgenden soll untersucht werden, wie die drei Hauptwerke
+von Zeitgenossen beurteilt wurden und als wie nachhaltig sie sich
+aus heutiger Sicht erweisen.
+
+5.2 »Encyklopädie und Methodologie der theologischen Wissen-
+schaften«
+
+Hagenbachs 1833 erstmals erschienene Enzyklopädie hat mit
+zwölf Auflagen Generationen von Theologiestudenten begleitet.
+Auch heute noch wird dieses Lehrbuch rückblickend als »das er-
+folgreichste Werk der ganzen Gattung«175 bezeichnet. Hagenbach
+selber betitelte es nicht als Gelehrten-, sondern als »Studenten-
+buch«, in welchem er die Grundlagen der theologischen Wissen-
+schaft möglichst eng mit einer praktischen Studienanleitung verei-
+nen wollte, sodass die Methodologie die Enzyklopädie durchdrin-
+ge.176 Dabei hat Hagenbach bei der Abfassung derselben auf den
+
+173 Purvis, Transatlantic Textbook, 683.
+174 Beispielsweise diejenigen von Ferdinand Christian Baur. Vgl. Wallraff, Dogmen-
+
+historiker, 305.
+
+175 Hans-Joachim Birkner, Schleiermacher-Studien im Kontext, hg. von Hermann
+
+Fischer, Berlin 1996, 290.
+
+176 Vgl. Vorwort zur zweiten Auflage, wo Hagenbach das Werk eigentlich gerne in
+
+»Methodologische Encyklopädie« umbenennen wollte.
+
+226
+
+Sandra Romer
+
+»streng methodischen Gang, (auf) die rein doctrinäre und princi-
+pielle Behandlung«177 verzichtet.
+
+Im Vorwort der ersten Auflage erklärt er seine Zugehörigkeit zur
+vermittlungstheologischen Schule von Schleiermacher, und seine
+Enzyklopädie hält sich in den Grundzügen durchaus an dessen Er-
+gebnisse, doch hat sich bei ihm das Gefühl der absoluten oder
+schlechthinnigen Abhängigkeit als Schlagwort unabhängig ge-
+macht. Damit aus Religion ein Glaube wird, hält Hagenbach es für
+erforderlich, dass die Vernunft hinzukommt, auf deren Grundideen
+sich die Frömmigkeit beziehen muss. Entsprechend war für ihn
+Dogmatik eine historisch-philosophische Wissenschaft, in welche
+die Resultate der spekulativen wie der exegetisch-geschichtlichen
+Forschung berücksichtigt werden sollten. Hagenbach ordnete dem-
+zufolge die Dogmatik nicht – wie dies bei Schleiermacher der Fall
+war – in die rein historischen Disziplinen ein,178 sondern stellte der
+von Schleiermacher eingeführten Dreiteilung in philosophische,
+historische und praktische Theologie das Viererschema (Exegeti-
+sche Theologie, Historische Theologie, Systematische Theologie
+und Praktische Theologie) als Konzeption gegenüber, das sich
+dann auch auf längere Sicht etablieren sollte.179
+
+Im Vorwort zur zweiten Auflage der Enzyklopädie (verfasst
+1845) schreibt er, dass er sich durchaus bewusst sei, »nach zwei
+Seiten hin anzustossen und von der einen den Vorwurf der Unwis-
+senschaftlichkeit, von den andern den der Unentschiedenheit hin-
+nehmen zu müssen«.180 Während also die eine Seite seinen der Ge-
+schichte verpflichteten, möglichst neutralen Ansatz schätzte,181
+meinten die Anderen einen Mangel an wissenschaftlicher Durch-
+dringung der Materie zu erkennen und machten ihm »das histori-
+sche Aufzählen und Aufstellen«182 zum Vorwurf.
+
+177 Hagenbach, Grundlinien, IV (Vorwort).
+178 Rolf Schäfer (Hg.), Friedrich Daniel Ernst Schleiermacher. Der christliche Glaube
+nach den Grundsätzen der evangelischen Kirche im Zusammenhange dargestellt, Teil-
+band 1, Berlin 2003, LIVf. (Vorwort).
+
+179 Purvis, Theology and the University, 214.
+180 Vorrede zur zweiten Auflage, abgedruckt in: Hagenbach, Encyklopädie, 1861, VI.
+181 Purvis, Theology and the University, 208: »In Hagenbach’s work, the historical
+component of the theological curriculum emerged as the keystone, linking the different
+subdisciplines together.«
+
+182 Vgl. etwa Jahrbücher für wissenschaftliche Kritik, Nr. 75 und 76, Berlin, April
+
+1834, herausgegeben von der Societät für wissenschaftliche Kritik zu Berlin.
+
+Karl Rudolf Hagenbach
+
+227
+
+Ungeachtet dieser Kritik, erfreute sich Hagenbachs Enzyklopädie
+über viele Jahre einer überaus großen (studentischen) Leserschaft
+und das Werk wurde »trotz der systematischen Mängel – etwa in
+der Abtrennung der Biblischen Theologie und der atl. und ntl. Ge-
+schichte von den exegetischen Fächern – sehr oft aufgelegt«.183 Aus
+heutiger Sicht wird anerkannt, dass Hagenbach dank seinem ver-
+mittlungstheologischen Standpunkt dazu prädestiniert war, ange-
+henden Pfarrern und Religionslehrern einen breit angelegten Über-
+blick über die Vielzahl der theologischen Meinungen und Diszi-
+plinen zu vermitteln.184
+
+5.3 »Lehrbuch der Dogmengeschichte«
+
+1840 erschien der erste Band des »Lehrbuchs der Dogmenge-
+schichte«; das Werk sollte insgesamt sechs Auflagen erleben und
+Generationen von Studierenden entscheidend prägen.185 Hagen-
+bach hat in seiner Autobiographie den Stellenwert der Dogmatik
+betont, denn hier müsse sich die eigentliche Meisterschaft des theo-
+logischen Denkens bewähren. Grundsätzlich wurde Hagenbachs
+Dogmengeschichte von der zeitgenössischen Leserschaft sehr po-
+sitiv aufgenommen und erlebte mehr Auflagen als alle ihre Kon-
+kurrenten.186 Wie zu erwarten war, rief allerdings die auch in die-
+sem Buch vertretene vermittlungstheologische Position Vertreter
+beider Lager auf den Plan.
+
+Von orthodoxer Seite wurde moniert, dass der theologische
+Standpunkt des Autors zu wenig zutage trete: »Müssten wir an-
+nehmen, dass dem Verf. alles dasjenige keine Wahrheit ist, was er
+nicht als Wahrheit hervorhebt, so würde das ihm Bleibende zu ei-
+ner traurigen Gestalt zusammenschwinden.«187 Wahrscheinlich, so
+mutmaßt der Rezensent, »sey dieses Zurückhalten jeglicher Ent-
+
+183 Lars Emersleben, Kirche und Praktische Theologie. Eine Studie über die Bedeu-
+tung des Kirchenbegriffes für die Praktische Theologie anhand der Konzeptionen von
+C.I. Nitzsch, C.A.G. v. Zezschwitz und Fr. Biebergall, Berlin 1999, 74f. Anm. 69.
+
+184 Kuhn, Biedermann, 132.
+185 Wallraff, Dogmenhistoriker, 292.
+186 Wallraff, Dogmenhistoriker, 304.
+187 Heinrich Wilhelm Josias Thiersch, Rezension zu: Lehrbuch der Dogmengeschichte
+von Dr. K. R. Hagenbach, in: Zeitschrift für die gesammte Lutherische Theologie und
+Kirche, Heft 2, Leipzig 1841, 156–184, hier 159.
+
+228
+
+Sandra Romer
+
+scheidung ein, wenn auch übel angebrachtes, doch wohlgemeintes
+Bestreben des unbefangenen Historikers«.188 Weiter fragt der Re-
+zensent, »ob der Verf. sich irgendwo zur Bibel oder nur zum Neuen
+Testament als zu Gottes Wort bekennt?«, wo er doch »jede offene
+Erklärung für die Inspiration des Alten oder Neuen Testaments
+zurückhält, oder wenn er sich nicht einmal für die Aechtheit aller
+neutestamentlichen Schriften auszusprechen wagt?«.189 Statt an der
+Wahrheit christlicher Glaubenssätze festzuhalten, so ärgert sich der
+Schreiber weiter, teile der Autor Hagenbach nur äußerst naiv mit,
+es sei »ungemein schwer, besonders in unserer Zeit die rechte Mit-
+te zu halten«.190 Und so würden eben dem Studierenden »ohne eine
+Warnung« nicht nur aufbauende, sondern auch destruktive Werke
+vorgeführt.191 Laut diesem Kritiker musste Hagenbachs vermitt-
+lungstheologisches Bemühen ins Leere laufen und er fragte rheto-
+risch: »Diese Nachgiebigkeit aber gegen die Bedürfnisse der Ge-
+genwart, worin ist sie am Ende ihrem Principe nach von einem
+bedauernswürdigen Horchen auf den Hauch des Zeitgeistes und
+›Bewegtwerden‹ durch allerlei Wind der Lehre verschieden?«192
+
+Von liberaler Seite hingegen wurde Hagenbach vorgeworfen, es
+handle sich bei seiner Dogmengeschichte um eine bloße Materia-
+liensammlung.193 So kritisierte etwa auch der noch junge Alois
+Emanuel Biedermann seinen ehemaligen Lehrer, indem er ihm vor-
+hielt, dass er den Entwicklungsgang der Dogmen nicht selber re-
+cherchiere, sondern nur zusammenfasse, was »Dieser und Jener
+darüber gesagt« hat.194
+
+In der ersten Jahrhunderthälfte erschienen – parallel zu Hagen-
+bachs Buch – in geringem zeitlichen Abstand weitere entsprechen-
+de Lehrbücher. Zu nennen sind hier etwa die Werke von Ludwig
+Friedrich Otto Baumgarten-Crusius (erschienen 1832), von Fried-
+
+188 Thiersch, Lehrbuch, 159.
+189 Thiersch, Lehrbuch, 159.
+190 Thiersch, Lehrbuch, 160.
+191 Thiersch, Lehrbuch, 161.
+192 Thiersch, Lehrbuch, 161.
+193 Finsler, Erinnerung, 10.
+194 Wallraff, Dogmenhistoriker, 304, zit. nach Thomas K. Kuhn, »Dem Nebellande
+müßigen Grübelns ferngeblieben«. Lehre und Lehrer bei Karl Rudolf Hagenbach, in: Im
+Spannungsfeld von Gott und Welt. Beiträge zu Geschichte und Gegenwart des Frey-
+Grynaeischen Instituts in Basel 1747–1997, hg. von Andreas Urs Sommer, Basel 1997,
+293–306, hier 296.
+
+Karl Rudolf Hagenbach
+
+229
+
+rich Karl Meier (erschienen 1840) und vor allem dasjenige von
+Ferdinand Christian Baur (erschienen 1847). Im Gegensatz zu Ha-
+genbachs konventioneller Dogmengeschichte entwickelte Baur
+dank einer »ganz neuen gedanklichen Durchdringung des Materi-
+als«195 einen wirklich innovativen Ansatz. Intensiv von Hegels Ge-
+schichtsphilosophie beeinflusst, verzichtete Baur auf eine historio-
+graphische Darstellung zugunsten einer als Aufstiegs- und Erfolgs-
+geschichte konzipierten Dogmengeschichte196 – und stand hier dia-
+metral Hagenbachs Ansatz gegenüber, demzufolge »einfach und
+objektiv über das Produkt der Zeiten möglichst klaren und treuen
+Bericht«197 zu erstatten war. Dass der Dogmatik des unabhängigen
+und innovativen Denkers Baur längerfristig größeres Gewicht als
+dem vermittlungstheologischen Werk Hagenbachs zugesprochen
+wurde, ist daher durchaus nachvollziehbar.198
+
+Ein weiterer Vorwurf an die Dogmengeschichte Hagenbachs be-
+traf die historisch vergleichende Darstellung in Tabellenform und
+die damit einhergehende Periodisierung der Geschichte.199 Doch
+auch die Dogmengeschichte war klar als Lehrbuch konzipiert, was
+– selbst aus heutiger Sicht – für die tabellarische Darstellung
+spricht.200
+
+5.4 »Kirchengeschichte von der ältesten Zeit bis zum 19. Jahrhun-
+dert in Vorlesungen« (1869–1872)
+
+Die »Kirchengeschichte von der ältesten Zeit bis zum 19. Jahrhun-
+dert in Vorlesungen« (1869–1872) war aus öffentlich gehaltenen
+Vorträgen hervorgegangen, die Hagenbach seit 1833 gehalten hat-
+te. Das Buch wurde in mehrere Sprachen übersetzt und in den
+späten 1880er Jahren neu herausgegeben. Es verwundert nicht wei-
+ter, dass sich auch in diesem Werk der nachhaltige Einfluss von
+Schleiermacher und Neander manifestierte.
+
+195 Wallraff, Dogmenhistoriker, 300.
+196 Wallraff, Dogmenhistoriker, 300.
+197 Zit. nach Finsler, 10.
+198 Wallraff, Dogmenhistoriker, 305.
+199 Wallraff, Dogmenhistoriker, 302.
+200 Auch aus heutiger Sicht beurteilt Wallraff »die Kombination von Grundsätzlichem
+im Großdruck und materialer Füllung im anschließenden Kleindruck zu jedem Thema«
+als zweckdienlich und erachtet diese Art der Darstellung als einen wichtigen Erfolgs-
+faktor des Buches. Wallraff, Dogmenhistoriker, 303.
+
+230
+
+Sandra Romer
+
+Obwohl Schleiermachers wissenschaftstheoretische Reflexionen
+in der Forschung immer Vorrang hatten, gingen auch von seinen
+Vorlesungen in Kirchengeschichte wichtige Impulse aus. Schleier-
+macher verstand Kirchengeschichte als eigenständigen Teil der
+Weltgeschichte, indem sie beschreibt, »wie das christliche Prinzip
+durch menschliche Organe auf die Menschheit wirkt«.201 Sein
+Schüler Neander, der sich im Speziellen mit der christlichen Antike
+befasste, lehnte sich an dieses Konzept des individuellen Zugangs
+an, indem er einen Schwerpunkt auf die innere Geschichte, also die
+Geschichte der Individuen und deren Frömmigkeit, legte. Von bei-
+den wurden, dem vermittlungstheologischen Ansatz entsprechend,
+Lehrdifferenzen milde beurteilt und »der Einfluss fremder Fakto-
+ren wie etwa der Politik oder der Wissenschaft als wenig bedeu-
+tend angesehen«.202
+
+Hagenbach ist in ebendiese Linie einzuordnen. Was seine Kir-
+chengeschichte allerdings von vergleichbaren Werken unterscheidet
+und auch positiv abhebt, ist der hohe Stellenwert, den er der Kultur
+einräumt. Im Vorwort zur »Kirchengeschichte des 18. und 19.
+Jahrhunderts aus dem Standpunkte des evangelischen Protestantis-
+mus betrachtet«, schreibt Hagenbach im Zusammenhang mit dem
+von ihm gewählten Buchtitel, »dass er allerdings für diejenigen zu
+weit sein dürfte, die hier ein vollständiges Compendium der neuern
+Kirchengeschichte suchen. [...] Dagegen könnte man den Titel auch
+wieder zu enge finden, insofern die Litterar- und Culturgeschichte
+einen bedeutenden Raum einnimmt, als man in einer eigentlichen
+Kirchengeschichte erwarten darf«.203
+
+In den zu besagtem Buch zusammengefassten Vorlesungen
+nimmt am Anfang Herder viel Platz ein, Goethe und Schiller und
+deren Werke werden immer wieder erwähnt und in die Vorträge
+eingebaut. Bemerkenswert ist die Tatsache, dass Hagenbach nicht
+nur dem philosophischen, sondern auch dem religionspädagogi-
+schen Aspekt viel Bedeutung einräumte, indem er sich beispiels-
+
+201 Simon Gerber, Schleiermachers Kirchengeschichte, Tübingen 2015, 150.
+202 Vgl. hierzu Simon Gerber (Hg.), Friedrich Daniel Ernst Schleiermacher. Vorlesun-
+
+gen über die Kirchengeschichte, Historische Einführung, Berlin 2006, XXXIX.
+
+203 Karl Rudolf Hagenbach, Die Kirchengeschichte des 18. und 19. Jahrhunderts aus
+dem Standpunkte des evangelischen Protestantismus betrachtet, in einer Reihe von Vor-
+lesungen von Dr. K.R. Hagenbach, Erster Theil. Zweite verbesserte Auflage, Leipzig
+1849, Vorwort, IIIf.
+
+Karl Rudolf Hagenbach
+
+231
+
+weise eingehend mit dem Einfluss Pestalozzis auf die religiöse
+Denkweise befasste. Wenn es die behandelte Materie zuließ, suchte
+Hagenbach auch einen Bezug zur Gegenwart herzustellen, ver-
+mochte freilich in seinen jeweiligen »Aussichten auf die Zukunft«
+keine substantiellen Lösungsansätze zu formulieren.
+
+Verdienstvoll ist schließlich die Tatsache, dass die Vorlesungen
+zur Kirchengeschichte und später auch das daraus entstandene
+Buch nicht einer Bildungselite vorbehalten waren, sondern von ei-
+ner breiten Öffentlichkeit – von Männern und Frauen, von einer
+gelehrten und nicht-akademischen Leserschaft, von jungen und äl-
+teren Menschen – rezipiert wurde. Und ganz besonders bei Hagen-
+bachs Kirchengeschichte ist unübersehbar, dass seine eigene Bio-
+graphie in dieses Buch einfloss. Dies war es auch, was den »eigen-
+tümlichen Vorzug sowol dieser Werke wie überhaupt seines ganzen
+wissenschaftlichen Wesens und Wirkens«204 ausmachte – dass »in
+diesen seinen Arbeiten Theologie und Leben, Wissenschaft und
+Praxis, Geschichte und Gegenwart zu einander gestellt sind und
+welchem er dann auch durch eine edle, abgerundete und anschau-
+liche Darstellung Ausdruck zu geben verstanden hat«.205
+
+6. Zusammenfassung
+
+Wie ist nun die Wirkungsgeschichte des Basler Theologen zusam-
+menfassend einzuschätzen? Hagenbachs Vermittlungstheologie
+war nicht Ausdruck eines eigenen, reflektierten, scharf umrissenen
+theologischen Profils, das neue, für alle Parteien patente Denkan-
+sätze bieten konnte oder wollte. Im Gegenteil: Auf den ersten Blick
+erstaunt, dass Hagenbach angesichts seiner in den Grundzügen po-
+sitiven, auch konventionell gelebten Theologie und trotz der Nähe
+zum kirchlichen Glauben als Vermittler wahrgenommen und offen-
+sichtlich auch akzeptiert worden ist. Dass dem so war, lag zwei-
+fellos an der Persönlichkeit Hagenbachs: Sein tief verankerter
+Glaube, gepaart mit seinem offenen und toleranten Wesen, gaben
+ihm die notwendige Basis, um anderen die Freiheit zu gewähren,
+
+204 Rudolf Stähelin, Hagenbach, Karl Rudolf, in: Real-Enzyklopädie für protestanti-
+
+sche Theologie und Kirche 5 (2017), 539 (Nachdruck des Originals von 1879).
+
+205 Stähelin, Hagenbach, 539.
+
+232
+
+Sandra Romer
+
+ihren Glauben individuell zu leben, diesen persönlich auszudrü-
+cken und spezifische Konsequenzen für die eigene Lebenspraxis
+daraus zu ziehen. Bemerkenswert ist die Tatsache, dass die Durch-
+lässigkeit seiner theologischen Haltung seinen ganz persönlichen
+Glauben in keiner Weise beeinträchtigte. Diesen trug er weder zur
+Schau noch wollte er diesen verheimlichen. Obwohl er stets die
+Bedeutung des wissenschaftlichen Charakters der Theologie her-
+vorhob, lebte und lehrte Hagenbach – geschult an den Schriften
+von Johann Gottfried Herder und Friedrich Schleiermacher und
+entsprechend ein überzeugter Anhänger eines innerlichen Christen-
+tums206 – letztlich gemäss dem von seinem Lehrer August Neander
+geprägten Sinnspruch: Pectus est quod facit theologum.
+
+Beachtlich ist auch die Rezeptionsgeschichte seiner Lehrbücher,
+die Zeugnis von seinem fundierten historischen Wissen sowie von
+seiner Schaffenskraft ablegen. Dabei ist die Feststellung wichtig,
+dass diese Werke auch international vor allem dank ihrem vermitt-
+lungstheologischen Ansatz erfolgreich waren. Für die nachrücken-
+den Generationen von Theologiestudenten war es essenziell, dass
+ihnen möglichst neutrale, ungefärbte Lehrmittel zur Verfügung
+standen. Dieser bedeutungsvolle Aspekt der Vermittlungstheologie,
+nämlich ihr Gewicht für die Lehre, wurde bis anhin weitgehend
+unterschätzt. Verdienstvoll war schließlich auch Hagenbachs Öff-
+nung der Kirchen- und Dogmengeschichte hin zu einem weiter als
+bis anhin gefassten, insbesondere auch kulturell konnotierten Ver-
+ständnishorizont.
+
+Hagenbach war weder ein origineller Denker noch ein genialer
+Taktiker, auch kein visionärer Theologe oder herausragender Dog-
+matiker – doch als Vermittlungstheologe vermochte er sich mit sei-
+nem moderaten Stil balancierend in die politischen und innerkirch-
+lichen Auseinandersetzungen in der Schweiz des 19. Jahrhunderts
+einzubringen. Wie effizient und wichtig seine Integrationskraft im
+Einzelfall tatsächlich war, lässt sich allerdings aus heutiger Sicht
+nicht mehr detailgenau rekonstruieren bzw. muss weiteren For-
+schungen überlassen bleiben.
+
+206 Sommer, Vernünftigkeit, 80.
+
+Karl Rudolf Hagenbach
+
+233
+
+7. Schriften Karl Rudolf Hagenbachs
+
+(chronologisch geordnet)
+
+Ueber den Begriff und die Bedeutung der Wissenschaftlichkeit im
+
+Gebiete der Theologie. Eine akademische Rede, Basel 1830.
+
+Encyklopädie und Methodologie der Theologischen Wissenschaf-
+
+ten, Leipzig 1833.
+
+Luther und seine Zeit. Eine Sammlung von Gedichten, Zürich /
+
+Frauenfeld 1839.
+
+Lehrbuch der Dogmengeschichte, Zweiter Theil. Von Johannes
+Damascenus bis auf unsere Zeit. Zweite verbesserte Auflage,
+Leipzig 1847.
+
+Die Kirchengeschichte des 18. und 19. Jahrhunderts aus dem
+Standpunkte des evangelischen Protestantismus betrachtet, in ei-
+ner Reihe von Vorlesungen von Dr. K.R. Hagenbach, Erster
+Theil. Zweite verbesserte Auflage, Leipzig 1849.
+
+Wilhelm Martin Leberecht de Wette. Eine akademische Gedächt-
+
+nissrede mit Anmerkungen und Beilagen, Leipzig 1850.
+
+Predigten von Dr. K.R. Hagenbach, Professor der Theologie zu
+
+Basel, 4ther Theil, Basel 1858.
+
+Encyklopädie und Methodologie der Theologischen Wissenschaf-
+
+ten. Sechste verbesserte Auflage, Leipzig 1861.
+
+Grundlinien der Liturgik und Homiletik, Leipzig 1863.
+Kirchengeschichte von der ältesten Zeit bis zum 19. Jahrhundert.
+In Vorlesungen von Dr. K. R. Hagenbach. Neue durchgängig
+überarbeitete Gesammtausgabe. Siebenter Band. Die Kirchenge-
+schichte des 18. und 19. Jahrhunderts. Zweiter Theil, Leipzig
+1872.
+
+Auswahl aus seinen hinterlassenen Predigten, Basel 1875.
+
+Sandra Romer, Universität Zürich
+
+Abstract: Karl Rudolf Hagenbach (born in Basel in 1801, also died there in 1870) was
+at his time one of the best known representatives of the Mediating Theology in Ger-
+man-speaking Europe. Mediating theologians tried to combine the traditional Protes-
+tantism of the Reformation Confessions with modern science, philosophy and historical
+scholarship. Hagenbach’s theological thinking was influenced by his lecturers August
+Neander and Friedrich Schleiermacher whom he met as a student in Berlin. Back in his
+hometown he worked as a lecturer for more than 50 years at the theological faculty at
+the University of Basel. In doing so, he gained an excellent reputation as church his-
+torian. Thanks to his literary work Hagenbach became well-known beyond the borders
+
+234
+
+Sandra Romer
+
+of Europe: in the second half of the 19th century the “Encyklopädie und Methodologie
+der theologischen Wissenschaften” (first published in 1833) and the “Lehrbuch der
+Dogmengeschichte” (first volume published in 1840) – translated into many languages
+and receiving numerous new editions – became very popular also abroad. Current
+English-speaking research points out Hagenbach’s lasting influence on the changing
+fields of church history and academic theology in America. This remarkable success is
+based on the principle of Mediating Theology: by crossing ideological boundaries Ha-
+genbach presented a plurality of theological thoughts and methods, thereby students
+were invited to form their own opinion. This biographical sketch reflects Hagenbach’s
+education, his theological line of thinking as well as the impact and reception of his
+textbooks. At least it is an attempt to approach the individual spirit of this remarkable
+personality.
+
+Keywords: Karl Rudolf Hagenbach; Mediating Theology; Theological Textbooks;
+Church History; Basel; 19th century
+
+

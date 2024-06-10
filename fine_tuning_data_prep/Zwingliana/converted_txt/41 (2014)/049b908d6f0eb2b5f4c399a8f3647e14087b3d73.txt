@@ -1,0 +1,1343 @@
+ISSN 0254–4407 – Zwingliana 41 (2014), 57–84
+
+The Understanding of the Church in
+
+Heinrich Bullinger’s Theology
+
+W. Peter Stephens
+
+The church is central to Bullinger’s theology,1 although not the
+centre of it.2 Salvation itself is inseparable from the church, so that
+he frequently quotes Cyprian’s statement that there is no salvation
+
+1 The main studies of the church in Bullinger’s theology, besides those on church
+discipline and the relation of church and state which are not considered here, are the
+following: Peter Walser, Die Prädestination bei Heinrich Bullinger, Zurich 1957, 27–31;
+Heinold Fast, Heinrich Bullinger und die Täufer, Weierhof, Pfalz 1959; Joachim Sta-
+edtke, Die Theologie des jungen Bullinger, Zurich 1962, 216–226; Simon van der Lin-
+de, Die Lehre von der Kirche in der Confessio Helvetica Posterior, in: Joachim Staedtke
+(ed.), Glauben und Bekennen: 400 Jahre Confessio Helvetica Posterior. Beiträge zu ihrer
+Geschichte und Theologie, Zurich 1966, 337–367; Ernst Koch, Kirche und Konfession
+im Zweiten Helvetischen Bekenntnis, in: Zwingliana 12 (1967), 522–532; Ernst Koch,
+Die Theologie der Confessio Helvetica Posterior, Neukirchen 1968, 216–246; J. Wayne
+Baker, Heinrich Bullinger and the Covenant, Athens, OH 1980; Fritz Büsser, »Die Stadt
+auf dem Berg«: Bullingers reformatorisches Vermächtnis an der Wende zum 21. Jahr-
+hundert, in: Zwingliana 25 (1998), 21–42; Peter Opitz, Heinrich Bullinger als Theo-
+loge: Eine Studie zu den »Dekaden«, Zurich 2004, 417–461; Herman J. Selderhuis,
+Kirche am Kreuz: Die Ekklesiologie Heinrich Bullingers, in: Emidio Campi, Peter Opitz
+(eds), Heinrich Bullinger: Life – Thought – Influence, vol. 2, Zurich 2007 (Zürcher
+Beiträge zur Reformationsgeschichte 24), 515–536. – Abbreviations used in this article:
+Harding: The Decades, ed. Thomas Harding, 4 vols., Cambridge 1849–1852; HBBibl:
+Beschreibendes Verzeichnis der gedruckten Werke von Heinrich Bullinger, ed. Joachim
+Staedtke, Zurich 1972 (Heinrich Bullinger Werke I/1); HBBW: Heinrich Bullinger Wer-
+ke. Zweite Abteilung: Briefwechsel, Zurich 1973–; HBTS: Heinrich Bullinger Werke.
+Dritte Abteilung: Theologische Schriften, Zurich 1983–; RB: Reformierte Bekenntnis-
+schriften, ed. Heiner Faulenbach, Neukirchen-Vluyn 2002–; RC: Reformed Confessions
+of the 16th Century, ed. A.S. Cochrane, London 1966.
+
+2 See, for example, Linde, Die Lehre, 337 who asks whether the church could not
+be seen as the centre of his thought rather than the covenant. It is notable that it is one
+
+58
+
+W. Peter Stephens
+
+outside the church. It is not just that it is the church which has the
+message of salvation, but rather that salvation is understood in
+terms of a community and not simply in terms of individuals.3 This
+is expressed in images of the church, such as God’s house, the body
+of Christ, and the vine. After the description of the church in The
+Decades as God’s »most excellent work«, Bullinger states that in
+his goodness God has chosen men and women »in whom he may
+dwell«, and who will be »called by his name a people, a house [...]
+or church of the living God«.4
+
+The Context for Understanding Bullinger’s
+
+Teaching on the Church
+
+The emphases in Bullinger’s discussion of the church reflect in part
+his controversy with conservative and radical opponents. Debate
+with his papal opponents, focuses on the understanding of salva-
+tion and scripture in relation to the church, as well as the issue of
+unity. With the Anabaptists, beside the unity of the church, there is
+
+of his sermons on the church which is published to represent Bullinger in The Library of
+Christian Classics volume on Zwingli and Bullinger: G.W. Bromiley (ed.), Zwingli and
+Bullinger, London 1953 (The Library of Christian Classics 24). Selderhuis, Kirche, 516
+refers to the church as »the centre of Bullinger’s thought and work«. In his reference to
+it as the centre of Bullinger’s thought, he goes beyond his quotation from Bruce Gor-
+don, Clerical Discipline and the Rural Reformation: The Synod in Zürich, 1532–1580,
+Bern 1992 (Zürcher Beiträge zur Reformationsgeschichte 16), 61: »[...] and the em-
+phasis of his work was therefore upon ecclesiology and Church reform«.
+
+3 The Christian’s relation to Christ is not apart from the church, but set in the
+church. In commenting on the vine and the branches, Bullinger states that the union of
+Christ and the saints is »in the church« (Commentary on John [HBBibl, no. 153], 167r,
+l. 35–36). To be orthodox and catholic is also not simply a matter of personal faith, but
+is set »in the one and holy church of Christ founded on Christ« (Commentary on
+Matthew [HBBibl, no. 144], 32r, l. 35–37). The chapter on the church in the Second
+Helvetic Confession begins: »But because God from the beginning has wished people to
+be saved and to come to a knowledge of the truth, it is absolutely necessary for there
+always to have been a church and for there to be now, and to the end of the world.«
+(RB 2/2, 310.12–14; RC, 261). In Sermons on the Apocalypse (HBBibl, nos. 327 and
+355) the church is related to the preaching of the word rather than to salvation, where
+Bullinger maintains that the church will never cease to be, as the word of God will exist
+for ever (82.21–22; English translation 183). Linde, Die Lehre, 352 regards the article
+on the church as linked to that on justification, which immediately precedes it.
+
+4 HBTS 3, 740.7–15; Harding, vol. 4, 3.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+59
+
+the issue of its membership and therefore of the holiness and ca-
+tholicity of the church. These also relate, though in different ways,
+to salvation.
+
+From the beginning Bullinger rejects the papal view of the
+church, in particular in his maintaining the authority of the word
+of God over and against the authority of the church.5 This is de-
+veloped at length in 1538 in The Authority of Scripture and in
+1571 in A Discourse on Scripture. Bullinger rejects the papal view
+that the church is prior to and greater than scripture and that
+scripture needs the confirmation or approval of the church. He
+argues, initially from the Old Testament, that the word of God,
+spoken and written, is prior to the church, indeed that the church
+is itself born of the word of God. In this context he deals with the
+quotation from Augustine that he would not have believed the
+gospel unless the authority of the church had compelled him.6 Ge-
+nerally, Bullinger discusses the relation of the church and scripture
+in the context of scripture – both before the issue came to a head in
+the Council of Trent, as in The Authority of Scripture, and after.
+Thus, later, in Evangelical and Papal Teaching (1551),7 it is placed
+
+5 In his Letter to the Margrave of Brandenburg (HBBibl, no. 34), 3v, l. 15–25,
+Bullinger defends his teaching against Luther’s assertion that his teaching has been held
+for a long time, maintaining that the church is based on God’s word and not length of
+time.
+
+6 See the discussion in W. Peter Stephens, The Authority of the Bible in Heinrich
+Bullinger’s Early Works, in: Reformation and Renaissance Review 10 (2008), 37–58.
+For various discussions of the saying of Augustine, see Commentary on 2 Corinthians
+(HBTS 6, 477.19–30); Commentary on Galatians (HBTS 7, 28.32–29.11); The Au-
+thority of Scripture (HBTS 4, 37–40) and A Discourse on Scripture (HBBibl, no. 565),
+48r–49v. In The Authority of Scripture, Bullinger draws on Gerson’s interpretation of
+the church’s role in terms of the primitive church’s witness to Christ, as those who saw
+and heard him, and on his inverting the saying into not believing the church unless the
+authority of scripture had impelled him. He also cites Marsiglio of Padua’s idea of the
+church’s discerning between the voice of the good shepherd and the voice of a stranger,
+expressed in recognizing the canonical, but not the apocryphal gospels. The church does
+not authenticate the word any more than the sheep authenticate the shepherd’s voice
+(HBTS 4, 38.26–39.20). Bullinger adds that the church is the congregation of the faith-
+ful. However, as faith comes from the word, the church is dependent on the word. »For
+if faith comes through the Holy Spirit from hearing the word of the Lord and faith
+makes one a believer, and the church is the assembly of believers, it follows that the
+gospel or the word of the Lord is before the church and that the church is born from the
+word of God and so it (the word) is prior and greater.« (HBTS 4, 39.29–40.3).
+
+7 For Evangelical and Papal Teaching, see HBBibl, no. 231. A detailed contrast
+
+60
+
+W. Peter Stephens
+
+in the opening articles on the authority of scripture, just as it is in
+the opening sermons of The Decades on The Word of God.
+
+The other key areas in which Bullinger attacks the papal view of
+the church concern Christ and salvation.8 This is evident in his
+responses to the Council of Trent in 1551, but it is, of course, also
+present in his early works.9 In the articles on the church in Evan-
+gelical and Papal Teaching, the evangelical view describes the
+church as »built on Christ the rock«. It »hangs on the universal
+shepherd, and as it accepts no other name than Christ’s, so it or-
+ders itself in accordance with Christ alone«. By contrast Bullinger
+describes the papal view as »built on Christ and Peter and his
+successors«. It »hangs on Christ [...] but also on the pope as the
+universal shepherd [...] and believes that all churches should order
+themselves in accordance with the Roman church.« The previous
+articles on Christ make a similar contrast. The evangelical view
+maintains that »Christ is the only head of his church and never
+
+between evangelical and papal teaching is present in his Reply to Faber (HBBibl, no.
+35), D2r, l. 14 – D2v, l. 30, in 1532. See also, for example, a passing reference in
+Commentary on 1 Corinthians in 1534: »Ecclesia enim non est domina scripturae, sed
+scripturae se subijcit, et omnia sua ad istarum praescriptum agit« (HBTS 6, 271.20–22),
+and the more extended discussion in A Discourse on Scripture: »For the authority of
+canonical scripture is greater than that of any person, or any bishops, or any synods, or
+even the whole church.« Bullinger adds that even if the whole church, past, present, and
+future, were gathered in one place, we could not put our faith in anything without the
+testimony of scripture. He cites Gerson’s stating that the judgement of one man advan-
+cing the scripture is to be preferred to a universal council as well as Augustine’s obser-
+vation that it is right even for plenary councils to be corrected by later councils (33r,
+l. 16 – 33v, l. 1, 23–25). »For the authority of the gospel does not depend on the
+church, but whatever the church has depends on the word of God.« (39r, l. 3–6).
+
+8 Opitz, Heinrich Bullinger als Theologe, 419 rightly stresses the strongly christo-
+logical character of Bullinger’s doctrine of the church as well as the centrality of Christ
+for Bullinger’s theology: »Theologie ist Christologie, und Ekklesiologie ist nichts an-
+deres als erweiterte Christologie.«
+
+9 In 1525 and 1526 Bullinger refers to the church as hanging on Christ, built on the
+rock, firmly trusting in Christ, hearing his voice, standing fast with him to the end, and
+cleaving to Christ as head (HBTS 1, 162.3,18, 158.15–22; HBTS 2, 111.10–12). Christ
+is said to rule in the church (HBTS 2, 112.23). Bullinger later makes as well the me-
+dieval moral contrast between Christ and the pope, observing in 1549 that Christ did
+not offer his feet to be kissed (Perfection [HBBibl, no. 249], 70.22–71.1). In Commen-
+tary on Ephesians, in keeping with one of his principles of interpretation, he interprets
+the reference to the prophets and apostles as the foundation of the church in the light of
+the other texts, such as 1 Corinthians 3:11, which states that there is no other foun-
+dation than Christ (HBTS 7, 158.10–27).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+61
+
+leaves it«. He is »the righteousness [...] of all believers«, so that
+through his death, when believers die, they at once attain eternal
+life. The papal view regards Christ as »the head of the church«,
+but also the pope at Rome, who is »Christ’s vicar on earth«.
+Again, Christ is »the righteousness [...] of all believers«, but in the
+papal view most believers do not go straight to heaven, but must
+be purged in purgatory.10
+
+Bullinger interprets the rock in Matthew 16:18 of Christ and not
+of Peter or the pope, claiming that this is the catholic and orthodox
+position. He accepts that many in the early church held that Peter
+was first or chief in the apostolic college; but that was for Bullinger
+a matter of order and administration. He rejects that view that
+Peter was the head or foundation of the church. The authority of
+prophets and apostles counts for more than the authority of any
+human writers – and they refer this to Christ, not Peter. Being
+present in his church, Christ has no need of a vicar.11 In The Se-
+cond Helvetic Confession, after rejecting the pope as head of the
+church, Bullinger attacks the primacy of Rome, as Christ forbade
+primacy and dominion among the apostles and their successors.12
+In the Council of Trent, Bullinger maintains that God has given
+us everything that belongs to salvation in Christ, so that those who
+»possess him in true faith« have life in its fullness. As he lives in
+the church by his Spirit, he does not need a vicar.13 In Commentary
+on Ephesians after referring to Christ as the head of the church,
+Bullinger states: »The church lives by the Spirit of Christ«.14 He has
+instituted ministers, who preach the gospel and administer the sa-
+craments, and effects the salvation of believers in the ministry of
+the word and sacraments. For Bullinger, whoever claims what be-
+longs to Christ alone or changes what he instituted is anti-Christ.
+In contrast to what the pope claims for himself in relation to coun-
+
+10 Evangelical and Papal Teaching, aa4v–aa6r.
+11 Commentary on Matthew, 157r, l. 31–39.
+12 RB 2/2, 312.3–30; RC, 263–264. – Bullinger uses the images of the bridegroom
+and the shepherd as well as that of the head in arguing against having any other head
+for the church than Christ (The Christian Religion [HBBibl, no. 283], 98v, l. 21–29).
+13 The church is related to the Spirit, but not as pervasively as the church is related
+to Christ, although there are many references, such as that Christ rules in the church in
+the Spirit (HBTS 2, 112.23, 29–30).
+
+14 HBTS 7, 177.12.
+
+62
+
+W. Peter Stephens
+
+cils, he is seen by those who preach the gospel as the »author of all
+the errors and corruptions in the church of God«.15 The reforma-
+tion of the church is fundamentally not the work of the reformers,
+but the work of Christ. Thus in Perfection Christ is described as
+»the most perfect reformer of the church«.16 The reformation of
+the church means restoring it to the original form given to it by
+God, removing from it abuses and human inventions.
+
+A difference in the understanding of scripture also underlies Bul-
+linger’s different understanding of the church from that of the
+Anabaptists. In debate with them, Bullinger insists on the deter-
+minative role of the whole bible, including the Old Testament.17
+This supports his stress on the unity of the Old and New Testa-
+ments, with one covenant and one people. In keeping with this he
+argues against Anabaptists that the church includes children as
+well as adults, and also that the government has a role in the life of
+the church. Indeed he refers to magistrates in addition to ministers
+as being necessary to the church.18
+
+The different understanding between Bullinger and the Anabap-
+tists of membership of the church is related to their different in-
+terpretation of scripture as well as to the authority of both the Old
+Testament and the New. For Anabaptists the true church consists
+of believers living holy lives. For Bullinger, by contrast, the church
+in the New Testament, as in the Old, is a mixed church, in which
+the godly and ungodly live together until judgement day. In Ana-
+baptists (1560), in which he describes their origin and gives his
+fullest account of them, Bullinger sees having a separate church as
+the fundamental issue with Anabaptists.19
+
+15 Council of Trent (HBBibl, no. 230), 392.9–30, 396.1–8.
+16 Perfection, 41.16–42.1.
+17 In a letter to Berchtold Haller on 4 June 1532, Bullinger maintains that the Old
+Testament must be used with Anabaptists as well as the New Testament and supports
+this with examples from the New Testament (HBBW 2, 130.9–11, 131.62–132.85). The
+role of the Old Testament is evident in his early work on baptism (HBTS 2, 72.3–8).
+
+18 In The Testament (1534), Bullinger refers to the need for the magistrate to deal
+with evil people who subvert the church and attacks those who exclude them from the
+church (The Testament [HBBibl, no. 54], 19r, l. 18 – 19v, l. 4, 19v, l. 12 – 20r, l. 1).
+Compare the preface (aaa6r, l.3–6) in Commentary on Matthew. In The Decades, Bul-
+linger can say: »No one denies that God often uses the work of soldiers and magistrates
+in defending the church against the ungodly and tyrants« (HBTS 3, 758.27–29; Har-
+ding, vol. 4, 34).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+63
+
+This issue features largely in Anabaptist Teaching (1531). In the
+opening epistle he refers to a key text, »God is not a God of dis-
+cord, but of peace«.20 For Bullinger, Anabaptists have no ground
+for separation. If they preach scripturally, as Bullinger does, why
+do they separate?21 Separation is not something they have learnt in
+Christ.22 The sixth article rejecting Anabaptist teaching states that
+re-baptism is rebellion against Christian unity.23 Moreover, he re-
+jects their claim to be sent by God, as God is not a God of discord,
+but of peace and unity.24 In the third of his twenty five articles
+Bullinger maintains that Christ and the apostles did not rebel ab-
+out outward, temporal things, but acted for the peace of the
+church.25 By outward things Bullinger means things which do not
+concern salvation. He charges Anabaptists with separating for out-
+ward things, such as interest, tithes, water, riches, and government,
+contrary to Christ’s example.26 Bullinger defends himself against
+the charge of separation, although he implies that separation is
+right when the truth of the gospel is at stake. He maintains that
+Anabaptist preaching deals with outward things, whereas he, by
+contrast, deals with faith, innocence, and love.27 The following
+year, in The Prophet, Bullinger condemns those who desert the
+church for a trivial reason and whose view and practice of baptism
+divide the church.28
+
+19 Anabaptists deserted other churches. They maintained that in their churches there
+was manifest amendment of life. By contrast, in evangelical churches, although they
+preached some things from the gospel, there was no amendment or repentance. There
+can be no fellowship with those who are impure. (Anabaptists [HBBibl, no. 396], 17v,
+l. 15–26, 18r, l. 17–28).
+
+20 Anabaptist Teaching (HBBibl, no. 28), a3r, l. 9–12.
+21 Anabaptist Teaching, 3v, l. 17–24.
+22 Anabaptist Teaching, 4r, l. 9–10.
+23 Anabaptist Teaching, 7r, l. 11–14.
+24 Anabaptist Teaching, 16v, l. 26 –17r, l. 2. – In his exposition of Ephesians 4:4–6,
+after referring to the Anabaptists who destroy the unity of the church, Bullinger states
+that »they sin most gravely against God himself and all things sacred who disturb the
+peace of the church« (HBTS 7, 168.14f., 26f.).
+
+25 Anabaptist Teaching, 6v, l. 23–28.
+26 Anabaptist Teaching, 21r, l. 14–15, 23r, l. 19 – 23v, l. 3.
+27 Anabaptist Teaching, 24v, l. 20–27, 25r, l. 6–12.
+28 The Prophet (HBBibl, no. 33), 17v, l. 13–16, 18r, l. 20–21. In expounding Mat-
+thew 3:7–8, Bullinger describes Christ as »the author of unity not dissension«, who
+bound together »in the fellowship of the one body« (Commentary on Matthew, 31r,
+l. 25–27). »He commanded the apostles to unite the church through this doctrine of
+
+64
+
+W. Peter Stephens
+
+The Church – Catholic and Holy
+
+There is a broad picture of the church in many of his works, but
+Bullinger’s view is presented most clearly and systematically in Se-
+cond Response to Cochlaeus, The Decades, and The Second Hel-
+vetic Confession.29 The Decades contains Bullinger’s most com-
+prehensive discussion of the church and it provides the most co-
+herent presentation of his view of the church.30 It is in a measure
+an exposition of the Apostles’ Creed, which he sees as »a compen-
+dium of scripture«.31 There is a brief consideration in the first
+decade and a more extended one in the fifth. Although his presen-
+tation reflects the words of the creed, the accents and emphases are
+Bullinger’s.
+
+He starts, as the creed, with the word »believe« and the distinc-
+tion between »believing« and »believing in«, before turning to the
+church as catholic and holy. »Believing in« belongs only to God
+and not to what is created. In the creed, the words »believing in«
+apply to the Holy Spirit and not to the church or to the other
+phrases, such as the forgiveness of sins. In support, Bullinger draws
+on Cyprian, Augustine, Paschasius, Leo, and Aquinas to demon-
+strate the difference between believing in God and believing the
+church.32 In The Christian Religion, »Believing the church« means
+that we are »incorporated into this holy church, have communion
+with God and all his saints, and that within it we share in the Holy
+Spirit and all the holiness, which he has granted to his church, and
+so we are also truly holy.«33
+
+unity (salvation in Christ) in one body and gather it together through the sacraments
+[...] so that they may be one in Christ and there may be no dissensions and sects in the
+church [...]« (Commentary on Matthew, 31v, l. 43–48).
+
+29 For Second Response to Cochlaeus, see HBBibl, no. 160. There is a brief, but
+comprehensive picture of the church in The Christian Religion (97–100), in effect a
+more popular version of The Decades.
+
+30 Much of the substance is adumbrated in his Second Response to Cochlaeus in
+
+1544.
+
+31 RB 2/2, 316.7; RC, 268.
+32 After citing Cyprian, who distinguishes the creator from what is created and what
+is divine from what is human, he quotes Paschasius’ words »we believe the church, as
+the mother of regeneration; we do not believe in the church, as the author of salvation.«
+(HBTS 3, 100.30–31, 101.1–2; Harding, vol. 1, 159).
+
+33 The Christian Religion, 98r, l. 18–25.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+65
+
+Bullinger generally uses »church« of the Christian church, but he
+can refer to a Jewish or Muslim church.34 Usually, however, he
+defines the church in terms of the faithful or the saints, but also
+occasionally in terms of the elect. (The words »believer« and
+»elect« are sometimes seemingly parallel terms in description of
+the church, as in Firm Foundation.)35 In the fifth decade, the
+church is described as »the company of the faithful calling on the
+name of the Lord« or »all the faithful [...] in heaven and on earth«,
+»fellow heirs with the saints from Adam to the end of the world«,
+and »the faithful and elect of God«.36 In the first decade Bullinger
+relates the church to faith, salvation, and the profession of Christ.
+He describes it as »the communion of all who profess the name of
+Christ«, »all the faithful«, and »all who are saved and shall be
+saved to the end of the world«.37
+
+Although the creed describes the church as holy and catholic.
+Bullinger begins with the word catholic, before giving a longer
+exposition of the church as holy. It is catholic in time – being both
+militant and triumphant. It extends across the ages, including those
+who lived before and after Christ, and embraces all the faithful
+from Adam himself to the last saint at the end of the world. It is
+also catholic or universal in space as well as time, and includes all
+particular churches, which are described as being »as it were mem-
+bers in one body under one head«.38 Already in his Comparison of
+Ancient and Contemporary Heresies in 1526 he has contrasted the
+
+34 The Christian Religion, 98v, l. 7–13.
+35 Firm Foundation (HBBibl, no. 426), 35r, l. 17–21.
+36 HBTS 3, 740.20–21, 741.5–6, 742.22–25. – The double description of the church
+in terms of faith and holiness is clearly expressed in the exposition of Matthew 16:18:
+»The church is the assembly of all the truly faithful, who, grafted by faith in Christ, are
+being sanctified by the Spirit, and who live by the Spirit of Christ and do works of
+righteousness, sincerity, and love.« (Commentary on Matthew, 157r, l. 17–19). In The
+Second Helvetic Confession, the church is described first as »an assembly of the faith-
+ful« and then, reflecting the creed, as »a communion of all the saints«, a term which
+essentially elaborates the word »faithful« with the amplification of »being sanctified by
+the blood of the Son« or »who truly know and rightly worship and serve the true God
+[...] and who by faith share the benefits freely offered«. Later, in the same chapter
+Bullinger refers to those who enjoy Christ in the church as »the elect«. (RB 2/2,
+310.14–18, 311.28–30; RC, 261, 266). The communion of saints is in effect »an ex-
+planation of what we understand by the church« (The Christian Religion, 100r,
+l. 26–28).
+
+37 HBTS 3, 101.21–22, 102.3–6; Harding, vol. 4, 161–162.
+
+66
+
+W. Peter Stephens
+
+character of the church as catholic or universal in space with the
+Donatist limiting of the church in Africa and the limiting of it to
+those linked to Rome by papal preachers.39
+
+In Questions of Religion, Bullinger discusses the question whe-
+ther the Roman church, as a local church, can be catholic or uni-
+versal.40 It is rather, he argues, that like other local churches, it is a
+member of the catholic church. It is also not catholic both because
+it is impure and because it lacks the signs of the true church. The
+word of truth is not only not preached in it, but it is forbidden and
+persecuted with sword and fire. It is new, and not the ancient
+Roman church.41
+
+The reference to the catholic church as triumphant and militant,
+leads to a discussion of the church as holy. Unlike the church
+triumphant, the church militant is mixed. (Strictly speaking only
+the elect and faithful are members of the church militant »joined to
+Christ not only with outward bands or marks but also in spirit and
+truth, and sometimes by these and not by bands or marks«.) Bul-
+linger distinguishes the visible church from the invisible church.
+Unlike God, we cannot judge who are elect and faithful. They are
+known or visible to him, but they are invisible or unknown to us,
+in the sense that we do not know what they are inwardly.42
+
+In the first decade, in a characteristically trinitarian way, Bullin-
+ger describes the church as holy, as it has been sanctified by God
+the Father in the blood of the Son and the gift of the Holy Spirit.
+The church is pure, not on its own account, but Christ’s. It is not
+perfect while here on earth, but its holiness is »most perfect in
+
+38 HBTS 3, 100.6–102.2; Harding, vol. 1, 158–162. Compare HBTS 3, 741.5–
+
+742.21; Harding, vol. 4, 5–7.
+
+39 Comparison of Ancient and Contemporary Heresies (HBBibl, no. 1), c2r,
+
+l. 20–26.
+
+40 For Bericht, wie die Verfolgten antworten sollen (abbreviated as Questions of
+Religion), see HBBibl, nos. 386–393. I quote from the text in Pestalozzi (HBBibl, no.
+391): Carl Pestalozzi, Heinrich Bullinger: Leben und ausgewählte Schriften. Nach hand-
+schriftlichen und gleichzeitigen Quellen, Elberfeld 1858, 526–549.
+
+41 Questions of Religion, 529–531.
+42 HBTS 3, 742.22–27, 748.5–14; Harding, vol. 4, 7, 17. – In The Second Helvetic
+Confession the terms visible and invisible are applied not only to an obviously visible
+church, as in Corinth, but to a situation in which the church seems to be extinct, as with
+the seven thousand unknown to Elijah, who had not worshipped Baal (RB 2/2,
+315.13–23; RC, 266–267).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+67
+
+Christ«, for it has been washed by the blood of Christ (cf. John
+13:10). This understanding of holiness is continued in Bullinger’s
+reference to the communion of saints which expresses our com-
+munion with God and with others, and »our sharing in good and
+heavenly things«.43
+
+The church is a mixed body, as we see in the parables of wheat
+and tares and good and bad fish. Bullinger recognizes, using the
+examples of David and Peter, that holy people can fall, but that,
+unlike Judas, who also fell,44 they do not totally forsake Christ. We
+cannot tell which is which, for we can judge only the outward
+appearance and not the inward reality. It is here that Bullinger and
+Anabaptists differ.45
+
+In the fifth decade, Bullinger discusses this issue in examining
+whether the church may err. He argues that the church trium-
+phant, unlike the church militant, can never err. The church mili-
+tant, however, which includes the good and faithful and the evil
+and hypocrites, both errs and does not err in life and doctrine.46
+The church does not err in doctrine and faith, »for it hears only the
+voice of the Shepherd«. Based on the foundation of the prophets
+and apostles, the church can be described as the pillar and ground
+of the truth. It errs, however, when »it turns from Christ and his
+word«. The Old Testament shows that the church can and does
+
+43 HBTS 3, 102.6–33; Harding, vol. 1, 162–163. – For Opitz, Heinrich Bullinger als
+
+Theologe, 419, the church is essentially the communion of the saints.
+
+44 In The Second Helvetic Confession he gives examples not only of Christians who
+fail, as Peter, but also of churches in which there are serious offences, as in Galatia and
+Corinth (RB 2/2, 315.9–13; RC, 266).
+
+45 HBTS 3, 745.35–746.17, 747.5–12, 747.36–748.5; Harding, vol. 4, 13–17.
+46 Bullinger discusses the issue in The Origin of Error (HBBibl, no. 10), d1r, l. 18 –
+d1v, l. 4. In response to those who say that the church cannot err, Bullinger states that
+the sheep who hear the voice of the shepherd belong to the Lord’s sheepfold (d1r,
+l. 18–24). (The importance of »hearing the shepherd’s voice« is evident in its constant
+use by Bullinger.) In The Authority of the Bible in replying to Cochlaeus, Bullinger
+challenges the view that the church without qualification cannot err, affirming that the
+church cannot err only as it is governed by the rule of canonical scripture which is
+inspired by the Holy Spirit (HBTS 4, 87.9–10, 88.25–27, 89.22–25). He also gives
+examples from the Old Testament of the church’s erring by abandoning the light of
+God’s word, which happens despite God’s promises to dwell in them and be their God
+(HBTS 4, 91.27–92.21). Compare Second Response to Cochlaeus, 8v, l. 30– 9r, l. 40. In
+The Second Helvetic Confession he expresses this succintly. The church »does not err as
+long as it rests upon the rock Christ, and upon the foundation of the prophets and
+apostles«. (RB 2/2, 311.27–28; RC, 263).
+
+68
+
+W. Peter Stephens
+
+err, when a part of it, having lost God’s word, errs; it does not err
+altogether, inasmuch as some remnants are preserved by the grace
+of God, by whom the truth may flourish again [...]«. Paul could
+describe the churches of Corinth and Galatia, despite their failings,
+as »the holy churches of God«.
+
+The church on earth errs in life, as it will never be free of sin. It
+will always have to pray »Forgive us our trespasses«. For Bullin-
+ger, there neither is nor will be any church on earth that is »with-
+out blemish«. At the same time the church, which has blemishes,
+can be described as pure, as without spot or wrinkle, because of
+God’s mercy and forgiveness (Galatians 3:22); for on account of
+Christ’s innocence such spots are not imputed to those who em-
+brace Christ by faith. The church strives to have as few spots as
+possible, but it is »chiefly by the benefit of imputation« that the
+church is without spot or wrinkle.47 The mixed character of the
+church militant raises the question of whether and, if so, how we
+can recognize such a mixed body as the church.
+
+The Marks of the Church
+
+There are two principal outward marks by which we may know
+the church militant: the sincere preaching of the word of God and
+the lawful partaking of the sacraments of Christ.48 Bullinger sees
+Matthew 28:19, Ephesians 5:25–26, and Acts 2:38 as evidence
+that the New Testament regards word and sacrament as the means
+
+47 HBTS 3, 759.4–760.8, 760.27–33; Harding, vol. 4, 35–38.
+48 Bullinger notes that some add to word and sacrament: »zeal for godliness and
+unity, patience in suffering (in cruce), and calling on the name of God through Christ«,
+but he regards them as included in the others. He observes that in Acts 2:42 zeal for
+unity and love and calling on the name of God are with the eucharist joined to the
+sacrament of baptism, mentioned in other places (HBTS 3, 748.17–19, 748.37–749.1;
+Harding, vol. 4, 17–18). The church’s suffering and the reasons for it are considered at
+length in Persecution (HBBibl, no. 575) in 1573. His Sermons on the Apocalypse was
+written for churches suffering persecution. He maintains that the true church always
+has been, is, and shall be subject to adversity and persecution. Bullinger uses the
+teaching of Jesus and the Book of Revelation both to show that suffering was pro-
+phesied and to offer consolation (a2r, l. 28 – a2v, l. 4, a5v, l. 6–29, b3v, l. 19 – b4r,
+l. 30). Suffering and indeed persecution are seen to be marks of the church throughout
+Bullinger’s ministry, for example, in The Testament, 38v, l. 12 – 41v, l. 17.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+69
+
+Christ uses to establish a church and with further biblical testi-
+monies he maintains that word and sacrament are outward marks
+of the church. »For these bring us into the society of the ecclesial
+body and keep us in it.«49
+
+In giving these traditional outward marks of the church, Bullin-
+ger does not exclude from the church all those without them. »For
+there are undoubtedly many in the world who do not hear the
+ordinary preaching of God’s word, who do not come into the com-
+pany of those who call on God, and who do not receive the sac-
+raments.« Bullinger is not referring to those who despise these
+things, but those, such as the sick or imprisoned, who cannot have
+the word and sacrament that they desire. After citing the biblical
+precedent of the exile in Babylon, he also includes those, for ex-
+ample, in Persia and Arabia, who are deprived by Muslim ungod-
+liness and cruelty. They are joined in the same spirit and the same
+faith with those who have the visible signs.50 In The Second Hel-
+vetic Confession, Bullinger maintains that the church is not bound
+by its signs, so that those who do not share in the sacraments are
+outside the church. This was true in the Old Testament of those in
+exile in Babylon who were deprived of their sacrifices for seventy
+years.51
+
+For Bullinger, however, it is not sufficient to state that word and
+sacrament are marks of the church, as the Arians had the word,
+but used it contrary to »the sense of scripture and the orthodox
+faith or the articles of the faith«. (Arians had the adulterated word,
+not the pure or sincere word of God.) Similarly, those who have
+the sacraments must use them lawfully, unlike Jeroboam. He did
+not sacrifice lawfully and was regarded as having defected from
+the true church. However, if heretics administer baptism in the
+threefold name to the catholic faith and not to error, it is »not the
+baptism of heretics but the baptism of the church«. Nevertheless,
+that does not make heretics the true church.52
+
+49 HBTS 3, 748.16–17, 19–23, 28–34, 749.1–2, 17–19; Harding, vol. 4, 17–19.
+50 HBTS 3, 749.28–34, 750.8–17; Harding, vol. 4, 19–21.
+51 RB 2/2, 315.1–9; RC, 266.
+52 HBTS 3, 750.17–20, 23–36, 751.1–3, 6–11; Harding, vol. 4, 21–23. – In his
+exposition of Acts 2, Bullinger states that »the true, ancient and apostolic church« is the
+church which has scriptural teaching in which evil is challenged and penitence and the
+remission of sins are preached. He adds that we »do not doubt the church of Christ to
+
+70
+
+W. Peter Stephens
+
+There are also inward marks of the church.53 Unlike the outward
+marks which characterize the church militant with its mixture of
+believers and hypocrites, the inward marks belong only to the god-
+ly. They make the outward marks fruitful and they make people
+acceptable and pleasing to God where, by some necessity, the out-
+ward signs are missing. »They are the communion of the Spirit of
+the Lord, sincere faith, and twofold love.« (Later, he says that by
+these we can easily tell whether or not someone is »in the fellow-
+ship of the church«.) They unite the faithful to Christ the head and
+to the other members of the church. The New Testament teaches
+that »Christ is joined to us by his Spirit and we are bound to him
+by faith, so that he lives in us and we in him«. Christ gives us his
+Spirit and by the Spirit people »burn with the love of God«.54
+
+The word is a mark of the church, as it is from the word of God
+that the church is born and indeed built up and preserved. Bullin-
+ger supports this with a range of New Testament testimonies, such
+as »for faith comes by hearing and hearing by the word of God«
+(Romans 10:17), and it is by faith that we are made true members
+of Christ and his church. Bullinger contrasts this with the Roman
+view which, in effect by the role it gives to human decrees and
+doctrines, sets up a human church rather than the Christian church
+which is founded by Christ’s word. It is for this reason that God
+
+be« where we see baptism and the eucharist, prayer, fellowship, and love. (Commentary
+on Acts [HBBibl, no. 43], 37v, l. 8–20). He then contrasts these with their corrupt
+forms in the Church of Rome. Fast, Heinrich Bullinger und die Täufer, 143, is therefore
+mistaken in seeing Bullinger as moving towards the Anabaptists in 1560, where, besides
+referring to word and sacrament, he mentions prayer and love. He has stated this
+already in 1533 in his commentary on Acts.
+
+53 In The Christian Religion Bullinger gives a concentrated exposition of the church
+in the context of the creed (97v–100v). Perhaps for that reason, in mentioning the
+inward and outward marks of the church, he mentions the fellowship of the Spirit
+before the word through which it becomes the church. Although Bullinger often repeats
+what he has said in other works, he frequently includes new elements. Here the church
+is described as living in the fear of God, in love and unity with all people, particularly its
+fellow members and serving God with patience in suffering. These are given with pe-
+nitence and amendment of life as signs of the church which one finds in Acts. (98v,
+l. 20 – 99r, l. 10).
+
+54 HBTS 3, 751.22–28, 32–35, 752.25–26, 753.27–28; Harding, vol. 4, 23–24, 26. –
+Faith, in the sense of trust in God’s mercy and the outward confession of faith, unites us
+to each other as well as to Christ (HBTS 3, 752.30–39).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+71
+
+has given teachers »to found, build, maintain, and enlarge his
+church by his word, his word alone«.55
+
+In The Second Helvetic Confession he emphasizes the word as
+the mark of the church, saying that the true church has »the signs
+or marks of the true church«, »especially the lawful and sincere
+preaching of the word of God as it was delivered to us in the book
+of the prophets and the apostles which all lead us to Christ«, who
+said in the gospel, »My sheep hear my voice [...]« (John 10:5, 27,
+28). This is followed by a passage in which he mentions partici-
+pation »in the sacraments, instituted by Christ, delivered to us by
+the apostles« and »used in no other way than as they received
+them from the Lord«. He mentions these, however, in the midst of
+several inward marks such as love. The word is, no doubt, em-
+phasized as it leads to the true worship of the one God, and the
+seeking of salvation in Christ alone as mediator, intercessor, and
+head of the church.56
+
+In the light of these two marks, Bullinger rejects the papal view
+that »they have a most certain mark of the apostolic church in the
+continued succession of bishops coming from St Peter [...] to Julius
+III [...]« Bullinger does not deny that »the sure succession of pas-
+tors in the primitive church was of great weight«, but argues that
+since the time of Gregory the Great the larger part of the bishops
+have not been true shepherds but devouring wolves, as Zechariah
+prophesied (Zechariah 11:15–17). Succession does not guarantee
+that a church is apostolic. An apostolic church is one which pre-
+serves the apostles’ teaching through which the church »is preser-
+ved and will be spread till the end of the world«. Bullinger sup-
+ports this by observing that the true prophets of God in the Old
+Testament did not stand in a continual succession of priests and yet
+those believing them are held to be the true church. Furthermore,
+Christ was opposed by those who were supported by the succes-
+sion of high priests (pontifices),57 and yet they were not regarded as
+the true church; and the apostles also could not appeal to a suc-
+cession of high priests, »and yet the church gathered by them is
+
+55 HBTS 3, 753.34–36, 754.1–6, 23–25, 755.4–6; Harding, vol. 4, 26–28.
+56 RB 2/2, 314.1–20; RC, 265.
+57 The word »pontifex« is used for high priests as well as for popes. See, for exam-
+
+ple, Commentary on Luke (HBBibl, no. 173), 128r, l. 39–42 and 130v, l. 32–38.
+
+72
+
+W. Peter Stephens
+
+recognized by everyone to be the true and holy church«. Charac-
+teristically, by reference to Tertullian, Bullinger draws on patristic
+as well as biblical testimony in support of the apostolicity of chur-
+ches which do not have a succession of bishops, but whose
+teaching is that of the apostles.58
+
+In Questions of Religion, Bullinger responds to the question
+how one can recognise the true Christian church. He does not
+answer by giving the external and internal marks but combines
+them in a distinctive way. With biblical references he states that we
+recognize it »primarily by true faith and the pure word of God, by
+love and innocence and the amendment of life and by the constant
+and patient calling on the name of God«. He then adds the sac-
+raments which are, however, not present in some situations – and
+that is why he has given first place to the others.59 He rejects the
+papal view that one can recognize the true church by the succes-
+sion of bishops, as can be seen by the succession of high priests in
+the Old Testament. It is conformity with the teaching of the apost-
+les which makes the church apostolic. Acts 20 warns that some of
+those succeeding the apostles would be wolves.60
+
+In The Second Helvetic Confession Bullinger rejects unity and
+antiquity, as well as the succession of bishops, as marks of the
+church. He does not there elaborate antiquity. Unity refers to the
+charge that the evangelicals were divided, unlike the Roman
+Church with its one head, the pope. Bullinger replies by pointing to
+the Roman church’s »sects, contentions, and quarrels«. He em-
+phasizes that there was no disorder in the church before there was
+a pope and that »God was in the apostolic church and that it was a
+true church, even though there were disputes and dissensions in
+it«. Moreover, the »most distinguished doctors of the church have
+differed among themselves on important matters [...] without the
+church’s ceasing to be the church«.61
+
+58 HBTS 3, 755.8–10, 16–20, 755.33–756.2, 756.9–22, 756.38–757.3; Harding,
+
+vol. 4, 28–32.
+
+59 Questions of Religion, 526–527.
+60 Questions of Religion, 526–529.
+61 RB 2/2, 313.1–5, 9–24, 314.20–23; RC, 264–265.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+73
+
+The Church as One
+
+In a separate sermon Bullinger describes the church as one, a word
+not used in the Apostles’ Creed. The church is one in the senses he
+has already stated – before Christ and after Christ, on earth and in
+heaven.62 After two brief biblical references, Bullinger draws on
+Cyprian and Lactantius to argue his case for the church as one,
+even when it spreads throughout the world. It is like a tree with
+many branches or a spring with many streams. Indeed, the church
+is called catholic or universal, because all these members are united
+perpetually in one body under one head Christ. The church is one:
+both the church militant and the church triumphant and the
+church before Christ’s coming and the church after his coming.
+Drawing on Augustine, he argues that the fact that the church is
+mixed does not make two churches any more than having traitors
+and true citizens in a nation makes two nations. Therefore when
+people depart from the church they do not destroy its unity, but
+leave it purer. He cites Cyprian and Lactantius to support his view
+that there is no salvation and no people acceptable to God outside
+the church. »Whoever is separated from the church is joined to an
+adulteress.«63
+
+Bullinger does not, as elsewhere, discuss why there is only one
+church. In Perfection the unity of the church derives from there
+being »one God, one saviour, one faith, one baptism«.64 In The
+Second Helvetic Confession he gives a comprehensive account of
+why there is one church: »And since there is always one God, and
+
+62 The sense of the church as one is expressed in part in various ways and contexts in
+his early writings. There is one church before and after Christ as there is one covenant.
+In Reply to Burchard the covenant is one and eternal, and so »we and the ancients
+before Christ are one people, one church, with one God, covenant, and faith« (HBTS 2,
+151.31–33). The constant affirmation that there is one church before and after Christ is
+related, but not limited to Bullinger’s understanding of the covenant. In 1525 in a reply
+to Bullinger, Leo Jud cites Lactantius’ reference to »one church of those before and
+those after Christ who are saved by the one Christ« (HBBW 1, 81.19–22; cf. HBTS 2,
+78.27–79.7).
+
+63 HBTS 3, 767.26–769.24; Harding, vol. 4, 49–52. – There is a possible qualifi-
+cation in The Second Helvetic Confession in the words »no certain salvation«. It states
+that »as there was no salvation outside Noah’s ark [...] so, there is no certain salvation
+outside Christ« (RB 2/2, 314.26–31; RC, 266).
+
+64 Perfection, 59.12–14.
+
+74
+
+W. Peter Stephens
+
+one mediator between God and people, Jesus the Messiah, and one
+shepherd of the whole flock, one head of this body, and, to con-
+clude, one Spirit, one salvation, one faith, one testament or cove-
+nant, it necessarily follows that there is only one church.«65 He
+expresses this more succintly in Two Sermons where he states that
+the unity of the church is from God and disunity from the devil.66
+The fact that there are two people (Jews and Gentiles) and two
+Testaments (Old and New) does not make two churches, any more
+than the fact that there is a church militant (with many particular
+churches) and a church triumphant. »There is salvation in one
+Messiah, in whom they are united as members of one body under
+one head, in the same faith, and sharing in the same spiritual food
+and drink.« As the body of Christ they all receive life from Christ,
+the head.67
+
+There is an extended discussion of the unity of the church in
+Questions of Religion, written by Bullinger to help those who are
+persecuted to answer questions put to them. It is part of his answer
+to questions whether there is salvation outside the Roman church
+and whether those who intentionally separate from it are to be
+regarded as heretics and apostates. He maintains that in German
+and Hebrew the word heretic is related to separation and that in
+Latin it is expounded similarly by the word sect. Where separation
+or heresy occurs there must have been unity. In the light of Mat-
+thew 10:34–35 and the separation of the apostles from Judaism,
+Bullinger holds that there can be a false unity. He is concerned,
+however, to examine true unity. »As there is one God, one world,
+one Son and so on, so there is only one divine truth, only one true
+Christian faith and only one universal Christian church, in which
+all believers obey and adhere to the divine truth alone, love the one
+true God with all their heart and soul and strength, adore, invoke,
+and worship him alone.« Bullinger expounds this further in terms
+of Christ as the only saviour in whom there is fullness or perfec-
+tion. Believers »have everything in Christ alone and need and de-
+
+65 RB 2/2, 310.25–29; RC, 262. – The unity of the church in The Christian Religion
+is related to the one God, Father, Son, and Holy Spirit (100r, l. 17–21). In The Insti-
+tution of the Eucharist, it is related to the Spirit (HBTS 2, 102.11–12).
+
+66 Two Sermons (HBBibl, no. 582), 27r, l. 25 – 27v, l. 10.
+67 RB 2/2, 311.3–6, 11–12, 14–19, 312.3–5; RC, 262–263.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+75
+
+sire nothing more«. They trust »in the Father alone, through Jesus
+Christ, God’s Son, in the power of the Holy Spirit«. Through the
+sacraments they pledge themselves to God and his church and
+serve one another in love.68
+
+The church in the Old Testament was also one. God gave one
+law, one covenant, one temple, one sacrifice, one priesthood.
+Moreover, they had their sacraments which »served this unity, so
+that they were one people under one God and one faith«. Bullinger
+maintains that Jeroboam divided the one and only congregation,
+withdrawing the ten tribes from the one temple and sacrifice, and
+from the prescribed worship, and following his own pleasure he
+built two churches or temples, with idols. After him came Ahab
+who led them even further from unity. A comparable disunity oc-
+curred in the early church as people, for example, rejected doc-
+trines such as the trinity and asserted human merit against divine
+grace. Bullinger compares this with the Roman church’s preferring
+its own views to God’s word, invoking created things and not God
+alone, and denying that salvation is in Christ alone. The reformers
+would have been heretics and dividers of the church if they had
+done these things, but in fact they have been engaged in restoring
+»the ancient and first simplicity and unity of the true faith and of
+the true Christian and apostolic church«. This led them to leave
+the Roman church, but not the ancient Roman church.69
+
+from the church. Anabaptists
+
+Bullinger’s emphasis on the unity of the church presents him
+with a double challenge: to convict the Anabaptists for separating
+from the church, while defending the apparent separation of evan-
+gelicals
+separate because the
+church’s life and teaching are not pure, its discipline is not strict
+enough, and its ministers are marred by faults and vices.70 These
+are wrong reasons for separating. They lead Bullinger to outline
+the right and the wrong reasons for separation from the church in
+relation to the teaching, life, and discipline of the church.
+
+Bullinger allows that one may separate where the teaching of an
+immutable doctrine of the church is at stake, such as the doctrines
+of the creed and the doctrines of salvation, for example, justifica-
+
+68 Questions of Religion, 535–537.
+69 Questions of Religion, 537–539.
+70 HBTS 3, 769.36–770.4; Harding, vol. 4, 52–53.
+
+76
+
+W. Peter Stephens
+
+tion by faith. When, however, the scriptures are expounded and
+applied, what is fundamental is that nothing is said »contrary to
+the truth of the faith or the love of God and our neighbours«.
+Bullinger maintains that there will be diversity in interpretation,
+but such diversity is not a reason for separation.71 Moreover, fol-
+lowing Augustine, Bullinger argues that even if someone errs gross-
+ly in interpretation, one may admonish the person, but still not
+separate from the church. Similarly, applying Christ’s word in
+Matthew 23:2–3, Bullinger states that a minister’s life is not a
+ground for separation, while the minister teaches faithfully and
+distributes the two sacraments lawfully. It is different if a minister
+does not teach the faith rightly. Christ commands us to flee from
+false prophets, which means from false doctrine, not from evil life.
+There are two other matters which do not justify separation: di-
+versity in ceremonies and impurity in members’ lives, which pol-
+lutes other people. Bullinger maintains that there has always been
+diversity in ceremonies and quotes Socrates, Irenaeus, and Augus-
+tine to show that in the early church there was unity despite great
+diversity,72 and that Paul in the case of Corinth and Jesus himself
+with Judas did not regard a person’s evil life as a reason for se-
+parating from the church. Typically Bullinger concludes his case by
+combining scripture and the early church. He quotes Cyprian’s
+charging those who judge in this way with usurping the role which
+the Father has given to the Son.73
+
+Bullinger has to defend his understanding of the church in two
+directions: against »defenders of the Roman monarchy« and
+against Anabaptists. He is charged by the former of a crime similar
+to the one he condemns in the latter. Their charge is of having
+deserted the old Roman church in which scripture has authority
+
+71 Bullinger distinguishes what Paul commands in 2 Thessalonians 3:6 from what
+the Anabaptists do, for they in separating from the church set up a private church
+(Commentary on 2 Thessalonians [HBBibl, no. 81], 85r, l. 13–17).
+
+72 This is expressed rather differently in The Second Helvetic Confession which
+states both that diversity in rites does not dissolve the unity of the church and that unity
+does not lie in rites and ceremonies but in the truth and unity of the catholic faith (RB
+2/2, 316.3–13, RC, 267–268). There are differences between the church in the Old
+Testament and the church in the New, but they are parts of the one church. Therefore
+many differences, for example, in ceremonies, can exist without division.
+
+73 HBTS 3, 770.12–17, 771.7–9, 27–29, 771.37–772.2, 772.9–11, 13–14, 27–28,
+
+32–34, 773.7–8, 18–20, 774.1–2, 14–16, 775.13–16; Harding, vol. 4, 53–62.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+77
+
+and the sacraments have their place, simply because of the faults of
+some of the bishops and priests. This leads Bullinger to define
+heretics and schismatics and to argue that evangelicals are nei-
+ther.74
+
+Following Augustine, he relates heretics to doctrine and schis-
+matics to separation. Heretics are further described as advancing
+and spreading strange views, contrary to scripture, the articles of
+faith, and doctrines based on God’s word. Bullinger defines what it
+is to be Christian and catholic in terms of the imperial edict as
+continuing the religion (concerning the trinity) that St Peter taught
+at Rome and which Damasus and Peter of Alexandria also taught.
+In describing schismatics, Bullinger adds the gathering and joining
+of other congregations to the fundamental idea of separation. Bul-
+linger insists that it is because of their fidelity to scripture and the
+councils of the church, that evangelicals reject the pope’s false
+teaching and his new unscriptural decrees, as well as papal abuses
+and corruption. »We flee and reject their tyranny and anti-Chris-
+tianity, but we do not reject Christ and his yoke, nor flee the
+fellowship of the saints.« »Escaping from the papal church we are
+gathered into the one, holy, catholic, and apostolic church.«75 In
+writing on the papal bull against Elizabeth, he maintains that to be
+true catholics people must leave the Roman church which has de-
+parted from the faith and practice of the apostolic and primitive
+church and join evangelicals who are true catholics.76
+
+Bullinger distinguishes the old apostolic Roman church, to
+which his opponents appeal, from the present Roman church. He
+identifies with the former, but rejects the latter. He does not re-
+cognize this church, which »acknowledges and worships the pope
+as Christ’s vicar on earth and obeys his laws, to be the true church
+of Christ«. At the same time he judges that there are many in that
+church »who worship Christ and have kept themselves free from
+papal pollution«. Despite its claims this new Roman church does
+
+74 HBTS 3, 775.20–35; Harding, vol. 4, 62–63.
+75 HBTS 3, 775.35–776.15, 776.18–20, 28–35; Harding, vol. 4, 63–65. – In the
+preface to Commentary on Luke, Bullinger maintains that those who believe that Christ
+is the head of the church shrink from the pope (AA4v, l. 24–25). He later states, »The
+faith of Peter and the faith of the pope, the teaching of Peter and the teaching of the
+pope are diametrically opposed.« (128r, l. 39–40).
+
+76 A Confutation of the Pope’s Bull (HBBibl, no. 562), 52r, l. 16 – 53v, l. 3.
+
+78
+
+W. Peter Stephens
+
+not have the outward or inward marks of the church. Indeed, it
+cannot be tolerated as one tolerates hypocrites and evil people in
+the church, because »the Romanists are the worst and most cruel
+enemies of Christ’s truth, openly blaspheming the gospel and per-
+secuting believers in Christ«. They subject the bible and its inter-
+pretation to the pope, so that they reject as heretics those who, like
+scripture, call Christ the only head of the church, unless they add
+the pope to be the head of the church on earth.77 Bullinger main-
+tains that this and other examples show that the Roman church is
+destitute of the word of God and therefore »is not the true church
+of Christ«. He also rejects Roman administration of the Lord’s
+Supper, but not their administration of baptism. Therefore in his
+judgement the Roman church lacks both the outward and inward
+marks of the church.78
+
+It is fundamental for Bullinger that the church of God has ex-
+isted from the beginning and does not cease when leaders of the
+church, as in the church of Rome, prove faithless. He argues this
+with five examples from the Old Testament, when word and sac-
+rament, the outward signs of the church, were suppressed. At these
+times God sent prophets, such as Elijah, who spoke his word, al-
+though they were not acknowledged by the leaders. God also had a
+remnant who remained faithful, such as the seven thousand who
+had not bowed the knee to Baal. This faithful remnant might be
+unknown to others, as the seven thousand were unknown to Eli-
+jah. However, despite the suppression of word and sacrament, they
+partook of all the gifts of God through faith.79
+
+With these biblical precedents, Bullinger is able to argue that
+God has a church on earth, although the Roman church is not the
+church. Everywhere there have been some who have »acknowl-
+edged Christ the Lord to be the only author of salvation«. More-
+
+77 Bullinger gives further examples of where Rome calls heretics those who hold
+what scripture teaches (HBTS 3, 785.10–13; Harding, vol. 4, 68). Generally Bullinger
+simply contrasts the pope’s claiming to be head of the church with Christ’s being the
+only head of the church, which is his body. But he also rejects the view that the pope
+saves the church from disorder. For Bullinger, the government of the church handed
+down by the apostles maintained order in the early church (RB 2/2, 313.1–8; RC, 264).
+78 HBTS 3, 777.4–5, 10–15, 24–27, 778.1–2, 18–20, 779.3–4, 7–8; Harding,
+
+vol. 4, 65–69.
+
+79 HBTS 3, 779.19–21, 780.15–781.1; Harding, vol. 4, 69–72.
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+79
+
+over, in almost every age, God has sent »godly and learned men«
+»who challenge the tyranny of the pope, demanding the purging of
+the church from papal corruptions, and teaching the true doctrine
+of salvation and the true use of the sacraments«. Nevertheless, the
+pope condemned, excommunicated, and even killed those »who
+preached the word of God and demanded the reformation of the
+church«. (This opposition was, indeed, foretold by Christ and by
+the prophets and apostles.) However, people could still be saved in
+this unreformed church, because, for example, the Apostles’ Creed
+(»the most perfect rule of saving faith«) was recited to the dying.
+Moreover, God, who saved the thief on the cross, would undoub-
+tedly have mercy on those oppressed by anti-Christ and teach them
+by the Holy Spirit.80 Bullinger supports the reformation of the
+church of his day, by reference to biblical and especially apostolic
+precedent, arguing indeed for a reformation in the likeness of the
+apostolic church.81 At the same time, however, he defends with-
+drawal from the church.
+
+In his letter to Edward VI, Bullinger rejoices at »the renovation
+of religion« in England and argues that there is no need to wait for
+a general council to reform the church. His case is negative (the
+precedent of medieval councils) and positive (the example of Josiah
+and the early church). He describes medieval councils as having led
+to superstition and error in doctrine and corruption rather than to
+amendment or reformation in the church, as they did not accept
+the authority of God’s word. In particular he attacks the role of
+Rome which ultimately determines the councils’ outcome. In any
+council it called, Rome would rather that the gospel, along with
+Christ and the true church, perished than forgo its decrees, rites,
+authority , or wealth. By contrast Josiah called a council of princes
+and priests and did not refer the judgement to the high priest, but
+submitted himself to the law of God without paying any regard to
+ancient custom. He defends the calling of in effect a local council
+by the precedent of the early church, with its provincial councils,
+and in particular of Cyprian. They dealt with matters of faith and
+
+80 HBTS 3, 781.13–21, 27–31, 782.16–20; Harding, vol. 4, 72–74.
+81 HBTS 3, 783.19–25; Harding, vol. 4, 76.
+
+80
+
+W. Peter Stephens
+
+the reformation of the churches and, moreover, made no mention
+of the Bishop of Rome.82
+
+Bullinger defends the withdrawal of evangelicals from the Ro-
+man church as »lawful and necessary« for salvation. He cites the
+words of Christ and the apostles »to flee from anti-Christ, idola-
+try, and false prophets«. He contrasts this with other types of with-
+drawal, such as apostasy, schism, and heresy. He gives examples of
+each of them, citing apostates, such as Julian, schismatics, such as
+the Donatists, and heretics, such as Arius. The evangelical with-
+drawal is »not from the true, but from the false church«. It is »not
+from the people of God, but from the persecutors of God’s peo-
+ple«. It is »not from the articles of the faith and the sound doctrine
+of the church , but from errors which obscure« them. It is »not for
+innovation [...] but for the recovery of the true faith«. It is leaving
+the fellowship of darkness to be »with Christ, the true light«, for-
+saking the false doctrine of Rome »for the doctrine of the gospel
+and the apostles, and for Christ the head of the church«.83
+
+Unity was a pastoral as well as a theological issue, as is evident
+in Firm Foundation. Its extended title indicates that it was written
+to inform and console simple Christians at a time when there were
+many divisions and when scholars were in conflict. He argues that
+Christ and the apostles prophesied discord in matters of the faith
+and that there were divisions between the Roman and evangelical
+churches and even among evangelicals, leading to the names Lu-
+theran and Zwinglian.84 There were, however, disputes also in the
+early church about the faith.85
+
+Bullinger faces the challenge of those who hold that as God is a
+God of peace and not of discord and as there is discord among
+evangelicals, evangelicals are not a church and their teaching and
+faith are false. Bullinger responds by distinguishing between »the
+necessary chief points« of the faith and »the teaching and articles
+on which people’s salvation does not primarily depend«. He holds
+
+82 HBTS 3, 557–561; Harding, vol. 3, 115–122.
+83 HBTS 3, 783.25–29, 784.13–785.9; Harding, vol. 4, 76–78.
+84 Firm Foundation, 1r, l. 11– 1v, l. 20. – Bullinger maintains that there are divisions
+
+in the Roman churches, for example, between Thomists and Scotists (5r, l. 25–29).
+
+85 Firm Foundation, 4r, l. 22 – 4v, l. 12. – Bullinger notes that Clement of Alexan-
+dria records that Jews accused Christians of being divided and therefore wrong, where-
+as Jews were united (4r, l. 22–27).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+81
+
+that all true believers are agreed on the chief articles or given a
+little time will be.86 Bullinger employs a variety of defence from
+analogies, such as the unity of a married couple who disagree on
+some household matters. He outlines a series of divisions in the
+New Testament, such as those between Paul and Peter, and Paul
+and Barnabas, and those among Christians in Corinth; and also
+divisions in the early church between many of the fathers.87 Bullin-
+ger does not regard discord as good nor does he seek to defend it.88
+He gives examples from the early church to offer consolation to
+simple, godly people, who are troubled by the disputes among
+theologians. He exhorts them to pray God to bring peace and
+unity, as he did in the past. Besides praying, they should turn their
+gaze away from the disputes and not let contradictory opinions
+turn them from Christ.89
+
+Images of the Church
+
+In presenting particular doctrines, Bullinger often expounds some
+of the biblical terms used of them.90 He does this with the church,
+with images such as house, vine, and body.91 These images show
+his high doctrine of the church in the intimate way they relate God
+to the church. God builds the church, though he also uses people
+to help in the building. Christ is its foundation, and also its cor-
+nerstone. Perhaps most important is his maintaining that »just as a
+
+86 Firm Foundation, 5v, l. 14 – 6r, l. 12.
+87 Firm Foundation, 6v, l. 1 – 9v, l. 24.
+88 In The Second Helvetic Confession, he adds the Pauline reason for dissension in
+the church: »It pleases God to use dissensions in the church to the glory of his name, to
+illustrate the truth, and so that those who are in the right may be manifest« (RB 2/2,
+313.24–26; RC, 265).
+
+89 Firm Foundation, 10r, l. 1 – 10v, l. 17.
+90 Büsser, Die Stadt auf dem Berg, 31–32, draws attention to the medieval character
+of Bullinger’s use of a variety of biblical images for the church. He observes that Calvin
+used only two images of the church (as body of Christ and mother) compared with
+Bullinger’s use of several.
+
+91 Bullinger uses the word parable (HBTS 3, 785.10–13; Harding, vol. 4, 68). The
+order of the images varies. In The Second Helvetic Confession, it is temple or house,
+bride, flock, and body (RB 2/2, 311.23–312.2; RC, 263). In The Christian Religion, it is
+sheepfold, body, bride, house, and pillar (99v, l. 2–29).
+
+82
+
+W. Peter Stephens
+
+house is dwelt in by people, so God dwells in the church«.92 Some
+of these images, such as the body, are directly related to Christ. But
+some which are not as directly related to him, such as the house
+and the temple are expounded in relation to Christ. Thus Christ is
+the foundation of the house, and he is related to the temple as the
+pillars upholding it and the entrance into it.93 The image of the
+vine and branches abiding in each other is directly related to
+Christ, as is that of the body, of which Christ is the head.94 The
+body has its life from the head, and without the head the body is
+dead. Moreover, the head is joined to the members through grace
+and the Spirit. Through the Spirit he is always present, and so he
+has no need of a vicar. »Where, therefore, a vicar of Christ is
+acknowledged, no Christ is there, and therefore anti-Christ reigns
+in that place.«95
+
+The image of marriage has a similar force.96 In the union of
+Christ and his church, which as a pure virgin, loves him alone,
+there is a sharing. He takes believers’ weakness, sin, and death and
+gives his justification, sanctification, and life, so that they may be
+
+92 HBTS 3, 785.30–33, 786.5–6, 9, 787.28–29; Harding, vol. 4, 79–80, 82. – In
+commenting on the kingdom of heaven in 3:1, Bullinger states, »For the church is the
+house of the living God, the temple of the Holy Spirit, in which God lives and reigns.«
+(Commentary on Matthew, 27r, l. 49–50).
+
+93 HBTS 3, 786.9–787.12, 787.23–31; Harding, vol. 4, 80–83.
+94 The figure of the body and head as well as that of the foundation of the church
+are used against the Church of Rome and the role of the pope. Bullinger also contrasts
+the papal view of »Roman monarchy« with Christ’s vision of servant leadership and his
+refusal of a crown, supporting this with Jerome’s regarding bishops and elders as equal.
+The image of shepherd and sheepfold points to Christ as the only shepherd of the
+universal church. He commits to Peter ministry and not sovereignty and Peter reminds
+his fellow elders that they are examples to the flock, not lords over it. Bullinger then
+quotes Gregory’s rejection of the title of universal pastor, which belongs to Christ, but
+which is claimed by the pope: »whoever calls himself universal priest is a forerunner of
+anti-Christ«. (HBTS 3, 789.13–790.6, 790.20–792.10; Harding, vol. 4, 85–89).
+
+95 HBTS 3, 788.36–789.1, 789.7–8, 11–16; Harding, vol. 4, 84–85.
+96 Already in his Reply to Burchard, Bullinger uses the image of the church as the
+bride of Christ (HBTS 2, 147.25–26). Selderhuis, Kirche, 520–523, emphasizes the
+eschatological dimension in the presentation of the church in Sermons on the Apoca-
+lypse. This is related of course to the text of the Apocalypse. In it the image of the
+marriage of the church to Christ with the need for us to prepare to meet the bridegroom
+gives an eschatalogical accent to Bullinger’s use of this image. Indeed our whole life is
+spent preparing for this (Sermons on the Apocalypse, 252.32–34; English translation
+565). The eschatological dimension is already present in The First Helvetic Confession,
+related to Ephesians 5:27 (RB 1/2, 49.5–9; RC, 105).
+
+The Understanding of the Church in Heinrich Bullinger’s Theology
+
+83
+
+just and holy and may live through him. Moreover, through the
+union with Christ (and the seed of his word) the church as a
+mother begets children. The church of Rome, by contrast with the
+true church, receives and hands on a new teaching which is alien to
+the word of God and begets many children, not to Christ but to
+anti-Christ.97
+
+Christ and the Church
+
+Throughout his works, Bullinger emphasizes the inseparable link
+between Christ and the church. Staedtke notes that this is charac-
+teristic of the early Bullinger.98 It is at the heart of Bullinger’s cri-
+tique of the teaching and practice of the Roman church. The
+church is described as those who believe in Christ and those who
+hear the shepherd’s voice (John 10:3). Christ is »the only head of
+the church«, and therefore the church does not »need a vicar«,
+which the Bishop of Rome claims to be. »Believers in Christ« are
+called »a house of the living God« for »God dwells in their hearts
+as in a house or temple«. It is Christ’s sacrificial death which
+makes them priests. Twenty years later in The Decades, in ex-
+pounding images of the church, he emphasizes that it is inseparable
+from Christ. With the image of the body, he states, »Christ is never
+separated from the church; nor does it live other than from Christ.
+Although he is absent in body from the church, he is however most
+present in the Spirit and in operation and government, so that he
+needs no vicar on earth. He alone governs and remains for ever the
+only head, the only king, the only priest and saviour of his
+church.«99 There is a similar emphasis some twenty years after The
+Decades in his commentary on Isaiah. In it Bullinger maintains
+
+97 HBTS 3, 792.13–15, 30–36, 793.3–6, 16–19, 794.1–3; Harding, vol. 4, 90–92.
+98 Staedtke, Die Theologie des jungen Bullinger, 216–220.
+99 HBTS 3, 789.12–16; Harding, vol. 4, 85.– The intimate relation of Christ and the
+church is evident in Firm Foundation in 1563. The chapter on the church begins with
+Christ’s teaching as its only head, lord, shepherd, bridegroom, and ruler. The church is
+the congregation of all believers, founded on Christ the rock. They are the sheep who
+hear the shepherd’s voice. They are members of Christ and are content with his
+teaching. Elsewhere it is said to have all fullness in Christ. (34v, l. 13 – 35v, l. 15, 13r,
+l. 8–17).
+
+84
+
+W. Peter Stephens
+
+that »That is the true church, the congregation or assembly of all
+the faithful which rests on the foundation Christ, on whom alone it
+depends as its head, to whom alone it listens and whom alone
+it obeys in true faith, nor does it have any communion with
+strangers.«100
+
+W. Peter Stephens, The Rt Rev. Dr., Emeritus Professor of Church History, University
+of Aberdeen
+
+Abstract: The church is central to, but not the centre of Heinrich Bullinger’s theology.
+There is for him no salvation outside the church and salvation is itself ecclesial as well
+as personal. The article considers the main contexts in which Bullinger expounds his
+understanding of the church and the major areas of disagreement: scripture, salvation,
+unity, and catholicity with his Roman and Anabaptist opponents, but also holiness with
+Anabaptists. The issues involved in these areas differ according to the context, for
+example, with Roman opponents the authority of scripture over and against that of the
+church, but with Anabaptists the authority of the Old Testament alongside the New. In
+his exposition of the outward marks of the church, Bullinger mostly points to word and
+sacrament, through which Christ establishes the church, although the emphasis is on the
+word. He also mentions other marks, such as suffering. The inward marks are the Holy
+Spirit, faith, and love. Characteristically, Bullinger draws on a range of biblical passages
+in his exposition, including the various biblical images of the church, but with his
+Roman opponents he also adduces the support of the fathers.
+
+Keywords: Heinrich Bullinger, Ecclesiology
+
+100 Commentary on Isaiah (HBBibl, no. 558), 12v, l. 27–30.
+
+

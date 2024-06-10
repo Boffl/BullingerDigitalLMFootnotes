@@ -1,0 +1,1136 @@
+Stefania Salvadori
+
+Sebastian Castellio and the Holy Supper:
+
+Sebastian Castellio and the Holy Supper:
+
+re-reading Zwingli in the pursuit of tolerance
+
+By Stefania Salvadori
+
+The debate concerning the true nature of the Holy Supper runs through the
+concluding chapters of the second book of De Arte Dubitandi. In this text –
+interrupted by the death of its author, in 1563, and preserved as a manuscript
+which was discovered in the second half of the twentieth century 1 – Sebas-
+tian Castellio summarizes and organizes his doctrine of tolerance, applying
+his theoretical principles to the most controversial themes, on which Chris-
+tianity was hopelessly divided: the Trinity, the Justiﬁcation and, indeed, the
+Holy Supper. Whereas the literature did not hesitate to ﬁnd elements of fun-
+damental difference between the proposal developed by Castellio and the
+Reformed tradition as regards the ﬁrst two points 2, the judgment was the
+opposite with respect to the doctrine of the Holy Supper. Reminiscent of the
+bitter struggles of the second sacramental dispute 3, the Savoyard humanist
+seemed  to  enter  the  theological  debate  without  proposing  any  substantial
+changes in comparison with the arguments already used by Zwingli in order
+to legitimize a spiritual interpretation of the Holy Supper against the one of-
+fered by Luther 4.
+
+Apparently  the  solution  proposed  in De  Arte  Dubitandi  is,  therefore,
+
+1 De Arte Dubitandi original manuscript runs through Ff. 56 to 167 of Miscellany n. 505 pre-
+served in Gemmente Bibliothek, Rotterdam. Modern editions: Sebastian Castellio, De Arte
+Dubitandi, edited by Elizabeth Feist, in: Reale Accademia d’Italia, studi e documenti VII,
+edited by Delio Cantimori, Roma, 1937; Sebastian Castellio, De Arte Dubitandi et conﬁ-
+dendi, ignorandi et sciendi, edited by Elizabeth Feist, Leiden, 1981. Quotations in the follow-
+ing pages are from the latter one.
+
+2 As regards Castellio’s Eucharistic doctrine the literature is lacking in detailed description and
+must be gleaned from monographic studies. Among the traditional analyses of Castellio the
+following may be noted as reference: Ferdinand Buisson, Sébastien Castellion, sa vie et son
+œuvre (1515–1563). Étude sur les origines du protestantisme libéral français, 2 Voll., Paris,
+1892 (Reprint: Nieuwkoop, 1964); Hans Rudolf Guggisberg, Sebastian Castellio im Urteil
+seiner  Nachwelt  von  Späthumanismus  bis  zur  Aufklärung,  Basel-Stuttgart,  1956;  Hans
+Rudolf Guggisberg, Sebastian Castellio 1515–1563. Humanist und Verteidiger der religiösen
+Toleranz im konfessionellen Zeitalter, Göttingen, 1997; Carla Gallicet Calvetti, Il testamento
+dottrinale di Sebastien Castellion e l’evoluzione razionalistica del suo pensiero, Milano, 2005.
+Ernst Bizer, Studien zur Geschichte des Abendmahlsstreits im 16. Jahrhundert, Gütersloh,
+1940; Brian Albert Gerrish, Discerning the Body: Sign and Reality in Luther’s Controversy
+with the Swiss, in: «Journal of Religion» 68 (1988), 377–395.
+
+3
+
+4 Among many discussions of Zwingli’s sacramental theology and its relation to Luther see the
+most  substantial  study  of  Walther Köhler,  Zwingli  und  Luther  in  ihrem  Streit  über  das
+Abendmahl nach seinen politischen und religiösen Beziehungen, II Bände, Gütersloh, 1953.
+
+Zwingliana XXXV, 2008
+
+23
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the
+
+pursuit of tolerance
+
+Stefania Salvadori
+
+often  considered  not  so  original 5,  as  it  intended  to  look  at  the Consensus
+Tigurinus 6 as a dangerous restriction of the religious freedom announced at
+the  beginning  of  the  Reformation 7.  A  different  interpretation  is  possible,
+however, if we consider the section De Coena Domini in its substantial con-
+nection with the theme of the Beneﬁcium Christi. In addition to quoting the
+formal exegetical method and the spiritual interpretation deﬁned by Zwingli,
+Castellio proposes a new theoretical solution, that is widely divergent from
+the one offered by the Zurich theologian. In particular, the latter’s famous
+identiﬁcation between the Eucharistic manducatio and the faith is denied by
+Castellio on the basis of a different Christological model.
+
+Certainly this is a nuanced change, which De Arte Dubitandi does not
+develop systematically. It reveals, however, a clear difference of theological
+approach which stems from a brief confrontation with the pages of De vera
+et  falsa  religione  commentarius  dedicated  to  the  same  topic.  This  double
+movement in the formal quotation 8 of and theoretical confrontation with
+Zwingli 9 substantiates the peculiarities and, at the same time, the active role –
+as opposed to a servile repetition – of Castellio’s understanding of the Holy
+Supper  in  the  contemporary  theological  debate.  The  following  pages  are
+dedicated to this analysis.
+
+5
+
+6
+
+9
+
+That  argues  E. Feist  in Castellio,  De  Arte  Dubitandi,  172,  footnote  12:  «This  part  of  the
+chapter is not very original. Castellio follows Zwingli and Oecolampadius.»
+See, for example, Ulrich Gäbler, Das Zustandekommen des Consensus Tigurinus im Jahre
+1549, «Theologische Literaturzeitung» 104/5 (1979), 321–332; Paul Rorem, The ‹Consensus
+Tigurinus› (1549). Did Calvin compromise? in: Calvinus Sacrae Scripturae Professor. Proced-
+ings  of  the  International  Congress  of  Calvin  Research,  Wilhelm  H. Neuser  (Ed.),  Grand
+Rapids,  1994,  72–90;  Wim Janse,  Calvin’s  Eucharistic  Theology:  Three  Dogma-Historical
+Observations, in: Calvinus sacrarum literarum interpres. Papers of the International Con-
+gress on Calvin Research, Herman J. Selderhuis (Ed.), Göttingen 2008, 37–69.
+
+7 Cantimori, Eretici italiani del Cinquecento, 91–92. For a detailed description of Castellio’s
+Eucharistic doctrine and its relation to other views, in particular to Ochino’s one, see Marco
+Bracali, Aspetti «radicali» del dibattito eucaristico nel ’500: Castellione e Ochino, in: «Rivista
+di storia della ﬁlosoﬁa» 4/2000, 565–586.
+
+8 Castellio seldom declares the authors to whom he refers both as target of his confutation and
+as source of his work. As regards Zwingli, he never quotes him openly so that we can only
+suppose, the Savoyard humanist used him as sources of his Eucharistic doctrine. Even so, the
+similarity between the two authors of exegetical method and spiritual interpretation seems to
+attest that Castellio knew at least Zwingli’s De vera et falsa religione commentarius.
+Zwingli’s understanding of the sacraments develops a notable change during his more mature
+years by rejecting that the sacraments conﬁrm faith, as he had held in his earlier works. See
+W. Peter Stephens, The Theology of Huldrych Zwingli, Oxford, 1986; W. Peter Stephens, The
+Soteriological  Motive  in  Eucharistic  Controversy,  in:  Willem Van’t  Spijker  (Ed.),  Calvin:
+Erbe und Auftrag, Kampen, 1991, 203–213. This change in Zwingli’s theology is not dis-
+cussed in these pages which refer only to his early works, in particular to De vera et falsa
+religione commentarius.
+
+24
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+1) Figurata locutio in the Holy Scriptures
+
+In  the  part  of  Zwingli’s Commentarius  devoted  to  the  Holy  Supper,  the
+author founded a new and - in his eyes - more correct understanding of the
+mystery of the Eucharist by directly taking a different approach to the text of
+the Gospel, whose literal interpretation had supported a dangerous doctrine:
+Christ’s body and blood are realiter – bodily – present inside the bread and
+the wine 10. In Zwingli’s opinion this pernicious doctrine rose from an idol-
+atrous persuasion that every single word of the sacred text, as God’s word,
+was absolutely clear and therefore indubitable in its grammatical meaning.
+On the contrary, the Zurich theologian observed how the words in the Holy
+Scriptures  were  often  de-contextualized  and  inserted  into  other  contexts
+where – according to the whole modus argomentandi of the Hebrews – they
+assumed a much more extensive meaning than the original one 11. Similarly,
+Christ announced its mysteries and described his divine essence using appar-
+ently unsuitable terms or obscure similarities whenever interpreted literally,
+but which are able to introduce into a much higher truth if explained in a
+ﬁgurative way. This disparity between the literal plane and the spiritual sig-
+niﬁcance of the divine message characterised the Holy Supper in Zwingli’s
+Commentarius.
+
+A few years later, Castellio also found out that the source of all mistakes
+and intolerance was based on the inability to recognize the referential nature
+often characterizing the Scriptures and, above all, to admit implicit nonsense
+in a literal interpretation of the Holy text’s similarities, that is of its ﬁguratae
+locutiones 12. This is the starting point of Castellio’s Eucharistic doctrine.
+
+As in our «daily speaking we cannot do without metaphors and metony-
+imies» 13, in the same way, the Holy Scripture is often expressed through simi-
+litudes and should therefore be interpreted symbolically. For example, the
+expression «Christum induisse», wearing Christ, is incomprehensible in its
+literal meaning so that nobody thinks we should put Him on «sicuti vestem»,
+like a garment. This ﬁgurata locutio instead incites the believers to acquire a
+nature similar to the one embodied by the Son of God, that is to say, a right-
+eous nature, as it appears clearly from a simple comparison with the steadfast
+command in the Gospel to obey the will of the Father 14. The comprehension
+of this passage as well as, in general, of other such similarities in Holy Scrip-
+ture is not restricted to the literal meaning which is mistaken and gives rise to
+
+10 Huldrich Zwingli, De vera et falsa religione commentarius, Z III, 784.21–786.17; see also:
+
+Huldrich Zwingli, Ratio Fidei, Z VI/II, 806.6–17.
+
+11 Zwingli, Commentarius, 797.
+12 Castellio, De Arte Dubitandi, 169–186.
+13 Zwingli, Commentarius, 797.25–31.
+14 Castellio, De Arte Dubitandi, 170–171.
+
+Zwingliana XXXV, 2008
+
+25
+
+Stefania Salvadori
+
+endless absurdities. The meaning must be sought, De Arte Dubitandi con-
+cludes, in the spiritual truth, through a careful comparison with all the pas-
+sages that express the same message in a clearer and surer way 15.
+
+This does not mean that in De Arte Dubitandi Scripture is insufﬁcient or
+subject to arbitrary views; it should simply be considered as a historical and
+human production – imperfect – which transmits a divine and eternal mes-
+sage – absolutely perfect – 16. The incommensurability between the planes is
+thereby overcome, according to Castellio, exactly by means of the ﬁgurata
+locutio, privileged expression of the saving Truth: it discloses to the reader a
+holy message that transcends the formal terms it is expressed with because,
+on the one hand, the ﬁgurata locutio bends the timeless divine Truth to the
+human expressive limitation and makes it understandable to everyone; on the
+other hand, draws this process of adaptation near to the obvious absurdity of
+its  literal  meaning  and  therefore  adds  the  implicit  reference  to  a  different
+spiritual plane, pointed exclusively by the similarity. What happens, how-
+ever, when the surplus of the meaning – spiritual – in comparison with the
+signiﬁer – literal – is not recognized in a ﬁgurata locutio as in the case of the
+doctrine of the Eucharist?
+
+2) The absurdity of literal interpretations
+
+The main rationale for being satisﬁed with the literal meaning of the sacred
+text is based on the fear of converting the unchanging divine truth into the
+subject  of  changing  human  interpretations.  Castellio  argues  –  referring  to
+opposing theologians – these people often fear the danger that the eternal
+Word could be distorted and subjected to the whims of readers and it seems,
+therefore, shocking if someone tries to seek additional meanings in the Scrip-
+ture; from this point of view, the Gospel is perfectly clear and stable because
+it is able to impact directly upon the minds and hearts of the believers.
+
+Quoting Zwingli once again, De Arte Dubitandi rejects this thesis and
+notices that these opposing theologians do not always conform themselves to
+the rules they have laid down. As they persist in asserting the bodily presence
+of Christ in the Eucharist, Castellio maintains, they should also accept the
+real identity of the terms in all those passages of the Gospel where the Mes-
+
+15 Castellio, De Arte Dubitandi, 170: «Iam hoc idem in sacris literis, ut sunt foecundae, dicitur
+multis variisque modis, quorum partim sunt ﬁgurati, partim non ﬁgurati. At qui sunt ﬁurati,
+ii per eos, qui non sunt ﬁgurati, sunt intelligendi atque explanandi, id quod neminem negatu-
+rum esse puto.»
+
+16 For  the  description  of  Castellio’s  hermeneutics,  see  Heinz Liebing,  Die  Schriftauslegung
+Sebastian Castellios, in: Heinz Liebing, Humanismus-Reformation-Konfession. Beiträge zur
+Kirchengeschichte, hrsg. von W. Bienert und W. Hage, Marburg, 1986.
+
+26
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+siah describes himself using various images, naming himself as shepherd [Jn.
+10:11], door [Jn. 10:9], stone [Acts 4:11] or way [Jn. 16:6], vine [Jn. 15:5], hus-
+bandman  [Mk.  2:19]  or  head  [I. Co.  12:12] 17.  On  the  contrary,  even  these
+theologians do not carry their idolatry to that point and recognize that in all
+passages Christ is called in various ways «non quia re vera sint illa omnia»:
+these pictures clarify his nature and his mission in «similitudo» 18. Accord-
+ingly, Castellio infers that these same theologians show, in this way, that they
+possess  the  means  of  judgement  indispensable  to  identify  the  implicit
+absurdity  of  the ﬁguratae  locutiones’  literal  meaning;  with  the  Eucharist
+being an exception.
+
+In order to disavow this contradiction in the argumentation of opponents,
+De  Arte  Dubitandi  clariﬁes  the  means  by  which  every  believer  can  and
+should recognize similarities and clarify their meaning in comparing them, as
+stated previously, with all those passages that express a similar content, but in
+a clearer way. This holds true for both the sacred and the profane texts and
+allows  for  abandoning  the  literal  meaning  and  ﬁnding  a  symbolic  one  in
+which every absurdity disappears 19, whenever a passage, if not interpreted so
+ﬁguratively, is opposed to both senses and reason 20.
+
+Senses and reason, therefore, become the best means to locate the mysteri-
+ous nature of ﬁguratae locutiones 21 – Castellione concludes, formally agree-
+ing with Zwingli – because both of them can never ﬁght against faith 22 and
+arouse contra sensus 23.
+
+17 Castellio, De Arte Dubitandi, 174–175. Similarly Zwingli, Commentarius, 797.16–37.
+18
+
+ Castellio, De Arte Dubitandi, 175: «Certe si verba urgere volumus, haec omnia et alia multo
+plura absurda admittenda sunt. Sin in his ad evitandam absurditatem admittunt interpretatio-
+nem et Christum pastorem et portam et lapidem et viam et vitem et sponsum et caput appel-
+lari fatentur non quia re vera sint illa omnia, sed quia sit ei cum illis omnibus similitudo,
+fateantur idem et in eius esu carnis et potione sanguinis. Neque enim in hoc minor est quam in
+illis absurditas, si verba urgeas, et, si Christum fatentur, quamvis se vitem esse dicat, tamen
+non esse vitem, nimirum quia et ratio et sensus repugnent, fateantur et, quamvis suam carnem
+comedendam esse dicat, tamen non comedi, nimirum quia et ratio et sensus repugnent.»
+
+19 Castellio, De Arte Dubitandi, 175: «Et omnino generalem hanc regulam teneamus, si quod
+dictum vel in profanis vel in sacris authoribus eiusmodi est, ut, nisi ﬁgurate accipiatur, mani-
+feste rationi aut sensibus repugnet, id esse ﬁgurate accipiendum. Itaque interpretandum, ut
+cum ratione aut sensibus concilietur. Erit huius regulae ad multos nodos solvendos incredibi-
+lis utilitas.»
+
+20 Zwingli, Commentarius, 798.6–10.
+21 Castellio, De Arte Dubitandi, 171: «Iam de quo agitur, videlicet de Christi carne comedenda
+et sanguine bibendo, utrum propria an ﬁgurata sit locutio, considerandum est. Figuratam esse
+evincit tum ratio tum authoritas.»
+
+22 Zwingli, Commentarius, 784.31–787.40; in particular, 787.17–20: «Breviter: Fides non cogit
+sensum sentire fateri, quod non sentit, sed trahit ad invisibilia et spes omnes in ista confert [cf.
+Hebr. 11.1]. Non enim versatur inter sensibilia et corporea, neque aliquid cum his in com-
+mune habet». Similarly Castellio, De Arte Dubitandi, 179.
+
+23 For Castellio’s clear distinction between supra sensus – divine mysteries which human senses
+
+Zwingliana XXXV, 2008
+
+27
+
+Stefania Salvadori
+
+Starting from similar assumptions, both De Arte Dubitandi and Zwingli’s
+Commentarius provide a critique of all those who profess an unreal transub-
+stantiation or an incomprehensible consubstantiation 24. Castellio places, in
+particular, at the centre of his criticism the physical senses: they touch, hear,
+smell, taste, digest nothing but bread and wine so it becomes impossible to
+believe – as those theologians who concentrate on a literal interpretation of
+the Holy Scripture do – that these elements actually become the body and the
+blood of Christ, unless human nature is deprived of all its natural means of
+judgement and reduced to an inanimate stone 25.
+
+The same conclusions are drawn, according to Castellio, through the tes-
+timony of reason that, ﬁrstly, attests that if anything entering the mouth can
+corrupt the spirit [Mt. 15:11], much less will sanctify it, or justify it. Sec-
+ondly, if the simple eating of Christ’s body assures eternal life to men, he
+would have offered it to all – as he is going to offer universal salvation – and
+would consequently have made marginal or unnecessary all precepts and, in
+short, the life reform to which he constantly encourages his disciples in order
+to reach the salvation. This consequence is, however, clearly unsustainable 26.
+Holy  Scripture  too  attests  in  many  passages  that  eternal  life  does  not
+spring from a bodily eating in the sacrament, it’s rather the goal reached fol-
+lowing the teaching of the Gospel in everyday practice; eternal life means
+undertaking  that habitus  iusticiae  that  marks  the  true  believers  by  ethical
+behaviour. Salvation insured by Christ «panis vitae» is therefore purely spiri-
+tual and has nothing to do with the physical bread dispensed in the Holy
+Supper.
+
+The truth of these considerations is ﬁnally testiﬁed, according to Castel-
+lio, by Christ in John’s Gospel [Jn. 6:54–56] where he urged his disciples to
+eat his body and, as he saw them troubled, reassured them by clarifying his
+
+and  reason  can  not  grasp,  understand  and  judge  –  and contra  sensus  –  absurd  statements
+which senses and reason can not understand, but grasp and judge as illogical, contradictory –,
+see Castellio, De Arte Dubitandi, 62–65.
+24 Castellio, De Arte Dubitandi, 182–186.
+25 Castellio, De Arte Dubitandi, 183: «Atqui in Coena Domini nullus sensus miraculum esse
+iudicat contraque omnes sensus ullum ibi miraculum esse negant. Nam et oculi album esse
+vident et aures strepitum fracti panis audiunt et nares odorem olfaciunt et manus panem tan-
+gunt et palatum saporem sentit et venter ipse panem concoquit, denique nulla res usquam esse
+potest, de qua magis omnes sensus iudicent. Itaque necesse est, si velis homini persuadere ibi
+esse carnem, ut homini et oculos et aures et nares et manus et palatum et ventrem adimas, hoc
+est ut hominem ex homine exuas eumque in stipitem convertas.»
+
+26 Castellio, De Arte Dubitandi, 171–172: «Altera ratio est, quod, si nobis vitam daret esus cor-
+poris  Christi,  Christus  omnibus  ad  vitam  consequendam  praecepisset,  ut  corpus  suum
+comenderent. Itaque [.. .] omnia eius praecepta, quorum executoribus vitam pollicitus est,
+supervacanea forent frustraque homini proposuisset arctam viam.» Similar argumentation in
+Zwingli  who  refers,  however,  not  to  Christ’s praecepta,  but  to  his  Resurrection:  Zwingli,
+Commentarius, 803.28–31 and 805.16–22.
+
+28
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+intent and by reminding them that «caro nihil prodest. Verba, quae ego Vobis
+loquor, spiritus sunt et vita sunt» 27, bodily ﬂesh cannot evolve into spiritual
+life, only the words of Jesus, embodied in his discourse, are life-giving, cre-
+ating spiritual desire and life in the soul. In this passage lies the solution to
+any dispute.
+
+3) Est namely signiﬁcat
+
+In setting the solution to a correct understanding of the Holy Supper in the
+sixth  chapter  of  John’s  Gospel,  Castellio  quotes  Zwingli  in  opposition  to
+Luther who felt the same chapter entirely alien to the subject of the Eucha-
+rist 28. Zwingli, as we know even since the letter-treatise to Matthew Alber in
+November 1524, referred to John’s Gospel [Jn. 6:26–65] and he compared it
+with  greater  accuracy  to  the  intuition  of  Karlstadt 29  in  order  to  interpret
+Christ’s words «this is my body» 30. In a clear-cut departure from both Cath-
+olic and Protestant traditions, the Commentarius rejected both the bodily
+presence of Christ and his bodily eating in the Eucharistic bread or wine and,
+therefore, interpreted the passage ﬁguratively.
+
+In De Arte Dubitandi Castellio uses a similar process by analysing point
+by point the same pages of the Gospel, and particularly the passage «caro
+nihil prodest. Verba [. . .] et spiritus sunt et vita sunt» 31. With these words
+Christ clearly demonstrated, in fact, that the invitation to eat his body and
+drink his blood is a ﬁgurata locutio.
+
+As the Samaritan woman had not been able to understand that the water
+
+27 Castellio, De Arte Dubitandi, 172.
+28 For the text, see: Martin Luther, De Captivitate babylonica ecclesiae (1520), WA VI, 502–512,
+in particular 502: «Primum, c. VI Iohannis in totum est seponendum, ut quod nec sillaba qui-
+dem de sacramento loquitur, non modo quod sacramentum nondum esset institutum, sed
+multo magis quod ipsa sermonis et sententiarum consequentia de ﬁde, ut dixi, incarnati verbi
+Christum loqui clare sostendunt.»
+
+29 Andreas Karlstadt, Von dem widerchristlichen missbrauch des hern brodt und kelch. Ob der
+glaub in das sacrament, sünde vergäbe, und ob das sacrament eyn arrabo oder pfand der sünde
+vergäbung, per Andreas Cratander, Basel, 1524. To this text refers Zwingli, Commentarius,
+792–795. See, for example, Carl M. Leth, Signs and Providence: a study of Ulrich Zwingli’s
+sacramental Theology, Duke University, 1992, in particular Cap. VII-VIII, 127–179.
+
+30 Zwingli,  Ad  Matthaeum  Alberum  de  coena  domenica  epistola,  Z  III,  335–354.  Similarly
+Zwingli, Commentarius, 773–820, in particular 795: «Difﬁcultas ergo universa non in isto
+pronomine ‹hoc› sita est, sed in voce nihilo, quod ad elementorum numerum adtinet, maiore,
+puta in verbo ‹est›. Nam ea in sacris literis non uno loco pro ‹signiﬁcat› ponitur.»
+See, William Peter Stephens, Zwingli on John 6:63: «Spiritus est qui viviﬁcat, caro nihil prod-
+est»,  in:  Biblical  interpretation  in  the  era  of  Reformation.  Essays  presented  to  David C.
+Steinmetz in honor of his 60th Birthday, ed. by R. A. Muller and J. L. Thompson, Grand
+Rapids, 1996, 156–185.
+
+31
+
+Zwingliana XXXV, 2008
+
+29
+
+Stefania Salvadori
+
+offered her by Christ meant the Spirit in a ﬁgurative manner 32, similarly the
+sixth chapter of John’s Gospel shows how, after the miracle of the loaves and
+ﬁsh, many could only understand in a literal sense the words with which he
+named himself as the only true «bread of life» that is able to give eternal sal-
+vation: whoever eats it will live forever.
+
+The revelation of the Christ as the living bread of God which was broken
+for humanity provoked unbelief and even the disciples found it difﬁcult to
+understand and were offended by him. So Christ, «ut offensionem illam tol-
+lat», clariﬁed his purpose and warned: «what will you think when you see the
+Son of Man going up to where he came from?» [Jn. 6:63]. The fact of his
+ascension will indeed remove any idea of a bodily feeding on Christ’s ﬂesh
+and blood, that will appear not only – logically – absurd, but also – ontologi-
+cally – impossible 33.
+
+Each  single  doubt  and  contradiction  are  easily  resolved  by  the  same
+Christ  who  immediately  pointed  out  that  the  disciples  were  offended
+because they misunderstood his words, they showed an unspiritual attitude,
+namely  one  based  upon  material  considerations.  Of  course  Jesus  talked
+about food that gives life; not a physical, but rather a spiritual life in accord-
+ance with the spiritual Truth he announces.
+
+Itaque ad alendam hominis animam, quae spiritus est, nihil prodest caro. Atqui
+meum corpus caro est, itaque ad hanc rem nihil prodest. Et sane non comedetur,
+sed in coelum ascendet. Quid igitur vobis vitam dabit? Spiritus. Nam spiritus is
+est, qui vitam dat et mea verba de vita consequenda spiritus sunt, hoc est de spiritu
+accipienda sunt, quem ego carnis nomine propter similitudinem appellavi, quo-
+niam,  ut  caro  carnem,  sic  spiritus  spiritum  alit  ideoque  animi  panis  sive  cibus
+appellatur. 34
+
+Applying the truth declared in this passage directly to the Eucharistic ﬁgu-
+rata locutio, Christ deﬁnes himself as the bread of life «propter similitudi-
+nem» coherently with the comparison introduced in the Gospel according to
+John: as meat or bread or anything physical that nourishes and supports only
+the  physical  body,  in  the  same  way  only  the  Divine  Spirit,  that  Christ
+announces with his words, gives eternal life to the believers’ soul, nourishes
+and supports their spirit 35.
+
+32 Castellio, De Arte Dubitandi, 172.
+33 Equivalent to Zwingli, Commentarius, 779–784.
+34 Castellio, De Arte Dubitandi, 173.
+35 Luther, De Captivitate babylonica ecclesiae, 502: «Primum, c.VI Iohannis in totum est sepo-
+nendum, ut quod nec sillaba quidem de sacramento loquitur, non modo quod sacramentum
+nondum esset institutum, sed multo magis quod ipsa sermonis et sententiarum consequentia
+de ﬁde, ut dixi, incarnati verbi Christum loqui clare sostendunt. Dicit enim ‹verba mea spiri-
+tus est et vita sunt›, ostendens se de manducatione spirituali loqui, quo qui comedit, vivit, cum
+
+30
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+On the basis of this similitude, Castellio is able to settle any dispute con-
+cerning the interpretation of the Eucharist. The synoptic Gospels provide,
+without  great  diversity,  the  same  account  of  the  institution  of  the  Holy
+Supper: Christ took bread, he broke off some pieces, and gave them to his
+disciples afﬁrming «hoc est corpus meum», «this is my body». In the same
+way, then, he took the cup of wine, gave it once again to his disciples saying it
+was his blood, shed for the new covenant 36. The hermeneutics of the Scrip-
+ture and the clear truth transmitted in John’s Gospel show the absurdity of
+this passage, when it is understood literally: nobody can deny this deduction
+on the basis of both senses and reason and the very disputes among theolo-
+gians conﬁrm it 37.
+
+So, generally the ﬁguratae locutiones conceal behind the literal nonsense a
+reference to a further meaning, to a spiritual truth. In the same way the true
+value of the Lord’s Supper can be established only by clarifying the metaphor
+introduced between body-bread and wine-blood:
+
+Iamque verba illa Coenae: ‹Accipite, comedite, hoc est corpus meum›, sine ulla
+dubitatione sic interpretor. Quemadmodum hunc panem fractum vobis ad pastum
+porrigo, ita et corpus meum in crucem frangendum trado, quae res vobis sit pastui,
+hoc est salutaris. Morior enim ad impetrandam vobis peccatorum veniam, sine qua
+salvi esse et vivere non potestis, quemadmodum corporaliter sine cibo vivi non
+potest. Quod idem et de vino dico, quae imago est mei sanguinis effundendi. Esto
+igitur vobis hic panis imago mei corporis et vinum sanguinis. 38
+
+Following the example of Zwingli 39, Castellio locates the center of the dis-
+cussion in the correct understanding of the words «Hoc est corpus meum hic
+et sanguis meus» 40: they present no difﬁculties to the senses and reason when
+«est» is understood as «signiﬁcat» 41. Christ, in fact, afﬁrms that as he broke
+
+Iudaei de carnali eum intelligerent ideoque litigarent. At nulla manducatio viviﬁcat nisi ﬁdei,
+haec enim est vere spiritualis et viva manducatio.» Ibid., 509–512.
+
+36 Castellio, De Arte Dubitandi, 178. The references are to Mt. 26:26; Lc. 12:19; Mt. 26:28–29.
+37 Castellio, De Arte Dubitandi, 178–179: «Haec Christi verba sunt. Controversia autem in eo
+est, utrum verba illa ‹Hoc est corpus meum et hic est sanguis meus› proprie an ﬁgurate dicta
+fuerint. Ad hanc controversiam tollendam meminisse oportet illius, quam paulo supra hunc
+locum posui, regulae de ﬁguratis dictis, quae si rationi aut sensibus repugnent, sint interpre-
+tatione cum ratione et sensibus concilianda. Rationi autem et sensibus repugnare haec verba,
+nisi ﬁgurate dicta accipias, quid opus est probare, cum nihil sit manifestius? Cumque id vel
+clarissime ostendant tot theologorum tot et tam acres de hisce verbis disputationes? Nisi enim
+ratio sensusque reclamassent, non magis de pane coenae, utrum is vere corpus esset Christi
+quam de asino, in quo Christus equitavit, utrum is vere esset asinus, disputassent.»
+
+38 Castellio, De Arte Dubitandi, 180.
+39 Zwingli, Commentarius, 782, 785, 791.
+40 Castellio, De Arte Dubitandi, 179 and Zwingli, Commentarius, 795ff.
+41 Castellio, De Arte Dubitandi, 180–181: «Itaque, ut aliae huius argumenti explanationes, quia
+absurdae falsaeque sunt, nulla verborum prolixitate satis aperiri queunt, ita haec contra, quia
+
+Zwingliana XXXV, 2008
+
+31
+
+Stefania Salvadori
+
+off and offered his disciples the bread to feed their body, in the same way he
+would shortly afterwards deliver his body to death on the cross so that he
+would feed them in a new and spiritual way because his own death is «salu-
+taris», useful to salvation. Without his sacriﬁce, in fact, their soul could not
+live as their body could not exist without the physical food.
+
+According to Castellio, the Eucharistic bread and wine must be under-
+stood therefore as a simple «imago», an image, a metaphor of Christ’s body
+and  blood  or,  more  generally,  the  Last  Supper  was  an  image  and  fore-
+shadowing of His sacriﬁce meant to obtain from the Father the forgiveness
+of  humans  sins:  its  meaning  is  purely  spiritual.  Castellio  asks  then,  why
+Christ  has  recommended  to  His  disciples  to  renew  the  Eucharistic  cer-
+emony?
+
+4) The commemoration
+
+As we have seen, spiritual interpretation of the Eucharist means, both in the
+De Arte Dubitandi and in the Commentarius, a clear rejection of any bodily
+eating through which grace is bestowed. In this context both authors blame
+the Catholic doctrine of transubstantiation as well as the Protestant consub-
+stantiation for being expressions of groundless scriptural idolatry.
+
+Focusing on the relationship between Castellio and Zwingli, it is evident
+that the ﬁrst follows the lesson of the latter not only in the pars destruens of
+his reasoning – that is to say in rejecting the literal interpretation of the Scrip-
+ture – but also in setting up the following pars construens, namely in confer-
+ring to the Holy Supper a new symbolic value: one of commemoration.
+
+According to the Savoyard humanist, in fact, the words with which Christ
+instituted this ceremony show clearly how its function is primarily one of
+commemoration.  In  it,  indeed,  God’s  Son  wanted  the  disciples  and  the
+believers  to  celebrate  the  record  of  his  sacriﬁce,  to  honour  the  memory,
+namely, of his unrepeatable death by means of which he achieved eternal life
+for his disciples once and for all 42. So, the sacrament does not confer grace,
+but it is a symbolic description of grace, of Christ’s beneﬁt already given 43.
+
+apta veraque est, paucissimis verbi expediri potest. Si enim dicas verbum ‹est› in his verbis :
+‹Hoc est corpus meum› similitudinis esse, explicaveris omnia.»
+
+43
+
+42 Castellio, De Arte Dubitandi, 177: «Huius autem beneﬁcii memoriam nobis commendare
+Christus  volens  ceremoniam  illam  instituit,  quam  Paulus  Coenam  Domini  nuncupat,  qua
+cerimonia ipsius mors perenni religione usque ad ipsius adventum recoleretur.»
+In «The Sacrament in the Confessions of 1536, 1549, and 1566 – Bullinger’s Understanding in
+the Light of Zwingli’s» (Zwing. 33 [2006] 51–76, see, in particular, 54), Peter Stephens stress
+how according to Zwingli «the sacraments are related somewhat ambiguously both to faith
+and to the Holy Spirit».
+
+32
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+This is the credible, clear, simple truth, based on those assumptions that all
+factions can admit 44. Compared with the interpretation proposed in De Arte
+Dubitandi – and even before in the Commentarius 45–, all Sophistic specu-
+lations,  which  focus  on  the  real  presence  of  Christ  in  the  Eucharistic
+elements, are deﬁnitively overcome.
+
+The Eucharistic doctrine based on a correct interpretation of the Holy
+Scriptures and freed from its fetters and sectarian fanaticism reaches the aim
+it  was  established  for:  it  restores  the  tolerance  among  different  opinions
+appealing to the simple truth expressed by the divine Gospel, and it recog-
+nizes Christ’s unrepeatable sacriﬁce as the only means of salvation for believ-
+ers  who  must  remember  it  through  the  Eucharistic  celebration.  Yet,  this
+spiritual interpretation involves, according to Castellio, a more precise the-
+oretical settlement, which leads him to conclusions that differ radically from
+those suggested by Zwingli.
+
+While trying to deﬁne which was the symbolic signiﬁcance of the Eucha-
+ristic bread, Zwingli did not hesitate to identify it with the faith in the Gos-
+pel, so that the celebration of the Lord’s Supper could be claimed to signify
+only the remembering of the unrepeatable forgiveness of sins granted to men
+by Christ once and for all with His death on the cross. Although up to this
+point, as we have seen, De Arte Dubitandi does not differ from the Commen-
+tarius, the latter thereafter becomes the target of Castellio’s confutation: eat-
+ing Christ’s body – in the spiritual sense – is not equivalent to believing in
+Him 46.
+
+5) Comedere not est credere: Castellio’s turning point.
+
+If we consider carefully the intent of Zwingli’s interpretation, this seems to
+consist in the substantial equation between Eucharistic mystery and faith re-
+jected by Castellio: the true object of the former matches, in De vera et falsa
+
+44 Castellio, De  Arte  Dubitandi,  180:  «Hanc  cognita,  admissa  tolluntur  omnes  offensiones,
+omnia disputationum dispendia, omnia absurditatum monstra, quibus ecclesia per tot secula
+vexata lacerataque est. In hac nihil absurdi, nihil incredibilis, nihil obscuri, nihil quod vel a
+sacrorum aut profanorum authorum vel ab omnium gentium consuetudine loquendi vel ab
+hominis ratione sensibusve discrepet. Quin omnia apta, credibilia, aperta, plana et caetero-
+rum, quae citra ullam controversiam ab omnibus admittuntur similima.»
+
+45 Zwingli, Commentarius, 798.35–799.8.
+46 Castellio, De Arte Dubitandi, 174: «Similiter igitur et in sexto Iohannis capite occasionem
+sumpsit de pane loquendi ex eo, quod ipsum quaerebant Iudaei, quia de panibus illis ad satie-
+tatem comederant. Hanc ob causam ibi se panem appellat propter similitudinem, videlicet
+quod,  quemadmodum  pane  comedendo  corpus,  sic  Christo  comedendo  alatur  anima.  Est
+autem Christum comedere non equidem credere (sicuti quidam putant).»
+
+Zwingliana XXXV, 2008
+
+33
+
+Stefania Salvadori
+
+religione commentarius, directly with the latter 47. In other words the «panis
+vitae» that Christ used to refer to his body in the sixth chapter of John’s Gos-
+pel 48 was speciﬁcally faith in Him 49. Only true faith is the spiritual nourish-
+ment 50  in  which  the  believers  will  ﬁnd  eternal  satisfaction  for  their  inner
+thirst 51.
+
+From this point of view, both for Castellio and for Zwingli, eating Christ’s
+body and drinking his blood does not mean obtaining the forgiveness of past
+sins each single time, but, as we have seen, believing in his death 52, which
+once and for all «valet ad omnia omnium exhaurienda peccata» 53. Yet, while
+sharing the ﬁrst part of this Eucharistic interpretation, De Arte Dubitandi
+explicitly rejects the conclusion announced by Zwingli’s Commentarius, i. e.
+its perfect and absolute equation between the words «corpus-panis-ﬁdes»
+and replaces it with the relation «corpus-panis-iusticia» instead. What does
+the word ‹justice› mean according to Castellio and why does he judge it more
+appropriate to replace the concept of faith as fundamental meaning of the
+Eucharist?
+
+In addition to the simple terminological shift «ﬁdes-iustitia», the incom-
+patibility  of  Castellio’s  and  Zwingli’s  soteriological  model  –  and  thus  a
+Christological one as well, because only Christ gives Salvation to his faithful
+ones – should be grasped in order to clarify their different foundations of the
+
+47 Zwingli,  Commentarius,  775:  «Tenemus  ergo  nunc  ipso  nomine,  quid  eucharistia,  id  est,
+coena  dominica,  sit  nempe:  gratiarum  actio  et  communis  gratulatio  eorum  qui  mortem
+Christi annunciant hoc est: ebuccinant, laudant, conﬁtentur ac unice exaltant.»
+
+48 Zwingli, Commentarius, 777: «Dixit ergo Iesus: ‹Ego sum panis vitae›; cum audissent ergo
+Iudaei Christum dicere, quod panis, qui de coelo descenderet, vitam daret mundo, optabant
+sibi semper hunc panem dari. Iesus autem intelligens, quod sensum evangelii non caperent,
+exponit, quisnam sit iste panis tam viviﬁcus, ut mundum totum possit vitalem facere et dicit:
+‹Ego sum panis vitae. Qui ergo ad me venit, hoc est: qui mihi inseritur, qui me recipit, nul-
+latenus esuriet›. Quod autem hic ‹venit› pro ‹recipit› accipiatur, sequentia verba indicat ‹Qui
+me ﬁdit, non sitiet.› Fides ergo est, quae famen ac sitim omnes sedat.»
+
+49 Zwingli, Commentarius, 776: «Operamini cibum, qui non perit, et alium non inveniemus esse
+quam Christo ﬁdamus. Cibo ergo iste, de quo Christo loquitur, ﬁdes est. [.. .] Quaerere enim
+iubet cibum qui non pereat, et hoc nihil aliud est, quam operari opus dei. Porro opus dei hoc
+est, quo ﬁdetur ﬁlio, quem pater misit. Est ergo cibus, quem quaerere iubet, ﬁdere ﬁlio. Fides
+igitur cibus est, de quotam graviter per totum hoc capite [Jn. 6] disserit.»
+
+50 Zwingli, Commentarius, 777: «Fides ergo est, quae famen ac sitim omnem sedat. Sed quam
+famen, aut quam sitim? Animae nimirum. Fides ergo in Christum sola est, quae mentem satiat
+ac potat, ut nihil amplius desit.»
+
+51 Zwingli, Commentarius, 786–790.
+52 Castellio, De Arte Dubitandi, 165 and Zwingli, Commentarius, 779.
+53 Zwingli,  Commentarius,  803–804:  «Falsa  ergo  religionis  est,  quae  docuit  huius  simbolici
+panis usum peccata delere; nam Christum solum delet peccata, quum moritur. Mortus est
+autem semel tantum, ut tota epistola ad Hebraeos et Roma. 6. habetur. Semel ergo mortuus
+perpetuo valet ad omnia omnium exhaurienda peccata. Falsa est religio, quae docuit hunc
+panem opus aut oblationem esse, quae quotidie oblata peccata nostra expiet.»
+
+34
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+Eucharist. Castellio’s statement «comedere non est credere» can be under-
+stood, therefore, only in the light of its deepest theological implications.
+
+In order to isolate the breaking point between the two authors it is useful,
+ﬁrst of all, to focus on the respective model of faith to which they refer. As far
+as to the constitutive elements of these models are concerned, Castellio posits
+– in total opposition to Zwingli – that faith should not be understood simply
+as a divine gift in which salvation is given sola gratia to the sinner, but as the
+ﬁrst  step  towards  a  longer  and  much  more  complex  process  of  spiritual
+regeneration. More speciﬁcally, faith is realized essentially in the free human
+choice to follow Christ, in the courage to accept the challenge he embodied
+and, in so doing, by exercising diligence in order to obtain the knowledge of
+Truth and eternal life 54.
+
+In other words, according to Castellio faith is not a «cognitio Dei» given
+as fulﬁllment of an ascribed justiﬁcation that is, in his eyes, only nominal 55;
+faith is not «sperandarum substantia rerum, argumentum not apparentium»
+[Heb. 9:1] 56, but, rather, conﬁdence, an act of human will 57, trusting in Christ
+known as the only one able to make sinners willing to accept his doctrine and
+to obey the Father 58. Faith inaugurates and supports, therefore, a behaviour
+that is consistent with what is believed, with Christ’s Gospel, but does not
+ensure the ﬁnal salvation which remains partly tied to the individual’s good
+will 59. This ethically correct practice alone, which is always open to error and
+fault – since it is directed, but not exhausted, by faith 60 – allows for obtaining
+a gradual growth in real «iustitia», that is the true bread of life, «panis vitae».
+To put it brieﬂy, the different conception of faith in its substance – as a
+divine gift according to Zwingli, as a partly free-chosen conﬁdence according
+to Castellio – and its purpose – necessary and sufﬁcient reason for the Sal-
+vation according to Zwingli, simple beginning of the long process of ethical
+
+54 Castellio, De Arte Dubitandi, 52: «Est igitur credere dictis seu veris seu falsis ﬁdem habere.
+Saepe enim non minus creditur falsis quam veris, id quod de sciendo dici non potest, quippe
+falsa quae sunt, sciri non possunt, at credi possunt. Denique ﬁdes Christiana virtus est, id
+quod nemo inﬁciabitur. At scientia quomodo virtus est, non video nec eam in sacris literis ut
+virtutem laudari comperio, nisi forte scientiae verbum alicubi pro affectu ponatur, de qua hic
+non agimus. Et, ut paucis absolvam, ubi scientia incipit, ibi ﬁdes desinit, ut, qui ante dixit
+‹Credo›, idem iam dicat ‹Scio›.»
+
+55 Castellio, De Arte Dubitandi, 143–154.
+56 Castellio, De Arte Dubitandi, 93.
+57 Castellio, De Arte Dubitandi, 89–90
+58 Castellio, De Arte Dubitandi, 92.
+59 Castellio, De Arte Dubitandi, 52–53
+60 Castellio, De Arte Dubitandi, 126: «Non enim ita iustum reddit hominem Christus, ut non
+possit non peccare, sed ut possit non peccare. Quemadmodum non ita sanabat claudos, ut
+non possint claudicare, sed ut possent non claudicare. Ita ﬁt ut quod isti propter eiusmodi
+delicta negant credentium iusticiam coram deo consistere male negent. Deo enim re vera ius-
+tus et est et habetur is, in quo inest spiritus iusticiae, etiam si quid aliquando delinquat.»
+
+Zwingliana XXXV, 2008
+
+35
+
+Stefania Salvadori
+
+regeneration according to Castellio – illuminates the essential divergence in
+soteriological planes to which we must ultimately refer to in order to resolve
+the Eucharistic issue.
+
+The  shift  in  perspective  adopted  by  Castellio  in  rejecting  the  equation
+«panis-ﬁdes»  must  be  assessed  from  a  more  general  point  of  view:  he
+attempts to interpret the Holy Supper as a ﬁgurative representation of the
+complex change «ex iniusto iustum», of a slow transition – which is not redu-
+cible to faith – from the state of sinner, which generates death, to that of a just
+man, which ensures eternal life. This conversion, which is made possible only
+by Christ through him being the true bread of life 61, consists in the accom-
+plishment of his beneﬁcium which is, as asserted in similar formal terms in
+the Reformation, twofold: forgiveness of past sins by the Father – the subject
+of faith – and award of the spirit of righteousness, of the spiritum iustiﬁcum –
+purpose of practice –. With the difference that, according to De Arte Dubi-
+tandi, both are unable to assure salvation without free human obedience and
+ethical engagement 62.
+
+To conclude, Castellio interprets the convergence between the Christo-
+logical model and a soteriological dynamic, i.e. between the two beneﬁts of
+Christ  and  their  practical  effect  in  the  believer’s  life  as  represented  in  the
+Holy Supper. Eating the Christ-bread of life is not equivalent to believing in
+him, but rather is trusting his teaching, to become realiter a just man. Eating
+the Christ-bread of life means following the model he embodied even in his
+sacriﬁce,  letting  the  «spiritus  iustiﬁcum»  he  released  in  its  second  beneﬁt
+bear divine fruit in human daily life 63.
+
+61 Castellio, De Arte Dubitandi, 169: «Quoniam de Christi beneﬁcio disserimus et de Coena
+Domini  (quae  est  ipsa  quoque  Christi  beneﬁcium)  graves  sunt  controversiae,  dicendum
+aliquid de ea est.»
+
+62 Castellio, De Arte Dubitandi, 177: «Hac igitur forma loquendi comedere Christi carnem et
+bibere sanguinem est eam utilitatem percipere, quam ipsae suae carnis et sanguinis precio (hoc
+est sua obedientia, quae tanta fuit, ut vitam pro nobis profunderit) nobis peperit. Est autem ea
+utilitas venia peccatorum et spiritum iustiﬁcus, sicuti supra de Christo beneﬁcio disserentes
+demonstravimus.» For the twofold essence of Christ’s Beneﬁts, see Ibidem, 154–169.
+
+63 Castellio, De  Arte  Dubitandi,  174:  «Est  autem  Christum  comedere  non  equidem  credere
+(sicuti quidam putant), sed Christi spiritum sive naturam (id quod ﬁt credendo) comedere,
+hoc est ex iniusto iustum ﬁeri, quae res animae est salutaris et vitalis. Ut enim iniusticia ani-
+mam interﬁcit, ita et iusticia eidem vitam dat. Christum autem appellare Christianitatem, hoc
+est Christi naturam sive spiritum sacris literis familiare est et nominatim Paulo [.. .]. Hic quod
+priore loco Christi spiritum appellaverat, idem posteriore Christum appellat et mox iusti-
+ciam, per quam hominis spiritus vivat.»
+
+36
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+6) Sermo verax and obedience: Christological requirement
+
+to the Lord’s Supper
+
+Castellio chose to deal with the debate on the Holy Supper, as we have seen,
+because it is part of a set of issues – together with the Trinity and the doctrine
+of Justiﬁcation – on which Christianity is torn by violence and intolerance.
+The concordia, the agreement among various interpretations can be achieved
+only by focusing on the simplicity of Christ’s preaching and life.
+
+In order to conduct the debate in a suitable way, Castellio clariﬁes the
+theoretical background on which it is placed and introduces two fundamen-
+tal assumptions: the essential link between Eucharist and Christi Beneﬁcium,
+on the one hand, and the identiﬁcation of «panis vitae» with Christ’s self, on
+the  other  hand.  The  meaning  conferred  to  these  two  conditions  sets  the
+limits which allow for both an upholding and a critique of Zwingli’s theori-
+zation.
+
+The  understanding  of  both  prerequisites  is  premised  upon  further
+research into the nature against which Christ as the bread of life 64 is set or,
+from an opposite point of view, into the essence of the medicine which alone
+frees from the mortal food that spread death among men. The Holy Scrip-
+tures evidently show how this mortal food is the «sermonem mendacem»,
+the false speech of the serpent who, in the Eden, tempted Adam to disobey
+the Father thus condemning him to guilt and eternal death. Following, then,
+the infallible rule according to which against each disease an opposite remedy
+must be used, Christ opposes to the serpent’s poison his «Sermo verax», i.e.
+his truthful and heavenly doctrine that has a concrete and undeniable effect:
+it forces believers to obey the Father and so leads them to eternal life 65.
+
+The food which is dispensed in the Holy Supper is thus directly identiﬁed
+with Christ, not as Man and God 66 – which remains to Castellio a mysterium
+on which it is not possible to make any judgement – but as sermo, as divine
+speech, as spreader of God’s doctrine, as divine rhetorician, as doctor of the
+soul 67.
+
+64 Castellio, De Arte Dubitandi, 169: «Igitur quoniam coena nomen est epularum et in ea agitur
+de  cibo  vitali,  quem  Christum  esse  constat,  ante  omnia  cognoscendum  est,  quo  pacto  sit
+Christus cibus homini eique vitam conferat».
+
+65 Castellio, De Arte Dubitandi, 169–170. Similar argumentation in Sebastian Castellio, De l’im-
+punité des hérétiques – De haeretici non puniendis, ed. par Bruno Becker et Marc Valkhoff,
+Genève, 1971, 52–54 and in Sebastian Castellio, Defensio ad authorem libri, cui titulus est,
+calumniae nebulonis, in Scripta selecta et rarissima, Francfurti am Moenum, 1696, 413–479.
+66 Zwingli, Commentarius, 779: «Videndum est hic obiter, quod Christus nobis ea parte saluta-
+ris est, qua de coelo descendit, non qua ex illibatissima quidem virgine natus est, tametsi se-
+cundum ea pati ac mori oportuerit; sed nisi deus simul fuisset, qui moriebatur, non potuisset
+toti mundo salutaris esse.»
+
+67 Castellio, De Arte Dubitandi, 154–156.
+
+Zwingliana XXXV, 2008
+
+37
+
+Stefania Salvadori
+
+In this way Castellio not only quotes the comment of Erasmus on John
+1:1 where the word «Sermo» 68 was preferred to the Vulgate «verbum», but
+also recalls the well-known Philosophia Christi and its model of ethical beha-
+vior. All these elements are certainly developed and widely referred to several
+times in De Arte Dubitandi in order to describe the Christological partici-
+pation  into  the  soteriological  process 69.  Castellio  goes,  however,  a  step
+farther  than  Erasmus  in  linking  this  semantic  clariﬁcation  directly  to  the
+symbolic interpretation of the Holy Supper: the «panis vitae» is, in fact, the
+announcement of God’s Son that alone saves the believers from the false and
+deadly serpent and constantly urges – but not forces – them to act in concrete
+and free obedience towards the Father.
+
+This Christological model shows the genuine meaning of the key passage
+of Castellio’s Eucharistic interpretation: «caro nihil prodest. Verba, quae ego
+Vobis loquor, spiritus sunt et vita sunt». Christ describes his spiritual mes-
+sage and mission explaining how it is not his body, but his words, his teach-
+ing, his announcement that is spirit and life. Christ-Sermo must be intended
+as  the  rhetorical  persuasive  ability,  the  heavenly  doctrine  which  makes
+sinners  change  into  true  believers.  This  Christus-Sermo  summarises  and
+speciﬁes the true, symbolic meaning of the Holy Supper 70.
+
+Finally, in response to those who, by quoting the Scriptures, argue that
+Adam  has  been  corrupted  by  physically  eating  an  apple,  Castellio  under-
+scores how, even in this case, a ﬁgurative register is used in order to indicate
+that the damnation to which Adam is condemned springs from his disobedi-
+ence and not from the act of eating the forbidden fruit. The Genesis Text,
+therefore, conﬁrms Castellio’s theory: in the same way as the ﬁrst man was
+ruined because of his rebellion, so the true believer can be puriﬁed and saved
+not by physically eating the body of Christ, but by obeying his teaching and
+doing God’s will 71.
+
+Obedience is therefore the concrete consequence of righteousness, of the
+Eucharistic  eating  in  human  life  as  well  as  the  concrete  consequence  of
+Christ’s twofold beneﬁts, that of trusting in Christ-Sermo and that of fol-
+lowing the divine teaching he embodied. Yet, to Castellio this obedience is
+concrete, realiter, because it does not match the faith: it is related not only to
+the power of divine justice, but also to the reformed life that each believer
+
+68 Desiderius Erasmus, Evangelium secundum Johannem, I,1, in: Novum Testamentum, cum
+
+Adnotationes, LB VI, coll. 335–338.
+
+69 For Castellio’s debt to Erasmus see, in particular, the fundamental monographic study Gug-
+
+gisberg, Sebastian Castellio, in particular Chapters IV, V and X.
+
+70 Castellio, De Arte Dubitandi, 170: «Affert igitur Christus homini vitam verace illo sermone
+suo, dum eo sermone persuadet homini, ut veritati obediat, cui obediendo vitam consequatur,
+sicut Adamus contra mendacio obediendo mortem sibi conﬂavit.»
+Ibid.
+
+71
+
+38
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+puts into practice. This spiritual interpretation introduces a wider value than
+that of faith, as for Zwingli’s understanding, and thus gains a new dimension
+of reality.
+
+7) Spiritual manducatio and Justice: the spiritual reality of the Last Supper
+
+On the basis of these Christological assumptions it is ﬁnally possible to clar-
+ify why Castellio argues against the identity between bread and faith, as pro-
+posed by Zwingli, and suggests a different understanding of the Eucharist
+where «cibum homini vitalem esse Christianam iusticiam et Christum com-
+edere  esse  aliud  nihil  quam  Christianitate  comedere,  hoc  est  Christianum
+sive iustum ﬁeri», the vital food is Christian righteousness and eating Christ
+means eating his righteousness, i.e. becoming Christian, a righteous man 72.
+In Castellio’s opinion, the shift runs from the purely spiritual level of faith
+to the real one – but it is still spiritual, and therefore irreconcilable with the
+mere  physicality  of  bread  and  wine  –  related  to  the  ethical  experience  to
+which every believer should daily devote himself/herself, according to the
+example of obedience offered by Christ. Christian righteousness is dispensed
+as vital food in the Eucharist, and that explains to believers «quo pacto Chris-
+tum  in  spiritu  et  veritate,  hoc  est  spiritualiter  et  vere  comedat»,  the  way
+Christ is eaten in spirit and truth 73. According to Castellio, faith is useful but
+not sufﬁcient to this aim: its being equated to the bread of life restricts the
+Eucharist into purely spiritual terms and makes believers passive with regard
+to the Soteriological way.
+
+Castellio seems to ﬁnd in this way his personal solution to the Eucharistic
+debate by reconciling Zwingli’s spiritual interpretation with a new under-
+standing of its reality in the concept of righteousness. Firstly, De Arte Dubi-
+tandi  bases  its  original  proposal  on  a  speciﬁcation  of  terminology:  in  the
+sacred texts the term «comedi res», eating something, is often used as a syn-
+onym for «cuius fructus comeditur aut a qua utilitas percipitur», enjoying
+the beneﬁt of what, for similarity, is eaten 74. In other words, the ﬁgured sense
+that was previously established to be sought in order to clarify Christ’s invi-
+tation to his disciples to eat his body is now understood as an exhortation to
+take maximum utility from his teaching.
+
+Hac igitur forma loquendi comedere Christi carnem et bibere sanguinem est eam
+utilitatem percipere, quam ipse suae carnis et sanguinis precio (hoc est sua obedi-
+entia, quae tanta fuit, ut vitam pro nobis profuderit) nobis peperit. Est autem ea
+
+72 Castellio, De Arte Dubitandi, 174.
+73 Castellio, De Arte Dubitandi, 186.
+74 Castellio, De Arte Dubitandi, 177.
+
+Zwingliana XXXV, 2008
+
+39
+
+utilitas venia peccatorum et spiritus iustiﬁcus, sicuti supra de Christo beneﬁcio
+disserentes demonstravimus. Huius autem beneﬁcii memoriam nobis commen-
+dare Christus volens ceremoniam illa instituit, [.. .]. Est autem sciendum non esse
+idem Christi corpus comedere, hoc est Christianum sive iustum ﬁeri, et eius mor-
+tis memoriam hac ceremonia celebrare. 75
+
+Stefania Salvadori
+
+In summary, according to the way Scripture is often expressed, eating the
+body and drinking the blood of Christ means to perceive and achieve – «per-
+cipere» 76 – the beneﬁt – «utilitatem» – which he obtained for us with his sac-
+riﬁce,  namely,  to  perceive  by  faith  and  then  achieve  through  a  personal
+engagement the two beneﬁts he gives: the forgiveness of past sins for which
+believers must trust as a conditio sine qua non of the salvation that is possible
+and the bestowal of the «spiritum iustiﬁcum», the Spirit that makes right-
+eous, that guides but does not ﬁx human ethical behavior 77. The link between
+both of these beneﬁts of Christ is the criterion to grasp Castello’s original
+contribution in comparison with Zwingli.
+
+As we have seen in regard to faith, for Castellio as well the spiritual right-
+eousness  offered  by  Christ  is  not  merely  a  free  gift  of  God,  untied  from
+human will and donated with the «ﬁdes-cognitio Dei», but it is also a reward
+that the true believer must deserve because of the effort of pursuing concrete
+obedience 78. Spiritual righteousness, iustitia, is the goal that the believer has
+to conquer supported by spiritus iustiﬁcum in a daily ﬁght against the temp-
+tation of evil and the weakness of the ﬂesh 79. Spiritual righteousness is, in
+short,  both  human  obedience  and  divine  assistance,  free  moral  praxis  and
+obeying Christ’s teaching 80.
+
+The last reason for the refusal of Zwingli equating bread of life with faith
+«panis  vitae-ﬁdes»  is  now  clear:  reducing  the  ﬁrst  to  the  second  means,
+according to Castellio, denying the worth, the real and spiritual sense of the
+Holy  Supper;  it  means  drastically  minimizing  the  concrete  fulﬁlment  of
+
+75
+
+Ibidem. For the reference to the description of Christ’s twofold beneﬁt, see Castellio, De Arte
+Dubitandi, 154–169.
+
+76 For  Castellio  the  verb  «percipere»,  «to  perceive»  has  a  twofold  meaning:  as  intellectual
+understanding and, at the same time, as concrete fruition. According to the deﬁnition in the
+Thesaurus  Linguae  Latinae,  Omnia  per  Caelium  Secundum  Curionem  hac  nova  editione
+concinnata, cum eiusdem praefatione, in qua & ratio huius editionis, & ut commode quis hoc
+opere uti possit, via & modus indicatur, Froben, Basileae, 1561, 4 Voll, Vol. II, 898–899.
+
+77 For Castellio’s doctrine of Justiﬁcation, in particular for the connection faith-justice in Cas-
+tellio’s soteriology, see Castellio, De Arte Dubitandi, 143–154. A general, but useful critical
+introduction to that issue is provided in Buisson, Sébastien Castellion, Vol. II, Cap. XIX: Cas-
+tellion théologien et moraliste, 194–215.
+78 Castellio, De Arte Dubitandi, 143–145.
+79 Castellio, De Arte Dubitandi, 147–150.
+80 For  Castellio’s  detailed  analysis  of  the  cooperation  between  human  free  will  and  Christ’s
+Spirit of righteousness, see Sebastian Castellio, An possit homo per spiritus sanctum perfecte
+obedire legi Dei, in: Dialogi IV, Gouda, 1696, 246–263.
+
+40
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+Christ’s beneﬁts in human life; it means subtracting the believers from the
+responsibilities of their free choice for or against God and converting Chris-
+tian righteousness into a ﬁctitious justice 81.
+
+To Castellio, Zwingli shifts – but does not solve – the discussion from the
+bodily presence of Christ in bread and wine to the transcendence of faith:
+when considered sufﬁcient to ensure the salvation to men, they both make
+Christian  righteousness  completely  lacking  of  concreteness,  i.e.  of  sense
+because they reduce it to just the necessary consequence of God’s will. In this
+way Christian righteousness seems not to constitute a virtue in itself, but a
+mere proof of the grace received. On the contrary, in De Arte Dubitandi
+Christian iustitia is not a result bestowed by faith, but the – not a – Christian
+virtue:  through  faith  the  believer  has  the  opportunity  to  really  become  a
+righteous  man  acting  as  Christ  taught,  embodying  the  Lord’s  example  in
+himself.
+
+In  order  to  clarify  how  the  recovery  and  rejection  of  Zwingli’s  thesis
+coalesce in De Arte Dubitandi or, more precisely, in order to determine the
+relationship between faith and justice in the Eucharist according to Castellio,
+it is necessary to brieﬂy recall his soteriological model.
+
+In Castellio’s opinion faith and righteousness are not mutually exclusive:
+they are distinct but indissoluble moments of the circular soteriological pro-
+cess 82. Faith – as complete conﬁdence in the forgiveness of past sins obtained
+from the Father through the death on the cross of His Son and as trust in
+Christ’s teaching – opens the way of salvation. Regenerated by the sacriﬁce
+of Christ, the sinner can not be regarded as a righteous man by the mere fact
+of believing: he must demonstrate concretely his progressive improvement in
+acting freely, he has to make good use in his daily life of the «spiritus iustiﬁ-
+cum», conferred by Christ, and the effectiveness of which in healing the soul
+is well represented in the Gospel.
+
+During this process of real – because actually lived by the believer in his
+daily acting – and progressive - because developing in a gradual improvement
+during his lifetime – justiﬁcation, true Christians strengthen their starting
+
+81
+
+See, for example, Castellio, De Arte Dubitandi, 132–133: «Quod si quis hanc quoque cordis
+mundaciam imputativam esse putat, nihil causae et cur non et ipsam dei visionem imputati-
+vam  esse  putet.  Cum  enim  ipsius  cordis  oculis  videndus  sit  deus,  non  nisi  mundis  videri
+potest. Sicuti lucem non nisi mundis oculis videmus. Quod si non re vera sed imputative
+deum videbimus, non re vera sed imputative beatis erimus: quandoquidem beatitas est videre
+deum. Ita ﬁt ut dum isti omnibus modis imputativam, hac est imaginariam faciunt iusticiam,
+etiam beatitatem imputativam faciant.». In this chapter devoted to the Holy Supper, the target
+of Castellio’s criticism is obviously the doctrine of imputative Justiﬁcation, which this pages
+can not in detail describe. A general, but useful critical introduction to that issue is provided
+once  again  in: Buisson,  Sébastien  Castellion,  Vol.  II,  Cap.  XIX:  Castellion  théologien  et
+moraliste, 194–215
+
+82 Castellio, De Arte Dubitandi, 109.
+
+Zwingliana XXXV, 2008
+
+41
+
+Stefania Salvadori
+
+faith step by step by renewing the choice to act according to God’s will and
+they are supported in the commemoration of the Eucharistic sacriﬁce repre-
+sented in the Holy Supper with the ecclesiastic community 83.
+
+The link between Eucharistic celebration, the doctrine of justiﬁcation and
+Christology is the ﬁnal background of the debate. The Holy Supper offers in
+fact a symbolic representation of the twofold value dues to Christ’s sacriﬁce
+and of its concrete consequences in human life. According to Castellio, the
+merits of Zwingli’s spiritual interpretation of the Eucharist must certainly be
+acknowledged, but they must be supplemented by a broader reference to the
+concept of genuine righteousness in place of that of faith. As we have seen,
+Castellio’s personal contribution consists precisely in this integration.
+
+Abstract
+
+This article considers how far Castellio’s Eucharistic doctrine is Zwinglian
+by reference to De Arte Dubitandi and De vera et falsa religione commenta-
+rius. In debate with Roman Catholics and Lutherans about the physical pres-
+ence of Christ in the Eucharistic elements, both authors denied any real con-
+nection between the bread and wine and the body and blood of Christ and
+argued that «hoc est corpus meum» is to be interpreted ﬁguratively: as the
+body cannot be fed by a spiritual substance, neither can the soul be fed by a
+bodily substance, so the bread of life, «panis vitae», dispensed in the Holy
+Supper and assuring eternal life to believers is spiritual food. Yet the breaking
+point between the two authors stems exactly from the spiritual interpretation
+of this sacrament: according to Castellio eating Christ’s body – in the spiri-
+tual sense – is not the equivalent of believing in Him, as the Commentarius
+asserted.
+
+On  the  basis  of  a  particular  Christological  model De  Arte  Dubitandi
+relates the spiritual meaning of the Holy Supper to the effect of Christ’s two-
+fold beneﬁt in the real, ethical experience to which every believer must daily
+devote himself/herself. The bread of life is therefore not equivalent to faith,
+but represents the development of the divine message embodied by Christ,
+his example of obedience, his Spirit of Righteousness which guides – but does
+not force – free human effort to obey the Father in daily life and gain sal-
+vation through right acting. The true spiritual meaning of Holy Supper is
+
+83 Castellio, De Arte Dubitandi, 177: «Est autem sciendum non esse idem Christi corpus com-
+edere, hoc est Christianum sive iustum ﬁeri, et euius mortis memoriam hac cerimonia cele-
+brare.  Hoc  enim  saepe,  illud  non  nisi  semel  ﬁt,  et  sine  hoc  servari  homo  potest;  eius  rei
+exemplum est vel latro ille, qui in cruce credidit in Christum, at sine illo non item. Itaque in
+hac cerimonia non ﬁt homo iustus, sed iam iustus factus hac cerimonia fungitur.»
+
+42
+
+Zwingliana XXXV, 2008
+
+Sebastian Castellio and the Holy Supper: re-reading Zwingli in the pursuit of tolerance
+
+thus summarized in the word «iustitia», righteousness that means both the
+Spirit delivered in the second Christ’s beneﬁt and the human free obedience
+to the Father following Christ’s example.
+
+Dr. Stefania Salvadori, Zurich
+
+Zwingliana XXXV, 2008
+
+43
+
+Stefania Salvadori
+
+44
+
+Zwingliana XXXV, 2008
+
+

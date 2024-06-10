@@ -1,0 +1,2015 @@
+Detlef Roth
+
+Heinrich Bullingers Eheschriften1
+
+Heinrich Bullingers Eheschriften
+
+Heinrich Bullingers Eheschriften 1
+
+1
+
+von Detlef Roth
+
+«Contra immunditiam pro commendatione castitatis et
+continentiæ hunc librum scripsi quod mores huius
+seculi id viderentur requirere.»
+
+Einleitung
+
+Das Thema Ehe und Eheauffassungen im späten Mittelalter und in der Frü-
+hen Neuzeit stößt seit etwa zwanzig Jahren auf ein reges Interesse in der For-
+schung. Vor allem die kulturanthropologisch ausgerichteten Geschichts- und
+Literaturwissenschaften haben sich intensiv mit der Eheliteratur dieser Zeit
+befasst und sich dabei vorrangig Fragen nach der Wertschätzung der Ehe,
+den Geschlechterbeziehungen, dem Bild der Frau und den unterschiedlichen
+Bewertungen von Sexualität sowie nach deren Alterität und Modernität ge-
+widmet. 2 Der Reformation wird dabei häuﬁg – wie es im Gefolge der Thesen
+vom Prozess der Rationalisierung (Max Weber), der Zivilisierung (Norbert
+Elias)  und  der  Sozialdisziplinierung  (Gerhard  Oestreich)  auch  in  anderen
+Zusammenhängen immer wieder geschieht 3 – als entscheidender Motor für
+einen Modernisierungsschub gesehen, etwa was die Wertschätzung der Frau
+und der Ehe oder die persönliche Beziehung der Ehepartner betrifft. So ist in
+der Forschung noch heute trotz mittlerweile zahlreichen Gegenstimmen 4 die
+Auffassung verbreitet, die mittelalterlichen Kleriker hätten in der Ehe ledig-
+lich eine Zweck- und Zeugungsgemeinschaft gesehen und in erster Linie die
+Sakramentalität der Ehe und die erlaubte und unerlaubte eheliche Sexualität
+thematisiert; erst mit dem Humanismus und der Reformation sei ein neues
+
+1
+
+2
+
+3
+
+Ich danke Rainer Henrich für seine Recherchen im Bullinger-Briefwechsel und seine Hin-
+weise bei der Materialsuche.
+Zu diesen Begriffen vgl. Hans-Robert Jauss, Alterität und Modernität der mittelalterlichen
+Literatur, München 1977, 9–47.
+Vgl. dazu kritisch Gerd Althoff, Zur Bedeutung symbolischer Kommunikation für das Ver-
+ständnis des Mittelalters, in: Frühmittelalterliche Studien 31, 1997, 370–389, hier 370f. Gera-
+de für den Bereich der symbolischen Kommunikation vermutet Althoff aber in der Reforma-
+tion einen Auslöser für Veränderungen, vgl. ders., Gefühle in öffentlicher Kommunikation,
+in: Emotionalität. Zur Geschichte der Gefühle, hrsg. von Claudia Benthien u. a., Köln, Wei-
+mar, Wien 2002, 82–97, hier 96.
+
+4 Wohl die früheste ist Kathleen M. Davis, The sacred condition of equality – how original
+were Puritan doctrines of marriage?, in: Social History 2, 1977, 563–580, und dies., Continui-
+ty and Change in Literary Advice on Marriage, in: Marriage and Society. Studies in the Social
+History of Marriage, ed. by R. B. Outhwaite, London 1981, 58–80.
+
+Zwingliana XXXI, 2004
+
+275
+
+Detlef Roth
+
+Eheideal formuliert und die persönliche, emotionale Beziehung der Eheleute
+entdeckt worden. 5 Solchen wertenden Gegenüberstellungen von mittelalter-
+licher und frühneuzeitlicher Eheauffassung liegen meist nur wenige nicht re-
+präsentative  Quellenbereiche,  methodologisch  fragwürdige  Vergleiche  un-
+terschiedlicher Textsorten und eine weitgehende Missachtung des allerdings
+editorisch  schlecht  erschlossenen,  lateinischen  pragmatischen  Schrifttums
+des Spätmittelalters zugrunde, etwa der Ehepredigten, die für das spätmittel-
+alterliche Eheverständnis von großer Bedeutung sind. 6 Festzuhalten ist dem-
+gegenüber,  dass  die  Eheliteratur  des  Mittelalters  und  der  Frühen  Neuzeit
+durchaus heterogener ist, als meist angenommen wird, und dass sich epo-
+chen- und konfessionsspeziﬁsche Zuschreibungen wertender Art – zumin-
+dest beim heutigen Forschungsstand – verbieten. 7
+
+Die geschilderte Problematik spiegelt sich ein Stück weit auch in der For-
+schung zu Bullingers Hauptschrift über die Ehe, Der Christlich Eestand von
+1540, 8 der zwar in den letzten Jahren in sozial-, kultur- und geschlechterge-
+schichtlich ausgerichteten Disziplinen auf größeres Interesse gestoßen, aber
+erst unter wenigen Gesichtspunkten eingehender analysiert worden ist. Als
+gut erforscht darf man die Frage nach den Quellen bezeichen, die Bullinger
+benutzt hat, und nach dem Umgang des Reformators mit diesen Quellen. 9 So
+
+5
+
+6
+
+7
+
+Vgl. dazu den kritischen Forschungsüberblick von Rüdiger Schnell, Geschlechterbeziehun-
+gen  und  Textfunktionen.  Probleme  und  Perspektiven  eines  Forschungsansatzes,  in:  Ge-
+schlechterbeziehungen  und  Textfunktionen.  Studien  zu  Eheschriften  der  Frühen  Neuzeit,
+hg. von Rüdiger Schnell, Tübingen 1998, 1–58, hier vor allem 11ff., und ders., Sexualität und
+Emotionalität in der vormodernen Ehe, Köln 2002,155 f.
+Vgl. dazu etwa Schnell, Geschlechterbeziehungen (Anm. 5), und ders., Frauendiskurs, Män-
+nerdiskurs,  Ehediskurs.  Textsorten  und  Geschlechterkonzepte  in  Mittelalter  und  Früher
+Neuzeit, Frankfurt a.M. 1998, bes. 11–29. Bei der längst nicht mehr überschaubaren Menge
+an Literatur zu dieser Thematik hängt es auch sehr davon ab, welche Forschungsbeiträge je-
+weils herbeigezogen werden. So übernimmt beispielsweise H. J. Selderhuis, Marriage and Di-
+vorce in the Thought of Martin Bucer, Kirksville, Missouri 1999, 27, die negative Beurteilung
+der mittelalterlichen Eheauffassung aus einem Aufsatz von 1911, ohne die neuere Forschung
+hinzuzuziehen.
+Vgl. dazu Schnell, Geschlechterbeziehungen (Anm. 5), 39–45. Einen guten Überblick über
+die Vielfalt unterschiedlicher Vorstellungen über Ehe, Partnerschaft und Sexualität in Spät-
+mittelalter  und  Früher  Neuzeit  vermittelt  Schnell,  Frauendiskurs  (Anm. 6),  39–159,  und
+Schnell, Sexualität (Anm. 5), passim. Einen Überblick über den reformatorischen ‹Ehedis-
+kurs›  gibt  Manuel Braun,  Ehe,  Liebe,  Freundschaft.  Semantik  der  Vergesellschaftung  im
+frühneuhochdeutschen Prosaroman, Tübingen 2001, 133–158, der allerdings im Hinblick auf
+die Fragestellung seines Buches nicht an den Differenzen zwischen den einzelnen Eheschrif-
+ten interessiert ist. Es hängt eben auch vom Blickwinkel ab, ob man eher die Übereinstim-
+mungen oder die Unterschiede in den Texten betonen will.
+
+8 Heinrich Bullinger, Der Christlich Eestand. Von der heiligen Ee harkummen / wenn / wo / wie
+
+/ vnnd von weam sy vfgesetzt .. . Zürich: Christoph Froschauer 1540 (HBBibl 1, Nr. 129).
+
+9 Alfred Weber, Heinrich Bullingers «Christlicher Ehestand», seine zeitgenössischen Quellen
+und die Anfänge des Familienbuches in England, Diss. Leipzig 1929; Alfred Schindler, Kir-
+chenväter und andere alte Autoritäten in Bullingers «Der Christlich Eestand», in: Von Cy-
+
+276
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+hat Bullinger, wie Alfred Weber und Alfred Schindler gezeigt haben, vor al-
+lem im zweiten Teil seiner Eheschrift mit seinen Anweisungen an die Eheleu-
+te vielfach auf die Institutio christiani matrimonii des Erasmus von Rotter-
+dam und die Schriften De institutione feminae christianae sowie De ofﬁcio
+mariti des Spaniers Lodovico Vives zurückgegriffen, ohne dies kenntlich zu
+machen. Das gilt teilweise auch für Väterzitate. 10 Nicht in den Blick genom-
+men wurde hingegen das Verhältnis von Bullingers Ehetraktat zu spätmittel-
+alterlichen  Eheschriften,  die  zwar  nicht  als  direkte  Quellen  anzusprechen
+sind, aber manche Besonderheiten des Christlich Eestand in einem anderen,
+differenzierteren Licht erscheinen lassen. Aus kirchengeschichtlich-theolo-
+gischer Sicht ist die These einer engen Gemeinsamkeit zwischen Bullingers
+Bundestheologie und seiner Ehetheologie zu erwähnen. 11 Diese These Char-
+les William Pfeiffers verkennt jedoch, dass Bullingers Ausführungen vielfach
+traditionell und die Gemeinsamkeiten zwischen Bundes- und Ehetheologie
+meist recht oberﬂächlicher Art sind. 12
+
+Seit etwa fünfzehn Jahren beschäftigen sich vor allem die Geschichts- und
+Literaturwissenschaften mit Bullingers Ehetraktat, meist unter geschlechter-
+geschichtlichen Fragestellungen. So heben Jutta Eming und Ulrike Gaebel
+unter  Berücksichtigung  der  Argumentationsstrategien  die  «Modernität»
+hervor, die in Bullingers Ratschlägen zum Umgang der Eheleute miteinander
+zum Ausdruck komme, und sprechen von «einer fast spektakulär zu nennen-
+den Umarbeitung», die Bullinger gegenüber Erasmus in seiner differenzier-
+ten Stellungnahme zum Verhältnis von Mann und Frau vornehme. 13 Dage-
+
+prian zur Walzenprägung. Streiﬂichter auf Zürcher Geist und Kultur der Bullingerzeit, hrsg.
+von Hans Ulrich Bächtold, Zug 2001, 29–39.
+
+13
+
+10 Vgl. Schindler (Anm. 9), 36–38.
+11 Charles William Pfeiffer, Heinrich Bullinger and Marriage, PhD. St. Louis University 1981,
+vor allem 90–105. Pfeiffers umfangreiche Arbeit ist im Übrigen über weite Strecken eine Pa-
+raphrase des Christlich Eestand.
+
+12 Hinzu kommt, dass die Forschung die Bedeutung der Bundestheologie für Bullinger in letz-
+ter Zeit relativiert hat, vgl. Peter Opitz, Heinrich Bullinger als Theologe. Studien zu den «De-
+kaden», Zürich 2004 [im Druck], Kap. V.
+Jutta Eming/Ulrike Gaebel, Wie man zwei Rinder in ein Joch spannt. Zu Heinrich Bullingers
+‹Der Christliche Ehestand›, in: Eheglück und Liebesjoch. Bilder von Liebe, Ehe und Familie
+in der Literatur des 15. und 16. Jahrhunderts, hg. von Maria E. Müller, Weinheim, Basel 1988,
+125–154, hier 137 und 138. Zu ähnlichen Folgerungen kommen auch Ulrike Hörauf-Erﬂe,
+Wesen und Rolle der Frau in der moralisch-didaktischen Literatur des 16. und 17. Jahrhun-
+derts im Heiligen Römischen Reich Deutscher Nation, Frankfurt a.M. u.a. 1991, 150–156,
+und Irmintraut Richarz, Oikos, Haus und Haushalt. Ursprung und Geschichte der Haus-
+haltsökonomik, Göttingen 1991, 107–109. Johannes Schwitalla, Textsortenstile und Texther-
+stellungsverfahren  in  Ehetraktaten  des  15.  und  16. Jahrhunderts,  in:  Text  und  Geschlecht.
+Mann und Frau in Eheschriften der frühen Neuzeit, hg. von Rüdiger Schnell, Frankfurt a.M.
+1997, 79–114, hier 102–106, kommt zum Schluss, dass auch die sprachliche Gestaltung der
+Eheschrift  ein  Bemühen  Bullingers  «um  einen  Ausgleich  der  Darstellung  weiblicher  und
+männlicher Verhaltensanforderungen» erkennen lasse (106).
+
+Zwingliana XXXI, 2004
+
+277
+
+Detlef Roth
+
+gen  betonen  Anette  Völker-Rasor  und  Monika  Gsell  zu  Recht,  dass  das
+Verhältnis der Geschlechter bei Bullinger nicht nur durch Gegenseitigkeit,
+sondern gerade auch durch eine klare Hierarchie geprägt sei. 14 Völker-Rasor
+widmet sich außerdem der Bedeutung des negativen Gegenpols der Ehe, der
+Hurerei, in Bullingers Eheschrift, den verbotenen Verwandtschaftsgraden,
+die Bullinger ausführlich thematisiert, und dem Aspekt der Sozialdisziplinie-
+rung. 15 Diese Ansätze greift die Historikerin Susanna Burghartz auf; sie sieht
+im Christlich Eestand in erster Linie einen «Ordnungstext», der stark vom
+reformatorischen «Reinheitsdiskurs» geprägt sei und «den binären Gegen-
+satz von Reinheit und ‹Unzucht›, Licht und Finsternis» betone. Die «Auf-
+wertung der ehelichen Sexualität und die neue Bestimmung der Ehe als Ort
+der  Reinheit»  bei  Bullinger  bringe  «mit  dialektischer  Notwendigkeit  die
+‹Unzucht› hervor, die zu bekämpfen die Reformatoren nicht zuletzt mit ihrer
+Ehetheologie angetreten waren». 16
+
+Der Forschungsüberblick zeigt, dass der Christlich Eestand kaum je als
+Ganzes in den Blick genommen wurde, sondern meist nur unter bestimmten
+Aspekten, vorwiegend unter Geschlechterperspektive; so hat gerade der ers-
+te, meist als – wie sich zeigen wird, zu Unrecht – ‹theoretisch› charakterisier-
+te Teil 17 wenig Beachtung gefunden. Es fehlt außerdem eine vergleichende
+Studie zu Bullingers wichtigsten Schriften zur Ehe, 18 und auch Versuche, den
+Christlich  Eestand  gegenüber  anderen  reformatorischen  Eheschriften  der
+Zeit zu positionieren oder in größere literarhistorische Zusammenhänge ein-
+zuordnen, sind erst in Ansätzen vorhanden. Diese Desiderata sollen in einer
+dreifachen Annäherung an Bullingers Christlich Eestand aufgegriffen wer-
+den: über das Verhältnis zu seinen eigenen Schriften, zu anderen reformato-
+rischen Eheschriften, die vor 1540 entstanden sind, und zur spätmittelalter-
+lichen Eheliteratur.
+
+14 Anette Völker-Rasor, Bilderpaare – Paarbilder. Die Ehe in Autobiographien des 16. Jahrhun-
+derts, Freiburg i.Br. 1993, 207–211; Monika Gsell, Hierarchie und Gegenseitigkeit. Überle-
+gungen zur Geschlechterkonzeption in Heinrich Bullingers Eheschriften, in: Geschlechter-
+beziehungen und Textfunktionen. Studien zu Eheschriften der Frühen Neuzeit, hrsg. von
+Rüdiger Schnell, Tübingen 1998, 89–117.
+
+15 Völker-Rasor (Anm. 14), 89–95, 159–171, 206–211.
+16
+
+Susanna Burghartz,  Zwischen  Integration  und  Ausgrenzung.  Zur  Dialektik  reformierter
+Ehetheologie am Beispiel Heinrich Bullingers, in: L’Homme 8,1, 1997, 30–42, hier 35, 33, 40
+und 42. Mit Ergänzungen hierzu auch dies., Zeiten der Reinheit – Orte der Unzucht: Ehe und
+Sexualität in Basel während der frühen Neuzeit, Paderborn 1999, 49–69.
+
+17 Vgl. etwa Völker-Rasor (Anm. 14), 90, oder Gsell (Anm. 14), 108f.
+18 Pfeiffer (Anm. 11) zieht zwar fast alle wichtigen Schriften Bullingers zur Ehe heran, aber nur,
+um  bestimmte  Positionen  des  Zürcher  Reformators  zu  verdeutlichen.  Gsells  Aufsatz
+(Anm. 14)  basiert  hingegen  auf  einem  detaillierten  Vergleich  von  Kapitel  17  und  18  des
+Christlich  Eestand  mit  den  entsprechenden  Kapiteln  der Volkommnen  vnderrichtung.  Zu
+dieser Schrift s.unten, Anm. 34.
+
+278
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+Abriss der Eheliteratur des Spätmittelalters und des 16. Jahrhunderts
+
+Bullinger beklagt sich im Vorwort seines Christlich Eestand unter anderem
+darüber, dass die Leute die Ehe nicht so schätzten, wie sie sollten, und dass
+sie nicht wüssten, was die Ehe eigentlich sei und warum man sie eingehen
+solle. 19 Wie dieses Urteil auch immer zu bewerten ist, gibt es zumindest An-
+lass dazu, die Eheliteratur des 13. bis 16. Jahrhunderts kurz zu skizzieren.
+
+Mit der Festlegung der Ehe als Sakrament im Verlaufe des 12. Jahrhun-
+derts und mit dem allgemeinen Anwachsen der literarischen Produktion im
+Spätmittelalter wächst auch die Literatur über die Ehe in heute noch längst
+nicht erfasstem Maße. 20 Meist wird die Ehe nicht in eigenständigen Texten
+behandelt, sondern in bestimmten thematischen Zusammenhängen, so in den
+theologischen Summen und Sentenzenkommentaren und meist auch in den
+Bußsummen im Zusammenhang mit der Sakramentenlehre; andere Zusam-
+menhänge ergeben sich in Dekalogauslegungen, in Tugend-und-Laster-Ka-
+talogen, in Fürstenspiegeln und in Predigtsammlungen, etwa in Sermones de
+tempore oder in Sermones ad statum. 21 Selbständige Ehetraktate in lateini-
+scher Sprache sind seit dem 12., in deutscher Sprache erst seit dem 15. Jahr-
+hundert überliefert, einige davon wurden auch gedruckt. 22 Die wichtigsten
+gedruckten  vorreformatorischen  deutschsprachigen  Ehetraktate  sind  Al-
+brechts von Eyb Ob einem manne sey zunemen ein eelichs weyb oder nicht
+(1472) und der Sermo de matrimonio oder Von dem Eelichen sta[n]dt (nach
+1460). 23
+
+Im 16. Jahrhundert, in dem immer noch das Lateinische die vorherrschen-
+de Schriftsprache war, sind deutlich mehr gedruckte deutsche Eheschriften
+zu verzeichnen. Die wichtigsten sind neben denjenigen Luthers 24 Justus Me-
+nius Oeconomia christiana (1529), Johannes Brenz Wie in Ehesachen zu han-
+
+19 Bullinger, Christlich Eestand (Anm. 8), Bl. A3r.
+20 Das wird von der Forschung, die sich häuﬁg auf wenige Autoren und Texte stützt, unter-
+
+schätzt.
+
+21 Zu den Ehepredigten vgl. David D’Avray, M. Tausche, Marriage sermons in Ad status collec-
+tions of the central middle ages, in: Archives d’histoire doctrinale et littéraire du moyen age
+47, 1980, 71–119, und David D’Avray, Medieval Marriage Sermons. Mass Communication in
+a Culture without Print, Oxford 2001.
+
+22 Zur  deutschsprachigen  Eheliteratur  vgl.  etwa  Erika Kartschoke  (Hrsg.),  Repertorium
+deutschsprachiger  Ehelehren  der  Frühen  Neuzeit,  Bd.  I/1,  Berlin  1996,  und  Schnell,  Ge-
+schlechterbeziehungen (Anm. 5) (mit weiterführender Literatur).
+
+23 Zu Albrechts von Eyb Eheschrift vgl. Detlef Roth, An uxor ducenda. Zur Geschichte eines
+Topos  von  der  Antike  bis  zur  Frühen  Neuzeit,  in:  Schnell,  Geschlechterbeziehungen
+(Anm. 5),  171–232,  hier  214–229.  Zum Sermo  de  matrimonio  vgl.  Kartschoke  (Anm. 22),
+Nr. 92, S. 195–199.
+
+24 Die wichtigsten Schriften Luthers zur Ehe mit bibliographischen Hinweisen ﬁndet man in
+Martin Luther, Vom ehelichen Leben und andere Schriften über die Ehe, hrsg. von Dagmar
+C. G. Lorenz, Stuttgart 1978 (RUB 9896).
+
+Zwingliana XXXI, 2004
+
+279
+
+Detlef Roth
+
+deln sei (1529), Leonhard Culmann Jüngen Gesellen, Junckfrawen und Wit-
+wen (1532), 25 Erasmus Alberus Ein gut Buch von der Ehe (1536), Johannes
+Bugenhagen Vom Ehebruch und Weglaufen (1540), Johannes Spangenberg
+Des  ehelichen  Ordens  Spiegel  und  Regel (1545),  Paul  Rebhun Hausfried
+(1546),  Erasmus  Sarcerius Buch  vom  heiligen  Ehestand  (1553),  Andreas
+Musculus Wider  den  Eheteufel  (1556),  Cyriacus  Spangenberg Geistliche
+Haustafel  (1556)  und Ehespiegel  (1561),  Johannes  Mathesius/Nikolaus
+Herrmann Oeconomia (1561) und Kaspar Bienemann Ehebüchlein (1587). 26
+Die meisten dieser Schriften haben über zehn Auﬂagen erlebt.
+
+Man kann dieser Liste entnehmen, dass vor Bullingers Christlich Eestand
+neben  denjenigen  Luthers  nur  gerade  vier  bedeutende  deutschsprachige
+Traktate über die Ehe aus protestantischer Feder geschrieben wurden, von
+denen  einer  ausschließlich  rechtliche  Fragen  erörtert  (Brenz),  ein  anderer
+eine Übersetzung eines Ehetextes aus dem frühen 15. Jahrhundert darstellt
+(Alberus) und die übrigen zwei keine ‹reinen› Eheschriften sind. 27 Für einen
+Ehetraktat aus reformierter Sicht bestand daher um 1540 durchaus Bedarf.
+
+Was den Erfolg des Christlich Eestand angeht, könnte man zunächst an-
+nehmen, dass er mit seinen drei Auﬂagen nicht zu den verbreitetsten Ehetex-
+ten des 16. Jahrhunderts gehört. Doch dieser Eindruck täuscht: Denn einer-
+seits wurde Bullingers Schrift ins Englische übersetzt, erlebte neun Auﬂagen
+und übte großen Einﬂuss auf die englischsprachige Eheliteratur des 16. und
+17. Jahrhunderts aus; 28 andererseits wurde sie bis auf die Kapitel 9, 13 und 14
+vollständig in die Eheschrift des Lutheraners Erasmus Sarcerius integriert 29
+
+25 Vgl. dazu Index Aureliensis. Catalogus librorum sedecimo saeculo impressorum. Prima pars,
+
+Tom. XI, Baden-Baden 1996, 39f.
+
+26 Vgl. Kartschoke (Anm. 22), passim; dort werden allerdings nur die in der Staatsbibliothek zu
+
+Berlin vorhandenen Eheschriften angegeben.
+
+27 Zu Alberus vgl. unten, Anm. 77, zu Menius vgl. unten S. 300 und Anm. 156.
+28 HBBibl  1,  Nr. 133–141;  zur  Rezeption  des Christlich  Eestand  in  England  vgl.  Weber
+(Anm. 9), 53–91; Carrie Euler, Heinrich Bullinger, Marriage, and the English Reformation:
+The Christen State of Matrimonie in England, 1540–53, in: Sixteenth Century Journal 34,
+2003, 367–393; Anthony Fletcher, The Protestant idea of marriage in early modern England,
+in: Religion, culture and society in early modern Britain. Essays in honour of Patrick Collin-
+son, ed. by Anthony Fletcher and Peter Roberts, Cambridge 1994, 161–181, hier v.a. 164 und
+176; John Witte, Anglican Marriage in the Making: Becon, Bullinger, and Bucer, in: The Con-
+tentious Triangle: Church, State, and University. A Festschrift in Honor of Professor George
+Huntston Williams, Kirksville, Missouri 1999, 241–259, hier 249–253; Valerie Wayne, Advice
+for women from mothers and patriarchs, in: Women and literature in Britain, 1500–1700, ed.
+by Helen Wilcox, Cambridge 1996, 56–79, hier 58f. Die Angabe: «Bullinger’s book was pu-
+blished in thirteen editions from 1541 to 1575» (74, Anm. 15) stimmt allerdings nicht; in die-
+sem Zeitraum wurden drei deutsche und neun englische Ausgaben gedruckt.
+
+29 Vgl. dazu Hörauf-Erﬂe (Anm. 13), S. 157 f. und 234, Anm. 215, und Kartschoke (Anm. 22),
+S. 182, beide allerdings mit unvollständigen Angaben, da Sarcerius selbst nicht vermerkt, wel-
+che Passagen er von Bullinger übernommen hat. Ich gebe anbei die Kapitel des Christlich Ee-
+stand an und in Klammern die entsprechenden Blattangaben bei Erasmus Sarcerius, Ein Buch
+
+280
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+und gelangte von dort – allerdings ohne Nachweise – in größerem Umfang
+auch in Cyriacus Spangenbergs Ehespiegel. 30 So haben denn auch Bullingers
+Gedanken zur Ehe im 16. Jahrhunderts weite Verbreitung gefunden. 31 Die
+Vielzahl und die Heterogenität der reformatorischen Schriften über die Ehe
+insgesamt  macht  allerdings  eine  Positionierung  des Christlich  Eestand
+schwierig.
+
+Bullingers Schriften zur Ehe und ihr Verhältnis zueinander
+
+Heinrich Bullinger hat sich schon früh mit der Ehe beschäftigt, und diese Be-
+schäftigung erfuhr in den Jahren 1527 und 1528 ihren ersten Höhepunkt: 32
+Seine Vorlesung über den Hebräerbrief von 1526/27 enthält zu Vers 13,4 ei-
+nen ausführlichen Exkurs über die Ehe sowie über Hurerei und Ehebruch; 33
+am 18. Juli 1527, an seinem 23. Geburtstag, beginnt Bullinger mit der Nie-
+derschrift seines ersten selbständigen Ehetraktats mit dem Titel Volkommne
+vnderrichtung desz christenlichen Eestands; 34 auf den 30. September 1527 ist
+sein Brautwerbungsschreiben an Anna Adlischwyler datiert; und am 24. Fe-
+bruar 1528 folgt ein weiterer, katechetischer Brief an die zukünftige Ehefrau,
+der auch einige Ausführungen über die Ehe und die Pﬂichten des Mannes
+und  der  Frau  enthält. 35  Erst  im  Februar  1540  liegt  Bullingers  Hauptwerk
+über die Ehe, Der Christlich Eestand, gedruckt vor. 36 In der Zwischenzeit hat
+
+vom heiligen Ehestande, Leipzig: Jakob Bärwald 1553: Kap. 1–3 (Bl. 8r-10v), 4 (62r-63r), 5
+(89v-91r), 6 (99r-v), 7 und 8 (44v-49v), 10 (6v-8v), 11 (10v-11r), 12 (64r-66r), 15 (57r-61v), 16
+(102r-103v), 17–24 (104v-121v), 25 (158r-159r).
+
+30 Vgl.  etwa  Cyriacus  Spangenberg,  Ehe-spiegel  .. .  In  Sibentzig  Braut-Predigten  zusammen
+verfasset, Straßburg: Samuel Emmel 1563, Bl. 37v, 135r-137r und 138r. Eine gründliche Un-
+tersuchung zu den Quellen des Ehespiegels fehlt.
+
+31 Die Bemerkung von Eming/Gaebel (Anm. 13), S. 125 (präzisiert in Anm. 1, S. 147 f.), Bullin-
+gers Traktat habe «außerhalb des schweizerischen Theologenmilieus nach dem 16. Jahrhun-
+dert nur noch wenig Beachtung gefunden», ist jedoch nicht ganz unberechtigt. Der Begrün-
+dung  dafür,  dass  der  Hauptteil  der  Schrift  ausgesprochen  pragmatisch  sei  und  «konkret
+zugeschnitten auf die historischen Verhältnisse der Züricher Gemeinde, in der Bullinger sein
+Predigtamt ausübte», überzeugt mich hingegen weniger, da nur schon die Rezeption Bullin-
+gers bei Sarcerius und Spangenberg dagegen spricht.
+
+32 Voraus geht ein katechetischer Brief an Marx Rosen vom 5. Februar 1525, HBBW 1, 57–65,
+
+zur Ehe vgl. 61,4–63,3.
+
+33 Heinrich Bullinger, Vorlesung über den Hebräerbrief, HBT 1, 133–268, hier 246–360.
+34 Volkommne vnderrichtung, Zürich, Zentralbibliothek, Ms. D 200, Bl. 31r-128v. Den Text
+transkribiert und erläutert hat Verena Wyss, Edition von Heinrich Bullingers «Volkommne(r)
+underrichtung .. .», Akzessarbeit, masch. Zürich 1968 (Institut für Schweiz. Reformationsge-
+schichte, Conv Gd XXVIII 464). Diese Transkription ist im Allgemeinen sehr zuverlässig.
+
+35 HBBW 1, 126–141 und 150–176.
+36 Bullinger, Christlich Eestand (Anm. 8). Terminus ante quem für das Erscheinen des Buches
+ist der 28. Februar 1540, vgl. Bullingers Brief an Oswald Myconius dieses Datums, HBBW
+10, Nr. 1366,2, 61. Die Angabe Bullingers im Diarium (Annales vitae), hg. von Emil Egli,
+
+Zwingliana XXXI, 2004
+
+281
+
+Detlef Roth
+
+sich der Zürcher Reformator nur knapp in seinem gedruckten Kommentar
+über den Hebräerbrief von 1532 37 und ausführlicher in den Kommentaren
+über  den  ersten  Korintherbrief  von  1534  und  über  den  Epheserbrief  von
+1535 zur Ehe geäußert. 38 Nach dem Christlich Eestand enthält nur noch die
+zehnte Predigt der zweiten Dekade umfangreichere Ausführungen zum The-
+ma  Ehe. 39  Für  das  Verständnis  der  Besonderheiten  des Christlich  Eestand
+sind vor allem der Eheexkurs in der Vorlesung über den Hebräerbrief und die
+Volkommne vnderrichtung bedeutsam, da Bullinger den Eheexkurs für die
+Volkommne vnderrichtung und diese wiederum für den Christlich Eestand
+ausführlich benutzt hat.
+
+Zunächst sei daher kurz auf die inhaltlichen Zusammenhänge zwischen
+diesen  drei  Schriften  eingegangen.  Der  erste  Teil  des Eheexkurses  enthält
+nach einer Deﬁnition der Ehe eine ausführliche Darlegung der Würde und
+Ehre der Ehe, eine Widerlegung von Einwänden gegen die Ehe, Anweisun-
+gen dafür, wie man eine passende Ehefrau ﬁndet und worauf man dabei zu
+achten hat, und einen Abschnitt über Hurerei und Ehebruch. 40 Mit Ausnah-
+me dieses letzten Abschnitts und mit geringfügigen Auslassungen, Hinzufü-
+gungen und Umstellungen übernimmt Bullinger den ganzen Eheexkurs in
+den ersten zwei Kapiteln der Volkommnen vnderrichtung. 41
+
+Das Verhältnis der Volkommnen vnderrichtung zum Christlich Eestand
+ist ebenso einfach wie komplex: Von den behandelten Themen her wird die
+unveröffentlicht gebliebene Eheschrift vollständig in den gedruckten Traktat
+übernommen, was bereits ein kurzer Blick auf das Inhaltsverzeichnis belegt.
+Das erste Kapitel der Volkommnen vnderrichtung verteilt sich im Christlich
+Eestand auf die Kapitel 1 bis 3 sowie 10 und 11. Die übrigen Kapitel entspre-
+chen bis auf die Einteilung weitgehend den Kapiteln 15 bis 24 des Christlich
+Eestand.
+
+Zürich 1904, 27, er habe das Buch im März veröffentlicht, kann somit nicht stimmen. Die
+Vorlage des Druckes ist teilweise erhalten in Zürich, Zentralbibliothek, Ms. Car III 206c,
+Fasc. 102, und Ms. E II 446, Bl. 194r-201v und 213r-218v.
+
+37 Commentarius in epistolam ad Hebraeos, Zürich: Christoph Froschauer 1532 (HBBibl 1,
+
+Nr. 38), Bl. 133v-134r.
+
+39
+
+38 Commentarius  in  priorem  Pauli  ad  Corinthios  epistolam,  Zürich:  Christoph  Froschauer
+1534 (HBBibl 1, Nr. 53), Bl. 72r-91v; Commentarii in epistolas Pauli ad Galatas, Ephesios,
+Philippenses  et  Colossenses,  Zürich:  Christoph  Froschauer  1535  (HBBibl  1,  Nr. 72),  Bl.
+176r-180v.
+Sermonum decades quinque, Zürich: Christoph Froschauer 1552 (HBBilb 1, Nr. 184), Bl.
+76v-85r, hier v. a. 77r-82r. Der Johanneskommentar In evangelium secundum Ioannem com-
+mentarius, Zürich: Christoph Froschauer 1543 (HBBibl 1, Nr. 153), Bl. 24v, enthält nur eine
+Drittelseite über die Ehe. Außerdem sind Predigtkonzepte aus den Jahren 1536 (zu Genesis
+2) und 1554 (zu 1. Korinther 7) enthalten: Zürich, Zentralbibliothek, Ms. Car III 203,1, Bl.
+9–10, und Ms. Car III 206,1, Bl. 29–34.
+
+40 Bullinger, Vorlesung (Anm. 33), 247–252, 252–256, 256–258 und 258–260.
+41 Vgl. Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 33r-39r, 39r-43v, 44r-51v.
+
+282
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+Der Volkommne vnderrichtung liegt ein Aufbauschema zugrunde, dessen
+gedanklicher Hintergrund die Auffassung der Ehe als Zentrum der ökono-
+mischen Einheit Haus darstellt und das sich bis ins 13. Jahrhundert zurück-
+verfolgen lässt. 42 Ob Bullinger die Traditionalität dieses Aufbauschemas be-
+wusst war, bleibe dahingestellt. Sein unmittelbares Vorbild war jedenfalls die
+Institutio christiani matrimonii des Erasmus 43 – wobei er allerdings den aus-
+führlichen  eherechtlichen  Teil  gar  nicht  beachtet  –,  bei  gewissen  Themen
+auch  Vives.  Bullingers  Bemerkung  im  Vorwort,  was  er  geschrieben  habe,
+habe er «zum teyl erlernet usz den wysen und iren schryben: zum teyl usz in-
+geben und art miner natur und verstands / ouch usz geh eorten und selbs er-
+faarnen byspilen in ander lüten», 44 ist durchaus zutreffend und deutet an,
+dass der Traktat ein Text eigenständiger Prägung ist. Aufgrund der benutzten
+Hauptquellen und dem vielfachen Zitieren von Beispielen aus der Antike er-
+hält Bullingers frühe Eheschrift den typischen Duktus eines gelehrten, hu-
+manistischen Traktates.
+
+Im Christlich Eestand lässt Bullinger viele, wenn auch längst nicht alle in-
+haltlichen Anleihen aus Erasmus und Vives und die meisten Beispiele aus der
+Antike,  die  er  in  der Volkommnen  vnderrichtung  anführt,  wieder  weg. 45
+Auch der oft dialogische Stil und die konkreten Anweisungen für die jungen
+Eheleute  weichen  einem  gesetzteren  Stil  mit  allgemeineren  Anweisungen.
+Hinzu kommen im Christliche Eestand mehrere Kapitel, mit denen die For-
+schung bisher wenig anzufangen wusste, da sie scheinbar eher theoretischen
+Charakters sind und für die vorherrschenden Interessen von geringer Bedeu-
+tung. Dabei sind sie das Pendant dessen, was Bullinger 1527 gegenüber der
+Eheschrift  des  Erasmus  weglassen  hat.  Bemerkenswerterweise  behandeln
+diese Kapitel durchwegs eherechtlich und ordnungspolitisch relevante Fra-
+gen, wie sie auch in den Satzungen des Zürcher Ehegerichts in knapper Form
+festgehalten und erörtert werden: 46 die rechtmäßige Zusammenfügung der
+
+42 Vgl. Schnell, Geschlechterbeziehungen (Anm. 5), S. 45. Das Schema stammt aus der Antike,
+und auch der Epheserbrief 5,22–33 und 6,1–9 erörtert die drei grundlegenden Personenbe-
+ziehungen innerhalb eines Hauses.
+
+43 Bullinger nennt seinen Traktat im Diarium denn auch in Übereinstimmung mit der Schrift
+des Erasmus «Institutio christiani matrimonii», obwohl dies dem deutschen Titel nicht ent-
+spricht; Bullinger, Diarium (Anm. 36), 15.
+
+44 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 32v.
+45
+
+In  Dekade  2,10,  Sermones  (Anm. 39)  zitiert  Bullinger  wieder  wesentlich  häuﬁger  antike
+Schriftsteller (vgl. auch unten, Anm. 80). Das dürfte ein Hinweis darauf sein, dass Bullinger
+diese Form von gelehrtem Stil je nach Zielpublikum einsetzt. Der Christlich Eestand richtet
+sich ja Bullingers eigenen Worten zufolge an die einfachen Eheleute als intendiertem Ziel-
+publikum, die Dekaden sind hingegen für Bullingers Predigerkollegen bestimmt.
+
+46 Freilich erwähnt Bullinger das Zürcher Ehegericht, die Eherechtsordnungen und die Sitten-
+mandate mit keiner Silbe, weshalb die Forschung diesen Zusammenhang bisher übersehen
+hat.
+
+Zwingliana XXXI, 2004
+
+283
+
+Detlef Roth
+
+Eheleute, die Zustimmung der Eltern, dass die Eltern die Kinder nicht zu ei-
+ner Ehe zwingen dürfen, die verbotenen Verwandtschaftsgrade, die Einwil-
+ligung beider Eheleute, die Hurerei, der Ehebruch und die Ehescheidung. 47
+Auch die Funktion der Hochzeit als öffentliche Bestätigung der Ehe, die in
+der Volkommnen vnderrichtung noch nicht genannt wird, und die Ausdeh-
+nung und Umfunktionalisierung des Kapitels über Schmuck und Kleidung
+haben einen rechtlich-ordnungspolitischen Hintergrund. 48 Es geht hier also
+keineswegs um theoretische Fragen, sondern um Probleme, mit denen jeder
+Mensch damals konfrontiert werden konnte. Die beiden Hauptteile des Ehe-
+buchs lassen sich vielleicht am ehesten als Auseinandersetzung mit der recht-
+lich-‹öffentlichen› und der ‹privaten› Seite der Ehe charakterisieren, sofern
+man ‹öffentlich› und ‹privat› nicht im Sinne Habermas’ auf die Struktur po-
+litischer  Organisation,  sondern  auf  Formen  sozialer  Kommunikation  be-
+zieht. 49 Die rechtlich-‹öffentliche› Seite war an sich die Angelegenheit der
+Obrigkeit, die Pfarrer waren jedoch dazu verpﬂichtet, die entsprechenden
+Mandate auf der Kanzel zu verlesen. 50 Aus der ‹privaten› Seite der Ehe hielt
+sich die Obrigkeit in legislatorischer Hinsicht heraus, 51 dafür lag es an den
+Seelsorgern, hier die gewünschte Ordnung zu vermitteln.
+
+Die inhaltlichen Zusätze des Christlich Eestand gegenüber der Volkomm-
+nen vnderrichtung und die Veränderungen im Stil, in den Beispielen und in
+der Argumentationsweise zeigen, dass Bullinger 1540 einen völlig neuen Text
+geschaffen hat. Diese grundsätzlichen Änderungen sollte man jedoch nicht
+vorschnell auf das reifere Alter Bullingers oder seine Erfahrungen als Ehe-
+mann zurückführen, eher schon auf die andere Funktion, die Bullinger als
+Antistes der Zürcher Kirche und Prediger innehatte, als der er einerseits in
+
+47 Bullinger, Christlich Eestand (Anm. 8), Kap. 4–9, 13, 14 und 25. Vgl. Zürcherische Ehege-
+richtsordnung, in: Z IV, 184–187, und Emil Egli, Actensammlung zur Geschichte der Zürcher
+Reformation in den Jahren 1519–1533, Zürich 1879, Nr. 944, 451–452.
+
+48 Bullinger, Christlich Eestand (Anm. 8), Kap. 13, 16 und 23. Das etwa ein Blatt umfassende
+Kapitel «Kleydung der kindenn» in der Volkommnen vnderrichtung (Anm. 34) behandelt
+zunächst die Kleidung in ihrer physischen Funktion, danach werden auch noch moralische
+Aspekte erörtert (Bl. 112v-113r). Im fast zwölf Druckseiten umfassenden Kapitel «Von der
+eerlichen zierd wider die üppigen hochfart der kleidern» des Christlich Eestand geht es aus-
+schließlich um die moralischen Aspekte der Kleidung (Bl. N4v-O2r).
+
+49 Vgl.  dazu  zusammenfassend  Rudolf Schlögl:  Öffentliche  Gottesverehrung  und  privater
+Glauben  in  der  Frühen  Neuzeit.  Beobachtungen  zur  Bedeutung  von  Kirchenzucht  und
+Frömmigkeit für die Abgrenzung privater Sozialräume, in: Das Öffentliche und Private in
+der Vormoderne, hrsg. von Gert Melville und Peter von Moos, Köln, Weimar, Wien 1998,
+165–209, hier 170–175.
+
+50 Vgl. etwa Zürcherische Ehegerichtsordnung (Anm. 47), 187,20 f.; Entsprechendes gilt auch
+
+für alle späteren Verordnungen, vgl. unten, Anm. 119.
+
+51 Was nicht heißt, dass entsprechendes Fehlverhalten nicht vor das Ehegericht gelangen konn-
+te, vgl. etwa zu Augsburg Lyndal Roper, The Holy Household. Women and Morals in Refor-
+mation Augsburg, Oxford 1989, 171–194.
+
+284
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+eherechtlichen Fragen sicher des öfteren als Experte herbeigezogen worden
+ist  bzw.  von  sich  aus  Stellungnahmen  verfasst  hat 52  und  andererseits  auch
+dazu verpﬂichtet war, die Satzungen des Ehegerichts (und die Sittenmandate)
+von der Kanzel zu verkünden.
+
+Mit zu bedenken ist aber auch, dass Bullinger den Christlich Eestand von
+Anfang  an  für  den  Druck  und  für  ein  gemischtgeschlechtliches  Publikum
+konzipiert hat. Im Vorwort schreibt er nämlich, dass «das gschriben lenger
+wearet vnd wyter gadt dann das geredt / so hab ich diß b euchle von dem heili-
+gen Eestand gsammlet vnd gschrifftlich vßgon lassen». 53 Dem Briefwechsel
+ist außerdem zu entnehmen, dass Bullinger von befreundeten Reformatoren,
+namentlich Vadian, gebeten worden ist, dieses Ehebüchlein zu verfassen, 54
+und dass er es mehrfach den Ehefrauen seiner Freunde zueignete. 55 Vielleicht
+hat Bullinger sogar die gemeinsame Lektüre, wie sie das Ehepaar Zwick ge-
+tätigt hat, 56 als Idealrezeption seines Ehebuchs vorgeschwebt. Die Volkomm-
+ne vnderrichtung dürfte hingegen wie die erste Fassung von De origine erro-
+ris eher als Übung für den Eigengebrauch 57 (oder den Gebrauch im engeren
+Umkreis) gedient haben, die nicht für den Druck bestimmt war. 58
+
+Als unmittelbaren Anlass für die Niederschrift gibt Bullinger in beiden
+Traktaten die Lasterhaftigkeit der Zeit an. Doch das ist üblich in moraldidak-
+tischen Texten, und lässt sich gerade im Christlich Eestand als rhetorische
+Strategie ‹entlarven›. Denn wenn Bullinger schreibt: «niemants verachtet /
+straafft vnd vecht man von kriegens / w oucherens / h ourens / schwerens / lie-
+gens / von trunckenheit oder füllery» usw., so trifft das zumindest auf Zürich
+nicht zu, das bereits mehrmals und gerade 1539 wieder alle diese Laster unter
+Strafe gestellt hat. 59 Interessant ist nun aber, wie Bullinger diese Lasterhaftig-
+
+52 Vgl. dazu die Fürträge Bullingers, Zürich, Zentralbibliothek, Ms. F 154, Bl. 25r-27v, und Ms.
+
+T 406.9, die vor allem die Ehescheidung und den Ehebruch behandeln.
+
+53 Bullinger, Christlich Eestand (Anm. 8), Bl. A3v.
+54 Vgl. HBBW 9, Nr. 1334,2 f., 258, und HBBW 10, Nr. 1366, 3 f., 61.
+55 Vgl. die Briefe von oder an Oswald Myconius, HBBW 10, Nr. 1366,2, 61, Ambrosius Blarer,
+
+Nr. 1368,1, 64, Johannes Zwick, Nr. 1370,10 f., 67, und Simon Grynäus, Nr. 1375,7, 75.
+
+56 HBBW 10, Nr. 1370, 10 f., 67.
+57 Zeugnis davon legen die Briefe Bullingers an Anna Adlischwyler ab, s.oben, Anm. 35.
+58 Zu De origine erroris schreibt Bullinger in seinem Werkverzeichnis, Omnium operum Hein-
+rychi Bullingeri catalogus, Zürich, Zentralbibliothek, Ms. F 98, Bl. 30v, er habe den Text ver-
+fasst «ad imitationem Lactantij, ut me exercerem, non autem ut ederetur in publicum». Im
+Vorwort zur Volkommnen vnderrichtung (Anm. 34), Bl. 32r-v, schreibt er, er sei «nitt unwüs-
+send wie vil mir der wysheyt / wüssenhalb und iarenhalb manglet». Dies mag trotz aller To-
+pik sicher mit ein Grund dafür gewesen sein, dass Bullinger diesen Text nicht publiziert hat.
+Die Tatsache, dass Bullinger deutsch schreibt und im Text beide Geschlechter anspricht, deu-
+tet nicht zwangsläuﬁg auf ein breites Laienpublikum als intendierten Leserkreis, vgl. Gsell
+(Anm. 14), 100, und Burghartz, Zeiten (Anm. 16), 52.
+
+59 Vgl. Christenlich Ordnung vnnd satzung eines Ersamen Rats der Statt Zürich, Zürich: Chri-
+stoph Froschauer [1539], Bl. A5r-B1v und B5v. Eine andere Frage ist freilich, ob die ange-
+
+Zwingliana XXXI, 2004
+
+285
+
+Detlef Roth
+
+keit erklärt und wie er ihr zu Leibe rücken will. 1527 schreibt er: «Dz er [der
+Eelich stand] aber recht oder letz gef eurt wirt / entstadt alein usz wüssenheit
+und unwüssenheyt.» 60 Die Menschen müssen also nur über das richtige Ver-
+halten  aufgeklärt  werden,  damit  sie  sich  auch  richtig  verhalten.  1540  be-
+schreibt Bullinger hingegen die Lasterhaftigkeit – wohl mit Blick auf Jesaja
+5, 29 – vor allem als semantisches Problem: «Das kumpt alles da har / das die
+laster nit me jren rechten nammen tragend / deßhalb sy niemants dermaßen
+schetzt / wie sy aber an jnen selbs vnd vor Gott sind. Der bl outig Todtschleger
+[. . .] heißt ein frommer redlicher kriegsmann. Der Woucherer heißt ein berich-
+ter geschickter mann. Truncken werden heißt ein g out sch eopﬂe haben» usw. 61
+Die Aufklärungsarbeit im Christlich Eestand besteht also auch, ja sogar vor-
+rangig  darin,  den  Leserinnen  und  Lesern  ein  Begriffsinstrumentarium  zu
+vermitteln, das klar zwischen Tugend und Laster unterscheidet. Nochmals
+Bullinger: «Vnnd hieruf wirt all vnser fürnemmen lenden / dz rechte reinig-
+keit yedermann trüwlich yngebildet vnd alle vnreinigkeit geleidet werde.» 62
+Deshalb  kann  Bullinger  in  seinem  Werkverzeichnis  auch  am  Rand  zum
+Christlich Eestand vermerken: «Contra immunditiam pro commendatione
+castitatis et continentiæ hunc librum scripsi quod mores huius seculi id vide-
+rentur requirere.» 63
+
+Sakramentalität und Würde der Ehe
+
+Die Ehe war ja ein besonders augenfälliger Streitpunkt zwischen Katholiken
+und Protestanten, 64 auch wenn er abgesehen von der Zölibatsdebatte weit
+weniger hohe Wellen warf als mancher andere Streitpunkt. 65 Der erste Teil
+und das letzte Kapitel des Christlich Eestand lassen sich ohne Kenntnis die-
+ser  unterschiedlichen  Auffassungen  von  Ehe  nicht  angemessen  verstehen.
+Die  Differenzen  betreffen  hauptsächlich  die  Ehe  als  Sakrament,  die  Ehe-
+scheidung, die Winkelehe, die verbotenen Verwandtschaftsgrade, die Bewer-
+tung der ehelichen Sexualität und die Abschaffung des Priesterzölibats.
+
+Wie nach ihm alle Reformatoren lehnte Luther die Auffassung der Ehe als
+gnadenwirksames Sakrament ab. Den Sakramentscharakter der Ehe hatten
+
+drohten Strafen auch wirklich ausgesprochen und ausgeführt wurden.
+
+60 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 31v.
+61 Bullinger, Christlich Eestand (Anm. 8), Bl. A2r.
+62
+63 Omnium operum catalogus (Anm. 58), Bl. 27r, zitiert auch in HBBibl 1, 64.
+64
+
+Ibid. Bl. A3v. Vgl. dazu auch Burghartz, Zwischen Integration (Anm. 16), 40.
+
+Ich verwende der Einfachkeit halber im Folgenden die anachronistischen Ausdrücke ‹Katho-
+liken› und ‹katholische Kirche›.
+
+65 Zur Zölibatsdebatte siehe Waldemar Kawerau, Die Reformation und die Ehe. Ein Beitrag zur
+Kulturgeschichte des sechzehnten Jahrhunderts, Halle 1892 (Schriften des Vereins für Refor-
+mationsgeschichte 10,2), 12–40.
+
+286
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+die Scholastiker seit dem 12. Jahrhundert herausgearbeitet, und seine deﬁni-
+tive Gestalt wurde 1274 festgelegt. Zugleich wurde die Ehe und das Eherecht
+zu einer rein kirchlichen Angelegenheit erklärt. 66 Vor allem dagegen wandte
+sich Luther, wenn er zwar an der Heiligkeit der Ehe festhält, aber gleichzeitig
+schreibt, dass «die Ehe ein äusserlich, weltlich Ding ist, wie Kleider und Spei-
+se, Haus und Hof, weltlicher Obrigkeit unterworfen». 67 Die rechtliche Seite
+der Ehe sollte infolgedessen der weltlichen Gerichtsbarkeit überlassen wer-
+den – was sich in der Praxis häuﬁg erst nach Jahrzehnten durchführen ließ
+–, 68 das Seelenheil der Eheleute hingegen weiterhin Aufgabengebiet der Kir-
+che sein. 69 Ganz ähnlich sah es auch Zwingli, der die Sakramentalität der Ehe
+ebenfalls ablehnte 70 und maßgeblich daran beteiligt war, dass in Zürich be-
+reits 1525 eine weltliche Ehegerichtsordnung geschaffen wurde. 71 Bullinger
+setzt sich zwar in keiner seiner Schriften explizit mit der katholischen Auf-
+fassung der Ehe als Sakrament auseinander; und erst im Christlich Eestand
+geht er auf das Problem der Weltlichkeit der Ehe ein: «ob glych wol die Ee
+ouch die Seel vnd inneren menschen angadt / h eort sy doch ouch vnder die
+vsserlichen ding / die der oberkeit vnderworffen sind.» 72 Doch ersetzt in sei-
+nen Schriften wie häuﬁg in der reformatorischen Eheliteratur eine ausführli-
+che Würdigung der Ehe die Erörterungen zum Ehesakrament der spätmittel-
+alterlichen Literatur.
+
+Bullinger beginnt seine Volkommne vnderrichtung mit einer Darlegung
+der Ehrung und Würdigung der Ehe durch die Heiden, durch Paulus und
+
+66 Vgl. zusammenfassend Leendert Brink, Art. Ehe/Eherecht/Ehescheidung VI. Mittelalter, in:
+
+TRE 9, 1982, 330–336.
+
+67 Martin Luther, Von Ehesachen, WA 30/III, 205. Dazu ausführlicher Klaus Suppan, Die Ehe-
+lehre  Martin  Luthers.  Theologische  und  rechtshistorische  Aspekte  des  reformatorischen
+Eheverständnisses, Salzburg, München 1971, 20–40.
+
+68 Vgl.  Hartwig Dieterich,  Das  protestantische  Eherecht  in  Deutschland  bis  zur  Mitte  des
+17. Jahrhunderts, München 1970 (Ius Ecclesiasticum 10), 75ff. Auch hatte das kanonische
+Recht in protestantischen Gebieten nicht sogleich ausgedient, vgl. Thomas Max Saﬂey, Ca-
+non Law and Swiss Reform: Legal Theory and Practice in the Marital Courts of Zurich, Bern,
+Basel, and St. Gall, in: Canon Law in Protestant Lands, ed. by Richard H. Helmholz, Berlin
+1992 (Comparative Studies in Continental and Anglo-American Legal History 11), 187–201,
+und  Anneliese Sprengler-Ruppenthal,  Das  kanonische  Recht  in  Kirchenordnungen  des
+16. Jahrhunderts, in: ibid., 49–121, hier 103–114.
+
+69 Vgl. Suppan (Anm. 67), 48–53.
+70 Vgl. etwa Huldreich Zwingli, De vera et falsa religione commentarius, Z III, 762–763.
+71 Zürcherische  Ehegerichtsordnung  (Anm. 47),  176–187.  Zur  Mitautorschaft  Zwinglis  siehe
+Heinrich Bullingers Reformationsgeschichte, hg. von J. J. Hottinger und H. H. Vögeli, Frau-
+enfeld 1838, I, 308, zum Ehegericht selbst Walther Köhler, Zürcher Ehegericht und Genfer
+Konsistorium I. Das Zürcher Ehegericht und seine Auswirkung in der deutschen Schweiz
+zur Zeit Zwinglis, Leipzig 1932, und Küngolt Kilchenmann, Die Organisation des zürcheri-
+schen Ehegerichts zur Zeit Zwinglis, Zürich 1946.
+
+72 Bullinger, Christlich Eestand (Anm. 8), Bl. B2r.
+
+Zwingliana XXXI, 2004
+
+287
+
+Detlef Roth
+
+durch Schriften der Kirchenväter. 73 Nun folgen wie im Eheexkurs der Vorle-
+sung über den Hebräerbrief eine Deﬁnition der Ehe und eine längere Auf-
+zählung von Gründen für die Würde der Ehe: 1. Die Einsetzung der Ehe
+durch Gott 2. am Anfang der Welt und 3. im Paradies 4. ihre Ehrung durch
+die verheirateten Patriarchen des Alten Testaments 5. Christus wollte ehelich
+geboren werden und hat 6. sein erstes Wunderzeichen an der Hochzeit zu
+Kanaa getan und den Eheleuten durch seine Gegenwart Zuversicht gegeben
+7. Auch das Konzil von Nizäa hat die Ehe für heilig erklärt 8. Zahlreiche Kir-
+chenväter waren verheiratet und haben die Ehe in Ehre gehalten. 74 Wie be-
+reits die Randglossen im Manuskript zur Vorlesung über den Hebräerbrief
+deutlich machen, geht Bullinger dabei nach einem topischen Schema im Sin-
+ne der ars inventionis vor, indem er die verschiedenen Örter «Ab authore»,
+«A tempore», «A loco», usw. mit der Bibel und anderen Quellen konkreti-
+siert. 75 Es ist der Forschung denn auch nicht entgangen, dass bereits Luther
+in Eine predigt vom Ehestand in analoger Weise acht «Ehren» der Ehe dar-
+gelegt hatte. 76 Die Offenkundigkeit, mit der Luther und die anderen Refor-
+matoren  die  Würde  der  Ehe  hervorhoben,  hat  die  (protestantische)  For-
+schung lange, ja teilweise bis heute dazu verleitet zu glauben, es handle sich
+dabei um ein Speziﬁkum der protestantischen gegenüber der katholischen
+Eheauffassung 77 oder zumindest der humanistischen gegenüber der mittelal-
+terlichen. 78 Dabei übersah man, dass diese «Ehren» der Ehe und die dadurch
+zum Ausdruck gebrachte Wertschätzung der Ehe weder von Luther noch
+von  irgendeinem  Humanisten  stammen.  Vielmehr  handelt  es  sich  bei  den
+«Ehren» des Ehestandes um nichts anderes als einen literarischen Topos, der
+sich bis ins 12. Jahrhundert zurückverfolgen lässt und etwa in der Summa de
+virtutibus  et  vitiis  des  Wilhelm  Peraldus  (zweites  Viertel  des  13. Jahrhun-
+
+73 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 33r-34r.
+74
+
+Ibid. Bl. 34r-39r, Bullinger, Vorlesung (Anm. 33), 247–252. Bullinger handelt noch weitere
+Punkte ab, die aber nicht direkt zur Würde der Ehe gehören.
+
+75 Bullinger, Vorlesung (Anm. 33), 247f., zu L, M und S.
+76 Martin Luther, Eine predigt vom Ehestand, WA 17/I, 12–17. Vgl. dazu Weber (Anm. 9), 26.
+77 Waldmar Kawerau, Lob und Schimpf des Ehestandes in der Literatur des sechzehnten Jahr-
+hunderts,  in:  Preussische  Jahrbücher  69,  1892,  760–781,  hier  764.  Bereits  der  Lutheraner
+Erasmus Alberus erklärt im Vorwort seiner Bearbeitung der Eheschrift De re uxoria des Ve-
+nezianers Francesco Barbaro (1416): «Dann zu der zeit / alß dz b euchlin geschrieben ist / hatt
+man nit so fein von der Ehe künden reden / wie yetzundt / das machte der B eapstische grewel /
+der sich alle g oute ordenunge zu uerw eusten beﬂissen hat / vnd dem g eottlichen ehstand für eyn
+ﬂeyschlichen / das ist / für eyn vng eotlichen standt außgeschrien»; Erasmus Alberus, Eyn g out
+b ouch von der Ehe, Hagenau: Valentin Kobian 1536, Bl. A1v. Dazu Kartschoke (Anm. 22),
+Nr. 4, 6–9.
+
+78 Vgl. Weber (Anm. 9), 26, der in der Bullingerforschung oft zitiert wird. Doch generell ver-
+weist die Forschung in diesem Zusammenhang fast ausschließlich auf humanistische Autoren
+des 15. und frühen 16. Jahrhunderts wie Albrecht von Eyb, vgl. etwa Joel F. Harrington, Re-
+ordering marriage and society in Reformation Germany, Cambridge 1995, 59f. und Anm. 40.
+
+288
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+derts), die zu den verbreitetsten Werken des Spätmittelalters gehört und auch
+vom 15. bis zum 17. Jahrhundert immer wieder neu aufgelegt worden ist, so-
+gar  in  Form  von  zwölf  Punkten  gestaltet  ist. 79  Mit  anderen  Worten:  Die
+Wertschätzung der Ehe ist keine Erﬁndung oder Wiederentdeckung Luthers
+oder des Humanismus, sondern hat zumindest in der Literatur für Laien eine
+sehr lange Tradition – was nicht heißt, dass der Ehe in der Reformation kein
+anderer Stellenwert zugemessen worden wäre als vorher.
+
+Im Christlich  Eestand  nun  geht  Bullinger  anders  vor  als  in  den  frühen
+Schriften zur Ehe. Das Lob der Ehe bei den Heiden, mit dem die Volkommne
+vnderrichtung einsetzt, fällt weg. 80 Dafür beginnt Bullinger unter Hinweis
+auf Matthäus 19,3 f. mit einer Exegese von Genesis 2,18–24, welche die Fra-
+gen klärt, wo, wann, von wem – also die ersten drei «Ehren» der Ehe –, wie
+und warum die Ehe eingesetzt worden ist. 81 In Kapitel 2 gibt Bullinger eine
+Deﬁnition der Ehe, und in Kapitel 3 folgen weitere Erläuterungen hierzu.
+Die eigentliche Darlegung der Würde der Ehe nach dem Schema der «Ehren»
+folgt erst in Kapitel 11, vor der Auseinandersetzung mit dem Zölibat, und hat
+damit nicht mehr nur die Funktion, den Rezipienten die Ehe zu empfehlen,
+sondern auch, die Fragwürdigkeit des Zölibats zu unterstreichen. Bullinger
+hat also zum einen bewusst auf den rhetorisch-humanistischen Duktus der
+frühen Eheschrift verzichtet. Eine Konzentration auf das Wesentliche, näm-
+lich Genesis 2, schien ihm offensichtlich angemessener. Zum andern ist zu
+bedenken, dass Bullinger im Christlich Eestand vor die Anweisungen an die
+Eheleute mehrere Kapitel zu eherechtlichen Fragen einschiebt. Gemäß Bul-
+lingers eigenem Bekunden ist die Genesis 2-Stelle nun aber der «grund», auf
+den er den «gantzen volgenden buw setzen» möchte, enthält sie doch «vast
+die gantz summa des einen teils dises b ouchs», nämlich des zweiten, 82 was eine
+Konzentration  auf  die  altehrwürdige  biblische  Einsetzung  der  Ehe  durch
+Gott als Einstieg funktional gut erklärt und bestens vereinbar ist mit Bullin-
+gers Wertschätzung für das Alte Testament, die er allerdings mit vielen ande-
+ren teilt. 83
+
+In eine ähnliche Richtung weist auch der Unterschied in der Deﬁnition
+
+79 Gulielmus Peraldus, Summae virtutum ac vitiorum, Lyon 1585, 364–367. Vgl. dazu bereits
+Nikolaus Paulus,  Mittelalterliche  Stimmen  über  den  Eheorden,  in:  Historisch-politische
+Blätter für das katholische Deutschland 141, 1908, 1008–1024, der in der Forschung weitge-
+hend übersehen wurde. Diese commendatio matrimonii schließt allerdings nicht aus, dass ein
+Autor dennoch die Jungfräulichkeit höher schätzt als die Ehe, vgl. etwa Rodericus Zamoren-
+sis, Speculum humanae vitae I,11 und 12, [Beromünster: Helias Heliae 1472], Bl. 22v-24v.
+In Dekade 2,10: Bullinger, Sermones (Anm. 39), Bl. 77r, taucht es übrigens wieder auf.
+
+80
+81 Bullinger, Christlich Eestand (Anm. 8), Bl. A4r-A7v.
+82
+83 Man kann Dieterich (Anm. 68), 78, jedenfalls nur zustimmen: «Ausgangspunkt und Funda-
+ment aller Lehren ist wie bei Luther, der scholastischen Theologie und der Kanonistik, so
+auch bei den übrigen Reformationstheologen die göttliche Stiftung der Ehe im Paradies.»
+
+Ibid. Bl. A7v.
+
+Zwingliana XXXI, 2004
+
+289
+
+Detlef Roth
+
+der Ehe zwischen der Volkommnen vnderrichtung und dem Christlich Ee-
+stand. Die Deﬁnition der Ehe in der frühen Schrift hebt ähnlich wie diejenige
+Vives’ die «zemenf eugung der gm euten» und das Zusammenleben als zentrales
+Wesen der Ehe hervor, während die Aufzucht von Kindern eher sekundär er-
+scheint. 84  1540  löst  Bullinger  zuerst  seine  sprachkritische  Bemerkung  im
+Vorwort  ein,  indem  er  die  Begriffe  «Ee»  und  «coniugium»  etymologisch
+klärt, und deﬁniert die Ehe dann folgendermaßen: «Die Ee ist eins manns
+vnd eins wybs von Gott vfgesetzte r eachtm eassige vnd Gott wolgefellige / mit
+beider g outer verwilligung / z ousamenf eugung / das sy beide fründtlich vnd er-
+berlich by einandren wonind / einandren beholffen vnd beradtehn syend /
+vnküscheit vermydind / vnd kinder ziehind.» 85 Mit der Legimität, dem Ehe-
+konsens und den drei Ehezwecken mutuum adiutorium, evitatio fornicatio-
+nis und proles als Bestandteilen entspricht diese Deﬁnition gerade im Ver-
+gleich  zur Volkommnen  vnderrichtung  ganz  der  spätmittelalterlichen
+Lehrtradition, ist aber auch mit derjenigen Luthers durchaus vereinbar. 86 Of-
+fenbar war Bullinger im Christlich Eestand darauf bedacht, eine möglichst
+konsensfähige Deﬁnition der Ehe anzubieten, welche zwar das Zusammen-
+leben und die gegenseitige Hilfe als ersten Ehezweck nennt, was durchaus
+nicht üblich ist, 87 aber die Gemütsgemeinschaft der Eheleute und ihre Ge-
+meinsamkeit in Liebe und Leid nicht mehr besonders hervorhebt. Doch wie-
+der ist es das erste Kapitel mit der Auslegung von Genesis 2, welche die Be-
+deutung  dieses  Aspekts  bereits  vorwegnimmt,  wenn  Bullinger  das  Wort
+Gottes dahingehend auslegt, «das vnder den Eelüten die h eochst liebe verbin-
+dung vnnd einigkeit sin s eolle / die niemandts dann allein der todt trenne» und
+dass sich die Eheleute verhalten sollen wie die Glieder des Leibs, sodass «eins
+das ander liebet / schirmpt / neert / duldet / vnd glyche fr eoud vnnd glychs
+leid  mit  einanderen  tragend». 88  Diese  Betonung  der  Gemütsgemeinschaft
+verbindet Bullinger allerdings mindestens so sehr mit der spätmittelalterli-
+chen wie mit der reformatorischen Eheliteratur. 89
+
+84 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 34r; zu Vives und Erasmus vgl. Weber
+
+(Anm. 9), 27 f.
+
+85 Bullinger, Christlich Eestand (Anm. 8), Bl. A8r.
+86 Vgl. Dieterich (Anm. 68), 40f., und Weber (Anm. 9), 28. Dessen Zusammenfassung der Bul-
+
+lingerschen Deﬁnition ist allerdings etwas irreführend.
+
+87 Vgl. auch Dekade 2,10, Bullinger, Sermones (Anm. 39), Bl. 77v: «Prima ergo causa instituti
+coniugii est hominis commoditas, nimirum ut vita eius sit suavior et commodior.» Dem Ehe-
+zweck der gegenseitigen Hilfe wird vor allem in der kirchenrechtlichen Literatur meist nur
+eine zweitrangige Bedeutung beigemessen, vgl. Rudolf Weigand, Die Lehre der Kanonisten
+des 12. und 13. Jahrhunderts von den Ehezwecken, in: Studia Gratiana 12, 1967, 443–478, hier
+v. a. 447–460. In anderen literarischen Zusammenhängen kann er jedoch durchaus in den Vor-
+dergrund treten, vgl. etwa Schnell, Sexualität (Anm. 5), 155–226.
+
+88 Bullinger, Christlich Eestand (Anm. 8), Bl. A6v.
+89 Vgl. dazu Schnell, Sexualität (Anm. 5), 155–226.
+
+290
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+Die rechtlichen Aspekte der Ehe
+
+Unbestritten  ist  freilich,  dass  sich  die  Eheauffassung  der  mittelalterlichen
+und frühneuzeitlichen katholischen Kirche im Hinblick auf die rechtlichen
+Aspekte deutlich von derjenigen der protestantischen Kirchen unterschei-
+det. 90 So geht mit der Ablehnung des sakramentalen Charakters der Ehe, die
+vor  allem  Konsequenzen  für  die  Zuständigkeit  in  der  Rechtsetzung  und
+Rechtsprechung nach sich zog, auch eine Ablehnung der Unauﬂöslichkeit
+der Ehe einher, wie sie die katholische Kirche im Prinzip vertrat und noch
+vertritt. 91 Luther und die übrigen Reformatoren wollten die Scheidung in be-
+stimmten Fällen zulassen, ohne dass man in den Scheidungsgründen ganz
+übereinstimmte. 92
+
+Bullinger  behandelt  das  Thema  Scheidung  erst  ganz  am  Schluss  des
+Christlich Eestand, da er mit seinem Ehetraktat auch das Ziel verfolgt, die
+Eheleute so zu unterweisen, dass es nicht zu einer Scheidung kommt. Des-
+halb bezeichnet er die Scheidung als «artzny» und vergleicht sie mit einer
+Amputation («glider abschnyden»), um deutlich zu machen, dass es sich nur
+um das letztmögliche Mittel handelt. 93 Die Zürcher Ehegerichtsordnung und
+mit ihr auch Bullinger halten folgende Gründe für eine Scheidung fest: 1. «of-
+fenliche[r]  eebruch», 94  bei  Bullinger  begründet  durch  Matthäus  5,32  und
+19, 9; 95 Bullinger spricht sich allerdings im Gegensatz zur Zürcher Obrigkeit
+deutlich für die Todesstrafe bei Ehebruch aus und begründet die Möglichkeit
+für den unschuldigen Teil, wieder zu heiraten, wie Luther damit, dass der
+schuldige Teil ja mit dem Tod bestraft werden müsste, «darumb der gl eoubig
+den übelth eater in s eomlichem faal nit anders dann tod r eachnet / ob er schon
+durch  liederliche  vnd  nachlassen  der w ealt l eabt». 96  Diese  strenge  Haltung
+
+90 Dazu ausführlich Köhler (Anm. 71), Dieterich (Anm. 68) und Roland Kirstein, Die Entwick-
+lung der Sponsalienlehre und der Lehre vom Eheschluss in der deutschen protestantischen
+Eherechtslehre bis zu J. H. Böhmer, Bonn 1966 (Bonner rechtswissenschaftliche Abhandlun-
+gen 72).
+
+91 Ehen können zwar nach Kirchenrecht unter gewissen Umständen aufgelöst werden, in den
+übrigen Fällen, etwa bei Ehebruch, ist jedoch höchstens eine Trennung von Tisch und Bett
+vorgesehen. Ausnahmen bilden nicht vollzogene Ehen und das privilegium Paulinum, das
+dem Christen eine Scheidung erlaubt, wenn er vom ungläubigen Teil um der Religion willen
+verlassen wird.
+So anerkannte Calvin beispielsweise im Gegensatz zu vielen anderen Reformatoren und pro-
+testantischen Ehegerichten nur die Scheidung aufgrund von Ehebruch, später dann auch auf-
+grund  der  desertio,  vgl.  Heribert Schützeichel,  Katholische  Calvin-Studien,  Trier  1980,
+110–118, und Selderhuis (Anm. 6), 368f. Zu den deutschen Reformatoren und Juristen vgl.
+Dieterich (Anm. 68), 103–108 und 142–146.
+
+92
+
+93 Bullinger, Christlich Eestand (Anm. 8), Bl. O5v-O6r.
+94 Zürcherische Ehegerichtsordnung (Anm. 47), 186,13–21, d.h. der Ehebruch muss bewiesen
+
+werden können.
+
+95 Bullinger, Christlich Eestand (Anm. 8), O6v-O7r.
+96
+
+Ibid.  Bl.  F7v-G6v  und  O7v-O8r,  Zitat  O7v-O8r,  vgl.  Luther,  Vom  ehelichen  Leben,  WA
+
+Zwingliana XXXI, 2004
+
+291
+
+Detlef Roth
+
+dient wohl vor allem der Abschreckung, denn in einem undatierten Fürtrag
+differenziert Bullinger zuerst zwischen Ehebruch aus Schwäche und Ehe-
+bruch aus Mutwillen und sieht in beiden Fällen eine Grundstrafe von sechs
+Tagen Gefängnis bei Wasser und Brot vor, im schwerwiegenderen Fall soll
+der Ehebrecher aber zusätzlich «ein stund ansz hallszÿsen gestellt werden»; 97
+2. darf geschieden werden, wenn jemand «von natur oder anderen gebresten
+ungeschickt oder unmügend [.. .] z ou elichen wercken», also impotent ist, be-
+gründet damit, dass die Ehe zur Vermeidung von Unzucht eingesetzt worden
+sei; 98 und 3. um «größer sachen denn eebruch, als, so eines das leben ver-
+wurckte,  nitt  sicher  vor  einandren  wärind, w eutende,  unsinnige,  mit h oury
+tratzen, oder ob eines das ander unerloubt verließe, lang ußs wäre, ußsetzig
+und derglychen», 99 dies in Anlehnung an das römische Recht, wie Bullinger
+verdeutlicht. 100 Damit waren bereits so viele Scheidungsgründe zugelassen,
+dass das Zürcher Ehegericht alle Hände voll zu tun hatte. 101
+
+Die Winkelehe, der Hintergrund von Kapitel 5 des Christlich Eestand, 102
+ist ein altes Problem, das mit der Konsenslehre zusammenhängt, die von den
+Frühscholastikern entwickelt worden ist. Danach galt eine Ehe als geschlos-
+sen und nicht mehr auﬂösbar, wenn die gegenseitige Einwilligung der Nup-
+turienten vorlag und – zumindest für manche Theologen – der eheliche Akt
+vollzogen wurde. 103 Der Konsensgedanke vermochte sich kirchenrechtlich
+so durchzusetzen, dass die Kirche sogar den Missbrauch des Konsensgedan-
+kens in Form von Winkelehen zuließ. 104 Das heißt allerdings nicht, dass man
+die Winkelehe nicht ablehnte. Bereits um 1275 fordert ein Prediger seine Zu-
+hörer auf: «Man sol ouch in den winkeln keine ê hân oder machen», 105 und er
+
+10,II, 289,10–14. Das Zürcher Ehegericht sah zwar eine «herte straff uff den eebruch» vor,
+nämlich einerseits den Kirchenbann und andererseits eine Gefängnis- und Vermögensstrafe,
+aber erst nach viermaliger Rückfälligkeit die Todesstrafe, vgl. Zürcherische Ehegerichtsord-
+nung (Anm. 47), 186,22–187,2, und detaillierter Köhler (Anm. 71), 111f.
+
+97 Zürich, Zentralbibliothek, Ms. T 406.9, Bl. 4r-5r, hier 5r.
+98 Zürcherische  Ehegerichtsordnung  (Anm. 47),  187,6–12,  Christlich  Eestand  (Anm. 8),
+
+99 Zürcherische Ehegerichtsordnung (Anm. 47), 187,13–16.
+100 Vgl. Bullinger, Christlich Eestand (Anm. 8), Bl. O7r, wobei Bullinger zurückhaltender ist als
+
+Bl. O7r.
+
+die Zürcher Obrigkeit.
+
+101 Vgl. Köhler (Anm. 71), 109–138, und Kilchenmann (Anm. 71), 176–187.
+102 Vgl. etwa Bullinger, Christlich Eestand (Anm. 8), Bl. B5v.
+103 Zur mittelalterlichen Konsens- und Kopulatheorie und deren Harmonisierungen vgl. zusam-
+menfassend Hans-Günter Gruber, Christliches Eheverständnis im 15. Jahrhundert. Eine mo-
+ralgeschichtliche Untersuchung zur Ehelehre Dionysius’ des Kartäusers, Regensburg 1989
+(Studien zur Geschichte der katholischen Moraltheologie 29), 108–115.
+
+104 Das  kritisierten  die  Reformatoren  heftig,  so  auch  Bullinger,  Christlich  Eestand  (Anm. 8),
+
+Bl. B5r. Vgl. dazu auch Sprengler-Ruppenthal (Anm. 68), 108–111.
+
+105 Berthold von Regensburg, Predigten, Bd. 1, hg. von Franz Pfeiffer, Wien 1862, 317. Zur Echt-
+heitsfrage vgl. Frank G. Banta, Art. Berthold von Regensburg, in: Die deutsche Literatur des
+Mittelalters. Verfasserlexikon, 2. Auﬂ., Bd. 1, Berlin, New York 1978, 817–823, hier 820.
+
+292
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+weist auch bereits darauf hin, dass diese Form der Heirat vor allem zur Ge-
+fahr für die Frau werden könne: «dar umbe, ir frouwen, durch den almehti-
+gen got sô hüetet iuch vor der winkelê. Swer iu vor den liuten der ê niht ge-
+louben welle, des gelübede sult ir in dem winkel niemer genemen, als liep iu
+iuwer êre sî und iuwer sêle und iuwer friunde helfe; wan er will iuch betriu-
+gen. [. . .] Wan dû hâst niht geziuge; sô gêt er hin unde nimet ein ander [.. .].
+Unde möhtest dû geziuge hân, sô wære ez ein vil veste ê, reht alse sie der bâ-
+best niht zerbrechen möhte.» 106 Das Tridentinische Konzil hält durchaus zu
+Recht fest, dass die katholische Kirche die heimliche Ehe schon immer ver-
+abscheut habe – doch erst jetzt, 1563, werden Ehen, die nicht vor Zeugen und
+dem Gemeindepriester geschlossen werden, für nichtig erklärt. 107 Die prote-
+stantischen Ehegerichte hatten dagegen von Anfang an die Ehe nur unter der
+Voraussetzung zugelassen, dass Zeugen anwesend sind. 108 So hält die Zürcher
+Ehegerichtsordnung von 1525 fest, dass niemand heiraten könne «one bywe-
+sen  und  gegenwürtigkeit  zum  minsten  zweyer  frommer,  ersamer,  unver-
+worffner mannen». 109 Für die Reformatoren war allerdings weniger die Zeu-
+genschaft  als  vielmehr  die  Zustimmung  der  Eltern  entscheidend, 110  ein
+Punkt, den die Ehegerichtsordnungen ebenfalls festhalten: Es «sol kein ee
+hafften, die ein kind bezuge hinder obgemelten sinem vatter, m outer, vögten
+oder verwalteren [..], ee dann es völlenklich nünzehen jaren alt sye». 111 Bul-
+linger widmet der Zustimmung der Eltern zur Ehe ein ganzes Kapitel seiner
+Eheschrift und lässt – ähnlich wie Luther – keinen Zweifel daran, dass er die
+Zustimmung der Eltern sogar für Volljährige begrüßt. Dies erhellt daraus,
+dass er die Minderjährigkeit in diesem Kapitel nur in einem Nebensatz er-
+wähnt und sonst ganz allgemein von der Pﬂicht der Kinder spricht, die Zu-
+stimmung ihrer Eltern einzuholen. 112 Im Übrigen hielten die Reformatoren,
+wie bereits aus Bullingers Deﬁnition der Ehe ersichtlich wird, am Konsen-
+sprinzip fest, sodass etwa Luther, die Zürcher Ehegerichtsordnung und Bul-
+linger betonen, dass die Eltern ihre Kinder nicht zu einer Ehe zwingen sol-
+
+106 Berthold,  Predigten  (Anm. 105),  318;  vgl.  auch  Bullinger,  Christlich  Eestand  (Anm. 8),
+Bl. B5v. Zum Problem der Winkelheirat im kanonischen Recht vgl. James A. Brundage, Law,
+sex and Christian society in medieval Europe, Chicago 1987, 361–364.
+
+107 Vgl. DH 1814–1816, dazu auch Maurice E. Schild, Art. Ehe/Eherecht/Ehescheidung VII. Re-
+
+formationszeit, in: TRE 9, 1982, 336–346, hier 344.
+
+108 Vgl. Köhler (Anm. 71), 73, Anm. 2, und Dieterich (Anm. 68), 94 und 122f.
+109 Zürcherische Ehegerichtsordnung (Anm. 47), 184,11 f. Spätere Ordnungen weichen nur ge-
+
+ring von dieser Satzung ab.
+
+110 So erwähnt Bullinger die Notwendigkeit von Zeugen nicht. Zu Luther, den deutschen Refor-
+matoren und den Ehegerichten vgl. Dieterich (Anm. 68), 55–59 und 94–96. Zu Martin Bucer
+ausführlich Selderhuis (Anm. 6), 193–201.
+
+111 Zürcherische  Ehegerichtsordnung  (Anm. 47),  184,20–22;  Dieterich  (Anm. 68),  94–96  und
+
+123–127.
+
+112 Bullinger, Christlich Eestand (Anm. 8), Bl. B4v-B8v, hier B5r.
+
+Zwingliana XXXI, 2004
+
+293
+
+Detlef Roth
+
+len. 113 Allerdings ist das entsprechende Kapitel im Christlich Eestand nicht
+einmal halb so umfangreich wie das Kapitel über die Zustimmung der Eltern.
+Ein weiterer Punkt, mit dem sich das Ehegericht und Bullinger auseinan-
+derzusetzen hatten, waren die verbotenen Verwandtschaftsgrade. Die Refor-
+matoren lehnen die Satzungen des kanonischen Rechts ab, die – etwas ver-
+einfacht gesagt – die Ehe bis zum vierten Grad der Blutsverwandtschaft und
+der Schwägerschaft, mit den Paten und den nächsten Blutsverwandten der
+Paten und mit Personen in bestimmten Adoptionsverhältnissen verbot. 114 Sie
+halten sich dagegen an Leviticus 18,6–18 und – wenn auch meist zurückhal-
+tender – an das römische Recht. 115 Luther bezeichnet aber nur die in Leviticus
+18 explizit genannten Verwandten als verboten, 116 während das Zürcher Ehe-
+gericht und Bullinger – in Übereinstimmung mit den meisten Reformatoren
+und evangelischen Juristen 117 – den Leviticus-Text nach und nach systema-
+tisch vervollständigen, also etwa nicht nur die Frau des Bruders des Vaters
+verbieten (Lev 18,14), sondern auch die Frau des Bruders der Mutter. Der
+Zürcher Reformator widmet den verbotenen Verwandtschaftsgraden eines
+der  umfangreichsten  Kapitel  seines Christlich  Eestand  und  kommentiert
+nicht nur die einzelnen Leviticus-Verse, sondern gibt anschließend auch meh-
+rere Tabellen, die den Sachverhalt verdeutlichen sollen. 118 Zwei dieser Tabel-
+len wurden übrigens ein Jahr zuvor im Rahmen der Christenlich Ordnung
+vnnd satzung eines Ersamen Rats der Statt Zürich für die Verlesung auf der
+Kanzel publiziert. 119 Ob Bullinger einfach die Bestimmungen des Rats über-
+
+113 Vgl. Martin Luther, Das Elltern die kinder zur Ehe nicht zwingen noch hyndern, Und die
+Kinder on der elltern willen sich nicht verloben sollen, WA 15, 163–169, Zürcherische Ehe-
+gerichtsordnung (Anm. 47), 185,1–4, Bullinger, Christlich Eestand (Anm. 8), Bl. B8v-C1r.
+
+114 Vgl. zusammenfassend Rudolf Weigand, Art. Ehe B. II.2, in: Lexikon des Mittelalters, Bd. 3,
+
+München, Zürich 1986, 1623–1625.
+
+115 Vgl. Dieterich (Anm. 68), 97–101, und Annelies Sprengler-Ruppenthal, Zur Rezeption des
+Römischen Rechts im Eherecht der Reformatoren, in: Zeitschrift für Savigny-Stiftung für
+Rechtsgeschichte 99, kanonistische Abt. 68, 1982, 363–418. Zu Martin Bucer ausführlich Sel-
+derhuis (Anm. 6), 202–206.
+
+116 Martin Luther, Welche Personen verboten sind zu ehelichen, WA 10/II, 265f. Vgl. auch Die-
+
+terich (Anm. 68), 61.
+
+117 Vgl. Dieterich (Anm. 68), 97–101 und 132–135.
+118 Bullinger, Christlich Eestand (Anm. 8), Kap. 7, Bl. C1v-D1r.
+119 Christenlich Ordnung vnnd satzung eines Ersamen Rats der Statt Zürich, Zürich: Christoph
+Froschauer [1539], Bl. B3v-B4r. Zur Verlesung auf der Kanzel vgl. Bl. A2r, wo es heißt, dass
+alle Pfarrer diese Ordnung «ein oder zweymal im Jar / ye nach dem die gel eagenheit vnd no-
+turfft erfordert / offentlich verl easen / vnd dermassen trüwlich ynbilden s eollend / das mengk-
+lich wüsse sich darnach z ou richten». Der vom Rat kurz zuvor veröffentlichten Vßzug der
+Fürnemisten Eesatzungen / so man vier malen imm jar dem Gmeinen mann / sich wüssen
+m eogen deren zehalten vnd vor schand vnnd schaden z ou verh euten / in der Statt vnnd Landt-
+schafft Zürich offentlich an der Cantzel verkünden vndd vßr euffen soll, Zürich 1539, der so
+gut wie wörtlich in die Christenlich Ordnung übernommen wurde, sollte sogar viermal jähr-
+lich von der Kanzel verlesen werden.
+
+294
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+nommen hat oder ob er selbst mit für die Besonderheiten der Bestimmungen
+mitverantwortlich zeichnet, ist schwer zu sagen. 120 Interessant ist jedenfalls,
+dass das vom Rat erlassene Mandat vom 23. April 1530 die Lücken, welche
+die Leviticus-Stelle lässt, also etwa, ob die Frau des Bruders der Mutter für
+den Mann verboten ist, noch nicht geschlossen hat, 121 während Bullinger in
+einem Brief vom 6. Juli 1531 an Berchtold Haller diesen Fall explizit als ver-
+boten aufzählt. 122 Und am 11. Juni 1532 wurde ein entsprechender Fall im
+Sinne der Vollständigkeit entschieden. 123 Bullinger wird zweifellos nach sei-
+nem Antritt als Antistes in strittigen Fragen des Ehegerichts als Theologe her-
+beigezogen worden sein; 124 genauso gut ist jedoch denkbar, dass die Vervoll-
+ständigung von Leviticus 18 aus der Gerichtspraxis in Zürich erwuchs. 125 Die
+interessante These Völker-Rasors, die Unterschiede zwischen dem Bullinger-
+schen und dem Lutherschen Inzestverbot ließen sich damit erklären, dass bei
+Bullinger die Verbindung von Gruppen, bei Luther hingegen die Fortpﬂan-
+zung an sich Vorrang habe, 126 bedarf jedenfalls einer Überprüfung, stützt sie
+sich doch im Falle Luthers auf eine einzige Schrift, die vor der gerichtlichen
+Praxis entstanden ist, im Falle Bullingers hingegen auf einen Traktat, zu des-
+sen Erfahrungshintergrund fünfzehn Jahre Ehegerichtspraxis gehören. 127
+
+Das Zürcher Ehegericht ergänzte im Übrigen 1530 ihre Satzungen um die
+in Leviticus 18 nicht verbotene Heirat zwischen Geschwisterkindern (zwei-
+ter Grad gleicher Seitenlinie nach germanischer, vierter Grad nach römischer
+Komputation), und zwar aus Rücksicht auf die Tradition und die katholi-
+schen Orte. 128 Bullinger schreibt zu derartigen Ergänzungen zur mosaischen
+Gesetzgebung im Kapitel «Ob dise gradus dem Jüdischen volck allein vnd nit
+andren ouch vorgeschriben syend», dass die Obrigkeiten die Verfügungsge-
+
+120 Leider gibt es keine Untersuchung zum Zürcher Ehegericht, die sich der Zeit nach seiner Eta-
+blierung in den 20er Jahren des 16. Jahrhunderts widmete; sowohl Köhler (Anm. 71) als auch
+Kilchenmann (Anm.) behandeln nur den Zeitraum bis 1533/1534.
+
+121 Egli (Anm. 47), Nr. 1664.
+122 HBBW 1, Nr. 39, 207.
+123 Köhler (Anm. 71), 83 und Anm. 2.
+124 Nach Pfeiffer (Anm. 11), 26, und von dort übernommen Selderhuis (Anm. 6), 43, soll Bullin-
+ger sogar Präsident des Ehegerichts gewesen sein. Allerdings gibt Pfeiffer keinen Beleg dafür
+an.
+Jedenfalls suchte Bullinger in Bezug auf die verbotenen Verwandtschaftsgrade noch kurz vor
+der Drucklegung des Christlich Eestand den Rat Vadians, vgl. HBBW 9, Nr. 1334, 5-8, S. 258.
+
+125
+
+126 Völker-Rasor (Anm. 14), 169.
+127 Luther ist es im Hinblick auf die Ehegerichtspraxis sogar gleichgültig, «ob man bis zum ka-
+nonischen Verbot im vierten Grad der Blutsverwandtschaft geht», solange es nicht zu einer
+Verstrickung der Gewissen führte, vgl. Dieterich (Anm. 68), 61. Die übrigen Reformatoren
+und die Ehegerichtspraxis halten sich denn auch nicht an Luthers theoretische Festlegung der
+verbotenen Verwandtschaftsgrade auf die in Leviticus 18 explizit genannten, vgl. Dieterich
+(Anm. 68), 97–101.
+
+128 Vgl. Köhler (Anm. 71), 80–82.
+
+Zwingliana XXXI, 2004
+
+295
+
+Detlef Roth
+
+walt im Festlegen der verbotenen Verwandtschaftsgrade habe, weshalb man
+hierüber nicht «vil gschreiß vnd w easens machen» solle. 129 Allerdings emp-
+ﬁehlt er den Obrigkeiten, also auch derjenigen Zürichs, sie sollten «sich doch
+mit der zyt beﬂyssen / z ou des Herren gsatzt vnnd wort zum n eahisten anhal-
+ten vnd z outr eatten / damit sy nit etwan geachtet werdind / witziger w eollen syn
+dann gott ist / vnnd also in Gottes gericht fallind.» 130
+
+Bis auf solche Differenzen, deren Gewicht schwer einzuschätzen ist, stim-
+men Bullinger und die Züricher Ehegerichtsordnungen grundsätzlich über-
+ein. Ja, man könnte durchaus sagen, dass die Kapitel zu eherechtlichen und
+ordnungspolitischen Fragen im Christlich Eestand dazu dienen, die Satzun-
+gen der Zürcher Ehegerichts- und Sittenordnung mit Argumenten und Bei-
+spielen aus der Bibel und dem römischen Zivilrecht zu unterfüttern. Die Ob-
+rigkeit und der Antistes der Zürcher Kirche verfolgen jedenfalls in diesem
+Punkt dasselbe Ziel: eine rechte, christliche Ordnung auf der Basis eines sitt-
+lich angemessenen Verhaltens zu etablieren und aufrechtzuerhalten. 131
+
+Keuschheit und Unzucht
+
+Mit dem Thema Sexualität, einem weiteren Punkt, in dem sich die katholi-
+sche von der protestantischen Lehre zumindest teilweise unterscheidet, nä-
+hern wir uns möglicherweise dem Zetrum, sicher aber der Mitte des Christ-
+lich  Eestand,  nämlich  den  Kapiteln  10,  12,  13  und  14. 132  Die  Haltung  der
+
+129 Bullinger,  Christlich  Eestand  (Anm. 8),  Bl.  D4r.  Ähnlich  auch  Luther,  vgl.  Dieterich
+
+(Anm. 68), 52.
+
+130 Bullinger, Christlich Eestand (Anm. 8), Bl. D4r. In einem undatierten Fürtrag, Zürich, Zen-
+tralbibliothek, Ms. T 406.9, Bl. 6r-7r, der dem Wasserzeichen nach um 1545/1546 entstanden
+sein dürfte, hält Bullinger allerdings nochmals fest, dass die Obrigkeit das Recht, ja die Pﬂicht
+habe, auf die tradierten Gepﬂogenheiten Rücksicht zu nehmen. Bereits Mose lasse sich nach
+Gesetzen unterscheiden, die von der Natur vorgegeben, und solchen, die nach «gel eagenheyt
+sines volckes» entstanden seien. Jene seien strikt einzuhalten, diese hingegen nicht, sondern
+könnten selbst bestimmt werden.
+
+131 Köhler (Anm. 71), 161f. u.ö., spricht denn auch immer wieder von der Zürcher Theokratie.
+132 Für Völker-Rasor (Anm. 14), 89–91, stehen diese Kapitel, insbesondere das Kapitel über die
+Hurerei, im Zentrum des Christlich Eestand. Ihre Begründung dafür, die sie aus dem Ver-
+ständnis des hochhöﬁschen Romans gewinnt (91), ist allerdings ziemlich schwindelerregend.
+Dass Bullinger unmittelbar vor dem pragmatischeren Teil mit den Anweisungen an die Ehe-
+leute über den Priesterzölibat und die Hurerei spricht, könnte damit zusammenhängen, dass
+der Wunsch, ehelos zu leben, gerade unter den Pfarrern noch verbreitet war, sodass es Bul-
+linger notwendig schien, diese Kapitel gerade an dieser Stelle einzuschieben. Zumindest die
+erste Ergänzung zur Zürcher Ehegerichtsordnung über die Hurerei von 1526 sagt ausdrück-
+lich, es habe «der offnen huory [.. .] sich niemans bishar unverschämpter und frevner ge-
+brucht weder die pfaffen», Egli (Anm. 47), Nr. 944, 452. 1532 wird etwas unspeziﬁsch «un-
+mass, trunkenheit, üppigheit, unzucht in worten, wysen und geberden» an der Pfarrerschaft
+kritisiert (Egli [Anm. 47], Nr. 1899, 833), aber es ist durchaus denkbar, dass damit auch das
+Problem der Unzucht bei Pfarrern angesprochen wurde.
+
+296
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+mittelalterlichen Kirche war ja dadurch geprägt, dass sie die eheliche Sexua-
+lität – was die außereheliche anbelangt, besteht in der Bewertung prinzipiell
+kein Unterschied zu den protestantischen Kirchen, sondern höchstens in der
+Duldung – nur dann für sündlos erklärte, wenn der eheliche Akt der Zeu-
+gung willen oder aus Pﬂicht oder zur Vermeidung von Unzucht ausgeführt
+wird, und für alle übrigen Fälle eine differenzierte Kasuistik im Hinblick auf
+den Grad seiner Sündhaftigkeit entwickelte. 133 Beredte Zeugen hierfür sind
+vor  allem  die  theologischen  Summen,  die  Sentenzenkommentare  und  die
+Bußsummen. Die Reformatoren lehnen diese Kasuistik ab, was nicht heißt,
+dass sie der ehelichen Sexualität uneingeschränkt posititv gegenüberstanden.
+Luther  etwa  bezeichnet  im  Gegensatz  zur  Mehrheit  der  mittelalterlichen
+Theologen sogar jeden ehelichen Verkehr als sündhaft, allerdings werde diese
+Sündhaftigkeit durch die Gnade Gottes aufgehoben. 134 Für Bullinger – wie
+etwa auch für Bucer oder Calvin – ist im Gegensatz zu Luther die eheliche
+Sexualiät ohne Sünde, 135 wie er vor allem mit Paulus (1. Kor 7,1 f. und Hebr
+13, 4)  und  dem  Konzil  von  Nizäa  (Paphnutius)  in  mehreren  Schriften  be-
+tont. 136 Interessant ist in diesem Zusammenhang jedoch die Frage nach dem
+geschuldeten Beischlaf, dem debitum, der aufgrund des allgemein akzeptier-
+ten Ehezwecks der Vermeidung von Unzucht (nach 1. Kor 7,2) nicht nur von
+der katholischen, sondern auch von der protestantischen Eheliteratur thema-
+tisiert wird. 137
+
+Bullinger beschreibt in der Vollkommnen vnderrichtung nach Plutarch,
+vermittelt durch Erasmus, «dz eelich bett» zunächst als den Ort der Versöh-
+nung: 138 «Dann am bett soll man nitt verwÿssen / zanggen / vnd kriegen: sun-
+der wo ettwz spans geweasen hie widerumb eins werden.» 139 Doch dann geht
+
+133 Vgl. dazu zusammenfassend Schnell, Sexualität (Anm. 5), 97–105.
+134 Luther, Vom ehelichen Leben (Anm. 96), 304; vgl. dazu Suppan (Anm. 67), 41–47, und Ro-
+bert Grimm, Luther et l’expérience sexuelle. Sexe, célibat, mariage chez le Réformateur, Ge-
+nève 1999, 76–81. Demzufolge ist die Ehe für Luther auch nicht der Ort der Reinheit, vgl.
+Gerhard Härle, Reinheit der Sprache, des Herzens und des Leibes. Zur Wirkungsgeschichte
+des rhetorischen Begriffs puritas in Deutschland von der Reformation bis zur Aufklärung,
+Tübingen 1996 (Rhetorik-Forschungen, Bd. 11), 81f.
+
+135 Zu Bucer vgl. Selderhuis (Anm. 6), 168 und 173–183; zu Calvin vgl. Pfeiffer (Anm. 11), 222.
+Im Übrigen scheint die Frage nach den unterschiedlichen Bewertungen von ehelicher Sexua-
+lität in der Reformationszeit im Gegensatz zu denjenigen im Mittelalter erst punktuell er-
+forscht zu sein, was etwa Michael Bauer, Art. Sexualität II, in: TRE 31, 2000, 195–214, hier
+203 f. und 213f., ex negativo erkennen lässt.
+
+136 Bullinger,  Vorlesung  (Anm. 33),  S. 250 f.,  Volkommne  vnderrichtung  (Anm. 34),  Bl.  38r-v,
+Christlich Eestand (Anm. 8), E1r-v, und Sermones (Anm. 39), Bl. 78r. Das erste Mal erwähnt
+wird Bischof Paphnutius bereits in De scripturae negotio, HBT 2, 30.
+Insbesondere auch im Zusammenhang mit der Verweigerung der ehelichen Pﬂicht als Schei-
+dungsgrund, vgl. Dieterich (Anm. 68), 72, 106f.
+
+137
+
+138 Vgl. Plutarch, Praecepta coniugalia, cap. 38 und 39 = Moralia 143DE.
+139 Bullinger, Vollkommne vnderrichtung (Anm.), Bl. 76v.
+
+Zwingliana XXXI, 2004
+
+297
+
+Detlef Roth
+
+es um die Frage nach dem geschuldeten Beischlaf. Bullinger bemerkt hierzu,
+dass «der meerteÿl wÿbren wenig vnwillens hat» und legt den Frauen nahe,
+nicht «schamper und frevvlich» den Beischlaf zu fordern. Der Zucht gemäß
+sei  es  sogar,  wie  man  spätestens  seit  Ovid  weiß,  sich  zuerst  ein  wenig  zu
+sträuben,  «aber  gar  widerstr eaben  ist  ein  vnzucht  und  gloubbruch».  Doch
+komme es hierbei vor allem auf einen «verstendigen / fr eolichen / früntlichen
+man» an. 140 Beim ehelichen Beischlaf zu beachten sei nur «das zyl / zal / und
+masz», das allerdings, wie Bullinger gegen die katholischen Theologen ein-
+wendet,  nicht  objektiv,  sondern  subjektiv  gegeben  ist:  «wann  du  ghein
+vnr ouw und gedancken wider gott me hast». Doch der ﬁktive Zuhörer oder
+Leser, der beunruhigt fragt, wie er merken könne, dass die Frau auch wieder
+Ruhe habe, wird dann mit der Bemerkung zum schweigen gebracht, er werde
+es schon herausﬁnden. 141
+
+Im Christlich Eestand von 1540 wird die eheliche Sexualität noch zurück-
+haltender abgehandelt. Zunächst ist festzuhalten, dass Bullinger die Sündlo-
+sigkeit der ehelichen Werke eng mit dem Ehezweck der Vermeidung von Un-
+zucht  und  der  ehelichen  Pﬂicht,  dem debitum,  verknüpft,  sodass  mit  der
+Sündlosigkeit gewissermaßen der Zwang zum Verkehr einhergeht. 142 Seine
+Erklärung im ersten Kapitel seiner Eheschrift, er habe nicht «sorgf ealtigklich
+vnderscheiden in disem capit. den Eestand vor vnd nach dem faal» bezieht
+sich jedenfalls nicht, wie etwa Pfeiffer annimmt, auf die eheliche Sexualität. 143
+Bullinger bezeichnet die Ehe ja auch als «artzny», als Heilmittel, 144 und über-
+nimmt  damit  die  Unterscheidung  des  ehelichen  Aktes  vor  und  nach  dem
+Sündenfall.
+
+Der  Zürcher  Reformator  glaubt  aber  auch  im Christlich  Eestand,  zum
+Thema Sexualität noch ergänzen zu müssen, dass hierin wie in allen Dingen
+Anstand zu wahren und Maß zu halten sei. Man solle daher keinen Unfug
+mit den ehelichen Werken treiben und auch nicht unverschämt reden und
+
+140
+
+Ibid. Bl. 77r.
+Ibid. Bl. 77v.
+
+141
+142 Bullinger, Christlich Eestand (Anm. 8), Bl. D8v-E2v. Nach dem Zitat von Spr 5,18–20 be-
+merkt Bullinger, Bl. E2r: «In welichen worten Solomon / glych wie ouch Paulus / die Eelichen
+liebe vnnd werck alls reinigkeit liebet vnd lobt / von der h oury aber alls w euster beﬂeckung
+abzücht. Darumb nunmer vngezwyﬂet / das die Ee / h oury vnd vnküschheit zeuermyden /
+yngessetzt ist / vnd das die Eelichen werck von gott nit für sünd verr eachnet werdend.» Die
+Sündlosigkeit der ehelichen Werke ist offenbar ohne die Vermeidung von Unzucht nicht zu
+haben.
+
+143 Bullinger, Christlich Eestand (Anm. 8), Bl. A7r; vgl. Pfeiffer (Anm. 11), 65–71. Diese Worte
+richten sich auch nicht «gegen die katholische Lehre, die zur Heiligung der durch die Sünde
+entweihten Ehe das Sakrament einsetzte», wie Weber (Anm. 9), 26, schreibt, und zwar nicht
+zuletzt deshalb, weil die katholische Kirche die Ehe gar nicht aus dem genannten Grund zum
+Sakrament erklärt hat.
+
+144 Bullinger, Christlich Eestand (Anm. 8), Bl. D8v.
+
+298
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+handeln. 145 Für Bullingers Beurteilung der ehelichen Sexualität ist auch sein
+gedruckter  Kommentar  über  den  Hebräerbrief,  Kapitel  13,4,  erhellend.
+Nach einer kurzen Kommentierung zum ersten Versteil schreibt Bullinger
+nämlich Folgendes: «Quod autem sequitur, thorum coniugatum esse impol-
+lutum, id est moderatum in connubio coitum non reputari pro peccato, id
+Paulus clarioribus ad Corinthios dixit, Propter stupra uitanda suam quisque
+uxorem habeat.» 146 Hier wird also noch deutlicher nur der gemäßigte eheli-
+che Verkehr als sündlos beschrieben, und auch hier ist die enge Verknüp-
+fung mit 1. Korinther 7,2 und dem Ehezweck der Vermeidung von Unzucht
+augenfällig. Alles in allem wird man Bullinger daher wohl keine absolut po-
+sitive Bewertung der ehelichen Sexualität zugestehen können, zumal sich ja
+bereits die mittelalterlichen Theologen mehr oder weniger darin einig wa-
+ren, dass der eheliche Verkehr im Hinblick auf das debitum ohne Sünde sei,
+und sie eben jenen von Bullinger nicht genauer speziﬁzierten Unfug mit den
+ehelichen Werken, also bestimmte Stellungen, Anstachelungen durch Worte
+und  Aphrodisiaka  usw.,  zur  Sünde  erklärten  (aber  in  der  Regel  auch  nur,
+wenn es der Luststeigerung diente). 147 Wie sagt doch Bruder Berthold in sei-
+ner Rechtssumme aus dem dritten Viertel des 14. Jahrhunderts: 148 «Zu dem
+vierden  mal  werden  eleiche  werck  getan  von  eleichen  läuten  mit  vbriger
+wollust, dar zu si chain not noch chain menschlich chranckhait der natur an
+vichtet dar zw twinget, sunder rechte vnchawsche poshait vnd begeren die
+werck vil ze tun, vnd sich dar zw raiczen mit greiffen schämleich vnd mit es-
+sen haisse speiz vnd starck tranck trincken, vnd das alles tun, auf daz si die
+werck m eugen oft vnd vil getün. Vnd die haissen mer hürer dann eleich läut
+vnd tund todsund.» 149 Hätte der frühe Luther diese Worte mit dem Hinweis
+auf die Gnade Gottes, welche diese Sünde nachlässt, sogar unterschreiben
+können, 150 so würde Bullinger die geschilderte Formen von ehelicher Sexua-
+lität zumindest nicht als Hurerei und Todsünde bezeichnen. 151
+
+Einer der grundlegendsten Unterschiede zwischen der katholischen und
+protestantischen Auffassung von Ehe betrifft den Zwang zur Ehelosigkeit
+für die meisten Geistlichen, also den Priesterzölibat. Die Hauptgründe der
+
+Ibid. Bl. E2v. Vgl. dazu auch Pfeiffer (Anm. 11), 161.
+
+145
+146 Bullinger, Commentarius (Anm. 37), Bl. 134r.
+147 Vgl. dazu Schnell, Sexualität (Anm. 5), 392–410.
+148 Dazu Peter Johanek, Art. Bruder Berthold, in: Die deutsche Literatur des Mittelalters. Ver-
+
+fasserlexikon, 2. Auﬂ., Bd. 1, Berlin, New York 1978, 807–813, hier 807.
+
+149 Die ‹Rechtssumme› Bruder Bertholds. Eine deutsche abecedarische Bearbeitung der «Summa
+Confessorum» des Johannes von Freiburg, hg. von Georg Steer u. a., Bd. 2, Tübingen 1987
+(Texte und Textgeschichte 12), 734 und 736.
+
+150 Vgl. oben, S. 297, und De votis monasticis Martini Lutheri iudicium, WA 8, 654,19–21.
+151
+
+In Bullinger, Sermones (Anm. 39), Bl. 81v, wird deutlich, dass Bullinger solche Formen von
+Aufreizungen generell verbieten möchte, also auch dann, wenn sie innerhalb der Ehe Anwen-
+dung ﬁnden.
+
+Zwingliana XXXI, 2004
+
+299
+
+Detlef Roth
+
+Reformatoren für die Ablehnung des Zölibats sind die Unmöglichkeit, ihn
+biblisch zu begründen (die entsprechenden Paulus-Stellen sprechen ja nur
+eine Empfehlung aus, keine verbindliche Anweisung), und die offenkundige
+Schwierigkeit der Geistlichen, ihn in Keuschheit einzuhalten. 152 Trotz oder
+vielleicht gerade aufgrund der anthropologischen Auffassung, dass der Ge-
+schlechtstrieb zur Natur des Menschen gehöre und daher die Ehe das passen-
+de Mittel dafür (oder dagegen) sei, schätzen die meisten Reformatoren, so
+auch Luther, den Stand der Jungfräulichkeit sehr; sie betonen jedoch auch,
+dass  er  nur  von  wenigen  ausgezeichneten  Menschen  eingehalten  werden
+könne. 153 Damit unterscheiden sie sich letztlich nur graduell von der Ansicht
+vieler mittelalterlicher Kleriker, die den Stand der Ehelosigkeit mit dem Le-
+ben der Engel vergleichen und ihn ebenfalls nur für wenige Auserwählte re-
+servieren 154 – aber offensichtlich nicht für so wenige wie Luther und die an-
+deren Reformatoren.
+
+Trotz der Ablehnung des Zölibats ﬂießt daher in die Diskussion um den
+Wert und den Nutzen der Ehe, wie sie Bullinger unmittelbar vor dem Kapitel
+über den Zölibat führt, oft eine Auseinandersetzung mit dem Stand der Jung-
+fräulichkeit und mit den Argumenten ein, die häuﬁg für diesen und gegen die
+Ehe  angeführt  werden:  die  Unannehmlichkeiten  des  Ehestandes,  d.h.  des
+Umgangs mit der Frau und den Kindern sowie des häuslichen Alltags. 155 Bei
+Luther und vielen Lutheranern, etwa Menius und Culmann, ist dieser Hin-
+tergrund deutlich, da sie die Ehe mehrfach als Kreuz bezeichnen, das dem
+Gläubigen aufgrund des Sündenfalls von Gott auferlegt worden sei und das
+er nun zu tragen habe. Als erfreulich kann der Ehealltag nur im Glauben er-
+scheinen, der alle Unannehmlichkeiten überhöht. 156
+
+Nicht  so  im Christlich  Eestand.  Interessant  ist  zunächst,  dass  sich
+Bullinger  im Eheexkurs  der  Auslegung  über  den  Hebräerbrief  und  in  der
+Volkommnen  vnderrichtung  unter  offensichtlichem  Einﬂuss  von  Luther
+ebenfalls  ausführlicher  mit  dem  Stand  der  Jungfräulichkeit  auseinander-
+
+152 Dazu zusammenfassend Harrington (Anm. 78), 61–64.
+153 Vgl. Schild (Anm. 107), 338.
+154 Etwa Engelbert von Admont in seiner Schrift ‹Utrum sapienti competat ducere uxorem› (um
+1281), vgl. dazu Detlef Roth, Wahrheit und Aussagefunktion. Zu Engelberts von Admont
+Traktat ‹Utrum sapienti competat ducere uxorem›, in: Frühmittelalterliche Studien 32, 1998,
+288–306, hier 302. Ähnlich bereits Aegidius Romanus (Colona), De regimine principum I,I,8,
+Frankfurt 1968 (unveränd. Nachdruck der Ausgabe Rom 1566), Bl. 7r-9r.
+
+155 Zu den molestiae nuptiarum in der spätmittelalterlichen Literatur vgl. Roth (Anm. 23), und
+ders., Mittelalterliche Misogynie – ein Mythos? Die antiken molestiae nuptiarum im Adver-
+sus Iovinianum und ihre Rezeption in der lateinischen Literatur des 12. Jahrhunderts, in: Ar-
+chiv für Kulturgeschichte 80, 1998, 39–66.
+
+156 Luther,  Vom  ehelichen  Leben  (Anm. 96),  291.  Vgl.  Justus  Menius,  Oeconomia  christiana,
+Wittenberg: Hans Lufft 1526, Kap. 10 und 16, Bl. F2v-3r und H2r-4r; zu Cullmann vgl. Völ-
+ker-Rasor (Anm. 14), 96.
+
+300
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+setzt. 157 Im Eheexkurs geht Bullinger zunächst auf die klassischen Einwän-
+de  gegen  die  Ehe  ein,  deren  Kenntnis  er  auch  seinen  Zuhörern  in  Kappel
+unterstellt: «Was kann er uns doch lusts sagen da nützid ist dann aller un-
+lust und alle unr ouw: ein kibig wyb, der gestanck der windlen, g[s]chrey der
+kinden, sorg der narung!» 158 Bullinger hält diesem Einwand entgegen, dass
+die Ehe von Gott sei und «ettliches erlyden» erfordere, und führt das Werk
+der Märtyrer an, das für sich betrachtet «m ouß grusen», aber was den Glau-
+ben betreffe, große Freude bereite; doch betont er immerhin, dass die Un-
+lust in der Ehe nicht vergleichbar sei mit derjenigen eines Märtyrers. 159 Da-
+nach  fährt  Bullinger  positiv  mit  der  Frage  fort,  ob  es  denn  kein  großes
+Vergnügen  sei,  «haben  ein  ewigen  gspanen,  der  mitt  dir  trure  und  fröud
+habe, dem du all din anligen klagen gedörist, der dir also lieb als din eigen
+läben». Insgesamt wird man Bullingers Haltung im Eheexkurs dennoch als
+skeptisch gegenüber den Mühen des Ehestandes beurteilen müssen: «Wiltu
+den honig haben, so m oustu ouch die byen haben.» 160
+
+Dieser Abschnitt ﬁndet auch Eingang in das erste Kapitel der Volkomm-
+nen vnderrichtung. 161 Doch betont Bullinger hier mehr als zuvor, dass sich
+die  Ehe  durch  eigene  Bemühungen  angenehm  gestalten  lasse:  «Th out  man
+imm recht / so ist imm ouch recht. Vnd: Es ist ein g outer teÿl der r ouw / wüssen
+wie man sol r ouwig werden». 162 Und in diesem Argumentationszusammen-
+hang deutet sich auch an, dass Bullinger die Ehe nicht so sehr gegen die Jung-
+fräulichkeit, als vielmehr gegen die Nicht-Ehe in Form von Unzucht aus-
+spielt. So hält er etwa den möglichen Unannehmlichkeiten in der Ehe durch
+eine zänkische Frau und kreischende Kinder entgegen: «Der b ouler hat nim-
+mer r ouw: er m ousz vssgeben vnd allw eag sorgen ein ander sye lieber dann er
+[. . .] vnd ist aber sin weasen nüt dann vnlust: von b eosen wÿben / vnd zücht er
+aber ein valsche h ouren herumb / die imm weder trüw noch hold ist: von kin-
+der erzühen / vnd m ousz er aber kinder erzühen / daran er nitt den kleinen zë-
+hen gemacht hat: vonn sorg der naarung / vnd hat aber er gr eossere sorg wie er
+den vnuern eugigen sack spÿsen well» usw. 163 Bullinger ergänzt somit die an-
+fängliche Gegenüberstellung von Ehe und Jungfräulichkeit durch den Ge-
+gensatz Ehe/Unzucht.
+
+Im Christlich Eestand wird dieser Gegensatz noch verstärkt. 164 In Kapitel
+
+157 Zu diesem Einﬂuss Luthers vgl. etwa die Anmerkungen zur Vorlesung über den Hebräerbrief
+
+(Anm. 33), vor allem Anm. 120, S. 250.
+
+158 Bullinger, Vorlesung (Anm. 33), 252–256, Zitat 252.
+159
+
+Ibid. 252f.
+Ibid. 253.
+
+Ibid. Bl. 39r.
+Ibid. Bl. 41r-v.
+
+160
+161 Vgl. Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 39r-43v.
+162
+
+163
+164 Vgl. auch Burghartz, Zwischen Integration (Anm. 16), 40.
+
+Zwingliana XXXI, 2004
+
+301
+
+Detlef Roth
+
+12 über den Priesterzölibat: «Das der Bapst den Eestand den geistlich ge-
+nannten wider Gott / eer vnd r eacht verbotten habe», erwähnt Bullinger zwar
+ebenfalls kurz die Vorzüge der Jungfräulichkeit, aber mit dem Satz, was das
+mit den schmutzigen und unﬂätigen Hurern, d.h. den Papisten, zu tun habe,
+ist das Thema Jungfräulichkeit erledigt. 165 Danach geht es nur noch um den
+Unterschied zwischen wahrer Keuschheit, die es auch in der Ehe gebe, und
+Unzucht, wie sie «vnder dem glübd der reinigkeit» beim katholischen Klerus
+so häuﬁg vorkomme, 166 und um die Widerlegung des Priesterzölibats. 167 Das
+folgende Kapitel, in das auch die Unannehmlichkeiten der «b ouler» aus der
+Volkommnen vnterrichtung Eingang gefunden haben, stellt schließlich klar,
+«wie schantlich w eust vnd lasterlich die h oury sye». 168 Die ursprüngliche Aus-
+einandersetzung mit der Jungfräulichkeit unter dem Gegensatz von Lust und
+Unlust ist damit so gut wie ganz einer ausführlichen Gegenüberstellung von
+Keuschheit  und  Unzucht  mit  der  Leitdifferenz  Reinheit/Schmutz  gewi-
+chen. 169
+
+Dass  die  Unterschiede  zwischen  den  einzelnen  Schriften  über  die  Ehe
+nicht einfach eine Entwicklung Bullingers widerspiegeln, sondern auch mit
+der Intention und dem Zielpublikum der Texte zu tun haben, zeigt etwa die
+Dekade 2,10, in der Bullinger die Beschwernisse des Ehestandes nicht durch
+die  Beschwernisse  eines  unkeuschen  Lebenswandels  relativiert  oder  sogar
+positiv umwertet, sondern den Leser dazu auffordert, sie geduldig auf sich zu
+nehmen. 170
+
+Wahl des Partners, Hochzeit, Haushaltsführung und Kindererziehung
+
+In der Einleitung hatte Bullinger ja geschrieben, sein Christlich Eestand ziele
+darauf, «dz rechte reinigkeit yedermann trüwlich yngebildet vnd alle vnrei-
+nigkeit  geleidet  werde». 171  Tatsächlich  wird  in  den  Kapiteln  10  bis  14  die
+Grundunterscheidung  von  rein  und  schmutzig  zur  dominanten  Leitdiffe-
+renz des Textes. Diese Leitdifferenz zieht sich auch durch die Kapitel 15 und
+16 und 19 bis 24, d.h., sie beherrscht vor allem die Auseinandersetzung mit
+
+165 Bullinger, Christlich Eestand (Anm. 8), Bl. E5v.
+166
+
+167
+
+Ibid. E7r-v.
+In diesem Zusammenhang argumentiert Bullinger wie so oft auch historisch, indem er die erst
+1533 zum ersten Mal gedruckten ‹Annales› Lamperts von Hersfeld als Zeugnis dafür anführt,
+dass es im deutschen Sprachraum bis zur Mitte des 11. Jahrhunderts keinen Priesterzölibat
+gab; Christlich Eestand (Anm. 8), Bl. E8r-v.
+Ibid. Bl. F2r-F7v.
+
+168
+169 Die Unannehmlichkeiten in der Ehe werden ausschließlich gegen die «Hurer» selbst gewen-
+det, und als letzter Triumph der Ehe gegen das Leben in Unzucht tritt die Hilfe Gottes und
+der Ehre hinzu; Bullinger, Christlich Eestand (Anm. 8), Bl. F5r.
+
+170 Bullinger, Sermones (Anm. 39), Bl. 79r.
+171 Bullinger, Christlich Eestand (Anm. 8), Bl. A3v.
+
+302
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+dem  Zölibat,  der  Unzucht  und  dem  Ehebruch  sowie  den  pragmatischen
+zweiten Teil der Eheschrift. Eine sprachlich-lexikalische Analyse des Christ-
+lich Eestand hat ergeben, dass die Begriffe schmutzig, unrein, unﬂätig und ihr
+Gegenteil, rein, in diesen Kapiteln im Durchschnitt fast einmal pro Seite vor-
+kommen. Doch ist die binäre Leitdifferenz rein/schmutzig nur ein Aspekt
+der Absicht Bullingers, sprachliche Aufklärungsarbeit zu leisten, wie er ja im
+Vorwort dargelegt hat. Wie sich diese Aufklärungsarbeit im pragmatischen
+Teil des Christlich Eestand äußert, zeigt wiederum am besten ein Vergleich
+mit der Volkommnen vnderrichtung.
+
+Besonders augenfällig ist vor allem der unterschiedliche Konkretheitsgrad
+
+der Anweisungen in den beiden Eheschriften. Dazu einige Beispiele:
+
+Im Kapitel über die Wahl der Ehepartner schildert Bullinger in der Vol-
+kommnen vnderrichtung die folgende Szene: «Hie hat man nun vil gedispu-
+tiert / wer es zum ersten s eolle anzühen: grad wie die puren vff den kÿlwÿnen.
+Lieber red du / lieber danck du / ich kann nitt wol reden / es stat dir wol an.
+Ich th ouns nitt etc. Kurtz. es darff nitt vil hofﬁerens / wo es stat hat / soll der
+knaab anm outen: wo dz nitt / ist es ghein schand wo die dochter zem knaben
+ein züchtigen anzug th out / von w eagen dz er nitt anderschwohin stell / vnd sÿ
+desz / der für sÿ wz beroubet werd. etc.» 172 Weiter unten gibt Bullinger dann
+an, in welcher Gestalt der Jüngling seine Auserwählte bitten soll, ihn zu hei-
+raten: «Ist din hertz und gm eut eins mitt minem / das du in der ee alles das mitt
+mir ertragen magst / dz vns gott ze lÿden vfﬂeÿt / ergipstu dich gnot an mich
+/ so hab ich mich dir ergeben / und sprich Ja.» 173 Im Kapitel zur Hochzeit
+gibt Bullinger dem frischgebackenen Ehemann, der nicht weiß, was er zu sei-
+ner Gemahlin sagen soll, den folgenden Rat: «du m oust fr eolich sin / früntlich
+vnd gantz lieblich / ouch gantz wÿser vnd doch kindtlicher red: damitt soltu
+frÿ die Dochter hindergon / vnd iro alle vorcht vnd sorg vsz dem hertzen
+nemmen / mitt sprüchen / exemplen / fablen / das die dochter gantz fr eolich
+wird  /  vnd  sich  fr eow  das  sÿ  ein s eolichen  lieblichen  holdseligen  man
+v¨berckummen hab.» 174 Doch auch nach der Hochzeitsnacht lässt Bullinger
+die Eheleute nicht im Stich: 175 «Der morgen sol ein wenig ernsthaffter sin /
+vnd doch ouch früntlich: dann magstu nach diser formm / ee du vffstaast / re-
+den. Allerliebste vnd früntlicheste / der ewig gott / vnd vnser ggebne vnd
+
+172 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 49v.
+173
+
+Ibid. Bl. 51r.
+Ibid. Bl. 54v.
+
+174
+175 Dazwischen wurde eine Seite aus dem Manuskript herausgeschnitten und eine weitere halbe
+Seite durchgestrichen, die unter anderem über die «Unzucht im Verkehr mit dem Mädchen,
+und zwar in Wort, Gebärde und Tat» handelt, vgl. Wyss (Anm. 34), 32, und Gsell (Anm. 14),
+105, Anm. 48. Allerdings glaube ich nicht, dass Bullinger selbst die Seite herausgeschnitten
+hat, zumindest nicht während der Niederschrift, da auch sonst Spuren einer späteren Benut-
+zung vorhanden sind.
+
+Zwingliana XXXI, 2004
+
+303
+
+Detlef Roth
+
+versprochne trüw / hat vns nunfürhin in ein s eoliche einigheit gebracht / dz da
+nützid mee scheÿden mag dann der todt. [.. .] Will mich gantz in allen dingen
+ﬂÿssen / dz ich th euge was dir lieb ist / dz du ein lieben man / ia ouch mee ein
+diener dann einen herren an mir habist: hoffen du werdist gegen mir ouch
+eins s eolichen gm euts sin. [.. .] Will den gwallt der mir vnd allen mannen ggeben
+ist von gott i. Timoth: 2 nitt bruchen wie ein grimmer tÿrann / sunder wie ei-
+nem gantz fründholden Eegmahel z oustat: also dz wir gantz vnd gar in der Ee
+l eabind einig wie zweÿ turturtüblin». 176 Die junge Gemahlin soll unter ande-
+rem antworten: «Vnd so ouch der heilig Apostel Petrus gebotten hat / wir
+wÿber s eollend v¨ch man als herren erckennen / wil ich dich mitt liebe fürchten
+/ vnd dich eeren wie min houpt: [.. .] ergib mich gar in din schirm zucht vnd
+leer / bitten dich durch gott vnd durch wÿblich eer / das du mich früntlich
+wellist leeren / warnen vnd leÿten / so wil ich dir gern ghorsam sin: Vnd so
+ich dich erzurnte / wellist mir verzÿhen / vnd anes eahen dz wir wÿber bl eode
+gschÿrr vnd doch ouch gottes sind.» 177
+
+Alle diese konkreten Anweisungen hat Bullinger im Christlich Eestand
+gestrichen oder allenfalls durch allgemein gehaltene Anweisungen ersetzt. So
+legt  Bullinger  im  Kapitel  über  die  Hochzeit  von  1540  zunächst  in  sechs
+Punkten die Gründe für den Kirchgang dar, der in der Ehegerichtsordnung
+vorgeschrieben worden ist, «argwon, hinderred, betrug zu vermyden» (1527
+fehlt dieser Abschnitt), 178 danach tadelt er ausführlich die Missbräuche wäh-
+rend  der  Hochzeit  und  beschreibt  schließlich  kurz,  wie  man  angemessen
+Hochzeit halten soll. 179 Von den ursprünglichen Ausführungen in der Vol-
+kommnen vnderrichtung übernimmt Bullinger also nur die Gegenüberstel-
+lung von angemessenem und unangemessenem Feiern und stellt ihr eine re-
+ﬂektierende Darlegung über die Bedeutung des Kirchgangs voran. Dies liegt
+ganz auf der Linie der erklärten Absicht Bullingers, mit seinem gedruckten
+Ehetraktat sprachliche Aufklärungsarbeit zu leisten, richtiges und falsches,
+reines und schmutziges Verhalten klar zu benennen. Die konkreten Anwei-
+sungen der Volkommnen vnderrichtung sind dafür jedoch nicht sonderlich
+
+176 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 55r, 56r-v. Bullingers Vorbild für diese
+Gesprächsanleitung ist Erasmus, Christiani matrimonii institutio, in: Opera omnia, Bd. 5,
+Leiden 1704, 676F-677E.
+
+177 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 56v-57r.
+178 Zürcherische Ehegerichtsordnung (Anm. 47), 186,6–11. Bullinger hat sich auch in einem un-
+datierten Fürtrag «Von dem verkünden der Een / vnd Kilchgang» zu diesem Thema geäußert
+(Zürich, Zentralbibliothek, Ms. T 406.9, Bl. 3r-v). Daraus geht hervor, dass mit dem Kirch-
+gang offenbar insofern Missbrauch getrieben wurde, als er oft gar nicht im Rahmen eines
+Gottesdienstes, sondern frühmorgens, ohne Beisein anderer Leute vonstatten ging. Bullinger
+schlägt deshalb vor, dass das Brautpaar dem Pfarrer am Vorabend ihre Absicht kundtun und
+am nächsten Tag in der Predigt erscheinen solle, damit die Ehe wirklich öffentlich bestätigt
+werde.
+
+179 Bullinger, Christlich Eestand (Anm. 8), Bl. H7v-J3v.
+
+304
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+geeignet, da das Gegenteil einer konkreten Anweisung eine prinzipiell unbe-
+grenzte Anzahl falscher Verhaltensweisen umfasst. Um es mit Bullingers ei-
+genen Worten zu sagen: «Quanta enim vel ex unico matrimonio pravo et cor-
+rupto  existant  mala,  nemo  unus  explicaverit.» 180  Richtigem  und  falschem
+bzw. sittlich reinem und schmutzigem Verhalten lässt sich letztlich nur be-
+grifﬂich, mithin also in abstrakterer Form, Herr werden. Das heißt nicht,
+dass es in der Volkommnen vnderrichtung keine Kritik an falschem Verhal-
+ten  oder  Schilderungen  von  Lastern  gäbe,  aber  deutlich  weniger  als  im
+Christlich Eestand.
+
+Auf dieselbe Weise erklären sich auch die Unterschiede im Kapitel zur
+Kindererziehung.  Während  Bullinger  in  der Volkommnen  vnderrichtung
+ausführlich  auf  das  Säugen  und  Entwöhnen,  auf  das  Baden,  Speisen  und
+Schlafen  der  Kinder  eingeht  und  weitschweiﬁge  medizinische  Ratschläge
+gibt, 181 konzentriert er sich im Christlich Eestand ausschließlich auf die mo-
+ralischen Aspekte der Kindererziehung. Die konkreten Anweisungen für das
+leibliche Wohlbeﬁnden des Kindes wären in einem Traktat, der vorrangig an
+der Benennung des moralisch Richtigen und Falschen interessiert ist, schlicht
+ein  Fremdkörper.  Im  Vergleich  zur Volkommnen  vnderrichtung  ist  der
+Christlich Eestand also auch im zweiten, pragmatischen Teil reﬂektierender
+und weniger pragmatisch, was den Konkretsheitgrad der Anweisungen an
+Mann und Frau betrifft.
+
+Zusammenleben, eheliche Liebe
+
+Interessanterweise sind die beiden Kapitel 17 und 18 des Christlich Eestand,
+die sich mit der Frage nach der ehelichen Liebe und deren Umsetzung befas-
+sen, 182  nicht  von  der  Leitdifferenz  rein/schmutzig  geprägt.  Von  den  acht
+Punkten, die es erlauben sollen, die eheliche Liebe und Treue zu bewahren
+und  zu  vergrößern:  «Gottes  wort  vnd  geb eatt»,  «Ein  hertz  vnd  willen»,
+«Dienst vnd gmeinsame», «Willfaaren», «Früntliche vnd holds ealige», «Nit
+bl eayen sunder komlich heruß sagen», «Eeliche kinder» und «Trüw vnd glou-
+ben halten», greift Bullinger nur beim letzten auf die Grundunterscheidung
+rein/schmutzig zurück, und zwar vor allem dort, wo nicht die Paarbezie-
+hung  selbst,  sondern  der  Kontakt  zur  Außenwelt  thematisiert  wird:  beim
+Umgang mit anderen Leuten und bei der Kleidung. 183 Zumindest im Hin-
+
+180 Bullinger, Sermones (Anm. 39), Bl. 80r.
+181 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 104r-112v.
+182 Vgl. Bullinger, Christlich Eestand (Anm. 8), Bl. K1v: «Hie sol aber der Eemensch sich nit dar-
+an vern eugen lassen / das er weißt was eeliche liebe ist / vnd wie er sinen gemahle lieben sol /
+sunder er sol sich ﬂyssen mit der thaat sinen gemahel also zelieben / wie jm der Herr geboten
+hat».
+
+183 Vgl. ibid. Bl. K7r-v.
+
+Zwingliana XXXI, 2004
+
+305
+
+Detlef Roth
+
+blick  auf  die  lexikalischen  Leitdifferenzen  nehmen  also  die  Erläuterungen
+zur Paarbeziehung eine besondere Stellung im Christlich Eestand ein. Die
+Tendenz zu größerer Abstraktion und begrifﬂicher Präzisierung lässt sich al-
+lerdings auch hier beobachten.
+
+Im Kapitel über das erste Zusammenleben heißt es etwa in der Volkomm-
+nen vnderrichtung: «Zum iij vnd das das gr eost ist / so m ous ÿedes mercken vff
+desz anderen perden / vnd wol erlernen desz anderen sitten». 184 Nach dieser
+ersten, an beide Geschlechter gerichteten Aufforderung weist Bullinger zu-
+erst über drei Seiten den Mann an, wie er sich gegenüber der Frau zu verhal-
+ten hat. Wenn der Mann etwa an der Frau einen Fehler entdecke, solle er ihr
+sagen: «Früntliche N. s eolichs hastu an dir / dz ist mir nun gantz widerig /
+welte  dich  früntlich  bittenn  /  du  wellist  mir  nützid  verargen  /  vnd  dich
+s eoliches entzühen. wil mich gern ouch desz maasgen und abth oun dz dir wÿ-
+derig ist». 185 Anschließend bemerkt Bullinger relativ knapp, dass sich auch
+die junge Frau entsprechend verhalten solle: «Ietzt so wirt ouch an dir Doch-
+ter vil liggen / dz du dinen man nitt verursachist / dz er also vnuernünfftig an
+dir faare: du m oust imm ouch vorgeben: dz bistu ouch schuldig von g eottli-
+chem recht / mee dann der man: m oust nitt grad vffbinden wenn er th out / dz
+dir  nitt  vast  wol  gfallt»  usw. 186  Im Christlich  Eestand  werden  diese  An-
+weisungen konsequent entkonkretisiert und symmetrisch, das heißt an beide
+Geschlecher gemeinsam, formuliert. So lautet die Anweisung, die vorher an
+den Mann gerichtet war, jetzt folgendermaßen: «Bedenckend doch z ou beiden
+teilen eigentlich / wenn üwer yetlichs also vff siner wyß stotzen will / das jr
+nimmer lieben tag darby haben werdend. Was hilfft üch dann üwere l eatze
+wyß? Besser ists wenn du gewarest / das du an dir hast das dinem Eegmahel
+mißfallt / du th eugist dich desse ab. Mißfallt dann dir ouch etwas / so red fry
+vnd  vernünfftigklich  mit  dinem  Eegmahel  das  er  sich  deß  vnd  deß
+abth euge.» 187
+
+Gerade diese «konsequent symmetrischen Adressierung» wurde von der
+Forschung immer wieder hervorgehoben 188 und war dafür verantwortlich,
+dass Bullingers Eheschrift der Forschung vielfach als modern galt. 189 Zu die-
+sem Urteil kann man jedoch nur gelangen, wenn man die symmetrisch for-
+mulierten Äußerungen Bullingers isoliert betrachtet. Monika Gsell hat dage-
+gen zu Recht betont, dass Bullinger im Christlich Eestand im Vergleich zur
+Volkommnen vnderrichtung nicht nur das Modell der Gegenseitigkeit ver-
+
+184 Volkommne vnderrrichtung (Anm. 34), Bl. 59v.
+185
+
+Ibid. Die moderne Beziehungsliteratur würde dazu sagen, man solle Ich-Botschaften ver-
+wenden und so genannte Killer vermeiden.
+Ibid. Bl. 61r.
+
+186
+187 Bullinger, Christlich Eestand (Anm. 8), Bl. J5r.
+188 Gsell (Anm. 14), 111.
+189 Vgl. dazu oben S. 277.
+
+306
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+stärkt, sondern auch die Hierarchie zwischen den Eheleuten, sodass von ei-
+ner ‹Gleichstellung› von Mann und Frau höchstens in Bezug auf ihre diskur-
+sive  Objektposition  die  Rede  sein  kann:  «Die  auktoriale  Instanz  des
+unterweisenden Subjekts der Rede wendet sich nun gleichermaßen an Mann
+und Frau als zu erziehende Objekte.» 190 Und darin erweist sich der Christlich
+Eestand lediglich als «Spezialfall» eines Konzeptes der Gegenseitigkeit, das
+sich in der Eheliteratur bis zum 13. Jahrhundert zurückverfolgen lässt. 191
+
+Die  Unterschiede  zwischen  der Volkommnen  vnderrichtung  und  dem
+Christlich Eestand lassen sich der Absicht Bullingers zufolge, Aufklärungs-
+arbeit in sprachlicher Hinsicht leisten zu wollen, zunächst als Verdichtung
+und Abstraktion verstehen. Auch die frühe Eheschrift fängt ja mit einer all-
+gemeineren, symmetrisch formulierten Forderung an, bevor sie mit konkre-
+ten Anweisungen an den Mann und die Frau weiterfährt. Diese konkreten
+Anweisungen werden dann im gedruckten Ehetraktat auf einer allgemeine-
+ren Ebene zusammengefasst. An einer Stelle des Christlich Eestand gibt Bul-
+linger einen deutlichen Hinweis auf dieses Verfahren. 192 In einem Abschnitt
+von Kapitel 17 schreibt er, «was die Eelüt von Gottes gebotts w eagen einan-
+dren schuldig syend / namlich ordenliche gehorsame vnnd Eeliche / das ist
+die h eochsten / liebe.» 193 Diese Formulierung hält sich ganz an das Modell der
+Gegenseitigkeit, unterscheidet Bullinger doch nicht zwischen den Pﬂichten
+des Ehemannes und der Ehefrau. Doch gleich im den nächsten Abschnitten
+wird deutlich, dass die Gegenseitigkeit lediglich die Folge einer Verdichtung
+und Zusammenfassung dessen ist, was eigentlich gemeint ist: dass die «or-
+denliche gehorsame» die Hauptpﬂicht der Frauen ist und die eheliche Liebe
+die  Hauptpﬂicht  der  Männer. 194  Das  Grundmodell  des  Verhältnisses  zwi-
+schen Mann und Frau, dem letztlich beide Eheschriften verpﬂichtet sind, ist
+nämlich das Verhältnis von Jesus Christus zur Kirche bzw. vom Haupt zu
+den Gliedern des Leibs. 195 Vor dem Hintergrund dieses Modells, das Bullin-
+
+Ibid. Bl. J6v-K1v.
+
+190 Gsell (Anm. 14), 113–117, Zitat 115.
+191 Vgl. ibid. 116.
+192 Vgl. dazu auch Gsell (Anm. 14), 113f. und 116f.
+193 Bullinger, Christlich Eestand (Anm. 8), Bl. J6r.
+194
+195 Mehr als deutlich wird dies auch in Dekade 2,10, Bullinger, Sermones (Anm. 39), Bl. 79r-v,
+wo das Modell der Gegenseitigkeit wieder ganz an den Rand gedrängt wird: «Sit maritus uxo-
+ris caput, mens videlicet sapientiaque, commodus moderator, viae dux, convictor iucundus,
+monitor in rebus omnibus opportunus, defensor ﬁdus. Uxor sit obediens, ut videmus mem-
+bra parere capiti, praebet se agendam et regendam viro, non spernat aequa mariti dogmata aut
+imperia. Cogitent se esse unum corpus vel membra unius corporis. Discant ergo ex guberna-
+tione corporis humani, quomodo sese gerant in connubio. Nobilia membra non contemnunt
+ignobiliora, sed eis deferunt magis ac laborem leniunt et auxilium conferunt. Ignobiliora sus-
+cipiunt nobiliora nec istis invident quicquam. [.. .] Requiritur ergo a coniugatis, ut ardentis-
+sime et sanctissime se ament mutuum.»
+
+Zwingliana XXXI, 2004
+
+307
+
+Detlef Roth
+
+ger  aus  Epheser  5,22 ff.  übernimmt,  wird  klar,  dass  es  bei  Bullinger  keine
+Gleichberechtigung geben kann, 196 sondern lediglich eine Wechselseitigkeit
+in der Form, wie sie auch zwischen Christus und der Kirche bzw. zwischen
+dem Haupt und den Gliedern existiert: nur im Hinblick auf Fürsorglichkeit,
+Treue und Liebe, also auf ihr emotionales Verhältnis. 197 In dieses Verhältnis
+ﬂießen auch die zwölf Arten der «rechten waren liebe», die Bullinger in der
+Volkommnen vnderrichtung aufzählt, in den Christlichen Eestand ein. 198 So-
+wohl was das intellektuelle Verhältnis von Mann und Frau als auch was die
+Verhältnisse  außerhalb  der  Paarbeziehung  im  engeren  Sinne  betrifft,  wird
+dem Mann deutlich der Vorrang zuerkannt. 199
+
+Dies wird im Übrigen auch aus der unterschiedlichen Rollen und Räumen
+ersichtlich, die Bullinger ganz seiner Zeit verpﬂichtet dem Ehemann und der
+Ehefrau zuweist (Kapitel 19 und 20), sowie aus der unterschiedlichen Erzie-
+hung, die Bullinger für Knaben und Mädchen vorsieht: Ist für den Knaben
+ein Leben in Eigenständigkeit, sei es durch ein Studium, sei es durch das Er-
+lernen eines Handwerks, vorgesehen, so sollen die Mädchen von vornherein
+auf den zukünftigen Mann und die Familie und ein möglichst unauffälliges
+Verhalten hin erzogen werden (Kapitel 22 und 24). 200
+
+Im  Zusammenhang  betrachtet  scheint  mir  daher  die  Umarbeitung,  die
+Bullinger gegenüber Erasmus und gegenüber seiner frühen Eheschrift vorge-
+nommen hat, keineswegs «spektakulär», sondern das Resultat eines sprach-
+lich-moraldidaktischen Konzepts, das Bullinger wohl auch im Hinblick auf
+die Drucklegung und auf ein gemischtgeschlechtliches Zielpublikum konse-
+quent umgesetzt hat. Die traditionelle Geschlechterordnung ist nie in Frage
+gestellt, wird aber, was den emotionalen Bereich betrifft, durch ein Konzept
+der Wechsel- und Gegenseitigkeit ergänzt, das ebenfalls, wenn auch weniger
+zahlreiche Vorläufer hat.
+
+196 Auch keine eigentliche Gleichwertigkeit, vgl. Burghartz, Zeiten (Anm. 16), 62f.
+197 Burghartz, Zeiten (Anm. 16), 64, spricht in diesem Zusammenhang von der «Ausbildung ei-
+
+nes psychischen Binnenraums».
+
+198 Bullinger, Volkommne vnderrichtung (Anm. 34), Bl. 65r-66v. Gsell (Anm. 14), 114, schreibt
+zu Recht, dass diese Liebeslehre «hier – im Kontext einer Ehelehre – wohl einzigartig ist und
+im Traktat von 1540 auch keinen Platz mehr gefunden hat». Ich würde aber ergänzen: in die-
+ser Form keinen Platz gefunden hat, denn zerstreut ﬁnden diese Punkte durchaus in den sym-
+metrischen, geschlechtsneutralen Formulierungen Eingang.
+
+199 Vgl. dazu auch Burghartz, Zeiten (Anm. 16), 65–67.
+200 Bullinger, Christlich Eestand (Anm. 8), Bl. L1v-M2v, N1r-N4v und O2r-O5v.
+
+308
+
+Zwingliana XXXI, 2004
+
+Heinrich Bullingers Eheschriften
+
+Zusammenfassung
+
+Bullingers Christlich  Eestand  ist  im  Gegensatz  zu  seiner Volkommnen
+vnderrichtung von der Absicht geprägt, semantische Aufklärungsarbeit zu
+leisten und die Dinge beim Namen zu nennen. Dies hat zur Folge, dass der
+gedruckte Ehetraktakt insgesamt auf einem abstrakteren Niveau gehalten ist
+und  stärker  mit  Gegensatzpaaren  wie  Recht/Unrecht,  Keuschheit/Un-
+keuschheit, Zucht/Unzucht usw. arbeitet. Die Grundunterscheidung rein/
+schmutzig, die vor allem im zweiten Teil des Christlich Eestand vorherrscht,
+beschreibt dabei nicht nur die erlaubte Sexualität in der Ehe und die Unzucht
+außerhalb der Ehe, sondern generell sittlich richtiges und falsches Verhalten.
+Diese Verwendung der sprachlichen Leitdifferenz rein/schmutzig ist zwar
+kein Speziﬁkum des Bullingerschen Ehetraktats, aber auch nicht die Form, in
+der im 16. Jahrhundert gewöhnlich über die Ehe, das eheliche Zusammenle-
+ben und die Kindererziehung geschrieben wurde. Jedenfalls wäre den histo-
+rischen Bezügen dieser Leitdifferenz bei Bullinger noch detaillierter nachzu-
+gehen. 201
+
+Der  Begriff  «Ordnungstext»,  mit  dem  Burghartz  Bullingers Christlich
+Eestand charakterisiert, ist in mehrfacher Hinsicht zutreffend: 202 Zum einen
+lassen die ausführlichen Erläuterungen zur rechtlichen Seite der Ehe enge
+Bezüge zu den Zürcher Ehegerichtsordnungen erkennen. Zum anderen hat
+auch der zweite, pragmatischere Teil deutlich ordnungspolitische und sozi-
+aldisziplinatorische  Tendenzen.  Und  zum  Dritten  schafft  Bullingers  Ehe-
+schrift  mit  der  bevorzugten  Verwendung  von  Leitdifferenzen,  welche  die
+moralische Welt einteilen, auch sprachlich Ordnung. Gerade diese konzep-
+tionelle Geschlossenheit scheint mir im Vergleich zu anderen Eheschriften
+das Besondere an Bullingers Ehetraktat und dafür verantwortlich, dass bei
+der Lektüre der Eindruck von Modernität entsteht.
+
+201 Die Aussage, der «reformierte Ehediskurs» sei «wesentlich ein Reinheitsdiskurs», scheint mir
+differenzierungsbedürftig,  vgl.  Burghartz,  Zwischen  Integration  (Anm. 16),  33,  und  zum
+Reinheitsdiskurs selbst Burghartz, Zeiten (Anm. 16), 17–19. Denn nur schon für Luther gilt
+beispielsweise die Formel von der «Ehe als Ort der Reinheit» nicht (vgl. oben, Anm. 150).
+
+202 Burghartz, Zwischen Integration (Anm. 16), 35, allerdings ohne dies durch eine detaillierte
+
+Textanalyse zu begründen.
+
+Zwingliana XXXI, 2004
+
+309
+
+

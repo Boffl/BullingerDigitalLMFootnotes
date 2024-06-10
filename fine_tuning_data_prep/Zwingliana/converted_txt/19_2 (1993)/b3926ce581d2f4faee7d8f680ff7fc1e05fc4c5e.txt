@@ -1,0 +1,958 @@
+«Asperges me Domine  hyssopo, 
+
+et  mundabor» 
+
+Beobachtungen zu Sadolets und Calvins Exegesen von Psalm 51 als Frage 
+
+nach dem «proprium» reformierter  Schriftauslegung 
+
+von  PETER  OPITZ 
+
+/. Gemeinsamkeiten zwischen Sadolet und Calvin 
+
+In  ihren  Briefen  von  1539  werben  sowohl  Jacopo  Sadoleto,  humanistische  Ge(cid:173)
+lehrtenpersönlichkeit  und  Kardinal von  Carpentras, als auch Johannes  Calvin, um 
+die Gunst der Genfer  Gemeinde1. Sadolet, dessen Gelehrsamkeit  auch von  Calvin 
+anerkannt  wird2, der anderseits aber kirchlicher  Amtsträger  und  somit sowohl Re(cid:173)
+former  wie auch Verteidiger der römischen Kirche ist, zieht dabei in seinem Brief 
+alle rhetorischen  Register.  Calvin  seinerseits, der  seine  anfangs  beabsichtigte  hu(cid:173)
+manistische  Karriere  abgebrochen  und  dafür  die  Aufgabe  der  Reformierung  der 
+Genfer  Kirche  übernommen  hat,  steht ihm  in  seiner  Antwort  in dieser  Beziehung 
+um nichts nach. Cicero hätte an beiden seine Freude gehabt. 
+
+Aber  auch  terminologische  Übereinstimmungen  zeugen  von  einem  gemein(cid:173)
+samen humanistischen  Hintergrund,  der nicht verborgen  bleibt, obwohl die  Diffe(cid:173)
+renzen  zwischen  einer  (römisch)  kirchlichen  humanistischen  und einer  reformier(cid:173)
+ten  Theologie  mit  aller  Deutlichkeit  ausgesprochen  werden.  So  geht  es  beiden 
+grundsätzlich  um die Frage, was in Wahrheit «christliche Lehre» bzw. «christliche 
+Weisheit»  genannt  zu werden  verdient3. Eine  solche «doctrina»  bzw. «sapientia», 
+auch  das  wird  übereinstimmend  formuliert,  muß  dabei  vor  allem  Gott  gerecht 
+werden, sie muß darauf achten, daß «Gott das gegeben wird, was ihm zukommt»4. 
+Darüber hinaus besteht in zwei wichtigen Punkten, die uns als hermeneutische 
+
+hier interessieren  und als «noetische» bzw. «pneumatologische»  Einsicht  bezeich(cid:173)
+net  werden  sollen,  zumindest  auf  den  ersten  Blick,  Einigkeit.  Einmal:  Die  «sapi(cid:173)
+entia christiana», um welche  es ihnen  geht, wird von beiden  näher  bestimmt  über 
+die allgemein verbreitete philosophische Definition  der Weisheit als der «Erkennt-
+
+1 
+
+Johannes Calvini opera selecta, hrsg. von Peter Barth, Dora Scheuner, Wilhelm Niesei, 
+Band 1-5 (Bde. 3-5 in 2. Aufl.), München 1926-1962 [zit: OS], hier: OS 1, 441-489. 
+
+2  OS 1,457. 
+3  OS 1,443; OS 3,31, 6f. 
+4 
+
+«Qui enim tribuunt Deo quod suum est...», Sadoleti opera III 280. «...non tribui Deo 
+quod suum est, nisi rebus Omnibus praeferatur...», so Calvin: OS 1, 463. Die Schriften 
+Sadolets  werden  zitiert  (ausgenommen  sein  Brief  an  die Genfer  in  OS  1, 441-456) 
+nach: Jacobi Sadoleti opera quae extant omnia, Verona 1738. 
+
+297 
+
+nis der göttlichen und menschlichen  Dinge»5 hinaus als die in der  «Gotteserkennt(cid:173)
+nis  und  Selbsterkenntnis»  bestehende  Weisheit,  wie  sie  in den heiligen  Schriften 
+als Erkenntnisquelle zu finden  ist6. 
+
+Zum anderen: Einig sind  sie sich auch darin, daß diese «Gotteserkenntnis  und 
+Selbsterkenntnis»  sich  nicht  einfach  in  einer  besonderen  Gestalt  menschlichen 
+Wissens erschöpft,  sondern daß es sich dabei letztlich um den Geist Gottes  selber 
+handelt,  welcher  diese  Erkenntnis  bewirken  und  dabei  als  «Geist  der  Wahrheit» 
+den ganzen Menschen bestimmen und in sich einbeziehen muß. 
+
+Gemeinsam  ist  Sadolet  und  Calvin  ebenfalls  das  Bemühen  um  eine  sachge(cid:173)
+mäße  Schriftauslegung.  Beide  beziehen  in  hermeneutisch  reflektierter  Weise  ihr 
+grammatisches  und  rhetorisches  Wissen  in  ihre  Exegesen  ein, heben  sich  so von 
+einer  breiten  exegetischen  Tradition  ab und bewegen  sich  auf  dem  höchsten  wis(cid:173)
+senschaftlichen  Niveau ihrer Zeit. 
+
+Trotzdem  unterscheiden  sich  die  Exegesen  Sadolets  und  Calvins  nicht  unbe(cid:173)
+trächtlich.  Wie  nämlich  diese  beiden  genannten  hermeneutischen  Einsichten  in(cid:173)
+terpretiert  werden  müssen,  damit  wirklich  Gott  «das  Seine  zukommt»,  darüber 
+geht der Streit, ein Streit, der sich auch in der Exegese zeigt. 
+
+2. Die hermeneutischen Differenzen 
+
+Es  sind  zwei  Einwände,  die  Calvin  in  seinem  Brief  von  1539 gegenüber  Sadolet 
+und der von ihm repräsentierten humanistischen Tradition macht. Sie sollen zuerst 
+kurz  dargestellt  werden,  um anschließend  zu  fragen,  in welcher Weise  sich  diese 
+Differenzen  als  hermeneutische  Entscheidungen  in  der  konkreten  Schriftausle(cid:173)
+gung auswirken, und ob sich dabei Konturen ausmachen lassen, durch welche sich 
+«humanistische» von  «reformierter»  Exegese unterscheidet.  Daß gerade Psalm 51 
+dazu  herangezogen  wird,  hat  einen  praktischen  Grund:  Sadolet  hat  neben  Psalm 
+93 nur noch diesen  ausgelegt.  Vers  9 eignet  sich  dabei  als Illustration,  weil er si(cid:173)
+cher  nicht  wörtlich  von  einem  christlichen  Leser  nachgesprochen  werden  kann 
+und deshalb das hermeneutische Problem unverdeckt stellt. 
+
+a) Die pneumatologische  Differenz 
+
+Daß es der Geist  ist, der die Wahrheit  der  Schrift  offenbar  macht,  darin  sind  sich 
+Calvin und Sadolet einig. Während  Sadolet aber die enge Verbindung  des Geistes 
+
+«Scientia rerum divinarum et humanarum». Vgl. die auf Augustin zurückgeführten De(cid:173)
+finitionen  des  Petrus  Lombardus:  Sententiae  in  IV  libris  distinctae,  über  III,  dist. 
+XXXV, Rom 1981. Sadoleti opera III 232. 
+«Cognitio Dei atque sui», Sadoleti opera III 295. Calvin stellt diese Formel bekanntlich 
+an den Anfang seiner Institutio: OS 3, 31, 8. 
+
+298 
+
+mit  der  einen  allgemeinen  Kirche  behauptet,  stellt  Calvin  dieser  Behauptung  die 
+These  von  der  primären  Zusammengehörigkeit  von  Geist  und  Wort  gegenüber. 
+
+Für  Sadolet  ist  die  Trennung  der  Genfer  von  der  einen  universalen  Kirche  das 
+Hauptproblem,  aus  welchem  sich  seine  Sorge  um  deren  Seelenheil  ergibt7.  Dabei 
+versteht  er  die  Genfer  Gemeinde  als  Opfer  einer  Irreführung,  die  aufgrund  einer 
+falschen  und  dunklen  Schriftauslegung  von  Leuten,  die  durch  spitzfindige  Dispu(cid:173)
+tationen  ihre  eigenen,  subjektiven  Erfindungen  für  die  christliche  Weisheit  ausga(cid:173)
+ben,  erfolgt  ist8. 
+
+Demgegenüber  stellt  er  fest,  daß  die  christliche  Weisheit  «nicht  in  Syllogis(cid:173)
+men,  nicht  in  verbalen  Trugschlüssen,  sondern  in  Demut  [humilitas],  in  Religion 
+[religio],  in  Gehorsam  gegen  Gott»  besteht9.  Dabei  kommt  dem  Geist  eine  ent(cid:173)
+scheidende  Rolle  zu.  Er  selber  muß  die  Menschen  im  Herzen  erleuchten10.  Der 
+Ort  aber,  wo  dieser  Geist  am  Werk  ist,  ist  die  Kirche.  Das  als  öffentlich  sichtbare 
+Zugehörigkeit  verstandene  Sein  in  der  einen  universalen  Kirche  begründet  somit 
+für  Sadolet  die  Gewißheit  des  Geistes  und  damit  der  Präsenz  Gottes.  Daß  die  Kir(cid:173)
+che  wirklich  durch  den  Geist  geleitet  ist,  zeigt  sich  dabei  in  ihrer  beeindruckenden 
+Einheit  und  Kontinuität  trotz  ihrer  großen  räumlichen  und  zeitlichen  Ausdeh(cid:173)
+nung11.  Dadurch  erweist  sie  sich  als  Kirche  Christi12.  Als  Ort  der  Gegenwart  des 
+Geistes  besitzt  sie  dann  aber  auch  ein  sicheres  Kriterium  der  Wahrheit13.  Die  kon(cid:173)
+krete  Gestalt  der  christlichen  Weisheit,  also  der  «humilitas»  und  der  «religio»,  be(cid:173)
+steht  demzufolge  darin,  sich  der  Kirche  und  deren  Einrichtungen  gehorsam  unter(cid:173)
+zuordnen14. 
+
+Hier  erhebt  Calvin  Einspruch.  Der  Geist  Gottes,  dem  auch  für  ihn  entschei(cid:173)
+dende  Bedeutung  zukommt,  ist  nicht  mit  der  Kirche,  sondern  primär  und  grundle(cid:173)
+gend  mit  dem  Wort  verbunden15.  Entsprechend  wird  die  Kirche  für  ihn  nicht 
+durch  die  sichtbare  Einheit,  sondern  durch  das  Wort  konstituiert,  welches  allein 
+für  deren  Einheit  garantiert16.  Seiner  Meinung  nach  trennt  die  römische  Kirche 
+
+OS  1,442. 
+OS  1,443. 
+OS  1,443. 
+So setzt  Sadolet  voraus, daß jemand,  der  im  wahren  Glauben  «Christum  agnoscens  et 
+confitens»  zugleich einer ist, «cuius aliquando menti atque cordi Spiritus sanctus illuce-
+rit»;  OS  1, 454. Vgl. dazu  Calvins  Bestimmung  des Werkes  des Geistes  als:  «mentem 
+illuminari et cor obfirmari»,  OS 4,  16, 30. 
+
+7 
+8 
+9 
+10 
+
+15 
+
+Sadolet verweist hier auf Joh  17, 11 als Schriftbeleg:  OS  1, 454. 
+
+11  OS  1,450  usw. 
+12 
+13  Eine «certa regula qua a veris falsa discernat», OS  1, 449. 
+14 
+
+«Non enim praeter sententiam et autoritatem  ecclesiae arrogamus  nobis quidquam, non 
+plus  nos  sapere  quam  oporteat  sapere  nobis  ipsis  persuademus,  non  superbiam  afferi-
+mus ad contemnendum ecclesiae decreta...», OS  1, 447. 
+«...quam  periculosum  foret  absque  verbo  spiritum  iactare,  ecclesiam  a sancto  quidem 
+spiritu  gubernari  asseruit;  sed  eam  gubernationem,  ne  vaga  et  instabilis  crederetur, 
+verbo alligavit.» OS  1, 465. 
+
+16  Nicht  der  irdische  «consensus»  konstituiert  die  Kirche,  sondern  die Lehre  Christi  und 
+der  Heilige  Geist,  welcher  die  irdisch  gesehen  zerstreuten  Gläubigen  zur  Einheit  des 
+Glaubens sammelt, OS  1, 466. 
+
+299 
+
+den  Geist  vom  Wort  und  verfällt  so  einem  kollektiven  Subjektivismus,  der  sie  in 
+die Nähe  der  Spiritualisten  führt17. 
+
+So  ist  es  nicht  die  Kirche,  welche  für  sich  ein  Kriterium  der  Wahrheit  bean(cid:173)
+
+spruchen  darf,  sondern  es  ist  das  Wort  Gottes,  welches  als  alleiniger  Prüfstein  der 
+Wahrheit  gelten  muß18.  Wahre  «humilitas»  ist  somit  nicht  «irgendeine  Erniedri(cid:173)
+gung»,  sie  ist  nicht  eine  Tugend  in  sich,  sondern  sie erhält  ihren  christlichen  Wert, 
+den  Calvin  ebenso  wie  Sadolet  betont,  von  ihrem  Gegenüber  her.  Sie  ist  die  kon(cid:173)
+krete  Unterordnung  unter  das  Wort  Gottes,  die  in  der  sorgfältigen  und  eifrigen 
+Auslegung  der  Schrift  ihren  Ausdruck  findet19.  Das  Werk  des  Geistes  aber,  das  im 
+Herzen  der  Menschen  geschieht,  führt  sie  nicht  vom  Wort  Gottes  weg  zu  neuen, 
+gleichsam  wortlosen  Offenbarungen,  sondern  er  führt  sie  in  das  Wort  hinein20,  er 
+eröffnet  nicht  einen  anderen  Offenbarungsinhalt,  sondern  er  bewirkt  die  Gewiß(cid:173)
+heit der Wahrheit  der  im  Wort  zugänglichen  christlichen  Lehre21. 
+
+b)  Die  noetische  Differenz 
+
+Daß  es  in  der  Schriftauslegung  um  «Gotteserkenntnis  und  Selbsterkenntnis»  geht, 
+darüber  besteht  Einigkeit.  Während  Sadolet  aber  argumentierend  den  Weg  vom 
+allgemeinen  Streben  des  Menschen  nach  dem  Heil  zu  dessen  Unterordnung  unter 
+die  Einrichtungen  der  Kirche  fortschreitet,  verläuft  der  Denkweg  Calvins  genau 
+umgekehrt.  Theologisches  Denken  beginnt  für  ihn  mit  der  Ehre  Gottes  und  nimmt 
+von  dieser  her  den  Menschen  in  den  Blick. 
+
+Für  Sadolet  ist  die  Unterwerfung  unter  die  Kirche  ein  durchaus  rationaler  Ent(cid:173)
+schluß.  Es  ist  ein  verantworteter  Akt  der  Selbstbegrenzung  menschlicher  Ver(cid:173)
+nunft22.  Angesichts  der  rational  wahrgenommenen  menschlichen  Situation  in  der 
+Welt,  welche  dadurch  geprägt  ist,  daß  sich  der  Mensch  im  Bereich  des  Irdischen 
+und  Vergänglichen  befindet,  seinem  Wesen  nach  aber  auf  das  Ewige  und  Unver(cid:173)
+änderliche  gerichtet  ist,  muß  ihm  das  Heil  seiner  Seele  vornehmstes  Anliegen 
+sein23.  In  Anbetracht  der  ihm  vorliegenden  Möglichkeiten  und  Heilsangebote  ist 
+es  ein  vernünftiger  Entschluß,  nicht  auf  eine  der  vielen  Meinungen  oder  auf  ver(cid:173)
+nünftige  Syllogismen  seine  Existenz  zu  setzen,  sondern  sich  der  Kirche  unterzu(cid:173)
+ordnen,  die  als  beeindruckendes  Argument  für  ihre  Autorität  ihren  Umfang  und 
+
+17  OS  1,465. 
+18 
+19 
+
+«Verbum autem instar esse lydii lapidis», OS  1, 465f. 
+«Itaque,  veram  demum  humilitatem  Paulus  esse  docet  (Col  2,  18), quae  ad  verbi  Dei 
+regulam est composita.» OS  1,473;  vgl. OS  1, 475f. 
+«...spiritum  ecclesiae praelucere ad patefaciendam  verbi intelligentiam.» OS  1, 465. 
+«...Spiritus  sit  promissus  non  ad  novam  doctrinam  revelandam,  sed  imprimendam  ho-
+minum animis evangelii veritatem.» OS  1, 465. 
+«Nemo  hoc,  credo,  negaturus  mihi  est,  quin  in  re  ancipiti  et  dubia,  in  qua  praesertim 
+summa agitur vitae et salutis nostrae, id potius capere et sequi consilü  debeamus, quod 
+ratio nobis suaserit...», OS  1, 450. 
+«Haec  igitur  tarn  ampla,  tarn  cara,  tarn  pretiosa  professio,  quae  nostrae  animae  salus 
+unicuique nostrum est, omni vi et conatu nobis retinenda est...», OS  1, 446. 
+
+20 
+21 
+
+22 
+
+23 
+
+300 
+
+ihre  Gestalt  vorweisen  kann24.  Dazu  kommt  noch  ein  weiteres  rationales  Argu(cid:173)
+ment:  Sogar  wenn  diese  Option  sich  als  falsch  erweisen  würde,  hat  der  einzelne 
+Mensch  noch  die  Möglichkeit,  die  Verantwortung  von  sich  weg  auf  die  Kirche, 
+durch  welche  er  sich  in  diesem  Fall  eben,  durchaus  verständlich,  hat  täuschen  las(cid:173)
+sen,  abzuschieben,  und  sich  so dem  Urteil  Gottes  zu  entziehen25. 
+
+Dieser  Argumentationsgang  scheint  Calvin  «wenig  theologisch»  zu  sein.  In(cid:173)
+dem  er  vom  Heilsverlangen  des  Menschen  ausgeht,  hält  er  diesen  seiner  Meinung 
+nach  auch  bei  sich  selbst  fest,  anstatt  ihn  von  Anfang  an  unter  der  Bestimmung, 
+die  ihm  Gott  zugedacht  hat,  zu  sehen.  Denn  «nicht  für  uns  selbst,  sondern  für  Gott 
+sind  wir  in  erster  Linie  geboren»26.  Theologisch  denken  bedeutet  dann  aber,  mit 
+Gott  anfangen  und  alles  auf  ihn  zu  beziehen27.  Nur  dann  wird  ihm  das  Seine  ge(cid:173)
+geben. 
+
+Wie  zeigen  sich  diese  Differenzen  in  der  Schriftauslegung?  Bei  der  Bestim(cid:173)
+mung  des  «Ziels»  der  Auslegung  kommt  besonders  die  noetische,  bei  der  Be(cid:173)
+stimmung  des  «Weges»  die pneumatologische  Differenz  zum  Vorschein. 
+
+3.  Sadolets  Auslegung  von  Psalm  51 
+
+a) Das  Ziel  der  Auslegung 
+
+Wie  Sadolet  in  seiner  der  Auslegung  von  Psalm  51  vorangestellten  Widmungsvor(cid:173)
+rede  betont,  hat  er  sich  schon  länger  mit  dem  Problem  der  Schriftauslegung  be(cid:173)
+schäftigt  und  will  nun  anhand  von  Psalm  51  exemplarisch  seine  Auslegungsweise 
+darlegen28.  Obwohl  er  für  die  meist  namentlich  nicht  genannten  früheren  Ausleger 
+viel  Lob  übrig  hat  und  von  ihnen  auch  einiges  übernimmt,  geht  er  doch  selbstbe(cid:173)
+wußt  seinen  eigenen  Weg.  Dieser  besteht  in  einer  Verbindung  von  humanistisch(cid:173)
+rhetorischen  Elementen  mit  der  traditionellen,  dem  mehrfachen  Schriftsinn  zuge(cid:173)
+wandten  Exegese. 
+
+Das  Ziel  der  Auslegung  ist  dabei  der  «Nutzen»  für  den  Leser.  Den  «Nutzen» 
+der  Schrift  allgemein  bestimmt  er  folgendermaßen:  «In  ihnen  [den  hl.  Schriften] 
+hören  die  himmlischen  Quellen  nicht  auf  zu  fließen,  aus  welchen  jeder  hinsicht-
+
+24  OS  1,452. 
+25  OS  1,453. 
+26 
+
+«...parum  est  theologicum,  hominem  ita  sibi  ipsi  addicere,  ut  non  interim  principium 
+hoc illi vitae formandae  praestituas, illustrandae Domini gloria Studium. Deo enim, non 
+nobis, nati imprimis sumus.» OS  1, 463. 
+«Siquidem, quemadmodum ab eo fluxerunt omnia, et in eo consistunt, ita in eum  referri 
+debent...», OS  1,463. 
+Sadoleti  opera  III  262.  Vgl.  G.  Gesigora,  Probleme  humanistischer  Psalmenexegese, 
+dargestellt  am  Beispiel  des  Reformbischofs  und  Kardinals  Jacopo  Sadoleto,  in:  Der 
+Kommentar in der Renaissance, hrsg. von A. Bück und O. Herding, Bonn  1975, 35-46. 
+
+27 
+
+28 
+
+301 
+
+lieh  der  Gotteserkenntnis  und  der  Selbsterkenntnis  und  hinsichtlich  der  Förderung 
+und  Nährung  der  eigenen  Glückseligkeit  ableiten  und  schöpfen  kann  soviel  er  nur 
+will»29.  Der  Nutzen  der  Schrift  besteht  demnach  darin,  daß  sie  ein  vorzügliches 
+Hilfsmittel  zur  Gotteserkenntnis  und  Selbsterkenntnis  ist,  und  zwar  in  bezug  auf 
+und  im  Dienst  der  Förderung  der  eigenen  Glückseligkeit.  In  diesem  Zusammen(cid:173)
+hang  des  Strebens  des  Menschen  nach  der  Glückseligkeit  kommt  der  Schrift  und 
+ihrer  Auslegung  ihre  Funktion  zu.  Dies  wird  bestätigt  durch  Bemerkungen  Sado-
+lets  in  seiner  Doppelschrift  zur  Verteidigung  der  Philosophie  «Phaedrus»  bzw. 
+«De  laudibus  philosophiae»30.  Demnach  ist  die  Lehre  in  bezug  auf  das  gute  und 
+glückliche  Leben  zuerst  einmal  in  den  Lehren  der  Philosophie  zu  finden,  darauf 
+dann  aber  den  heiligen  Schriften,  welche  die  wahre  Gotteserkenntnis  enthalten,  zu 
+entnehmen31.  Hinsichtlich  der  Gottes-  und  Selbsterkenntnis  bedeutet  dies,  daß  der 
+letzteren  noetisch  Priorität  zukommt.  So  ist  denn  auch  Sadolets  Schrift  «De  laudi(cid:173)
+bus philosophia»  aufgebaut.  Zuerst  muß  der  Mensch  gemäß  dem  delphischen  Ora(cid:173)
+kel  sich  selbst  erkennen32,  sich  seiner  Natur  und  damit  besonders  seiner  «ratio» 
+bewußt  werden.  Dadurch  ist  er  dann  in  der  Lage,  sowohl  sein  Leben  unter  der 
+Vorherrschaft  der  Vernunft  und  damit  richtig  zu  führen33,  als  auch  seiner  na(cid:173)
+türlichen  Bestimmung  innezuwerden,  die  im  Betrachten  der  himmlischen  und 
+ewigen  Dinge  besteht34.  Dadurch  kann  er  schließlich  auch  die Wohltaten  Gottes  in 
+Christus  annehmen  und  so die ersehnte  Unsterblichkeit  erlangen35. 
+
+Der  Erkenntnisweg  von  der  allgemeinen  menschlichen  Selbsterkenntnis  zur 
+biblisch  bestimmten  Gotteserkenntnis  ist  damit  deutlich.  Der  Übergang  von  der 
+allgemeinen  philosophischen  Erkenntnis  zur  speziellen  theologischen  geschieht 
+für  Sadolet  mehr  oder  weniger  bruchlos36.  Platonistische  Erkenntnis  der  Gefan-
+
+«...ad  meditandas  atque  explanandas  scripturas  sacras  sum  conversus: in eis enim  ma-
+xime fontes  Uli caelestes  scatere non desinunt, e quibus quantum unusquique  vult, tan-
+tum ad cognitionem  Dei atque sui, ad beatam  sibi vitam alendam  atque irrigandam po-
+test derivare.» Sadoleti opera III 295. 
+Sadoleti opera III  128-244. 
+«Omnis  ... quae ad bene beateque  vivendum pertinet doctrinae institutio, dueta primum 
+mihi  quidem  a  Philosophiae  praeeeptis  videtur  esse  ...  Post  autem  his  litteris,  quae 
+quemadmodum  sunt,  sie  etiam  vocantur  sacrae:  in  quibus  vera  Dei  pereipitur  co-
+gnitio...», Sadoleti opera III 128. 
+«Nos videlicet  ipsos noscamus», Sadoleti  opera III 211. «Quae  sane  nostrum  cognitio, 
+non ab exquisitis et abditis primo rationibus, sed a communi hominum intelligentia pe-
+tenda  est», Sadoleti  opera  III  211. «...quod  est  homo,  quos  ad  fines  a natura  directum 
+sit, et quam vitam  agere debeat,  quoquo modo  semetipsum  in usum  sui adhibere, si ad 
+extremum et ultimum suae naturae bonum sit perventurum...», Sadoleti opera III 217. 
+
+33  Die  «ratio»  wird  so  wieder  zur  «domina  et rectrix  humanae  vitae»,  Sadoleti  opera  III 
+
+225. 
+«Contemplatio rerum caelestium et divinarum», Sadoleti opera III 242. 
+«Quod in hac una religione, et salus hominibus est, et vera beatae vitae in terris ratio, in 
+caelo immortalitatis adeptio...», Sadoleti opera III 243. 
+
+36  Darauf  weist  Sadolet  entschieden  hin:  Opera  III  243. Anschaulich  dargelegt  in  einem 
+Brief: «Ego enim  cum me ex illius  [gemeint: philosophia]  studio non  admodum  hebe-
+tem sentio esse factum,  tum vero sie statuo, non lapidem lapidi, neque parietem  fastigio 
+
+29 
+
+30 
+31 
+
+32 
+
+34 
+35 
+
+302 
+
+genschaft  der  menschlichen  Seele  und  biblische  Erkenntnis  der  Sünde  fließen  in(cid:173)
+einander37. 
+
+Der  Nutzen  der  Psalmen  für  den  Leser  besteht  für  Sadolet  entsprechend  darin, 
+
+daß  dessen  Seele  «in  der  Liebe  zu  den  heiligen  Dingen  und  in  der  wahren  Fröm(cid:173)
+migkeit  gefördert»38  wird.  Dazu  eignen  sich  die  Psalmen  besonders  gut,  denn  es 
+gibt  nichts  «für  die  Tugend  und  die  Religion  Nützliches»,  das  nicht  in  ihnen 
+«deutlich  geschrieben  und  geboten»  wäre39.  Die  Psalmen  erweisen  ihre  Relevanz 
+auf  dem  Hintergrund  einer  allgemeinen,  an  die  antike  «virtutes»-Lehre  anknüp(cid:173)
+fenden  Anthropologie. 
+
+Besonders  wertvoll  ist  dabei  der  vorliegende  Psalm,  in  welchem  sich  Sadolet 
+selber  wiederfindet  als  sterblicher  und  schwacher  Mensch,  als  einer,  der  auf  seiner 
+Fahrt  durch  die  Wogen  des  sterblichen  Lebens  beinahe  versinkt,  nur  mit  einem 
+schwachen  «Ruderwerk  der  Tugend»  ausgerüstet  ist  und  daher  sich  zum  Erbar(cid:173)
+men  Gottes  wie  in  einen  Hafen  flüchtet40. 
+
+b)  Der  Weg  der  Auslegung 
+
+1. Die  Auffindung  des  «Sinnes». 
+
+In  der  exegetischen  Arbeit  geht  es  Sadolet  darum,  den  Inhalt  des  Psalms  dem 
+gewöhnlichen  Verstehen  zugänglich  zu  machen  und  damit  sich  in  seiner  Ausle(cid:173)
+gung  diesem  anzupassen41.  Zu  diesem  Zweck  nimmt  er  die  Rhetorik  in  Anspruch. 
+Seine  Auslegung  soll  daher  weder  zu  weit  über  den  Text  hinausgreifen,  noch  darf 
+sie  zu  knapp  ausfallen.  Beide  Abwege  würden  den  «Sinn»  verdunkeln,  wurden 
+aber  von  seinen  exegetischen  Vorgängern  nicht  immer  vermieden42.  Sadolet  will 
+den  Psalm  sein  eigenes  Wort  sagen  lassen.  Anders  als  in  seinem  Römerbriefkom(cid:173)
+mentar  geht  er  hier  in  seiner  rhetorischen  Darstellung  nicht  so  weit,  daß  er  die 
+Auslegung  in  Anlehnung  an  Cicero  dialogisch  konzipiert.  Die  Rhetorik  steht  ganz 
+
+ullum tarn congruere, quam theologiae et divinis literis philosophiam.» Sadoleti opera I 
+117. 
+
+38 
+-w 
+
+37  Ein  charakteristischer  Sachverhalt,  der  z.  B. bei  Bude  sehr  anschaulich  dargestellt  ist 
+in:  G.  Budaeus,  De  studio  literarum,  Paris  1532,  (Faksimile-Neudruck  Stuttgart-Bad 
+Cannstatt  1964). Gegenüber  seinem  französischen  Zeitgenossen  sind  allerdings  Sado-
+lets Schriften,  auch die philosophischen, erstaunlich  nüchtern. 
+Sadoleti opera III 262. 
+«...nihil esse virtuti religionique conducens, quod non in illo libro praeclare  scriptum et 
+praeceptum esset...», Sadoleti opera III 262. 
+Sadoleti  opera  III  263. Das  menschliche  Leben  als  Odyssee  der  Seele  interpretiert  ist 
+dabei ein zeitgenössisches humanistisches  Motiv. 
+So ist es sein Ziel, so auszulegen, «quo sensa illa mystica et divina, non solum  scrutan-
+tibus patere possent,  sed adhiberentur  animis quoque ad amorem Dei et huius  caelestis 
+scientiae  cultum  accendendis.»  Sadoleti  opera III  263. «Nos  tarnen  quae planiora  sunt 
+et propinquiora ad communem  intelligentiam», Sadoleti opera III 279. 
+Sadoleti  opera  III  262.  Entsprechend  der  rhetorischen  Regel:  «Quantum  opus  est  et 
+quantum satis est». Quintilian, Institutionis oratoriae libri XXII, 4, 2,45. 
+
+42 
+
+40 
+
+41 
+
+303 
+
+im Dienste der Erhellung  des Psalms, besonders der Erhellung  der in ihm verbor(cid:173)
+genen Geheimnisse. 
+
+Ausgangspunkt  seiner  Exegese  soll  aber,  im Gegensatz  zur traditionellen  Al-
+legorese, der Literalsinn  sein. Auf der sprachlichen Ebene ist somit der grammati(cid:173)
+sche  Kontext,  auf  der  geschichtlichen  Ebene  die  konkrete  Situation  Davids,  als 
+des  Psalmdichters,  zu berücksichtigen.  So gibt  Sadolet  in  seinem  vorangestellten 
+«argumentum» einen Überblick über die ganze Vorgeschichte Davids,  angefangen 
+bei dessen Berufung  bis zu seinem Ehebruch und dem daraufhin  erfolgten  Besuch 
+des  Propheten  Nathan43.  Damit  stellt  er  Psalm  51  ganz  in  die  Lebensgeschichte 
+seines  Verfassers  hinein,  wie  dies  durch  Vers  1 ja  auch  nahegelegt  wird.  Somit 
+sind dann aber die dort ausgesprochenen Bitten um Vergebung konkret als Davids 
+Bitten  um  Vergebung  nach begangenem  Ehebruch  und Mord  zu verstehen. Dies(cid:173)
+bezüglich  trennt  sich  Sadolet  von  der  traditionellen  Allegorese,  in  welcher  kaum 
+zwischen  dem  ursprünglichen  Sinn  des  Psalms  und  seiner  Bedeutung  für  den 
+christlichen  Leser  unterschieden  wurde.  Der  Psalm  wird  dadurch  erst  einmal 
+deutlich  vom  heutigen  Leser  distanziert  und  so vor einer  voreiligen  -  meist chri-
+stologischen  -  Vereinnahmung  geschützt.  Eine  christologische  Exegese,  die die(cid:173)
+sen  geschichtlichen  Zusammenhang  ignoriert,  lehnt  Sadolet  ab.  Die  Grammatik 
+dient  dazu,  den  Sinn  des  Textes  zu  klären,  wo  dies  nötig  ist.  Dabei  geht  Sadolet 
+von der Gültigkeit des Septuagintatextes aus44. 
+
+2. Die Auffindung  des «Nutzens». 
+
+Indem Psalm 51 aber anders als in der exegetischen  Tradition  aus der persön(cid:173)
+lichen Lebenssituation  Davids heraus  erklärt  wird,  stellt  sich die Frage  nach  dem 
+«Nutzen», nach  der  Bedeutung  für  den  Zeitgenossen  Sadolets,  umso  dringlicher. 
+In welcher Weise kann eine solche Auslegung  in der «wahren  Frömmigkeit»  för(cid:173)
+dern, wie dies Sadolet ja beabsichtigt? 
+
+Hier  wirkt  sich  Sadolets  pneumatologische  Voraussetzung  aus. Auch  er  sieht 
+sich genötigt, zu diesem Zweck  auf den «mystischen  Sinn» zurückzugreifen.  Die(cid:173)
+ser enthält  nämlich in besonderer Weise den Nutzen  für  den Leser45. Von der bis(cid:173)
+herigen  Allegorese  unterscheidet  sich  Sadolet  aber  dadurch,  daß er  diesen  mysti(cid:173)
+schen  Sinn  nicht  einfach  auf  einer  zweiten,  den  Literalsinn  nicht  berührenden 
+Ebene  ansiedelt,  sondern  daß er ihn  in der  Situation  Davids verankert. Dabei läßt 
+er beispielsweise  eine  traditionelle  trinitarische  Allegorese  zwar  als  wahr  gelten, 
+beschreitet  selber aber einen anderen Weg46. Sein Bestreben, auch den mystischen 
+Sinn allgemein verständlich  und damit einer breiteren Leserschaft  nachvollziehbar 
+zu machen, nötigt ihn, diesen  zwar  als Überschreitung  des Literalsinnes  zu erklä(cid:173)
+ren, die aber aus der Situation David heraus verständlich sein muß. 
+
+43  Sadoleti opera III 264. 
+44 
+45 
+46 
+
+Ibid. 269. 
+Ibid. 263. 
+Ibid. 279. 
+
+304 
+
+So  geht  David  zwar  aus  von  seiner  spezifischen  Sünde,  überschreitet  dann 
+aber  seine  Zeit  in  prophetischem  Geist,  dessen  er  teilhaftig  ist,  und  blickt  auf  die 
+erst  zukünftigen  Ratschlüsse  Gottes.  Der  mystische  Schriftsinn,  welcher  den  Nut(cid:173)
+zen  enthält,  ist  somit  der  Sinn,  den  der  Heilige  Geist  offenbart.  Ihn  zu  verteidigen 
+sieht  sich  Sadolet  ausdrücklich  genötigt. 
+
+Es  ist  die  immense  Fülle  des  Geistes,  die  seiner  Meinung  nach  eine  mehrdi(cid:173)
+mensionale  Schriftauslegung  nicht  nur  möglich,  sondern  nötig  macht.  Eine  Ausle(cid:173)
+gung,  die  nur  einen  Sinn  der  Schrift  berücksichtigen  würde, käme  einer  Beschrän(cid:173)
+kung  des  Geistes  gleich.  Dabei  vergleicht  er  die  Schriftauslegung  mit  der  Be(cid:173)
+trachtung  einer  Phidiasstatue,  die  ebenso  als  Ganze  und  nicht  nur  in  einzelnen  ab(cid:173)
+getrennten  Gliedern  zu  betrachten  und  zu  würdigen  ist47.  Diese  Vielfalt  trägt  zu(cid:173)
+dem  auch  den  verschiedenen  Verstehenskapazitäten  der  Leser  Rechnung48. 
+
+Auch  der  Ausleger  muß  sich  auf  diesen  Geist  einlassen.  So  bekennt  Sadolet  in 
+
+einem  Brief  an  Erasmus,  daß  er  sich  in  seiner  exegetischen  Arbeit  dem  Geist  hin(cid:173)
+gibt  und  sich  von  ihm  getragen  weiß49. 
+
+Wie  wird  aber  diese  Fülle  und  Vielfalt  klar  und  eindeutig?  Sadolet  hatte ja  in 
+seinem  Brief  an  die  Genfer  im  Blick  auf  die  Kirche  behauptet,  daß  die  Wahrheit 
+immer  eine  sei,  Vielfalt  hingegen  ein  Zeichen  der  Unwahrheit50,  zugleich  aber 
+auch,  daß  die  Kirche  eine  sichere  Regel  der  Wahrheit  besitze. 
+
+3.  Als  Beispiel  sei  dazu  Vers  9  angeführt:  «Asperges  me  Domine  hyssopo,  et 
+mundabor,  lavabis  me, et  super  nivem  dealbabor.» 
+
+Damit  bittet  David,  so  interpretiert  Sadolet,  um  die  Besprengung  mit  Ysop 
+
+und  um  Vergebung  und  Reinigung  angesichts  seiner  konkreten  Tat.  Darüber  hin(cid:173)
+aus  aber  ist  er  sich,  durch  seine  besondere  Geistbegabung,  auch  seiner  infolge  der 
+Erbsünde  geschwächten  Natur  bewußt  und  bittet  daher  auch  um  eine  grundle(cid:173)
+gende  Reinigung51.  Zugleich  aber  blickt  er  in  «prophetischem  Geist»,  das  Gegen(cid:173)
+wärtige  mit  dem  Zukünftigen  verbindend52,  dorthin,  wo  alles  in  Wahrheit  erst  zu 
+finden  ist:  auf  das  christliche  Taufsakrament53.  Sadolet  argumentiert  hier  von  der 
+
+Sadoleti opera III 263. 
+
+47  Vgl. Cicero, De oratore, II 73. 
+48 
+49  Hier schreibt er angesichts  schon bestehender Kommentare: «Sed ego, cum illa legi, et 
+Latinorum  aliquos  de  eorum  numero  quos  praedicas,  non  tarn  illorum  explanationem 
+valde  sequens quam  Spiritui  sancto permittens  me totum  feror  quaecunque  me ille vo-
+cat...», Opus Epistolarum  Des. Erasmi Roterodami,  ed. per P. S. Allen,  tom. 9,  Oxford 
+1938, (Nachdruck Oxford  1992), 52. 
+
+50  OS  1,454. 
+51 
+
+«...sie  ergo  quasi  argumentatur:  Ecce  ego  quidem  cum  hac  naturae  imbecillitate  con-
+ceptus  sum,  et  generatus  ab  iis,  qui  eadem  infirmitatis  delibitate  laboraverunt,  ut  in 
+declivi semper ad delinquendum pendeamus.» Sadoleti opera III 273. 
+«Haec  Dei  arcana  et  consilia  antea  intelligens,  et  Prophetae  spiritu  ad  futurorum 
+praescietiam  illuminatus...»,  Sadoleti  opera III 274. «Complectitur  tarnen  utriusque le(cid:173)
+gis,  et  veteris,  et  novae  mysteria,  ac praesentibus  futura  conjungit,  quod  peculiare  est 
+prophetiae donum.» Sadoleti opera III 275. 
+«Hoc haud dubie ad baptismum spectat.» Sadoleti opera III 275. 
+
+52 
+
+53 
+
+305 
+
+vorausgesetzten  Evidenz  der  Kraft  der  Taufe  her:  was  kann  mit  einer  Waschung, 
+die  «weißer  als  Schnee»  macht,  sonst  gemeint  sein?  Mit  der  Ysopbesprengung 
+spielt  David  auf  ein  alttestamentliches  Heilmittel  für  Geschwüre  an,  blickt  dann 
+aber  weiter  auf  die  wahre  innere  Reinigung.  Die  beiden  Satzteile  stehen  somit  in 
+einem  Steigerungsverhältnis.  Dabei  verweist  Sadolet  auf  die  Analogie  zwischen 
+Besprengung  und  Reinwaschung,  besonders  aber  auch  auf  die  große  Differenz  be(cid:173)
+züglich  deren  Wirkungen:  die  wahre  Reinigung  wird  nur  durch  die  Abwaschung 
+erreicht. 
+
+Sadolet  operiert  dabei  auf  der  Grundlage  der  traditionellen  Unterscheidung 
+von  «figura»  und  «res»  bzw.  «veritas».  Durch  den  ihm  verliehenen  prophetischen 
+Geist  unterscheidet  sich  David  vom  Volk,  das  durch  äußerliche  Riten  in  Schran(cid:173)
+ken  gehalten  wurde,  aber  deren  Wahrheit  nicht  verstand,  sie  nicht  als  bloße  kraft(cid:173)
+lose  «Schatten  und  Bilder»  für  die  wahren,  erst  zukünftigen  Dinge  erkannte,  wel(cid:173)
+che  diesen  einst  weichen  müssen54,  eine  Einsicht,  welche  nur  «klugen  Männern, 
+heiligen  Patriarchen  und  Propheten»  offenbar  war55.  So  blickt  David  in  propheti(cid:173)
+schem  Geist,  indem  er  von  der  Buße  spricht,  auf  das  Bußsakrament  als  die  wahre 
+und  wirksame  Buße,  indem  er  von  der  Reinigung  spricht,  auf  das  Taufsakrament 
+als  die  wahre  Reinigung56.  Er  versteht  in  «Geist  und  in  Wahrheit»57,  was  in  seiner 
+Zeit  nur  schattenhaft  vorgebildet  war,  was  wir  aber  nun  besitzen58.  Die  Juden 
+hatten  somit  die  Sache  selbst,  die  wirksame,  die  menschliche  Natur  wiederher(cid:173)
+stellende  Kraft  nicht.  Falsch  wäre  es,  auf  die  Kraft  der  jüdischen  Opfer  zu 
+bauen59. 
+
+Die  Wahrheit  der  Bitte  Davids  für  uns,  für  die  christlichen  Leser  des  Psalms, 
+
+besteht  damit  darin,  daß  David  durch  den  ihm  verliehenen  und  ihn  seiner  Zeit  ent(cid:173)
+rückenden  Geist  die  kraftlosen  Schatten  übersteigt  und  uns  auf  den  Ort  aufmerk(cid:173)
+sam  macht,  wo  die  wirkliche  Reinigung,  «in  Geist  und  Wahrheit»,  zu  finden  ist. 
+Wir  werden  an  die  Kraft  der  christlichen  Taufe  erinnert.  Dort  werden  nämlich  un(cid:173)
+ser  «Herz»  als  Prinzip  des  Körpers,  wie  auch  unser  «Geist»,  als  Prinzip  der  Seele, 
+wiederhergestellt  und  die  Menschen  wieder  zu  Söhnen  Gottes  gemacht60.  Dort 
+wird  in  bezug  auf  den  Nutzen  der  Schrift  Eindeutigkeit  erreicht  und  die  Relevanz 
+
+54 
+
+«...umbraeque  et simulacra veritati concessere...», Sadoleti opera III 286. «Ac ut in Om(cid:173)
+nibus rebus appareat, illos umbras rerum, nos res ipsas complexos esse, Uli saepenume-
+ro  falsis  inanium  deorum  opinionibus  depravati,  quas  pecudes  et  hostias  Deo  debeant 
+offene,  fictis  düs offerebant...»,  Sadoleti opera III 290f. 
+Sadoleti opera III 286. 
+
+55 
+56  Z. B. Sadoleti opera III 265; 275; 278; 279. 
+57 
+58 
+
+«...in  spiritu et veritate...», Sadoleti opera III 288; 290. Vgl. Joh 4, 23. 
+«Hoc jam tum David adesse sibi cupiebat, jam tum Spiritus sancti edoctus praevidentia, 
+Christiana  mysteria  intelligebat,  atque  in  eis  spe  certa  et  exspectatione  insistens,  prae 
+illis repudiabat  iam et parvi faciebat  Iudaica, satis gnarus, in illis umbram esse, in nost-
+ris veritatem.» Sadoleti opera III285. 
+«Nam  si vetusta Judaeorum  sacrificia  attendimus, inveniemus  in illis non justitiam, sed 
+simulachrum  quoddam  potius et vestigium  leviter impressum justitiae  exstituisse.»  Sa(cid:173)
+doleti opera III 289. 
+Ibid. 278. 
+
+59 
+
+60 
+
+306 
+
+für  den  christlichen  Leser  erwiesen.  Der Nutzen  des Psalms,  die «Förderung  in  der 
+wahren  Frömmigkeit»,  in  der  «Liebe  zu  Gott  und  den  heiligen  Dingen»,  besteht 
+damit  für  den  heutigen  Leser  darin,  daß  er  sich  den  Sakramenten  und  kirchlichen 
+Einrichtungen  unterordnen  lernt  und  aus  ihnen  Kraft  empfängt,  die  David  erst  im 
+Modus  der  Hoffnung  zuteil  wurde.  Die  von  Sadolet  behauptete  enge  Verbindung 
+von  Heiligem  Geist  und  universaler  Kirche  spiegelt  sich  in  seiner Exegese  wider. 
+
+4.  Calvins  Auslegung  von  Psalm  51 
+
+b)  Das  Ziel  der  Auslegung 
+
+In  der  Darstellung  des  Ziels  der  Auslegung  bei  Sadolet  wurde  vor  allem  deutlich, 
+wie  sein  vom  Allgemeinen  zum  Speziellen  fortschreitender  Erkenntnisweg  sich 
+auf  die  hermeneutische  Regel  der  «Gotteserkenntnis  und  Selbsterkenntnis»  und  so 
+auf  die  Bestimmung  des  «Nutzens»  der  Schrift  auswirkt.  Wie  ändert  sich  das  Ziel 
+der  Auslegung  bei  Calvin,  wenn  dieser  demgegenüber  geltend  macht,  daß  der 
+«theologischere»  Weg  umgekehrt  verlaufen  müsse,  daß  mit  Gott  anzufangen  und 
+alles  auf  ihn  zu  beziehen  sei? 
+
+Auch  für  Calvin  besteht  das  Ziel  der  Schriftauslegung  darin,  den  «Nutzen»  für 
+den  heutigen  Leser  deutlich  zu  machen.  Allgemein  gesprochen  besteht  dieser 
+«Nutzen»  darin,  die  «coelestis  doctrina»  bzw.  die  «coelestis  sapientia»  in  der 
+Schrift  zu  finden,  wie  er  zu  Beginn  seines  Psalmenkommentars  festhält61.  In  die(cid:173)
+ser  «doctrina»  geht  es  um  den  ganzen  Willen  Gottes,  wie  er  durch  seine  Diener 
+den  Menschen  überliefert  wird62.  Den  Kern  dieses  göttlichen  Willens  bildet  dabei 
+die  «promissio»,  der  zugesagte  göttliche  Heilswille;  die  «doctrina»  umfaßt  aber 
+auch  die  «regula  verae  pietatis»  als  unabdingbar  zum  Willen  Gottes  da(cid:173)
+zugehörend63. 
+
+Der  «Nutzen»  der  Schrift  wird  dann  auch  von  dem  so  verstandenen  Willen 
+
+Gottes  her  bestimmt.  Er  besteht  darin,  daß  sich  dieser  Wille  Gottes  beim  Men(cid:173)
+schen  durchsetzen  kann.  Die  hermeneutische  Regel  der  «Gotteserkenntnis  und 
+Selbsterkenntnis»  wird  diesem  «Nutzen»  entsprechend  verstanden.  Calvin  erläu-
+
+61 
+
+62 
+
+63 
+
+So  in  der  Einleitung:  «...quando  non  aliunde  melior  ac  certior  peti  eius  potest  regula 
+quam  ex  hoc  libro: ut quisque  in eius  intelligentia  optime  profecerit,  bonam  coelestis 
+doctrinae partem erit assequutus.» CO 31, 17. Und im «argumentum»  zu Psalm  1, wel(cid:173)
+cher als Vorwort  zum  ganzen  Psalter  zu verstehen  ist: «Summa autem  est, felices  esse 
+qui Studium suum coelesti sapientiae addicunt...», CO 31, 37. 
+«Reliqua scriptum continet quae Deus servis suis mandata iniunxit ad nos  perferenda.» 
+CO 31, 15. 
+So beinhalten die Psalmen «promissiones» (CO 31, 17), aber auch «praecepta», die «ad 
+vitam sancte pie iusteque formandam  valent», CO 31, 19. Dahinter  steht Calvins  Lehre 
+vom Wort Gottes, die hier nicht weiter entfaltet  werden kann. Vgl. dazu  die  wichtigen 
+Texte: OS 4, 39, 1-28; OS 5, 8f; OS 3, 37,  5ff. 
+
+307 
+
+tert  sie  bekanntlich  in  allen  Institutioausgaben  gleich  zu  Anfang:  Beide  Teile  der 
+«christlichen  Weisheit»  gehören  zusammen  und  setzen  sich  gegenseitig  voraus.  Es 
+kann  daher  keine,  auch  nicht  eine  nur  vorläufig  isolierte,  Gotteserkenntnis  oder 
+Selbsterkenntnis  geben,  die nicht  zugleich  auch  ihr  Gegenstück  voraussetzt64.  Gott 
+und  der  Mensch  können  daher  nicht  für  sich  allein,  in  ihrem  Wesen  und  in  ihrer 
+Natur  bedacht  werden,  sondern  immer  nur  relational,  in  ihrer  gegenseitigen  Be(cid:173)
+ziehung65.  Diese  Beziehung  hat  allerdings  ein  unumkehrbares  Gefälle,  denn  sie 
+beginnt  mit  Gottes  sich  in  Beziehung  setzendem  Wort. 
+
+Der  Gotteserkenntnis  kommt  daher  sachliche  Priorität  zu.  Calvin  geht 
+
+dementsprechend  in  der  Schriftauslegung  nicht  von  einer  vorgängigen  Selbster(cid:173)
+kenntnis  des  Menschen  und  dessen  Bedürfnis  aus,  sondern  umgekehrt:  von  An(cid:173)
+fang  an  spricht  er  den  Menschen  an  als  einen,  der  von  Gott  schon  angesprochen 
+ist  und  vor  Gott  steht.  In  diesem  Sinn  gilt  es,  «alles  auf  Gott  zu  beziehen»,  und 
+nur  so  kann  man  Gott  geben,  «was  ihm  zukommt».  Auch  die  Selbsterkenntnis  ist 
+die  Erkenntnis  des  Menschen  vor  Gott,  vor  dem  Gott,  der  sich  in  seinem  Wort  ge(cid:173)
+zeigt  hat.  Damit  hängt  auch  zusammen,  daß  der  Mensch  im  Unterschied  zu  Sado-
+let  nicht  als  Einzelner  angesprochen  wird,  sondern  als  Glied  der  Kirche.  Der 
+«Nutzen»  der  Schrift  ist  primär  derjenige  für  die  Kirche  und  erst  als  solcher  dann 
+auch  derjenige  für  die  einzelnen  Gläubigen66.  Es  ist  ein  «Nutzen»,  der  sich  von 
+Gott  und  seiner  Ehre  her  bestimmt  und  nicht  vom  Menschen  her.  Daß  dabei  der 
+Mensch  keineswegs  übergangen  wird,  führen  gerade  die  Psalmen  deutlich  vor 
+Augen. 
+
+Innerhalb  der  Schrift  nimmt  der  Psalter  für  Calvin  eine  besondere  Stellung 
+ein,  nicht  zuletzt  deshalb,  weil  hier  die  Bewegungsrichtung  gerade  umgekehrt 
+verläuft.  Auch  hier  kommen  die  Propheten  zu  Wort,  aber  nicht  indem  sie von  Gott 
+her  zum  Menschen,  sondern  indem  sie  vom  Menschen,  nämlich  von  sich  selbst 
+her,  zu  Gott  reden67.  Aus  diesem  Grund  nennt  Calvin  den  Psalter  eine  «Anatomie 
+aller Teile  der  menschlichen  Seele.»68 
+
+64  Wenn Calvin in der Einleitung zum Psalmenkommentar  scheinbar die  Selbsterkenntnis 
+als primär bezeichnet  (CO 31, 17), so ist damit weder eine zeitliche, zuerst einmal von 
+der  Gotteserkenntnis  absehende  Reihenfolge  gemeint,  noch  ein  sachliches  Urteil  ge(cid:173)
+fällt.  Vielmehr setzt das eine jeweils das andere voraus, wie er auch in Ps 51, 11 erläu(cid:173)
+tert: «Imo sie habendum est, non posse nos serio precari, ut Deus peccanti ignoscat, nisi 
+iam  fide  coneeperimus,  ipsum  fore  placabilem:  Quis  enim  aperire  os  auderet,  nisi  de 
+paterno  eius  favore  persuasus?  Atqui  semper  initium  precandi  a petenda  venia  facere 
+convenit: unde apparet non pugnare haec duo inter se, ubi fide  amplexi  sumus Dei gra-
+tiam....»C0  31,517. 
+
+65  Vgl. OS 3, 34-36. 
+66 
+
+So beginnt  der Psalmenkommentar  mit dem Satz: «Si tantum  utilitatis afferat  ecclesiae 
+Dei commentariorum  meorum lectio quam ego ex scriptione fruetus  pereipi...», CO 31, 
+13. 
+«Hie  vero  prophetae  ipsi  cum  Deo  loquentes,  quia  interiores  omnes  sensus  retegunt.» 
+CO 31, 15. 
+«Librum  nunc  non  abs  re  vocare  soleo  anatome  omnium  animae  partium...»,  CO 31, 
+15. 
+
+67 
+
+68 
+
+308 
+
+Auch  als  eine  solche  ist  sie  aber  nicht  eine  menschliche  Selbstanalyse,  sie 
+schildert  den  Menschen  nicht  ontologisch  in  seiner  «natura»,  sondern  in  seinem 
+Verhältnis  zu  Gott69.  Die  innersten  Seelenregungen  der  Propheten  werden  hier 
+sichtbar,  aber  deshalb,  weil  sie  «uns  der  Heilige  Geist  vor  Augen  stellt»70.  Aus 
+diesem  Grund  ist  der  Psalter  ein  «Spiegel»,  in  welchem  sich  jeder  selbst  wahr(cid:173)
+nehmen  kann  und  der  uns  dazu  auffordert,  mit  seiner  Hilfe  unsere  eigenen  verbor(cid:173)
+genen  Schwächen  und  Laster  zu  erforschen71.  Der  Mensch  findet  sich  angesichts 
+der  «promissiones»  Gottes  im  Spiegel  der  Psalmen  vor  als  gleichsam  in  der  Mitte 
+stehend  zwischen  der  Einladung  Gottes  und  den  Hindernissen  des  Fleisches72. 
+Hier  aber,  in  dieser  Situation,  findet  er  in  den  Psalmen  auch  die  entscheidende 
+Hilfe,  nämlich  die Grundlage  und  Regel  des  richtigen  Betens73.  Dadurch  steht  ihm 
+der  Zugang  zum  väterlichen  Gott  offen,  er  kann  ihm  aber  auch,  und  gerade  jetzt, 
+seine  selbst  vor  den  Menschen  verborgenen  Schwachheiten  gestehen74.  Ein  sol(cid:173)
+ches  ernstes  und  richtiges  Gebet  setzt  dabei  die  Erkenntnis  unserer  Bedürftigkeit 
+und  den  Glauben  an  die  Verheißungen  Gottes  voraus75.  Was  bisher  vom  Psalter 
+im  Ganzen  gesagt  wurde,  äußert  sich  auch  im  speziellen  Fall  von  Psalm  51. Auch 
+hier  sehen  wir  gleichsam  in  die  Seele  eines  Propheten  und  erkennen  sowohl  ihn 
+als  Menschen  vor  Gott  in  seiner  Buße  als  auch  Gott  in  seinem  unermeßlichen  Er(cid:173)
+barmen76.  Trotz  seiner  speziellen  Situation  zeigt  sich  dabei  im  Gebet  Davids  et(cid:173)
+was,  das  auf  die  Kirche  bezogen  werden  kann77. 
+
+70 
+71 
+
+73 
+74 
+
+Deshalb  besteht  diese  Anatomie  nicht  in  der  Erkenntnis  verschiedener  «genera»  der 
+Seelen  (so  Sadoleti  opera  III  211),  sondern  in  der  Wahrnehmung  der  «...dolores, tris-
+tias, metus, dubitationes, spes, curas, anxietates, turbulentes  denique motus...», CO 31, 
+15. 
+«...Spiritus sanctus ad vivum repraesentavit.» CO 31, 15. 
+«...quemque  nostrum  vocant  aut trahunt  ad proprium  sui examen,  ne  quid  ex tot  infir-
+mitatibus quibus  sumus  obnoxii, totque vitüs  quibus  sumus referti,  occultum  maneat.» 
+CO 31, 15. 
+«Nee vero tantum oecurrunt  promissiones: sed inter Dei  invitationem  et carnis  impedi-
+menta, nobis saepe in medio statuitur...», CO 31, 17. 
+«Ratio rite precandi», CO 31, 17. «...ad amussim praescribitur.» CO 31, 19. 
+«...non modo ut familiaris  ad Deum pateat accessus, sed ut infirmitates,  quas pudor ho-
+minibus  fateri  prohibet,  fas  ac  [so ist  wohl das  «as»  hier  zu  verstehen]  liberum  sit co-
+ram eo explicare.» CO 31, 17. 
+«Seria precatio ex necessitatis nostrae sensu primum, deinde ex promissionum fide nas-
+citur.»  CO  31,  17.  Das  entspricht  ganz  der  inhaltlichen  Explikation  der  Gottes-  und 
+Selbsterkenntnis der Institutio. Vgl. OS 3, 31f;  OS  1, 37ff. 
+«...non  modo  sibi serio displieuit, et humiliatus  est coram Deo, sed palam  apud  omnes 
+testari  voluit  suam  poenitentiam,  eiusque  monumentum  ad posteros  relinquere.  Ac  in-
+itio quidem  ... immensam Dei misericordiam  ... extollit.» CO 31, 508. 
+Ibid. 
+
+309 
+
+b) Der Weg der Auslegung 
+
+1. Die Auffindung  des «Sinnes». 
+
+Calvins  pneumatologische  Voraussetzung  der  Zusammengehörigkeit  von 
+Geist  und  Wort  führt  ihn  ebenso  wie  Sadolet  zur  Frage  nach  dem  «Sinn»  des 
+Textes und damit zunächst einmal  in die gleiche Richtung  wie diesen. Dabei geht 
+er aber oft noch einen Schritt weiter. 
+
+Auch  er  will  den  Psalm  möglichst  dem  allgemeinen  Verständnis  nahebrin(cid:173)
+gen78.  Ebenso  geht  es  ihm  um  eine  dem  Verständnis  förderliche  Ausführlichkeit 
+bzw. Kürze79. Zu diesem Zweck interpretiert er wie Sadolet den Psalm aus der in(cid:173)
+dividuellen  Situation  Davids  als  dessen  Verfasser  heraus.  In  seinem  «argumen(cid:173)
+tum» macht  er,  weniger  ausführlich  aber  sachlich  parallel  zu  Sadolet, darauf  auf(cid:173)
+merksam. Darüber hinaus stellt er auch noch Überlegungen  an zur Frage, wie die(cid:173)
+ses persönliche,  affektgeladene  Gebet  Davids  überhaupt  an die Öffentlichkeit  ge(cid:173)
+langte,  eine  Überlegung,  die  zeigt,  wie  ernst  Calvin  es  mit  dem  geschichtlichen 
+Verständnis des Psalms ist80. 
+
+Ähnlich wie Sadolet, aber auch hier über ihn hinaus, bezieht er die Grammatik 
+und  die  Rhetorik  zur  Erklärung  ein.  Dabei  geht  er  nicht  nur  wie  dieser  auf  die 
+Septuaginta,  sondern  auf  den  hebräischen  Text  zurück  und  erläutert  von  dort  her 
+die Bedeutung  wichtiger  Begriffe  und  deren  Verwendungsweise  im  hebräischen 
+Sprachgebrauch81.  Aber  auch  der grammatische  Kontext  und  der Duktus  der Ge(cid:173)
+dankenführung  wird berücksichtigt.  Mit  Sadolet  versteht  er Psalm  51 als ein the(cid:173)
+matisch einheitliches Ganzes. Die Rhetorik leistet dabei ihre dem Text angepaßten 
+Dienste: von  den besonderen  Umständen  der Abfassung  des Psalms  und  den  Da(cid:173)
+vid dabei bestimmenden  Gemütszuständen her werden die einzelnen Aussagen in(cid:173)
+terpretiert.  So  sagt  David  nicht  mit  jedem  Vers  wieder  etwas  anderes,  sondern 
+wiederholt  denselben  Gedanken  in  verschiedenen  Worten  und  Wendungen,  wie 
+dies der Heftigkeit  seiner Gemütsregungen entspricht82. Der «Sinn», den Calvin in 
+einem  ersten  Auslegungsschritt  darlegen  will,  ist dabei  identisch  mit  der  Absicht 
+Davids, mit dem, was dieser in seiner Situation sagen wollte83. 
+
+2. Die Auffindung  des «Nutzens». 
+
+Auch  Calvin  muß, nachdem  er den  «Sinn»  des  Psalms  aus  der  Situation  Da(cid:173)
+vids erklärt hat, in einem zweiten Schritt nach dem «Nutzen» für  den heutigen Le(cid:173)
+ser fragen.  Bei ihm verschärft  sich das Problem  allerdings  noch gegenüber  Sado-
+
+78  CO'31,33. 
+79  Die «perspicua brevitas» ist ein allgemeiner Grundsatz der Exegesen Calvins. Vgl. CO 
+
+10b, 402. 
+
+80  CO 31, 508. 
+81  So bezieht er sich z. B. auf den hebräischen «usus loquendi», CO 31, 509. 
+82 
+83  Dem Grundsatz  der Frage nach der «mens scriptoris»  (CO  10b, 402) entspricht hier 
+
+«...in hac repetitione  emphasis aut vehementia...», CO 31, 520. 
+
+diejenige nach dem «consilium scriptoris», CO 31, 19. 
+
+310 
+
+let.  Calvin  lehnt  nämlich  die  Allegorese  als  legitimes  Mittel,  um  einen  solchen 
+«Nutzen»  zu  erhalten,  konsequent  ab.  Hatte  Sadolet  behauptet,  daß  David  in  pro(cid:173)
+phetischem  Geist  bestimmte  besondere  Inhalte  einsichtig  wurden,  die  dem  ge(cid:173)
+wöhnlichen  Volk  verborgen  waren,  so  kommt  dem  Geist  nach  Calvin  eine  andere 
+Funktion  zu.  Auch  wenn  er mit  Sadolet  David  als  besonderen  Geistträger  versteht, 
+so  entnimmt  dieser  Geist  ihn  doch  nicht  seiner  eigenen  Zeit84.  David  weiß  trotz 
+seines  Geistbesitzes  nicht  mehr  als  das jüdische  Volk.  Anders  als  Sadolet  dies  mit 
+den  kirchlichen  Sakramenten  tut,  kann  Calvin  aber  auch  kein  gleichsam  empiri(cid:173)
+sches  hermeneutisches  Kontinuum  vorweisen,  auf  welches  der  Geist  sowohl  Da(cid:173)
+vid  wie  den  christlichen  Leser  verweisen  würde.  Trotzdem  vollzieht  sich  auch  für 
+Calvin  diese  Vermittlung  mit  dem  heutigen  Leser  durch  den  Geist. 
+
+Was  der  Geist  in  David  bewirkt,  ist  die  Gewißheit  der  väterlichen,  vergeben(cid:173)
+den  und  lebenserneuernden  Nähe  Gottes  in  seiner  «doctrina»,  einer  Nähe,  die  Da(cid:173)
+vid  selbst  durch  seine  Sünde  in  Frage  gestellt  hatte  und  nun  neu  erbittet85.  Um 
+diese  «doctrina»  kreist  aber  auch  Calvins  Frage  nach  dem  «Nutzen»  für  uns.  Es 
+geht  darum,  etwas  zu  «lernen»86,  dem  Text  eine  «doctrina»87,  eine  «regula»88,  ein 
+«exemplum»89  zu  entnehmen,  ohne  voraussetzen  zu  müssen,  daß  David  hier  seine 
+Zeit  verläßt  und  schon  von  christlichen  Inhalten,  sei  es  von  Christus  als  der  «ver(cid:173)
+borgenen  Weisheit»,  sei  es  von  der  christlichen  Buße  oder  Taufe,  spricht.  Das  ist 
+für  Calvin  in  vielfältiger  Weise  möglich90.  Grundsätzlich  interpretieren  sich  die 
+Psalmen  als  «ratio  rite  precandi»  und  das  von  Christus  überlieferte  Unservater-
+Gebet  als  «formula  precandi»  gegenseitig  und  dienen  so  beide  den  christlichen 
+Lesern  als  Vorbild  und  Anleitung91. 
+
+Der  Ermöglichungsgrund  dafür  liegt  darin,  daß  in  aller  zeitlicher  und  vorstel(cid:173)
+lungsmäßiger  Differenz  doch  eine  Analogie  zwischen  der  Situation  Davids  und 
+derjenigen  der  christlichen  Leser  besteht:  beide  stehen  angesichts  des  Wortes 
+Gottes  als  «doctrina»  «in  der  Mitte  zwischen  Einladung  Gottes  und  den  Hinder(cid:173)
+nissen  des  Fleisches»92.  Diese  Situationsanalogie,  die  es  möglich  und  im  theologi(cid:173)
+schen  Sinn  «nützlich»  sein  läßt,  sich  als  christlicher  Leser  in  das  Bußgebet  Davids 
+
+84  Hatte Sadolet  beispielsweise mit der Tradition  die «occulta  sapientia»  von Vers 8 chri-
+stologisch  verstanden  als  Einsicht  Davids  in  verborgene  Geheimnisse  Gottes  («Haec 
+Dei  arcana  et  consilia  antea  intelligens...»,  Sadoleti  opera  III  271),  so  versteht  Calvin 
+ausdrücklich  darunter  keine  verborgenen  Inhalte,  sondern,  unter  Berufung  auf  den 
+Kontext,  das  Bekenntnis  Davids,  nicht  nur  einen  äußerlichen  Geschmack,  sondern 
+einen bis ins Innerste gehenden Eindruck der «coelestis doctrina» empfangen  zu haben, 
+was seine Schuld nur vergrößert (CO 31,515). 
+
+«Discere»,CO31,510. 
+«Nunc ad se quisque transferre  discat hanc doctrinam», CO 31, 515; usw. 
+«Atque haec regula nobis tenenda est», CO 31,511; usw. 
+«Docemur autem hoc exemplo», CO 31, 509; usw. 
+
+85  Vgl. etwa das «argumentum» zu Ps 51: CO 31,  508. 
+86 
+87 
+88 
+89 
+90  Vgl. CO 31, 17-19. 
+91  CO 31,  17; CO 31, 517. 
+92  CO 31, 17. Die  «doctrina»  ist ja  nicht  als Komplex  theologischer  Lehren  faßbar,  son(cid:173)
+
+dern meint das immer auch etwas Inhaltliches sagende, anredende Wort Gottes. 
+
+311 
+
+zu  vertiefen,  wird  durch  die  «doctrina»,  durch  das  Wort  Gottes  selbst,  erst  kon(cid:173)
+stituiert und ist nur in der realisierten  Gotteserkenntnis und  Selbsterkenntnis, also 
+nur durch den Heiligen Geist, als solche einsehbar. «Alles auf Gott beziehen» und 
+ihm  «geben,  was  ihm  zukommt»  bedeutet  dann,  die  «coelestis  doctrina»  selbst 
+und  nur  diese  als  hermeneutisches  Kontinuum  gelten  und  seinem  Schriftstudium 
+vorausgesetzt  sein zu lassen. 
+
+Die Gewißheit  der Gültigkeit  der  «doctrina»  und damit  der «promissio»  wird 
+aber -  wie bei  David,  so auch bei uns -  durch den Geist gewirkt.  Geist und Wort 
+gehören  so  zusammen,  daß  der  «Nutzen»  der  Schrift  nicht  in  einem  den  «einfa(cid:173)
+chen  Sinn»  hinter  sich  lassenden  «geistlichen»  oder  «mystischen  Sinn»  besteht, 
+sondern in der Betroffenheit  von der Wahrheit gerade des «einfachen  Sinnes», der 
+aber,  und  das  ist  entscheidend,  als  ursprüngliche  Meinung  des  Autors,  von  der 
+hermeneutischen  Regel  der  «Gotteserkenntnis  und  Selbsterkenntnis»  her  verstan(cid:173)
+den wird. Hier treffen  sich Calvins «noetische» und «pneumatologische» These. 
+
+3.  So blickt  David  in  Vers 9:  «Expiabis  me hyssopo  et mundabor:  lavabis  me, et 
+prae nive albescam» weniger auf die Reinigungsmittel  als auf den im Gebet ange(cid:173)
+redeten  Gott  selber,  von  dem  er Reinigung  erwartet,  von  dem  her  aber  auch  erst 
+erkennbar  wird, was einer Reinigung  bedarf  und worin eine solche besteht. Dabei 
+meinen  die  beiden  Satzteile  nicht  verschiedene  Reinigungen,  sondern  sind  zwei 
+Formulierungen  derselben Bitte Davids93. Die Ysopbesprengung  erhält damit kein 
+Eigengewicht. Auch Calvin weist zwar darauf hin, daß David hier auf die «gesetz(cid:173)
+lichen  Zeremonien»  anspielt94  und  spricht  dabei  auch  von  «schattenhaften  Be-
+sprengungen»,  die  auf  etwas  anderes  verweisen95.  Er  interpretiert  sie  aber  aus(cid:173)
+drücklich  nicht  im  Schema  «Schatten  -  Wirklichkeit»96,  sondern  er  unterscheidet 
+zwischen einer noetischen und einer realen Ebene97. 
+
+David  ließ  sich  durch das Zeichen  (signum)  der Ysopbesprengung  die Gnade 
+Gottes  bezeugen.  Er  blickte  auf  den  gnädigen  Gott,  der  sich  «unter  den  Figuren 
+des  Gesetzes»  bezeugt  hatte.  Die  christlichen  Leser  aber  können,  nachdem  sich 
+Christus  «im  Fleisch  manifestiert»  hat,  bezeugt  auch  durch  die  christlichen  Zei(cid:173)
+chen -  auch  Calvin  erinnert  in  diesem  Zusammenhang  besonders  an  die Taufe  -
+auf  diesen  blicken  und  erkennen  so  den  gnädigen  Gott  um  vieles  deutlicher98. 
+Trotz  dieser  verschiedenen  Erkenntnisperspektive  ist  aber die  Sache,  die  Realität 
+und  Kraft  der  Vergebung,  dieselbe99.  Auch  David  und  das  ganze jüdische  Volk 
+hatten daran realiter Anteil. Diese Kraft  und Wirklichkeit  besteht ja nicht im Zei-
+
+93  CO 31, 516. 
+94  CO 31, 515. Einer genaueren Ausdeutung des Ritus widersetzt er sich bewußt, weil er 
+
+99 
+
+312 
+
+darin die Gefahr der allegorischen Spekulation sieht: vgl. CO 24, 333. 
+«Umbratiles aspersiones», CO 31, 516. 
+
+95 
+96  Vgl. seine Abgrenzung gegen dieses Verständnis: OS 5, 280, 25ff. 
+97  OS 5, 282, 26-33. 
+98 
+
+«...quod Deus sub figuris legis testatus est veteri populo, plenius Christi adventu mani-
+festavit.»C0 31,518. 
+«...substantia et re ipsa nihil a nostro differt», OS 3, 404, 5; OS 5, 282, 29-33. 
+
+chen,  sondern  in  dem,  von  dem  das  Zeichen  zeugt:  Gott  und  seine  «promissio»100. 
+Der  gnädige  Gott,  und  damit  Christus,  war  in  der  «promissio»  Gottes  auch  zur 
+Zeit  des  «Alten  Testaments»  nicht  weniger  real  da,  als  er  dies  in  der  Zeit  des 
+«Neuen  Testaments»  ist.  Um  diesem  Sachverhalt  gerecht  zu  werden,  braucht  Cal(cid:173)
+vin  weder  eine  christologische  noch  eine  sakramentale  Allegorese.  Eine  neue 
+Möglichkeit  des  Umgangs  mit  der  Schrift,  gerade  auch  mit  deren  «alttestamentli-
+chem»  Teil,  ist  damit  eröffnet.  Auch  wenn  wir  nun,  im  Unterschied  zu  David, 
+Christus  als  im  Fleisch  erschienen  kennen,  die  Ysopbesprengung  hingegen  nicht 
+mehr,  so  geht  es  uns  doch  wie  David  darum,  «in  den  Verheißungen  Gottes  zu  ru(cid:173)
+hen.»,01  Dazu  sollen  uns  seine  Psalmen  anleiten.  Daß  sie  dies  können,  ist  für  Cal(cid:173)
+vin  die  Voraussetzung,  die  ihre  Auslegung  möglich  und  notwendig  zugleich 
+macht,  und  der  seine  beiden  hermeneutischen  Thesen  gerecht  zu  werden  ver(cid:173)
+suchen.  «Gott  ist  diesseits  und jenseits  des  Grabens  gegenwärtig.  Unsere  Zeitlich(cid:173)
+keit  setzt  Ihm  keine  Grenze.  Der  Ewige  kam  und  kommt  in  unsere  Zeit.  Darum 
+liegt  die  Offenbarungskraft  der  Offenbarung  nicht  an  einer  überzeitlichen  Wahr(cid:173)
+heit,  sondern  gerade  an  ihrer  kontingenten  Geschichtlichkeit.  Offenbarung  ist  kei(cid:173)
+ne  Lehre,  sondern  ein  Ereignis,  nämlich  die  Erlösung;  ein  Ereignis,  dem  auch  mit 
+meinem  Verstehen  als  Glaubenserkennen  ein  Ereignis  entspricht.  Credo  in  Spiri-
+tum  Sanctum.»102 
+
+Peter Opitz, Schänzlihalde 32, 3013 Bern 
+
+«Promissio  in qua  signorum  virtutem  consistere», OS  5, 308, 2f.  Wie  andere  Begriffe 
+behält  Calvin  auch  den  «virtus»-Begriff  bei,  gibt  ihm  aber  durch  seine  Verwendungs(cid:173)
+weise einen anderen, eigenen Sinn. Das wäre auch für den «signum»-Begriff  zu zeigen. 
+«Acquiescere in Dei promissionibus», CO 31, 516. 
+Gottfried  Wilhelm Locher,  Testimonium  internum,  Calvins  Lehre  vom  Heiligen  Geist 
+und das hermeneutische Problem, Zürich  1964, (ThSt(B) 81),  14f. 
+
+101 
+102 
+
+313 
+
+

@@ -1,0 +1,1316 @@
+ISSN 0254–4407 – Zwingliana 46 (2019), 45–72
+
+“Imprime´e de
+
+diffe´rentes manie`res”
+
+The Gallican Confession and its First
+
+Printed Editions (1559?–1561) 1
+
+Gianmarco Braghi
+
+Introduction
+
+The ministers assembled at the so-called first national synod of the
+French Reformed church, held in Paris in May 1559, promulgated
+the Gallican Confession and the Ecclesiastical Discipline. These are
+considered the key documents of the French Reformation. As
+Henri II harshly persecuted heretics, the pastors serving in Paris
+did everything they could to keep the meeting out of the civil au-
+thorities’ sight. Both Franc¸ois Morel – senior minister of the con-
+gregation of Paris and moderator of the synod – and John Calvin
+advised the brethren assembled to exercise extreme caution and
+discouraged any form of disclosure of the Confession to a wider
+audience. A few days before the meeting, Calvin wrote to Morel
+and urged the participants not to make such an imprudent move.2
+After the synod, Morel feared that some among the delegates, in
+
+1 I am thankful to Dr Christian Moser and to Dr Gergely Csuka´s for their kind
+assistance during the publication process and to Dr Taraneh Wilkinson for proofreading
+a final version of this paper. Translations, unless otherwise stated, are all mine.
+
+2 John Calvin to Franc¸ois Morel (17 May 1559), in: Ioannis Calvini opera quae
+
+supersunt omnia [CO], vol. 17 (1877), 525f.
+
+46
+
+Gianmarco Braghi
+
+spite of his clear admonition not to do so, could incautiously dis-
+seminate or print the Confession on their return home.3 As I have
+recently argued, Morel’s and Calvin’s instructions were taken se-
+riously, as there is indeed no evidence that the Gallican Confession
+was printed and/or circulated to a wider audience in the second
+half of 1559.4 However, this begs the question of when exactly the
+leading French Reformed ministers – in concert with Calvin and
+the Venerable Company of Pastors of Geneva – decided to print
+the Gallican Confession to make it available to a less restricted
+audience. In this article I will articulate a hypothesis about the
+timing and strategy that prompted the decision to print and dis-
+seminate the Confession.
+
+The results of my research hypothesis and the investigation I
+conducted suggest that the first editions of the Confession – which
+include only 35 articles out of 40 and bear the date 1559 on their
+frontispieces – were abridged versions of the ‘full’ Confession as
+promulgated by the synod of Paris of 1559 (i.e. in 40 articles). The
+‘full’ Confession was carefully revised for polemical purposes and
+reasons of sheer political expediency. The decision to publish the
+Confession in this particular fashion had a pragmatic and political
+character, as opposed to purely religious or theological motives. In
+the aftermath of the failure of the conspiracy of Amboise (March
+1560), leading French Reformed ministers and lay activists – in-
+cluding Antoine de Chandieu, Nicolas des Gallars, Jean le Mac¸on,
+and Franc¸ois Hotman – decided to make a shrewd political at-
+tempt to rally popular support against the Guise family. The ex-
+punction of some articles from the text of the full Gallican Con-
+fession and, crucially, the incorporation of an astute polemical pre-
+face authored by Chandieu were carefully-planned devices which
+made the Confession intelligible to the broadest possible audience.
+This strategy – entailing the dissemination of an articulate ‘poly-
+ptych’ of political and religious pamphlets printed simultaneously
+– was put into place in an effort to counterbalance the influence
+that Franc¸ois, duke of Guise and his younger brother Charles, car-
+
+3 Franc¸ois Morel to John Calvin (5 June 1559), in: CO 17, 540.
+4 Gianmarco Braghi, Between Paris and Geneva: Some Remarks on the Approval of
+the Gallican Confession (May 1559), in: Journal of Early Modern Christianity 5/2
+(2018), 218f.
+
+Imprime´e de diffe´rentes manie`res
+
+47
+
+dinal of Lorraine had managed to attain at court after the sudden
+death of Henri II. In particular one abridged edition of the Gallican
+Confession in the vernacular, printed in Strasbourg in spring 1560,
+was probably conceived as the pivot around which all the other
+contemporary anti-Guise treatises turned and as the finest piece of
+this ‘polyptych’. We will also comment upon a 1561 edition of the
+Confession – apparently the first dated edition to feature 40 arti-
+cles – which was ostensibly prepared with a view to the colloquy of
+Poissy.
+
+The state of the art and the sources under scrutiny
+
+Every single Reformed congregation in France was supposed to
+abide by the Gallican Confession’s articles of faith. The preserva-
+tion of the French Reformed church’s doctrinal uniformity deman-
+ded prompt availability of a consistent and reliable version of this
+quintessential document. Unlike the Ecclesiastical Discipline, the
+Confession had to be adopted, not adapted, and its publication
+“implied a degree of permanence”.5 Any amendment to the Con-
+fession had to be sanctioned by the central governing body of the
+Reformed church of France, i.e. the national synod. However, this
+document circulated in different forms. Two in particular are well
+known to scholars: one featuring 40 articles – i.e. the full Gallican
+Confession – and one including only 35.
+
+This ‘double circulation’ was increasingly perceived as an issue
+by the leading Reformed ministers. In 1565, during the national
+synod of Paris, the brethren assembled admonished printers – in-
+cluding Genevan printers – to attach the full Gallican Confession,
+as opposed to the 35-article version, to their editions of the Psalms
+and catechisms, “even though they are both suitable enough in
+[terms of] doctrine”.6 This synodal decision failed to resolve the
+
+5 Sara K. Barker, Protestantism, Poetry and Protest: The Vernacular Writings of
+Antoine de Chandieu (c.1534–1591), Aldershot 2009 (St Andrews Studies in Refor-
+mation History), 66.
+
+6 Jean Aymon, Tous les synodes nationaux des e´glises re´forme´es de France… [Ay-
+mon], vol. 1, The Hague 1710, 69. John Quick, Synodicon in Gallia Reformata…
+[Quick], vol. 1, London 1692, 66.
+
+48
+
+Gianmarco Braghi
+
+issue and it was eventually decided to take remedial action. In
+1571 in La Rochelle it was decided to officialise one of the two
+commonly-used versions of the Confession, “given that our Con-
+fession of Faith is printed in different fashions”. The Gallican Con-
+fession as promulgated in Paris in 1559 (i.e. in 40 articles) had to
+be adopted by every single French Reformed congregation.7
+
+Scholars in this field are well aware of the existence of these two
+versions of the Confession. Hannelore Jahr’s Habilitationsschrift –
+an outstanding and regrettably under-used bibliographical study of
+the various editions of the Confession in the sixteenth century – is
+the obvious starting point of our discussion.8 Jahr’s work lists
+countless editions of this document, including known copies in 35
+articles, and provides detailed information on their archival loca-
+tion. Nonetheless, it fails to answer a fundamental question: when
+was the Gallican Confession first printed and what was the context
+of this decision? Other scholars have prepared transcriptions and
+critical editions of the Confession’s text, such as the editors of the
+Calvini opera, Philip Schaff, Olivier Fatio, and Emidio Campi.9
+However, none of these authors has tackled the issue of the Con-
+fession’s first appearance in print. Experts in political history and
+pamphleteering during the wars of religion, commenting upon the
+French Reformed movement’s growing involvement in the public
+sphere during these crucial years, have mainly focused on the buil-
+ding of a coherent narrative of key political events from a broad
+national perspective and have not offered any significant insight on
+the use of the Gallican Confession in the wider Reformed political
+strategy.10 Herman A. Speelman has speculated that Calvin himself
+
+7 Aymon, vol. 1, 98; Quick, vol. 1, 91.
+8 Hannelore Jahr, Studien zur Überlieferungsgeschichte der Confession de foi von
+1559, Neukirchen 1964 (Beiträge zur Geschichte und Lehre der Reformierten Kirche
+16).
+
+9 CO, vol. 9 (1870), 741–752; La confession de foi des e´glises re´forme´es de France,
+dite Confession de La Rochelle, in: Confessions et cate´chismes de la foi re´forme´e, ed.
+Olivier Fatio, Geneva 22005 (Publications de la Faculte´ de the´ologie de l’Universite´ de
+Gene`ve 11), 111–127; Philip Schaff, The Creeds of Christendom, with a History and
+Critical Notes, vol. 3, New York 1877, 356–382; Emidio Campi, Confessio Gallicana,
+1559/1571, mit dem Bekenntnis der Waldenser, 1560, in: Reformierte Bekenntnis-
+schriften, eds. Andreas Mühling and Peter Opitz, vol. 2/1, Neukirchen-Vluyn 2009,
+1–56.
+
+10 See among others Mack P. Holt, The French Wars of Religion, 1562–1629, Cam-
+
+Imprime´e de diffe´rentes manie`res
+
+49
+
+might have been behind the printing of the Confession in the wake
+of Henri II’s sudden death and Catherine de Medici’s ‘emergency
+regency’. However, this argument – although very much reasona-
+ble – is mostly based on his analysis of the prefaces to the Confes-
+sion and on the political conjuncture of 1559.11 Speelman has cor-
+rectly remarked that external evidence on the exact timing of the
+printing of the Gallican Confession has “not yet been found”.12
+
+On the other hand, experts in the early French Reformed church
+have obliquely engaged the problem of the existence of copies of
+the Gallican Confession in 35 articles. The consensus seems to be
+that the issue of the Confession’s ‘double circulation’ is connected
+to its approval during the 1559 synod of Paris. In particular, Ber-
+nard Roussel and Jean-Robert Armogathe have hypothesised that
+the version in 35 articles could embody the draft confession that
+Calvin allegedly sent to the Parisian synod for approval in May
+1559, while the Gallican Confession in 40 articles might be the
+product of the modifications implemented by the pastors assem-
+bled in Paris.13 However, as I have recently suggested, there is no
+solid evidence that the existence of variants in the printed editions
+of the Gallican Confession could be traced back to the process
+leading to the adoption of this document in 1559 by the synod of
+Paris.14
+
+bridge 22005 (New Approaches to European History 36); Histoire et dictionnaire des
+guerres de religion, eds. Arlette Jouanna et al., Paris 1998; Robert J. Knecht, The French
+Wars of Religion, 1559–1598, Harlow 32010 (Seminar Studies in History); Pierre Mi-
+quel, Les guerres de religion, Paris 1980; Hugues Daussy, Le parti huguenot. Chronique
+d’une de´sillusion, Geneva 2014 (Travaux d’Humanisme et Renaissance 527); Luc Ra-
+caut, Hatred in Print: Catholic Propaganda and Protestant Identity during the French
+Wars of Religion, Aldershot 2002 (St Andrews Studies in Reformation History); Tatiana
+Debbagi Baranova, A` coups de libelles. Une culture politique au temps des guerres de
+religion (1562–1598), Geneva 2012 (Cahiers d’Humanisme et Renaissance 104).
+
+11 Herman A. Speelman, Calvin and the Independence of the Church, Göttingen
+
+2014 (Reformed Historical Theology 25), 143–207.
+12 Speelman, Calvin and the Independence, 176.
+13 Bernard Roussel, Le texte et les usages de la Confession de foi des E´ glises re´for-
+me´es de France d’apre`s les Actes des Synodes nationaux, in: Cate´chismes et Confessions
+de foi. Actes du XIIIe colloque du Centre d’histoire des re´formes et du protestantisme de
+l’Universite´ de Montpellier, eds. Marie-Madeleine Fragonard and Michel Pe´ronnet,
+Montpellier 1995, 31–60, esp. 31f.; Jean-Robert Armogathe, Quelques re´flexions sur la
+Confession de foi de La Rochelle, in: Bulletin de la Socie´te´ de l’histoire du protestan-
+tisme franc¸ais [BSHPF] 117/2 (1971), 201–213, esp. 202f.
+
+14 Braghi, Between Paris and Geneva, 199f.
+
+50
+
+Gianmarco Braghi
+
+Before commenting in detail upon the four copies of the Gallican
+Confession which represent the core sources of this paper, it is
+crucial to offer a methodological caveat to the reader. According
+to the results of Jahr’s Studien – and my archival experience con-
+firms her findings – no surviving printed copy of the full Gallican
+Confession (i.e. in 40 articles) bears the date 1559 or 1560 on its
+frontispiece. Several copies are in fact undated. Various French and
+Genevan printers who published copies of the full Gallican Con-
+fession throughout the 1560s seem to have started including the
+publication date on the frontispiece from 1561 onwards. However,
+it has often been implicitly assumed that several undated copies of
+the Gallican Confession could have been printed in 1559 or 1560.
+The main reason for this assumption is that these copies are in-
+cluded in me´langes and recueils composed of various political and
+religious pamphlets from 1559 and 1560, often bound in the
+seventeenth century. Nevertheless, the completely arbitrary orde-
+ring of the single items of those recueils does not reflect the his-
+torical and chronological coherence of the documents included:
+rather, it largely depends on the taste of those erudites and collec-
+tors who used to own these sources and decided upon the order in
+which they were bound together. In methodological terms, there is
+no rationale to assume that any specific undated copy of the Gal-
+lican Confession could have been printed in 1559 or 1560, unless
+solid evidence for such a claim can be provided – entailing pain-
+staking work on fonts and blocks to trace out the printer.
+
+Among the copies of the Gallican Confession in 35 articles,
+Jahr’s study mentions four surviving copies dated 1559. Three are
+in French and one is in Latin. Of the copies in French, one is held
+in Zurich and one in Paris; the third one, once held in Grenoble, is
+now lost.15 The copy in Latin is also held in Zurich. These copies
+are believed to have been published by Genevan printer Conrad
+Badius.16 Although Badius did print the Zurich copy in Latin and
+
+15 I contacted the Bibliothe`que Municipale de Grenoble and it appears that shelf-
+mark D. 7561, corresponding to Jahr, Studien, 94, item no. 49, is nowhere to be found.
+There is also a copy of the Confession in 35 articles not included in Jahr’s list. It was
+held in the former Prussian State Library, Berlin (shelfmark DF 9348), which was
+evacuated during the Second World War. This is now in the Rossijskaja Gosudarstven-
+naja Biblioteka, Moscow. I would like to thank Eva Rothkirch (Abteilung Historische
+Drucke, Staatsbibliothek zu Berlin) for this piece of information.
+
+Imprime´e de diffe´rentes manie`res
+
+51
+
+the Paris copy in French, I will show that the Zurich copy in
+French was published in Strasbourg, not in Geneva. I will also
+avail of a third source, i.e. the earliest edition of the full Gallican
+Confession (i.e. in 40 articles) bearing a date on its frontispiece,
+which was printed in 1561.
+
+For the sake of brevity and clarity, I will henceforth use short
+
+titles as shown below:
+
+Confession par les Eglises (Strasbourg)
+
+CONFESSION de foy, faicte d’vn com-mun accord par les Eglises qui
+sont dispersees en France, & sabstiene¯t des idolatries Papales.
+[fleuron]
+AVEC VNE PREFACE CONTENANT responce & defence contre les
+calumnies dont on les charge [fleuron] M. D. LIX.
+Zentralbibliothek Zürich, Ms S 95, 24 (Dr 8).
+Online at 〈http://doi.org/10.3931/e-rara–1899〉. Jahr, Studien, 94, item no.
+50. In 35 articles.
+
+Confession par les Eglises (Geneva)
+
+CONFESSION DE FOY, FAITE D’VN COMMVN AC-cord par les Egli-
+ses qui sont dis-persees en France, & s’abstie-nent des idolatries Papales. 3
+AVEC VNE PREFACE CONTENANT response & defense contre les ca-
+lomnies dont on les charge.
+Bibliothe`que nationale de France, Re´serve D. 6766. Jahr, Studien, 94, item
+no. 48. In 35 articles.
+
+[fleuron] M. D. LIX.
+
+Confessio fidei communi ecclesiarum
+
+CONFESSIO FIDEI COMMVNI ECCLESIARVM, QVAE sparsae sunt in
+Gallia, consensu facta, quaequidem ab idololatria Papistica se abstinent.
+CVM PRAEFATIONE QVAE CONTI-net Apologiam aduersus calumnias
+quibus impetuntur.
+Zentralbibliothek Zürich, III Q 380, 2.
+Online at 〈http://doi.org/10.3931/e-rara–1255〉. Jahr, Studien, 95, item no.
+51. In 35 articles.
+
+[fleuron] M. D. LIX.
+
+16 According to the bibliographical
+
+information provided by the host website
+〈www.e-rara.ch〉 in the permalinks of these digitalisations (last accessed 21 June 2019).
+
+52
+
+Gianmarco Braghi
+
+Confession par les Franc¸ois
+
+CONFESSION DE FOY, FAITTE D’VN COMMVN ACCORD PAR
+LES FRANCOIS,
+[fleuron] Qui desirent viure selon la purete´ de l’Eu-
+angile de nostre Seigneur IESUS CHRIST. I. PIERRE III. Soyez tousiours
+appareillez a` respondre a` chacun qui vous demande raison de l’esperance
+qui est en vous. M D LXI.
+Bibliothe`que nationale de France, Re´serve D2. 4234 (2).
+Online at 〈https://gallica.bnf.fr/ark:/12148/bpt6k5477765t〉. Jahr, Studien,
+95, item no. 53 (various other copies). In 40 articles.
+
+It is important to underline that all known copies in 35 articles
+bear the title of Confession de foy, faicte d’un commun accord par
+les Eglises qui sont dispersees en France, & sabstiennent des ido-
+latries Papales. The Latin copy has the same title translated into
+Latin. On the other hand, the full Gallican Confession was printed
+under the title of Confession de foy, faitte d’un commun accord
+par les Franc¸ois qui desirent vivre selon la purete´ de l’Evangile.
+
+As stated above, the copy of the Confession in 35 articles in
+Latin presently held in Zurich was printed in Conrad Badius’
+workshop in Geneva. The ornate letters E and Q in the Confessio
+fidei communi ecclesiarum are also found in a Genevan work prin-
+ted by Conrad Badius and Artus Chauvin. Likewise, the copy of
+the Confession par les Eglises (Geneva) in the vernacular was also
+printed in Badius’ workshop: its ornate letters C and P belonged to
+this successful Genevan printer.
+
+These two Genevan editions of the Gallican Confession did not
+leave any traces in the town records. As The´ophile Dufour’s re-
+search suggests, there is no reference to any edition of the Gallican
+Confession in the records of the Small Council of Geneva for the
+years 1559–1572.17 Genevan printers often exchanged blocks bet-
+ween themselves in order to fool censors when it came to editions
+that could cause issues with the civil authorities.18 However, this
+
+17 The´ophile Dufour, Extraits des Registres du Conseil et Registres du Consistoire
+relatifs aux imprimeurs, 1542–1600, Bibliothe`que de Gene`ve, Ms Fr 3817. However,
+several editions of Psalms and of Bibles printed in Geneva include the Gallican Confes-
+sion at the beginning or at the end of the volumes.
+
+18 Theodore G. van Raalte, “Noster Theophilus”: The Fictitious “Printer” whose
+Anti-Jesuit Volumes Issued from Various Presses in Geneva between 1580 and 1589, in:
+Bibliothe`que d’Humanisme et Renaissance 74/3 (2012), 569–591.
+
+Imprime´e de diffe´rentes manie`res
+
+53
+
+Block in Confessio ﬁ dei communi 
+ecclesiarum, 3. Cf. L’histoire ecclesias-
+tique, proposant l’entiere et vraye forme 
+de l’eglise de nostre Seigneur Iesus…, 
+Geneva: [Conrad Badius] Imprimé pour 
+Artus Chauvin, 1560, 141.
+
+Block in Confessio ﬁ dei communi eccle-
+siarum, 26. Cf. L’histoire ecclesiastique, 
+proposant l’entiere et vraye forme, 119.
+
+Block in Confession par les Eglises 
+(Geneva), 3. Cf. Michel Cop, Sur les 
+proverbes de Salomon exposition 
+familiere en forme de briefves Homilies, 
+contenant plusieurs sainctes exhorta-
+tions convenables au temps present..., 
+[Geneva]: Imprimé par Conrad Badius, 
+1559, fol. A2r.
+
+Block in Confession par les Eglises 
+(Geneva), 29. Cf. Jean Calvin, Sermons 
+de Iean Calvin sur les deux Epistres S. 
+Paul a Timothee, & sur l’Epistre a Tite, 
+Imprimé à Genève par Conrad Badius, 
+1559, fol. A1r.
+
+was not the case of Badius’ editions of the Confession, as he de-
+cided to use his own ornate letters . His books were well known in
+town and it would have been rather unwise to put detectable
+blocks in editions not previously submitted to the Genevan au-
+thorities’ inspection. By printing an unauthorised edition of such a
+
+54
+
+Gianmarco Braghi
+
+document – potentially very dangerous for the Genevan magis-
+trates in diplomatic terms – Badius risked seeing his advantageous
+contract terminated.19 It is likely that Badius had the Small Coun-
+cil’s tacit endorsement and that the Venerable Company of Pastors
+itself hired Badius, upon informal approval from the Small Coun-
+cil, to print these abridged editions of the Gallican Confession.
+However, I am persuaded that these Genevan copies did not cir-
+culate immediately and remained safely stored in Badius’ work-
+shop while waiting for the best moment to disseminate them. I will
+expand on my point of view below.
+
+Before addressing the context in which the Confession was cir-
+culated, it is worthwhile to offer some remarks on the last 35-ar-
+ticles copy under scrutiny. This copy was not printed in Geneva
+but in Strasbourg, in the workshop of Christian Müller (Mylius).
+Mylius – not by chance – also printed Franc¸ois Hotman’s Epistre
+au Tigre de la France in the very same months.20
+
+The chronological proximity of Valentinus Erythraeus’ edition
+dispels any doubts that Mylius could have sold his blocks C and P
+in the meantime. Analysis will show that Mylius’ Strasbourg edi-
+tion was most probably a reprise of the Genevan editions and
+appeared around spring 1560.
+
+19 Badius was imprisoned in January 1560 for failing to ask permission to publish a
+satirical pamphlet authored by Beza but printed anonymously. Cf. Theodore Beza,
+Satyres chrestiennes de la cuisine papale, ed. Charles-Antoine Chamay, Geneva 2005
+(Textes litte´raires franc¸ais 576), lvi.
+
+20 Rodolphe Peter, Les premiers ouvrages franc¸ais imprime´s a` Strasbourg, in: An-
+nuaire de la Socie´te´ des Amis du Vieux-Strasbourg 8 (1978), 30–31. Christian Mylius,
+active in Strasbourg between 1555 and 1568, had probably inherited both the work-
+shop of Crato Mylius (ostensibly a relative) and of his father-in-law Jacob Frölich.
+Crato studied at the University of Wittenberg and knew Philip Melanchthon personally.
+He was a fervent Protestant and was in close contact with several Alsatian and German
+Protestant circles. After Crato’s death, printer Blaise Fabricius married his widow.
+Christian Mylius, who in turn kept good relationships with the local Protestant milieu,
+later inherited Fabricius’ workshop. Christian Mylius I, in: Histoire de l’imprimerie
+alsacienne aux XVe et XVIe sie`cles, ed. Franc¸ois Ritter, Strasbourg and Paris 1955,
+251–258; Die Buchdrucker des 16. und 17. Jahrhunderts im deutschen Sprachgebiet /
+Auf der Grundlage des gleichnamigen Werkes von Josef Benzing, ed. Christoph Reske,
+Wiesbaden 2007 (Beiträge zum Buch- und Bibliothekswesen 51), 891.
+
+Imprime´e de diffe´rentes manie`res
+
+55
+
+Block in Confession par les Eglises 
+(Strasbourg), 3. Cf. Valentinus Ery-
+thraeus, Tabulae partitionum oratoria-
+rum Ciceronis: & quatuor dialogorum 
+Ioan. Sturmii in easdem: recognitae, 
+& alicubi auctae…, Argentorati apud 
+Christianum Mylium, 1560, fol. H3v.
+
+Block in Confession par les Eglises 
+(Strasbourg), 29. Cf. Erythraeus, Tabu-
+lae partitionum, fol. A2r.
+
+Context: the Guise family, the failed coup at
+
+Amboise, and the Strasbourg connection
+
+In the introduction we have seen how, notwithstanding all the
+surprise and hope that the sudden death of Henri II may have
+triggered in the hearts of the French Reformed believers in July
+1559, the leading ministers and activists were wise enough not to
+immediately embark on the risky adventure of printing the Galli-
+can Confession. Although the policy of pleading with Henri II
+through handwritten apologies had ultimately failed, it was not
+taken for granted that the very same conduct could not win over
+Henri’s adolescent successor Franc¸ois II and the queen mother Ca-
+therine de Medici. Nevertheless, the leading Reformed ministers’
+hopes were rapidly frustrated by the position of power that the
+Guise family had managed to attain at court and by their decision
+to keep up persecution against heretics, in continuity with the po-
+licy put in place in the late years of Henri II’s reign.21
+
+21 On the Guises, see Stuart Carroll, Martyrs and Murderers: The Guise Family and
+the Making of Europe, Oxford 2009; Silvia Castro Shannon, The Political Activity of
+Franc¸ois de Lorraine, duc de Guise (1559–1563): From Military Hero to Catholic Lea-
+der, Unpublished Ph.D. thesis, Boston University 1988.
+
+56
+
+Gianmarco Braghi
+
+The context of the late-1559 persecution wave in Paris – which
+led the Parisian pastors to a desperate search for refuge abroad – is
+still obscure, also due to the fragmentary nature of surviving
+sources. Plans for transferring the whole Parisian congregation to
+Strasbourg and for organising a full-fledged exodus from the king-
+dom of France were made between late 1559 and early 1560.22 I
+have engaged elsewhere with the minutiae of persecution in Paris
+and with the Reformed response to it.23 For the purpose of this
+paper, it will be sufficient to say that there were intense triangular
+contacts between Paris, Geneva, and Strasbourg, which were key
+to the organisation of political opposition to the Guises as well as
+to the coordination of informal networks of relief from persecu-
+tion. The intermittent presence in Strasbourg of Jean le Mac¸on,
+Antoine de Chandieu, Nicolas des Gallars, Franc¸ois Hotman, and
+Theodore Beza between the second half of 1559 and the first half
+of 1560 helps explain how several Reformed political and religious
+pamphlets – disseminated after the failure of the conspiracy of
+Amboise (March 1560) – were printed simultaneously in Stras-
+bourg: that is, safely outside the borders of the kingdom of France.
+The anti-Guise plot leading to the attempted seizure of the castle
+of Amboise has attracted a considerable deal of scholarly attention
+and is well researched.24 It is key to underline here that the con-
+spiracy’s short-term result was not to unseat the Guises from their
+position of power at court. On the contrary, Franc¸ois II appointed
+the duke of Guise lieutenant-general of the kingdom for his success
+in defending the castle of Amboise. Not only did the king confirm
+Franc¸ois de Guise in the same position of power as before: crucial-
+
+22 Barker, Protestantism, 22; Auguste Bernus, Le ministre Antoine de Chandieu
+
+d’apre`s son journal autographe ine´dit, 1534–1591, in: BSHPF 37/1 (1888), 67.
+
+23 Braghi, The Evolving Character of
+
+the French Reformed Movement,
+c.1555–c.1572, Unpublished Ph.D. thesis, Trinity College Dublin 2016, Chapter III. I
+plan to publish a monograph based on my thesis before the end of 2020.
+
+24 On Amboise, see Henri Naef, La conjuration d’Amboise et Gene`ve, Geneva and
+Paris 1922; Lucien Romier, La conjuration d’Amboise; l’aurore sanglante de la liberte´
+de conscience; le re`gne et la mort de Franc¸ois II, Paris 1923; Robert M. Kingdon,
+Geneva and the Coming of the Wars of Religion in France, Geneva 22007 (E´ tudes de
+Philologie et d’Histoire 82), 68–76; Corrado Vivanti, La congiura d’Amboise, in: Com-
+plots et conjurations dans l’Europe moderne. Actes du colloque international organise´ a`
+Rome, 30 septembre – 2 octobre 1993, eds. Yves-Marie Berce´ and Elena Fasano
+Guarini, Rome 1996 (Publications de l’E´ cole Franc¸aise de Rome 220), 439–450.
+
+Imprime´e de diffe´rentes manie`res
+
+57
+
+ly, he also authorised him to prosecute as he pleased those among
+the conspirators who had managed to escape the slaughter.25 As a
+result, the climate of renewed persecution in the months between
+March and May 1560 ended up triggering a stiff reaction by the
+French Reformed leading pastors and lay activists. From their pro-
+visional ‘headquarters’ in Strasbourg and in close contact with
+Geneva, they produced a ‘polyptych’ of political and religious an-
+ti-Guise propaganda between spring and summer 1560.
+
+Some anti-Guise pamphlets printed in Strasbourg in 1560 are
+well known, such as Franc¸ois Hotman’s Epistre au Tigre de la
+France and the Histoire du tumulte d’Amboyse.26 Many others are
+still obscure and need to be put in the context of the failed coup,
+such as a short consolatory tract titled Traicte´ de la croix et afflic-
+tion des enfans de Dieu, now surviving in a unique copy held in
+Archbishop Marsh’s Library, Dublin.27 As we have seen above, an
+abridged edition of the Gallican Confession in the vernacular, in-
+cluding a long polemical preface authored by Antoine de Chan-
+dieu, was among the pamphlets printed in Strasbourg.28 Such a
+central and significant piece was certainly designed as the pivot
+around which all the other polemical pamphlets – not by chance
+printed in more than one workshop – revolved.29 According to
+Charles Read, Franc¸ois Hotman’s Epistre au Tigre was published
+
+25 Shannon, The Political Activity, 140f. The lieutenant-general had full command
+
+of the royal army.
+
+26 Le Tigre de 1560 reproduit pour la premie`re fois en fac-simile d’apre`s l’unique
+exemplaire connu (qui a e´chappe´ a` l’incendie de l’Hoˆ tel de Ville en 1871) et publie´ avec
+des notes historiques, litte´raires et bibliographiques, ed. Charles Read, Paris 1875;
+[Franc¸ois Hotman], L’histoire du tumulte d’Amboyse advenu au moys de Mars,
+M.D.LX. Ensemble, Un avertissement & une complainte au peuple Franc¸ois, s.l. [Stras-
+bourg]: s.n. [Jean Nesle] 1560, Bibliothe`que nationale de France, LB32.15.
+
+27 Traicte´ de la croix et affliction des enfans de Dieu, utile a` tous, pour le temps de
+persecution…, Strasbourg: s.n., 1560, Archbishop Marsh’s Library, Class. R. 4, Tab. 7,
+16 (5). A 1563 edition is held in the Bibliothe`que de Rennes-Me´tropole (85180/10). I
+am currently writing a paper focusing on this rare publication.
+
+28 The title itself, describing the French Reformed churches as ‘disperses’, also al-
+luded to times of persecution. In fact, one of the meanings of ‘dispers’ and ‘disperse´’ can
+be ‘in trouble’, ‘disbanded’. See Edmond Huguet, Dictionnaire de la langue franc¸aise du
+XVIe sie`cle, vol. 3, Paris 21946, 210 (entry ‘Dispars’, ‘Disparser’), 213f. (entries ‘Dis-
+perdre 1’, ‘Disperdre 2’), 214 (entries ‘Dispers’, ‘Disperser’).
+
+29 The fact that more than one printer in Strasbourg was hired to publish these
+pamphlets shows that these tracts were meant to appear simultaneously and to be read
+as a body of work rather than a collection of isolated pieces.
+
+58
+
+Gianmarco Braghi
+
+around the end of May or the beginning of June.30 The key piece of
+correspondence analysed below was written shortly before the
+Epistre au Tigre was published, and this makes the chronological
+proximity of the Tigre and the abridged Confession not accidental.
+
+A secret laid bare
+
+On 16 May 1560 Nicolas des Gallars, while en route to the French
+refugee church of London,31 wrote a dispatch to Calvin. Here des
+Gallars informed Calvin of a conversation he had had with Chan-
+dieu and others not long before in Strasbourg. This letter’s oblique
+expressions suggest that it was deliberately written in coded lan-
+guage. Even the nineteenth-century editors of the Calvini opera,
+customarily prolific and precise when it came to providing
+references, did not offer any information on the broader context of
+this message or any clues about its possible meaning. Let us now
+analyse closely an excerpt from this letter.
+
+“As soon as I arrived in Strasbourg, I discussed with Chandieu about what
+we had pondered [in Geneva]. He appeared to be ready for anything you
+command. He only objected that it would not have been licit for him to
+take up such a task without the church of Paris’ explicit instruction. We had
+already anticipated [his objection]: I answered that you will ask the Pari-
+sians to do this. In fact, [Chandieu] said, ‘I gave them my word that, unless
+I had written proof of their endorsement – in case somebody wanted to
+calumniate me – I would not entrust this labour to others’. For this reason,
+it is convenient that you warn the Parisians. And I do not doubt that they
+will easily grant their approval if they understand how beneficial [Chan-
+dieu’s plan] would be for them. After this conversation, [Jean Le Mac¸on]
+arrived on cue in this town [from Paris]. He said he had expected [Chan-
+dieu’s objection]. […] Le Mac¸on easily acquiesced and brought forth no
+reason why Chandieu should forsake this undertaking. He said that this
+must be pointed out to the church of Paris. Then I asked that [Le Mac¸on]
+wrote and pointed this out, which he will do. Nonetheless, it is [the Ve-
+nerable Company of Pastors of Geneva and yourself] who should write to
+
+30 See the introduction of Read, LeTigre de 1560.
+31 On the French refugee church of London, see above all Fernand de Schickler, Les
+e´glises du refuge en Angleterre, 3 vols., Paris 1892. See also Andrew Pettegree, Foreign
+Protestant Communities in Sixteenth-Century London, Oxford 1986.
+
+Imprime´e de diffe´rentes manie`res
+
+59
+
+further persuade the Parisians with your authority. I told this to [Guillau-
+me] Houbraque: he incited [Chandieu], who was ever so self-motivated.”32
+
+This dispatch includes at least three vital pieces of information
+which must be considered separately to fully grasp their meaning
+and allusions in context.
+
+First, Chandieu was supposed to take upon himself a task of
+such importance that des Gallars refrained from being any more
+specific in his letter to Calvin. Perhaps des Gallars feared that this
+dispatch would be too incriminating had it been seized by French
+civil authorities. Thus, he decided to conceal what he was writing
+about. Besides, Calvin, Chandieu, and des Gallars had already dis-
+cussed the affair face to face in Geneva.33 Thus, there was no need
+to be any more explicit than des Gallars was, as Calvin knew
+exactly what the coded language of this dispatch referred to.
+
+Second, according to his biographer Jacques Lect, Chandieu had
+written his preface to the Gallican Confession in or even before
+1559.34 In the light of this crucial detail, the support that des Gal-
+lars, Le Mac¸on, Houbraque, and others offered to Chandieu is
+remarkable. Insofar as known sources are concerned, this docu-
+ment had remained unpublished until the abridged editions in 35
+articles were printed in Strasbourg and Geneva. However, the lea-
+
+32 Nicolas des Gallars to John Calvin (16 May 1560), in: CO, vol. 18 (1878), 91f.:
+“Simul atque Argentinam veni egi cum Rochio de eo quod inter nos deliberatum erat. Is
+se ad omnia quae iuberetis promptum ac paratum esse ostendit. Tantum excepit quod
+iam satis a nobis praevisum erat sibi ecclesiae Parisiensis iniussu munus ullum suscipere
+non licere. Respondi vos de ea re Parisiensibus satisfacturos. Sic vero, inquit, fidem illis
+meam obstrinxi, ut nisi assentiantur ac scripto eorum assensum probare possim, iis qui
+me calumniari vellent, aliis operam daturus non sim. Quamobrem opus est ut ipsi a
+vobis moneantur. Nec dubito quin, si intellexerint quantum profuturus sit iis quibus
+designatur, facile assensum praebeant. Postquam ita colloquuti sumus, accessit ad hanc
+urbem peropportune Rivierius, quem se exspectare dicebat. […] Is facile assensus est,
+nec ullam attulit causam cur Rochius hoc munus detrectare deberet. Tantum id ecclesiae
+Parisiensi significandum esse dixit. Rogavi igitur ut scriberet ipse ac quam primum
+significaret. Quod se facturum recepit. Sed nihilominus a vobis scribendum erit ut Pa-
+risienses magis autoritate vestra moveantur. Hoc ipsum cum Holbracho communicavi,
+qui hominem, quamvis per se incitatum, adhuc impellebat.”
+
+33 Chandieu visited Geneva early in 1560. Naef, La conjuration d’Amboise et Ge-
+
+ne`ve, passim.
+
+34 De vita Anton. Sadeelis et scriptis, in: Jacques Lect, Antonii Sadeelis Chandei
+
+nobilissimi viri opera theologica, Geneva 1599, fol. ¶¶¶. 2r.
+
+60
+
+Gianmarco Braghi
+
+ding Reformed pastors and activists were certainly aware of Chan-
+dieu’s authorship of this polemical piece, as it was probably cir-
+culated to a very restricted audience. Chandieu’s anxieties can be
+fully explained if we assume that this dispatch is about the printing
+and dissemination of Mylius’ edition of the Confession.
+
+Third, des Gallars’ dispatch mentions Chandieu’s fear of calum-
+nies, had he accomplished his task without securing the Parisian
+congregation’s written approval. After all, not only did Paris host
+the most significant Reformed congregation across the kingdom of
+France: crucially, it was the venue of the first national synod, ce-
+lebrated less than a year before. Moreover, the 1557 letter-confes-
+sion Au Roy had served as the confession of faith of the church of
+Paris before it became the full Gallican Confession.35 There is no
+evidence that the Parisians saw the Gallican Confession as their
+‘private property’. However, this dispatch glows with the leading
+ministers’ perception of the Parisian church as a body whose en-
+dorsement had to be sought when it came to such important mat-
+ters for the Reformed movement of France as a whole. As other
+Reformed ministers and activists were aware that Chandieu’s hand
+was behind the preface, the choice of expunging or condensing
+some articles would have been his own responsibility had he failed
+to seek written approval from Paris and Geneva. The removal of
+crucial articles without both Geneva’s and Paris’ sanction could
+possibly lead to accusations of doctrinal deviance or of
+disobedience. Chandieu’s uncertainties were certainly connected to
+the Parisian Reformed notables’ awareness of their increasingly
+important role in the larger French Reformed movement, as well as
+to the weight of the first national synod’s decision not to disse-
+minate the Confession. In May 1560, Chandieu was unwilling to
+take upon himself the full responsibility for such a crucial choice
+before obtaining the broadest possible approval. However, Gene-
+van support had already been secured, and pastor Jean Le Mac¸on,
+who had arrived – in des Gallars’ words, “on cue” – in Strasbourg
+from the congregation of Paris which he served, agreed that time
+had eventually come for a major, unconcealed debut in the poli-
+tical arena of France.36
+
+35 Glenn S. Sunshine, Reforming French Protestantism: The Development of Hu-
+guenot Ecclesiastical Institutions, Kirksville 2003 (Sixteenth Century Essays and Studies
+66), 16.
+
+Imprime´e de diffe´rentes manie`res
+
+61
+
+1559: a false date?
+
+The frontispiece of the Strasbourg edition of the Gallican Confes-
+sion in 35 articles technically bears a false date. However, it is
+possible that the motives behind this deliberate choice by the
+French Reformed pastors and lay activists who promoted this edi-
+torial effort were mostly practical, and that this is ultimately a
+reprise of the frontispiece of the Genevan editions, ostensibly prin-
+ted slightly earlier.
+
+A letter sent by Calvin to Peter Martyr Vermigli on 11 May 1560
+mentions a printed confession of faith. After providing an account
+of the failed conspiracy of Amboise, Calvin stated that Louis de
+Conde´ had planned to offer Franc¸ois II the Gallican Confession
+himself: Conde´ had “[…] decided that he would offer the king the
+Confession that was printed here [in Geneva]. If the Guises im-
+prisoned or incriminated him for this, many would have been re-
+ady to defend him”.37 The Latin wording “apud nos” suggests that
+Calvin referred either to the Confession par les Eglises (Geneva) or
+to the Confessio fidei communi ecclesiarum, both printed in Gene-
+va.38 This implies that these Genevan copies were completed in
+good time for Conde´ to offer one to the king during the (attemp-
+ted) seizure of the castle of Amboise on 17 March 1560.39 Accor-
+ding to the modern calendar, these Genevan editions were most
+probably achieved between the final months of 1559 and February
+1560 – still in 1559 in the ab incarnatione dating style.40 However,
+
+36 Late in May 1560, printed copies of the Confession were sent to the parlements of
+Rouen and Rennes and to the seneschal of Rennes. However, it is unclear whether these
+printed copies featured 35 articles. See Philip Benedict and Nicolas Fornerod, Les de´-
+pute´s des e´glises re´forme´es a` la cour en 1561–1562, in: Revue historique 315/2 (2013),
+289–332, here 293 and the sources and literature cited therein.
+
+37 John Calvin to Peter Martyr Vermigli (11 May 1560), in: CO 18, 82: “Sic enim
+convenerat: ut confessionem quae edita est apud nos Regi offerret: si Guisiani vim
+afferent vel eius factum traherent in crimen, parati essent ad eius defensionem quam
+plurimi.”
+
+38 The verb e¯do¯ –ere in this context may have several meanings, as I have discussed in
+Braghi, Between Paris and Geneva, 207, note 38. Contextual evidence suggests that
+Calvin was using this verb in its ‘technical’ meaning, i.e. related to the printing press.
+39 Conde´’s plan ultimately failed as none of the conspirators managed to get as close
+
+to the king as to offer him the Confession.
+
+40 This holds true also for the Easter dating style, as Easter 1560 was celebrated on
+14 April. Cf. Adriano Cappelli, Cronologia, cronografia e calendario perpetuo. Dal
+principio dell’era cristiana fino ai nostri giorni, ed. Marino Vigano` , Milan 72012, 82f.
+
+62
+
+Gianmarco Braghi
+
+as stated above, they remained safely stored in Badius’ workshop,
+ready to be disseminated.
+
+The 1559 date on the frontispiece of the Confession par les Egli-
+ses (Strasbourg) is most probably a reprise of the frontispiece of
+the Confession par les Eglises (Geneva), as the wording of the title
+and the preface are identical. This choice ought to be read both as
+a tribute to the authority of the 1559 synod of Paris – which pro-
+mulgated the Gallican Confession – and as a guarantee for the
+readers that the printing of the Confession stemmed directly from
+that same authority – especially because it was not the ‘full’ Gal-
+lican Confession (i.e. in 40 articles), even if only the movers and
+shakers of the Reformed movement knew this. In the first ‘official’
+printed edition of such a key document for the French Reformed
+church as a whole, it was far more important to refer to the date of
+its promulgation than to the date of its printing – also because a
+year had elapsed between the synod of Paris and the broad disse-
+mination of the first printed copies of the Confession.
+
+Secondly, but no less importantly, the pastors and lay activists
+who took care of the printing of the Strasbourg edition had the
+machinery of censorship of the kingdom of France very much in
+mind. If the French authorities intercepted copies of Mylius’ edi-
+tion, the 1559 date on the frontispiece would have conveyed the
+impression that this document had been circulating for months,
+unbeknown to them. In other words, censors might be fooled into
+thinking that it was too late to forestall the dissemination of the
+Confession. It was crucial not to worsen persecution in such tes-
+ting times, and even the smallest detail – such as a false date on a
+frontispiece – could help. On 23 June, a printer named Martin
+Lhomme was arrested in Paris and executed under suspicion of
+being the publisher of the Tigre. Apparently, he had some copies of
+this pamphlet stored in his workshop. However, according to the
+edict of Romorantin (7 May 1560), affirming one’s faith without
+any obvious seditious intentions (as in the abridged Confession)
+could not be punished as harshly as stirring political sedition (as in
+the Tigre).41 The promulgation of the edict of Romorantin could
+be one of the triggers of this sudden shift in the Reformed political
+
+41 Shannon, The Political Activity, 171–174.
+
+Imprime´e de diffe´rentes manie`res
+
+63
+
+strategy and of the decision to disseminate the Confession with
+Chandieu’s preface.42
+
+Sources suggest that Mylius’ edition of the Gallican Confession
+circulated immediately and that its publication was not concealed.
+For example, in the Histoire du tumulte d’Amboyse, also printed
+in Strasbourg in 1560, the anonymous author explicitly mentioned
+a “printed Confession of faith”.43 A copy of the Confession was
+also offered to the king at the so-called Assembly of Notables of
+Fontainebleau in August 1560.44 At the provincial synod of Gu-
+yenne, held in Clairac on 19 November 1560, the delegates (de´-
+pute´s) representing the Reformed movement at the upcoming es-
+tates-general of Orle´ans were asked to “[…] offer our king the
+Confession of faith agreed upon by the churches scattered in Fran-
+ce that abstain from papal idolatries, including an apology and
+defense against the calumnies they are charged with […]”.45 Com-
+parison of the Clairac synodal records with the frontispieces of
+both the Confession par les e´glises (Geneva) and the Confession
+par les e´glises (Strasbourg) shows that the wording is exactly the
+same. The delegates to the synod of Clairac could have either of
+
+42 Romorantin was promulgated on 7 May and des Gallars’ letter to Calvin (ana-
+
+lysed above) was written on 16 May.
+
+43 [Hotman], L’histoire du tumulte d’Amboyse, 11: “[…] ils ont declaire´ ouverte-
+ment ce qu’ils sentent de l’obeissance deue¨ aux Roys, & autres Principautez, par le
+dernier article de leur confession de foy imprimee, ou il est contenu qu’on doit fran-
+chement & de bonne volonte´ porter le ioug des Roys & Princes, encores qu’ils fussent
+infideles.” It is evident that this reference to the printed Confession was carefully placed
+in the text of this pamphlet to advertise the Strasbourg edition to the interested reader.
+44 Deux requestes de la part des fideles de France, qui desirent vivre selon la refor-
+mation de l’Evangile, donnees pour presenter au Conseil tenu a` Fontainebleau au mois
+d’Aoust, M.D.L.X., s.l.: s.n. [but 1560], Bibliothe`que de la Socie´te´ de l’histoire du
+protestantisme franc¸ais, Fonds Andre´ 663, fol. A1v.: “[…] la Foy que nous tenons est
+celle mesme qui est comprinse au Symbole des Apostres, comme il appert assez claire-
+ment par nostre Confession qui vous a este´ par cy devant presentee.”
+
+45 Actes du Sinode de Clairac celebre´ l’an MVcLX et le XIXe jour de novembre par
+trente ministres, oultre les diacres et anciens et plusieurs autres des Eglizes, in: L’or-
+ganisation et l’action des e´glises re´forme´es de France (1557–1563). Synodes provinciaux
+et autres documents, eds. Philip Benedict and Nicolas Fornerod, Geneva 2012 (Travaux
+d’Humanisme et Renaissance 504), 12: “[…] presenter a` nostre Roy la Confession de
+foy faite d’un commun accord par les Eglises qui sont disperse´es en France et s’ab-
+stiennent des idolatries papalles, ensamble une apologie et deffence contre les calomnies
+dont on les charge […].” On the Reformed de´pute´s at court, see Benedict and Fornerod,
+Les de´pute´s des e´glises.
+
+64
+
+Gianmarco Braghi
+
+the two editions under their eyes: after all, it is safe to assume that
+by November 1560 the Genevan edition in 35 articles (Badius’)
+had also been widely disseminated.
+
+A sophisticated and shape-shifting
+
+political manifesto
+
+The abridgment and publication of 35-article editions of the Gal-
+lican Confession leaves several questions unanswered. Why did
+Chandieu, des Gallars, and other leading Reformed pastors deli-
+berately choose to abridge this document by expunging elements
+from, or condensing some articles of, the full Gallican Confession
+they themselves had agreed upon and officialised in Paris in 1559?
+Their choice hints at the broader political implications of the ca-
+reful editing of these publications, with a view to both the verna-
+cular and the Latin editions’ intended audiences.
+
+The contents of the abridged editions did not diverge significant-
+ly from the full Gallican Confession.46 Articles I and VI of the full
+Confession were condensed in Article II of the abridged editions;
+likewise, articles XXXIX and XL of the former became the final
+Article XXXV in the latter. Three articles were completely left out
+in the abridged editions, i.e. articles II, III and IV of the full Con-
+fession. At a closer look, these are the articles most characterised
+by theological subtleties.47 In the abridged editions’ text we can
+also find remarkable alterations in tone. The relatively neutral re-
+ference to the “assemblies of the Papacy” found in the full Con-
+fession became a more judgmental “synagogues of the Papacy” in
+the abridged editions,48 while the theologically-connoted word
+
+46 The delegates to the synod of Paris (1565) declared that both versions were sui-
+
+table in doctrinal terms. See note 5.
+
+47 In the full Gallican Confession, Article II describes the manifestation of God
+through works and through revelation; Article III lists the Biblical books included in the
+Reformed canon; Article IV states that the choice of the books included in the Biblical
+canon is not founded on human agreement or on tradition, but on the authority of the
+Holy Ghost, which provides the discernment needed to distinguish canonical from non-
+canonical books.
+
+48 Cf. Campi, Confessio Gallicana, 25: “Pourtant nous condamnons les assemble´es
+de la Papaute´ […]” and Confession par les e´glises (Strasbourg), 51: “Sur tout nous
+
+Imprime´e de diffe´rentes manie`res
+
+65
+
+“reprouve´z” (“those who are reprobate”) found in the full Con-
+fession, was changed into the more nuanced expression “hypocri-
+tes, blasphemers of God, and criminals”, perhaps to show their
+French audience – high and lesser nobles as well as unpaid soldiers
+and exhausted taxpayers of the kingdom – that the Reformed mo-
+vement did care about civil order and was not into political sedi-
+tion as the much-detested Anabaptists were.49 At the same time,
+this hushed but decisive toning down of double-decree predesti-
+nation was mirrored in the Latin edition, probably aimed at ag-
+gregating and maximising intra-Protestant support at an interna-
+tional level.50 The expunction of the word “sacramentaires” – a
+derogative term for Zwinglians – from the text of the abridged
+editions also spoke to these concerns.51
+
+Broadly speaking, the audience of the abridged editions of the
+Gallican Confession could virtually extend to all those in the king-
+dom who could read French, or at least understand a relatively
+simple political argument – i.e. Chandieu’s preface – had they nee-
+ded somebody else to read a text out loud. This mostly non-erudite
+audience certainly did not care much about subtleties for educated
+humanists and theologians. Keeping long and complicated articles
+in the text – such as Article III, expanding on the books included in
+the Reformed Biblical canon – would have overloaded this pam-
+
+detestons les synagogues de la Papaute´ […]”. See also Confessio fidei communi eccle-
+siarum, 46: “In primis Papisticas synagogas abominamur […].”
+
+49 Cf. Campi, Confessio Gallicana, 25: “Ne´antmoins nous ne nions point que parmi
+les fide`les il n’y ait des hypocrites et re´prouve´z […]” and Confession par les e´glises
+(Strasbourg), 51: “Neantmoins nous ne nions point que parmi les fideles il n’y ait des
+hypocrites ou des contempteurs de Dieu, ou gens mal-vivans […].” See also Confessio
+fidei communi ecclesiarum, 45: “[…] non inficiamur quin piis admixti sint hypocritae,
+profani, flagitiosique homines […]”. The Guises were not responsible for the financial
+disarray of the kingdom in the aftermath of the Habsburg-Valois wars, but the financial
+measures they took caused widespread discontent. The intended audience of the
+abridged versions of the Gallican Confession was not necessarily sympathetic to the
+Reformation, but certainly had its reasons to object to the Guises’ rule.
+
+50 I.e. the German-speaking cantons of the Swiss Confederation – especially Bern
+and Zurich – as well as the German Lutheran princes who had supported the Reformed
+cause in the aftermath of the rue Saint-Jacques affair in late 1557.
+
+51 Cf. Campi, Confessio Gallicana, 28f.: “Et reiettons les fantastiques et sacramen-
+taires qui ne veulent recevoir telz signes et marques […]” and Confession par les e´glises
+(Strasbourg), 60: “Et reiettons les fantastiques, qui ne veulent recevoir tels signes &
+marques […].” See also Confessio fidei communi ecclesiarum, 54: “Quo nomine fana-
+ticos reciimus, qui eiusmodi signa nota´sque aspernantur […].”
+
+66
+
+Gianmarco Braghi
+
+phlet with politically indifferent and lacklustre details. On top of
+this, these complex articles appeared at the very beginning of the
+Confession. Readers might as well have stopped reading altoge-
+ther, thus nullifying the immediate purpose of this publication.
+May 1560 was not the time for theological subtleties, but an oc-
+casion to put an end to what was widely perceived as the ‘tyranny’
+of the Guises.
+
+The removal or condensation of some articles, as well as the
+scrupulous and astute changes in the tone of some expressions
+corroborates the hypothesis that this edition of the Confession was
+conceived as a pivot for the ‘polyptych’ of pamphlets printed in
+spring and summer 1560 in Strasbourg and elsewhere, such as the
+Epistre au Tigre, the Histoire du tumulte d’Amboyse, and others.
+This operation reveals the polemical (as opposed to strictly reli-
+gious) need to print a compact version of the Gallican Confession
+in the vernacular at this crucial political stage. I have analysed
+elsewhere Chandieu’s complex preface to these editions:52 how-
+ever, its clear anti-Guise features are further signs of the sheer
+political expediency behind this crucial editorial choice.
+
+The printing of the ‘full’ Gallican Confession
+
+The first appearance of a reference to the full Gallican Confession
+in the proceedings of the synods of the French Reformed churches
+is found in the decisions of the provincial synod of Berry, held in
+Sancerre from 21 to 23 April 1561. Here the delegates raised
+doubts about the clarity of the Confession’s definition of the Bi-
+blical canon, and proposed to specify which chapters of the book
+of Esther and of the book of Daniel were deemed canonical:
+
+“On the third article of the Confession, which has been read, it is advised
+that it would be good to specify what is [deemed canonical] of Esther: that
+is, the first ten chapters of Esther instead of the words ‘book of Esther’, and
+the first twelve chapters of Daniel excluding the Canticle of the Children
+instead of the word ‘Daniel’.”53
+
+52 Braghi, The Evolving Character, Chapter 3.
+53 Synode premier provincial de la province de Berry tenu a` Sancerre, in: Benedict
+and Fornerod, L’organisation, 48: “Sur le troisiesme article de la Confession leu, est
+
+Imprime´e de diffe´rentes manie`res
+
+67
+
+As the abridged editions of the Gallican Confession did not include
+the Reformed canon of the Bible, it is clear that the participants in
+the synod of Berry had the full Gallican Confession under their
+eyes. This might have been a handwritten copy: however, we are
+aware that the earliest dated edition of the Gallican Confession in
+40 articles (i.e. the Confession par les Franc¸ois) appeared in 1561.
+But when exactly in 1561 did this edition appear? In other words,
+what were the dealings of the leading Reformed pastors and acti-
+vists between November 1560 (synod of Guyenne) and April 1561
+(synod of Berry)? Why did they discard the abridged editions – as
+we will see, along with Chandieu’s preface – and decide to produce
+and disseminate copies of the full Gallican Confession?
+
+The national synod of Poitiers was held on 10 March 1561.54
+Although the proceedings do not include any official decision to
+print the full Gallican Confession, the synod might have entrusted
+this task to a group of pastors and activists in a more informal
+way. The ministers assembled in Poitiers asked the congregations
+of Paris, Orle´ans, and Rouen to write a declaration against the
+decrees of the “Papist council” of Trent to proclaim the nullity of
+its decisions. This declaration could assume the form either of a
+printed book or of a speech in the presence of the king. It could be
+prepared “in the manner that [the congregations] will find [most]
+suitable”. Article XXX commanded that the Gallican Confession
+be offered to the king as soon as the provincial delegates (the de´-
+pute´s) of the Reformed churches arrived at court in the following
+weeks.55 Other sources suggest that the general synod’s delibera-
+tion was executed by provincial synods.56
+
+advise´ qu’il sera bon mectre et speciffier ce qui est receu de Ester, sc¸avoir les dix
+premiers chapitres de Ester au lieu de au motz libvres d’Esther, les douze premiers
+chappitres de Danyel, horsmis le Canticque des enffans, au lieu de au motz Danyel”.
+The Canticle of the Three Children, also known as the Song of the Three Youths and the
+Song of the Three Holy Children, is found in Daniel 3, 22–90 in Roman Catholic Bibles
+as well as in the Orthodox and in the Septuagint versions of the Scriptures. This passage
+is considered non-canonical by the Anglican church and the Reformed churches.
+
+54 Aymon, vol. 1, 13: “Tenu […] le 10. de Mars 1560. avant Paˆques”; Quick, vol. 1,
+12: “Articles of the Second Synod held at Poictiers, the tenth Day of March, in the Year
+of our Lord One thousand five hundred and sixty, a little before Easter, and in the first
+Year of the Reign of Charles the Ninth”. The synod took place in 1561 according to the
+modern calendar.
+
+55 Aymon, vol. 1, 22; Quick, vol. 1, 20 (Article XXIX).
+
+68
+
+Gianmarco Braghi
+
+As an early–1561 Instruction pour le faict de la religion repor-
+ted, a “general council” of the Gallican church was one of the
+official Reformed requests forwarded to the crown by its de´pute´s
+at court. Franc¸ois II promised to summon one, even if he died
+shortly afterwards.57 The chronological proximity of this request
+and the decision by the Poitiers national synod to produce a de-
+claration against the decisions of Trent is not accidental. The pro-
+ceedings of the Poitiers synod suggest that an edition of the full
+Gallican Confession, including especially the Reformed Biblical ca-
+non, could have been prepared with a view to the upcoming col-
+loquy of Poissy (September 1561) – in which delegates of the
+French Reformed churches were invited to participate – as well as
+to the e´tats de Pontoise (August 1561).58
+
+Unlikely as it may have been, a settlement between the two sides
+of the confessional divide reached within the Gallican church
+would cause a total break with Rome and the creation of a ‘pa-
+triarchate of Gaul’, following the model that had been inaugurated
+by Henry VIII of England a few years before. The memory of the
+1551 ‘Gallican crisis’ was still burning in the papal chambers,59
+
+56 As found for example in the proceedings of the provincial synod of Haut-Lan-
+guedoc, Quercy, and Rouergue held from 8 to 11 April 1561. Cf. Sinode tenu a Mon-
+taulban les huictiesme, neufiesme, dixiesme et unziesme jours d’apvril an mil cinq cens
+soixante ung…, in: Benedict and Fornerod, L’organisation, 33f.: “1. En premier, sur
+l’article du Sinode general de Poytiers pour envoyer aux Estatz, a este´ ordonne´ que deux
+seront deputez […], la charge desquels sera de porter la Confession de foy, procuration
+et requeste, signees tant du presidant au nom du Sinode que de tous les acistans [sic] en
+icelluy au nom de leurs Eglises, pour le tout presenter ausdicts Estatz devant la majeste´
+du Roy avec tous les autres depputez, selon l’article dudict Sinode de Poytiers.”
+
+57 Instruction pour le faict de la religion, in: Benedict and Fornerod, L’organisation,
+
+31, esp. articles XXXIV, XXXV, and XXXVI.
+
+58 On the colloquy of Poissy, Alain Dufour, Le colloque de Poissy, in: Me´langes
+d’histoire du XVIe sie`cle offerts a` Henri Meylan, Geneva 1970, 127–137; Donald G.
+Nugent, Ecumenism in the Age of the Reformation: The Colloquy of Poissy, Cambridge
+(MA) 1974; On Pontoise, Noe¨l Valois, Les e´tats de Pontoise (aouˆ t 1561), in: Revue de
+l’histoire de l’E´ glise de France 116 (1943), 237–256.
+
+59 Jouanna et al., Histoire et dictionnaire, 85. On Rome’s stance towards the calling
+of the colloquy, Joseph Roserot de Melin, E´ tudes sur les relations du Saint-Sie`ge et
+l’E´ glise de France dans la seconde moitie´ du XVIe sie`cle. I: Rome et Poissy, in: Me´langes
+d’arche´ologie et d’histoire de l’E´ cole franc¸aise de Rome 39 (1921), 47–151; Nugent,
+Ecumenism, passim; Alain Tallon, La France et le concile de Trente (1518–1563), Rome
+2000 (Bibliothe`que des E´ coles franc¸aises d’Athe`nes et de Rome 295), Chapter 9; Henry
+O. Evennett, The Cardinal of Lorraine and the Council of Trent: A Study in the Coun-
+
+Imprime´e de diffe´rentes manie`res
+
+69
+
+and Pius IV’s decision to resume the works of the Council of Trent
+had a strong political significance in the light of Catherine de Me-
+dici’s and chancellor Michel de L’Hospital’s provisional concilia-
+tory stance towards heresy.60 From the point of view of the Refor-
+med pastorate, no theological reconciliation with the Gallican bi-
+shops was possible, and Poissy was merely seen as a public occa-
+sion to convince the king and court of the orthodoxy of their doc-
+trine.
+
+The publication of the full Gallican Confession in 1561 respon-
+ded again to political rather than religious imperatives. Restoring
+the list of the canonical books of the Bible in the printed Confes-
+sion was another key move through which the Reformed leading
+pastors implicitly declared their lack of willingness to compromise
+on doctrine. At the same time as they narrowed down the likeli-
+hood of a doctrinal arrangement with Rome, these leading pastors
+also distanced themselves as clearly as possible from the transver-
+sal party of the so-called moyenneurs, a loose coalition of irenicists
+who sought reconciliation between the Gallican church and the
+Reformed church.61
+
+ter-Reformation, Cambridge 1930. The studies by Lucien Romier, La crise gallicane de
+1551, in: Revue Historique 108/2 (1911), 225–250; La crise gallicane de 1551 (Suite et
+fin), in: Revue Historique 109/1 (1912), 27–55 are still very useful.
+
+60 On de L’Hospital, see among others Marie Seong-Hak Kim, ‘Dieu nous garde de
+la messe du chancellier’: The Religious Belief and Political Opinion of Michel de L’Hoˆ -
+pital, in: Sixteenth Century Journal 24/3 (1993), 595–620; Denis Crouzet, La sagesse et
+le malheur. Michel de L’Hospital, chancelier de France, Seyssel 1998; Crouzet, Michel
+de l’Hospital et l’ide´e de paix, in: Krieg und Frieden im Übergang vom Mittelalter zur
+Neuzeit. Theorie – Praxis – Bilder / Guerre et paix du Moyen Aˆ ge aux temps modernes.
+– The´orie – Pratiques – Repre´sentations, eds. Heinz Duchhardt and Patrice Veit, Mainz
+2000 (Veröffentlichungen des Instituts für Europäische Geschichte Mainz = Beihefte
+Universalgeschichte 52), 103–118; Loris Petris, La plume et la tribune. Michel de
+L’Hospital et ses discours, 1559–1562, Geneva 2002 (Travaux d’Humanisme et Renais-
+sance 360).
+
+61 On the moyenneurs, see Mario Turchetti, Concordia o tolleranza? Franc¸ois Bau-
+duin (1520–1573) e i ‘Moyenneurs’, Milan 1984; Mario Turchetti, Religious Concord
+and Political Tolerance in Sixteenth- and Seventeenth-Century France, in: Sixteenth
+Century Journal 22/1 (1991), 15–25. On the moderate stance of the cardinal of Lor-
+raine at Poissy, see Stuart Carroll, The Compromise of Charles Cardinal de Lorraine:
+New Evidence, in: Journal of Ecclesiastical History 54/3 (2003), 469–483. Donald G.
+Nugent, The Cardinal of Lorraine and the Colloquy of Poissy, in: Historical Journal
+12/4 (1969), 596–605. Nugent’s ideas were criticised by Nicola M. Sutherland, The
+Cardinal of Lorraine and the Colloque of Poissy, 1561: A Reassessment, in: Nicola M.
+Sutherland, Princes, Politics and Religion 1547–1589, London 1984, 113–137.
+
+70
+
+Gianmarco Braghi
+
+Conclusion
+
+It is hardly surprising that in the 1561 edition of the full Confes-
+sion Chandieu’s quarrelsome preface was replaced by a short, well-
+mannered supplication addressed to the king. This piece of writing
+closely recalled the style of the short preamble of the epistle-like
+confession Au Roy, the Gallican Confession’s 1557 archetype.62
+Nevertheless, it is key to underline that this preface to the 1561
+edition of the full Confession – curiously, also titled Au Roy – was
+written early in 1560. This succinct foreword had remained un-
+published before this 1561 edition of the Confession was printed.63
+This is a further sign of the shape-shifting nature of this twofold
+and complex document, composed of a preface that was promptly
+adapted to rapidly-fluctuating circumstances and of a list of arti-
+cles of faith that was also offered to its shifting intended audiences
+in slightly different forms which were fine-tuned to the rhetorical
+and theological needs of precise political conjunctures. For exam-
+ple, an edition of the Confession in 40 articles but with Chan-
+dieu’s preface – a combination unseen before – was published in
+1565.64
+
+As we have seen, the tone of both the preface and the Confession
+was also carefully cherry-picked depending on its audience. The
+preface of the 1561 full Confession – addressed to the person of
+the king – was short, concise, and its tenor was ultimately apolo-
+getical and supplicatory; on the other hand, Chandieu’s preface –
+addressed to “all those who would listen to the poor faithful who
+are unfairly defamed and persecuted in the kingdom of France”65 –
+
+62 Confession par les Franc¸ois, fols. A2r–A4r. On Au Roy, see Braghi, Between Paris
+
+and Geneva, passim.
+
+63 Confession par les Franc¸ois, fol. A2r: “[…] maintenant il nous fait cet heur de
+veoir qu’avez la volonte´ de connoitre le merite de nostre cause, suyvant l’Edit dernier
+donne´ a` Amboise au moys de Mars, l’An present 1559 [but 1560; emphasis mine] qu’il
+a pleu a` vostre Maieste´ faire publier. Qui est la cause qu’a` present nous osons ouvrir la
+bouche: laquelle nous a este´ parcidevant fermee par l’iniustice & violence de plusieurs
+voz officiers, estans plustost incitez de haine contre nous, que de bonne affection a`
+vostre service.”
+
+64 Jahr, Studien, 97, item no. 63. This copy is a par les Franc¸ois (as opposed to par
+
+les Eglises) but includes Chandieu’s preface.
+
+65 Confession par les Eglises, 3: “[…] pauvres fideles qui sont iniustement diffamez &
+affligez par le royaume de France […] a tous ceux qui leur voudront prester audience.”
+
+Imprime´e de diffe´rentes manie`res
+
+71
+
+was dripping with pugnacious rhetoric and anti-Guise to´ poi. Co-
+pies of the Confession with Chandieu’s preface were also reprinted
+in subsequent years when need arose.66
+
+The shift in the intended audience of the leading pastors and lay
+activists of the French Reformed movement from a very restricted
+and ‘internal’ one to the kingdom of France as a whole took place
+in a dense and tense phase demanding clear political goals and
+coherent steps to pursue them. Key political measures were put
+into place in order to achieve support from the crown, the princes
+of the royal blood, and in general from broad segments of the
+French population possibly sympathetic to the Reformed cause.
+Thanks to their clever attempts to influence the political situation
+of the kingdom, the clerical and lay leaders of the movement even-
+tually managed to obtain a policy of provisional tolerance from the
+crown – encapsulated by the so-called e´dit de janvier in 1562 – and
+made their voice heard in the highest political assemblies in the
+kingdom. The adaptation of the Gallican Confession in different
+printed editions was crucial to their endeavours and their pam-
+phleteering campaigns of these years, but ended up engendering
+confusion in the long term as to whether both versions were ac-
+ceptable in terms of doctrine as well as practical use. The national
+synod of La Rochelle (1571) put an end to these ambiguities by
+officialising the version in 40 articles as promulgated in Paris in
+1559.
+
+Gianmarco Braghi, Ph.D. (Collegium Trinitatis iuxta Dublin). “Delio Cantimori–Re-
+gione Emilia-Romagna” Fellow, Fondazione per le Scienze Religiose “Giovanni
+XXIII”, Bologna.
+
+Abstract: This paper analyses the first printed editions of the Gallican Confession
+(agreed upon at the synod of Paris in May 1559) and formulates a hypothesis on the
+context in which they were published and disseminated. Analysis is based on abridged
+editions of the Confession in Latin and in French, printed in Geneva and Strasbourg,
+and featuring a preface authored by pastor Antoine de Chandieu. Although the minis-
+ters assembled in Paris in 1559 promulgated a confession in 40 articles, only 35 articles
+were included in these editions (which are dated 1559, but were ostensibly printed in
+
+See also Confessio fidei communi ecclesiarum, 3: “Calamitosi fideles, qui praeter me-
+ritum in regno Galliae contumeliis iniuriı´sque afficiuntur […] omnibus qui patientes
+aures accommodare voluerint.”
+
+66 Cf. Jahr, Studien, 95, item no. 54 (1562); 96, items no. 57–59 (1563); 97, item
+
+no. 62 (1564).
+
+72
+
+Gianmarco Braghi
+
+the first half of 1560). These editions in 35 articles were abridged versions of the ‘full’
+Gallican Confession, and this abridgment responded to polemical purposes and political
+expediency connected to the failure of the conspiracy of Amboise. This paper also offers
+some remarks upon the decision to abandon these 35-articles editions in 1561, probably
+with a view to the calling of the e´tats de Pontoise and the colloquy of Poissy.
+
+Keywords: Gallican Confession; French Reformation; Calvinism; Huguenots; Stras-
+bourg; Geneva; Antoine de Chandieu; John Calvin; Nicolas des Gallars; Franc¸ois Hot-
+man
+
+

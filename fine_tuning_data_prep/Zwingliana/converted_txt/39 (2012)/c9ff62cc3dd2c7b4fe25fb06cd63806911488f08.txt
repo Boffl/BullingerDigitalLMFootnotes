@@ -1,0 +1,1884 @@
+ISSN 0254–4407 – Zwingliana 39 (2012), 93–129
+
+»Von dem Amt eines
+verordneten Decani«
+
+Einblicke in die Geschichte des
+
+Dekanenamtes in der Evangelisch-
+
+reformierten Landeskirche des
+
+Kantons Zürich1
+
+Michael Mente
+
+1. Einleitung
+
+Zum Erreichen der obrigkeitlichen und reformatorischen Ziele, der
+Durchsetzung der kirchlichen Disziplin und Einheitlichkeit im gan-
+zen Zürcher Herrschaftsgebiet wurde zunächst dem Amt und der
+Stellung des Pfarrers eine wesentliche Schlüsselrolle zugemessen.
+Tatsächlich übte der Pfarrer als verbi divini minister2 von der Re-
+formation bis zum Ende des Ancien Re´gime nicht bloß als Diener
+am Wort ein kirchliches Amt aus, sondern war gleichzeitig ein
+
+1 Für die Realisierung dieses Aufsatzes und wertvolle Hinweise danke ich Dr. Rein-
+hard Bodenmann, Pfr. Alfred Frühauf, Dr. Doris Klee, Dr. Christian Moser, Dr. Martin
+Röhl, Prof. Dr. Peter Opitz und Pfr. Rudolf Wäffler.
+
+2 So lautet auch heute der Titel von Theologinnen (»ministra«) und Theologen, die
+durch den Kirchenrat nach ihrem Studium und ihrer Ausbildung die Ordination emp-
+fangen. Kirchenordnung der Evanglisch-reformierten Landeskirche des Kantons Zürich
+vom 17. März 2009 [KO] (Zürcher Loseblattsammlung 181.10), Art. 111. – Die Kir-
+chenordnung ist auch elektronisch greifbar unter http://www.zh.ref.ch/handlungsfel-
+der/gl/recht/gesetze-und-erlasse/rechtsquellen-1/view.
+
+94
+
+Michael Mente
+
+staatlicher Beamter.3 Es lag somit im Interesse der Zürcher Kir-
+chenführung und der Obrigkeit, den Klerus in eine disziplinierte
+Körperschaft zu verwandeln, die der neuen Ordnung diente. Hul-
+drych Zwingli erachtete dafür zwei Aspekte als grundlegend: Bil-
+dung und Aufsicht. Zur Heranziehung einer gebildeten, der Aus-
+legung und Predigt des Evangeliums fähigen Pfarrschaft gründeten
+Zwingli und besonders sein Nachfolger Heinrich Bullinger Insti-
+tutionen, die die Basis für die höhere Bildung von künftigen Pfar-
+rern wurden. Und: »Um eine effektive Kirchenaufsicht zu gewähr-
+leisten, übernahm Zwingli eine alte Struktur der Diözese Konstanz,
+die Provinzialsynode. Die Synode tagte zum ersten Mal am 24.
+April 1528 und wurde zu einem Fundament der zwinglianischen
+Kirche.«4 Bullinger schließlich baute die zweimal jährlich tagende
+Versammlung, unter dem Doppelpräsidium des Großmünsterpfar-
+rers und des Bürgermeisters, zu einem bedeutenden Leitungsin-
+strument aus.5 Das Gremium sollte nicht nur Aufsicht ausüben:
+Die Synode sollte den Pfarrern vor Ort den obrigkeitlichen Rück-
+halt aus der Stadt verschaffen, damit sie ihre Funktion als eher
+Außenstehende in den Gemeinden erfolgreich ausüben konnten.
+
+3 »Er verlas in der Kirche die obrigkeitlichen Mandate, er war zuständig für die
+Einhaltung der Ehesatzungen, er und die dafür rekrutierten so genannten Ehegaumer
+wachten über die Einhaltung der Sittenzucht im Dorf und klärten Ehesachen, er rügte
+die Saumseligen und Ungehorsamen, ja er war in hartnäckigen Fällen zur Anzeige an
+den Obervogt verpflichtet oder hatte sogar Verhaftungen vorzunehmen. Der Pfarrer war
+effektiv der einzige obrigkeitliche Amtsträger im Dorf. Sein nichtgeistlicher Partner, der
+Untervogt, stammte aus der Dorfehrbarkeit, wurde von den Dorfgenossen gewählt und
+war für die Obrigkeit nicht gleichermaßen verfügbar wie der wirtschaftlich abhängige
+und in die Dorfgemeinschaft oft nur schlecht integrierte Pfarrer.« Kurt Maeder, Bullin-
+ger und die Synode, in: Ulrich Gäbler, Endre Zsindely (Hg.), Bullinger-Tagung 1975.
+Vorträge, gehalten aus Anlass von Heinrich Bullingers 400. Todestag, Zürich 1977, 72f.
+– Zu den erwähnten »Ehegaumern« vgl. Schweizerisches Idiotikon: Wörterbuch der
+schweizerdeutschen Sprache, Frauenfeld 1881ff. [SI], Bd. 2, Sp. 304f.; Wilhelm Bal-
+tischweiler, Die Institutionen der evangelisch-reformierten Landeskirche des Kantons
+Zürich in ihrer geschichtlichen Entwicklung, Diss. Zürich 1904, 20–43, bes. 24f.
+
+4 Bruce Gordon, Bullinger und die Pfarrerschaft, in: Emidio Campi et al. (Hg.), Der
+Nachfolger: Heinrich Bullinger (1504–1575). Katalog zur Ausstellung im Grossmünster
+Zürich 2004, Zürich 2004.
+
+5 Dazu unter dem Aspekt der Disziplinierung interessant Bruce Gordon, Clerical
+Discipline and the Rural Reformation: The Synod in Zürich, 1532–1580, Bern et al.
+1992 (Zürcher Beiträge zur Reformationsgeschichte 16), wo auch die theologischen und
+historischen Grundlagen der Synode aufgezeigt werden; Pamela Biel, Doorkeepers at
+the House of Righteousness: Heinrich Bullinger and the Zurich Clergy, 1535–1575,
+Bern 1991 (Zürcher Beiträge zur Reformationsgeschichte 15).
+
+»Von dem Amt eines verordneten Decani«
+
+95
+
+Die Synode übertrug ihrerseits den von Bullinger (wieder) einge-
+führten Dekanen die Aufgaben, Kompetenzen und die Verantwor-
+tung und damit die Autorität, um in ihren Kapiteln im Auftrag der
+Synode mit Blick auf den kirchlichen und obrigkeitlichen Gesamt-
+auftrag Leitung ausüben zu können. Denn auch der Dekan braucht
+Rückhalt und klare Weisungen, befand er sich doch wie heute in
+einer Doppelrolle: Einerseits soll er als Vorsteher eines Kapitels die
+Pfarrpersonen leiten und anweisen, andererseits ist er im Grunde
+genommen einer von ihnen und war der Synode nicht nur berichts-
+pflichtig und wurde von ihr genauso beurteilt (das heißt »zen-
+siert«). Die Geschichte der Pfarrschaft im Kanton Zürich ist damit
+zugleich diejenige der Dekane, denn der Dekan gilt in seinen Funk-
+tionen zwar als primus inter pares, ist aber auch Pfarrer. Von der
+Obrigkeit war er dementsprechend angehalten, als Vorbild für sei-
+ne Kollegen als Erster den Vorschriften und Ordnungen gemäß sein
+Amt und seine Lebensführung zu gestalten.6
+
+Wie das reformatorische Leitungsgefüge um das Dekanenamt im
+Einzelnen aussah und wie sich dies bis zur heutigen Landeskirche
+entwickelte, wird in den folgenden Abschnitten anhand einiger
+Schlaglichter dargestellt: Woher kommen also die Dekane nach re-
+formiertem Verständnis im Kanton Zürich, was sind die inhaltli-
+chen Grundlagen (»Stellenprofil«, Voraussetzungen, Aufgaben,
+Kompetenzen, Verantwortung) und wie wurde Leitung durch und
+über sie gestaltet?
+
+Die Frage ist nicht nur von historischem Interesse – eine Dar-
+stellung zur Geschichte dieses Amtes fehlt bis anhin –, sondern hat
+auch einen aktuellen Bezug: Mit der 2006 beschlossenen Stärkung
+des Dekanenamtes knüpft die Zürcher Landeskirche in verschie-
+
+6 Bevor die Pfarrer in der Synode »zensiert«, d.h. beurteilt wurden, hatte der Dekan
+in den Ausstand zu treten, um seinerseits beurteilt zu werden. Vgl. z.B. die explizit
+erwähnte Beispielfunktion der Dekane in: Erneuerte und vermehrte Predicanten-Ord-
+nung für die Diener der Kirchen, in der Stadt und auf der Landschaft Zürich. Samt
+beygefügter Stillstands-, Censur- und Druker-Ordnung, Zürich: Stadtkanzlei, 1758
+[Prädikantenordnung 1758], 60f. – Der Abschnitt zum Dekanenamt aus dieser Prädi-
+kantenordnung ist diesem Aufsatz als Beispiel einer umfangreichen Regelung aus dem
+18. Jahrhundert als Beilage (Nr. 1) angefügt. – In einem Brief vom 12. März 1545 an die
+Pfarrer von Neuenburg erläutert Heinrich Bullinger den Ablauf der Zensur und be-
+gründet diese aufschlussreich. Das Schreiben ist ediert in: Ioannis Calvini opera quae
+supersunt omnia, hg. von Wilhelm Braun et al., 59 Bde., Braunschweig/Berlin
+1863–1900 (Corpus Reformatorum 29–87) [CO], Bd. 12, Sp. 45f. (Nr. 622).
+
+96
+
+Michael Mente
+
+denen Punkten an traditionelle Dimensionen an. Der Kirchenrat
+überträgt den Dekaninnen und Dekanen (wieder) mehr Führungs-
+verantwortung, nachdem die Moderne in diesem Amt eher den
+Schwerpunkt in der Seelsorge denn in der Führung sah und die
+Dekane seit dem 19. Jahrhundert schrittweise ihrer Leitungsauf-
+gaben enthoben worden waren.
+
+2. Institutionelle und reformatorische Grundlagen
+
+Das Dekanenamt kann nicht gänzlich isoliert von den anderen In-
+stitutionen der reformierten Zürcher Kirche7 betrachtet werden.
+Diese sollen aber nur so weit thematisiert werden, als es dem Ver-
+ständnis der spezifischen Funktion und Stellung des Zürcher Dä-
+che8 gereicht. Einen guten institutionengeschichtlichen Überblick
+und damit im Besonderen auch Einblicke in das Dekanenamt ver-
+schafft bis anhin einzig eine ältere Darstellung von Gotthard
+Schmid aus dem Jahr 1954 in der Behandlung der Bezirksorgane.9
+Weiteres erfährt man von Aufgaben und Funktionen der Dekanin-
+
+7 »Obwohl die Kirche in Zürich schon vor der Reformation wesentlich vom Rat
+und von Zürcher Bürgern geprägt war, ist die Bezeichnung ›Zürcher Kirche‹ von dem
+Zeitpunkt an gerechtfertigt, als die römische Kirche ausgeschaltet und der Zürcher Rat
+an deren Stelle getreten war. Zwischen 1523 und 1525 erfolgten die fundamentalen
+Entwicklungen: Nicht nur die katholische Kirche musste weichen, sondern man begann
+auch, neue Strukturen zu schaffen: Der Rat bestimmte über die Kirche, die Messe wurde
+durch den Predigt- und Abendmahlgottesdienst ersetzt, Huldrych Zwingli verfasste die
+ersten grundlegenden Schriften. In der Folgezeit ging es darum, diese Kirche in Lehre
+und Organisation zu festigen.« Heinzpeter Stucki, Das 16. Jahrhundert, in: Geschichte
+des Kantons Zürich, Bd. 2, Zürich 1996, 172–281, hier 231. – Zum Begriff der Lan-
+deskirche vgl. Christoph Winzeler, Landeskirchen,
+in: Historisches Lexikon der
+Schweiz, Basel 2002ff. [HLS], Bd. 7, 580f.
+
+8 Zürichdeutsch für Dekan, vgl. SI 12, 203f.; eine weibliche Form ist im Dialekt
+nicht belegt, zumal der Dialektausdruck ohnehin durch das schriftsprachliche Dekan
+bzw. dann eben Dekanin verdrängt wurde. – Etymologisch leitet sich der Begriff aus der
+Militärsprache ab (der Anführer von zehn Soldaten), wurde dann in der benediktini-
+schen Klosterordnung übernommen, aber auch in weltlichen Institutionen verwendet
+(z.B. als Vorsteher einer universitären Fakultät). Vgl. Deutsches Wörterbuch von Jacob
+und Wilhelm Grimm, 16 Bde. in 32 Teilbänden, Leipzig 1854–1961, Bd. 2, Sp. 880
+(Dechant).
+
+9 Gotthard Schmid, Die Evangelisch-reformierte Landeskirche des Kantons Zürich:
+Eine Kirchenkunde für unsere Gemeindeglieder, Zürich 1954, 213–216 (Abschnitt
+»Pfarrkapitel und Bezirkskirchenpflege«).
+
+»Von dem Amt eines verordneten Decani«
+
+97
+
+nen und Dekane nur aus normativen Texten, zum Beispiel Kirchen-
+und Prädikantenordnungen10, oder allenfalls indirekt über die ver-
+schiedenen reformationsgeschichtlichen Untersuchungen, die sich
+in irgendeiner Form mit der Synode, den Kapiteln oder der Pfarr-
+schaft an sich beschäftigen.11
+
+Zweifellos war aber die Schaffung des Amtes 1532 unter dem
+Reformator Heinrich Bullinger ein wichtiges Instrument zur Aus-
+übung von Leitung in der Kirche und Führung der Pfarrschaft vor
+Ort.
+
+Die Existenz der Dekaninnen und Dekane als Vorstehende der
+Kapitel ist eng verbunden mit derjenigen von Bezirken. Die Eintei-
+lung eines kirchlichen Gebietes in Bezirke und damit Dekanate
+schließt sich an die katholische Tradition an, die das Gebiet Zü-
+richs in fünf Dekanate eingeteilt hatte.12 Heinrich Bullinger ordnete
+mit der nachfolgend erwähnten Synodalordnung von 1532 die
+Pfarrschaft, genauer die »stationierten Geistlichen« in den Kirch-
+
+10 Bis ins 19. Jahrhundert umfasst der Begriff »Kirchenordnung« eine Vielzahl von
+Rechtsdokumenten, die zwar unter der Mitwirkung der kirchlichen Instanzen entstan-
+den, aber durch die staatliche Obrigkeit erlassen worden sind: »Den Gang der Synode
+ordnen Synodalordnungen (1550, 1580), den Dienst der Pfarrer regeln die ›Prädikan-
+tenordnungen‹ (1532, 1628, 1679, 1703, 1711, 1758 und 1803), Aufgaben und Pflich-
+ten der kirchlichen Gemeindebehörden sind in den ›Stillstandsordnungen‹ niedergelegt
+(1656, 1684, 1711, 1758, 1803 und 1810).« Schmid, Landeskirche, 272. – Kritisch
+kommentiert liegen die Dokumente des reformierten Zürichs vor in: Zürcher Kirchen-
+ordnungen 1525–1675, hg. von Emidio Campi und Philipp Wälchli, 2 Bde., Zürich
+2011 [ZKO]. – Ein kurzer Abriss zur Bedeutung des staatlichen Kirchenrechts mit den
+Stationen der die Kirchen betreffende Gesetzgebung im Kanton: Ruedi Reich, Revision
+der Kirchenordnung – warum und wozu?, in: Die Kirche und ihre Ordnung, hg. von Jan
+Bauke und Matthias Krieg, Zürich 2003 (denkMal 4), 5–14; Felix Furrer, Das Verhält-
+nis von Kirche und Staat von damals bis heute, überarbeitet und aktualisiert vom Kirch-
+lichen Informationsdienst der evang.-ref. Landeskirche des Kantons Zürich, Zürich
+2003; Adrian Loretan (Hg.), Kirche – Staat im Umbruch, neuere Entwicklungen im
+Verhältnis von Kirchen und anderen Religionsgemeinschaften zum Staat, Zürich 1995;
+Alfred Schindler, Kirche und Staat: Bindung – Trennung – Partnerschaft, Zürich 1994;
+Schmid, Landeskirche, 269–277; vgl. auch Eduard Rübel, Kirchengesetz und Kirchen-
+ordnung der Zürcher Landeskirche: Einführung und Texte. Kurzkommentar zum Kir-
+chengesetz, Zürich 21983, bes. 3–15; eine alte Darstellung mit Quellenmaterial: Johann
+Jakob Wirz, Historische Darstellung der urkundlichen Verordnungen, welche die Ge-
+schichte des Kirchen- und Schulwesens in Zürich betreffen, 2 Bde., Zürich 1793.
+
+11 Zur Synode vgl. etwa: Bruce Gordon, Clerical Discipline; Schmid, Landeskirche,
+
+220–228.
+
+12 Zürich, Bremgarten, Winterthur, Wetzikon und Regensberg. Baltischweiler, In-
+
+stitutionen, 123f.
+
+98
+
+Michael Mente
+
+gemeinden acht Kapiteln zu, wobei die Stadt Zürich bis 1803 kei-
+nen eigenen Dekan stellte.13 Dass sich die reformierten Kapitel im
+Kantonsgebiet an die politischen Bezirke anpassen, ist eine ver-
+gleichsweise jüngere Begebenheit des modernen Verfassungsstaates
+seit 1831.14 Für die Entwicklung der Kapitel bis auf den heutigen
+Tag – mit aktuell zwölf Bezirken und Kapiteln – sei auf die Lite-
+ratur verwiesen.15
+
+3. Die Prediger- und Synodalordnung von 1532
+
+Als Heinrich Bullinger am 9. Dezember 1531 nach dem für die
+reformierten Orte unglücklich ausgegangenen Zweiten Kappeler-
+krieg zum Nachfolger von Huldrych Zwingli gewählt wurde, war
+klar, dass die Vorherrschaft der Kirche in Zürich zu Ende gegangen
+war.16 Bullinger wusste, dass er der Kirche nur mit Hilfe der »staat-
+lichen«17 Obrigkeit eine gewisse Stärke erhalten bzw. Zwinglis
+Werk fortsetzen konnte. Während der ersten Monate seiner Amts-
+zeit war es Bullinger gelungen, als loyaler Partner der Obrigkeit
+deren Vertrauen zu gewinnen und somit die Beziehungen zwischen
+
+13 1532: Zürich, See, Freiamt, Stein, Winterthur, Elgg, Wetzikon, Regensberg. – Zur
+Bezirkseinteilung: Emanuel Dejung, Willy Wuhrmann, Zürcher Pfarrerbuch 1519–1952,
+Zürich 1953, 166–170. – Zur Synodalordnung vgl. unten Anm. 22.
+
+14 Die Kirchenordnung von 2009 vereinigt die bis anhin zwei kirchlichen Stadtbe-
+zirke (links und rechts der Limmat) Zürichs zu einem; nachdem dieser Beschluss 2011 in
+Kraft getreten ist, verfügt der so entstandene Bezirk Zürich aufgrund seiner Größe über
+zwei Dekane.
+
+15 Bis 1798 gehörten auch Kapitel jenseits der nachmaligen Kantonsgrenzen, in den
+Gemeinen Herrschaften der Alten Eidgenossenschaft, zur Zürcher Kirche (nach dem
+Landfrieden offiziell in der Prädikantenordnung von 1758). Vorübergehend bestand
+1695 bis 1708 auch ein sogenanntes Filialistenkapitel (Zollikon). Zeitweilig gab es
+zudem Kapitel, die sich auf Personen bezogen: die Expektanten (also die für den Pfarr-
+dienst verfügbaren jungen Theologen) und im Schuldienst stehende Theologen: Profes-
+soren und Lehrer. – Literatur oben Anm. 13 sowie Schmid, Landeskirche, 213–216;
+eine Karte der Kirchgemeinden in den einzelnen Kapiteln um 1550 in Gordon, Clerical
+Discipline, 107.
+
+16 Zur Reformation, Innen- und Außenpolitik, die Kirche zur Zeit der Reformation
+ein guter Überblick mit Literatur: Stucki, Das 16. Jahrhundert; Fritz Büsser, Wurzeln
+der Reformation in Zürich: Zum 500. Geburtstag des Reformators Huldrych Zwingli,
+Leiden 1985.
+
+17 Mit dem Begriff »staatlich« wird im Folgenden im Blick auf das Zürcher Terri-
+
+torium von einem »protostaatlichen« Verständnis ausgegangen.
+
+»Von dem Amt eines verordneten Decani«
+
+99
+
+politischer und kirchlicher Führungsspitze Zürich wieder auf eine
+trag- und handlungsfähige Basis zu stellen.«18 Bullinger hat ein syn-
+odales Kirchenordnungsmodell befürwortet, gleichzeitig selbst als
+Leiter der Synode und erster Pfarrer am Großmünster starke Füh-
+rung ausgeübt.19 Die Pfarrerschaft sollte nun von ihm direkt als
+kirchliches Oberhaupt beaufsichtigt werden. Bullinger wurde ge-
+genüber dem Zürcher Rat zum Sprecher der Kirche und zum Ge-
+sprächspartner der Obrigkeit. Die Synode wurde zum Hauptwerk-
+zeug seiner Autorität.
+
+Es wird als sein großes Verdienst angesehen, durch »seine poli-
+tisch realistische, kirchlich konsequente und taktisch bewegliche
+Haltung den Weg zu einem neuen und zukunftsweisenden Verhält-
+nis von Staat und Kirche geebnet zu haben.20 Obschon die Kirche
+in den Dienst des Staates trat, erwirkte Bullinger mit taktischer
+Umsichtigkeit die Selbständigkeit der Kirche in dogmatischer und
+disziplinarischer Hinsicht. So sicherte er mit der gegenüber der
+Obrigkeit erkämpften Predigtfreiheit, dem Vorschlagsrecht bei der
+Besetzung von Pfarrstellen und gesetzlicher Unabhängigkeit in in-
+neren Angelegenheiten der Kirche wieder eine gewisse Macht ge-
+genüber dem Staat.21
+
+Ausdruck dieser engen Zusammenarbeit zwischen Zürcher Ob-
+rigkeit und reformierter Kirche ist die Zürcher Prediger- und Syn-
+
+18 Maeder, Bullinger und die Synode, 72.
+19 Zu Bullinger vgl.: Emidio Campi et al. (Hg.), Der Nachfolger: Heinrich Bullinger
+(1504–1575). Katalog zur Ausstellung im Grossmünster Zürich 2004, hg. von Emidio
+Campi et al., Zürich 2004; Fritz Blanke, Heinrich Bullinger: Vater der reformierten
+Kirche, Zürich 1990; Fritz Büsser, Heinrich Bullinger (1504–1575): Leben, Werk und
+Wirkung, 2 Bde., Zürich 2004/2005; Peter Opitz, Heinrich Bullinger als Theologe: Eine
+Studie zu den »Dekaden«, Zürich 2004; Emidio Campi, Peter Opitz (Hg.), Heinrich
+Bullinger: Life – Thought – Influence, Zurich, Aug. 25–29, 2004. International Con-
+gress Heinrich Bullinger (1504–1575), 2 Bde., Zürich 2007 (Zürcher Beiträge zur Re-
+formationsgeschichte 24); Carl Pestalozzi, Heinrich Bullinger: Leben und ausgewählte
+Schriften, Elberfeld 1858 (Leben und ausgewählte Schriften der Väter und Begründer
+der reformierten Kirche 5). – Zur Ausgestaltung des Staatswesens bes. Hans Ulrich
+Bächtold, Heinrich Bullinger vor dem Rat: Zur Gestaltung und Verwaltung des Zürcher
+Staatswesens in den Jahren 1531–1575, Bern et al. 1982 (Zürcher Beiträge zur Refor-
+mationsgeschichte 12).
+
+20 Zum Zürcher Stadtstaat vgl. z.B. Thomas Weibel, Der zürcherische Stadtstaat, in:
+
+Geschichte des Kantons Zürich, Bd. 2, Zürich 1996, 16–65.
+
+21 Dazu vgl. u.a. Elsa Dollfus-Zodel, Bullingers Einfluss auf das zürcherische Staats-
+
+wesen von 1531–1575, Zürich 1921, bes. 16–21.
+
+100
+
+Michael Mente
+
+odalordnung vom 22. Oktober 1532, in welcher zum ersten Mal
+sichtbar das Dekanenamt in seiner reformierten Ausprägung im
+Zürcher Stadtstaat erscheint.22 Das Dokument wurde von Bullin-
+ger, mutmaßlich in Zusammenarbeit mit dem Pfarrer von St. Peter,
+Leo Jud23, vorgetragen, von der versammelten Pfarrschaft an der
+Herbstsynode 1532 beraten und gutgeheißen, anschließend von
+Bürgermeister und Räten der Stadt formell bestätigt und mit einem
+einleitenden Mandat gedruckt. Das Schriftstück darf somit, kraft
+seiner Materie und seines Inhalts, als besonders gehaltvolles Sym-
+bol für die gemeinsam von Kirche und Staat getragene Ordnung
+gelten.24
+
+Diese Ordnung »bildete nicht nur während der ganzen Amtszeit
+Bullingers (1531–1575), sondern bis zum Ende des Ancien Re´gime
+die verfassungsmässige Grundlage der Zürcher Kirche; einzelne ih-
+rer Bestimmungen wirken indes bis zum heutigen Tag nach.«25 Die
+Synodalordnung regelt neben der Synode schwergewichtig Amt
+
+22 Ediert in ZKO 1, 129–150, Nr. 59; zur Überlieferung vgl. Joachim Staedtke,
+Beschreibendes Verzeichnis der gedruckten Werke von Heinrich Bullinger, Zürich 1972
+(Heinrich Bullinger Werke I/1), Nr. 605–612; Literatur u.a. Bächtold, Heinrich Bullin-
+ger vor dem Rat, 29–35; Gordon, Clerical Discipline, 78–83.
+
+23 Zu Jud vgl. HLS 6, 827f. – Zur Frage der Verfasserschaft vgl. z.B. Maeder, Bul-
+
+linger und die Synode, 72.
+
+24 Seit der Frühen Neuzeit ist es in kirchlichen, später in weltlichen Institutionen, ein
+Bedürfnis geworden, zuerst vereinzelt, später systematischer, Pflichten und Aufgaben
+von Ämtern in unterschiedlicher Ausprägung zu verschriftlichen. Aber trotzdem hieß
+Aufschreiben noch längst nicht Verwalten; was neben normativ festgehaltenen Regelun-
+gen im Alltag geschah, welche Rolle jeweils ein Schriftstück oder eben doch die Münd-
+lichkeit gegenüber Texten dann in bestimmten Situationen tatsächlich einnahmen, stand
+noch einmal sprichwörtlich auf einem anderen Blatt. Denn frühneuzeitliches Schriftver-
+ständnis war ein anderes als heute, aufgeschrieben wurde zunächst vor allem in kon-
+fliktiven Zusammenhängen oder in bestimmten Bruchstellen sozialer Interaktion, die
+den Konsens der Beteiligten erforderten. Zudem: Neben der in Buchstaben getragenen
+Bedeutung ist oft allein schon die symbolische Bedeutung kraft des Vorhandenseins von
+Schriftstücken offensichtlich; der Inhalt ist dann eher zweitrangig. Vor der Verrechtli-
+chung spielen gerade bei den hier interessierenden Schriftstücken Dimensionen der Dis-
+ziplinierung und die Demonstration einer guten Ordnung eine wesentliche Rolle. – Zum
+symbolischen Umgang mit Schriftstücken in Gebrauchszusammenhängen siehe z.B. (mit
+Literatur): Michael Mente, Dominus abstulit? – Vernichten und Verschweigen von
+Schriftobjekten als kommunikativer Akt, in: Frühmittelalterliche Studien 38 (2004),
+427–447; zur »Verschriftlichung von Ämtern«: Michael Mente, Essen, Alltag und Ver-
+waltung im Kloster: Das »Kreuzlinger Küchenbuch« von 1716. Text, Kommentar und
+Auswertung, Zürich 2005.
+
+25 Büsser, Bullinger, Bd. 2, 127.
+
+»Von dem Amt eines verordneten Decani«
+
+101
+
+und Stellung des Pfarrers und seine Verpflichtungen gegenüber Ob-
+rigkeit und Untertanen (den Kirchgenossen).26 Für die folgenden
+Überlegungen ist entscheidend, dass dieses Dokument zum ersten
+Mal verbindlich in eigenen Abschnitten die Leitungsfunktion des
+Dekans in der reformierten Kirche vorschreibt:
+
+»Soe lichs aber ist dem Decano sines ampts halben bestimpt / das er ein
+flyssig ufsaehen uff die pfarren habe / so jm befolhen / das er die zun zyten
+heimsuoche / erfaare was yedes studium sye / was er predgy / und wie es in
+der kilchen stande. Und so er dann etwas mangels funde dannethin einen
+oder zwen der naechsten Pfarreren zuo jm naeme / und den mißhandleden
+warne / und straaffe / Christenlich und brue derlich / das man da trüw und
+liebe / nit stoe ltze und ufsatz spüre. Wo aber soe mliches nützid hulffe / soll
+demnach die selb mißhandlung und verachtung / dem gantzen Synodo an-
+tragen werden.«27
+
+Um die Leitungsfunktion zu verstehen, die die Zürcher Kirche in
+der Zeit der Reformation bis zum Ende des Ancien Re´gime den
+Dekanen übertrug, muss man sich die Synode in ihren wesentlichen
+Zügen vor Augen führen. In ihr nahm der Dekan in seiner Eigen-
+schaft als Pfarrer Einsitz und wurde ebenso beurteilt (»zensiert«)
+wie seine Kollegen, gleichzeitig war er aber auch als Kapitelsvor-
+steher und damit Leitungsverantwortlicher anwesend, wurde hier
+gewählt und für die Mitglieder des Kapitels erkennbar in seiner
+Position legitimiert.
+
+4. Die Synode
+
+Die heutige Landeskirche steht in einem partnerschaftlichen Ver-
+hältnis zum Staat, regelt aber ihre inneren Angelegenheiten im
+Rahmen der kantonalen Verfassung und Gesetzgebung selbständig.
+Dabei ist neben der Exekutive (Kirchenrat) die nach demokrati-
+schen und parlamentarischen Prinzipien organisierte Synode das
+
+26 Wie weit einzelne Grundlinien in diesem Dokument auch schon etwas älter sein
+könnten, ist nicht klar. Schon Zwingli sah die Institution als ein Mittel, die Reformation
+konsequent umzusetzen, an. Letztlich knüpft aber auch diese »Erfindung« an die Tra-
+dition der Konzilien, Provinzial- und Diözesansynoden an. – Zu einer historischen Be-
+wertung der Synode siehe Büsser, Wurzeln, 219–221 sowie 231–235.
+
+27 ZKO 1, 148.
+
+102
+
+Michael Mente
+
+gesetzgebende Organ und gleichzeitig sichtbarer Ausdruck der
+Landeskirche, die sich als Volkskirche versteht.28 In der reforma-
+torischen und darauf folgenden Kirchenorganisation bis zum Ende
+des Ancien Re´gime war das anders: »Wenn man ein klares Bild
+gewinnen will, so ist zu bedenken, dass über der Geistlichkeitssyn-
+ode der Große Rat stand, der eigentlich ebenfalls synodale Funk-
+tionen der Kirchenleitung ausübte.«29 – Durch die Kantonsverfas-
+sung von 1831 wurden der Synode eine Reihe neuer, selbständiger
+Aufgaben zugewiesen und der Große Rat hatte nur noch die Be-
+schlüsse zu genehmigen.30 Die staatlichen Funktionen der Kirche
+im Schul-, Armen- und Fürsorgewesen gingen mit dem Verfas-
+sungsstaat an den Kanton über. Schließlich fiel 1895 der Entscheid
+für eine aus Laien und Geistlichen gemischten Synode. Auf die
+Entwicklung der Synode und zur Betrachtung ihrer genauen Zu-
+sammensetzung, Geschäfte und Instrumente im Einzelnen sei hier
+auf die Literatur verwiesen;31 für die Herausbildung des Dekanen-
+amtes ist aber doch ein Blick auf das System Bullingers, das im
+Wesentlichen drei Jahrhunderte geprägt hatte, erforderlich.
+
+28 Mit der neuen Kirchenordnung von 2009 wird sie von 180 auf 120 vom refor-
+mierten Stimmvolk gewählte Mitglieder reduziert. Sie gliedert sich in vier Fraktionen
+unterschiedlicher theologischer Ausrichtung. Vgl. Art. 202, 207–216 KO.
+
+29 Schmid, Landeskirche, 227. – »Bullinger strebte nach einem Gleichgewicht zwi-
+schen der Zusammenarbeit mit der Obrigkeit und der Erhaltung der kirchlichen Pflicht,
+in Übereinstimmung mit dem biblischen Zeugnis zu predigen. Zu diesem Zweck wollte
+Bullinger strikte Grenzen durchsetzen. Alle die Pfarrerschaft betreffenden Fragen sollten
+hinter geschlossenen Türen verhandelt werden. Dies bedeutete auch die Trennung von
+theologischen und seelsorgerlichen Themen. Theologie und Bibelauslegung sollten das
+Privileg eines kleinen Kreises um Bullinger werden, alle umstrittenen Fragen der Kir-
+chenlehre sollten der öffentlichen Debatte entzogen werden. Die Synode als gemeinsa-
+mes Organ der Zürcher Pfarrerschaft sollte sich daher auf Fragen hinsichtlich der Seel-
+sorge für die Laien in den Gemeinden beschränken.« Gordon, Bullinger und die Pfar-
+rerschaft, 9f. Die Synode sprach sich wohl bis 1830 über die Lebens- und Amtsführung
+der Pfarrschaft aus, hatte aber zur Lehre der Kirche als Ganzes nichts zu sagen. Wäh-
+rend dreier Jahrhunderte hatte die Synode »weder zur Aufstellung noch zur Aufhebung
+von Glaubensbekenntnissen, weder zur Gestaltung des Katechismus, zum Gesangbuch
+noch zu einer Prädikantenordnung entscheidend etwas zu sagen. Diese Kompetenzen
+hatte der Große Rat in seiner Hand.« Schmid, Landeskirche, 222.
+
+30 Die vollständige Autonomie erhielt die Landeskirche allerdings erst mit dem Kir-
+chengesetz von 1963, nachdem ihr 1902 das Recht erstmals eingeräumt worden war,
+ihre eigene Satzung, die Kirchenordnung, zu erlassen. Rübel, Kirchengesetz und Kir-
+chenordnung, 4f.
+
+31 Vgl. z.B. oben Anm. 5 und 11; Baltischweiler, Institutionen, 51–67; Rübel, Kir-
+
+chengesetz und Kirchenordnung, 41–43.
+
+»Von dem Amt eines verordneten Decani«
+
+103
+
+4.1 Die Synode Bullingers und der Staatskirche als Leitungsorgan
+
+An der zweimal jährlich, im Frühling und Herbst, seit 1528 statt-
+findenden Synode, sichtbarster Ausdruck der gemeinsamen Ord-
+nung und Zusammenarbeit zwischen staatlicher und kirchlicher
+Obrigkeit, hatten alle Pfarrer teilzunehmen. Je vier Mitglieder des
+Großen und Kleinen Rates, darunter gelegentlich auch der Stadt-
+schreiber, waren die weltliche Vertretung der Behörde. Das Präsi-
+dium machte der teilnehmenden Geistlichkeit den Grad der Ver-
+bindlichkeit klar, indem es gemeinsam vom »Antistes«32 und einem
+Mitglied des Kleinen Rates (oft einer der Bürgermeister) wahrge-
+nommen wurde. An dieser Versammlung verlas man allgemeine
+Bekanntmachungen von Kirchenleitung33 und städtischem Rat,
+von 1528 bis 1830 waren Amt- und Lebensführung der Pfarrschaft
+zu beurteilen, Anregungen zuhanden der Obrigkeit (»Gravamina«
+bei Übelständen) konnten eingebracht werden. Die Kompetenzen
+zu Fragen der Kirche als Ganzes, theologischen Dingen (Glaubens-
+bekenntnis, Katechismus etc.) sowie Prädikantenordnungen obla-
+gen dem Großen Rat.34
+
+Die Synode war zunächst eine Art Rapport, zu dem die Pfarrer
+zweimal jährlich »aus der Vereinzelung ihrer Basisarbeit« zusam-
+mengerufen wurden.35 Sie war einerseits Disziplinierungs-, ande-
+rerseits auch Integrations- und Identifikationsinstrument. Gleich-
+zeitig »erfuhren die aus der Isolierung ihres Dorfes berufenen Pfar-
+rer« durch diese Rahmenbedingungen »das Gefühl, einem beson-
+deren Stand anzugehören und die entsprechende Aufmerksamkeit
+der Obrigkeit zu genießen.«36 Disziplinierung zeigt sich etwa am
+
+32 Der »Vorsteher« als Ehrenbezeichnung für das leitende Kirchenamt, das an die
+Pfarrstelle einer großen Stadtzürcher Hauptkirche gekoppelt war. Der Antistes leitete
+den sogenannten Examinatorenkonvent (vgl. unten Anm.33), seit dem 19. Jahrhundert
+ist er der Vorsitzende des Kirchenrates und wird ab 1895 als Kirchenratspräsident be-
+zeichnet.
+
+33 Einen Kirchenrat gibt es erst seit 1803, davor war es eine Prüfungsbehörde für die
+Studierenden der Theologie, Examinatorenkonvent genannt, und ein Beratungsgremium
+für den Rat. Vgl. Schmid, Landeskirche, 217–220.
+
+34 Schmid, Landeskirche, 222.
+35 Maeder, Bullinger und die Synode, 73.
+36 Maeder, Bullinger und die Synode, 74. – Nach dem Eröffnungsgebet erfolgte der
+Appell: »Deinde [nach der Bitte um Gottes Beistand] recitatur catalogus fratrum om-
+nium ac quaestio fit de absentibus.« Bullinger an die Neuenburger Pfarrer, 12. März
+
+104
+
+Michael Mente
+
+nach 1532 immer wieder in Ordnungen genau festgelegten Ablauf,
+dem kapitelsweisen Anwesenheitsappell zu Beginn, dem Eid zur
+Loyalität gegenüber kirchlicher und staatlicher Ordnung für die
+neu Aufgenommenen, letztlich und vor allem aber im eigentlichen
+Hauptgeschäft: der Zensur.37 Um die Führung der Dekane verste-
+hen zu können, muss man sich zunächst das Mittel der Zensur, die
+eng mit dem eigentlichen Führungsinstrument der Dekane, der Vi-
+sitation, zusammenhängt, vor Augen führen.
+
+4.2 Die Zensur
+
+Der Dekan hatte seit 1532 als letztes Mittel nach den ihm in die
+eigene Verantwortung übertragenen Maßnahmen pflichtsäumige
+Pfarrer der Synode anzuzeigen. Entscheidend ist die dahinterste-
+hende Funktion der höchsten Leitungsinstanz, der Synode, die die-
+se gegenüber der Pfarrschaft und anderen Kirchdienern wahrnahm.
+Damit lässt sich zeigen, welche Macht dem Dekan in seinem doch
+recht selbständigen Wirken letztendlich zukam. Die Rede ist von
+der so genannten Zensur und damit der Disziplin als zielorientier-
+tem Führungsinstrument: »Sollten christliche Ordnung und Gleich-
+förmigkeit vom Zentrum bis zur Peripherie, von Spitze bis zur Ba-
+sis durchgesetzt werden, mussten die Pfarrer als die wichtigsten
+kirchlich-staatlichen Exekutivorgane genau überwacht werden.
+Von der persönlichen Glaubwürdigkeit des Pfarrers hing ja wesent-
+lich auch dessen Wirkungsgrad in der Gemeinde ab. Der Weg zur
+Disziplinierung der Untertanen führte notwendigerweise über die
+Disziplinierung der Geistlichkeit.38 Die Zensur war dazu das ge-
+eignete Mittel.«39
+
+1545 (CO 12, Nr. 622, Sp. 45). Entsprechend ist in Prädikantenordnung 1758, 73 zu
+lesen, dass »der Catalogus aller dem Synodo einverleibter Pfaren abgelesen« wird. – Für
+die Pfarrschaft hat man über den Begriff des »Ministeriums«, also die Gesamtheit aller
+Zürcher Pfarrer, die Gruppenidentifikation sozusagen institutionalisiert. Wer in Zürich
+ordiniert wird, schreibt bis heute in einem seit der Reformation fortgeführten Register
+(im Archiv des Kirchenrates) eigenhändig seinen Namen ein und schreibt sich damit
+sozusagen in die Tradition ein. Über die Zugehörigkeit zum Ministerium vgl. Art. 109
+KO.
+
+37 Vgl. zum Beispiel Bullingers Erläuterungen von 1545 in CO 12, Nr. 622 sowie die
+
+Regelungen in Prädikantenordnung 1758, 70–81.
+
+38 Vgl. auch den von Gerhard Oestreich geprägten Begriff der »Sozialdisziplinie-
+rung«; erörtert etwa in Winfried Schulze, Gerhard Oestreichs Begriff »Sozialdisziplinie-
+
+»Von dem Amt eines verordneten Decani«
+
+105
+
+Heinrich Bullinger erläutert in einem Brief an die Neuenburger
+Pfarrer am 3. März 1545 den Nutzen dieser Kirchenzucht, die die
+Zürcher Geistlichen, einschließlich des Antistes, unter sich übten.40
+Die Zensur geschehe in Anlehnung an die Heilige Schrift und nach
+dem Beispiel der Alten Kirche. Schon vor 1000 Jahren sei dies so
+gehandhabt worden; ferner habe sich dieser Brauch durch seine
+Gemeinnützigkeit für die Zürcher Kirche bestätigt, so dass seine
+göttliche Einrichtung nicht zu bezweifeln sei.41 Für Bullinger ist es
+auch eine Angelegenheit der »brüderlichen Liebe«, sich gegenseitig
+zu loben und im Bedarf zu ermahnen,42 sage doch Salomo, dass die
+Schläge der Freunde den Küssen der Heuchler vorzuziehen seien
+(Spr 27,6).
+
+So wurde jeder Geistliche in den Ausstand gestellt und durch
+seine Kollegen bezüglich Lehre, Bildungsstand, Lebenswandel und
+häusliche Verhältnisse qualifiziert. »Die notwendigen Grundlagen
+für die Beurteilung erhielt man aus allfällig eingegangenen Klagen,
+durch Nachfrage bei den Kirchgenossen oder Mitteilung der Amts-
+brüder des Pfarrers. Dass eine solche Informationsbeschaffung ge-
+legentlich recht fragwürdige Ergebnisse zeitigen musste, sei hier
+bloß am Rande erwähnt.«43
+
+Es stand hier also ein recht effizientes Druckmittel gegenüber der
+Pfarrschaft zur Verfügung; eine schlechte Qualifikation konnte für
+den Pfarrer sehr unangenehme Folgen haben und ihn sogar das
+Amt und damit die Existenz kosten. Eine gute Zensur hingegen
+konnte zu guten Pfründen führen. »Entscheidend aber war, dass
+
+rung in der frühen Neuzeit«, in: Zeitschrift für Historische Forschung 14 (1987),
+265–301.
+
+39 Maeder, Bullinger und die Synode, 74.
+40 CO 12, Nr. 622.
+41 »Hunc morem habuit ecclesia nostra iam multis ab annis, suffulta in hoc certis
+scripturae locis et veterum exemplis. In usu enim ante mille annos fuisse coetus huius-
+modi sacros et censuras ministrorum ecclesiasticas vel ipsa satis arguunt Iustiniani cae-
+saris scripta, ut nihil aliud dicamus. Sed et fructus et utilitatis inde plurimum dimanat
+semper ad ecclesiam nostram, ut non dubitemus deum huic institutio nostro benigne
+favere, ac quod bonum est a fonte omnis boni manare.« CO 12, Nr. 622, Sp. 46.
+
+42 Bullinger erwähnt im Schreiben, dass sich Jean Chaponneau in seinen Thesen
+häufig auf die brüderliche Liebe (»charitas«) berufe. Er wünscht sich, dass diese bei
+Chaponneau auch zur Geltung kommen möge, indem er sich den Brüdern anschließe
+und sich der Zensur unterwerfe. Stehe seine Sache gut, werde er gelobt; wenn nicht,
+ermahnt. CO 12, Nr. 622, Sp. 46.
+
+43 Maeder, Bullinger und die Synode, 74.
+
+106
+
+Michael Mente
+
+jeder Pfarrer in der zweimal jährlich über ihn verhängten Zensur
+seine Abhängigkeit zu spüren bekam, und so erfahren musste, dass
+das Wohlwollen der gnädigen Herren durch eigene Anstrengung
+und Wohlverhalten immer wieder neu erworben werden musste.«44
+Offensichtlich schwächt sich die Disziplinierung über dieses In-
+strument ab Ende des 16. Jahrhunderts, also nach Bullinger, in der
+Bedeutung ab, bleibt gemäß Schmid aus Pietät bestehen, ändert
+sich in der Form45 und verkommt im 18. Jahrhundert gar zu einer
+»unangebrachten« Lobhudelei. Ihr Ende in dieser öffentlichen
+Form fand sie erst im Jahr 183146 und verlagerte sich in den Rah-
+men der Visitation, die fortan den Bezirkskirchenpflegen oblag.
+
+5. Aufgaben, Kompetenzen und Verantwortung der Dekane
+
+5.1 Visitation als Führungsinstrument
+
+Ein Grund für die schon bald nach Einführung abnehmende Zahl
+der schweren Fälle, die zur Zensur in die Synode gelangten, lag
+einerseits darin, dass der geistliche Stand nun reorganisiert war
+und von jungen Reformierten besetzt war, die durch Heinrich
+Bullingers Schulen gegangen waren. Einen wesentlichen Beitrag
+leisteten aber andererseits die Kapitel und damit die Dekane, denen
+auferlegt war, beizeiten Unregelmäßigkeiten in der Visitation ent-
+gegenzutreten. Hier zeigt sich deutlich die dem Dekan übertragene
+Führungsaufgabe, indem er im Auftrag der Synode seit 1532 die
+Visitation durchführte.47
+
+Schließlich hatte der Dekan die Fehlbaren, die sich seinen An-
+weisungen nach der erfolgten Visitation widersetzten, der Synode
+anzuzeigen, somit der Zensur anheimzustellen: »[Der Dekan soll]
+die naamen der Pfarreren / so ettlich strae fflich gehandlet / gschrifft-
+lich ynlegen. Die soe llend dannethin einer nach dem anderen uß-
+
+44 Maeder, Bullinger und die Synode, 74. – Vgl. auch Schmid, Landeskirche, 224f.
+
+mit Beispielen.
+
+45 Anfänglich eine scharfe Beurteilung über alle Geistlichen bis 1798, bis schließlich
+das Referat nur noch über das Kapitel in globo und nur noch über Fehlbare erfolgte.
+Vgl. Baltischweiler, Institutionen, 60 sowie Schmid, Landeskirche, 224f.
+
+46 Schmid, Landeskirche, 225; ausführlicher Baltischweiler, Institutionen, 58–60.
+47 Vgl. Zitat oben S. 101.
+
+»Von dem Amt eines verordneten Decani«
+
+107
+
+gestellt / jro mißhandlung erkonnet / und censiert werden. Hat
+aber der Decanus ghein klag und mangel an sinen brue dern / soll er
+das selb ouch mit kurzen worten dar thuon.«48
+
+Leitung und Aufsicht gehen in kirchlichen Amtsstrukturen bzw.
+Tätigkeiten in den einzelnen Funktionskreisen eng einher. Es war
+die Hauptpflicht des Dekans, jeden Pfarrer seines Kapitels hinsicht-
+lich seines Studiums, seiner Predigtarbeit und der Gemeindever-
+hältnisse zu visitieren. Ihm war damit die obrigkeitliche Kontroll-
+funktion als Führungsaufgabe übertragen. »Nähere Angaben über
+den Umfang und die Form der Visitation fehlen bis 1610.«49 In
+diesem Jahr wird erstmals eine Ordnung diesbezüglich erlassen,50
+wie es scheint, auf den Antrieb der Dekane selbst. Wie die Visita-
+tion zu erfolgen hatte, ist seit 1628 in der Prädikantenordnung
+geregelt, die dem Dekanenamt eigens einen Abschnitt widmet.51
+Der Dekan soll die Visitation, seit 1628 in Begleitung eines Pfarrers
+aus dem Kapitel,52 ohne Argwohn, aber auch ohne falsche Rück-
+sichten und unter Beachtung der Bestechungsgefahr durchführen.
+Die Kirchenoberen bringen dem Dekan das Vertrauen entgegen,
+dass er der Synode nichts vorenthält. Es wird auch klar seine Hol-
+schuld festgehalten, indem er von sich aus zu forschen habe und
+die Aussage in einem konkreten Fall, er habe davon nichts gewusst,
+wird von vornherein abgetan.53
+
+Der Besuch des Pfarrhauses erfolgt unangemeldet. Der Dekan
+lässt sich die Bücher aus der Bibliothek und Predigtmanuskripte
+vorlegen, kontrolliert die Nachführung der Kirchenbücher und an-
+dere Verzeichnisse, sieht nach, ob die obrigkeitlichen Schriften,
+Mandate, das geltende Glaubensbekenntnis vorhanden sind, prüft
+
+48 ZKO 1, 148. Trotzdem fragen die Vorsitzenden der Synode im Anschluss an den
+Bericht des Dekans die Mitglieder des betreffenden Kapitels noch an, ob sonst jemand
+etwas gegen einen anderen Pfarrer anzubringen wüsste.
+
+49 Baltischweiler, Institutionen, 45.
+50 Abgedruckt in Baltischweiler, Institutionen, 139–142.
+51 Ordnung der Dieneren der Kilchen in der Statt unnd uff der Landschafft Zürich.
+Ernüweret und inn Truck verfertiget, Zürich 3. Mai 1628. – Zur Illustration in der
+Beilage (Nr. 2) zu diesem Aufsatz ein Fragekatalog aus der nachfolgenden und ausführ-
+licheren Prädikantenordnung von 1758.
+
+52 Er ist dabei nicht an den »Kammerer«, also den Vizedekan, gebunden. Fehlbare
+
+konnten auch hier in Gegenwart eines oder zweier Pfarrer ermahnt werden.
+
+53 So schon die Tonalität in der Ordnung von 1628 in Anm. 51; ebenso Prädikan-
+
+tenordnung 1758, 61.
+
+108
+
+Michael Mente
+
+die Stillstandsprotokolle, fragt nach den Besuchen bei Kranken
+und Sterbenden. Im Gespräch hatte auch der Pfarrer Gelegenheit,
+sich über die Gemeinde auszusprechen und nötigenfalls Beschwer-
+den anzubringen. Zudem »sind auch die Amtsleute und andere
+unverdächtige Glieder der Gemeinde vom Dekan um ihr Urteil an-
+zugehen, wie es um den Pfarrer steht.«54 Es wird nicht nur seine
+Predigtqualität, sondern der ganze Lebenswandel des Pfarrers, sei-
+ner Frau, Kinder und Dienstleute ergründet. »Wird geklagt, so sind
+die Klagen dem Pfarrer erst vorzulegen, damit er sich äussern
+kann, nötigenfalls wird sich das Kapitel oder schliesslich die Syn-
+ode mit den Verhältnissen zu befassen haben.«55
+
+5.2 Führen und Fördern
+
+Aus den alten Ordnungen lässt sich herauslesen, dass dem Dekan
+viel Kompetenz und ein großer eigener Beurteilungsspielraum zu-
+gestanden wurden. Konnte er doch in eigener Regie anleiten, mah-
+nen, bevor er sich zum Bericht an die Synode genötigt sah, womit
+dem Beurteilten an höchster Ebene eine schlechte Zensur drohte.
+Die Gespräche erinnern an das, was man heute von Führungskräf-
+ten erwartet: Beurteilungs- und Förderungsgespräche, natürlich
+unter Reduktion der doch sehr weit gehenden Befragung und des
+beigezogenen Personenkreises. Wie weit die eigene Beurteilung
+durch den Visitierten zu berücksichtigen war, ist nicht ersichtlich.56
+Immerhin konnte die beurteilte Person doch Stellung beziehen und
+nach »brüderlicher« Anweisung – schließlich war auch der seel-
+sorgliche Aspekt zu berücksichtigen – stand ihr normalerweise die
+Möglichkeit der Besserung zu. Diese Anleitung entspricht wohl
+dem frühneuzeitlichen Verständnis einer Coachingmaßnahme mit
+Blick auf ein Verbesserungsziel im bemängelten Bereich. Wie die an
+
+54 Schmid, Landeskirche, 215.
+55 Schmid, Landeskirche, 215. – Für die weitere Entwicklung der Visitation in Bezug
+auf den zu visitierenden Personenkreis, Inhalt, Umfang, das Berichtswesen – zunächst
+zuhanden der Examinatoren bzw. der Synode in Zürich, später zuhanden des Kirchen-
+rats – sowie in Bezug auf Sanktionsmöglichkeiten sei auf die Literatur verwiesen. Vgl.
+z.B. Baltischweiler, Institutionen, 45–49; dort auch interessante Verweise auf weitere
+Quellen.
+
+56 Dies müsste durch ein Studium der Visitationsakten ergründet werden.
+
+»Von dem Amt eines verordneten Decani«
+
+109
+
+die Synode gelieferten Visitationsakten mit den Inhalten der Ge-
+spräche korrespondierten, ist wiederum eine andere Frage.
+
+5.3 Leitung des Kapitels
+
+Eine Funktion des Dekans, seit der Neuzeit auch der Dekanin,
+besteht in der Leitung des Kapitels. Die Kapitelsversammlungen in
+den Bezirken bzw. Dekanaten haben nie Behördencharakter gehabt
+und erhielten erst seit 1831 ihre feste rechtliche Form. »Sie sind
+seither zu einem nicht unwichtigen Organ der ganzen Kirche ge-
+worden, durch das die Synode und Kirchenrat die Urteile der gan-
+zen Pfarrschaft erfahren können, da seit 1895 nicht mehr alle Pfar-
+rer der Synode angehören.«57 Das Kapitel ist somit als ein Ort der
+Beratung und Vernehmlassung, der Belehrung über die Ausübung
+des Amtes, des gegenseitigen Austausches, der Weiterbildung und
+wissenschaftlicher Tätigkeit angelegt. In früheren Zeiten traf man
+sich in der sogenannten »Prosynode« am Vorabend der eigentli-
+chen Synode, um vor allem zu besprechen, was man in der Ver-
+sammlung der gesamten Geistlichkeit vorzubringen gedachte, und
+einigte sich auf die Zensur der einzelnen Amtsbrüder.58
+
+Der Dekan hatte das Kapitel einerseits zu leiten und nach außen
+zu repräsentieren, gleichzeitig war er aber auch primus inter pares,
+hatte sich also an die gleichen Prädikantenordnungen, die den Pfar-
+rern galt, in beispielhafter Vorreiterrolle zu halten.
+
+6. Legitimierung der Leitungsfunktion
+
+6.1 Die Zensur der Ersten unter Gleichen
+
+Die Synode übertrug dem Dekan eine gewichtige Leitungsfunktion.
+Da er – wie später – aber auch der Erste unter Gleichen war, war
+die Kirche hier ebenfalls zu zeigen bemüht, dass »die kilchen sa-
+chen nit an füessen, sonder am houpt angefangen werden«59. Bevor
+
+57 Schmid, Landeskirche, 216.
+58 Diese Form der Zusammenkünfte blieb von 1540 bis 1861 bestehen.
+59 Zitat aus dem Vorschlag für eine Visitationsordnung von 1610, Baltischweiler,
+
+Institutionen, 139–142, hier 142 (Zürich Staatsarchiv, E II, 102, 608–614).
+
+110
+
+Michael Mente
+
+die Mitglieder seines Kapitels vor der Synode beurteilt wurden,
+schickte man den Dekan in den Ausstand, um auch über ihn zu
+zensieren.60
+
+Die Zensur von Leitenden in der Kirche entsprach dem Gebot
+der Vorbildfunktion und legitimiert zugleich ihre Position gegen-
+über ihren »Brüdern«. Auch der Antistes hatte sich dieser Prozedur
+zu stellen, wie Heinrich Bullinger 1545 im oben erwähnten Schrei-
+ben ausführt.61
+
+6.2 Wahl des Dekans
+
+Heute wird der Dekan, die Dekanin62 aus der Mitte des Kapitels
+gewählt. Dies gilt seit der Kirchenordnung von 1905.63 Auch
+Heinrich Bullinger hatte das ursprünglich so vorgesehen, was aber
+nach Schmid nur bis 1542 galt. Ab dann hatte der jüngste der
+Kapitularen im Namen des Kapitels an der Synode einen Dreier-
+vorschlag zu machen, aus dem diese durch Handerheben den De-
+kan ernannte.64 Dieses Wahlverfahren stützt auch die hier erarbei-
+tete These der starken Führungsstellung bzw. Positionsmacht des
+
+60 Vgl. oben Anm. 6. – Die Frage allerdings, ob Dekane (zu allen Zeiten) auch in
+ihrem Pfarramt visitiert wurden, lässt sich nicht eindeutig beantworten. Aufschluss er-
+gäbe ein Studium der Visitationsakten auf diese Frage hin.
+
+61 Was auch heißt, dass sich Bullinger in seiner Funktion als Antistes ebenfalls der
+Zensur zu stellen, verhören und ermahnen lassen musste, sofern sich während seines
+Ausstandes in der Synode eine Klage erhoben hätte. Vgl. oben S. 105.
+
+62 Frauen wurden in der Zürcher Landeskirche erst seit 1963 (mit der Einführung
+des kirchlichen Stimmrechts) zur Ordination zugelassen, mit der vom Kantonsrat auf-
+genommenen Einschränkung, dass Frauen nur in Gemeinden mit mehr als einer Pfarr-
+stelle wählbar seien. Dies wurde erst seit der Gesetzesrevision vom 8. Juni 1980 fallen
+gelassen. Rübel, Kirchengesetz und Kirchenordnung, 30. Eine zusammenhängende Liste
+der Dekaninnen und Dekane ist derzeit leider nicht verfügbar. Biografien einzelner Per-
+sonen bzw. Mitgliedern des gesamten Zürcher Ministeriums seit der Reformation bis ins
+Jahr 1952 sind publiziert in Dejung/Wuhrmann, Pfarrerbuch; die daran anschließenden
+Personen bis 1989 in einem Typoskript, das im Archiv des Kirchenrates vorhanden ist:
+Robert Ackeret, Zürcher Pfarrbuch 2: 1952–1989, Zürich 1993.
+
+63 Schmid, Landeskirche, 214.
+64 In Baltischweiler, Institutionen, 149 ist hingegen eine Ordnung zur Wahl der De-
+kane aus dem Jahr 1563 beigefügt, die nach eigenen Worten zum ersten Mal die Wahl
+festlegt. Hier ist vom genannten Dreiervorschlag zuhanden der Synode die Rede. – Vgl.
+auch: Ludwig Lavater, Die Gebräuche und Einrichtungen der Zürcher Kirche, erneut
+hg. und erw. von Johann Baptist Ott, übers. und erl. von Gottfried Albert Keller, Zürich
+1987, 102.
+
+»Von dem Amt eines verordneten Decani«
+
+111
+
+Dekans. Die Wahl erfolgte in der Synode, wo der Gewählte vor
+allen versammelten Geistlichen sowie gegenüber dem Bürgermeis-
+ter bzw. Statthalter ein Handgelübde abzulegen hatte und die
+Pflichten vorgelesen erhielt. Die Führungsstellung des Dekans wird
+durch die Synode legitimiert, während heute die Amtseinsetzung
+durch den Kirchenrat erfolgt.
+
+6.3 Installation von Pfarrkollegen
+
+Die besondere Stellung des Dekans und später auch der Dekanin
+zeigt sich bis heute an der zeichenhaften Funktion der Einsetzung
+neuer Pfarrpersonen – unabhängig vom einstigen und heutigen Fin-
+dungsverfahren65 – in ihr Amt, der sogenannten Installation. Wäh-
+rend in früheren Zeiten der Dekan die Handlung gemeinsam mit
+einem Vertreter der weltlichen Obrigkeit durchführte und damit
+die geltende Ordnung repräsentierte, tut er dies heute entsprechend
+den autonomen Handlungskompetenzen der Kirche alleine, vertritt
+dabei aber den Kirchenrat.
+
+Das 1532 festgelegte Prozedere galt für mehr als drei Jahrhun-
+derte im Wesentlichen in der gleichen Form. Besonders augenfällig
+ist die nach der Predigt mit Paulusworten erfolgte Handauflegung
+durch den Dekan und die Ermahnung der Gemeinde durch den
+Obervogt:
+
+»Und so sich dann nützid erfindt / ouch kein klag ist / soll der Decanus
+predgen / fürnemlich was des Pfarrers ampt / und wie sich die kilch mit und
+gaegen jm halten soe lle / etc. Unnd nach der predge stelle er den Pfarrer der
+kilchen für / und spraeche zuo jm / Sich lieber bruoder / dise biderbe gemeind
+befaelhend wir dir mit den worten Pauli / Hab guot acht uff die gantze haerd /
+über die dich der heilig geist zum waechter und hirten gesetzt hat / zeweyden
+sin volck / das er mit sinem eignen bluot an sich erkoufft hat. So biß jnen ein
+vorbild imm wort / imm wandel / inn der liebe / imm geist / imm glouben
+und luterkeit: unnd Gott verlyhe dir sinen heyligen geist / das du wie ein
+getrüwer diener sines herren / handlist / inn dem namen Gottes. Und damit
+
+65 Zunächst machte der Examinatorenkonvent an den Großen Rat der Stadt einen
+Vorschlag. Falls dieser nicht das Recht zur Einsetzung der betreffenden Stelle innehalte
+(sog. Kollatur), hatte der zuständige »Lehensherr« den Vorschlag zu begutachten. Das
+konnten andere Städte, Familien, aber auch nach wie vor katholische Körperschaften
+wie Klöster sein. – Zur Geschichte der Pfarrwahl: Schmid, Landeskirche, 194f. Seit
+1831 besteht die Pfarrwahl durch die Gemeinde auf Amtsdauer.
+
+112
+
+Michael Mente
+
+lege er jm die hend uff. Demnach ermane das volck umm gnad anzerue ffen.
+Aber nach vollendetem gebaett / bevelhe der Vogt oder Radtsbott den Pfar-
+rer der Gemeind inn namen der Christenlichen obergheyt. […]«66
+
+7. Kommunikation
+
+7.1 Informationswege
+
+Die Pfarrer waren aufgrund ihrer Stellung in der Herrschaft wich-
+tige Räder im Informationsgetriebe der Stadt Zürich.67 Infolgedes-
+sen kam im Leitungsgefüge den Dekanen eine wichtige Funktion
+zu.
+
+Neben den Wegen der Schriftlichkeit, der Akten, allen voran den
+Visitationsakten, bestanden auch andere wichtige Orte der Kom-
+munikation entlang der »Linie«. Zu nennen sind die auch heute
+wichtigen Versammlungen. Von »unten« nach »oben« etwa liefen
+Informationen zwar einerseits über direkten Kontakt mit dem An-
+tistes anlässlich des Synodebesuchs oder in Briefen an ihn. Der
+Hauptweg ging andererseits über die Kapitelsversamlung und da-
+mit über die Dekane, welche dem Antistes berichteten. Anliegen
+gelangten wiederum über die Dekane in die Prosynoden68 und in
+die Synode. Umgekehrt waren von »oben« nach »unten« Anord-
+nungen, Verordnungen, Mandate bis zum Pfarrer zu transportie-
+ren.
+
+Eine interessante Funktion für den Informationsweg von »un-
+ten« nach »oben« übernahm der Dekan in einem eigens dafür vor-
+gesehenen als »Vorstellung« bzw. »Synodalproposition« bezeich-
+neten Traktandum in der Synode: In der Prosynode wurde ein De-
+kan auserwählt, der vor der Synode über die allgemeine Lage der
+
+66 ZKO 1, 133f. Die Bibelverse beruhen auf einem Wort von Paulus an die Ältesten
+der Epheser (Apg 20,28) sowie an Timotheus (1Tim 4,12). – Vgl. auch Prädikantenord-
+nung 1758, 8–11.
+
+67 Gordon, Bullinger und die Pfarrerschaft, 10f.
+68 Die Versammlungen, die vor der eigentlichen Synode stattfanden, wurden als
+»Prosynoden« bezeichnet. Zum einen betrifft das die Zusammenkunft der Dekane, zum
+anderen die Versammlungen der Kapitel, die der Dekan präsidierte.
+
+»Von dem Amt eines verordneten Decani«
+
+113
+
+Kirche zu berichten, vor allem aber Probleme (»Gravamina«) vor-
+zustellen und Lösungsvorschläge einzubringen hatte.
+
+Sollte der Dekan etwas anzumelden »vergessen« haben, blieb
+den Pfarrern jederzeit die Möglichkeit, sich diesbezüglich beim An-
+tistes auch zu Wort zu melden.
+
+7.2 Dekanenkonferenz
+
+Schon früh, 1533, ergab sich das Bedürfnis nach einer Versamm-
+lung unter den Dekanen, mit der Ordnung von 1628 wurde sie als
+Prosynode fest eingeführt. »Es sollte mit ihrer Einführung mehr
+Fühlung zwischen Stadt und Landschaft geschaffen werden.«69 Sie
+bedeutete zugleich aber auch ein Gegengewicht gegen die Stellung
+der Stadtpfarrer, die schon rein örtlich den Entscheidungen über
+kirchliche Fragen näherstanden.70 Die Funktion der Versammlung
+in der Chorherrenstube am Großmünster in Zürich lautete wie
+folgt: »helfen rathen und handeln, was zur Handhab loblicher
+Ordnung, zur Fortpflanzung christlicher Lehre und Zucht insge-
+mein, und des Kirchen-Diensts oder H[eiligen] Predig-Amts ins-
+besondere nothwendig ist.«71 Hier wurden Synodegeschäfte und
+dasjenige, was die Kapitelsprosynoden ihrem Dekan zuhanden der
+Synode mitgegeben haben, beraten. Tagsüber berieten die Dekane
+alleine, am Abend kamen der Antistes und die Stadtgeistlichen da-
+zu. Die Institution gab es bis 1803. Im 19. Jahrhundert aber wurde
+dieser wichtige Kommunikationsweg beibehalten, indem ein er-
+weiterter Konvent des Kirchenrates eingeführt wurde, den dieser
+zunächst in corpore mit den Dekanen abhielt. Später ließ der Rat
+sich durch den Antistes und zwei weitere Mitglieder vertreten,
+während gleichzeitig die Zweiteilung der Veranstaltung aufgeho-
+ben wurde. Seit 1833 werden pro Kapitel zwei Vertreter entsandt,
+was einherging mit der reinen Mandatsfunktion in Bezug auf das
+Kapitel ohne eigene Entschlusskompetenz durch die Dekane. Heu-
+te ist die Dekanenkonferenz wiederum eine wichtige Austausch-
+und Informationsplattform, an welcher Dekaninnen und Dekane
+sowie ihre Stellvertreter/innen mit dem Gesamtkirchenrat über lau-
+
+69 Baltischweiler, Institutionen, 129f.
+70 Schmid, Landeskirche, 215.
+71 Prädikantenordnung 1758, 69.
+
+114
+
+Michael Mente
+
+fende Geschäfte und aktuelle Themen, die Kirche, Politik und Ge-
+sellschaft betreffen, ins Gespräch kommen.
+
+8. Verlust von Leitungsfunktionen ab dem 19. Jahrhundert
+
+Mit der Einführung der Bezirkskirchenpflege 1831 (in Analogie
+zum Bezirksrat und der Bezirksschulpflege), einer Behörde mit ge-
+wählten weltlichen Vertretern, wurden die Dekane zunehmend ih-
+rer einst von der Synode zugeschriebenen Leitungsfunktion ent-
+hoben. Die Bezirkskirchenpflege hatte vor allem die Aufsicht und
+die Visitation von Kirchenpflegen und Pfarrämtern übernommen
+und ist erste Schlichtungsinstanz. Der Dekan war zunächst noch
+der leitende Visitator, aber nur in seiner Funktion als Präsident der
+Bezirkskirchenpflege; die Visitation erfolgte zusammen mit einem
+weltlichen Mitglied. Die Visitation wurde somit aus dem Funkti-
+onsbereich des Kapitels genommen; schließlich gestand man 1869
+gleichzeitig mit der Einführung der Erneuerungswahl der Geistli-
+chen auch den Kirchgemeinden immer mehr Autonomie zu. Die
+Kirchenordnung von 1967 trennt über die Unvereinbarkeit der
+Ämter den Dekan und Vizedekan von der Bezirkskirchenpflege,
+deren Aufsichts- und Visitationsaufgaben bis zur Kirchenordnung
+von 2009 laufend ausgebaut wurden.72 »Auf diese Weise bildet der
+Dekan das Verbindungsglied zwischen der Pfarrschaft des Bezirks
+und der Bezirkskirchenpflege, ohne jedoch in seiner seelsorgerli-
+chen, beratenden, vermittelnden Tätigkeit gegenüber den Amts-
+brüdern durch die der Bezirkskirchenpflege zukommende Diszi-
+plinargewalt gehemmt zu sein.«73
+
+72 Zur Bezirkskirchenpflege (BKP) heute siehe Art. 182–186 KO. Der Dekan, die
+Dekanin nimmt heute mit beratender Stimme und Antragsrecht an den BKP-Sitzungen
+teil. In die Fachgespräche, die der Dekan, die Dekanin mit der Pfarrschaft führt, kann
+sie ihm/ihr Anliegen mitgeben.
+
+73 Rübel, Kirchengesetz und Kirchenordnung, 98. – Dass die Beratungs- und Seel-
+sorgetätigkeit, bisweilen auch Mahner gegenüber seinen Amtsbrüdern (und bald auch
+-schwestern) nicht als Führungsaufgabe im eigentlichen Sinn verstanden werden kann,
+zeigt die Tatsache, dass der Dekan wohl Berichterstattungspflichtig gegenüber dem Kir-
+chenrat war (ebd. S. 100), angesichts des Seelsorgegeheimnisses hier aber Zurückhal-
+tung zu wahren hatte.
+
+»Von dem Amt eines verordneten Decani«
+
+115
+
+Damit ist im Wesentlichen auch die bis 2006 geltende Aufgabe
+des Dekans gegenüber der Pfarrschaft grob umschrieben. Von einer
+Leitungsfunktion kann nicht mehr im engeren Sinn gesprochen
+werden. Diese beschränkte sich neben der angesprochenen Ver-
+mittlungs-, Beratungs- und Seelsorgefunktion im Wesentlichen auf
+das Leiten der Kapitelsversammlung.
+
+9. Aufwertung des Dekanenamts
+
+Bemerkenswert ist die Stärkung der Stellung des Dekans, der De-
+kanin im Rahmen der Teilrevision der Kirchenordnung, die am 1.
+September 2006 in Kraft getreten ist. Damit wurde Neuland in der
+kirchlichen Personalführung betreten, gleichzeitig knüpfte man
+aber an reformatorische Traditionen an und nahm die ursprünglich
+zugedachte Rolle des primus inter pares wieder auf. Die Begrün-
+dung für die Aufwertung findet sich im Bericht des Kirchenrates an
+die Synode über die vierjährige Versuchsphase vom 6. Juli 2011:
+»Die gesellschaftlichen Veränderungen des ausgehenden 20. und
+des beginnenden 21. Jahrhunderts, die sich herausbildenden Me-
+gatrends74, haben Auswirkungen auch auf die Kirche und stellen
+sie vor neue Herausforderungen. Dies nehmen einerseits die in der
+Kirche politisch Verantwortlichen wahr. Andererseits erfahren dies
+insbesondere auch diejenigen, die in der Kirche beruflich Verant-
+wortung tragen: Ihre Aufgabe, ihr Dienst in der Offenheit gegen-
+über der ganzen Gesellschaft, ist anspruchsvoller und komplexer
+geworden. Die gesellschaftlichen Veränderungen stellen namentlich
+auch an den Pfarrberuf höhere Ansprüche und verlangen nach an-
+gemessenen Formen der Begleitung und Unterstützung. Die Kir-
+chenordnung 2006/2009 erkennt dies, wenn sie festhält: ›Die Kir-
+che bedarf der Leitung‹.75 Und sie setzt dies im Bereich der Pfarr-
+schaft um, indem sie den Dekaninnen und Dekanen zusätzlich zu
+den bestehenden Aufgaben neu auch Leitungsaufgaben über-
+trägt.«76
+
+74 Damit sind die Resultate aus dieser Studie angesprochen: Jürg Stolz, Edme´e Ballif,
+Die Zukunft der Reformierten: Gesellschaftliche Megatrends – kirchliche Reaktionen,
+Zürich 2010.
+
+75 Art. 87 KO.
+
+116
+
+Michael Mente
+
+Die Aufgaben des Dekans, der Dekanin als Leiter bzw. Leiterin
+eines Pfarrkapitels sind in der Kirchenordnung festgeschrieben.77
+Die neue Regelung ermöglicht es, den Dekan, die Dekanin im Sin-
+ne der Personalführung und -entwicklung mit zeitgemäßen In-
+strumenten auszustatten. Leitung wird in vier Bereichen vertieft:
+Dekaninnen und Dekane setzen Pfarrinnen und Pfarrer im Auftrag
+des Kirchenrates in ihr Amt ein und führen sie in ihr Gemeinde-
+pfarramt ein. Sie sind innerhalb ihres Kapitels zuständig in Bera-
+tung und in der Förderung des pfarramtlichen Dienstes sowie der
+übergemeindlichen Zusammenarbeit. Dekaninnen und Dekane
+vermitteln bei Spannungen und haben zudem die Kompetenz, An-
+weisungen zu erteilen, zu ermahnen sowie dem Kirchenrat Bericht
+zu erstatten.78
+
+Zum neuen Profil gehört auch, dass der Dekan, die Dekanin von
+einem Mitglied des Kirchenrates in das Amt eingesetzt wird und
+dass für eine Entlastung, eine Funktionszulage sowie Weiterbil-
+dungsmassnahmen gesorgt wird.
+
+10. Schluss
+
+Worauf sich Heinrich Bullinger bei der Schaffung des Dekanenam-
+tes stützte und ob bereits zu Huldrych Zwinglis Zeiten reformierte
+Pfarrer in ähnlicher Position walteten, konnte bis anhin nicht er-
+schlossen werden.79 Ebenso sind bis jetzt keine expliziten Texte von
+Bullinger selbst bekannt.80 Hingegen zitiert Bullinger in seiner
+»Reformationsgeschichte« das Berner Reformationsmandat vom
+6. Februar 1528, in welchem die Existenz von Dekanen und Ka-
+
+76 Bericht des Kirchenrates an die Kirchensynode betreffend Pilotphase 2008–2011
+über die Aufwertung des Amtes der Dekanin und des Dekans sowie der Präsidentin und
+des Präsidenten eines Diakonatskapitels. Beilage zum Voranschlag 2012, Zürich
+6.7.2011, verhandelt in der Synode vom 22.11.2011. – Vgl. auch: Bericht des Kirchen-
+rates an die Kirchensynode betreffend das Amt der Dekanin und des Dekans sowie der
+Präsidentin und des Präsidenten. Beilage zum Voranschlag 2008, Zürich 12.9.2007,
+verhandelt in der Synode vom 20.9.2007.
+
+77 Pfarrkapitel und Dekan/in in den Art. 187–193 KO.
+78 Vgl. Art. 192 KO.
+79 Eine Möglichkeit wäre die Sichtung von Ratsprotokollen und Mandaten nach den
+
+erfolgten Disputationen 1523.
+
+80 Vgl. hingegen seine Ausführungen zur Zensur in CO 12, Nr. 622.
+
+»Von dem Amt eines verordneten Decani«
+
+117
+
+piteln im Berner Herrschaftsgebiet ersichtlich ist. In diesem Do-
+kument wird in einem eigenen Abschnitt festgeschrieben, wie mit
+katholischen Dekanen im Übertritt zum neuen Glauben zu verfah-
+ren ist: Dekane und ihre »Kammerer« wurden ihrer Eide gegen-
+über den Bischöfen enthoben. Stattdessen sollen sie der Berner Ob-
+rigkeit schwören, was nichts anderes heißt, als dass sie weiterhin in
+dieser Funktion blieben. Sie wurden für die Aufsicht, Führung und
+theologische Anleitung der Pfarrer gebraucht und hatten auch hier
+sich durch vorbildliche Haltung auszuzeichnen. Dekane, die nicht
+zum reformierten Glauben übertraten, wurden ausgewechselt.81 Es
+ist durchaus anzunehmen, dass dies in Zürich nicht viel anders
+verlaufen sein dürfte, zumal im Zürcher Herrschaftsgebiet vorre-
+formatorisch fünf katholische Dekanate bestanden hatten.82
+
+Bullingers Verdienst besteht zweifellos darin, das Amt in Zürich
+auf eine nachhaltige Grundlage gestellt zu haben. So schuf er mit
+der Prediger- und Synodalordnung von 1532 eine Kirchenverfas-
+sung, die sowohl die Beziehung zwischen Kirche und Staat im Sin-
+ne des Staatskirchenmodells regelte wie auch die innerkirchlichen
+Strukturen ordnete. Bullinger erkannte, dass es zur Verfolgung und
+Umsetzung der Ziele eines koordinierten und geleiteten Vorgehens
+bedurfte und dass dabei dem Pfarramt eine Schlüsselrolle zukam.
+Zentrales Leitungsorgan und Legitimation seiner Autorität war die
+Synode – damals eine ausschließliche Pfarrersynode. Aus ihrer
+Mitte setzte Bullinger acht Dekane ein, die ihren Kapiteln vorstan-
+den.
+
+81 »So söllen all Dechan, und Camerer, so den Bischofen geschworen, der selbigen
+eyden ledig sin, unnd allein uns schweeren, und aber die Dechan, so der Evangelischen
+leer widrig, söllend in den Capitlen geändert, und an ir statt glöubig, gotzförchtig män-
+ner, zuo sölichem ampt erwellt werden, die da wüssend und acht habend uff die Pfarrer
+und Predicanten, da die selben das wort Gottes getrüwlich lerind, und demnach läbind,
+das sy dem gemeinen volck ein guot exempel vortragind, und wo sy die Pfarrer und
+Predicanten, irtind, oder ergerlich läbtind, das wort Wottes nit trüwlich predigtend,
+alldann sy in gemeinem capitel, straffind, unnd irs yrthumbs berichtind: und so verr sich
+sölich nit bessern weltend, alldann die selben uns anzeigen, damit wir üch mit andern
+togenlichen pfarrern versechen mögind. […].« Heinrich Bullingers Reformationsge-
+schichte, hg. von Johann Jakob Hottinger und Hans Heinrich Vögeli, Bd. 1, Frauenfeld
+1838, 441f. – Auch die Zahl der Kapitel wurde (ebd.) nicht starr gehalten. Im Bedarfs-
+fall sollten neue Kapitel geschaffen werden können.
+
+82 Vgl. oben Anm. 12.
+
+118
+
+Michael Mente
+
+Das eigentliche Führungsinstrument der Dekane bestand in der
+Visitation. Darin oblag den Dekanen die Aufsicht über Studium
+und Predigtdienst der Pfarrer, deren Auftritt in Gemeinde und Öf-
+fentlichkeit sowie generell über die Verhältnisse in den Kirchge-
+meinden. Die Dekane konnten in eigener Kompetenz Anordnungen
+treffen, gesetzte Ziele überprüfen und unter eigenem Ermessen der
+Synode bzw. den Examinatoren berichten.
+
+Die sogenannte »Zensur«, eine generelle Beurteilung des Diens-
+tes der Pfarrschaft, war jeweils zentrales Traktandum der zweimal
+jährlich tagenden Synode und Bestandteil der Kapitelsversammlun-
+gen. Dabei wurden auch die Dekane selber beurteilt – in ihrer Rolle
+als Dekan wie vermutlich auch bezüglich Qualität ihres eigenen
+Pfarrdienstes. Ob Dekane in ihrer Eigenschaft als Pfarrer in einer
+Kirchgemeinde im Blick auf die Zensur ebenfalls visitiert wurden,
+konnte bis anhin nicht ergründet werden; darüber könnte vermut-
+lich ein breiteres Studium von Visitationsakten Aufschluss geben.
+Wesentlich ist die Feststellung, dass die Dekane in einer Doppel-
+rolle standen: Sie waren Pfarrer unter Pfarrern. Zugleich übten sie
+eine Leitungsfunktion aus. Und indem sie beides vorbildlich zu
+leisten hatten, waren sie primi inter pares. Bei allem Prestige war
+das Amt anspruchsvoll. Die Feststellung von Klagen über eine gro-
+ße Belastung durch die Führungsaufgabe83 ist dafür durchaus be-
+redtes Zeugnis und schließt an Beobachtungen an, die auch heute
+relevant sind, indem das wieder gestärkte Dekanenamt angemessen
+mit einer Entlastung von pfarramtlichen Aufgaben zu verbinden
+und zu würdigen ist.
+
+Dieses innerkirchliche Gefüge hatte im Wesentlichen über fast
+drei Jahrhunderte Bestand. Erst seit dem 19. Jahrhundert wurden
+die Dekane schrittweise ihrer Leitungsfunktion enthoben – im
+Zuge zunehmender Gemeindeautonomie, der Reformen der Kir-
+chensynode und der Schaffung der Bezirkskirchenpflege. Letztere
+übernahm seit 1831 die Aufsichts- und Visitationsaufgabe. Mit der
+Kirchenordnung 1967 wird schließlich das Amt des Dekans im
+Sinne der Unvereinbarkeit von der Aufgabe der Bezirkskirchen-
+
+83 »The difficulty that many deans had in carrying out their duties is reflected in their
+complaint to the synod of 1543. The deans stated that they had too much work and
+were not able to look after their parishes.« Gordon, Clerical Discipline, 93, Anm. 77.
+
+»Von dem Amt eines verordneten Decani«
+
+119
+
+pflege gänzlich unterschieden. Von einer Leitungsfunktion des De-
+kans im eigentlichen Sinne konnte nicht mehr gesprochen werden.
+Die Kirchenordnung von 2009 betont die Leitungsaufgabe der
+Dekaninnen und Dekane in ihrem Kapitel. Das gilt etwa für die
+Bereiche Pfarreinsatz und Amtseinführung neu gewählter Pfarre-
+rinnen und Pfarrer. Sichtbare Teile der Stärkung des Amtes sind die
+konzedierte Entlastung und die Funktionsentschädigung. Dazu ge-
+hört auch die symbolische Visualisierung in der Amtseinsetzung
+gewählter Dekaninnen und Dekane durch den Kirchenrat. Der Lei-
+tungsbegriff erfährt eine Vertiefung über die Führungsinstrumente,
+die dem Dekan, der Dekanin durch den Kirchenrat übertragen
+werden. Darunter fällt insbesondere das Führen eines Fachge-
+sprächs mit den Mitgliedern des Kapitels. Dekaninnen und Dekane
+nehmen als primi inter pares in ihrem Bezirk für den Kirchenrat
+»statthalterische« Funktionen wahr (Pfarreinsatz, Umsetzung von
+Richtlinien und Verlautbarungen). Ihnen kommen wichtige Auf-
+gaben zu in der Förderung des pfarramtlichen Dienstes und der
+übergemeindlichen Zusammenarbeit. Sie sind verantwortlich für
+die Begleitung, Beratung und Förderung der Mitglieder in ihren
+Pfarrkapiteln. Sie vermitteln bei Spannungen, haben die Kompe-
+tenz, Anweisungen zu erteilen und dem Kirchenrat Bericht zu er-
+statten.
+
+Mit dieser Aufwertung wurden mit Blick auf eine fast 500-jäh-
+rige Tradition des reformierten Dekanenamtes im Kanton Zürich
+zukunftsweisende Akzente gesetzt.84
+
+84 Auch die Wahl der Dekaninnen und Dekane weist in diese Richtung. Zur Aus-
+übung des anspruchsvollen Amtes braucht es zum einen das Vertrauen des Kapitels, zum
+anderen den Rückhalt seitens der Landeskirche. Die Wahl des Dekans, der Dekanin liegt
+beim Pfarrkapitel. Der Kirchenrat bestätigt die Wahl mit der formellen Amtseinsetzung
+durch ein ordiniertes Mitglied des Kirchenrates (Art. 191 KO Abs. 2) und bezeugt
+damit, dass er hinter den so gewählten Dekaninnen und Dekanen steht und diese stützt.
+Bemerkenswert ist im Blick auf die Tradition dieses Führungsamtes die Anregung, die
+einige Dekaninnen und Dekane im Rahmen der Evaluation über die Pilotphase einge-
+bracht haben. »Sie schlagen ein zweistufiges Vorgehen vor: Wahlvorschlag durch das
+Pfarrkapitel, Wahl und Einsetzung durch den Kirchenrat. Es wird zu prüfen sein, ob
+dieser Vorschlag in eine erste Revision der Kirchenordnung aufzunehmen sei.« Bericht
+des Kirchenrates an die Kirchensynode betreffend Pilotphase 2008–2011, 5. – Wahl und
+Legitimierung würden damit formell wieder bei der kirchlichen Führung liegen.
+
+120
+
+Michael Mente
+
+Beilage 185
+
+Von dem Amt eines verordneten Decani.
+
+Worauf sich
+des Decani An-
+sehen grue nden
+soll.
+
+Eines Capitels verordneter Decanus soll vor allen Dingen in selbs
+eigener Person alles dasjenige treulich erstatten, was in vorstehen-
+der Ordnung, denen Pfarern und Diaconis, ihre Lehre und Wandel,
+desgleichen Eheweiber, Kinder und ganze Haushaltung betreffend,
+vorgeschrieben ist; damit in seinem selbs eigenen Beyspiel sein
+gebue hrendes Ansehen vornehmlich gegrue ndet sey.
+
+5
+
+61
+
+Wohin seine
+Bemue hung ins-
+gemein gehen
+soll.
+
+Darnach soll er aus wahrer Liebe zu GOttes Ehre und Erhaltung
+des Wolstands der H[eiligen] Christlichen Kirchen, hoe chsten Fleis- 10
+ses trachten und sorgen, dass von allen und jeden Brue dern seine
+Capitels, in allen und jeden Punkten, Unsern Obrigkeitlichen, in
+GOttes Wort und Geseze gegrue ndeten Befehlen, guten Ordnungen,
+Mandaten und Sazungen getreulich und mit geziemendem Gehor-
+sam nachgelebt werde. Darbey soll er stets gedenken und wol ue ber- 15
+legen, daß er sich weder gegen GOtt, noch gegen einem Ehrw[ue r-
+digen] Synodo86 werde entschuldigen koe nnen mit dem, daß ihm
+nicht geklagt, noch angezeiget worden sey: dann er selbst soll als
+darzu bestellter Aufseher und Wae chter, allen Sachen mit Ernst,
+ohne Unterlaß, und bey jeder Gelegenheit nachfragen und auf- 20
+merksam nachforschen; damit alle Aegerniß entweder gae nzlich ver-
+hue etet, oder doch unverzogenlich gestellt und verbessert, und also
+seine Capitels- und Amts-Brue der ihrer selbst, der ihrigen und der
+Pfar-Anvertrauten eine fleißige Rechnung haben, durch des De-
+cani geflissene Aufsicht und vorleuchtendes Beyspiel desto mehr 25
+angereizt und bewogen werden.
+
+62
+
+85 Quelle: Erneuerte und vermehrte Predicanten-Ordnung für die Diener der Kir-
+chen, in der Stadt und auf der Landschaft Zürich. Samt beygefügter Stillstands-, Censur-
+und Druker-Ordnung, Zürich: Stadtkanzlei, 1758, 60–70, im Original Kapitel »VI«. Es
+wird buchstabengetreu transkribiert. Die Textgliederung ist getreu übernommen, Zei-
+chensetzung nur wo es nötig ist, modernem Gebrauch angepasst. Unterschiedliche
+Schriftschnitte in der Vorlage werden bei der Wiedergabe nicht berücksichtigt.
+
+86 Die Synode ist in diesem Sprachgebrauch männlich.
+
+»Von dem Amt eines verordneten Decani«
+
+121
+
+Die Visitationen soll er mit Ernst, mit Fue rsichtigkeit, und in allweg
+wie es sich gebue hrt, halten. Insonderheit soll er allen Argwohn, als
+ob ihm mit kostlicher Tractation87, oder mit Gaben und Geschen-
+ken gedienet wae re, fleißig meiden.
+
+Von den
+Visitationen.
+
+5
+
+10
+
+Zu den Visitationen soll er wenigstens einen aus seinen Capitels-
+Brue dern mitnehmen; doch so, daß er nicht nothwendig an den
+Camerarium88 des Capitels gebunden seyn, sondern ihm gae nzlich
+frey stehen soll, jedesmal denjenigen zu seinem Gefehrten anzu-
+nehmen, der ihm der fueglichste ist, und hierinne so zu handeln,
+daß man spue hren moe ge, daß ihm diejenigen, die sich am besten
+und ruhmlichsten verhalten, vor andern aus die liebsten seyen.
+
+Wen er darbey
+zu Hue lf neh-
+men soll.
+
+63
+
+15
+
+20
+
+25
+
+Was der Zeit
+halber zu
+beobachten.
+
+Es soll ein Decanus, ohne sich an eine bestimmte und bekannte
+Zeit zu binden, auch nicht zumal die Brue der alle auf einer Reise,
+sondern ganz unversehenlich89 jetzt diese, ein ander mal andere
+visitiren. Deßgleichen soll er, wo es die Nothdurft erfordert, und so
+viel immer der Umstae nden halber moe glich ist, die Visitation so
+einrichten, daß er, ohne vorgehende Warnung, des einen oder an-
+dern Predigt, am Sonntag, oder der Wochen, oder auch der Ca-
+techisation90 (wie er es seiner eigenen Gemeinde halber am komm-
+lichsten wird bestellen koe nnen,) beywohne: Alles in dem Absehen,
+damit er desto besser und eigentlicher erkundige, was an einem
+Bruder zu rue hmen, oder auch zu verbessern sey.
+
+Bey der Visitation in dem Pfarhaus soll er sich mit dem Pfarer in
+sein Musaeum91 verfue gen, und sich da vorzeigen lassen, was der
+Pfarer, neben der H[eiligen] Schrift, fue r gute und nue tzliche Bue cher
+lese; was er zu seinen Predigten fue r Subsidia92 brauche; was er in
+Sprachen und Wissenschaften, vornemlich auch in der Historie
+und Theologie absonderlich traktiere; was er fue r Locos commu-
+
+Von der
+Visitation bey
+dem Pfarer.
+
+87 Damit ist das Aufführen von Speisen gemeint. Neben Geschenken ein Weg der
+
+Bestechung…
+
+88 Dem Camerarius entspricht heute der Vizedekan.
+89 Unvorhersehbar, unangemeldet.
+90 Unterricht von Kircheneintretenden.
+91 Damit ist wohl das Studierzimmer mit Bibliothek gemeint.
+92 Vermutlich text- und überlieferungsgeschichtliche Darstellungen oder Predigtma-
+
+nuskripte gemeint.
+
+Von der Visita-
+tion bey der
+Gemeinde.
+
+122
+
+Michael Mente
+
+64
+
+65
+
+nes93 zu Rath ziehe oder selbst sammle; er soll die Predigten, Sche-
+matismos und Memorialia, bey welchen allwegen der Tag verzeich-
+net seyn soll, wann sie gehalten worden, sich vorlegen lassen, und
+dieselben fleissig durchgehen. Desgleichen soll er auch die Tauf-,
+Ehe- und Todten-Matricul94, den Catalogum Catechumenorum95,
+die Haus-Besuchungs-Roe del96, und das Stillstands-Protocoll97 ge-
+nau einsehen, und darauf achten, ob alle diese Stue ke der Ordnung
+gemae ß eingerichtet und fleißig fortgesetzt worden. Item ob die
+ue brigen ins Pfarhaus gehoe rigen Schriften und Bue cher, als da sind,
+die Helvetische Glaubens-Bekanntniß, die Predicanten-Ordnung, 10
+die Schul-Ordnung, die Oberkeitlichen Mandat, die Armen-Ver-
+zeichniß u.s.f. wol verwahrt bey Handen seyen.
+
+5
+
+Darnach soll er einen visitierten Bruder in seinen Beschwerden,
+und was einem jeden in seiner Gemeinde fue rfae llt, freundlich an-
+hoe ren, auch ihm mit Rath und Zusprechen trostlich und wol be- 15
+holfen seyn.
+
+Bey der Visitation ausser dem Pfarhaus, (die so viel moe glich, und
+die verschiedenen Umstae nde es zugeben, in die Kirchen zu verle-
+gen seyn wird,) soll der Decanus sich zuerst bey Unsern Land- und
+Obervoe gten, oder Amtleuten jedes Orts, um das Testimonium98
+ue ber die Amts-Verrichtungen und den Lebens-Wandel des Pfarers
+erkundigen: darnach aber auch bey den Stillstae ndern, Voe gten, Ge-
+schwornen und Ehegaumern99, auch andern ehrbarn unverdae chti-
+gen Leuten, und zwarn nicht immer bey den gleichen, geflissene
+Nachfrage halten, ob und was sie ab ihrem Pfarer, seinen H[eili- 25
+gen] Beruf und Amt betreffend, ab seinem Weibe, Kindern, oder
+Gesinde zu klagen haben? alles nach Ordnung und Inhalt dessen,
+so den Dienern der Kirche vorgeschrieben ist: Und so dann etwas
+
+20
+
+93 Vermutlich Sekundärliteratur allgemeiner Art.
+94 Verzeichnisse der Amtshandlungen.
+95 Damit ist vermutlich ein Verzeichnis der Konfirmanden gemeint.
+96 Ein Rodel ist ein Verzeichnis, hier dasjenige über die Hausbesuche, die der Pfarrer
+
+bei Sterbenden und Kranken zu leisten hatte.
+
+97 Der »Stillstand« ist die Behörde, die regelmässig in der Kirche zur Beratung und
+Beschlussfassung, in Einzelfällen auch zur Verurteilung (Strafpredigten) »stillzustehen«
+hatte; die Vorgänger der heutigen Kirchenpflege.
+
+98 Damit sind wohl die schriftlichen Visitationsaufzeichnungen gemeint.
+99 Dörfliche Ehe- und Sittenrichter.
+
+Von den Visi-
+tations-Actis:
+wie sie sollen
+eingerichtet
+seyn.
+
+»Von dem Amt eines verordneten Decani«
+
+123
+
+Berichts gegeben wurde, soll ein Decanus solches, jedoch ohne Be-
+nennung des Testis, einem Pfarer, und wo es vonnoe then, auch den
+Seinigen, vorhalten, ihre Verantwortung darue ber vernehmen, und
+nach Befindtniß der Schuld oder Unschuld, weiter, entweder er fue r
+sich selbst alleine, oder mit Zuzug eines oder zween der Capitels-
+Brue dern, aufrichtig, treulich und ernstlich handeln. Was aber vor
+schwere Sachen fue rfallen moe chten, oder so die geringern Fehler,
+auf freundliches Zusprechen, nicht wae ren verbesseret worden, das
+soll, zumalen zwischen beyen Synodis, an Unsere verordnete Ex-
+aminatores gelangen.
+
+Die Visitations-Acta sollen bemeldten Unsern Examinatoren zu
+rechter Zeit, nemlich wenigstens drey Wochen vor dem Synodo,
+zugesendet, und in denselben, gemae ß dem in Beylage No 1 ange-
+fuegten Typo Visitationis100, alle Nothwendigkeit begriffen seyn:
+Als nemlich, nicht nur was ein jeder Pfarer oder Diaconus101 fue r
+Bue cher Heil[iger] Schrift erklae re, und wie weit er von einer Visi-
+tation zur andern darinne fortgeschritten; Sondern auch, was er fue r
+Subsidia darzu brauche? was er fue r Autores lese? was er fue r Locos
+communes sammle? ob er sich die Unterweisung der Jugend in den
+Catechisationen treulich angelegen seyn lasse, und das Zeugnuß-
+Buch alle Jahr absolvire? Ob er der Kranken eine getreue Rech-
+nung trage? wie die Schule bestellt? wie die Haus-Besuchungen
+verrichtet? das Gemeind- und Kirchen-Gut verwaltet, und die Ar-
+men versorget werden? Wie die Stillstae nder, Geschworene, Ehe-
+gaumer und andere, ihr Amt verrichten? Wie des Pfarers eigenes
+Hauswesen beschaffen, und wie er gegen seiner Gemeinde, und die
+Gemeinde gegen ihn stehe? desgleichen und mit Namen auch, ob er
+und seine Vicarii102, wann er derselben bedue rftig, ihre Predigten an
+der Canzel nur aus dem Papier daher lesen, oder wie es seyn soll,
+auswendig der Gemeinde vortragen? Item, ob man auch von seiner
+Arbeit einige Frucht und Segen gespue hre? und was in seiner Pfar103
+fue r Gravamina104 sich ereignen? Diese und andere nothwendige
+
+66
+
+5
+
+10
+
+15
+
+20
+
+67
+
+25
+
+30
+
+100 Vgl. Beilage Nr. 2: Vorlage für eine Visitation.
+101 Hilfspfarrer.
+102 Hier: Stellvertreter.
+103 Pfarrsprengel, Kirchgemeinde.
+104 Beschwerden.
+
+Von den Pro-
+synodis in de-
+nen Capiteln.
+
+124
+
+Michael Mente
+
+Stue ke sollen in den Actis Visitationis zwar kurz, aber grue ndlich
+vermeldet werden.
+
+68
+
+In dem Prosynodo seiner Classe soll ein Decanus præsidieren, und
+zum ersten sich selbst, darnach auch die ue brigen, einen nach dem
+andern, ausstellen, und ue ber einen jeglichen die Censur ergehen 5
+lassen; damit der Lehre und des Lebens halber fleissige und un-
+parteyische Umfrage gehalten; in geringern Sachen der Fehlbare
+ernstlich gewarnet; was aber oe ffentliche Aergernisse betrift, des-
+gleichen, wann bey geringern Fehlern auf wiederholte Warnungen
+und Bestrafungen hin keine Besserung erfolget wae re, dieselben, 10
+ohne ferners gefae hrliches Verschonen, entweder durch die Visita-
+tions-Acta, oder zwischen den Synodis durch eigene Schreiben,
+weiters an Unsere verordnete Examinatores gebracht werden
+moe gen.
+
+Wann der Capitels-Brue der einer oder der andere in dem Prosyn- 15
+
+odo etwas anzeucht, das in seiner oder einer andern Gemeinde zu
+verbessern wae re, und deswegen ein rathliches Einsehen erfordert
+wue rde: das soll ein Decanus in denen Considerationibus Synoda-
+libus, und zwarn erstlich auf der Chorherren Stuben zur Vor-De-
+liberation105, anzumelden und zu eroe fnen verbunden seyn; Im fall 20
+aber der Decanus solches zu thun vergessen, oder sonst unterlassen
+wue rde, mag alsdann derjenige, dem solches begegnet, seine dies-
+falls habende Anliegenheit einem jeweiligen Antistes oe fnen, und
+von demselben vernehmen, ob und wo er sich darum weiters an-
+zumelden habe.
+
+25
+
+Von dem
+Prosynodo
+Decanorum
+
+An dem Montag vor dem Synodo, da der Prosynodus Decanorum 69
+gehalten, und in Berathschlagung gezogen werden soll, was ge-
+meinem Synodo im namen eines gesammten Ministerii106 vornem-
+lich zur fernern Erdaurung vorzulegen seyn moe chte, soll ein De-
+canus zu bestimmter Zeit auf der Chorherren-Stuben in eigener 30
+Person, oder wenigstens durch einen darzu bestellten Repræsen-
+tanten aus seinem Capitel, unfehlbar erscheinen, daselbst verblei-
+ben, helfen rathen und handeln, was zur Handhab loblicher Ord-
+
+105 Zur Vorberatung in die Chorherrenstube in Zürich einbringen.
+106 Die hier erwähnte Dekanenkonferenz beratschlagt u.a. über Anliegen, die im Na-
+
+men der gesamten Pfarrschaft (Ministerium) der Synode anzutragen sind.
+
+»Von dem Amt eines verordneten Decani«
+
+125
+
+nung, zur Fortpflanzung christlicher Lehre und Zucht insgemein,
+und des Kirchen-Diensts oder H[eiligen] Predig-Amts insbesondere
+nothwendig ist.
+
+5
+
+10
+
+70
+
+Ein Decanus soll nach seiner Wahl einem Herrn Burgermeister,
+oder wer in dessen Abwesenheit aus den Rae then in dem Synodo
+dannzumal præsidiert, an Eydes-statt anloben, die Tage seines Le-
+bens, so lang er an diesem Amt ist, allen diesen Punkten und Ar-
+tikeln getreulich und in der Furcht GOttes, so lieb ihm GOttes
+und der Obrigkeit Huld und Gnade ist, gehorsamlich statt zu thun:
+Auch wann mit der Zeit noch ferner etwas zu verbessern fue rfallen
+moe chte, dasselbige anzuzeigen, und in allweg zu trachten, daß das
+Werk GOttes gefue rdert werde.
+
+Verpflichtung
+eines Decani.
+
+126
+
+Michael Mente
+
+Beilage 2107
+
+TYPUS, wie die VISITATIONS-ACTA instructiv und
+
+gleichfoe rmig einzurichten.
+
+Pfarer Herr N.N.
+
+Natus Ao
+
+Electus Ao
+
+I. In Ansehung seines heil[igen] Amts:
+
+A. Predigten. Was er fue r ein Buch der heil[igen] Schrift erklae re,
+
+und wie weit er darinn fortgeschritten?
+1. An Sonntagen.
+2. In den Wochen-Predigten.
+3. An Samstagen.
+4. Die Passions-Geschichte: Aus welchem heil[igen] Evan-
+
+gelio dieselbe erklae rt worden?
+a. Subsidia, die er bey Verfertigung seiner Predigten
+
+5
+
+10
+
+braucht.
+
+b. Ob er seine Predigten ganz schreibe, oder nur Sche- 15
+
+matismos mache?
+
+c. Ob er die Predigten von der Canzel memoriter vor-
+
+103
+
+trage?
+
+B. Catechisationes:
+
+1. Publicae und ordinariae:
+
+a. Ob der Catechismus und das Zeugnuß-Buch alljae hr-
+
+lich absolviert werde?
+
+b. In wie viel Classen die Catechumeni eingetheilt?
+c. Ob dieselben von Alten und Jungen fleissig besucht
+
+werden?
+
+2. Privatae und extraordinariae mit den Neo- Communi-
+
+canten:
+a. Ob dieselben fleissig gehalten werden?
+b. Wie viel Zeit darauf verwendet werde?
+
+20
+
+25
+
+107 Quelle: Erneuerte und vermehrte Predicanten-Ordnung für die Diener der Kir-
+chen, in der Stadt und auf der Landschaft Zürich. Samt beygefügter Stillstands-, Censur-
+und Druker-Ordnung, Zürich: Stadtkanzlei, 1758, 102–105.
+
+»Von dem Amt eines verordneten Decani«
+
+127
+
+c. Auf welche heil[igen] Fest-Tage, und wie viel jedes-
+
+mal examiniert worden?
+
+d. Ob ausser diesen, noch andere Catechetische Uebun-
+
+gen eingefue hrt und im Gang seyen?
+
+5
+
+e. Ob die Catalogi Catechumenorum sich in behoe ri-
+
+gem Stande befinden?
+
+C. Hausbesuchungen
+
+1. Allgemeine. Wie weit dieselben, laut Verzeichniß, von
+
+mal zu mal, fortgesezt, worden?
+
+10
+
+2. Besondere: Bey Kranken, Sterbenden etc. Ob dieselben
+
+3.
+
+fleissig gehalten worden?
+a. Wie viel Seelen in der ganzen Gemeinde?
+b. Wie viel Communicanten?
+c. Wie viel an der Fremde sich aufhalten?
+
+15
+
+D. Besorgung der Armen:
+
+104
+
+20
+
+25
+
+1. Aus den Almosen-Aemtern:
+2. Aus dem Kirchen- und Spend-Gut:
+3. Aus dem Sae kli-Geld.
+
+a. Wie viel Partheyen? Und wie viel jegliche an Mae hl,
+Brodt, Geld; wochentlich, monatlich, zu allen Fron-
+fasten, oder auf andere Termin empfange?
+
+b. Von wem, und wie diese Gue ter verwaltet, und wem
+
+davon Rechnung gegeben werde?
+
+E. Haltung der Stillstae nde.
+
+1. Ob der monatliche fleissig gehalten worden?
+2. Ob die Stillstae nder ihrem Amte genug thue en?
+3. Wie viel und was vor Personen den Stillstand ausma-
+
+chen?
+
+4. Was fue r Abae nderungen darinnen vorgefallen?
+
+30
+
+F. Schulen.
+
+1. Wie viel in jeder Pfar?
+2. Wie die Schulmeister sich verhalten?
+3. Ob die Schule auch im Sommer gehalten werde, und wie
+
+oft?
+
+128
+
+Michael Mente
+
+4. Wie stark die Anzahl der Schulkinder im Sommer und
+
+Winter?
+
+5. Ob die Schulen von dem Pfarer und den Stillstae ndern
+fleissig besucht, und alljae hrlich ein Examen gehalten
+werde?
+
+G. Tauf-, Ehe- und Todten-Matricul: Kirchen- und Stillstands-
+Protocoll etc. Ob selbige in erforderlichem Stande, und fleis-
+sig continuiert worden?
+
+II. In Ansehung seiner Person:
+
+Betreffend:
+
+1. Lehre.
+2. Leben.
+3. Haushaltung
+4. Studia privata.
+
+III. Gravamina.
+
+1. Der Gemeinde insgemein.
+2. Des Pfarrers: wegen
+a. der Gemeinde:
+b. des Stillstands:
+c. Handhab der Obrigkeitlichen Mandaten:
+d. Besuchung der Kirchen und Schulen:
+e. Verwaltung des Kirchen, Armen- und Gemeind-
+
+Guts.
+
+f. Sektierer und Sektierischer Bue cher.
+
+105
+
+5
+
+10
+
+15
+
+20
+
+IV. Frucht von seiner Arbeit: Ob er auch einige gespue hre,
+Wachsthum der Erkanntniß; in der Liebe zu dem Wort und Dienst 25
+GOttes; in mehrerm Fleisse der Tugend und Gottseligkeit etc. So
+viel in Catechisationen; bey den Haus-Visitationen von Jungen und
+Alten; Beym Besuch der Kranken und Sterbenden; auch bey dem
+Examen der Neo-Communicanten etc. zum Preis der Goe ttlichen
+Gnade, kan geschlossen werden?
+
+im
+
+30
+
+»Von dem Amt eines verordneten Decani«
+
+129
+
+Testes, die man jedes Orts besucht, oder bescheiden und zusammen
+beruffen lassen, und die man absonderlich verhoe rt, sollen nament-
+lich und specificierlich angezeiget werden.
+
+Michael Mente, Dr. phil., Zürich
+
+Abstract: From 1532 until the end of the Ancien Re´gime, deans in the Zurich church
+were accorded prominent leadership competencies as compared to their colleagues.
+Shared responsibility had always been emphasized so that the deans functioned as role
+models and held the position of primus inter pares. Notwithstanding, from the times of
+Heinrich Bullinger and through the synod with its Zensur, they were provided with
+instruments of leadership, including supervision and visitation, and served the Zurich
+Church and state as disciplinary agents. Since the 19th century introduction of church
+oversight committees of the secondary level called Bezirkskirchenpflege, the increased
+organizational autonomy of the parishes, and the reorganization of the synod, deans
+were progressively released from leadership responsibilities.
+
+Schlagworte: Dekan, Dekanenamt, Dekanate, Synode, Pfarrkapitel, Heinrich Bullinger,
+Zürich, Kirchenführung, Disziplinierung
+
+

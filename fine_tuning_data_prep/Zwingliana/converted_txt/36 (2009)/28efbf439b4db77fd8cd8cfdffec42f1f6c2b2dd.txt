@@ -1,0 +1,618 @@
+Gary Jenkins
+
+Dinner with Raphael
+
+Dinner with Raphael
+
+The prolegomena of Peter Martyr Vermigli’s Eucharistic Intellections
+
+by Gary Jenkins
+
+«When it is said that Raphael did not eat, it must not be understood as though he
+did not eat at all, but that he did not eat in a human manner [.. .] when the angel
+answered that he uses spiritual meat and drink, that spiritual food was nothing else
+than an open and manifest knowledge of the true God [.. .] The same also is our
+meat, though not exactly the same. For angels see God manifestly, we through a
+mirror, and in a riddle [.. .] those who believe in Christ [.. .] I say that they both eat
+the ﬂesh of Christ and drink his blood, to which use the symbols or signs, since
+they stir up the senses, are very proﬁtable. Not that the ﬂesh and blood of Christ
+are poured into the bread and wine, or are by any means included in those el-
+ements, but because those things are by the believers received with a true faith. For
+these are invisible nourishment, and received only in the mind.» 1
+
+This essay began as a footnote to a larger study, one looking at Peter Martyr
+Vermigli’s epistemology as it relates to both his Eucharistic theology and his
+belief that faith is an act of the intellect, and how both are understood within
+the constraints of his Aristotelianism. 2 In treating this other matters invari-
+
+1
+
+2
+
+Peter Martyr Vermigli, In librum Iudicum commentarii, Zurich: Christoph Froschauer, 1561,
+152v: «Quare cum in altero textu dicitur, Raphaelem non comedisse, non ita est intelligen-
+dum, quasi prorsus non comederit, sed quod human more non comederit. Illud aut imprimis
+animadvertendum ibi est, cum angelus respondet, se invisibili cibo ac potu vesci, eam alimon-
+iam spiritualem nihil aliud fuisse, quam apertam et perspicuam notitiam veri dei [.. .] Idem
+etiam noster cibus est, quamvis non eiusdem modi; illi enim aperte deum vident; nos autem
+per speculum, et in aenigmate. Quibus addas etiam eos qui credunt Christo, et certo sibi per-
+suadent, eum sua causa esse mortuum, et comedere carnem Christi, et eius bibere sanguinem,
+ad quem usum symbola dum sensum excitant, plurimum conferunt; non quod caro Christi et
+sanguis in panem et vinum infundantur, aut elementis illis aliquo modo concludantur, sed
+quod res illae vera ﬁde a credentibus percipiantur. Sunt enim invisibilis alimonia, quae mente
+solum capitur.» – Martyr then adds, «ut Augustinus ﬁdeliter monuit: Quid, inquiens, paras
+dentem et ventrem? Crede et manducasti.» Emphasis in the translated text added, and these
+two terms shall be touched on again in the conclusion.
+Beyond an examination of how faith is an intellectual act, the intended essay examines how
+Martyr’s epistemology could circumvent the problems comprehended in Aristotle’s agent in-
+tellect, and what these problems might entail for Martyr’s Eucharistic doctrine: namely that
+what the soul intellects is formally the same as the pragmata of intellection. If Martyr extri-
+cates himself from the formal link, how can he then avoid not merely a Nestorian sacramen-
+tology, but more especially a Docetic Eucharistic faith, the tacit and otherwise contention of
+his protagonists. The most pressing matters, however, entail Martyr’s use of causality and its
+link to epistemology (and how these are affected by the scholastic reconﬁguration of the in-
+tellect), how he employs Aristotle’s teaching that forms exist in concrete realities, and how
+
+Zwingliana XXXVI, 2009
+
+103
+
+Dinner with Raphael
+
+Gary Jenkins
+
+ably intruded that generated this paper in regard to Martyr’s use of Christol-
+ogy in the deﬁnition of his Eucharistic thought, viz., the dissonant use (as
+will be argued) of an enigmatic theologian, the ﬁfth-century father, Blessed
+Theodoret of Cyrus. Not to slight any angels by looking at «the blessed»,
+Raphael  will  return  in  the  essay’s  conclusion;  the  Stagerite,  however,  will
+have to wait.
+
+Peter Martyr Vermigli, formally and materially, at least by Roman Cath-
+olic lights, was a heretic. The reasons annexed for this judgment only indi-
+rectly touch the matter of this essay. The chief concern here, rather, is Mar-
+tyr’s appropriation of certain avenues of argument and his use of theological
+analogies and syllogisms as they appear in Theodoret of Cyr (393–457/66).
+The opacity of Theodoret of Cyr’s thought arose from the debates that con-
+cern the Council of Chalcedon (AD 451), both the runup and the sequel, and
+how the council interpreted the theology of St. Cyril of Alexandria. Theodo-
+ret himself had written in the 430s and 440s against Cyril’s theology, and ex-
+pressly against his twelve Anathemas of Nestorius, and had been a defender
+of  the  several  theologians  who  dueled  with  Cyril,  including  Theodore  of
+Mopsuestia. Theodoret faced censure and deposition, but was eventually re-
+instated following a rather ﬂattering letter to pope Leo I. Different historians
+and theologians have lined up defending or indicting Theodoret: both ob-
+servant Catholics and Orthodox, as well as the odd Anglo-catholic have de-
+fended him, and those of the same confessions have slighted his orthodoxy.
+The most recent sortie into this ﬁeld is Paul B. Clayton’s «The Christology
+of Theodoret of Cyrus». 3 Assessing Theodoret’s theology faces several ob-
+stacles. One material cause of this ambiguity, is the decree of the ﬁfth ecu-
+menical  council,  the  second  of  Constantinople,  in  553.  Animated  by  the
+political hopes of the theologically astute emperor, Justinian I, the Council
+condemned Theodoret’s expressly anti-Cyrillian writings. The council was
+not discriminating of Theodoret’s works in what it placed in the condemned
+«Three Chapters»; it simply stated that those which spoke against Cyril were
+indicted. 4 Though Leo I the Great had rehabilitated Theodoret (condemned
+
+3
+
+4
+
+both of these are handled by Martyr in his making faith an intellectual act. To answer prop-
+erly the questions involved entails treating how exactly Martyr, in whatever way an Aristote-
+lian, employed and applied the teachings of the Philosopher to his theology.
+Paul B. Clayton, The Christology of Theodoret of Cyrus, Oxford 2007.
+The three chapters were the entire corpus of Theodore of Mopsuestia, the anti-Cyrillian writ-
+ings of Ibas of Edessa, and the offending works of Theodoret «in which [he] had attacked the
+anathematisms of Cyril of Alexandria and the Council of Ephesus (431), and in which he spe-
+ciﬁcally rejected any form of theopaschism.» The ﬁrst condemnation came from Justinian in
+544. Cf. Jean Meyendorff, Christ in Eastern Christian Thought, Crestwood 1975, 80–81. For
+a full discussion of Justinian, his thought along with supporting documents, and the contro-
+versy over the Three Chapters, see On the Person of Christ: The Christology of Emperor
+Justinian, trans. Kenneth P Wesche, Crestwood 1991.
+
+104
+
+Zwingliana XXXVI, 2009
+
+Dinner with Raphael
+
+in the Latrocinium council of Ephesus in 449), and though then admitted to
+sit at the Council of Chalcedon, having subscribed to the Twelve Chapters
+and condemned Nestorius, as Patrick Gray has noted, Theodoret never tran-
+scended the suspicions of the Cyrillians of the council (one mention of him in
+the Acta identiﬁed him as a «disguised Nestorian»). 5 He lived till 457 or 466,
+continuing his writing, and died in the communion of the Church. Thus,
+there was no question in 553 of condemning him per se. But the condem-
+nation met resistance, both from Rome and in the East, as a number of Chal-
+cedonians had used Theodoret, especially in the latter half of the ﬁfth cen-
+tury,  against  the  Monophysites.  Indeed  Rome  did  not  want  to  accept  the
+condemnation, for it had been Leo I the Great who had exonerated Theodo-
+ret, 6 but Pope Vigilius eventually agreed to the action.
+
+Those writings of Theodoret that were overtly opposed to the Alexan-
+drian theology comprised only a portion of his corpus. 7 Thus the question is,
+should all of the remainder then be viewed as ample food for the soul of the
+faithful? Here more problems emerge: while some strict Orthodox refer to
+Theodoret as «blessed Theodoret», 8 as Fr. Jean Meyendorff, Patrick Gray,
+and  Paul  Clayton  have  pointed  out,  Theodoret  accepted,  but  only  with  a
+Nestorian gloss, the faith professed at Chalcedon, Cyril of Alexandria’s as-
+sertions about the One Christ as expressed in the Formula of Union of 433,
+Leo’s Tome and the Council’s decree. His reputation’s revival rested on many
+seeing Chalcedon as a corrective to Cyril, exempliﬁed in modern scholars
+seeing a Neo-Chalcedonian party. This interpretation, identiﬁed with such
+historians of doctrine as J. N. D. Kelly and Jaroslav Pelikan (at least in his
+earlier works), inter alios, is now questioned. One place the revisionists point
+to is Theodoret’s comments on the words of St. Luke at the end of the second
+chapter of his Gospel, that Christ grew in wisdom and stature, and in favor
+with God and man: Theodoret applied these only to Christ’s human nature,
+not to the Word, and while he nowhere ever identiﬁes the prosopon of Christ
+with the prosopon of the Word, he does take pains to distinguish them. His
+letter to John of Aegae, written subsequent to Chalcedon, gives the measure
+of Theodoret’s ambivalence toward the Council. The Chalcedonian formula,
+
+5
+
+6
+
+Patrick T. R. Gray, The Defense of Chalcedon in the East. 451–553, Leiden 1979, 8–16.
+Ibid. This rehabilitation was based upon, as Gray puts it, the evidence of one very ﬂattering
+letter to the Pontiff and the emperor. Gray goes on to show that Theodoret’s place in the
+council was minimal, due to his fellow bishops open hostility to him.
+
+7 Most notably his «Apology for Diodorus and Theodore», and his condemnation of Cyril’s 12
+Anathemas and defense of Nestorius. Much of Theodoret’s work is lost, but his extant works
+ﬁll four volumes of Migne, plus several other pieces collected since. A good bit of this is com-
+mentary on the Scriptures.
+See, for example, the discussion of Theodoret’s work in Georges Florovsky, The Byzantine
+Fathers Of the Sixth to Eighth Century, Vol. IX of Collected Works (Belmont, 1987).
+
+8
+
+Zwingliana XXXVI, 2009
+
+105
+
+Gary Jenkins
+
+according to the letter, could only make for two readings: that the one hypo-
+stasis was that of a composite physis (a deformed Monophysitism, or more
+aptly, Eutycheanism), or else that it was a prosopon of union, i.e., Nestori-
+anism. 9 Chalcedon assumed a minor footnote to his theology, or at best as
+some corrective or revision of Cyril. While having condemned his old friend,
+Nestorius, at Chalcedon, he never would admit to the theology that saw the
+one prosopon of the Incarnate Christ as identical with the hypostasis of the
+Divine Logos. As Clayton puts it, «after his participation in Chalcedon, his
+only way to justify the expression one hypostasis in two physeis is to make it
+mean a union in prosopon – that is, kata prosopon.» 10 Because defenders of
+Chalcedon  employed  Theodoret,  he  became  a  stone  of  stumbling  for  the
+Monophysites.  For  many,  both  after  the  Council  of  Chalcedon  and  even
+today, Theodoret’s most famous theological treatise, the «Eranistes», is read
+simply  as  an  anti-Monophysite  tract  (though  written  against  Eutyches,
+whom the Monophysites also condemned), failing to see its essential Nes-
+torian and anti-Cyrillian character. 11 The implications of this for Peter Mar-
+tyr must now be examined.
+
+Martyr linked analogically his Eucharistic theology and his Christology
+proper. To this end, he employed Theodoret in two distinct settings, though
+both of them in regard to his Eucharistic polemic. First Theodoret served as a
+foil of Roman Catholics with regard to transubstantiation during the Oxford
+Disputation of 1549, and then similarly in the subsequent «Tractatio» on the
+Eucharist. He used this anti-transubstantiation tactic as well with his «De-
+fensio» of Cranmer against Gardiner. His other use of Theodoret pertained
+to his arguments with the Lutherans, and Johannes Brenz in particular, in the
+«Dialogus de utraque in Christo natura». 12 Martyr put Theodoret into ser-
+vice to assail the Lutheran doctrine of the omnipresent nature of Christ’s di-
+vinized human nature, and thus, consequently, a presence in, with, and under
+the Eucharistic elements, a doctrine dubbed ubiquitarianism.
+
+With respect to the Catholics the polemical use of Theodoret is readily ap-
+parent: here, a notable Church Father, one who though at one time a heretic,
+namely a Nestorian, but who had been as well rehabilitated by no one less
+
+Ibid, 51.
+
+9 Clayton, Theodoret, 275–277.
+10
+11 Clayton spends considerable effort in detailing the «Eranistes’» Nestorian nature. This view
+is also maintained by Francis Sullivan, The Christology of Theodore of Mopsuestia, Rome
+1956; and Edward Kilmartin, The Eucharist in the West: History and Theology, ed., Robert
+J. Daly, Collegeville, MN 1998; and Patrick Gray.
+
+12 Zurich: Christoph Froschauer, 1561. English translation: Peter Martyr Vermigli, Dialogue on
+the Two Natures in Christ, ed. John Patrick Donnelly, Kirksville, MO 1995 (Sixteenth Cen-
+tury Essay and Studies 31). All quotations from the «Dialogus» are taken from Donnelly’s
+translation.
+
+106
+
+Zwingliana XXXVI, 2009
+
+Dinner with Raphael
+
+than Pope St. Leo the Great, had set out in his three-part dialogue, «Eran-
+istes» 13, a deﬁnition of the Eucharist hardly commensurate with the Catholic
+doctrine of transubstantiation. Written about 448 prior to his rehabilitation,
+Theodoret,  addressing  the  main  questions  of  Christology,  makes  several
+analogies,  drawn  on  Eucharistic  considerations,  about  the  nature  of  the
+union of the two natures in Christ. Martyr adopts Theodoret’s Eucharistic
+analogies, wherein the ﬁfth-century father – at times defending Theodore of
+Mopsuestia  against  Cyril  of  Alexandria,  and  at  other  times  aiming  at  Eu-
+tyches – asserts a Eucharistic theology opposing the Eutychian and putative
+Monophysite  notion  that  the  Eucharistic  elements  undergo  a  substantial
+change analogous to the change of Christ’s ﬂesh at the ascension. 14 Martyr’s
+anti-Catholic polemic rests on Theodoret’s legacy as a Nestorian prodigal re-
+turned home. He notes at the 1549 Oxford disputation that Theodoret was
+«held to be most learned and eloquent [.. .] a learned man and saintly member
+of Christ’s church.» 15 Martyr, further, casts him as a defender of the faith
+against the Eutycheans (and implicitly the Lutherans): «He stands against
+those who denied that Christ had a true body, saying that at the time of the
+ascension his body was completely changed into the divine nature.» In the
+«Defensio  contra  Gardineram»  Martyr  uses  Theodoret’s  Eucharistic  anal-
+ogy, that as the bread remains within the Eucharist unconverted, so too does
+Christ remain in his human nature, unconverted, in heaven. For Martyr, of
+course, the analogy is simply reversed. 16
+
+This  all  is  fairly  stable  ground  with  respect  to  formal  Christological
+matters, but Martyr’s use of Theodoret in the «Dialogus» presents a number
+of difﬁculties. The «Dialogus», formally a Christological dialogue, materi-
+ally and in intent is a treatise on the Eucharist. Since the early 1520s, and
+given fulsome ampliﬁcation at Marburg in 1529, Luther and his colleagues
+had argued that the humanity of Christ was animated and deﬁned, since the
+resurrection and ascension, by the inﬁnite power of God entailed in the no-
+tion  of  «God’s  right  hand». 17  Thus  the  humanity  of  Christ  was  present
+
+Jacques Paul Migne, Patrologia cursus completus, Series Graecae [MPG], vol 83.
+
+13
+14 Kilmartin, Eucharist in the West, 37–41.
+15 Peter Martyr Vermigli, The Oxford Treatise and Disputation on the Eucharist, trans and ed.
+
+Joseph C. McLelland, Kirksville, MO 2000 (Sixteenth Century Essay and Studies 56), 55.
+
+16 Defensio  doctrinae  veteris  et  Apostolici  de  sacrosancto  eucharistiae  sacramento  adversus
+Stephanam Gardinerem, Zurich: Christoph Froschauer, 1559. Martyr’s use of Theodoret’s
+analogy p. 385 ff, 575ff. Cf. Joseph McLelland, The Visible Words of God: A study in the
+theology of Peter Martyr, 1500–1562, Edinburgh 1957, 104–110.
+
+17 Luther’s doctrine of the real presence slighted transubstantiation, and he had come to this
+conclusion before his debates about the issue with Karlstadt in 1523, and certainly well before
+the disputes with Zwingli and Oecolampadius beginning in 1526. He had garnered his doc-
+trine at least some ten years prior to the famous confrontation at the Marburg Colloquy from
+Pierre d’Ailly, who had maintained the real presence without holding to transubstantiation.
+
+Zwingliana XXXVI, 2009
+
+107
+
+Gary Jenkins
+
+throughout all creation, not «chained» to the right hand of God as if in some
+location. To the Lutherans, this was a natural consequence of the doctrine of
+the hypostatic union and the communicatio idiomatum. Pantachus, Martyr’s
+appellation for Brenz in the «Dialogus», asserts, and here citing Pope Gela-
+sius (d. 496), that «the whole man continues to be what God is, as the whole
+God continues to be whatever a man is.» 18 For Brenz, the hypostatic union
+renders the human nature of Christ coextensive or coterminus with the di-
+vine nature, and in this way presents us with a new reading of not only Ge-
+lasius,  but  also  Cyril  of  Alexandria.  Martyr  correctly  saw  this  Lutheran
+idiom as an overstatement of the case. His retort, aside from tacitly accusing
+Brenz of Monophysitism, focused on the distinction of natures made em-
+phatically dogmatic by the 433 formula of union, and explicit by Chalcedon.
+Martyr minces no words that he holds without reservation «the three creeds,
+namely the Apostles’, Nicene, and Athanasian creeds, as well as the ﬁrst six
+Councils, in what they deﬁned regarding the most blessed Trinity, the person
+of the Son of God and his two natures [.. .]» 19 Martyr had already declared
+that, «Christ is one person, but he has two natures conjoined in the same hy-
+postasis but both retain their properties intact and whole.» 20 Within this con-
+fession, Martyr’s Christology is nothing other than Orthodox and Catholic,
+inviolate in form and creed (leaving aside the question of the Athanasian for-
+mula). But this statement says more than what Martyr wished. His employ-
+ment of Theodoret, inter alia, puts Martyr opposite the last two councils
+which he here declares he embraces.
+
+Martyr’s reading of Theodoret betrays an equivocation in his use of terms:
+namely, Word, Son, nature, and Christ – equivocations made all the more
+problematic given, as herein argued, Theodoret’s veiled Nestorianism. First,
+Martyr pressed the identity of the Word with the divine nature almost to an
+equation of the two. Care must be taken, but it is evident that he tries to
+stretch  what  the  Word’s  divinity  entails  beyond  what  Cyril  did.  Martyr
+maintains that «the divine nature of the Word is incapable of death and really
+can’t be said to have died.» He then cites Theodoret from part III of the «Er-
+anistes», [Impatibilis]:
+
+Luther admits as early as 1520 in his «The Babylonian Captivity of the Church» to having
+read d’Ailly, whose teaching on this was expressed in his «Quaestiones super libros Senten-
+tiarum».  The  central  place  of  ubiquitarianism  in  Luther’s  teaching  is  set  out  in  Hermann
+Sasse, This is My Body: Luther’s contention for the Real Presence in the Sacrament of the
+Altar, Minneapolis 1959. Davis questions Sasse’s contention about ubiquity’s centrality, as-
+serting that ubiquity for Luther was little more than a guarantor of the Word effecting God’s
+promises.  See  Thomas Davis,  This  is  My  Body:  The  Presence  of  Christ  in  Reformation
+Thought, Grand Rapids 2008, 41–63.
+
+18 Vermigli, Dialogue on the Two Natures in Christ, 28.
+19 Vermigli, Dialogue on the Two Natures in Christ, 23.
+20
+
+Ibid.
+
+108
+
+Zwingliana XXXVI, 2009
+
+Dinner with Raphael
+
+«But those who hear of the passion of God’s Son don’t do even this [distinguishing
+between body and soul]; rather they give no thought to the body, to which the suf-
+fering pertains; and then the passion would prove, by the language it uses, that the
+divine nature, which is impassible and immutable and immortal, is mortal and able
+to suffer. And when they know this, the assumption of the body would have been
+superﬂuous, if the nature of God the Word could suffer.» 21
+
+Martyr cites Theodoret further: «If he, who before the incarnation could not
+suffer, after the incarnation suffered, he suffered by undergoing a change.
+And if he, who before becoming a man was immortal, tasted death after be-
+coming a man [.. .] he was radically changed, from immortal to mortal.» In
+introducing this section, Martyr noted that «the divine nature of God the
+Word is incapable of death and really can’t be said to have died.» 22 Martyr’s
+imprecision, here and elsewhere, can be attributed to what he believed Brenz
+was teaching, that the Lutheran use of the communicatio idiomatum was no-
+thing other than a confusion of the two natures in Christ. But his argument
+here goes beyond this: the identiﬁcation of the Word with the divine nature
+precludes the Word from assuming the foibles of human nature. Martyr, by
+rightly noting the impassibility of the divine nature, then identiﬁes this as a
+limiting term to the hypostasis of the Word.
+
+What this does is then leave Martyr open to the charge of Nestorianism,
+not merely by the confusion, but what this then would lead him to assert
+about the Word’s relation to the humanity. The really damning, or as might
+be said, anathematizing, quote, or better put, commentary on a quote, comes
+next:
+
+«In his third dialogue [Theodoret] adds, ‹Saint Peter in his catholic epistle says that
+Christ suffered in the ﬂesh. But he who hears Christ understands not the incor-
+poreal God the Word, but the incarnate Word. The name of Christ signiﬁes both
+natures. That the Word was subjected to suffering in the ﬂesh signiﬁes that one na-
+ture, not both, suffered. He who hears that Christ suffered in the ﬂesh again rec-
+ognizes  him  as  the  impassible  God,  but  attributes  the  suffering  to  the  ﬂesh
+alone.› » 23
+
+This assertion obliterates the union that the Word has with human nature, for
+at best it makes it little more than a ﬁction, and effectively creates, as had
+Nestorius, two Words. A few folios on, Martyr cites Theodoret’s citation of
+Eustathius, and observes that, «These words also show which properties are
+so much a part of human nature that they cannot be communicated to the
+
+21
+
+22
+
+23
+
+Ibid, 63.
+Ibid, 62.
+Ibid, 63–64. Donnelly’s translation has an opening quote at the beginning of the quotation
+from Theodoret, but no closing quote. He also attributes the quotation to 1 Peter 3,18 (which
+reads «He was put to death for us in the ﬂesh»), but it is 1 Peter 4,1. The citation of Theodoret
+is from MPG 83, 263A.
+
+Zwingliana XXXVI, 2009
+
+109
+
+Gary Jenkins
+
+Word.» 24  One  must  ask,  is  anything  created  communicable  then  to  the
+Word?  Can  anything  be  assumed?  What  might  Gregory  of  Nazianzenus
+think of this theology?
+
+Martyr then quotes Cyril of Alexandria from his letter to John of Anti-
+
+och:
+
+«‹Besides, we all confess that the Word of God is impassible even though in dis-
+tributing wisely this mystery the Word seems to have attributed to itself the suf-
+fering that happened uniquely to the ﬂesh. That wise man Peter says as much,
+‘Christ suffered in the ﬂesh’ for us; he did not say, ‘in the nature of his ineffable di-
+vinity’.› [.. .] From this passage it is already taken for granted that the sufferings of
+Christ belong to his ﬂesh, but it speaks about the Word insofar as the Word at-
+tributes them to itself. And so they belong to the Word in the judgment and state-
+ment of Scripture, not because the Word Itself really suffered and died.» 25
+
+The telling point is that Martyr gives this passage a sense that stands Cyril on
+his head. 26 Cyril now professes that the Word should not be attributed with
+the sufferings of the human nature, but only that He «seems» to suffer. From
+this Martyr then commits a grave error, when he fails to read the distinction
+that Cyril so clearly maintained, that the Word truly suffered, but not in His
+divine, but in his human nature. Martyr, commensurate with what was al-
+ready cited, makes the communicatio idiomatum a seeming ﬁction, appropri-
+ated by Christ only in appearance. He then proceeds to muddle that about
+which Cyril was so explicit:
+
+«When Cyril said that the Word suffered in the ﬂesh, he gave offence to many
+people. To absolve himself he wrote in his twelfth Anathema ‹But because we say
+that it was exclusively his own body that he received from the holy Virgin, we are
+on very solid ground in saying that the sufferings of the ﬂesh belonged to him ac-
+cording to the distribution of properties, taking into consideration everywhere his
+impassible nature. For God comes from God. Therefore when he is said to suffer
+in the ﬂesh, he is not to be understood as suffering in his own proper nature, for
+his body that is united to him was created, as I said earlier›, and so forth. Therefore
+he himself asserts that the Word did not suffer in its own nature.»
+
+It can be argued that Martyr here teaches that the Word does not suffer in the
+divine nature, and with this Cyril would certainly agree. But this is not what
+Martyr is saying, and indeed he has confused Cyril’s use of Word and nature,
+
+24
+
+Ibid, p. 66.
+Ibid, p. 67. The letter is often referred to by its Latin title «Laetentur coeli». Emphasis added.
+25
+26 Martyr translated (cid:1)ρ(cid:3)(cid:4)τ(cid:6) (the middle and passive present optative forms of (cid:1)ρ(cid:7)ω) as seems
+instead of is seen. I am working off the text in MPG 77,180. In Martyr’s original text (Dialo-
+gus, 39v), he translated (cid:1)ρ(cid:3)(cid:4)τ(cid:6), as videatur. It could be translated into English as is seen, yet
+this would then go against Martyr’s argument, and I agree fully with Donnelly’s translation of
+seems. My thanks to John Patrick Donnelly for his aid on this text.
+
+110
+
+Zwingliana XXXVI, 2009
+
+Dinner with Raphael
+
+making them univocal terms. He then goes on to quote again from Theodo-
+ret, and here Martyr’s argument falls short of ecumenical Christology:
+
+«‹Whatever divine names the Scripture leaves free from suffering, you too should
+allow to be free without attributing his suffering to them. God never joined suf-
+fering to this terminology›, and so forth. He [Martyr writing of Theodoret] adds,
+‹He does not permit this expression, ‘the Word suffered in the ﬂesh’. He says,
+‘This speaks about the manner of his suffering, not his inability to suffer’. Nobody
+has said this about the human soul. Would anybody say, unless completely sense-
+less, that the soul of Paul died in the ﬂesh? This would not even be said about the
+most depraved and criminal of men. Even the wicked have immortal souls. But we
+say, for example, that the murderer is killed, but no one would say that his soul was
+killed in the ﬂesh›, and so forth.» 27
+
+Martyr then adds, «But this author admits that Christ suffered in the ﬂesh, as
+did Peter, but he by no means allows the expression that the Word suffered in
+the ﬂesh.» Here Martyr has fallen short of Cyril, Ephesus, and indeed Leo
+and  Chalcedon:  he  has  distinguished,  as  had  Nestorius,  Christ  from  the
+Word. In order more emphatically to reinforce the case concerning the dis-
+tinctions of the human nature from the Person of the Word, Martyr adduces
+Gregory of Nazianzenus from his oft cited letter to Cledonius. He calls on
+Gregory to assert that the union of the Word with human nature is only ver-
+bal, and that we should be careful always to preserve the Word’s impassibil-
+ity.
+
+«If anybody says that the Lord’s ﬂesh came down from heaven and does not have
+its origin with us here [NB Martyr omits ‹nor of us though above us›], let him be
+anathema. For ‹the second man is from heaven›, and ‹as is the man from heaven, so
+are those who are of heaven›. And, ‹no one has ascended into heaven but he who
+descended from heaven, the Son of Man [NB: Martyr omits ‹which is in heaven›]›
+[. . .] 28 [and in] other similar passages [as those just quoted], we must understand
+that those expressions are the result of the union with man, for instance, that ‹all
+things were made› through Christ and ‹that Christ may dwell in our hearts›. It is
+not as God that he appears but as he is understood, with the terms applied as are
+also the natures.»
+
+But Martyr omits the last clause from the last sentence: «ﬂowing into one an-
+other according to the law of their intimate union.» 29 Earlier in the letter,
+Gregory had already written
+
+«God and man are two natures, as also soul and body are, but not two sons or two
+gods. For neither in this life are there two manhoods, even though Paul speaks
+using such language as of the inner and outer man. And, if I may speak directly, the
+
+27
+
+28
+
+29
+
+Ibid, p. 67
+Ibid, p. 68. The citation from Gregory is in MPG 37,181. The letter runs cols 175A-193B.
+κα(cid:11) περι(cid:15)ωρ(cid:6)υσω¨´ ν ε(cid:19)ς (cid:21)λλ(cid:23)λας τ(cid:3)(cid:4) λ(cid:24)γ(cid:3)ω τ(cid:26)ς συµφυ(cid:28)ας. MPG 37,181C.
+
+Zwingliana XXXVI, 2009
+
+111
+
+Gary Jenkins
+
+Savior is composed of that which is distinct from each other, for the invisible is not
+the same as the visible, nor the eternal with what is time-bound, yet he is not di-
+vided. Let this never be said! For both natures are one by the union, the deity made
+man ((cid:29)νανθρωπ(cid:23)σαντ(cid:6)ς), and the human deiﬁed (θεωθ(cid:31)ντ(cid:6)ς).» 30
+
+Martyr, Aristotelian though he was, had fallen into an undesirable syllogism.
+Francis A. Sullivan S. J., in his «Christology of Theodore of Mopsuestia»
+ﬁnds the theological distinctions between Antioch (prior to John of Anti-
+och’s  reconciliation  with  Cyril  in  433)  and  Alexandria  arising  from  how
+Theodore on the one hand and Athanasius on the other responded to the es-
+sential Arian Syllogism: The word is the subject even of the human oper-
+ations and sufferings of Christ (major premise); but whatever is predicated of
+the Word, must be predicated of him κατ(cid:7) φ!σιν (minor premise); ergo, the
+nature of the Word is limited and affected by the human operations and suf-
+ferings of Christ. 31 The Antiochians denied the major premise, the Alexan-
+drians the minor. 32 This is evident in Peter Martyr, but for him the reaction is
+not one predicated upon defending the Word’s divinity, but instead arises
+from having found ammunition to defend his doctrines both of the Eucharist
+and of justiﬁcation, ready-made in Theodoret, the blessed.
+
+This brings us back to Raphael. Though Peter Martyr did not form his
+Eucharistic theology solely within the context of his polemic, which seems
+more to have been the character of Luther’s efforts, he nonetheless did con-
+struct it in conjunction with his soteriology. While there is a material union
+of God and man in the Incarnation, this does not effect an individual’s sal-
+vation; it gives no hope to the damned. Obtaining the beneﬁts of Christ de-
+manded more than what the immediate reality of the Incarnation proffered.
+For Martyr, the beneﬁts of union with Christ are not mediated to the Chris-
+tian through bread and wine, but mediated to the soul by faith, the bread and
+the wine being instruments by which the Incarnation’s beneﬁts come to the
+Christian. This is what true eating and drinking were, just as they were for
+Raphael. Thus, the ﬂesh of Christ, verbally (and seemingly not really and
+fully) the ﬂesh of the Word, nonetheless proﬁts nothing in regard to union
+with God, except by way of analogy: in the bread Christians see the body of
+Christ, but they must look beyond this with faith, and look beyond the ma-
+terial to the eternal. Martyr’s making the suffering of Christ only in the ﬂesh
+
+30
+
+31
+
+Ibid, 180A.
+Sullivan, Christology of Theodore, 162. Sullivan elaborates on this insight for some pages,
+but  draws  the  Alexandrian  recognition  of  it,  and  its  response  to  it,  from  St. Athanasius’
+«Against the Arians», the second book, pp. 162–65. Paul Clayton picks up on this insight as
+well: Christology of Theodoret, 283, et cetera.
+
+32 The rejection of the minor premise for Athanasius et al., rests on the fact that it saw but one
+nature in Christ. While things predicated are predicated according to nature, Christ has two
+natures, temporal and eternal.
+
+112
+
+Zwingliana XXXVI, 2009
+
+Dinner with Raphael
+
+abstracted from the Word, rings consonant with aspects of his soteriology:
+while faith could use material instruments, which the Eucharist was, what
+the sacraments promised was only realized in the world to come. Salvadore
+Corda has pointed out that the beneﬁts the Romanists attached to the Eu-
+charist (physical union with Christ) Martyr reserved for the world to come. 33
+In this world the Christian had no salviﬁc union with Christ apart from that
+effected by faith, one which made us move beyond the visual, beyond mir-
+rors and enigmas, to the union of Christ with the believer in the mind, that is
+en mentem. Faith, an intellection, was the vehicle to obtain Christ, and not
+the ﬂesh, which proﬁts nothing, at least as far as this life is concerned.
+
+Martyr’s acceptance of the ﬁrst six councils did not impede his Eucharistic
+appropriation of Theodoret. Many Monophysites had balked at accepting
+Chalcedon  because  it  had  not  condemned  Theodore  of  Mopsuestia.  This
+oversight, it may be said, was rectiﬁed by the ﬁfth council, which not only
+posthumously condemned Theodore, but which also maintained that One of
+the Holy Trinity suffered, adopting the term, which Martyr took such pains
+to deny, Theopaschism. This is not to valorize the Lutheran doctrine, but
+that Martyr in an attempt to answer the error he perceived in the Lutherans,
+had, and seemingly athwart his own admissions, fallen into another.
+
+Prof. Dr. Gary Jenkins, Eastern University, St. Davids, PA
+
+33
+
+Salvatore Corda, Veritas Sacramenti: A study in Vermigli’s doctrine of the Lord’s Supper, Zu-
+rich 1975 (Zürcher Beiträge zur Reformationsgeschichte 6), 170–178.
+
+Zwingliana XXXVI, 2009
+
+113
+
+Gary Jenkins
+
+114
+
+Zwingliana XXXVI, 2009
+
+

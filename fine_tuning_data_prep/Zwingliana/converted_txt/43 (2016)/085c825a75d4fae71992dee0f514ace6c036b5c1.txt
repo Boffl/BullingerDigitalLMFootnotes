@@ -1,0 +1,1731 @@
+ISSN 0254–4407 – Zwingliana 43 (2016), 125–159
+
+Eine unbekannte Schrift von
+
+Bernardino Ochino 1
+
+Judith Steiniger
+
+1. Vorbemerkung
+
+Am Institut für Schweizerische Reformationsgeschichte der Theo-
+logischen Fakultät der Universität Zürich wird der umfangreiche,
+bedeutende Briefwechsel des Zürcher Reformators Heinrich Bul-
+linger (1504–1574) in einer historisch-kritischen Edition, kurz
+HBBW genannt, erschlossen. Bis zum Jahr 2015 wurden 17 Bände
+nebst dem Ergänzungsband 10A herausgegeben,2 die den Brief-
+wechsel des Jahres 1524 bis zum Monat September 1546 umfas-
+
+1 Für freundliche Hinweise und Korrekturlesung danke ich Frau Dr. Alexandra
+Kess und Herrn Dr. habil. Reinhard Bodenmann, meinen Kollegen an der Heinrich
+Bullinger-Briefwechseledition. – Verwendete Siglen und Abkürzungen: Blarer BW II =
+Briefwechsel der Brüder Ambrosius und Thomas Blaurer, 1509–1548, hg. von der Ba-
+dischen Historischen Kommission, bearb. von Traugott Schieß, Bd. 2: August
+1538–Ende 1548, Freiburg i.Br. 1910; CO XII = Ioannis Calvini Opera quae supersunt
+omnia, Bd. 12, Braunschweig 1874 (Corpus Reformatorum 40); DNP = Der Neue
+Pauly: Enzyklopädie der Antike,
+in Verbindung mit Hubert Cancik und Helmuth
+Schneider hg. von Manfred Landfester, 19 Bde., Stuttgart/Weimar 1996–2003;
+Edit16 = Censimento nazionale delle edizioni italiane del XVI secolo (digitale Ressour-
+ce: http://edit16.iccu.sbn.it); Grimm = Deutsches Wörterbuch von Jacob Grimm und
+Wilhelm Grimm, 16 Bde., Leipzig 1854–1960; HBBW = Heinrich Bullinger Briefwech-
+sel, Bde. 1ff., Zürich 1973ff. (Heinrich Bullinger Werke, Abt. 2); s.v. = sub verbo;
+Vadian BW VI = Vadianische Briefsammlung, Bd. 6: 1541–1551, hg. von Emil Arbenz
+und Hermann Wartmann, St. Gallen 1908 (Mitteilungen zur vaterländischen Geschichte
+30, Dritte Folge 10); VD16 = Verzeichnis der im deutschen Sprachbereich erschienenen
+Drucke des XVI. Jahrhunderts, Stuttgart 1983–2000.
+
+2 Zur bibliographischen Angabe s. die vorherige Anm.
+
+126
+
+Judith Steiniger
+
+sen. Einige Briefe aus der Korrespondenz Bullingers liegen bereits
+in früheren Briefwechseln anderer Personen gedruckt vor,3 aber der
+weitaus größere Teil der zu edierenden Briefhandschriften ist bisher
+noch nicht veröffentlicht worden und daher einem weiteren Pu-
+blikum nicht leicht zugänglich. Vor allem in den noch unbekannten
+Briefen sind immer wieder Informationen zu finden, die zu ganz
+neuen Erkenntnissen führen oder bereits Bekanntes in anderem
+Licht erscheinen lassen. Aber auch in schon gedruckten Briefaus-
+gaben begegnen manchmal Details, die der Forschung bisher ent-
+gangen sind. Ein Beispiel dafür wird im vorliegenden Beitrag auf-
+gezeigt.
+
+2. Ein Brief des Konstanzer Reformators Ambrosius Blarer
+
+als Zeugnis für Ochinos Autorschaft einer
+
+anonymen Flugschrift
+
+Für die Edition der Korrespondenz von Juni bis September 1546,
+die als Band 17 von Bullingers Briefwechsel erschienen ist, haben
+wir einen Brief des mit Bullinger befreundeten Konstanzer Refor-
+mators Ambrosius Blarer vom 31. August/1. September 1546 be-
+arbeitet. Dieser Brief gehört zu den bereits bekannten Stücken,
+denn er war schon im Jahr 1910 als Teildruck mit zusammenfas-
+sender Übersetzung in der Edition des Blarer-Briefwechsels von
+Traugott Schieß publiziert worden.4 In dem Brief übermittelt Blarer
+zunächst etliche politische und militärische Nachrichten. Einige
+Wochen vor der Niederschrift hatte der Schmalkaldische Krieg be-
+gonnen, in dem Kaiser Karl V. einem Teil der deutschen Protestan-
+ten, die als »Einungsverwandte« im Schmalkaldischen Bund verei-
+nigt waren, gegenüberstand. Bis Ende August 1546 war es zu et-
+lichen Scharmützeln gekommen,5 ohne dass jedoch die Protestan-
+
+3 Zum Beispiel: Bullingers Korrespondenz mit den Graubündnern, hg. von Traugott
+Schieß, 3 Teile, Basel 1904–1906 (Quellen zur Schweizer Geschichte 23–25, Nachdruck
+Nieuwkoop 1968); The Zurich Letters, Comprising the Correspondence of Several Eng-
+lish Bishops and Others, with Some of the Helvetian Reformers, During the Reign of
+Queen Elizabeth. Translated and Edited by the Rev. Hastings Robinson. 2 Bde., Cam-
+bridge 1842/1845 (Nachdruck New York/London 1968); Second Edition: Chronologi-
+cally Arranged in One Series, Cambridge 1846.
+
+4 Siehe Blarer BW II 498–500, Nr. 1339.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+127
+
+ten einen eigentlichen Hauptangriff auf den bei Ingolstadt ver-
+schanzten Kaiser gewagt hätten, der sich seinerseits zurückhielt
+und auf den Zuzug von niederländischen Hilfstruppen unter Ma-
+ximilian von Egmont, Graf von Büren, wartete.
+
+Auf anschauliche Weise hat der Augsburger Stadtschreiber Ge-
+org Frölich die Situation von Ende August 1546 in einem Brief an
+Heinrich Bullinger vom 2. September 1546 beschrieben:
+
+»Der keyser mit seinen Walhen [Welschen; Italienern] unnd Hispaniern hat
+sich bei Ingolstat inn ein vortail [an einen sicheren Platz] gelegt. Ist ain moß
+[Sumpfland] hinder ime, die stat vor ime unnd die Thunaw [Donau] an der
+seitten, allso das nit wol zw ime zu kumen. So will er nit schlahen, sonnder
+warttet auff den niderlendischen hauffen. Der soll sein 3’000 pferde unnd
+15’000 zw fueß, welche glichwol uber Rein unnder Menntz [Mainz] bei
+Bingen komen. Denen werden die unnsern, dern auch bis inn 18’000 zw
+fueß unnd 2’000 zw roß nit ferr von Franckfurt liegen, underston [versu-
+chen] den zug ze wehren oder sich mit ine zu schlagen. Unnser gewaltiger
+hauff, darinn der churfurst [Johann Friedrich] zw Saxen, der landgraf [Phil-
+ipp] zw Hessen unnd annder 7 deutsch fürsten persönlich sind, liegen ain
+halbe meil von des kaisers geleger. Verhoffen, mit reißig unnd holtz wege ze
+machen, darüber sie den feynnd mögen haimsuochen. Es tragen sich täglich
+grosse scharmutzl gegen ainander zw. Werden zw beden tailn viel gefann-
+gen unnd umbracht. Aber (gott lobe) haben die unnsern noch kainen sonn-
+dern schaden genuomen, sonnder allmal dreimal so viel als der feynndt uß-
+gericht.«6
+
+Nun findet sich aber unter Blarers Mitteilungen im schon genann-
+ten Brief auch der Hinweis auf ein Ereignis, das bereits drei Wo-
+chen zurücklag. In der Nacht vom 6. auf den 7. August 1546 war
+es in der niederländischen Provinzstadt Mechelen7 infolge eines
+Unwetters mit Blitzeinschlag zu einer Explosion des Sandtores ge-
+kommen, in dem 700 Fässer Pulver lagerten. Dadurch wurden 300
+Menschen getötet, es gab 170 Schwerverletzte, 300 zerstörte und
+700 beschädigte Gebäude, und der dortige Kaiserhof wurde dem
+Erdboden gleichgemacht.8 Blarer sprach das Unglück kurz an und
+
+5 So zum Beispiel zur Eroberung der Klause Ehrenberg durch die Schmalkaldener
+
+am 10. Juli 1546; s. dazu etwa HBBW 17, 134, Zeile 118–120 mit Anm. 96, u. ö.
+
+6 Georg Frölich an Bullinger, 2. September 1546, in: HBBW 17, 324–330, Nr.
+
+2561.
+
+7 Heute Provinz Antwerpen, Belgien.
+8 Diese Angaben wurden einem Brief Johannes Hallers an Heinrich Bullinger vom
+
+26. August 1546 entnommen, s. HBBW 17, 296–300, Nr. 2551.
+
+128
+
+Judith Steiniger
+
+verwies dann darauf, dass Bullinger von dem Briefboten mehr dar-
+über erfahren würde. Dieses Geschehnis sei, so Blarer, ein »zai-
+chen«, von denen sich in den Niederlanden viele ereignen würden.
+Auch andere Zeitgenossen sahen das Mechelner Unglück als böses
+Omen für den Kaiser an, so zum Beispiel Johannes Haller, ein
+23jähriger Pfarrer, der im November 1545 von Zürich nach Augs-
+burg entsandt worden war: »Was diese Vorzeichen bedeuten, wird
+wohl jeder begreifen, der ein Christ ist.«9
+
+Aber nicht nur dieses Ereignis, sondern auch einige Bücher deu-
+teten nach der Meinung Blarers auf Übles für den Kaiser voraus:
+»Täglich erscheinen Bücher, in denen dem Kaiser Schlimmes pro-
+phezeit wird.«10 Blarer zählte die Titel in seinem Brief auf:
+
+»Libellorum titulus [Buchtitel]:
+– Ursach, warumb die stend, so der augspurgerischen confession anhan-
+gend, christlich lehr erstlich angenommen und endtlich daby zuo verharren
+gedenckend, auch warumb das vermaindte trientisch concilium weder zuo
+besuochen noch darin zuo willigen seye. Gestellt usß churfurstlichem bevelch
+durch Philippum Melanchthon.11
+– Ursprung und ursach diser uffruor teutscher nation. Ain lied in bruoder
+Veyten thon.12
+– Item die verschreibung kaiser Carlis gegen dem roe mischen reych.13
+– Klag des teutschen lands und antwurt der hoffnung. Bernarden Ochin.
+Es sind ir noch mehr. Fallend mir nit zuo.«14
+
+Im Zentrum dieses Beitrags soll die hier zuletzt genannte Schrift
+»Klag des teutschen lands und antwurt der hoffnung« stehen. Es
+handelt sich bei diesem von Ambrosius Blarer so paraphrasierten
+Titel gewiss um die Flugschrift »Ein Gesprech des Teütschen Lands
+und der Hoffnung, dise gegenwertige Kriegsleüff betreffend inn
+Welschland beschriben und hernach welscher Sprach verteüt-
+schet«15 aus dem Jahr 1546.
+
+9 »Quid sibi haec praesagia velint, quemvis puto intellecturum christianum« (ebd.,
+
+298, Zeile 20f.).
+
+10 »Eduntur quidam libelli quotidie, quibus caesari male ominantur« (ebd., 313,
+
+Zeile 31).
+
+11 Siehe dazu Helmut Claus, Melanchthon-Bibliographie 1510–1560, Teilband 2:
+1541–1550, Heidelberg 2014 (Quellen und Forschungen zur Reformationsgeschichte
+87/2), 1211f., Nr. 1546.2; VD16 M 2653.
+
+12 VD16 S 4303.
+13 VD16 D 1146; D 1144; D 1149; ZV 4436; ZV 25004.
+14 HBBW 17, 372, Zeile 39–50.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+129
+
+Blarer gibt in seinem Brief an, dass die Schrift von Bernardino
+Ochino stamme – eine Mitteilung, die sich unseren Recherchen
+zufolge nur hier findet! Weder ältere noch neuere Darstellungen
+hatten Kenntnis von Ochinos Abfassung dieser Flugschrift. Man
+vergleiche etwa die recht ausführliche Bibliographie bei Christian
+August Salig.16 Auch in der gehaltvollen Studie von Johann Georg
+Schelhorn, der in den Jahren von 1762 bis 1764 in seinen »Ergötz-
+lichkeiten aus der Kirchenhistorie und Literatur«17 ebenso zahlrei-
+che wie gründliche Informationen über Ochinos Leben und Wirken
+zusammengetragen hatte, ist die Schrift nicht erwähnt. Der Wöhr-
+der Pfarrer Georg Theodor Strobel wiederum kannte im Jahr 1784
+zwar die Schrift,18 gab aber keinen Verfassernamen an. Auch Karl
+Benrath, der seiner Monographie über Bernardino Ochino aus dem
+Jahr 1892 (2. Auflage)19 eine Bibliographie beigab, wusste noch
+nichts von der Flugschrift, ebensowenig wie Roland H. Bainton in
+seinem Buch über Ochino aus dem Jahr 1940.20
+
+15 Die bibliographischen Angaben unten unter Abschnitt 5, Edition des Textes.
+16 Christian August Salig, Vollstaendige Historie der Augspurgischen Confeßion und
+derselben zugethanen Kirchen; aus bewährten Scribenten […], Halle 1733, 419–423,
+Anm. b (die Bibliographie der in der Wolfenbüttelschen Bibliothek erhaltenen Werke
+Ochinos beginnt in der fortgesetzten Anm. auf 420).
+
+17 Johann Georg Schelhorn, Ergötzlichkeiten aus der Kirchenhistorie und Literatur,
+in welchen Nachrichten von seltenen Büchern, wichtige Urkunden, merkwürdige Briefe,
+und verschiedene Anmerkungen enthalten sind. – Neuntes Stück, Ulm 1763, 765–801,
+Nr. CXXII: Nachlese von Bernardini Ochini Leben und Schriften. – Zehntes Stück, Ulm
+1764, 979–1005, Nr. CXXX: Erste Fortsetzung der Nachlese von Bernardini Ochini
+Leben und Schriften. – Elftes Stück, Ulm 1764, 1141–1145, Nr. CXXXVIII: Zusatz zu
+dem CXXX. Artikel von Ochino; 1145–1159, Nr. CXXXIX: Bernardini Ochini Ant-
+wort auf Claudii Tolomei Brief; 1160–2006, Nr. CXL: Andere Fortsetzung der Nach-
+lese von Bernardini Ochini Leben und Schriften; 2007–2035, Nr. CXLI: Ochini Schutz-
+schrift wegen seiner Absetzung und Verweisung aus Zürch; 2104–2124, Nr. CXLIX:
+Noch etwas von den Schriften Ochini. – Zwölftes Stück, Ulm 1764, 2129–2136, Nr.
+CLI: Ein Brief Ochini an Alphonsum Marchese del Vasto; 2136–2156, Nr. CLII: Von
+Ochini Dialogo de polygamia; 2157–2194, Nr. CLIII: Spongia adversus aspergines Ber-
+nardini Ochini, qua verae causae exponuntur, ob quas ille ab Urbe Tigurina fuit rele-
+gatus.
+
+18 Siehe Georg Theodor Strobel, Beyträge zur Litteratur besonders des sechszehnten
+
+Jahrhunderts, Bd. 1, Stück 1, Nürnberg/Altdorf 1784, 200.
+
+19 Karl Benrath, Bernardino Ochino von Siena: Ein Beitrag zur Geschichte der Re-
+
+formation, Braunschweig 21892.
+
+20 Roland H. Bainton, Bernardino Ochino: Esule e riformatore Senese del Cinque-
+cento. 1487–1563. Versione dal manoscritto Inglese di Elio Gianturco, Firenze [1940].
+
+130
+
+Judith Steiniger
+
+Auf welchem Wege Ambrosius Blarer von der Autorschaft Ochi-
+nos erfahren haben mag, darüber können nur Vermutungen ange-
+stellt werden. Fest steht aber, dass Blarer im Jahr 1546 mit etlichen
+Augsburgern in Briefwechsel stand: mit dem Rektor und Dichter
+Sixt Birck (»Xystus Betuleius«),21 dem Reformator Wolfgang Mus-
+culus,22 dem Stadtschreiber Georg Frölich,23 dem Pfarrer Johannes
+Flinner24 sowie mit dem aus Zürich nach Augsburg entsandten
+Pfarrer Johannes Haller25. Prädestiniert für eine solche Mitteilung
+scheint aber besonders der Augsburger Altbürgermeister Hans
+Welser gewesen zu sein, mit dem Ambrosius Blarer ebenfalls kor-
+respondierte.26 Hans Welser besuchte wahrscheinlich wie Anton
+Fugger und etliche andere Augsburger Kaufleute die italienischen
+Predigten Ochinos in Augsburg (mehr dazu weiter unten im Ab-
+schnitt über Ochinos Augsburger Aufenthalt). Zwar beherrschte
+Welser nicht das Lateinische,27 aber nachweislich hervorragend die
+italienische Sprache.28 Das kann einem Briefzeugnis des Stadt-
+schreibers Georg Frölich aus dem Jahr 1546 entnommen werden,
+wonach Welser auch in Italien gewesen war: »Welser aber be-
+herrscht das Französische und Italienische überaus gut und ist auch
+in diesen und anderen Ländern gereist.«29
+
+21 Siehe Blarer BW II 406, Nr. 1237; 433, Nr. 1275; 436, Nr. 1278; 460f., Nr.
+
+1303; 525, Nr. 1361; 531f., Nr. 1370; 542f., Nr. 1378.
+
+22 Siehe ebd., Nr. 1283.
+23 Siehe ebd., Nr. 1345; 519f., Nr. 1356.
+24 Siehe ebd., 441f., Nr. 1284.
+25 Siehe ebd., 432f., Nr. 1274.
+26 Belegt ist diese Korrespondenz beispielsweise durch ein Zeugnis von Ambrosius
+Blarer über seine Freundschaft mit Hans Welser in einem Brief an Bullinger vom 6.
+August 1542 (Blarer BW II 139, Nr. 958 und HBBW 12, 153–157, Nr. 1648); s. ferner
+(in Auswahl): Blarer BW II 280–282, Nr. 1112 und HBBW 14, 346–348, Nr. 1962
+(Buchsendung Bullingers an Welser über Blarer); Blarer BW II 282f., Nr. 1113 und
+HBBW 14, 361–363, Nr. 1970 (dasselbe betreffend); und für das Jahr 1546: Blarer BW
+II 421, Nr. 1259 und HBBW 16, 207, Nr. 2374; Blarer BW II 488–490, Nr. 1329 und
+HBBW 17, 306–312, Nr. 2534. – Siehe auch den diesem Aufsatz zugrundeliegenden
+Brief Blarers an Bullinger vom 31. August und 1. September 1546, in: Blarer BW II
+498–500, Nr. 1339 und HBBW 17, 368–374, Nr. 2558.
+
+27 Siehe dazu die Angaben in HBBW 17, 377, Anm. 16.
+28 Siehe dazu HBBW 16, 150, Zeile 80–82.
+29 »Welserus tamen Gallice˛ et Italice˛ lingue˛ peritissimus earumque atque aliarum
+
+regionum perlustrator […]« (s. HBBW 16, 150, Zeile 80f.).
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+131
+
+Laut der Titelangabe wurde die Schrift zuerst in Italien und auf
+Italienisch niedergeschrieben und dann ins Deutsche übersetzt.
+Letztere Angaben passen gut zur Autorschaft Ochinos, der ja aus
+Italien stammte und die deutsche Sprache nicht beherrschte, was
+Georg Frölich in einem Brief an Bullinger bezeugt:
+
+»Bernhardino aus Siena, der einige Jahre in Genf Christus verkündigt und
+standhaft das Papsttum bekämpft hat, ein an Gelehrsamkeit und Lebens-
+führung verehrungswürdiger Mann, ist jetzt nach Augsburg gekommen in
+der Absicht, sich hier fest niederzulassen. Wir werden diesen Mann nicht
+wegschicken, obwohl er keine öffentlichen Aufgaben in der Kirche über-
+nehmen kann, weil er die deutsche Sprache nicht beherrscht.«30
+
+Vielleicht hatte gar Hans Welser die Schrift ins Deutsche übersetzt?
+Wie dem auch sei, wirft jedoch die erste Bemerkung im Titel, dass
+die Schrift in Italien verfasst worden sei, Fragen auf. Denn Ochino
+hatte Italien bereits im Jahr 1542 verlassen – doch der Inhalt der
+Schrift bezieht sich eindeutig auf den gerade erfolgten Ausbruch
+des Schmalkaldischen Krieges (Sommer 1546). Daher darf die An-
+gabe über eine angebliche Abfassung in Italien offenbar nicht
+ernsthaft geglaubt werden. Aber warum steht sie dann da, und wie
+ist sie zu verstehen?
+
+Zuerst ist festzuhalten, dass von dieser Flugschrift mehrere Dru-
+cke existieren, die sich alle dadurch auszeichnen, dass sie ohne
+Angabe des Autors, des Druckers und des Druckortes publiziert
+worden sind. Den Forschungsergebnissen in VD16 zufolge lässt
+sich aber feststellen, dass der Erstdruck 1546 in Augsburg in der
+Offizin von Heinrich Steiner erschien (VD16 G 1868). Im gleichen
+Jahr wurde die Flugschrift in Zwickau (bei Wolfgang Meyerpeck
+d.Ä., VD16 G 1869), in Straßburg (bei Jakob Frölich, VD16 G
+1870) und in Ulm (bei Hans Varnier, VD16 ZV 21375) nachge-
+druckt. Dass man es bei der Erstausgabe vermieden hat, Autor, Ort
+und Drucker anzugeben, lässt sich gut damit erklären, dass die
+
+30 »De Bernhartino Senensi, qui aliquot annos Genephe˛ [= Genevae] Christum pre-
+dicavit et papatum viriliter expungnavit, vir et doctrina et vita venerabilis, iam Augus-
+tam venit eius animi, ut sedem sibi hic firmam faciat. Nos etiam virum hunc non
+dimittemus, quamquam propter Germane lingue˛ imperitiam non poterit publica onera
+ecclesie ferre« (Georg Frölich an Bullinger, 20. Oktober 1545, in: HBBW 15, 597f.,
+Zeile 36–40).
+
+132
+
+Judith Steiniger
+
+Autorschaft Ochinos verborgen werden sollte, der dieses kleine
+Werk während seiner Zeit in Augsburg niederschrieb. Die Angabe,
+der zufolge die Schrift in »Welschland«31 (Italien) geschrieben wor-
+den sei, steht damit zweifellos in engstem Zusammenhang; denn
+mit dieser Angabe hat man es vermocht, Ochinos Spur zu verwi-
+schen und den Anschein zu erwecken, als habe kürzlich gerade
+irgendein Italiener diese Schrift aus seiner Heimat nach Deutsch-
+land geschickt, wo sie dann ins Deutsche übersetzt wurde. So
+konnte Ochinos Verfasserschaft geschickt verborgen werden. Ochi-
+no selbst hatte Italien, wie bereits erwähnt, bekanntlich bereits
+1542 verlassen; dazu mehr im folgenden Abschnitt.
+
+3. Ochinos Wirken in Augsburg
+
+(Oktober 1545 – 29. Januar 1547)
+
+Bernardino Ochino (ca. 1487–1564/65), italienischer Geistlicher
+und reformatorischer Theologe, stammte aus Siena.32 Er trat 1503
+oder 1504 in den Orden der Franziskaner-Observanten ein und
+wurde 1523 zu dessen Provinzial der Provinz Siena gewählt. Im
+Jahr 1534 ging er in den römischen Konvent Sant’ Eufemia des
+1528 gegründeten Kapuzinerordens über. 1535 wurde er Defini-
+tor, 1538 Generalvikar. Als berühmter, gefragter Prediger war er
+viel auf Reisen. 1541 wurde er als Generalvikar der Kapuziner
+bestätigt. Sein Leben nahm eine dramatische Wendung, als er für
+den inhaftierten Giulio della Rovere (Giulio da Milano) eintrat und
+sich, bestärkt durch eine Begegnung mit Petrus Martyr Vermigli,
+im August/September 1542 einer Vorladung des Papstes Paul III.
+durch Flucht nach Graubünden und Genf entzog. Am 19. Dezem-
+ber 1542 schrieb Heinrich Bullinger an Joachim Vadian, dass
+Ochino zwei Tage in Zürich gewesen war, über seine Flucht berich-
+tet hatte und nach Genf weitergezogen war, wo er seine italieni-
+schen Predigten drucken und nach Italien einführen lassen wolle,
+damit man seine Predigten dort wenigstens auf schriftliche Weise
+
+31 Zum Gebrauch des Wortes »welsch« in diesem Sinne s. ebd., 314, Anm. 46.
+32 Diese und die folgenden Angaben wurden entnommen aus: Umberto Mazzone,
+Ochino, Bernadino, in: Theologische Realenzyklopädie, Bd. 25, Berlin/New York 1995,
+1–6.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+133
+
+vernehmen könne.33 In Genf hielt Ochino sich bis zum August
+1545 auf.
+
+Es sei hier darauf verzichtet, diese Genfer Zeit näher zu betrach-
+ten, denn für unser Thema ist vielmehr der daran anschließende
+Aufenthalt Ochinos in Augsburg (via Basel) von Interesse. Mit ei-
+nem Empfehlungsschreiben34 Calvins vom 15. August 1545 an den
+Antistes Oswald Myconius in Basel gelangte Ochino im August
+1545 in die Stadt am Rheinknie. Aus einer Stelle in Sixt Bircks
+Kommentar zu Laktanz’ »De ira dei« geht hervor, dass Ochino
+und Johannes Oporinus zu Gast bei Sebastian Castellio gewesen
+waren, welcher seit den ersten Monaten des Jahres 154535 in der
+Stadt weilte: »[..] Sebastian Castellio […] [und] seine Gäste Ber-
+nardinus Ochino aus Siena, ein Bekenner der reinen Theologie,
+und Johannes Oporin, der Basler Drucker, beide Männer äußerst
+vertrauenswürdig.«36 Die Vorrede von Bircks Kommentar datiert
+von August 1545.37 Ochino muss demnach um Mitte August 1545
+in Basel eingetroffen sein. Aber sein dortiger Aufenthalt währte nur
+wenige Tage. Spätestens am 29. August befand er sich bereits in
+Straßburg, wie einem Brief von Martin Bucer an Calvin entnom-
+men werden kann: »Wenn wir Bernardino doch nur so behandeln
+könnten, wie er es verdient! Seine Anwesenheit ist uns überaus
+angenehm.«38
+
+Vielleicht durch die Vermittlung Sixt Bircks,39 des Rektors von
+St. Anna in Augsburg, der Beziehungen nach Basel unterhielt, oder
+durch diejenige Martin Bucers, der mit Wolfgang Musculus und
+
+33 Siehe HBBW 12, 278f., Nr. 1705, sowie Vadian BW VI 183f., Nr. 1271.
+34 Johannes Calvin an Oswald Myconius, 15. August 1545, in: CO XII 136f., Nr.
+
+678.
+
+35 Siehe dazu Hans R. Guggisberg, Sebastian Castellio 1515–1563: Humanist und
+
+Verteidiger der religiösen Toleranz im konfessionellen Zeitalter, Göttingen 1997, 41.
+
+36 »[..] Sebastianus Castalio […] ipsius hospites Bernardinus Ochinus Senensis, pu-
+rioris Theologiae professor, & Ioannes Oporinus Basiliensis typographus, uterque vir
+fide dignissimus« (L. Coelii Lactantii Firmiani Opera, Basel: Heinrich Petri, 1563
+[VD16 L 42, 476]).
+37 Ebd., Bl. b3v.
+38 »Bernardinum utinam possimus pro merito tractare. Gratissima certe eius prae-
+sentia« (Martin Bucer an Johannes Calvin, 29. August 1545, gedruckt in: CO XII 152,
+Nr. 689).
+
+39 Siehe dazu Johann Georg Schelhorn, Erste Fortsetzung der Nachlese von Bernar-
+dini Ochini Leben und Schriften, in: Schelhorn, Ergötzlichkeiten aus der Kirchenhisto-
+rie, Zehntes Stück, Ulm 1764, 994.
+
+134
+
+Judith Steiniger
+
+Hieronymus Sailer in näherer Verbindung stand, gelangte Ochino
+von Straßburg aus nach Augsburg. Vor dem 20. Oktober 1545
+kam er dort an. Denn an diesem Tag teilte der Augsburger Stadt-
+schreiber Georg Frölich in dem oben schon zitierten Brief an Hein-
+rich Bullinger die erwähnte Nachricht mit: »Bernhardino aus Sie-
+na, der einige Jahre in Genf Christus verkündigt und standhaft das
+Papsttum bekämpft hat, ein in Gelehrsamkeit und Lebensführung
+verehrungswürdiger Mann,
+ist jetzt nach Augsburg gekommen
+[…].«40 Ochino kam zunächst bei dem Arzt Christoph Wirsung41
+unter und später dann im sogenannten »Wunderhaus« bei St. An-
+na, wo auch der Syndikus (Stadtadvokat) Nikolaus Müller gen.
+Maier, Sixt Birck und Michael Keller wohnten.42 Am 20. Oktober
+erhielt er vom Rat das Wohnrecht in der Stadt und die Zusicherung
+eines Gehaltes, wenn er ein Predigtamt übernehmen würde.43 Er
+predigte auf Italienisch bei St. Anna44 vor Kaufleuten über die pau-
+linischen Briefe.45 Von seinen Predigten muss eine seltene Anzie-
+hungskraft ausgegangen sein. Schon in Italien, als Kapuziner-
+mönch, war Ochino für sein eloquentes und ebenso eindringliches
+wie erbauliches Predigen weithin berühmt gewesen. Darüber be-
+richten zeitgenössische Zeugnisse, zum Beispiel Briefe von Kardinal
+Pietro Bembo an Vittoria Colonna,46 oder ein Schreiben von Gio-
+vanni Guidiccioni, Bischof von Fossombrone.47
+
+40 Siehe HBBW 15, 597f., Zeile 36–40.
+41 Siehe Friedrich Roth, Augsburgs Reformationsgeschichte, Bd. 3: 1539–1547, bzw.
+
+1548, München 1907, 242.
+
+42 Siehe Roth, Augsburgs Reformationsgeschichte, Bd. 3, 242.
+43 Siehe ebd.
+44 Siehe Helene Burger et al., Pfarrerbuch Bayerisch-Schwaben (ehemalige Territo-
+rien Grafschaft Oettingen, Reichsstädte Augsburg, Donauwörth, Kaufbeuren, Kempten,
+Lindau, Memmingen, Nördlingen und Pfarreien der Reichsritterschaft in Schwaben),
+zusammengestellt von Hans Wiedemann und Christoph von Brandenstein, Neustadt an
+der Aisch 2001, 291.
+
+45 Siehe Paul von Stetten, Geschichte der Heil. Röm. Reichs Freyen Stadt Augspurg,
+Frankfurt/Leipzig 1743, 387; Benrath, Ochino, 160. – Zu einer schriftlichen Frucht
+dieser Predigten, einer Auslegung des Briefs an die Römer, s. HBBW 16, 150, Zeilen
+90f. mit Anm. 53. – Die paulinischen Briefe hatte Ochino schon, als er noch Kapuziner
+war, seinen Mitbrüdern in Verona erklärt; s. Mazzone, Ochino, 2.
+
+46 Pietro Bembo an Vittoria Colonna, Venedig, 6. April 1538, gedruckt in: Pietro
+Bembo: Lettere, hg. von Ernesto Travi, Bd. 4: 1537–1546, Bologna 1993 (Collezione di
+opere inedite o rare 147), 108, Nr. 1925; ders. an dies., Venedig, 23. Februar 1539,
+gedruckt ebd., 178, Nr. 2015; ders. an dies., Venedig, 15. März 1539, gedruckt ebd.,
+184f., Nr. 2014; ders. an dies., Venedig, 4. April 1539, gedruckt ebd., 197, Nr. 2039.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+135
+
+Über die Faszination, die Ochinos Auftreten auch in Augsburg
+und sogar auf Anton Fugger ausübte, welcher sich sonst offenbar
+nicht von Predigten beeindrucken ließ, hatte Bullinger dem Basler
+Antistes Oswald Myconius berichtet, was aus einem Brief des Letz-
+teren an Bullinger vom 21. April 1546 hervorgeht:
+
+»Die Nachricht von der Eintracht der Pfarrkollegen in Augsburg und der
+ganzen Kirche habe ich sehr gern vernommen […] Und was für ein Wunder,
+dass Bernardino auf Anton Fugger so ergreifend wirkt! Keiner von den
+Predigern konnte diesen je zuvor auch nur im mindesten bewegen! Es wäre
+gut, wenn er irgendwann so viele Reichtümer in den Himmel schaffen
+könnte, damit auch der Herr etwas hat, das er den Seinen spenden kann,
+die bis jetzt allzu schwach gewesen sind! Aber Scherz beiseite: Es ist kein
+Wunder, die Sprache gefällt dem Anton [Fugger] und die Schlichtheit, mit
+der [Ochino] alles ohne Gehässigkeit ausdrückt. Denn Du weißt ja, wie
+leicht zarte Gemüter, die an Schmeicheleien gewöhnt sind, gleich zu Anfang
+abgeschreckt werden, wenn man sie härter anspricht. Der Herr sei mit
+seiner Gnade zugegen, damit sein Name geheiligt werde!«48
+
+Ochinos Predigten haben wohl in den Kreisen Schwabens, die An-
+ton Fugger nahestanden, zu einer »spürbaren geistlichen Wand-
+lung«49 geführt. Der aus Spanien stammende, evangelisch orientier-
+te Humanist und Theologe Juan Diaz schrieb im Januar 1546,
+wenige Monate vor seinem gewaltsamen Tod,50 an seinen Freund
+und Förderer Johannes Calvin, dass Anton Fugger offenbar auch
+zu Ochinos Gehalt beitrug: »Unser Bernardino erhält außer dem
+
+47 Siehe Johann Georg Schelhorn, Nachlese von Bernardini Ochini Leben und Schrif-
+ten, in: Schelhorn, Ergötzlichkeiten aus der Kirchenhistorie, Neuntes Stück, Ulm 1763,
+773–776.
+
+48 »De concordia fratrum Augustanorum et ecclesie˛ totius libenter audivi […] Sed
+mirum de Bernhardino, quod Antonium Fuccherum ita cepit, quem nullus conciona-
+torum unquam vel movere potuit. Bene factum, si tantas opes poterit in coelum aliquan-
+do subvehere, ut et dominus habeat, quod suis largiatur, hactenus plus nimio tenuibus!
+Verum extra iocum: Lingua nimirum placet Antonio et omnia enunciandi simplicitas
+sine morsu. Nam nosti, quam facile tenera ingenia, blandiciis adsueta, abarceantur
+initio, si durius adloquaris. Dominus adsit sua gratia, ut sanctificetur nomen eius«
+(HBBW 16, 368, Zeilen 34–44. Vgl. etwa auch das briefliche Zeugnis von Johannes
+Flinner aus Augsburg an Ambrosius Blarer, 9. Mai 1546, in: Blarer BW II 441f., in
+zusammenfassender Übersetzung).
+
+49 Götz von Pölnitz, Anton Fugger, Bd. 2/2, Tübingen 1967 (Studien zur Fugger-
+
+geschichte 20), 120.
+
+50 Juan Diaz wurde am 27. März 1546 von seinem Bruder Alfonso Diaz ermordet; s.
+
+dazu HBBW 16, 274f., Zeilen 18–25, u.ö.
+
+136
+
+Judith Steiniger
+
+[Geld], welches er zweifellos privat von den Fuggern und von an-
+deren bekommt, jährlich zweihundert Gulden.«51
+
+Ochino war in Augsburg nicht nur mit dem Predigtamt beschäf-
+tigt. Er betätigte sich auch schriftstellerisch und war dabei unge-
+mein produktiv. Während seines Augsburger Aufenthalts von
+Herbst 1545 bis zu seiner nächtlichen Flucht aus der Stadt am 29.
+Januar 154752 erschienen nicht weniger als zehn Werke aus seiner
+Feder: Auslegungen der Briefe an die Römer und an die Galater auf
+Lateinisch, Italienisch und Deutsch,53 Predigten auf Deutsch,54 eine
+Erwiderung gegen den italienischen Dominikaner Ambrosius Ca-
+tharinus auf Italienisch,55 ein Gebet,56 ein Dialog zwischen der
+fleischlichen Vernunft und einem gläubigen Christen,57 eine Schrift
+über die Hoffnung des christlichen Gemüts58 sowie unsere Flug-
+schrift. Nur nebenbei sei bemerkt, dass sich in Zusammenhang mit
+unserer vorliegenden Flugschrift auch ein Blick auf das eben ge-
+nannte »Gesprech der flaischlichen vernunfft und ains Gaistlichen
+oder glaubigen Christen menschen« besonders lohnt. Dieser Dialog
+wurde ungefähr um Mitte November 1546 publiziert, wie aus ei-
+nem Schreiben von Martin Frecht aus Ulm an Vadian vom 23.
+November 1546 geschlossen werden kann: »Berhardino aus Siena
+verkündigt in Augsburg Christus in italienischer Sprache. Dieser
+Tage hat er einen Dialog herausgegeben, in dem ein Mann sich mit
+der Vernunft unterhält und fast alle strittigen Glaubensfragen be-
+handelt.«59 Aus diesem Briefzeugnis wird auch deutlich, dass Ochi-
+no in seinem Dialog den abstrakten Begriff der Vernunft personi-
+fizierte. In unserer Flugschrift hat Ochino dasselbe Verfahren an-
+gewendet wie dort, da er Deutschland und die Hoffnung ebenfalls
+
+51 »Bernardinus noster praeter privata, quae a Fuqueris et aliis procul dubio habebit,
+habet in singulos annos ducentos florenos« (Juan Diaz an Johannes Calvin, 19. Januar
+1546, gedruckt in: CO XII 254, Nr. 751).
+
+52 Siehe Benrath, Ochino, 170; zum Tagesdatum s. Blarer BW II 581 mit Anm. 1.
+53 Benrath, Ochino, 317, Nr. 18. 20. 21. 22.
+54 Ebd., 317, Nr. 19.
+55 Ebd., 318, Nr. 23.
+56 Ebd., 318, Nr. 24.
+57 Ebd., 318, Nr. 25.
+58 Erschienen 1547. Siehe ebd., 318, Nr. 26.
+59 »Bernhartinus Senensis Auguste˛ Italice Christum pre˛dicat. Edidit dialogum hisce
+diebus, in quo interlocutor homo cum ratione pertractat fere omnes controversias de
+religione« (Vadian BW VI 473, Nr. 1430).
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+137
+
+als Personifikationen auftreten lässt (mehr dazu unten). Schließlich
+ist noch darauf hinzuweisen, dass Ochino bereits im Jahr 1542 in
+Genf eine Flugschrift (auf Italienisch) publiziert hatte, die »Imagine
+di Antechristo«.60
+
+4. Das »Gesprech des Teütschen Lands und der hoffnung«
+
+4.1 Inhalt
+
+Das »Gesprech des Teütschen Lands und der hoffnung« besteht
+aus einer Klagerede des verzweifelten, personifizierten Deutsch-
+lands und einer darauffolgenden Trostrede der personifizierten
+Hoffnung, einer der drei christlichen Tugenden. Deutschland be-
+ginnt mit einer Klage über seine Söhne (gemeint sind mit diesen
+wohl in einem weiteren Sinne die Fürsten, im engeren Sinne freilich
+die Kaiserlichen bzw. die Katholiken, die im Schmalkaldischen
+Krieg den Protestanten gegenüberstanden). Sie, die Söhne, würden
+sich gegen die eigene Mutter richten sowie »dem Türken die Tür
+öffnen«, Österreich wehrlos machen und dem »großen Abgott« zu
+Rom dienen – gemeint ist damit der Papst. Zudem hätten sie die
+Fürsten der Christenheit gegen Deutschland aufgewiegelt, welche
+sich an dem Land vergreifen und es ihrer Tyrannei unterwerfen
+wollen. Deutschland klagt weiter, dass es gar selbst gleichsam »der
+Türke« sei. Gegen Letzteren fand nämlich schon lange kein Kreuz-
+zug mehr statt – statt dessen gehe es jetzt gegen Deutschland. Der
+Papst vertraute das Kreuz dem Kardinal Farnese an und gab den-
+jenigen einen Ablass,61 die sich in dem Blut von Deutschlands Kin-
+dern baden werden. Dieser Neid rühre allein daher, dass Deutsch-
+land mit dem Evangelium des Herrn Jesus Christus einen Funken
+entzündet habe und den Menschen die Augen öffnen wollte, damit
+diese erkennen, dass sie bisher ein großes Tier als Statthalter Chris-
+
+60 Bernardino Ochino, Imagine di Antechristo, [Genf: Jean Gerard, 1542] (Edit16
+CNCE 71709). – Textedition in: Bernardino Ochino: I »dialogi sette« e altri scritti del
+tempo della fuga. Introduzione, edizione e note a cura di Ugo Rozzo, Turin 1985,
+147–152. – Zu weiteren Ausgaben s. Benrath, Ochino, 316, Nr. 14a–14d (1544 und
+1545).
+
+61 Siehe dazu HBBW 17, 146, Zeilen 52f. mit Anm. 52.
+
+138
+
+Judith Steiniger
+
+ti angebetet hätten.62 Der Statthalter Christi, der doch Gerechtig-
+keit und Frieden ausüben sollte, führt ganz gegen seine Pflichten
+fremde Völker gegen Deutschland. Der »fürst« – gemeint ist der
+Kaiser – hätte die Macht, das gottlose Reich des Antichrists zu
+zerstören, die Gewalt der Türken einzudämmen, die Ehre Christi
+zu mehren, aber er werde von elenden Pfaffen63 betrogen, verzau-
+bert und an der Nase herumgeführt. Von Tag zu Tag besiege er sich
+selbst immer mehr, tue allen Gewalt an und mache sein Deutsch-
+land zunichte, während er denen Gunst bezeuge, die sich gegen
+Christus richten. Deutschland klagt, es leide mehr wegen des Kai-
+sers als um sich selbst. Aber der Kaiser ächtet das (evangelische)
+Deutschland durch und durch, nur weil es versuchte, ihn glückselig
+zu machen. Er wäre hingegen glücklich, wenn er sich an Deutsch-
+lands Blut sättigen könnte. Somit befinde Deutschland sich im Zu-
+stand tiefster Verzweiflung.
+
+Die Hoffnung antwortet darauf: Deutschland solle die Augen
+öffnen! Dann werde es erkennen, dass es keine Provinz gebe, der
+Gott mehr Gelegenheit zur Glückseligkeit verliehen habe; denn
+Deutschland wurde dazu auserwählt, um die Welt mit der Erkennt-
+nis von Gott zu erleuchten. Der Sohn Gottes wird von dem Anti-
+christen aufs Neue gekreuzigt. Er hat Deutschland auserkoren, sei-
+ne Glorie zu verkünden. Deutschland solle der himmlischen Herr-
+schaft Christi eingedenk sein. Trotz aller Trübsal werde es erhöht
+werden. Gott kann nicht überwunden werden. Wenn Deutschland
+eine Christin64 ist und dem göttlichen Willen verbunden, dann
+kann der Sieg nur auf Deutschlands Seite sein. Deutschland wird
+selig sein, solange es in Gottes Wohlgefallen eingeschlossen ist.
+Gott hat beschlossen, das Reich des Antichristen zu vernichten,
+was er auch mehrfach in der Schrift verkündigt. Jetzt ist die Zeit
+gekommen, um die Auserwählten Gottes von der gottlosen Tyran-
+nei des Antichristen zu befreien, wie vordem von der grausamen
+Monarchie der Römer! Deutschland hat Gottes Gunst erfahren,
+
+62 Eine Anspielung auf die schon erwähnte Schrift Ochinos gegen den Papst.
+63 Gemeint sind die deutschen Bischöfe; s. HBBW 17, 192, Zeilen 126f.; 244, Zeilen
+
+79–81; 250, Zeilen 36–38.
+
+64 Deutschland ist als weibliche Personifikation gedacht, was auch mit dem latei-
+nisch-italienischen Wort »Germania« zusammenhängt, da ja das Werk aus dem Itali-
+enischen übersetzt wurde.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+139
+
+denn je mehr die Feinde versuchten, den Funken des Heiligen
+Evangeliums auszulöschen, desto mehr hat es sich in alle Welt aus-
+gebreitet. Gott steht den Fürsten und Reichsstädten bei, verlieh
+ihnen den Sieg und wird sein Werk auf wunderbare Weise zu Ende
+führen. Satan sieht sein Reich scheitern und setzt alles daran, um
+die höchsten Häupter der Christenheit in den Wahnsinn zu treiben.
+Im Glauben, sie bestätigten und erweiterten ihre Reichsstände,
+werden sie diese verlieren. Jedermann kann erkennen, dass das vor-
+nehmste Haupt der Welt – der Kaiser – bestrebt ist, seine Mutter,
+Deutschland, in die Knechtschaft zu zwingen. Auf die Religion
+kommt es ihm nur insoweit an, als er sie für seine Tyrannei brau-
+chen kann. Auch wenn er erkennt, welches Spiel seine Berater spie-
+len, so muss er ihnen doch um weltlicher Ehren willen folgen. Die
+Tyrannei der spanischen Inquisition wird nichts sein gegen die
+Dienstbarkeit unter den Pfaffen und unter der Tyrannei der Spa-
+nier. Im Vergleich dazu ist sogar die Gefangenschaft unter den Tür-
+ken besser, den diese gewähren den Menschen Religions- und
+Glaubensfreiheit, wohingegen unsere [katholischen] Tyrannen bis
+in die Gewissen hinein herrschen und sich damit Gott gleich ma-
+chen. Sobald man in einem Glaubenspunkt von ihnen abweicht,
+greifen sie zu den grausamsten Mitteln. Und nicht nur die protes-
+tierenden Stände, sondern auch die Papisten sind wie eine Taube
+den Klauen des ungarischen Adlers65 ausgeliefert. Um dieses Elend
+zu beenden, solle sich jeder Deutsche zum Widerstand bereit ma-
+chen. Deutschland muss sich schützen, ja viel mehr noch die Ehre
+Christi! Deshalb ist seine Sache vor der Welt, vor Gott und in sich
+selbst gerecht und ruhmreich. Gott wird ihm beistehen. Deutsch-
+land soll um die Barmherzigkeit des Herrn bitten, aber auch da-
+nach trachten, sein Leben zu bessern und die Güte des Herrn zu
+erkennen. So wird es sehen, wie der Herr wunderbare Dinge zu
+seiner Glorie und Ehre durch Jesus Christus wirken wird.
+
+65 Gemeint ist das Haus Habsburg; vgl. Peter Diem, Die Symbole Österreichs: Zeit
+
+und Geschichte in Zeichen, Wien 1995, 45f.
+
+140
+
+Judith Steiniger
+
+4.2 Literarische Form und Tradition
+
+Besonderheiten des »Gesprechs« als Flugschrift
+Das »Gesprech« zählt zu den Flugschriften der späteren Refor-
+mationszeit; man siehe auch den entsprechenden Eintrag im Flug-
+schriftenregister von Hans-Joachim Köhler.66 Hier zunächst einige
+Worte zur Definition von Flugschriften. Nach einer Untersuchung
+von Bernd Moeller und Karl Stackmann weisen die Flugschriften
+der frühen Reformationszeit folgende Merkmale auf: Es sind
+Druckschriften aus den Jahren 1518 bis 1530, die inhaltlich auf die
+von Martin Luther ausgelösten Kontroversen über Fragen des
+Glaubens und der Kirche Bezug nehmen, in der Regel im Quart-
+format gedruckt wurden, geringen Umfang (jedoch mehr als ein
+Einzelblatt) aufweisen, ungebunden auf den Markt kamen und
+meist auf Deutsch abgefasst wurden, um auch ein Publikum zu
+erreichen, das des Lateins nicht kundig war.67 Abgesehen vom Er-
+scheinungsjahr und vom unbekannten Verkaufspreis unserer
+Schrift treffen diese Kriterien auch auf unser zu den späteren Flug-
+schriften zählendes »Gesprech« zu. Die in den Flugschriften der
+Reformationszeit publizierten Texte zählen zur kontroverstheolo-
+gischen Literatur beziehungsweise zu den Kontroversschriften.68 In
+ihnen liegt das Schwergewicht auf der Darstellung gegensätzlicher
+Anschauungen. »Die Kontroversliteratur wird als Kampfmittel in
+den religiösen Auseinandersetzungen zwischen den verschiedenen
+Glaubensrichtungen oder einzelner ihrer Exponenten und Vertreter
+
+66 Flugschriften des späteren 16. Jahrhunderts. Lieferung I–XIV, Register, hg. von
+
+Hans-Joachim Köhler, Fiche 766, Nr. 1377.
+
+67 Siehe Bernd Moeller und Karl Stackmann, Städtische Predigt in der Frühzeit der
+Reformation: Eine Untersuchung deutscher Flugschriften der Jahre 1522 bis 1529, Göt-
+tingen 1996 (Abhandlungen der Akademie der Wissenschaften in Göttingen, Phil.-hist.
+Klasse, 3. Folge, Nr. 220), 224. – Zur Restriktivität einer Einschränkung auf deutsch-
+sprachige Flugschriften s. ebd., Anm. 8.
+
+68 Allgemein dazu Hans Rupprich, Die deutsche Literatur vom späten Mittelalter bis
+zum Barock. Zweiter Teil: Das Zeitalter der Reformation. 1520–1570, München 1973
+(Geschichte der deutschen Litatur von den Anfängen bis zur Gegenwart von Helmut de
+Boor und Richard Newald, Bd. 4/2), 110; s. auch Heribert Smolinsky, Dialog und
+kontroverstheologische Flugschriften in der Reformationszeit,
+in: Dialog und Ge-
+sprächskultur in der Renaissance, hg. von Bodo Guthmüller und Wolfgang C. Müller,
+Wiesbaden 2004 (Wolfenbütteler Abhandlungen zur Renaissanceforschung 22),
+277–279.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+141
+
+benützt. Der Inhalt ist vorwiegend theologischer Art. Die ge-
+bräuchlichsten Formen sind die Flugschrift oder der Einblattdruck,
+die Broschüre und besonders das Gespräch.«69
+
+Diese Charakteristik trifft auf das »Gesprech« zu, aber nur mit
+gewissen Einschränkungen. Denn obwohl unsere Schrift in Dialog-
+form geschrieben wurde, wird mit der Klage Deutschlands und der
+tröstenden Antwort der Hoffnung keine Kontroverse ausgefoch-
+ten, oder anders gesagt, es werden in ihr keine gegensätzlichen
+Positionen dargestellt. Der gegnerische Standpunkt liegt vielmehr
+außerhalb des dargestellten »Gesprechs«, nämlich bei den Kaiser-
+lichen beziehungsweise bei den Katholiken, die nicht als Ge-
+sprächsteilnehmer erscheinen, sondern nur Erwähnung finden, in-
+dem ihre Taten von dem personifizierten Deutschland beklagt wer-
+den. Dies geschieht auf folgende Weise: Deutschland eröffnet seine
+Klage mit dem Hinweis auf den Krieg seiner Söhne: »Meine aigne
+Süne70, so ich geboren, ernert, und uber die andern alle groß ge-
+macht, sein eben die, so sich mir am widerwertigsten erzeigend.«
+Hier sind die Katholiken gemeint, die dem Kaiser anhängen und im
+Schmalkaldischen Krieg gegen die Evangelischen vorgehen. Im Un-
+terschied zu anderen Schriften, in denen Deutschland über seine
+gegeneinander kämpfenden Söhne klagt,71 besteht im »Gesprech«
+die Feindschaft zwischen den katholisch-kaiserlichen Söhnen und
+deren Mutter Deutschland selbst. Damit wird in gewisser Weise
+impliziert, dass »Deutschland« identisch ist mit den Evangelischen,
+ohne dass Deutschland oder die Hoffnung dies in ihren Reden aus-
+drücklich erwähnen würden. Es hat vielmehr den Anschein, dass
+dies Deutschland selbst nicht ganz bewusst ist. Erst die Hoffnung
+ruft dies in ihrer Antwort auf die Klage (wieder) ins Gedächtnis
+und ermahnt das Land, sich zu befleißigen, den Ruhm des in sei-
+nem Geiste wiederum auferstandenen Jesus Christus zu enthüllen.72
+
+69 Siehe dazu Rupprich, Literatur, 110.
+70 Söhne.
+71 Vgl. zum Beispiel die 3. Elegie von Johannes Bocer; siehe dazu die folgende Anm.
+72 Vgl. »Gesprech«, Bl. A3r. – Das Motiv der Germania, die über ihre gegeneinander
+kämpfenden Söhne klagt, findet sich auch einige Jahrzehnte später in einem wohl 1553
+entstandenen Gedicht, der 3. Elegie von Johannes Bocer: »Klage Germanias«, in: Ele-
+giarum liber primus, Leipzig: Georg Hantzsch, 1554 (VD16 ZV 2129). – Verwiesen
+wird darauf in: Johannes Bocer: Sämtliche Eklogen, hg., übersetzt und kommentiert von
+Lothar Mundt, Tübingen 1999, LIV.
+
+142
+
+Judith Steiniger
+
+Zudem besteht das »Gesprech« nur aus je einer Rede und Ant-
+wort. Somit kann sich ein echter Argumentationsgang auf der
+Grundlage eines ständig abwechselnden Hin und Her von Rede
+und Gegenrede, wie er etwa im platonischen Dialog erschien, gar
+nicht erst entwickeln. Vielmehr mischen sich in das »Gesprech«
+Züge aus der Konsolationsliteratur hinein, insbesondere aus den
+Trostreden oder -briefen beziehungsweise aus der philosophischen
+consolatio, die häufig die Form des Dialogs gebrauchte.73 In der
+consolatio wiederum findet sich neben dem tröstenden Zuspruch
+auch ein ihr spezifischer »Ausdruck«, der von der »psychagogi-
+schen Bemühtheit energischer Mahnrede und eindringlicher Vor-
+haltungen«74 herrührt. Das Ziel der consolatio ist (gemäß der Tra-
+dition der griechischen Sophistik) die »Leidbekämpfung durch Ver-
+nunftgründe«75. Dies ist auch in dem »Gesprech« zu spüren. In der
+abschließenden Aufforderung der Hoffnung, dass Deutschland sich
+an Gott wenden solle, mag man sich sogar bisweilen an die pro-
+treptischen Motive und Argumente erinnert fühlen, mit denen etwa
+Boethius (geb. um 480, hingerichtet um 524) seiner »Consolatio
+philosophiae« die Aufgabe übertrug, ihn wieder zur Philosophie zu
+führen.76 Dass die dialogische Form humanistischer Trostgespräche
+im »Gesprech« zwar übernommen, aber bis auf ein Minimum von
+einer einzigen Rede und einer einzigen Antwort verkürzt wird, ist
+vermutlich den Absichten geschuldet, mit denen hier das Medium
+Flugschrift eingesetzt wurde: um eine größere Öffentlichkeit anzu-
+sprechen, als sie der humanistische Dialog zu erreichen vermochte.
+Zu bemerken ist noch, dass im Unterschied zu den antiken Trost-
+gesprächen unserem »Gesprech« kein wirklicher Todesfall zugrun-
+de liegt. Es bestehen hier also deutliche Unterschiede, die auf eine
+formale wie inhaltliche Veränderung mittels Abstraktion zurück-
+
+73 Siehe Manfred Kern, Konsolationsliteratur, in: DNP 14, 1079. – Zur Annäherung
+von Konsolationsdialogen an Streitgesprächssituationen s. auch Christian Kiening, Hu-
+manistische Trostdialoge des 15. Jahrhunderts, in: Gespräche – Boten – Briefe: Körper-
+gedächtnis und Schriftgedächtnis im Mittelalter, hg. von Horst Wenzel, Berlin 1997
+(Philologische Studien und Quellen 143), 320–343.
+
+74 Rudolf Kassel, Untersuchungen zur griechischen und römischen Konsolationsli-
+
+teratur, München 1958 (Zetemata 18), 6.
+
+75 Ebd., 8.
+76 Zur »consolatio philosophiae« als Protreptikos s. Joachim Gruber, Kommentar
+zu Boethius, De consolatione philosophiae, Berlin/New York 22006 (Texte und Kom-
+mentare 9), 29–32.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+143
+
+gehen: zum einen weg von tatsächlich eingetretenen (oder als sol-
+chen dargestellten) Todes- und Trauerfällen hin zu dem metapho-
+rischen Unglück abstrahierter Allegorien oder Personifikationen77
+– der Seelenzustand des personifizierten, verzweifelten, »sterben-
+den« Deutschlands, das sich von der Stimme des personifizierten
+Abstraktums »Hoffnung« ermutigen lässt; und zum anderen weg
+von längeren Gesprächen hin zu je einer einzigen Rede und Gegen-
+rede. Es lässt sich demnach festhalten, dass im »Gesprech« zwar
+Elemente aus der Dialogliteratur, der consolatio-Literatur und der
+Kontroverstheologie enthalten sind, dass sie aber nur in reduzierter
+Form verwendet wurden.
+
+Zur Tradition von Personifikation (»Teütschland«) und allegori-
+scher Gestalt (»Hoffnung«)
+Schließlich noch einige Bemerkungen zu geographischen Personi-
+fikationen (in unserem Gespräch »Teütschland«) sowie zu den per-
+sonifizierten Abstrakta bzw. allegorischen Gestalten (in unserem
+Gespräch »Hoffnung«).
+
+Zunächst zu den geographischen Personifikationen (der Begriff
+personificatio ist frühneuzeitlich, in der griechisch-römischen An-
+tike ist von προσωποποιιÂα und conformatio die Rede78). Sie haben
+eine lange Tradition, auch in Verbindung mit einer Klage. Man
+denke an die Klage der zerstörten Stadt Jerusalem im Alten Tes-
+tament, Buch Klagelieder [Klgl]. Städteklagen begegnen desglei-
+chen in der altorientalischen Literatur;79 und Städte- oder Länder-
+Personifikationen im Griechenland der archaischen Zeit, da Pindar
+die Stadt Lokris als ein Mädchen einführt, das Hieron I., den Ty-
+rannen von Syrakus, begrüßt (»Pythien«, 2,19). Aischylos lässt in
+den »Persern« (Verse 181–200) die Atossa, Tochter von Kyros II.,
+im Traum Asia und Hellas in Gestalt zweier Frauen erblicken.80 Bei
+
+77 Auf die Bedeutung überzeitlicher, übermenschlicher oder absoluter Gesprächs-
+
+partner in literarischen Trostdialogen hat Kiening, Trostdialoge, 320f., hingewiesen.
+
+78 Siehe Artikel »Personifikation«, in: DNP 9, 639–647.
+79 Siehe etwa Anne Löhnert, Motive und Funktionen der Göttinnenklagen im Frü-
+hen Mesopotamien, in: Klagetraditionen: Form und Funktion der Klage in den Kulturen
+der Antike, hg. von Margaret Jaques, Fribourg/Göttingen 2011 (Orbis Biblicus et Ori-
+entalis 251), 39–62, bes. 43 und 48.
+
+80 Siehe Heinrich Dörrie, Der heroische Brief: Bestandsaufnahme, Geschichte, Kritik
+
+einer humanistisch-barocken Literaturgattung, Berlin 1968, 432.
+
+144
+
+Judith Steiniger
+
+Euripides werden die Städte Argos und Athen in den »Schutzfle-
+henden« als Personifikationen angesprochen (»Hiketides«, Verse
+365–380). In der römischen Tradition lässt Cicero das Vaterland
+(»patria«) zu Catilina sprechen und ihn zum Weggang auffordern
+(Cat. 1, 17–18). Es wurde anhand zweier bei Cicero überlieferter
+Fragmente des Ennius festgestellt, dass »den Römern bereits auf
+einer sehr frühen Stufe ihrer literarischen Entwicklung die Vorstel-
+lung der personifizierten Patria geläufig«81 war. Eine klagende
+Roma findet sich bei dem spätantiken Dichter Claudian (gest. nach
+404 n. Chr.) in dem Epos »In Gildonem« (oder »De bello Gildo-
+nico«) – ein Rückgriff auf die Darstellung der Patria (Roma) am
+Rubicon durch den Dichter Lukan im Epos »Bellum civile« (»Phar-
+salia«, 1. Jh. n. Chr.).82 Anschaulich stellt Claudian auch im zwei-
+ten Buch des Panegyrikus auf Stilichos Konsulat (»De consolatu
+Stilichonis«, 2,218–376) die Provinzen Hispania, Gallia, Britannia,
+Africa und Italien dar, die sich am Tempel der Roma auf dem
+Palatin versammeln, um ihr Anliegen, Stilicho möge sich nicht län-
+ger weigern, Konsul zu werden, in einzelnen Reden vorzutragen.
+Roma eilt daraufhin zu Stilicho und bewegt ihn mit einer Rede und
+Überreichung von Gewand und Stab zur Annahme der Konsul-
+würde.83 Sidonius Apollinaris zeigt im zweiten Panegyrikus (auf
+Majorian) aus dem Jahr 458 n. Chr., wie Africa die Roma anfleht,
+sie von den Vandalen zu befreien.84
+
+Laut Heinrich Dörries umfassender Studie »Der heroische Brief«
+geht es auf das antike Vorbild der nicht nur als lebloses Kultbild
+vorgestellten, sondern in Handlungen eingreifenden dea Roma zu-
+rück, wenn Personifikationen von Städten, Ländern oder von Flüs-
+sen in der Epistolographie als Absender auftreten, ja sogar perso-
+
+81 Irene Frings, Die Klage der Roma: Lukan 1, 186ff. in der literarischen Tradition,
+
+in: Eos 83 (1995), 118.
+
+82 Ebd., 121; s. ferner Tamara Visser, Antike und Christentum in Petrarcas »Africa«,
+
+Tübingen 2005 (NeoLatina 7), 339.
+
+83 Claudian, De consolatu Stilichonis 2,218–376. Benutzte Ausgabe: Claudii Clau-
+diani carmina, hg. von John Barrie Hall, Leipzig 1985, 213–219; vgl. Ursula Keudel,
+Poetische Vorläufer und Vorbilder in Claudians De consolatu Stilichonis, Göttingen
+1970, 84f.
+
+84 Siehe dazu Dirk Henning, Periclitans res publica: Kaisertum und Eliten in der
+Krise des Weströmischen Reiches 454/5–493 n. Chr., Stuttgart 1999 (Historia Einzel-
+schriften 133), 142.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+145
+
+nifizierte Begriffe.85 Hier haben Ovids Briefgedichte, die Heroides,
+indirekt nachgewirkt. In den mittellateinischen »Planctus«-Dich-
+tungen treten mitunter Personifikationen auf, beispielsweise die
+Kirche.86 In der Renaissance lässt Petrarca die dea Roma und die
+Ecclesia einen Brief an den Papst schreiben.87 Diese Briefgedichte
+hatten Einfluss auf die Literatur der lamenti (Klagen) italienischer
+Städte und Staaten,88 auch in der Literatur der Frühen Neuzeit. In
+der Flugschrift »La presa e lamento di Roma« (Die Einnahme und
+die Klage Roms) klagt die personifizierte Stadt Rom in Versen über
+den Überfall und die Plünderung durch deutsche Landsknechte
+und spanische und italienische Söldner im Mai 1527.89
+
+In der Literatur deutscher Humanisten sind gleichfalls einige Bei-
+spiele zu finden. Hier vereint die »Germania«-Figur »Germanen-
+mythos und Reichsideologie«90, was schon Konrad Celtis und Ul-
+rich Hutten anzog91, zum Beispiel in Huttens Epigramm »De mag-
+nitudine Maximiliani
+um
+1512/1513.93 Im Jahr 1516 ließ Hutten »Italia« einen klagenden
+Brief in elegischen Distichen an Kaiser Maximilian schreiben: Er
+solle einen Feldzug nach Italien unternehmen und den Norden dem
+Reich unterwerfen.94 Huttens Freund Helius Eobanus Hessus ver-
+fasste dann die Antwort Maximilians, in der dieser »Italia« eine
+
+ad Germaniam«,92
+
+geschrieben
+
+85 Siehe dazu Dörrie, Der heroische Brief, 432.
+86 Bei Konrad von Megenberg im »Planctus Ecclesiae in Germaniam« (von
+in: Lexikon des Mittelalters, Bd. 6, Mün-
+
+1337/38); s. Günter Bernt, Planctus,
+chen/Zürich 1993, 2199.
+
+87 Siehe dazu Dörrie, Der heroische Brief, 433–436.
+88 Siehe ebd., 436f.
+89 Siehe Katrin Hirt, Der Sacco di Roma 1527 in einer zeitgenössischen italienischen
+Versflugschrift: Das Massaker und die Einheit der Nation, in: Christine Vogel (Hg.),
+Bilder des Schreckens: Die mediale Inszenierung von Massakern seit dem 16. Jahrhun-
+dert, Frankfurt/New York 2006, 38–50.
+
+90 Humanistische Lyrik des 16. Jahrhunderts. Lateinisch und deutsch. In Zusam-
+menarbeit mit Christof Bodamer et al. ausgewählt, übersetzt, erläutert und hg. von
+Wilhelm Kühlmann et al., Frankfurt am Main 1997 (Bibliothek der Frühen Neuzeit
+1/5), 1262.
+
+91 Siehe ebd.
+92 Druck ebd., 174–177.
+93 Siehe ebd., 1047.
+94 Siehe dazu Jost Eickmeyer, Der jesuitische Heroidenbrief: Zur Christianisierung
+und Kontextualisierung einer antiken Gattung in der Frühen Neuzeit, Berlin/Boston
+2012 (Frühe Neuzeit 162), 128; Druck des Textes im Auszug auf 666–669.
+
+146
+
+Judith Steiniger
+
+Absage erteilte.95 Caspar Ursinus Velius publizierte im Jahr 1531
+eine »Querela Austriae sive epistola ad reliquam Germaniam«.
+Georg Sabinus, Schwiegersohn Melanchthons und Professor der
+Poesie und Beredsamkeit in Königsberg, richtete in seiner Elegie 3,
+12 (»Ad Germaniam«) eine Klage an Germania, die ihre Tapferkeit
+verloren hätte: Sie solle die Krieg führenden »Geten« – gemeint
+sind die Türken – in die Flucht schlagen.96 Zu anderer Gelegenheit,
+in Elegie 1,4,
+lässt Sabinus »Germania« an Kaiser Ferdinand
+schreiben.97 Sabinus war wahrscheinlich auch der erste Autor, der
+Germania schreibend einführte.98 Ein weiteres Beispiel findet sich
+mit Johann Schradins »Expostulation, das ist Klag und Verwisz
+Germanie des Teütschenlands gegen Carolo Quinto dem Keiser des
+unbillichen bekriegens« aus dem Jahr 1546, also aus der Zeit des
+Schmalkaldischen Krieges. Darin erscheint die klagende Germania
+vor dem Kaiser und versucht, ihm mit Beispielen aus der Geschich-
+te der deutschen Kaiser zu beweisen, »wie gottlos immer schon die
+Päpste an den Kaisern gehandelt und wie sehr er (Karl) selbst
+durch den Papst verblendet und verführt sei«.99 Unter den Dich-
+tungen Johann Stigels, des Professors für Poesie in Jena, findet sich
+nicht nur eine Epistel der personifizierten Saale an die Ilm (ge-
+schrieben 1551),100 sondern auch ein Schreiben »Germanias« an
+Karl V., an den Landesfürsten Johann Friedrich und an Philipp von
+Hessen.101 Es gibt etliche weitere und auch aus späteren Zeiten
+noch ähnliche Beispiele, wie etwa Paul Flemings Brief der »Ger-
+mania« an ihre Söhne aus dem Jahr 1631, aber auf deren Nennung
+muss hier verzichtet werden.102
+
+95 Siehe ebd., 129.
+96 Gedruckt in: Humanistische Lyrik des 16. Jahrhunderts, 526–527; siehe auch den
+
+Stellenkommentar ebd., 1262–1264.
+
+97 Siehe ebd., 1262 (Text dort nicht abgedruckt).
+98 Siehe Dörrie, Der heroische Brief, 456 (dort auch ausführliche Angaben zu wei-
+
+teren Werken).
+
+99 Johannes Voigt, Über Pasquille, Spottlieder und Schmähschriften aus der ersten
+Hälfte des sechzehnten Jahrhunderts, in: Historisches Taschenbuch, hg. von Friedrich
+von Raumer, Jg. 9, Leipzig 1838, 503. – Siehe dazu auch Strobel, Beyträge zur Litte-
+ratur, 199f.
+
+100 Siehe Rupprich, Literatur, 289f.
+101 Siehe ebd.
+102 Siehe dazu etwa Alexander Schmidt, Vaterlandsliebe und Religionskonflikt: Poli-
+tische Diskurse im Alten Reich (1555–1648), Leiden/Boston 2007 (Studies in Medieval
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+147
+
+Zu den personifizierten Abstrakta bzw. allegorischen Gestalten
+(in unserem Dialog die »Hoffnung«) ist anzumerken, dass in der
+europäischen Literatur schon früh abstrakte Begriffe begegnen, die
+als handelnde Figuren in Erscheinung treten; auch die personifi-
+zierte Hoffnung (εÆ λπιÂς). Sie begegnet in der griechischen Antike
+»im Spiel von Dichtern und Philosophen«103. Im Mythos von der
+Büchse der Pandora, beschrieben von Hesiod (um 700 v. Chr.),
+bleibt allein die Hoffnung – gedacht als ein geflügelter Dämon – in
+der Büchse zurück, da Pandora die Büchse wieder schließt, noch
+bevor auch die Hoffnung herausfliegen kann.104 Sie gilt neben dem
+Glück oder dem Zufall (τυÂ χη) als treibende Kraft des Lebens.105 In
+Rom hat die Hoffnung (Spes) »Kultus und Tempel gehabt«106, und
+sie hatte dort einen Bezug zu kriegerischen Ereignissen, was in Zu-
+sammenhang mit unserer Schrift nicht uninteressant ist. In der Ko-
+mödie »Mercator« von Plautus wird die Hoffnung einmal zusam-
+men mit Salus, dem Heil, und Victoria, dem Sieg, erwähnt.107 Die
+Hoffnung gilt nach dem Apostel Paulus als eine der drei christli-
+chen Tugenden zusammen mit dem Glauben und der Liebe: πιÂστις,
+εÆ λπιÂς, αÆ γαÂ πη (1Kor 13,1–13). In Prudentius’ »Psychomachia«
+(Verse 201f.) wird die Hoffnung zusammen mit der Demut als
+Gegnerin der Hoffart und als allegorische Gestalt beim Bau des
+Tempels der Weisheit dargestellt (Vers 885f.).108
+
+Auch in der Literatur des 16. Jahrhunderts erscheint sie perso-
+nifiziert: Der streitbare Schweizer Pamphletist Utz Eckstein, der ab
+
+and Reformation Traditions 126), 242, Anm. 153; 366–368; Eickmeyer, Heroidenbrief,
+passim.
+
+103 Siehe [Kurt] Latte, Spes, in: Paulys Realencyclopädie der classischen Altertums-
+wissenschaft. Neue Bearbeitung begonnen von Georg Wissowa. Zweite Reihe. Sechster
+Halbband, Stuttgart 1929, 1634.
+
+104 Siehe Hesiod, »Werke und Tage« (»Erga kai Hemerai«), Verse 96–99; ferner:
+[Otto] Waser, Elpis, in: Paulys Realencyclopädie der classischen Altertumswissenschaft.
+Neue Bearbeitung begonnen von Georg Wissowa. Zehnter Halbband, Stuttgart 1905,
+2454f.
+
+105 Siehe Latte, Spes, 1635.
+106 Ebd., 1634.
+107 Plautus, »Mercator«, Vers 867.
+108 Siehe Michael von Albrecht, Geschichte der römischen Literatur von Andronicus
+bis Boethius mit Berücksichtigung ihrer Bedeutung für die Neuzeit, Bd. 2, Bern/Mün-
+chen 1992, 1077; ferner: Prudentius: Das Gesamtwerk. Eingeleitet, übersetzt und kom-
+mentiert von Wolfgang Fels, Stuttgart 2011 (Bibliothek der Mittellateinischen Literatur
+9), 126–152.
+
+148
+
+Judith Steiniger
+
+1528 Pfarrer in Thalwil (Kanton Zürich) war, später in Rorschach
+(Kanton St. Gallen) und in Uster (Kanton Zürich) wirkte, brachte
+im Jahr 1526 bei Christoph Froschauer in Zürich eine »Klag des
+Gloubens der Hoffnung und ouch Liebe über Geystlichen und
+Weltlichen Stand der Christenheit« (VD16 E 500) heraus. Darin
+beklagt sich der wahre Glaube, dass er nicht gehalten werde, ob-
+wohl jeder davon rede; komme man ihm nicht zu Hilfe, so müsse
+er sich entfernen. Hoffnung und Liebe versuchen, ihn zu halten.109
+Als berühmteste Allegorie oder Personifikation eines abstrakten
+Begriffs in der Frühen Neuzeit darf gewiss Erasmus von Rotter-
+dams »Querela pacis undique gentium eiectae profligataeque« gel-
+ten, jener Monolog des personifizierten Friedens, den Erasmus im
+Jahr 1517 niedergeschrieben hatte.
+
+Anonymes Veröffentlichen als Publikationsstrategie
+Abschließend sei hier noch auf einen wichtigen Aspekt aufmerk-
+sam gemacht, der bei einer Analyse des vorliegenden »Gesprechs«
+nicht außer Acht gelassen werden darf. Die Schrift wurde anonym
+veröffentlicht, ein Massenphänomen im Zuge der reformatori-
+schen Flugschriftenpublizistik.110 Dass man seit geraumer Zeit be-
+strebt ist, die Autoren einzelner Schriften zu eruieren, ist verständ-
+lich. Doch bisher wurde dabei, wie Thomas Kaufmann zeigte, oft
+die These vertreten, dass viele der Autoren vor allem deshalb an-
+onym publiziert hätten, weil sie nicht mutig genug gewesen wären,
+für ihre Haltung einzustehen.111 Laut Kaufmann muss diese An-
+sicht allerdings mit Skepsis betrachtet werden, da unter denjenigen
+Flugschriften, die anonym erschienen, sich vornehmlich Dialoge
+befanden112 (damit meint Kaufmann wohl, dass darin mehrere,
+durchaus auch gegensätzliche Auffassungen vorgetragen wurden,
+so dass man dem Verfasser sowohl die eine als auch die andere,
+vielleicht genau entgegengesetzte Meinung unterstellen konnte).
+
+109 Siehe Jakob Baechtold, Geschichte der Deutschen Literatur in der Schweiz, Frau-
+
+enfeld 1892, 294.
+
+110 Thomas Kaufmann, Anonyme Flugschriften der frühen Reformation, in: Die frü-
+he Reformation in Deutschland als Umbruch, hg. von Bernd Moeller und Stephen E.
+Buckwalter, Gütersloh 1998 (Schriften des Vereins für Reformationsgeschichte 199),
+192.
+
+111 Siehe dazu ebd., 194.
+112 Siehe ebd., 193f.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+149
+
+Hingegen könnten andere Gründe für anonymes Publizieren aus-
+schlaggebend gewesen sein, wie Kaufmann weiter ausführt:
+
+»An diesen anonymen Reihenpublikationen zeigt sich m. E. besonders deut-
+lich, daß die Furcht vor dem Bekanntwerden keineswegs die alleinige, viel-
+leicht nicht einmal die dominierende Ursache dafür gewesen ist, daß ein
+Autor anonym schrieb. Vielmehr spricht einiges dafür, daß die von den
+anonymen Verfassern in Anspruch genommene Allgemeinheit und globale
+Repräsentanz ihrer Auffassungen und Meinungen als ein wesentliches Mo-
+ment ihrer Publikationsstrategie anzusprechen ist. Ein Verfasser kann auch
+deshalb ungenannt bleiben, weil die von ihm vertretenen Anschauungen
+nicht als individuelle und spezifische, sondern als allgemein anzuerkennen-
+de Positionen die Aufmerksamkeit der Leser beanspruchen […]. Die Text-
+gattung, die in quantitativer Hinsicht den weitaus größten Anteil unbe-
+kannter Verfasser aufzuweisen hat, die Dialogflugschriften, erscheinen in
+dieser Perspektive als idealtypische literarische Umsetzung eines bestimm-
+ten Typus anonymer Publizistik überhaupt.«113
+
+Das dürfte auch für unsere vorliegende Schrift gelten. Es geht hier
+weniger um die Person des Autors und um dessen individuelle An-
+sichten, sondern vielmehr um die in literarische Form gebrachte
+Situation Deutschlands zu Beginn des Schmalkaldischen Krieges,
+wie sie von vielen, insbesondere den deutschen und eidgenössi-
+schen Protestanten,114 empfunden beziehungsweise wahrgenom-
+men wurde.
+
+5. Edition des Textes
+
+Zur Textgestalt: Die Transkription folgt der Vorlage Augsburg: Heinrich Stei-
+ner, 1546 (VD16 G 1868; benutztes Exemplar: München BSB, Res/4 Eur
+336,30). Die Nachdrucke Zwickau: Wolfgang Meyerpeck d.Ä., 1546 (VD16
+G 1869), Straßburg: Jakob Frölich, 1546 (VD16 G 1870) und Ulm: Hans
+Varnier, 1546 (VD16 ZV 21375) wurden in Zweifelsfällen zum Vergleich
+hinzugezogen; Entsprechendes ist in den Fußnoten vermerkt. Die Absätze
+wurden neu eingeteilt. Die Groß- und Kleinschreibung folgt der Vorlage. Ab-
+kürzungen wurden aufgelöst. Die Buchstaben u/v und i/j wurden ihren heu-
+tigen Lautwerten entsprechend wiedergegeben. Die Interpunktion wurde den
+heute geltenden Regeln angepasst; das gilt auch für die hinzugefügten An- und
+Ausführungszeichen. Trennung und Verbindung von Wörtern wurden nach
+der Vorlage zumeist beibehalten, sofern sie nicht missverständlich sind.
+
+113 Ebd., 198f.
+114 Beispiele dafür lassen sich in HBBW 16 und 17 finden.
+
+150
+
+Judith Steiniger
+
+Ein gesprech des Teütschen Lands und der hoffnung, diese
+
+A1r
+
+gegenwertige Kriegsleüff betreffend, inn Welschland115 beschriben
+
+und hernach welscher sprach116 verteütschet. M.D.XLVI.
+
+Teütschland redt.
+
+A1v
+
+Ich bin inn grossen angsten und anfechtungen, dieweil ich allent-
+halben von meinen Feinden umbgeben. Ja, das mer ist117, das ich
+die fürnembsten Feynd mitten inn meinem hertzen hab. Meine ai-
+gne Süne118, so ich geboren, ernert und uber die andern alle groß
+gemacht, sein119 eben die, so sich mir am widerwertigsten erzei-
+gend! Inen ist nit genuog, das sy Tyranischer weiß suochend, wider
+den willen der voe lcker andern ire lender abzuotringen120, wie vonn
+Gott verordnete Oberkeiten121 anzuotasten, sich dem Türcken zuo
+bevelhen122, sonder dem selben auch die thor zuooe ffnen. Sy haben
+das ellend Osterreych gar werloß gemacht, damit sye mein bluot
+(wo es inen so guot würd) trinckend. Weyter, damit sye dem grossen
+Abgott zuo Rhom123 dienen, inen124 anbetten, ihme gehorsam lais-
+ten, habend sye alle Fürsten der Christenhait wider mich erweckt,
+und die, so125 sie zuo irem fürnemen126 nit bewegen moe chten, mit
+falschem schmaichlen, verheissen127 unnd treworten128 dermassen
+entschlae ffet129, das sy mir kein beystand beweisend, damit sy von
+
+115 Italien.
+116 welscher sprach: Italienisch.
+117 das mer ist: dazu kommt noch.
+118 Söhne.
+119 sind.
+120 abzuringen, wegzunehmen.
+121 Vgl. Röm 13,1–7.
+122 anzuempfehlen, anzuvertrauen. – Anspielung auf den Waffenstillstand, den die
+Habsburger mit dem Osmanischen Reich am 10. November 1545 in Adrianopel ge-
+schlossen hatten; s. dazu HBBW 15, 100, Anm. 32f. und 674, Anm. 33.
+
+123 Gemeint ist der Papst.
+124 inen = ihn.
+125 die (relativisch).
+126 Vorhaben, Plan.
+127 Versprechungen.
+128 treworten: Treuworten; d.h. ehrenwörtlichen Versprechen; vgl. Grimm 22, 398
+(und also offenbar nicht erst seit dem Sturm und Drang gebräuchlich, wie dort vermerkt
+ist. Die Bedeutung »Drohwort« kommt hier nicht in Frage).
+
+129 eingeschläfert; s. Schwäbisches Wörterbuch, bearb. von Hermann Fischer, Bd. 2,
+
+Tübingen 1908, 737f., s.v. entschläfen.
+
+A2r
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+151
+
+den selbigen so lang unverhindert werend, biß sie ir frevl, toben-
+dig130 und Gottlos wieten131 an mir volzogen; jedoch mit eim sol-
+lichen fürsatz, das sie nachmals alles irer Tyranney underwerffen
+woe llend.
+
+Zuo disem132, damit sye mich schwechend, damit sie uber mich
+ires gefallens heuschen133, damit sie mich gar verschlicken134, haben
+sie gebraucht und gebrauchen sich noch aller müglichen künsten
+und fleiß, das sie meine glider erstarrt und sünnloß135 machen.
+Sein136 derhalben sampt dem haupt137 wie die unsinnigen138; ihrer
+aignen muoter widerspenstig und abtrünnig. Ich sihe, das der Got-
+lose Roe misch Antichrist139 mit demm greülichenn Kelch seyner
+schatz die groß heüpter140 also truncken gemacht,141 das sie an
+allen orten wider mich die waffen genommen. Das seind die frucht
+sovil grosser guothaten, so ich inen bewisen; für so unerschae tzlich
+schae tz und reichthumber, derent sy mich so ain lange zeit her mit
+dem schein ires erdichten und falschen Ablas Annaten142 und Pre-
+diger deß Creützes wider die Türcken beraubt haben. Sovil ich
+sihe, bin ich allein der selbig Türck.
+
+Und der gestalt, da143 man in sovil verschinen jaren nit ain hoe r-
+zug144 oder Crutiata145 hat moe gen wider die Mahometaner146 erlan-
+gen, so ist doch sollichs inn ainem augenplick wider mich in der
+
+130 In der Vorlage (Augsburger Druck): tabendis. – Die Lesart tobendig entnommen
+
+aus dem Straßburger Druck. – Der Zwickauer und der Ulmer Druck lesen tobendes.
+
+131 Wüten.
+132 Zuo disem: Dazu (kommt auch).
+133 = heischen, hier offenbar im Sinne von »verfügen«.
+134 verschlucken; s. Schwäbisches Wörterbuch, Bd. 2, Tübingen 1908, 1309, s.v. ver-
+
+schlicken.
+
+135 fühllos, taub.
+136 (Sie) sind.
+137 Gemeint ist der Kaiser.
+138 Tollen; Wahnsinnigen.
+139 Gemeint ist der Papst.
+140 die groß heüpter: Gemeint sind die Fürsten.
+141 Apk 17,1–6.
+142 Agnaten; Anverwandte.
+143 Und der gestalt, da: Und obwohl.
+144 Heerzug.
+145 Kreuzzug (gegen die Türken).
+146 In der Vorlage (Augsburger Druck): Madometaner. – Die Lesart Mahometaner
+
+entnommen aus dem Zwickauer, Ulmer und Straßburger Druck.
+
+152
+
+Judith Steiniger
+
+Gottlosen Babilonia147 außgeschryen von dem, der sich auff erden
+für ain Gott anbetten lasset148. Diser hat mit grosser Salemnitet149
+das Creütz dem Cardinal Farnese150 uberantwurt, den Stab seinem
+Bruodern gelibert151; nit allein mit dem aller Gottlosesten und grau-
+samsten bevelch, das er Mann und Weib, jungs und alt erwürgen
+solle, sonder er hat auch volkommne gnad und Ablas152 allen de-
+nen gegeben, so sich inn dem bluot meiner künder153 baden werden.
+Sollicher vergiffter neid, so154 sy wider mich tragend, entspringt
+aber aller und auß keiner andern ursach, dann155 das ich inn dieser
+finstern zeit etwas scheinendenn füncklins von Christo unserem
+Herren angezint156 habe unnd begere, das die menschen die augen
+oe ffnend und erkennend, das sie ob157 erden ein grosses thier ange-
+bettet; und weil sie inen ain Stathalter Christi glaubten,158 ihme
+angehangenn, ihme gevolget, ime gehorsam gewesen, onangesehen,
+ob159 er Christo schon gantz zuo wider ist; nit allein mit dem leben,
+sonder vil mer mit der leere.
+
+War160 ists aber, das mich nichts mer beschwert161, dann wann
+ich gedenck,162 das eben der163, vonn dem ich am hoe chsten solt
+
+147 Vgl. Apk 17,5. – Gemeint ist die römische Kirche.
+148 Gemeint ist der Papst; vgl. 2Thess 2,4.
+149 Solennität, Feierlichkeit.
+150 Alessandro Farnese (1520–1589), Enkel von Papst Paul III., seit 18. Dezember
+1534 Kardinal. 1546 Kommandant der päpstlichen Hilfstruppen im Schmalkaldischen
+Krieg; hier als »bruoder« des Papstes bezeichnet.
+
+151 geliefert, übergeben; s. Schwäbisches Wörterbuch, Bd. 4, Tübingen 1914, 1215
+
+s.v. liberen.
+
+152 Zu dem vom Papst in Aussicht gestellten Ablass s. HBBW 17, 146, Zeile 52f. mit
+
+Anm. 51.
+
+153 Kinder.
+154 den.
+155 als.
+156 angezündet.
+157 auf.
+158 und weil sie inen ain Stathalter Christi glaubten: und weil sie ihn als einen Statt-
+
+halter Christi ansahen.
+
+159 onangesehen, ob: ohne zu beachten, dass.
+160 Wahr.
+161 belastet, mir Sorgen macht.
+162 dann wann ich gedenck: als wenn ich bedenke.
+163 Gemeint ist Kaiser Karl V. Hier wird auf seine Wahlkapitulation (»capitulatio
+caesarea«) bzw. Wahlverschreibung vom 3. Juli 1519 angespielt, in der er sich eidlich
+gegenüber den Kurfürsten verpflichten musste (gedruckt in: Deutsche Reichstagsakten
+unter Kaiser Karl V, Bd. 1, bearbeitet von August Kluckhohn, Göttingen 21962 [Deut-
+
+A2v
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+153
+
+geliebt werden, an stat seiner pflichtlichen und mermals verhaissen
+handthabung164 der gerechtigkeit und fridens underm schein eins
+guotens wider sein offentlich versprochnen glauben unnd zuosagen
+sich understat,165 von allen oe rtern frembde voe lcker in mich zuo
+fieren166. Es ist sein unsinnigkeit und thorhait so groß, das da nie
+kein Fürst gewesen, dem groe ssere und schoe nere gelegenheit zuoge-
+standen, im durch tugent und lob onsterblichen, und ewigen na-
+men zuo erwerben, das Gottloß reich deß Antichristi zuoersteren167,
+den gwalt des Türcken zuo demmen, seine flügel inn alle oe rter der
+welt außzuobreiten, mit dem gunst Gottes und seines liebhabenden,
+mechtigen Teütschlandes die glori168 und eer des Herrn Jesu Christi
+zuo erweitern. So wirt er doch von etlichen ellenden Pfaffen als so
+betrogen, verzaubert unnd wie ein Büffel169 bey der nasen gefue ret;
+zuo dem170 von waiß nit was erngeitz also ubertragen171, dz er von
+tag zuo tag sich selbst mer uberwindet172 und allen gewalt anleget173,
+das reich Christi, sein selbst regierung unnd sein Teütschland zuo
+nicht zuomachen, diweil174 er allen gunst denen beweiset, die sich
+wider Christum setzend175 und doch seine ergste feind seind, der
+gestalt, dz er176 schon ietzund schand und schmach halben ein un-
+entlichen177 nammen erworben.
+
+sche Reichstagsakten Jüngere Reihe 1], 864–876, Nr. 387). Zu ihrem Inhalt s. Alfred
+Kohler, Karl V. 1500–1558: Eine Biographie, München 2005, 73. Siehe ferner HBBW
+17, 357f., Anm. 28.
+
+164 Ausübung.
+165 sich understat: sich untersteht, erlaubt; sich erdreistet.
+166 führen, bringen. – Gemeint sind hier insbesondere die für den Schmalkaldischen
+
+Krieg gemusterten Italiener und Spanier.
+
+167 = zu erstören = zu zerstören; s. Schwäbisches Wörterbuch, Bd. 2, Tübingen 1908,
+851, s.v. erstören. – Anspielung auf den »Sacco di Roma« von 1527, wobei aber das
+Papsttum nicht abgestellt wurde.
+
+168 die glori: den Ruhm.
+169 In der Vorlage (Augsburger Druck) Guffel. – Die Lesart Büffel entnommen aus
+
+dem Zwickauer, Straßburger und Ulmer Druck.
+
+170 zuo dem: noch dazu.
+171 hier im Sinne von: angetrieben, angestachelt.
+172 besiegt, niederwirft.
+173 antut.
+174 während.
+175 Vgl. Ps 2,2; Apg 4,26.
+176 In der Vorlage (Augsburger Druck) nach er versehentlich wiederholtes er. – Rich-
+
+tig im Zwickauer, Straßburger und Ulmer Druck.
+
+177 unentlichen: In der Vorlage (Augsburger Druck) nur schwer lesbar. Ergänzt aus
+
+dem Zwickauer, Straßburger und Ulmer Druck.
+
+154
+
+Judith Steiniger
+
+Wz ist aber von noe ten, weiter zuo reden? Es ist sein ellend so groß
+und mancherley178, das ich bewegt wird, mer mitleidens seiner hal-
+ben dann umb mich selbst zuo habenn; derweil er inn der hoe chsten
+arbeitseligkeit179 steckt und die nit allein nit erkennet, sonder mich
+biß in den tod durchae chtet, allein darumb, das ich gesucht hab,
+in180 glückselig zuomachen. Dargegen, wo181 er seines gefallens uber
+mich herschen, mich mitt sein klawen erreissen, sich mit meim bluot
+ersettigen moe chte,182 so wurd er sich selig schetzen. Also das183 ich
+mich an allen orten aus mererlay ursachen (wie ein jetlicher erken-
+nen kann) inn hoe chstem elend und gar nahend dem verzweyfflen
+befinde.
+
+Hoffnung antwurt.
+
+A3r
+
+O Teütschland, warumb bistu trawrig? was fürchtest? was er-
+schrickest? oe ffne die augen, so wirstu sehen, das nie kein Provint-
+zen oder gegendt der184 gantzen welt gewesen noch sein wirt, die
+glückseliger seye dann185 du! Got hat dir alle gelegenheit für die
+hand gelegt, daz du einig, rein, leucht186 und scheinbar187 werdest.
+Und das diß die warheit sey, so bedenck, das dich Got ausser-
+welt hat, das du der welt ein liecht unnd erkanntnuß von im er-
+leüchtest in der aller fünstersten zeit, so nie gewesen188. Es ist der
+Son Gottes, so189 von dem Gottlosen Antichrist vonn newem ge-
+creützigt unnd sovil jar vergraben gehalten, im gaist in dir wider-
+umb aufferstanden. Er hat dich ausserkoren, das durch dich sein
+glori eroe ffnet und erleüchtet wurd. Woltest dich dann erst klagen?
+Waistu nit, das der Christus, umb welches nammen willen du lei-
+
+178 vielfältig.
+179 Not, Elend.
+180 ihn.
+181 wenn.
+182 Anspielung auf Apk 17,6; 18,24.
+183 Also das: So kommt es, dass.
+184 In der Vorlage (Augsburger Druck) nach der versehentlich wiederholtes der. –
+
+Richtig im Zwickauer, Straßburger und Ulmer Druck.
+
+185 als.
+186 hell.
+187 leuchtend.
+188 so nie gewesen: die es je gegeben hat.
+189 der.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+155
+
+dest, mit allem gwalt im himel herschet190? Was groe sserer Gnaden
+hat er dir doch künden erzeigen dan dich außzuosündern191, sein
+glori zuo entdecken192?
+
+Ob es schon mit deiner true bsal were, wiewol es mit deim
+erhoe hen sein wirt193: Gott kann nit uberwuonden werden. Got kann
+nit verlieren. Ja, es muoß vonnoe ten das geschehen, das194 Got wol-
+gfellig ist. Bistu denn ein Christin195 und dem goe tlichen willen ver-
+einbart196, so ist unmüglich, das der sig nicht197 auff deiner seyten
+seye. Got mach es mit der Welt, wie er woe ll; so wirst du nit anderst
+denn sae lig sein, wo du in seim198 wolgefallen eingeschlossen ver-
+harrest. Aber Gott hatt unwiderruoflicherweiß in seim Goe ttlichen
+gemue t beschlossen, das Antichristischen grewels reich zuonicht zuo
+machen, wie er solchs an mer orten der H[eiligen] schrifft verkün-
+digt.199 Und jetzund ist die zeit vorhanden, darinn du nit mit min-
+deren deinen eeren die ausserwoe lten Gottes von der allerschwers-
+ten unnd Gottloe sesten Tyranney des Antichristi erledigen200 magst,
+als du vormals von der grausamsten Monarchey der Roe mer gefreit.
+Und ob sich schon mäniklich201 mit list, betrug, verreterey, gwalt,
+und grausamkait auffleinte202, so ist es alles der willen Gotes, der
+deinen feinden alle menschliche macht verleidet, damit er gegen
+inen203 sein macht sovil gwaltiger erzeige und sy umb so vil mer
+geschendt204 werden.
+
+190 Anspielung auf Mt 28,18.
+191 dan dich außzuosündern: als dich auszuerwählen.
+192 enthüllen, offenbaren.
+193 Ob es schon mit deiner true bsal were, wiewol es mit deim erhoe hen sein wirt: Auch
+wenn es dich (jetzt) traurig machen sollte, so wird es doch dein Ansehen (in der Zu-
+kunft) mehren.
+
+194 was.
+195 Christin: Nach der Vorlage (Augsburger Druck) und nach dem Straßburger
+Druck. – Deutschland (»Germania«) ist hier als weibliche Personifikation gedacht. – Im
+Zwickauer und im Ulmer Druck: Christen.
+
+196 verbunden.
+197 nicht: fehlt in der Vorlage (Augsburger Druck). – Ergänzt aus dem Zwickauer
+
+Druck. – Im Straßburger und im Ulmer Druck: nit.
+
+A3v
+
+198 seinem.
+199 Siehe z.B. 2Thess 2,8; Apk 18.
+200 befreien.
+201 manch einer.
+202 auflehnte.
+203 sie.
+204 zu Schanden gemacht.
+
+156
+
+Judith Steiniger
+
+Du hast ie205 verschiner zeit206 den gunst207 Gotes gegen dir er-
+faren und in sovil weg gesehen, dz du billicher208 sicher sein soe ltest,
+da209 erstlich ein kleins füncklein deß liechts der erkanntnus Gotes
+inn dir entstue nde, schry jederman »loe sche, loe sche«. Jedoch ist ge-
+schehen: jemer210 sye mit aller irer macht und verstand gesuochet
+habend, das liecht des H[eiligen] Evangelions in dir auß zuo loe schen,
+je mer hat es sich inn alle ort der welt außgebraitet, also das sogar
+die blinden sehenn sollten, das diß ein werck Gotes ist. Er ist der,
+der diese Fürsten mitsampt den Reichsstetten verbunden. Er ist der,
+so sy in ainigkait erhaltet, ist, der in211 beystat und beystand thuon
+wirt, er ist der, so inen mermals sig212 verlihen, und entlich so wirt
+er213 wunderbarlicher weiß diß sein werck zuo end fue ren. Weil dann
+der Sathan sicht214, das sein Reich zuo scheitern gehn will, understat
+er sich215, sein groe stes unnd hoe chstes vermoe gen daran zuspannen.
+Und ist gleich als ein wirblender216 in die hoe chsten heüpter der
+Christenheit gefarenn, treibt sye mitt aim solchen gwalt, das er sy
+unsinnig217 gemacht hatt, der gestalt, das sy, inen selbst verirret218,
+so grosse thorhait volbringend, das sie auß gerechtem urthail Gotes
+ir selbst aigne riechstend219 verlieren, eben mit dem, dardurch sy
+vermainen, die selbenn zuo bestae tigen und zuoerweitern.
+
+Es kann doch iederman scheinbarlich220 sehen, dass des für-
+nembsten haupt221 nach der welt fürnemen222 ist, sein muoter, das
+
+205 ja.
+206 verschiner zeit: in der Vergangenheit.
+207 die Gunst. – »Gunst« ist in älterer Sprache auch maskulin; s. Grimm 9, 1104.
+208 besser.
+209 weil, als.
+210 je mehr.
+211 ihnen.
+212 Sieg.
+213 entlich so wirt er: schliesslich wird er.
+214 sieht.
+215 understat er sich: versucht er.
+216 Verblender.
+217 wahnsinnig.
+218 das sy, inen selbst verirret: dass sie sich selbst verirrt haben (und).
+219 Reichsstände.
+220 deutlich.
+221 dass des fürnembsten haupt: Im Augsburger und im Straßburger Druck: das das
+fürnembste haupt. Es liegt dabei wohl eine Falschlesung des Druckers vor, der das statt
+des las und den Strich für n über fürnembsten vergessen haben dürfte. Das daraus
+entstehende Verständnisproblem führte dazu, dass der Zwickauer und der Ulmer Druck
+
+A4r
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+157
+
+Teütschland, inn ellende dienstbarkait zuo bringen! Er achtet der
+Religion nit weiter, dann sovil223 sy ihm zuo seiner Tyranney dienst-
+lich oder undienstlich ist. Also das alle die, so ime224 in disem
+fürnemen beradten und behülfflich seind, die spilend, wer gewindt,
+der verliere, auch vom Bapst selbst anfahend225. Und ob er sollichs
+schon erkennet, so muoß er doch umb zeitlicher eeren und hoe hin226
+der seinen willen, weil er sich disem befind, als gezwungen disen
+raien227 dantzen. Die Tyranney der Hyspannischen inquisition
+wurd nichts sein gegen der228, so229 man, O Teutschland, inn dich
+bringen wurd230, wo du widerumb in die dienstbarkait der Pfaffen
+gefue rt231 (wie auch die Tyranney der Spannier unendlich sein wur-
+de), also das ir minder schae dlich, wo du underm Türcken gefangen
+legest. Dann der selbig lasset doch die menschen, sovil die Religion
+und glauben betrifft, inn freyhait, so dargegen unser Tirannische
+Tirannen biß inn die gewissen hinein herschen, unnd sich darmit
+Got vergleichen, ja auch wir setzen232 woe llend. Wo man nit bei233
+eim puncten glaubet, eben wie es inen geliebt, so brauchen sie alle
+die grausamkeit, so234 inen möglich.
+
+Du solt auch wissen, das nit allein inn einem sollichen fal die
+Protestierendenn stend, sunder auch die Papisten sich gleich wie
+ein taube under den klawen des hungerischen235 Adlers befinden,
+und zuo sein gnaden und ungnaden sich underwerffen mue ssend.
+
+die Stelle geändert haben zu: das das fürnemste fürnemen des Keysers ist. – Die Auf-
+fassung von der Form haupt als Genitiv findet eine Stütze darin, dass im 16. Jh. im
+Oberdeutschen der Genitiv stark deklinierter Substantive endungslos sein kann, beson-
+ders nach Dentalen (s. Frühneuhochdeutsche Grammatik, hg. von Oskar Reichmann
+und Klaus-Peter Wegera, Tübingen 1993, 169, § M5). – Mit dem Haupt ist der Kaiser
+gemeint.
+
+222 Vorhaben, Plan.
+223 dann sovil: nur insofern (achtet er sie), als.
+224 ihm.
+225 anfangen.
+226 Erhöhung.
+227 = Reihen = Reigen (ein Tanz).
+228 gegen der: im Vergleich zu der.
+229 die.
+230 wird.
+231 gefue rt: geführt werden würdest.
+232 wir setzen: verwirren, in die Irre führen.
+233 in.
+234 die.
+235 ungarischen. – Siehe dazu Diem, Die Symbole Österreichs, 45f.
+
+158
+
+Judith Steiniger
+
+Damit du aber alles ellend, darein du fue lest236, endest, so soll ein
+jedelicher Teütscher oder ain liebhaber seins sue ssen vatterlands ain
+hertz, krafft und sterck zum widerstand fassen, auch biß auff das
+seins237 bluotvergiessen. Du wirst getrungen238, dich selbst zuo schüt-
+zen, ja vil mer die eeren und glori Christo. Derhalb so ist dein sach
+vor der welt, vor Got und in ir239 selbst eerlich, gerecht unnd rom-
+reich240. Du magst mit guotem gewissen streiten und sicher sein, dz
+Got sich selbst nit verlassen wirt. Got hat verheissen, denen, so im
+vertrawend, zuohelffen; jedoch, das du dein leben besserest! Erheb
+dein gemue t zum himel und hoff von dannen her241 dein hilff! Bit
+den Herren, das er nit auff unsere werck, sonder auff sein barm-
+hertzigkeit unnd gue tte, auch auff das bluot, sein Sune242 für uns
+vergossen, sehe, damit er gnedig klich seine ausserwoe lten zuo ime243
+ziehen und sich der anderenn zuo seinen ehren gebrauche. Jedoch,
+damit Gott nitt versuocht werde, dracht244, das du dir selbst mit
+aller gebürlicher, menschlicher fürsehung245 nit verwarlossest246,
+unnd doch allwegen alle guothait von Gott entpfangen habenn, er-
+kennest. So wirstu fürderlich247 und schnell ersehen, das der Herr
+wunderbarlich ding zu seiner glori und eern durch Jesum Christum
+unsern Herrn arbeiten wirt. Amen.
+
+Judith Steiniger, Dr. phil., Wissenschaftliche Mitarbeiterin an der Heinrich Bullinger-
+Briefwechseledition, Institut für Schweizerische Reformationsgeschichte, Theologische
+Fakultät der Universität Zürich
+
+Abstract: Recent work on the edition of Heinrich Bullinger’s correspondence from the
+year 1546 has unearthed an interesting letter by Ambrosius Blarer, the reformer of
+Constance. In a list of publications connected with the raging Schmalkaldic War, he
+
+236 darein du fue lest: in dem du dich gefangen siehst.
+237 Nach das folgt in der Vorlage (Augsburger Druck) sei oder ein ähnliches Wort,
+welches im Zwickauer und Ulmer Druck aber fehlt. – seins ergänzt aus dem Straßburger
+Druck.
+
+A4v
+
+238 gedrängt.
+239 sich.
+240 ruhmreich.
+241 von dannen her: von dort.
+242 sein Sune: (dass) sein Sohn (Jesus Christus).
+243 sich.
+244 Dracht: Trachte danach.
+245 Vorsicht.
+246 vernachlässigst.
+247 alsbald.
+
+Eine unbekannte Schrift von Bernardino Ochino
+
+159
+
+mentions the pamphlet “Ein gesprech des Teütschen Lands und der hoffnung diese
+gegenwertige Kriegsleüff betreffend […]”, attributing it to the Italian reformer Bernar-
+dino Ochino. This article corroborates Ochino’s hitherto unknown authorship, as well
+as providing an edition of the pamphlet with a commentary and analysis.
+
+Keywords: Bernardino Ochino; Ambrosius Blarer; pamphlet; history of literature; Ger-
+many; Italy; Charles V; Schmalkaldic War
+
+
