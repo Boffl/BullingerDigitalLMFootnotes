@@ -309,7 +309,7 @@ if __name__ == "__main__":
     parser.add_argument("mode", choices=["letter_df", "footnote_df", "id_to_edition_map"])
     parser.add_argument("outfilename", type=str, help="csv filename for the DFs and json filename for the map")
     parser.add_argument("--infolder", default="../bullinger_source_data/letters" ,help="folder containing the letters")
-    parser.add_argument("--id_to_edition_map", default="data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
+    parser.add_argument("--id_to_edition_map", default="../data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
     parser.add_argument("--test_letter", default="", help="for testing cases, run only on a specific letter")
     args = parser.parse_args()
     mode = args.mode 
@@ -318,7 +318,7 @@ if __name__ == "__main__":
     id_to_edition_map = args.id_to_edition_map
     test_letter = args.test_letter
     # call the model to make the dataframes (takes a long time when calling through the ipynb somehow...)
-    with open("data/id_to_edition_map.json", "r", encoding="utf-8") as injson:
+    with open(id_to_edition_map, "r", encoding="utf-8") as injson:
         id_to_edition = json.load(injson)
 
     if mode == "letter_df":
