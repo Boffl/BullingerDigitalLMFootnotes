@@ -16,6 +16,20 @@ def make_id_to_edition_map(infolder):
     return id_to_edition
 
 
+def count_fns_in_letter(root):
+    footnotes = root.findall(".//note[@type='footnote']", {None: 'http://www.tei-c.org/ns/1.0'})
+    
+    ed_footnote_count = 0  # editorial footnotes
+    cont_footnote_count = 0  # content footnotes
+    for footnote in footnotes:
+        try: 
+            int(footnote.get('n'))
+            cont_footnote_count += 1
+        except ValueError:
+            ed_footnote_count += 1
+    
+    return ed_footnote_count, cont_footnote_count
+
 def make_letter_df(infolder, id_to_edition):
     """make some stats about letters, return pandas df"""
     letter_df = pd.DataFrame(columns=["letter_id", "edition", "sent_count", "cont_footnote_count", "ed_footnote_count"])
@@ -32,16 +46,7 @@ def make_letter_df(infolder, id_to_edition):
         if letter_id not in id_to_edition:  # only work on edited letters...
             continue
         
-        footnotes = root.findall(".//note[@type='footnote']", namespaces_none)
-        
-        ed_footnote_count = 0  # editorial footnotes
-        cont_footnote_count = 0  # content footnotes
-        for footnote in footnotes:
-            try: 
-                int(footnote.get('n'))
-                cont_footnote_count += 1
-            except ValueError:
-                ed_footnote_count += 1
+        ed_footnote_count, cont_footnote_count = count_fns_in_letter(root)
         
 
         sentences = root.findall(".//s", namespaces_none) # list of sentences
