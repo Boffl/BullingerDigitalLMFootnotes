@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 DATA_PATH = "../../data"
 # SYSTEM_PROMPT = "You are a research assistant for a historian, specialized on the European reformation working on an edition of the correspondence of Heinrich Bullinger. Given a letter in TEI format, your task is to add text to a footnote."
-SYSTEM_PROMPT = "Du bist Historiker und hast dich auf die Reformation spezialisiert. Gerade arbeitest du daran Briefe von Heinrich Bullinger zu edieren."
+SYSTEM_PROMPT = "Du bist Historiker und hast dich auf die Reformation spezialisiert. Gerade arbeitest du daran Briefe von Heinrich Bullinger zu edieren. Vervollständige die inhaltlichen Fussnoten."
 def HISTORIAN_PROMPT(text, n):  # used in the instruction_add prompt
   return f"Bitte schlage mir einen Text für Fussnote n={n} in folgendem Dokument vor:\n\n{text}"
 
