@@ -37,7 +37,7 @@ if __name__ == "__main__":
     # example call: python openai_cost_estimate.py ..\..\data\prompts\instruct_continue\test gpt-3.5 1.5 2
     parser = argparse.ArgumentParser()
     parser.add_argument("folder_path", help="Path to the folder with the jsonl prompt files")
-    parser.add_argument("model_name")
+    parser.add_argument("model_name", help="for the tokenization, no need to be too specific")
     parser.add_argument("price_in_per_M", type=float)
     parser.add_argument("price_out_per_M", type=float)
 

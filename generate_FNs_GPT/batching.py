@@ -29,8 +29,8 @@ def generate_batch_file(folder_path, model_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("folder_path")
-    parser.add_argument("model_name")
+    parser.add_argument("folder_path", help="Folder with the prompt .jsonl files to be sent to the model")
+    parser.add_argument("model_name", help="String of the model to sent to the api")
 
     args = parser.parse_args()
 
