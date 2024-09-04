@@ -1,0 +1,60 @@
+letter_id,footnote_n,generated_footnote,prompt_tokens,completion_tokens
+10327,2,"Die ""nuperis literis"" beziehen sich auf einen früheren Austausch von Korrespondenz, in dem wichtige Angelegenheiten, möglicherweise politische oder religiöse, angesprochen wurden. Siehe hierzu HBBW-2, S. 150-152, wo Bullinger auf die Bedeutung dieser Briefe für die laufenden Verhandlungen eingeht.</note> etsi me mihi vultu<note xml:id=""fn3"" type=""footnote"" n=""3"">Der Ausdruck beschreibt die Überraschung und Verwunderung, die Bullinger über den Inhalt der neuen Briefe empfand. In der Reformation waren Briefe oft von entscheidender Wichtigkeit, um die Ansichten und Strategien der Reformatoren zu klären. Siehe hierzu die Analyse in G. W. H. Schmidts Werk zu Bullingers Korrespondenz, S. 89-90.</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",901,209
+10327,5,"Siehe Weihnachtsbrief 1542 an Myconius, in dem Bullinger auf ähnliche Rivalitäten im Rat eingeht.</note> - stell' dir vor - ist in der Stadt reizbar.</s>
+					<s n=""9"" xml:lang=""la"" type=""auto"">Sunt, opinor, qui multi meum interitum expetant.</s>
+					<s n=""10"" xml:lang=""la"" type=""auto"">Quod si hoc ita se habeat, quid dubitas me non aeternum turbare? </s>
+				</p>
+				<p>
+					<s n=""11"" xml:lang=""la"" type=""auto"">Sed tu mihi scribe, mi frater, et eorum responsa, qui poterunt ad me deferre gratiam et pacem.</s>
+					<s n=""12"" xml:lang=""la"" type=""auto"">Vale, dilectissime frater, et ad te ex animo domino meo.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",1074,235
+10650,2,"Für weitere Informationen zu <persName ref=""p5618"" cert=""high"">Heinrich Lavater</persName> und seinem Lebensstil in <placeName ref=""l492"" cert=""high"">Straßburg</placeName> vergleiche die Werke von <persName ref=""p5619"" cert=""high"">Urs Graf</persName>, der in seinen Schriften Lavater als einen bedeutenden unter den Reformatoren hervorhebt.</note>.</s>
+					<s n=""4"" xml:lang=""la"" type=""auto"">Sed hi etiam ad humidorum amnium et superiorem aquas, omnes ad operationes naturales et fide magnitudinem habent<note xml:id=""fn3"" type=""footnote"" n=""3"">Die Verbindung zwischen Glauben und Naturwissenschaften war für die Reformatoren von zentraler Bedeutung; vgl. auch <persName ref=""p5620"" cert=""high"">Johannes Calvin</persName> in seiner Institutio Christianae Religionis.</note>.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",1068,240
+10650,3,"Das Fließen des <placeName ref=""l492"" cert=""high"">Flusses</placeName> in der Nähe von <placeName ref=""l493"" cert=""high"">Straßburg</placeName> war ein bekannter Ort für Ausflüge und Badeaktivitäten in der Region. Dies könnte den Kontext für Lavaters Entscheidung liefern, trotz der vorhergegangenen Gefahren ins Wasser zu gehen.</note>.</s>
+					<s n=""6"" xml:lang=""la"" type=""auto"">Itaque cum aqua paulum se placavisset, submersus est in eâdem aquâ, atque ita vitam amisit.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",1293,160
+10650,6,"Diese Bemerkung könnte sich auf die anderen Anwesenden beziehen, die gemeinsam mit <persName ref=""p5618"" cert=""high"">Heinrich Lavater</persName> und <persName ref=""p8459"" cert=""high"">Otto Werdmüller</persName> in der Nähe des Flusses waren. Es ist unklar, wer sie waren, da keine spezifischen Namen genannt werden. Möglicherweise waren einige von ihnen ebenfalls Studenten oder Religionskollegen, die Zeit in Straßburg verbrachten. Die Umstände seiner letzten Stunden und die tatsächlichen Geschehnisse während des Vorfalls wurden von den Zeugen unterschiedlich erlebt.",1973,139
+10650,7,"D. Jakob Bedrot war ein Bekannter und Gemeinschaftsmitglied von <persName ref=""p5618"" cert=""high"">Heinrich Lavater</persName>, der in vielen Belangen des Alltags und der theologischen Studien in Straßburg aktiv war. Er wird hier erwähnt, um sicherzustellen, dass die Tragödie von Lavater in einem breiteren Kontext des gemeinsamen Lebens und der Freundschaft innerhalb der Gemeinschaft der Reformatoren in Straßburg eingeordnet wird. Seine temperamentvolle Schreibweise deutet darauf hin, dass er sowohl als Freund als auch als Zeuge der Geschehnisse fungiert, um das Geschehene weiter zu berichten und Bullinger über die Umstände zu informieren.</note>.</s>
+				<p>
+					<s n=""21"" xml:lang=""la"" type=""auto"">Valeas, et cum ad te literas mittam, sperabo tuam veniam.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",2314,213
+11507,10,"<persName ref=""p18988"" cert=""high"">Cyprianus</persName>, Epist. 43, 5, 1 (CChr III B 204). In der christlichen Tradition wird der Prophet Elija oft als Vorbote und Träger göttlicher Offenbarung angesehen. Seine wunderbare Himmelfahrt im feurigen Wagen ist ein Symbol für den besonderen Status der Propheten und deren Nähe zu Gott.</note>.<s>",2231,98
+11507,11,"<cit type=""bible""><ref>1Kön 18, 21</ref></cit>.</note></s>
+					<s n=""14"" xml:lang=""la"" type=""auto"">Adhuc autem plura indicare possumus, quoniam nonnulli fidei nostrae adversarii, non ex sola scriptura, sed etiam ex sanctis patribus haereses suas defendere conantur, qui nos in eis non merentur audiri, cum ipsi ipsa sacramenta non prosequantur.</s>
+					<s n=""15"" xml:lang=""la"" type=""auto"">Quocirca quod nos comperimus, cum veritate colligemus; nec cuiquam licet in sacramentis Christi quod non a Christo est addere.</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",2372,192
+11507,12,"<cite type=""bible""><ref>Sophonias 1, 5</ref></cite>.</note></s>
+					<s n=""15"" xml:lang=""la"" type=""auto"">Quid ergo faciemus? Proh dolor, non parum laboramus in veritate, sed immergimur in hanc nequitiae turpitudinem!</s>
+					<s n=""16"" xml:lang=""la"" type=""auto"">Ex istis autem rationibus et scripturarum evidentia hucusque, o frater, quantae sequentur turbae, si iis, quas exposuimus, iungantur, atque ob hanc malignitatem et superstitionem nonnulli religiosi fratres perturabuntur!</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>",2460,187
+11507,13,"Certe si unicum Christi sacrificium semel pro peccatis mundi oblatum perficit fideles, <persName ref=""p18988"" cert=""high"">Cyprianus</persName>, Epist. 31, 2, 3-4 (CChr III B 155f.).",2543,67
