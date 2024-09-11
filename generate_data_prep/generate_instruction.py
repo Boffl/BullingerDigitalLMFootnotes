@@ -90,7 +90,7 @@ if __name__ == "__main__":
     # Example call: python generate_instruction.py test instruct_continue --example
     parser = argparse.ArgumentParser()
     parser.add_argument("split", choices=["train", "dev", "test"])
-    parser.add_argument("prompt_type", choices=["instruct_continue", "instruct_add"])  # todo: add continue prompt...
+    parser.add_argument("prompt_type", choices=["continue", "instruct_continue", "instruct_add"])  # todo: add continue prompt...
     parser.add_argument("--example", action="store_true", default=False)  # only do 5 example letters for testing purposes
 
     args = parser.parse_args()
@@ -117,42 +117,55 @@ if __name__ == "__main__":
         ns = list(footnote_df[footnote_df["letter_id"] == int(letter_id)].n_footnote)
         example_n = ns.pop(0)
 
-        # make the 1-shot example
-        if prompt_type == "instruct_continue":
-            example_query, example_answer = instruct_continue_prompt(letter_text, example_n)
-        
-        if prompt_type == "instruct_add":
-            all_footnote_ns = [example_n] + ns  # The function will remove the ns passed, so we need to pass a list with all of them
+        if prompt_type == "continue":
+            for n in ns:
+                text_until_fn, _ = instruct_continue_prompt(letter_text, n)
 
-            # will have to do this only once, bc letter_no_fns can be used again
-            letter_no_fns, example_answer = instruct_prompt_add(letter_text, all_footnote_ns, example_n)
-            example_query = HISTORIAN_PROMPT(letter_no_fns, example_n)
+                outfile_name = f"{letter_id}_{n}.txt"
+                outfile_path = os.path.join(out_path, outfile_name)
+                with open(outfile_path, "w", encoding="utf-8") as outfile:
+                    outfile.write(text_until_fn)
 
-        one_shot = [
-            {'role': 'system', 'content': SYSTEM_PROMPT},
-            {'role': 'user', 'content': example_query},
-            {'role': 'assistant', 'content': example_answer}
-        ]
+        else:
 
-
-        for n in ns:
-
+            # make the 1-shot example
             if prompt_type == "instruct_continue":
-                query, _ = instruct_continue_prompt(letter_text, n)
+                example_query, example_answer = instruct_continue_prompt(letter_text, example_n)
             
             if prompt_type == "instruct_add":
-                query = HISTORIAN_PROMPT(letter_no_fns, n)
+                all_footnote_ns = [example_n] + ns  # The function will remove the ns passed, so we need to pass a list with all of them
 
-            messages = one_shot + [{'role': 'user', 'content': query}]
+                # will have to do this only once, bc letter_no_fns can be used again
+                letter_no_fns, example_answer = instruct_prompt_add(letter_text, all_footnote_ns, example_n)
+                example_query = HISTORIAN_PROMPT(letter_no_fns, example_n)
+
+            
+
+            one_shot = [
+                {'role': 'system', 'content': SYSTEM_PROMPT},
+                {'role': 'user', 'content': example_query},
+                {'role': 'assistant', 'content': example_answer}
+            ]
 
 
-            # what would be a better way to save the files??
-            # maybee as a big json?
-            # or a long jsonl file, every 4 lines starts a new letter. Convenient, but I'd loose metadata
-            # So json or many smaller files is better...
-            outfile_name = f"{letter_id}_{n}.jsonl"
-            outfile_path = os.path.join(out_path, outfile_name)
-            with jsonlines.open(outfile_path, "w") as outfile:
-                outfile.write_all(messages)
+            for n in ns:
+
+                if prompt_type == "instruct_continue":
+                    query, _ = instruct_continue_prompt(letter_text, n)
+                
+                if prompt_type == "instruct_add":
+                    query = HISTORIAN_PROMPT(letter_no_fns, n)
+
+                messages = one_shot + [{'role': 'user', 'content': query}]
+
+
+                # what would be a better way to save the files??
+                # maybee as a big json?
+                # or a long jsonl file, every 4 lines starts a new letter. Convenient, but I'd loose metadata
+                # So json or many smaller files is better...
+                outfile_name = f"{letter_id}_{n}.jsonl"
+                outfile_path = os.path.join(out_path, outfile_name)
+                with jsonlines.open(outfile_path, "w") as outfile:
+                    outfile.write_all(messages)
 
 
