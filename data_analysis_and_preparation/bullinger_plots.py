@@ -106,10 +106,11 @@ def label_trends(df):
 
     # Remove the misc label, as it does not add more information, it is just what is left from the pie
     # also, if it is in the picture we loose a lot of detail in the graph fro the smaller categories.
-    percentages = percentages.drop(columns=['misc'])
+    # percentages = percentages.drop(columns=['misc'])
 
+    fig, ax = plt.subplots(figsize=(10,6))
     # Plot the percentages
-    percentages.plot(kind='line', marker='o', color=colors)
+    percentages.plot(kind='line', marker='o', color=colors, ax=ax)
     plt.title('Percentage of footnotes, per edition')
     plt.xlabel('Edition')
     plt.ylabel('Percentage')
@@ -117,7 +118,7 @@ def label_trends(df):
     plt.grid(True)
     # Move legend to the right of the plot
     plt.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
-
+    return fig
     plt.tight_layout()
     plt.show()
 
