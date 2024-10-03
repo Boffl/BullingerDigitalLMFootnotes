@@ -1,12 +1,62 @@
 import matplotlib.pyplot as plt
+from cycler import cycler
 from collections import Counter
 import pandas as pd
 
 # Example Counter object
 counter_obj = Counter(['a', 'b', 'a', 'c', 'a', 'b', 'c', 'c', 'a', 'b'])
 
-# nice color map:
-cmap = plt.get_cmap('tab10')
+# uzh color map
+# Define the UZH primary colors
+uzh_colors = ['#0028A5',  # UZH Blue
+              '#4AC9E3',  # UZH Cyan
+              '#A4D233',  # UZH Apple
+              '#FFC845',  # UZH Gold
+              '#FC4C02',  # UZH Orange
+              '#BF0D3E',  # UZH Berry
+              '#000000']  # UZH Black
+
+# Overwrite default color cycle with UZH colors
+plt.rcParams['axes.prop_cycle'] = cycler(color=uzh_colors)
+
+# remaining colors from uzh template
+colors = {
+    'UZH_Blue': '#0028A5',
+    'Blue1': '#BDC9E8',
+    'Blue2': '#7596FF',
+    'Blue3': '#3062FF',
+    'Blue4': '#001E7C',
+    'Blue5': '#001452',
+    'UZH_Cyan': '#4AC9E3',
+    'Cyan1': '#DBF4F9',
+    'Cyan2': '#B7E9F4',
+    'Cyan3': '#92DFEE',
+    'Cyan4': '#1EA7C4',
+    'Cyan5': '#147082',
+    'UZH_Apple': '#A4D233',
+    'Apple1': '#ECF6D6',
+    'Apple2': '#DBEDAD',
+    'Apple3': '#C8E485',
+    'Apple4': '#7CA023',
+    'Apple5': '#536B18',
+    'UZH_Gold': '#FFC845',
+    'Gold1': '#FFF4DA',
+    'Gold2': '#FFE9B5',
+    'Gold3': '#FFDE8F',
+    'Gold4': '#F3AB00',
+    'Gold5': '#A27200',
+    'UZH_Orange': '#FC4C02',
+    'Berry': '#BF0D3E',
+    'UZH_Black': '#000000',
+    'Grey1': '#C2C2C2',
+    'Grey2': '#A3A3A3',
+    'Grey3': '#666666',
+    'Grey4': '#4D4D4D',
+    'Grey5': '#333333',
+    'UZH_White': '#FFFFFF'
+}
+
+
 
 def pie(counter_obj, max):
     # Sort the Counter object by values
@@ -100,9 +150,7 @@ def label_trends(df):
     percentages = percentages.sort_index()
 
 
-    # Generate a list of colors for each label
-    num_colors = len(percentages.columns)
-    colors = [cmap(i) for i in range(num_colors)]
+
 
     # Remove the misc label, as it does not add more information, it is just what is left from the pie
     # also, if it is in the picture we loose a lot of detail in the graph fro the smaller categories.
@@ -110,8 +158,8 @@ def label_trends(df):
 
     fig, ax = plt.subplots(figsize=(10,6))
     # Plot the percentages
-    percentages.plot(kind='line', marker='o', color=colors, ax=ax)
-    plt.title('Percentage of footnotes, per edition')
+    percentages.plot(kind='line', marker='o', ax=ax)
+    plt.title('')
     plt.xlabel('Edition')
     plt.ylabel('Percentage')
     plt.legend(title='')
