@@ -40,12 +40,14 @@ if __name__ == "__main__":
     parser.add_argument("model_name", help="for the tokenization, no need to be too specific")
     parser.add_argument("price_in_per_M", type=float)
     parser.add_argument("price_out_per_M", type=float)
+    parser.add_argument("--example_out_message", default="")
 
     args = parser.parse_args()
     folder_path = args.folder_path
     model_name = args.model_name
     price_in_per_M = args.price_in_per_M
     price_out_per_M = args.price_out_per_M
+    example_out_message = args.example_out_message
 
     # Choose your model's encoding, e.g., for GPT-4 models
     encoding = tiktoken.encoding_for_model(model_name)
@@ -60,7 +62,11 @@ if __name__ == "__main__":
         with jsonlines.open(filepath, mode="r") as reader:
             messages = list(reader)
         
-        out_message = messages[2]  # taken the example Footnote as estimate for the output
+        
+        if example_out_message != "":
+            out_message = {"role": "assistant", "content": example_out_message}
+        else:
+            out_message = messages[2]  # taken the example Footnote as estimate for the output
         in_toks = calculate_tokens_for_chat(messages, encoding)
         out_toks = calculate_tokens_for_chat([out_message], encoding)
         tokens.append((in_toks, out_toks))
