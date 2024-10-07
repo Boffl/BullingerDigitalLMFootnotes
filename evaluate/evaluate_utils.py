@@ -180,7 +180,13 @@ def evaluate_with_and_without(preds, refs, batch_size=64, processes=8):
 
 def compute_bleu_rouge(pred_ref_pair):
   pred, ref = pred_ref_pair
-  result_bleu = bleu.compute(predictions=[pred], references=[ref])["bleu"]
+  try:
+    result_bleu = bleu.compute(predictions=[pred], references=[ref])["bleu"]
+  except ZeroDivisionError:
+      if pred == "":  
+         # prediction can be an empty string, for example if original is markup only and removing it leaves it empty
+         # unfortunatelly BLEU does not handle this special case itself (BERT prints a warning, Rouge just silently assigns 0)
+         result_bleu = 0  
   result_rouge = rouge.compute(predictions=[pred], references=[ref])["rouge1"]
   return (result_bleu, result_rouge)
 
