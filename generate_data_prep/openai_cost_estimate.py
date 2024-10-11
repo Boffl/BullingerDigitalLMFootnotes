@@ -66,7 +66,12 @@ if __name__ == "__main__":
         if example_out_message != "":
             out_message = {"role": "assistant", "content": example_out_message}
         else:
-            out_message = messages[2]  # taken the example Footnote as estimate for the output
+            try:
+                out_message = messages[2]  # taken the example Footnote as estimate for the output
+            except IndexError:
+                print("No example answer in the prompt file, please specify --example_out_message")
+                exit(1)
+        
         in_toks = calculate_tokens_for_chat(messages, encoding)
         out_toks = calculate_tokens_for_chat([out_message], encoding)
         tokens.append((in_toks, out_toks))
