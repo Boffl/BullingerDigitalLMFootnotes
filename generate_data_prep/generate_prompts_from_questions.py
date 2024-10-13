@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+import os, re
 from generate_instruction import remove_footnote_content, get_footnote_content
 import jsonlines
 import argparse
@@ -12,7 +12,11 @@ def QUESTION_PROMPT(text, n, q):  # used in the instruction_add prompt
   return f"Schlage einen Text für Fussnote {n} vor, die folgende Frage beantwortet: {q} \n\n {text}"
 
 def get_query(sentence, n_footnote, question):
-    sentence_removed_fn = remove_footnote_content(sentence, n_footnote)
+    # removing all footnotes, thus for the one-shot case, the desired footnote is not in the prompt...
+    fns_in_sent = return_fns_in_sentence(sentence)
+    sentence_removed_fn = sentence
+    for fn in fns_in_sent:
+        sentence_removed_fn = remove_footnote_content(sentence_removed_fn, fn)
     return QUESTION_PROMPT(sentence_removed_fn, n_footnote, question)
 
 
@@ -21,6 +25,12 @@ def save_file(letter_id, n, messages, out_path):
     outfile_path = os.path.join(out_path, outfile_name)
     with jsonlines.open(outfile_path, "w") as outfile:
         outfile.write_all(messages)
+
+def return_fns_in_sentence(sent):
+    # regex pattern to match footnote numbers
+    pattern = r'<note[^>]*n="(\d+)"[^>]*>'
+    footnote_numbers = re.findall(pattern, sent)
+    return [int(num) for num in footnote_numbers]
 
 def make_one_shot_example(example_row):
     """from a row in the df, return messages for one shot"""
