@@ -6,6 +6,8 @@ import pandas as pd
 # Example Counter object
 counter_obj = Counter(['a', 'b', 'a', 'c', 'a', 'b', 'c', 'c', 'a', 'b'])
 
+cmap = plt.get_cmap("tab10")
+
 # uzh color map
 # Define the UZH primary colors
 uzh_colors = ['#0028A5',  # UZH Blue
@@ -14,7 +16,9 @@ uzh_colors = ['#0028A5',  # UZH Blue
               '#FFC845',  # UZH Gold
               '#FC4C02',  # UZH Orange
               '#BF0D3E',  # UZH Berry
-              '#000000']  # UZH Black
+              '#3062FF',  # UZH Blue3
+              '#C2C2C2',  # UZH Grey1
+              '#C8E485']  # UZH Apple3
 
 # Overwrite default color cycle with UZH colors
 plt.rcParams['axes.prop_cycle'] = cycler(color=uzh_colors)
@@ -58,40 +62,49 @@ colors = {
 
 
 
-def pie(counter_obj, max):
-    # Sort the Counter object by values
-    sorted_items = counter_obj.most_common()
-
-    # Separate the top categories adding up to max%
-    top_categories = []
-    others_count = 0
-    total_count = sum(counter_obj.values())
-    for item in sorted_items:
-        if (others_count + item[1]) / total_count <= max:
-            top_categories.append(item)
-            others_count += item[1]
-        else:
-            break
-
-    # Add "others" category if there are remaining categories
-    if others_count < total_count:
-        top_categories.append(('others', total_count - others_count))
-
-    # Get labels and sizes for the pie chart
-    labels = [item[0] for item in top_categories]
-    sizes = [item[1] for item in top_categories]
-    percentages = [size / total_count for size in sizes]
-
-    # Plotting the pie chart
-    plt.figure(figsize=(8, 6))
-    wedges, texts, autotexts = plt.pie(sizes, autopct='', startangle=140)
-
-    # Adding labels and percentages into the legend
-    legend_labels = [f'{label}: {percent:.1%}' for label, percent in zip(labels, percentages)]
-    plt.legend(wedges, legend_labels, loc='center left', bbox_to_anchor=(1, 0.5), fontsize='small')
-    plt.title('Distribution of Values')
+def plot_label_pie_chart(df, labels_to_show=None):
+    """
+    Plots a pie chart of label frequencies, using a consistent colormap,
+    and returns the label_colors dictionary for reuse in other plots.
     
-    plt.show()
+    Parameters:
+    df (pd.DataFrame): DataFrame containing 'edition' and 'label' columns.
+    labels_to_show (list, optional): List of labels to include in the plot. If None, all labels are shown.
+    
+    Returns:
+    fig (matplotlib.figure.Figure): The pie chart figure.
+    label_colors (dict): A dictionary mapping each label to its corresponding color.
+    """
+
+    df_split = df['label'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True)
+    
+    df_split = pd.DataFrame(df_split, columns=['label'])
+
+    label_counts = df_split['label'].value_counts()
+
+    # Filter the labels to show if provided
+    if labels_to_show is not None:
+        label_counts = label_counts[labels_to_show]
+
+    # Use the tab10 colormap and create a dictionary for consistent colors
+    cmap = plt.get_cmap('tab10')
+    all_labels = label_counts.index.tolist()
+    label_colors = {label: cmap(i % 10) for i, label in enumerate(all_labels)}
+
+    colors_to_use = [label_colors[label] for label in label_counts.index]
+
+    # Plot the pie chart
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.pie(label_counts, labels=label_counts.index, autopct='%1.1f%%', startangle=90, colors=colors_to_use)
+
+    # Equal aspect ratio ensures that pie is drawn as a circle
+    ax.axis('equal')
+
+    plt.title('', fontsize=16)
+
+    # Return both the figure and the label_colors dictionary
+    return fig, label_colors
+
 
 
 def bar(counter_obj, max, exeed=True):
@@ -132,43 +145,66 @@ def bar(counter_obj, max, exeed=True):
     plt.show()
 
 
-def label_trends(df):
-  
-    # Group by Year and Label, and calculate the count of each label in each year
-    grouped = df.groupby(['edition', 'label']).size().reset_index(name='Count')
+def label_trends(df, label_colors, labels_to_show=None):
+    """
+    Plots the percentage trends of labels over editions, using a given color mapping.
+    
+    Parameters:
+    df (pd.DataFrame): DataFrame containing 'edition' and 'label' columns.
+    label_colors (dict): Dictionary of label to color mappings from the pie chart.
+    labels_to_show (list, optional): List of labels to include in the plot. If None, all labels are shown.
+    
+    Returns:
+    fig (matplotlib.figure.Figure): The line chart figure.
+    """
+    
+    # Split labels if there are multiple labels in a row (assumes labels are separated by ', ')
+    df_split = df['label'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True)
+    
+    # Create a new DataFrame with the split labels
+    df_split = pd.DataFrame(df_split, columns=['label'])
+    df_split['edition'] = df['edition'].repeat(df['label'].str.split(', ').apply(len))
 
-    # Pivot the table to have years as rows and labels as columns
+    # Group by edition and label, and calculate the count of each label in each edition
+    grouped = df_split.groupby(['edition', 'label']).size().reset_index(name='Count')
+
+    # Pivot the table to have editions as rows and labels as columns
     pivot_table = grouped.pivot_table(index='edition', columns='label', values='Count', fill_value=0)
 
-    # Calculate the percentage of each label in each year
+    # Calculate the percentage of each label in each edition (relative to the full label set)
     percentages = pivot_table.div(pivot_table.sum(axis=1), axis=0) * 100
 
-    # Set edition column as index
-    percentages.index = pd.Categorical(percentages.index)
-
-    # Sort the index
+    # Ensure 'edition' is treated as a category and sort it
+    percentages.index = pd.Categorical(percentages.index, ordered=True)
     percentages = percentages.sort_index()
 
+    # Filter by the labels to show if provided (after calculating percentages)
+    if labels_to_show is not None:
+        percentages = percentages[labels_to_show]
 
+    # Create a list of colors based on the labels being shown
+    colors_to_use = [label_colors[label] for label in percentages.columns]
 
-
-    # Remove the misc label, as it does not add more information, it is just what is left from the pie
-    # also, if it is in the picture we loose a lot of detail in the graph fro the smaller categories.
-    # percentages = percentages.drop(columns=['misc'])
-
-    fig, ax = plt.subplots(figsize=(10,6))
+    # Create the plot
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
     # Plot the percentages
-    percentages.plot(kind='line', marker='o', ax=ax)
-    plt.title('')
-    plt.xlabel('Edition')
-    plt.ylabel('Percentage')
-    plt.legend(title='')
+    percentages.plot(kind='line', marker='o', ax=ax, color=colors_to_use)
+    
+    # Plot formatting
+    plt.title('', fontsize=16)
+    plt.xlabel('Edition', fontsize=12)
+    plt.ylabel('Percentage (%)', fontsize=12)
     plt.grid(True)
-    # Move legend to the right of the plot
-    plt.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
-    return fig
+
+    # Adjust the legend to be outside the plot on the right
+    plt.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=10)
+
+    # Tighten the layout
     plt.tight_layout()
-    plt.show()
+    
+    return fig
+
 
 
 def label_pie(df):
