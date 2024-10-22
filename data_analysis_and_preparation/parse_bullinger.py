@@ -278,6 +278,7 @@ def classify_footnote(text, xml_str):
                 "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
     
     # biliographien (only the bullinger bibliography that is cited enough to care)
+    # actually it is not cited enough to care... I'll take it out...
     bibl = r"<bibl.*?>HBBibl</bibl>"
 
 
@@ -307,8 +308,8 @@ def classify_footnote(text, xml_str):
         label_list.append("lex")
         # return "lex"
     
-    if re.findall(bibl, xml_str):
-        label_list.append("bibl")
+    # if re.findall(bibl, xml_str):
+        # label_list.append("bibl")
         # return "bibl"
     
     if len(label_list) < 1:
