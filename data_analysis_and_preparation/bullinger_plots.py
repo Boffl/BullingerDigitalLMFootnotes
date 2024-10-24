@@ -64,7 +64,7 @@ colors = {
 
 def plot_label_pie_chart(df, labels_to_show=None):
     """
-    Plots a pie chart of label frequencies, using a consistent colormap,
+    Plots a pie chart of label frequencies with a legend for the labels, using a consistent colormap,
     and returns the label_colors dictionary for reuse in other plots.
     
     Parameters:
@@ -77,7 +77,6 @@ def plot_label_pie_chart(df, labels_to_show=None):
     """
 
     df_split = df['label'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True)
-    
     df_split = pd.DataFrame(df_split, columns=['label'])
 
     label_counts = df_split['label'].value_counts()
@@ -93,9 +92,18 @@ def plot_label_pie_chart(df, labels_to_show=None):
 
     colors_to_use = [label_colors[label] for label in label_counts.index]
 
-    # Plot the pie chart
+    # Plot the pie chart with percentage labels outside the pie
     fig, ax = plt.subplots(figsize=(8, 8))
-    ax.pie(label_counts, labels=label_counts.index, autopct='%1.1f%%', startangle=90, colors=colors_to_use)
+    wedges, texts, autotexts = ax.pie(label_counts, startangle=90, colors=colors_to_use, autopct='%1.1f%%', 
+                                      pctdistance=1.08)  # Move percentage labels outside the pie
+
+    # Format the percentage text
+    for autotext in autotexts:
+        autotext.set_color('black')  # Set text color to black for better readability
+        autotext.set_fontsize(12)    # Adjust font size if necessary
+
+    # Add a legend outside the pie chart
+    ax.legend(wedges, label_counts.index, title="", loc="center left", bbox_to_anchor=(0,1))
 
     # Equal aspect ratio ensures that pie is drawn as a circle
     ax.axis('equal')
@@ -145,20 +153,26 @@ def bar(counter_obj, max, exeed=True):
     plt.show()
 
 
-def label_trends(df, label_colors, labels_to_show=None):
+import matplotlib.pyplot as plt
+import pandas as pd
+from collections import OrderedDict
+
+def label_trends(df, label_colors, labels_to_show=None, ax=None, title=''):
     """
-    Plots the percentage trends of labels over editions, using a given color mapping.
+    Plots the percentage trends of labels over editions on the given axis.
     
     Parameters:
     df (pd.DataFrame): DataFrame containing 'edition' and 'label' columns.
-    label_colors (dict): Dictionary of label to color mappings from the pie chart.
+    label_colors (dict): Dictionary of label to color mappings.
     labels_to_show (list, optional): List of labels to include in the plot. If None, all labels are shown.
+    ax (matplotlib.axes.Axes, optional): The axis on which to plot the graph.
+    title (str, optional): Title of the plot.
     
     Returns:
-    fig (matplotlib.figure.Figure): The line chart figure.
+    ax (matplotlib.axes.Axes): The axis with the plot.
     """
     
-    # Split labels if there are multiple labels in a row (assumes labels are separated by ', ')
+    # Split labels if there are multiple labels in a row
     df_split = df['label'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True)
     
     # Create a new DataFrame with the split labels
@@ -178,32 +192,179 @@ def label_trends(df, label_colors, labels_to_show=None):
     percentages.index = pd.Categorical(percentages.index, ordered=True)
     percentages = percentages.sort_index()
 
-    # Filter by the labels to show if provided (after calculating percentages)
+    # Filter by the labels to show if provided
     if labels_to_show is not None:
         percentages = percentages[labels_to_show]
 
     # Create a list of colors based on the labels being shown
     colors_to_use = [label_colors[label] for label in percentages.columns]
 
-    # Create the plot
-    fig, ax = plt.subplots(figsize=(10, 6))
-    
-    # Plot the percentages
+    # Plot the percentages on the provided axis
     percentages.plot(kind='line', marker='o', ax=ax, color=colors_to_use)
     
     # Plot formatting
-    plt.title('', fontsize=16)
-    plt.xlabel('Edition', fontsize=12)
-    plt.ylabel('Percentage (%)', fontsize=12)
-    plt.grid(True)
+    ax.set_title(title, fontsize=16)
+    ax.set_xlabel('Edition', fontsize=12)
+    ax.set_ylabel('Percentage (%)', fontsize=12)
+    ax.grid(True)
 
-    # Adjust the legend to be outside the plot on the right
-    plt.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=10)
+    return ax
 
-    # Tighten the layout
-    plt.tight_layout()
-    
+def plot_fn_per_sent_by_edition(letter_df):
+    # Filter the data
+    plot_df = letter_df[letter_df["footnotes_per_sentence"] > 0]
+
+    # Create a figure and axis objects with custom figure size
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    medianprops = dict(color="black")
+    # Plot the boxplot on the created axis
+    plot_df.boxplot(column="footnotes_per_sentence", by="edition", showfliers=False, ax=ax,medianprops=medianprops)
+
+    # Set the title, xlabel, ylabel, and adjust grid
+    fig.suptitle('')  # Main title
+    ax.set_title('')  # Remove the default subtitle
+    ax.set_xlabel('Edition')
+    ax.set_ylabel('Footnotes per Sentence')
+
+    # Custom grid
+    ax.grid(True, axis="y", linestyle='--', alpha=0.6)
+    ax.grid(True, axis="x", linestyle='', alpha=0.6)
     return fig
+
+def plot_fn_len_and_density(footnote_df, letter_df):
+    # Create a figure with two subplots, side by side (1 row, 2 columns)
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))  # Adjust the figure size
+
+    # First plot: Histogram of footnote length
+    plot_series_footnote = footnote_df["len_footnote"]
+    num_bins_footnote = (footnote_df["len_footnote"].max() - footnote_df["len_footnote"].min()) // 10
+    ax1.hist(plot_series_footnote, bins=num_bins_footnote, edgecolor='black', alpha=0.7)
+    ax1.set_title('Footnote Length', fontsize=14)
+    ax1.set_xlabel('Number of Words per Footnote', fontsize=12)
+    ax1.set_ylabel('', fontsize=12)
+    ax1.set_yscale("log")
+    ax1.grid(True, axis="y", linestyle='--', alpha=0.6)
+
+    # Second plot: Histogram of footnotes per sentence
+    plot_series_sentence = letter_df["footnotes_per_sentence"]
+    plot_series_sentence = plot_series_sentence[plot_series_sentence > 0]
+    ax2.hist(plot_series_sentence, bins=50, edgecolor='black', alpha=0.7)
+    ax2.set_title('Average Number of Footnotes per Sentence in each letter', fontsize=14)
+    ax2.set_xlabel('Footnotes per Sentence', fontsize=12)
+    ax2.set_ylabel('', fontsize=12)
+    ax2.grid(True, axis="y", linestyle='--', alpha=0.6)
+
+    # Adjust layout for better spacing
+    plt.tight_layout()
+
+    return fig
+
+def plot_combined_footnote_and_sentence(footnote_df, letter_df):
+    # Create a figure with two subplots, side by side (1 row, 2 columns)
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))  # Adjust the figure size
+
+    # Plot footnote length by edition in the first subplot
+    medianprops = dict(color='black')
+    footnote_df.boxplot(column="len_footnote", by="edition", showfliers=False, ax=ax1, medianprops=medianprops)
+    ax1.set_title('Footnote Length', fontsize=18)
+    ax1.set_xlabel('Edition', fontsize=12)
+    ax1.set_ylabel('', fontsize=12)
+    ax1.grid(True, axis="y", linestyle='--', alpha=0.6)
+
+    # Remove the default "Boxplot of ..." title
+    ax1.get_figure().suptitle('')
+
+    # Filter data for footnotes per sentence
+    plot_df = letter_df[letter_df["footnotes_per_sentence"] > 0]
+
+    # Plot footnotes per sentence by edition in the second subplot
+    plot_df.boxplot(column="footnotes_per_sentence", by="edition", showfliers=False, ax=ax2, medianprops=medianprops)
+    ax2.set_title('Average number of Footnotes per Sentence', fontsize=18)
+    ax2.set_xlabel('Edition', fontsize=12)
+    ax2.set_ylabel('', fontsize=12)
+    ax2.grid(True, axis="y", linestyle='--', alpha=0.6)
+
+    # Remove the default "Boxplot of ..." title
+    ax2.get_figure().suptitle('')
+
+    # Adjust layout for better spacing
+    plt.tight_layout()
+
+    return fig
+
+def plot_footnote_length_by_edition(footnote_df):
+    # Create a figure and axis objects with custom figure size
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    # Customizing the appearance of the median line to be black
+    medianprops = dict(color='black')
+
+    # Create a boxplot for the 'len_footnote' column, grouped by 'edition'
+    footnote_df.boxplot(column="len_footnote", by="edition", showfliers=False, ax=ax, medianprops=medianprops)
+
+
+    # Set the title, xlabel, ylabel, and adjust grid
+    fig.suptitle('')  # Main title
+    ax.set_title('')  # Remove the default subtitle
+    ax.set_xlabel('Edition')
+    ax.set_ylabel('Footnote Length')
+
+    # Custom grid
+    ax.grid(True, axis="y", linestyle='--', alpha=0.6)
+    ax.grid(True, axis="x", linestyle='', alpha=0.6)
+    return fig
+
+def plot_combined_label_trends(df, label_colors, labels_frequent, labels_infrequent):
+    """
+    Combines the frequent and infrequent label trends into a single figure with subplots.
+    
+    Parameters:
+    df_frequent (pd.DataFrame): DataFrame for frequent labels.
+    df_infrequent (pd.DataFrame): DataFrame for infrequent labels.
+    label_colors (dict): Dictionary of label to color mappings.
+    labels_frequent (list): List of frequent labels.
+    labels_infrequent (list): List of infrequent labels.
+    
+    Returns:
+    fig (matplotlib.figure.Figure): The combined figure.
+    """
+    
+    # Create the figure with two subplots (side by side)
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))  # Share y-axis
+
+    # Plot frequent labels on the first axis
+    label_trends(df, label_colors, labels_frequent, ax=ax1, title='Frequent Labels')
+
+    # Plot infrequent labels on the second axis
+    label_trends(df, label_colors, labels_infrequent, ax=ax2, title='Infrequent Labels')
+
+    # Combine legends
+    handles, labels = ax1.get_legend_handles_labels()  # Get legend items from the first axis
+    handles2, labels2 = ax2.get_legend_handles_labels()  # Get legend items from the second axis
+    
+    # Combine the labels and handles into a single list to avoid duplicates
+    combined_handles = handles + handles2
+    combined_labels = labels + labels2
+
+    # Remove duplicates while preserving order
+    unique_legend = list(OrderedDict(zip(combined_labels, combined_handles)).items())
+
+    # Place the combined legend in the center right
+    fig.legend([handle for label, handle in unique_legend], 
+               [label for label, handle in unique_legend], 
+               title="Labels", bbox_to_anchor=(0.85, 0.5), loc='center left')
+    ax1.legend().remove()
+    ax2.legend().remove()
+
+    # Tight layout and return the figure
+    plt.tight_layout(rect=[0, 0, 0.85, 1])  # Adjust layout to fit legend
+    return fig
+
+# Example usage:
+# fig = plot_combined_label_trends(df_frequent, df_infrequent, label_colors, labels_frequent, labels_infrequent)
+# plt.show()  # Or save it using plt.savefig('combined_label_trends.png')
+
 
 
 
