@@ -41,6 +41,51 @@ def make_bilbe_dataset(outfile_name, test=False):
     with open(os.path.join(OUT_DIR, outfile_name), "w", encoding="utf-8") as outjson:
         json.dump(out_data, outjson)
 
+def make_zwingilana_dataset(outfilename, test=False):
+    infolder = "../../fine_tuning_data/Zwingliana/converted_txt"
+    out_data = []
+    folders = os.listdir(infolder)
+    if test:
+        folders = folders[:10]
+        outfilename = "test_" + outfilename
+    # subfolders per issue
+    for folder in tqdm(folders):
+        issue_year_regex = r"(\d+(_\d+)?(-\d)?) \((\d{4}(_\d{4})?)\)"
+        match_obj = re.search(issue_year_regex, folder)
+        if match_obj is None:
+            print(f"faulty title: {folder}")
+            continue
+        issue = match_obj.group(1)
+        if "_" in issue:
+            issue = issue.replace("_", ",")
+
+        year = match_obj.group(4)
+        if "_" in year:
+            year = year.replace("_", "-")
+
+        for filename in os.listdir(os.path.join(infolder, folder)):
+            with open(os.path.join(infolder, folder, filename), "r", encoding="utf-8") as infile:
+                text = infile.read()
+            
+            if "Bullinger" in text:
+                out_data.append({
+                    "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {text}"
+                })
+
+                if False:
+
+                    pages = text.split('\f')
+                    if len(pages) == 1:
+                        print(f"file {filename} in {folder} has no pagebreaks?")
+
+                    for page in pages:
+                        out_data.append({
+                            "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {page}"
+                        })
+    
+    with open(os.path.join(OUT_DIR, outfilename), "w", encoding="utf-8") as outjson:
+        json.dump(out_data, outjson)
+
 
 def make_EA_dataset(outfile_name, test=False):
     infolder = "../../fine_tuning_data/EA_split"
@@ -72,10 +117,13 @@ def main(domain, test):
     elif domain == "EA":
         outfile_name = "pretrain_EA.json"
         make_EA_dataset(outfile_name, test)
+    elif domain == "Z":
+        outfile_name = "pretrain_Z.json"
+        make_zwingilana_dataset(outfile_name, test)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("domain", choices={"bible", "EA"})
+    parser.add_argument("domain", choices={"bible", "EA", "Z"})
     parser.add_argument("--test", action="store_true", default=False)
     args = parser.parse_args()
 
