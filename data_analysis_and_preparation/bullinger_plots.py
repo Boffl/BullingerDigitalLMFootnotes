@@ -115,7 +115,7 @@ def plot_label_pie_chart(df, labels_to_show=None):
 
 
 
-def bar(counter_obj, max, exeed=True):
+def lit_bar(counter_obj, max, exeed=True):
    # Sort the Counter object by values
     sorted_items = counter_obj.most_common()
 
@@ -139,18 +139,17 @@ def bar(counter_obj, max, exeed=True):
 
     # Plotting the bar chart
     plt.figure(figsize=(10, 6))
-    bars = plt.bar(labels, sizes, color='skyblue')
+    bars = plt.bar(labels, sizes)
     plt.xlabel('')
     plt.ylabel('Counts')
     plt.title(f'Total share of occurences: {round(sum(percentages))}%')
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=90)
 
     # Adding percentages above the bars
     for bar, pct in zip(bars, percentages):
         height = bar.get_height()
         plt.text(bar.get_x() + bar.get_width() / 2, height, f'{pct:.1f}%', ha='center', va='bottom', color='black')
 
-    plt.show()
 
 
 import matplotlib.pyplot as plt
