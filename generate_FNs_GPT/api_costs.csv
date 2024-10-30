@@ -8,3 +8,4 @@ date,experiment,comment,cost
 ,gpt-4o-mini-2024-07-18-get_questions-dev,,0.08705392499999999
 ,gpt-4o-mini-2024-07-18-get_questions-train,,0.6776942250000028
 ,gpt-4o-mini-2024-07-18-instruct_qa-example,corrected prompt,0.04379715000000001
+,gpt-4o-2024-08-06-instruct_add-test_human_eval,,0.56273625
