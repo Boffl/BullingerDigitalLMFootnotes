@@ -106,12 +106,18 @@ def fill_excel_with_data(df, infile_path, outfile_path):
     # Save the modified workbook
     wb.save(outfile_path)
 
-def sample_from_test_set(df, strat_sample_dict):
-    # get letter numbers from the test set
-    test_letters = [int(id) for id in strat_sample_dict["test"]]
+def sample_from_test_set(footnote_df):
 
-    # only take test set letters
-    df = df[df["letter_id"].isin(test_letters)].copy()
+    # get letter ids and n-footnotes from the testset
+    test_fns = [filename.split(".")[0] for filename in os.listdir("../../data/prompts/instruct_add/test")]
+
+    filtered_rows = []
+    for test_fn in test_fns:
+        letter_id = int(test_fn.split("_")[0])
+        n_footnote = int(test_fn.split("_")[1])
+        filtered_rows.append(footnote_df[(footnote_df['letter_id'] == letter_id) & (footnote_df['n_footnote'] == n_footnote)])
+
+    df = pd.concat(filtered_rows, ignore_index=True)
 
     # remove the double label columns for stratification
     df = df[~df["label"].str.contains(",")]
