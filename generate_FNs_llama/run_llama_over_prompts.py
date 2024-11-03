@@ -6,8 +6,13 @@ import jsonlines
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
 from peft import PeftModel
-from typing import Literal
 import argparse
+import time
+import threading
+import GPUtil
+import logging
+
+
 
 adapter_map = {
   "EA": "pretrain-EA",
@@ -16,6 +21,17 @@ adapter_map = {
   "bible": "pretrain-bible",
 
 }
+
+# Function to monitor GPU usage
+def monitor_gpu(interval=5):
+    while True:
+        gpus = GPUtil.getGPUs()
+        for gpu in gpus:
+            print(f"Time: {time.ctime()} | GPU {gpu.id} - Load: {gpu.load * 100:.1f}% | "
+                  f"Free Memory: {round((gpu.memoryFree/(gpu.memoryFree+gpu.memoryUsed))*100)}% | "
+                  f"Temp: {gpu.temperature}°C", end="\r")
+        time.sleep(interval)
+
 
 def count_prompt_tokens(model_id, prompt_type, split):
   tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -209,6 +225,16 @@ def load_model(size, adapters=[]):
       model.delete_adapter(additional_adapter)
 
 def main(args):
+  
+  if args.log_gpu_usage:
+    # Configure logging
+    logging.basicConfig(
+        filename="gpu_monitoring.log",
+        level=logging.INFO,
+        format="%(asctime)s | %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S"
+    )
+
   global DATA_DIR
   DATA_DIR = args.dir
   load_model(args.size, args.adapters)
@@ -226,6 +252,7 @@ if __name__=="__main__":
     help="A list of adapters, if multiple are specified, they are combined (default is an empty list)"
   )
   parser.add_argument("--dir", default = "/data/nbauer/data", help="Directory where the data are stored, default=/data/nbauer/data")
+  parser.add_argument("--log_gpu_usage", default="", help="Log-file for gpu-usage, no logging if left empty")
   args = parser.parse_args()
 
   main(args)
