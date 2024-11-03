@@ -3,6 +3,7 @@ import os, json, jsonlines
 import pandas as pd
 import re
 from tqdm import tqdm
+from lxml import etree
 
 DATA_PATH = "../../data"
 # SYSTEM_PROMPT = "You are a research assistant for a historian, specialized on the European reformation working on an edition of the correspondence of Heinrich Bullinger. Given a letter in TEI format, your task is to add text to a footnote."
@@ -81,6 +82,44 @@ def instruct_prompt_add(letter_text, all_footnote_ns:list[int], n:int):
 
     return letter_no_fns, footnote_content
 
+def get_letter_context(letter_text, n_footnote, window_size=5):
+    """get a window of the letter around the sentence with the footnote"""
+    root = etree.fromstring(letter_text)
+    namespaces_tei = {'tei': 'http://www.tei-c.org/ns/1.0'}
+    # get the sentence to the footnote
+    sentence = root.xpath(f".//tei:s[descendant::tei:note[@n='{n_footnote}']]", namespaces=namespaces_tei)[0]
+    n_sentence = int(sentence.get('n'))
+
+    # Remove sentences based on n attribute
+    for sentence in root.xpath('.//tei:s', namespaces=namespaces_tei):
+        n_current_sentence = int(sentence.get("n"))
+        if n_current_sentence < n_sentence - window_size or n_current_sentence > n_sentence + window_size:
+            sentence.getparent().remove(sentence)
+
+    # Remove empty paragraphs
+    for paragraph in root.xpath('.//tei:p', namespaces=namespaces_tei):
+        if len(paragraph.xpath('./tei:s', namespaces=namespaces_tei)) == 0:  # Check if no <s> elements are left
+            paragraph.getparent().remove(paragraph)
+    
+    # Remove empty divs
+    for div in root.xpath('.//tei:div', namespaces=namespaces_tei):
+        if len(div.xpath('./tei:p', namespaces=namespaces_tei)) == 0:  # Check if no <p> elements are left
+            div.getparent().remove(div)
+
+    # Convert back to string to see result
+    return etree.tostring(root, pretty_print=True, encoding="unicode")
+
+
+def instruct_prompt_add_window(letter_text, all_footnote_ns:list[int], n:int, window_size):
+    """like instruct_prompt_add but instead of returning the whole letter, it takes away all sentences outside of window size
+    """
+    footnote_content = get_footnote_content(letter_text, n)
+    letter_context = get_letter_context(letter_text, n, window_size)
+    letter_context_no_fns = letter_context
+    for fn_to_remove in all_footnote_ns:
+        letter_context_no_fns = remove_footnote_content(letter_context_no_fns, fn_to_remove)
+    
+    return letter_context_no_fns, footnote_content
 
 
 
@@ -90,7 +129,8 @@ if __name__ == "__main__":
     # Example call: python generate_instruction.py test instruct_continue --example
     parser = argparse.ArgumentParser()
     parser.add_argument("split", choices=["train", "dev", "test"])
-    parser.add_argument("prompt_type", choices=["continue", "instruct_continue", "instruct_add"])  # todo: add continue prompt...
+    parser.add_argument("prompt_type", choices=["continue", "instruct_continue", "instruct_add", "instruct_add_window"])  # todo: add continue prompt...
+    parser.add_argument("--window_size", default=10, type=int, help="window size for instruct_add_window, default=10")
     parser.add_argument("--example", action="store_true", default=False)  # only do 5 example letters for testing purposes
 
     args = parser.parse_args()
@@ -139,6 +179,11 @@ if __name__ == "__main__":
                 letter_no_fns, example_answer = instruct_prompt_add(letter_text, all_footnote_ns, example_n)
                 example_query = HISTORIAN_PROMPT(letter_no_fns, example_n)
 
+            if prompt_type == "instruct_add_window":
+                all_footnote_ns = [example_n] + ns
+                letter_context_no_fns, example_answer = instruct_prompt_add_window(letter_text, all_footnote_ns, example_n, 10)
+                example_query = HISTORIAN_PROMPT(letter_context_no_fns, example_n)
+
             
 
             one_shot = [
@@ -155,6 +200,10 @@ if __name__ == "__main__":
                 
                 if prompt_type == "instruct_add":
                     query = HISTORIAN_PROMPT(letter_no_fns, n)
+
+                if prompt_type == "instruct_add_window":
+                    letter_context_no_fns, _ = instruct_prompt_add_window(letter_text, all_footnote_ns, n, 10)
+                    query = HISTORIAN_PROMPT(letter_context_no_fns, n)
 
                 messages = one_shot + [{'role': 'user', 'content': query}]
 
