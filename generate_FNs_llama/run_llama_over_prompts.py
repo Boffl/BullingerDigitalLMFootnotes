@@ -19,7 +19,7 @@ adapter_map = {
 
 def count_prompt_tokens(model_id, prompt_type, split):
   tokenizer = AutoTokenizer.from_pretrained(model_id)
-  data_path = "../data"
+  data_path = DATA_DIR
   folder_path = os.path.join(data_path, f"prompts/{prompt_type}/{split}")
   tokenizer = AutoTokenizer.from_pretrained(model_id)
   token_len_list = []
@@ -186,18 +186,18 @@ def load_model(size, adapters=[]):
  
   if adapters:
     # add the adapter(s)
-    for adapter in adapters:
-        adapter_id = make_adapter_id(adapter, size)
-
-        model = PeftModel.from_pretrained(model, adapter_id, adapter_name=adapter)
+    # add the first adapter
+    adapter_id = make_adapter_id(adapters[0], size)
+    model = PeftModel.from_pretrained(model, adapter_id, adapter_name=adapters[0])
     
-    while len(adapters) > 1:  # add weighted adapters
+    # if there are ore adapters make weighted adapters
+    while len(adapters) > 1: 
       current_adapter = model.active_adapter
 
-      # add another adapter
+      # load another adapter
       additional_adapter = adapters.pop()
       additional_adapter_id = make_adapter_id(additional_adapter, size)
-      model.add_adapter(additional_adapter_id, additional_adapter)
+      model.load_adapter(additional_adapter_id, adapter_name=additional_adapter)
 
       # create a weighted adapter and activate it
       new_adapter = f"{current_adapter}-{additional_adapter}"
@@ -206,10 +206,11 @@ def load_model(size, adapters=[]):
 
       # delete the old, non-weighted adapter to save space
       model.delete_adapter(current_adapter)
+      model.delete_adapter(additional_adapter)
 
 def main(args):
-
-
+  global DATA_DIR
+  DATA_DIR = args.dir
   load_model(args.size, args.adapters)
   run_llama_over_prompts(args.prompt, args.split, model_name=f"llama-{args.size}B")
 
@@ -223,7 +224,8 @@ if __name__=="__main__":
     nargs="*",
     default=[],
     help="A list of adapters, if multiple are specified, they are combined (default is an empty list)"
-)
+  )
+  parser.add_argument("--dir", default = "/data/nbauer/data", help="Directory where the data are stored, default=/data/nbauer/data")
   args = parser.parse_args()
 
   main(args)
