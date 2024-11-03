@@ -69,6 +69,9 @@ def generate_chat(messages:list, model, tokenizer):
         add_generation_prompt=True,
         return_tensors="pt"
     ).to(model.device)
+    
+    log_message = f"prompt length: {input_ids.shape[1]}"
+    logging.info(log_message)
 
     # generate the attention mask, got a warning that it might be needed, though I am not sure if that is necessary
     attention_mask = torch.ones(input_ids.shape, dtype=torch.long, device=model.device)
@@ -164,23 +167,28 @@ def run_llama_over_prompts(prompt_type, split, long_letters_set=set(), batch_siz
 
   if batch_size == 0:
     for filename, letter_id, n_footnote in tqdm(unfinished):
+      torch.cuda.empty_cache()
       filepath = os.path.join(folder_path, filename)
       with jsonlines.open(filepath) as infile:
         messages = [line for line in infile]
+        old_prompt_input_tokens =  tokenizer.apply_chat_template(messages,add_generation_prompt=True,return_tensors="pt").shape[1]
         try:
           generated_footnote = generate_chat(messages, model, tokenizer)
         except RuntimeError as e:
           if 'CUDA out of memory' in str(e):
+            logging.info("CUDA out of memory")
             # Try to replace the one-shot with the shorter letter
             print(f"letter {letter_id} causes out of memory error, trying with shorter prompt")
             messages[1] = ONE_SHOT_10224[0]  # example user question
             messages[2] = ONE_SHOT_10224[1]  # example answer
+            new_prompt_input_tokens = tokenizer.apply_chat_template(messages,add_generation_prompt=True,return_tensors="pt").shape[1]
             torch.cuda.empty_cache()
             try:
               generated_footnote = generate_chat(messages, model, tokenizer)
             # If it still does not work, we need to ignore the letter...
             except RuntimeError as e:
               if 'CUDA out of memory' in str(e):
+                logging.info("CUDA out of memory")
                 print(f"letter {letter_id} causes out of memory error, even with shorter prompt")
                 long_letters_set.add(letter_id)
                 torch.cuda.empty_cache()
