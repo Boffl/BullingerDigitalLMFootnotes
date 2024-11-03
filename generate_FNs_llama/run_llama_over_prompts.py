@@ -28,7 +28,7 @@ def monitor_gpu(interval=5):
         gpus = GPUtil.getGPUs()
         for gpu in gpus:
             log_message = (f"GPU {gpu.id} - Load: {gpu.load * 100:.1f}% | "
-                           f"Memory Free: {gpu.memoryFree}MB | Memory Used: {gpu.memoryUsed}MB | "
+                           f"Free Memory: {round((gpu.memoryFree/(gpu.memoryFree+gpu.memoryUsed))*100)}% | "
                            f"Temperature: {gpu.temperature}°C")
             logging.info(log_message)
         time.sleep(interval)
