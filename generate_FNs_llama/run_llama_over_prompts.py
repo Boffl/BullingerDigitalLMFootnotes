@@ -22,6 +22,10 @@ adapter_map = {
 
 }
 
+ONE_SHOT_10224 = [{"role": "user", "content": "Bitte schlage mir einen Text für Fussnote n=3 in folgendem Dokument vor:\n\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"file10224\" type=\"Brief\" source=\"HBBW-3\" n=\"193\">\n\t<teiHeader xml:lang=\"de\">\n\t\t<fileDesc>\n\t\t\t<titleStmt>\n\t\t\t\t<title subtype=\"file\">Konrad Geßner, Johannes Fries / Basel an Heinrich Bullinger, 25. Februar [1533]</title>\n\t\t\t</titleStmt>\n\t\t\t<publicationStmt>\n\t\t\t\t<authority>Universität Zürich</authority>\n\t\t\t\t</publicationStmt>\n\t\t\t<sourceDesc>\n\t\t\t\t</sourceDesc>\n\t\t</fileDesc>\n\t\t</teiHeader>\n\t<text xml:lang=\"la\">\n\t\t<body>\n\t\t\t<div xml:id=\"div1\" corresp=\"regest1\">\n\t\t\t\t<p>\n\t\t\t\t\t<s n=\"1\" xml:lang=\"la\" type=\"auto\">Optimo et integerrimo viro M. Henrico Bullingero, mecaenati charissimo.</s>\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\t<s n=\"2\" xml:lang=\"la\" type=\"auto\">S.</s>\n\t\t\t\t\t<s n=\"3\" xml:lang=\"la\" type=\"auto\">Impediunt nos ab itinere<note xml:id=\"fn3\" type=\"footnote\" n=\"3\"></note> nives, pluvia et ventorum vis.</s>\n\t\t\t\t\t<s n=\"4\" xml:lang=\"la\" type=\"auto\"><placeName ref=\"l28\" cert=\"high\">Basileae</placeName> apud <persName ref=\"p8418\" cert=\"high\">Myconium</persName><note xml:id=\"fn4\" type=\"footnote\" n=\"4\"></note> sine sumtu moramur sudum coelum et tempestatem mitiorem expectantes.</s>\n\t\t\t\t\t<s n=\"5\" xml:lang=\"la\" type=\"auto\">Nivibus obrutae sunt viae omnes, montes praesertim, per quos nulla itinera nunc patent.</s>\n\t\t\t\t\t<s n=\"6\" xml:lang=\"la\" type=\"auto\">Maxime tamen omnium nos detinet, quod Gallos et alios quosdam itineris comites facturos brevi hic invenimus.</s>\n\t\t\t\t\t<s n=\"7\" xml:lang=\"la\" type=\"auto\">Tuam humanitatem rogamus literas nobis a senatu poscat Tigurinos nos esse et a Tigurino senatu propter studia ablegatos.</s>\n\t\t\t\t\t<s n=\"8\" xml:lang=\"la\" type=\"auto\">Ita enim docti plerique consuluerunt, quo nobis tutioribus esse liceat.</s>\n\t\t\t\t\t<s n=\"9\" xml:lang=\"la\" type=\"auto\">Ne nos negligas etiam atque etiam oramus poscimusque.</s>\n\t\t\t\t\t<s n=\"10\" xml:lang=\"la\" type=\"auto\">Si dederis operam, facile impetrabis.</s>\n\t\t\t\t\t<s n=\"11\" xml:lang=\"la\" type=\"auto\">Literis nos acceptis<note xml:id=\"fn6\" type=\"footnote\" n=\"6\"></note> quamprimum cum comitibus maturabimus iter.</s>\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\t<s n=\"12\" xml:lang=\"la\" type=\"auto\">Vale et nos tibi commendatos habe.</s>\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\t<s n=\"13\" xml:lang=\"la\" type=\"auto\"><placeName ref=\"l28\" cert=\"high\">Basileae</placeName> in aedibus <persName ref=\"p8418\" cert=\"high\">Myconii</persName>, februarii 25.</s>\n\t\t\t\t</p>\n\t\t\t\t<p>\n\t\t\t\t\t<s n=\"14\" xml:lang=\"la\" type=\"auto\"><persName ref=\"p1214\" cert=\"high\">Ioannes Frisius</persName> et <persName ref=\"p1283\" cert=\"high\">C. Gesnerus</persName> tui toti.</s>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</body>\n\t</text>\n</TEI>\n"},
+                    {"role": "assistant", "content": "<persName ref=\"p1283\" cert=\"high\">Geßner</persName> und <persName ref=\"p1214\" cert=\"high\">Fries</persName> befanden sich auf dem Weg nach <placeName ref=\"l59\" cert=\"high\">Bourges</placeName>."}
+]
+
 # Function to monitor GPU usage
 def monitor_gpu(interval=5):
     while True:
@@ -167,10 +171,20 @@ def run_llama_over_prompts(prompt_type, split, long_letters_set=set(), batch_siz
           generated_footnote = generate_chat(messages, model, tokenizer)
         except RuntimeError as e:
           if 'CUDA out of memory' in str(e):
-            print(f"letter {letter_id} causes out of memory error")
-            long_letters_set.add(letter_id)
+            # Try to replace the one-shot with the shorter letter
+            print(f"letter {letter_id} causes out of memory error, trying with shorter prompt")
+            messages[1] = ONE_SHOT_10224[0]  # example user question
+            messages[2] = ONE_SHOT_10224[1]  # example answer
             torch.cuda.empty_cache()
-            continue
+            try:
+              generated_footnote = generate_chat(messages, model, tokenizer)
+            # If it still does not work, we need to ignore the letter...
+            except RuntimeError as e:
+              if 'CUDA out of memory' in str(e):
+                print(f"letter {letter_id} causes out of memory error, even with shorter prompt")
+                long_letters_set.add(letter_id)
+                torch.cuda.empty_cache()
+                continue
           else:
               # Raise other exceptions
               raise e
