@@ -207,7 +207,13 @@ def load_model(size, adapters=[]):
       # delete the old, non-weighted adapter to save space
       model.delete_adapter(current_adapter)
 
-def main():
+def main(args):
+
+
+  load_model(args.size, args.adapters)
+  run_llama_over_prompts(args.prompt, args.split, model_name=f"llama-{args.size}B")
+
+if __name__=="__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument("size", choices=["8", "70"], help="Size of the llama model, either 8 or 70")
   parser.add_argument("prompt", choices=["instruct_qa", "instruct_add"])
@@ -220,6 +226,4 @@ def main():
 )
   args = parser.parse_args()
 
-  load_model(args.size, args.adapters)
-  run_llama_over_prompts(args.prompt, args.split, model_name=f"llama-{args.size}B")
-
+  main(args)
