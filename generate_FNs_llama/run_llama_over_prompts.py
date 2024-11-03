@@ -27,9 +27,10 @@ def monitor_gpu(interval=5):
     while True:
         gpus = GPUtil.getGPUs()
         for gpu in gpus:
-            print(f"Time: {time.ctime()} | GPU {gpu.id} - Load: {gpu.load * 100:.1f}% | "
-                  f"Free Memory: {round((gpu.memoryFree/(gpu.memoryFree+gpu.memoryUsed))*100)}% | "
-                  f"Temp: {gpu.temperature}°C", end="\r")
+            log_message = (f"GPU {gpu.id} - Load: {gpu.load * 100:.1f}% | "
+                           f"Memory Free: {gpu.memoryFree}MB | Memory Used: {gpu.memoryUsed}MB | "
+                           f"Temperature: {gpu.temperature}°C")
+            logging.info(log_message)
         time.sleep(interval)
 
 
@@ -229,16 +230,25 @@ def main(args):
   if args.log_gpu_usage:
     # Configure logging
     logging.basicConfig(
-        filename="gpu_monitoring.log",
+        filename=args.log_gpu_usage,
         level=logging.INFO,
         format="%(asctime)s | %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S"
     )
+    # Define a stop event for clean exit
+    stop_monitoring = threading.Event()
+    monitor_thread = threading.Thread(target=monitor_gpu, args=(5,), daemon=True)
+    monitor_thread.start()
 
   global DATA_DIR
   DATA_DIR = args.dir
   load_model(args.size, args.adapters)
   run_llama_over_prompts(args.prompt, args.split, model_name=f"llama-{args.size}B")
+
+  if args.log_gpu_usage:
+    # Stop the monitoring once the main task is done
+    stop_monitoring.set()
+    monitor_thread.join()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
