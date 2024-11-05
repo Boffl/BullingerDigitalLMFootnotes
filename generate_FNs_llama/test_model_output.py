@@ -66,13 +66,13 @@ def test_all_adapters():
     adapters = ["add", "qa", "EA", "bible"]
     load_model(size, adapters)
     generated_text = generate_chat(messages,model,tokenizer)
-    logging.indo(f"Output with {model.active_adapter} adapter:\n{generated_text}")
+    logging.info(f"Output with {model.active_adapter} adapter:\n{generated_text}")
 
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("test_function", choices=["single_adapters"])
+    parser.add_argument("test_function", choices=["single_adapters", "all_adapters"])
     parser.add_argument("--log_file_name", default="")
     args = parser.parse_args()
     if args.log_file_name == "":
@@ -89,4 +89,6 @@ if __name__ == "__main__":
     
     if args.test_function == "single_adapters":
         test_single_adapters()
+    if args.test_function == "all_adapters":
+        test_all_adapters()
 
