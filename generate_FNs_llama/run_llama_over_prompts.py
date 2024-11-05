@@ -276,7 +276,7 @@ if __name__=="__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument("size", choices=["8", "70"], help="Size of the llama model, either 8 or 70")
   parser.add_argument("prompt", choices=["instruct_qa", "instruct_add"])
-  parser.add_argument("split", choices=["dev_100", "dev", "test"])
+  parser.add_argument("split", choices=["dev_100", "dev", "test", "test_human_eval"])
   parser.add_argument(
     "--adapters",
     nargs="*",
