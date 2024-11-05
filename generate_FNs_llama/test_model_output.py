@@ -82,7 +82,7 @@ def test_adapter_combos():
     model = AutoModelForCausalLM.from_pretrained(model_id)
 
     # load all adapters
-    adapter_id = make_adapter_id(adapters[0, size])
+    adapter_id = make_adapter_id(adapters[0], size)
     model = PeftModel.from_pretrained(model, adapter_id, adapter_name=adapters[0])
     for adapter in adapters[1:]:
         adapter_id = make_adapter_id(adapter, size)
