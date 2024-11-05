@@ -185,14 +185,25 @@ def run_llama_over_prompts(prompt_type, split, long_letters_set=set(), batch_siz
             torch.cuda.empty_cache()
             try:
               generated_footnote = generate_chat(messages, model, tokenizer)
-            # If it still does not work, we need to ignore the letter...
+            # If it still does not work...
             except RuntimeError as e:
               if 'CUDA out of memory' in str(e):
                 logging.info("CUDA out of memory")
                 print(f"letter {letter_id} causes out of memory error, even with shorter prompt")
                 long_letters_set.add(letter_id)
                 torch.cuda.empty_cache()
-                continue
+
+                # if we have the instruct_add prompt, we can add the window version
+                if prompt_type == "instruct_add":
+                  substitute_filepath = filepath.replace("instruct_add", "instruct_add_window")
+                  with jsonlines.open(substitute_filepath) as infile:
+                    messages = [line for line in infile]
+                    try: 
+                      generated_footnote = generate_chat(messages, model, tokenizer)
+                    except RuntimeError as e:
+                      if 'CUDA out of memory' in str(e):
+                        torch.cuda.empty_cache()
+                        continue
           else:
               # Raise other exceptions
               raise e
