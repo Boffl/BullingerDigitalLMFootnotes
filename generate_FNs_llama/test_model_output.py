@@ -23,6 +23,51 @@ def test_single_adapters():
         logging.info(f"Output with {model.active_adapter} adapter:")
         logging.info(generated_text)
 
+def load_model(size, adapters=[]):
+  """load the model with the adapters, if specified into global scope"""
+  global model
+  global tokenizer
+  
+  model_id = f"unsloth/Meta-Llama-3.1-{size}B-Instruct-bnb-4bit"
+
+  tokenizer = AutoTokenizer.from_pretrained(model_id)
+  model = AutoModelForCausalLM.from_pretrained(model_id)
+ 
+  if adapters:
+    # add the adapter(s)
+    # add the first adapter
+    adapter_id = make_adapter_id(adapters[0], size)
+    model = PeftModel.from_pretrained(model, adapter_id, adapter_name=adapters[0])
+    
+    # if there are ore adapters make weighted adapters
+    while len(adapters) > 1: 
+      current_adapter = model.active_adapter
+
+      # load another adapter
+      additional_adapter = adapters.pop()
+      additional_adapter_id = make_adapter_id(additional_adapter, size)
+      model.load_adapter(additional_adapter_id, adapter_name=additional_adapter)
+
+      # create a weighted adapter and activate it
+      new_adapter = f"{current_adapter}-{additional_adapter}"
+      model.add_weighted_adapter([current_adapter, additional_adapter], [1.0, 1.0], adapter_name=new_adapter, combination_type="linear")
+      model.set_adapter(new_adapter)
+
+      # delete the old, non-weighted adapter to save space
+      model.delete_adapter(current_adapter)
+      model.delete_adapter(additional_adapter)
+
+def test_all_adapters():
+    filepath = "/data/nbauer/data/prompts/instruct_add_window/dev_100/13134_23.jsonl"
+    with jsonlines.open(filepath) as infile:
+        messages = [line for line in infile]
+    
+    size = 70
+    adapters = ["add", "qa", "EA", "bible"]
+    load_model(size, adapters)
+    generated_text = generate_chat(messages,model,tokenizer)
+    logging.indo(f"Output with {model.active_adapter} adapter:\n{generated_text}")
+
 
 
 if __name__ == "__main__":
