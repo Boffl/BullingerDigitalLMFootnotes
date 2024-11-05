@@ -96,7 +96,7 @@ def test_adapter_combos():
     for combo in adapter_combos:
         new_adapter = "-".join(combo)
         model.add_weighted_adapter(list(combo), [1.0]*len(combo), adapter_name=new_adapter, combination_type="linear")
-        model.set(new_adapter)
+        model.set_adapter(new_adapter)
         generated_text = generate_chat(messages, model, tokenizer)
         logging.info(f"Output with {model.active_adapter} adapter:\n{generated_text}")
 
