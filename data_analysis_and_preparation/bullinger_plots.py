@@ -24,7 +24,7 @@ uzh_colors = ['#0028A5',  # UZH Blue
 plt.rcParams['axes.prop_cycle'] = cycler(color=uzh_colors)
 
 # remaining colors from uzh template
-colors = {
+all_uzh_colors = {
     'UZH_Blue': '#0028A5',
     'Blue1': '#BDC9E8',
     'Blue2': '#7596FF',
@@ -115,11 +115,11 @@ def plot_label_pie_chart(df, labels_to_show=None):
 
 
 
-def lit_bar(counter_obj, max, exeed=True):
-   # Sort the Counter object by values
+def lit_bar(counter_obj, max, exeed=True, label_dict={}):
+    # Sort the Counter object by values
     sorted_items = counter_obj.most_common()
 
-    # Select only the top categories adding up to 40%
+    # Select only the top categories adding up to max percentage
     top_categories = []
     others_count = 0
     total_count = sum(counter_obj.values())
@@ -128,7 +128,7 @@ def lit_bar(counter_obj, max, exeed=True):
             top_categories.append(item)
             others_count += item[1]
         else:
-            if exeed:  # add one more
+            if exeed:  # Add one more category if exeed is True
                 top_categories.append(item)
             break
 
@@ -137,18 +137,45 @@ def lit_bar(counter_obj, max, exeed=True):
     sizes = [item[1] for item in top_categories]
     percentages = [size / total_count * 100 for size in sizes]
 
+    # Define colors based on label categories
+    colors = [
+        uzh_colors[0] if label_dict.get(label) == 'primary' 
+        else uzh_colors[3] if label_dict.get(label) == 'secondary' 
+        else uzh_colors[7]  # Default to grey if label not in label_dict
+        for label in labels
+    ]
+
     # Plotting the bar chart
     plt.figure(figsize=(10, 6))
-    bars = plt.bar(labels, sizes)
+    bars = plt.bar(labels, sizes, color=colors)
     plt.xlabel('')
     plt.ylabel('Counts')
-    plt.title(f'Total share of occurences: {round(sum(percentages))}%')
-    plt.xticks(rotation=90)
+    plt.title(f'Total share of occurrences: {round(sum(percentages))}%')
+    plt.xticks(rotation=90, fontsize=15)
 
     # Adding percentages above the bars
     for bar, pct in zip(bars, percentages):
         height = bar.get_height()
-        plt.text(bar.get_x() + bar.get_width() / 2, height, f'{pct:.1f}%', ha='center', va='bottom', color='black')
+        plt.text(
+            bar.get_x() + bar.get_width() / 2,
+            height,
+            f'{pct:.1f}%',
+            ha='center',
+            va='bottom',
+            color='black'
+        )
+
+    # Adding a custom legend
+    plt.legend(
+        handles=[
+            plt.Line2D([0], [0], color=uzh_colors[0], lw=4, label='Primary Source'),
+            plt.Line2D([0], [0], color=uzh_colors[3], lw=4, label='Secondary Source'),
+        ],
+        loc='upper right'
+    )
+
+    
+
 
 
 
@@ -259,15 +286,27 @@ def plot_fn_len_and_density(footnote_df, letter_df):
 
     return fig
 
-def plot_combined_footnote_and_sentence(footnote_df, letter_df):
+def plot_combined_footnote_and_sentence(footnote_df, letter_df, by_edition=True, showfliers=False):
     # Create a figure with two subplots, side by side (1 row, 2 columns)
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))  # Adjust the figure size
+    if by_edition:
+        fig_height = 6
+    else:
+        fig_heigth = 12
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 12))  # Adjust the figure size
+
+    if by_edition == True:
+        by = "edition"
+    else:
+        by = None
 
     # Plot footnote length by edition in the first subplot
     medianprops = dict(color='black')
-    footnote_df.boxplot(column="len_footnote", by="edition", showfliers=False, ax=ax1, medianprops=medianprops)
+    footnote_df.boxplot(column="len_footnote", by=by, showfliers=showfliers, ax=ax1, medianprops=medianprops)
     ax1.set_title('Footnote Length', fontsize=18)
-    ax1.set_xlabel('Edition', fontsize=12)
+    if by_edition:
+        ax1.set_xlabel('Edition', fontsize=12)
+    else:
+        ax1.set_xticklabels([])
     ax1.set_ylabel('', fontsize=12)
     ax1.grid(True, axis="y", linestyle='--', alpha=0.6)
 
@@ -278,9 +317,12 @@ def plot_combined_footnote_and_sentence(footnote_df, letter_df):
     plot_df = letter_df[letter_df["footnotes_per_sentence"] > 0]
 
     # Plot footnotes per sentence by edition in the second subplot
-    plot_df.boxplot(column="footnotes_per_sentence", by="edition", showfliers=False, ax=ax2, medianprops=medianprops)
+    plot_df.boxplot(column="footnotes_per_sentence", by=by, showfliers=showfliers, ax=ax2, medianprops=medianprops)
     ax2.set_title('Average number of Footnotes per Sentence', fontsize=18)
-    ax2.set_xlabel('Edition', fontsize=12)
+    if by_edition:
+        ax2.set_xlabel('Edition', fontsize=12)
+    else:
+        ax2.set_xticklabels([])
     ax2.set_ylabel('', fontsize=12)
     ax2.grid(True, axis="y", linestyle='--', alpha=0.6)
 
