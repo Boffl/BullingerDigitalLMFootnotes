@@ -12,7 +12,8 @@ import threading
 import GPUtil
 import logging
 
-
+global model
+global tokenizer
 
 adapter_map = {
   "EA": "pretrain-EA",
@@ -82,16 +83,17 @@ def generate_chat(messages:list, model, tokenizer):
           tokenizer.convert_tokens_to_ids("<|eot_id|>")
       ]
 
-
-      outputs = model.generate(
-          input_ids,
-          attention_mask=attention_mask,
-          max_new_tokens=256,
-          eos_token_id=terminators,
-          do_sample=True,
-          temperature=0.6,
-          top_p=0.9,
-          pad_token_id=tokenizer.eos_token_id
+      # enable FlashAttention
+      with torch.backends.cuda.sdp_kernel(enable_flash=True, enable_math=False, enable_mem_efficient=False):
+        outputs = model.generate(
+            input_ids,
+            attention_mask=attention_mask,
+            max_new_tokens=256,
+            eos_token_id=terminators,
+            do_sample=True,
+            temperature=0.6,
+            top_p=0.9,
+            pad_token_id=tokenizer.eos_token_id
       )
     else:  # for the Qwen model
         outputs = model.generate(
@@ -257,6 +259,11 @@ def load_model(size, adapters=[]):
       # delete the old, non-weighted adapter to save space
       model.delete_adapter(current_adapter)
       model.delete_adapter(additional_adapter)
+
+def get_model(size, adapters=[]):
+  """Returns the model to use in other modules"""
+  load_model(size, adapters)
+  return model, tokenizer
 
 def main(args):
   
