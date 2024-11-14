@@ -11,12 +11,14 @@ import logging, threading
 from datasets import Dataset
 from torch.utils.data import DataLoader
 from evaluate_utils import remove_outer_note_tag
+from huggingface_hub import HfApi, HfFolder
 # getting functions from other modules
 module_path = "../generate_FNs_llama"
 sys.path.append(module_path)
 from run_llama_over_prompts import get_model
 
 module_path = "../data"
+
 
 global model
 global tokenizer
@@ -100,10 +102,10 @@ def get_dataloader(tokenized_dataset, batch_size, tokenizer):
     return DataLoader(tokenized_dataset, batch_size=batch_size, collate_fn=collate_fn, shuffle=False)
     
 
-def store_ppl(model_name, adapter_name, batch_size, ppl):
+def store_ppl(model_name, adapter_name, batch_size, len_dataset, ppl):
     with open("ppl_eval.csv", "a", encoding="utf-8") as outfile:
         writer = csv.writer(outfile, quoting=csv.QUOTE_MINIMAL, escapechar="\\")
-        writer.writerow([f"{model_name}-{adapter_name}", batch_size, ppl])
+        writer.writerow([f"{model_name}-{adapter_name}", batch_size, len_dataset, ppl])
 
 
 
@@ -131,13 +133,16 @@ def main(args):
 
     # testing dataset:
     dataset = get_data(args.dir)
+    if args.test:
+        dataset = dataset[:args.test]
     print("len dataset: ", len(dataset))
     tokenized_dataset = tokenize_data(dataset, tokenizer)
     dataloader = get_dataloader(tokenized_dataset, args.batch_size, tokenizer)
     
     ppl = calculate_perplexity(model, tokenizer, dataloader, total=math.ceil(len(dataset)/args.batch_size))
+    print(ppl)
     
-    store_ppl(model_name, adapter_name, args.batch_size, ppl)
+    store_ppl(model_name, adapter_name, args.batch_size, len(dataset),  ppl)
 
     if args.log_gpu_usage:
         print("stop monitoring")
@@ -161,6 +166,8 @@ if __name__=="__main__":
   parser.add_argument("--batch_size", type=int, default=1, help="seems to affect the score, idk why")
   parser.add_argument("--dir", default = "/data/nbauer/data", help="Directory where the data are stored, default=/data/nbauer/data")
   parser.add_argument("--log_gpu_usage", default="", help="Log-file for gpu-usage, no logging if left empty")
+  parser.add_argument("--test", default=0, type=int, help="run only on a partition of the data")
+  parser.add_argument("--quantized", type=bool, default=True, help="Set to false to load the original model from Meta")
   args = parser.parse_args()
 
   main(args)
