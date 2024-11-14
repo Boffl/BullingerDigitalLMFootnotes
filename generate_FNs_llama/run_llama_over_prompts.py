@@ -226,12 +226,15 @@ def make_adapter_id(adapter, size):
     exit(1)
   return adapter_id
 
-def load_model(size, adapters=[]):
+def load_model(size, adapters=[], quantized=True):
   """load the model with the adapters, if specified into global scope"""
   global model
   global tokenizer
   
-  model_id = f"unsloth/Meta-Llama-3.1-{size}B-Instruct-bnb-4bit"
+  if quantized:
+    model_id = f"unsloth/Meta-Llama-3.1-{size}B-Instruct-bnb-4bit"
+  else:
+    model_id = f"meta-llama/Llama-3.1-{size}B-Instruct"
 
   tokenizer = AutoTokenizer.from_pretrained(model_id)
   model = AutoModelForCausalLM.from_pretrained(model_id)
@@ -260,9 +263,9 @@ def load_model(size, adapters=[]):
       model.delete_adapter(current_adapter)
       model.delete_adapter(additional_adapter)
 
-def get_model(size, adapters=[]):
+def get_model(size, adapters=[], quantized=True):
   """Returns the model to use in other modules"""
-  load_model(size, adapters)
+  load_model(size, adapters, quantized)
   return model, tokenizer
 
 def main(args):
