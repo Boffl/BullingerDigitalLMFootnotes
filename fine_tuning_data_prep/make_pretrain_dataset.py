@@ -107,7 +107,29 @@ def make_EA_dataset(outfile_name, test=False):
     with open(os.path.join(OUT_DIR, outfile_name), "w", encoding="utf-8") as outjson:
         json.dump(out_data, outjson)
 
-
+def make_Z_dataset(test):
+    outfilename = "pretrain_Z.json"
+    if test:
+        outfilename = "test_" + outfilename
+    
+    out_data = []
+    
+    for letters_or_works in ["letters", "works"]:
+        infolder = f"../../fine_tuning_data/Z/{letters_or_works}"
+        filenames = os.listdir(infolder)
+        if test:
+            filenames = filenames[:10]
+        for filename in tqdm(filenames):
+            filepath = os.path.join(infolder, filename)
+            with open(filepath, "r", encoding="utf-8") as injson:
+                work = json.load(injson)
+                title = work["title"]
+                pages = "\n".join(work["pages"])
+                out_data.append({
+                    "text": f"{title}\n{pages}"
+                })
+    with open(os.path.join(OUT_DIR, outfilename), "w", encoding="utf-8") as outjson:
+        json.dump(out_data, outjson)
 
 def main(domain, test):
     if domain == "bible":
@@ -119,10 +141,12 @@ def main(domain, test):
     elif domain == "Zwa":
         outfile_name = "pretrain_Zwa.json"
         make_zwingilana_dataset(outfile_name, test)
+    elif domain == "Z":
+        make_Z_dataset(test)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("domain", choices={"bible", "EA", "Zwa"})
+    parser.add_argument("domain", choices={"bible", "EA", "Zwa", "Z"})
     parser.add_argument("--test", action="store_true", default=False)
     args = parser.parse_args()
 
