@@ -265,6 +265,8 @@ def classify_footnote(text, xml_str):
 
     # indicating a missing source (like a previous letter that is mentioned)
     missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)$"
+    # changed to include it anywhere in the FN
+    missing = r"([Uu]nbekannt.|[Nn]icht erhalten.|[Nn]icht auffindbar.|[Nn]icht bekannt.)"
 
     # referencing the same edition
     inner_ref = r"([Ss]iehe( dazu)? (oben|unten)|([Oo]ben|[Uu]nten)|[Vv]gl. (oben|unten))"  # S.O. and S.u. etc, seem not to be used
@@ -276,36 +278,50 @@ def classify_footnote(text, xml_str):
                 "|[^A-ZÖÄÜß]+$")  # no caps in all of the footnote
     
     # biliographien (only the bullinger bibliography that is cited enough to care)
+    # actually it is not cited enough to care... I'll take it out...
     bibl = r"<bibl.*?>HBBibl</bibl>"
 
 
+    label_list = []
 
     if re.findall(dictionary, xml_str):
-        return "lex_dict"
+        label_list.append("lex_dict")
+        # return "lex_dict"
 
-    elif re.findall(self_ref, xml_str):  
-        return "self_ref"
+    if re.findall(self_ref, xml_str): 
+        label_list.append("self_ref") 
+        # return "self_ref"
     
-    elif re.match(bible_ref, xml_str):
-        return "bible"
+    if re.search(bible_ref, xml_str):
+        label_list.append("bible")
+        # return "bible"
     
-    elif re.match(missing, text):
-        return "missing"
+    if re.search(missing, text):
+        label_list.append("missing")
+        # return "missing"
     
-    elif re.match(inner_ref, text):
-        return "inner_ref"
+    if re.match(inner_ref, text):
+        label_list.append("inner_ref")
+        # return "inner_ref"
     
-    elif re.match(lex_regex, text):
-        return "lex"
+    if re.match(lex_regex, text):
+        label_list.append("lex")
+        # return "lex"
     
-    elif re.findall(bibl, xml_str):
-        return "bibl"
+    # if re.findall(bibl, xml_str):
+        # label_list.append("bibl")
+        # return "bibl"
     
-    elif len(text.split()) < 6:  # on the text without markup!!
-        return "short"
+    if len(label_list) < 1:
+            
+        if len(text.split()) < 6:  # on the text without markup!!
+            label_list.append("short")
+            # return "short"
 
-    else:
-        return "misc"
+        else:
+            label_list.append("misc")
+            # return "misc"
+    return ", ".join(label_list)
 
 
 if __name__ == "__main__":
@@ -313,8 +329,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("mode", choices=["letter_df", "footnote_df", "id_to_edition_map"])
     parser.add_argument("outfilename", type=str, help="csv filename for the DFs and json filename for the map")
-    parser.add_argument("--infolder", default="../bullinger_source_data/letters" ,help="folder containing the letters")
-    parser.add_argument("--id_to_edition_map", default="../data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
+    parser.add_argument("--infolder", default="../../bullinger_source_data/letters" ,help="folder containing the letters")
+    parser.add_argument("--id_to_edition_map", default="../../data/id_to_edition_map.json", help="json file mapping the ids to the edition (can be created with this script, if corresponding folder is available)")
     parser.add_argument("--test_letter", default="", help="for testing cases, run only on a specific letter")
     args = parser.parse_args()
     mode = args.mode 

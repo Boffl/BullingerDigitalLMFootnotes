@@ -1,0 +1,11 @@
+date,experiment,comment,cost
+,informal_tests,,0.6853650000000001
+,gpt-4o-mini-2024-07-18-instruct_add-test,,2.544486149999998
+,gpt-4o-mini-2024-07-18-instruct_add-dev,,2.6265256499999974
+,gpt-4o-mini-2024-07-18-instruct_qa-example,faulty prompt,0.04379715000000001
+,gpt-4o-mini-2024-07-18-instruct_qa-dev,faulty prompt,1.0120045500000001
+,gpt-4o-mini-2024-07-18-get_questions-example,,0.0024838500000000006
+,gpt-4o-mini-2024-07-18-get_questions-dev,,0.08705392499999999
+,gpt-4o-mini-2024-07-18-get_questions-train,,0.6776942250000028
+,gpt-4o-mini-2024-07-18-instruct_qa-example,corrected prompt,0.04379715000000001
+,gpt-4o-2024-08-06-instruct_add-test_human_eval,,0.56273625
