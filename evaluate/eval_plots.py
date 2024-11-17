@@ -30,42 +30,73 @@ def get_plot_df(adapters_to_plot:list, len_data=3450):
                 plot_data["ppl"].append(row.score)
     return pd.DataFrame(plot_data)
 
-def plot_ppl(df):
-        # Re-plot using the UZH color map
-    fig, ax = plt.subplots(figsize=(8, 6))
+def plot_ppl(data):
+    """
+    Plots PPL values by size and adapter with a horizontal baseline for the "base" adapter,
+    and separate subplots for each size. Includes a unified legend.
 
-    # Assign colors to adapters using the UZH color map
-    adapter_colors = {adapter: uzh_colors[i] for i, adapter in enumerate(df['adapters'].unique())}
+    Parameters:
+    - data: pandas DataFrame containing 'size', 'adapters', and 'ppl' columns.
+    """
+    unique_sizes = data['size'].unique()
+    fig, axes = plt.subplots(1, len(unique_sizes), figsize=(14, 6), sharey=True)
 
-    # Adjusting the bar width and positions for grouping
-    bar_width = 0.35
-    x = range(len(df['size'].unique()))  # Positions for the groups
+    colors = {adapter: uzh_colors[i % len(uzh_colors)] for i, adapter in enumerate(data['adapters'].unique())}
+    
+    # Dictionary to store handles for legend
+    legend_handles = {}
 
-    # Create separate bars for each adapter type
-    for i, adapter in enumerate(df['adapters'].unique()):
-        subset = df[df['adapters'] == adapter]
-        ax.bar(
-            [pos + (i * bar_width) for pos in x],
-            subset['ppl'],
-            bar_width,
-            label=adapter,
-            color=adapter_colors[adapter],
-            alpha=0.9
+    for ax, size in zip(axes, unique_sizes):
+        # Subset the data for the current size
+        size_data = data[data['size'] == size]
+        
+        # Extract "base" adapter's PPL for the horizontal line
+        base_ppl = size_data[size_data['adapters'] == 'base']['ppl'].values[0]
+        base_line = ax.hlines(
+            y=base_ppl,
+            xmin=-0.5,
+            xmax=len(size_data['adapters'].unique()) - 1,
+            colors=colors['base'],
+            label="Base"
         )
-
-    # Configure the x-axis with group labels
-    ax.set_xticks([pos + bar_width / 2 for pos in x])
-    ax.set_xticklabels(df['size'].unique())
-
-    # Add labels and title
-    ax.set_xlabel("Size")
-    ax.set_ylabel("PPL")
-    ax.set_title("PPL by Size and Adapters")
-    ax.legend(title="Adapters")
-
-    # Show the plot
+        if "Base" not in legend_handles:
+            legend_handles["Base"] = base_line
+        
+        # Filter non-"base" adapters
+        non_base_adapters = size_data[size_data['adapters'] != 'base']
+        num_non_base_adapters = len(non_base_adapters)
+        bar_width = 0.8 / num_non_base_adapters if num_non_base_adapters > 0 else 0.8
+        
+        # Create bars for non-"base" adapters
+        for i, adapter in enumerate(non_base_adapters['adapters'].unique()):
+            adapter_data = non_base_adapters[non_base_adapters['adapters'] == adapter]
+            bar = ax.bar(
+                [i],
+                adapter_data['ppl'],
+                bar_width,
+                color=colors[adapter],
+                alpha=0.9
+            )
+            if adapter not in legend_handles:  # Collect handles only once
+                legend_handles[adapter] = bar[0]
+        
+        # Configure the x-axis for this subplot
+        ax.set_xticks([i for i in range(len(non_base_adapters['adapters'].unique()))])
+        ax.set_xticklabels(non_base_adapters['adapters'].unique(), rotation=45)
+        ax.set_title(f"Size: {size}")
+        ax.set_xlabel("Adapters")
+        ax.set_ylabel("PPL" if size == unique_sizes[0] else "")
+    
+    # Add a single shared legend
+    fig.legend(handles=legend_handles.values(), labels=legend_handles.keys(), 
+               title="Adapters", bbox_to_anchor=(1.05, 0.5), loc='center left')
+    
+    # Adjust layout and display the plots
     plt.tight_layout()
     plt.show()
+
+
+
 
 
 if __name__ == "__main__":
