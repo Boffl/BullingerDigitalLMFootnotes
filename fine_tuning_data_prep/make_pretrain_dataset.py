@@ -67,21 +67,20 @@ def make_zwingilana_dataset(outfilename, test=False):
             with open(os.path.join(infolder, folder, filename), "r", encoding="utf-8") as infile:
                 text = infile.read()
             
-            if "Bullinger" in text:
+
+            out_data.append({
+                "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {text}"
+            })
+
+
+            pages = text.split('\f')
+            if len(pages) == 1:
+                print(f"file {filename} in {folder} has no pagebreaks?")
+
+            for page in pages:
                 out_data.append({
-                    "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {text}"
+                    "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {page}"
                 })
-
-                if False:
-
-                    pages = text.split('\f')
-                    if len(pages) == 1:
-                        print(f"file {filename} in {folder} has no pagebreaks?")
-
-                    for page in pages:
-                        out_data.append({
-                            "text": f"Auschnitt aus der Zwingliana {issue} ({year}): \n\n {page}"
-                        })
     
     with open(os.path.join(OUT_DIR, outfilename), "w", encoding="utf-8") as outjson:
         json.dump(out_data, outjson)
@@ -117,13 +116,13 @@ def main(domain, test):
     elif domain == "EA":
         outfile_name = "pretrain_EA.json"
         make_EA_dataset(outfile_name, test)
-    elif domain == "Z":
-        outfile_name = "pretrain_Z.json"
+    elif domain == "Zwa":
+        outfile_name = "pretrain_Zwa.json"
         make_zwingilana_dataset(outfile_name, test)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("domain", choices={"bible", "EA", "Z"})
+    parser.add_argument("domain", choices={"bible", "EA", "Zwa"})
     parser.add_argument("--test", action="store_true", default=False)
     args = parser.parse_args()
 
