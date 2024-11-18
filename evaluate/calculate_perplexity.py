@@ -1,5 +1,5 @@
 import sys, os, json
-import math, csv
+import math, csv, re
 import torch
 import time
 import argparse
@@ -34,14 +34,43 @@ def monitor_gpu(interval, stop_monitoring):
             logging.info(log_message)
         time.sleep(interval)
 
-def get_data(data_path):
-    """get the fns from the dev set in a list"""
+def contains_bible(xml_footnote):
+    """return true if footnote contains bible reference"""
+    bible_ref = r"(Vgl\. |Siehe )?<cit[^>]+?type=\"bible\""
+    return bool(re.search(bible_ref, xml_footnote))
+
+def contains_source(xml_footnote, source):
+    """return true if source is quoted in the reference"""
+    quotes = re.findall(rf"<bibl.*?>{source}</bibl>", xml_footnote)
+    return bool(quotes)
+
+def get_data(data_path, filter=""):
+    """get the fns from the dev set in a list
+    filter can be either 'bible', 'EA', 'Zwa' or 'Z'"""
     footnote_df = pd.read_csv(os.path.join(data_path, "footnote_downsized_df.csv"))
 
     with open(os.path.join(data_path, "strat_sample.json"), "r", encoding="utf-8") as injson:
         strat_sample = json.load(injson)
     dev_set_ids = [int(id) for id in strat_sample["dev"]]
     dev_set_FNs = footnote_df[footnote_df["letter_id"].isin(dev_set_ids)]["xml_footnote"]
+
+    if filter:
+        if filter not in ["bible", "EA", "Zwa", "Z"]:
+            print("Filter not valid, skipping filtering")
+        else: 
+            orig_len = len(dev_set_FNs)
+            if filter == "bible":
+                dev_set_FNs = [fn for fn in dev_set_FNs if contains_bible(fn)]
+            else:
+                dev_set_FNs = [fn for fn in dev_set_FNs if contains_source(fn, filter)]
+            
+            filtered_len = len(dev_set_FNs)
+
+            print(f"Number of rows before filtering: {orig_len}")
+            print(f"Number of rows after filtering: {filtered_len}")
+
+
+
     return [remove_outer_note_tag(fn) for fn in dev_set_FNs]
 
 
@@ -132,7 +161,7 @@ def main(args):
         adapter_name = "base"
 
     # testing dataset:
-    dataset = get_data(args.dir)
+    dataset = get_data(args.dir, filter=args.filter_dataset)
     if args.test:
         dataset = dataset[:args.test]
     print("len dataset: ", len(dataset))
@@ -163,7 +192,8 @@ if __name__=="__main__":
     default=[],
     help="A list of adapters, if multiple are specified, they are combined (default is an empty list)"
   )
-  parser.add_argument("--batch_size", type=int, default=1, help="seems to affect the score, idk why")
+  parser.add_argument("--batch_size", type=int, default=1, help="heavily affects score with quantized models, though")
+  parser.add_argument("--filter_dataset", default="", choices=["bible", "EA", "Zwa", "Z"])
   parser.add_argument("--dir", default = "/data/nbauer/data", help="Directory where the data are stored, default=/data/nbauer/data")
   parser.add_argument("--log_gpu_usage", default="", help="Log-file for gpu-usage, no logging if left empty")
   parser.add_argument("--test", default=0, type=int, help="run only on a partition of the data")
