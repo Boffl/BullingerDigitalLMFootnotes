@@ -30,6 +30,24 @@ def get_plot_df(adapters_to_plot:list, len_data=3450):
                 plot_data["ppl"].append(row.score)
     return pd.DataFrame(plot_data)
 
+def get_plot_df_subsets(adapters_to_plot:list, subsets_to_plot:list):
+    """different subsets of the dev-set """
+
+    subset_map = {
+        "Z": 23,
+        "Zwa": 3,
+        "bible": 422,
+        "EA": 32
+    }
+    full_df = pd.DataFrame()
+
+    for subset in subsets_to_plot:
+        subset_df = get_plot_df(adapters_to_plot, len_data=subset_map[subset])
+        subset_df["subset"] = subset
+        full_df = pd.concat([full_df,subset_df])
+    return full_df
+
+
 def plot_ppl(data):
     """
     Plots PPL values by size and adapter with a horizontal baseline for the "base" adapter,
