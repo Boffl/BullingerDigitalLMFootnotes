@@ -20,7 +20,8 @@ adapter_map = {
   "qa": "instruct-qa",
   "add": "instruct-add",
   "bible": "pretrain-bible",
-  "Zwa": "pretrain-Zwa"
+  "Zwa": "pretrain-Zwa",
+  "Z": "pretrain-Z"
 
 }
 
