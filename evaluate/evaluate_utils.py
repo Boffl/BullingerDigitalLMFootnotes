@@ -104,11 +104,51 @@ class genEvaluator():
       self.df[column] = values
     return self.df
     
-      
-     
-     
-     
-      
+
+class XMLTokenizer:
+    def __init__(self, xml_string):
+        """
+        Initializes the XMLTokenizer with the XML string to be tokenized.
+        """
+        self.xml_string = xml_string
+
+    def tokenize(self):
+        """
+        Tokenizes the XML document into a list of tokens, keeping only tag names
+        (with the angle brackets <>) and splitting text content based on whitespace.
+        
+        Returns:
+            List of tokens (tag names and text).
+        """
+        tokens = []
+        
+        # Regular expression to match XML tags
+        tag_pattern = re.compile(r"<(/?)([a-zA-Z0-9_:-]+)[^>]*>")
+        
+        pos = 0
+        for match in tag_pattern.finditer(self.xml_string):
+            start, end = match.span()
+            
+            # Add text before the tag, split by whitespace
+            if pos < start:
+                text = self.xml_string[pos:start].strip()
+                if text:
+                    tokens.extend(text.split())
+            
+            # Add the tag with angle brackets
+            tag_name = f"</{match.group(2)}>" if match.group(1) == "/" else f"<{match.group(2)}>"
+            tokens.append(tag_name)
+            
+            pos = end
+        
+        # Add any remaining text after the last tag
+        if pos < len(self.xml_string):
+            text = self.xml_string[pos:].strip()
+            if text:
+                tokens.extend(text.split())
+        
+        return tokens
+ 
 
 
 def remove_outer_note_tag(xml_str):
