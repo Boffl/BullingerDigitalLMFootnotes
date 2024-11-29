@@ -48,25 +48,32 @@ def get_plot_df_subsets(adapters_to_plot:list, subsets_to_plot:list):
     return full_df
 
 
-def plot_ppl(data):
+def plot_ppl(data, figsize=(10, 8)):
     """
     Plots PPL values by size and adapter with a horizontal baseline for the "base" adapter,
     and separate subplots for each size. Includes a unified legend.
 
     Parameters:
     - data: pandas DataFrame containing 'size', 'adapters', and 'ppl' columns.
+    - If only one 'size' value, the DF needs to contain a 'subset' column, with different subsets
     """
     unique_sizes = data['size'].unique()
-    fig, axes = plt.subplots(1, len(unique_sizes), figsize=(14, 6), sharey=True)
+    category_name = "size"
+    if len(unique_sizes) == 1:
+        unique_sizes = data["subset"].unique()
+        category_name = "subset"
+    fig, axes = plt.subplots(1, len(unique_sizes), figsize=figsize, sharey=True)
 
-    colors = {adapter: uzh_colors[i % len(uzh_colors)] for i, adapter in enumerate(data['adapters'].unique())}
+    # colors = {adapter: uzh_colors[i % len(uzh_colors)] for i, adapter in enumerate(data['adapters'].unique())}
+    colors = {adapter: uzh_colors[0] for adapter in data["adapters"].unique()}
+    colors["base"] = uzh_colors[-1]
     
     # Dictionary to store handles for legend
     legend_handles = {}
 
-    for ax, size in zip(axes, unique_sizes):
+    for ax, cat in zip(axes, unique_sizes):
         # Subset the data for the current size
-        size_data = data[data['size'] == size]
+        size_data = data[data[category_name] == cat]
         
         # Extract "base" adapter's PPL for the horizontal line
         base_ppl = size_data[size_data['adapters'] == 'base']['ppl'].values[0]
@@ -78,15 +85,16 @@ def plot_ppl(data):
             label="Base"
         )
         if "Base" not in legend_handles:
-            legend_handles["Base"] = base_line
+            legend_handles["Baseline"] = base_line
         
         # Filter non-"base" adapters
         non_base_adapters = size_data[size_data['adapters'] != 'base']
         num_non_base_adapters = len(non_base_adapters)
-        bar_width = 0.8 / num_non_base_adapters if num_non_base_adapters > 0 else 0.8
+        bar_width = 0.8 # 0.8 / num_non_base_adapters if num_non_base_adapters > 0 else 0.8
         
         # Create bars for non-"base" adapters
-        for i, adapter in enumerate(non_base_adapters['adapters'].unique()):
+        adapter_list_sorted = sorted(list(non_base_adapters['adapters'].unique()))  # sort adapters, thus they show up in the same order
+        for i, adapter in enumerate(adapter_list_sorted):
             adapter_data = non_base_adapters[non_base_adapters['adapters'] == adapter]
             bar = ax.bar(
                 [i],
@@ -95,22 +103,29 @@ def plot_ppl(data):
                 color=colors[adapter],
                 alpha=0.9
             )
-            if adapter not in legend_handles:  # Collect handles only once
-                legend_handles[adapter] = bar[0]
+            if "LORA Adapters" not in legend_handles:  # Collect handles only once
+                legend_handles["LORA Adapters"] = bar[0]
         
         # Configure the x-axis for this subplot
-        ax.set_xticks([i for i in range(len(non_base_adapters['adapters'].unique()))])
-        ax.set_xticklabels(non_base_adapters['adapters'].unique(), rotation=45)
-        ax.set_title(f"Size: {size}")
-        ax.set_xlabel("Adapters")
-        ax.set_ylabel("PPL" if size == unique_sizes[0] else "")
+        ax.set_xticks([i for i in range(len(adapter_list_sorted))])
+        ax.set_xticklabels(adapter_list_sorted, rotation=45)
+        ax.set_title(f"{category_name}: {cat}".title())
+        ax.set_xlabel("")
+        ax.set_ylabel("PPL" if cat == unique_sizes[0] else "")
+        ax.grid(True, axis="y", linestyle='--', alpha=0.6)
     
-    # Add a single shared legend
-    fig.legend(handles=legend_handles.values(), labels=legend_handles.keys(), 
-               title="Adapters", bbox_to_anchor=(1.05, 0.5), loc='center left')
-    
+      # Add a single shared legend at the bottom
+    fig.legend(
+        handles=legend_handles.values(),
+        labels=legend_handles.keys(),
+        title="",
+        loc='lower center',
+        ncol=len(legend_handles),  # Arrange legend in a single row
+        bbox_to_anchor=(0.5, -0.05)
+    )
     # Adjust layout and display the plots
     plt.tight_layout()
+    return fig
     plt.show()
 
 
