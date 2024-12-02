@@ -318,8 +318,28 @@ def compute_bleu_rouge(pred_ref_pair):
   # result_rouge = rouge.compute(predictions=[pred], references=[ref])["rouge1"]
   return (result_bleu, result_rouge)
 
+def remove_xml_attributes(xml_string):
+    """
+    Removes all attributes from XML tags, leaving only the tag names.
+
+    Args:
+        xml_string (str): The XML string to process.
+
+    Returns:
+        str: The XML string with attributes removed.
+    """
+    # Regex to match XML tags with attributes
+    tag_with_attributes_pattern = r"<(\w+)(\s[^>]*)?>"
+    
+    # Replace the tags with attributes with tags having only their name
+    cleaned_xml = re.sub(tag_with_attributes_pattern, r"<\1>", xml_string)
+    
+    return cleaned_xml
+
 
 def compute_bertscore(predictions, references, batch_size=2):
+  predictions = [remove_xml_attributes(prediction) for prediction in predictions]
+  references = [remove_xml_attributes(reference) for reference in references]
 
   results = {"precision": [], "recall": [], "f1": []}
   with tqdm(total=len(predictions)) as pbar:
