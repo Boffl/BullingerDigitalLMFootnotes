@@ -6,9 +6,15 @@ import evaluate
 import bert_score
 from tqdm import tqdm
 import multiprocessing
+from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import SmoothingFunction
+from rouge_score.rouge_scorer import RougeScorer
 
-bleu = load("bleu")
-rouge = load("rouge")
+from nltk.corpus import stopwords
+from nltk.stem.snowball import GermanStemmer
+
+# bleu = load("bleu")
+# rouge = load("rouge")
 bertscore = load("bertscore")
 ###########
 # Calculating BERT scores
@@ -104,11 +110,120 @@ class genEvaluator():
       self.df[column] = values
     return self.df
     
-      
-     
-     
-     
-      
+punctuation_symbols = [
+    '.',  # Period, Full Stop
+    ',',  # Comma
+    ';',  # Semicolon
+    ':',  # Colon
+    '!',  # Exclamation Mark
+    '?',  # Question Mark
+    "'",  # Apostrophe
+    '"',  # Double Quotation Mark
+    '‘',  # Single Left Quote
+    '’',  # Single Right Quote
+    '“',  # Double Left Quote
+    '”',  # Double Right Quote
+    '-',  # Hyphen
+    '–',  # En Dash
+    '—',  # Em Dash
+    '_',  # Underscore
+    '(',  # Left Parenthesis
+    ')',  # Right Parenthesis
+    '[',  # Left Square Bracket
+    ']',  # Right Square Bracket
+    '{',  # Left Curly Brace
+    '}',  # Right Curly Brace
+    '<',  # Less-than/Angle Bracket
+    '>',  # Greater-than/Angle Bracket
+    '|',  # Vertical Bar (Pipe)
+    '\\', # Backslash
+    '/',  # Forward Slash
+    '+',  # Plus Sign
+    '-',  # Minus Sign
+    '=',  # Equals Sign
+    '*',  # Asterisk
+    '&',  # Ampersand
+    '%',  # Percent Sign
+    '@',  # At Symbol
+    '#',  # Hash/Number Sign
+    '$',  # Dollar Sign
+    '^',  # Caret
+    '~',  # Tilde
+    '`',  # Backtick
+]
+
+
+
+### class to pass to the rouge calculator
+
+class XMLTokenizer:
+    def __init__(self, stemm=False):
+        """
+        Initializes the XMLTokenizer with the XML string to be tokenized.
+        """
+        self.stemm = stemm
+        if self.stemm:
+            self.stemmer = GermanStemmer()
+            self.stop_words = list(set(stopwords.words('german'))) + punctuation_symbols
+
+    def tokenize(self, xml_string):
+        """
+        Tokenizes the XML document into a list of tokens, keeping only tag names
+        (with the angle brackets <>) and splitting text content based on whitespace
+        and punctuation.
+        
+        When `stemm` is True, performs stemming and removes German stop-words
+        from the text content.
+        
+        Returns:
+            List of tokens (tag names, text, and punctuation as separate tokens).
+        """
+        tokens = []
+        
+        # Regular expression to match XML tags
+        tag_pattern = re.compile(r"<(/?)([a-zA-Z0-9_:-]+)[^>]*>")
+        # Regular expression to split text into words and punctuation
+        text_split_pattern = re.compile(r'(\W)')  # Matches non-word characters as separate tokens
+        
+        pos = 0
+        for match in tag_pattern.finditer(xml_string):
+            start, end = match.span()
+            
+            # Add text before the tag, splitting by whitespace and punctuation
+            if pos < start:
+                text = xml_string[pos:start].strip()
+                if text:
+                    # Use regex to split the text into words and punctuation
+                    text_tokens = [
+                        token for token in text_split_pattern.split(text) if token.strip()
+                    ]
+                    
+                    tokens.extend(text_tokens)
+            
+            # Add the tag with angle brackets
+            tag_name = f"</{match.group(2)}>" if match.group(1) == "/" else f"<{match.group(2)}>"
+            tokens.append(tag_name)
+            
+            pos = end
+        
+        # Add any remaining text after the last tag
+        if pos < len(xml_string):
+            text = xml_string[pos:].strip()
+            if text:
+                # Use regex to split the text into words and punctuation
+                text_tokens = [
+                    token for token in text_split_pattern.split(text) if token.strip()
+                ]
+                
+                
+                tokens.extend(text_tokens)
+        if self.stemm:
+           tokens = [self.stemmer.stem(token) for token in tokens if token.lower() not in self.stop_words]
+        
+        return tokens
+
+
+ 
 
 
 def remove_outer_note_tag(xml_str):
@@ -180,18 +295,51 @@ def evaluate_with_and_without(preds, refs, batch_size=64, processes=8):
 
 def compute_bleu_rouge(pred_ref_pair):
   pred, ref = pred_ref_pair
+
+  # caclulate Bleu
+  # first tokenize
+  tokenizer = XMLTokenizer(stemm=True)
+  pred_tok = tokenizer.tokenize(pred)
+  ref_tok = tokenizer.tokenize(ref)
+  smoothing_function = SmoothingFunction().method3  # NIST
+
   try:
-    result_bleu = bleu.compute(predictions=[pred], references=[ref])["bleu"]
+    result_bleu = sentence_bleu([ref_tok], pred_tok, smoothing_function=smoothing_function)
   except ZeroDivisionError:
       if pred == "":  
          # prediction can be an empty string, for example if original is markup only and removing it leaves it empty
          # unfortunatelly BLEU does not handle this special case itself (BERT prints a warning, Rouge just silently assigns 0)
          result_bleu = 0  
-  result_rouge = rouge.compute(predictions=[pred], references=[ref])["rouge1"]
+
+  # calculate rouge:
+  tokenizer = XMLTokenizer(stemm=True)
+  rouge = RougeScorer(["rouge1"], tokenizer=tokenizer)
+  result_rouge = rouge.score(ref, pred)["rouge1"].fmeasure
+  # result_rouge = rouge.compute(predictions=[pred], references=[ref])["rouge1"]
   return (result_bleu, result_rouge)
+
+def remove_xml_attributes(xml_string):
+    """
+    Removes all attributes from XML tags, leaving only the tag names.
+
+    Args:
+        xml_string (str): The XML string to process.
+
+    Returns:
+        str: The XML string with attributes removed.
+    """
+    # Regex to match XML tags with attributes
+    tag_with_attributes_pattern = r"<(\w+)(\s[^>]*)?>"
+    
+    # Replace the tags with attributes with tags having only their name
+    cleaned_xml = re.sub(tag_with_attributes_pattern, r"<\1>", xml_string)
+    
+    return cleaned_xml
 
 
 def compute_bertscore(predictions, references, batch_size=2):
+  predictions = [remove_xml_attributes(prediction) for prediction in predictions]
+  references = [remove_xml_attributes(reference) for reference in references]
 
   results = {"precision": [], "recall": [], "f1": []}
   with tqdm(total=len(predictions)) as pbar:

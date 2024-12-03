@@ -256,6 +256,7 @@ def plot_fn_per_sent_by_edition(letter_df):
     # Custom grid
     ax.grid(True, axis="y", linestyle='--', alpha=0.6)
     ax.grid(True, axis="x", linestyle='', alpha=0.6)
+    ax.set_xlabel("Volume")
     return fig
 
 def plot_fn_len_and_density(footnote_df, letter_df):
@@ -292,7 +293,7 @@ def plot_combined_footnote_and_sentence(footnote_df, letter_df, by_edition=True,
         fig_height = 6
     else:
         fig_heigth = 12
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 12))  # Adjust the figure size
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))  # Adjust the figure size
 
     if by_edition == True:
         by = "edition"
@@ -354,6 +355,7 @@ def plot_footnote_length_by_edition(footnote_df):
     # Custom grid
     ax.grid(True, axis="y", linestyle='--', alpha=0.6)
     ax.grid(True, axis="x", linestyle='', alpha=0.6)
+    ax.set_xlabel("Volume")
     return fig
 
 def plot_combined_label_trends(df, label_colors, labels_frequent, labels_infrequent):
@@ -373,6 +375,7 @@ def plot_combined_label_trends(df, label_colors, labels_frequent, labels_infrequ
     
     # Create the figure with two subplots (side by side)
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))  # Share y-axis
+    
 
     # Plot frequent labels on the first axis
     label_trends(df, label_colors, labels_frequent, ax=ax1, title='Frequent Labels')
@@ -397,6 +400,8 @@ def plot_combined_label_trends(df, label_colors, labels_frequent, labels_infrequ
                title="Labels", bbox_to_anchor=(0.85, 0.5), loc='center left')
     ax1.legend().remove()
     ax2.legend().remove()
+    ax1.set_xlabel("Volume")
+    ax2.set_xlabel("Volume")
 
     # Tight layout and return the figure
     plt.tight_layout(rect=[0, 0, 0.85, 1])  # Adjust layout to fit legend
