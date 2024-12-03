@@ -165,7 +165,7 @@ def plot_model_metrics(df, model_size, bert_ylim=None):
                 [pos + (idx - len(bars) / 2) * bar_width for pos in x],
                 values,
                 bar_width,
-                label=model.split('-')[-1].capitalize()  # Simplify model labels
+                label="-".join(model.split('-')[2:]).capitalize()  # Simplify model labels
             )
 
         # Setting titles and labels
@@ -184,6 +184,93 @@ def plot_model_metrics(df, model_size, bert_ylim=None):
     plt.tight_layout(rect=[0, 0, 1, 0.95])
     return fig
 
+def plot_model_metrics_with_ci(avg_df, model_size, std_df=None, bert_ylim=None):
+    """
+    Plot metrics (BLEU, ROUGE, BERT) for a given model size with optional 95% confidence intervals.
+    
+    Parameters:
+        avg_df (pd.DataFrame): DataFrame containing the average metrics.
+        std_df (pd.DataFrame, optional): DataFrame containing the standard deviations of the metrics.
+                                          If None, CIs are not included.
+        model_size (str): The model size to filter ('8B' or '70B').
+        bert_ylim (tuple, optional): Tuple specifying the y-axis range for the BERT metric (e.g., (0.4, 0.75)).
+    """
+    colors = ['#0028A5',  # UZH Blue
+              '#FFC845',  # UZH Gold
+              '#BF0D3E',  # UZH Berry
+              '#000000']  # UZH Black
+
+    if model_size is None:
+        raise ValueError("You must provide a model_size ('8B' or '70B').")
+    
+    # Filter models based on size
+    models = [model for model in avg_df.index if model_size in model]
+    metrics = ["bleu", "rouge", "bert"]
+
+    # Setting up subplots for metrics
+    fig, axes = plt.subplots(1, 3, figsize=(18, 6), sharey=False)
+
+    for ax, metric in zip(axes, metrics):
+        bar_width = 0.2
+        x = [0, 1]  # Index positions for "Without Markup" and "With Markup"
+
+        # Extracting data for each model
+        bars_avg = {}
+        bars_std = {}
+        for model in models:
+            bars_avg[model] = [
+                avg_df.loc[model, f"{metric}_without"],
+                avg_df.loc[model, f"{metric}_with"]
+            ]
+            if std_df is not None:
+                bars_std[model] = [
+                    std_df.loc[model, f"{metric}_without"],
+                    std_df.loc[model, f"{metric}_with"]
+                ]
+
+        # Plotting bars for each model with or without error bars
+        for idx, (model, values_avg) in enumerate(bars_avg.items()):
+            if std_df is not None:
+                values_std = bars_std[model]
+                error = [1.96 * std / (len(models)**0.5) for std in values_std]  # 95% CI
+            else:
+                error = None
+
+            ax.bar(
+                [pos + (idx - len(bars_avg) / 2) * bar_width for pos in x],
+                values_avg,
+                bar_width,
+                yerr=error,
+                capsize=5 if error else 0,
+                # color=colors[idx % len(colors)],  # Cycle through UZH colors
+                label="-".join(model.split('-')[2:]).title()  # Simplify model labels
+            )
+
+        # Setting titles and labels
+        ax.set_title(f"{metric.upper()}")
+        ax.set_xticks(x)
+        ax.set_xticklabels(["Without Markup", "With Markup"])
+        ax.set_ylabel("")
+        ax.grid(True, axis="y", linestyle='--', alpha=0.6)
+
+        # Adjust y-axis for BERT metric if provided
+        if metric == "bert" and bert_ylim:
+            ax.set_ylim(bert_ylim)
+
+        # remove legend from subplots
+        ax.legend().remove()
+    
+    # show lengend once (the same for all)
+    handles, labels = ax.get_legend_handles_labels()
+    fig.legend([handle for handle in handles], 
+            [label for label in labels], 
+            loc='lower center',
+        ncol=len(handles),  # Arrange legend in a single row
+        bbox_to_anchor=(0.5, -0.05))
+
+    # plt.suptitle(f"({model_size} LLaMA Models)")
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
+    return fig
 
 
 
