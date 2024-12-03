@@ -128,6 +128,62 @@ def plot_ppl(data, figsize=(10, 8)):
     return fig
     plt.show()
 
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def plot_model_metrics(df, model_size, bert_ylim=None):
+    """
+    Plot metrics (BLEU, ROUGE, BERT) for a given model size from the provided DataFrame.
+    
+    Parameters:
+        df (pd.DataFrame): DataFrame containing the metrics. Created with the compare function
+        model_size (str): The model size to filter ('8B' or '70B').
+        bert_ylim (tuple, optional): Tuple specifying the y-axis range for the BERT metric (e.g., (0.4, 0.75)).
+    """
+    # Filter models based on size
+    models = [model for model in df.index if model_size in model]
+    metrics = ["bleu", "rouge", "bert"]
+
+    # Setting up subplots for metrics
+    fig, axes = plt.subplots(1, 3, figsize=(18, 6), sharey=False)
+
+    for ax, metric in zip(axes, metrics):
+        bar_width = 0.2
+        x = [0, 1]  # Index positions for "Without Markup" and "With Markup"
+
+        # Extracting data for each model
+        bars = {}
+        for model in models:
+            bars[model] = [
+                df.loc[model, f"{metric}_without"],
+                df.loc[model, f"{metric}_with"]
+            ]
+
+        # Plotting bars for each model
+        for idx, (model, values) in enumerate(bars.items()):
+            ax.bar(
+                [pos + (idx - len(bars) / 2) * bar_width for pos in x],
+                values,
+                bar_width,
+                label=model.split('-')[-1].capitalize()  # Simplify model labels
+            )
+
+        # Setting titles and labels
+        ax.set_title(f"{metric.upper()} Metric ({model_size} Models)")
+        ax.set_xticks(x)
+        ax.set_xticklabels(["Without Markup", "With Markup"])
+        ax.set_ylabel("Metric Value")
+
+        # Adjust y-axis for BERT metric if provided
+        if metric == "bert" and bert_ylim:
+            ax.set_ylim(bert_ylim)
+
+        ax.legend()
+
+    plt.suptitle(f"Metrics Grouped by Markup Type ({model_size} LLaMA Models)")
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
+    return fig
+
 
 
 
