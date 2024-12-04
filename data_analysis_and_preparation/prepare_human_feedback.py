@@ -4,34 +4,41 @@ from openpyxl import load_workbook
 from openpyxl.styles import PatternFill
 
 
-def get_data_from_excel(filepath):
-    wb = load_workbook(filepath)
-    ws = wb["questionnaire"]  # Use the active sheet or specify by name with wb['SheetName']
+def get_data_from_excel(data_wb, key_wb):
+    """
+    data_wb: filepath to excel file with the evaluations, as received from the evaluators
+    key_wv: filepath to excel file that contains the letter ids and model names"""
+    wb = load_workbook(data_wb)
+    wb_key = load_workbook(key_wb)
+    ws = wb["questionnaire"]  
+    ws_key = wb_key["questionnaire"]
     data = {
         "letter_id": [],
         "n_footnote": [],
         "model": [],
         "text_footnote": [],
-        "usefullness": [],
         "style": [],
+        "usefullness": [],
         "correctness": [],
-        "fact_check": []
+        "fact_check": [],
+        "commentary": []
     }
 
     for row_num in range(2, ws.max_row+1):
-        id = ws.cell(row=row_num, column=1).value
+        id = ws_key.cell(row=row_num, column=1).value
         if id:
             id_split = id.split("_")
             continue
         else:
             data["letter_id"].append(id_split[0])
             data["n_footnote"].append(id_split[1])
-            data["model"].append(ws.cell(row=row_num, column=2).value)
-            data["text_footnote"].append(ws.cell(row=row_num, column=4).value)
-            data["usefullness"].append(ws.cell(row=row_num, column=5).value)
-            data["style"].append(ws.cell(row=row_num, column=6).value)
-            data["correctness"].append(ws.cell(row=row_num, column=7).value)
-            data["fact_check"].append(ws.cell(row=row_num, column=8).value)
+            data["model"].append(ws_key.cell(row=row_num, column=2).value)
+            data["text_footnote"].append(ws.cell(row=row_num, column=2).value)
+            data["usefullness"].append(ws.cell(row=row_num, column=4).value)
+            data["style"].append(ws.cell(row=row_num, column=3).value)
+            data["correctness"].append(ws.cell(row=row_num, column=5).value)
+            data["fact_check"].append(ws.cell(row=row_num, column=6).value)
+            data["commentary"].append(ws.cell(row=row_num, column=7).value)
     
     return pd.DataFrame(data)
 
