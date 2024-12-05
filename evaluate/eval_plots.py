@@ -182,7 +182,7 @@ def plot_model_metrics(df, model_size, bert_ylim=None):
 
     plt.suptitle(f"Metrics Grouped by Markup Type ({model_size} LLaMA Models)")
     plt.tight_layout(rect=[0, 0, 1, 0.95])
-    return fig
+    return fig, axes
 
 def plot_model_metrics_with_ci(avg_df, model_size, std_df=None, bert_ylim=None):
     """
